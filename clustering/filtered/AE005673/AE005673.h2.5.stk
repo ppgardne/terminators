@@ -1,0 +1,2766 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CC_0442 WT 0.70
+#=GS CC_0836 WT 0.02
+#=GS CC_0512 WT 0.02
+#=GS CC_1042 WT 1.15
+#=GS CC_3669 WT 0.90
+#=GS CC_1554 WT 0.71
+#=GS CC_1584 WT 0.24
+#=GS CC_3047 WT 0.62
+#=GS CC_1506 WT 0.87
+#=GS CC_2993 WT 0.47
+#=GS CC_1206 WT 0.47
+#=GS CC_1293 WT 0.02
+#=GS CC_2079 WT 0.02
+#=GS CC_1620 WT 0.07
+#=GS CC_0685 WT 1.27
+#=GS CC_2160 WT 0.83
+#=GS CC_0066 WT 0.78
+#=GS CC_3756 WT 1.69
+#=GS CC_3670 WT 1.21
+#=GS CC_0698 WT 1.06
+#=GS CC_2225 WT 0.35
+#=GS CC_2469 WT 0.16
+#=GS CC_0383 WT 0.02
+#=GS CC_2224 WT 1.34
+#=GS CC_2848 WT 1.19
+#=GS CC_0456 WT 0.19
+#=GS CC_3201 WT 1.43
+#=GS CC_0200 WT 0.68
+#=GS CC_1469 WT 0.02
+#=GS CC_2924 WT 0.96
+#=GS CC_1507 WT 0.87
+#=GS CC_0655 WT 0.43
+#=GS CC_0088 WT 0.89
+#=GS CC_1234 WT 0.02
+#=GS CC_1724 WT 1.01
+#=GS CC_1409 WT 1.14
+#=GS CC_0715 WT 0.53
+#=GS CC_3118 WT 0.76
+#=GS CC_2590 WT 0.09
+#=GS CC_0443 WT 0.80
+#=GS CC_3417 WT 0.58
+#=GS CC_0034 WT 1.08
+#=GS CC_2867 WT 0.35
+#=GS CC_0197 WT 0.95
+#=GS CC_0970 WT 0.69
+#=GS CC_3199 WT 1.45
+#=GS CC_3739 WT 0.34
+#=GS CC_0322 WT 0.85
+#=GS CC_3663 WT 0.67
+#=GS CC_2353 WT 0.19
+#=GS CC_2948 WT 1.09
+#=GS CC_3416 WT 1.05
+#=GS CC_3613 WT 0.80
+#=GS CC_1240 WT 0.81
+#=GS CC_2536 WT 1.29
+#=GS CC_2819 WT 1.22
+#=GS CC_1338 WT 0.94
+#=GS CC_2658 WT 0.37
+#=GS CC_3297 WT 1.10
+#=GS CC_0129 WT 1.09
+#=GS CC_2841 WT 0.29
+#=GS CC_2094 WT 1.28
+#=GS CC_0076 WT 0.69
+#=GS CC_0661 WT 1.10
+#=GS CC_1721 WT 1.09
+#=GS CC_3278 WT 0.09
+#=GS CC_0169 WT 0.87
+#=GS CC_0359 WT 1.46
+#=GS CC_3612 WT 1.14
+#=GS CC_2842 WT 0.02
+#=GS CC_2188 WT 0.02
+#=GS CC_1289 WT 1.10
+#=GS CC_0365 WT 0.70
+#=GS CC_0858 WT 0.02
+#=GS CC_0626 WT 0.68
+#=GS CC_0102 WT 1.21
+#=GS CC_2962 WT 1.38
+#=GS CC_1363 WT 0.86
+#=GS CC_3552 WT 0.96
+#=GS CC_3035 WT 1.32
+#=GS CC_1397 WT 1.46
+#=GS CC_0991 WT 0.96
+#=GS CC_0804 WT 1.06
+#=GS CC_2868 WT 0.02
+#=GS CC_3648 WT 1.40
+#=GS CC_2727 WT 0.68
+#=GS CC_1162 WT 1.07
+#=GS CC_3382 WT 0.49
+#=GS CC_3760 WT 0.95
+#=GS CC_3370 WT 1.20
+#=GS CC_0764 WT 0.93
+#=GS CC_1325 WT 1.20
+#=GS CC_3069 WT 0.80
+#=GS CC_2354 WT 1.22
+#=GS CC_3607 WT 1.32
+#=GS CC_3189 WT 1.01
+#=GS CC_1667 WT 1.19
+#=GS CC_3510 WT 1.11
+#=GS CC_2390 WT 1.16
+#=GS CC_2371 WT 0.95
+#=GS CC_0539 WT 1.33
+#=GS CC_3298 WT 1.18
+#=GS CC_3717 WT 1.26
+#=GS CC_3371 WT 1.11
+#=GS CC_2364 WT 0.16
+#=GS CC_0140 WT 1.23
+#=GS CC_1923 WT 1.22
+#=GS CC_2029 WT 1.55
+#=GS CC_3098 WT 0.80
+#=GS CC_3021 WT 0.96
+#=GS CC_2095 WT 1.46
+#=GS CC_1142 WT 0.91
+#=GS CC_1508 WT 0.79
+#=GS CC_0474 WT 0.65
+#=GS CC_2173 WT 1.20
+#=GS CC_1342 WT 0.53
+#=GS CC_3742 WT 1.12
+#=GS CC_3291 WT 0.89
+#=GS CC_2245 WT 1.27
+#=GS CC_0699 WT 0.98
+#=GS CC_3402 WT 0.98
+#=GS CC_1677 WT 1.42
+#=GS CC_3664 WT 0.76
+#=GS CC_0384 WT 0.02
+#=GS CC_2366 WT 1.68
+#=GS CC_1654 WT 1.17
+#=GS CC_0028 WT 1.14
+#=GS CC_2300 WT 1.48
+#=GS CC_1653 WT 1.18
+#=GS CC_0984 WT 1.20
+#=GS CC_2639 WT 0.81
+#=GS CC_3699 WT 1.26
+#=GS CC_1621 WT 0.25
+#=GS CC_1197 WT 0.80
+#=GS CC_2109 WT 1.44
+#=GS CC_2294 WT 0.90
+#=GS CC_1471 WT 1.43
+#=GS CC_0653 WT 1.15
+#=GS CC_3393 WT 0.98
+#=GS CC_3620 WT 1.41
+#=GS CC_1843 WT 0.43
+#=GS CC_3463 WT 1.49
+#=GS CC_0050 WT 1.13
+#=GS CC_0414 WT 0.90
+#=GS CC_3462 WT 1.19
+#=GS CC_0765 WT 0.89
+#=GS CC_0944 WT 1.48
+#=GS CC_1571 WT 1.14
+#=GS CC_2044 WT 0.19
+#=GS CC_0878 WT 0.49
+#=GS CC_2895 WT 0.60
+#=GS CC_2538 WT 1.36
+#=GS CC_1449 WT 1.30
+#=GS CC_2066 WT 1.35
+#=GS CC_2522 WT 0.86
+#=GS CC_1906 WT 1.05
+#=GS CC_2994 WT 0.94
+#=GS CC_0781 WT 1.43
+#=GS CC_2470 WT 0.63
+#=GS CC_0669 WT 1.30
+#=GS CC_1460 WT 1.28
+#=GS CC_3585 WT 1.12
+#=GS CC_2187 WT 0.02
+#=GS CC_3743 WT 0.98
+#=GS CC_0721 WT 0.76
+#=GS CC_3494 WT 0.82
+#=GS CC_2935 WT 1.29
+#=GS CC_1496 WT 1.11
+#=GS CC_1877 WT 1.15
+#=GS CC_2919 WT 1.60
+#=GS CC_1296 WT 1.12
+#=GS CC_0792 WT 0.80
+#=GS CC_2269 WT 1.81
+#=GS CC_0047 WT 1.20
+#=GS CC_1201 WT 1.13
+#=GS CC_3394 WT 0.98
+#=GS CC_3013 WT 0.80
+#=GS CC_0266 WT 1.38
+#=GS CC_2051 WT 0.99
+#=GS CC_2916 WT 0.39
+#=GS CC_2893 WT 0.02
+#=GS CC_1881 WT 0.99
+#=GS CC_0044 WT 1.37
+#=GS CC_0819 WT 1.14
+#=GS CC_3303 WT 0.67
+#=GS CC_1922 WT 0.97
+#=GS CC_0497 WT 1.34
+#=GS CC_0104 WT 1.20
+#=GS CC_1873 WT 0.62
+#=GS CC_1323 WT 0.99
+#=GS CC_1320 WT 0.39
+#=GS CC_0401 WT 1.15
+#=GS CC_0995 WT 0.02
+#=GS CC_3161 WT 1.13
+#=GS CC_1273 WT 0.57
+#=GS CC_1106 WT 1.26
+#=GS CC_1963 WT 0.90
+#=GS CC_0389 WT 1.02
+#=GS CC_1085 WT 0.92
+#=GS CC_3068 WT 0.72
+#=GS CC_1364 WT 0.85
+#=GS CC_3604 WT 0.02
+#=GS CC_1185 WT 1.43
+#=GS CC_3574 WT 0.72
+#=GS CC_3177 WT 0.42
+#=GS CC_3273 WT 0.72
+#=GS CC_0949 WT 1.22
+#=GS CC_3504 WT 1.01
+#=GS CC_0882 WT 1.32
+#=GS CC_1015 WT 0.80
+#=GS CC_1983 WT 0.07
+#=GS CC_0717 WT 0.68
+#=GS CC_2017 WT 1.09
+#=GS CC_0162 WT 0.94
+#=GS CC_3292 WT 0.89
+#=GS CC_2668 WT 1.05
+#=GS CC_0516 WT 0.17
+#=GS CC_0940 WT 1.43
+#=GS CC_3652 WT 1.16
+#=GS CC_2689 WT 0.26
+#=GS CC_0042 WT 1.25
+#=GS CC_2539 WT 1.30
+#=GS CC_0927 WT 0.93
+#=GS CC_3764 WT 0.49
+#=GS CC_3553 WT 1.18
+#=GS CC_0938 WT 0.85
+#=GS CC_3539 WT 1.15
+#=GS CC_1788 WT 1.56
+#=GS CC_0946 WT 1.36
+#=GS CC_0795 WT 1.11
+#=GS CC_0843 WT 0.89
+#=GS CC_2638 WT 0.99
+#=GS CC_2268 WT 0.39
+#=GS CC_0394 WT 0.73
+#=GS CC_1699 WT 0.96
+#=GS CC_2968 WT 1.43
+#=GS CC_0839 WT 1.08
+#=GS CC_0199 WT 0.68
+#=GS CC_2737 WT 1.60
+#=GS CC_2291 WT 0.26
+#=GS CC_1774 WT 1.54
+#=GS CC_2809 WT 0.53
+#=GS CC_0571 WT 1.31
+#=GS CC_1324 WT 1.30
+#=GS CC_2644 WT 1.11
+#=GS CC_1765 WT 1.49
+#=GS CC_2783 WT 0.74
+#=GS CC_2815 WT 0.49
+#=GS CC_0127 WT 1.26
+#=GS CC_0210 WT 0.94
+#=GS CC_1666 WT 0.81
+#=GS CC_3526 WT 1.09
+#=GS CC_2741 WT 0.26
+#=GS CC_2050 WT 0.99
+#=GS CC_0156 WT 1.25
+#=GS CC_0956 WT 1.18
+#=GS CC_1153 WT 0.65
+#=GS CC_3112 WT 0.37
+#=GS CC_0770 WT 0.18
+#=GS CC_0637 WT 1.25
+#=GS CC_0999 WT 1.09
+#=GS CC_1498 WT 0.52
+#=GS CC_2845 WT 1.22
+#=GS CC_0726 WT 1.31
+#=GS CC_1128 WT 0.56
+#=GS CC_0485 WT 1.05
+#=GS CC_0503 WT 1.25
+#=GS CC_2804 WT 1.28
+#=GS CC_2436 WT 1.03
+#=GS CC_0514 WT 0.26
+#=GS CC_1036 WT 1.03
+#=GS CC_1868 WT 0.69
+#=GS CC_2121 WT 1.13
+#=GS CC_3372 WT 1.01
+#=GS CC_1365 WT 1.12
+#=GS CC_3066 WT 0.34
+#=GS CC_3521 WT 0.63
+#=GS CC_3432 WT 1.18
+#=GS CC_3321 WT 1.42
+#=GS CC_2758 WT 1.13
+#=GS CC_0257 WT 1.14
+#=GS CC_1892 WT 0.78
+#=GS CC_1733 WT 1.06
+#=GS CC_2229 WT 0.99
+#=GS CC_3546 WT 1.65
+#=GS CC_1005 WT 1.08
+#=GS CC_1398 WT 1.38
+#=GS CC_2955 WT 0.71
+#=GS CC_0454 WT 1.40
+#=GS CC_1377 WT 1.23
+#=GS CC_0008 WT 1.19
+#=GS CC_0379 WT 1.66
+#=GS CC_2459 WT 0.96
+#=GS CC_3596 WT 1.44
+#=GS CC_2540 WT 0.73
+#=GS CC_2659 WT 0.86
+#=GS CC_2264 WT 1.01
+#=GS CC_1969 WT 1.05
+#=GS CC_2172 WT 0.83
+#=GS CC_1318 WT 1.37
+#=GS CC_1468 WT 1.20
+#=GS CC_1374 WT 1.01
+#=GS CC_1556 WT 0.39
+#=GS CC_1964 WT 0.83
+#=GS CC_1579 WT 1.47
+#=GS CC_3682 WT 1.21
+#=GS CC_1578 WT 1.26
+#=GS CC_3387 WT 1.42
+#=GS CC_2839 WT 1.32
+#=GS CC_1891 WT 0.78
+#=GS CC_1290 WT 1.27
+#=GS CC_1078 WT 1.51
+#=GS CC_1847 WT 1.10
+#=GS CC_2931 WT 0.92
+#=GS CC_0087 WT 0.89
+#=GS CC_0965 WT 1.05
+#=GS CC_2881 WT 1.35
+#=GS CC_1635 WT 0.62
+#=GS CC_3518 WT 0.45
+#=GS CC_3700 WT 1.06
+#=GS CC_3559 WT 0.95
+#=GS CC_0638 WT 1.48
+#=GS CC_1045 WT 1.15
+#=GS CC_3605 WT 1.28
+#=GS CC_2616 WT 0.89
+#=GS CC_3024 WT 1.34
+#=GS CC_2203 WT 1.20
+#=GS CC_3729 WT 0.37
+#=GS CC_1099 WT 1.13
+#=GS CC_0925 WT 1.16
+#=GS CC_3759 WT 0.95
+#=GS CC_3205 WT 1.04
+#=GS CC_1962 WT 1.03
+#=GS CC_0670 WT 1.12
+#=GS CC_0690 WT 0.52
+#=GS CC_3413 WT 1.16
+#=GS CC_3690 WT 0.19
+#=GS CC_0681 WT 1.60
+#=GS CC_2182 WT 0.97
+#=GS CC_0353 WT 0.72
+#=GS CC_1184 WT 0.79
+#=GS CC_2327 WT 0.96
+#=GS CC_0876 WT 1.18
+#=GS CC_3587 WT 0.85
+#=GS CC_3655 WT 0.98
+#=GS CC_0478 WT 1.18
+#=GS CC_0215 WT 1.13
+#=GS CC_1079 WT 1.50
+#=GS CC_1589 WT 0.38
+#=GS CC_3140 WT 0.53
+#=GS CC_3352 WT 1.25
+#=GS CC_1581 WT 1.47
+#=GS CC_3250 WT 1.23
+#=GS CC_3226 WT 1.05
+#=GS CC_0713 WT 0.42
+#=GS CC_2781 WT 1.19
+#=GS CC_0782 WT 0.88
+#=GS CC_0814 WT 0.69
+#=GS CC_1655 WT 1.29
+#=GS CC_0178 WT 1.30
+#=GS CC_2120 WT 1.16
+#=GS CC_1404 WT 1.32
+#=GS CC_0977 WT 1.35
+#=GS CC_3676 WT 1.15
+#=GS CC_0793 WT 0.80
+#=GS CC_3492 WT 1.23
+#=GS CC_0840 WT 1.21
+#=GS CC_1271 WT 1.25
+#=GS CC_0455 WT 0.68
+#=GS CC_0079 WT 0.94
+#=GS CC_3410 WT 0.88
+#=GS CC_0531 WT 0.78
+#=GS CC_2594 WT 1.13
+#=GS CC_3061 WT 1.16
+#=GS CC_3444 WT 1.20
+#=GS CC_0035 WT 1.25
+#=GS CC_1267 WT 1.39
+#=GS CC_0837 WT 0.19
+#=GS CC_3430 WT 1.46
+#=GS CC_1049 WT 0.62
+#=GS CC_0010 WT 1.48
+#=GS CC_0107 WT 0.61
+#=GS CC_3213 WT 0.69
+#=GS CC_1375 WT 1.28
+#=GS CC_1044 WT 0.22
+#=GS CC_3524 WT 1.42
+#=GS CC_0640 WT 0.95
+#=GS CC_3218 WT 1.30
+#=GS CC_2747 WT 0.69
+#=GS CC_3088 WT 1.33
+#=GS CC_2580 WT 1.14
+#=GS CC_3606 WT 1.29
+#=GS CC_2578 WT 1.19
+#=GS CC_2615 WT 1.05
+#=GS CC_2358 WT 1.28
+#=GS CC_1807 WT 1.24
+#=GS CC_0416 WT 1.36
+#=GS CC_3152 WT 1.03
+#=GS CC_3505 WT 1.12
+#=GS CC_0160 WT 1.55
+#=GS CC_3433 WT 1.06
+#=GS CC_2700 WT 1.11
+#=GS CC_3584 WT 0.91
+#=GS CC_3590 WT 1.19
+#=GS CC_1907 WT 1.05
+#=GS CC_0363 WT 1.26
+#=GS CC_1799 WT 0.81
+#=GS CC_1813 WT 1.12
+#=GS CC_0958 WT 0.71
+#=GS CC_1266 WT 1.16
+#=GS CC_3009 WT 0.69
+#=GS CC_0270 WT 1.19
+#=GS CC_2123 WT 1.25
+#=GS CC_2161 WT 1.24
+#=GS CC_1825 WT 1.38
+#=GS CC_0371 WT 1.05
+#=GS CC_0522 WT 1.65
+#=GS CC_0646 WT 0.79
+#=GS CC_1808 WT 1.59
+#=GS CC_2743 WT 1.66
+#=GS CC_2492 WT 0.54
+#=GS CC_2267 WT 0.57
+#=GS CC_2078 WT 0.02
+#=GS CC_1874 WT 0.62
+#=GS CC_3677 WT 1.26
+#=GS CC_1988 WT 1.19
+#=GS CC_3194 WT 1.18
+#=GS CC_1572 WT 1.32
+#=GS CC_0600 WT 0.92
+#=GS CC_2834 WT 0.54
+#=GS CC_1313 WT 1.23
+#=GS CC_0429 WT 0.56
+#=GS CC_1879 WT 1.05
+#=GS CC_1720 WT 1.32
+#=GS CC_0347 WT 0.98
+#=GS CC_3338 WT 1.28
+#=GS CC_1311 WT 1.07
+#=GS CC_1035 WT 1.03
+#=GS CC_2241 WT 1.18
+#=GS CC_3274 WT 0.43
+#=GS CC_2509 WT 1.67
+#=GS CC_0298 WT 1.19
+#=GS CC_3627 WT 1.46
+#=GS CC_2918 WT 1.16
+#=GS CC_1043 WT 0.22
+#=GS CC_0479 WT 1.01
+#=GS CC_3633 WT 0.48
+#=GS CC_0310 WT 0.89
+#=GS CC_2511 WT 0.57
+#=GS CC_2903 WT 1.03
+#=GS CC_1497 WT 0.49
+#=GS CC_1798 WT 0.81
+#=GS CC_0346 WT 0.98
+#=GS CC_3575 WT 0.80
+#=GS CC_0352 WT 0.87
+#=GS CC_0939 WT 0.95
+#=GS CC_0790 WT 0.53
+#=GS CC_1141 WT 0.91
+#=GS CC_0280 WT 1.45
+#=GS CC_3367 WT 1.03
+#=GS CC_2813 WT 0.42
+#=GS CC_3597 WT 1.30
+#=GS CC_2999 WT 0.61
+#=GS CC_2959 WT 0.94
+#=GS CC_2254 WT 1.25
+#=GS CC_1961 WT 1.16
+#=GS CC_2706 WT 1.35
+#=GS CC_3229 WT 1.08
+#=GS CC_2490 WT 0.83
+#=GS CC_2073 WT 1.54
+#=GS CC_2622 WT 1.14
+#=GS CC_3113 WT 0.68
+#=GS CC_3072 WT 0.68
+#=GS CC_2251 WT 1.43
+#=GS CC_0543 WT 1.65
+#=GS CC_3287 WT 1.40
+#=GS CC_0771 WT 0.57
+#=GS CC_3435 WT 1.18
+#=GS CC_1337 WT 0.94
+#=GS CC_1344 WT 0.45
+#=GS CC_0955 WT 1.09
+#=GS CC_3031 WT 0.30
+#=GS CC_0470 WT 1.36
+#=GS CC_1093 WT 1.03
+#=GS CC_1262 WT 1.31
+#=GS CC_3442 WT 1.66
+#=GS CC_2243 WT 0.52
+#=GS CC_0854 WT 1.34
+#=GS CC_1319 WT 1.17
+#=GS CC_1292 WT 0.66
+#=GS CC_0418 WT 0.79
+#=GS CC_0061 WT 1.41
+#=GS CC_2205 WT 0.52
+#=GS CC_0400 WT 0.94
+#=GS CC_1520 WT 1.67
+#=GS CC_1658 WT 1.33
+#=GS CC_1565 WT 1.40
+#=GS CC_0734 WT 0.55
+#=GS CC_1461 WT 1.15
+#=GS CC_0777 WT 0.55
+#=GS CC_1884 WT 1.01
+#=GS CC_2746 WT 0.76
+#=GS CC_3707 WT 1.25
+#=GS CC_2468 WT 1.14
+#=GS CC_0789 WT 0.22
+#=GS CC_2454 WT 0.48
+#=GS CC_0680 WT 1.16
+#=GS CC_1080 WT 1.13
+#=GS CC_2236 WT 1.58
+#=GS CC_1792 WT 1.68
+#=GS CC_0388 WT 0.79
+#=GS CC_1387 WT 1.18
+#=GS CC_3276 WT 1.19
+#=GS CC_1849 WT 1.48
+#=GS CC_3146 WT 0.96
+#=GS CC_0421 WT 0.60
+#=GS CC_2102 WT 1.35
+#=GS CC_0265 WT 0.73
+#=GS CC_1268 WT 1.42
+#=GS CC_3275 WT 1.03
+#=GS CC_1623 WT 1.22
+#=GS CC_1269 WT 1.27
+#=GS CC_0223 WT 1.44
+#=GS CC_3385 WT 1.31
+#=GS CC_3445 WT 1.16
+#=GS CC_1611 WT 1.26
+#=GS CC_0745 WT 1.26
+#=GS CC_0253 WT 1.39
+#=GS CC_1515 WT 1.17
+#=GS CC_1555 WT 0.58
+#=GS CC_3108 WT 1.00
+#=GS CC_1902 WT 0.85
+#=GS CC_2349 WT 1.01
+#=GS CC_0083 WT 1.35
+#=GS CC_0459 WT 1.25
+#=GS CC_3752 WT 1.35
+#=GS CC_1959 WT 1.35
+#=GS CC_2559 WT 0.95
+#=GS CC_0339 WT 1.22
+#=GS CC_1986 WT 1.28
+#=GS CC_2755 WT 1.18
+#=GS CC_2709 WT 0.97
+#=GS CC_3436 WT 1.07
+#=GS CC_1980 WT 1.24
+#=GS CC_2618 WT 0.90
+#=GS CC_3124 WT 0.18
+#=GS CC_0579 WT 1.34
+#=GS CC_3695 WT 1.14
+#=GS CC_2128 WT 1.18
+#=GS CC_0185 WT 0.62
+#=GS CC_0741 WT 1.08
+#=GS CC_1704 WT 1.33
+#=GS CC_2148 WT 1.20
+#=GS CC_0419 WT 1.19
+#=GS CC_0415 WT 0.90
+#=GS CC_1850 WT 1.21
+#=GS CC_1355 WT 0.89
+#=GS CC_0392 WT 1.31
+#=GS CC_3706 WT 1.25
+#=GS CC_1048 WT 1.34
+#=GS CC_2874 WT 1.15
+#=GS CC_1009 WT 1.42
+#=GS CC_1801 WT 1.25
+#=GS CC_2610 WT 1.50
+#=GS CC_2176 WT 0.63
+#=GS CC_2478 WT 1.29
+#=GS CC_0288 WT 1.18
+#=GS CC_3738 WT 0.70
+#=GS CC_3470 WT 1.23
+#=GS CC_1748 WT 1.57
+#=GS CC_3589 WT 0.58
+#=GS CC_1526 WT 0.39
+#=GS CC_0774 WT 1.49
+#=GS CC_0108 WT 0.90
+#=GS CC_0766 WT 0.39
+#=GS CC_2183 WT 1.09
+#=GS CC_2033 WT 1.44
+#=GS CC_0139 WT 0.19
+#=GS CC_2969 WT 1.31
+#=GS CC_0360 WT 1.34
+#=GS CC_3666 WT 1.13
+#=GS CC_1136 WT 1.03
+#=GS CC_3688 WT 1.22
+#=GS CC_2493 WT 0.39
+#=GS CC_1259 WT 1.32
+#=GS CC_0530 WT 0.78
+#=GS CC_0855 WT 1.66
+#=GS CC_2362 WT 1.32
+#=GS CC_0835 WT 1.49
+#=GS CC_1367 WT 1.17
+#=GS CC_1459 WT 1.59
+#=GS CC_3731 WT 0.60
+#=GS CC_3556 WT 1.26
+#=GS CC_0475 WT 0.65
+#=GS CC_1960 WT 1.20
+#=GS CC_0335 WT 1.40
+#=GS CC_0369 WT 1.36
+#=GS CC_0084 WT 0.53
+#=GS CC_1372 WT 0.69
+#=GS CC_3761 WT 1.11
+#=GS CC_2719 WT 1.28
+#=GS CC_3270 WT 1.34
+#=GS CC_3315 WT 1.22
+#=GS CC_2941 WT 0.18
+#=GS CC_3357 WT 1.33
+#=GS CC_0246 WT 0.48
+#=GS CC_1204 WT 1.39
+#=GS CC_0167 WT 1.23
+#=GS CC_1715 WT 0.57
+#=GS CC_2432 WT 1.46
+#=GS CC_2957 WT 0.30
+#=GS CC_1492 WT 1.27
+#=GS CC_0722 WT 0.58
+#=GS CC_0186 WT 1.53
+#=GS CC_0980 WT 1.31
+#=GS CC_2814 WT 1.18
+#=GS CC_2513 WT 1.59
+#=GS CC_1295 WT 1.62
+#=GS CC_3277 WT 0.68
+#=GS CC_3164 WT 1.20
+#=GS CC_0796 WT 0.30
+#=GS CC_2228 WT 0.73
+#=GS CC_3732 WT 0.64
+#=GS CC_0446 WT 1.49
+#=GS CC_3271 WT 1.36
+#=GS CC_0425 WT 0.69
+#=GS CC_1287 WT 1.26
+#=GS CC_1970 WT 0.68
+#=GS CC_0601 WT 0.92
+#=GS CC_1121 WT 0.48
+#=GS CC_2569 WT 1.16
+#=GS CC_1971 WT 0.81
+#=GS CC_2985 WT 1.38
+#=GS CC_1812 WT 1.35
+#=GS CC_0623 WT 1.01
+#=GS CC_3248 WT 1.15
+#=GS CC_0193 WT 1.22
+#=GS CC_1856 WT 0.71
+#=GS CC_1903 WT 0.85
+#=GS CC_0486 WT 1.19
+#=GS CC_2012 WT 1.26
+#=GS CC_2531 WT 1.19
+#=GS CC_1487 WT 1.40
+#=GS CC_1302 WT 1.11
+#=GS CC_2772 WT 1.64
+#=GS CC_1304 WT 1.18
+#=GS CC_2242 WT 1.22
+#=GS CC_3130 WT 0.73
+#=GS CC_0306 WT 0.68
+#=GS CC_3549 WT 1.43
+#=GS CC_0184 WT 1.76
+#=GS CC_3306 WT 1.32
+#=GS CC_2328 WT 1.05
+#=GS CC_0560 WT 1.00
+#=GS CC_1103 WT 1.46
+#=GS CC_2295 WT 1.29
+#=GS CC_3086 WT 1.29
+#=GS CC_2643 WT 1.32
+#=GS CC_2214 WT 0.22
+#=GS CC_3503 WT 1.28
+#=GS CC_2016 WT 1.49
+#=GS CC_0772 WT 1.10
+#=GS CC_0747 WT 1.03
+#=GS CC_0724 WT 1.03
+#=GS CC_0064 WT 0.42
+#=GS CC_1540 WT 1.76
+#=GS CC_1979 WT 1.01
+#=GS CC_2226 WT 1.08
+#=GS CC_2379 WT 1.26
+#=GS CC_0691 WT 1.31
+#=GS CC_2965 WT 1.10
+#=GS CC_1735 WT 1.57
+#=GS CC_1844 WT 0.48
+#=GS CC_2443 WT 1.40
+#=GS CC_0391 WT 0.30
+#=GS CC_2721 WT 1.39
+#=GS CC_0732 WT 0.90
+#=GS CC_1535 WT 1.28
+#=GS CC_1624 WT 1.32
+#=GS CC_1183 WT 1.37
+#=GS CC_2129 WT 1.18
+#=GS CC_2258 WT 1.20
+#=GS CC_2671 WT 1.22
+#=GS CC_2175 WT 1.05
+#=GS CC_3084 WT 1.25
+#=GS CC_1007 WT 1.22
+#=GS CC_0007 WT 1.28
+#=GS CC_0506 WT 0.02
+
+CC_0442      UAAAGAU-----------GGAA----------------AGGG-CGCU-GA
+CC_0836      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0512      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_1042      ---AGAU---------CUCCAA-----------------AAAGCCCC-GC
+CC_3669      GAUUGAG---------CCGAUAGA------------CUGUCA--UCC-CG
+CC_1554      ---CUAU---------GCU-----------------------CCCUC-UC
+CC_1584      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_3047      ---AGAC------------GAA----------------GACG-CCCC-GG
+CC_1506      ---UGAA------------AAA-----------------GGG-CCUG-GG
+CC_2993      UAGAGC----------CCUUUC-----------------CGA-UCUG-AU
+CC_1206      UAGAGC----------CCUUUC-----------------CGA-UCUG-AU
+CC_1293      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_2079      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_1620      GUUAGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0685      ---AAAG------------AGA-----------------UCU-GGAU-CG
+CC_2160      AUCAGAA---------CUUGA------------------AGG-CCCG-GA
+CC_0066      UAGAGCG-----------U-----------------------UUUCC-GA
+CC_3756      AAGUGAU-----------G-----------------------UUUCA-CG
+CC_3670      ---CGCC---------GUAAAA-----------------GCU-GUCA-UC
+CC_0698      GACUGAA---------ACGAAAA---------------CGGC-CCGG-AA
+CC_2225      ---AGAG---------CCUCGC-----------------GCG-UCAA-AA
+CC_2469      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0383      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_2224      ---GGCC---------CCUAGA-----------------GCG-UGAC-GC
+CC_2848      AACGGAG-----------C--------------------GAG--GCC-GC
+CC_0456      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_3201      ---CACU---------CUUUCA-----------------GGC-GCGG-GC
+CC_0200      ---AGAU-----------GGAC-----------------AAG-CCCC-GC
+CC_1469      GUUAGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_2924      UAGAGAC------------GAA----------------GACG-CCGC-CC
+CC_1507      GGCUGAUC-------GCUCGGAC---------------AGGG-CCUG-GG
+CC_0655      ---AGAG---------CCUCGC-----------------GCG-UCAA-AA
+CC_0088      ---GGAG---------CCC--------------------UUU-CCGA-UC
+CC_1234      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_1724      ---AGAC------------GAAG---------------GGAG-CGUG-UC
+CC_1409      ---UCCU---------CUG--------------------GCU-CCCC-GU
+CC_0715      GAGAGC----------CCUUUA-----------------GCU--UUG-GA
+CC_3118      ---AGAG---------CCUUCC-----------------GCC-UCAA-AA
+CC_2590      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0443      UUUGGAU---------GCAGAA----------------AGGG-CGCC-GA
+CC_3417      GGGCGAA---------GCGGAAGCUGU------GACGAGAAA-CCUC-GC
+CC_0034      ---GGAC---------GCUAUCA--------------GGCGG-GCGG-CU
+CC_2867      ---AGAG---------CCUCGC-----------------GCG-UCAA-AA
+CC_0197      UUCGGAA---------AUGAAC----------------GAGG-CCCC-GG
+CC_0970      ---AGAG---------CCUGUC-----------------CGC-UUCU-GA
+CC_3199      ---UGCUU------AGUUC-----------------------GCCAG-AA
+CC_3739      UAGGAAA---------UCC-------------------------CUC-UC
+CC_0322      AAGAAA----------CACGAA-----------------AGC-CCCG-GA
+CC_3663      AAGCGAU------------GACG--------------CAAAG-CCCC-GG
+CC_2353      ---AGAG---------CAU-----------------------UUUCC-GA
+CC_2948      ---AAAA------------GAA-----------------GAG-GGUC-GA
+CC_3416      ---CGAC-----------AAGC-----------------UCA-GGGU-GA
+CC_3613      ---AGAG---------CCUGUC-----------------CGU-UUCA-AA
+CC_1240      ---UGCG------------AA------------------GGC-CCCG-GA
+CC_2536      GAUCGAC------------UAAGCGG---------GGCGGCG-GCGC-GC
+CC_2819      AAUCGAG---------ACG-----------------------UCCCC-GC
+CC_1338      ---CAAA---------GUCGAA-----------------GGG-CGCG-GA
+CC_2658      UAGAGC----------CCUCUA-----------------GCU--UUA-GA
+CC_3297      UGAAGAU---------UUCGA------------------AGG-CCGC-GC
+CC_0129      GGACGAU-----------CAAAG---------------GGCG-UCGC-GA
+CC_2841      ---AGAG---------CCCGUC-----------------UGG-UUUA-GA
+CC_2094      UUGAGAU---------ACU--------------------GGG-CCAU-CC
+CC_0076      ---AGAA-----------CAACG---------------GAAG-GCCC-GG
+CC_0661      UGACGCA---------UUCGAA-----------------AGC-CCGC-CA
+CC_1721      UGACGAU---------UCGAAA-----------------GCG-CCGC-CG
+CC_3278      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0169      ---AGCAU------UG---UUCG--------------CAAAG-GCCC-GG
+CC_0359      AGUUGAA---------AAUGCA----------------GGGU-CCCC-GA
+CC_3612      UUGAGAA------------AAAAUAGG-------CUCUCGAG-CGUG-AC
+CC_2842      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_2188      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_1289      ---UGAU-----------U--------------------GGG-CCGC-GC
+CC_0365      ---AGAC------------GAA-----------------GGG-CGCG-GA
+CC_0858      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_0626      UUUAGAG------------GA------------------GGG-UUUU-GG
+CC_0102      ---UGAG---------CAUUUC----------------CUGU-CGUC-CC
+CC_2962      UAGCGA----------CCGCUACAUC---------CGCUAGU--CUG-UA
+CC_1363      UUCAGAG------------GGCCAGUCAU--AAAGGCGAACG-CCCC-GG
+CC_3552      ---AGAC------------GAA-----------------GGG-CGGU-CU
+CC_3035      UGUAGAA---------CCCACCC--------------AGAAA-CGCC-CA
+CC_1397      ---UGAC------------GA---------------------GCGCC-GA
+CC_0991      ---AGAC------------GA------------------GCG-GCCC-GA
+CC_0804      UGCUGAA---------CCUGUAGCCCU------UGACGCCAU-CGGC-CA
+CC_2868      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_3648      AUCGCCA---------UCU-----------------------CCGUC-GG
+CC_2727      UUUAGAG------------GA------------------GGG-UUUU-GG
+CC_1162      ---UGAA---------ACAAGA-----------------ACG-CCCG-GG
+CC_3382      ---GGAC-----------U-----------------------CCCUC-UC
+CC_3760      UACCGAA---------ACGAGA-----------------AAG--GCG-CC
+CC_3370      ---UGA----------CCG--------------------CGA-CCGC-CC
+CC_0764      AUCGGAA---------AAGAAA----------------AAGG-CCGC-CG
+CC_1325      UGUGGAA------------GAC----------------GAUC-GGCC-GC
+CC_3069      GAAAGCG------------AAA-----------------GGG-CGCC-GA
+CC_2354      AGAUGAG-----------C-----------------------CCGGC-GA
+CC_3607      ---UGAG---------ACCGACCACCG-------CCGCCAGG-GCUC-UA
+CC_3189      UUCAAAA------------UAA----------------GCGU-GUCA-UC
+CC_1667      UUACGAA------------AG------------------GCG--GCG-CG
+CC_3510      AUCCGCCC-------CCUCGU---------------------UGUCA-UC
+CC_2390      UUGAGC----------CUC-------------------------CGC-CA
+CC_2371      GUCUGAU-----------C------------------------CCUC-CC
+CC_0539      ---UCCC-----------U-----------------------GCCUC-GC
+CC_3298      GUCCGAA---------AACGAC----------------GAAG-GCCG-CG
+CC_3717      ---CGCA-----------UGAAAC-------------GUUCG-GCCG-CU
+CC_3371      AUCCGAA-----------UAGCCCUC--------GUUUUCGU-GUCA-UC
+CC_2364      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0140      UAGAGC----------AUU-----------------------UCUCC-GA
+CC_1923      ---CGAC---------CCUGAC----------------AUGG-GACC-GG
+CC_2029      UUUUCAC-----------U-----------------------GGCGC-GA
+CC_3098      GUGAGAC------------GGA-----------------AAG--GGC-GC
+CC_3021      UGACGA----------UUUGAA-----------------ACA-CCCG-CC
+CC_2095      UAGUCAC-----------UAAAGUC----------CGUGUCA-UCCC-GG
+CC_1142      GGCCGAU------------GUAGGCG---------UUGAGGC-CGGC-GC
+CC_1508      AUGCGAA------------GACGG-------------UCAGG-GCCG-GG
+CC_0474      ---AGAU-----------UGGA-----------------AAG-GCCC-GG
+CC_2173      ---UGAG---------CAAGAA----------------CGCC-CGCU-GG
+CC_1342      UACAAAA---------CCCGUC--------------------AUCCC-GC
+CC_3742      ---UGAA---------ACGAAA-----------------GAG-GCCC-GG
+CC_3291      AGCCGAA------------AAACG-------------AGAGGC-CCC-GU
+CC_2245      ---AGAG-----------CGGCGG-------------AUCCC-GGAU-GG
+CC_0699      UACCGAA---------UCGAAA-----------------CGG-CCCG-GA
+CC_3402      AUCAGAA-----------GAUCCA------------CGGGGG-CCCG-GA
+CC_1677      ---GGAG---------UAUUU---------------------CCGCC-GC
+CC_3664      GGCCAAG------------AAA-----------------AAG-CCCC-GG
+CC_0384      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_2366      UUGCGAU-----------UGAC-----------------UCG-CAAU-UA
+CC_1654      AGCAGAG---------CCGAAA-----------------AUG-GCCG-CC
+CC_0028      UUCACAC---------CCA--------------------GCG-CCCC-GU
+CC_2300      ---AGA----------CACGUC-----------------CUC-GGCG-GG
+CC_1653      ---AACC---------CUUGAA----------------GCCC-GGGU-CG
+CC_0984      ---CGAU---------CCG--------------------UCG-GCGC-CG
+CC_2639      ---AGAA---------AAUGGA-----------------AAG-GCCC-CG
+CC_3699      ---AGA----------AACAAA-----------------GAC-GCCC-GC
+CC_1621      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_1197      UAGAGCC---------CUU-----------------------UCCGA-UC
+CC_2109      GGCUGAA---------CCUGACGUG-----------CUCCAG--CUC-GU
+CC_2294      UAGCGCA-----------UGAAA---------------AAGC-CGCC-GC
+CC_1471      UGCUCAAG-------GUCUAA---------------------GCUCC-CU
+CC_0653      ---AGAU---------UUAGAA----------------GACG-CCCU-CC
+CC_3393      ---AAAA-----------CAAC----------------GUCA-UCCC-GC
+CC_3620      ---UGAA------------AUCGCU----------GCGCGGG-GGUG-GA
+CC_1843      ---AGAA-----------A-----------------------UCCUC-CC
+CC_3463      ---UGA----------UCCGUC-----------------CUGAUCGA-AA
+CC_0050      ---CCAU---------CUUCGAG--------------ACGGG-CUCC-GA
+CC_0414      ---AGAA------------GGA-----------------GCG-CUCC-GG
+CC_3462      AAGAGA----------CCU-------------------------GGA-UC
+CC_0765      GACCAAA------------GAA-----------------AAA-GGCC-GC
+CC_0944      ---UGAUCU-----UUCCCGAA-----------------GUU-GCCA-CC
+CC_1571      ---UGAUC-------G---GUCAG-------------ACGCU-CCCC-GU
+CC_2044      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0878      AAAUGAC---------CUCAU---------------------CCCUC-UC
+CC_2895      UAGGGCC-----------UGUC-----------------UGG-UUUA-GA
+CC_2538      ---AGCC---------CCUGGAC---------------GGGU-GUUC-GG
+CC_1449      AAGUAAC---------CUCGACUG------------GUGGAG-CCCG-GG
+CC_2066      UUGCGAC---------ACAGAC-----------------GUC-GGGC-GC
+CC_2522      ---UGAG-----------CGAA-----------------ACG-CCCC-GG
+CC_1906      UAUGGAU-----------C-----------------------AGGCC-CC
+CC_2994      UAGAGCCC------UUUUUAUC-----------------CGA-UCUG-AU
+CC_0781      UGAACCU---------CUGCGC-----------------UCC-CCUC-CG
+CC_2470      UUUAGAGCC-----UGUUUAUC-----------------UGG-UUCA-GA
+CC_0669      UACCAAG---------CUUUCA-----------------AAA-CCCG-CC
+CC_1460      GGGUGAC--------CCCGAUA-----------------CGC-CGGG-CG
+CC_3585      GAGCGAA---------CAUGGA----------------AAGG-CCGG-CC
+CC_2187      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_3743      AUCAACA------------AAA-----------------AGG-CCCG-GU
+CC_0721      GUCCGAA---------CAGACA-----------------AAG-GCCC-GG
+CC_3494      GACAGAC------------GACUU------------GGGAGG-GCCC-GG
+CC_2935      AUCCGCU----------ACAAC----------------GAGG-CCGC-GA
+CC_1496      UGAAGAA---------CAAGGAG---------------AAGU-CCUC-GG
+CC_1877      GAAUGAC------------AAC----------------GGCC-CGCG-CG
+CC_2919      ---CGC----------GUUGUC-----------------AGC--CGA-CC
+CC_1296      GACCCAA------------CAA-----------------AGG-GAGC-GC
+CC_0792      ---CGCG---------UUCGUCGUC-----------GAGAAG-GGCG-GA
+CC_2269      UUCCGAG------------GG---------------------GCUGC-UA
+CC_0047      AUCAGC----------UCU--------------------GGU-GGCC-GG
+CC_1201      UUCGGAC---------UUCGCAAA-------------GGCCG-CCGC-GA
+CC_3394      UUCAGCU-----------CGUCUUG-----------CCGUCA-UCCC-GC
+CC_3013      GUCAAAG-----------CGGA-----------------AAG-GGGC-GG
+CC_0266      GGCGCCU---------CCC-----------------------GUUCA-GU
+CC_2051      GUUGGAG---------UUAGAC-----------------GGG-GGCC-GU
+CC_2916      ---AAAA---------CCC-------------------------CUC-UC
+CC_2893      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_1881      GGCCGCU-----------UCGCG--------------GCGCC-UCAG-GA
+CC_0044      UUCUGAGCG----GUGUUUGAC-----------------GGC-CUCG-CG
+CC_0819      ---UGAU---------GCG--------------------AAG-GGCC-UU
+CC_3303      GAACGAC------------GA------------------AGG-CCCC-GG
+CC_1922      GAUCGAU------------AAAU---------------UGGG-UGCG-GC
+CC_0497      ---AGC----------CCCGG------------------ACA-UUCC-GA
+CC_0104      ---UGCU---------CACGCAG--------------GUCGU-CCGC-CC
+CC_1873      GGCCGAA---------GUUGAAAAU-----------GAUAAC-GCCC-CG
+CC_1323      GACACAA-----------AGAA----------------GGAG-CGCC-CA
+CC_1320      AUCUCCC-----------CGUC--------------------AUCCC-GC
+CC_0401      GAGGGCG------------GG---------------------GCCCG-CG
+CC_0995      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_3161      GAGCGCC---------UCG--------------------AGG-GGCG-GC
+CC_1273      AGCUGAG------------CAA----------------GAAG-GCCC-CG
+CC_1106      ---UGAG---------CCC--------------------GGC-CGCC-GA
+CC_1963      ---CGAC------------AA------------------AGC-CGCC-GG
+CC_0389      UAUCGAC------------GGCG--------------CGCCA-CCUC-CC
+CC_1085      GGGGGCG-----------U--------------------CCC-UCCU-CC
+CC_3068      GAUCGA----------ACAGAA-----------------GGG-CGCC-GA
+CC_1364      ---AGCA------------GAA-----------------CGC-CCCG-GA
+CC_3604      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_1185      ---CGCG---------CUCCUC-----------------CCC-CAGA-GG
+CC_3574      GACAGAA------------GAA-----------------GGG-CGCC-GU
+CC_3177      UAGCGAC---------UUU-----------------------CCUUC-UC
+CC_3273      ---AGAU------------AAA--------------------CCCUC-UC
+CC_0949      ---AGAU-----------CAGC-----------------GCC-CGUC-GU
+CC_3504      ---AGAG---------CCUGAACGCC---------AUCAGGG-GCCG-GU
+CC_0882      ---UGAACA----CUGUCUGGA-----------------GGG-UUUG-GG
+CC_1015      UAGAGCC---------CUU-----------------------UCCGA-UC
+CC_1983      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0717      UAGAGCG-----------UGA------------------CGC-CGAA-AG
+CC_2017      ---CAAG-----------A--------------------ACG-GGCG-GC
+CC_0162      GGCCGA----------CCA-------------------------GCG-CG
+CC_3292      ---AGAA------------AAAGC-------------AGAGG-CCCC-GU
+CC_2668      ---CGCA---------CCU--------------------CAG--GAU-GA
+CC_0516      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0940      ---CGAA------------GUAACGC--------CGCGCGAG-GAGG-UC
+CC_3652      UAAUCAGG------GUUCCAGC-----------------GCC-GCCG-UU
+CC_2689      ---AAAA---------AUGGUA-----------------GGG-CCCG-CC
+CC_0042      AACUCAG---------CUUUAAG---------------GGAG-GCGC-GA
+CC_2539      UAGGGCG-----------UAUC----------------AGAU-GUUC-GG
+CC_0927      ---UGAA-----------CGAC----------------CAAG-CCGC-CC
+CC_3764      ---CGCU---------AACGU---------------------CCUUC-UC
+CC_3553      ---CGA----------CUUGA-----------------------GAC-UG
+CC_0938      ---UGAC-----------UGACAA-------------GGCGG-CCGC-CG
+CC_3539      AAUUGAA------------GAC-----------------GCC-CGCU-CC
+CC_1788      GGCCGAA-----------U-----------------------GUUCG-UC
+CC_0946      ---CGCU------------GUA-----------------GGG-CGUC-CG
+CC_0795      ---UGAC---------CUGAAA-----------------AAG-GGAC-GG
+CC_0843      ---UGCG------------GGC-----------------GCC-UCAG-GA
+CC_2638      UAGAGCC---------AACAAA-----------------AAA-GGCC-CC
+CC_2268      ---GGCG------------GAA----------------------CCC-CG
+CC_0394      ---UGAC---------AAAGAA-----------------GAG-CCCG-CC
+CC_1699      UUCUGAU------------GACGC------------AGAGCG-GCCG-GA
+CC_2968      ---UGAU---------CCAGGAC--------------GUGCG--GGG-GC
+CC_0839      UUCAGAA---------CUGAUCCUCGCCCA-GACGCCAGGCC-GGCGCGC
+CC_0199      ---AGAU-----------AGAA-----------------AAG-CCCC-GC
+CC_2737      ---AGAU---------CCCGUA-----------------CGG-GAGU-AA
+CC_2291      ---AAAA---------AUGGUA-----------------GGG-CCCG-CC
+CC_1774      ---GGAA---------UCG-----------------------AUCUU-GG
+CC_2809      AAGUGA----------CCC-------------------------UUC-UC
+CC_0571      UUCUGAU---------CUUCACCCCUCCUG-UGAAGUUUGAC-GGCC-GG
+CC_1324      ---UGAA---------ACGAAA-----------------UCG--GCC-GC
+CC_2644      UUUCGAC------------GAA-----------------CAG--GCC-GG
+CC_1765      ---UAAC---------UUCGCC-----------------GCA-UCGU-GA
+CC_2783      ---UAA----------UCCAA---------------------UCCUC-CC
+CC_2815      ---ACAA---------GCU-----------------------CCCUC-UC
+CC_0127      AUUGGAG---------CCUAGCACCA--------CUUGGUGG-UCCA-UG
+CC_0210      ---AGA----------CCUAGA----------------GAAG-GGCG-GC
+CC_1666      GACCGAG---------CUUAGAG--------------GCGGG-CGCG-GA
+CC_3526      GAGCGAU------------AAAU---------------GUGG-GGCG-GC
+CC_2741      ---AAAA---------AUGGUA-----------------GGG-CCCG-CC
+CC_2050      GUCAACA------------AAC-----------------GGG-GGCC-GG
+CC_0156      AUCGGAC---------CAUUAA----------------GAAA-CGGA-CG
+CC_0956      AAACGA----------CUU--------------------GGG-CCGC-GU
+CC_1153      UUCAAAG---------GCUAAAUCUCU-------CGUCAUCC-CGGA-AG
+CC_3112      ---GGAU-----------UGAA--------------------UCCUC-CC
+CC_0770      AUCCGA----------UCU-------------------------CCC-CG
+CC_0637      ---AGAG------------CAA-----------------AAU-GCGC-GA
+CC_0999      ---AGA----------CCGGAAGCAA---------GGAUGGG-GUCG-CC
+CC_1498      GAUUGAG---------UCC-------------------------CUC-UC
+CC_2845      UUCUGAC--------GCCCGAACUCUG-------CGCGCAGG-UCCA-GC
+CC_0726      GUAAGCG---------UUUGAAACUC--------CCGGGCGG--CGA-GA
+CC_1128      AUCGGAA---------CACAAA-----------------ACG-CCCC-CG
+CC_0485      UUCGGAU-----------CGAAGCGCA------UUACAGACG-GGCG-GG
+CC_0503      AGUCGAA------------GA---------------------CCCGG-AC
+CC_2804      UUCCGAU------------GAAA--------------CCCGG-CCUG-AG
+CC_2436      GACGGAC------------GA------------------GGG-CCCG-CG
+CC_0514      ---AAAA---------AUGGUA-----------------GGG-CCCG-CC
+CC_1036      UGAGGA----------CCU--------------------GAG-GCUC-UC
+CC_1868      ---UGA----------AACGAA-----------------AAA-GGCC-UC
+CC_2121      GGAUGAA-----------C---C--------------GAAGG-GCGG-AG
+CC_3372      ---AGAG---------CCCGACAAU-----------CCCCGU-GUCA-UC
+CC_1365      ---CGAC---------AAUAGA----------------GAGG-CCGC-UC
+CC_3066      ---GGAA---------UCC-------------------------CUC-UC
+CC_3521      ---CGAC---------CCU-----------------------CCCUU-CC
+CC_3432      AACUGAU---------ACGGCA-----------------AGGCCGUC-GC
+CC_3321      AUGUCAU-----------C-----------------------GUGCG-CU
+CC_2758      UAAGGCG-----------UUAAGG-------------CCUCA-UCCU-CC
+CC_0257      GUCUGAUU-------UCCCAUAG---------------GGAA-GGCC-CG
+CC_1892      ---CGAA------------AAA-----------------GCC-CUCC-GG
+CC_1733      GUCGGCU------------AAAA--------------CGUCG-CGCC-GA
+CC_2229      ---UGAU---------CCAGGA-----------------AGC-CCGC-CC
+CC_3546      ---UGCA---------AUGAG------------------CAU-CGCC-GG
+CC_1005      ---UGAU-----------CGGA-----------------GAG-CGCC-GU
+CC_1398      ---UGAA-----------C-----------------------CGAGC-CG
+CC_2955      GUCCGACCU-----CCCCUAAACU------------CCGACC-UCCC-CG
+CC_0454      ---AGAC------------GUACGC----------GCCCGGC-UCGA-CG
+CC_1377      UUGGGAA-----------G--------------------GGG-CGCU-UC
+CC_0008      GUAGGAU-----------UGAA-----------------GAG-GGUC-GU
+CC_0379      ---UGAAC------GUCUUCAA-----------------CUU-UUGA-GU
+CC_2459      ---CGAC---------AUUGAA-----------------ACG-CCCG-GC
+CC_3596      ---AGAG---------CAU-----------------------UUCAC-GA
+CC_2540      ---UGAC------------GAA-----------------ACG-CCCC-GG
+CC_2659      ---AGAU---------ACGAAA-----------------AAG-CCGC-CC
+CC_2264      ---AGAU---------GCUCACC---------------AAAG-GCCG-GG
+CC_1969      UUAGGAC------------AAACG-------------CCAAG-GGGC-CG
+CC_2172      ---CGAC---------AUCAAA-----------------AGG-GCCG-CC
+CC_1318      UUCCGC----------CCAGGCGC-------------GGACU-UGCG-CU
+CC_1468      ---GGAA---------CAUAUC----------------GGCG-GGUG-CU
+CC_1374      ---GGCG-----------GGU---------------------UCGCC-GC
+CC_1556      ---GGCC------------GAA----------------------CCC-CG
+CC_1964      AGCGGAA---------AUUGAAC---------------GAGG-CGCG-GC
+CC_1579      AUGAGCC---------ACC--------------------UCC-CAUG-GC
+CC_3682      UGCAGAA------------GAA-----------------CCG-GGUC-GG
+CC_1578      UAGAGCC---------CUU-----------------------UCCCA-UG
+CC_3387      ---GGCG---------UUC-----------------------CCGAG-GC
+CC_2839      UUCGGCG---------CUAGUC-----------------ACG--CUC-UA
+CC_1891      ---AGAA-----------AAAA-----------------GCC-CUCC-GA
+CC_1290      UAAUCCC---------CUUGUC----------------UAGC-CCGC-GC
+CC_1078      AGAAGC----------CUU-----------------------GCGUC-CU
+CC_1847      ---GGAU---------UACGAA-----------------GGC--GCC-GG
+CC_2931      UGGCGCA---------UUUCUC-----------------UCC-UCCC-CC
+CC_0087      UAGAGCG-----------U--------------------UUU-CCGA-UC
+CC_0965      GUGUCAU---------CCCGGA-----------------AAG-CCC----
+CC_2881      GUGUCAU---------CCCGG---------------------CCGCA-GC
+CC_1635      ---UCAU-----------C--------------------UGG-UUUA-GA
+CC_3518      AUUAGAC---------ACCGUC--------------------AUCCC-GC
+CC_3700      ---AGAA------------AAA-----------------CGC-CCGC-GA
+CC_3559      UGAUGAC---------GCU-----------------------GGCGG-CG
+CC_0638      UAGAGC----------AUC-----------------------GUGCG-GA
+CC_1045      AACCGAU---------CUUGCA-----------------AAG-CCCC-CA
+CC_3605      GAACGAG------------AAA-----------------GGC-CCUG-AC
+CC_2616      ---CGCA------------GGC-----------------GCC-UCAG-GA
+CC_3024      ---AGAU-----------C-----------------------AGAUC-GC
+CC_2203      AGUCGCG------------AUC-----------------GGU-GGGCAGG
+CC_3729      GGCGGCU--------UCCUGA---------------------UCCUC-CC
+CC_1099      ---GGCU------------AACAU-------------GGCGG-CGGC-GA
+CC_0925      UGGAGA----------UUG--------------------GCG-GCGG-GC
+CC_3759      GACCGAA-----------CAAA-----------------AAA-GGCG-CC
+CC_3205      UGCUGAA---------AUCGAA-----------------AGC-CCCG-CG
+CC_1962      AACGCAA---------CAAAAA-----------------AGC-CGCC-GA
+CC_0670      ---UGAG------------AUC-----------------GGC-CCGC-GA
+CC_0690      AGUAGCU-----------U-----------------------CCUUC-UC
+CC_3413      ---UAAG-----------CAAA-----------------GAG-GGGC-CC
+CC_3690      ---AGAG---------CAU-----------------------UUUCC-GA
+CC_0681      ---AGAU-----------U-----------------------GCCCA-GA
+CC_2182      GAAACA----------CUUGUC----------------AUCC-CGGA-CG
+CC_0353      UGAAGAA------------GAAGAUGUGAGGCGGUCCGAAAC-CCUC-UC
+CC_1184      AAACGAA------------GG-----------------------CCC-GG
+CC_2327      ---UGAA---------GCGGA------------------GGC-CGGG-CC
+CC_0876      AUGCGAA---------AUGCGA-----------------AAG-GGAG-CC
+CC_3587      ---AGAC---------GUUGAAGU------------UGGCGG-CGGC-UG
+CC_3655      GAGCGAA------------GAACGA-----------CGAAGG-GCGG-CU
+CC_0478      GGCUGAU------------GG-----------------------GCG-AG
+CC_0215      AGCUGAA---------AUCGAA----------------GAGG-GCGG-CG
+CC_1079      AAGGGCC-----------UGAAGU------------GUCGCG--UCC-UU
+CC_1589      ---AGAG---------CCUGCC-----------------UAG-UUUA-GA
+CC_3140      ---CAAC---------CCCGUC--------------------AUCCC-GC
+CC_3352      AUGCGAC-----------C--------------------AGA--GGG-CG
+CC_1581      UAGAGCC---------CCUUCCU---------------AUCC-GAUA-AC
+CC_3250      AAUGGAU---------GUGAAA-----------------AAG--GGA-GG
+CC_3226      GUCUCAA-----------CGAA-----------------AAG--CCG-GC
+CC_0713      ---GGAU------------AAA-----------------UCC--CUC-UC
+CC_2781      ---CGAU---------CCA-----------------------CCUCC-CC
+CC_0782      ---AGAG--------UCCUUUC-----------------CGA--UCU-GA
+CC_0814      GGGUGAU------------GAAG--------------CCAAU-CCUC-CC
+CC_1655      AACGGGU---------UCCAGA-----------------UGG-CCGC-CG
+CC_0178      UGCUGAU---------CUUCGCGC------------UGAUCA--CCG-CC
+CC_2120      AUCCCAC------------GA------------------AGC-CCCC-GG
+CC_1404      ---CGAC------------AA------------------CCG-CUCG-GC
+CC_0977      ---CGCU---------UUUGACG---------------GGGC--GCC-GA
+CC_3676      UUCUGAA--------UAUUGUCGU-------------CUAAGCCCGU-CA
+CC_0793      ---CGAG-----------A--------------------GGG--GCG-GA
+CC_3492      UUUUGAG------------AG------------------GGG-CGGC-GC
+CC_0840      GACUGAG------------CACCC------------CCGUGU-CAUC-CC
+CC_1271      UUUAGA----------CCACAAUCU----------UCCUUCG-CCGG-CU
+CC_0455      UAAACCG---------CUCGAAC--------------GCGCU--CUA-AG
+CC_0079      GGCCGCG---------GCU--------------------GAG-CCCG-CG
+CC_3410      UACUGAU------------CACCAUCG------CGCGCGGAAACCUC-GC
+CC_0531      ---GGCG------------AAA-----------------GGG-CUCUAGA
+CC_2594      UUAGGCG-----------UGCA-----------------GGC--CCG-CG
+CC_3061      ---AAAA---------ACUGUCAU-------------CCCGG-CCCA-GC
+CC_3444      GGCGGA----------CCUAUCUA------------GCGAAG-GCGC-GG
+CC_0035      UAAGGCA-----------UCAA-----------------GAU-CCGC-CG
+CC_1267      AAAGGCA------------UA---------------------UGUCA-UC
+CC_0837      ---AGAG---------CAU-----------------------UUUCC-GA
+CC_3430      ---AGCG---------UCU-----------------------GGGGU-UC
+CC_1049      ---AGAC---------ACCGAA-----------------ACG-CCCC-GG
+CC_0010      AUGCGC----------GCG-----------------------CCGCG-GA
+CC_0107      GGGCGCUU-------UCUU-----------------------UCCUC-CC
+CC_3213      UUCGGAU------------AAA--------------------UCCUC-CC
+CC_1375      ---CGCG-----------CGUC-----------------UCG-CCGC-CC
+CC_1044      ---UCAU-----------C-----------------------CCUUC-UC
+CC_3524      GUAUGAC------------GGC----------------CGGA-GCCC-GC
+CC_0640      ---AGCG------------GCA-----------------CGG-GCGC-UG
+CC_3218      UAAUAAC---------CUU--------------------GGG-CCUC-UA
+CC_2747      ----------------CCUCUA-----------------AAU-CCUC-CC
+CC_3088      UAAAGCC---------CCUCUAGGGC---------CGCAGGA-CCAC-GC
+CC_2580      GACUGAUGU-----GUUUC--------------------AAG-CGGC-CU
+CC_3606      ---CGAC-----------AGGC-----------------UCA-GGAU-GA
+CC_2578      AAUAGAG---------CCUCAAG--------------CGCCG-CCGC-UC
+CC_2615      ---CGCA---------CCU--------------------CAG--GAU-GA
+CC_2358      ---UGAG---------GCCAG------------------UGG-GAGC-GG
+CC_1807      GAAUCAA------------AAA-----------------GCG-CGUC-GG
+CC_0416      ---CGCC---------CCG-----------------------UUCCA-GC
+CC_3152      GGCUGAA---------UACGAA----------------AAAG-GGCG-GA
+CC_3505      GACGCAA------------AAA-----------------GGG--CCG-GU
+CC_0160      UAAAGCU---------CAU-----------------------CCUUG-CA
+CC_3433      ---UGAU---------CCU-------------------------GGC-CG
+CC_2700      ---UGAG---------CAG-----------------------GCGGA-GG
+CC_3584      ---CGAC---------AAUAAA-----------------AAA-GGCC-GG
+CC_3590      GACUGA----------CCCCGCG--------------GACAG-CCGG-UU
+CC_1907      AAACGAA------------AA---------------------AGGCC-CC
+CC_0363      AAGUCCA---------UAGAA-A--------------GGCGC-CGCG-GC
+CC_1799      AUCCAAA------------GAA----------------CAAG-GGCG-GC
+CC_1813      AUCUCAA---------AAAGAA-----------------GAG-CCAG-CG
+CC_0958      AAGCGCC---------ACG--------------------AAA-CCUC-GU
+CC_1266      AUGCGAA---------UAC-----------------------GCCAC-CC
+CC_3009      ---GGAG---------CCUGUC-----------------GGG-UUUC-GA
+CC_0270      GAGUGAU-----------GGGAG---------------GCGG--CGG-CG
+CC_2123      ---GGAC------------AAAU--------------GGCGGAGCCC-UG
+CC_2161      AGACGAA-----------CCAA-----------------GAG-CGCC-GG
+CC_1825      UGUUCAU---------CUC-----------------------GUUUA-GA
+CC_0371      UAAAGAC------------GAC-----------------AAG-GGGU-CC
+CC_0522      ---UGAUU-------UCCAGA---------------------UCGAU-CA
+CC_0646      AGGGCCC---------CUC-----------------------UCCUC-CC
+CC_1808      UUGUCCU------------AAAAGG-----------UUCUGG-GCCG-GA
+CC_2743      ---GGAU---------CUG-----------------------AGUUC-GG
+CC_2492      ---UCAC------------CAA-----------------UCC--CUC-UC
+CC_2267      ---AGCC---------UCUAAAACCCC------GUGUCAUCC-CGGA-AG
+CC_2078      UAGAGC----------CCUUUA-----------------GCU--UUA-GA
+CC_1874      ---AAAA------------GAA-----------------AAC-GCCC-CG
+CC_3677      AAGCGA----------CCCGG-----------------------GCC-GC
+CC_1988      AAAUGCU------------GUAAGG-----------GGAGGG-CCCG-UC
+CC_3194      GUGGGAA---------CUU--------------------GCG-GCGC-GU
+CC_1572      AGAAGA----------CCUGGAU---------------UAGA-CGCU-CC
+CC_0600      ---UGAG------------GGA-----------------AGG-GCGA-GG
+CC_2834      UAAACCC---------AUGAAA-----------------UCC--CUC-UC
+CC_1313      AAACGAACU----AUGCCGAAA-----------------GGU-GCGC-GA
+CC_0429      AUCGGAA---------CACAAA-----------------ACG-CCCU-CG
+CC_1879      ---CGAC-----------AAGA-----------------UCA-GGGU-GA
+CC_1720      ---CGC----------CCUCAC-----------------GCG-GCGG-CU
+CC_0347      AUUUGA----------UCAGAA-----------------AUC-CCCG-GG
+CC_3338      GGCUCAC---------CAGGAC-----------------AGG-CCGC-CG
+CC_1311      UGUUGAA-----------G--------------------CCG-CCUG-CG
+CC_1035      UUCUAAG------------GG------------------GAG-GCUC-UC
+CC_2241      UAGCGAA---------CAAGAA-----------------AGGCCGGC-UC
+CC_3274      ---AGAA------------AAA--------------------UCCUC-CC
+CC_2509      ---UGCU---------GCG--------------------AUC-CUCA-AG
+CC_0298      ---GGA----------CCUGACGGCG--------GCGGCGGG-CGCU-CA
+CC_3627      AAUCGCC---------CUU-----------------------CGGCC-CC
+CC_2918      UGACGAC---------ACUGGCC--------------GCCGC-UCCG-CC
+CC_1043      ---UCAU---------AACGC---------------------CCUUC-UC
+CC_0479      UAAGCAA---------CCAGAAUA------------CCAGCG-GCCG-GA
+CC_3633      UACUGAA-----------A-----------------------UCCUC-CC
+CC_0310      ---CGAA---------UUG-----------------------UCCUC-CC
+CC_2511      AACCGAU---------ACGGAA-----------------AAG-GCCC-CG
+CC_2903      ---AGAC---------UAUGAC-----------------AGG--CCG-GC
+CC_1497      ---ACAA---------AAG-----------------------CCCUC-UC
+CC_1798      ---AGA----------ACGGAA-----------------AAG-GGCG-GC
+CC_0346      UUCAGAC---------AACAAAA--------------AAAUC-CCCG-GA
+CC_3575      ---AAAA---------CUCAAA-----------------GGG-CGCC-GC
+CC_0352      UGUACCA---------GUAGAA-----------------AAC-CCUC-UC
+CC_0939      GACAGC----------CAUGUAA--------------AACGG-CCGC-CG
+CC_0790      GGGUGAG-----------C------------------------CCUC-UC
+CC_1141      ---AGA----------CUCGGA-----------------GGC-CGGC-GC
+CC_0280      GGGGGCG---------CCCGAAAG------------GCCGGA-GGGG-GA
+CC_3367      ---GGA----------CCU--------------------AGA--GCG-UG
+CC_2813      UGGCGAU---------UUAAAA-----------------UCC--CUC-UC
+CC_3597      GUGUCAU-----------GGUC-----------------UGG-CGCC-GU
+CC_2999      GAACGA----------CUC-----------------------UCCUC-CC
+CC_2959      GGGUGCU------------GUAG--------------GUUCC--CUC-UC
+CC_2254      ---GGAG------------GAA----------------CCGGCGCCU-CU
+CC_1961      UGCAGCG---------AUUAG------------------GGC-GCGC-CA
+CC_2706      UACUCAU-----------AGU---------------------CUAUU-CC
+CC_3229      UUCAGA----------CAG--------------------GGC-GGCU-UC
+CC_2490      ---AGAC------------AA------------------GGG-GCCG-CU
+CC_2073      ---CGCA---------CCU--------------------CAG-GAUG-AG
+CC_2622      GAACGAC------------AAA-----------------AGG-CCCC-GU
+CC_3113      UAUGGCU---------CUAAA---------------------UCCUC-CC
+CC_3072      UAGAGCG-----------UGA------------------CGC-CGAA-AG
+CC_2251      ---UAC----------CUG-----------------------CGGCG-GG
+CC_0543      ---CGAC------------CUA-----------------GAG-CGUU-CU
+CC_3287      AAGGGCU-----------C-----------------------CCGUC-AG
+CC_0771      GAUCGCC---------CCUUAAUUCCC------GUGUCAUCC-CGGA-AG
+CC_3435      ---AGAC---------CCUGAAACG----------UCAACGC-CGCC-CC
+CC_1337      AAAAGAG------------AAA-----------------GGG-CGCG-GA
+CC_1344      AAUCGCC-----------CGUC--------------------AUCCC-GC
+CC_0955      ---AGAA------------AAA-----------------GGG--CCG-CG
+CC_3031      ---GGCC---------GCA-------------------------CCC-CG
+CC_0470      AGCCGCC-----------CGUC-----------------UGG-CGCA-GG
+CC_1093      GUCUGAA----------ACAAC----------------GAAG-GGCC-GG
+CC_1262      ---CGCA------------AUC-----------------CCCUCGGG-CG
+CC_3442      ---CGAGGC----CUACUG-----------------------CGGGC-UG
+CC_2243      UUCCGA----------CCU-------------------------UCC-CG
+CC_0854      ---CGAA---------CAGAUC-----------------GGA-UAGA-GC
+CC_1319      GUCGGAA-----------AAUC-----------------GAG-GCGG-UC
+CC_1292      AGCGGCC-----------UUUA-----------------GCU--UUA-GA
+CC_0418      ---CGA----------UCC-----------------------ACCUC-CC
+CC_0061      ---CGC----------CUUGGCGC------------GCCGAG-CCGG-GA
+CC_2205      ---CGA----------UCC-------------------------UCC-CG
+CC_0400      GAUUGAG-----------A-----------------------UCCUC-UC
+CC_1520      ---CGCU---------GCG-----------------------UGACC-UG
+CC_1658      ---UGA----------CAUAUC-----------------CCU-CGUC-CC
+CC_1565      AACCGCU-----------CGAA-----------------UCA-UCGA-GG
+CC_0734      UAGUCC----------GUC-----------------------AUCCC-GC
+CC_1461      GGGGCAG-----------GGAC-----------------GGG-GGCG-AG
+CC_0777      UACUCC----------GUG-----------------------AUCCC-GC
+CC_1884      ---AGAA---------GCUUAAG--------------GUGAG-CGUG-GC
+CC_2746      UGACGAA------------GUAGGCGC-------GCUCCAAU-CCUC-CC
+CC_3707      GUCCGG----------UCUGUC-----------------AGG-UCUG-AG
+CC_2468      ---AGC----------CCUCAAG--------------CGAAA-GGCC-CG
+CC_0789      ---UGAU---------GUU-----------------------CCUUC-UC
+CC_2454      ---CGAU-----------CAAA--------------------UCCUC-CC
+CC_0680      ---AAAG-----------C--------------------GGU-GUGG-CC
+CC_1080      UUGGGCG---------AUA-------------------------CCG-CU
+CC_2236      AGCAGA----------UCCGUC-----------------AUU-UAGU-CG
+CC_1792      ---UCAU------------GAA-----------------UAU-UAAA-UA
+CC_0388      ---CGC----------GCC-----------------------ACCUC-CC
+CC_1387      UUUCGCC---------ACUGGCCGC-----------AGGAGG-CUAG-UC
+CC_3276      ---CGAU---------CCA--------------------CCU---CC-CC
+CC_1849      UAGCCA----------AUC-----------------------GCGGC-GC
+CC_3146      ---GGAA-----------CAAA-----------------GGC-CGGG-AU
+CC_0421      ---GGCC-----------A-----------------------CCCUC-UC
+CC_2102      ---AAAC---------CUUGA---------------------CGGAC-GA
+CC_0265      AGCGGAU---------CUAAA---------------------UCCUC-UC
+CC_1268      UUACAAG-----------CGUC----------------GGAA-GCCG-GU
+CC_3275      GGGCGAC------------GA------------------GAG-GCCG-GC
+CC_1623      ---CGAAG-------U--UCUAGUCU--------GGACAGGA-CGGC-GG
+CC_1269      ---AGCC-----------CGUC-----------------GCU-GCAG-GA
+CC_0223      ---AGAA-----------C-----------------------GUCUG-GC
+CC_3385      ---AGC----------CCUGA-----------------------AUU-CA
+CC_3445      AUGCACG---------GUUUAAG---------------GCGC-CCUC-GG
+CC_1611      UGCCGCG-----------UGUCAG-------------UACGG-CGUC-GC
+CC_0745      AAGUCCA-----------CGAA-----------------CCC-CGAG-GC
+CC_0253      ---GGAC-----------GGUCC---------------CCGC-CGUC-CU
+CC_1515      ---AAAG---------CCUGAACG------------ACAGAG-GCGG-UC
+CC_1555      ---CGAU------------AAAGGGU---------GUCAUCC-CGGA-AG
+CC_3108      AAGGGCU---------CCU-----------------------UCCGC-CC
+CC_1902      ---CGAA------------AAAUGG-----------AGCAGG-CCCU-GA
+CC_2349      ---CGA----------UUU--------------------AGG-CGCCUGC
+CC_0083      GAGCGA----------UCUGUC--------------------GGGUC-GG
+CC_0459      GGCCGAU---------CCGGGA--------------------CCCAG-GG
+CC_3752      AUCUGAU---------CAG-----------------------GCGCA-CU
+CC_1959      GUCGGAG---------CUUGACGUCCC-------GCUUUUCG-UUUU-CC
+CC_2559      UGCUGAG---------GCU-----------------------GUCGG-CG
+CC_0339      ---UCAA-----------C--------------------GAG-GCCU-UC
+CC_1986      ---CGCG------------GUCC---------------CCCU-CCCC-CG
+CC_2755      ---GGAG-----------U--------------------AGG-GGGC-UU
+CC_2709      ---AGAC---------CUGGUA----------------------GCG-GC
+CC_3436      ---CGAC---------AACGAA-----------------AAC-GCCG-CC
+CC_1980      GUCCCCC---------ACCGA---------------------CCGCG-CC
+CC_2618      GUCUGAA---------ACC-------------------------CUC-UU
+CC_3124      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+CC_0579      UUGGGCC-----------CAGC-----------------GCG-UGGC-UU
+CC_3695      ---AGCA------------GU---------------------UCGGG-GA
+CC_2128      ---UAAG------------GGA-----------------CGG-GGCU-GC
+CC_0185      ---UGAU-----------C--------------------UGG-UUUG-GA
+CC_0741      ---CGA----------UCUGAA----------------GGGC-CGCC-GU
+CC_1704      UAAGGCU-----------C--------------------AAAUUCGC-GG
+CC_2148      ---UGC----------ACUAAAGU-------------CGAAG-GGGC-GA
+CC_0419      UUUGGAG-----------A--------------------GGG--CGG-GG
+CC_0415      AACAGAA-----------AAGA-----------------GCG-CCCC-GA
+CC_1850      AGCAGAA------------AACCUAC--------CUUUGCGC-CGCC-GG
+CC_1355      UGGAAAC------------GAA-----------------AAA-CGCC-GC
+CC_0392      ---AGAU---------GUUCA-----------------------CGG-GU
+CC_3706      GGCCGA----------CCUGA------------------AGG-UCUG-AG
+CC_1048      ---AGCU---------GAG--------------------ACA--UCA-GG
+CC_2874      AUCCGCC-----------UGAA--------------------AUCCU-CA
+CC_1009      UUCGGAU-----------GGGC-----------------GGC-GCGG-GC
+CC_1801      ---UGAG---------CCUCAAGCCUUC----GCGCGCGGCG-GCCA-GG
+CC_2610      UGCAACC---------UCCAAAU---------------CGCC-CCUA-CG
+CC_2176      ---CGCG---------GCU-----------------------CCCUU-CC
+CC_2478      ---CGA----------CUUGAAACG----------AGGCGAG-UCGC-CC
+CC_0288      ---UCCU-----------UAAA-----------------GGC-CGCU-CC
+CC_3738      ---CGCG---------CUUAAA----------------AUCC--CUC-UC
+CC_3470      ---UAAC-----------C-----------------------AGCGG-CC
+CC_1748      GAGUGAC------------GACCAGCAC----CCGCUGUUCG-CCCU-GA
+CC_3589      UGAGGAG---------CCG--------------------AAA-CCUC-GC
+CC_1526      UUGAGA----------CCC-------------------------CUC-UC
+CC_0774      ---AGC----------GCUAUCC---------------GGGA-CCCA-GG
+CC_0108      GUAGGAA---------CUAAA---------------------CUCUC-CU
+CC_0766      AACUCAC---------ACCGUC--------------------AUCCC-GC
+CC_2183      UUUCGAC---------AUC-----------------------CCCUC-UG
+CC_2033      GAUCGAG---------CCC-----------------------GUCUG-GU
+CC_0139      ---AGAG---------CAU-----------------------UUUCC-GA
+CC_2969      UUUCAAA---------CACUUC-----------------GAG--CGU-GG
+CC_0360      UUCUGAG----------UUAAACCGC---------GCGCCGC-GCUC-GA
+CC_3666      GGGCAAG-----------CAAA-----------------ACC-CGCG-CG
+CC_1136      UACAGCU---------UCU--------------------AGA--GCG-UG
+CC_3688      GACUGA----------CACGGCC---------------GGCG-CCGC-UC
+CC_2493      ---AGAA---------GCC-------------------------CUC-UC
+CC_1259      GGCUGAA------------GACCG-------------UUUAU-CGCGAGC
+CC_0530      ---GGAU------------AAA----------------CGGG-CUCU-GA
+CC_0855      UUCAAAU------------GUAA---------------AGAU--GGA-GC
+CC_2362      ---UGA----------CAC-------------------------CUC-GG
+CC_0835      UAAACAAU------AGGUUGUAGU------------GGCCGG-GCGA-AG
+CC_1367      ---AGCG-----------UGA-----------------------GGA-AG
+CC_1459      AGCUGCC---------GCC-----------------------CGGCG-AA
+CC_3731      GUGAGCC---------CAAAAA--------------------UCCUC-UC
+CC_3556      ---AGAU---------AAGGA------------------GGC--GGC-GC
+CC_0475      ---AAAA------------GAA-----------------AAG-GCCC-GG
+CC_1960      UAUCGAU-----------GGUAACU-----------UAGGCG-GCGC-GG
+CC_0335      AGGCGAU------------AGCUGC-----------UCGGGC-GGGA-CU
+CC_0369      AUCCGAU------------GCAC---------------CAGU-UCCA-GA
+CC_0084      GGCUGAU---------CAUGGC--------------------CCCUC-UC
+CC_1372      ---GGA----------UACGAA-----------------AAA-GGCC-GC
+CC_3761      ---UGAG---------CUU-----------------------GCGGC-GG
+CC_2719      AGGCGCA-----------G--------------------CGC-CCUU-GG
+CC_3270      AACAGACG-------GACUAA---------------------GCCGC-CC
+CC_3315      ---UGAA-----------GGA-----------------------AGC-GG
+CC_2941      ---CGA----------UCU-------------------------CCC-CG
+CC_3357      ---AGCA------------GA---------------------UCCUC-GA
+CC_0246      GUUAGAA------------GU---------------------UCCUC-CC
+CC_1204      ---GGCA------------AA---------------------CCUCA-CC
+CC_0167      UUGAGCU------------UUA-----------------AAC-CCCG-AG
+CC_1715      ---UCAG------------GU---------------------CCCUC-UC
+CC_2432      GAAGGCG---------CAU-----------------------CGAGC-CC
+CC_2957      ---CGA----------CCU-------------------------CCC-CG
+CC_1492      ---AACC---------AUCGU---------------------GCCGG-GC
+CC_0722      ---GGAC---------CACAAACCUG--------UGUCAUCC-CGGA-AG
+CC_0186      ---AGACCCG---CUUCCC-----------------------GCCUC-CU
+CC_0980      ---CGAA------------AGC-----------------GCC-CGGC-GA
+CC_2814      ---GGCC---------CCU-----------------------CCCUC-UC
+CC_2513      ---CGAG-----------C-----------------------GGUCC-UC
+CC_1295      ---UGA----------CCGGU---------------------CUCCG-UA
+CC_3277      UAAACCG---------CUCGAAC--------------GCGCU--CUA-AG
+CC_3164      AAAUGAU------------GG------------------GGA-CCUU-GG
+CC_0796      ---GGCC---------GCA-------------------------CCC-CG
+CC_2228      UAGGGAC---------AUGGAA-----------------AAG-CCCG-CC
+CC_3732      ---AGCG---------CCAAAA--------------------UCCUC-CC
+CC_0446      GUCAGCG------------GCC-----------------GGA-GGCU-UC
+CC_3271      ---AGCG------------GAA--------------------CGUCA-AG
+CC_0425      ---AGAG---------CCUGUC-----------------CGC-UUCG-GA
+CC_1287      GUCUGAC-----------G-----------------------CUGGC-GA
+CC_1970      ---AGA----------CUGGGA-----------------AAG-GCCG-CG
+CC_0601      GAUCCAA---------UAAAAA-----------------AGG-GCGA-GG
+CC_1121      AUCUGAU---------CUAAA---------------------UCCUC-CC
+CC_2569      AUCUGAA---------ACGCAA-----------------GGG-GCGA-AG
+CC_1971      ---GGAA---------AAAGAA-----------------AAG-GCCG-CG
+CC_2985      AUGAGCU---------AUA-----------------------GGCUC-AG
+CC_1812      GAGCCCG---------CCUGAAGCCG--------GCCUCAGG-CCUC-GG
+CC_0623      ---CGAU---------UUU-----------------------GCGGU-GC
+CC_3248      AAGGGAC---------ACUCCA-----------------ACC-CCCG-CU
+CC_0193      AGAAGCG-----------C-----------------------UCCCC-UC
+CC_1856      ---UGC----------GUC-----------------------CCUUC-UC
+CC_1903      ---UGAA-----------UAACA--------------AGAGG-CCCU-GA
+CC_0486      AUUCCAU---------CACGA------------------GGG-GCCG-GG
+CC_2012      ---CGAU---------CCAGA------------------UCG-CGGU-GG
+CC_2531      GGCGGAU---------CUGGGAG--------------ACGCG-GGCC-GG
+CC_1487      UGACGCC---------CCGUGC-----------------GGU-CAGC-AC
+CC_1302      ---CGAC---------CUC--------------------AGG-CCUC-GG
+CC_2772      AGCGGAA------------GUAGGGUCG----GGUUUUAAAA--GUC-GU
+CC_1304      UGGCGAU---------CCU-------------------------GGC-GG
+CC_2242      AUCGGAU---------AAGGU------------------UAC-CGGC-CA
+CC_3130      AGGUGAUG-------GUCA-----------------------CCUUC-UC
+CC_0306      GAGUGAU---------CCAAA---------------------UCCUC-CC
+CC_3549      GGGUGAGGU-----UUCUU-----------------------UCUCC-UU
+CC_0184      UUGCGAA-----------CGCA-----------------UCG-GAAA-AU
+CC_3306      ---UGC----------ACG-----------------------UCAUG-CC
+CC_2328      UACUGA----------CACGGAG--------------AUGGC-CGGG-CC
+CC_0560      UAGAGCC---------CCU-----------------------UCCGA-UC
+CC_1103      UACUGCC---------CUGCAAGC-------------GCCCC--CGG-GA
+CC_2295      GAUCGAU------------GAC-----------------GCG--CCC-CA
+CC_3086      GGCAAAA---------GCG-----------------------CGUCA-UC
+CC_2643      UGAAGAU-----------CGUCGAGUAG-----GGGUUGGGA-GCGC-CG
+CC_2214      GAUUGAU---------GUUUU---------------------CCUUC-UC
+CC_3503      GGAUCC----------CCUGCA-----------------AGG-CCGC-CG
+CC_2016      UUACAAA---------CCGGACG---------------GGCG-GCUG-G-
+CC_0772      GGCUCAG-----------C-------------------------CCC-CG
+CC_0747      GAUCGCU-----------GGAAU---------------UGGG-GGCU-GG
+CC_0724      AAGCCCU---------CCC-----------------------CCUUC-UC
+CC_0064      GAGAGA----------UCU-----------------------CCUUC-UC
+CC_1540      UGGGGAA------------GA------------------AAU--UUG-CG
+CC_1979      ---AGAG-----------A-------------------------UCC-GC
+CC_2226      GACGGAA-----------CGUC-----------------GAA-CGCC-GC
+CC_2379      ---GGCG-----------CGGC-----------------CGG-CUUC-GU
+CC_0691      GUUCGCC-----------UGA---------------------GGGUG-CG
+CC_2965      GACUGAUCCAUCCCGGC-----CA------------GACGCU--CCC-UC
+CC_1735      UGCUGC----------CCUAUAC--------------GCCCG--ACC-AG
+CC_1844      GGGUGAA---------CUCAA---------------------UCCUC-CC
+CC_2443      UUCGGCU---------CACACC-----------------UCA-GGAU-GA
+CC_0391      ---CGA----------CCU-------------------------CCC-CG
+CC_2721      GGCCGC----------CUU-----------------------GGCGA-UC
+CC_0732      UUAAGAC-----------CGGAGG-------------GGGCG-CUCC-GU
+CC_1535      ---CGAC------------GAA-----------------ACU-CGCC-AG
+CC_1624      ---CGCG---------GUGUUC-----------------GCC-GCCG-CC
+CC_1183      ---CGCG------------GACU--------------GGGUUGCGCG-GC
+CC_2129      ---AGCG---------CUUAUCU--------------GGCGG-GGCU-GU
+CC_2258      ---UGAA---------CUU-----------------------GGGCGGCG
+CC_2671      GUUUGAA-----------CAAAGGG-----------UGAGGA--GGC-GG
+CC_2175      ---CGAA---------CUU-------------------------CCG-GC
+CC_3084      UGCUGAG------------GC---------------------GCCAG-GC
+CC_1007      GACUAAG------------AGA-----------------CCC-CGUC-UU
+CC_0007      UUCAAAU---------AUUUACA--------------AAGGC-CGAU-CA
+CC_0506      ---AGAG---------CCUGUC-----------------UGG-UUUA-GA
+#=GC SS_cons :::::::.........::::::.................<<<.<<<<.<<
+#=GC RF      uaccGAa.........CcuGAA.................ggG.Cccc.gc
+
+CC_0442      --CC----------------------------------------------
+CC_0836      --UG----------------------------------------------
+CC_0512      --UG----------------------------------------------
+CC_1042      --UC----------------------------------------------
+CC_3669      --GCUAAGCGC----------------------------------AAAGC
+CC_1554      --CC----------------------------------------------
+CC_1584      --UG----------------------------------------------
+CC_3047      --UC----------------------------------------------
+CC_1506      --CG----------------------------------------------
+CC_2993      --UG----------------------------------------------
+CC_1206      --UG----------------------------------------------
+CC_1293      --UG----------------------------------------------
+CC_2079      --UG----------------------------------------------
+CC_1620      --UG----------------------------------------------
+CC_0685      --GC----------------------------------------------
+CC_2160      --UC----------------------------------------------
+CC_0066      --UC----------------------------------------------
+CC_3756      --UGGAACAUCCCCAAUAUUGUCCACAGGCCGCUCACAGCUGCGGUGGGG
+CC_3670      --CCGGCUCUGCGCG--------------------------CUUUGCGCU
+CC_0698      --CC----------------------------------------------
+CC_2225      --CG----------------------------------------------
+CC_2469      --UG----------------------------------------------
+CC_0383      --UG----------------------------------------------
+CC_2224      --CGAAAGUG-----------------------------------GGAAC
+CC_2848      --UA----------------------------------------------
+CC_0456      --UG----------------------------------------------
+CC_3201      --GGUUU-----------------------------------------GA
+CC_0200      --CG----------------------------------------------
+CC_1469      --UG----------------------------------------------
+CC_2924      --GGGA--------------------------------------------
+CC_1507      --CG----------------------------------------------
+CC_0655      --CG----------------------------------------------
+CC_0088      --UGGUU-----------------------------------------GA
+CC_1234      --UG----------------------------------------------
+CC_1724      --CG----------------------------------------------
+CC_1409      --CG----------------------------------------------
+CC_0715      --UG----------------------------------------------
+CC_3118      --CG----------------------------------------------
+CC_2590      --UG----------------------------------------------
+CC_0443      --CC----------------------------------------------
+CC_3417      --CCUUCG----------------------------------------AC
+CC_0034      --CC----------------------------------------------
+CC_2867      --CG----------------------------------------------
+CC_0197      --UG----------------------------------------------
+CC_0970      --UG----------------------------------------------
+CC_3199      --GC----------------------------------------------
+CC_3739      --UC----------------------------------------------
+CC_0322      --GC----------------------------------------------
+CC_3663      --CG----------------------------------------------
+CC_2353      --UC----------------------------------------------
+CC_2948      --GG----------------------------------------------
+CC_3416      --GGACGACUGCUG---------------------------AGGCCACCG
+CC_3613      --UG----------------------------------------------
+CC_1240      --GA----------------------------------------------
+CC_2536      --CGGAUGC-------------------------------------UGAC
+CC_2819      --CG----------------------------------------------
+CC_1338      --GG----------------------------------------------
+CC_2658      --UG----------------------------------------------
+CC_3297      --GG----------------------------------------------
+CC_0129      --GG----------------------------------------------
+CC_2841      --UG----------------------------------------------
+CC_2094      --GG----------------------------------------------
+CC_0076      --UG----------------------------------------------
+CC_0661      --GGA---------------------------------------------
+CC_1721      --GG----------------------------------------------
+CC_3278      --UG----------------------------------------------
+CC_0169      --CG----------------------------------------------
+CC_0359      --AA----------------------------------------------
+CC_3612      --AGCCGAAAGUGG---------------------------CUACCGGUU
+CC_2842      --UG----------------------------------------------
+CC_2188      --UG----------------------------------------------
+CC_1289      --UC----------------------------------------------
+CC_0365      --UC----------------------------------------------
+CC_0858      --UG----------------------------------------------
+CC_0626      --UCUCAUCGAAGUGA------------------------CGAAGGAACG
+CC_0102      --GGG---------------------------------------------
+CC_2962      --GC----------------------------------------------
+CC_1363      --AG----------------------------------------------
+CC_3552      --CC----------------------------------------------
+CC_3035      --CC----------------------------------------------
+CC_1397      --AACCG-----------------------------------------GU
+CC_0991      --UC----------------------------------------------
+CC_0804      --UCGGCGGG-----------------------------------ACUCU
+CC_2868      --UG----------------------------------------------
+CC_3648      --GCCUGCUCC----------------------------------AGUUG
+CC_2727      --UCUCAUCGAAGUGA------------------------CGAAGGAACG
+CC_1162      --UC----------------------------------------------
+CC_3382      --CC----------------------------------------------
+CC_3760      --GG----------------------------------------------
+CC_3370      --GC----------------------------------------------
+CC_0764      --GG----------------------------------------------
+CC_1325      --CC----------------------------------------------
+CC_3069      --GC----------------------------------------------
+CC_2354      --CC----------------------------------------------
+CC_3607      --AGUA-------------------------------------------U
+CC_3189      --CCGGGCGG-----------------------------------CGAAG
+CC_1667      --GA----------------------------------------------
+CC_3510      --CC----------------------------------------------
+CC_2390      --GC----------------------------------------------
+CC_2371      --CC----------------------------------------------
+CC_0539      --CCG---------------------------------------------
+CC_3298      --CG----------------------------------------------
+CC_3717      --UCC---------------------------------------------
+CC_3371      --CCGGAUCGCCC------------------------------CUGCGGG
+CC_2364      --UG----------------------------------------------
+CC_0140      --UC----------------------------------------------
+CC_1923      --GC----------------------------------------------
+CC_2029      --CGGGGGAG------------------------------------ACGU
+CC_3098      --UC----------------------------------------------
+CC_3021      --UC----------------------------------------------
+CC_2095      --CUCUGC---------------------------------------GCU
+CC_1142      --UC----------------------------------------------
+CC_1508      --GA----------------------------------------------
+CC_0474      --UG----------------------------------------------
+CC_2173      --UC----------------------------------------------
+CC_1342      --GC----------------------------------------------
+CC_3742      --UCA---------------------------------------------
+CC_3291      --UCC---------------------------------------------
+CC_2245      --CC----------------------------------------------
+CC_0699      --AC----------------------------------------------
+CC_3402      --ACGCC------------------------------------------A
+CC_1677      --GCCGCACGGGC-----------------------------UCUUGCCA
+CC_3664      --CGG---------------------------------------------
+CC_0384      --UG----------------------------------------------
+CC_2366      --GG----------------------------------------------
+CC_1654      --GCU---------------------------------------------
+CC_0028      --CCGAC------------------------------------------C
+CC_2300      --CGCGCA----------------------------------------GC
+CC_1653      --GC----------------------------------------------
+CC_0984      --GAG---------------------------------------------
+CC_2639      --GU----------------------------------------------
+CC_3699      --GACC--------------------------------------------
+CC_1621      --UG----------------------------------------------
+CC_1197      --UGGCU-----------------------------------------GA
+CC_2109      -CCG----------------------------------------------
+CC_2294      --CCG---------------------------------------------
+CC_1471      --UCGUACCCGC--------------------------------GUGAGA
+CC_0653      --GC----------------------------------------------
+CC_3393      --GC----------------------------------------------
+CC_3620      --GU----------------------------------------------
+CC_1843      --CC----------------------------------------------
+CC_3463      --UC----------------------------------------------
+CC_0050      --UC----------------------------------------------
+CC_0414      --CC----------------------------------------------
+CC_3462      --GC----------------------------------------------
+CC_0765      --CGGG--------------------------------------------
+CC_0944      --ACAAA------------------------------------------U
+CC_1571      --UC----------------------------------------------
+CC_2044      --UG----------------------------------------------
+CC_0878      --CC----------------------------------------------
+CC_2895      --UG----------------------------------------------
+CC_2538      --GCUGAGCG-----------------------------------CAAAC
+CC_1449      --AGGUG-----------------------------------------CG
+CC_2066      --GGCGGCC--------------------------------------GAG
+CC_2522      --AG----------------------------------------------
+CC_1906      --GC----------------------------------------------
+CC_2994      --UG----------------------------------------------
+CC_0781      --AC----------------------------------------------
+CC_2470      --UG----------------------------------------------
+CC_0669      --GCGGC------------------------------------------A
+CC_1460      --GCU---------------------------------------------
+CC_3585      --GCUG--------------------------------------------
+CC_2187      --UG----------------------------------------------
+CC_3743      --CA----------------------------------------------
+CC_0721      --CGGA--------------------------------------------
+CC_3494      --CG----------------------------------------------
+CC_2935      --CG----------------------------------------------
+CC_1496      --UC----------------------------------------------
+CC_1877      --UC----------------------------------------------
+CC_2919      --UCAUCGCCCA-------------------------------GCCAGGG
+CC_1296      --CC----------------------------------------------
+CC_0792      --UC----------------------------------------------
+CC_2269      --GGAGCGUG-----------------------------------AAGCC
+CC_0047      --CC----------------------------------------------
+CC_1201      --UC----------------------------------------------
+CC_3394      --GC----------------------------------------------
+CC_3013      --UC----------------------------------------------
+CC_0266      --UCGCAUCGAGCCCGG---------------------CCAGCAAGACCG
+CC_2051      --UC----------------------------------------------
+CC_2916      --UC----------------------------------------------
+CC_2893      --UG----------------------------------------------
+CC_1881      --UGAGGAAACC-------------------------------AUCACGA
+CC_0044      --GA----------------------------------------------
+CC_0819      --CGGA--------------------------------------------
+CC_3303      --CG----------------------------------------------
+CC_1922      --GCAU--------------------------------------------
+CC_0497      --C-----------------------------------------------
+CC_0104      --CC----------------------------------------------
+CC_1873      --GA----------------------------------------------
+CC_1323      --GC----------------------------------------------
+CC_1320      --GC----------------------------------------------
+CC_0401      --CU----------------------------------------------
+CC_0995      --UG----------------------------------------------
+CC_3161      --GG----------------------------------------------
+CC_1273      --GA----------------------------------------------
+CC_1106      --UG----------------------------------------------
+CC_1963      --CC----------------------------------------------
+CC_0389      --CC----------------------------------------------
+CC_1085      --GC----------------------------------------------
+CC_3068      --GC----------------------------------------------
+CC_1364      --GC----------------------------------------------
+CC_3604      --UG----------------------------------------------
+CC_1185      --GGGAAGAAGGAAA--------------------------CACGCGGAC
+CC_3574      --GCG---------------------------------------------
+CC_3177      --CC----------------------------------------------
+CC_3273      --CC----------------------------------------------
+CC_0949      --CC----------------------------------------------
+CC_3504      --GA----------------------------------------------
+CC_0882      --GG----------------------------------------------
+CC_1015      --GGAUC-----------------------------------------GC
+CC_1983      --UG----------------------------------------------
+CC_0717      --UG----------------------------------------------
+CC_2017      --UGG---------------------------------------------
+CC_0162      --UC----------------------------------------------
+CC_3292      --UC----------------------------------------------
+CC_2668      --GGAACACU-----------------------------------CCGUA
+CC_0516      --UG----------------------------------------------
+CC_0940      --UG----------------------------------------------
+CC_3652      --UC----------------------------------------------
+CC_2689      --GCCAUGCGCGAAGGCGUCGCUCAU----CUGCGGACGGUGUUCGAGAU
+CC_0042      --GC----------------------------------------------
+CC_2539      --GCGGGCGC------------------------------------GUUU
+CC_0927      --GG----------------------------------------------
+CC_3764      --CC----------------------------------------------
+CC_3553      --GC----------------------------------------------
+CC_0938      --GA----------------------------------------------
+CC_3539      --GG----------------------------------------------
+CC_1788      --CAUCU------------------------------------------C
+CC_0946      --GAUAU-----------------------------------------GG
+CC_0795      -ACC----------------------------------------------
+CC_0843      --UGAGGGACACAG----------------------------CAUAGAGC
+CC_2638      --GG----------------------------------------------
+CC_2268      --GC----------------------------------------------
+CC_0394      --CGGA--------------------------------------------
+CC_1699      --UC----------------------------------------------
+CC_2968      --UC----------------------------------------------
+CC_0839      --UG----------------------------------------------
+CC_0199      --CG----------------------------------------------
+CC_2737      --AUUUGGCGUAGA----------------------------GAUGAUUU
+CC_2291      --GCCAUGCGCGAAGGCGUCGCUCAU----CUGCGGACGGUGUUCGAGAU
+CC_1774      --CC----------------------------------------------
+CC_2809      --CC----------------------------------------------
+CC_0571      --UC----------------------------------------------
+CC_1324      --CC----------------------------------------------
+CC_2644      --CC----------------------------------------------
+CC_1765      --UCGGUG----------------------------------------AG
+CC_2783      --CC----------------------------------------------
+CC_2815      --UC----------------------------------------------
+CC_0127      --GCGGAGCG-----------------------------------GCCUA
+CC_0210      --CC----------------------------------------------
+CC_1666      --GA----------------------------------------------
+CC_3526      --UUC---------------------------------------------
+CC_2741      --GCCAUGCGCGAAGGCGUCGCUCAU----CUGCGGACGGUGUUCGAGAU
+CC_2050      --UC----------------------------------------------
+CC_0156      --CC----------------------------------------------
+CC_0956      --CU----------------------------------------------
+CC_1153      --CCU---------------------------------------------
+CC_3112      --CC----------------------------------------------
+CC_0770      --GC----------------------------------------------
+CC_0637      --UU----------------------------------------------
+CC_0999      --GC----------------------------------------------
+CC_1498      --UC----------------------------------------------
+CC_2845      --GG----------------------------------------------
+CC_0726      --GCGUCCAGAUCGAUCCG------------------CGAAAGCUUGUCG
+CC_1128      --UCGA-------------------------------------------C
+CC_0485      --CC----------------------------------------------
+CC_0503      --GC----------------------------------------------
+CC_2804      --GC----------------------------------------------
+CC_2436      --GC----------------------------------------------
+CC_0514      --GCCAUGCGCGAAGGCGUCGCUCAU----CUGCGGACGGUGUUCGAGAU
+CC_1036      --CC----------------------------------------------
+CC_1868      --CC----------------------------------------------
+CC_2121      --GC----------------------------------------------
+CC_3372      --CCGGACGGCC-------------------------------CGCAGGG
+CC_1365      --AC----------------------------------------------
+CC_3066      --UC----------------------------------------------
+CC_3521      --CC----------------------------------------------
+CC_3432      --UC----------------------------------------------
+CC_3321      --GG----------------------------------------------
+CC_2758      --GA----------------------------------------------
+CC_0257      --CC----------------------------------------------
+CC_1892      --UC----------------------------------------------
+CC_1733      --GC----------------------------------------------
+CC_2229      --GG----------------------------------------------
+CC_3546      --GGUUGCGCGGCGGC-----------------------UUCCCCGCCCG
+CC_1005      --CCC---------------------------------------------
+CC_1398      --UC----------------------------------------------
+CC_2955      --GC----------------------------------------------
+CC_0454      --UG----------------------------------------------
+CC_1377      --GG----------------------------------------------
+CC_0008      --UCUG--------------------------------------------
+CC_0379      --CU----------------------------------------------
+CC_2459      --UA----------------------------------------------
+CC_3596      --CCUGA-----------------------------------------CU
+CC_2540      --GA----------------------------------------------
+CC_2659      --CGG---------------------------------------------
+CC_2264      --GC----------------------------------------------
+CC_1969      --GAGA--------------------------------------------
+CC_2172      --CCGA--------------------------------------------
+CC_1318      --UG----------------------------------------------
+CC_1468      --UC----------------------------------------------
+CC_1374      --CCUUGACCAAG-----------------------------CCGCAGCU
+CC_1556      --GC----------------------------------------------
+CC_1964      --UC----------------------------------------------
+CC_1579      --GG----------------------------------------------
+CC_3682      --AC----------------------------------------------
+CC_1578      --GCGG-------------------------------------------A
+CC_3387      --GU----------------------------------------------
+CC_2839      --AAUA-------------------------------------------U
+CC_1891      --UC----------------------------------------------
+CC_1290      --GG----------------------------------------------
+CC_1078      --UCGAGGCCCGC------------------------------UUUGCGG
+CC_1847      --GC----------------------------------------------
+CC_2931      --GC----------------------------------------------
+CC_0087      --UGAUU-----------------------------------------GA
+CC_0965      --------------------------------------------------
+CC_2881      --GC----------------------------------------------
+CC_1635      --UG----------------------------------------------
+CC_3518      --GC----------------------------------------------
+CC_3700      -ACC----------------------------------------------
+CC_3559      --GCCGC------------------------------------------G
+CC_0638      --AAAGUGG--------------------------------------GAA
+CC_1045      --GG----------------------------------------------
+CC_3605      --GC----------------------------------------------
+CC_2616      --UGAGGUAAUC-------------------------------AGUAAGC
+CC_3024      --CGUU--------------------------------------------
+CC_2203      --CC----------------------------------------------
+CC_3729      --CC----------------------------------------------
+CC_1099      --CC----------------------------------------------
+CC_0925      --UC----------------------------------------------
+CC_3759      --GG----------------------------------------------
+CC_3205      --UC----------------------------------------------
+CC_1962      --CC----------------------------------------------
+CC_0670      --GC----------------------------------------------
+CC_0690      --CC----------------------------------------------
+CC_3413      --CGGC-------------------------------------------G
+CC_3690      --UC----------------------------------------------
+CC_0681      --CCGAGCGUGCUACCCG--------------------AUUUCUAUUUGG
+CC_2182      --CCU---------------------------------------------
+CC_0353      --CC----------------------------------------------
+CC_1184      --GA----------------------------------------------
+CC_2327      --GCAAG------------------------------------------C
+CC_0876      --GU----------------------------------------------
+CC_3587      --GA----------------------------------------------
+CC_3655      --CC----------------------------------------------
+CC_0478      --CG----------------------------------------------
+CC_0215      --GG----------------------------------------------
+CC_1079      --CGCGGCGCCC-------------------------------GCAAAGC
+CC_1589      --CG----------------------------------------------
+CC_3140      --GC----------------------------------------------
+CC_3352      --CC----------------------------------------------
+CC_1581      --UG----------------------------------------------
+CC_3250      --UC----------------------------------------------
+CC_3226      --UC----------------------------------------------
+CC_0713      --UC----------------------------------------------
+CC_2781      --CG----------------------------------------------
+CC_0782      --UC----------------------------------------------
+CC_0814      --CC----------------------------------------------
+CC_1655      --CU----------------------------------------------
+CC_0178      --GC----------------------------------------------
+CC_2120      --UC----------------------------------------------
+CC_1404      --GG----------------------------------------------
+CC_0977      --AG----------------------------------------------
+CC_3676      --GGC---------------------------------------------
+CC_0793      --UC----------------------------------------------
+CC_3492      --GG----------------------------------------------
+CC_0840      --GGCGCUCCGCG------------------------------CUUCGCG
+CC_1271      --GC----------------------------------------------
+CC_0455      --UC----------------------------------------------
+CC_0079      --GC----------------------------------------------
+CC_3410      --CCUUCG----------------------------------------AC
+CC_0531      --UA----------------------------------------------
+CC_2594      --UCGAUCUCGUCCUG------------------------GUUCAACUGG
+CC_3061      --GC----------------------------------------------
+CC_3444      --GG----------------------------------------------
+CC_0035      --CCCCGC----------------------------------------UC
+CC_1267      --CCGUUGAGCGCCUGGCGCU--------------GUCGGGACCGCGUUU
+CC_0837      --UC----------------------------------------------
+CC_3430      --CA----------------------------------------------
+CC_1049      --CC----------------------------------------------
+CC_0010      --ACAUUCG-------------------------------------CCAC
+CC_0107      --CC----------------------------------------------
+CC_3213      --CC----------------------------------------------
+CC_1375      --UUUCCAAGC---------------------------------UGCGGC
+CC_1044      --CC----------------------------------------------
+CC_3524      --U-----------------------------------------------
+CC_0640      --GA----------------------------------------------
+CC_3218      --AU----------------------------------------------
+CC_2747      --CC----------------------------------------------
+CC_3088      --CG----------------------------------------------
+CC_2580      --UGGGU------------------------------------------G
+CC_3606      --GGAACUUGGAC------------------------------UGAGCUU
+CC_2578      --CC----------------------------------------------
+CC_2615      --GGAUGGC--------------------------------------UUA
+CC_2358      --CC----------------------------------------------
+CC_1807      --GGACGGU--------------------------------------GUG
+CC_0416      --CC----------------------------------------------
+CC_3152      --UG----------------------------------------------
+CC_3505      --GA----------------------------------------------
+CC_0160      --GCUA-------------------------------------------A
+CC_3433      --U-----------------------------------------------
+CC_2700      --CC----------------------------------------------
+CC_3584      --CCGCU-----------------------------------------GU
+CC_3590      --GCGA-------------------------------------------C
+CC_1907      --GC----------------------------------------------
+CC_0363      --UC----------------------------------------------
+CC_1799      --GCGGCA----------------------------------------GA
+CC_1813      --UCAC--------------------------------------------
+CC_0958      --CCUUCG----------------------------------------AC
+CC_1266      --CGGA--------------------------------------------
+CC_3009      --GG----------------------------------------------
+CC_0270      --GC----------------------------------------------
+CC_2123      --GG----------------------------------------------
+CC_2161      -CGG----------------------------------------------
+CC_1825      --UG----------------------------------------------
+CC_0371      --U-----------------------------------------------
+CC_0522      --CCA---------------------------------------------
+CC_0646      --CC----------------------------------------------
+CC_1808      --UG----------------------------------------------
+CC_2743      --GAGGUCACGC-------------------------------UUGAAAG
+CC_2492      --UC----------------------------------------------
+CC_2267      --CCU---------------------------------------------
+CC_2078      --UG----------------------------------------------
+CC_1874      --GA----------------------------------------------
+CC_3677      --AG----------------------------------------------
+CC_1988      --GC----------------------------------------------
+CC_3194      --CCUUC------------------------------------------C
+CC_1572      --CCGCUC---------------------------------------GGG
+CC_0600      --CC----------------------------------------------
+CC_2834      --UC----------------------------------------------
+CC_1313      --CG----------------------------------------------
+CC_0429      --UCGA-------------------------------------------C
+CC_1879      --GGGCUACUUCAAAC------------------------CGCGUACAAC
+CC_1720      --CGG---------------------------------------------
+CC_0347      --GC----------------------------------------------
+CC_3338      --CG----------------------------------------------
+CC_1311      --UC----------------------------------------------
+CC_1035      --CU----------------------------------------------
+CC_2241      --UC----------------------------------------------
+CC_3274      --CC----------------------------------------------
+CC_2509      --GCGG--------------------------------------------
+CC_0298      --GC----------------------------------------------
+CC_3627      -AGA----------------------------------------------
+CC_2918      --UCC---------------------------------------------
+CC_1043      --CC----------------------------------------------
+CC_0479      --GC----------------------------------------------
+CC_3633      --CC----------------------------------------------
+CC_0310      --CCG---------------------------------------------
+CC_2511      --GA----------------------------------------------
+CC_2903      --GC----------------------------------------------
+CC_1497      --UC----------------------------------------------
+CC_1798      --GCUGCC----------------------------------------GA
+CC_0346      --GC----------------------------------------------
+CC_3575      --GC----------------------------------------------
+CC_0352      --CC----------------------------------------------
+CC_0939      --GA----------------------------------------------
+CC_0790      --CC----------------------------------------------
+CC_1141      --UCG---------------------------------------------
+CC_0280      --AGUGCGGG-----------------------------------CUAUC
+CC_3367      --ACGCCGAAAGUGGG-----------------------AACCGGUUUCG
+CC_2813      --UC----------------------------------------------
+CC_3597      --CGGUGG----------------------------------------AU
+CC_2999      --CC----------------------------------------------
+CC_2959      --CC----------------------------------------------
+CC_2254      --GGUC--------------------------------------------
+CC_1961      --UC----------------------------------------------
+CC_2706      --GC----------------------------------------------
+CC_3229      --UC----------------------------------------------
+CC_2490      --CC----------------------------------------------
+CC_2073      --GAAUUCA--------------------------------------GAA
+CC_2622      --CCGACAC--------------------------------------GUC
+CC_3113      --CC----------------------------------------------
+CC_3072      --UG----------------------------------------------
+CC_2251      --GAG---------------------------------------------
+CC_0543      --CCGAUCAGUGUGA--------------------------AGCGGUGAU
+CC_3287      --GC----------------------------------------------
+CC_0771      --CCU---------------------------------------------
+CC_3435      --GG----------------------------------------------
+CC_1337      --GG----------------------------------------------
+CC_1344      --GC----------------------------------------------
+CC_0955      --UC----------------------------------------------
+CC_3031      --GC----------------------------------------------
+CC_0470      --GC----------------------------------------------
+CC_1093      --GG----------------------------------------------
+CC_1262      --UG----------------------------------------------
+CC_3442      --AA----------------------------------------------
+CC_2243      --GC----------------------------------------------
+CC_0854      --CU----------------------------------------------
+CC_1319      --GC----------------------------------------------
+CC_1292      --UG----------------------------------------------
+CC_0418      --CCG---------------------------------------------
+CC_0061      --UCGCCGGAAGC------------------------------GCCGAGC
+CC_2205      --GC----------------------------------------------
+CC_0400      --CC----------------------------------------------
+CC_1520      --GA----------------------------------------------
+CC_1658      --GC----------------------------------------------
+CC_1565      --GGGUUUCUGCUAGGCUC------------------CUUCCCCGGAGUA
+CC_0734      --GC----------------------------------------------
+CC_1461      --UC----------------------------------------------
+CC_0777      --GC----------------------------------------------
+CC_1884      --AGCCGGAAGUGU---------------------------GAGCGGUUU
+CC_2746      --CC----------------------------------------------
+CC_3707      -CGU----------------------------------------------
+CC_2468      --GA----------------------------------------------
+CC_0789      --CC----------------------------------------------
+CC_2454      --CC----------------------------------------------
+CC_0680      --CC----------------------------------------------
+CC_1080      --UC----------------------------------------------
+CC_2236      --UG----------------------------------------------
+CC_1792      --AC----------------------------------------------
+CC_0388      --CC----------------------------------------------
+CC_1387      --UC----------------------------------------------
+CC_3276      --CG----------------------------------------------
+CC_1849      --GGCGUGCUCC--------------------------------AAGCGG
+CC_3146      --GC----------------------------------------------
+CC_0421      --CC----------------------------------------------
+CC_2102      --GG----------------------------------------------
+CC_0265      --CC----------------------------------------------
+CC_1268      --UU----------------------------------------------
+CC_3275      --UCCG--------------------------------------------
+CC_1623      --CU----------------------------------------------
+CC_1269      --U-----------------------------------------------
+CC_0223      --GGAU--------------------------------------------
+CC_3385      --UC----------------------------------------------
+CC_3445      --UC----------------------------------------------
+CC_1611      --CGGG-------------------------------------------A
+CC_0745      --GC----------------------------------------------
+CC_0253      --UC----------------------------------------------
+CC_1515      --GC----------------------------------------------
+CC_1555      --CCU---------------------------------------------
+CC_3108      --CC----------------------------------------------
+CC_1902      --UC----------------------------------------------
+CC_2349      --UCA---------------------------------------------
+CC_0083      --CC----------------------------------------------
+CC_0459      --GCCAAAUC------------------------------------CAGU
+CC_3752      --U-----------------------------------------------
+CC_1959      --GC----------------------------------------------
+CC_2559      --GC----------------------------------------------
+CC_0339      --GC----------------------------------------------
+CC_1986      --U-----------------------------------------------
+CC_2755      --UC----------------------------------------------
+CC_2709      --GC----------------------------------------------
+CC_3436      --CCA---------------------------------------------
+CC_1980      --UC----------------------------------------------
+CC_2618      --CC----------------------------------------------
+CC_3124      --GG----------------------------------------------
+CC_0579      --CG----------------------------------------------
+CC_3695      --UC----------------------------------------------
+CC_2128      --CC----------------------------------------------
+CC_0185      --GG----------------------------------------------
+CC_0741      --UC----------------------------------------------
+CC_1704      --UCUUGGCGUC--------------------------------CCGCUG
+CC_2148      --CG----------------------------------------------
+CC_0419      --CC----------------------------------------------
+CC_0415      --CC----------------------------------------------
+CC_1850      --UC----------------------------------------------
+CC_1355      --CG----------------------------------------------
+CC_0392      --UC----------------------------------------------
+CC_3706      -GCG----------------------------------------------
+CC_1048      --CGUA-------------------------------------------A
+CC_2874      --UCCUGAG-------------------------------------CUUG
+CC_1009      --GA----------------------------------------------
+CC_1801      --CG----------------------------------------------
+CC_2610      --UUGAU-----------------------------------------GU
+CC_2176      --CC----------------------------------------------
+CC_2478      --GCUGA-----------------------------------------CU
+CC_0288      --GG----------------------------------------------
+CC_3738      --UC----------------------------------------------
+CC_3470      --GC----------------------------------------------
+CC_1748      --UC----------------------------------------------
+CC_3589      --CCUUCG----------------------------------------AC
+CC_1526      --UC----------------------------------------------
+CC_0774      --GGCCGGCGA----------------------------------CAUUG
+CC_0108      --CC----------------------------------------------
+CC_0766      --GC----------------------------------------------
+CC_2183      --CCAAAAGCUC-------------------------------GAUGAUG
+CC_2033      --UUAGA------------------------------------------G
+CC_0139      --UC----------------------------------------------
+CC_2969      --CGAACGCCAAAAC-------------------------CGCUCACACU
+CC_0360      --CGUU--------------------------------------------
+CC_3666      --GCUGG-----------------------------------------AG
+CC_1136      --ACGCCGAAAGUGGG-----------------------AACCGGUUUCG
+CC_3688      --GCCCUU---------------------------------------AAG
+CC_2493      --UC----------------------------------------------
+CC_1259      --GC----------------------------------------------
+CC_0530      --GA----------------------------------------------
+CC_0855      --CC----------------------------------------------
+CC_2362      --CCGAACUG------------------------------------GGAA
+CC_0835      --AG----------------------------------------------
+CC_1367      --AC----------------------------------------------
+CC_1459      --UG----------------------------------------------
+CC_3731      --CC----------------------------------------------
+CC_3556      --GA----------------------------------------------
+CC_0475      --UG----------------------------------------------
+CC_1960      --GA----------------------------------------------
+CC_0335      --UGC---------------------------------------------
+CC_0369      --UC----------------------------------------------
+CC_0084      --CC----------------------------------------------
+CC_1372      --CC----------------------------------------------
+CC_3761      --CGGCG------------------------------------------C
+CC_2719      --UCA---------------------------------------------
+CC_3270      --GCAGGCG-------------------------------------UUCC
+CC_3315      --GC----------------------------------------------
+CC_2941      --GC----------------------------------------------
+CC_3357      CGCC----------------------------------------------
+CC_0246      --CCG---------------------------------------------
+CC_1204      --CGC---------------------------------------------
+CC_0167      --CC----------------------------------------------
+CC_1715      --UC----------------------------------------------
+CC_2432      --GG----------------------------------------------
+CC_2957      --GC----------------------------------------------
+CC_1492      --GGC---------------------------------------------
+CC_0722      --CCU---------------------------------------------
+CC_0186      --GG----------------------------------------------
+CC_0980      --UG----------------------------------------------
+CC_2814      --UC----------------------------------------------
+CC_2513      --UCACGGUCAA--------------------------------GCUGAC
+CC_1295      --ACCUGGUC-----------------------------------UCACC
+CC_3277      --UC----------------------------------------------
+CC_3164      --UC----------------------------------------------
+CC_0796      --GC----------------------------------------------
+CC_2228      --CGG---------------------------------------------
+CC_3732      --CC----------------------------------------------
+CC_0446      --GGC---------------------------------------------
+CC_3271      --UC----------------------------------------------
+CC_0425      --UC----------------------------------------------
+CC_1287      --GC----------------------------------------------
+CC_1970      --GA----------------------------------------------
+CC_0601      --CC----------------------------------------------
+CC_1121      --CC----------------------------------------------
+CC_2569      --GC----------------------------------------------
+CC_1971      --GA----------------------------------------------
+CC_2985      --CC----------------------------------------------
+CC_1812      --GCGCU------------------------------------------G
+CC_0623      --U-----------------------------------------------
+CC_3248      --CC----------------------------------------------
+CC_0193      --CC----------------------------------------------
+CC_1856      --CC----------------------------------------------
+CC_1903      --UC----------------------------------------------
+CC_0486      --CGU---------------------------------------------
+CC_2012      --CC----------------------------------------------
+CC_2531      --GA----------------------------------------------
+CC_1487      --CG----------------------------------------------
+CC_1302      --AC----------------------------------------------
+CC_2772      --CA----------------------------------------------
+CC_1304      --CC----------------------------------------------
+CC_2242      --GCGCCG---------------------------------------GUU
+CC_3130      --CC----------------------------------------------
+CC_0306      --CC----------------------------------------------
+CC_3549      --CC----------------------------------------------
+CC_0184      --GCUCUAGCC---------------------------------CUUUGU
+CC_3306      --UC----------------------------------------------
+CC_2328      --GCGGG------------------------------------------A
+CC_0560      --CCACCGC-------------------------------------CGUU
+CC_1103      --GG----------------------------------------------
+CC_2295      --CG----------------------------------------------
+CC_3086      --CCGUAUCGC---------------------------------ACUAAG
+CC_2643      --CCCGCUUGCU-------------------------------UGGGGGG
+CC_2214      --CC----------------------------------------------
+CC_3503      -CACGUU------------------------------------------C
+CC_2016      --------------------------------------------------
+CC_0772      --GC----------------------------------------------
+CC_0747      --CC----------------------------------------------
+CC_0724      --CC----------------------------------------------
+CC_0064      --CC----------------------------------------------
+CC_1540      --CCUCCAGCGACC----------------------------GAUUGUUC
+CC_1979      --C-----------------------------------------------
+CC_2226      --CCGGU-----------------------------------------CA
+CC_2379      --GG----------------------------------------------
+CC_0691      --UC----------------------------------------------
+CC_2965      --GC----------------------------------------------
+CC_1735      --CU----------------------------------------------
+CC_1844      --CC----------------------------------------------
+CC_2443      --GGUUUUCAG----------------------------------CAGCA
+CC_0391      --GC----------------------------------------------
+CC_2721      --AG----------------------------------------------
+CC_0732      --UC----------------------------------------------
+CC_1535      --GUGGC-----------------------------------------GC
+CC_1624      --CG----------------------------------------------
+CC_1183      --UG----------------------------------------------
+CC_2129      --CC----------------------------------------------
+CC_2258      --CC----------------------------------------------
+CC_2671      --CC----------------------------------------------
+CC_2175      --UU----------------------------------------------
+CC_3084      --GC----------------------------------------------
+CC_1007      --CC----------------------------------------------
+CC_0007      --GG----------------------------------------------
+CC_0506      --UG----------------------------------------------
+#=GC SS_cons ..<<..............................................
+#=GC RF      ..cC..............................................
+
+CC_0442      --UCA-C-----GG-UC--GGCG-CCC
+CC_0836      --GAA-C-----CA-UC--UAAA-CCA
+CC_0512      --GAA-U-----CA-UC--UAA--AGC
+CC_1042      --CCA-C-----GA-GC--GGGGUUUU
+CC_3669      GCGCAGA-----GC-CG--GGA--UGA
+CC_1554      ---AU-A-----GG-GA--GAGGG---
+CC_1584      --GAA-A-----CA-UC--UAA--AGC
+CC_3047      --GCAG------GA-CC--GGGG-CGU
+CC_1506      --UC-GC-----CG-CC--CAGG-CCC
+CC_2993      ---AA-C-----CA-AU--CAGA-UCG
+CC_1206      ---AA-C-----CA-AU--CAGA-UCG
+CC_1293      --GAA-C-----CA-UC--UAAA-CCA
+CC_2079      --GAA-C-----CA-UC--UAAA-CCA
+CC_1620      --GAA-C-----UA-UC--UAAA-CCA
+CC_0685      --CCA-------GC-CG--AUCC-AGA
+CC_2160      --GCA-A-----GG-UC--CGGG-CCU
+CC_0066      --UGUUU----GGA-UC--GGAGA---
+CC_3756      GUGUU-U-----CA-CG--UGAAA---
+CC_3670      UAGC--C-----GG-GA--UGAC-AGU
+CC_0698      --GCG-A-----GG-UU--CCGG-GCC
+CC_2225      --GAC-A-----CG-UU--UUGA-CGC
+CC_2469      --GAA-C-----CA-UC--UGAA-CCA
+CC_0383      --GAA-C-----CA-UC--UAAA-CCA
+CC_2224      CGGUU-U-----CG-GC--GUCA-CGC
+CC_2848      --GAU-------UA-GC--GGC--CUU
+CC_0456      --GAA-A-----CC-UC--UAAA-CCA
+CC_3201      GAUAA-A-----CC-GC--CCGC-GCC
+CC_0200      --GCC-A-----CG-GC--GGGG-CUU
+CC_1469      --GAA-C-----CA-UC--UAAA-CCA
+CC_2924      GCGAU-C-----CC-GG--GCGG-CGU
+CC_1507      --GCG-A-----CG-CC--CAGG-CCC
+CC_0655      --GAA-U-----CG-UU--UUGA-CGC
+CC_0088      CUCAA-U-----CA-GA--UCGG-AAA
+CC_1234      --GAA-C-----CA-UC--UAAA-CCA
+CC_1724      --CGCGA----GCG-GA--CACG-CUC
+CC_1409      --UUCGC-----CG-GC--GGGG-AGC
+CC_0715      ---AA-A-----CA-UC--CAA--AGC
+CC_3118      --GAA-U-----CG-UU--UUGA-GGC
+CC_2590      --GAA-U-----CA-UC--UAAA-CCA
+CC_0443      --GUG-A-----GG-UC--AGCG-CCC
+CC_3417      AGGCUCA-----GG-GU--GAGG-UUU
+CC_0034      --GAA-A-----GG-GG--CCGC-CCG
+CC_2867      --GAC-U-----CG-UU--UUGA-CGC
+CC_0197      --GAG-A-----CA-CC--GGGG-CCU
+CC_0970      --GAA-A-----CA-UC--AGAA-GCG
+CC_3199      --GCU-AG---CGC-UU--CUGGU---
+CC_3739      ---UU-A-----GA-GA--GAG-----
+CC_0322      --UUC-A----GGC-UC--CGGG-GCU
+CC_3663      --GAUCA----CCG-CC--GGGG-CUU
+CC_2353      --UGUUU----GGA-UC--GGAGA---
+CC_2948      --CUUCC----GCC-UC--GGCC-CUU
+CC_3416      UAGAA-A-----CC-UC--ACCC-UGA
+CC_3613      --GAC-C-----CA-UU--UGAA-ACG
+CC_1240      --GCA-A-----UC-UC--CGGG-GCC
+CC_2536      AAGCU-U-----CG-GC--GCGC-CGC
+CC_2819      --CUU-CG---GCG-GC--GGGGA---
+CC_1338      --GAA-A-----CC-UC--CGCG-CCC
+CC_2658      ---AAAU-----CA-UC--UAA--AGC
+CC_3297      --CGA-U-----CC-GC--GCGG-CCU
+CC_0129      --GAG-A-----CC-UC--GCGG-CGC
+CC_2841      --GAA-C-----CA-UC--UAAA-CAA
+CC_2094      -GGAAAC-----CU-GG--AUGG-CCC
+CC_0076      --GAA-A-----CA-CC--GGGC-CUU
+CC_0661      GCGAU-------CC-UG--GCGG-GCU
+CC_1721      --UUU-CG---UCC-CG--GCGG-CGC
+CC_3278      --GAA-U-----CA-UC--UAAA-CCA
+CC_0169      --GUG-A-----CG-CC--GGGC-CUU
+CC_0359      --GUG-A-----UU-UC--GGGG-ACC
+CC_3612      UCGGCGC-----CU-GU--CACG-CUC
+CC_2842      --GAA-U-----CA-UC--UAA--AGC
+CC_2188      --GAA-C-----CA-UC--UAAA-CCA
+CC_1289      --CCCUUG--GGGA-GC--GCGG-CCC
+CC_0365      --GCA-A-----GG-UC--CGCG-CCC
+CC_0858      --GAA-U-----CA-UC--UAA--AGC
+CC_0626      AAGAUGA-----GA-CC--AAAA-CCC
+CC_0102      UCGUCGC-----CC-GG--GAUG-ACA
+CC_2962      --GAU-C-----GC-UA--CAG--GCU
+CC_1363      --CCUG------CU-CC--GGGG-CGU
+CC_3552      --UCA-C-----GG-AG--GCCG-CCC
+CC_3035      --CAAAA-----GG-UG--GGCG-UUU
+CC_1397      UCCCA-C-----UU-UC--GGCGU---
+CC_0991      ---ACCC-----GA-UC--GGGC-CGC
+CC_0804      CCGCG-------GA-UG--GCCG-AUG
+CC_2868      --GAA-U-----CA-UC--UAA--AGC
+CC_3648      GAGCGGC-----GC-CC--GACGA---
+CC_2727      AAGAUGA-----GA-CC--AAAA-CCC
+CC_1162      --CU-GU-----GA-CC--CGGG-CGU
+CC_3382      ---UU-A-----GG-GA--GAGGG---
+CC_3760      -UGCUAC-----CC-GG--CGC--CUU
+CC_3370      --GAAGUC---UGU-GG--GCGG-UCG
+CC_0764      --UUCGC-----CC-CG--GCGG-CCU
+CC_1325      --CGC-A-----GG-GC--GGCC-GAU
+CC_3069      --GAAGC----CGC-UC--GGCG-CCC
+CC_2354      --UGA-C-----GG-UU--GCCGG---
+CC_3607      UUGGU-------UU-UA--GAGC-CUU
+CC_3189      ACGACCC-----GG-GA--UGAC-ACG
+CC_1667      --GCA-A-----UC-CG--CGC--CGU
+CC_3510      --GGC-C-----GG-GA--UGACG---
+CC_2390      --UCC-C-----GC-UG--GCG-----
+CC_2371      --UUGAU-----GG-GG--GAGG----
+CC_0539      UCGAA-C-----GG-GC--GAGGC---
+CC_3298      --GAU-CG---CCG-CG--CGGC-CUU
+CC_3717      -CGU-GC-----GA-GG--CGGC-CGA
+CC_3371      CCGUC-C-----GG-GA--UGAC-ACG
+CC_2364      --GAA-C-----CA-UC--UAAG-CCA
+CC_0140      --CAAAC----AGA-UC--GGAAA---
+CC_1923      --UAAGU----AGU-CC--GGUC-CCA
+CC_2029      CUCCA-C-----CG-UC--GCGCC---
+CC_3098      --UUCG------GA-GC--GCC--CUU
+CC_3021      --GCAG------GA-GG--CGGG-UGU
+CC_2095      UCGCUAC-----GG-CC--GGGA-UGA
+CC_1142      --GAACC----CGA-GC--GCCG-GCC
+CC_1508      --GCG-A-----UC-CC--CGGC-CCU
+CC_0474      --GCG-A-----CA-CC--GGGC-CUU
+CC_2173      --CCAAA-----GA-CU--GGCG-GGC
+CC_1342      --UUUAU-----GC-GC--GGGAU---
+CC_3742      UCGCU-------GA-CC--GGGC-CUU
+CC_3291      GGCAAG------GA-AC--GGG-GCCU
+CC_2245      --CAAAC-----GG-CC--GUCC-GGG
+CC_0699      --CUCGC----GGU-UC--CGGG-CCG
+CC_3402      GACA-GC-----GU-UC--CGGG-CCU
+CC_1677      UCGU-GC-----GC-GC--GGCGG---
+CC_3664      -UGAU-C-----CG-CC--GGGG-CUU
+CC_0384      --GAA-U-----CA-UC--UAA--AGC
+CC_2366      --CCUGAG---GCU-UA--CUUG-CGA
+CC_1654      UUGUC-A-----GC-GG--CGGC-CAU
+CC_0028      UG-UGUC-----GG-UC--GGGG-CGU
+CC_2300      AAGUC-------CG-CC--CGCC-GAG
+CC_1653      --GCA-A-----GC-CG--GCCC-GGG
+CC_0984      CUGCCCC-----UC-CG--GCGC-CGA
+CC_2639      ---UUGC-----AC-CG--GGGC-CUU
+CC_3699      GAGAGGU-----UC-GC--GGGC-GUU
+CC_1621      --GAA-U-----CA-UC--CAA--AGC
+CC_1197      CUCAA-U-----CA-GA--UCGGA---
+CC_2109      --CAUUU----UCG-AC--GAG--CUG
+CC_2294      GACAUAC-----GG-GC--GGCG-GCU
+CC_1471      CGGGA-C-----GA-AG--GGAGA---
+CC_0653      --CCA-------GC-GG--GGGG-CGU
+CC_3393      --ACA-A----GGC-GC--GGGA-UGA
+CC_3620      --CCGGA-----GC-UC--CGCC-CCC
+CC_1843      ---AAAC-----GG-GG--GAGGU---
+CC_3463      --AGA-A-----GA-UU--UCGAACAG
+CC_0050      --CUAGC----GGG-UC--GGAG-CCC
+CC_0414      --GCA-A-----GG-UC--GGGG-CGC
+CC_3462      --UUCAC-----GC-GA--UCC-----
+CC_0765      GCGAACC-----CG-GC--GGCC-UUU
+CC_0944      CAUAA-A-----GU-GG--UGGC-AAC
+CC_1571      --UUCCC-----GA-GC--GGGG-AGC
+CC_2044      --GAA-U-----CC-UC--UAAA-CCA
+CC_0878      --CUUGC-----GG-GA--GAGGG---
+CC_2895      --GAA-A-----CA-UC--UAAA-CCA
+CC_2538      GCGCC-C-----GC-CC--GAAC-AUC
+CC_1449      CAGGCGC-----CU-CC--UGGG-CUC
+CC_2066      AGGCU-U-----CC-GC--GCCC-GAU
+CC_2522      --GUC-CG---CCU-CC--GGGG-CGU
+CC_1906      --UCC------GGC-GG--GGCCU---
+CC_2994      --GUU-------CA-AU--CAGA-UCG
+CC_0781      ---AC-C-----GU-CG--GAGG-GGA
+CC_2470      --GUU-C-----CA-UC--UAAA-CCA
+CC_0669      CAGGU-C-----GC-GG--CGGG-UUU
+CC_1460      GUCAAAA-----GC-CG--UCCG-GCG
+CC_3585      GCGAC-A-----GC-GG--CCGG-CCU
+CC_2187      --GAA-U-----CA-UC--UAA--AGC
+CC_3743      --GCG-A-----UG-AC--CGGG-CCU
+CC_0721      UCGCU-C-----CG-CC--GGGC-CUU
+CC_3494      --GCG-A-----CG-CC--GGGC-CCU
+CC_2935      --CGAAA----GCG-CC--GCGG-CCU
+CC_1496      --GCA-A-----GG-CC--GGGG-ACU
+CC_1877      --UCC-A-----GA-UG--CGCG-GGC
+CC_2919      CGGAA-A-----GA-GG--UCG--GCU
+CC_1296      --CCA-------GG-GC--GCUC-CCU
+CC_0792      --UUCG------GA-UC--CGCC-CUU
+CC_2269      ACGUU-------CC-UA--GCAGA---
+CC_0047      --CA-GA-----GG-CC--GGUC-ACC
+CC_1201      --CUGGU-----GA-UC--GCGG-CGG
+CC_3394      --CUUGU-----GC-GC--GGGA-UGA
+CC_3013      --UUCG------GA-CC--GCCC-CUU
+CC_0266      GCGAUGU-----GA-AC--UGAAC---
+CC_2051      --GGA-C-----GA-CC--GGCC-CCC
+CC_2916      --UUU-------GA-GA--GAG-----
+CC_2893      --GAA-U-----CA-UC--UAA--AGC
+CC_1881      GUGUCCU-----CA-UC--CUGA-GGU
+CC_0044      ---AACC-----UC-CG--CGGG-GCC
+CC_0819      GCGAU-C-----CG-GA--GGCC-CUU
+CC_3303      ---AUGA-----CG-CC--GGGG-CCU
+CC_1922      UAGACGC-----GC-GC--CGCG-CCC
+CC_0497      ---CC-C------G-UC--GGAA-UGU
+CC_0104      ---AA-A-----GG-GG--GCGG-AAG
+CC_1873      --UC-GC-----UC-CG--GGGC-GUU
+CC_1323      --GAU-A-----GC-CG--GGCG-CUC
+CC_1320      --UUCAU-----GC-GC--GGGAC---
+CC_0401      --GAA-------AG-CG--CGGGA---
+CC_0995      --GAA-U-----CA-UC--UAA--AGC
+CC_3161      --GUCAU-----CC-GC--CGCC-CCU
+CC_1273      --GCG-A-----UC-CG--GGGC-CUU
+CC_1106      --UCUCCG--GACG-UC--GGCG-GCC
+CC_1963      ---AGGA-----GG-UC--GGCG-GCU
+CC_0389      --GCA-AG---CGG-GG--GAGG-UGG
+CC_1085      ---UA-C-----GC-GG--GGGA-GGG
+CC_3068      -GGCUUC-----GC-UC--GGCG-CCC
+CC_1364      ---AG-------GC-UC--CGGG-GCG
+CC_3604      --GAA-U-----CA-UC--UAA--AGC
+CC_1185      CUUCUGC-----CC-CC--UCUG-GGG
+CC_3574      -GGUUUC-----GC-GC--GGCG-CCC
+CC_3177      --CUUGC-----GG-GA--GAAGG---
+CC_3273      --CAA-------GG-GA--GAGGU---
+CC_0949      --GAACC----CGG-AC--GGCG-GGC
+CC_3504      --GCG-A-----UC-AC--CGGC-CCU
+CC_0882      ---AC-U-----CA-AC--CAAA-CCC
+CC_1015      CUCAA-U-----CC-GA--UCGGA---
+CC_1983      --GAA-C-----UA-UC--UAAA-CCA
+CC_0717      --GGAAC-----CG-GU--UUCG-GCG
+CC_2017      -UGAU-C-----CA-GC--CGCC-CGU
+CC_0162      ---AC-------GA-CG--CGC-----
+CC_3292      --CUUGCC---GGA-AC--GGGG-CCU
+CC_2668      CUGUAGC-----CC-UC--AUC--CUG
+CC_0516      --GAA-C-----CA-UC--UAAA-CCG
+CC_0940      --GCCCU-----CA-GG--CCUC-CUC
+CC_3652      --UUU-C-----GA-GA--CGGC-GGC
+CC_2689      CAGCG-A-----GC-GG--CGGG-CCU
+CC_0042      --GAA-A-----GC-UC--GCGC-CUU
+CC_2539      GCGCUCA-----GC-CC--GAAC-ACC
+CC_0927      --UUCGC----GCC-GG--GCGG-CUU
+CC_3764      --CUUGC-----GG-GA--GAAGG---
+CC_3553      --GAA-A-----GC-CA--GUC-----
+CC_0938      --GCG-A-----UC-CG--GCGG-CCG
+CC_3539      --UCU-------CC-GG--GGCG-GGC
+CC_1788      CUGUCCC-----UG-GA--CGAGC---
+CC_0946      GGGG--U-----UC-CG--GACG-CCC
+CC_0795      --ACC-A----GGG-CC--GUCC-CUU
+CC_0843      UUUC-CU-----CA-UC--CUGA-GGU
+CC_2638      -UGCAAA-----CC-GG--GGCC-UUU
+CC_2268      --GAA-A-----GC-CG--GGG-----
+CC_0394      GCGAU-C-----CG-GG--CGGG-CUU
+CC_1699      --GGUGA----CGA-UC--CGGC-CGU
+CC_2968      --GCC-A-----GA-GU--CCC--CGC
+CC_0839      --GAAAC-----CG-GC--CGCC-GGC
+CC_0199      --UG-GC-----CG-GC--GGGG-CUU
+CC_2737      UUGCAUC-----GU-UU--GCUC-CCG
+CC_2291      CAGCG-A-----GC-GG--CGGG-CCU
+CC_1774      --CGCUU-----GG-CC--AGGAG---
+CC_2809      --CUUGC-----GG-GA--GAA-----
+CC_0571      --UAUCC----GGA-UC--GGCC-GUC
+CC_1324      --UGCG------GG-GC--GGC--CGA
+CC_2644      ---CU-A-----AG-CC--GGC--CUG
+CC_1765      UUCGC-C-----GA-UC--ACGA-UGC
+CC_2783      --UGA-C-----GG-GG--GAGGU---
+CC_2815      ---UU-A-----GA-GA--GAGGG---
+CC_0127      UAUCCGC-----GC-CA--UGGA-CCA
+CC_0210      --GGU-C-----GG-GC--CGCC-CUU
+CC_1666      --GCA-A-----UC-UC--CGCG-CCC
+CC_3526      -GGAAAC-----GA-GC--CGCC-CCA
+CC_2741      CAGCG-A-----GC-GG--CGGG-CCU
+CC_2050      --GUC-C-----GA-AC--GGCC-CCC
+CC_0156      --CUCG------GG-CG--UCCG-UUU
+CC_0956      -CGCA-A-----GG-AC--GCGG-CCC
+CC_1153      -CGCAGA-----GG-CU-AUCCG-GGA
+CC_3112      --UA-GC-----GG-GG--GAGGU---
+CC_0770      --GAA-U-----GC-CG--GGG-----
+CC_0637      --CAUG------AA-UC--GCCC-AUU
+CC_0999      ---UU-------GC-GG--CGGC-CCC
+CC_1498      ---UU-A-----GA-GA--GAG-----
+CC_2845      --UGAAA----GCC-CC--UGGA-CCU
+CC_0726      AUUAUGC-----GC-UC--UCG--CCG
+CC_1128      CUGGU-C-----GG-CG--GGGG-CGU
+CC_0485      --UUCG------GG-UC--CGCC-CGU
+CC_0503      --CAAAA-----GU-GU--CCGGG---
+CC_2804      --GUU-C-----GC-CU--CGGG-CCG
+CC_2436      --GCA-A-----GC-UG--CGGG-CCC
+CC_0514      CAGCG-A-----GC-GG--CGGG-CCU
+CC_1036      --GUA-C-----AG-GA--GAGC-CUC
+CC_1868      --UUCG------GG-GA--GGCC-UUU
+CC_2121      --GAG-A-----GC-UU--CCGC-CCU
+CC_3372      GCGAUCC-----GG-GA--UGAC-ACG
+CC_1365      --CAGCA----GGU-GG--GCGG-CCU
+CC_3066      ---UU-A-----GA-GA--GAG-----
+CC_3521      --UUGAU-----GG-GG--AAGGG---
+CC_3432      ---CA-C-----GA-GC--GACGGCCU
+CC_3321      --GAC-C-----CC-CG--CGCAC---
+CC_2758      ---AA-A-----UC-GG--GGGA-UGA
+CC_0257      --GCC-U-----GG-CG--GGCC-UUU
+CC_1892      --UU-GC-----GA-UC--GGAG-GGC
+CC_1733      --GCUUCA---AGC-UC--GGCG-CGA
+CC_2229      --UUCGU-----CC-GG--GCGG-GCU
+CC_3546      UAAC-UC-----CC-CC--GGCG-AUG
+CC_1005      -CGU-GC-----GG-AU--GGCG-UUC
+CC_1398      --UGC-U-----GA-CG--GCUCU---
+CC_2955      --CUU-C-----GC-CG--GGGA-GGU
+CC_0454      --GCG-------CA-UG--UCGG-GCC
+CC_1377      --UUC-A----GCC-GA--AGCG-CCC
+CC_0008      GAGAC-A-----GG-AC--GGCC-CUU
+CC_0379      --GAU-C-----AG-AC--UCAA-AAG
+CC_2459      --GCG-A-----UA-GC--CGGG-CGU
+CC_3596      GCGUC-A-----GG-CC--GUGAG---
+CC_2540      --UC-GC-----UC-CC--GGGG-CGU
+CC_2659      -CGAA-C-----CG-GG--GCGG-CUU
+CC_2264      --GAA-C-----GC-UC--CGGC-CUU
+CC_1969      GCGAU-C-----UC-CG--GCCC-CUU
+CC_2172      UCGCU-C-----GG-GG--CGGC-CCU
+CC_1318      --CUUAA-----CA-CG--CGUA-AGU
+CC_1468      --GAA-C-----GG-AG--CACC-CGC
+CC_1374      UGGAA-A-----GG-GC--GGCGA---
+CC_1556      --GAA-A-----GC-CG--GGG-----
+CC_1964      --GCG-A-----GG-GC--CGCG-CCU
+CC_1579      --UCCGU-----CC-GC--CAUG-GGA
+CC_3682      --CCU-------GU-CC--GGCC-CGG
+CC_1578      CGGAC-C-----GC-CA--UGGGA---
+CC_3387      --GAC-A-----AC-GC--CUCGA---
+CC_2839      AUGAU-------UU-UA--GAG--CCU
+CC_1891      --GCA-A-----GA-CC--GGAG-GGC
+CC_1290      --UCC-CUC-AGCC-GC--GCGG-GCU
+CC_1078      GCGCCGC-----GA-AG--GACGC---
+CC_1847      --GAU-C-----GU-CC--GGC--GCU
+CC_2931      --GAC-------GC-GG--GGGA-GGG
+CC_0087      GUCAA-C-----CA-GA--UCGG-AAA
+CC_0965      ---AG-A-------------GGG-CUU
+CC_2881      --GUA-------GC-GC--UGAGA---
+CC_1635      --GUU-C-----CG-UC--CAAA-CCA
+CC_3518      --UUUAU-----GC-GC--GGGAC---
+CC_3700      --UCU-C-----GG-UC--GCGG-GCG
+CC_3559      GCGAU-C-----GC-CG--CCGCC---
+CC_0638      CCGGU-------UU-UC--CGCAA---
+CC_1045      --CGCGA----GCC-UG--GGGG-CUU
+CC_3605      --GGUGA-----GC-GU--CAGG-GCC
+CC_2616      CAUCC-U-----CA-UC--CUGA-GGU
+CC_3024      GUGA-GC-----CG-GC--GAUCU---
+CC_2203      --UUG-------GG-CC--GCCC-ACC
+CC_3729      --UA-GC-----GG-GG--GAGGU---
+CC_1099      --CU-GU-----GG-UC--GCCG-CCG
+CC_0925      --UCA-C-----GA-GC--CCGC-CGU
+CC_3759      --GUAGC----ACC-GG--CGCC-UUU
+CC_3205      --GGUCC-----GG-CG--CGGG-GCU
+CC_1962      --UCC-U-----GG-CC--GGCG-GCU
+CC_0670      --CCCCC----CGC-UC--GCGG-GCC
+CC_0690      --CUUGC-----GG-GA--GAAGG---
+CC_3413      ACGAU-C-----CG-GG--GCCC-CUC
+CC_3690      --UGUUU----GGA-UC--GGAGA---
+CC_0681      CAGCC-U-----GG-UC--UGGGC---
+CC_2182      -CGUAGA-----GG-CG-AUCCG-GGA
+CC_0353      ---AA-A-----GG-GA--GAGG-GUU
+CC_1184      --GCG-A-----UC-CC--GGG-----
+CC_2327      CUUC-CC-----GC-GG--CCCG-GCC
+CC_0876      --GAA-A-----GC-GG--CUCC-CUU
+CC_3587      --GCG-A-----UC-CA--GCCG-CCG
+CC_3655      --UCA-C-----GG-GG--CCGC-CCU
+CC_0478      --GAU-C----GCG-CU--CGC-----
+CC_0215      --CUGGA-----CC-CG--UCGC-CCU
+CC_1079      GGGCC-U-----CG-AA--GGA--CGC
+CC_1589      --GAA-C-----CA-UC--UAAA-CCA
+CC_3140      --UUCAU-----GC-GC--GGGAC---
+CC_3352      --UUUAC-----GG-CG--CCU--UCU
+CC_1581      --UUUCA-----CA-CU--UAUC-GGA
+CC_3250      ---UU-------GG-CC--UCC--CUU
+CC_3226      --GAA-A-----GG-GC--CGG--CUU
+CC_0713      ---UU-C-----GA-GA--GAG--GGA
+CC_2781      --UUGCA-----CG-GG--GGAGG---
+CC_0782      --GAACA-----AA-UC--AGA--UCG
+CC_0814      --UC-GC-----GG-GG--GAGG-AUU
+CC_1655      --GACAA-----AG-CG--GCGG-CCA
+CC_0178      --CG-GC-----GU-GG--CGG--UGA
+CC_2120      --CUCCC----AGG-CC--GGGG-GCU
+CC_1404      --UCUCC----GCC-GC--CGAG-CGG
+CC_0977      --CAA-C-----CU-UC--GGC--GCC
+CC_3676      -CGCCUU-----CU-UG--GCGGCCUU
+CC_0793      --UUCG------GA-UC--CGC--CCU
+CC_3492      --GUG-A-----UC-GC--GCCG-CCC
+CC_0840      CUGCAG------CC-GG--GAUG-ACA
+CC_1271      --GUAAAC---CGC-GG--CCGG-CGA
+CC_0455      --UAU-------GA-AU--UAG--AGC
+CC_0079      --UAAG------GA-CG--CGCG-CUC
+CC_3410      AGGCUCA-----GG-GU--GAGGCUUC
+CC_0531      --UCUGA-----UC-UC--AGAG-CCC
+CC_2594      GCGA--A-----GG-CG--CGG--GCC
+CC_3061      --GCAGC-----GC-GC--CGAG-CCG
+CC_3444      ---ACGA-----CC-CC--GCGC-CUU
+CC_0035      AGGCAG------GG-CG--GCGG-AUC
+CC_1267      UCGAC-C-----GG-GA--UGACA---
+CC_0837      --UGUUU----GGA-UC--GGAGA---
+CC_3430      ---CC-------UG-GA--ACCCG---
+CC_1049      --CCA-C-----GG-CC--GGGG-CGU
+CC_0010      AGGAU-C-----GU-UC--CGCGG---
+CC_0107      --UUU-------GG-GG--GAGGG---
+CC_3213      --CAA-------GG-GG--GAGGA---
+CC_1375      UUGGU-C-----AA-GG--GCGG-CGA
+CC_1044      --CUUGC-----GG-GA--GAAGG---
+CC_3524      ---UG--------G-GC--GGGC-UCC
+CC_0640      --GCA-A-----UC-CA--GCGC-CCG
+CC_3218      --UUAG------GU-UA--GAGG-CCC
+CC_2747      --UA-GC-----GG-GG--GAGG-AUU
+CC_3088      --ACAUC-----CG-GC--GCGG-UCC
+CC_2580      GGGAGCC-----CA-GG--GCCG-CUU
+CC_3606      CAGUAGU-----CC-UC--AUCC-UGA
+CC_2578      --GCACC----CGG-GA--GCCG-CGG
+CC_2615      CUGAUUA-----CC-UC--AUC--CUG
+CC_2358      --GCUUCGGCCGGG-UC--GCUC-CCA
+CC_1807      AUCCA-C-----CC-CC--GACG-CGC
+CC_0416      --GAAAC-----GG-UC--UGGAC---
+CC_3152      -U-GGCC-----CA-UC--CGCC-CUU
+CC_3505      ---UCGC-----UC-AC--CGG--CCC
+CC_0160      GUGUU-------GU-UG--CAAGU---
+CC_3433      ---UCCC------A-CG--GCC-----
+CC_2700      --CACGA-----GG-CC--UCCGU---
+CC_3584      CGCCAGC-----GG-CC--GGCC-UUU
+CC_3590      GUGAU-C-----GC-CG--CCGG-CUG
+CC_1907      --CG-GA-----GC-GG--GGCCU---
+CC_0363      --UAG-------GA-GC--CGCG-GCG
+CC_1799      UCGGC-A-----GC-GC--CGCC-CUU
+CC_1813      CCGGU-------GA-CG--CUGG-CUU
+CC_0958      AGGCUCA-----GG-AU--GAGG-UUU
+CC_1266      GCGAU-C-----CG-GG--GUGGU---
+CC_3009      --GAA-C-----CC-UC--UCAA-CCC
+CC_0270      --CUUUA----UGC-CG--CCG--CCG
+CC_2123      --GACAU-----CA-CG--GGGCGCCG
+CC_2161      --CUU-U----GCU-CC--GGCG-CUC
+CC_1825      ---AUCC-----CA-UC--UAGAC---
+CC_0371      ---UU-C------A-GG--GCCC-CUU
+CC_0522      GGGGC-A-----GG-UG--AUCGG---
+CC_0646      ---AU-C-----GG-GG--GAGGG---
+CC_1808      ---AGGU-----CA-UC--CGGC-CCA
+CC_2743      CGGAC-U-----UU-CC--GAACG---
+CC_2492      --UUU-------GA-GA--GAG--GGA
+CC_2267      -CGCAGA-----GG-CU-GUCCG-GGA
+CC_2078      --GAA-U-----CA-UC--UAA--AGC
+CC_1874      --GCG-A-----UC-CG--GGGC-GUU
+CC_3677      --UAUCC----UCU-GC--GGC-----
+CC_1988      --GACUC-----GC-GG--CGGG-CCU
+CC_3194      CCCAA-A-----GG-AC--GCGC-CGU
+CC_1572      AAGAA-C-----GG-GG--AGCG-UCU
+CC_0600      ---GA-------GG-CC--UCGC-CCU
+CC_2834      ---UU-C-----GA-GA--GAG--GGA
+CC_1313      --UUC-C-----CGAUC--GCGC-GCU
+CC_0429      CUGGU-C-----GG-CG--GGGG-CGU
+CC_1879      UAGAA-A-----CC-UC--ACCC-UGA
+CC_1720      GCGCUCC-----CA-AG--CCGC-CGC
+CC_0347      --GGCUC-----GC-UC--CGGG-GAU
+CC_3338      --CACCA----GCA-CG--GCGG-UCU
+CC_1311      --AUGGC-----GA-CG--CGGG-CGG
+CC_1035      --GUA-C-----GG-GA--GAGC-CUC
+CC_2241      --GGA-U-----GG-GA--GCCGGCCU
+CC_3274      ---AAGC-----GG-GG--GAGGG---
+CC_2509      AUCAUGC-----GC-UU--UGAG-GAU
+CC_0298      --GCU-------GC-UG-CAGCG-CCC
+CC_3627      --UAG-------UC-GG--GGCCA---
+CC_2918      -AGCC-C-----GA-GG--CGGG-GCG
+CC_1043      --CUUGC-----GG-GA--GAAGG---
+CC_0479      -AGAAAC-----GC-UC--CGGC-CGU
+CC_3633      --CA-GC-----GG-GG--GAGGU---
+CC_0310      UUGCA-C-----GG-GG--GAGGA---
+CC_2511      --GCG-A-----UC-CG--GGGC-CUU
+CC_2903      ---UU-------GC-GC--CGG--CCU
+CC_1497      ---UU-A-----GA-GA--GAGGG---
+CC_1798      UCUGC-C-----GC-GC--CGCC-CUU
+CC_0346      --GAGCC-----GC-CC--CGGG-GAU
+CC_3575      --GAAACC---CGC-AC--GGCG-CCC
+CC_0352      --UUU-------GG-GA--GAGG-GUU
+CC_0939      --UC-GC-----UC-CG--GCGG-CCG
+CC_0790      --CUUGC-----GG-GA--GAGG----
+CC_1141      -GGUU-C-----GA-GC--GCCG-GCC
+CC_0280      CGGCU-U-----CU-UC--CCCC-UCC
+CC_3367      GCGCU-A-----GU-CA--CGC--UCU
+CC_2813      --UUU-------GA-GA--GAG--GGA
+CC_3597      UAUC-GU-----CG-GC--GGCG-CCA
+CC_2999      --UCU-------GG-GG--GAGGG---
+CC_2959      ---AG-A-----GG-GA--GAG--GGA
+CC_2254      UCGAU-U-----CC-CG--AGGCCCCG
+CC_1961      --AUCG------GA-UG--GCGC-GCC
+CC_2706      --GUUGC----GGC-GG--AAUAA---
+CC_3229      ---AAGC-----GG-GA--AGCC-GCC
+CC_2490      --CAACC-----GG-GG--CGGC-CCU
+CC_2073      CAGCG-C-----UC-CU--CAUC-CUG
+CC_2622      AG-CGUC-----GA-AC--GGGG-CCU
+CC_3113      --UGU-------GG-GG--GAGGU---
+CC_3072      --GAAUC-----CG-GU--UUCG-GCG
+CC_2251      GUUAA-A-----UC-CC--CGCCC---
+CC_0543      CGGAU-C-----GA-AG--AACG-CUC
+CC_3287      --GAUGA----UGU-CU--GGCGU---
+CC_0771      -CGCAGA-----GG-CU-AUCCG-GGA
+CC_3435      --GAC-C-----CU-GG--GGCG-GCG
+CC_1337      --UUU-C-----CC-UC--CGCG-CCC
+CC_1344      --UUUAU-----GC-GC--GGGAC---
+CC_0955      --CUUGCG---AGA-CG--CGG--CCC
+CC_3031      --GAA-A-----GC-CG--GGG-----
+CC_0470      ---CU-C-----GC-CC--AGCG-CCA
+CC_1093      --CGA-U-----CC-UC--GGCC-CUU
+CC_1262      --CAAGU-----CA-CG--CUCGCGGG
+CC_3442      ---AACC-----UU-CA--GCCCC---
+CC_2243      --GAA-A-----GC-CG--GGA-----
+CC_0854      --GUC-------GG-GC--UCCA-UCU
+CC_1319      --UGCG------GC-GA--CCGC-CUU
+CC_1292      --GAA-U-----CA-UC--UAA--AGC
+CC_0418      -CGUCGC-----GA-GG--GAGGA---
+CC_0061      CUGUUGC-----GG-UC--CCGG-CUC
+CC_2205      --GAA-C-----GC-CG--GGA-----
+CC_0400      ---AG-A-----GG-GA--GAGGA---
+CC_1520      --CUUGA-----UC-CA--GGUCU---
+CC_1658      --CAU-UGCCGGGU-GG--GACG-AGG
+CC_1565      ACGAA-U-----CC-CC--UCGA-UGA
+CC_0734      --UUUAU-----GC-GC--GGGAC---
+CC_1461      --GUC-U-----GG-UU--CGCC-CCC
+CC_0777      --UUCAU-----GC-GC--GGGAC---
+CC_1884      CG-GCGA-----CA-GC--CACG-CUC
+CC_2746      --GCU-A-----GG-GG--GAGG-AUU
+CC_3707      --CCAUC-----GC-CU--CAGA-CCU
+CC_2468      --GCG-A-----UC-CG--GGCC-UUU
+CC_0789      --CUUGC-----GG-GA--GAAGG---
+CC_2454      --UA-GC-----GG-GG--GAGGU---
+CC_0680      --GUG-C-----GG-GG--CCAC-ACC
+CC_1080      --GACCA----GGA-AG--CGG-----
+CC_2236      --CUUG------CA-AG--ACAA-AAU
+CC_1792      --AUUAU-----GU-UA--UUUA-AUG
+CC_0388      --GUUUC----AGG-GG-UGAGGA---
+CC_1387      --GCA-A-----GA-GA--CUGG-CUU
+CC_3276      --CGU------GCG-GG--GG---AGG
+CC_1849      GGCAUGA-----CC-GC--GCCGA---
+CC_3146      --UCA-C-----GC-AU--CCCG-GCC
+CC_0421      --UCU-------GG-GA--GAGGG---
+CC_2102      --CGA-U-----CC-UC--GCCCG---
+CC_0265      --CGU-------GG-GA--GAGGU---
+CC_1268      --GUCAC----AAA-AC--CGGC-UUC
+CC_3275      CGUUUGC-----GG-GC--CGGC-CUU
+CC_1623      --UGC-A-----GG-CC--GCCG-UCC
+CC_1269      ---GAUU------A-UC--CCGC-AGC
+CC_0223      CCGCAG------CU-GC--CAGAA---
+CC_3385      --UAU-C-----GA-UG--AAU-----
+CC_3445      --CCC-C----GGA-UC--GGGG-GCG
+CC_1611      ACGAUCU-----CG-GC--GACG-CCG
+CC_0745      --GCACCC---CGC-GC--CUCG-GGG
+CC_0253      --GCCCAG---CGG-AG--GACG-GCG
+CC_1515      --UGA-C-----GC-GG--CCGC-CUU
+CC_1555      -CGCAGA-----GG-CU-AUCCG-GGA
+CC_3108      --GCU-------GG-GG--GCGGA---
+CC_1902      --CCGCCA---GGA-UC--AGGG-CCU
+CC_2349      AACCC-U-----GA-GC--GGCG-CCU
+CC_0083      --UAC-U-----GG-CU--GACCC---
+CC_0459      GCGAC-U-----GC-CC--CUGGG---
+CC_3752      ---AAAA------G-GG--UGCGA---
+CC_1959      --UUUGC-----GC-GG--AAGG-CGA
+CC_2559      --CAG-------GU-CG--CCGGC---
+CC_0339      --GUA-A-----GC-GA--AGGG-CUC
+CC_1986      ---UU-C------A-CG--GGGG-AGG
+CC_2755      --GGCUC-----GA-GAGCGCCC-CCU
+CC_2709      --GAC-C-----GC-GC--CUC-----
+CC_3436      GGGUCCC-----GG-GG--CGGC-GUU
+CC_1980      --CA-GA-----GG-GG--CGCGG---
+CC_2618      ---AU-A-----GG-GA--GAG-----
+CC_3124      --GAA-C-----CA-UC--UAAA-CCA
+CC_0579      --CGG-C----GCG-GA--GCCA-CGC
+CC_3695      --GCA-A-----GG-UC--CUCGA---
+CC_2128      --GCG-A-----GG-AC--AGCC-CCG
+CC_0185      --GUU-C-----CA-UC--CAAA-CCA
+CC_0741      ---ACCA-----GA-AC--GGCG-GCC
+CC_1704      GCGCCUC-----GA-UC--GCGGGUUU
+CC_2148      --GGCGA----CCG-UC--GCCC-CUU
+CC_0419      --GC-GA-----GG-CU--CCG--CCU
+CC_0415      --UU-GC-----GG-CC--GGAG-CGC
+CC_1850      --CCU-------GA-UC--GGCG-GCG
+CC_1355      --GAAAC-----CG-GC--GGCG-UUU
+CC_0392      --GAU-CU---GGA-CC--CCG-----
+CC_3706      --AUGGA-----CG-CU--CAGA-CCU
+CC_1048      AUCCCGC-----CG-CC--UGA--UGU
+CC_2874      UCGAA-A-----GA-CG--AGGAU---
+CC_1009      --GUUAAA---UUC-GC--CGGC-GCU
+CC_1801      --UUCAU-----CG-AC--UGGC-CGC
+CC_2610      CUUGU-C-----GG-CG--UGGG-GGC
+CC_2176      --UUGAU-----GG-GG--AAGGG---
+CC_2478      AGGUU-A-----GU-GG--GCGG-CUC
+CC_0288      ---AACC-----CC-GG--AGCG-GCC
+CC_3738      ---AUG------GA-GA--GAG--GGA
+CC_3470      --GCA-U----GGU-GG--CCGCC---
+CC_1748      ---GA-------GA-UC--AUGG-CGA
+CC_3589      AGGCUCA-----GG-GU--GAGG-UUU
+CC_1526      --UUU-------GA-GA--GAG-----
+CC_0774      CGGUUG------CC-CC--UGGG-UCC
+CC_0108      -CCAUUA-----GG-GG--GAGGU---
+CC_0766      --UUCAU-----GC-GC--GGGAC---
+CC_2183      AG-CGAC-----GG-CG--GAGGG---
+CC_2033      CCUCU-C-----AG-AC--CAGAU---
+CC_0139      --UGUUU----GGA-UC--GGAGA---
+CC_2969      UU-UGGC-----CG-CC--ACG--CUC
+CC_0360      CUGAA-A-----CG-UC--GAGC-GCG
+CC_3666      GGGACGA-----GC-CG--CGCG-GGU
+CC_1136      GCGCC-A-----GU-CA--CGC--UCU
+CC_3688      GAGAG-------GC-GA--GCGG-CGC
+CC_2493      --UUU-------GA-GA--GAG-----
+CC_1259      ---AUCC-----GC-GC--CGCG-AUG
+CC_0530      --UCAGA-----UA-UC-UAGAG-CCC
+CC_0855      --GAC-------AG-GC--UCU--AUC
+CC_2362      CAGCA-------GG-CC--GAG-----
+CC_0835      --GCU-------CU-CU--UCGC-CCG
+CC_1367      --UAA-C-----GU-CU--UCC-----
+CC_1459      --UUG-------CA-UU--CGCCG---
+CC_3731      --UGU-------GG-GA--GAGGU---
+CC_3556      -ACACGC-----UC-GC--GCC--GCC
+CC_0475      --UC-GC-----CA-CC--GGGC-CUU
+CC_1960      --GUU-------UC-CC--GCGC-CGC
+CC_0335      -UGCA-A-----CA-GG--UCCC-GCC
+CC_0369      --CAGAA-----GA-UC-GUGGA-ACU
+CC_0084      --CUUGU-----GG-GA--GAGGA---
+CC_1372      --UUC-C-----GG-GC--GGCC-UUU
+CC_3761      UUGAC-C-----CG-CC--GCCGU---
+CC_2719      -GGCUUC-----GG-CC--AAGG-GCG
+CC_3270      AGGAUCU-----GC-GG--GUGGA---
+CC_3315      -UGAUGA-----GC-CC--GCU-----
+CC_2941      --GAA-U-----GC-CG--GGG-----
+CC_3357      --GCCAC-----GG-UC--GAGGG---
+CC_0246      -CGAUGC-----GG-GG--GAGGU---
+CC_1204      -AUAAAC-----CG-GG--UGAGG---
+CC_0167      --CCA-------GG-CU--CGGG-GUU
+CC_1715      ---UU-A-----GA-GA--GAGGG---
+CC_2432      --AGA-A-----CC-GG--GCUCA---
+CC_2957      --GAA-U-----GC-CG--GGG-----
+CC_1492      -U-UUUC-----CC-GC--CCGGU---
+CC_0722      -CGCAGA-----GG-CU-AUCCG-GGA
+CC_0186      --GUU-U-----CC-AG--GAAGG---
+CC_0980      --CGU-------CA-UC--GCCG-GGU
+CC_2814      --GAA-------GA-GA--GAGGG---
+CC_2513      CAAA-AA-----GA-GG--GGACA---
+CC_1295      CAGAC-C-----GU-UA--CGGAG---
+CC_3277      --UAU-------GA-AU--UAG--AGC
+CC_3164      --GUCG------GG-CC--AAGG-UCC
+CC_0796      --GAA-A-----GC-CG--GGG-----
+CC_2228      ACGAA-C-----CG-GG--CGGG-CUU
+CC_3732      ---AG-C-----GG-GG--GAGGU---
+CC_0446      GGGAU-------CC-GA--AGUC-UCC
+CC_3271      --CAAG------GA-CU--UGGCC---
+CC_0425      ---UC-------GA-UC--CGAA-GCG
+CC_1287      --CUUGC-----GC-UC--GCCAG---
+CC_1970      --GCG-A-----UC-CG--CGGC-CUU
+CC_0601      ---UC-------GG-CC--UCGC-CCU
+CC_1121      --UA-GC-----GG-GG--GAGAU---
+CC_2569      ---AUG------GC-UU--UCGC-CCC
+CC_1971      --UC-GC-----UC-CG--CGGC-CUU
+CC_2985      --GGA-A-----GG-CC--GAGCA---
+CC_1812      AAUA-GU-----GC-CU--GAGG-CUU
+CC_0623      ---GC-A------A-GC--GCCGA---
+CC_3248      --GCA-A-----GG-CG--CGGG-GGU
+CC_0193      --CUUGAU---GGG-GA--GGGGC---
+CC_1856      ---AU-A-----GG-GA--GAGGG---
+CC_1903      --CUGGCG---GGA-UC--AGGG-CCU
+CC_0486      -UGC-GU-----CG-CC--UGGC-CCU
+CC_2012      --ACCAA-----GG-CC--ACGG-CGA
+CC_2531      --UCA-A-----UC-UU--GGCC-CGC
+CC_1487      -GGAUGA-----CG-GU--GCUG-ACC
+CC_1302      --GAAGCG---CGU-CC--GGGG-CCU
+CC_2772      --UCU-C-----UG-AC--GAC--UUU
+CC_1304      --CUGGC-----GG-UC--GCC-----
+CC_2242      GGUAAAC-----GC-UG--GCCG-GUG
+CC_3130      ---AC-A-----GG-GA--GAAGG---
+CC_0306      --UAU-------GG-GG--GAGGC---
+CC_3549      --CCAUC-----GG-GG--GGAGG---
+CC_0184      AUUAA-C-----GC-AU--UUUC-UGA
+CC_3306      --GACAA-----GA-GG--CAAGA---
+CC_2328      AGGCU-U-----GC-GG--CCCG-GCC
+CC_0560      UCGCA-------GG-GA--UCGGA---
+CC_1103      --UUCGU-----CC-UC--CCG--GGG
+CC_2295      --AUC-CU---GCG-CG--GGG--CGC
+CC_3086      CGCUUCC-----GG-GA--UGACA---
+CC_2643      AUGCA-A-----GG-CG--GCGC-UCC
+CC_2214      --CUUGC-----GG-GA--GAAGG---
+CC_3503      CCCAA-C-----GU-CG--GCGG-CCU
+CC_2016      ---AUCA---------C--CAGC-CGC
+CC_0772      --UUU-C-----GC-CG--GGG-----
+CC_0747      --GCG-A-----GG-CC--GGCG-CCU
+CC_0724      --GCA-A-----GG-GA-AGAAGA---
+CC_0064      --CUUGC-----GG-GA--GAAGG---
+CC_1540      UGGCU-------GG-CG--CAA--AUU
+CC_1979      ---AA-A------G-GC--GGA-----
+CC_2226      GCCCACC-----GG-GC--GGCG-UUC
+CC_2379      --GCU-A-----CC-AC--GUGG-CCG
+CC_0691      --AAUCC-----GA-CG--CAGCG---
+CC_2965      --GAU-C-----GC-GG--GGG--AGC
+CC_1735      --GUU-C----GAG-CU--GGU--CGG
+CC_1844      --CA-GC-----GG-GG--GAGGU---
+CC_2443      ACGUU-------CC-UC--AUCC-UGA
+CC_0391      --GAAG------GC-CG--GGG-----
+CC_2721      --CG-GC-----CU-GA--UCGCG---
+CC_0732      --GGGG------GA-GC--GGAG-CGC
+CC_1535      GUGAU-C-----GC-CU--GGCG-GGU
+CC_1624      --CCUGC-----CG-GG--CGGC-GGC
+CC_1183      --UUU-------CA-GC--CGUGAAAU
+CC_2129      --UC-GC-----GG-GC--AGCC-CCG
+CC_2258      --GAA-A-----GG-CG--CGCCU---
+CC_2671      --GCC-------GG-CC--GUC--UCC
+CC_2175      --CCC-A-----AA-GC--CGA-----
+CC_3084      --GAU-A-----GC-GC--UUGGU---
+CC_1007      --GAA-A-----GG-GA--GGCG-GGG
+CC_0007      --GCA-A-----CC-UG--GUCG-GCU
+CC_0506      --GAA-C-----CA-UC--UAAA-CCA
+#=GC SS_cons ..___._.....>>.>>..>>>>.>>>
+#=GC RF      ..Gaa.c.....Gg.gc..gggG.Ccc
+//

@@ -1,0 +1,2402 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS gbs0841 WT 1.27
+#=GS gbs0761 WT 0.84
+#=GS gbs0819 WT 0.86
+#=GS gbs1502 WT 0.96
+#=GS gbs0820 WT 0.88
+#=GS gbs1345 WT 1.38
+#=GS gbs0945 WT 0.67
+#=GS gbs0440 WT 0.57
+#=GS gbs1774 WT 0.80
+#=GS UvrB    WT 0.72
+#=GS gbs1547 WT 0.52
+#=GS gbs0937 WT 0.71
+#=GS secY    WT 1.53
+#=GS gbs0760 WT 0.84
+#=GS gbs0047 WT 1.28
+#=GS gbs0964 WT 1.05
+#=GS eno     WT 0.66
+#=GS gbs2133 WT 1.07
+#=GS trpS    WT 0.87
+#=GS gbs1723 WT 0.57
+#=GS gbs1197 WT 0.50
+#=GS gbs0815 WT 0.84
+#=GS gbs1173 WT 0.86
+#=GS gbs0870 WT 0.97
+#=GS gbs0942 WT 1.00
+#=GS gbs0431 WT 0.42
+#=GS gbs0450 WT 0.89
+#=GS gbs1737 WT 1.19
+#=GS gbs1783 WT 0.84
+#=GS gbs2042 WT 1.21
+#=GS gbs1995 WT 0.94
+#=GS gbs0122 WT 1.12
+#=GS gbs1652 WT 1.33
+#=GS gbs1100 WT 0.65
+#=GS gbs1313 WT 1.15
+#=GS gbs1604 WT 1.06
+#=GS gbs1404 WT 0.86
+#=GS gbs1869 WT 1.10
+#=GS gbs1864 WT 1.24
+#=GS gbs1762 WT 0.90
+#=GS gbs1973 WT 0.90
+#=GS gbs1580 WT 1.04
+#=GS gbs1717 WT 0.80
+#=GS gbs0295 WT 0.83
+#=GS gbs0315 WT 0.78
+#=GS gbs0965 WT 1.23
+#=GS gbs0573 WT 0.86
+#=GS gbs1777 WT 1.00
+#=GS gbs0419 WT 1.06
+#=GS gbs1403 WT 1.19
+#=GS gbs0816 WT 0.84
+#=GS gbs0089 WT 0.91
+#=GS gbs1232 WT 1.09
+#=GS gbs1101 WT 0.64
+#=GS gbs1616 WT 0.96
+#=GS gbs0176 WT 0.75
+#=GS gbs0770 WT 0.81
+#=GS rplA    WT 1.18
+#=GS gbs0394 WT 0.37
+#=GS gbs2022 WT 0.75
+#=GS gbs2021 WT 0.75
+#=GS gbs2131 WT 1.11
+#=GS gbs1640 WT 0.71
+#=GS gbs1718 WT 0.80
+#=GS rpsU    WT 0.86
+#=GS gbs0724 WT 0.37
+#=GS dnaN    WT 1.19
+#=GS tyrS    WT 1.13
+#=GS gbs0609 WT 0.66
+#=GS gbs1359 WT 1.21
+#=GS gbs1539 WT 0.93
+#=GS gbs1778 WT 1.07
+#=GS gbs0985 WT 0.37
+#=GS gbs1390 WT 1.06
+#=GS gbs0144 WT 1.40
+#=GS gbs1623 WT 0.91
+#=GS gbs0346 WT 1.04
+#=GS gbs1529 WT 1.20
+#=GS gbs1530 WT 0.72
+#=GS gbs0327 WT 1.22
+#=GS gbs0600 WT 0.88
+#=GS gbs0779 WT 0.56
+#=GS gbs1429 WT 1.45
+#=GS gbs0950 WT 1.08
+#=GS gbs0345 WT 0.47
+#=GS gbs1046 WT 0.89
+#=GS gbs2016 WT 0.76
+#=GS gbs0129 WT 1.18
+#=GS gbs0041 WT 0.96
+#=GS gbs0822 WT 0.85
+#=GS gbs0889 WT 0.86
+#=GS gbs1590 WT 0.86
+#=GS gbs2089 WT 0.88
+#=GS gbs1876 WT 1.03
+#=GS gbs2011 WT 0.86
+#=GS gbs1382 WT 1.32
+#=GS gbs1724 WT 0.57
+#=GS gbs1022 WT 0.90
+#=GS gbs1587 WT 1.02
+#=GS gbs2082 WT 1.05
+#=GS gbs0640 WT 0.77
+#=GS gbs1586 WT 0.96
+#=GS gbs0835 WT 0.87
+#=GS gbs0553 WT 0.86
+#=GS gbs0177 WT 0.75
+#=GS gbs1714 WT 1.30
+#=GS gbs0744 WT 0.92
+#=GS gbs0458 WT 0.85
+#=GS gbs0786 WT 0.91
+#=GS gbs1761 WT 0.90
+#=GS gbs0344 WT 0.47
+#=GS gbs1280 WT 0.96
+#=GS recF    WT 0.59
+#=GS mscL    WT 0.83
+#=GS glnA    WT 1.62
+#=GS gbs0921 WT 1.22
+#=GS ptsI    WT 0.95
+#=GS gbs1776 WT 1.15
+#=GS gbs1157 WT 1.22
+#=GS gbs1685 WT 1.02
+#=GS gbs0561 WT 0.76
+#=GS uvrC    WT 1.07
+#=GS gbs2006 WT 1.06
+#=GS gbs1923 WT 1.30
+#=GS gbs0294 WT 1.37
+#=GS gbs1858 WT 0.69
+#=GS gbs0434 WT 0.93
+#=GS gbs1538 WT 0.97
+#=GS pcsB    WT 1.18
+#=GS gbs0457 WT 0.85
+#=GS gbs1929 WT 1.01
+#=GS gbs1366 WT 1.47
+#=GS argS    WT 1.33
+#=GS gbs2002 WT 0.97
+#=GS gbs0572 WT 0.91
+#=GS gbs0846 WT 1.08
+#=GS gbs1721 WT 1.22
+#=GS gbs0593 WT 1.19
+#=GS gbs0899 WT 0.95
+#=GS gbs1503 WT 0.71
+#=GS gbs1671 WT 1.24
+#=GS gbs0567 WT 0.70
+#=GS gbs1722 WT 1.09
+#=GS gbs2090 WT 0.88
+#=GS gbs1617 WT 1.02
+#=GS gbs1293 WT 0.86
+#=GS gbs0958 WT 0.87
+#=GS gbs2124 WT 1.11
+#=GS metK    WT 1.05
+#=GS gbs0307 WT 0.96
+#=GS gbs1509 WT 1.33
+#=GS gbs1684 WT 0.93
+#=GS gbs0031 WT 0.97
+#=GS gbs1169 WT 0.89
+#=GS gbs0190 WT 1.00
+#=GS gbs1230 WT 0.88
+#=GS gbs1457 WT 0.90
+#=GS gbs0451 WT 1.09
+#=GS gbs0312 WT 0.86
+#=GS gbs0781 WT 0.88
+#=GS gbs0551 WT 1.67
+#=GS gbs0430 WT 0.42
+#=GS gbs1042 WT 1.02
+#=GS gbs1808 WT 1.37
+#=GS gbs0112 WT 0.73
+#=GS gbs0784 WT 1.01
+#=GS rbfA    WT 1.06
+#=GS gbs2014 WT 1.25
+#=GS gbs0106 WT 1.38
+#=GS gbs1175 WT 1.11
+#=GS gbs1050 WT 1.33
+#=GS gbs1658 WT 0.86
+#=GS gbs0957 WT 0.87
+#=GS gbs2028 WT 1.07
+#=GS pgi     WT 1.08
+#=GS gbs0195 WT 0.99
+#=GS gbs0772 WT 0.74
+#=GS gbs0318 WT 1.34
+#=GS gbs1678 WT 0.86
+#=GS gbs0071 WT 1.30
+#=GS gbs1585 WT 1.07
+#=GS gbs1591 WT 0.86
+#=GS gbs1583 WT 0.75
+#=GS gbs0484 WT 1.03
+#=GS ftsH    WT 1.08
+#=GS gbs0580 WT 1.10
+#=GS gbs0300 WT 1.10
+#=GS gbs1287 WT 0.77
+#=GS gbs1875 WT 0.88
+#=GS gbs0171 WT 0.71
+#=GS gbs0498 WT 1.00
+#=GS gbs0492 WT 1.19
+#=GS gbs0926 WT 0.73
+#=GS gbs1830 WT 1.51
+#=GS gbs2036 WT 0.93
+#=GS gbs1811 WT 0.85
+#=GS gbs0844 WT 1.25
+#=GS gbs0606 WT 0.95
+#=GS gbs0107 WT 1.17
+#=GS gbs1451 WT 1.45
+#=GS gbs0479 WT 1.26
+#=GS gbs1504 WT 0.71
+#=GS cysK    WT 0.94
+#=GS gbs0223 WT 1.20
+#=GS gbs1286 WT 0.77
+#=GS gbs1549 WT 1.29
+#=GS gbs1397 WT 1.07
+#=GS gbs2132 WT 0.99
+#=GS gbs0554 WT 0.74
+#=GS gbs0952 WT 1.00
+#=GS gbs0865 WT 1.07
+#=GS gbs0494 WT 1.15
+#=GS gbs0804 WT 1.00
+#=GS uvrA    WT 1.11
+#=GS gbs0019 WT 1.14
+#=GS gbs2108 WT 0.77
+#=GS cylK    WT 1.11
+#=GS gbs0596 WT 1.33
+#=GS gbs1536 WT 0.83
+#=GS gbs0966 WT 1.01
+#=GS gbs0898 WT 1.28
+#=GS gbs1610 WT 0.89
+#=GS gbs1565 WT 0.74
+#=GS scpB    WT 1.26
+#=GS gbs0750 WT 0.84
+#=GS pheT    WT 0.86
+#=GS rpsB    WT 1.24
+#=GS gbs0910 WT 0.93
+#=GS fusA    WT 1.08
+#=GS gbs2008 WT 1.25
+#=GS leuS    WT 0.86
+#=GS gbs1460 WT 1.10
+#=GS gbs1698 WT 1.09
+#=GS gbs2092 WT 1.55
+#=GS gbs1641 WT 0.71
+#=GS gbs1189 WT 0.86
+#=GS gbs0925 WT 0.73
+#=GS gbs0788 WT 1.36
+#=GS gbs0852 WT 1.18
+#=GS gbs1612 WT 1.13
+#=GS gbs0535 WT 0.94
+#=GS gbs1792 WT 0.73
+#=GS gbs1666 WT 1.06
+#=GS gbs1784 WT 1.23
+#=GS dnaJ    WT 1.19
+#=GS gbs0787 WT 1.05
+#=GS ackA    WT 1.02
+#=GS gbs0497 WT 1.40
+#=GS gbs1734 WT 0.86
+#=GS gbs0386 WT 0.39
+#=GS gbs1156 WT 1.15
+#=GS gbs1945 WT 1.14
+#=GS gbs1111 WT 1.02
+#=GS gbs2067 WT 1.08
+#=GS gbs0778 WT 0.56
+#=GS gbs0773 WT 0.74
+#=GS gbs1597 WT 1.09
+#=GS gbs0953 WT 1.36
+#=GS gbs0342 WT 0.63
+#=GS gbs2084 WT 1.50
+#=GS gbs1099 WT 1.09
+#=GS gbs0581 WT 1.01
+#=GS gbs1174 WT 1.13
+#=GS gbs0851 WT 0.88
+#=GS glpF    WT 1.33
+#=GS gbs1772 WT 0.98
+#=GS gbs0113 WT 0.73
+#=GS gbs1465 WT 0.87
+#=GS gbs0612 WT 1.07
+#=GS gbs1288 WT 0.85
+#=GS gbs1847 WT 0.94
+#=GS gbs1697 WT 1.09
+#=GS gbs0843 WT 0.89
+#=GS gbs2116 WT 0.59
+#=GS gbs0993 WT 0.39
+#=GS gbs1297 WT 1.37
+#=GS gbs0797 WT 0.91
+#=GS gbs0831 WT 1.11
+#=GS gbs0716 WT 0.39
+#=GS gbs0288 WT 0.78
+#=GS gbs0569 WT 1.20
+#=GS gbs1637 WT 1.10
+#=GS gbs0579 WT 1.00
+#=GS gbs1049 WT 1.00
+#=GS gbs2094 WT 1.48
+#=GS lysS    WT 0.81
+#=GS gbs1227 WT 0.84
+#=GS gbs0153 WT 1.67
+#=GS gbs1432 WT 0.96
+#=GS gbs0560 WT 0.76
+#=GS gbs1213 WT 1.00
+#=GS gbs0811 WT 0.81
+#=GS gbs1250 WT 0.86
+#=GS gbs0445 WT 0.93
+#=GS gbs1202 WT 1.21
+#=GS gbs1924 WT 1.13
+#=GS gbs1279 WT 1.24
+#=GS gbs2075 WT 1.12
+#=GS gbs0566 WT 0.70
+#=GS murC    WT 1.19
+#=GS gbs0962 WT 0.94
+#=GS gbs0838 WT 1.59
+#=GS gbs2013 WT 1.23
+#=GS gbs0056 WT 1.15
+#=GS gbs0103 WT 0.85
+#=GS rpsR    WT 0.88
+#=GS gbs2017 WT 0.88
+#=GS gbs1513 WT 0.68
+#=GS gbs0230 WT 0.90
+#=GS gbs0660 WT 0.94
+#=GS gbs1880 WT 1.34
+#=GS gbs1879 WT 1.30
+#=GS glnQ    WT 0.92
+#=GS gbs0836 WT 0.93
+#=GS gbs0053 WT 1.30
+#=GS gbs0170 WT 0.71
+#=GS ung     WT 0.96
+#=GS rplT    WT 1.05
+#=GS gbs1194 WT 1.15
+#=GS gbs1289 WT 0.80
+#=GS gbs1857 WT 0.90
+#=GS pepC    WT 0.75
+#=GS gbs1259 WT 1.32
+#=GS gbs1442 WT 1.18
+#=GS gbs0947 WT 1.08
+#=GS gbs0313 WT 1.00
+#=GS gbs1329 WT 1.00
+#=GS gbs1021 WT 0.84
+#=GS gbs0686 WT 1.17
+#=GS gbs0805 WT 0.85
+#=GS gbs1542 WT 1.22
+#=GS gbs0256 WT 0.68
+#=GS gbs0279 WT 1.19
+#=GS rpmV    WT 0.97
+#=GS gbs0448 WT 1.18
+#=GS gbs0552 WT 0.86
+#=GS gbs0951 WT 0.90
+#=GS gbs0033 WT 1.02
+#=GS gbs0040 WT 0.81
+#=GS gbs1691 WT 1.05
+#=GS gbs1263 WT 1.15
+#=GS gbs0812 WT 0.81
+#=GS gbs0834 WT 0.87
+#=GS recA    WT 1.25
+#=GS gbs1087 WT 0.95
+#=GS gbs1163 WT 1.14
+#=GS gbs0017 WT 0.89
+#=GS gbs1270 WT 1.08
+#=GS gbs2018 WT 1.31
+#=GS gbs1567 WT 1.18
+#=GS gbs1883 WT 1.37
+#=GS gbs0884 WT 1.34
+#=GS gbs1166 WT 1.48
+#=GS gbs1910 WT 0.81
+#=GS tufA    WT 1.28
+#=GS gbs2066 WT 1.00
+#=GS gbs0837 WT 1.39
+#=GS gbs1958 WT 1.08
+#=GS gbs1446 WT 1.07
+#=GS gbs1017 WT 1.22
+#=GS gbs1933 WT 0.97
+#=GS serS    WT 0.63
+#=GS gbs1725 WT 1.29
+#=GS gbs0393 WT 0.25
+#=GS gbs1271 WT 0.95
+#=GS gbs1795 WT 1.05
+#=GS gbs2057 WT 0.89
+#=GS gbs1190 WT 0.77
+#=GS gbs2058 WT 0.84
+#=GS gbs1354 WT 1.11
+#=GS gbs0723 WT 0.25
+#=GS gbs0532 WT 1.11
+#=GS gbs0474 WT 1.22
+#=GS gbs1545 WT 1.29
+#=GS hisS    WT 0.88
+#=GS rpsI    WT 1.50
+#=GS gbs1584 WT 0.78
+#=GS gbs1866 WT 0.84
+#=GS rpoC    WT 1.14
+#=GS gbs0917 WT 1.12
+#=GS ndk     WT 1.42
+#=GS gbs1125 WT 1.17
+#=GS gbs0533 WT 1.03
+#=GS gbs1682 WT 1.18
+#=GS gbs0986 WT 0.25
+#=GS gbs0775 WT 0.79
+#=GS gbs0155 WT 0.91
+#=GS gbs1019 WT 0.66
+#=GS gbs0104 WT 0.99
+#=GS gbs1765 WT 1.09
+#=GS gbs0102 WT 0.85
+#=GS gbs0790 WT 0.94
+#=GS gbs0896 WT 1.27
+#=GS gbs0604 WT 0.88
+#=GS gbs0329 WT 0.97
+#=GS gbs0134 WT 0.86
+#=GS gbs1886 WT 1.19
+#=GS gbs0536 WT 0.80
+#=GS gbs0714 WT 0.43
+#=GS gbs0355 WT 0.86
+#=GS gbs0918 WT 1.09
+#=GS gbs0093 WT 1.38
+#=GS gbs0955 WT 1.42
+#=GS upp     WT 1.29
+#=GS gbs0796 WT 1.15
+#=GS polC    WT 0.96
+#=GS gbs0326 WT 1.00
+#=GS gbs0473 WT 0.87
+#=GS gbs1674 WT 1.05
+#=GS gbs0931 WT 1.12
+#=GS gbs0900 WT 1.11
+#=GS gbs0621 WT 1.34
+#=GS gbs0221 WT 1.00
+#=GS gbs0243 WT 1.50
+#=GS gbs0349 WT 1.51
+#=GS thrS    WT 1.14
+#=GS gbs0669 WT 1.48
+#=GS gbs0141 WT 1.07
+#=GS rpsO    WT 0.76
+#=GS gbs0360 WT 0.91
+#=GS gbs1420 WT 1.08
+#=GS gbs1514 WT 0.81
+#=GS gbs2121 WT 1.23
+#=GS gbs1192 WT 1.14
+#=GS gbs1878 WT 1.28
+#=GS gbs1661 WT 1.00
+#=GS gbs1257 WT 0.96
+#=GS gbs1469 WT 0.71
+#=GS gbs1959 WT 1.08
+#=GS gbs0384 WT 0.43
+#=GS gbs0982 WT 0.32
+#=GS gbs0136 WT 1.03
+#=GS gbs0932 WT 1.17
+#=GS gbs0727 WT 0.32
+#=GS gbs1703 WT 1.23
+#=GS gbs0397 WT 0.32
+#=GS gbs1291 WT 1.34
+#=GS gbs1805 WT 1.28
+#=GS gbs1566 WT 0.74
+#=GS gbs2101 WT 1.30
+#=GS gbs1755 WT 1.02
+#=GS nadE    WT 0.89
+#=GS gbs0995 WT 0.43
+#=GS gbs0108 WT 0.95
+#=GS gbs0352 WT 1.17
+#=GS gbs0866 WT 1.07
+#=GS gbs0351 WT 1.41
+#=GS gbs1881 WT 0.92
+#=GS rpmD    WT 1.30
+#=GS gbs0687 WT 0.81
+#=GS gbs0793 WT 1.50
+#=GS gbs0842 WT 0.67
+#=GS gbs1171 WT 1.59
+#=GS gbs1752 WT 1.09
+#=GS gbs1711 WT 0.88
+#=GS gbs1029 WT 1.15
+#=GS gbs1463 WT 0.95
+#=GS gbs0764 WT 1.02
+#=GS gbs0126 WT 0.96
+#=GS gbs1683 WT 1.09
+#=GS gbs1920 WT 1.15
+#=GS gbs1415 WT 1.42
+#=GS gbs2107 WT 0.88
+#=GS gbs0509 WT 1.10
+#=GS gbs0524 WT 0.93
+#=GS gbs0183 WT 1.31
+#=GS gbs0054 WT 1.55
+#=GS gbs1619 WT 1.01
+#=GS gbs1445 WT 0.64
+#=GS gbs1770 WT 1.07
+#=GS gbs1216 WT 0.94
+#=GS gbs0090 WT 1.33
+#=GS gbs0967 WT 1.01
+#=GS gbs1662 WT 1.04
+#=GS tgt     WT 1.14
+#=GS gbs1438 WT 1.15
+#=GS gbs0588 WT 0.96
+#=GS gbs1225 WT 0.79
+#=GS gbs1037 WT 1.05
+#=GS gbs2118 WT 1.04
+#=GS gbs1744 WT 1.38
+#=GS gbs1809 WT 0.80
+#=GS rpsH    WT 1.34
+#=GS gbs2019 WT 0.93
+#=GS purA    WT 0.69
+#=GS gbs1912 WT 1.05
+#=GS gbs1074 WT 1.20
+#=GS gbs1947 WT 0.88
+#=GS gbs0188 WT 1.13
+#=GS gbs0321 WT 1.00
+#=GS gbs1914 WT 1.50
+#=GS pepB    WT 1.08
+#=GS gbs0111 WT 0.80
+#=GS gbs0341 WT 0.94
+#=GS gbs0356 WT 0.91
+#=GS gbs1143 WT 0.75
+#=GS gbs0678 WT 0.55
+#=GS gbs1841 WT 1.15
+#=GS gbs1739 WT 1.37
+#=GS gbs1416 WT 1.29
+#=GS gbs1840 WT 0.93
+#=GS gbs1281 WT 1.06
+#=GS atpC    WT 0.96
+#=GS gbs1322 WT 0.88
+#=GS rpsT    WT 1.13
+#=GS gbs1627 WT 1.25
+#=GS gbs0665 WT 1.13
+#=GS gbs0800 WT 1.36
+#=GS gbs1861 WT 1.09
+#=GS gbs1260 WT 1.18
+#=GS gbs1506 WT 0.92
+#=GS clpP    WT 0.88
+#=GS gbs1786 WT 1.00
+#=GS gbs1953 WT 1.26
+#=GS gbs1849 WT 0.91
+#=GS gbs1376 WT 1.14
+#=GS gbs1710 WT 0.89
+#=GS gbs0152 WT 0.76
+#=GS gbs1278 WT 1.34
+#=GS gbs0661 WT 0.96
+#=GS gbs1295 WT 0.86
+#=GS gbs0668 WT 1.14
+#=GS gbs1815 WT 1.03
+#=GS gbs1427 WT 0.87
+#=GS gbs1689 WT 0.86
+#=GS gbs0142 WT 0.90
+#=GS gbs0672 WT 1.03
+#=GS gbs1507 WT 0.96
+#=GS gbs1940 WT 1.16
+#=GS gbs1838 WT 1.13
+#=GS gbs0284 WT 1.07
+#=GS gbs2080 WT 1.07
+#=GS gbs0791 WT 0.99
+#=GS gbs0253 WT 0.93
+#=GS gbs0605 WT 1.25
+#=GS gbs1223 WT 1.19
+#=GS gbs0601 WT 0.82
+#=GS gbs0679 WT 0.55
+#=GS gbs0282 WT 1.18
+#=GS gbs2053 WT 0.96
+#=GS gbs1154 WT 0.96
+#=GS gbs1406 WT 1.01
+#=GS gbs0539 WT 1.11
+#=GS gbs0974 WT 0.42
+#=GS gbs1474 WT 0.79
+#=GS gbs0148 WT 1.22
+#=GS gbs1400 WT 1.30
+#=GS gbs0405 WT 0.42
+#=GS gbs1577 WT 1.21
+#=GS gbs0125 WT 0.96
+#=GS ruvB    WT 1.18
+#=GS gbs0789 WT 1.10
+#=GS gbs1793 WT 0.73
+#=GS gbs1458 WT 1.03
+#=GS gbs1855 WT 1.26
+#=GS gbs0906 WT 0.85
+#=GS gbs0746 WT 0.95
+#=GS gbs0946 WT 0.77
+#=GS gbs0776 WT 0.79
+#=GS gbs1568 WT 1.14
+#=GS cpsY    WT 0.86
+#=GS gbs1727 WT 1.06
+#=GS rmlD    WT 1.22
+#=GS gbs1472 WT 1.10
+#=GS gbs0508 WT 1.19
+#=GS gbs0792 WT 1.15
+#=GS gbs1044 WT 1.17
+#=GS gbs1906 WT 0.95
+#=GS gbs0735 WT 0.42
+#=GS gbs0350 WT 1.07
+#=GS gbs1210 WT 1.10
+#=GS gbs0213 WT 1.33
+#=GS gbs0659 WT 0.94
+#=GS gbs0255 WT 0.99
+#=GS gbs1387 WT 0.93
+#=GS gbs1480 WT 0.85
+#=GS groEL   WT 1.02
+#=GS gbs0924 WT 1.07
+#=GS gbs1479 WT 0.85
+#=GS gbs1972 WT 0.90
+#=GS gbs0272 WT 0.92
+#=GS gbs1804 WT 1.18
+#=GS gbs0131 WT 1.62
+#=GS gbs1211 WT 1.00
+#=GS gbs1198 WT 0.50
+#=GS gbs1115 WT 1.00
+#=GS gbs1317 WT 1.10
+#=GS gbs1773 WT 0.80
+#=GS gbs2105 WT 0.90
+#=GS gbs0441 WT 0.57
+#=GS gbs1392 WT 1.08
+#=GS gbs0510 WT 1.00
+#=GS gbs1155 WT 1.18
+#=GS gbs1391 WT 0.83
+#=GS gbs1546 WT 0.52
+#=GS gbs0130 WT 0.98
+#=GS gbs1477 WT 1.09
+
+gbs0841      U-AUGAAAUA---GAC-G-UAA-------------AACGA--CUC-AACU
+gbs0761      U-CUCAUA------------AA-------------AAAGA--AGC-UACU
+gbs0819      G-UAAAUA--------A--UAA-------------AAAAG--UAA-GGAU
+gbs1502      G-AAAAUA--------A--UAA-------------AUAAG--GUU-GAGA
+gbs0820      U-UUAAUAAA----GCA--UAA------------UAAAAA--AGU-AAGA
+gbs1345      C-CAAA----------A---AAC----------GGAUAGC--GCA-CCAA
+gbs0945      C-GAAAUA-------AA--UAA-------------AAAGA--AAC-UAGU
+gbs0440      G-UACAAU--------A------------------AAAAA--GUU-UCCU
+gbs1774      U-UUGA----------A--UAA-------------AAAAC--UUC-UCCU
+UvrB         G-AACAGA--------AU-UAA------------UAAAAC--GAC-UAGA
+gbs1547      G-AUGAUUA------UC------------------AAAAG--GUU-AGGC
+gbs0937      U-UU-AUAGU----AAA--GAA------------UAAAAG--ACU-AGGA
+secY         C-AUGAAU--------A--CAACAGAAUAGAAUAUA---G--GUU-GACU
+gbs0760      G-AAAAAU--------A---AA-------------AAAGA--AGC-UACU
+gbs0047      G-AAAA----------A--UAAG-----------AAAAUU--CCA-UUAC
+gbs0964      U-CU-AUA-------CA--UAA-------------AUAAA--GUU-AUGU
+eno          G-AAAAUAU------AA--UAA-------------AAACC--AUC-UUGC
+gbs2133      U-AAAAUU--------A------------------AAGGG--GUU-GGUC
+trpS         C-CU-AUA--------A--UAA-------------AAGAG--AGC-UAGA
+gbs1723      G-UUGAUA--------A------------------AAAAC--UCU-AGAA
+gbs1197      U-AUAAAU--------A------------------AUAAG--GCU-GGAA
+gbs0815      C-AAAAUA--------A--UAA-------------AAACC--UCU-UAGA
+gbs1173      C-AAAA--------------AA-------------AUAGA--AAC-UAGU
+gbs0870      U-AUCACA---------------------------AAAUA--ACC-UGAA
+gbs0942      U-UU-A----------A--GAACU--------UUCAAAAA--AGC-GAUU
+gbs0431      U-UACA--------------AA-------------AAAUA--GCU-AGGA
+gbs0450      U-UAAACU--------AU-CAAU-----------UAAAAG--GUC-UCUC
+gbs1737      G-AAAAUU------------AA-------------AAAUG--UGG-AAGA
+gbs1783      U-UUAA----------A--UAAU-----------AAAAAA--ACA-UUCC
+gbs2042      U-CUGAGC---------------------------AAAAA--ACU-UGAC
+gbs1995      C-CA-AUG------------AAU-----------UAUAAA--AGA-GCCU
+gbs0122      C-AUAAUUAU----UUA---AA-------------ACAAU--AAC-UGCC
+gbs1652      C-AU-AGA--------C--AAA------------UAACCU--UAC-AGGU
+gbs1100      G-UAAAUU-------AA--UAA-------------AAAAA--GCU-AGGA
+gbs1313      C-AU-AUU--------A---AAC-----------AAAACA--CCC-CCAC
+gbs1604      U-AU-AAA--------A--UAAUC--------ACUAAAAG--AGC-GUAA
+gbs1404      G-AU-AUA--------A---AA-------------AUAGG--UUU-GGAU
+gbs1869      C-AAAAUC--------A--UAAA----------ACAUUCC--AGU-ACCG
+gbs1864      C-UAAAUA------------AA-------------AACGA--UAC-UGUA
+gbs1762      G-UUAAAU--------A--AAA------------UAAAGC--CCA-GCGU
+gbs1973      G-GA-AUA--------A--UAA-------------AAGUA--GAA-UGAC
+gbs1580      G-AUAAAU--------A---AAU-----------AACAAU--ACU-UGAG
+gbs1717      C-UAAACU--------A--UAA-------------AAGAG--GUU-AGAU
+gbs0295      C-AAAAUAG------UC------------------AAAAG--GAG-AGCU
+gbs0315      U-AU-AUC--------A------------------AAAGA--GCU-AGGA
+gbs0965      C-AUAAAU---------------------------AAAGU--UAU-GUAA
+gbs0573      C-UAAAGAC------CA--UAA------------UAAAAA--AGC-GCAC
+gbs1777      U-UUAAAU--------A--UAA------------AAAUCA--GCC-AGUC
+gbs0419      G-CU-AUA--------A---AA-------------AAUAA--ACC-AUGA
+gbs1403      G-AA-AUA--------A--UAA-------------AAAUA--GGU-UUGG
+gbs0816      U-CACAUU-------UA--UAA-------------AAACC--UCU-UAGA
+gbs0089      C-AUCAUA--------U------------------AAAAA--GCU-UGAG
+gbs1232      G-AAGAUU-------AA--UAA-------------AAAAA--CGU-UACU
+gbs1101      U-UAGAUAG-----AUA--UAA-------------AAAAA--GCU-AGGA
+gbs1616      C-CAAA--------------AA-------------AAGAU--GAU-UGAG
+gbs0176      G-AAAAAUUA----GUA---AA-------------AAUCA--ACU-UAGC
+gbs0770      G-UAGA----------GG-UAAUA---------UUAAAAC--CCA-CCUU
+rplA         U-UUAAUC-------AA--UAA------------AAAAAC--UAG-GAAU
+gbs0394      U-CUAA----------A--UAA-------------AAGUA--GCA-CGUG
+gbs2022      G-CA-AUAA-----UGAU-UAA-------------AAGGA--GUU-GGAU
+gbs2021      U-AAAA-----------------------------AAGGA--GUU-GGAU
+gbs2131      G-AA-AAA--------A--UAA-------------AAUAG--GAU-GAGA
+gbs1640      C-AA-AUA--------A--UAA-------------AACGG--AUA-UAUC
+gbs1718      G-UUGAAU-------UA--UAA-------------AAGAG--GUU-AGAU
+rpsU         U-UAGAUA--------G---AAUA---------UGAAAAA--ACA-GUUC
+gbs0724      U-CUAA----------A--UAA-------------AAGUA--GCA-CGUG
+dnaN         C-UAAAUAA------GA------------------AAACU--ACC-CAAG
+tyrS         C-AAGACA--------A--UAA-------------AAAGU--GUA-GUCA
+gbs0609      G-UACAUA--------A------------------AAACC--AUC-UUGC
+gbs1359      C-AAAAUA--------A--AAA------------GAAUAU--GCU-AACA
+gbs1539      U-UU-AUU--------A---AAU----------AUAAAAA--GGA-GGAC
+gbs1778      C-UAAAUA--------A---AA------------UAGAGU--ACU-AGGU
+gbs0985      U-CUAA----------A--UAA-------------AAGUA--GCA-CGUG
+gbs1390      C-AU-AAU--------A--UAA-------------AAGGA--CCU-AGAC
+gbs0144      U-UACACU--------A---AACC---------UUUGCAA--GAA-UUGG
+gbs1623      U-AUAAGU-------AA--UAAUA---------UAAAAAG--GUU-GCCA
+gbs0346      U-GUAAUA--------A---AA-------------CUAAG--AGA-UGGU
+gbs1529      U-GACAUG--------G--UAA-------------AAGGC--AUA-UCUC
+gbs1530      U-CA-AUU--------AU-UAA------------UAAAAC--GAC-UAGA
+gbs0327      G-AUAA-------------CAA-------------AUCGU--CCU-AAGU
+gbs0600      G-AAAAAC-------U---GAAGU--------AACAAAUA--ACC-GCUC
+gbs0779      C-AAAAAC--------A--UAA------------AAACAA--GUU-GGAG
+gbs1429      U-AUGAAU--------A--AAAAAAC-----AUGUACUCU--GUC-AAGA
+gbs0950      C-AUGAAU-------AA--UAA-------------ACAAA--GUU-GCGU
+gbs0345      U-UUAA--------------AA-------------AAUAA--GAU-AGAC
+gbs1046      C-UUAA--------------AAUU---------AGAAAAA--ACC-UUUA
+gbs2016      U-AUAA----------AU-UAA------------CAAAAA--UCC-AUCU
+gbs0129      G-AU-AAA--------A--UAA-------------AAAAU--UAG-GAGA
+gbs0041      C-UAAAUG------------AA-------------AAUCG--AGU-AGAA
+gbs0822      U-CAAAAA--------A--UAAA-----------UAAAAA--GUU-AUCC
+gbs0889      U-UUAAAU--------A---AA-------------AAAAC--AGC-AUCU
+gbs1590      C-AUAA----------A--UAA-------------AAAAG--UCC-GUGU
+gbs2089      U-UUAA-----------------------------AAAGA--GCA-UGUC
+gbs1876      U-CUGAUA--------A--CAA-------------AAAAA--UCA-ACGA
+gbs2011      G-CUAAAAA------UA--GAA------------AAAUCC--CAA-AAGU
+gbs1382      U-AUGACA--------A------------------AAAGA--GCU-UUGC
+gbs1724      G-AAAAUU-------AA--UAA-------------AAAAC--UCU-AGAA
+gbs1022      G-AU-AGA---------------------------AAAGC--UGU-AACU
+gbs1587      G-UUAAA-------------AA-------------AUGAG--ACU-AGAA
+gbs2082      G-GAAAUA--------A---AA-------------AAAAC--GAU-AGAU
+gbs0640      C-AUGAAU--------A------------------AAAAA--GAA-GGCU
+gbs1586      U-CU-AUC--------A---AA-------------AAUGA--GAC-UAGA
+gbs0835      C-CUAAGAAA----UA-----AAAA------AAAUAAAAG--GAU-UGAU
+gbs0553      U-UUAAAA--------A--UAAU-----------AAAAGA--GCA-AACC
+gbs0177      C-UAAA-----------------------------AAUCA--ACU-UAGC
+gbs1714      G-AUAAAU--------A---AACA---------GUAAACG--CUU-CUUA
+gbs0744      G-UUAA----------C------------------AAGAG--ACU-AGGU
+gbs0458      C-UUAAUA--------U------------------AAAAA--AGC-CCCU
+gbs0786      U-AUAAUUG-----UUA--UAAA-----------GAAAAG--GUU-GGGA
+gbs1761      G-UAGAUA--------A--UAAA----------AUAAAGC--UCA-GCGU
+gbs0344      G-UUAA--------------AA-------------AAUAA--GAU-AGAC
+gbs1280      G-AUGAGUU------GA--UAAUAU------ACUAAAGAA--GCC-ACUU
+recF         -----AA-------------AA-------------AAAAG--CAA-CAGA
+mscL         G-CUAACA-------AA--UAA------------UAAAAG--ACU-CGGA
+glnA         U-UU-AUA---------------------------ACUAG--UUU-UAGG
+gbs0921      U-UUGAUU-------AA--UAA------------GAGACG--ACU-UAAG
+ptsI         U-GAGA----------A--UAAU-----------AAAAAA--GUA-GGGA
+gbs1776      C-AUCAUU--------A---AAC-----------AAAAUC--AGC-UAGC
+gbs1157      G-GAGAUUGA---UUAA--UAA-------------AAGGC--GCU-GGAA
+gbs1685      C-AUAA----------A--UAA-------------AAAUG--UGA-GAAG
+gbs0561      U-UUGAUUG-----CUA---AA-------------AAACU--CAC-UUAG
+uvrC         C-UAAAUA--------A---AA-------------AACUU--AGU-AGAU
+gbs2006      U-AAAAAC--------A--CAA-------------AAAAC--GCA-UCUA
+gbs1923      U-GUAAUA--------A---AACA---------AGUGAGC--CAC-UACU
+gbs0294      U-CUAAUA--------A--AAAAU---------AAAAGUC--AAC-UUUU
+gbs1858      C-AUCA-----------------------------AAAAG--UCU-GACU
+gbs0434      G-UAGAUC---------------------------UAAAA--AUU-UAGA
+gbs1538      U-UUAAAU---------------------------AUAAA--AAG-GAGG
+pcsB         C-CAAAUU-------AAU-GAAUA---------CUA--AG--GAG-AUCU
+gbs0457      C-UUAAUA--------U------------------AAAAA--AGC-CUCA
+gbs1929      C-AUCACU---------------------------AAAAA--CUG-AGGC
+gbs1366      U-GUGAUA--------A--CAA-------------A--AU--CAA-GGGG
+argS         U-GACAUU---------------------------ACUAA--GAC-UGUC
+gbs2002      G-AU-ACA--------A------------------AAAUC--CCU-UAGA
+gbs0572      U-CAAACC--------A--UAA------------UAAAAA--AGC-GCUA
+gbs0846      C-GUAA----------C--UAA-------------AAAUA--GUU-GCCU
+gbs1721      G-CUCACUU------UC--UAA-------------AAUAU--CCU-GAGU
+gbs0593      U-UUAAUGA------AA--CAA-------------AAAGC--CUC-ACGC
+gbs0899      U-AAAAUC--------A------------------AAAAA--UCU-AGUC
+gbs1503      G-CUAA----------A------------------AAAUC--GCU-AGCU
+gbs1671      U-AUAAGA------------AA-------------AAUCC--UUA-UGCU
+gbs0567      C-UACAAUU------AA--UAA-------------AAAGA--GAU-GAAA
+gbs1722      G-AAAAUA--------A------------------AAAUA--UCC-UGAG
+gbs2090      G-CA-AUU------------AA-------------AAAGA--GCA-UGUC
+gbs1617      C-UU-AGU--------A--UAA-------------AAAGA--UGA-UUGA
+gbs1293      U-UAAAUU--------A---AA------------UAAAAA--GCU-UAGU
+gbs0958      C-GAAAUA--------A------------------AUAAG--CAU-GAUC
+gbs2124      U-UAAAUU--------A---AACGA------CUAUAGGGA--GUU-GACA
+metK         G-CAAAUA--------A--UAA-------------AAAGC--GUA-AACG
+gbs0307      U-AAAAUU---------------------------AAAAA--GAA-GAUG
+gbs1509      G-CU-AUGA------UA--UAA-------------AGACU--UCU-AUCA
+gbs1684      U-UUAA----------A--CAAA-----------UGAAAA--UGU-GAGA
+gbs0031      U-UUAACA-------AA--UAAUA---------UAAAAAA--GGA-AGCU
+gbs1169      G-UUAA----------A--UAA-------------AAAAU--ACU-UAGA
+gbs0190      U-AACAUU-------UA------------------AAAAA--CCU-UUAC
+gbs1230      C-AAAAAA--------A--UAAAU--------AAUAAAAA--ACC-GCUA
+gbs1457      -----A-----------------------------A--GC--UCU-UACG
+gbs0451      U-AUGAUG---------------------------AAAAG--UUC-AGUU
+gbs0312      C-UUGAAUA------A---UAAAUAA-----ACAAAAAAC--CUA-GAUU
+gbs0781      C-CAAA----------C------------------AAAAA--UCG-AGAU
+gbs0551      C-UAGA-----------------------------AAAAC--CUU-GUCA
+gbs0430      U-UAAAUU--------A--CAA-------------AAAUA--GCU-AGGA
+gbs1042      G-UUAAUUUUU--UGU---CAA-------------A---G--GCU-AGGA
+gbs1808      C-AA-AUU--------A------------------UAGUU--UGA-UGUC
+gbs0112      C-AAAAUU--------A--UAAU----------AUAAAAA--GUC-GUGA
+gbs0784      U-CUAAUCUU---UAUA--UAA-------------AAAAU--UCA-GGCC
+rbfA         U-AAGAAUA------A---UAAA-----------AAAUAA--ACC-AUGU
+gbs2014      U-CUAAUGA------AA--U--AA--------AGAAAACA--GUA-UUUC
+gbs0106      G-AAAAUAUG----AAA--UAAC-----------UUUAUC--GCC-UCCC
+gbs1175      U-CU-AUU-------AAC-UAA-------------AAGUA--CUU-CUCU
+gbs1050      G-UU-AUC--------A--CAA------------UAACCU--CGA-AUGA
+gbs1658      U-UU-A------------------------------AAAG--CUA-GAUU
+gbs0957      G-GUAAAA--------A--UAA-------------AUAAG--CAU-GGUC
+gbs2028      U-CACAAC--------A--UAA-------------AACUC--CCC-UUUG
+pgi          U-CUAACU--------A------------------AAAAG--UUC-CUCA
+gbs0195      U-AUAAAU-------CA--UAA------------CAAAAA--GGC-AACA
+gbs0772      C-UAGAUA--------AU-UAAA-----------UAAUCC--ACU-AGAU
+gbs0318      G-CU-AGCA------GA--UAA------------GAGGUU--GAG-GUGU
+gbs1678      C-UAAAGA--------A---AA------------UAAAAA--ACU-GACU
+gbs0071      G-GUAAUA------------AAU-----------UAAUGA--UGC-UUUG
+gbs1585      U-AAGAAA-------------A-------------AACUA--AUC-UGAC
+gbs1591      U-UUGAAAGC---AUUA--UAA-------------AAAAG--CCC-GUGU
+gbs1583      G-UACA----------A--UAA-------------AAAGA--GUU-GGAU
+gbs0484      U-CUAAGU--------A---AA-------------GAAAG--ACU-UGAU
+ftsH         U-UAAAGAAC---UUUA--UAAAU--------UUCAAAUA--CCC-UUCA
+gbs0580      U-UUAA----------A------------------AGAUG--AUA-UCGG
+gbs0300      U-AUAAAA-------AA--UAA-------------UAGGA--GAC-CUUG
+gbs1287      U-UUAAUA-------UA--AAA------------UAACUC--CCU-UACU
+gbs1875      U-CAGACA--------A--UAAUC---------UAAAAGA--GAU-UGAU
+gbs0171      G-CAAA-----------------------------AAAAC--UUU-GAGC
+gbs0498      C-UU-AUU--------GU-UAA-------------AAUCA--GCC-AAAC
+gbs0492      U-UA-A----------A--UAAUGA-------UUGAGAAU--GCA-GCCG
+gbs0926      C-UUAAUA-------UA--CAAU-----------AAAAAG--AUU-GGAG
+gbs1830      G-UAGAGU---------------------------CAGAU--GAU-UUAU
+gbs2036      U-CACA----------C------------------AAAAA--GCA-AGAG
+gbs1811      U-UUAAUU------------AAUAU-------GAUGUAAA--AGA-GGGA
+gbs0844      C-UUAAAU-----------GAAG----------CAAAAUA--AAC-ACAA
+gbs0606      C-UUAAUC-------U----AA-------------A---A--ACU-AGGC
+gbs0107      G-AAAA----------A--UAAUAU------UGACAACAA--UAU-GAUA
+gbs1451      U-UUAAUC--------C------------------ACACC--UCA-AUCC
+gbs0479      G-UAAAAA--------A--UAA-------------ACUAA--AGC-CAUG
+gbs1504      U-UUAAUAU------UA---AA-------------AAAUC--GCU-AGCA
+cysK         G-AUAA----------C--UAA-------------AAAAG--AUU-AGAU
+gbs0223      U-CAAAUU-------CA--UAAGU--------UUAACUUA--GGA-GGGC
+gbs1286      U-CUCAUU--------A---AACA---------AUAACUC--CCU-UACU
+gbs1549      C-UAAAUAC-----AGA--UAA-------------GUGAG--GAU-GGGG
+gbs1397      U-AAGAUU---------------------------AAAGG--GAC-UGCA
+gbs2132      G-CUAAAA--------A--CAAAU---------AAAAAGC--CUA-GAUA
+gbs0554      G-AACAUA---------------------------AAAAA--UAA-GCUU
+gbs0952      U-UU-AGG--------G--UAA-------------AAAAA--GUC-UAGC
+gbs0865      G-AAAA----------A--UAA------------GAAAAG--ACA-GCUC
+gbs0494      C-AU-AUU------------AA------------UAAGGA--GUA-CUAG
+gbs0804      C-AAAAGU------------AAUA---------GAAAAAA--GGU-UUCC
+uvrA         U-UU-AUU----------------------------GGGA--GCU-GAGU
+gbs0019      G-UAAA----------G------------------AGGAA--CAU-GACA
+gbs2108      U-UAAA----------A---AAU-----------UAAAAG--GUU-AAGA
+cylK         C-UACAUAUGC-AUCUA--UAA-------------AAAGC-ACCU-UGAA
+gbs0596      G-AU-A----------A--UAAU-----------UAAAAU-U-UU-CGGU
+gbs1536      C-AAAAGA---------------------------AAAAG--GAU-AGUU
+gbs0966      U-AUAAGACA----GA-----AUAA-------AAGAAAAG--CGU-UAGG
+gbs0898      U-AU-AUU---------------------------UGAGA--UUG-AGCU
+gbs1610      G-AU-AUGU------CA------------------AAAAG--GUU-AAAA
+gbs1565      C-AUCAUA---------------------------AAAAC--GCC-UAAA
+scpB         C-UU-AUU-------UA------------------AUAGA--GAG-AACC
+gbs0750      U-UU-AAU--------A--UAA-------------AAAGA--ACU-UUCU
+pheT         G-AAAAAUA------AA--UAA-------------AAAAC--AGC-AUCA
+rpsB         G-UAAAUC--------C--UAA-------------AACGG--GGC-AGAU
+gbs0910      -----A----------C------------------AAAAU--GCA-AGCC
+fusA         U-CUGA----------A---AACU--------UAUGAAAG--GUA-CUCG
+gbs2008      U-UUAA----------A--AAAUAG-------AGCAAGGC--AUC-AAUU
+leuS         G-AU-AUUUAC-GCGUA--UAA-------------AAUCC--CAA-AAGU
+gbs1460      G-AAAA----------A------------------ACUAG--GUU-AGAC
+gbs1698      C-UAGACU--------A------------------AAAAG--CGC-UAUG
+gbs2092      C-UU-AUU--------U--UAAUAC------UACUUAGCC--GUU-CGAU
+gbs1641      -----A-----------------------------AACGG--AUA-UAUC
+gbs1189      C-AAAACG--------AU-UAACC--------AAUAAAAA--GAA-GCCU
+gbs0925      U-AAAAAU--------A---AA-------------AAAAG--GUU-GGAG
+gbs0788      C-UUGAAGUA----GGA--UAAUAG-------AGGUGUUA--GGG-UAAC
+gbs0852      G-AUAAUA---------------------------AACUC--CGU-UUGC
+gbs1612      U-AAGAUC--------A--UAA-------------AAGUG--AGU-AGA-
+gbs0535      G-UACA-----------------------------AAAGG--UUG-AGUA
+gbs1792      U-CUAA----------A--UAA-------------AAAGA--ACU-CUCU
+gbs1666      U-AU-AAU--------A--UAA-------------AAAAG--AAA-GUGG
+gbs1784      G-AUAAUA--------A------------------AAAAA--CAU-UCCC
+dnaJ         U-UAAAAA--------A--UAA-------------AAGUC--UAG-AAUC
+gbs0787      U-UUAAUU-------UA------------------AAAAA--GUU-CAAC
+ackA         C-CAGA-----------------------------AAAGU--UGA-UAGU
+gbs0497      U-AU-AUU--------A--UAAA----------AAAUCAG--CCA-AGCA
+gbs1734      G-AGGAUU---------------------------AAAGG--UUG-GGAU
+gbs0386      G-UUAAAA--------A--UAA-------------ACGGU--ACU-CUCA
+gbs1156      G-AAAACU-------AA--UAAC----------UAAAAGG--CAC-UGGU
+gbs1945      C-UU-AUA--------A--UAA------------AAGAUA--CCC-UUAG
+gbs1111      G-AA-AUA--------G--UAA-------------AAGAG--GUU-ACC-
+gbs2067      G-CUAAUCC-----CUC-------------------AAAU--CCA-GUGU
+gbs0778      C-AAAAAAUA----AUA--UAA------------AAACAA--GUU-AGAG
+gbs0773      C-UAAAAU---------------------------AAUCC--ACU-AGAU
+gbs1597      C-GAAAUA--------A------------------GUAAA--UGA-CUCU
+gbs0953      G-UUGAGUGG----GAA--UAA------------AAACUU--AGC-UACU
+gbs0342      G-UUCAUA--------G--AAA-------------AAAUG--AGU-UGGU
+gbs2084      U-CUCAGA--------U------------------AAGUG--CAA-AGAA
+gbs1099      U-UAAA--------------AA------------CUGGCC--AGG-AAGA
+gbs0581      C-AU-AGC--------AU-UAAUU---------UUAAAAG--CAC-UUCU
+gbs1174      U-UAAAUA--------A--UAA------------AAAAUA--GAA-ACUA
+gbs0851      C-CUAAAU--------A--UAAGA--------UAUUAAAC--CCU-ACUU
+glpF         U-UUGAUG----------------------------CUGA--GAC-CGAC
+gbs1772      G-AUGA-----------------------------AGUAG--GUU-UGAU
+gbs0113      G-UACA----------C------------------AAAAA--GUC-GUGA
+gbs1465      G-UUGA----------C--UAA-------------AAAAG--ACU-GGAC
+gbs0612      U-AUGAUA---------------------------UAAUA--GAG-UGAU
+gbs1288      C-UUAA--------------AA-------------AAGAA--GUU-AGUC
+gbs1847      U-UUGA-----------------------------A--AA--AAU-GGGA
+gbs1697      U-UUAACU--------A---AA-------------AAACC--AGA-AAGU
+gbs0843      U-UAAA----------A--UAA-------------AAAAG--AAA-CAAG
+gbs2116      C-UU-AUU--------A------------------AAAAG--CAA-CAGA
+gbs0993      G-UUAAAA--------A--UAA-------------ACGGU--ACU-CUCA
+gbs1297      C-UAAAAU--------G------------------G-GGU--UGA-GGAU
+gbs0797      U-AUGA----------A------------------AAAGG--AGU-UGCU
+gbs0831      G-AAGAUU--------C------------------AAAAG--GUU-ACUA
+gbs0716      G-UUAAAA--------A--UAA-------------ACGGU--ACU-CUCA
+gbs0288      C-CUAACG--------G--UAAU-----------UAAAAA--ACU-GGAU
+gbs0569      U-AAAAAU-------GAU-UAAUG---------CUAACAC--UGU-GAGU
+gbs1637      U-AAAAUA--------A--UAAA-----------GAAAGU--GAU-CGUU
+gbs0579      G-GAGAUU--------A------------------AAAAA--CUC-GGAA
+gbs1049      G-UU-AUU---------------------------AAAAG--CUC-GGAG
+gbs2094      C-CUCAAA--------CU-UAA-------------A------ACC-AGCC
+lysS         U-AU-AUU---------------------------AAAAC--CCAUCCUU
+gbs1227      U-CU-AUA--------C--UAA-------------A---A--GCU-UGCU
+gbs0153      G-CACAAU------------AAUUA------CAAUUUACU--GCC-GGCA
+gbs1432      C-UUAAUA---------------------------AAAGC--UGA-GAUC
+gbs0560      G-CUGAUA--------A---AA-------------AAACU--CAC-UUAG
+gbs1213      C-AAAAAU--------A---AAU----------UAAAAAG--AUU-GAGA
+gbs0811      U-UU-AAU--------A--UAA-------------AAAGG--AGU-AUCC
+gbs1250      U-UUAA----------A------------------AACAG--UUC-UGAG
+gbs0445      G-UU-ACU-------AA--GAA------------GUAAAA--AGA-GGUU
+gbs1202      U-UU-AUG--------A--UAAGAC-------ACUC--GG--AGC-UGGG
+gbs1924      G-CUGACA--------AC-UAA------------AAACAA--ACA-AGUC
+gbs1279      C-CUAAUUU-----UUA------------------AAACC--AUA-UGCA
+gbs2075      U-UAAAGA-------UA--CAA-------------AAACC--CUU-ACUA
+gbs0566      C-UUAAGAUU----UAA--UAA-------------AAAGA--GAU-GAAA
+murC         G-UUGAUA--------G------------------UAAGG--GCU-GAGA
+gbs0962      G-CUAA-----------------------------AAAGG--AUU-GGUU
+gbs0838      U-UAGAGU---------------------------CUGGG--AAU-AAAG
+gbs2013      G-AU-AUU--------A--CAA-------------AACAG--UAU-UCCU
+gbs0056      U-AU-AUU--------C---AA-------------AAAAU--GUA-ACCA
+gbs0103      G-AUAAAU--------A------------------AUAAA--CCU-CUGC
+rpsR         G-AAGAUU------------AA------------UAUAAA--AUA-GCCC
+gbs2017      U-CUGA-----------------------------AAAAU--CCA-UCUU
+gbs1513      G-UUAAAU--------A---AAGACA----UCUAAAAAGA--ACU-AGGU
+gbs0230      C-AAGAUU--------A--UAA-------------A---A--AAU-CCCA
+gbs0660      G-AUAAUA-------AA--UAACCAUU---UCUAAAAAAU--ACC-UCCU
+gbs1880      G-AAAAAU-------GA------------------AGAGA--GCU-UGAC
+gbs1879      C-UAAAUG--------A--UAA-------------ACUCC-CGUU-ACUC
+glnQ         U-UUAAUA---------------------------AAAAA--GAU-GACU
+gbs0836      U-AUAACUAUG-GAUUA--UAA------------GAAAAA--GAC-ACUG
+gbs0053      C-AGCAGU--------C--UAA-------------GAAUC--UCA-CUCU
+gbs0170      G-AUGAAU-------A-----ACU--------AAAAAAAC--UUU-GAGC
+ung          G-UU-AGUU-----UUA--UAA------------UAAAAA--ACC-GCU-
+rplT         G-GUAAAU-------AA--GAAU-----------UAAAAA--AGU-UGGG
+gbs1194      G-UGAAUU--------AG-UAAU-----------GAAAGA--GGA-UCAG
+gbs1289      U-UUGAUA---------------------------AAAAA--GCU-AGGC
+gbs1857      C-UACAUU--------A--AAAAA--------UAUAAAAA--AUC-AUGU
+pepC         G-UA-AUU--------A--UAAA----------UUAAAAA--ACU-GGAU
+gbs1259      G-UUGAUAGU---GUUA------------------AGAGG--UUA-CCAA
+gbs1442      U-UU-AUU--------A--UAAUGAA-----UUUUUAAAC--UAC-AGAU
+gbs0947      G-UUGA----------A------------------AAAAG--CUA-GGAU
+gbs0313      U-UUAA----------A--UAU------------UUAAAA--CCU-AGAC
+gbs1329      U-CU-AAU--------A--UAA-------------AACGA--GAA-UGUG
+gbs1021      U-CUAAUAA------A-CUCAA-------------AUAGA--GAU-UGAU
+gbs0686      U-AU-ACU--------AU-UAA-------------UAGAU--ACC-AUAA
+gbs0805      U-CA-AUC--------AU-UAAA-----------UAAAAA--GGU-UUCC
+gbs1542      U-CUCAUUU-----UAA--UAA------------GAAAAG--AUG-GAAA
+gbs0256      C-UUGA------------------------------AAGA--ACU-AGUU
+gbs0279      U-AAAAUUA-----UUA------------------AAGUC--UGA-AAUC
+rpmV         U-UUAAUA------------AAC-----------UG---A--GAA-AGCC
+gbs0448      U-CUAAUC--------A---AA-------------AAAUA--AGA-GUAU
+gbs0552      G-UAAAAU--------C---AAUA---------UAAAAGA--GCA-AACA
+gbs0951      G-UUAAUA--------A------------------AAAAG--UCU-AGCU
+gbs0033      C-UAAAUA--------AU-UAAG-----------GAGACU--CCU-UUUC
+gbs0040      C-AA-AGC--------A---AA-------------AAAUC--GAG-UAGA
+gbs1691      G-CAGAUUUC----UA-A-A-AA----------AUAAAAC--CGU-AGUA
+gbs1263      C-UAAAA-------------AA-------------AUAGA--CUG-GGAC
+gbs0812      C-AUAAAUUA----UAA--UAA-------------AAAGG--AGU-AACC
+gbs0834      G-UAAAAU---------------------------AAAAG--GAU-UGAU
+recA         C-UUGAAU--------A---AAUGUA-----ACUAAAAUA--AGU-UCUG
+gbs1087      G-CA-AUC------------AA------------UAAAAA--GGA-AUCG
+gbs1163      U-UAAAAA--------A--UAACUA------ACGUUGAGA--GAU-UGGA
+gbs0017      C-UAAAAUG------AC------------------AAAAA--ACC-UGUU
+gbs1270      G-UACAUA---------------------------AAAAA--CCU-AUCA
+gbs2018      U-UUCA----------A---AAUC---------UUA---A--GGC-AAAC
+gbs1567      G-UAAA----------A--UAA-------------AAUCG--AGA-AAAC
+gbs1883      U-UAGAAUAA----GGA--C--A----------AAUAACC--UAG-AGAU
+gbs0884      G-AAAAUA--------G--AAA------------GAGCCA--CUA-UAAG
+gbs1166      G-CAAA----------A--UAAUU--------UACC---G--ACC-ACUA
+gbs1910      G-AAGAUU--------A---AA-------------AAAAC--UUA-GGUC
+tufA         U-CAAAUU--------G------------------UGAAG--AGU-CCU-
+gbs2066      G-AAAAUUUGC--UCUU------------------UAAAG--ACU-AGGU
+gbs0837      C-AUCAGA------------AAC-----------UAGACU--GAG-AUAA
+gbs1958      C-CA-AUA------------AACU--------AUCAGAAA--ACU-AGAC
+gbs1446      U-GUAAUAG------UA--UAA-------------AAGAG--AGA-GCUC
+gbs1017      U-UU-AUG---------------------------GGGAG--AAC-GGAG
+gbs1933      U-AU-AGA--------A------------------AAACU--CCU-UGGA
+serS         U-CU-A-----------------------------AAAUG--AGU-UGGU
+gbs1725      C-UUAA----------AC-UAAG-----------GGAGAG--AGU-AUAA
+gbs0393      C-AAAAAU------------AACCA------AGUUAAUGG--AUA-AGCC
+gbs1271      G-UA-AUU--------G---AAC-----------CAAAAA--ACC-UAUC
+gbs1795      C-UUCAAU--------A--AAAAAUA----GAAUAAAAGC--GUA-AGGA
+gbs2057      C-CAAAAU--------A------------------AAAAU--ACA-GGCC
+gbs1190      G-AAGAAU---------------------------AAAAA--GAA-GCCA
+gbs2058      G-AUAAAU--------A------------------AAAAU--ACA-GGCU
+gbs1354      C-CU-AUA--------C--UAAA----------UGAGUGG--GCU-GAGA
+gbs0723      C-AAAAAU------------AACCA------AGUUAAUGG--AUA-AGCC
+gbs0532      U-UUGA----------C------------------AAAUA--UCU-UGCC
+gbs0474      U-CACAGA------------AA-------------AGAGA--GCU-AGUA
+gbs1545      G-AUGAAU-------UG------------------AAAUC--UCU-UAGC
+hisS         C-CU-A-----------------------------AAAAC--UCU-CCUU
+rpsI         U-UACAUC------------AACGA------UUACAAGCA--UUU-UGCA
+gbs1584      C-CUAA----------AG-UAA-------------AAAGA--GCU-GGAA
+gbs1866      G-CUAAAU---------------------------CAAAA--ACA-GUCC
+rpoC         G-AAGAUUA------A-UCAAA-------------AAGAA--CUU-GAGU
+gbs0917      U-CU-AUUU------UA------------------AAGUA--ACU-UAGC
+ndk          C-UUAAUG---------------------------AAGAU--UGA-UGUU
+gbs1125      C-AUAA----------G------------------AAGCG--GAC-AAUG
+gbs0533      C-AACAGC--------A--UAAU-----------UAAAAG--AAG-CCUA
+gbs1682      G-AAAAAA--------A--UAAACU-------AAUGAAGG--UCU-UAGG
+gbs0986      C-AAAAAU------------AACCA------AGUUAAUGG--AUA-AGCC
+gbs0775      U-UAAAUA--------A--UAAAUAGUU-UAUCAAAAAAG--CUA-CUGU
+gbs0155      U-UU-AUU--------U------------------GAGGA--GAA-UAGA
+gbs1019      C-AAAAGU---------------------------AAAAG--GUU-AGGC
+gbs0104      C-UU-AUU--------A---AAUU--------UUGAAAAG--AUU-GGGC
+gbs1765      U-UU-AGU----------------------------AAGG--UUG-GAGU
+gbs0102      G-UAAAUUU------UA---AA-------------AUAAA--CCU-CUGC
+gbs0790      G-CU-AUU--------A--AAAA----------AUAAAUA--GCU-GGAU
+gbs0896      C-AUAA-A--------A--CAA-------------AGAGG--GAC-UGAG
+gbs0604      U-CUAA-----------------------------AAAAG--AAG-AGUU
+gbs0329      U-UU-AGG--------C------------------AAAUA--GUU-UGAA
+gbs0134      C-UAAAAU--------A--UAAC----------AUAAAAA--GCU-GAGU
+gbs1886      U-UUGAUA------------AA-------------UAAGG--AUU-AUGA
+gbs0536      G-AUAAUU--------A------------------UAAAA--GAC-CUU-
+gbs0714      G-CUCAAC--------GU-UAA-------------UAAGU--CAU-UGAU
+gbs0355      C-AUAAAA-------UA--UAA-------------A--AA--AGA-GCAU
+gbs0918      G-CUAAUA-------UA--UAA-------------AAUCC--UUC-AAGA
+gbs0093      C-AAGAUAU------GA--UAAGU--------GAUAUUAG--CAC-UCUU
+gbs0955      U-AU-AUU--------C------------------AUUUG--ACU-UUGC
+upp          G-AUGAAU---------------------------AAGGC-UUUU-CUGA
+gbs0796      C-UAGAUA-------GA--UAAAC--------UAUGAACC--CUC-CUUC
+polC         U-CUAAGU--------A------------------AUAAG--GUU-GAGU
+gbs0326      C-AUAAUU-------UA---AA-------------AAAUC--UCA-GGGU
+gbs0473      U-UUCAGA--------A--UAAA-----------AAGGAG--AGC-UAAC
+gbs1674      G-UUAA----------C------------------AAAAC--GUA-GGGU
+gbs0931      G-UUAA----------A--UAAUUUUU--GAAUUCAAACC--UAU-UAUU
+gbs0900      U-UUGAAUA-----AUA--UAA-------------AAACC--AGC-GUUA
+gbs0621      U-UUGA------------------------------ACAC--GCC-ACAA
+gbs0221      G-CA-AUC--------A------------------AAAAG--CCU-UAGC
+gbs0243      U-CU-AGC--------A------------------CUAAU--GGG-AGGU
+gbs0349      U-UUCA-----------------------------AAAAU--GAU-CUCU
+thrS         U-AAAAAUCA---UUAA--UAAAUGA-----UGUGAACUG--AUUACUGU
+gbs0669      G-AUAAAGA-----UUA--AA-AA---------GUUUAGC--UGC-UCUU
+gbs0141      C-AAGAGAU------AA--UAA-------------AAAGC--CCC-UAUG
+rpsO         U-CA-AGU--------A------------------AAAAC--GCU-AGAA
+gbs0360      U-UU-AUG----------------------------GGGA--GAA-CGGA
+gbs1420      G-CU-AUAU-----UGA---AAU----------UUAAAGC--UAA-AUCU
+gbs1514      U-UAAA----------C--AAA-------------AAAGA--ACU-AGGA
+gbs2121      U-AACAUU------------AA-------------AACGA--AAA-GUAA
+gbs1192      U-CAAACA--------C------------------AAGAA--CCA-GAUA
+gbs1878      U-AAAAGA--------A--UAAAAA-------AAUACUCC-U-GC-UACU
+gbs1661      C-AU-AGA---------------------------AUAAU--AUC-UAGA
+gbs1257      C-UU-AUAU-----GCA--UAA-------------AAAGA--UGA-GCUA
+gbs1469      UAUUGA-----------------------------AAAAG--ACU-AAGA
+gbs1959      G-AU-AGA--------A--UAAAA---------AAAGAAA--ACU-AGAU
+gbs0384      G-CUCAAC--------GU-UAA-------------UAAGU--CAU-UGAU
+gbs0982      C-UAAAUA--------A--CAA-------------GAAAA--GUC-UCAU
+gbs0136      C-AAAAAU---------------------------A---A--AAG-CCUG
+gbs0932      U-CAGAGU--------AG-UAA-------------AAGAA--UGG-UAUU
+gbs0727      C-UAAAUA--------A--CAA-------------GAAAA--GUC-UCAU
+gbs1703      U-GACAGA--------A--UAAAG---------CUA---A--GCA-GUCU
+gbs0397      C-UAAAUA--------A--CAA-------------GAAAA--GUC-UCAU
+gbs1291      G-AUCAAU-------GA--UAAAG---------GGUGGUG--AAG-ACAU
+gbs1805      U-CU-A-----------------------------UAAAG--AAC-UCCU
+gbs1566      U-CA-AUA-------UG--UAA-------------AAAAC--GCC-UAAU
+gbs2101      U-AUCAAUU------GA--UAAUAG-------UGUU--CG--CCC-CUGU
+gbs1755      G-AAGAUA--------A--UAAC-----------AAAGAG-UAUG-AACG
+nadE         G-AUGAUUUCU-GGAAA--UAAG-----------AAAAAU--AGC-UAGA
+gbs0995      G-CUCAAC--------GU-UAA-------------UAAGU--CAU-UGAU
+gbs0108      U-ACGA----------A--UAAUGU-------UAGAAAAG--GCU-AGAC
+gbs0352      G-AUAAAUA-----AGA--UAA-------------AAGGA--AAU-CAGA
+gbs0866      C-AA-A-----------------------------AAAAG--GCA-ACUC
+gbs0351      G-UUAAUA-------UA------------------UAUUA--GUC-GUUC
+gbs1881      U-AU-AUU-------AAC-UAA-------------AAAGG--GCU-UGAC
+rpmD         C-UUAAUU--------A---AAUG--------CUAAAUCG--CAC-UGAU
+gbs0687      U-AAGAUA-------UA---AA-------------AAAAC--GAA-GGUC
+gbs0793      U-UAAAAU--------A---AACAAU----UUAGCA---G--UAG-UGAU
+gbs0842      C-UUAAUA------------AA-------------AAAGA--AAC-AAGU
+gbs1171      U-AAAAGU---------------------------GUUUA--GAU-ACUA
+gbs1752      G-UAAAGU--------A------------------A--AA--GCA-ACUG
+gbs1711      G-AAGAAU---------------------------AGAAA--UCA-GCCU
+gbs1029      C-CAAAAA--------A--UAAAC---------UUAAAAC--CUU-CUAA
+gbs1463      G-UUCA-----------------------------AAAAA--AUA-AGUC
+gbs0764      G-UAAAUA------------AA------------UAAAAA--GUG-GUUU
+gbs0126      U-AUAAUC-------CA--AAA-------------A--AA--GCU-CACC
+gbs1683      U-AAAAGC--------A--UAAUAA-------UUUA--AA--GCA-GUAC
+gbs1920      C-AAAAAUA-----AA------UAGA-----AUAAAAAAC--CUA-GGAG
+gbs1415      C-CCCAUG-------CC------------------UUAGC--GCU-UGUU
+gbs2107      G-UUGAUA--------A---AA------------CAAAGA--GAU-UUAC
+gbs0509      U-AUAA----------A--UAA-------------AAGAC--AGU-ACCU
+gbs0524      G-UUAAUUAG----CGA--UAA-------------AAAAA--GAC-UGGA
+gbs0183      G-CU-AUA--------AC-UAAUAGCG---UGGUUA---A--GGC-UGAA
+gbs0054      G-AUAAUG--------A--UAUUA---------CGCCCCC--CCU-UUAU
+gbs1619      U-AA-AGA--------AC-UAA-------------AAAAG--UCA-UGAA
+gbs1445      U-CAAAGAA------UA--CAA-------------AAAAA--GCU-AGGG
+gbs1770      G-AAGAGACU----AA------CUAA-----AAGUAAAAG--CAC-UAGA
+gbs1216      U-UUAA-----------------------------AAUAA--AAA-GGCA
+gbs0090      U-UAAAGCG------GAU-UAAUCGA-----UUUUAUUUC--UGC-AGUA
+gbs0967      G-GU-AUA--------G------------------AAAAG--CGC-UAGA
+gbs1662      U-CAAAUU-------AAC-UAAGC---------UUAUAAA--CAU-GGUG
+tgt          C-GUAAUUU------U---UAA-------------AAAAG--UUC-CUGG
+gbs1438      G-CAAA----------A--UAAUGCC----UAGUUAAGAC--UUU-AUGA
+gbs0588      C-CU-AGU--------A------------------AAAAA--ACU-GCCC
+gbs1225      U-AU-A----------A--UAAU-----------UAAAAG--ACU-UGCU
+gbs1037      U-UUAAUC-------UA------------------AAUAA--GCU-UCUC
+gbs2118      C-UAAA----------A--UAAGG---------GCAAAAA--GCA-UCCC
+gbs1744      G-UUCAAU--------U--UAACCC------UUGCACAAA--AAU-AGUU
+gbs1809      U-AUAAUU-------UA--UAU-------------UAAAG--GAC-AUGC
+rpsH         G-CUCAUU--------G------------------A---G--UCA-CAGU
+gbs2019      U-UAGAUAG-----AAA--CAAC-----------CCAAAC--CCU-UAGA
+purA         U-CAAAUA-------U-U-UAAUA---------UUAAAAG--UCU-GACU
+gbs1912      G-UUAAGG-------UA--UAAGCGAU--AUUCAUAAAAA--GGU-UGGG
+gbs1074      U-AUAAGU---------------------------GAAUA--GGA-AGGC
+gbs1947      U-CACA--------------AA------------UAAAAG--UCU-AGAU
+gbs0188      G-GAGAUU------------AA-------------AAAACUCACC-UACU
+gbs0321      C-AUCAAU--------A--AAAA----------CAAUAGA--ACC-AAGU
+gbs1914      U-AACAGA------------AAUU--------UUCU---G--AGG-AGAC
+pepB         G-CU-AUU--------G---AA------------GUAAAA--CCA-GUCA
+gbs0111      U-UUAA-------------GAAUAU------UUUUAAAAA--GUA-AGGC
+gbs0341      G-AAAAUAUU---AAUA--GAA-------------AAAGG--CUG-AGUU
+gbs0356      U-CUAAAU--------A------------------UAAAA--AGA-GCAA
+gbs1143      C-AACAGU------------AAGCA-------GUUAAUGG--AUA-AGCC
+gbs0678      U-AACAUA---------------------------AAAAA--AGA-GCUU
+gbs1841      U-AUAAUG-------GC--UAAUG---------AGAGACU--GUA-UGUC
+gbs1739      U-CUCAAA--------A---AAGU--------GUUAAGUA--GAU-UCAU
+gbs1416      U-UACAUU--------G---AA-------------UAAAA--GGU-GAAU
+gbs1840      U-UACAAA--------C--AAA-------------AACAC--UUU-UAGA
+gbs1281      C-CUCA----------A--UAA------------CCAAAA--GCC-AG--
+atpC         G-UAAA--------------AAGU---------AGAAAAAUGGUC-UAAU
+gbs1322      U-AUAA----------C--CAAAUU-------AUUAAACG--GAC-AGUU
+rpsT         G-UUAAUU------------AAC----------CUAGAAA--ACA-UCGG
+gbs1627      C-UUAA----------A---AAUA---------UCAGACA--UGC-ACAA
+gbs0665      G-AAAAUA-------AA--UAA-------------AACCA--AAA-AGUU
+gbs0800      C-UAAA----------A--UAAGGGUU--ACAUGGAAACU--AUU-UACU
+gbs1861      C-UU-AUA-------GAU-UAA-------------UAAGA--UUG-GACU
+gbs1260      U-UUGAUU--------A---AA-------------AAGAA--GUG-AAAU
+gbs1506      U-AUGA----------A------------------AAAAG--GCC-UCUU
+clpP         C-UACA----------A--UAAUAG------AUUUAAAAG--AGU-UGAG
+gbs1786      C-UAGAUA--------A------------------A----------GCGG
+gbs1953      C-AA-A----------A--GAAGGU-------CUUAUGCA--AGC-UGUG
+gbs1849      U-UU-A-----------------------------AAAAU--GUU-UGCG
+gbs1376      G-AUAAAA--------A--CAA-------------AACCC--GUU-UGGA
+gbs1710      C-CUAAUU---------------------------UAAAG--GUC-UUU-
+gbs0152      G-UUAA----------A--UAA-------------AAAAA--UCU-AUCU
+gbs1278      G-AUGAAUG-----AUA------------------AGGGC--GCC-UCUA
+gbs0661      C-UAAAUU------------AA-------------UAAAA--GAG-CAAC
+gbs1295      G-UAAAUG--------A--UAA------------AAAAAG--ACU-UAGU
+gbs0668      C-GAGAGU--------C---AA------------CUAAAA--GAU-GCU-
+gbs1815      U-UUGAUU--------A------------------AAGAG--UCA-AGGU
+gbs1427      G-AA-AGA--------A--UAAUUUA-----UUCUAAAAG--AUA-GGA-
+gbs1689      G-UA-AUA--------A------------------AAAAC--UAA-GGAG
+gbs0142      C-UAGAUA--------A--UAACUGUGC-UAAUAUA--AA--AGC-CCCC
+gbs0672      C-UU-AAU--------A--UAAG-----------AAGAAA--AAU-AGCU
+gbs1507      U-CAAAUU--------A--AAAAGU------CUCUAAAAG--UAA-GGUU
+gbs1940      G-UU-AUAGU---GAUG------------------UAAAG--GUU-GUGU
+gbs1838      U-AU-AGA--------A------------------AAAAA--ACA-CGUC
+gbs0284      G-UAGA-----------------------------AAAGA--CUA-UCGA
+gbs2080      U-GU-AUU--------A------------------AAGGG--AAUAGGAC
+gbs0791      G-AUCAAA--------A--UAAUUUA-----UUUUAGAAG--CUU-GGGU
+gbs0253      U-AUAA----------A--AAA------------UAAAAC--GAC-AAGG
+gbs0605      G-CAAAUG----------------------------AAAA--CUA-GGCC
+gbs1223      U-UAGACA--------A--UAAA-----------AAAAGC--CCC-ACGC
+gbs0601      U-AUAA----------C--AAA-------------AAAAG--GUU-GGAA
+gbs0679      G-AU-A-----------------------------AAAAA--AGA-GCUU
+gbs0282      U-UUGAUA-------UA------------------AUGAA--GGU-UAGA
+gbs2053      U-UAAAUA--------AU-UAA------------AAAAGA--GCC-UAAA
+gbs1154      C-AAAAUU--------A---AAUAUCCUUAUAGCUUAAGA--GAA-CGAG
+gbs1406      C-GU-AUU------------AAUU--------AUUAAAAG--GAC-AUGU
+gbs0539      C-UAAAUAAGUCAUAUG--UAA-------------AAAGG--CGA-UGAG
+gbs0974      G-AUAAUAG------CA--AAA-------------UAAAA--CGC-ACAG
+gbs1474      C-UA-AUU--------AG-UAAU-----------UAAAAA--ACU-UGCA
+gbs0148      U-AAAAAA--------C--AAAUA---------UUAUAAA--AGA-UGGC
+gbs1400      G-AACAUUU------UA------------------GAAGG-AAAU-GGGA
+gbs0405      G-AUAAUAG------CA--AAA-------------UAAAA--CGC-ACAG
+gbs1577      G-AUCAUC--------A---AA-------------AAAAU--AUU-GUCA
+gbs0125      C-AUAAAAC-----AGA--UAAUA---------GUUAAAA--GCU-CACU
+ruvB         G-AUAAAU--------A--AAACAUAA---GUCAUUUUAA--GGC-UAGG
+gbs0789      U-CUAAUU-------UA------------------AAAUU--CUU-UGGU
+gbs1793      C-CAGAGA--------A--GAACG---------UUAAAGA--ACU-CCCU
+gbs1458      -----A-----------------------------A---G--CUC-UUAC
+gbs1855      G-UUAAUA-------GA--CAA-------------AGGGA--GUG-AGAC
+gbs0906      U-AUAA----------A--UAA------------GAUAAA--AUA-GAGA
+gbs0746      U-UAGA-----------------------------AAACA--GAA-GGGG
+gbs0946      U-AAAAUU--------A------------------AAAAG--GUU-AAGC
+gbs0776      G-AAAAGU--------A--AAAGA---------GUAAAAG--CUA-CUGU
+gbs1568      U-AACA----------A--UAAU----------AUA---G--AGA-UUGU
+cpsY         U-AAAAAU--------A------------------AACAG--UCC-UGAG
+gbs1727      C-AUAA----------A--UAAUUAG----ACAUAAUAAA--GGC-GCUC
+rmlD         G-AUCAAA--------A--CAA-------------AGAGU--AGU-AAGG
+gbs1472      G-UAAAUA---------------------------AAAGA--UUG-GGAC
+gbs0508      C-AAAAGG-------CA--UAAUC--------UGUGAGGC--UUA-GAGG
+gbs0792      U-AAAAUU---------------------------UAAAG--UCA-CUCA
+gbs1044      C-AAAAGG--------A------------------A---A--UAU-UAAA
+gbs1906      G-UAAAAU---------------------------AAAAA--CUG-AGCU
+gbs0735      G-AUAAUAG------CA--AAA-------------UAAAA--CGC-ACAG
+gbs0350      U-UA-AUG---------------------------GAAGA--CUA-ACCA
+gbs1210      G-UAAA----------A---AAG-----------GUAGGA--GUU-AGAC
+gbs0213      C-UUAA--------------AA-------------AUCUU--CUC-UGGU
+gbs0659      U-AUAAUA------------AA-------------AAAAU--ACC-UCCC
+gbs0255      G-CUCAGU--------A--AAAC----------CCUGAAA--GUC-UAGU
+gbs1387      G-UAAA--------------AA-------------AAGAA--UUU-GAGA
+gbs1480      U-AACAUU--------A------------------AAAAG--CUA-GAGC
+groEL        C-AACAUA---------------------------AAACU--CCC-CUUU
+gbs0924      C-AU-ACU--------A------------------AAAAU--ACU-ACUC
+gbs1479      C-UUAAAA--------AU-UAACA--------UUAAAAAG--CUA-GAGC
+gbs1972      G-AUGAAU-------AA--UAA-------------AAGUA--GAA-UGAC
+gbs0272      C-AUCAGA-------CA------------------AAGAG--ACU-AGGU
+gbs1804      C-CUGAUAA------A---UAAAC---------AAAAGAA--CGG-AAAA
+gbs0131      U-UU-AUACCC--CUCC------------------AGUUC--CAU-UGUC
+gbs1211      C-AUGAAAU------CA--UAAC-----------AAAAGA--GCU-CAGA
+gbs1198      C-AUAAAU--------A------------------AUAAG--GCU-GGAA
+gbs1115      C-AUGAAU--------A--AAAG-----------AAAAAC--UGA-GUAA
+gbs1317      C-UAAACG--------G--UAAG----------GGAAAGA--GUG-GUGC
+gbs1773      C-CA-ACUU-----UUA--UAA-------------AAAAC--UUC-UCCU
+gbs2105      G-AAAAUA-------AA--UAA-------------AAACG--CUA-CAGC
+gbs0441      G-UACAAU--------A------------------AAAAA--GUU-UCCU
+gbs1392      G-CUAA-----------------------------AAAGC--UAA-GGCU
+gbs0510      C-UAAAUA--------A------------------AAGAC--AGU-GCCC
+gbs1155      U-AUAAUA------------AAUG---------UAAAAUC--CUA-UAGA
+gbs1391      G-AAAAAU--------A---AAGC---------UAAAAAG--CUA-AGGC
+gbs1546      C-CA-A-----------------------------AAAAG--GUU-AGGC
+gbs0130      U-AU-AGA--------AG-CAA-------------AAUAA--CCA-GAGC
+gbs1477      U-UUGAUGG-----UGU------------------AUAAG--CAC-AGUU
+#=GC SS_cons :.::::::........:...::.............:<<<<..<<<.<<<_
+#=GC RF      u.uUAAUa........A...AA.............AAAAa..gcu.aggu
+
+gbs0841      ----AUUGU-----------------------------CAGUU-GAG-UC
+gbs0761      ----UAUA--------------------------------GUA-GCU-UC
+gbs0819      ----GAA-UCUCAAUGAG------------AAAAAAUUCAUUC-UUA-CU
+gbs1502      U--GUACAU-------------------------------CUC-AAC-CU
+gbs0820      ---AUGAAUUUUUUCUCAU----------UGAGAUUCAUCCUU-ACU-UU
+gbs1345      ----UU--U-------------------------------UGG-UGC-GC
+gbs0945      ----AUAA-------------------------------GCUA-GUU-UC
+gbs0440      ----AUU-U------------------------------AGGA-AAC-UU
+gbs1774      A--GAAAAUU---------------------------CUAGGA-GAA-GU
+UvrB         ----GUAGUUAAUG-------------------AAGUGCUCUA-GUC-GU
+gbs1547      ----AAU-U------------------------------GCCU-AAC-CU
+gbs0937      ----AUU-U-----------------------------CUCCU-AGU-CU
+secY         ----CU----------------------------------GUC-AAC-C-
+gbs0760      ----AUAA--------------------------------GUA-GCU-UC
+gbs0047      ----UGGUUAACGUUUU--------------UUUAACCAGUAA-UGG-AA
+gbs0964      ----AAAAUAAAA---------------------UAUUUACAU-AAC-UU
+eno          ----AUA-U------------------------------GCAA-GAU-GG
+gbs2133      ----AGA-U-----------------------------AGACC-AAU-CC
+trpS         ----UAUAU-------------------------------CUA-GCU-CU
+gbs1723      ----AUAUU-------------------------------UCU-AGA-GU
+gbs1197      ----AAUUU-------------------------------UCC-AGC-CU
+gbs0815      ---UUAACU-----------------------------AUCUA-AGA-GG
+gbs1173      ----UAAAUCC-------------------------AUGACUA-GUU-UC
+gbs0870      ----AACAU-------------------------------UCA-GGU-UA
+gbs0942      ----AGAA--------------------------------AUC-GCU-UU
+gbs0431      ----AUAAU------------------------------UCCU-AGC-UA
+gbs0450      ----AGUAUUG--------------------------CUGAGA-GAU-CU
+gbs1737      ----AUCUU-------------------------------CUU-CCA-CA
+gbs1783      ----ACAAUGCUAGAAA-------------AGCAGUUAGGGAA-UGU-UU
+gbs2042      ----ACAAUA----------------------------UAUUG-AUU-UU
+gbs1995      ----UUCUUA----------------------------AGGGC-UCU-UU
+gbs0122      ----AAU-U------------------------------GGCA-GUU-AU
+gbs1652      ----GUCUUU---------------------------ACACCU-GUA-AG
+gbs1100      A--CUUACU-------------------------------CCU-AGC-UU
+gbs1313      ----AAAAUA---------------------------UUGUGG-GGG-UG
+gbs1604      ----UUAG-------------------------------CUAC-GCU-CU
+gbs1404      ----AAAAU------------------------------AUCC-AAA-CC
+gbs1869      ----AU---------------------------------GGGU-ACU-GG
+gbs1864      ----AAAC--------------------------------ACA-GUA-UC
+gbs1762      ----CA----------------------------------CGC-UGA-GC
+gbs1973      ----CAACUA---------------------------AAGUCA-UUC-UA
+gbs1580      ----AU--UCAA------------------------AAUCUCA-AGU-AU
+gbs1717      ----AAAA-------------------------------AUCU-AAC-CU
+gbs0295      ----UGU-U------------------------------AGCU-CUC-CU
+gbs0315      ---AUAAAU-------------------------------CCU-AGC-UC
+gbs0965      ----AUAUUUU-------------------------AUUUUAC-AUA-AC
+gbs0573      ----UAGCU-------------------------------AGC-GCU-UU
+gbs1777      ----UU----------------------------------GCU-AGC-UG
+gbs0419      ----UUU-U-----------------------------GACAU-GGU-UU
+gbs1403      ----AUAUUUU--------------------------AUCCAA-ACC-UA
+gbs0816      U-AGUUAAU-------------------------------CUA-AGA-GG
+gbs0089      ----AGUGUC---------------------------AUCUCA-AGC-UU
+gbs1232      ----GCUUUGAAUGA-----------------AUAAAGCAGUA-ACG-UU
+gbs1101      ---GUAAGU------------------------------UCCU-AGC-UU
+gbs1616      ----UUA-UA----------------------------ACUCA-AUC-AU
+gbs0176      ----UUCA-------------------------------GCUA-AGU-UG
+gbs0770      ----AAA-U------------------------------AAGGAUGG-GU
+rplA         ----UCC---------------------------------UUC-CUA-GU
+gbs0394      ----AAAAU------------------------------CACG-UGC-UA
+gbs2022      ---AAUU--A---------------------------UUAUCC-AAC-UC
+gbs2021      ---AAUAAU-----------------------------UAUCC-AAC-UC
+gbs2131      ----GUAUU-------------------------------CUC-AUC-CU
+gbs1640      ----AAUCU------------------------------GAUA-UAU-CC
+gbs1718      ----UUU-U------------------------------AUCU-AAC-CU
+rpsU         ----AGAAU-----------------------------UGAGC-UGU-UU
+gbs0724      ----AAAAU------------------------------CACG-UGC-UA
+dnaN         ----UUAUU------------------------------CUUG-GGU-AG
+tyrS         ----AU--U-------------------------------GAC-UAC-AC
+gbs0609      ----AUA-U------------------------------GCAA-GAU-GG
+gbs1359      ----AAU-UGAC-----------------------UUAAUGUU-AGC-AU
+gbs1539      ----UA----------------------------------ACC-UCC-UU
+gbs1778      ----AG--UCC--------------------------GAACCU-AGU-AC
+gbs0985      ----AAAAU------------------------------CACG-UGC-UA
+gbs1390      ---AUAAGUAUUAGAGUA-----------AAUACUAUCUGUCU-AGG-UU
+gbs0144      ----UAAUU-----------------------------GCCAG-UUC-UU
+gbs1623      ----AAGUUUU-------------------------CUUUGGC-AAC-CU
+gbs0346      ---UACAAUAG-------------------------UAUUCCA-UCU-CU
+gbs1529      ----UUAAUAUUU---------------------UUAGAGAGA-UAU-GC
+gbs1530      ----GCACUUCAUU-------------------AACUACUCUA-GUC-GU
+gbs0327      ----AAGCU-----------------------------UACUU-AGG-AC
+gbs0600      ----AUU-UA---------------------------ACGAGC-GGU-UA
+gbs0779      ----AUA-U------------------------------CUCU-AAC-UU
+gbs1429      ----UUUUU------------------------------UCUU-GAC-AG
+gbs0950      ----GGA-U------------------------------ACGC-AAC-UU
+gbs0345      ----UAUA-------------------------------GUCU-AUC-UU
+gbs1046      ----AUUAUA----------------------------ACGAA-GGU-UU
+gbs2016      ----UUAUUU---------------------------UAAGAU-GGA-UU
+gbs0129      ----GAUA--------------------------------CUU-CUA-AU
+gbs0041      ----AUAA--------------------------------UCU-ACU-CG
+gbs0822      ----GAAA-------------------------------GGAU-AAC-UU
+gbs0889      ----UAAUU-------------------------------GAU-GCU-GU
+gbs1590      ----AU--UCAUU----------------------AGAUACAC-GGG-CU
+gbs2089      ----GCA-U------------------------------GACA-UGC-UC
+gbs1876      ----ACAAU-------------------------------CGU-UGA-UU
+gbs2011      ----UAAA--------------------------------CUU-UUG-GG
+gbs1382      ----AG--UAGCUGUUG--------------AGACUACUGCAA-AGC-UC
+gbs1724      ----AUAUU-------------------------------UCU-AGA-GU
+gbs1022      ----AUCUU-------------------------------GUU-ACA-GC
+gbs1587      ----AAUGU-------------------------------UCU-AGU-CU
+gbs2082      ----UACA--------------------------------CCU-AUC-GU
+gbs0640      ----AAGUU------------------------------GGCC-UUC-UU
+gbs1586      ----ACAUU-----------------------------UUCUA-GUC-UC
+gbs0835      ----UU--UCAA------------------------AGAAUCA-AUC-CU
+gbs0553      ----UU----------------------------------GUU-UGC-UC
+gbs0177      ----UGAA-------------------------------GCUA-AGU-UG
+gbs1714      ----UCA-UA---------------------------GGUAAG-AAG-CG
+gbs0744      ---GUGUAU-------------------------------CCU-AGU-UU
+gbs0458      ----UUU-U-------------------------------GAG-GCU-UU
+gbs0786      ----AUC-U-------------------------------CCU-AAC-UU
+gbs1761      ----GA----------------------------------CGC-UGG-GC
+gbs0344      ----UAUA-------------------------------GUCU-AUC-UU
+gbs1280      ----UUUA--------------------------------AGU-GGU-UU
+recF         ----UUAAU-------------------------------CUG-UUG-CU
+mscL         ----UUA---------------------------------CCG-AGU-UU
+glnA         ---CUUUAUUUUG---------------------UAAAGUCUA-AAA-CU
+gbs0921      G--G--UAUA----------------------------UCUUA-AGU-CG
+ptsI         UUAAAAAAU-------------------------------CUC-UAC-UU
+gbs1776      ----AAGA--------------------------------CUG-GCU-GA
+gbs1157      ----UUAA--------------------------------ACC-AGU-GC
+gbs1685      ----GCUAU-----------------------------UCUUC-UCA-CA
+gbs0561      ----AUAUU------------------------------CUAA-GUG-AG
+uvrC         ----ACUGU-------------------------------UCU-ACU-AA
+gbs2006      ----UUUCU-------------------------------AGA-UAC-GU
+gbs1923      A-GAAA---CCUGUUAU-------------ACAGCUUUUAGUA-GUG-GC
+gbs0294      ----GGAAUU---------------------------CCAAAA-GUU-GA
+gbs1858      ----GUAC-------------------------------AGUC-AGA-CU
+gbs0434      ----UUUA--------------------------------CUA-GUC-UU
+gbs1538      ----UUAGU------------------------------CCUC-CUU-UU
+pcsB         ----UUCGU-------------------------------GGU-CUC-CU
+gbs0457      ----AAAA--------------------------------GGG-GCU-UU
+gbs1929      ---C-AA-UC----------------------------AACCU-CAG-UU
+gbs1366      ----ACUUUUGUAAGA----------------UGAAGGCACCC-UUG-AU
+argS         ----AAAUUU---------------------------AUGACA-GUC-UU
+gbs2002      C-ACAUCAU-------------------------------CUA-AGG-GG
+gbs0572      ----GCUA-------------------------------GUGC-GCU-UU
+gbs0846      ---GUAAC-------------------------------AGGC-AAC-UA
+gbs1721      ----UAUAUU----------------------------AACUC-AGG-AU
+gbs0593      ----UCAAUUUUUGGU---------------CGAGGAGAGCGU-GAG-GC
+gbs0899      ----AAAGUCUUUG--------------------CCUUUGGCU-AGG-UU
+gbs1503      ----UUAUU-------------------------------GCU-AGC-GA
+gbs1671      ----UAA-UGAU-----------------------AAAAGGCA-UAA-GG
+gbs0567      ----UAGAU-------------------------------UUC-AUC-UC
+gbs1722      ----UUAAUAU--------------------------AACUCA-GGA-UA
+gbs2090      ----AUGC-------------------------------GACA-UGC-UC
+gbs1617      ----GUUAUA---------------------------ACUCAA-UCA-UC
+gbs1293      A-GAACAGUAU--------------------------CUACUA-AGU-UU
+gbs0958      ----GAAUU------------------------------GACC-AUG-CU
+gbs2124      ----UAUA--------------------------------GUC-AAU-UC
+metK         ----AAA---------------------------------GUU-UAC-GC
+gbs0307      ----UUAA-------------------------------AGUC-UUC-UU
+gbs1509      ----AUUUU------------------------------CGAU-AGA-AG
+gbs1684      ----AGAAUAG-------------------------CCUUCUC-ACA-UU
+gbs0031      ----AUU-U------------------------------GGCU-UCU-UU
+gbs1169      ----UUUUUC----------------------------AUCUA-AGU-AU
+gbs0190      ----UUAUUCAA-----------------------UUAAGUAA-AGG-UU
+gbs1230      ----GU----------------------------------AGC-GGU-UU
+gbs1457      ----AUUUU-------------------------------GUA-AGA-GC
+gbs0451      ---UAACAUUAU-----------------------GUUAAGCU-GGA-CU
+gbs0312      ----UGAUUAAU-----------------------GACAAGUC-UAG-GU
+gbs0781      ----UUU-U------------------------------AUCU-CGA-UU
+gbs0551      ----UA--UCAAUGUUU--------------AUUGAUAGCGAC-AAG-GU
+gbs0430      ----AUUAU------------------------------UCCU-AGC-UA
+gbs1042      ----AAAAU-------------------------------CCU-AGU-C-
+gbs1808      A--UAAAAUCUCACAU----------------GAGAGUUGACA-UCA-AA
+gbs0112      ----AUUUU-------------------------------CAC-GAC-UU
+gbs0784      ----AAGUU------------------------------GGCU-UGA-AU
+rbfA         ---CAAAAU-------------------------------CAU-GGU-UU
+gbs2014      ----UCAAUU---------------------------GAGGAA-UAC-UG
+gbs0106      ----AGUAU-----------------------------UAGGA-GGC-GA
+gbs1175      ----GA--U-------------------------------GAG-AGG-UA
+gbs1050      ----AGUAU-------------------------------CAU-UCG-AG
+gbs1658      ----UU--U-------------------------------AUC-UGA-CU
+gbs0957      ----AAU-U-----------------------------CGAUC-AUG-CU
+gbs2028      ----UU----------------------------------AAA-GGG-GA
+pgi          ----AAGA--------------------------------GAG-GAA-CU
+gbs0195      ----UUGG-------------------------------AGUU-GCC-UU
+gbs0772      ----GAA---------------------------------UCU-AGU-GG
+gbs0318      ----GUAAU------------------------------GCAC-CUU-AA
+gbs1678      ----AU--UA----------------------------AGGUC-AGU-UU
+gbs0071      ----UGUUU-----------------------------AAAAG-GUG-UC
+gbs1585      A-AGAAAUU------------------------------GUCG-GAU-UA
+gbs1591      ----AUC-UAAU-----------------------GAAUACAC-GGA-CU
+gbs1583      ----AAAUU-------------------------------UCC-AGC-UC
+gbs0484      ----UUCG--------------------------------UCAAAAU-CU
+ftsH         ----AAUUUAGAUA--------------------AAAUUUGAA-GGG-UA
+gbs0580      ----AUA---------------------------------CGA-UAU-CA
+gbs0300      ----AAAA-------------------------------AAAG-GUU-UC
+gbs1287      ----AGC-U------------------------------AGUA-AGG-GA
+gbs1875      ----ACAAUGG--------------------------GUAUCA-AUC-UC
+gbs0171      ----AAAUU------------------------------GCUC-AAA-GU
+gbs0498      ---AAAACU------------------------------GCUU-GGC-UG
+gbs0492      ----AGA---------------------------------GGC-UGU-AU
+gbs0926      ----AUAAU------------------------------CUCC-AAC-CU
+gbs1830      ----AGCAUUAG-----------------------AGCUAUUA-AUC-AU
+gbs2036      ----AUAAUCG-------------------------UAUCUCU-UGC-UU
+gbs1811      ----UUUAU-------------------------------CCC-UCU-UU
+gbs0844      ----UGGUU-------------------------------UGU-GUU-UA
+gbs0606      ----UUAAUAA--------------------------AGGCCU-AGU-U-
+gbs0107      ----AGU-UGAUA---------------------UAAUUUAUU-AUG-UU
+gbs1451      ----AAC---------------------------------GAU-UGA-GG
+gbs0479      ---AUUAAUU----------------------------UCAUG-GCU-UU
+gbs1504      ----AUAA-------------------------------AGCU-AGC-GA
+cysK         ----AUGUU------------------------------GUCU-GAU-CU
+gbs0223      ----AUAA-------------------------------GCUC-UCC-UA
+gbs1286      ----AGC-U------------------------------AGUA-AGG-GA
+gbs1549      ----GAUA-------------------------------GCCC-AAC-CU
+gbs1397      ----AU--U-------------------------------GUA-GUU-CC
+gbs2132      ----AUC-U-------------------------------AUC-UAG-GC
+gbs0554      ----ACA-U------------------------------AAGC-UUA-UU
+gbs0952      ----UUA-UA----------------------------AGCUA-GAC-UU
+gbs0865      ----UUGUU-----------------------------AGAGU-UGC-CU
+gbs0494      ----AUGUUA---------------------------UUUUAG-UAC-UC
+gbs0804      ----AAC-UAAACU--------------------UGAUUGGAA-ACC-UU
+uvrA         ----AAUAU-----------------------------UACUC-AGU-UC
+gbs0019      ----UUAGU-------------------------------GUC-AUG-UU
+gbs2108      ----UCAGUUUA------------------------UGGUCUU-AGC-CU
+cylK         ----GUAUU-------------------------------UCA-AGG-GC
+gbs0596      ----GAUUUAU-------------------------AUCACCG-AA-UGU
+gbs1536      ----AAG-U------------------------------AACU-AUC-CU
+gbs0966      ----AUAUU------------------------------UCUA-GCG-CU
+gbs0898      ----UUUAU------------------------------AGCUUCAA-UC
+gbs1610      ---CUUAGU-------------------------------UUU-AGC-CU
+gbs1565      ----GCA---------------------------------UUA-GGC-GU
+scpB         ----AAUUU------------------------------GGUU-CUC-UC
+gbs0750      ----AAA-U-------------------------------GAA-AGU-UC
+pheT         ----AUUA-------------------------------AGAU-GCU-GU
+rpsB         ----GCAAAC---------------------------CGCUCU-GUC-UC
+gbs0910      ----UUA-UAA-------------------------UAGCGCU-UGC-AU
+fusA         ----AAA---------------------------------GAG-UAU-CU
+gbs2008      ----AC--UAGCUAUUA-------------AUAGUUAGUGACU-GGU-GC
+leuS         ----UUAA--------------------------------CUU-UUG-GG
+gbs1460      ----AGAGU-----------------------------UGUUU-AAC-CU
+gbs1698      ----UCA---------------------------------AUA-GCG-CU
+gbs2092      ----UUAG--------------------------------UUG-AAC-GG
+gbs1641      ----AGAUU------------------------------GAUA-UAU-CC
+gbs1189      ----UC--U-------------------------------GGC-UUC-UU
+gbs0925      ----AUUAU------------------------------CUCC-AAU-CU
+gbs0788      ----AA---------------------------------GUUA-CCC-UA
+gbs0852      ----UU---------------------------------GCAG-AUG-GA
+gbs1612      ------AA--------------------------------UCU-ACU-CA
+gbs0535      ----AGAA--------------------------------ACU-CAA-CC
+gbs1792      ----UGAAUU---------------------------CAAGGG-AGU-UC
+gbs1666      ----UCUCU-------------------------------CGC-UUU-CU
+gbs1784      ----UAACUGCUUUUC---------------UAGCAUUGUGGA-AUG-UU
+dnaJ         ---GAAAGU-------------------------------AUU-CUA-GA
+gbs0787      ----UAAGUCUUU----------------------CUUAGUUG-AGC-UU
+ackA         ----UUAA--------------------------------CUA-UCA-AC
+gbs0497      ----GUUUU-------------------------------GUU-UGG-CU
+gbs1734      ----AAU-U------------------------------AUCC-CAA-CC
+gbs0386      ----UUA---------------------------------GAG-GGU-GC
+gbs1156      ----UUAAU------------------------------UCCA-GCG-CC
+gbs1945      ----GU--UCAGAUAAA--------------GUCUGUAUCUAA-GGG-UA
+gbs1111      ------CA--------------------------------GGU-AAC-CU
+gbs2067      ---CUCUGU-------------------------------CAC-UGG-AU
+gbs0778      ----AUA-U------------------------------CUCC-AAC-UU
+gbs0773      ----UCA---------------------------------UCU-AGU-GG
+gbs1597      ----UU--U-------------------------------GAG-UCA-UU
+gbs0953      ----UUAA--------------------------------GUA-GCU-AA
+gbs0342      ----AUA---------------------------------CCA-ACU-CA
+gbs2084      ----AUGAUUAUUUA------------------ACCUUCAUCU-UUG-CA
+gbs1099      ----AA--U-------------------------------CUU-CCU-GG
+gbs0581      ----AUUA--------------------------------GAA-GUG-CU
+gbs1174      ----GUCAUGGAU---------------------UUAACUAGU-UUC-UA
+gbs0851      ----AU--UGAU-----------------------UAGUGAGU-AGG-GU
+glpF         ----UU--U-------------------------------AUG-GUC-UC
+gbs1772      ----UAUA--------------------------------UCA-AAC-CU
+gbs0113      ----AAAUU-------------------------------CAC-GAC-UU
+gbs1465      ----AAACU-------------------------------UCC-AGU-CU
+gbs0612      ----UUAUU------------------------------GUCA-CUC-UA
+gbs1288      ----AAUG-------------------------------GGCU-AGC-UU
+gbs1847      ----CC--U-------------------------------CCC-AUU-UU
+gbs1697      ----AUUA-------------------------------ACUU-UCU-GG
+gbs0843      ----UUAC--------------------------------UUG-UUU-CU
+gbs2116      ----UUAAU-------------------------------CUG-UUG-CU
+gbs0993      ----UUA---------------------------------GAG-GGU-GC
+gbs1297      ----UA--U-------------------------------UUC-UCA-AC
+gbs0797      ----GA----------------------------------GCG-ACU-CC
+gbs0831      ----AA--UAGAAA--------------------UAAUUUAGU-AAC-CU
+gbs0716      ----UUA---------------------------------GAG-GGU-GC
+gbs0288      ----AUAUU------------------------------AUCC-AGU-UU
+gbs0569      ----UUCA--------------------------------CUC-ACA-GU
+gbs1637      ----UAAA--------------------------------AUG-GUC-AC
+gbs0579      ----UAUUU-------------------------------UCC-GGG-UU
+gbs1049      ---UAAACU-------------------------------UCCAGAG-CU
+gbs2094      ----UUCCUUA--------------------------UAGGCU-GGU-CA
+lysS         ----AUU-U------------------------------AAGG-UGG-GU
+gbs1227      ----CU--U-------------------------------GCA-AGC-U-
+gbs0153      ----AAAUU-------------------------------GCC-GGU-AG
+gbs1432      ----UA--U-------------------------------AUC-UCA-GC
+gbs0560      ----AAUAU------------------------------CUAA-GUG-AG
+gbs1213      ----AAAAU-------------------------------CUC-GGU-CU
+gbs0811      ----AUAG--------------------------------GUU-ACU-CC
+gbs1250      ----ACAAU------------------------------CUCA-GGA-CU
+gbs0445      ----UC----------------------------------ACC-UCU-UU
+gbs1202      ----AGA---------------------------------CCA-GCU-CC
+gbs1924      ----ACCGU-------------------------------ACU-UGU-UU
+gbs1279      ----AAACU------------------------------AGCA-UAU-GG
+gbs2075      ----AAAAU-----------------------------AUAGU-AAG-GG
+gbs0566      ----UCUAU-------------------------------UUC-AUC-UC
+murC         ----GAAGU-----------------------------UUCUC-AGU-CC
+gbs0962      ----AUUUU-------------------------------ACC-AAU-CC
+gbs0838      ---C-AAUUAA-------------------------UUGCUUU-AUU-CC
+gbs2013      ----CAAUU-----------------------------GAGAA-AUA-CU
+gbs0056      ----GAAAU-------------------------------GGU-UGC-AU
+gbs0103      ----AGAG--------------------------------CAG-AGG-UU
+rpsR         ----UAGC--------------------------------GGC-UAU-UU
+gbs2017      ----AAAAU-----------------------------AAAGA-UGG-AU
+gbs1513      ----UACAU------------------------------UCCU-AGU-UC
+gbs0230      ----UUUAU-------------------------------GGG-AUU-U-
+gbs0660      C--UUU--UAUUAUU-----------------UAAGAAAGGGA-GGU-AU
+gbs1880      ---A-A--UGA--------------------------UUGUCA-AGC-CC
+gbs1879      ----AGA-U------------------------------GAGU-AGCAGG
+glnQ         ----UCG-U-------------------------------GUC-AUC-UU
+gbs0836      ----AUU-U-------------------------------AGU-GUC-UU
+gbs0053      ----AU--U-------------------------------GAG-UGG-GA
+gbs0170      ----AAUUU------------------------------GCUC-AAA-GU
+ung          ------ACU-------------------------------AGC-GGU-UU
+rplT         ----UCUA-------------------------------CCUA-ACU-UU
+gbs1194      ----AGCAUA---------------------------UUCUGG-UCC-UC
+gbs1289      ----AAUAU-----------------------------UGCUU-AGC-UU
+gbs1857      ----AUCCUAA-------------------------GAUACAU-GAU-UU
+pepC         ----AAUAU------------------------------AUCC-AGU-UU
+gbs1259      ----AUU-U-------------------------------UGG-UAG-CC
+gbs1442      ----UUAC--------------------------------UCU-GUA-GU
+gbs0947      ---AGGAAU------------------------------AUCU-UAG-CU
+gbs0313      ----UUG-UCAUUA--------------------AUCAAAUCU-AGG-UU
+gbs1329      ----AGUCUUUG-----------------------AACUGAUA-UUC-UC
+gbs1021      G--GAUUAU-------------------------------UCA-AUC-UC
+gbs0686      ----UAC---------------------------------UAU-GGU-AU
+gbs0805      ----AA--UCAAGU-------------------UUAGUUGGAA-ACC-UU
+gbs1542      ----UGUAU-------------------------------UUC-CAU-CU
+gbs0256      ----UU--U-------------------------------ACU-AGU-UC
+gbs0279      ----AGC-U------------------------------CGUU-UCA-GG
+rpmV         ----UUAG-------------------------------GGCU-UUU-U-
+gbs0448      ----UUU-UG----------------------------GGUAU-UCU-UG
+gbs0552      ----AG----------------------------------GUU-UGC-UC
+gbs0951      ----UAUA-------------------------------AGCU-AGA-CU
+gbs0033      ----UA--UGGUCAAUCAC---------AUAUUGGGAUAGAAG-AGG-AG
+gbs0040      ----UUAUU------------------------------UCUA-CUC-GA
+gbs1691      ----UUAAU-------------------------------ACU-AUG-GU
+gbs1263      ----AUA---------------------------------UCC-CUG-UC
+gbs0812      ----UA--U------------------------------GGAU-ACU-CC
+gbs0834      ----UCUUUGA--------------------------AAAUCA-AUC-CU
+recA         ----ACAGUG---------------------------GUUGGA-ACU-UA
+gbs1087      ----GA--UA---------------------------CGAGAU-UCC-UU
+gbs1163      ----UUU-U-------------------------------CCA-AUC-UC
+gbs0017      ----AUUA--------------------------------ACA-GGU-UU
+gbs1270      U--CAAAAU-------------------------------GAU-AGG-UU
+gbs2018      ----CUCAUCA-------------------------GAACUUU-GCC-U-
+gbs1567      ----UUG-U-------------------------------UUU-UCU-CG
+gbs1883      ----AAUUU-------------------------------UCU-CUA-GG
+gbs0884      ----UUAUUUG-------------------------AUGCUUA-UAG-UG
+gbs1166      ----UUUUUAAC-----------------------AUUUUAGU-GGU-C-
+gbs1910      ----UACA-------------------------------GGCC-UAA-GU
+tufA         ------CA--------------------------------GGG-ACU-CU
+gbs2066      ----GAA-U-----------------------------CGCCU-AGU-CU
+gbs0837      ----AC----------------------------------UAU-CUC-AG
+gbs1958      ----AAUC-------------------------------AUCU-AGU-UU
+gbs1446      ----CU--U------------------------------GAGU-UUU-CU
+gbs1017      ----AAA---------------------------------UCU-GUU-CU
+gbs1933      ----AUCAUUG--------------------------AUUCCG-AGG-AG
+serS         ----AUA---------------------------------CCA-ACU-CA
+gbs1725      ----AUUA--------------------------------CAU-ACU-CU
+gbs0393      A-ACAAAGUAGAUU-------------------ACUUUGGGUC-UAU-CC
+gbs1271      ----AUUUUG---------------------------AUGAUA-GGU-UU
+gbs1795      ----GUU-U-------------------------------CCU-UGC-GC
+gbs2057      ----AGAC-------------------------------AGCC-UGU-AU
+gbs1190      ----GAA---------------------------------GGC-UUC-UU
+gbs2058      ----GUC-U------------------------------GGCC-UGU-AU
+gbs1354      ----AUACU------------------------------UCUC-AGC-UC
+gbs0723      A-ACAAAGUAGAUU-------------------ACUUUGGGUC-UAU-CC
+gbs0532      ----AGUUUUAAUGGA----------------AGAGAUUGGUA-AGA-CA
+gbs0474      ----GUUA--------------------------------GUU-AGC-UC
+gbs1545      ----UCACUU----------------------------AGCUA-GGA-GA
+hisS         ----AA--U-------------------------------GGGUGGG-GU
+rpsI         ----AGUCUC----------------------------UUGCA-AGG-UG
+gbs1584      ----AUU-U------------------------------AUCC-AAC-UC
+gbs1866      ----UU--U-------------------------------GAC-UGU-UU
+rpoC         ----UUAA--------------------------------CUC-AGG-UU
+gbs0917      ----UUCGU-----------------------------GCUUA-AGU-UA
+ndk          ----CAAGUGUUAAU-----------------UCUCUUUUACA-UCG-GU
+gbs1125      ----UAAC-------------------------------GAUU-GUC-CG
+gbs0533      ----AUCA--------------------------------AGG-CUU-CU
+gbs1682      ----UAU-UC---------------------------UAUCUG-AGA-UC
+gbs0986      A-ACAAAGUAGAUU-------------------ACUUUGGGUC-UAU-CC
+gbs0775      ----UAA---------------------------------CAG-UAG-CU
+gbs0155      ----GUGAU-------------------------------CUG-UUC-UC
+gbs1019      ---C-AUGUU---------------------------AGUCCU-AAC-CU
+gbs0104      ----UU----------------------------------CCC-AGU-CU
+gbs1765      ----AAGA-------------------------------GCUC-CAA-CC
+gbs0102      ----UC--U------------------------------GCAG-AGG-UU
+gbs0790      ----AAUGUUUU-----------------------UCAUUUUU-AGC-UA
+gbs0896      ----GAA-UGAGU---------------------GAAAACUUA-GCC-UC
+gbs0604      ----AG--U-------------------------------ACU-CUU-CU
+gbs0329      ----AA----------------------------------UCA-AAU-UA
+gbs0134      ----AUUC--------------------------------CUC-AGC-UU
+gbs1886      ----CAUAUCA-------------------------AUGACAU-AGU-CC
+gbs0536      ---------------------------------------GAAG-GUC-UU
+gbs0714      ----ACCUU------------------------------AUCA-AUG-GC
+gbs0355      ----UAU-U-------------------------------UGC-UCU-UU
+gbs0918      ----AUU-U-------------------------------CUU-GGA-GG
+gbs0093      ----UGAAU------------------------------AAGA-GUG-CU
+gbs0955      C--AACAA-------------------------------GCAA-GGU-CA
+upp          ---AGAACU-------------------------------CAG-AAA-GC
+gbs0796      ----UUUAU-----------------------------AGAUG-GUG-GG
+polC         ----AGU-U------------------------------ACUC-AAC-CU
+gbs0326      ----UU--U-------------------------------CUC-UGA-GA
+gbs0473      ----UAACU------------------------------ACUA-GCU-CU
+gbs1674      ---AGUUAU------------------------------GCCU-UGC-GU
+gbs0931      U--AAGAAUACC------------------------UUAAAUA-AUG-GG
+gbs0900      ----UCAAU-------------------------------AAC-GUU-GG
+gbs0621      ---CAACCU-------------------------------UGU-GUC-GU
+gbs0221      ----GUAAU------------------------------GCCA-AGG-CU
+gbs0243      ----UCACU-------------------------------CCU-CUC-AU
+gbs0349      ----AU--UGAAACAGA--------------AUUCUAAUAGAA-AUC-GU
+thrS         ----AUGAU------------------------------ACAG-AAU-CA
+gbs0669      ----CAA-U-------------------------------AGA-GCA-GC
+gbs0141      ----UUAUUG---------------------------AUGAAG-GGG-GC
+rpsO         ----AAUUU-------------------------------UCU-AGU-GU
+gbs0360      ----GAAAU-------------------------------CUG-UUC-UC
+gbs1420      ----UUU-U------------------------------AGAU-UUA-GC
+gbs1514      ----AUG-U-----------------------------AACCU-AGU-UC
+gbs2121      ----AAAUU------------------------------UUAC-UUU-UC
+gbs1192      ----AUGUU-------------------------------AUC-UGG-UU
+gbs1878      ----CAUCU-----------------------------GAGUA-AC-GGG
+gbs1661      ----GU----------------------------------CUA-GAC-GU
+gbs1257      ----AGA---------------------------------AAC-UCA-UC
+gbs1469      ----UUA---------------------------------CUU-AGU-CU
+gbs1959      ----GAU-U------------------------------GUCU-AGU-UU
+gbs0384      ----ACCUU------------------------------AUCA-AUG-GC
+gbs0982      ----AU---------------------------------GUGA-GGC-UU
+gbs0136      ----AAA---------------------------------AGG-CUU-U-
+gbs0932      ----AUU-U------------------------------GAUA-CCA-UU
+gbs0727      ----AU---------------------------------GUGA-GGC-UU
+gbs1703      ----UG---------------------------------GGAC-UGC-U-
+gbs0397      ----AU---------------------------------GUGA-GGC-UU
+gbs1291      ----GAAA-------------------------------GUGU-CUU-UG
+gbs1805      ----CACAUAGACGGUAUAAAAGUACGAUACUGUUUGGAUGGA-GUU-CU
+gbs1566      ----GC--U-------------------------------UUA-GGC-GU
+gbs2101      ----UUA-U-------------------------------CAG-GGG-CG
+gbs1755      ----UAU-U------------------------------AGUU-CAU-CU
+nadE         ----AUAUU-------------------------------CUA-GCU-AU
+gbs0995      ----ACCUU------------------------------AUCA-AUG-GC
+gbs0108      ----UUACU-------------------------------UCUUAGC-CU
+gbs0352      ----UUUGUA----------------------------GCCUG-GUU-UC
+gbs0866      U--AACAA-------------------------------GAGC-UGU-CU
+gbs0351      ---GUAAAUAU--------------------------AAGAAC-GAU-UA
+gbs1881      ---AAUCAU-----------------------------UGUCA-AGC-UC
+rpmD         ----UGU-U------------------------------AUUG-GUG-CG
+gbs0687      ---UAAAA-------------------------------GGCC-UUC-GU
+gbs0793      ----UUU-U------------------------------AUCA-CUG-C-
+gbs0842      ----AA----------------------------------CUU-GUU-UC
+gbs1171      ----UUUUU------------------------------AAGU-AUU-UA
+gbs1752      ----AAA-U------------------------------GAGU-UGC-UU
+gbs1711      ----UU--U-------------------------------GGC-UGG-UU
+gbs1029      ----UUAA-------------------------------AUAG-AAG-GU
+gbs1463      ----AAA-UCAU-----------------------UUUUGGCU-UGU-UU
+gbs0764      ----CAAA--------------------------------AAC-CAC-UU
+gbs0126      ----AUAA--------------------------------GUG-AGC-UU
+gbs1683      ---GAAAAU-------------------------------UAC-UGC-UU
+gbs1920      ----AAUGUUA-------------------------UAUUUUC-UAG-GU
+gbs1415      ----UU--U-------------------------------AUA-AGC-GC
+gbs2107      U--UAAAAU-------------------------------UAA-AUC-UC
+gbs0509      ----AA---------------------------------GGGC-ACU-GU
+gbs0524      ----UUUA--------------------------------UCA-GUC-UU
+gbs0183      ----UUUAU-------------------------------UCA-GCC-U-
+gbs0054      ----UUUA-------------------------------AUAA-AGG-GG
+gbs1619      ----UUGCU-----------------------------UUUCA-UGG-CU
+gbs1445      ----AA----------------------------------CCU-AGC-UU
+gbs1770      ----AU----------------------------------CUA-GUG-CU
+gbs1216      ----UUAA-------------------------------CGCC-UUU-UU
+gbs0090      ----GAUA--------------------------------GCU-GCA-GA
+gbs0967      ----AAUAU------------------------------CCUA-ACG-CU
+gbs1662      ----CGAGU------------------------------CAUC-AUG-UU
+tgt          ----UAAA-------------------------------ACAG-GGC-UU
+gbs1438      ----CUAUU-------------------------------CAU-AAG-GU
+gbs0588      ----ACA---------------------------------GGC-AGA-UU
+gbs1225      ----UUA---------------------------------GCA-AGU-CU
+gbs1037      ----UUACU-------------------------------GAA-AGC-UU
+gbs2118      ----CUA-U-----------------------------GAGGA-UGC-UU
+gbs1744      ----UU----------------------------------ACU-AUU-UU
+gbs1809      ----UGA-U------------------------------GCAU-GUC-UU
+rpsH         ----AUAAU------------------------------CCUG-UGG-U-
+gbs2019      ----UUU-U------------------------------ACUA-AGG-GU
+purA         ----GUAC-------------------------------AGUC-AGA-CU
+gbs1912      ----UU----------------------------------CCA-GCC-UU
+gbs1074      ----AAAG--------------------------------CCU-UCC-UA
+gbs1947      ---GAUA-U-----------------------------UAUCU-AGA-CU
+gbs0188      ----AUA-UCA-------------------------AUUAGUA-GGU-GU
+gbs0321      ----GAAAU-----------------------------UGCUU-GGU-UC
+gbs1914      ----AU----------------------------------UCU-CCU-C-
+pepB         ----ACUA--------------------------------GAC-UGG-UU
+gbs0111      ----AAUUU-----------------------------UGCUU-UAC-UU
+gbs0341      ----AUU-U-------------------------------ACU-CAG-CC
+gbs0356      ----AUAA--------------------------------UGC-UCU-UU
+gbs1143      C-UCAAAGUAGUUG--------------------CUUUGGGUC-UAU-CC
+gbs0678      ----AA----------------------------------AGC-UCU-UU
+gbs1841      ----GCA-U------------------------------GAUA-UGC-AG
+gbs1739      ----GA----------------------------------UGA-AUU-UA
+gbs1416      ----AAACUAUCGUUA---------------UUGGGUCUAUUC-GCC-UU
+gbs1840      ----UUUUU------------------------------UCUA-AGG-GU
+gbs1281      ------AC-------------------------------G-CU-GGC-UU
+atpC         ----UAGUUUUGU---------------------GACUAAUUA-GGC-UU
+gbs1322      A-CAGGAGU-------------------------------ACUUGUC-CG
+rpsT         ---AUAUAU-------------------------------CGA-UGU-UU
+gbs1627      ---UCAAGU-------------------------------UGU-GGG-UG
+gbs0665      ----UUAA--------------------------------ACU-UUU-UG
+gbs0800      ----UUU-U------------------------------AGUA-AAU-AG
+gbs1861      ---CAAAA--------------------------------GUU-CAA-UC
+gbs1260      ---GGGAGU------------------------------GUUU-CAC-UU
+gbs1506      ----GAA---------------------------------AGA-GAC-CU
+clpP         ----UUUA--------------------------------UCA-ACU-CU
+gbs1786      ----UUA-U------------------------------GCGC-------
+gbs1953      ----UUUUUC---------------------------AUCACG-GCU-UG
+gbs1849      ----AGA---------------------------------GCA-AGC-AU
+gbs1376      ----AGAAU-------------------------------CCA-AGC-GG
+gbs1710      ----------------------------------------AAA-GAC-CU
+gbs0152      ----UAU-UC---------------------------UAGGAU-AGA-UU
+gbs1278      ----AG--UGCUAUGA---------------UAAUAGUUGAGA-GGU-GC
+gbs0661      ----UAA---------------------------------UUG-CUC-UU
+gbs1295      A--AAGAA--------------------------------CUA-AGC-CU
+gbs0668      ------UA--------------------------------GGC-AUC-UU
+gbs1815      ----GACAU-------------------------------CCU-UGA-UU
+gbs1427      ------ACU-------------------------------UCC-UGU-CU
+gbs1689      ----AUG-UC----------------------------AAUCC-UUA-GU
+gbs0142      ----UUCAUCAAU---------------------AACAUAGGG-GCU-UU
+gbs0672      ----AUUCUUG-------------------------AAUAGCU-AUU-UU
+gbs1507      ----UUCA--------------------------------ACC-UUA-CU
+gbs1940      ----AAACUAUUA----------------------GGAUACAU-GAC-CU
+gbs1838      ----UCUUUU---------------------------AGAGCG-UGU-UU
+gbs0284      ----AAAA--------------------------------CGAUUAG-UC
+gbs2080      ---CUCAGU-----------------------------ACUCC-AUU-CC
+gbs0791      ----CUU-UA----------------------------GACAC-AGG-CU
+gbs0253      ----AUAUU-------------------------------CUUAGUC-GU
+gbs0605      ----UUUAUU----------------------------AAGCC-UAG-UU
+gbs1223      U--CAAAUUUUGGUC-----------------AAGGAGAGCGU-GAG-GC
+gbs0601      ----AGA-U-----------------------------AAUCC-AGC-CU
+gbs0679      ----UA----------------------------------AGC-UCU-UU
+gbs0282      ----AUG-U-------------------------------CUA-AUC-UU
+gbs2053      ----UGAAUU----------------------------AUUUA-GUC-UC
+gbs1154      ----AAAA--------------------------------UCG-UUC-UC
+gbs1406      ----UU----------------------------------CAU-GUC-CU
+gbs0539      ----GGA-U-------------------------------UCA-UUG-CC
+gbs0974      ----AAAGUUAUAU-------------------AACAAUUUGU-GCA-UU
+gbs1474      ----AU--U-------------------------------GCA-AGU-UU
+gbs0148      ----UAGC--------------------------------CCA-UCU-UU
+gbs1400      AGAAAAAAU------------------------------UCUC-AUU-CC
+gbs0405      ----AAAGUUAUAU-------------------AACAAUUUGU-GCA-UU
+gbs1577      G--CUUUUU------------------------------UGGC-AUU-GU
+gbs0125      ----UA--U------------------------------GGUG-AGC-UU
+ruvB         ----GUA-U-------------------------------CUA-GUC-UU
+gbs0789      ----UUUA--------------------------------CCA-AAG-AG
+gbs1793      ----UGAAUU---------------------------CAAGAG-AGU-UC
+gbs1458      ----AAAAU-----------------------------CGUAA-GAG-C-
+gbs1855      ----AAAA-------------------------------GUUU-CUC-UC
+gbs0906      ----UUUAU-------------------------------CUC-UAU-UU
+gbs0746      ----AU----------------------------------CCC-UUC-UG
+gbs0946      ----GAAAU------------------------------GCUU-AGC-CU
+gbs0776      ----UAA---------------------------------CAG-UAG-CU
+gbs1568      ----AUUUU-------------------------------CAA-UCU-C-
+cpsY         ----AUUGU------------------------------CUCA-GAA-CU
+gbs1727      ----UUGA--------------------------------GGC-GCC-UU
+rmlD         CUAGAGAAUCCU-----------------------UUUAGCUU-ACU-GC
+gbs1472      ----UAACUG---------------------------ACGUUC-CAA-UC
+gbs0508      U--UGGAAUAGU-----------------------UAUUCCUC-UGA-GC
+gbs0792      ----AAUUU-------------------------------GAG-UGA-CU
+gbs1044      ----AGAC-------------------------------AUUA-AUA-U-
+gbs1906      ----AU----------------------------------GCU-CAG-UU
+gbs0735      ----AAAGUUAUAU-------------------AACAAUUUGU-GCA-UU
+gbs0350      ---CAACA-------------------------------GGGU-UAG-UC
+gbs1210      ----AGCGUC----------------------------UGUUU-AAC-UC
+gbs0213      ----AUAUUU----------------------------ACCCU-AGG-AA
+gbs0659      ----UUUCUUAAAUA-----------------AUAAAAGAGGA-GGU-AU
+gbs0255      ----UUUA--------------------------------CUA-GAC-UU
+gbs1387      ----AAAAUC----------------------------AUCUC-AAA-UU
+gbs1480      ----AU--UACA-----------------------CAAUGCUC-UAG-CU
+groEL        ----AACA--------------------------------AAG-GGG-AG
+gbs0924      ----AGCAUAA-------------------------UAUGAGU-AGU-AU
+gbs1479      ----AUUGUGU-------------------------AAUGCUC-UAG-CU
+gbs1972      ---U-U--UAG-------------------------UUGGUCA-UUC-UA
+gbs0272      ----UAUC--------------------------------CCU-AGU-CU
+gbs1804      ----UACCU-------------------------------UUU-CCG-UU
+gbs0131      ----AUCAU------------------------------UGCA-AUG-GA
+gbs1211      ----GUA-U-------------------------------CUG-AGC-UC
+gbs1198      ----AAUUU-------------------------------UCC-AGC-CU
+gbs1115      ----UUUAU-------------------------------UAC-UCA-GU
+gbs1317      ---UUGGCUCACGAAGUG------------AAAGCCAAAGCAC-CAC-UC
+gbs1773      ----AGAAUUU-------------------------UCUAGGA-GAA-GU
+gbs2105      ----UUUA--------------------------------CUG-UAG-CG
+gbs0441      ----AAA-U------------------------------AGGA-AAC-UU
+gbs1392      ---GUGAAU------------------------------UGCC-UUA-GC
+gbs0510      ----UUA---------------------------------GGU-ACU-GU
+gbs1155      ----GUACUG----------------------------CUCUA-UAG-GA
+gbs1391      ----AAU-UCA--------------------------CAGCCU-UAG-CU
+gbs1546      ----AAU-U------------------------------GCCU-AAC-CU
+gbs0130      ----AUU-U------------------------------GCUC-UGG-UU
+gbs1477      ----AAA---------------------------------GCU-GUG-CU
+#=GC SS_cons ...._____.............................._>>>.>>>.>>
+#=GC RF      ....auAAU..............................gccu.agc.uU
+
+gbs0841      GUU
+gbs0761      UUU
+gbs0819      UUU
+gbs1502      UAU
+gbs0820      UUU
+gbs1345      UAU
+gbs0945      UUU
+gbs0440      UUU
+gbs1774      UUU
+UvrB         UUU
+gbs1547      UUU
+gbs0937      UUU
+secY         -UU
+gbs0760      UUU
+gbs0047      UUU
+gbs0964      UAU
+eno          UUU
+gbs2133      CUU
+trpS         CUU
+gbs1723      UUU
+gbs1197      UAU
+gbs0815      UUU
+gbs1173      UAU
+gbs0870      UUU
+gbs0942      UUU
+gbs0431      UUU
+gbs0450      UUU
+gbs1737      UUU
+gbs1783      UUU
+gbs2042      UUU
+gbs1995      UAU
+gbs0122      UGU
+gbs1652      GUU
+gbs1100      UUU
+gbs1313      UUU
+gbs1604      UUU
+gbs1404      UAU
+gbs1869      AAU
+gbs1864      GUU
+gbs1762      UUU
+gbs1973      CUU
+gbs1580      UGU
+gbs1717      CUU
+gbs0295      UUU
+gbs0315      UUU
+gbs0965      UUU
+gbs0573      UUU
+gbs1777      AUU
+gbs0419      AUU
+gbs1403      UUU
+gbs0816      UUU
+gbs0089      UUU
+gbs1232      UUU
+gbs1101      UUU
+gbs1616      CUU
+gbs0176      AUU
+gbs0770      UUU
+rplA         UUU
+gbs0394      CUU
+gbs2022      CUU
+gbs2021      CUU
+gbs2131      AUU
+gbs1640      GUU
+gbs1718      CUU
+rpsU         UUU
+gbs0724      CUU
+dnaN         UUU
+tyrS         UUU
+gbs0609      UUU
+gbs1359      AUU
+gbs1539      UUU
+gbs1778      UCU
+gbs0985      CUU
+gbs1390      CUU
+gbs0144      GCU
+gbs1623      UUU
+gbs0346      UAU
+gbs1529      CUU
+gbs1530      UUU
+gbs0327      GAU
+gbs0600      UUU
+gbs0779      GUU
+gbs1429      AGU
+gbs0950      UGU
+gbs0345      AUU
+gbs1046      UUU
+gbs2016      UUU
+gbs0129      UUU
+gbs0041      AUU
+gbs0822      UUU
+gbs0889      UUU
+gbs1590      UUU
+gbs2089      UUU
+gbs1876      UUU
+gbs2011      AUU
+gbs1382      UUU
+gbs1724      UUU
+gbs1022      UUU
+gbs1587      CAU
+gbs2082      UUU
+gbs0640      UUU
+gbs1586      AUU
+gbs0835      UUU
+gbs0553      UUU
+gbs0177      AUU
+gbs1714      UUU
+gbs0744      UUU
+gbs0458      UUU
+gbs0786      UUU
+gbs1761      UUU
+gbs0344      AUU
+gbs1280      UUU
+recF         UUU
+mscL         UUU
+glnA         AGU
+gbs0921      UUU
+ptsI         UUU
+gbs1776      UUU
+gbs1157      CUU
+gbs1685      UUU
+gbs0561      UUU
+uvrC         GCU
+gbs2006      UUU
+gbs1923      UCU
+gbs0294      CUU
+gbs1858      UUU
+gbs0434      UUU
+gbs1538      UAU
+pcsB         -UU
+gbs0457      UUU
+gbs1929      UUU
+gbs1366      -UU
+argS         AAU
+gbs2002      UUU
+gbs0572      UUU
+gbs0846      UUU
+gbs1721      AUU
+gbs0593      ---
+gbs0899      UUU
+gbs1503      UUU
+gbs1671      AUU
+gbs0567      UUU
+gbs1722      UUU
+gbs2090      UUU
+gbs1617      UUU
+gbs1293      UUU
+gbs0958      UAU
+gbs2124      CCU
+metK         UUU
+gbs0307      UUU
+gbs1509      UUU
+gbs1684      UUU
+gbs0031      UUU
+gbs1169      UUU
+gbs0190      UUU
+gbs1230      UUU
+gbs1457      -UU
+gbs0451      UUU
+gbs0312      UUU
+gbs0781      UUU
+gbs0551      UCU
+gbs0430      UUU
+gbs1042      -UU
+gbs1808      CUU
+gbs0112      UUU
+gbs0784      UUU
+rbfA         AUU
+gbs2014      UUU
+gbs0106      UUU
+gbs1175      UUU
+gbs1050      GUU
+gbs1658      UUU
+gbs0957      UAU
+gbs2028      GUU
+pgi          UUU
+gbs0195      UUU
+gbs0772      AUU
+gbs0318      CCU
+gbs1678      UUU
+gbs0071      AUU
+gbs1585      GUU
+gbs1591      UUU
+gbs1583      UUU
+gbs0484      UAU
+ftsH         UUU
+gbs0580      UCU
+gbs0300      UUU
+gbs1287      GUU
+gbs1875      UUU
+gbs0171      UUU
+gbs0498      AUU
+gbs0492      UUU
+gbs0926      UUU
+gbs1830      CUU
+gbs2036      UUU
+gbs1811      UAU
+gbs0844      UUU
+gbs0606      -UU
+gbs0107      GUU
+gbs1451      UGC
+gbs0479      AGU
+gbs1504      UUU
+cysK         UUU
+gbs0223      AGU
+gbs1286      GUU
+gbs1549      CAC
+gbs1397      UUU
+gbs2132      UUU
+gbs0554      UUU
+gbs0952      UUU
+gbs0865      UUU
+gbs0494      CUU
+gbs0804      UUU
+uvrA         CUU
+gbs0019      CUU
+gbs2108      UUU
+cylK         UUU
+gbs0596      UUU
+gbs1536      UUU
+gbs0966      UUU
+gbs0898      UCU
+gbs1610      UUU
+gbs1565      UUU
+scpB         UAU
+gbs0750      UUU
+pheT         UUU
+rpsB         GUU
+gbs0910      UUU
+fusA         UUU
+gbs2008      CUU
+leuS         AUU
+gbs1460      AGU
+gbs1698      UUU
+gbs2092      CUU
+gbs1641      GUU
+gbs1189      UUU
+gbs0925      UUU
+gbs0788      ACU
+gbs0852      GUU
+gbs1612      CUU
+gbs0535      UUU
+gbs1792      UUU
+gbs1666      UUU
+gbs1784      UUU
+dnaJ         CUU
+gbs0787      UUU
+ackA         UUU
+gbs0497      GAU
+gbs1734      UUU
+gbs0386      CGU
+gbs1156      UUU
+gbs1945      UUU
+gbs1111      CUU
+gbs2067      UUU
+gbs0778      GUU
+gbs0773      AUU
+gbs1597      UUU
+gbs0953      GUU
+gbs0342      UUU
+gbs2084      CUU
+gbs1099      CUU
+gbs0581      UUU
+gbs1174      UUU
+gbs0851      UUU
+glpF         AGU
+gbs1772      ACU
+gbs0113      UUU
+gbs1465      UUU
+gbs0612      UUU
+gbs1288      CUU
+gbs1847      -UU
+gbs1697      UUU
+gbs0843      UUU
+gbs2116      UUU
+gbs0993      CGU
+gbs1297      CUU
+gbs0797      UUU
+gbs0831      UUU
+gbs0716      CGU
+gbs0288      UUU
+gbs0569      GUU
+gbs1637      UUU
+gbs0579      UUU
+gbs1049      UUU
+gbs2094      UUU
+lysS         UUU
+gbs1227      -UU
+gbs0153      UAU
+gbs1432      UUU
+gbs0560      UUU
+gbs1213      UUU
+gbs0811      UUU
+gbs1250      GUU
+gbs0445      UUU
+gbs1202      -UU
+gbs1924      GUU
+gbs1279      UUU
+gbs2075      UUU
+gbs0566      UUU
+murC         UCU
+gbs0962      UUU
+gbs0838      CAU
+gbs2013      GUU
+gbs0056      UUU
+gbs0103      UAU
+rpsR         UUU
+gbs2017      UUU
+gbs1513      UUU
+gbs0230      -UU
+gbs0660      UUU
+gbs1880      UUU
+gbs1879      AGU
+glnQ         UUU
+gbs0836      UUU
+gbs0053      UUU
+gbs0170      UUU
+ung          UUU
+rplT         UUU
+gbs1194      UUU
+gbs1289      UUU
+gbs1857      UUU
+pepC         UUU
+gbs1259      UUU
+gbs1442      UUU
+gbs0947      UUU
+gbs0313      UUU
+gbs1329      GUU
+gbs1021      UAU
+gbs0686      CUU
+gbs0805      UUU
+gbs1542      UUU
+gbs0256      UUU
+gbs0279      CUU
+rpmV         -UU
+gbs0448      UUU
+gbs0552      UUU
+gbs0951      UUU
+gbs0033      UUU
+gbs0040      UUU
+gbs1691      UUU
+gbs1263      UAU
+gbs0812      UUU
+gbs0834      UUU
+recA         UUU
+gbs1087      UUU
+gbs1163      UUU
+gbs0017      UUU
+gbs1270      UUU
+gbs2018      -UU
+gbs1567      AUU
+gbs1883      UUU
+gbs0884      GUU
+gbs1166      -UU
+gbs1910      UUU
+tufA         UUU
+gbs2066      UUU
+gbs0837      UUU
+gbs1958      UCU
+gbs1446      CUU
+gbs1017      CCU
+gbs1933      UUU
+serS         UUU
+gbs1725      CUU
+gbs0393      AUU
+gbs1271      UUU
+gbs1795      UUU
+gbs2057      UUU
+gbs1190      UUU
+gbs2058      UUU
+gbs1354      AUU
+gbs0723      AUU
+gbs0532      UUU
+gbs0474      UCC
+gbs1545      UUU
+hisS         UUU
+rpsI         CUU
+gbs1584      UUU
+gbs1866      UUU
+rpoC         CUU
+gbs0917      CUU
+ndk          CUU
+gbs1125      UUU
+gbs0533      UUU
+gbs1682      UUU
+gbs0986      AUU
+gbs0775      UUU
+gbs0155      CUU
+gbs1019      UUU
+gbs0104      UUU
+gbs1765      UUU
+gbs0102      UAU
+gbs0790      UUU
+gbs0896      UUU
+gbs0604      UUU
+gbs0329      UUU
+gbs0134      UUU
+gbs1886      UUU
+gbs0536      UUU
+gbs0714      UUU
+gbs0355      -UU
+gbs0918      AUU
+gbs0093      AAU
+gbs0955      AAU
+upp          CUU
+gbs0796      UUU
+polC         UAU
+gbs0326      UUU
+gbs0473      CUU
+gbs1674      UUU
+gbs0931      UUU
+gbs0900      UUU
+gbs0621      GUU
+gbs0221      UUU
+gbs0243      UAU
+gbs0349      UUU
+thrS         GUU
+gbs0669      UAU
+gbs0141      UUU
+rpsO         UUU
+gbs0360      CUU
+gbs1420      UUU
+gbs1514      UUU
+gbs2121      GUU
+gbs1192      CUU
+gbs1878      AGU
+gbs1661      UAU
+gbs1257      UUU
+gbs1469      UUU
+gbs1959      UCU
+gbs0384      UUU
+gbs0982      UUU
+gbs0136      -UU
+gbs0932      CUU
+gbs0727      UUU
+gbs1703      -UU
+gbs0397      UUU
+gbs1291      CCU
+gbs1805      UUU
+gbs1566      UUU
+gbs2101      -UU
+gbs1755      CUU
+nadE         UUU
+gbs0995      UUU
+gbs0108      UUU
+gbs0352      CUU
+gbs0866      UUU
+gbs0351      AUU
+gbs1881      UCU
+rpmD         AUU
+gbs0687      UUU
+gbs0793      -UU
+gbs0842      UUU
+gbs1171      AAU
+gbs1752      -UU
+gbs1711      UUU
+gbs1029      UUU
+gbs1463      UUU
+gbs0764      UUU
+gbs0126      -UU
+gbs1683      -UU
+gbs1920      UUU
+gbs1415      UUU
+gbs2107      UUU
+gbs0509      CUU
+gbs0524      UUU
+gbs0183      -UU
+gbs0054      GGU
+gbs1619      UUU
+gbs1445      UUU
+gbs1770      UUU
+gbs1216      AUU
+gbs0090      AUU
+gbs0967      UUU
+gbs1662      UAU
+tgt          UUU
+gbs1438      CUU
+gbs0588      UUU
+gbs1225      UUU
+gbs1037      AUU
+gbs2118      UUU
+gbs1744      UGU
+gbs1809      UUU
+rpsH         -CU
+gbs2019      UUU
+purA         UUU
+gbs1912      UUU
+gbs1074      UUU
+gbs1947      UUU
+gbs0188      UUU
+gbs0321      UAU
+gbs1914      -UU
+pepB         UUU
+gbs0111      UUU
+gbs0341      UAU
+gbs0356      UUU
+gbs1143      AUU
+gbs0678      UUU
+gbs1841      UUU
+gbs1739      CUC
+gbs1416      UUU
+gbs1840      GUU
+gbs1281      UUU
+atpC         UUU
+gbs1322      UUU
+rpsT         UUU
+gbs1627      UCU
+gbs0665      GUU
+gbs0800      UUU
+gbs1861      UUU
+gbs1260      CUU
+gbs1506      UUU
+clpP         UUU
+gbs1786      -UU
+gbs1953      CGU
+gbs1849      UUU
+gbs1376      GUU
+gbs1710      UUU
+gbs0152      UUU
+gbs1278      UUU
+gbs0661      UUU
+gbs1295      UUU
+gbs0668      UUU
+gbs1815      CUU
+gbs1427      UUU
+gbs1689      UUU
+gbs0142      -UU
+gbs0672      UUU
+gbs1507      UUU
+gbs1940      UUU
+gbs1838      UUU
+gbs0284      UUU
+gbs2080      CUU
+gbs0791      UCU
+gbs0253      UUU
+gbs0605      UUU
+gbs1223      ---
+gbs0601      UUU
+gbs0679      UUU
+gbs0282      CAU
+gbs2053      UUU
+gbs1154      UUU
+gbs1406      UUU
+gbs0539      UUU
+gbs0974      UUU
+gbs1474      UUU
+gbs0148      UAU
+gbs1400      UUU
+gbs0405      UUU
+gbs1577      UUU
+gbs0125      UUU
+ruvB         AAU
+gbs0789      UUU
+gbs1793      UUU
+gbs1458      -UU
+gbs1855      CC-
+gbs0906      UAU
+gbs0746      UUU
+gbs0946      UUU
+gbs0776      UUU
+gbs1568      -UU
+cpsY         GUU
+gbs1727      UUU
+rmlD         UCU
+gbs1472      UUU
+gbs0508      CUU
+gbs0792      UUU
+gbs1044      -UU
+gbs1906      UUU
+gbs0735      UUU
+gbs0350      UUU
+gbs1210      CUU
+gbs0213      GAU
+gbs0659      UUU
+gbs0255      UUU
+gbs1387      CUU
+gbs1480      UUU
+groEL        UUU
+gbs0924      UUU
+gbs1479      UUU
+gbs1972      CUU
+gbs0272      CUU
+gbs1804      CUU
+gbs0131      ACU
+gbs1211      UUU
+gbs1198      UAU
+gbs1115      UUU
+gbs1317      UUU
+gbs1773      UUU
+gbs2105      UUU
+gbs0441      UUU
+gbs1392      UUU
+gbs0510      CUU
+gbs1155      UUU
+gbs1391      UUU
+gbs1546      UUU
+gbs0130      AUU
+gbs1477      UAU
+#=GC SS_cons >>:
+#=GC RF      UUU
+//

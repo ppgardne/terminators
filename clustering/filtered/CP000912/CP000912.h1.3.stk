@@ -1,0 +1,926 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS BSUIS_B0643 WT 1.10
+#=GS BSUIS_B1294 WT 1.00
+#=GS BSUIS_B0346 WT 1.00
+#=GS BSUIS_B1211 WT 0.94
+#=GS BSUIS_B1306 WT 0.79
+#=GS BSUIS_B1139 WT 0.94
+#=GS BSUIS_B0198 WT 1.06
+#=GS BSUIS_B0186 WT 1.41
+#=GS BSUIS_B0545 WT 1.29
+#=GS BSUIS_B0528 WT 1.23
+#=GS BSUIS_B1379 WT 1.13
+#=GS BSUIS_B1305 WT 0.70
+#=GS BSUIS_B1210 WT 0.94
+#=GS BSUIS_B0743 WT 1.13
+#=GS BSUIS_B0035 WT 1.24
+#=GS BSUIS_B1138 WT 1.05
+#=GS BSUIS_B1251 WT 1.02
+#=GS BSUIS_B0685 WT 1.09
+#=GS BSUIS_B0339 WT 1.30
+#=GS BSUIS_B0673 WT 0.98
+#=GS BSUIS_B0106 WT 1.09
+#=GS BSUIS_B0928 WT 0.73
+#=GS BSUIS_B0687 WT 1.33
+#=GS BSUIS_B0699 WT 1.05
+#=GS BSUIS_B1222 WT 1.00
+#=GS BSUIS_B0879 WT 0.99
+#=GS BSUIS_B1023 WT 1.05
+#=GS BSUIS_B0496 WT 0.88
+#=GS BSUIS_B1258 WT 0.70
+#=GS BSUIS_B0454 WT 1.01
+#=GS BSUIS_B0420 WT 1.19
+#=GS BSUIS_B0767 WT 1.03
+#=GS BSUIS_B0578 WT 1.04
+#=GS BSUIS_B0901 WT 0.74
+#=GS BSUIS_B1192 WT 1.08
+#=GS BSUIS_B1024 WT 1.19
+#=GS BSUIS_B1336 WT 1.09
+#=GS BSUIS_B0688 WT 1.14
+#=GS BSUIS_B1150 WT 0.80
+#=GS BSUIS_B1401 WT 1.00
+#=GS BSUIS_B0692 WT 0.99
+#=GS BSUIS_B0897 WT 0.96
+#=GS BSUIS_B0674 WT 1.24
+#=GS BSUIS_B0843 WT 0.95
+#=GS BSUIS_B0509 WT 0.87
+#=GS BSUIS_B1186 WT 1.13
+#=GS BSUIS_B0606 WT 0.79
+#=GS BSUIS_B0081 WT 1.28
+#=GS BSUIS_B0863 WT 0.58
+#=GS BSUIS_B1276 WT 1.15
+#=GS BSUIS_B0693 WT 0.95
+#=GS BSUIS_B0425 WT 0.82
+#=GS BSUIS_B1242 WT 0.73
+#=GS BSUIS_B1182 WT 0.67
+#=GS BSUIS_B0871 WT 0.87
+#=GS BSUIS_B0934 WT 1.14
+#=GS BSUIS_B1198 WT 1.15
+#=GS BSUIS_B0785 WT 0.86
+#=GS BSUIS_B1231 WT 1.01
+#=GS BSUIS_B0782 WT 0.76
+#=GS BSUIS_B1034 WT 0.94
+#=GS BSUIS_B0055 WT 1.05
+#=GS BSUIS_B0342 WT 1.01
+#=GS BSUIS_B1134 WT 1.00
+#=GS BSUIS_B1158 WT 0.86
+#=GS BSUIS_B0076 WT 1.02
+#=GS BSUIS_B1263 WT 1.00
+#=GS BSUIS_B0107 WT 1.29
+#=GS BSUIS_B0802 WT 1.08
+#=GS BSUIS_B0779 WT 0.95
+#=GS BSUIS_B1315 WT 1.03
+#=GS BSUIS_B1079 WT 0.86
+#=GS BSUIS_B1128 WT 0.74
+#=GS BSUIS_B0666 WT 1.09
+#=GS BSUIS_B0864 WT 0.58
+#=GS BSUIS_B1388 WT 0.95
+#=GS BSUIS_B0192 WT 0.68
+#=GS BSUIS_B0487 WT 0.86
+#=GS BSUIS_B0455 WT 1.03
+#=GS BSUIS_B0026 WT 0.92
+#=GS BSUIS_B0611 WT 0.93
+#=GS BSUIS_B0796 WT 1.38
+#=GS BSUIS_B1229 WT 1.30
+#=GS BSUIS_B0472 WT 1.17
+#=GS BSUIS_B0878 WT 0.94
+#=GS BSUIS_B1213 WT 1.21
+#=GS BSUIS_B1289 WT 0.78
+#=GS BSUIS_B1275 WT 1.17
+#=GS BSUIS_B0646 WT 0.99
+#=GS BSUIS_B0918 WT 1.03
+#=GS BSUIS_B1099 WT 1.00
+#=GS BSUIS_B1239 WT 1.01
+#=GS BSUIS_B0347 WT 1.14
+#=GS BSUIS_B0048 WT 1.02
+#=GS BSUIS_B1202 WT 1.08
+#=GS BSUIS_B0374 WT 0.86
+#=GS BSUIS_B0882 WT 0.94
+#=GS BSUIS_B0880 WT 0.68
+#=GS BSUIS_B0715 WT 0.81
+#=GS BSUIS_B1172 WT 1.13
+#=GS BSUIS_B1302 WT 0.94
+#=GS BSUIS_B1387 WT 1.14
+#=GS BSUIS_B0851 WT 1.15
+#=GS BSUIS_B0607 WT 0.86
+#=GS BSUIS_B0677 WT 1.05
+#=GS BSUIS_B0734 WT 1.13
+#=GS BSUIS_B0177 WT 1.08
+#=GS BSUIS_B0914 WT 0.73
+#=GS BSUIS_B1274 WT 0.67
+#=GS BSUIS_B0919 WT 1.01
+#=GS BSUIS_B0930 WT 1.15
+#=GS BSUIS_B1295 WT 0.99
+#=GS BSUIS_B1189 WT 1.15
+#=GS BSUIS_B0277 WT 1.33
+#=GS BSUIS_B1262 WT 1.07
+#=GS BSUIS_B0125 WT 1.04
+#=GS BSUIS_B0506 WT 1.19
+#=GS BSUIS_B0412 WT 1.29
+#=GS BSUIS_B0059 WT 0.79
+#=GS BSUIS_B1072 WT 1.42
+#=GS BSUIS_B0526 WT 0.88
+#=GS BSUIS_B1007 WT 1.24
+#=GS BSUIS_B1133 WT 1.04
+#=GS BSUIS_B0178 WT 1.19
+#=GS BSUIS_B0157 WT 1.10
+#=GS BSUIS_B0912 WT 0.84
+#=GS BSUIS_B0228 WT 1.14
+#=GS BSUIS_B0806 WT 0.73
+#=GS BSUIS_B0522 WT 1.15
+#=GS BSUIS_B0357 WT 1.10
+#=GS BSUIS_B0404 WT 0.86
+#=GS BSUIS_B0755 WT 0.86
+#=GS BSUIS_B0710 WT 0.78
+#=GS BSUIS_B0610 WT 0.93
+#=GS BSUIS_B1015 WT 0.94
+#=GS BSUIS_B0036 WT 1.15
+#=GS BSUIS_B1164 WT 1.07
+#=GS BSUIS_B0320 WT 1.33
+#=GS BSUIS_B0629 WT 1.40
+#=GS BSUIS_B1146 WT 0.65
+#=GS BSUIS_B0245 WT 0.85
+#=GS BSUIS_B0246 WT 0.96
+#=GS BSUIS_B1071 WT 1.29
+#=GS BSUIS_B0584 WT 0.95
+#=GS BSUIS_B1155 WT 0.90
+#=GS BSUIS_B0931 WT 1.15
+#=GS BSUIS_B0773 WT 0.99
+#=GS BSUIS_B0792 WT 1.04
+#=GS BSUIS_B0627 WT 0.94
+#=GS BSUIS_B0781 WT 1.41
+#=GS BSUIS_B0872 WT 0.74
+#=GS BSUIS_B0328 WT 1.08
+#=GS BSUIS_B0925 WT 1.06
+#=GS BSUIS_B0628 WT 1.27
+#=GS BSUIS_B1240 WT 0.73
+#=GS BSUIS_B1191 WT 0.82
+#=GS BSUIS_B0613 WT 1.03
+#=GS BSUIS_B1185 WT 0.85
+#=GS BSUIS_B0563 WT 1.15
+#=GS BSUIS_B0336 WT 1.01
+#=GS BSUIS_B0179 WT 1.20
+#=GS BSUIS_B0956 WT 0.85
+#=GS BSUIS_B0015 WT 1.12
+#=GS BSUIS_B0571 WT 0.89
+#=GS BSUIS_B1127 WT 0.71
+#=GS BSUIS_B0907 WT 0.76
+#=GS BSUIS_B0898 WT 0.96
+#=GS BSUIS_B1080 WT 0.86
+#=GS BSUIS_B0495 WT 0.88
+#=GS BSUIS_B0295 WT 0.73
+#=GS BSUIS_B0916 WT 1.09
+#=GS BSUIS_B0060 WT 0.79
+#=GS BSUIS_B1283 WT 1.08
+#=GS BSUIS_B0510 WT 0.85
+#=GS BSUIS_B0008 WT 0.81
+#=GS BSUIS_B0360 WT 1.03
+#=GS BSUIS_B0089 WT 0.96
+#=GS BSUIS_B0486 WT 1.00
+#=GS BSUIS_B0227 WT 0.54
+#=GS BSUIS_B0868 WT 0.82
+#=GS BSUIS_B1022 WT 1.02
+#=GS BSUIS_B0647 WT 0.89
+#=GS BSUIS_B0403 WT 1.38
+#=GS BSUIS_B0332 WT 1.07
+#=GS BSUIS_B0194 WT 0.79
+#=GS BSUIS_B0020 WT 0.99
+#=GS BSUIS_B0598 WT 1.13
+#=GS BSUIS_B1043 WT 1.05
+#=GS BSUIS_B0517 WT 0.82
+#=GS BSUIS_B0814 WT 1.19
+#=GS BSUIS_B0756 WT 0.86
+#=GS BSUIS_B1147 WT 0.68
+#=GS BSUIS_B0077 WT 1.02
+#=GS BSUIS_B0033 WT 1.28
+#=GS BSUIS_B1234 WT 1.26
+#=GS BSUIS_B0850 WT 1.00
+#=GS BSUIS_B0729 WT 0.95
+#=GS BSUIS_B0148 WT 1.33
+#=GS BSUIS_B1346 WT 1.02
+#=GS BSUIS_B1206 WT 1.27
+#=GS BSUIS_B0783 WT 0.81
+#=GS BSUIS_B0019 WT 0.99
+#=GS BSUIS_B0196 WT 1.27
+#=GS BSUIS_B0366 WT 0.71
+#=GS BSUIS_B0575 WT 1.30
+#=GS BSUIS_B0513 WT 0.89
+#=GS BSUIS_B0665 WT 0.74
+#=GS BSUIS_B0689 WT 1.06
+#=GS BSUIS_B1036 WT 0.81
+#=GS BSUIS_B1303 WT 1.28
+#=GS BSUIS_B0050 WT 1.10
+#=GS BSUIS_B1167 WT 0.68
+#=GS BSUIS_B0329 WT 1.02
+#=GS BSUIS_B0424 WT 0.90
+#=GS BSUIS_B1090 WT 1.33
+#=GS BSUIS_B1221 WT 1.27
+#=GS BSUIS_B1411 WT 0.92
+#=GS BSUIS_B0088 WT 0.82
+#=GS BSUIS_B1272 WT 0.96
+#=GS BSUIS_B0082 WT 0.91
+#=GS BSUIS_B1136 WT 1.17
+#=GS BSUIS_B0884 WT 0.54
+#=GS BSUIS_B1297 WT 0.96
+#=GS BSUIS_B0126 WT 1.04
+#=GS BSUIS_B0877 WT 0.96
+#=GS BSUIS_B1120 WT 1.00
+#=GS BSUIS_B0881 WT 0.65
+#=GS BSUIS_B0529 WT 1.37
+
+BSUIS_B0643  UCAUGCC---A--A----A----------A---C---CCG-A-------U
+BSUIS_B1294  UAAAGCA---A--A----G----------G---C---CCC-G-------G
+BSUIS_B0346  GGAAAGU---G--U----C----------A---U---CCU-G-------A
+BSUIS_B1211  UCUUACA---G--G----A----------A---A---CCC-G-------G
+BSUIS_B1306  UGUA-CA---A--G----A----------A---A---GCC-C-------G
+BSUIS_B1139  GGAAAC----A--G----G----------C---G---GCU-U-------G
+BSUIS_B0198  UGAACUA-------AAUGC----------C---U---GCG-C-------C
+BSUIS_B0186  UUAGAGC---G--C----G----------U---U---UCG-A-------U
+BSUIS_B0545  UGCCUCA---U--A----C----------C---C---GCU-G-------G
+BSUIS_B0528  UGAU--U---C--C----A----------A---C---AUU-U-------G
+BSUIS_B1379  ACAGAUU------G----A----------A---G---GGA-A-------A
+BSUIS_B1305  AAAUACA---A--G----A----------A---A---GCC-C-------G
+BSUIS_B1210  GAAGCCA---G--G----C----------C---C---GCU-U-------G
+BSUIS_B0743  UAAAUUA---G--C----G----------G---C---GGU-U-------C
+BSUIS_B0035  UGCUUGU--CU--A----G----------A---U---CGG-U-------U
+BSUIS_B1138  UGAA--A---C--A----G----------G---C--AGCU-U-------G
+BSUIS_B1251  UCAA--A---A--C----G----------C---C---GUU-U-------C
+BSUIS_B0685  CGAAUGG---G--C----A----------A---C---GCC-G-------G
+BSUIS_B0339  CAAAAGA---G--A----C----------C---G---GAA-A-------U
+BSUIS_B0673  UUAG-AA---A--G----A----------G---C---GUU-U-------U
+BSUIS_B0106  UGAUCU----U--U----A----------G---A---GGG-U-------U
+BSUIS_B0928  CAAGUCU--CA--G----A----------G---C---GGU-U-------C
+BSUIS_B0687  UGAAGAG---G--U----U----------C---C---AGG-C-------A
+BSUIS_B0699  UCAGUUG---A--A----A----------U---G---GAA-U-------A
+BSUIS_B1222  UGCAUUU---G--A----C----------G---U---UUC-GC-----UG
+BSUIS_B0879  AGAUUGC--AA--A----A----------G---C---GCC-G-------G
+BSUIS_B1023  UGAU-------------UU----------G---C---CCA-G-------C
+BSUIS_B0496  UGAGUUU--GA--A----A----------U---G---GCC-G-------G
+BSUIS_B1258  AAAUUCA---G--C----A----------AU-CU---GCC-C-------G
+BSUIS_B0454  UGAAAGA-------C--CG----------G---A---GCG-G-------C
+BSUIS_B0420  ACAAUAA----------UA----------G---C---GCC-G-------A
+BSUIS_B0767  CGAA--C---G--A----A----------G---C---ACC-U-------G
+BSUIS_B0578  UCAUCCU------G----A----------G---G--AGGU-G-------C
+BSUIS_B0901  UCAAAAU---A--A----A----------A---C---CCC-G-------U
+BSUIS_B1192  CAAACUU---A--G----A----------G---C---GCC-G-------A
+BSUIS_B1024  UGAUGGC---U--U----A----------G---G---GCG-UAUUUCGA-
+BSUIS_B1336  CCAAAAA---A--G----C----------C---C---GCU-A-------A
+BSUIS_B0688  UGAUUC----C--A----A----------C---A---UUU-GU----AU-
+BSUIS_B1150  AGAU-GA---G--A----A----------A---A---GCC-C-------G
+BSUIS_B1401  AGCGACA---A--A----G----------G---C---GGC-UU-----CG
+BSUIS_B0692  CCAUCAA---A--A----A----------G---C---CCG-C-------G
+BSUIS_B0897  ACAA-AA---C--C----C----------U---U---CCG-C-------A
+BSUIS_B0674  CAAAUGA--AA--A----G----------A---G---CGU-U-------U
+BSUIS_B0843  UGAA-AA---G--G----C----------C---G---GGC-G-------G
+BSUIS_B0509  GAAAUGC---A--A----A----------G---C---GGC-C-------C
+BSUIS_B1186  UGAUAAU--UU--C----A----------G---C---GCA-U-------U
+BSUIS_B0606  UGAAUUC---A--A----A----------A---A---GCC-G-------U
+BSUIS_B0081  AAAGGCA---G--U----A----------G---G---GCA-G-------U
+BSUIS_B0863  AAAAACA---G--A----A----------A---A---GCG-G-------C
+BSUIS_B1276  GCAUUUU-------G-CAG----------C---C---GGA-U-------G
+BSUIS_B0693  GGAUAAA---A--A----G----------C---C---CGC-G-------C
+BSUIS_B0425  GGAAUGA---A--G----A----------A---G---GGC-C-------G
+BSUIS_B1242  UGUUCUU-------C--AA----------A---A---GCC-C-------G
+BSUIS_B1182  UGACAUU----------UA----------A---A---GCC-G-------C
+BSUIS_B0871  UUAAACA---A--A----A----------G---A---GGC-C-------G
+BSUIS_B0934  UUCGUUA---G--A----G----------C---G---GUU-C-------C
+BSUIS_B1198  UGUGACC------G----U----------C---A---GGC-G-------A
+BSUIS_B0785  UCAACCC---AUCA----A----------G---C---GCG-G-------C
+BSUIS_B1231  UAAAUUUGCCG--A----C----------A---G---GCC-G-------G
+BSUIS_B0782  GAAAUGA---A--A----A----------A---G---CUC-C-------G
+BSUIS_B1034  UUGUCUU---G--G----A----------U---U---GGG-C-------G
+BSUIS_B0055  UGAU-CU---G--G----A---------CG---C---GCA-U-------C
+BSUIS_B0342  UCAA--A---U--G----G----------G---C---GCG-G-------C
+BSUIS_B1134  CGAA--A---A--A----G----------C---C---GUCAU-------G
+BSUIS_B1158  UGAU--G---A--U----C----------C---A---GCC-C-------G
+BSUIS_B0076  CAAUAUC------G----C----------C---A---GCG-C-------G
+BSUIS_B1263  UAAUUUA------A----A----------G---C---UUC-G-------C
+BSUIS_B0107  GCAUAGU---U--A----G----------A---G---GGU-U-------C
+BSUIS_B0802  UAAACGG--CC--A----A----------G---C---GUU-C-------C
+BSUIS_B0779  AGAACCU--G----A--AC----------C---G---GGC-G-------G
+BSUIS_B1315  CAAGACA---A--A----A----------A---C---GCG-G-------G
+BSUIS_B1079  CCAUAGC---A--A----A----------A---A---GCC-A-------C
+BSUIS_B1128  UCUAUGA---A--A----A----------A---G---GCC-G-------C
+BSUIS_B0666  GCAAUCG---G--C----G----------A---A---GCC-G-------G
+BSUIS_B0864  ACAAAG----G--A----A----------A---A---GCG-G-------C
+BSUIS_B1388  UUUCUGU---A--G----A----------G---U---GGU-U-------C
+BSUIS_B0192  UCAAUCA--AA--A----A----------A---A---GCC-G-------G
+BSUIS_B0487  GCACAAA---A--G----A----------A---A---GCC-C-------G
+BSUIS_B0455  UGAA--A---G--G----A----------G---C--AGCC-C-------G
+BSUIS_B0026  GGCA-GC---G--G----A----------G---C---GGU-C-------C
+BSUIS_B0611  UCAU--C---G--C----C----------A---A---ACC-C-------G
+BSUIS_B0796  UGACCC-----------CG----------A---A---GGC-G-------A
+BSUIS_B1229  GGAAGAA---A--U----C----------G---A---AGG-G-------U
+BSUIS_B0472  UAAAUAA-------A--AG----------C---G---GCC-G-------A
+BSUIS_B0878  UAAACCA---A--A----A----------A---A---GCG-C-------C
+BSUIS_B1213  CGAU-AA---G--C----C----------CCUCG---GCG-G-------G
+BSUIS_B1289  ACAA-CA---G--A----A----------A---G---GCC-G-------G
+BSUIS_B1275  GAAUUGA---G--U----UUCC----GGUG---G---GCC-U-------U
+BSUIS_B0646  AUAACCA---A--G----A---------UG---C---GCC-G-------G
+BSUIS_B0918  GCAACCU------G----G----------C---C---GCC-G-------C
+BSUIS_B1099  GCAAGAA---A--G----C----------C---G---GCU-U-------C
+BSUIS_B1239  CCUAUCA----------GG----------C---CUGAGCC-G-------C
+BSUIS_B0347  GCAGCGG---G--C----G----------G---C---UCC-G-------G
+BSUIS_B0048  UGAAUAA-------A--GC----------G---G---UUC-C-------G
+BSUIS_B1202  UGAUUUU--GA--A----A----------C---G---CCG-G-------U
+BSUIS_B0374  UUAU-CA---A--A----A----------G---C---UCA-C-------U
+BSUIS_B0882  GGAA------A--G----C----------C---U---GUC-A-------U
+BSUIS_B0880  CAAAAAA---G--A----A----------A---C---GCC-G-------C
+BSUIS_B0715  UAAGCGG---G--G----A----------A---A---UCA-G-------U
+BSUIS_B1172  ACAGGGU---U--G----A----------A---G---GCG-U-------G
+BSUIS_B1302  UGUUUUG---G--G----A----------A---A---GCG-G-------C
+BSUIS_B1387  UGCUUUC---C--A----A----------A---A---AUC-G-------A
+BSUIS_B0851  UGGU-UA------C----G----------G---C---UCC-G-------U
+BSUIS_B0607  GAAAAAU---A--A----A----------A---A---GCC-G-------C
+BSUIS_B0677  CCACGCG---G--A----A----------A---C---GUC-C-------G
+BSUIS_B0734  UUAA--A---A--U----G----------G---C---GUU-G-------G
+BSUIS_B0177  UCAA--G------C----U----------G---C---GCA-A-------C
+BSUIS_B0914  AAAAUCC---A--G----A----------G---C---GGU-U-------C
+BSUIS_B1274  UGAUUUU-------U--UA----------A---A---GCG-G-------G
+BSUIS_B0919  AGAAAAA----------AG----------C---C---GCC-G-------C
+BSUIS_B0930  UGAUUUUG-CG--U----U----------C---C---GGG-C-------G
+BSUIS_B1295  UGAUAUG--AC--A----A----------A---G---GCC-C-------C
+BSUIS_B1189  AAAUAUA----------CG----------G---G---AGG-G-------C
+BSUIS_B0277  GCAAAAG---U--C----U----------A---A---AAU-U-------G
+BSUIS_B1262  AAAUAUC---A--G----A----------U---G---CCC-G-------G
+BSUIS_B0125  UCAACAU----------GG----------U---C---GCG-C-------G
+BSUIS_B0506  GGAA--U---G--G----A----------U---G---GAA-A-------A
+BSUIS_B0412  CCAAAGC------G----G----------A---C---GGC-G-------U
+BSUIS_B0059  UGAGAGA--UG--U----GCAU----GGAA---A---GCC-C-------G
+BSUIS_B1072  UGAC-UU----------GG----------A---U---GCU-C-------A
+BSUIS_B0526  GAAUGCA--AG--A----A----------A---A---GCC-G-------G
+BSUIS_B1007  UGAAUG----G--C----U----------G---U---GCG-C-------U
+BSUIS_B1133  GGAU--A---U--G----A----------A---G---ACC-G-------U
+BSUIS_B0178  CAUAUGA---G--A----A----------C---C---GGA-U-------U
+BSUIS_B0157  UGAUCCA--AA--A----G----------U---C---GCC-G-------U
+BSUIS_B0912  CAACAGA--UA--U----A----------A---G---GCC-C-------G
+BSUIS_B0228  CGCCCUA---G--A----G----------C---G---GUU-C-------C
+BSUIS_B0806  CAAACGU---U--U----A----------G---A---GCG-CGUUUCGAU
+BSUIS_B0522  UGAUCUG------C----GC-------UCG---U---GCC-G-------C
+BSUIS_B0357  UGAAGAC---G--G----AC--------AG---G---GCG-G-------C
+BSUIS_B0404  GCAUCGC---A--C----A----------A---A---GCU-G-------C
+BSUIS_B0755  AAAAUGG---A--A----A----------A---G---GGC-G-------C
+BSUIS_B0710  GCAAAGA------A----A----------A---G---GCG-G-------C
+BSUIS_B0610  AGAA--C---G--C----C----------A---A---ACC-C-------G
+BSUIS_B1015  UGAA------G--C----C----------C---U---GCC-G-------G
+BSUIS_B0036  UAAUUGC----------AU----------C---U---GGC-G-------G
+BSUIS_B1164  AAAUUCU----------AC----------C---C---GCC-U-------G
+BSUIS_B0320  CUAUUUU----------UC----------C---A---GCC-G-------U
+BSUIS_B0629  AAAUUCU---G--G----U----------C---U---GUU-G-------C
+BSUIS_B1146  GCAGAGG---A--A----A----------A---A---GCC-G-------C
+BSUIS_B0245  UUAUGUA---A--A----A----------A---G---GCC-C-------U
+BSUIS_B0246  CCAAAGC---A--A----A----------A---G---GCC-C-------U
+BSUIS_B1071  UUCCCGA---U--G----C----------U---C---AAU-G-------A
+BSUIS_B0584  GGACUGU---A--A----A----------G---C---CGC-U-------C
+BSUIS_B1155  UGAUAG----G--A----A----------G---G---GCC-G-------C
+BSUIS_B0931  GGGA-CA---A--A----A----------U---U---GCG-G-------G
+BSUIS_B0773  UGAAAG----G--C----A----------A---A---ACA-G-------C
+BSUIS_B0792  GCAUCCC----------GA----------A---A---ACU-G-------U
+BSUIS_B0627  GAAAACA-------G--CA----------A---C---GCG-C-------C
+BSUIS_B0781  GGGGAGA---G--C----A----------U---U---UCC-G-------G
+BSUIS_B0872  GCAUUGA---A--A----A----------A---G---GCC-G-------G
+BSUIS_B0328  AAAA------G--G----G----------G---C--GCGC-G-------G
+BSUIS_B0925  UCCUCAA---G--G----CCGAAAAUCAUC---G---CCG-CAU---GCC
+BSUIS_B0628  UAAAAUU--GG--C----A----------U---C---GGG-C-------G
+BSUIS_B1240  CCAACAA------A----A----------A---A---GCC-C-------G
+BSUIS_B1191  UGAUUUG---A--A----A----------A---G---CCC-C-------G
+BSUIS_B0613  UAACCGCU-UG--A----A----------A---C---GCC-G-------C
+BSUIS_B1185  CGACUGU-----------U----------G---C---GGC-G-------C
+BSUIS_B0563  UAAACAA-------G--GA----------A---A---AGG-G-------C
+BSUIS_B0336  UAAACAA---G--A----C----------A--------------------
+BSUIS_B0179  UUGUUUU----------AA----------C---G--CGCA-U-------C
+BSUIS_B0956  CGAU--C---A--A----A----------G---C---GGC-GA----UUC
+BSUIS_B0015  UGCGCCA---G--G----CG--------CC---C---ACG-G-------C
+BSUIS_B0571  GUAAAGA----------CA----------A---G---GGG-C-------G
+BSUIS_B1127  UGAUUGA------A----A----------A---A---GGC-C-------G
+BSUIS_B0907  GAAAUUA---A--A----A----------A---U---GCC-C-------G
+BSUIS_B0898  CCAUAUC---C--C----C----------U---U---CCG-C-------A
+BSUIS_B1080  UGAAAAG---A--A----A----------A---A---GCC-A-------C
+BSUIS_B0495  CCAGACA---A--A----A----------U---G---GCC-G-------G
+BSUIS_B0295  CCGGGCA---U--U----A----------G---A---GCG-UGUUUCGAU
+BSUIS_B0916  UUAAUCC---U--G----UA-------CCG---G---GUC-G-------C
+BSUIS_B0060  UAAAAAA--UA--U----G----------A---A---GCC-C-------G
+BSUIS_B1283  AUAUCAU---A--A----A----------G---G---GCG-G-------U
+BSUIS_B0510  UAAAGUA---A--A----A----------C---G---GCC-C-------G
+BSUIS_B0008  UGGUUCA--CA--G----A----------A---A--CGCC-G-------C
+BSUIS_B0360  UUAAUAU---U--G----G----------U---C---GCC-G-------G
+BSUIS_B0089  AGAGCGC---A--A----A----------A---G---GGG-C-------C
+BSUIS_B0486  UGAAACA---G--A----A----------A---G---CCC-G-------G
+BSUIS_B0227  UACGCGG---G--G----A----------A---A---UCA-G-------U
+BSUIS_B0868  GCAUAUA--AG--A----A----------A---A---CGG-C-------G
+BSUIS_B1022  GAAUAGA-----------A----------A---U---GCC-C-------A
+BSUIS_B0647  UAAAUGGU-UA--G----A----------G---U---GGU-U-------C
+BSUIS_B0403  UCGUCAC----------CG----------A---G---GUU-G-------G
+BSUIS_B0332  AGUCGCA---G--C----C----------C---C---GUC-U-------G
+BSUIS_B0194  UCCCCAC---A--A----A----------A---A---GCC-G-------U
+BSUIS_B0020  GGAU--C---G--G----G----------C---G---GCU-G-------U
+BSUIS_B0598  UGAAACA---G--G----G---------CG---C---GAA-U-------C
+BSUIS_B1043  UGGU-CA----------GG----------G---C---GCU-G-------G
+BSUIS_B0517  ACAAUU----G--A----A----------A---A---CCG-C-------G
+BSUIS_B0814  UCACCCA---A--A----A----------C---C---CGA-U-------G
+BSUIS_B0756  UCAAGCU---G--A----A----------A---AA-AGGC-G-------C
+BSUIS_B1147  UAAAUGA---A--A----A----------A---A---GCC-G-------C
+BSUIS_B0077  UAAAAAA------G----C----------C---A---GCG-C-------A
+BSUIS_B0033  AAACAGA----------UA----------G---A---GCG-GC-----CC
+BSUIS_B1234  UGCAUCU----------------------C---C---CGC-G-------A
+BSUIS_B0850  UGAAAAA---C--G----CA--------CA---U---CCC-GU-----CA
+BSUIS_B0729  GGAU-AA---A--A----G----------C---U---CCC-C-------G
+BSUIS_B0148  CAAUACA----------GC----------C---A---UCA-C-------C
+BSUIS_B1346  UGAAUGA---A--G----C----------G---G---UUC-C-------C
+BSUIS_B1206  CGAACCU------G----U----------U---G---ACC-G-------G
+BSUIS_B0783  UACAACG---A--A----A----------A---A---GCC-C-------C
+BSUIS_B0019  UGAAAAU---G--G----G----------C---G---GCG-G-------C
+BSUIS_B0196  CCAGGAG---G--A----U----------U---G---ACC-C-------G
+BSUIS_B0366  AGCAUUA---A--A----ACAC---CCAUA---A---GCC-C-------G
+BSUIS_B0575  UUGUUAA---A--G----C----------G---U---GUC-G-------U
+BSUIS_B0513  AAAAAGC---G--C----AGG------CCA---C---GGG-C-------G
+BSUIS_B0665  UCAAGAU--CA--A----A----------A---C---GCC-G-------C
+BSUIS_B0689  UGAGAG-------C----A----------A---G---GCC-C-------G
+BSUIS_B1036  GGAAACG---G--A----AAUG----AGCA---A---GGG-G-------C
+BSUIS_B1303  UGAAAAC---A--G----C----------U---U--AACC-C-------G
+BSUIS_B0050  CAAAUCU----------AA----------A---G---CCU-G-------C
+BSUIS_B1167  UCGC-CA---A--G----A----------A---A---GCC-G-------G
+BSUIS_B0329  UUAACUA-------C--GG----------C---C---GCG-U-------C
+BSUIS_B0424  CAAAUAA---G--A----A----------G---G---GCC-G-------C
+BSUIS_B1090  GCAGCUU---U--C----G----------C---A---AUU-C-------U
+BSUIS_B1221  UUAAGCU---G--C----G----------C---C---GGG-A-------A
+BSUIS_B1411  CGAAUCU---G--G----A----------G---C---GGU-U-------C
+BSUIS_B0088  GCAAGGA---A--A----A----------G---G---GGC-C-------G
+BSUIS_B1272  CGAU-GA---A--G----A----------A---A---CCG-G-------G
+BSUIS_B0082  GAAAACA---G--A----A----------A---C---GGC-C-------C
+BSUIS_B1136  GCAA-GU------U----G----------C---U---GCC-U-------G
+BSUIS_B0884  UGCGCGG---G--G----A----------A---A---UCA-G-------U
+BSUIS_B1297  UGAAAGAA-UG--A----A----------A---A---GGG-U-------G
+BSUIS_B0126  UGCUACG-------G--CG----------U---C---GCG-C-------G
+BSUIS_B0877  UGAAACA---G--A----G----------A---G---GCG-C-------U
+BSUIS_B1120  UGAAUGA---A--G----G---------AC---G---GCG-C-------A
+BSUIS_B0881  GGAU-AA------A----A----------A---C---GCC-G-------C
+BSUIS_B0529  GGAUUGA---A--U----U----------U---G---ACG-U-------U
+#=GC SS_cons :::::::...<..<....<..........<...<...<<<.<.......<
+#=GC RF      UgAauca...a..a....A..........a...c...GCc.g.......g
+
+BSUIS_B0643  --GAG-------------------CCUCA---------------------
+BSUIS_B1294  --AA--------------------CAUAU---------------------
+BSUIS_B0346  --GG------------------------A---------------------
+BSUIS_B1211  --C-----------------------GCA---------------------
+BSUIS_B1306  --GC---------------------CAAA---------------------
+BSUIS_B1139  --CU---------------------UUUC---------------------
+BSUIS_B0198  --GC------------------------A---------------------
+BSUIS_B0186  --CUGA-----------------UUGAAU---------------------
+BSUIS_B0545  --AU--------------------GUUUU---------------------
+BSUIS_B0528  --CAUCCCUCG-------GUUCAAGCGUU---------------------
+BSUIS_B1379  --UA------------------------A---------------------
+BSUIS_B1305  --GC---------------------UU-U---------------------
+BSUIS_B1210  --CU------------------------U---------------------
+BSUIS_B0743  --UU---------------------CAAA---------------------
+BSUIS_B0035  --CC---------------------AGUU---------------------
+BSUIS_B1138  -CCU---------------------GGAA---------------------
+BSUIS_B1251  --CG---------------------GUUU---------------------
+BSUIS_B0685  --UGU------------------UGUUAA---------------------
+BSUIS_B0339  --GCA-------------------UGG-A---------------------
+BSUIS_B0673  --CG---------------------AUAA---------------------
+BSUIS_B0106  --CCUG-----------------UUUUAA---------------------
+BSUIS_B0928  --CGG-------------------UUAAA---------------------
+BSUIS_B0687  --CA---------------------UC-A---------------------
+BSUIS_B0699  --UU----------------------AAA---------------------
+BSUIS_B1222  --CGCAUGA----------UUGAAUCUAU---------------------
+BSUIS_B0879  --------------------------GCA---------------------
+BSUIS_B1023  --C-----------------------GAA---------------------
+BSUIS_B0496  --GG---------------------GAAU---------------------
+BSUIS_B1258  --GC---------------------UUUU---------------------
+BSUIS_B0454  --CCG------------------GUUCAA---------------------
+BSUIS_B0420  --UCUGA---------------CACAAAC---------------------
+BSUIS_B0767  --CA---------------------UCAA---------------------
+BSUIS_B0578  --------------------------GAA---------------------
+BSUIS_B0901  --------------------------GAA---------------------
+BSUIS_B1192  --UC---------------------UGAUUGA------------------
+BSUIS_B1024  -----------------------------UCUGAUUG-------------
+BSUIS_B1336  --CC---------------------UUAU---------------------
+BSUIS_B0688  ---CUCUCGG---------UUCAAGCG-U---------------------
+BSUIS_B1150  --GC---------------------CCAU---------------------
+BSUIS_B1401  --GA---------------------UU-U---------------------
+BSUIS_B0692  --CGG------------------AUUGCU---------------------
+BSUIS_B0897  --GA---------------------AUAU---------------------
+BSUIS_B0674  --UCU------------------UGUUAU---------------------
+BSUIS_B0843  ----------------------------U---------------------
+BSUIS_B0509  --G-----------------------GAA---------------------
+BSUIS_B1186  --GC------------------------C---------------------
+BSUIS_B0606  --CU---------------------CUUG---------------------
+BSUIS_B0081  --AAGGGA-------------AUAA----GGCAGUAUGUUUUGAUCUGUG
+BSUIS_B0863  --C-----------------------AAU---------------------
+BSUIS_B1276  --------------------------GAG---------------------
+BSUIS_B0693  --GG---------------------AGCA---------------------
+BSUIS_B0425  --CUCCA--------------CUCCAGUC---------------------
+BSUIS_B1242  --CU----------------------GAU---------------------
+BSUIS_B1182  --CU------------------------U---------------------
+BSUIS_B0871  --G-----------------------GAA---------------------
+BSUIS_B0934  --GGCAAU------------UCUGCUGAA---------------------
+BSUIS_B1198  ----------------------------U---------------------
+BSUIS_B0785  --GU---------------------AUCU---------------------
+BSUIS_B1231  --G-----------------------GAA---------------------
+BSUIS_B0782  --CA------------------------U---------------------
+BSUIS_B1034  --CU------------------------U---------------------
+BSUIS_B0055  --CCGAAAACCG-----UUUCACACUUUU---------------------
+BSUIS_B0342  ----A------------------AUUAUU---------------------
+BSUIS_B1134  --GC---------------------CU-U---------------------
+BSUIS_B1158  ----G------------------CAUG-U---------------------
+BSUIS_B0076  --GU---------------------UAUU---------------------
+BSUIS_B1263  --CG---------------------UUAU---------------------
+BSUIS_B0107  --CA---------------------UUAA---------------------
+BSUIS_B0802  --CUG-------------------AAUUU---------------------
+BSUIS_B0779  --CU---------------------UUAA---------------------
+BSUIS_B1315  --AG---------------------CCCU---------------------
+BSUIS_B1079  --C-GAU---------------GCGGGAU---------------------
+BSUIS_B1128  ------------------------ACG-A---------------------
+BSUIS_B0666  --AU------------------------C---------------------
+BSUIS_B0864  --C-----------------------AAU---------------------
+BSUIS_B1388  --CGGUUA-------------AAAC----GGA------------------
+BSUIS_B0192  --GU---------------------UGAU---------------------
+BSUIS_B0487  ----GAAC------------CCACAUGUU---------------------
+BSUIS_B0455  ------------------------UUGAA---------------------
+BSUIS_B0026  --CC---------------------UUUU---------------------
+BSUIS_B0611  --GU---------------------AGCA---------------------
+BSUIS_B0796  --AC---------------------UGAG---------------------
+BSUIS_B1229  --A-----------------------GAU---------------------
+BSUIS_B0472  --C-UU----------------UCAAGUG---------------------
+BSUIS_B0878  --GG---------------------UU-G---------------------
+BSUIS_B1213  --GC----------------------AAC---------------------
+BSUIS_B1289  --GA----------------------G-A---------------------
+BSUIS_B1275  --CGGG-----------------CCCACC---------------------
+BSUIS_B0646  --GU---------------------GUUG---------------------
+BSUIS_B0918  --UG---------------------UUCC---------------------
+BSUIS_B1099  ----G------------------UUUG-U---------------------
+BSUIS_B1239  --C-----------------------GAA---------------------
+BSUIS_B0347  --GG---------------------CUUU---------------------
+BSUIS_B0048  ----G-------------------UCAAA---------------------
+BSUIS_B1202  --GC--------------------GACAA---------------------
+BSUIS_B0374  ----------------------------U---------------------
+BSUIS_B0882  --GC----------------------AAG---------------------
+BSUIS_B0880  --UC----------------------U-U---------------------
+BSUIS_B0715  --CC------------------------U---------------------
+BSUIS_B1172  --AA---------------------GCUU---------------------
+BSUIS_B1302  --GG---------------------AGCA---------------------
+BSUIS_B1387  ----------------------------U---------------------
+BSUIS_B0851  --CCA------------------CCGUUC---------------------
+BSUIS_B0607  --CU---------------------CGCA---------------------
+BSUIS_B0677  --GG---------------------GGAA---------------------
+BSUIS_B0734  --CC---------------------UG-C---------------------
+BSUIS_B0177  --CU---------------------AUUU---------------------
+BSUIS_B0914  --CGGUUGA----------AAUGGAGCCA---------------------
+BSUIS_B1274  --CU------------------------U---------------------
+BSUIS_B0919  ----A------------------GGGGAA---------------------
+BSUIS_B0930  ----UCU--------------CGGAAGAU---------------------
+BSUIS_B1295  --G-AAA--------------CAUAUGUU---------------------
+BSUIS_B1189  --------------------------GAA---------------------
+BSUIS_B0277  --GA---------------------CUAU---------------------
+BSUIS_B1262  --CU---------------------UUUG---------------------
+BSUIS_B0125  --GA----------------------AAC---------------------
+BSUIS_B0506  --UU---------------------UGAA---------------------
+BSUIS_B0412  --CU----------------------CAU---------------------
+BSUIS_B0059  --CC---------------------AAAU---------------------
+BSUIS_B1072  --AUGGAC-------------CAGCAGUU---------------------
+BSUIS_B0526  --GU---------------------CUCG---------------------
+BSUIS_B1007  --CC--------------------A-UAAAAUUA----------------
+BSUIS_B1133  --G-ACCCC-----------GCCCCCACA---------------------
+BSUIS_B0178  --CGC------------------AGCCAU---------------------
+BSUIS_B0157  UUGC----------------------AAC---------------------
+BSUIS_B0912  --AU---------------------AA-U---------------------
+BSUIS_B0228  --GG---------------------UUUAAACG-----------------
+BSUIS_B0806  --CUGA-----------------UUGAAU---------------------
+BSUIS_B0522  --CAG------------------ACGAAA---------------------
+BSUIS_B0357  --CC---------------------CAAU---------------------
+BSUIS_B0404  --CU---------------------CU-U---------------------
+BSUIS_B0755  --GA------------------------U---------------------
+BSUIS_B0710  ------------------------CGGAA---------------------
+BSUIS_B0610  --G-C------------------AUUGCU---------------------
+BSUIS_B1015  -AGC----------------------A-A---------------------
+BSUIS_B0036  --CU---------------------CAUA---------------------
+BSUIS_B1164  --GA---------------------GCAA---------------------
+BSUIS_B0320  --UCCGGCAAUAC---GCACCGCUUUG-U---------------------
+BSUIS_B0629  --GC---------------------AUUU---------------------
+BSUIS_B1146  --UC---------------------CGAA---------------------
+BSUIS_B0245  --CC---------------------CGUU---------------------
+BSUIS_B0246  --CC---------------------GCAA---------------------
+BSUIS_B1071  --AC---------------------UGCU---------------------
+BSUIS_B0584  --C-G------------------CUUGUU---------------------
+BSUIS_B1155  ------------------------GUG-A---------------------
+BSUIS_B0931  --CU----------------------GAG---------------------
+BSUIS_B0773  ----C-------------------GAAAU---------------------
+BSUIS_B0792  --------------------------GAA---------------------
+BSUIS_B0627  --GG---------------------UCUU---------------------
+BSUIS_B0781  ----CAAAGCCG-----UUUCACGCUUUU---------------------
+BSUIS_B0872  --------------------------UUU---------------------
+BSUIS_B0328  --CG---------------------UGAU---------------------
+BSUIS_B0925  --GU---------------------GGAA---------------------
+BSUIS_B0628  --CCCGC---------------AAA----ACUUCCUU-------------
+BSUIS_B1240  --CU---------------------GGAU---------------------
+BSUIS_B1191  --CU----------------------CAU---------------------
+BSUIS_B0613  --AUU------------------CGCUUG---------------------
+BSUIS_B1185  --CC----------------------GCC---------------------
+BSUIS_B0563  --GC---------------------CCAA---------------------
+BSUIS_B0336  --------------------------GAA---------------------
+BSUIS_B0179  --UU---------------------UGAA---------------------
+BSUIS_B0956  --CC----------------------GAA---------------------
+BSUIS_B0015  --GUUU----------------CGGUCAU---------------------
+BSUIS_B0571  --CU------------------------U---------------------
+BSUIS_B1127  --CG------------------------U---------------------
+BSUIS_B0907  --CC----------------------G-U---------------------
+BSUIS_B0898  --GA---------------------GGAA---------------------
+BSUIS_B1080  --CGAU-----------------CCCGCA---------------------
+BSUIS_B0495  -AGG---------------------AAUU---------------------
+BSUIS_B0295  --CUGA-----------------UUGAAU---------------------
+BSUIS_B0916  --CCUU-----------------UUCCCA---------------------
+BSUIS_B0060  --CC---------------------AUUU---------------------
+BSUIS_B1283  --GC---------------------GG-U---------------------
+BSUIS_B0510  --------------------------UUU---------------------
+BSUIS_B0008  --GCAGG--------------CCAAACCU---------------------
+BSUIS_B0360  ------------------------UUCAU---------------------
+BSUIS_B0089  --G-----------------------CAA---------------------
+BSUIS_B0486  --AA----------------------CAU---------------------
+BSUIS_B0227  --CC------------------------A---------------------
+BSUIS_B0868  --CU----------------------U-U---------------------
+BSUIS_B1022  -ACC---------------------UU-U---------------------
+BSUIS_B0647  --CAGCGAC----------UUCGUUUCAA---------------------
+BSUIS_B0403  --GC---------------------AG-U---------------------
+BSUIS_B0332  --C-C------------------CAUCUU---------------------
+BSUIS_B0194  --GC---------------------CAAA---------------------
+BSUIS_B0020  --CU---------------------UU-U---------------------
+BSUIS_B0598  --CG---------------------AAGA---------------------
+BSUIS_B1043  ----AC-----------------UGAACA---------------------
+BSUIS_B0517  --CC---------------------UGAC---------------------
+BSUIS_B0814  --AG---------------------CCAA---------------------
+BSUIS_B0756  --GA------------------------U---------------------
+BSUIS_B1147  -UUC---------------------GGUU---------------------
+BSUIS_B0077  --GU---------------------GGAA---------------------
+BSUIS_B0033  --AG---------------------CCUU---------------------
+BSUIS_B1234  --CA----------------------AAA---------------------
+BSUIS_B0850  --GC---------------------AGAA---------------------
+BSUIS_B0729  --GG--------------------CCGAA---------------------
+BSUIS_B0148  --UC---------------------GCCU---------------------
+BSUIS_B1346  --GCGUG--------------UCUGUUAA---------------------
+BSUIS_B1206  --CG----------------------GUU---------------------
+BSUIS_B0783  --GC--------------------ACGAU---------------------
+BSUIS_B0019  --CU---------------------UAAA---------------------
+BSUIS_B0196  ----GU-----------------UUUUUU---------------------
+BSUIS_B0366  --CG---------------------UAAU---------------------
+BSUIS_B0575  --AU----------------------GAU---------------------
+BSUIS_B0513  --GCAGUC------------GCGGGGGCG---------------------
+BSUIS_B0665  --CU----------------------UUU---------------------
+BSUIS_B0689  --AUGCG---------------CCCGGCU---------------------
+BSUIS_B1036  --CG------------------------A---------------------
+BSUIS_B1303  ----UUUU-------------GCCCCAAA---------------------
+BSUIS_B0050  --CC---------------------CAAA---------------------
+BSUIS_B1167  ----G-------------------CUGGU---------------------
+BSUIS_B0329  --AU---------------------GGUU---------------------
+BSUIS_B0424  --CCGA-----------------CUGGAG---------------------
+BSUIS_B1090  --GG---------------------AUAU---------------------
+BSUIS_B1221  --UC---------------------UGCA---------------------
+BSUIS_B1411  --CAG------------------GU---AAAACG----------------
+BSUIS_B0088  --------------------------U-U---------------------
+BSUIS_B1272  --GC------------------------U---------------------
+BSUIS_B0082  --------------------------AAA---------------------
+BSUIS_B1136  -AC-----------------------GCU---------------------
+BSUIS_B0884  --CC------------------------A---------------------
+BSUIS_B1297  --GC----------------------UCU---------------------
+BSUIS_B0126  --GA---------------------AGGU---------------------
+BSUIS_B0877  --CC---------------------AUAA---------------------
+BSUIS_B1120  ------------------------UUGUU---------------------
+BSUIS_B0881  --UC---------------------CGAA---------------------
+BSUIS_B0529  --UGAAUCCCGGCUGUUACAUAUGCUGUU---------------------
+#=GC SS_cons ..<<.....................____.....................
+#=GC RF      ..cc.....................ugAu.....................
+
+BSUIS_B0643  ----------C----UC-A----U-CGG-G--U--UUU----GGUUAA
+BSUIS_B1294  ----------G----UU-U----C-GGG-G--C--CUU-------UGU
+BSUIS_B0346  ----------AG--GCC-U----C-GGG-A--U--GAU-----AUUAA
+BSUIS_B1211  ----------A-----G-C----C-GGG-U--U--UUU----------
+BSUIS_B1306  ---------------GC-C----G-GGC-U--U--UCUUG-UAUUUCA
+BSUIS_B1139  ----------C---AGG-C----A-AGC-U--G--CCU----GUUUCA
+BSUIS_B0198  ----------A---AGC-G----G-CGC-G--G--G------------
+BSUIS_B0186  ----------C----AG-A----U-CGA-A--A--CGC----------
+BSUIS_B0545  ----------C----AU-C----C-AGC-G--G--GUA-------UGA
+BSUIS_B0528  ----------G----AG-C----A-AAU-G--U--UGG-----AAUCA
+BSUIS_B1379  ----------A----------------C-C--U--UC--------UGU
+BSUIS_B1305  ----------G----GC-C----G-GGC-U--U--UCU-------UGU
+BSUIS_B1210  ----------C---CAG-C----A-AGC-G--G--GCUG---GUUUCG
+BSUIS_B0743  ----------AA--GAA-G----A-ACC-G--C--CGC-------UCC
+BSUIS_B0035  ---------------GG-A----G-CCG-A--U--CUA-----UCUCU
+BSUIS_B1138  ----------A----AG-C----A-AGCCG--C--CUG-----UUUCC
+BSUIS_B1251  ----------G---CCG-G----A-AGC-G--G--CGU-----UUUCU
+BSUIS_B0685  ----------G----CA-C----C-GGC-G--U--UGCG--AUAUUGA
+BSUIS_B0339  ----------A----GC-A----U-UUC-C--G--GUC-------UCU
+BSUIS_B0673  ----------C---AAG-A----A-AAC-G--C--UCU-----UUUCA
+BSUIS_B0106  ----------U----GG-A----A-CCC-U--C--UAA----CUAUGC
+BSUIS_B0928  ----------A----CG-G----A-ACC-G--C--UCUAACGAUUUGU
+BSUIS_B0687  ----------A----UG-U----G-UCU-G--G--AACC---AAUUAU
+BSUIS_B0699  ----------U----------------C-C--A--UUUU---AAUUGG
+BSUIS_B1222  ----------G----CG-CA-UGC-GGA-A--C--GUU-----UUUGC
+BSUIS_B0879  ----------A-------C----C-GGC-G--C--UUU-----UUUGG
+BSUIS_B1023  ----------A-----G-G----U-UGG-G--C--A-------UUUCU
+BSUIS_B0496  ----------U----CCUC----C-GGC-C--A--UUU-------UGU
+BSUIS_B1258  ----------A----GC-C----G-GGC-AUUU--UGU-----UUUUA
+BSUIS_B0454  ----------C----GG-G----C-UGC-U--C--C-------UUUCA
+BSUIS_B0420  ----------A----GA-U----C-GGC-G--C--U-------UUUUA
+BSUIS_B0767  ---------------UG-C----A-GGU-G--C--UUCG---GUUUCG
+BSUIS_B0578  ------------------G----C-ACCGU--C--UC-----------
+BSUIS_B0901  ----------A-------G----C-GGG-G--U--UUU----AUUUAU
+BSUIS_B1192  -------AUCA----GA-U----C-GGC-G--C--UCU-----AAUCU
+BSUIS_B1024  --AAUCAGAUC-----------GG-CGC-U--C--UAAG--CCGUUGU
+BSUIS_B1336  ----------U----GGUU----U-AGC-G--G--GCU-------UGA
+BSUIS_B0688  ----------C----G---A--GC-AAA-U--G--UUG----GAAUCA
+BSUIS_B1150  ----------G---CGC-C----G-GGC-U--U--UUCU---CUAUGA
+BSUIS_B1401  ----------A----UC-C----A-GCC-G--C--CUU-----UUUCA
+BSUIS_B0692  ----------C----CG-C----G-CGG-G--C--UUU----UUAUCC
+BSUIS_B0897  ----------UC--CUC-U----G-CGG-A--A--GGGG---AUAUGG
+BSUIS_B0674  ----------C----GA-A----A-ACG-C--U--CUU-------UCU
+BSUIS_B0843  ----------G-------C----C-GCC-C--G--GCC-----AUUAC
+BSUIS_B0509  ----------A-----C-G----G-GCC-G--U--UUUA---CUUUAU
+BSUIS_B1186  ----------CC--GGC-A----G-UGC-G--C--UGAAA-UAUUUUU
+BSUIS_B0606  ----------C---GAG-G----C-GGC-U--U--UUU----AUUUUU
+BSUIS_B0081  GUAAACUCCAC----UU-A----C-UGC-C--C--UAC-------UGC
+BSUIS_B0863  ----------U-----G-G----C-CGC-U--U--UUC----CUUUGU
+BSUIS_B1276  ----------A-------C----A-UCC-G--G--C------------
+BSUIS_B0693  ----------A---UCC-G----C-GCG-G--G--CUU-----UUUGA
+BSUIS_B0425  ----------G----GG-C----G-GCC-C--U--UCU-----UAUUU
+BSUIS_B1242  ----------C---CAG-C----G-GGC-U--U--U-------UUUGU
+BSUIS_B1182  ----------C----GG-G----C-GGC-U--U--U---------UCC
+BSUIS_B0871  ----------A-----C-C----G-GCC-U--U--UUU----CAAUGC
+BSUIS_B0934  ----------A----CC-G----G-AAC-C--G--CUUUCGGAAUUGA
+BSUIS_B1198  ----------G-------C----C-GCC-U--G--AC--------UGC
+BSUIS_B0785  ----------C----AC-G----C-CGC-G--C--UUU----UUUUGU
+BSUIS_B1231  ----------A-----C-C----C-GGC-C--U--GUU-------UGC
+BSUIS_B0782  ----------C---GUG-C----G-GGG-C--U--UUUU---CGUUGU
+BSUIS_B1034  ----------C----GG-C----G-CCC-A--U--UCU----UUUUGA
+BSUIS_B0055  ----------C----GG-G----A-UGC-G--C--UCUA---AAUUCG
+BSUIS_B0342  ----------C-------G----C-CGC-G--C--CCA----------
+BSUIS_B1134  ----------A----GC-C----ACGAC-G--G--CUU-----AUUCU
+BSUIS_B1158  ----------C-------C----G-GGC-U--G--GUUC---GUUUCU
+BSUIS_B0076  ----------C---CAC-U----G-CGC-U--G--GC------UUUUU
+BSUIS_B1263  ----------G----CG-G----C-GGA-G--C--UU--------UUU
+BSUIS_B0107  ----------AA--CAG-G----A-ACC-C--U--CUAA---AGAUCA
+BSUIS_B0802  ----------C----AG-G----G-AAC-G--C--UUGC---CACUGA
+BSUIS_B0779  ----------A----AG-C----C-GCC-C--G--G-------AUUCA
+BSUIS_B1315  ----------G---GCU-U----C-CGC-G--U--UUUG---CUUUCG
+BSUIS_B1079  ----------C-----G-G----U-GGC-U--U--UUUC---UUUUCA
+BSUIS_B1128  ----------C-------G----C-GGC-C--U--UUU-------UCA
+BSUIS_B0666  ----------A---GAU-C----C-GGC-U--U--CGU-----UUUGU
+BSUIS_B0864  ----------U-----G-G----C-CGC-U--U--UUCU---GUUUUU
+BSUIS_B1388  ------AUCGC----UG-G----A-ACC-G--C--UCUAAGUGAUUGU
+BSUIS_B0192  ----------C----GC-C----C-GGC-U--U--UUU-------UGU
+BSUIS_B0487  ----------C-------C----G-GGC-U--U--UCU----GUUUCA
+BSUIS_B0455  ----------C-------C----G-GGCCG--C--UCCGG-UCUUUCA
+BSUIS_B0026  ---------------GU-G----G-ACC-G--C--UCC-----CCUGU
+BSUIS_B0611  ----------A---UGC-C----G-GGU-U--U--GGC-----GUUCU
+BSUIS_B0796  ----------G---UGU-U----C-GCC-U--U--C-------AUUAU
+BSUIS_B1229  ----------C-----U-A----C-CCU-U--C--GAUG---GAUUCA
+BSUIS_B0472  ----------C-----G-U----C-GGU-C--G--C------------
+BSUIS_B0878  ----------C----CC-G----G-CGC-U--U--UUG----CAAUCU
+BSUIS_B1213  ----------C---CGC-C----C-CGC-CUUG--GGC----------
+BSUIS_B1289  ----------C---UUC-C----C-GGC-C--U--UUCU--GCUUUGA
+BSUIS_B1275  ----------G----CG-A----A-GGC-C--C--AAUC--AUUUUGU
+BSUIS_B0646  ----------C---CAC-C----C-GGC-G--CAGUUUU---GCUUCU
+BSUIS_B0918  ----------C----CU-G----C-GGC-G--G--CU------UUUUU
+BSUIS_B1099  ----------G-------G----A-AGC-C--G--GCU-----UUUGU
+BSUIS_B1239  ----------A-----G-G----C-GGCAG--G--C-------GCUGA
+BSUIS_B0347  ----------G----UCUC----C-GGA-G--C--CGC----UAUUCC
+BSUIS_B0048  ----------A-------C----G-GAA-U--C--G---------UCG
+BSUIS_B1202  ----------A----GC-G----C-CGG-C--G--UUUA--AGUUUCC
+BSUIS_B0374  ----------C-------G----G-UGG-G--C--UUU----UUUUGU
+BSUIS_B0882  ----------C---UGC-A----U-GGC-G--G--GCU-----UUUCU
+BSUIS_B0880  ----------C---GGA-G----C-GGC-G--U--UUU-----UAUCC
+BSUIS_B0715  ----------C---UGG-A----C-UGG-U--U--UCC----------
+BSUIS_B1172  ----------CG-GUUU-C----G-CGC-C--U--UUA-----UUUAU
+BSUIS_B1302  ----------A---UUC-G----C-CGC-U--U--UUU-----CUUUA
+BSUIS_B1387  ----------U-------U----C-GAU-U--U--UUG----------
+BSUIS_B0851  ----------C----GG-G----C-GGA-G--C--CG------GUUCU
+BSUIS_B0607  ----------A---GAG-A----C-GGC-U--U--UUUG---AAUUCA
+BSUIS_B0677  ----------AC--UCC-C----G-GAC-G--U--UUU-------UCC
+BSUIS_B0734  ----------C----GG-U----C-AGC-G--C--CAU----UUUUGU
+BSUIS_B0177  ----------CG-UCGG-G----U-UGC-G--C--AG--------UGA
+BSUIS_B0914  ----------C----CG-G----A-ACC-G--C--UCUAACUCUUUGU
+BSUIS_B1274  ----------C---UGG-C----C-CGC-U--U--U---------UUC
+BSUIS_B0919  ----------C------AG----C-GGC-G--G--C------------
+BSUIS_B0930  ----------G-------C----G-CCC-G--G--AAC----AUUUCC
+BSUIS_B1295  ----------C-----C-G----G-GGC-C--U--UUG----CUUUAU
+BSUIS_B1189  ----------A-------G----C-CCU-C--C--C------------
+BSUIS_B0277  ----------A---UUC-C----A-A-U-U--U--AGA----------
+BSUIS_B1262  ----------A----AG-C----C-GGG-C--A--UUU-------UCA
+BSUIS_B0125  ----------C---UUC-C----G-CGC-G--A--C------------
+BSUIS_B0506  ----------A----A-----------C-C--A--UCU----GUUUCA
+BSUIS_B0412  ----------G---CAG-A----C-GCU-G--U--CC-----------
+BSUIS_B0059  ---------------GG-C----G-GGC-U--U--CAU----AUUUUU
+BSUIS_B1072  ----------C----AU-U----G-AGC-A--U--C------------
+BSUIS_B0526  ----------C----GC-C----C-GGC-U--U--UUC-----GCUGU
+BSUIS_B1007  -----AGAGGG----AG-G----G-CGC-A--C--AGCG---AGUUGA
+BSUIS_B1133  ----------A-----C-A----C-GGU-C--U--UCAG---AGUUCG
+BSUIS_B0178  ----------G----CG-A----A-UCC-G--GAAUUUU---GUUUCU
+BSUIS_B0157  ----------C---CGC-A----U-GGC-G--A--CUUG--UGAUUCA
+BSUIS_B0912  ----------A----GU-C----G-GGC-U--U--UAU-------UCC
+BSUIS_B0228  ------GAAUC---GUC-G----G-AAC-C--G--CUC-----UAUCU
+BSUIS_B0806  ----------C----AG-AU-CGG-CGC-U--C--UAAU--UCUUUGU
+BSUIS_B0522  ----------A----UG-G----C-GGC-A--C--CG-----------
+BSUIS_B0357  ---------------GGAG----C-CGC-C--C--UCUU--UAUUUUU
+BSUIS_B0404  ----------C----GG-G----C-AGC-U--U--UGU----------
+BSUIS_B0755  ----------G---AUC-G----C-GCC-U--U--UUU-------UCA
+BSUIS_B0710  ----------A-------G----C-CGC-C--U--UU-----------
+BSUIS_B0610  ----------A-----C-C----G-GGU-U--U--GGC-----GAUGA
+BSUIS_B1015  ----------C---UGCAC----C-GGC-G--G--GGU-----UUUAU
+BSUIS_B0036  ----------C----AGCC----C-GCC-G--G--A---------UGA
+BSUIS_B1164  ---------------UC-C----G-GGC-G--G--G-------UUUCG
+BSUIS_B0320  ----------C----GA-G----C-GGC-U--G--G------------
+BSUIS_B0629  ---------------GC-G----C-AAC-A--G--ACC-----UUUUC
+BSUIS_B1146  ----------C---CGAAG----C-GGC-U--U--UUUU--CAUUUAU
+BSUIS_B0245  ----------G---CGG-A----G-GGC-C--U--UUUG---CUUUGG
+BSUIS_B0246  ----------C---GGG-A----G-GGC-C--U--UUU-------UAC
+BSUIS_B1071  ----------G----GU-C----C-AUU-G--A--GCA-------UCC
+BSUIS_B0584  ----------C-----G-G----G-GCG-G--C--UUU-----UUUAU
+BSUIS_B1155  ----------C-------G----C-GGC-C------UCA---GAUUGA
+BSUIS_B0931  ----------G---AGG-C----C-CGC-A--A--UUUG--AGCUUGC
+BSUIS_B0773  ----------U-------G----C-UGU-U--U--UGC-----CUUCA
+BSUIS_B0792  ------------------A----C-GGU-U--U--U---------UGG
+BSUIS_B0627  ----------C---UUC-G----G-CGC-G--U--U-------UAUUU
+BSUIS_B0781  ----------A-------C----C-GGA-A--A--UGU-------UCC
+BSUIS_B0872  ----------C-------C----C-GGC-C--U-CUUUU---GUUUAA
+BSUIS_B0328  ---------------UG-U----C-GCG-G--C--CCU-------UCA
+BSUIS_B0925  ----------A---AAC-G----G-CGG-C--G--GCC-------UCA
+BSUIS_B0628  --GAAGUCCGG----GG-C----G-UCC-G--G--UGC-----UCUCU
+BSUIS_B1240  ----------C----AG-C----G-GGC-U--U--UU-----------
+BSUIS_B1191  ----------C---UGG-C----G-GGG-U--U--UUU----UAUUGC
+BSUIS_B0613  ----------G----AU-G----C-GGC-G--U--UUC-----UUUCG
+BSUIS_B1185  ----------G----GG-G----C-GCC-G--C--A---------UGU
+BSUIS_B0563  ----------A----GC-G----C-CCU-U--U--U-------UAUUA
+BSUIS_B0336  ----------U---------------------U--GUC----GUUUGA
+BSUIS_B0179  ----------C----GG-G----A-UGC-C--G--U---------UCA
+BSUIS_B0956  ----------C---CGG-GGGAGC-GCC-G--C--UUUU---CUUUAU
+BSUIS_B0015  ----------A----AC-G----C-CGU-G--G--GCC-----GAUCU
+BSUIS_B0571  ----------C---AGG-C----G-CCC-C--U--U-------UUUCG
+BSUIS_B1127  ----------C---GUG-C----G-GCC-U--U--UU--------UCA
+BSUIS_B0907  ----------C---GAG-C----G-GGC-A--U--UUU-----CAUGA
+BSUIS_B0898  ----------UA--UUC-U----G-CGG-A--A--GGG----UUUUGU
+BSUIS_B1080  ----------U----CG-G----U-GGC-U--U--UUUG---CUAUGG
+BSUIS_B0495  ----------C----CC-C----C-GGC-C--A--UUUC--AAACUCA
+BSUIS_B0295  ----------C----AG-AU-CGG-CGC-U--C--UAAU--CCUUUGU
+BSUIS_B0916  ----------C----GG-G----C-GAC-C--C--ACA----CUUUCA
+BSUIS_B0060  ---------------GG-C----G-GGC-U--UUCCAUG--CACAUCU
+BSUIS_B1283  ----------C---GGC-A----U-CGC-C--U--UUUU--UGUUUCA
+BSUIS_B0510  ----------C-------C----G-GGC-C--G-CUUUG--CAUUUCA
+BSUIS_B0008  ----------U----GC-A----C-GGCUU--U--UCU-----UUUGA
+BSUIS_B0360  ------------------C----C-GGC-G--A--CUA----CUUUUU
+BSUIS_B0089  ----------------C-G----G-CCC-C--U--UUU----CCUUGC
+BSUIS_B0486  ----------GUGGGUU-C----C-GGG-C--U--UUC----UUUUGU
+BSUIS_B0227  ----------C---UGG-A----C-UGA-U--U--UCU-----GAUCC
+BSUIS_B0868  ----------C---GGG-C----G-CCG-U--U--UUU----GUUUGA
+BSUIS_B1022  ----------C----GGCU----G-GGC-A-------------AAUCA
+BSUIS_B0647  ----------C----UG-G----A-ACC-G--C--UUUAA-AACAUGU
+BSUIS_B0403  ----------C---UGC-C----C-AGC-C--U--C-------CCUGA
+BSUIS_B0332  ----------U-----G-C----G-GGC-G--G--GGC----AUUUCU
+BSUIS_B0194  ----------A---UGC-G----C-GGC-U--U--UUUCA-UAUUUCA
+BSUIS_B0020  ----------A----AG-G----C-CGC-C--G--CCCA---UUUUCA
+BSUIS_B0598  ----------C----CGGA----A-UUC-G--C--CUC-------UCC
+BSUIS_B1043  ----------A-------C----C-AGC-G--C--C-------UAUCA
+BSUIS_B0517  ----------C----GG-C----G-CGG-U--U--UUUGC-GUUUUGA
+BSUIS_B0814  ----------C----CU-C----A-UCG-G--G--UUU----------
+BSUIS_B0756  ----------C---AUC-G----C-GCCCU--U--UUCC--AUUUUGU
+BSUIS_B1147  ----------C---GGA-G----C-GGC-U--U--UUUC---CUCUGC
+BSUIS_B0077  ----------U---AAC-C----G-CGC-U--G--GC------GAUAU
+BSUIS_B0033  ----------C---CUU-GA--AC-CGC-U--C--U------------
+BSUIS_B1234  ----------C---CUG-U----C-GCG-G--G--CGG-----UUUGG
+BSUIS_B0850  ----------A----GC-UU--UC-GGG-A--U--GCG----CAUUCC
+BSUIS_B0729  ----------A----CC-C----G-GGG-G--G--CAUC--GCUUUCA
+BSUIS_B0148  ---------------GA-G----G-UGG-U--G--G------------
+BSUIS_B1346  ----------A----AC-A----G-GAA-C--C--GCU----CUAUGC
+BSUIS_B1206  ----------C---UCG-C----C-GGU-C--A--AC--------UCU
+BSUIS_B0783  ---------------GC-G----G-AGC-U--U--UUUC---AUUUCC
+BSUIS_B0019  ---------------AG-A----C-AGC-C--G--CCC-----GAUCC
+BSUIS_B0196  ----------U-------C----G-GGU-C--A--AUCA--AACUUGA
+BSUIS_B0366  ---------------UG-C----G-GGC-U--U--UUUU---CGUUCU
+BSUIS_B0575  ----------AA--AAU-G----C-GGC-A--C--GCU-------UCA
+BSUIS_B0513  ----------C----GC-C----G-CCC-G--U-AUCU-----UUUCA
+BSUIS_B0665  ----------C---CGG-G----C-GGC-G--U--UUUC---GUUUCU
+BSUIS_B0689  ----------C----AU-C----G-GGC-C--U--UG------AUUGA
+BSUIS_B1036  ----------A---AAG-G----C-CCC-U--U--UUC-----UUUAU
+BSUIS_B1303  ----------C-------C----G-GGCGA--A--GCU-----AUUGU
+BSUIS_B0050  ----------AU--GGGAG----C-AGC-C--U--U------------
+BSUIS_B1167  ----------C-------C----C-GGC-U--U--UCU-------UGC
+BSUIS_B0329  ----------C----AU-G----A-CGC-G--G--C-------UUUGC
+BSUIS_B0424  ----------U----GGAG----C-GGC-C--C--UUCU--UCAUUCC
+BSUIS_B1090  ----------A----UC-A----G-AAU-U--G--CGAG--AAUUUCU
+BSUIS_B1221  ----------C----GA-U----U-CCC-G--G--CCC-------UUC
+BSUIS_B1411  ----AAGCCGC----UG-G----G-ACC-G--C--UCC----AUCUGU
+BSUIS_B0088  ----------G-------C----G-GCC-C--C--UUU-------UGC
+BSUIS_B1272  ----------U---UGC-U----C-CGG-U--U--UUU-----UAUUU
+BSUIS_B0082  ----------C------CG----G-GCC-G--U--UUC-----CCUGC
+BSUIS_B1136  ----------G-----G-C----A-GGC-A--G--CA-----------
+BSUIS_B0884  ----------C---UGG-A----C-GGA-U--U--UCU-----GAUCC
+BSUIS_B1297  ----------CG--CGC-U----A-CCC-U--U--UUCU---GUUUUU
+BSUIS_B0126  ----------U----UC-C----G-CGC-G--A--C-------CAUGU
+BSUIS_B0877  ----------C----GG-G----G-CGC-C--U--CUUU--CAAUUGU
+BSUIS_B1120  ------------------U----G-CGC-C--G--CCU-----UUUCU
+BSUIS_B0881  ---------------GA-G----C-GGC-G--U--UU------CUUUU
+BSUIS_B0529  ----------U----CA-A----A-CGU-U--A--AAU-------UCU
+#=GC SS_cons .........._....>>.>....>.>>>.>..>..>>>.....:::::
+#=GC RF      ..........c....gg.c....c.gGC.g..u..Uuu.....UUUcu
+//

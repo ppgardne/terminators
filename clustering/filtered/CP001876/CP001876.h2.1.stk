@@ -1,0 +1,938 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CJSA_0047 WT 0.97
+#=GS CJSA_0445 WT 0.95
+#=GS CJSA_0363 WT 0.76
+#=GS CJSA_0596 WT 1.00
+#=GS CJSA_0270 WT 1.08
+#=GS CJSA_1568 WT 0.92
+#=GS CJSA_0158 WT 0.97
+#=GS CJSA_0822 WT 1.07
+#=GS CJSA_0479 WT 1.08
+#=GS CJSA_0190 WT 0.92
+#=GS CJSA_0213 WT 0.95
+#=GS CJSA_0653 WT 1.12
+#=GS CJSA_0364 WT 0.76
+#=GS CJSA_1122 WT 0.82
+#=GS CJSA_0412 WT 1.04
+#=GS CJSA_0848 WT 0.94
+#=GS CJSA_0845 WT 0.83
+#=GS CJSA_0449 WT 1.01
+#=GS CJSA_0086 WT 1.12
+#=GS CJSA_0620 WT 0.84
+#=GS CJSA_1533 WT 0.92
+#=GS CJSA_0034 WT 0.87
+#=GS CJSA_0033 WT 0.87
+#=GS CJSA_0060 WT 1.00
+#=GS CJSA_1227 WT 0.88
+#=GS CJSA_0063 WT 1.10
+#=GS CJSA_1014 WT 0.86
+#=GS CJSA_0814 WT 1.08
+#=GS CJSA_1596 WT 1.24
+#=GS CJSA_0137 WT 1.18
+#=GS CJSA_0926 WT 0.98
+#=GS CJSA_0478 WT 0.98
+#=GS CJSA_0004 WT 0.97
+#=GS CJSA_0066 WT 1.12
+#=GS CJSA_0811 WT 0.84
+#=GS CJSA_0411 WT 1.04
+#=GS CJSA_1215 WT 0.95
+#=GS CJSA_0223 WT 1.00
+#=GS CJSA_0079 WT 0.95
+#=GS CJSA_0839 WT 1.18
+#=GS CJSA_0408 WT 1.08
+#=GS CJSA_1180 WT 1.19
+#=GS CJSA_1113 WT 0.89
+#=GS CJSA_0332 WT 0.72
+#=GS CJSA_0844 WT 0.83
+#=GS CJSA_1038 WT 0.87
+#=GS CJSA_0365 WT 1.00
+#=GS CJSA_0036 WT 0.81
+#=GS CJSA_1536 WT 1.09
+#=GS CJSA_1477 WT 0.91
+#=GS CJSA_1576 WT 0.92
+#=GS CJSA_0379 WT 1.25
+#=GS CJSA_0420 WT 0.94
+#=GS CJSA_1431 WT 1.09
+#=GS CJSA_0719 WT 1.04
+#=GS CJSA_0225 WT 1.01
+#=GS CJSA_0069 WT 1.10
+#=GS CJSA_0392 WT 0.84
+#=GS CJSA_0418 WT 1.09
+#=GS CJSA_0237 WT 0.82
+#=GS CJSA_0236 WT 0.82
+#=GS CJSA_0812 WT 0.84
+#=GS CJSA_1390 WT 0.94
+#=GS CJSA_1445 WT 0.94
+#=GS CJSA_1496 WT 1.13
+#=GS CJSA_0017 WT 1.04
+#=GS CJSA_0754 WT 1.04
+#=GS CJSA_0891 WT 0.90
+#=GS CJSA_0161 WT 1.13
+#=GS CJSA_0684 WT 0.82
+#=GS CJSA_0662 WT 0.70
+#=GS CJSA_0718 WT 0.87
+#=GS CJSA_1315 WT 0.82
+#=GS CJSA_1142 WT 0.95
+#=GS CJSA_0682 WT 1.07
+#=GS CJSA_1570 WT 0.95
+#=GS CJSA_0856 WT 1.12
+#=GS CJSA_0862 WT 0.95
+#=GS CJSA_1464 WT 1.32
+#=GS CJSA_1337 WT 1.05
+#=GS CJSA_0717 WT 0.94
+#=GS CJSA_0497 WT 0.89
+#=GS CJSA_0012 WT 0.89
+#=GS CJSA_1242 WT 1.06
+#=GS CJSA_1159 WT 0.72
+#=GS CJSA_1094 WT 0.84
+#=GS CJSA_0876 WT 1.08
+#=GS CJSA_0265 WT 1.03
+#=GS CJSA_0977 WT 0.96
+#=GS CJSA_1187 WT 1.23
+#=GS CJSA_0892 WT 0.90
+#=GS CJSA_0505 WT 1.10
+#=GS CJSA_0401 WT 0.84
+#=GS CJSA_0138 WT 0.84
+#=GS CJSA_0527 WT 0.86
+#=GS CJSA_1292 WT 1.01
+#=GS CJSA_0447 WT 0.96
+#=GS CJSA_0565 WT 0.84
+#=GS CJSA_0296 WT 1.13
+#=GS CJSA_1320 WT 1.20
+#=GS CJSA_1193 WT 0.99
+#=GS CJSA_0909 WT 0.95
+#=GS CJSA_0849 WT 0.94
+#=GS CJSA_0528 WT 0.86
+#=GS CJSA_1562 WT 1.10
+#=GS CJSA_0120 WT 1.29
+#=GS CJSA_0670 WT 1.13
+#=GS CJSA_0544 WT 1.28
+#=GS CJSA_0890 WT 1.18
+#=GS CJSA_0821 WT 0.97
+#=GS CJSA_1198 WT 1.13
+#=GS CJSA_0037 WT 0.81
+#=GS CJSA_0650 WT 1.00
+#=GS CJSA_1450 WT 1.23
+#=GS CJSA_0595 WT 1.00
+#=GS CJSA_1298 WT 0.96
+#=GS CJSA_0306 WT 1.01
+#=GS CJSA_0343 WT 0.82
+#=GS CJSA_1166 WT 0.72
+#=GS CJSA_1163 WT 0.93
+#=GS CJSA_0561 WT 1.20
+#=GS CJSA_1453 WT 0.93
+#=GS CJSA_0518 WT 0.87
+#=GS CJSA_0698 WT 0.92
+#=GS CJSA_0433 WT 1.02
+#=GS CJSA_0019 WT 1.06
+#=GS CJSA_1297 WT 1.05
+#=GS CJSA_1393 WT 1.21
+#=GS CJSA_0098 WT 1.11
+#=GS CJSA_1262 WT 1.22
+#=GS CJSA_1471 WT 0.91
+#=GS CJSA_0651 WT 1.04
+#=GS CJSA_1008 WT 0.88
+#=GS CJSA_1127 WT 1.12
+#=GS CJSA_0763 WT 0.97
+#=GS CJSA_1015 WT 0.86
+#=GS CJSA_1051 WT 0.77
+#=GS CJSA_1160 WT 0.89
+#=GS CJSA_0697 WT 0.77
+#=GS CJSA_1428 WT 0.70
+#=GS CJSA_0024 WT 0.98
+#=GS CJSA_1629 WT 0.84
+#=GS CJSA_1597 WT 1.03
+#=GS CJSA_0430 WT 0.71
+#=GS CJSA_1148 WT 1.02
+#=GS CJSA_0232 WT 1.10
+#=GS CJSA_1463 WT 1.09
+#=GS CJSA_1073 WT 1.18
+#=GS CJSA_1316 WT 0.82
+#=GS CJSA_0174 WT 0.95
+#=GS CJSA_1109 WT 1.13
+#=GS CJSA_0417 WT 1.22
+#=GS CJSA_0864 WT 0.95
+#=GS CJSA_0029 WT 1.36
+#=GS CJSA_0785 WT 0.96
+#=GS CJSA_0947 WT 0.89
+#=GS CJSA_1476 WT 0.96
+#=GS CJSA_0673 WT 1.02
+#=GS CJSA_0589 WT 1.12
+#=GS CJSA_0338 WT 1.09
+#=GS CJSA_0135 WT 1.08
+#=GS CJSA_1408 WT 1.06
+#=GS CJSA_0654 WT 0.99
+#=GS CJSA_1343 WT 0.91
+#=GS CJSA_0141 WT 1.13
+#=GS CJSA_1526 WT 1.30
+#=GS CJSA_1204 WT 1.06
+#=GS CJSA_0051 WT 0.82
+#=GS CJSA_0464 WT 1.00
+#=GS CJSA_1319 WT 1.10
+#=GS CJSA_0898 WT 1.03
+#=GS CJSA_0863 WT 1.07
+#=GS CJSA_0388 WT 1.18
+#=GS CJSA_0875 WT 1.08
+#=GS CJSA_1531 WT 1.11
+#=GS CJSA_0011 WT 1.01
+#=GS CJSA_0858 WT 1.07
+#=GS CJSA_0136 WT 1.01
+#=GS CJSA_0044 WT 0.80
+#=GS CJSA_1456 WT 0.94
+#=GS CJSA_0635 WT 0.94
+#=GS CJSA_1273 WT 1.13
+#=GS CJSA_0070 WT 0.92
+#=GS CJSA_0895 WT 1.15
+#=GS CJSA_1246 WT 1.05
+#=GS CJSA_0014 WT 1.16
+#=GS CJSA_1538 WT 0.98
+#=GS CJSA_1314 WT 1.28
+#=GS CJSA_0735 WT 0.96
+#=GS CJSA_0929 WT 1.11
+#=GS CJSA_0162 WT 1.08
+#=GS CJSA_0378 WT 1.18
+#=GS CJSA_0045 WT 1.29
+#=GS CJSA_0337 WT 1.27
+#=GS CJSA_1416 WT 1.18
+#=GS CJSA_1470 WT 1.01
+#=GS CJSA_1402 WT 0.95
+#=GS CJSA_0084 WT 0.88
+#=GS CJSA_0663 WT 0.70
+#=GS CJSA_0143 WT 1.16
+#=GS CJSA_0972 WT 1.13
+#=GS CJSA_0157 WT 0.87
+#=GS CJSA_0910 WT 1.13
+#=GS CJSA_0241 WT 1.08
+#=GS CJSA_0106 WT 1.05
+#=GS CJSA_1501 WT 1.12
+#=GS CJSA_0043 WT 0.80
+#=GS CJSA_0569 WT 1.10
+#=GS CJSA_0182 WT 1.04
+#=GS CJSA_0715 WT 0.97
+#=GS CJSA_0173 WT 0.93
+#=GS CJSA_1378 WT 1.05
+#=GS CJSA_0431 WT 0.71
+#=GS CJSA_1508 WT 1.15
+#=GS CJSA_0857 WT 1.01
+#=GS CJSA_0882 WT 0.94
+#=GS CJSA_0025 WT 1.13
+#=GS CJSA_0887 WT 0.92
+#=GS CJSA_0994 WT 1.04
+#=GS CJSA_1280 WT 1.19
+#=GS CJSA_0435 WT 1.02
+#=GS CJSA_0186 WT 0.91
+#=GS CJSA_1632 WT 1.21
+#=GS CJSA_0728 WT 1.13
+#=GS CJSA_0400 WT 0.70
+#=GS CJSA_0210 WT 1.32
+#=GS CJSA_1093 WT 0.84
+#=GS CJSA_0920 WT 0.93
+#=GS CJSA_1228 WT 0.88
+#=GS CJSA_0397 WT 0.97
+#=GS CJSA_0832 WT 1.02
+
+CJSA_0047    UAAUUUC-UAGGAAUUA----A--------------UU-CCUAGA-AAUU
+CJSA_0445    AUAAGAG-UUGCU-UUU----U---------------U-GCAACU-CUUU
+CJSA_0363    AAAAUGC-UUAGA-AAU----U---------------U-CUAAGC-AUUU
+CJSA_0596    GAAAGUA-AAAUCAUUU---AU--------------UG-AUUUUA-CUUU
+CJSA_0270    UCUAUCU-UAGAUAAAUUCAUU--------------UA-UCUAAG-AUAG
+CJSA_1568    CAAGCUU-AAGAACUUUU--UG--------------GUAUCUUGG-GCUU
+CJSA_0158    UUGAUAU-AAGUCUAUA---AU--------------AG-ACUUAU-AUCA
+CJSA_0822    UUAAGG----CAAUUUU----U--------------AU-UG---C-CUUA
+CJSA_0479    UUGAAAG-UAGA--UCU----U-----------------UCUACU-UUCA
+CJSA_0190    AUAAAU----CCCUUAA---CA--------------AG-GG---A-UUUA
+CJSA_0213    AGUUUUU-GUGGGAUUU----U--------------UC-UCACAA-AAAC
+CJSA_0653    ACUAUAU-AAAUC-UUU--------------------C-AUUUAU-AUAG
+CJSA_0364    AAAAUGC-UUAGA-AAU----U---------------U-CUAAGC-AUUU
+CJSA_1122    A-AAUUU-UUGCCACUA----UUUUAU----AUCUGUG-GCAAAA-AUUC
+CJSA_0412    ---AAAC-AUGGGCUUU---UU--------------GC-CCAUGU-UU--
+CJSA_0848    AAUUCAU-AAGCC-ACU---AA---------------G-GCUUAU-GAAU
+CJSA_0845    UAAAUG----GUAGUUU---UU--------------CU-AC---C-AUUU
+CJSA_0449    -----UA-UAGCCCUUC----G--------------GG-GCUAUA-----
+CJSA_0086    UUUUUAG-GACGCUUUU----U--------------AG-CGUCUU-GAAA
+CJSA_0620    AAAAG-C-UAUCU-UUU----A---------------A-GAUA---CUUU
+CJSA_1533    GCAAAAU-AAACUCCUU---UU--------------AA-GUUUAU-UUUG
+CJSA_0034    UCAAGCU-AAGCU-UUA----A---------------G-GCUUAG-CUUG
+CJSA_0033    CCAAGCU-AAGCC-UUA----A---------------A-GCUUAG-CUUG
+CJSA_0060    AAAACA----CUUUGAA----A--------------AA-AG---UCGUUU
+CJSA_1227    UUAAAAU-UUCCCUUAUA--AU--------------AG-GGAAAU-UUUA
+CJSA_0063    AAUGUCC-AUUUUAUUAU--UG--------------UA-AAAUGG-ACAU
+CJSA_1014    A-AAAGC-AAACUUGUA---AA--------------AA-GUUUGC-UUUC
+CJSA_0814    -----AG-AAUGCUAUAA-UGG--------------UG-CAUUUU-----
+CJSA_1596    AAAUUAG-CAAGA-AAA----A---------------U-CUUGCU-AAUU
+CJSA_0137    AUAAAG----UUGCUAA---AA--------------GC-AA---C-UUUA
+CJSA_0926    UAAAAGC-AA--GAUUA---AA--------------UU-CUUUGC-UCUU
+CJSA_0478    AUUUUGA-AAGUAGAAAG--AU--------------CU-ACUUUC-AAAA
+CJSA_0004    CUCAUUG-AAGAAAUCA-------------------UU-UCUUCA-AUGA
+CJSA_0066    AUUUACU-GAUUCUAUA---CU--------------AG-AAUCAG-UAAG
+CJSA_0811    CUAAUGU-UUGUG-AAA---AA---------------C-ACAAAC-AUUA
+CJSA_0411    UAAAAAC-AUGGGCAAA---AA--------------GC-CCAUG---UUU
+CJSA_1215    AAAAGAU-GAGAA-AAAA--UA---------------U-UCUUAU-CUUU
+CJSA_0223    GAAUUUC-AAGAAUCAA----A--------------AA-UCUUGA-AAUU
+CJSA_0079    ---ACCC-UAGGUUUUU---CU--------------CU-CCUAGG-GU--
+CJSA_0839    ---UGA----GUAUUUU----A--------------UU-AC---U-CA--
+CJSA_0408    AUUAAUU-AAGAUAAAU---AU--------------UA-UCUUAA-UUAA
+CJSA_1180    ACGAGA----AUU-CCA---AU---------------A-AU---U-CUCG
+CJSA_1113    AAAACC----GCA-UUU--------------------U-GC---U-GUUU
+CJSA_0332    ACAAGC----UCUAUUU----U--------------UA-GA---G-CUUG
+CJSA_0844    UAAAUG----GUAGAAA---AA--------------CU-AC---C-AUUU
+CJSA_1038    AUUAUAC-AAGCUUAAA---CA--------------AG-GCUUGU-AUAA
+CJSA_0365    AUUAAAU-UCCUUUGAA---AA--------------UA-AGGAAU-UUAA
+CJSA_0036    AUUAAUU-UUGGGCUAA-------------------GC-CCAAAA-UUAA
+CJSA_1536    UAUGCUA-AAGUGUUUU----U--------------AC-ACUUUA-GUGU
+CJSA_1477    AGAUAAC-UAGCU-UUU----U---------------G-GCUAGU-UAUC
+CJSA_1576    -----A----GCU-CAU--------------------A-GC---U-----
+CJSA_0379    GUGGGAA-AA----UUA----A---------------A-CUUUCU-CACA
+CJSA_0420    -----UU-GAGGA-UUU---AU---------------U-CCUCAA-----
+CJSA_1431    ---CCGC-UAUGU-UAU----U---------------A-CAUAGC-GG--
+CJSA_0719    AUAAUAC-AUAAAAUUA-----------------------UAUGU-AUUA
+CJSA_0225    UAA---A-GAGCCUUUU---UA--------------AG-GCUCUA-AAUU
+CJSA_0069    AACAAAU-AUUCG-UUU---UU---------------A-GAAUAU-UUGU
+CJSA_0392    ---GUCU-AAGAGUCUU-------------------GC-UCUUAG-AC--
+CJSA_0418    UAGGUUG-AACCUUUUU-------------------AA-GGUUUA-ACCU
+CJSA_0237    AAUUUUC-CACCU-UUA--------------------A-GGUGGA-AAAU
+CJSA_0236    GAUUUUC-CACCU-UAA--------------------A-GGUGGA-AAAU
+CJSA_0812    AUAAUGU-UUGUG-UUU---UU---------------C-ACAAAC-AUUA
+CJSA_1390    ACUAGG----GCUUAAAU-CUU--------------AA-GC---U-CUAG
+CJSA_1445    GAAAAUA-AAGCGUUAA----U--------------AC-GCUUUA-UUUU
+CJSA_1496    -----A----GUGCUAA----A--------------AC-GC---U-----
+CJSA_0017    UAAGUCC-UAGU--GAA----A-----------------ACUAGG-ACUU
+CJSA_0754    AAUGCGC-UAAAUUAUACAUAA--------------AA-UUUAGC-GUAU
+CJSA_0891    AAGAUUU-AUUGAUUUA-------------------AU-CAAUAA-AUCU
+CJSA_0161    -----GU-AAGUGCUCU----A--------------GC-ACUUAC-----
+CJSA_0684    AUAAAAU-AAGCCCUAAA--UA--------------GG-GCUUAU-UUUU
+CJSA_0662    UUAAUG----GCGUGUU---AA--------------AC-GC---C-AUUA
+CJSA_0718    AUAAUUC-UAGGU-UAA----A---------------G-CCUAGA-AUUA
+CJSA_1315    ---AAUC-AAGAGUAUAA--AA--------------AC-UCUUGA-UU--
+CJSA_1142    -----A----GCU-UUA----A---------------U-GC---U-----
+CJSA_0682    UUAAGU----AAG-AUU---GU---------------U-UU---A-CUUA
+CJSA_1570    ---ACGC-UCGGA-UUU--------------------U-CCGAGU-GU--
+CJSA_0856    ---GGUU-GAGAG-GUA----U---------------C-UUUCAG-CC--
+CJSA_0862    GAAAAA----GCC-GAA----A---------------G-GU---U-UUUU
+CJSA_1464    ACAUCGC-UA---AUGU---CAAAUC-----CCCUUUG-CUUAGC-GAUG
+CJSA_1337    AAAAGG----CUAAUUAA--AU--------------UU-AG---C-CUUU
+CJSA_0717    AUAAUUC-UAGGC-UUU----A---------------A-CCUAGA-AUUA
+CJSA_0497    UUAAAGU-UUGUUUGAAAACUA--------------AA-ACAAAC-UUUA
+CJSA_0012    AAAUUCU-UAUCCUUUU----U--------------AA-GAUAAU-AUUA
+CJSA_1242    AUUAAA----ACCUUUA-------------------AG-GU---U-UUAA
+CJSA_1159    AUCA-GC-AAGGA-UUU--------------------U-CCUUGC--UGA
+CJSA_1094    AAAAGGC-UUUCUUAAA----A--------------AG-GAAAGC-CUUU
+CJSA_0876    UAUUGUU-UAGGCUAUU----U--------------UG-CCUAAA-CAUU
+CJSA_0265    ---AUAC-ACGCU-UUU----U---------------A-GCGUGU-AU--
+CJSA_0977    AUUAAAU-UAAUCAUUU-------------------UG-GUUAAU-UUAA
+CJSA_1187    -----GA-AUGGG-AAU---AA---------------U-CCAUUU-----
+CJSA_0892    AAGAUUU-AUUGAUUAA-------------------AU-CAAUAA-AUCU
+CJSA_0505    AAAUUC----CGCAUCA-------------------UG-CG---G-AAUU
+CJSA_0401    AAAAGC----UCCAAAA-------------------UG-GA---G-CUUU
+CJSA_0138    A-AAGGC-UAGU--AUA----------------------ACUAGC-CUUC
+CJSA_0527    AAAGAUC-UAUCUUUAU---AG--------------GA-GAUAGA-UCUU
+CJSA_1292    ---AAGC-CCUAU-AAU----C---------------A-UAGGGC-UU--
+CJSA_0447    AGAAGAU-UUGCC---A----A---------------G-GCAAGU-CUUC
+CJSA_0565    AAAAACU-AAGCAUUUU---AA--------------AA-GCUUAG-UUUU
+CJSA_0296    AAAAUAA-CCCAUAUAU---UU--------------UA-AGGGUU-AUUU
+CJSA_1320    UCAGA-U-ACCUAUAAA---CA--------------CU-AGGU---UCUG
+CJSA_1193    AAAAUA----AAAGAAU----A--------------UU-UU---A-AUUU
+CJSA_0909    UUGAAG----AAUUAAA---AU--------------AA-UU---C-UUCA
+CJSA_0849    AAUUCAU-AAGCC-UUA---GU---------------G-GCUUAU-GAAU
+CJSA_0528    AAAGAUC-UAUCUCCUA---UA--------------AA-GAUAGA-UCUU
+CJSA_1562    AAAUAU--------AAU---------------------------A-UAUU
+CJSA_0120    UAGAUGC-UUGCUUGAA----UGCAAAUUUGCAAAUAC-GCAAGU-AUCU
+CJSA_0670    GACGGC----AUUUUUA---UU--------------UU-GU---G-CCGU
+CJSA_0544    UCGCCAU-AAGAGUAAA----AGCGAU----AUUUUUC-UUUUAU-GGCG
+CJSA_0890    AAAAAU----AUU-UUU----A---------------A-GU---G-UUUU
+CJSA_0821    UUUAAG----GCAAUAAA--AA--------------UU-GC---C-UUAA
+CJSA_1198    AAGGCG----GAGUUUU-------------------GC-UC---C-GCCU
+CJSA_0037    AUUAAUU-UUGGGCUUA-------------------GC-CCAAAA-UUAA
+CJSA_0650    CUAAAAG-CAAGGUUUA-------------------AC-CUUGCU-UUUA
+CJSA_1450    -----G----GGGCUUU---AU--------------GC-CC---C-----
+CJSA_0595    GAAAGUA-AAAUCAAUA---AA--------------UG-AUUUUA-CUUU
+CJSA_1298    -----AC-UUGCCUUUUU--UA--------------AG-GCAAGU-----
+CJSA_0306    ---AAA----GGA-AUA--------------------U-CC---U-UU--
+CJSA_0343    ---AAA----GCCCGAA----A--------------GG-GC---U-UU--
+CJSA_1166    AUAACGG-AAGGA-UUU--------------------U-CCUUUC-GUUA
+CJSA_1163    UUUAUC----ACAAUUU---UU--------------UU-GU---G-AUAA
+CJSA_0561    -----G----AAAAAUA---AU--------------UU-AU---C-----
+CJSA_1453    ACAAGGC-AA----AAA---GA---------------A-CUUUGC-CUUG
+CJSA_0518    AAAAGCUUUUGGA-CUA----U---------------U-CCAAGG-CUUU
+CJSA_0698    AUAAGC----GUGAAUU----U--------------UC-AC---G-CUUA
+CJSA_0433    AGAAGU----GCUAUUGA--UU--------------UA-GC---G-CUUC
+CJSA_0019    UUCACGU-UA----AUU---UA---------------A-CUUAAC-GUGA
+CJSA_1297    AUUUAAC-UUGCCUUAAA--AA--------------AG-GCAAGU-UUGA
+CJSA_1393    ---AAGC-UACUUUAAU----A--------------AU-AGUAGC-UC--
+CJSA_0098    GAUAGUU-ACGCC-UUU----G---------------G-GUGUAAUCUAU
+CJSA_1262    UUUGCCU-UUAUUUUAAG-GCA--------------AA-AUAAAG-GCAA
+CJSA_1471    UAAAUUA-AUAUAUCAA----U--------------AU-AUAUUA-AUUU
+CJSA_0651    UAAAAGC-AAGGU-UAA--------------------A-CCUUGC-UUUU
+CJSA_1008    UUAAAUU-UUGCU-UUU----A---------------A-GCAAAA-UUUA
+CJSA_1127    UAGACUU-AAAACGAGU----U--------------UG-UUUUAA-GUCU
+CJSA_0763    UUAAGAA-AAAUC-AAU----G---------------G-AUUUUU-CUUA
+CJSA_1015    ---AAGC-AAACUUUUU---AC--------------AA-GUUUGC-UU--
+CJSA_1051    AUAAGC----GUGAAAA-------------------UC-AC---G-CUUA
+CJSA_1160    AUCA-GC-AAGGA-AAA--------------------U-CCUUGC--UGA
+CJSA_0697    AUAAGC----GUGAAAA----U--------------UC-AC---G-CUUA
+CJSA_1428    AAAAGC----UCA-UUU----U---------------U-GA---G-CUUU
+CJSA_0024    UAAAACC-CAAUG-AAA---AA---------------U-AUUGGG-UUUU
+CJSA_1629    UUAAUGC-AAGUU-AUA---AA---------------A-ACUUGC-AUUA
+CJSA_1597    AAUUAGC-AAGA--UUU----U-----------------UCUUGC-UAAU
+CJSA_0430    AAAAUAU-UUGUGAAUU----U--------------UC-ACAAAU-AUUU
+CJSA_1148    ---AUGG-AAUUCUUUU----UCUUACU-CUUUUAAAG-AAUUUC-AU--
+CJSA_0232    UAAUAU----CCCAAAA----A--------------UG-GG---A-UAUU
+CJSA_1463    GAAAUUU-AGCCUUUCC----U--------------GA-GGUUAG-AUUU
+CJSA_1073    AAGGAAG-AUAAAAAUU-------------------UU-UUAUUU-UUCU
+CJSA_1316    ---AAUC-AAGAGUUUUU--AU--------------AC-UCUUGA-UU--
+CJSA_0174    AAGAAAU-AAGCCUAAA----G--------------AG-GCUUAU--UCU
+CJSA_1109    -----GC-UAGUCAUAAG--UU--------------UG-ACUAGC-----
+CJSA_0417    UUAGGUU-AAACCUUAA---AA--------------AG-GUUCAA-CCUA
+CJSA_0864    AAAAAGC-UUAUAUUUU----U--------------AU-AUAAGC-UUUU
+CJSA_0029    CUUAGG----GAACUUA----U--------------CU-UC---C-CUAA
+CJSA_0785    AAUACUC-CACAUUCAA-------------------GA-UGUGGA-GUAU
+CJSA_0947    UUGAUG----AUU-AAA---CA---------------U-AU---C-AUCA
+CJSA_1476    AGAUAAC-UAGCC-AAA----A---------------A-GCUAGU-UAUC
+CJSA_0673    UUUAUAA-AUACUUUUU----A--------------UA-GUAUCU-AUAA
+CJSA_0589    ---GGG----GUGGGUU----U--------------UC-GC---C-CC--
+CJSA_0338    UUUAGAG-AAUAG-UUUG--UU---------------C-UAUUCU-CUAA
+CJSA_0135    UUUAUAC-CUAGU-GAA---AA---------------A-CUAGGU-GUAA
+CJSA_1408    AAGAUG----GCUUUUU---UU--------------UA-GC---U-AUCU
+CJSA_0654    AAACUAU-AUAAAUGAA---AG--------------AU-UUAUAU-AGUU
+CJSA_1343    ---AAA----GCU-UCU----A---------------C-GC---U-UU--
+CJSA_0141    UAUGGC----ACU-GUUG--GA---------------A-GU---G-CGGU
+CJSA_1526    -----G----GCU-UUUG--GU---------------A-GC---U-----
+CJSA_1204    AUGAAG----GC--UUA----G-----------------GC---G-UUCA
+CJSA_0051    AAAAUU--------CUA---AA----------------------A-AUUU
+CJSA_0464    ---AGC----GGGAUUU----U--------------UC-CC---G-CU--
+CJSA_1319    ---UGC----CACUUUU-------------------GG-UG---G-CA--
+CJSA_0898    UACACAU-AAUUCAAUA----AAAAU------UAAAUA-AAUUAU-GUGU
+CJSA_0863    AAAAGCU-UAAAGAUUA-------------------UU-UUUAAG-CUUU
+CJSA_0388    AACUUGA-GAGUUUUUG----A--------------AA-ACUCUC-AAGA
+CJSA_0875    ---UGUU-UAGGC-AAAA--UA---------------G-CCUAAA-CA--
+CJSA_1531    GAAAGU----GCCGAAAG--UG--------------CG-GU---A-CUUU
+CJSA_0011    AAAAG-----GGCAUUU----U--------------UG-CCCUU--CUUU
+CJSA_0858    ---GGC----UAGAUAA---AU--------------UC-UA---G-CC--
+CJSA_0136    UAAAGU----UGCUUUU-------------------AG-CA---A-CUUU
+CJSA_0044    AAAAGAU-AAUUC-CUA----A---------------G-AAUUAU-CUUU
+CJSA_1456    UUAAGC----AGGUUUU----A--------------AC-CU---G-CUUA
+CJSA_0635    UUUAGC----AGGAUUU----U--------------UC-CU---G-CUAA
+CJSA_1273    CUUAGA----UGCUUUU----A--------------UG-CA---U-CUAA
+CJSA_0070    UUAGAAU-AAGAU-UUU----U---------------A-UCUUGU-UCUA
+CJSA_0895    -----GC-CUCGA-AAU----A---------------U-CGAGGC-----
+CJSA_1246    GCAAUGA-AAGA--CUA----A-----------------UCUUUC-CUUG
+CJSA_0014    AGAAUGA-AAGG--AAA----------------------CCUUUC-AUUC
+CJSA_1538    AAUUUG----GAAGCAUA--GU--------------CU-UC---C-AAAU
+CJSA_1314    ---AGC----ACUCUUU---AU--------------GA-GU---G-CU--
+CJSA_0735    AUUAAG----CCC-AUUC-UUA---------------G-GG---C-UUAA
+CJSA_0929    -----GC-GAAUUUGAA----A--------------AA-AUUCGU-----
+CJSA_0162    AGUAAG----UGC-UAG----A---------------G-CA---C-UUAC
+CJSA_0378    ---GUGA-GAAAGUUUA-------------------AU-UUUCCC-AC--
+CJSA_0045    ---AAAC-UUUCAAUCC---UU--------------UU-GAAAGU-UU--
+CJSA_0337    UUAGAGA-AUAGA-ACA----A---------------A-CUAUUC-UCUA
+CJSA_1416    CUCUUGA-AAAAA-AUAC--AA---------------U-UUUUUC-AAGA
+CJSA_1470    AAGAUGC-CUUAU-GCU----U---------------U-UAAGGC-AUCU
+CJSA_1402    ---GGU----GGGAUUU-------------------UC-CC---A-CC--
+CJSA_0084    UUAGAGU-UUGAU-UUU----U---------------C-UCAAAC-UCUA
+CJSA_0663    UUAAUG----GCGUUUA---AC--------------AC-GC---C-AUUA
+CJSA_0143    AGAAUGG-UAAAAAAAA-----------------------UUAUU-AUUC
+CJSA_0972    ---GCG----GAGCUUU----U--------------GC-UC---U-GC--
+CJSA_0157    UAAAGCU-UU---AUCA---AA--------------UU-CCAAGG-CUUU
+CJSA_0910    CUUUGAA-GAAUUAUUU-------------------UA-AUUCUU-CAAA
+CJSA_0241    -----GA-AAGCC-GCA----A---------------G-GCUUUC-----
+CJSA_0106    CCAGGUC-AAGGCUCUC---AA--------------AG-UCUUGG-CAUG
+CJSA_1501    ---AGUA-AAAAUUUUA---AU--------------AA-UUUUUG-CU--
+CJSA_0043    AAAAGAU-AAUUC-UUA----G---------------G-AAUUAU-CUUU
+CJSA_0569    ---GUGG-AAUUU-CCU----A---------------A-AAUUCC-AC--
+CJSA_0182    UUAAAUG-AUUUC-UUU----G---------------G-AGAUCA-UUUA
+CJSA_0715    UUCAAG----CCUUUUU---AA--------------AA-GG---C-UUGA
+CJSA_0173    GAAGAAU-AAGCCUCUU----U--------------AG-GCUUAUUUCUU
+CJSA_1378    AUUUUAG-CCCUUUUAA----A--------------AA-AGGGUA-AAAA
+CJSA_0431    AAAAUAU-UUGUGAAAA----U--------------UC-ACAAAU-AUUU
+CJSA_1508    ---AAUC-CUAGC-UUU----U---------------G-CUAGGA-UU--
+CJSA_0857    GAGAAUU-UAGAA-AAA--------------------U-UCUAAG-UUCU
+CJSA_0882    -----G----GCUAAAUU--UU--------------UA-GC---U-----
+CJSA_0025    UUAAAAC-CCAAUAUUU---UU--------------CA-UUGGGU-UUUA
+CJSA_0887    AUAAAG----AG--CAA----------------------CC---C-UUUA
+CJSA_0994    CUAAACU-UUGUAAAUU-------------------UU-AUAAGG-UUUA
+CJSA_1280    AUGAUA----GUU-CUA----U---------------A-GC---U-AUCA
+CJSA_0435    AAUUUG----GCAAUUU---UU--------------UU-GC---C-AAAU
+CJSA_0186    ---AUU----AUUUUAU----U--------------AA-AU---A-AU--
+CJSA_1632    -----GC-UCCCU-UUA--------------------A-GGGAGC-----
+CJSA_0728    -----CU-UUUUUCUUA----A--------------GU-ACAAAG-----
+CJSA_0400    AAAAGC----UCCAUUU-------------------UG-GA---G-CUUU
+CJSA_0210    ---GCUC-UAGAUGGCU---AA--------------GA-UUUAGA-GC--
+CJSA_1093    AAAAGGC-UUUCCUUUU----U--------------AA-GAAAGC-CUUU
+CJSA_0920    -----C----CCAAUUU----U--------------UU-GG---G-----
+CJSA_1228    UUAAAAU-UUCCCUAUUA--UA--------------AG-GGAAAU-UUUA
+CJSA_0397    GUAAGUCAAUAGAAUUA----A--------------UU-UCAUGA-CUUA
+CJSA_0832    ---AGGG-AAAUCUUGU----A--------------AG-AUUUUU-CU--
+#=GC SS_cons <<<<<<<.<<<<<<___...._..............>>.>>>>>>.>>>>
+#=GC RF      AaAAagc.aAgcuuUUa....a..............aa.gcUugc.uUUu
+
+CJSA_0047    AU-UAAUAA--------------------AAUCCUAAA--AUUUUCCACC
+CJSA_0445    UG-UUUUAAAA----------------UAAACAUUUGAAAAAAUU-UUUG
+CJSA_0363    UUA---------------------------------GUUAAGCUU-GAAG
+CJSA_0596    CACUC-------------------------------CAUCACA--AGUCG
+CJSA_0270    AAAAA-------------------------------AAUGAUUUU-UAUA
+CJSA_1568    GU-UUU--------------------------UUUAAAUAAUUAUUUCUU
+CJSA_0158    AAA------------------------------GCUAUUCGUAUUCUACA
+CJSA_0822    AAAUUU--------------------------AUUAUUUCAUAUU-ACUU
+CJSA_0479    AAAUAUAAUC-------------------UCGCUUUCAUUAAAUU-UCAU
+CJSA_0190    UAA--A---------------------------AAUCA--UUCUU-UACU
+CJSA_0213    UU-UUCAAGUUU--------------CAAAACUUUUCA--AGUUU-UAUU
+CJSA_0653    UU-UU----------------------------UAGCAAGGUUGUAUAUU
+CJSA_0364    UUA-------------------------------------GUUGU-UAUU
+CJSA_1122    UA-UCU---------------------------UUUCUUCAAUUU-UAUC
+CJSA_0412    -U-UA-----------------------------UGCA--AUUUUACUUG
+CJSA_0848    UU-UAAUCC--------------------CAACAUUCAGCGUUUUUAAUU
+CJSA_0845    AAAUUAAAAUAAAGCU------UGAGGAUUUUCUUUUUUAGUUUUUUCCU
+CJSA_0449    -U-UA-------------------------------AUACAGUGU-AUCU
+CJSA_0086    ACUUU-----------------------------------AAAUU-UAUA
+CJSA_0620    UA-UU-----------------------------------AACAUAGAUA
+CJSA_1533    CUAUA-----------------------------------CUUUUAUCUU
+CJSA_0034    GCA--C--------------------------UAUGGA--AUUUU-UUCG
+CJSA_0033    AA--------------------------------------AUUUUAUCAU
+CJSA_0060    UU-UU-----------------------------------CCUUU-UUUU
+CJSA_1227    AU-GUC---------------------------UUGCAAGAUAAU-UUGU
+CJSA_0063    UC-UU----------------------------UUUCU--AUUGU-UUUU
+CJSA_1014    UUAUA-----------------------------------CAUUUAUCCU
+CJSA_0814    -UA-------------------------------------AACUU-UUUC
+CJSA_1596    UUAUUU--------------------------AUUACA--AACCU-ACCG
+CJSA_0137    UU-UU-----------------------------------UAUUUAGCUU
+CJSA_0926    AA--------------------------------------UGUUU-UCAU
+CJSA_0478    UGAUU-------------------------------AA--GCUUU-UUUG
+CJSA_0004    UAA-------------------------------------AUUUU-UACA
+CJSA_0066    UC-UU-----------------------------------AAUUUUUAAU
+CJSA_0811    UA-UUUUUAAAA---------------GCGUGAUUUCAUCACCUUUUUUU
+CJSA_0411    AAA--G--------------------------AUUUAAUUCCAUU-CUUA
+CJSA_1215    UU-UUG--------------------------UUUUUUUUUGUUU-GUUG
+CJSA_0223    CU-UAUACUAA-----------------AAAAUCAAAGU-GCUUUUUUUG
+CJSA_0079    -UA-------------------------------------AAAUU-UUUU
+CJSA_0839    -U-UUUG-------------------------CUUGCU--GUUGU-UUUU
+CJSA_0408    UA-UU-----------------------------------AACUUUUUGU
+CJSA_1180    UAA-------------------------------------AAUUUCUAAU
+CJSA_1113    UAA-------------------------------------UAGUU-UAGU
+CJSA_0332    UU-UA-----------------------------------AAUUU-CUUU
+CJSA_0844    AAA---------------------------------CU--AUUUU-GUCA
+CJSA_1038    UUAUAAA------------------------GAAUUAAUAAAGUUAUAUU
+CJSA_0365    UG-UC----------------------------CUUAU--AAAUU-UUUU
+CJSA_0036    UCAUUCUCCUG----------------GGAAGUG--AUUUGGAUUUUUCC
+CJSA_1536    AU-UU----------------------------UUUCA--UUCUUUGACU
+CJSA_1477    UAA--G--------------------------GUUAAAACCUCUUCUUCU
+CJSA_1576    -UC---------------------------------CAUCUUUUU-UCAU
+CJSA_0379    CAA------------------------------AAAAUAAGAUUU-UCUU
+CJSA_0420    -U-UU-------------------------------UA--AAAUU-UCCA
+CJSA_1431    -UA------------------------------GUUUUAAGCUUU-UUUG
+CJSA_0719    UUAUGC--------------------------GU-AUU--AAUUUUUCCU
+CJSA_0225    GUA--G--------------------------UGAUGAAAAGUUUAAUCU
+CJSA_0069    UA-GA-----------------------------------AAUUU-UACU
+CJSA_0392    -U-UU-------------------------------GUAAAUUUU-UAUC
+CJSA_0418    AAAUA-----------------------------AUCUUUAAUUU-UCCC
+CJSA_0237    CAAUGU--------------------------UUUAAUUGAAAUU-UCAA
+CJSA_0236    UUA-------------------------------------AGCUU-UAUU
+CJSA_0812    GC-UU-----------------------------------AAUUUAUCCU
+CJSA_1390    UAAUAUC-------------------------AAAUGAAAAAUUU-UAUC
+CJSA_1445    UG-UAU--------------------------UUUAAGUUCUAUU-UUUG
+CJSA_1496    -UA--G--------------------------UUUUUAGUAUUUUCAUAG
+CJSA_0017    AUAUU-------------------------------UA--AUCUUAUCUU
+CJSA_0754    UU-UAGGAAG-------------------AAAAAUGCU--CUCUUUUAAA
+CJSA_0891    UU-UA-------------------------------GUUAAAUCU-GUAA
+CJSA_0161    -UC--UCCU--------------------AAGCUUGGAGUCAUUU-CGAU
+CJSA_0684    UA-UCAAAAU-------------------GACUUUAGAGCAAAUU-UUAG
+CJSA_0662    AA--------------------------------------UUUUU-UAGC
+CJSA_0718    UU-UAGGC-----------------------AAAUUAA--AACCU-UAUA
+CJSA_1315    -U-UA-----------------------------------AGAAU-UAUU
+CJSA_1142    -U-UU-----------------------------UGGUGCACUUU-UCUU
+CJSA_0682    AGAUU----------------------------UUUAAAUAAAAU-GCUU
+CJSA_1570    -U-UG-------------------------------AAUAUUUUUAUUUU
+CJSA_0856    -G-UAUCGUU-------------------UAGCAUAGUUAAAAUUCUUUU
+CJSA_0862    CA-UCC--------------------------CUUGGUGGGACUU-U-CU
+CJSA_1464    UU-UA-------------------------------AAAGCUCUU-UUAU
+CJSA_1337    UUA--A---------------------------ACCCU--ACCUU-UUUU
+CJSA_0717    UU-UAUAG-----------------------UUUUUAAUGAAAUU-UGCU
+CJSA_0497    AACUUA---------------------------CUCUUGCAUUUU-UUUU
+CJSA_0012    UAAUU-----------------------------------AUUUUUUAAU
+CJSA_1242    UC-UUUUAUC-------------------ACCAAUUCA--AAUUUGUCAC
+CJSA_1159    UUA---------------------------------CC--AAUUUAAUUU
+CJSA_1094    UU-UA-------------------------------GA--AA-UUAUUUU
+CJSA_0876    GAAUCUAAAA-------------------UGCAUUACAUCGCC--AUCUA
+CJSA_0265    -UCUUG--------------------------CAUAACUUCUUUU-AAUU
+CJSA_0977    UU-UUUC------------------------UCUCUCAUAAAUUUUUCUU
+CJSA_1187    -U-UU-------------------------------CUAGCUCUUAUUUU
+CJSA_0892    UA-UUU---------------------------GUUUUGUAUAUU-U-UC
+CJSA_0505    UAA------------------------------CUUCUAAAAUUU-UACA
+CJSA_0401    UGAUU-----------------------------------AAAUUGCGUU
+CJSA_0138    UUCUUAAA-----------------------AAUUUCA--AAUUUAUACU
+CJSA_0527    UU-UU-----------------------------------AAAUUUUAUC
+CJSA_1292    -U-UU-------------------------------CUUUUCUUUGUUUU
+CJSA_0447    UU-UU-----------------------------UUUA--UUUUU-ACCU
+CJSA_0565    AU-UUUG-------------------------UUUUAAAAAUUUU-UAUC
+CJSA_0296    UAA-------------------------------------UGGUU-UAUG
+CJSA_1320    AAAUU-----------------------------UUUAAAAAUUU-UGCU
+CJSA_1193    UU-UAG--------------------------AUUUUAGAAUAAU-UAUA
+CJSA_0909    AAG-------------------------------------AGCUU-UUUU
+CJSA_0849    UAAUG----------------------------AUUUAAAACCUU-GUUU
+CJSA_0528    UAA-------------------------------------AAAUUCUUUU
+CJSA_1562    UUA--G--------------------------CUUAAAGAGAUUU-UCCA
+CJSA_0120    AAA---------------------------------CA--AUAUC-CCAC
+CJSA_0670    CU-UUAU------------------------UCUUUUACUUUCUU-UUUU
+CJSA_0544    AG-UUCAUA--------------------AAGUUUUAAACACUGU-UCUC
+CJSA_0890    UU-UG-----------------------------------GUUUUGAGUU
+CJSA_0821    AAAUUAU------------------------UUUUUGAUCAUAUUUGUAU
+CJSA_1198    UU-UUU--------------------------UAUGCCUGAUUUU-UAAA
+CJSA_0037    UCCUC-----------------------------------AUCUUUGGCU
+CJSA_0650    GAAUGGCCAU-------------------AUCGCUUCUAUAACUU-UACU
+CJSA_1450    -AAUUAUACAAA---------------CUAGGUUAUAAUAUCCUU-UUUU
+CJSA_0595    CU---G--------------------------CUUUCAAAUGCUU-UGAU
+CJSA_1298    -UA--A--------------------------AUUAAAUUCUUAUCUUUU
+CJSA_0306    -UA-------------------------------------AACUU-AAUC
+CJSA_0343    -U-UU-----------------------------------AUAUC-UACA
+CJSA_1166    UAA-------------------------------------AUUUUAGUUU
+CJSA_1163    AGA--C--------------------------UUAUUAAUUUUUUAUAUU
+CJSA_0561    -G-UUG--------------------------CUUUAUACAAGUU-UGCU
+CJSA_1453    UUG---------------------------------CAUGAAAAU-UCAU
+CJSA_0518    UU-UA-----------------------------------AAUUUAUAUA
+CJSA_0698    UA---G--------------------------CUUAAA--AAGUUAAAAU
+CJSA_0433    UU-UU-----------------------------------AC------CU
+CJSA_0019    AA-UUU--------------------------CAAUAAAAAUUUUAUUUU
+CJSA_1297    UG-UU-------------------------------CUAGGCUUU-UGGG
+CJSA_1393    -C-UACAACGAUUAA--------AAAUAAAGUUUUUAUAAACUUU-CCAU
+CJSA_0098    CAA-------------------------------------GGA--GAAGU
+CJSA_1262    AACUA-----------------------------UGAAAAAAACUCUUAU
+CJSA_1471    AU-UAAUUUA------------------UACAUGUUAU--AUUUU-UUGG
+CJSA_0651    AG---G--------------------------CUUUUAUUCUUUU-ACAG
+CJSA_1008    AA-UAAAAAUAAA------------CUGAUUCUUUUUUGUAUUUU-UACU
+CJSA_1127    AAAUA----------------------------UUAUAUAAUCUU-UCUU
+CJSA_0763    AAA-------------------------------------AUAUU-UUUC
+CJSA_1015    -U-UA-------------------------------AA--AGAUUAUAGU
+CJSA_1051    UGA---------------------------------CAUCGC-UU-UAGC
+CJSA_1160    UAA--GA------------------------GGUUAGAGCAG---AUAUU
+CJSA_0697    UUCUA-------------------------------AUUCAUAUU-UUUU
+CJSA_1428    UAA-------------------------------------AUUUU-UUCU
+CJSA_0024    AA-GAGAUU--------------------AAGAAUUGU--AAAUU-UCUU
+CJSA_1629    GA-UUAA-------------------------AAUUUAUAAUUAUAUCCU
+CJSA_1597    UUAUU-------------------------------CUAGGUUUUUGCUU
+CJSA_0430    UU-UA-----------------------------UAAAACCACUUCCAAU
+CJSA_1148    -UAUU-----------------------------------UAUUU-UUCU
+CJSA_0232    AU-UUUUUAA------------------CGAAUUUUUUUGCUUUU-UCCC
+CJSA_1463    UCAUA-----------------------------------AGCUU-UAUC
+CJSA_1073    UGCUU-----------------------------------GUUUUUUCAG
+CJSA_1316    -G--------------------------------------UCUUU-UCUU
+CJSA_0174    UCAUC-----------------------------UUUAUUUGUUU-UUUU
+CJSA_1109    -UA-------------------------------------AAAAU-GAUU
+CJSA_0417    GGAUU-----------------------------UUAAU-GAUCU-GACU
+CJSA_0864    UAA--A--------------------------UUUACAGCAGUUU-UUAA
+CJSA_0029    GU----------------------------------CAAGCCUUU-CAAU
+CJSA_0785    UGA---------------------------------C---AAAUU-GAUC
+CJSA_0947    AAC---------------------------------CUGCAUUAUAUCUU
+CJSA_1476    UC-UA-----------------------------------AAUUU-ACUU
+CJSA_0673    AUA--A--------------------------AAUUUUUAAUUUU-UAAG
+CJSA_0589    -U--------------------------------------UAGUU-UAUG
+CJSA_0338    AUA--A---------------------------AUUAAAAAUCUUUGUCU
+CJSA_0135    AU-UUUUCCU-------------------UCAAUUUAA--AUUUU-UCAU
+CJSA_1408    UC-UU-------------------------------CUUUGUUUU-AUUG
+CJSA_0654    UU-UAA--------------------------AAUUUA--AUUUU-UACC
+CJSA_1343    -UA-------------------------------------ACUUUUUUGU
+CJSA_0141    GG-UU-----------------------------------AAAUU-UCUU
+CJSA_1526    -UAUAUAAUCG----------------CUUCUUUUACAGCACUUU-GCUU
+CJSA_1204    UC-UU-----------------------------UGCAAACAACU-UGAA
+CJSA_0051    UA-UU-----------------------------------AUUUU-UACC
+CJSA_0464    -U-UC-------------------------------UGUCCUCGU-AGCU
+CJSA_1319    -AA---------------------------------CUAAAGAUUAUAAU
+CJSA_0898    AAA-------------------------------------AUAUU-UCCG
+CJSA_0863    UCAUU----------------------------UUUAUGCUACUU-AAAG
+CJSA_0388    UUAUAA--------------------------AUUUUU--AAUUU-UCUU
+CJSA_0875    -A-UA----------------------------UUUAUAAAUUUU-GAAU
+CJSA_1531    CUA-------------------------------------ACUCU-U-UU
+CJSA_0011    UUA--GAA----------------------AAAUUUGAAAACUUUAUUUG
+CJSA_0858    -U-UC----------------------------UUUCU--UAAUU-AAUU
+CJSA_0136    AUA---------------------------------AA--AUCUU-AAUG
+CJSA_0044    UCAUA-----------------------------UUAAUGGCUUU-UUGU
+CJSA_1456    AAA---------------------------------UAUCAUUUUUUACU
+CJSA_0635    AU-UCUU------------------------CAUUUGU--CUUUU-UAUU
+CJSA_1273    GC-UUUUAA--------------------AGUGCUUUUUUCUUUUCUAAG
+CJSA_0070    UUUUU-----------------------------------AUAUU-UAUU
+CJSA_0895    -AAUC-----------------------------UUCUUAAAUUU-GACA
+CJSA_1246    CAA------------------------------GUUCAAGCUGUUCUUUU
+CJSA_0014    CA-UAUCUAAAAC-------------CGCACCUU--UACUAGCAU-UGCU
+CJSA_1538    UU-UU-----------------------------------AUUUU-U-UG
+CJSA_1314    -U---GC-------------------------ACCAAUGCAA---CUUUC
+CJSA_0735    UU-UUU--------------------------AUAUCUUCAUUUUUUUAU
+CJSA_0929    -CAUC-----------------------------------AAAUU-CAUG
+CJSA_0162    UU-UU-----------------------------------GUCCUAUAUA
+CJSA_0378    -A--------------------------------------AGUUU-UAUC
+CJSA_0045    -AA-------------------------------------AUCAU-GAAC
+CJSA_0337    AAA-------------------------------------GACAU-AUCU
+CJSA_1416    GC-UG-----------------------------------AUGUUCAAGG
+CJSA_1470    UU-UAUUUCUUUUAAAU----ACUUAUUUUGAAGUUUUAAAUUUUCUUCU
+CJSA_1402    -U-UU----------------------------CUACA--AUUUU-UUAU
+CJSA_0084    AA--------------------------------------CUCUU-UCUU
+CJSA_0663    AAC--AAAAAAGA-------------AUUAAAAAUUAUUUAUUUUAUAUC
+CJSA_0143    UUA-------------------------------------CUCUUUGGGU
+CJSA_0972    -UC--UGCUUUUGUGAAUUAUGCGAGCUAGAGCUUUCUGAAUUUU-CCUU
+CJSA_0157    AC-UU-----------------------------UGAA--AUUUUUUAUU
+CJSA_0910    GC-UUG---------------------------CUUGUUUGCCUU-GCAU
+CJSA_0241    -UAUUGU------------------------CCAAGCA--AAUUUAAACU
+CJSA_0106    GGA---------------------------------AAAGAUUUU-UAUG
+CJSA_1501    -AA--A--------------------------AUUAUAGCCUUUU-UAUU
+CJSA_0043    UUCUA-----------------------------------AUUUU-UCAA
+CJSA_0569    -C-UU-----------------------------------GAUGUAUAUA
+CJSA_0182    AAA---------------------------------CAAAGGUUU-U-UU
+CJSA_0715    AAAUU----------------------------UUUUAAAAUUUU-AAAG
+CJSA_0173    UU-UGUAAAU-------------------UUGGUUUUU--AAUUUCUAUA
+CJSA_1378    UU-UA-------------------------------CUCGCUUUU-UCUU
+CJSA_0431    UAA-------------------------------------AUUUU-AAAC
+CJSA_1508    -AAUA----------------------------CUUCAAUUAAAUAUCCU
+CJSA_0857    CU-UA-----------------------------------AAAUU-UCUU
+CJSA_0882    -AAUU-------------------------------CUUUAACUU-UUUU
+CJSA_0025    GUAUUUAUUG------------------GCAACCUUCA---CAUUCUAUG
+CJSA_0887    UCA-------------------------------------AUCUU-U-CU
+CJSA_0994    GC-UA-----------------------------UGAAAAACAUUAUGAU
+CJSA_1280    UU-GA----------------------------UAAAAACACCUUAGAAU
+CJSA_0435    CU-UU-----------------------------UUUU--ACCUU-UUCU
+CJSA_0186    -U-UU-----------------------------------AUUUU-AAAU
+CJSA_1632    -AA-------------------------------------GCCUU-GCUU
+CJSA_0728    -GA--G--------------------------UUUUUAUGAAUUU-AUUU
+CJSA_0400    UA-UAUUU-----------------------ACUUGCAAGAAUUUAUAAU
+CJSA_0210    -U-UUG---------------------------CUUAUAGAUAUUUUUCU
+CJSA_1093    UU-UUAUCCAA----------------AGCUUCUUUUUUACGCCU-UUCU
+CJSA_0920    -CA-------------------------------------AUCCU-UAUG
+CJSA_1228    AUU---------------------------------GUAAUUUUUAUCUU
+CJSA_0397    CUA---------------------------------AU--AUUUUAUACU
+CJSA_0832    -U-GU-----------------------------------GUUUU-UGAU
+#=GC SS_cons >::::.............................:::::::::::.::::
+#=GC RF      UuAUu.............................UUaAuaAuUUU.UauU
+
+CJSA_0047    AAA
+CJSA_0445    AUU
+CJSA_0363    AUC
+CJSA_0596    CAU
+CJSA_0270    UCU
+CJSA_1568    UAG
+CJSA_0158    AAA
+CJSA_0822    AAU
+CJSA_0479    AUU
+CJSA_0190    AAA
+CJSA_0213    UAG
+CJSA_0653    CAC
+CJSA_0364    AAU
+CJSA_1122    AAA
+CJSA_0412    CAU
+CJSA_0848    CCA
+CJSA_0845    UAG
+CJSA_0449    AAA
+CJSA_0086    AAU
+CJSA_0620    AAU
+CJSA_1533    CAA
+CJSA_0034    UGC
+CJSA_0033    CAG
+CJSA_0060    AGU
+CJSA_1227    AUC
+CJSA_0063    AAG
+CJSA_1014    CAA
+CJSA_0814    AAG
+CJSA_1596    CAC
+CJSA_0137    CCU
+CJSA_0926    AAU
+CJSA_0478    AUG
+CJSA_0004    CAU
+CJSA_0066    AUU
+CJSA_0811    AAU
+CJSA_0411    AAG
+CJSA_1215    AUA
+CJSA_0223    CAG
+CJSA_0079    CAU
+CJSA_0839    ACA
+CJSA_0408    UAU
+CJSA_1180    AAC
+CJSA_1113    AAA
+CJSA_0332    AUC
+CJSA_0844    AAG
+CJSA_1038    AAU
+CJSA_0365    AAG
+CJSA_0036    AAG
+CJSA_1536    UAA
+CJSA_1477    UAA
+CJSA_1576    CAA
+CJSA_0379    AUA
+CJSA_0420    AUU
+CJSA_1431    AAA
+CJSA_0719    AAA
+CJSA_0225    UAC
+CJSA_0069    UUG
+CJSA_0392    CAA
+CJSA_0418    CAC
+CJSA_0237    AAU
+CJSA_0236    UAC
+CJSA_0812    CAU
+CJSA_1390    CAU
+CJSA_1445    UAG
+CJSA_1496    CAU
+CJSA_0017    UAA
+CJSA_0754    CAA
+CJSA_0891    AAU
+CJSA_0161    AAU
+CJSA_0684    AAA
+CJSA_0662    AAG
+CJSA_0718    AAA
+CJSA_1315    AAG
+CJSA_1142    CUU
+CJSA_0682    CCG
+CJSA_1570    UAU
+CJSA_0856    AUC
+CJSA_0862    AGU
+CJSA_1464    AUU
+CJSA_1337    AAG
+CJSA_0717    AUU
+CJSA_0497    UAU
+CJSA_0012    AAA
+CJSA_1242    CCA
+CJSA_1159    AAA
+CJSA_1094    AAA
+CJSA_0876    AAA
+CJSA_0265    AAG
+CJSA_0977    AAU
+CJSA_1187    UAA
+CJSA_0892    AAG
+CJSA_0505    CAU
+CJSA_0401    CAA
+CJSA_0138    AAA
+CJSA_0527    AAA
+CJSA_1292    AAA
+CJSA_0447    AAU
+CJSA_0565    AAA
+CJSA_0296    AAA
+CJSA_1320    ACG
+CJSA_1193    AAA
+CJSA_0909    AAC
+CJSA_0849    AAA
+CJSA_0528    AAG
+CJSA_1562    AAC
+CJSA_0120    AAA
+CJSA_0670    AAA
+CJSA_0544    UAC
+CJSA_0890    UAA
+CJSA_0821    AAG
+CJSA_1198    ACU
+CJSA_0037    AAA
+CJSA_0650    ACC
+CJSA_1450    AAA
+CJSA_0595    AAU
+CJSA_1298    AAA
+CJSA_0306    UUG
+CJSA_0343    AAC
+CJSA_1166    AAA
+CJSA_1163    AAA
+CJSA_0561    AAG
+CJSA_1453    AAA
+CJSA_0518    AAA
+CJSA_0698    UUC
+CJSA_0433    AAA
+CJSA_0019    UAA
+CJSA_1297    CCU
+CJSA_1393    UAG
+CJSA_0098    AAA
+CJSA_1262    CAU
+CJSA_1471    AAA
+CJSA_0651    CCC
+CJSA_1008    AAG
+CJSA_1127    UUA
+CJSA_0763    AAU
+CJSA_1015    CCU
+CJSA_1051    AAC
+CJSA_1160    ACA
+CJSA_0697    AAU
+CJSA_1428    AUA
+CJSA_0024    UAU
+CJSA_1629    AAA
+CJSA_1597    UAA
+CJSA_0430    AAA
+CJSA_1148    CUG
+CJSA_0232    AAA
+CJSA_1463    GAU
+CJSA_1073    UAU
+CJSA_1316    AAA
+CJSA_0174    AAC
+CJSA_1109    AAU
+CJSA_0417    CAU
+CJSA_0864    CAU
+CJSA_0029    CCU
+CJSA_0785    AAA
+CJSA_0947    UAA
+CJSA_1476    AUU
+CJSA_0673    GAG
+CJSA_0589    AAC
+CJSA_0338    AAA
+CJSA_0135    CAA
+CJSA_1408    CCU
+CJSA_0654    GAU
+CJSA_1343    UAA
+CJSA_0141    UUA
+CJSA_1526    AGG
+CJSA_1204    AAA
+CJSA_0051    CAU
+CJSA_0464    CAG
+CJSA_1319    AAU
+CJSA_0898    AAA
+CJSA_0863    AAA
+CJSA_0388    CCG
+CJSA_0875    AAA
+CJSA_1531    AAG
+CJSA_0011    ACA
+CJSA_0858    CAG
+CJSA_0136    CAA
+CJSA_0044    AUC
+CJSA_1456    UAU
+CJSA_0635    UAA
+CJSA_1273    AAG
+CJSA_0070    UAA
+CJSA_0895    AAA
+CJSA_1246    AAA
+CJSA_0014    AAC
+CJSA_1538    AUU
+CJSA_1314    ACA
+CJSA_0735    UAU
+CJSA_0929    AAA
+CJSA_0162    AAU
+CJSA_0378    AUU
+CJSA_0045    AAG
+CJSA_0337    AAA
+CJSA_1416    AAA
+CJSA_1470    AAA
+CJSA_1402    AAA
+CJSA_0084    AAA
+CJSA_0663    AAC
+CJSA_0143    UAA
+CJSA_0972    AAA
+CJSA_0157    AAA
+CJSA_0910    AAG
+CJSA_0241    UAA
+CJSA_0106    AAA
+CJSA_1501    UCA
+CJSA_0043    AAA
+CJSA_0569    AAG
+CJSA_0182    AAU
+CJSA_0715    AAA
+CJSA_0173    CAC
+CJSA_1378    AUG
+CJSA_0431    AAA
+CJSA_1508    AAA
+CJSA_0857    GUG
+CJSA_0882    CAG
+CJSA_0025    CUA
+CJSA_0887    AUG
+CJSA_0994    AUU
+CJSA_1280    GUA
+CJSA_0435    AAA
+CJSA_0186    UAG
+CJSA_1632    UAC
+CJSA_0728    AAA
+CJSA_0400    UUC
+CJSA_0210    UAU
+CJSA_1093    AAU
+CJSA_0920    AUA
+CJSA_1228    AAA
+CJSA_0397    CAA
+CJSA_0832    AUA
+#=GC SS_cons :::
+#=GC RF      AAa
+//

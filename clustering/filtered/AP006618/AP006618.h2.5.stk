@@ -1,0 +1,1802 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS NFA_55140 WT 0.64
+#=GS NFA_39650 WT 1.12
+#=GS NFA_35080 WT 0.95
+#=GS NFA_18770 WT 1.13
+#=GS NFA_31140 WT 0.90
+#=GS NFA_36660 WT 0.48
+#=GS NFA_44940 WT 1.00
+#=GS NFA_36670 WT 0.48
+#=GS NFA_28650 WT 1.45
+#=GS NFA_6040  WT 1.07
+#=GS NFA_23090 WT 0.73
+#=GS NFA_31150 WT 1.15
+#=GS NFA_7770  WT 0.97
+#=GS NFA_49780 WT 1.23
+#=GS NFA_45310 WT 1.08
+#=GS NFA_56250 WT 1.12
+#=GS NFA_26020 WT 1.07
+#=GS NFA_5160  WT 1.20
+#=GS NFA_6030  WT 1.02
+#=GS NFA_39140 WT 0.94
+#=GS NFA_50980 WT 0.94
+#=GS NFA_12570 WT 0.88
+#=GS NFA_9650  WT 0.98
+#=GS NFA_20440 WT 0.90
+#=GS NFA_19050 WT 0.78
+#=GS NFA_53220 WT 1.09
+#=GS NFA_28870 WT 0.95
+#=GS NFA_41470 WT 1.14
+#=GS NFA_30340 WT 1.72
+#=GS NFA_8970  WT 0.75
+#=GS NFA_16170 WT 1.14
+#=GS NFA_55750 WT 1.17
+#=GS NFA_7930  WT 1.11
+#=GS NFA_9660  WT 0.94
+#=GS NFA_24680 WT 1.29
+#=GS NFA_39240 WT 1.14
+#=GS NFA_54060 WT 0.88
+#=GS NFA_48060 WT 1.28
+#=GS NFA_51140 WT 0.90
+#=GS NFA_18120 WT 0.92
+#=GS NFA_38520 WT 0.81
+#=GS NFA_3840  WT 0.90
+#=GS NFA_55130 WT 0.64
+#=GS NFA_35620 WT 1.16
+#=GS NFA_49860 WT 1.03
+#=GS NFA_1920  WT 1.04
+#=GS NFA_7020  WT 0.91
+#=GS NFA_26080 WT 1.45
+#=GS NFA_51190 WT 0.91
+#=GS NFA_15900 WT 0.87
+#=GS NFA_38980 WT 0.93
+#=GS NFA_23100 WT 0.73
+#=GS NFA_1960  WT 1.07
+#=GS NFA_6370  WT 0.73
+#=GS NFA_640   WT 0.73
+#=GS NFA_12600 WT 0.88
+#=GS NFA_54190 WT 0.81
+#=GS NFA_33600 WT 0.93
+#=GS NFA_50320 WT 1.07
+#=GS NFA_54790 WT 0.99
+#=GS NFA_13340 WT 1.11
+#=GS NFA_2860  WT 0.84
+#=GS NFA_33610 WT 0.93
+#=GS NFA_17090 WT 0.92
+#=GS NFA_18970 WT 1.03
+#=GS NFA_54170 WT 0.91
+#=GS NFA_3450  WT 0.87
+#=GS NFA_7210  WT 1.07
+#=GS NFA_31710 WT 1.11
+#=GS NFA_21490 WT 0.88
+#=GS NFA_20970 WT 1.02
+#=GS NFA_9690  WT 1.56
+#=GS NFA_38670 WT 0.49
+#=GS NFA_16860 WT 1.05
+#=GS NFA_5290  WT 0.79
+#=GS NFA_4250  WT 0.95
+#=GS NFA_37360 WT 0.87
+#=GS NFA_7620  WT 0.69
+#=GS NFA_48310 WT 1.10
+#=GS NFA_38990 WT 0.93
+#=GS NFA_1010  WT 1.06
+#=GS NFA_22420 WT 0.92
+#=GS NFA_45520 WT 1.05
+#=GS NFA_48120 WT 0.93
+#=GS NFA_52750 WT 0.97
+#=GS NFA_6240  WT 0.92
+#=GS NFA_49580 WT 0.94
+#=GS NFA_10150 WT 1.08
+#=GS NFA_7610  WT 0.69
+#=GS NFA_43350 WT 0.83
+#=GS NFA_6070  WT 0.79
+#=GS NFA_17210 WT 1.09
+#=GS NFA_51130 WT 0.90
+#=GS NFA_45700 WT 0.87
+#=GS NFA_15560 WT 1.11
+#=GS NFA_29110 WT 0.84
+#=GS NFA_45340 WT 0.87
+#=GS NFA_42350 WT 1.15
+#=GS NFA_42780 WT 1.01
+#=GS NFA_54180 WT 1.19
+#=GS NFA_38680 WT 0.49
+#=GS NFA_52280 WT 1.01
+#=GS NFA_1270  WT 1.04
+#=GS NFA_22470 WT 1.13
+#=GS NFA_50890 WT 1.04
+#=GS NFA_2800  WT 1.02
+#=GS NFA_45800 WT 1.17
+#=GS NFA_29960 WT 0.89
+#=GS NFA_10    WT 0.84
+#=GS NFA_12690 WT 1.07
+#=GS NFA_42300 WT 0.87
+#=GS NFA_49840 WT 0.83
+#=GS NFA_56240 WT 1.22
+#=GS NFA_16720 WT 1.18
+#=GS NFA_48350 WT 0.84
+#=GS NFA_54200 WT 0.87
+#=GS NFA_48270 WT 0.85
+#=GS NFA_6250  WT 1.10
+#=GS NFA_43060 WT 0.84
+#=GS NFA_45830 WT 0.88
+#=GS NFA_45020 WT 0.66
+#=GS NFA_49830 WT 0.83
+#=GS NFA_53520 WT 0.99
+#=GS NFA_38250 WT 0.90
+#=GS NFA_12210 WT 0.99
+#=GS NFA_8980  WT 0.75
+#=GS NFA_5930  WT 0.88
+#=GS NFA_15910 WT 0.81
+#=GS NFA_21770 WT 1.32
+#=GS NFA_54720 WT 1.05
+#=GS NFA_56390 WT 0.81
+#=GS NFA_10660 WT 1.23
+#=GS NFA_12280 WT 0.89
+#=GS NFA_45880 WT 0.92
+#=GS NFA_24970 WT 0.90
+#=GS NFA_22940 WT 1.10
+#=GS NFA_34430 WT 0.87
+#=GS NFA_37860 WT 0.97
+#=GS NFA_50750 WT 0.92
+#=GS NFA_3850  WT 0.90
+#=GS NFA_1790  WT 1.08
+#=GS NFA_48260 WT 0.85
+#=GS NFA_56510 WT 1.33
+#=GS NFA_21670 WT 0.78
+#=GS NFA_22930 WT 0.95
+#=GS NFA_11560 WT 1.12
+#=GS NFA_31110 WT 1.14
+#=GS NFA_15350 WT 0.80
+#=GS NFA_3250  WT 0.81
+#=GS NFA_6280  WT 1.10
+#=GS NFA_12660 WT 0.88
+#=GS NFA_6190  WT 0.88
+#=GS NFA_40730 WT 1.02
+#=GS NFA_3660  WT 1.32
+#=GS NFA_13000 WT 0.71
+#=GS NFA_630   WT 0.73
+#=GS NFA_47090 WT 1.03
+#=GS NFA_50330 WT 1.01
+#=GS NFA_46330 WT 0.92
+#=GS NFA_55920 WT 0.99
+#=GS NFA_8870  WT 0.64
+#=GS NFA_7180  WT 0.97
+#=GS NFA_54600 WT 1.01
+#=GS NFA_49900 WT 1.08
+#=GS NFA_37200 WT 0.87
+#=GS NFA_1900  WT 0.88
+#=GS NFA_13540 WT 1.01
+#=GS NFA_37870 WT 0.96
+#=GS NFA_31270 WT 1.17
+#=GS NFA_45350 WT 0.87
+#=GS NFA_30550 WT 0.90
+#=GS NFA_42280 WT 0.87
+#=GS NFA_27190 WT 0.66
+#=GS NFA_51360 WT 1.36
+#=GS NFA_38430 WT 1.23
+#=GS NFA_1150  WT 0.99
+#=GS NFA_43840 WT 0.82
+#=GS NFA_2590  WT 0.85
+#=GS NFA_42200 WT 0.97
+#=GS NFA_49310 WT 1.15
+#=GS NFA_720   WT 1.10
+#=GS NFA_25040 WT 1.03
+#=GS NFA_27140 WT 1.02
+#=GS NFA_21660 WT 0.78
+#=GS NFA_10060 WT 1.03
+#=GS NFA_45030 WT 0.66
+#=GS NFA_19160 WT 1.44
+#=GS NFA_13350 WT 1.29
+#=GS NFA_35960 WT 1.12
+#=GS NFA_21300 WT 1.35
+#=GS NFA_180   WT 1.19
+#=GS NFA_54630 WT 1.03
+#=GS NFA_7420  WT 0.82
+#=GS NFA_21220 WT 1.28
+#=GS NFA_25880 WT 0.85
+#=GS NFA_5190  WT 1.07
+#=GS NFA_38330 WT 0.97
+#=GS NFA_29120 WT 0.84
+#=GS NFA_8710  WT 1.25
+#=GS NFA_38280 WT 1.01
+#=GS NFA_11020 WT 1.12
+#=GS NFA_40900 WT 0.59
+#=GS NFA_35870 WT 0.89
+#=GS NFA_28510 WT 0.83
+#=GS NFA_43340 WT 0.83
+#=GS NFA_49570 WT 0.94
+#=GS NFA_48500 WT 0.97
+#=GS NFA_31070 WT 0.89
+#=GS NFA_1830  WT 0.88
+#=GS NFA_55510 WT 0.95
+#=GS NFA_4790  WT 0.95
+#=GS NFA_6200  WT 0.93
+#=GS NFA_56640 WT 0.92
+#=GS NFA_51890 WT 0.81
+#=GS NFA_56650 WT 0.92
+#=GS NFA_790   WT 1.10
+#=GS NFA_13370 WT 0.83
+#=GS NFA_54580 WT 0.88
+#=GS NFA_5180  WT 0.98
+#=GS NFA_41310 WT 1.36
+#=GS NFA_3460  WT 1.01
+#=GS NFA_22240 WT 1.31
+#=GS NFA_38340 WT 1.05
+#=GS NFA_17330 WT 0.82
+#=GS NFA_16180 WT 1.03
+#=GS NFA_42100 WT 0.93
+#=GS NFA_16020 WT 1.31
+#=GS NFA_2680  WT 1.06
+#=GS NFA_22530 WT 1.10
+#=GS NFA_30490 WT 1.28
+#=GS NFA_17290 WT 0.91
+#=GS NFA_20250 WT 1.12
+#=GS NFA_2670  WT 0.95
+#=GS NFA_6780  WT 1.01
+#=GS NFA_9890  WT 1.03
+#=GS NFA_4150  WT 0.82
+#=GS NFA_43100 WT 0.90
+#=GS NFA_28500 WT 0.83
+#=GS NFA_10530 WT 1.08
+#=GS NFA_4930  WT 0.87
+#=GS NFA_19030 WT 1.16
+#=GS NFA_23320 WT 1.13
+#=GS NFA_44990 WT 1.09
+#=GS NFA_10050 WT 0.88
+#=GS NFA_43070 WT 0.84
+#=GS NFA_8770  WT 0.92
+#=GS NFA_16850 WT 1.25
+#=GS NFA_11580 WT 0.91
+#=GS NFA_50610 WT 0.91
+#=GS NFA_12650 WT 0.88
+#=GS NFA_7220  WT 0.92
+#=GS NFA_29080 WT 1.02
+#=GS NFA_3930  WT 1.08
+#=GS NFA_56130 WT 0.99
+#=GS NFA_42940 WT 1.25
+#=GS NFA_4460  WT 0.87
+#=GS NFA_23500 WT 0.81
+#=GS NFA_45990 WT 0.64
+#=GS NFA_12010 WT 0.84
+#=GS NFA_39470 WT 1.13
+#=GS NFA_6570  WT 0.73
+#=GS NFA_11760 WT 1.18
+#=GS NFA_36490 WT 0.98
+#=GS NFA_1600  WT 1.20
+#=GS NFA_40490 WT 1.23
+#=GS NFA_15600 WT 0.97
+#=GS NFA_7120  WT 0.98
+#=GS NFA_45190 WT 0.85
+#=GS NFA_23330 WT 1.08
+#=GS NFA_34650 WT 1.03
+#=GS NFA_13320 WT 1.10
+#=GS NFA_8380  WT 1.18
+#=GS NFA_2570  WT 0.92
+#=GS NFA_49020 WT 0.81
+#=GS NFA_45690 WT 0.87
+#=GS NFA_13120 WT 1.03
+#=GS NFA_29970 WT 0.89
+#=GS NFA_11240 WT 0.99
+#=GS NFA_55690 WT 0.82
+#=GS NFA_1210  WT 0.91
+#=GS NFA_12270 WT 1.03
+#=GS NFA_45180 WT 0.85
+#=GS NFA_42770 WT 1.01
+#=GS NFA_23460 WT 0.89
+#=GS NFA_50760 WT 1.15
+#=GS NFA_41650 WT 1.00
+#=GS NFA_12220 WT 0.99
+#=GS NFA_40670 WT 0.93
+#=GS NFA_38060 WT 1.10
+#=GS NFA_56690 WT 1.32
+#=GS NFA_21420 WT 0.94
+#=GS NFA_21410 WT 0.87
+#=GS NFA_34230 WT 0.81
+#=GS NFA_40800 WT 1.18
+#=GS NFA_90    WT 0.92
+#=GS NFA_19340 WT 0.77
+#=GS NFA_2390  WT 0.96
+#=GS NFA_7600  WT 1.05
+#=GS NFA_54510 WT 0.82
+#=GS NFA_3580  WT 1.12
+#=GS NFA_33580 WT 1.10
+#=GS NFA_1820  WT 0.92
+#=GS NFA_2050  WT 0.81
+#=GS NFA_18000 WT 0.70
+#=GS NFA_40760 WT 1.23
+#=GS NFA_7130  WT 0.84
+#=GS NFA_7140  WT 0.87
+#=GS NFA_45920 WT 1.27
+#=GS NFA_21170 WT 1.12
+#=GS NFA_46740 WT 0.79
+#=GS NFA_47870 WT 1.06
+#=GS NFA_53660 WT 0.95
+#=GS NFA_41300 WT 1.03
+#=GS NFA_40120 WT 1.00
+#=GS NFA_54270 WT 1.43
+#=GS NFA_14590 WT 0.52
+#=GS NFA_26270 WT 1.02
+#=GS NFA_1190  WT 0.76
+#=GS NFA_10160 WT 1.14
+#=GS NFA_23470 WT 0.89
+#=GS NFA_1180  WT 0.76
+#=GS NFA_5270  WT 1.02
+#=GS NFA_56180 WT 0.79
+#=GS NFA_2600  WT 1.04
+#=GS NFA_54620 WT 1.06
+#=GS NFA_45540 WT 0.98
+#=GS NFA_55700 WT 0.82
+#=GS NFA_36480 WT 1.13
+#=GS NFA_25870 WT 0.90
+#=GS NFA_10300 WT 1.07
+#=GS NFA_46650 WT 1.09
+#=GS NFA_19330 WT 0.77
+#=GS NFA_17300 WT 0.78
+#=GS NFA_44930 WT 1.00
+#=GS NFA_45230 WT 0.91
+#=GS NFA_22800 WT 1.14
+#=GS NFA_3390  WT 1.13
+#=GS NFA_37520 WT 1.09
+#=GS NFA_15100 WT 1.23
+#=GS NFA_54020 WT 1.01
+#=GS NFA_29500 WT 0.96
+#=GS NFA_47950 WT 0.82
+#=GS NFA_190   WT 1.20
+#=GS NFA_14070 WT 1.09
+#=GS NFA_42630 WT 1.05
+#=GS NFA_16100 WT 1.03
+#=GS NFA_3190  WT 1.04
+#=GS NFA_30540 WT 1.01
+#=GS NFA_20000 WT 0.88
+#=GS NFA_42220 WT 0.84
+#=GS NFA_56400 WT 0.81
+#=GS NFA_34370 WT 0.89
+#=GS NFA_49890 WT 0.98
+#=GS NFA_42380 WT 1.03
+#=GS NFA_13310 WT 0.92
+#=GS NFA_10720 WT 0.94
+#=GS NFA_53650 WT 0.87
+#=GS NFA_10420 WT 0.92
+#=GS NFA_11910 WT 1.27
+#=GS NFA_28530 WT 1.17
+#=GS NFA_9680  WT 0.90
+#=GS NFA_5260  WT 1.01
+#=GS NFA_19110 WT 1.07
+#=GS NFA_19020 WT 0.88
+#=GS NFA_27200 WT 0.66
+#=GS NFA_49490 WT 1.08
+#=GS NFA_9460  WT 0.88
+#=GS NFA_37560 WT 0.73
+#=GS NFA_54570 WT 0.88
+#=GS NFA_8360  WT 1.14
+#=GS NFA_21540 WT 1.13
+#=GS NFA_8670  WT 0.94
+#=GS NFA_29990 WT 1.00
+#=GS NFA_37900 WT 0.80
+#=GS NFA_52650 WT 1.01
+#=GS NFA_55520 WT 1.06
+#=GS NFA_37590 WT 0.71
+#=GS NFA_30830 WT 1.09
+#=GS NFA_19840 WT 1.02
+#=GS NFA_4120  WT 1.09
+#=GS NFA_18800 WT 1.23
+#=GS NFA_14090 WT 0.93
+#=GS NFA_18650 WT 0.79
+#=GS NFA_14600 WT 0.52
+#=GS NFA_42340 WT 0.94
+#=GS NFA_51880 WT 1.03
+#=GS NFA_8760  WT 0.92
+#=GS NFA_40910 WT 0.59
+#=GS NFA_22620 WT 1.08
+#=GS NFA_13970 WT 1.01
+#=GS NFA_17040 WT 0.78
+#=GS NFA_42210 WT 1.09
+#=GS NFA_49270 WT 1.02
+#=GS NFA_37760 WT 0.72
+#=GS NFA_45960 WT 0.98
+#=GS NFA_1930  WT 1.06
+#=GS NFA_19300 WT 1.16
+#=GS NFA_52270 WT 0.88
+#=GS NFA_18010 WT 0.70
+#=GS NFA_2430  WT 1.20
+#=GS NFA_10080 WT 1.29
+#=GS NFA_20310 WT 1.15
+#=GS NFA_46950 WT 1.05
+#=GS NFA_37750 WT 0.72
+#=GS NFA_31870 WT 0.70
+#=GS NFA_13170 WT 0.81
+#=GS NFA_10820 WT 1.20
+#=GS NFA_19000 WT 0.91
+#=GS NFA_56170 WT 0.79
+#=GS NFA_38870 WT 1.20
+#=GS NFA_18490 WT 1.18
+#=GS NFA_51110 WT 1.06
+#=GS NFA_19060 WT 0.92
+#=GS NFA_6560  WT 0.83
+#=GS NFA_12960 WT 0.99
+#=GS NFA_20180 WT 1.25
+#=GS NFA_31800 WT 0.91
+#=GS NFA_39620 WT 1.45
+#=GS NFA_4330  WT 1.15
+#=GS NFA_10410 WT 0.78
+#=GS NFA_5300  WT 1.02
+#=GS NFA_55680 WT 1.16
+#=GS NFA_46070 WT 0.79
+#=GS NFA_5250  WT 0.87
+#=GS NFA_7290  WT 0.85
+#=GS NFA_310   WT 1.03
+#=GS NFA_18540 WT 1.02
+#=GS NFA_54210 WT 1.14
+#=GS NFA_10520 WT 1.06
+#=GS NFA_45530 WT 1.15
+#=GS NFA_6790  WT 1.01
+#=GS NFA_45280 WT 1.23
+#=GS NFA_29860 WT 0.87
+#=GS NFA_31640 WT 1.15
+#=GS NFA_41630 WT 0.99
+#=GS NFA_49850 WT 0.87
+#=GS NFA_30690 WT 1.05
+#=GS NFA_18710 WT 1.16
+#=GS NFA_8210  WT 1.32
+#=GS NFA_33570 WT 1.01
+#=GS NFA_13690 WT 1.11
+#=GS NFA_38610 WT 1.02
+#=GS NFA_29480 WT 1.13
+#=GS NFA_16420 WT 1.07
+#=GS NFA_44960 WT 1.06
+#=GS NFA_39160 WT 1.16
+#=GS NFA_19010 WT 0.99
+#=GS NFA_16980 WT 0.92
+#=GS NFA_8400  WT 1.28
+#=GS NFA_26800 WT 1.11
+#=GS NFA_46220 WT 1.08
+#=GS NFA_23280 WT 0.94
+#=GS NFA_52080 WT 1.16
+#=GS NFA_47630 WT 0.91
+#=GS NFA_970   WT 0.92
+#=GS NFA_23130 WT 1.29
+#=GS NFA_18040 WT 0.98
+#=GS NFA_6550  WT 1.05
+#=GS NFA_44590 WT 0.85
+#=GS NFA_14760 WT 1.11
+#=GS NFA_37210 WT 0.89
+#=GS NFA_37060 WT 0.97
+#=GS NFA_19780 WT 1.07
+#=GS NFA_2740  WT 1.09
+#=GS NFA_56350 WT 1.09
+#=GS NFA_16500 WT 0.90
+#=GS NFA_18080 WT 1.08
+#=GS NFA_35800 WT 1.01
+#=GS NFA_33320 WT 0.92
+#=GS NFA_19980 WT 0.92
+#=GS NFA_1730  WT 0.87
+#=GS NFA_49500 WT 1.11
+#=GS NFA_30190 WT 0.90
+#=GS NFA_53820 WT 1.08
+#=GS NFA_21330 WT 1.06
+#=GS NFA_4890  WT 1.16
+#=GS NFA_45650 WT 0.95
+#=GS NFA_80    WT 0.80
+#=GS NFA_25260 WT 0.98
+#=GS NFA_55070 WT 1.15
+#=GS NFA_25080 WT 1.15
+#=GS NFA_34240 WT 0.81
+#=GS NFA_35070 WT 1.14
+#=GS NFA_46730 WT 0.79
+#=GS NFA_16410 WT 1.17
+#=GS NFA_54340 WT 1.11
+#=GS NFA_54590 WT 1.06
+#=GS NFA_30520 WT 0.88
+#=GS NFA_47940 WT 0.82
+#=GS NFA_45810 WT 1.09
+#=GS NFA_17820 WT 1.02
+#=GS NFA_51530 WT 1.24
+#=GS NFA_25980 WT 1.29
+#=GS NFA_33990 WT 1.05
+#=GS NFA_49610 WT 1.06
+#=GS NFA_7960  WT 1.05
+#=GS NFA_16310 WT 1.25
+#=GS NFA_42360 WT 1.06
+#=GS NFA_28680 WT 1.29
+#=GS NFA_2090  WT 0.89
+#=GS NFA_41970 WT 0.99
+#=GS NFA_3400  WT 1.20
+#=GS NFA_9780  WT 1.12
+#=GS NFA_2730  WT 0.94
+#=GS NFA_8960  WT 1.14
+#=GS NFA_4710  WT 1.72
+#=GS NFA_54730 WT 1.09
+#=GS NFA_11590 WT 0.92
+#=GS NFA_12610 WT 1.07
+#=GS NFA_22840 WT 1.09
+#=GS NFA_7280  WT 0.85
+#=GS NFA_4160  WT 0.80
+#=GS NFA_1340  WT 1.08
+#=GS NFA_9520  WT 1.20
+#=GS NFA_2080  WT 0.93
+#=GS NFA_13480 WT 1.09
+#=GS NFA_9670  WT 1.07
+#=GS NFA_42250 WT 0.98
+#=GS NFA_3750  WT 0.85
+#=GS NFA_13230 WT 1.08
+#=GS NFA_48660 WT 1.00
+#=GS NFA_52050 WT 1.04
+#=GS NFA_36270 WT 0.94
+#=GS NFA_9770  WT 1.32
+#=GS NFA_52290 WT 1.09
+#=GS NFA_39180 WT 1.20
+#=GS NFA_36010 WT 1.07
+#=GS NFA_29070 WT 1.12
+#=GS NFA_26130 WT 1.05
+#=GS NFA_36160 WT 0.98
+#=GS NFA_16970 WT 0.92
+#=GS NFA_27110 WT 1.06
+#=GS NFA_28230 WT 1.13
+#=GS NFA_18740 WT 1.11
+#=GS NFA_17310 WT 0.94
+#=GS NFA_39770 WT 0.90
+#=GS NFA_30390 WT 1.38
+#=GS NFA_13250 WT 1.10
+#=GS NFA_13510 WT 0.92
+#=GS NFA_48000 WT 0.90
+#=GS NFA_50880 WT 0.98
+#=GS NFA_24790 WT 1.11
+#=GS NFA_24370 WT 1.16
+#=GS NFA_15650 WT 1.07
+#=GS NFA_33680 WT 1.09
+#=GS NFA_13030 WT 0.87
+#=GS NFA_54870 WT 0.70
+#=GS NFA_13360 WT 0.83
+#=GS NFA_8230  WT 0.87
+#=GS NFA_44450 WT 1.12
+#=GS NFA_29840 WT 0.82
+#=GS NFA_6220  WT 0.98
+#=GS NFA_3740  WT 0.97
+#=GS NFA_17100 WT 0.81
+#=GS NFA_35700 WT 1.27
+#=GS NFA_22600 WT 1.18
+#=GS NFA_13110 WT 1.03
+#=GS NFA_45220 WT 0.91
+#=GS NFA_15080 WT 1.23
+#=GS NFA_15920 WT 1.72
+#=GS NFA_28060 WT 1.18
+#=GS NFA_6760  WT 0.87
+#=GS NFA_12820 WT 0.82
+#=GS NFA_14440 WT 1.02
+#=GS NFA_41960 WT 1.10
+#=GS NFA_56030 WT 1.20
+#=GS NFA_21110 WT 0.95
+#=GS NFA_24090 WT 1.08
+#=GS NFA_19610 WT 1.33
+#=GS NFA_38700 WT 1.15
+#=GS NFA_17520 WT 1.06
+#=GS NFA_3370  WT 1.37
+#=GS NFA_21290 WT 0.93
+#=GS NFA_24120 WT 0.81
+#=GS NFA_7710  WT 1.57
+#=GS NFA_5020  WT 1.17
+#=GS NFA_3550  WT 1.01
+#=GS NFA_8950  WT 1.07
+#=GS NFA_16040 WT 1.04
+#=GS NFA_37170 WT 1.20
+#=GS NFA_1880  WT 1.09
+#=GS NFA_17320 WT 0.82
+#=GS NFA_44950 WT 1.07
+#=GS NFA_46060 WT 1.11
+#=GS NFA_49390 WT 1.08
+#=GS NFA_41990 WT 1.12
+#=GS NFA_1810  WT 1.16
+#=GS NFA_28240 WT 1.03
+#=GS NFA_32750 WT 1.09
+#=GS NFA_18620 WT 1.09
+#=GS NFA_12360 WT 1.18
+#=GS NFA_52060 WT 1.05
+#=GS NFA_35100 WT 1.10
+#=GS NFA_52780 WT 1.42
+#=GS NFA_6360  WT 0.73
+#=GS NFA_2160  WT 1.11
+#=GS NFA_8530  WT 1.25
+
+NFA_55140    AU-GC---C--CCACG-GGUACGC--------------------------
+NFA_39650    AC-UG---C--CCGGU-UACCGUUG-------------------------
+NFA_35080    AU-CG---G--CGAAC-GGCCCAGCCUUCG-----------------GUU
+NFA_18770    AC-GG---G--UCGUC-CACCGCGC-------------------------
+NFA_31140    AG-GC---C--GUUUC-CCUCGGAUC------------------------
+NFA_36660    AA-CG---C--CCGCU-CACGAUC--------------------------
+NFA_44940    AC-CG---G--UGCGA-GCCCACC--------------------------
+NFA_36670    AA-CG---C--CCGCU-CACGAUC--------------------------
+NFA_28650    GC-AA---U--GCGCC-AUUGACA--------------------------
+NFA_6040     CG-CU---C--UGCCC-GGGUCAC--------------------------
+NFA_23090    AG-GG---C--CGGGC-GAUCUCC--------------------------
+NFA_31150    AA-AG---G--CCGUU-UCCCUCGUGAU---------------------C
+NFA_7770     AG-GC---A--CGGAC-UCCCC----------------------------
+NFA_49780    GC-GG---G-U-UCCU-GGUCCACC-------------------------
+NFA_45310    CG-AG---C--CGCUC-ACCGGGAAAC-----------------------
+NFA_56250    AC-CU---C--CGGCG-GUGGGACCGAA---------------------G
+NFA_26020    CG-GC---C--UGCCC-GGAUCGC--------------------------
+NFA_5160     GC-GC---A--GUGCG-GCUUUCG--------------------------
+NFA_6030     AA-AG---G--CCCGC-GCGAAUC--------------------------
+NFA_39140    AG-GC---C--GAACC-UGAUU----------------------------
+NFA_50980    AA-CG---G--CCCCC-GCUCCGAUC------------------------
+NFA_12570    AA-GC---C--GGAUC-GUCCCCGAUGC----------------------
+NFA_9650     GC-CC---C--CGGUU-CCGCGCC--------------------------
+NFA_20440    GA-UG---C--CGACC-ACCGUCGCG------------------------
+NFA_19050    GC-UC---C--GCAUC-GCCUUCG--------------------------
+NFA_53220    CU-GC---C--CACCG-GCACCCCG-------------------------
+NFA_28870    AU-CG---G--CGAUC-GGUGGAUC-------------------------
+NFA_41470    GC-CC---G--GCACCG-GACGUGA-------------------------
+NFA_30340    AG-GA---A--CGAUC-GUUCUUG--------------------------
+NFA_8970     AC-GG---C--CCGCA-CCGCUCC--------------------------
+NFA_16170    GG-UG---G--GGUCG-GCCGAACACC-----------------------
+NFA_55750    AU-CA---C--CCCCG-UGUCCGA--------------------------
+NFA_7930     GG-CA---C--CGGAC-GAGAAGC--------------------------
+NFA_9660     AG-CC---C--CCGGU-UCCGGCG--------------------------
+NFA_24680    GU-UC---C--GGCGG-UCACCUCA-------------------------
+NFA_39240    UC-CC---C--GUGCC-GCCCGCGCCUAG--------------------C
+NFA_54060    GG-GC---C--GGAUC-GCAUCGG--------------------------
+NFA_48060    GG-UC---A--UCACG-GCAGGUU--------------------------
+NFA_51140    GG-GU---G--GGAAC-GCGAGCA--------------------------
+NFA_18120    CG-GC---G--ACCCG-GCUCGCACCCUC-------------------GG
+NFA_38520    AC-GG---G--CCGUU-CACCGGAA-------------------------
+NFA_3840     AG-GG---A--CGCCC-GGCAUCG--------------------------
+NFA_55130    AU-GC---C--CCACG-GGUGCGU--------------------------
+NFA_35620    GG-UG---A--CCGAC-UGUGGCGAAU-----------------------
+NFA_49860    GA-GG---C--GGGUC-CGGCGUA--------------------------
+NFA_1920     CG-UG---G--UCGCG-GAGUG----------------------------
+NFA_7020     GC-GG---A--UCAGCAGUCCAAGGGAGUU-----------------CGG
+NFA_26080    AU-UU---C--CGGUG-AAAUCGUGAAUGA-----------------UCA
+NFA_51190    AG-GG---C--CGGAC-GACA-----------------------------
+NFA_15900    CG-GC---G--GGUCC-GGCCAUCG-------------------------
+NFA_38980    AA-GC---G-CCCGAC-CCUGCUGCA------------------------
+NFA_23100    AG-GG---C--CGGGC-GAGGAGA--------------------------
+NFA_1960     GA-GG---G--CCGUG-CACGGGC--------------------------
+NFA_6370     AU-CA---G--GCCCC-CGCCUUUCG------------------------
+NFA_640      CG-GC---C--CCACC-UCGGCGA--------------------------
+NFA_12600    CG-UC---C--CGGCA-CCGCG----------------------------
+NFA_54190    AC-GG---C--CCGCU-CUUC-----------------------------
+NFA_33600    GC-GA---G--CCACC-GCAGUGC--------------------------
+NFA_50320    GU-GG---G--CCGCU-GUCGAAUC-------------------------
+NFA_54790    AA-CC---C--CGGAG-CAUCG----------------------------
+NFA_13340    CG-GC---C--GGGCG-ACACGCCGUGU----------------------
+NFA_2860     AG-AG---C--CCGUC-ACCGUGUU-------------------------
+NFA_33610    GC-GA---G--CCACC-GCGCACU--------------------------
+NFA_17090    AC-AG---C--GCCCC-AUCGGAAA-------------------------
+NFA_18970    CC-CC---C--GGACC-GAUC-----------------------------
+NFA_54170    AA-GG---C--CGCCC-GCGUUCG--------------------------
+NFA_3450     AC-GG---C--CCGGC-GGAUCCGAGUGGAG---------------CGCG
+NFA_7210     AC-CG---C--CCCGC-ACACCCCG-------------------------
+NFA_31710    GC-CC---G-U-GCGC-GAACGCUG-------------------------
+NFA_21490    GC-GC---G--GCCCC-GAACCAGACC-----------------------
+NFA_20970    GG-CC---G--GAGAC-GAUGAGU--------------------------
+NFA_9690     AU-AC---C--CGUUU-CACUCUCUGGUCGGGG-----------AUGUGA
+NFA_38670    AG-GG---C--CGGGA-GGCAU----------------------------
+NFA_16860    GU-GC---U--CGGUC-GACGGCUUCU-----------------------
+NFA_5290     CC-GA---C--CCGUC-GCCGACC--------------------------
+NFA_4250     GG-GC---G--GUGCG-GUCCCCG--------------------------
+NFA_37360    AC-CG---C--CCGGC-GCAUGCCCCCGGAAC--------------CAGG
+NFA_7620     GG-CC---C--GUCCG-GAAGGCC--------------------------
+NFA_48310    CG-UC---C--GCCGC-GAAAC----------------------------
+NFA_38990    AA-GC---G-UCCGAC-CCUGAUUGC------------------------
+NFA_1010     CG-GG---G--CCGGG-AGCCUUC--------------------------
+NFA_22420    CG-GC---G--GCACC-GCACUCC--------------------------
+NFA_45520    GG-GC---C--CCGUC-GAAACCC--------------------------
+NFA_48120    AA-CG---G--CCGGG-UCACAUCCCUCGGAC-------------GAGGG
+NFA_52750    GA-GC---C--GGGCC-ACCGUCG--------------------------
+NFA_6240     CG-AC---G--GUGCC-GCACGAAGAAC----------------------
+NFA_49580    CG-GG---C--CCGUC-ACCCUCG--------------------------
+NFA_10150    GA-AC---C--CCGGC-GCUCCCGUCCA----------------------
+NFA_7610     GG-CC---C--GUCCG-GAAGGCC--------------------------
+NFA_43350    AG-GG---C--GGGUG-AGCCACC--------------------------
+NFA_6070     CG-CC---G--CCGCC-GAGCGAU--------------------------
+NFA_17210    CC-GC---C--CGCGC-GAGGGCACCCGCUC----------------GGG
+NFA_51130    GG-GU---G--GGAAC-GCUGCUC--------------------------
+NFA_45700    GC-CC---U--CGAUG-UUCCGGAAC------------------------
+NFA_15560    CC-CC---G--CCGAU-CCUGUGA--------------------------
+NFA_29110    CG-GG---G--CCCCG-GACUUCGC-------------------------
+NFA_45340    GG-CC---G--AUCCC-GCGCCGCAC------------------------
+NFA_42350    GA-GA---C--CCCCG-GCUCCCG--------------------------
+NFA_42780    AA-UG---C--CCGGC-CGGUUCC--------------------------
+NFA_54180    GA-AC---G--GCCCG-CUCCGAA--------------------------
+NFA_38680    AG-GG---C--CGGGA-GGCAU----------------------------
+NFA_52280    GG-GC---C--GCUUC-UCCAC----------------------------
+NFA_1270     AG-GC---C--CGGCU-CGUCGAG--------------------------
+NFA_22470    AC-CC---C--GGGUC-GCGCCGAAA------------------------
+NFA_50890    GC-GG---C--GGGCGGCCACGAG--------------------------
+NFA_2800     AC-CG---G--CCCCG-CUCAACGCGUUU-------------------CG
+NFA_45800    CU-AC---C--GGGCCGGUGGUGG--------------------------
+NFA_29960    GC-UG---C--UCACC-GAACGCG--------------------------
+NFA_10       GC-AC---C--GCCCC-UGAC-----------------------------
+NFA_12690    CC-CC---G--CGAUC-GGUCCCG--------------------------
+NFA_42300    AG-GG---C--CGUCC-GCACCCC--------------------------
+NFA_49840    AG-GG---C--CUCCG-GGGAUUU--------------------------
+NFA_56240    CC-GG---C--GGUGGAGACUUCG--------------------------
+NFA_16720    GC-CG---A--CGCCG-GUUUGCGGAGA----------------------
+NFA_48350    GG-CG---G--CCACCGGAACUCC--------------------------
+NFA_54200    GC-CC---C--GGAUC-GUCCU----------------------------
+NFA_48270    GC-GG---C--CGCAC-UCGAGAC--------------------------
+NFA_6250     GU-GC---C--GCACG-GAGUU----------------------------
+NFA_43060    AC-GG---G--CCCGG-GAUCUUCCGCGA-------------------CG
+NFA_45830    GC-GG---C--ACGCCUUCUCCGUG-------------------------
+NFA_45020    CG-AC---G--CCGCG-GCACC----------------------------
+NFA_49830    AG-GG---C--CUCCG-GGAAAUC--------------------------
+NFA_53520    AA-CC---C--CGCCC-GGCA-----------------------------
+NFA_38250    UG-CC---G--GACGG-GUGCUCG--------------------------
+NFA_12210    GC-CC---C--CGGCG-CACCGAACCA-----------------------
+NFA_8980     AC-GG---C--CCGCA-CCGGAGC--------------------------
+NFA_5930     CG-GC---C--CCGCG-GCUCCCGCCGGUUCUA------------CCGGU
+NFA_15910    GG-CG---G--GCCCG-GCACGAU--------------------------
+NFA_21770    GU-CG---G-CGUACC-GUGAG----------------------------
+NFA_54720    UC-GG---C--UCCUC-ACCCGUCC-------------------------
+NFA_56390    GA-CG---C--CGAUC-GCGCAGCG-------------------------
+NFA_10660    UG-UC---G--GCGGC-GAAGGUAA-------------------------
+NFA_12280    GC-CC---C--CGCCCCGACCC----------------------------
+NFA_45880    AC-GG---C-ACCGAU-GACGCGG--------------------------
+NFA_24970    AC-GC---C--UCGCC-CCCCGCA--------------------------
+NFA_22940    GC-GG---C--GCCCG-GAGUCGGAC------------------------
+NFA_34430    CG-GU---G--CGGCG-GCGAGCG--------------------------
+NFA_37860    GA-CG---C--CGGAC-GGUCCCC--------------------------
+NFA_50750    AC-GG---C--GCCGC-UCCGCAA--------------------------
+NFA_3850     AG-GG---A--CGUCC-GGCCGAU--------------------------
+NFA_1790     GG-CG---G--ACCGC-CCUGCCGAG------------------------
+NFA_48260    GC-GG---C--CGCAC-UCGGUCU--------------------------
+NFA_56510    GC-CC---G--GCGGAACCGCAAC--------------------------
+NFA_21670    GG-GC---C--GGAAC-CGGGUGA--------------------------
+NFA_22930    GC-GC---C--CGGAG-UCCGUCC--------------------------
+NFA_11560    GA-UG---C--CGCCG-GGAAGGGG-------------------------
+NFA_31110    CU-GC---C--CGCGA-AUCUCCG--------------------------
+NFA_15350    GG-CC---G--GCGCG-GGCCACCA-------------------------
+NFA_3250     GG-CG---G--GUGCG-GAACA----------------------------
+NFA_6280     GC-GC---C--GCCGC-GAGCCCA--------------------------
+NFA_12660    CA-CC---C--GGACC-GACCACG--------------------------
+NFA_6190     CG-GG---C--GGCGC-ACCUUUC--------------------------
+NFA_40730    CG-CU---G--CCCCG-GCCCGUCU-------------------------
+NFA_3660     GU-CC---C--UCAUCACCGGCAU--------------------------
+NFA_13000    GG-CG---G--CCGGC-GGGGUGA--------------------------
+NFA_630      CG-GC---C--CCACC-UCUCGCC--------------------------
+NFA_47090    GG-CG---C--CCCGC-UCGAUGG--------------------------
+NFA_50330    GG-CC---G--CUGUCGGAUUC----------------------------
+NFA_46330    AG-GG---C--CCGUG-GACGA----------------------------
+NFA_55920    CC-CG---G--GCGCG-CGGCUGAG-------------------------
+NFA_8870     AG-GC---C--CCCGG-GAGA-----------------------------
+NFA_7180     UC-GG---G--CCAAG-CAAC-----------------------------
+NFA_54600    GG-CG---G--CAUCG-GGAACCA--------------------------
+NFA_49900    GC-CG---C--CUUCC-GAUCGAU--------------------------
+NFA_37200    CG-GC---G--CGGCCUUCGGGUGCAC-----------------------
+NFA_1900     CG-GG---C--CGCCC-ACCCGUGC-------------------------
+NFA_13540    GC-GG---G--UCAGG-GUGCCAC--------------------------
+NFA_37870    AC-GC---C--GGACG-GCGGGGG--------------------------
+NFA_31270    GG-UG---A--GCCAG-GCCACCUGAGGCU------------------CA
+NFA_45350    GG-CC---G--AUCCC-GCGCGGUGC------------------------
+NFA_30550    UC-UG---C--CGACC-ACCUUCG--------------------------
+NFA_42280    AC-GG---C--CCGGC-ACCCACA--------------------------
+NFA_27190    CG-CG---C--CGGAC-GACCGUCA-------------------------
+NFA_51360    GG-UC---G--CGGCC-CCCUCGUGUCUCGA----------------ACG
+NFA_38430    GG-AU---C--GGGCU-GCCGAGC--------------------------
+NFA_1150     GG-CC---C--CCGUU-CACUUUCC-------------------------
+NFA_43840    AG-CG---C--CGGGU-GGCACGC--------------------------
+NFA_2590     GG-CC---C--CGGCG-GAAUCAC--------------------------
+NFA_42200    AC-GG---G--CCCCG-CAUCCGCAC------------------------
+NFA_49310    UC-CG---G-GAGCGC-GAGGGGGGACA---------------------C
+NFA_720      CU-UC---G--CGUCG-GCCCCCGCGU-----------------------
+NFA_25040    CG-AA---C--CCCCG-GCCCAGU--------------------------
+NFA_27140    CC-CG---G--CCGCG-AUCGCCCCACC----------------------
+NFA_21660    GG-GC---C--GGAAC-CGGUCAC--------------------------
+NFA_10060    AG-GG---G--UGGCC-CGGAGGU--------------------------
+NFA_45030    CG-AC---G--CCGCG-GCGGG----------------------------
+NFA_19160    AA-CG---A--CCCGC-GGACGCGCUCUCCG----------------AGC
+NFA_13350    GU-UC---G--GUCCC-GGUGAAUA-------------------------
+NFA_35960    AU-CG---G--GGCCG-UCGCGCGC-------------------------
+NFA_21300    CG-GG---G-AUCGGC-GCGGCGAAG------------------------
+NFA_180      AG-GU---G--GGGCG-ACGUUCGC-------------------------
+NFA_54630    CC-GC---C--CCCGG-GAACAGCU-------------------------
+NFA_7420     AA-GG---C--CCGCU-UCCACUC--------------------------
+NFA_21220    AG-CC---C--GCCCA-GCCGACGGGC-----------------------
+NFA_25880    AA-GC---G--CCGCG-ACCCCUC--------------------------
+NFA_5190     GC-CC---C--CGAACGGCAUG----------------------------
+NFA_38330    GC-GC---G--GUCAG-CAAU-----------------------------
+NFA_29120    CG-GG---G--CCCCG-GACCGCGA-------------------------
+NFA_8710     GC-GC---G--GGGAU-GACAGGAUG------------------------
+NFA_38280    UA-CG---U--CCGGC-GCCGAAC--------------------------
+NFA_11020    CC-CG---G--CGGCG-GUGCGGCA-------------------------
+NFA_40900    AA-GG---C--CCGCC-ACCGGAUC-------------------------
+NFA_35870    GC-CC---G--GCGUC-GCCUC----------------------------
+NFA_28510    GG-GC---G--GGGCC-GCCCUAC--------------------------
+NFA_43340    AG-GG---C--GGGUG-GGCCGGU--------------------------
+NFA_49570    AA-CG---G--GCCCG-UCACCGAG-------------------------
+NFA_48500    GG-GU---G--GUGCG-GACCGUU--------------------------
+NFA_31070    GC-GC---G--GCGCG-GUCCCAG--------------------------
+NFA_1830     GG-CC---G--UCGCU-UCCGCCC--------------------------
+NFA_55510    GG-CC---G--GUCGG-ACACACC--------------------------
+NFA_4790     AG-AC---C--CCGGC-GAGCCCG--------------------------
+NFA_6200     GC-GG---C--GCACCGGAAA-----------------------------
+NFA_56640    AG-CC---C--CCGUC-GACCGUG--------------------------
+NFA_51890    GG-GG---C--CCGGC-GGAUU----------------------------
+NFA_56650    AG-CC---C--CCGUC-GAAUCAC--------------------------
+NFA_790      CG-AG---G--UGGCG-AUUCAUCG-------------------------
+NFA_13370    GA-CG---C--CGCGC-GCCCCUCG-------------------------
+NFA_54580    AG-GC---U--CCCCC-GGGCGAC--------------------------
+NFA_5180     AG-GG---C--CCCCG-AACCAUGC-------------------------
+NFA_41310    CC-UU---G--CCGAC-CCUUCUGCGUU---------------------C
+NFA_3460     CG-GC---C--CGGCG-GAUCCGCGCGCUC-----------------CAC
+NFA_22240    CC-CG---G--CUGUG-GGACGAGUGCGCC-----------------CCG
+NFA_38340    GG-CG---C--GGUCA-GCGAU----------------------------
+NFA_17330    GC-GC---G--GGCCGGCGAUC----------------------------
+NFA_16180    CA-GG---C--CCCGG-GAGCG----------------------------
+NFA_42100    AA-CG---G--CCCCG-GGACAUC--------------------------
+NFA_16020    GC-CG---G--AUAUG-GAUGGAG--------------------------
+NFA_2680     AG-GG---G--CGCUC-CCGCU----------------------------
+NFA_22530    CU-GU---G--CCCUC-GCGUCCG--------------------------
+NFA_30490    UC-UC---C--GGUAC-CGGCC----------------------------
+NFA_17290    AG-GC---C--CCGAG-UCGGAUU--------------------------
+NFA_20250    AU-CG---G--CGCGG-GCGUUCACCCC----------------------
+NFA_2670     AA-GG---G--GCGCU-CCCGAGC--------------------------
+NFA_6780     GG-CG---C--GCGCC-GACCGAAAG------------------------
+NFA_9890     AG-CG---G--GUGUG-GACCGGG--------------------------
+NFA_4150     GA-GG---C--CCGCU-CCCCCCU--------------------------
+NFA_43100    GG-GC---C--GCUCC-CGUC-----------------------------
+NFA_28500    GG-GC---G--GGGCC-GCAGUAG--------------------------
+NFA_10530    AC-GC---C--CGGUCCUGCUGUG--------------------------
+NFA_4930     GC-CU---C--GCCUC-GUCCA----------------------------
+NFA_19030    CC-GU---G--CCGGU-UCCGU----------------------------
+NFA_23320    GA-UC---G--CCGGC-GUCCGUGCGC-----------------------
+NFA_44990    GG-CG---G--UCCGG-UCGACAC--------------------------
+NFA_10050    GG-GU---G--GCCCG-GAACC----------------------------
+NFA_43070    AC-GG---G--CCCGG-GAGAUUCCGUCG-------------------CG
+NFA_8770     CA-CC---G--UCGAG-UAGCCGC--------------------------
+NFA_16850    GC-UC---G-GUCGAC-GGAAGAA--------------------------
+NFA_11580    GG-CG---A--UCAGC-GUUCG----------------------------
+NFA_50610    CG-CC---G--CCGCG-CCGUGUGUCC-----------------------
+NFA_12650    CA-CC---C--GGAUC-GACCGUG--------------------------
+NFA_7220     CG-CC---C--CGCAC-ACUCGGG--------------------------
+NFA_29080    GA-CC---G-UUGACC-GCGGCGCC-------------------------
+NFA_3930     GG-CG---C--UGUGG-UUCAUGACAUG----------------------
+NFA_56130    AA-UC---C--CCCCGGGACAUCA--------------------------
+NFA_42940    GU-GC---A--CCCGC-UGGGCCC--------------------------
+NFA_4460     GA-CG---G--CCCCG-CGACCGA--------------------------
+NFA_23500    CG-GC---C--CGUCC-ACCCGCUGCC-----------------------
+NFA_45990    AG-GC---G--CCCGG-GAGUU----------------------------
+NFA_12010    CG-CG---C--UCGCC-GCGGACU--------------------------
+NFA_39470    GU-UC---G--AGGCG-GCGGCAUGAACCUCGGUGACCGGAUCAAAGCCU
+NFA_6570     GC-CC---G--CGCUC-CCGUC----------------------------
+NFA_11760    AC-CG---C--UCAGG-CGGUGCUCA------------------------
+NFA_36490    AU-CG---G--CCGCG-GCCCCGGAC------------------------
+NFA_1600     AC-GG---G-UCGGAC-GAUCAGCGGGGCCGGUGCCC---GUCGGCCCCC
+NFA_40490    CG-GC---G--GGUGC-GAGUUGU--------------------------
+NFA_15600    CG-CC---C--CGGCC-UAUUGGA--------------------------
+NFA_7120     GC-GC---C--CGGCG-GCCCCUU--------------------------
+NFA_45190    CG-CC---G--CGGUG-ACGUGCCGU------------------------
+NFA_23330    GC-CG---G--CGUCC-GCGCG----------------------------
+NFA_34650    GG-CG---G--CCGCC-GACCACAGAC-----------------------
+NFA_13320    AG-GU---G--GCGCGCGAUGA----------------------------
+NFA_8380     UG-AG---C--CCGCC-GCCCUUCC-------------------------
+NFA_2570     GC-CC---C--UCACC-UGGAAUU--------------------------
+NFA_49020    CG-CC---G--GGUUC-GUUCG----------------------------
+NFA_45690    GC-CC---U--CGACG-UUCCGGUUC------------------------
+NFA_13120    AG-UG---A--GGGCG-GCUCACC--------------------------
+NFA_29970    GC-UG---C--UCACC-GACGCGU--------------------------
+NFA_11240    GC-CG---G--GUGGC-GAAU-----------------------------
+NFA_55690    AA-CG---G--CCCCC-UUCCGAAC-------------------------
+NFA_1210     CG-CG---G--CCGCC-CCGGCAU--------------------------
+NFA_12270    CC-CC---G--GAGCU-GCGUGAG--------------------------
+NFA_45180    CG-CC---G--CGGUG-ACGAGCACG------------------------
+NFA_42770    AA-UG---C--CCGGC-CGGGGAA--------------------------
+NFA_23460    GC-CG---A--UCGCC-GGUCCCGGUUCG-------------------UC
+NFA_50760    CC-GG---G--GCAGG-UGGCA----------------------------
+NFA_41650    GC-CG---G--GCAGC-GCGCCCGGCCG---------------------C
+NFA_12220    GC-CC---C--CGGCG-CACCAGGUGG-----------------------
+NFA_40670    GG-CC---G--CGCCU-GCCCUGGG-------------------------
+NFA_38060    GC-GG---U--GGGCUCGAGCGGGGC------------------------
+NFA_56690    AG-GC---C--UCUGG-UCUUC----------------------------
+NFA_21420    CG-CC---C--CCGGC-GCGCGCG--------------------------
+NFA_21410    GA-CG---C--CCCCG-ACGCCGCG-------------------------
+NFA_34230    AC-GG---C--GUUCC-GGCGGAG--------------------------
+NFA_40800    GU-GA---C--UCGGG-ACGAUUC--------------------------
+NFA_90       GC-UC---C--CCACC-UGAAUGU--------------------------
+NFA_19340    CG-GC---C--CUGUC-ACACCCCGG------------------------
+NFA_2390     GC-CC---C--CUACC-UGCCGAA--------------------------
+NFA_7600     GA-GG---A--CCCCC-GGCACAC--------------------------
+NFA_54510    GA-GC---G--GCCCG-GAUCU----------------------------
+NFA_3580     GG-CU---C--GCCGG-ACA------------------------------
+NFA_33580    GG-GC---C--GCAGC-GGACGAU--------------------------
+NFA_1820     AC-CG---C--CGGGC-GCCCUCG--------------------------
+NFA_2050     CG-UC---C--CGUCC-GGCCACC--------------------------
+NFA_18000    CG-CG---C--AUGCC-GAACGGU--------------------------
+NFA_40760    CC-CG---G--CUCAG-AGGCGGUGUCC---------------------G
+NFA_7130     CC-CG---C--CCGGC-GCGGGGUG-------------------------
+NFA_7140     CC-CG---C--CCGGC-GCGACACC-------------------------
+NFA_45920    AU-CC---C--CUGCC-CCACCAC--------------------------
+NFA_21170    GA-CG---G--GCAGC-CCGCGAU--------------------------
+NFA_46740    GG-GC---G--GCGGU-GCGCGCGA-------------------------
+NFA_47870    CG-GG---G--CCGGG-GCACCA---------------------------
+NFA_53660    AC-GC---C--CCGUG-GCAU-----------------------------
+NFA_41300    CA-GG---C--CCCCC-GCGUGACAACGG--------------------C
+NFA_40120    AC-CG---G--GCCGC-GCUCGUU--------------------------
+NFA_54270    AG-GU---C--CGGAA-UCGCCCC--------------------------
+NFA_14590    AC-GG---C--CCGCC-ACCGCGC--------------------------
+NFA_26270    AC-CG---U--CCCCG-GCAGCAG--------------------------
+NFA_1190     GG-CC---G--UCGCC-GAAGGGA--------------------------
+NFA_10160    AC-CC---C--GGCGC-GCCCGUGGA------------------------
+NFA_23470    GC-CG---A--UCGCC-GGCCACGGACGA-------------------AC
+NFA_1180     GG-CC---G--UCGCC-GAUUCCC--------------------------
+NFA_5270     GG-CC---C--CCGACCGCGAA----------------------------
+NFA_56180    GG-CC---G--GGCAC-GAACC----------------------------
+NFA_2600     GG-CC---C--CGCAU-CCAGUCC--------------------------
+NFA_54620    CG-CC---C--CCGGG-ACAAGCU--------------------------
+NFA_45540    CG-AG---G--CGGAC-GUGGU----------------------------
+NFA_55700    AA-CG---G--CCCCC-UCCCGUUC-------------------------
+NFA_36480    AA-UC---G--GCCGC-GACCCCGUCC-----------------------
+NFA_25870    AA-GC---G--CCGCG-AUCGAGG--------------------------
+NFA_10300    GC-GG---C--CGAGU-GCCUUCG--------------------------
+NFA_46650    AC-CA---G--GCCAG-GAAUUCC--------------------------
+NFA_19330    CG-GC---C--CUGUC-ACACCACCG------------------------
+NFA_17300    GC-CC---C--GGAUC-GCAUCCC--------------------------
+NFA_44930    AC-CG---G--UGCGG-GUCGGGU--------------------------
+NFA_45230    GG-CG---C--CGUCG-UCCCUCG--------------------------
+NFA_22800    GG-UG---A--CGGCG-GUGGCCACGG-----------------------
+NFA_3390     GA-CG---G-C-CGCG-GAGA-----------------------------
+NFA_37520    CA-GC---G--UCGCC-GGAUA----------------------------
+NFA_15100    GG-AG---C--GGAUC-GCGUG----------------------------
+NFA_54020    CG-UC---C--CCAUC-GGCGCAC--------------------------
+NFA_29500    GC-GC---C--CCGUG-GACCUCG--------------------------
+NFA_47950    CG-GC---C--GCCCC-GCAUCCC--------------------------
+NFA_190      CC-CG---C--UCGCC-ACGUACCCACU----------------------
+NFA_14070    AG-UG---C--CGGAC-GCUGCUG--------------------------
+NFA_42630    C---G---C--CGCCC-AUACG----------------------------
+NFA_16100    AC-GC---C--CGAGGGG--------------------------------
+NFA_3190     AG-CA---C--CGGCC-GGAACCG--------------------------
+NFA_30540    UC-UG---C--CGACC-ACCCGAA--------------------------
+NFA_20000    GG-UC---C--GGGUG-CGGUGCU--------------------------
+NFA_42220    GC-CC---C--GCACC-GGUUU----------------------------
+NFA_56400    GA-CG---C--CGACC-GCGCACGC-------------------------
+NFA_34370    GC-UC---C--GCACC-GCAAC----------------------------
+NFA_49890    GC-AC---C--CGGCCCGAACCAG--------------------------
+NFA_42380    CC-GC---C--CGCGGUGACACCG--------------------------
+NFA_13310    GG-UG---G--CGGGC-GAUUGCA--------------------------
+NFA_10720    AG-GC---C--GCCCC-CGGCGAA--------------------------
+NFA_53650    AC-GC---C--CCGUGGGAUGC----------------------------
+NFA_10420    CG-GC---C--CGCAC-GCCGUAC--------------------------
+NFA_11910    UG-UU---C--CUGCC-CGGCU----------------------------
+NFA_28530    CU-GA---U--CUCCG-GGUCCGAU-------------------------
+NFA_9680     UG-GG---G--CGGUC-GUUC-----------------------------
+NFA_5260     CG-AG---C--CGGCC-UCCUGAGCGCGGG-----------------GCG
+NFA_19110    CG-GC---C--CGGUA-CACGACG--------------------------
+NFA_19020    CG-UG---C--CGGUU-CCAC-----------------------------
+NFA_27200    CG-CG---C--CGGAC-GACCCUGA-------------------------
+NFA_49490    AC-UC---G--CCACCCGAAGA----------------------------
+NFA_9460     GG-GC---C--GGGUG-CCGCG----------------------------
+NFA_37560    GG-CC---G--CGCUC-CCGCC----------------------------
+NFA_54570    AG-GC---U--CCCCC-GGCGUCG--------------------------
+NFA_8360     GU-GC---G--UGGCC-GUCCGACGU------------------------
+NFA_21540    GG-UA---G--GCGCG-GUCUCGU--------------------------
+NFA_8670     CG-CC---C--GGCAC-CCCG-----------------------------
+NFA_29990    GG-UC---G--GCCUCAGUUCGCGCUCUC-------------------GC
+NFA_37900    AG-GC---C--CGCUC-CCCCG----------------------------
+NFA_52650    GA-CG---G--CGCCC-GUGGCCGGA------------------------
+NFA_55520    GG-CU---C--GCGGG-CAGCGGA--------------------------
+NFA_37590    GG-CG---C--CCGGC-GGGAAUC--------------------------
+NFA_30830    CG-GC---G--GCGCG-CAAACCG--------------------------
+NFA_19840    AC-CG---G--UCUCG-ACCCGAC--------------------------
+NFA_4120     CU-GC---C--GCCCG-GGCGAAUCGUG----------------------
+NFA_18800    CG-UG---G--AGCCC-GGCGACC--------------------------
+NFA_14090    GC-GG---C--GCAUC-GGCAA----------------------------
+NFA_18650    CG-UC---G--GCGCC-GAGCA----------------------------
+NFA_14600    AC-GG---C--CCGCC-ACCGCGC--------------------------
+NFA_42340    GA-CC---C--CCGGC-UCGG-----------------------------
+NFA_51880    AC-GG---C--GCCGCCGAAUCCG--------------------------
+NFA_8760     CA-CC---G--UCGAA-UAGCGGC--------------------------
+NFA_40910    AA-GG---C--CCGCC-ACCGGAUC-------------------------
+NFA_22620    UG-CC---A--CCCCG-UCGCC----------------------------
+NFA_13970    CG-GG---G--CGGUG-GCCGCGA--------------------------
+NFA_17040    AC-GG---C--CGCUC-GUCCACCC-------------------------
+NFA_42210    CG-CC---G--CCACC-GCACCCC--------------------------
+NFA_49270    CG-GU---G--ACCCC-GCCCGUC--------------------------
+NFA_37760    AC-GC---C--GGACG-UGUGCGC--------------------------
+NFA_45960    GG-GA---G--GCACC-GGUGUCA--------------------------
+NFA_1930     GG-CU---C--CCGGU-GACCGGC--------------------------
+NFA_19300    CC-GG---G--CGACG-CUCGACCG-------------------------
+NFA_52270    GC-GG---G--CCGCC-UCUCCGUG-------------------------
+NFA_18010    CG-CG---C--AUGCC-GAACCGU--------------------------
+NFA_2430     GC-GG---C--CAACC-GUACUCCCCA-----------------------
+NFA_10080    CG-GU---C--AGCCG-CAU------------------------------
+NFA_20310    AC-CG---G--CGAGU-CCACCGC--------------------------
+NFA_46950    GG-CC---G--GGUGA-GCAUUUC--------------------------
+NFA_37750    AC-GC---C--GGACG-UGUGCGC--------------------------
+NFA_31870    GG-CC---G--CCGCC-GGUCCCC--------------------------
+NFA_13170    CG-GC---G--CGCCC-AUCCGCGA-------------------------
+NFA_10820    GC-GC---G--GCGUG-GGGGCCGGGAU---------------------C
+NFA_19000    CG-GC---C--CGGUG-GCGAGAGU-------------------------
+NFA_56170    GG-CC---G--GGCAC-GAGGG----------------------------
+NFA_38870    GA-CC---C--CCCUGAUCCCGAG--------------------------
+NFA_18490    CC-CG---C--UCGGG-CUGUAUCGG------------------------
+NFA_51110    AC-GG---G--CGGUC-CCAUUUC--------------------------
+NFA_19060    GC-UC---C--GCACC-GCCCGAA--------------------------
+NFA_6560     AC-GG---C--CCGCG-CCCCCGGAC------------------------
+NFA_12960    CC-CG---G--GCUCG-CCCUCGC--------------------------
+NFA_20180    GC-AC---C--CGGCA-AUCGUGU--------------------------
+NFA_31800    AG-GC---C--GCGUC-UCCCGUU--------------------------
+NFA_39620    CU-CG---C--UGGUG-GAGUCUGGCUAAGGACU---------GGUGGUU
+NFA_4330     AA-AG---G--CUGUC-GCACCCG--------------------------
+NFA_10410    AC-GG---C-UCGCAC-GCGUACG--------------------------
+NFA_5300     GG-CC---C--CCGCC-GGUUGUU--------------------------
+NFA_55680    GA-GG---G--GGCUCGCAGCGAC--------------------------
+NFA_46070    CC-GG---C--CCGUUCGCCACCC--------------------------
+NFA_5250     GC-CG---G--UCUCCGGAGCGCCCCGC----------------------
+NFA_7290     GA-AC---G--CGGCU-GAGGCCGGCCCCGA---------------GGCC
+NFA_310      AC-UG---C--ACCCC-GAA------------------------------
+NFA_18540    AG-CC---G--CCCCG-GCUCGCC--------------------------
+NFA_54210    GC-CC---G--GAACC-GCCCA----------------------------
+NFA_10520    AG-AG---G--GCCUC-GCGCA----------------------------
+NFA_45530    CG-AG---G--CGGAC-GCACCAC--------------------------
+NFA_6790     GG-CG---C--GCGCC-AACCCCUUU------------------------
+NFA_45280    CC-GC---U--CAGGCUGUGUCGUU-------------------------
+NFA_29860    CC-GC---C--CCGUC-GCUCGCC--------------------------
+NFA_31640    CC-GG---G--GUGAG-UCGC-----------------------------
+NFA_41630    GG-CC---C--CGCUC-CCACCGGACAG---------------------C
+NFA_49850    AG-GC---G--GGCCC-GUACGCC--------------------------
+NFA_30690    GG-GG---G--CCGGU-GCAGC----------------------------
+NFA_18710    AC-GC---A--CGGAG-GUGCACC--------------------------
+NFA_8210     G---G---G--UGAUG-CCGUCCC--------------------------
+NFA_33570    GG-CC---G--CAGCG-GAUCG----------------------------
+NFA_13690    GG-GC---C--GCGGU-GUCGAA---------------------------
+NFA_38610    AC-CG---G--UGACC-GAGGCC---------------------------
+NFA_29480    AU-GC---C--GGGUC-GCUCCCACA------------------------
+NFA_16420    CC-GC---C--CCGCG-UUG------------------------------
+NFA_44960    CC-GG---U--CGGCC-ACCCG----------------------------
+NFA_39160    CG-AC---C--UCCAG-CAUG-----------------------------
+NFA_19010    GC-CC---G--GCGGC-GAACU----------------------------
+NFA_16980    GU-GC---G--GUGGC-GGGCAGG--------------------------
+NFA_8400     AU-CG---C--GAGUC-GUCUCCG--------------------------
+NFA_26800    CC-CC---C--GCCCG-UUUGUCA--------------------------
+NFA_46220    UC-GC---A--CCGAC-CUCGAUAC-------------------------
+NFA_23280    GG-UG---C--CCGUC-CCGGGAUGU------------------------
+NFA_52080    CG-CC---C--UCGCG-CACGCUG--------------------------
+NFA_47630    CC-CG---G--UCGCC-GAUUCC---------------------------
+NFA_970      GG-CG---C--CCGUG-GACAACU--------------------------
+NFA_23130    AU-UC---C--GCCGC-CCGCAAUU-------------------------
+NFA_18040    GC-CG---C--CGCUC-CCUGACC--------------------------
+NFA_6550     GC-GG---C--GCCGGCACCCGUGA-------------------------
+NFA_44590    AA-CC---G--CCGCG-GCCGUUC--------------------------
+NFA_14760    GG-AC---C--CGAGC-GACAGGG--------------------------
+NFA_37210    GC-CC---G--GCGCG-GCCUCGGAGGUGC-----------------ACC
+NFA_37060    GG-GC---C--GGGCG-GCAGCGA--------------------------
+NFA_19780    GC-GG---G--CGGUG-GCACGAGG-------------------------
+NFA_2740     UC-AA---C--CGCGC-GAGAUCG--------------------------
+NFA_56350    AG-GA---G--CGGGCCGUUCGCU--------------------------
+NFA_16500    CG-GG---C--CGGCC-GGUUC----------------------------
+NFA_18080    GC-CA---C--CCGCC-GCAGCCGAC------------------------
+NFA_35800    GG-CG---G--CCCCG-GGAAGCU--------------------------
+NFA_33320    GG-GU---G--GCGAC-GAGCGCC--------------------------
+NFA_19980    CC-GG---C--GCGCC-GCGAC----------------------------
+NFA_1730     CG-CC---C--GCGUG-GAGCG----------------------------
+NFA_49500    UC-AG---G--CGGGC-GAUUCGGUAU-----------------------
+NFA_30190    UG-CC---G--GUGGC-GUGCUCG--------------------------
+NFA_53820    GG-GC---C--CGAGC-UCAUGAGUCUGGA------------------UG
+NFA_21330    GG-CG---A--CGGACGGACAC----------------------------
+NFA_4890     GC-CG---G--GGCUG-GUGA-----------------------------
+NFA_45650    GG-CC---G--CCGCU-CGGCUCCA-------------------------
+NFA_80       GG-CC---G--GUACC-GCCCACGA-------------------------
+NFA_25260    CG-UC---G--CGCCG-ACCGGCACC------------------------
+NFA_55070    GC-CG---C--CGAGU-ACCCCACGC------------------------
+NFA_25080    GC-CG---G--UGUGG-ACGAGGGUCC-----------------------
+NFA_34240    AC-GG---C--GUCCC-GGCUCUC--------------------------
+NFA_35070    GG-UG---G--GGGCG-AGGCCAC--------------------------
+NFA_46730    GG-GC---G--GCGGC-ACGCUCGC-------------------------
+NFA_16410    AU-UC---G--CCCCU-GUGCCGUCC------------------------
+NFA_54340    UC-GG---G--CGCCC-GUCGUGC--------------------------
+NFA_54590    GC-CG---C--GCUCG----------------------------------
+NFA_30520    GG-CC---G--ACGCG-GCGAGCC--------------------------
+NFA_47940    CG-GC---C--GCCCC-GCGGGAU--------------------------
+NFA_45810    AG-CC---C--GGCACUUCGUACG--------------------------
+NFA_17820    CG-GU---G-CCAGCC-GUCCCGC--------------------------
+NFA_51530    CG-CG---G--UCCAC-GCUGG----------------------------
+NFA_25980    GU-GA--GC--UGAGGGCGUGC----------------------------
+NFA_33990    CG-AC---C--AGCAC-CAGCUC---------------------------
+NFA_49610    CC-CU---C--GCCCG-GCGGAGC--------------------------
+NFA_7960     GC-GG---C--GACCCGCGGCGAUCU------------------------
+NFA_16310    GG-AA---G-GCAGCC-GCUGAUG--------------------------
+NFA_42360    CG-GC---C--CGUCC-GCGUGGCA-------------------------
+NFA_28680    UG-AA---C--UCCUGCCAU------------------------------
+NFA_2090     GA-CC---C--CGCCC-GUUC-----------------------------
+NFA_41970    CG-AC---G--GCGUCGGUGAA----------------------------
+NFA_3400     AA-CU---G--AGCCC-GCGAU----------------------------
+NFA_9780     GG-UG---G--CCGGU-UCCCGGA--------------------------
+NFA_2730     AG-GC---C--CGGUC-CAGCGCAUAC-----------------------
+NFA_8960     GG-GC---A--UGACCUGGCGCGC--------------------------
+NFA_4710     CC-UC---CUGUUAAU-AUAAGUACA------------------------
+NFA_54730    AU-CG---G--CUCCC-CACCCGGAC------------------------
+NFA_11590    GG-GC---G-GGCUCG-GCGCGCC--------------------------
+NFA_12610    GA-CG---U--CCCAG-CACCCGC--------------------------
+NFA_22840    UC-CC---G--CACCCGGAGCGCC--------------------------
+NFA_7280     GA-AC---G--CGGCU-GAGCCGGGGCCUCG---------------GGGC
+NFA_4160     AG-GC---C--CGCUC-CCAGG----------------------------
+NFA_1340     CU-GAUCGG--CCGCG-GCAGUGG--------------------------
+NFA_9520     GU-CG---G--CCCAC-CGCCGAAU-------------------------
+NFA_2080     AC-CU---C--GUCCC-GGGAC----------------------------
+NFA_13480    CC-CG---G--UGAGC-GAGGACA--------------------------
+NFA_9670     GC-CG---C-GCACCG-GCGCGAGUGC-----------------------
+NFA_42250    GA-AG---C--UCCGC-ACCGGAU--------------------------
+NFA_3750     GG-CC---C--CGGCU-GAGG-----------------------------
+NFA_13230    GA-CC---U--GCUGC-GCACCGU--------------------------
+NFA_48660    CG-UG---G--GCACC-GCGCUCA--------------------------
+NFA_52050    AG-CC---G-ACGGCU-GCAACCG--------------------------
+NFA_36270    GG-CG---C--CCGGC-CGGGG----------------------------
+NFA_9770     UU-UA---C--UCCGG-UAAUU----------------------------
+NFA_52290    CC-CC---G--UUACU-GCACGGC--------------------------
+NFA_39180    GC-CC---C--GCGCG-UGAUUCCU-------------------------
+NFA_36010    G--CU---G--GGACG-GCCC-----------------------------
+NFA_29070    AC-CG---C--UGACC-GCGGGGGC-------------------------
+NFA_26130    CC-CA---C-UUCGGCGAAACACC--------------------------
+NFA_36160    GUCCG---G--CGGCC-GCCGCGU--------------------------
+NFA_16970    GU-GC---G--GUGGC-GGCCUGC--------------------------
+NFA_27110    GG-CG---C--UGCGC-GAUUGAC--------------------------
+NFA_28230    CC-GG---U--GGCCG-GCGC-----------------------------
+NFA_18740    GC-CC---G--GCGGU-GCGGUGGGGA-----------------------
+NFA_17310    GG-CC---C--CGGAU-CGGGAUG--------------------------
+NFA_39770    GG-GC---G--GGGACGGAGU-----------------------------
+NFA_30390    CG-UG---G--GUGGG-CUGUUCGCG------------------------
+NFA_13250    GG-GU---G--CCGCCCGCCC-----------------------------
+NFA_13510    GG-CG---G--CGGGG-GAAAU----------------------------
+NFA_48000    CG-GC---C--GCGUC-CCGCUCC--------------------------
+NFA_50880    GC-GG---C--GGACG-CCCUCGU--------------------------
+NFA_24790    UC-GG---G--GGCGG-CUCCUUCGG------------------------
+NFA_24370    CC-UG---G-ACGCCG-UGACCUG--------------------------
+NFA_15650    GA-AC---G--GGGCG-UCUCC----------------------------
+NFA_33680    UC-CC---G--CGGCU-GCACUG---------------------------
+NFA_13030    AC-CG---G--UCUCU-GAGUGC---------------------------
+NFA_54870    GG-CC---G--UCACC-ACU------------------------------
+NFA_13360    GA-CG---C--CGCGC-GACCCGAG-------------------------
+NFA_8230     AC-GG---C--CGGUC-GACACCG--------------------------
+NFA_44450    GC-AG---C--UCACC-GUUCU----------------------------
+NFA_29840    AA-GG---G--CCCCG-GAUUC----------------------------
+NFA_6220     GG-GG---G--UCAUC-GGCGUCC--------------------------
+NFA_3740     GG-CC---C--CGGCU-CCUC-----------------------------
+NFA_17100    CG-GC---C--GGUCC-GGGCAUU--------------------------
+NFA_35700    GG-CG---C--GCAAC-GAGAA----------------------------
+NFA_22600    GU-GG---C--UCGCG-GCGGACC--------------------------
+NFA_13110    AG-UG---A--GGGCG-GCCGGUG--------------------------
+NFA_45220    GG-CG---C--CGCCG-UCCCGAG--------------------------
+NFA_15080    AG-UC---G--CCUGC-GAGGGUUCC------------------------
+NFA_15920    AA-GC---U--UCAAU-CAC------------------------------
+NFA_28060    CU-CC---G--GUUGC-CGUCGGU--------------------------
+NFA_6760     CC-GG---C--CGGUC-CCCGC----------------------------
+NFA_12820    AG-GC---C--CCCGG-CACCGCC--------------------------
+NFA_14440    GG-UC---G--ACGGC-GAGGUGC--------------------------
+NFA_41960    AC-GC---C--CCGGC-ACCCCUUCG------------------------
+NFA_56030    AC-CG---G--CCGGG-UGGGU----------------------------
+NFA_21110    CC-GG---G--CCGGCCGGGUCCGC-------------------------
+NFA_24090    GG-UC---A--CCGCG-AACCUCCG-------------------------
+NFA_19610    GC-UC---A-CCGACC-CCA------------------------------
+NFA_38700    CG-CG---G--CGAGC-UCGGCGG--------------------------
+NFA_17520    GG-CG---C-CUGCCC-UUUGGCGC-------------------------
+NFA_3370     CG-UC---G--CAUCG-AAUCC----------------------------
+NFA_21290    CG-CG---C--GGGCC-GCCCG----------------------------
+NFA_24120    CG-CC---G--GGCCC-GCGCACC--------------------------
+NFA_7710     CA-CU---G--UAAUA-CAAUU----------------------------
+NFA_5020     CG-CC---G--GGUGG-GGU------------------------------
+NFA_3550     CA-CG---G--CCGGC-GACGAGU--------------------------
+NFA_8950     GA-CG---G--CCGGGCACCCCAG--------------------------
+NFA_16040    GC-GC---C--CGCCG-CCUCC----------------------------
+NFA_37170    UC-GU---C--GCGGC-GAGUGUGUGAA---------------------C
+NFA_1880     GC-CC---G--GCGCG-GAUAUCG--------------------------
+NFA_17320    GC-GC---G--GGCCGCGGAUCGC--------------------------
+NFA_44950    AC-GG---C--CGUCC-AUACCCCGG------------------------
+NFA_46060    GG-CG---G-GCCGGU-GGUAGCA--------------------------
+NFA_49390    AC-UC---G--CCACC-UCGU-----------------------------
+NFA_41990    GC-CG---G--GCCGGCGGACAGC--------------------------
+NFA_1810     GC-UG---A-GCCGGC-UCGGGCGCGUCGGA----------------UAC
+NFA_28240    AC-CG---G--UGGCC-GGUGC----------------------------
+NFA_32750    CC-GC---C-CUCGAC-AACUGAG--------------------------
+NFA_18620    AC-CC---G--GCCGG-UCGCG----------------------------
+NFA_12360    GG--U---G--CGCCG-GAUUCCG--------------------------
+NFA_52060    AG-CC---G-UCGGCU-GAGGCGG--------------------------
+NFA_35100    AG-GU---G--UGGCG-CCGGG----------------------------
+NFA_52780    GU-AG---G--UUGAC-GCACCUGA-------------------------
+NFA_6360     AU-CA---G--GCCCC-CGCCUCGAA------------------------
+NFA_2160     GG-GC---A--UCGGA-GACCC----------------------------
+NFA_8530     AA-UU---C--GAGCC-CCGGGCGCAC-----------------------
+#=GC SS_cons <<.<<...<..<<<<<.<<<____..........................
+#=GC RF      gg.cc...c..CcgcC.Gcccccg..........................
+
+NFA_55140    ----ACC-CGUGG--GGCAUG--------UUC--UCGU--G-CGCCG
+NFA_39650    --AGGUG-ACCGG--GCAGU--------------UUAC--G-U---G
+NFA_35080    GCCGGCC-GUUCG--CCGAUACC----GCCUCG-GCGG--U-CCCCG
+NFA_18770    ---GGUG-GACGA--CCCGU---------UUCG--UUC--U-CUCCG
+NFA_31140    -ACGAGG-GAAAC--GGCCU--------------UUUC-CG-UGCCG
+NFA_36660    ----GUG-AGCGG--GCGUU--------------UCGC--G-GUCCG
+NFA_44940    ---CGAC-CCGCA--CCGGU----------CCG-UUGC-CG-UGCUG
+NFA_36670    ----GUG-AGCGG--GCGUU--------------UCGC--G-GUCGG
+NFA_28650    ----AAU-GGCGC--AUUGC--------------UCGC-UGAUGCUG
+NFA_6040     ---GCCC-GGGCA--GAGCG--------------CCGA-AA-GACCG
+NFA_23090    -----UC-GCCCG--GCCCU--------------UCGC--G-GUGCG
+NFA_31150    CGAGGGA-AACGG--CCUUU----------UC--UCGU--G-GUGCG
+NFA_7770     -----GA-GUCCG--UGCCU----------UCG--CGC--G-CAUGG
+NFA_49780    ---GACC-AGGA--ACCCGCC--------CUCG-UCGC-G---UUCG
+NFA_45310    -AGGGGU-GAGCG--GCUCG---------UCUGCUUUC--G-CGUAG
+NFA_56250    UCUCCAC-CGCCG--GAGGU--------------CUUU-CG-GGCGG
+NFA_26020    ----UCC-GGGCA--GGCCG--------------UCAU--U-CGUCG
+NFA_5160     ----GGU-CGCAC--UGCGC---------UGCG-UUGU-G---CACG
+NFA_6030     -----GC-GCGGG--CCUUU----------CCGGUCUU--U-CGGCG
+NFA_39140    -----CA-GGUUC--GGCCU--------------UCGC-C-------
+NFA_50980    -CGGAGC-GGGGG--CCGUU--------------CUGC--U-GUUCG
+NFA_12570    GGGGGAC-GAUCC--GGCUU---------CUCG--CGU-G---UUCG
+NFA_9650     -----GG-AACCG--GGGGC----------UCG-ACGG--G-UGUCG
+NFA_20440    --ACGGU-GGUCG--GCAUCGAC----GAACCG-ACUU--A-UAUAG
+NFA_19050    ----GGC-GGUGC--GGAGCC--------GUCG--CGU-AU-CACCG
+NFA_53220    --ACCGC-CGGUG--GGCAG-----------CG-GUGU--GCAUCCG
+NFA_28870    ---CACC-GAUCG--CCGAUC--------AGCG--CGU-U---UCCG
+NFA_41470    --GUCA-UGGUGC--CGGGC--------------UAGU-CU-GUUCG
+NFA_30340    ----ACU-GAUCG--UUCCU--------------CAAC--U-G---G
+NFA_8970     -----GG-UGCGG--GCCGU----------UCG-UCGU--U-CGCGG
+NFA_16170    -ACGGCU-CGACC--CCACCGGU----GUUUCG-A------CUUACG
+NFA_55750    -----CA-CGGGG--GUGAU---------GACG-GCUG-CG-CUCCG
+NFA_7930     ----CUC-GUCCG--GUGCC--------------ACUG--U-UAGAG
+NFA_9660     ---CGGA-ACCGG--GGGCUC--------GACG-GCGU-C---UCAG
+NFA_24680    ---UCGG-CCGCC--GGAAC--------------GCGG-GG-GGUCG
+NFA_39240    GACGGGC-GGCAC--GGGGA--------------UGGG--U-U---G
+NFA_54060    -----GC-GAUCC--GGCCC----------UCG-UCGU-C---UCCG
+NFA_48060    ---CUGC-CGUGA--UGACCG--------CUCGAUCUC--G-U---G
+NFA_51140    -----GC-GUUCC--CACCC----------UCA--CGG-CG-UUCCG
+NFA_18120    UGCCCGC-CGGGU--CGCCG----------GCG--UGC--G-UACCG
+NFA_38520    ---GGUG-AACGG--CCCGU--------------UGGU--U-UUUCG
+NFA_3840     ----GCC-GGACG--UCCCU---------UUCG-CCGU--G-UGCGG
+NFA_55130    ----ACC-CGUGG--GGCAU---------GUCG-UCGC--G-CGGCG
+NFA_35620    -GUCGCA-GCCGG--UCACC---------CCC--UUUU----CUCAG
+NFA_49860    -----CG-GGCCC--GCCUC----------UCG-UCGU-CU-CCCGG
+NFA_1920     ----UUC-CGCGA--CCACGGC------CCUUGUUCGU--ACGUCCG
+NFA_7020     UGGGCUC-GCUGG--UCCGCUG-----UGCUCG-UUGU-C---CUGG
+NFA_26080    CAGAUUC-CACCG--GAAAU-----------CGCCCGU-U---UUCG
+NFA_51190    -----UC-GUCCG--GCCCUG--------AGCG-CUAU-C---UGCG
+NFA_15900    ---UGCC-GGGCC--CGCCG----------UCG--CGC-GU-UGUCG
+NFA_38980    -AUCAGG-GUCGG-ACGCUUCA------CUUCG-AUUC-UG-GCUCG
+NFA_23100    -----UC-GCCCG--GCCCU----------UC--UCGG--U-GUUCG
+NFA_1960     ----GUG-CGCGG--CCCUC--------------CGGC--G-UUCCG
+NFA_6370     --AGGCG-GGGGC--CUGAU--------------UCGU-A---UCCG
+NFA_640      -----GA-GGUGG--GGCCG---------UUUG--CGU--G-U---G
+NFA_12600    -----GG-UGCUG--GGACG--------------UCGC--G-GGCCG
+NFA_54190    -----GG-AGCGG--GCCGU--------------UCGU-CG-UUUCG
+NFA_33600    -----GC-GGUGG--CUCGCU--------CUCG-UCGAUCG-UUCAG
+NFA_50320    ---CGAC-AGCGG--CCCACG--------ACCG--UGC-UA-CUCCG
+NFA_54790    -----UG-CUCCG--GGGUU----------CCG-CCGU-U---UCCG
+NFA_13340    GGCGUGC-CGCCC--GGCCG--------------GUGC-CGGAAACG
+NFA_2860     --CCGGU-GGCGG--GCUCU----------UCG-CUGU-C---UCCG
+NFA_33610    -----GC-GGUGG--CUCGC--------------UCUC-GU-UCUCG
+NFA_17090    ---CGGU-GGGGC--GCUGU----------GCG-UUGU-CG-GGACG
+NFA_18970    --------GGUCC--GGGGG----------UCG-UCUG-CG-UUCGG
+NFA_54170    ----CGC-GGGCG--GCCUU---------UCCG-CUGU-C---CCGG
+NFA_3450     CGGAUCC-GCCGG--GCCGU--------------ACGG--U-GCUCG
+NFA_7210     --AGUGU-GCGGG--GCGGU----------UCGCUUUC-U---CACG
+NFA_31710    ---GUUC-GCGC--ACGGGCCC-----GAGCCG--UGU--G-CGUGG
+NFA_21490    -CGGUUC-GGGGC--CGCGC--------------CCGC--U-CGCCG
+NFA_20970    -----UC-GUCGC--CGGCC--------------GCGACG---ACCG
+NFA_9690     AACAGUG-----G--GGUAU---------CCCG-UUCC--G-UGCCG
+NFA_38670    ----GCC-UCCCG--GCCCU----------UCG--CGU--G-AACGG
+NFA_16860    -UCCGUC-GACCG--AGCAC---------ACCGCCCGC-A---AGCG
+NFA_5290     ---AGGC-GGCGG--GUCGG--------------UCGC-GG-UGGCG
+NFA_4250     ----GAC-CGCAC--CGCCC--------------UUUC--U-CGUCG
+NFA_37360    GGCAUGC-GCCGG--GCGGU---------GUCG--CUU--U-CCUAG
+NFA_7620     ----UUC-CGGAC--GGGCCC-------GCUCG--UGU-CA-CUGCG
+NFA_48310    ----UUC-GCGGC--GGACGU-------GGUCGAUUGC--G-GCCGG
+NFA_38990    -AGCAGG-GUCGG-GCGCUUC--------ACC--UUGU--U-GACCG
+NFA_1010     ----GCU-CCCGG--CCCCG--------------UCGC-AU-GUCCG
+NFA_22420    -----GC-GGAGC--CGUCG--------------GUGU-G---UCGG
+NFA_45520    --------GACGG--AGCCC---------ACCG-AUGU--U-CACC-
+NFA_48120    GUGCGGA-CCGGG--CCGUU---------CGCG-UUGU-CG-A---G
+NFA_52750    -----GU-GGCCC--GGCUC----------UCG-GCCG-U---UCCG
+NFA_6240     UCCGUGC-GGCAC--CGUCG---------UCCG-GCUC--G-UUCGG
+NFA_49580    -----GU-GACGG--GCCCG---------UUCG-UCAU--G-GGAAG
+NFA_10150    CGGGCGC-GCCGG--GGUUCA--------CCCG-UUUC-UG-CGCUG
+NFA_7610     ----UUC-CGGAC--GGGCCCGC---UCGGUCG-GUGG--G-GUCAG
+NFA_43350    ---GGCC-CACCC--GCCCU--------------CCGG-GG-U---G
+NFA_6070     -----UC-GGCGG--CGGCG----------CUG--UGC--U-GUUCG
+NFA_17210    UACCGUC-GCGCG--GGCGG---------UGUG-UCGU-G---ACCG
+NFA_51130    -----GC-GUUCC--CACCC--------------UCAC--G-GACGG
+NFA_45700    --CGGAA-CGUCG--AGGGC----------UCG-UUUC--G-U---G
+NFA_15560    ----AGG-AUCAG--CGGGG----------GCGUUCGU--G-UACAG
+NFA_29110    ---GGUC-CGGGG--CCCCG----------ACG-GUGU-U---UCCG
+NFA_45340    --CGCGC-GGGAU--CGGCC----------GUG-UCGG--A-GGCCG
+NFA_42350    ----AGC-CGGGG--GUCUC---------GCCG-UCGG--A-UGGAG
+NFA_42780    ----CCG-GCCGG--GCAUU---------GUCG-UUUC-C---UCAG
+NFA_54180    ----GAG-CGGGC--CGUUC--------------GCGG--G-AAUCG
+NFA_38680    ----GCC-UCCCG--GCCCU--------------UCGU-C---ACGG
+NFA_52280    ----GGA-GAGGC--GGCCCG--------CUCG-CCGC-G---UCAG
+NFA_1270     ---GACG-AGCCG--GGCCU---------GUCG--CAU-CG-U---G
+NFA_22470    -CGGCGC-AACCC--GGGGUC-------UUUUG--UGA--U-UUUCG
+NFA_50890    -----GG-CGUCC--GCCGC----------UCGUGUGG--G-UGCCG
+NFA_2800     CGUCGGG-CGGGG--CCGGU----------UCG--UGU--G-UCCAG
+NFA_45800    ----A---GGCCC--GGUAG---------CGCG-AUAG--A-GCCCG
+NFA_29960    -----UC-GGUGA--GCAGC----------CCG-UCGC-A---CGCG
+NFA_10       -----CA-GGGGC--GGUGC--------------UUUU--U-U---G
+NFA_12690    ---GACC-GAUCG--CGGGGC-------GUGCG-UCGU-AGGAUGCG
+NFA_42300    -----GC-GGGCG--GCCCUUC------GCGCG-UCGU-GG-GACCG
+NFA_49840    -----CC-CGGAG--GCCCU---------GCCG-CUGU-C---CAC-
+NFA_56240    ----GUC-CCACC--GCCGG--------------AGGU-GU-AUUC-
+NFA_16720    AUCCGCC-CGGCG--UCGGC---------CCCG-CACC-C---GCAG
+NFA_48350    --------GGUGG--CCGCCCU-----CUGUCG-UCGC-G---CCCG
+NFA_54200    ----UCC-GAUCC--GGGGC-----------CG-UUGC-CU-UCUC-
+NFA_48270    ----CGA-GUGCG--GCCGC--------------UUGC--G-UACGG
+NFA_6250     ----CUU-CGUGC--GGCACC--------GUCG-CCGU--U-UUCCG
+NFA_43060    GAAUCUC-CCGGG--CCCGU----------UCG-GCGC--G-AACCG
+NFA_45830    --GGAGA-GGCGU--GCCGC----------UCG-GUAU-CGAUACCG
+NFA_45020    ----CGC-CGCGG--CGUCG--------------UCGU--G-UGUGG
+NFA_49830    -----CC-CGGAG--GCCCU---------GCCGGUUUCACGCUGUCG
+NFA_53520    -----CC-GGGCG--GGGUU---------GUCGGUUUC--GUCCACG
+NFA_38250    -----AC-CCGUC--CGGCA----------UCG-UCGU-C---UCCG
+NFA_12210    CCUGGUG-CGCCG--GGGGC----------CC--UUUC--G-UAUCG
+NFA_8980     -----GG-UGCGG--GCCGU--------------UCAC-UG-CCUCG
+NFA_5930     GGGUUGC-CGCGG--GGCCG--------------UUUC-GU-UGCCG
+NFA_15910    ----GGC-CGGAC--CCGCCGU------CCGCGAGCGU--U-GUGCG
+NFA_21770    ----UUC-GGUAC-ACCGAC--------------GUAC-C---ACCG
+NFA_54720    ---GGGU-GGGGA--GCCGA--------------UUUC--G-UUGCG
+NFA_56390    --UGCGC-GGUCG--GCGUC--------------UCGC-G---UUCG
+NFA_10660    --UCUUC-GCCGC--CGACA--------------ACGC--U-AUUCG
+NFA_12280    --------GGGCG--GGGGC---------AUCG-UCGU-AU-CCCCG
+NFA_45880    ----G---GUCGG-UGCCGU--------------GCGU-C------G
+NFA_24970    ---CCGG-GGCGA--GGCGU----------UCG-UCGU--G-CGUCG
+NFA_22940    -GGACUC-CGGGC--GCCGC--------------GGGU--G-U---G
+NFA_34430    -----GC-CGCCG--CACCG---------GGCGCUCUC--G-C---G
+NFA_37860    ---CGCC-GUCCG--GCGUC---------CUCG-GUGU-C---UCGG
+NFA_50750    ----GGG-GCGGC--GCCGU----------UCG-GCGU-U---UCCG
+NFA_3850     ----GCC-GGGCG--UCCCUU-------UCUCG-UCGC-GGUGUGCG
+NFA_1790     --CGGGC-GCGGU--CCGCC--------------UCGU-C------G
+NFA_48260    ----CGA-GUGCG--GCCGC---------UUCG-UCAU-C---UCCG
+NFA_56510    -----CG-UCCGC--CGGGC--------------CUGA--U-CUGGG
+NFA_21670    ----CCG-GUUCC--GGCCC--------------UGUC-CG-UGUCG
+NFA_22930    -----GA-CUCCG--GGCGC---------CGCG-UCGU--G-UCCGG
+NFA_11560    ---AGCC-CGGCG--GCAUCG-------ACUCG-ACUG--U-GCGCG
+NFA_31110    ----GAU-UCGCG--GGCAG--------------GUUU-C------G
+NFA_15350    ---AGCC-CGCGC--CGGCC--------------GCGG--A-G---G
+NFA_3250     --------CGCAC--CCGCC-----------CG-GCUC--U-UUUCG
+NFA_6280     ----CCC-GCGGC--GGUGC--------------CCGG--A-CCGCG
+NFA_12660    ----GUC-GAUCC--GGGUG---------U-----UUU-CGCGUUCG
+NFA_6190     ---CGGU-GCGCC--GCCCG----------UCG-UCGG--U-CUCAG
+NFA_40730    --CGGGC-CGGGG--CAGCG--------------CCGU--U-CCCAG
+NFA_3660     ----CGG-GAUGA--GGGAC--------------GAGC-UGUAUCCG
+NFA_13000    ----CCC-GCCGG--CCGCC---------GUCG-UCUG-C---UCAG
+NFA_630      -----GA-GGUGG--GGCCGA-------UUUCG-UCGU-A---UCCG
+NFA_47090    ----UGA-GCGGG--GCGCC----------UCG-GUGC--U-GUCCG
+NFA_50330    --------GACAG--CGGCC---------CACGGUCUU-U---CCCG
+NFA_46330    -----UC-CACGG--GCCCU----------UCG-GCUG--U-UCUCG
+NFA_55920    --CCAGG-CGCGC--CCGGGG--------GCCG--AGC--G-AACCG
+NFA_8870     -----UC-CCGGG--GGCCU----------UCG-UCGU-U---UCCG
+NFA_7180     -----UG-CUUGG--CCCGA--------------GCGG--G-CGCUG
+NFA_54600    ----UCC-UGGUG--CCGCC--------------UUUC--U-UUUCG
+NFA_49900    -----AC-GGAAG--GCGGCC--------UUCG-UCUU-C---GGCG
+NFA_37200    -CUCCGA-GGCCG--CGCCG---------GGCGGUCUU-CA-CCCGG
+NFA_1900     ---AGGU-GGGCG--GCCCG---------AUCGGUCUG--A-CCCCG
+NFA_13540    -----AC-CCUGA--CCCGCU-------UUUCG--UGU----UCUCG
+NFA_37870    -----AC-CGUCC--GGCGU----------CC--UCGG--G-GGCGG
+NFA_31270    GUAGGGC-CUG-C--UCACC--------------UCGU-AGGUGCCG
+NFA_45350    --GGCGC-GGGAU--CGGCC--------------GAGG-GGGCUCCG
+NFA_30550    ----GGU-GGUCG--GCAGA----------CCG-GCGC--A-AUCC-
+NFA_42280    ----GGU-GUCGG--GCCGU--------------UCGG--U-GUUCG
+NFA_27190    --GGGUC-GUCCG--GCGCG----------CCG-GCGU-C---UCAG
+NFA_51360    CGAGACG-GGCCG--CGACCA--------CUCGGUUGU--U-U----
+NFA_38430    ----AGC-AGCCC--GAUCCG--------GUCG-ACGA-CA-U---G
+NFA_1150     ---GGUG-GACGG--GGGCC--------------UUUU-CG-UGUCG
+NFA_43840    ----GCC-GCCCG--GCGCUC--------GUCGCUCUC--U-CAUCG
+NFA_2590     -----UC-CACCG--GGGCCGU------UUCCG--UGC--G-UUCCG
+NFA_42200    -CGGAUG-CGGGG--CCCGU---------CCUG-UCUC--G-UUCGG
+NFA_49310    GCCCUUC-GCGCU-GCCGGA----------CCG-GCGU-C------G
+NFA_720      GCGGGGU-CGGCG--CGGAG----------CCG-UUGC--G-G---G
+NFA_25040    ----GGC-CGGGG--GUUCG--------------UUGC--G-CCGGG
+NFA_27140    GGUGAUU-CGCGG--CCGGG----------UCG-CUGG-GU-AACCG
+NFA_21660    ----CCG-GUUCC--GGCCC---------UUCG--CGC-CGGCCUCG
+NFA_10060    ---UCCG-GGCCA--CCCCU----------UCG--CGU-CG-GGCGG
+NFA_45030    ----UGC-CGCGG--CGUCG--------------UCGU--G-UGCAG
+NFA_19160    GCAACCC-GCGGG--UCGUU--------------UCGGCU------G
+NFA_13350    --UCGCU-GGGAC--CGAAC--------------GAAU--U-UCGAG
+NFA_35960    --AGCGA-CGGCC--CCGAU---------GUCGUUCCC--U-U---G
+NFA_21300    --CCACC-GCCGA-CCCCCG--------------UGAU--G-UGCCG
+NFA_180      ---CCGU-CGCCC--CACCU----------GCA-CCAC-A---CCCG
+NFA_54630    ---UGUC-CCGGG--GGCGG--------------UUUC--G-CCUGG
+NFA_7420     ---CGGA-AGCGG--GCCUUC-------GUCCGUUUGU--GCAUUCG
+NFA_21220    -AUCGGC-CGGGC--GGGCU--------------GCGG--U-C----
+NFA_25880    ----GAU-CGCGG--CGCUU-----------CG-CCGG-U---UCC-
+NFA_5190     --------GUUCG--GGGGCC--------CUUG-UCGU-GG-GUUCG
+NFA_38330    -----CG-CUGAC--CGCGCCGGC--GCACGCG-UCGC-CG-GUCGG
+NFA_29120    ---AGUC-CGGGG--CCCCG--------------ACGC--G-UGCGG
+NFA_8710     --AGCAC-AUCCC--CGCGC--------------CCGC--G-UUUCG
+NFA_38280    ----AGC-GCCGG--ACGUA--------------UCGG-G---UUCG
+NFA_11020    ---ACAC-CGCCG--CCGGG--------------ACCG--G-U---G
+NFA_40900    ---CGGU-GGCGG--GCCUU---------GUCGCUCGG--G-GGCGG
+NFA_35870    ----CGC-GAUGC--CGGGCCG------GUUCG-UUUC-CG-CGCCG
+NFA_28510    ----UGC-GGCCC--CGCCCG-------AAUCA-UCAC--G-ACACG
+NFA_43340    ---GGCU-CACCC--GCCCU----------UCG-GCGU--G-CUCAG
+NFA_49570    --GGUGA-CGGGC--CCGUU--------------CCAU--G-U---G
+NFA_48500    -----CC-CGCAC--CACCCGCCC-CGCGCCCG-CCGG--A-UUCCG
+NFA_31070    -----GC-CGCGC--CGCGCA--------GCAG-UCGC--A-GCCCG
+NFA_1830     ----GGA-AGCGA--CGGCC----------UCGCUCGU-UU-UCCCG
+NFA_55510    --------CCGAC--CGGCC--------------UUUU-C------G
+NFA_4790     ----CUC-GCCGG--GGUCU----------UCG-GCGU-CUGUAGUG
+NFA_6200     --------GGUGC--GCCGC----------CCG-UUGU-GG-UUUCG
+NFA_56640    ---AUUC-GACGG--GGGCU---------UUC--UCGU--G-CGCUG
+NFA_51890    -----CC-GCCGG--GCCCC----------ACG--UGU--G-UUCAG
+NFA_56650    ---GGUC-GACGG--GGGCUC-------UUUCG-GUGG-U---UCAG
+NFA_790      ---CCGU-CGCCG--CCUCG---------GCCA-GCUC--G-GGCAG
+NFA_13370    ---GGUC-GCGCG--GCGUC--------------GCGU--G-UCUCG
+NFA_54580    ----GCC-GGGGG--AGCCU----------UCG--CUC-AU-GCCCG
+NFA_5180     ---CGUU-CGGGG--GCCCU--------------UGCC--G-UGCCG
+NFA_41310    AGGAGCG-GUCGG--CAAGG--------------UGGU--U-UUCC-
+NFA_3460     UCGGAUC-CGCCG--GGCCG----------UCGUGCGU----GUCAG
+NFA_22240    CUCGUCC-CACAG--CCGGG--------------CUUC-C---CUCG
+NFA_38340    ----UGC-UGACC--GCGCC---------CUCG-GCGG-C---UUCG
+NFA_17330    -----CG-CGGCC--CGCGCGG------GGGCG-UCUC-AG-CGCAG
+NFA_16180    ----AUC-CCGGG--GCCUG--------------CUGC--U-UUCCG
+NFA_42100    ----UCC-CGGGG--CCGUU----------UCG-GCUU--G-U---G
+NFA_16020    ----AUU-CAUAU--CCGGC----------CAG-ACUA--GAUUUCG
+NFA_2680     ----CGG-GAGCG--CCCCU--------------UUUC-CGCGUCUG
+NFA_22530    ---ACGC-GGGGG--CACAG----------CCG-CUGC-CG-AACGG
+NFA_30490    ----UCG-GUACC--GGAGAU--------UUCG-UCGU--U-UCCCG
+NFA_17290    ---CCGG-CUCGG--GGCCU----------UCG-GCGU--G-UUCCG
+NFA_20250    GAACGUC-CCGCG--CCGAU--------------UCGC-GU-CUCCG
+NFA_2670     ----GGG-AGCGC--CCCUU----------UCG-UCAU-C---CUGG
+NFA_6780     --GGGUU-GGCGC--GCGCCGC------GUUCGGUUUC-----CUUG
+NFA_9890     -----UC-CGCAC--CCGCU---------CUUG-UCGU-AU-CGUGG
+NFA_4150     ----GGG-AGCGG--GCCUCG--------GCCGUUCGU-G---GCCG
+NFA_43100    -----CG-GGAGC--GGCCC--------------CUGC-C------G
+NFA_28500    ----GGC-GGCCC--CGCCCGA-----CACUCG--UUC--G-GCCCG
+NFA_10530    -----CA-GGCCG--GGCGU-----------CG-GUGU-UU-UGUCG
+NFA_4930     ----ACU-GAGGC--GAGGCCGU---UCCACCG-UUGC--U-UCUAG
+NFA_19030    ----GGA-ACCGG--CACGG--------------CCAC-GG-CAGCG
+NFA_23320    -GCGGAC-GCCGG--CGAUC--------------CCGG--U-GGCCG
+NFA_44990    ----CGA-CCGGA--CCGCUG-------CCUAG-UCGC-GG-CCCCG
+NFA_10050    -----UC-CGGGC--CACCC---------CUUG--UGC--U-CGUCG
+NFA_43070    GAAGAUC-CCGGG--CCCGUG--------GCCG-UUUC-AG-CGCAG
+NFA_8770     -----UA-UUCGA--CGGUG---------ACCG-ACUU--G-GCCAG
+NFA_16850    ----GCC-GUCGA-CCGAGC--------------ACGG-C------G
+NFA_11580    --------GCUGG--UCGCC---------UUCG-UCGU--G-UCCGG
+NFA_50610    -CACCGG-CGCGG--CGGCG--------------GCGU-U---UCCG
+NFA_12650    ----GUC-GGUCC--GGGUG--------------UUUU--U-CGUCG
+NFA_7220     -----GU-GUGCG--GGGCG---------GUCGAGCGA--G-GAUCG
+NFA_29080    --CCCGC-GGUCA-GCGGUCCG------GAUCAGACGA--G-UUUCG
+NFA_3930     UCGCGAA-CCGCA--GCGCC--------------UUUC--G-UUGUG
+NFA_56130    --------CGGGG--GGAUU---------CUCG--UUC-AG-CCCCG
+NFA_42940    -----CA-GCGGG--UGCACA--------CUCG--UGU--G-ACGAG
+NFA_4460     ----CCG-CGGGG--CCGUC---------GUCG--UGU-C---ACCG
+NFA_23500    -GUGGGU-GGACG--GGCCG----------UUG-UCGU-C---UCCG
+NFA_45990    -----UC-CCGGG--CGCCU----------UCGCUCGU--G-CUGGG
+NFA_12010    ---UCGC-GGCGG--GCGCG----------GCG-GCGC-------GG
+NFA_39470    ACGAGGC-CGCCU--CGAACU--------ACCG-GCUC--A-CGCCG
+NFA_6570     ----CGG-GGGCG--CGGGC-----------CG-UCGU-CG-UUCAG
+NFA_11760    --AUUCG-CCUGA--GCGGUGC------GGCCU-UCGU-GG-UCACG
+NFA_36490    --GGGGU-CGCGG--CCGAU--------------UCGC-GG-UAGCG
+NFA_1600     GCGGGUC-GUCCG-GCCCGU--------------UCGU--G-C----
+NFA_40490    ---CUUC-GCAUC--CGCCG----------CCG-UCUU-CU-UUCC-
+NFA_15600    ---GCUA-GGCCG--GGGCGU--------UCUG-CCGC--G-UAGCG
+NFA_7120     ---UCGC-CGCCG--GGCGCACCC-CGGGGACG-AUGC-UGCCUCCG
+NFA_45190    -GCUCGU-CACCG--CGGCG---------ACCG--CAC-CG-ACCCG
+NFA_23330    ----CAC-GGACG--CCGGCG--------AUCA-GCGC-A---AGGG
+NFA_34650    -GUGGAC-GGCGG--CCGCU--------------UCGC--G-UUCCG
+NFA_13320    --------CGCGC--CACGU---------UCCG-CUGU-G---AGCG
+NFA_8380     ---GGGU-GGCGG--GCUCA---------UUCGCGUAC--G-CCUCG
+NFA_2570     -----CA-GGUGA--GGGGC--------------UGUG--G-C---G
+NFA_49020    -----GC-GGACC--CGGCG--------------CCGC-C------G
+NFA_45690    --CGGAA-CAUCG--AGGGC----------UCG-GUGG--U-UUUCG
+NFA_13120    ----GGC-CGCCC--UCACU----------UCG-ACAC--A-C---G
+NFA_29970    -----UC-GGUGA--GCAGC--------------CCGG--U-C---G
+NFA_11240    -----UC-GCCAC--CUGGCC-------GAUCG--CGG-GU-CACCG
+NFA_55690    ---GGGA-GGGGG--CCGUU----------UCG-CUGA--U-CACCG
+NFA_1210     ----CGG-GGCGG--CCGCG--------------ACUU-U---UUCG
+NFA_12270    ---GGGC-AGCUC--CGGGG----------UCG-UCUG-CG-UUGCG
+NFA_45180    -GCACGU-CACCG--CGGCGCCGA--CCACCCG-GCGA--G-CGGCG
+NFA_42770    ----CCG-GCCGG--GCAUU--------------GCGC--A-CAGGG
+NFA_23460    CGUGGCC-GGCGA--UCGGC--------------GUUUCA---UCAG
+NFA_50760    -----CA-CUUGC--CUCGG--------------AAAC-U---CCCG
+NFA_41650    GGCGUGC-GCUGC--CCGGCUC------GCCCG-ACAU-G---UCCG
+NFA_12220    UUCGGUG-CGCCG--GGGGC---------AUCG--CGG-UG-C---G
+NFA_40670    ---AGGU-GGGCG--CGGCC--------------GCGC--G-GUCCG
+NFA_38060    --UUCUC-GGCCC--ACCGCCC-----ACCGCG-GUGU--U-AUGAG
+NFA_56690    ----GGA-CCGGG--GGCCU--------------UCUC-CA-U---G
+NFA_21420    -----GC-GUCGG--GGGCG----------UCGGUCAU--G-UCGAG
+NFA_21410    --CGCGC-CGGGG--GCGUCG--------GUCGUUCGU--G-ACCCG
+NFA_34230    ---AGCC-GGGAC--GCCGU--------------UCGU--U-CUGCG
+NFA_40800    -----GU-CUCGG--GUCACCG-----GGACCG-CCGC--G-GGUCG
+NFA_90       ----GCA-GGUGG--GGAGC--------------GUUC-U------G
+NFA_19340    -UGGUGU-GACAG--GGCCG----------UCG-CCGU-G---UCAG
+NFA_2390     ----ACA-GGUAG--GGGGC----------UCG-UGGC-GG-UGGCG
+NFA_7600     -----CC-GGGGG--UCCUC---------GUCG-UUUC-CG-GAUCG
+NFA_54510    -----UC-CGGGC--CGCUC----------UCG-UCGU-UU-CACCG
+NFA_3580     -----GU-CCGGC--GAGCCCG------ACCCG-GCGC-A------G
+NFA_33580    -----CC-GCUGC--GGCCC--------------ACCU--G-CGGCG
+NFA_1820     ----GGC-ACCCG--GCGGU----------UCG-UCGU-G---UUCG
+NFA_2050     ---ACCC-GGACG--GGGCG---------UUCGCCCGU-C---UCAG
+NFA_18000    -----UC-GGCAU--GCGCG--------------GCGG--U-C---G
+NFA_40760    ACGUGCU-CUGAG--CCGGG--------------GCGGCC---UCCG
+NFA_7130     ---UCGC-GCCGG--GCGGGA-------AAGCGGCUGC-CGGAUCAG
+NFA_7140     ---CCGC-GCCGG--GCGGG----------UCG-CCGU--U-CUCC-
+NFA_45920    ----CGA-GGCAG--GGGAUC-------ACCCG-CCGC-C---AGAG
+NFA_21170    ----CGG-GCUGC--CCGUCC--------GUCG-UCUC-CGCGGCCG
+NFA_46740    ---GCGU-GCCGC--CGCCC---------UUCG--CGU--G-UCCGG
+NFA_47870    --------CCCGG--CCCCG---------CACA-ACGC-UG-CGGCG
+NFA_53660    -----CC-CACGG--GGCGU--------------UCGG--G-GCGAG
+NFA_41300    GUCGUGC-GGGGG--GCCUG----------UUG--CUU--U-GUCCG
+NFA_40120    -----GC-GCGGC--CCGGU---------CCCA-UCAU--U-GAGAG
+NFA_54270    -----GG-UUCCG--GACCU--------------GAAA-CA-UACCG
+NFA_14590    ----GGU-GGCGG--GCCGU-----------CG-GCGU--G-CUAGG
+NFA_26270    ---CGGC-CGGGG--ACGGU-----------CG-UCCA-A---CCCG
+NFA_1190     ----AUC-GGCGA--CGGCC---------GUCG--CGA-CG-A---G
+NFA_10160    --CGGGA-GCGCC--GGGGU--------------UCGC-C------G
+NFA_23470    CGGGACC-GGCGA--UCGGC---------GUCG-GCGG-CG-CUCAG
+NFA_1180     ----UUC-GGCGA--CGGCC---------GUCG-UCGU-G---UCAG
+NFA_5270     ----AGC-GCCGG--GGGCCG-------AGGCA-UUUC-CG-AUUCG
+NFA_56180    ----CUC-GUGCC--CGGCCU--------UUCGCCUAC--UCACCCG
+NFA_2600     -----GG-AUGCG--GGGCC---------GCUG-UCGU-U---CCCG
+NFA_54620    ----GUU-CCCGG--GGGCG--------------GUUC-A------G
+NFA_45540    -----GC-GUCCG--CCUCGG-------GCUCG-GUGU-CG-C---G
+NFA_55700    ---GGAA-GGGGG--CCGUU--------------UCGU-CG-GGCCG
+NFA_36480    -GGGGCC-GCGGC--CGAUU----------CCG-UCGU--G-G---G
+NFA_25870    ----GGU-CGCGG--CGCUU---------CGUG-GUGUGUG-UGUCG
+NFA_10300    ---GUGC-GCUCG--GCCGC---------CUAG-UCCC--G-CUCCG
+NFA_46650    -----UC-----C--CUGGU---------GGCG-AUGA-A---UCCG
+NFA_19330    -GGGUGU-GACAG--GGCCG---------GGUG--CGC-GG-AUGCG
+NFA_17300    --------GAUCC--GGGGCC--------GUCG--CGU--G-CAUCG
+NFA_44930    ---GGGC-UCGCA--CCGGU----------UCG-UCGU-U---UCCG
+NFA_45230    ----GGA-CGGCG--GCGCC---------GUUG-UCGU-CG-GUGCG
+NFA_22800    UGGCGGU-CGCCG--UCGCC---------GCCGCUCUC--G-U---G
+NFA_3390     -----UC-CGCGA-GCCGUCG--------GCC--UUGC-C---CUGG
+NFA_37520    ----CCC-GGCGG--CGCUG----------UCG-GCGU-C---UCGG
+NFA_15100    ----AGC-GGGCC--GCUCU---------CGUG-CCGG-UA-UUCUG
+NFA_54020    ----GCC-GGUGG--GGACGU--------UCCG--CGU--G-CCCGG
+NFA_29500    ---CGUC-CGCGG--GGCGC-----------CG-UCGC-GU-UACCG
+NFA_47950    -----GC-GGGGC--GGCCG----------UCG-UCGU-C---ACAG
+NFA_190      GGGGCGU-GGCGA--GCGGG--------------GUGA-AACCCCAG
+NFA_14070    ----GGC-GUCCG--GCACU--------------UUUU-CA-UGUCG
+NFA_42630    -----AU-GGGCG--GCAUG--------------CUGG--A-GUUCG
+NFA_16100    --------CCUCG--GGCGU--------------AUAG-C---UCAG
+NFA_3190     ---ACCC-GGCCG--GUGCU----------GCG-UCUU--G-UCCGG
+NFA_30540    ----GGU-GGUCG--GCAGAC--------G----GUUC--UCACAAG
+NFA_20000    ----CCG-CACCC--GGACC---------UUUU-UCGU--G-UGGCG
+NFA_42220    ----UCC-GGGGC--GGGGC----------CCG-UUUC-GG-U---G
+NFA_56400    --UGCGC-GAUCG--GCGUC----------UCG----U--UCGUUCG
+NFA_34370    --------GGUGC--GGAGCCU------UUUCG--UUC-G---UCCG
+NFA_49890    --------GGC-G--GGUGC--------------UCGC--G-GCGCG
+NFA_42380    --------CCGCG--GGCGGA--------UCCG-GCCG--G-GUGCG
+NFA_13310    --------GCCCG--CCGCC---------CCCGGUCAA-CUACCCUG
+NFA_10720    ---ACCG-GGGAC--GGCCU--------------UCGG--GCU---G
+NFA_53650    --------CACGG--GGCGU----------UCG--CGU--U-CGCCG
+NFA_10420    -----GC-GUGCG--AGCCG----------UCG-GUGC--G-G---G
+NFA_11910    -----CG-GGCAG--GAACA----------GCG-GCGG-CA-GGUAG
+NFA_28530    ---GAUC-CGGAG--AUCAG--------------GCAG--G-U---G
+NFA_9680     -----GC-GGCCG--CCCCA---------CACG--UGU--G-UCCCG
+NFA_5260     CUCCGGA-GACCG--GCUCG--------------GCGG--G-GACUG
+NFA_19110    ----GUG-UGCCG--GGCCG----------CCG-GUGU--U-CGCCG
+NFA_19020    -----GG-AACCG--GCACG--------------GCGC--G-GACCG
+NFA_27200    --CGGUC-GUCCG--GCGCG----------CCGGGCGG-GUGAUCCG
+NFA_49490    --------GGUGG--CGAGUC--------GCUG-AAGU--U-GGUUG
+NFA_9460     -----AG-CACCC--GGCCC----------UCG-UCGU-UU-UUCCG
+NFA_37560    -----GG-GGGCG--CGGCC----------UCG-GCGC--U-GUCAG
+NFA_54570    ----CCC-GGGGG--AGCCU--------------CCGU-C---ACCG
+NFA_8360     --CGAAC-GGCCA--CGCACAA-----CCCCUG-AAAC--G-UGGCG
+NFA_21540    -----CC-CGCGC--CUACC--------------GCCC--G-CACCG
+NFA_8670     ----GUG-GUGCC--GGGCG--------------GCGA-G---UCAG
+NFA_29990    GCUGCUC-GAGGC--CGACCG-------CGUCG--CGC-AG-UUCCG
+NFA_37900    ----GGG-GAGCG--GGCCU--------------UCGC--G-CGUCG
+NFA_52650    -CGGCCC-GGGCG--CCGUC---------GUCG-UAGC--A-GGCGG
+NFA_55520    --------CCCGC--GAGCCG--------GCCG--CGA--ACCUCCG
+NFA_37590    ----CCC-GCCGG--GCGCC---------GUCG-UCGU-C---UCCG
+NFA_30830    ----CUG-CGCGC--CGCCGA--------ACCG-ACGG--G-AUAGG
+NFA_19840    ----GUC-CGGGG--CCGGU--------------GCGG--U-GGCCG
+NFA_4120     CGACGCC-CGGGC--GGCAGC--------AUCU-UUGU--G-AUAGG
+NFA_18800    -----CC-GGGCU--CCACG---------CCCG-UCCG-G---CUCG
+NFA_14090    -----CC-GAUGC--GCCGC--------------UCUC-CU-UUUC-
+NFA_18650    --------GGCGC--CGGCG--------------GAGC--G-CUCCG
+NFA_14600    ----GGU-GGCGG--GCCGU---------CGCG-GUGC--G-GUCAG
+NFA_42340    -----GA-GCCGG--GGGUC----------UCG-CCGU--G-UGCGG
+NFA_51880    --------GCGGC--GCCGU--------------CUGC--G-UUUCG
+NFA_8760     -----UA-CUCGA--CGGUG--------------ACGC-U---GCCG
+NFA_40910    ---CGGU-GGCGG--GCCUUU-------CUACG-GUGC--G-UUCGG
+NFA_22620    -----GA-CGGGG--UG-CA--------------UCGG--G-UGCCG
+NFA_13970    ---CGGC-CGCCG--CCCCG--------------GCGC-AG-GUCAG
+NFA_17040    ---GGAC-GGGCG--GCCGU---------CGCG-UUGU-G---UCAG
+NFA_42210    --------GGUGG--CGGCG---------CGUG-GGGC--A-UGACG
+NFA_49270    ----GGC-GGAGU--CACCGG--------CCCG--CGG-CG-GCCGG
+NFA_37760    ----ACA-CGUCC--GGCGU--------------CUGG--U-CGUGG
+NFA_45960    -----CC-GGUGC--CUCCC----------GCAAGAGU-CU-UCCGG
+NFA_1930     --------ACCGG--GAGCC----------GCGUCCCC-A---ACCG
+NFA_19300    ---UUCG-CGUCG--CCCGGAU------CCCCG--CGC--G-UUCAG
+NFA_52270    ---GAGA-AGCGG--CCCGC--------------UCGC-CG-GAGCG
+NFA_18010    -----UC-GGCAU--GCGCG----------GCG--CAC--G-UACCG
+NFA_2430     GGGACAU-GGUUG--GCCGC--------------UCGG-G---AAGG
+NFA_10080    --------CGGCU--GACCGACC----GGAUCG-UCUC-CG-GUUCG
+NFA_20310    -----GG-GCUCG--CCGGU---------ACCG--GAC-GGCUCCCG
+NFA_46950    -----GC-UCCCC--CGGCC----------CCG--CGC-CGUUUCCG
+NFA_37750    ----ACA-CGUCC--GGCGU----------UC--UUUC--G-UCUCG
+NFA_31870    ---GACC-GGUGG--CGGCCG--------AUCG-UCGC-CG-CGCUG
+NFA_13170    ---GGGU-GGGCG--CGCCG--------------UCGC-CG-UUCCG
+NFA_10820    GGCCGCC-UGCGC--CGCGC--------------UCGC--G-U---G
+NFA_19000    ---UCGC-CGCCG--GGCCG--------------CCGU-CG-UGUCG
+NFA_56170    ----UUC-GUGCC--CGGCC---------UUCG--CGU--G-CGCCG
+NFA_38870    ---CGGG-CAGGG--GGGUC-----------CG-UCAC-U---ACGG
+NFA_18490    -AUGUCG-CCCGA--GCGGG----------GCG-GCCU--G-C---G
+NFA_51110    -----GG-GGCCG--CCCGU----------UCG-GCAU--U-UUCCG
+NFA_19060    ----GGC-GAUGC--GGAGC-----------CG--UGG--G-GGUCG
+NFA_6560     --GGGAG-CGCGG--GCCGU----------GCG-GCAU--G-CUCGG
+NFA_12960    -----GG-CGGGC--CCGGG--------------UCAG-UA-CACCG
+NFA_20180    ----GGU-UGUCG--GGUGCG--------GACG-GUGA-UG-UAUCG
+NFA_31800    ---CGGG-GGCGC--GGCCU-----------CG-UCGC--G-UCCGG
+NFA_39620    CAACUUC-CACCA--GCGGG--------------GCAU-C---UUCG
+NFA_4330     ---GUGC-GGCAG--CCUUU---------CUCG--UUC--U-GUCGG
+NFA_10410    -----GC-GUGCG-GGCCGU--------------UCGU-G---UCAG
+NFA_5300     -----CC-GGUGG--GGGCCG-------AGCCG--UGU--G-UGUGG
+NFA_55680    --------GAGCC--CCCUC---------UUC--CUGU--G-AUCCG
+NFA_46070    ----GGC-GGCGG--GCCGG--------------UCGC-AU-GUCCG
+NFA_5250     GCUCA---GGAGG--CCGGC----------UCG--CGC-AG-UUCC-
+NFA_7290     CCGGCUC-AGCCG--CGUUCG--------GCCG--CGC-G---CCGG
+NFA_310      -----UC-GGGGU--GUGGU--------------CCUU--U-UUUCG
+NFA_18540    -----GU-CGGGG--CGGCUCA------GCUCG-GCGC-CG-A---G
+NFA_54210    --------GGUUC--CGGGCUAC---AGGCGCA-UCCC--U-GUCCG
+NFA_10520    ----CGC-GGGGC--CCUCUC--------GGCG-UCUG-CG-GCCGG
+NFA_45530    --------GUCCG--CCUCGUG-----ACUCCG-UCGC--U-CAUCG
+NFA_6790     --CGGUC-GGCGC--GCGCC----------GCG-UCGU-CG-UCUGG
+NFA_45280    ---CGUC-GCCUG--AGCGG--------------GCGGCC---UCCG
+NFA_29860    ---GAGC-GGCGG--GGCGG----------UCG--UGU-UU-GUCCG
+NFA_31640    -----CG-CUCAC--CCCGG----------UCA-GUGC--U-GUUCG
+NFA_41630    CCGGUCG-GGGCG--GGGCC----------GCACUCAU--G-AAACG
+NFA_49850    --------GGACC--CGCCU---------CUCG-UCGC--G-A---G
+NFA_30690    ----CGC-AUCGG--CCCCCGC------GGCCG-UCUU-C---GCCG
+NFA_18710    -----GC-CUCCG--UGCGU---------GCUG-UUUC-C---UGCG
+NFA_8210     -----GG-CAUCA--CCUUC--------------UGGC--A-CACCG
+NFA_33570    -----UC-CGCUG--CGGCC---------CACGAGGGU-GU-UCACG
+NFA_13690    --------GCCGC--GGCCCG--------GCCGGAUGU-G---AACG
+NFA_38610    --------GGUCA--CCGCUC-------GCUCAGUCGG--U-GAACG
+NFA_29480    -AGGAGC-GGCCC--GGCAUU--------GCCG--UGC-C---CACG
+NFA_16420    -----AG-UGCGG--GGCGG---------GCCG-GAAU--U-CACGG
+NFA_44960    ----CGU-GGCCG--ACCGG--------------ACAA--U-U---G
+NFA_39160    -----UG-CUGGG--GGUCG--------------ACCU-C---GCCG
+NFA_19010    ----CUC-GCCAC--CGGGCCG------CACCA-UCUC--G-GGCGG
+NFA_16980    -----CC-GCCAC--CGCAC----------CCG-GGAU--G-CUCAG
+NFA_8400     ----GAC-GGCUC--GCGAUG--------CCCGCCCAC--G-GGGCG
+NFA_26800    ----UGA-CGCGC--GGGGG---------CGAG-CCGU--G-GUUCG
+NFA_46220    ---CGGG-GUCGG--UGCGA--------------GUUC--A-CCUAG
+NFA_23280    --GCCGG-GGCGG--GCACCGCG----CUGUCG-UCGU--GCUGUCG
+NFA_52080    ----CUG-CGCGG--GGGCGGU------UU----UCGU-AU-CAUGG
+NFA_47630    --------GGCGG--CCGGGC--------UUCG-UCGU--U-UCCCG
+NFA_970      ---CGUC-CACGG--GCGCCU-------UUUCG--UGC-G---UCCG
+NFA_23130    --CCCCG-GCGGC--GGAAU--------------UCCC--U-G---G
+NFA_18040    -----GC-GAGCG--GCGGC---------AUCG-CCGG-A---CCCG
+NFA_6550     --AGGGU-CCGGC--GCCGC--------------AAGC-AU-UUCCG
+NFA_44590    ----GGU-CGCGG--CGGUU---------UUCG-UUGU--A-UCCCG
+NFA_14760    ---AUUC-GCUCG--GGGCCGGG----GCAUCA-GCAC--UCUACCG
+NFA_37210    CGAAGGC-CGCGC--CGGGC----------UCGGUUGUCCA-GUUAG
+NFA_37060    --------CGCCC--GGCUU----------UCG-GCAG-UG-GCCUG
+NFA_19780    ---UGGC-CACCG--CCCGC-----------CG-UCUC--G-U----
+NFA_2740     --------GCGCG--GUUGG---------CCCG-GCGC--ACCGCCG
+NFA_56350    --------GCCCG--CUCCU-----------CG-UCUU-C---CGCG
+NFA_16500    ----GCC-GGCCG--GCCCG---------CUCGUCCGU-CGGUUGCG
+NFA_18080    -CGGCGC-GGCGG--GUGGCAG------CAUUG-ACGA-GG-U---G
+NFA_35800    ----UCC-CGGGG--CCGCC---------GCCG-ACCC--A-ACCAG
+NFA_33320    --------GUCGC--CACCC-----------CGAUCGC--G-GUGAG
+NFA_19980    --------GGCGC--GCCGG--------------UGGG-UG-GUCAG
+NFA_1730     ----AUC-CGCGC--GGGCG----------CCG-UCGC--GCAUCCG
+NFA_49500    CCGGGCC-GCCCG--CCUGA---------UACA-GUGU-C---ACAG
+NFA_30190    ----ACC-GUCAC--CGGCA----------UCGGCCGUACU-CCUCG
+NFA_53820    UGCGUGU-GCUCG--GGCCCG--------UCCGGUUGU--U-CGUCG
+NFA_21330    --------GUCCG--UCGCC---------GCCG-GAAG--U-CCGCG
+NFA_4890     --------CAGCC--CCGGC--------------AUCU-G---CCCG
+NFA_45650    ---AACG-CGCGG--CGGCC---------UUCG--GGC--A-UUCCG
+NFA_80       --GGGCC-GGUGC--CGGCC---------GUCG-GCGG--U-GGUGG
+NFA_25260    -GGUGAU-CGGCG--CGACG----------CUG-CCGU-CG-GUCGG
+NFA_55070    -CGCUGU-ACUCG--GCGGCA--------G----GCGG-GG-UUCAG
+NFA_25080    GGGGCGU-CCACA--CCGGCC-------CGGCGGUCGU--U-GUCGG
+NFA_34240    ---CGCC-GGAAC--GCCGU--------------UCGU--G-GUUCG
+NFA_35070    -----CU-CGCCC--CCACCACCGGCCGCAUCG-ACGU-C---GCCG
+NFA_46730    ---GCGC-ACCGC--CGCCCG-------GAUCGCCCGC-CGCUAGAG
+NFA_16410    --GGUGC-GGGGG--CGAAU--------------UCGU-UU-GUCCG
+NFA_54340    ----GGC-GGGCG--CCCGA----------UCG-GAUC--G-CACCG
+NFA_54590    --------CGGGC--GCGGC---------ACUG-ACGA--U-GUCGG
+NFA_30520    --------CGCGU--CGGCCG--------UUCG-GCAA-U---CCCG
+NFA_47940    -----GC-GGGGC--GGCCG---------UUCG--AGC--G-GAUGG
+NFA_45810    ----CGA-GUGCC--GGGCUC-------UAUCG--CGC-U---ACCG
+NFA_17820    -----GC-GGCUG-UCACCG---------GUCGGUCUC--G-GUACG
+NFA_51530    -----GC-GUGGA--CCGCG---------UACG-GGGC-UACCCUCG
+NFA_25980    -----CG-CCUCG--GUCAC----------UCG-UCGU-CGAGUCCG
+NFA_33990    --------GUGCU--GGUCG--------------CCGA--G-GCCGG
+NFA_49610    -----GC-CGGGC--GAGGGA-------CGCCG--CGC--G-CCUGG
+NFA_7960     --CGACG-GGGUC--GCCGUU--------CUCA-UCCC-AU-UUCCG
+NFA_16310    ---CGGC-GGCUGACCUUCC--------------UAUU--GCGGCCG
+NFA_42360    ---UCGC-GGACG--GGCCGC--------GCCG-CUUC--U-UCCGG
+NFA_28680    --------CGGGA--GUUCAC--------AUC--UUGC--G-CAGCG
+NFA_2090     --------GGGCG--GGGUU---------UUCG-UCCG--U-UUCGG
+NFA_41970    --------GGCGU--CGUUG----------UCG-UCGC--U-CGCCG
+NFA_3400     ----CGC-GGGCU--CAGUU--------------CCAU--U-UUCGG
+NFA_9780     ----GGG-AUCGG--CCACC---------GUCG--UGC-CGAGGUCG
+NFA_2730     CGCACCG-AACCG--GGCCU--------------CUUC--G-UGGCG
+NFA_8960     ----ACC-GGGCA--UGCCC--------------GUGC--G-UUCCG
+NFA_4710     --AACUU-AUUAA-AGGAGG--------------UAGU-C---AUGG
+NFA_54730    --GGGUG-AGGAG--CCGAU----------UCG-GCGA--A-CUCCG
+NFA_11590    ----CGC-CGUGC-UCGCCC--------------GUGC--G-G---G
+NFA_12610    ---GGUG-CCGGG--ACGUC--------------GCGG--U-GUGCG
+NFA_22840    --------GGGUG--CGGGAGC------CCUCG-UCAA-CGGCUCAG
+NFA_7280     CGGCCUC-AGCCG--CGUUCGG-----GGCUCG-CCGC--GCGGGCG
+NFA_4160     ----GGG-GAGCG--GGCCU--------------CGGG--G-UUCGG
+NFA_1340     -----GC-CGCGG--CUCAG---------AUCG-GUUC-GG-UGACG
+NFA_9520     ---GGCC-GCGGG--CCGACAA------GUCCG-UGAC-CG-UGCGG
+NFA_2080     ----GCC-GGGAC--GAGGU----------UCGCUCUU--U-CUCCG
+NFA_13480    --------GCGCA--CCGGG--------------UGCC--A-ACCCG
+NFA_9670     -CGUUGC-CGGUG-GACGGCU--------UUCGGUCGC-AU-U---G
+NFA_42250    ----GGU-GCGGG--GCUUC----------UCG--CGU--U-UUCGG
+NFA_3750     --------AGCCG--GGGCC---------UGCG-CCGC-CGCGUCCG
+NFA_13230    ----GGC-GCCGC--AGGUC----------CUG--GGC--G-UGCUG
+NFA_48660    ----GGC-GGUGC--CCACG--------------GCCU--GCGGCAG
+NFA_52050    ---CCUC-AGCCG-ACGGCU----------UCG-GCGC-G---CCUG
+NFA_36270    ----ACG-AUCGG--GCGUC--------------GCGG--G-UUCCG
+NFA_9770     -----CA-CCGGA--GUAGG--------------UUUC--A-GGUCG
+NFA_52290    -----GC-GGUAG--CGGGG-----------UG-UUUC--G-CACCG
+NFA_39180    --GGCCG-CGCGC--GGGGC--------------AGGC--ACCCCCG
+NFA_36010    ----GGC-CGUCC--CAGAC--------------CUUC-CG-AACGG
+NFA_29070    --GCCGC-GGUCA--ACGGU--------------CCUG-G---ACGG
+NFA_26130    --------GCCGG-GGUGGG----------CCG--CGU-G---CUCG
+NFA_36160    ----GCC-GGCCG--CCGAC--------------UCGG--A-UCGCG
+NFA_16970    -----CC-GCCAC--CGCACC-------GGCCG-GAUC--A-GCCCG
+NFA_27110    --------GCGCA--GCGCCC-------GCACGGUCGC--UCGGCCG
+NFA_28230    -----AC-CGGCC--ACCGG--------------UGGC-AU-UCACG
+NFA_18740    -UGUCGC-AUCGC--CGGGC----------GCG--CGG-CG-GACCG
+NFA_17310    -----CG-AUCCG--GGGCC---------GACG-GCGG--G-U---G
+NFA_39770    --------GUUCC--CGCCC---------UUCU-GUU---U-GCCCG
+NFA_30390    --GCACG-CCCAC--CCACG--------------CCGG--G-CAUCG
+NFA_13250    --------GGCGG--CACCC---------GUUGUCAGC-CA-ACCGG
+NFA_13510    --------CCCCG--CCGCC---------ACCG-UCGU-C---UCCG
+NFA_48000    ----CCG-GGCGC--GGCCG----------CUG-UCGU--G-UGUCG
+NFA_50880    ----GGC-CGCCC--GCCGC--------------CCGU-CG-AUCCG
+NFA_24790    --UGGCG-CUGCC--CCCGA---------CCCGUUCAG-GG-GACCG
+NFA_24370    ---AUCA-CGGCGGGCCAGG----------GCGCGCGC--G-GCCAG
+NFA_15650    ----GGG-CGCCC--CGUUC---------GUCGUUCGC-CG-GACGG
+NFA_33680    --------AGCCG--CGGGAGG-----CGC----CCUG-CGCCUCAG
+NFA_13030    ------------A--CCGGU----------UCG-UCGU--G-CACCG
+NFA_54870    -----GU-GGUGG--CGGCC---------UUCG-UCGC-C---GCCG
+NFA_13360    ---GGGC-GCGCG--GCGUC----------GCG-GGAU----GUCAG
+NFA_8230     ---UGUC-GGCCG--GCCGUU--------GUCG--UGU--G-CGCGG
+NFA_44450    ----GAC-GGGGG--GCUGC---------CCCG--GAC--A-ACCAG
+NFA_29840    ----GUC-CGGGG--CCCUU-----------CG-UCGU--U-CGCCG
+NFA_6220     ----UCC-GUUGG--CCCCC--------------GCGU-C-------
+NFA_3740     --------AGCCG--GGGCC---------GUUU-CCUC--A-CACCG
+NFA_17100    -----CC-GGACC--GGCCG---------UUCG-CCAU--G-CUCUG
+NFA_35700    --------GUAGC--GCGUCUC------ACUCG-AAGU-CG-GUGCG
+NFA_22600    ---ACGC-CGCGG--GCCACGA------GCACG-UCCA--G-GUGCG
+NFA_13110    ----AGC-CGCCC--UCACU--------------GAGU--U-CGGAG
+NFA_45220    ----GGA-CGACG--GCGCC--------------GUUC--G-CUUUG
+NFA_15080    -UGUUUC-ACAGG--CGACU---------GCCG-AUGG--GAU---G
+NFA_15920    --------AUUGA--AGCUUGGA----GGUUCG-UCAU-GG-A---G
+NFA_28060    -----CG-GCGAC--CGGAG----------CCG-CCCC--U-ACCC-
+NFA_6760     --------GGCCG--GCCGGC--------GUCG--CGG-AG-GCCAG
+NFA_12820    ----U---CCGGG--GGCCU---------UUC--UCGU-C---ACCG
+NFA_14440    -----AC-GUCGU--CGACC---------AGCGGGCGC--U-GCCGG
+NFA_41960    --GGUGA-GCCGG--GGCGUU--------GUCG--UCC-C---ACCG
+NFA_56030    ----GCA-CCCGG--CCGGUC--------GGCGCACCC-CU-GUCAG
+NFA_21110    --GACCC-GCCGG--CCCGGCG------CGGCA-ACGA-GG-UUCAG
+NFA_24090    ---GGAU-CGCGG--UGACC----------GUG-UCGU--G-UGCGG
+NFA_19610    -----GG-GGUCG-AUGAGCG-------GAACGUUCAU-GG-GCGCG
+NFA_38700    ----CGA-GAUCG--CCGCGCU------CGCCGAUCAC-CA-CGUCG
+NFA_17520    ---CGGA-GGGCG-CGCGCCUG------GCACG-AUGU--G-UGCCG
+NFA_3370     --------CGAUG--CGACGAG------GGGUG-ACUC--GCGCCCG
+NFA_21290    ----GCC-GGCCC--GCGCGC-------ACCCGCGCAC--GACUCCG
+NFA_24120    ---CCGG-GGGCC--CGGCGC-------CGUCG-GCGU-CA-GCCGG
+NFA_7710     -----UG-CAUUA--CAGUG----------GCG-GUAU-GG-GGACG
+NFA_5020     -----CC-UCACC--CGGCGGG------GUUCG-UGGC--G-CGCCG
+NFA_3550     -----UC-GCCGG--CCGUG---------UUCG-UUAG-A---CUUG
+NFA_8950     ---CGGU-CCCGG--CCGUC--------------ACUG-CU-GUCCG
+NFA_16040    -----CG-CGGCG--GGCGU----------CCG--CAU--U-UUGGG
+NFA_37170    UGCCAUC-GUCGC--GGCGA--------------GUGC--G-U---G
+NFA_1880     -----UC-CACGC--CGGGU---------GUCG-UUUC--G-CGGCG
+NFA_17320    --------CGGCC--CGCGC--------------UCGG-CG-AUCAG
+NFA_44950    --AGUGU-GGACG--GCCGU----------CCG-GUGC--G-GGCGG
+NFA_46060    ---CGCC-ACCGG-ACCGCC--------------GCAC-G---GCCG
+NFA_49390    -----CA-GGUGG--CGAGU---------CCUG-UUUC--U-GGCCG
+NFA_41990    ----CGC-CCGGC--CCGGC--------------GCGC-AG-G---G
+NFA_1810     CGCCUGA-GCCGG-GUCAGCG--------GCCGGAGGC-GG-UAGCG
+NFA_28240    ----GCC-GGCCA--CCGGA--------------UCAC-G---CCAG
+NFA_32750    ---GCCC-GCCGG-UGGCGG--------------UCGC-CU-GAUCG
+NFA_18620    -----UA-CCGGC--CGGAUC--------GCUGGCCGU--G-CCCCG
+NFA_12360    ----UUC-CGGCG--CAGCCGA------AUUCG-UGAC-G---UCGG
+NFA_52060    ---UUGC-AGCCG-UCGGCUGA------GGCCG-UCUU-CA-G---G
+NFA_35100    ----AGG-CGCCG--CACGUCC-----UGCUCG-CCCU--G-CUGCG
+NFA_52780    ---GGUC-GUCAA--CCUACA--------GUUG-ACGC--A-U---G
+NFA_6360     --AGGCG-GGGGC--CUGAU--------------UCGU--G-UUCGG
+NFA_2160     --------UCCGG--UGCCC--------------UUUC--U-CAGCG
+NFA_8530     CGCCCGG-GGCUC--GAAUU----------UUG-GUAU-U---ACCG
+#=GC SS_cons ....>>>.>>>>>..>>>>>..........:::.::::..:.:::::
+#=GC RF      ....ggC.GgcgG..gggcc..........UCG.UCGc..G.uuCCG
+//

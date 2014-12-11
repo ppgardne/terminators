@@ -1,0 +1,877 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Mb2613  WT 0.81
+#=GS Mb1686  WT 0.52
+#=GS Mb2303c WT 0.38
+#=GS Mb1087  WT 0.43
+#=GS Mb3598c WT 0.61
+#=GS Mb2477c WT 0.79
+#=GS Mb3628c WT 1.83
+#=GS Mb0744  WT 0.67
+#=GS Mb3239c WT 0.49
+#=GS Mb1509  WT 0.68
+#=GS Mb1252c WT 0.75
+#=GS Mb1109c WT 0.67
+#=GS Mb0730  WT 0.48
+#=GS Mb3823  WT 0.67
+#=GS Mb3215c WT 0.82
+#=GS Mb3348  WT 0.49
+#=GS Mb3672c WT 0.85
+#=GS Mb3349c WT 0.55
+#=GS Mb1066c WT 2.13
+#=GS Mb3238  WT 0.62
+#=GS Mb0476  WT 0.73
+#=GS Mb1042c WT 0.82
+#=GS Mb3420  WT 0.14
+#=GS Mb0391c WT 0.60
+#=GS Mb2296  WT 0.47
+#=GS Mb0772  WT 0.41
+#=GS Mb2930c WT 0.54
+#=GS Mb1943c WT 1.88
+#=GS Mb0387c WT 0.81
+#=GS Mb3451c WT 0.33
+#=GS Mb3820  WT 0.38
+#=GS Mb2375c WT 1.64
+#=GS Mb1101  WT 1.26
+#=GS Mb3421c WT 0.14
+#=GS Mb1492c WT 2.44
+#=GS Mb0203  WT 0.76
+#=GS Mb3578c WT 1.18
+#=GS Mb2297c WT 0.69
+#=GS Mb3450  WT 0.36
+#=GS Mb1852  WT 0.85
+#=GS Mb2225c WT 0.81
+#=GS Mb1363  WT 0.58
+#=GS Mb2744c WT 1.32
+#=GS Mb3164  WT 0.82
+#=GS Mb1593c WT 2.21
+#=GS Mb3010c WT 1.68
+#=GS Mb3036c WT 0.79
+#=GS Mb2224  WT 0.81
+#=GS Mb3009  WT 1.68
+#=GS Mb0758  WT 0.41
+#=GS Mb2693  WT 2.22
+#=GS Mb1102  WT 0.92
+#=GS Mb3547c WT 1.26
+#=GS Mb2552c WT 1.07
+#=GS Mb3026c WT 1.74
+#=GS Mb0669  WT 0.83
+#=GS Mb1364c WT 0.58
+#=GS Mb2493c WT 1.65
+#=GS Mb1558  WT 1.51
+#=GS Mb3545  WT 1.92
+#=GS Mb0218c WT 0.45
+#=GS Mb0485  WT 1.45
+#=GS Mb3245  WT 1.72
+#=GS Mb2614c WT 0.79
+#=GS Mb2812c WT 0.98
+#=GS Mb3546  WT 1.13
+#=GS Mb2212c WT 0.76
+#=GS Mb2729  WT 1.52
+#=GS Mb0982  WT 1.20
+#=GS Mb0250c WT 0.92
+#=GS Mb3577  WT 1.18
+#=GS Mb0448  WT 1.54
+#=GS Mb3733c WT 1.52
+#=GS Mb0217  WT 0.38
+#=GS Mb3425  WT 1.62
+#=GS Mb1280c WT 1.96
+#=GS Mb2374  WT 1.83
+#=GS Mb2694c WT 1.90
+#=GS Mb1501  WT 1.42
+#=GS Mb3474c WT 1.72
+#=GS Mb2636c WT 0.91
+#=GS Mb1333  WT 1.45
+#=GS Mb3586c WT 1.15
+#=GS Mb2756c WT 0.52
+#=GS Mb0586c WT 1.07
+#=GS Mb3246c WT 1.62
+#=GS Mb1821  WT 1.54
+#=GS Mb2949c WT 2.22
+#=GS Mb3742c WT 2.21
+#=GS Mb3054c WT 1.03
+#=GS Mb0875  WT 1.64
+#=GS Mb0449c WT 1.54
+#=GS Mb2811  WT 0.80
+#=GS Mb1330  WT 2.11
+#=GS Mb2587  WT 1.62
+#=GS Mb1936  WT 2.37
+#=GS Mb1261c WT 0.91
+#=GS Mb1563  WT 1.32
+#=GS Mb1688  WT 1.53
+#=GS Mb1848  WT 0.88
+#=GS Mb1517  WT 0.80
+#=GS Mb2873c WT 0.85
+#=GS Mb1197  WT 1.11
+#=GS Mb2658c WT 1.90
+#=GS Mb1827  WT 2.11
+#=GS Mb0047c WT 1.61
+#=GS Mb2936c WT 1.88
+#=GS Mb3732c WT 2.44
+#=GS Mb2261  WT 1.55
+#=GS Mb1502c WT 2.09
+#=GS Mb0814c WT 1.22
+#=GS Mb1967  WT 0.60
+#=GS Mb0585  WT 0.80
+#=GS Mb0899c WT 1.35
+#=GS Mb0134c WT 1.45
+#=GS Mb0531  WT 1.90
+#=GS Mb1270  WT 1.16
+#=GS Mb2440c WT 1.56
+#=GS Mb2997c WT 0.88
+#=GS Mb2935  WT 1.44
+#=GS Mb1861  WT 0.74
+#=GS Mb2302  WT 0.38
+#=GS Mb3039c WT 0.92
+#=GS Mb1559c WT 1.35
+#=GS Mb2882c WT 1.23
+#=GS Mb3426c WT 1.13
+#=GS Mb1511c WT 1.90
+#=GS Mb3585c WT 1.15
+#=GS Mb3276c WT 0.43
+#=GS Mb2769c WT 0.32
+#=GS Mb3370  WT 0.15
+#=GS Mb0661c WT 0.27
+#=GS Mb0704  WT 1.12
+#=GS Mb1359  WT 0.54
+#=GS Mb1652  WT 0.27
+#=GS Mb2768  WT 0.15
+#=GS Mb2088c WT 0.82
+#=GS Mb1653c WT 0.20
+#=GS Mb3520  WT 0.23
+#=GS Mb0928c WT 0.80
+#=GS Mb0238  WT 0.14
+#=GS Mb1103c WT 1.45
+#=GS Mb1428c WT 0.52
+#=GS Mb2819c WT 0.38
+#=GS Mb1427  WT 0.52
+#=GS Mb3015  WT 0.29
+#=GS Mb3371c WT 0.30
+#=GS Mb2273c WT 0.27
+#=GS Mb0687  WT 0.61
+#=GS Mb0680c WT 0.27
+#=GS Mb3609  WT 0.76
+#=GS Mb0773c WT 0.51
+#=GS Mb2426c WT 0.25
+#=GS Mb1125  WT 0.54
+#=GS Mb0239c WT 0.14
+#=GS Mb0386  WT 0.96
+#=GS Mb0883  WT 0.36
+#=GS Mb0204c WT 0.38
+#=GS Mb2787  WT 0.85
+#=GS Mb1510c WT 0.68
+#=GS Mb0920  WT 0.65
+#=GS Mb0921c WT 0.65
+#=GS Mb3834c WT 2.06
+#=GS Mb0660  WT 0.38
+#=GS Mb1360c WT 0.54
+#=GS Mb1245  WT 0.23
+#=GS Mb1041  WT 0.82
+#=GS Mb2272  WT 0.27
+#=GS Mb2886c WT 1.12
+#=GS Mb0884c WT 0.33
+#=GS Mb1108  WT 0.67
+#=GS Mb2425  WT 0.30
+
+Mb2613       GAGC----AGA-CA--CA-GAA----UC-----GCA-CG-----A-----
+Mb1686       GAGC----AGA-CG--CA-GAA----UC-----GCA-C-------CGC--
+Mb2303c      GAGC----AGU-CG--CA-UAA----GC-----CCC-CG----CA-----
+Mb1087       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb3598c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb2477c      GAAA----AGA-CG--CA-AAA----GC-----UCC-CA-----A-----
+Mb3628c      GGC-------------UA-CCG----GC-----GCC-C------------
+Mb0744       GAGC----AGA-CG--CA-AAA---UGC-----CCC-CG-----A-----
+Mb3239c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CG-----A-----
+Mb1509       G--C----CGA-UU--GU-GAA----UC-----UGA-CG-----A-----
+Mb1252c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CU-----G-----
+Mb1109c      GAGC----AGA-CG--CA-GAA----GC------CC-CC-----A-----
+Mb0730       GAGC----AGU-CG--CA-AAA----GC-----CCC-CG-----A-----
+Mb3823       GAGC----AGA-CG--CA-AAA----GC-----ACC-CC-----A-----
+Mb3215c      GAGC----AGA-CG--CA-GAA----GU-----CGC-CG-----A-----
+Mb3348       GCGCGACGAGA-CG--CA-AAA----UC-----GCC-CG-----A-----
+Mb3672c      GAGC----AGA-CG-CAA-AAA----GC-----CCC-CA-----A-----
+Mb3349c      GCGC---GAGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb1066c      U--C----AAU-UA--CA-ACG----UG-----GCC-GC-----A-----
+Mb3238       GAG------GA-CG--CA-AAA----UC-----GCC-CG-----A-----
+Mb0476       GAGC----AGA-CG--CA-AAA----GC-----ACC-CU-----U-----
+Mb1042c      GAGC----AGA-CG--CA-AAA----UC-----CCC-UC-----G-----
+Mb3420       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb0391c      GAGC----AGA-CG--CG-GAA----UC-----GCA-C------G-----
+Mb2296       GAAC----AGA-CG--CA-AAA----GC-----CCC-CG----CA-----
+Mb0772       G--C----AGA-CG--CA-UAA----GC-----GCC-CA-----A-----
+Mb2930c      GAGC----AGA-CG--CG-AAA----UC-----CCC-CG-----A-----
+Mb1943c      CAGC----AC-----------------------CCC-GC-----G-----
+Mb0387c      GAGC----AGA-CA--CA-AAA----UC-----GCA-CG-----A-----
+Mb3451c      -AGC----AGA-CG--CA-AAA----GC-----CCC-CG-----A-----
+Mb3820       GAGC----AGA-CG--CA-AAA----GC-----CCC-CA-----A-----
+Mb2375c      GCGC----CA-----------------------GCG-U------A-----
+Mb1101       CCGU----UGA-UU--CU-GCG----UC-----CAC-C------AGGCUG
+Mb3421c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb1492c      GAC------AC-UG--CA-ACC----AC-----GCA---------CAAG-
+Mb0203       ----------------CA-GAA----UC-----GCC-C------A-----
+Mb3578c      G--C----CGAGCG--UG-AAC----UC-----AGG-GC-----G-----
+Mb2297c      GAGU----AGA-CG--CA-AAA----GC-----CCC-CG-----A-----
+Mb3450       -AGC----AGA-CG--CU-AAA----GC-----CCC-CG----CA-----
+Mb1852       GAGC-----GU-AA--CG-CCA----CU-----GCG-AA-----A-----
+Mb2225c      G---------A-CG--CG-GAA----UC-----GCA-CC-----G-----
+Mb1363       GAGA----AGA-CG--CA-AAA----GC-----UC--CU-----A-----
+Mb2744c      GAG---------CG--UA-ACG----CC-----ACG-GC-----G-----
+Mb3164       -AGC----AGA-CG--UC-AAA----GC-----CCC-CG----AA-----
+Mb1593c      ---C----CAA-AC--CC-GCC----UC-----CUG-CU-----U-----
+Mb3010c      GA-C----ACA-CG--GA-UAC----CC-----UUU-GC-----A-----
+Mb3036c      GAGC----AGA-CA--CA-GAC----UC-----GCA-UC-----C-----
+Mb2224       GAGC----AGA-CG--CG-GAA----UC-----GCA-UC-----G-----
+Mb3009       A--C----ACA-CG--GA-UAC----CC-------U-UC-----G-----
+Mb0758       GGGC----AGA-CG--CG-UAA----GC-----GCC-CA-----A-----
+Mb2693       G--C----CGA-GA--UU-GAC----GU----------U-----U-----
+Mb1102       G--U----UGA-CU--CU-GCG----CC------CA-CC-----ACGUGU
+Mb3547c      G--C----CGA-AC--GU-GAA----CUG--AGGGC-GG-----A-----
+Mb2552c      GAGC----AGA-CG--CA-GAA----UC-----GCA-UC-----G-----
+Mb3026c      GAGA----CG-----------------------GCC-U------------
+Mb0669       G--C----CGA-UU--GU-GAA----UC-----UGG-CG-----A-----
+Mb1364c      --------AGA-CG--CA-AAA----GC-----CCA-CU-----A-----
+Mb2493c      CCGC----CGA-UA--GU-GAA----UU-----CGG-CGCCGGAA-----
+Mb1558       GCGC----CGAGCG--UG-UAA----CC----AUGG-CG-----A-----
+Mb3545       GCGU----GAA-CU--GA-GG------------GCG-AG-----A-----
+Mb0218c      GAGC----AGA-CA--CU-AAA----GC-----CCU-CG-----A-----
+Mb0485       -CAU----CGA-CU--CC-GAG----UC-----GCC-C------------
+Mb3245       G--C----A---CA--GU-GCG----GC------CC-C------------
+Mb2614c      GAGC----AGA-CG--CA-GAA----UC-----GCA-UU-----G-----
+Mb2812c      GAGC-----GU-AA--CC-GGA----CU-----GCG-AA-----A-----
+Mb3546       GCGC----CGA-AC--GU-GAA----CUCA-CGGCG-GA-----G-----
+Mb2212c      GAGC----AGA-CG--CA-AAA----UC-----ACC-CG-----G-----
+Mb2729       G--C----AGA-CG--GU-AU------------GCC-CG-----C-----
+Mb0982       CCGC-----GA-CA--GU-GAA----AU-----CCA-CG-----A-----
+Mb0250c      G--U----UGA-CU--CU-GCG----UC------CA-CC-----GGACGG
+Mb3577       G--C----CGAACG--UG-AAG----CC-----AGG-GC-----G-----
+Mb0448       GAG------GA----------------------GCC-CG-----G-----
+Mb3733c      G--C----A------------------------GCC-CG-----G-----
+Mb0217       GAGC----AGA-CG--CA-UAA----GC-----CCC-CG----CA-----
+Mb3425       GAAC----UGA-CG-------------------GCG-GG-----A-----
+Mb1280c      GAG--------GCG-------------------UUC-GG-----C-----
+Mb2374       G--C----C-A-CG--CG-CCA----GC-----GCA-C------------
+Mb2694c      GAGA---CUGA-CG--UU-UUG----CA-----GUG-AA-----A-----
+Mb1501       G--C----CGA-AC--GU-GAA----CUGA-GGGCG-G------------
+Mb3474c      ------------CU--GU-GUG----GU------CC-CG-----A-----
+Mb2636c      GAGC----AGU-CG--CA-AAA----GC-----ACC-CG-----------
+Mb1333       CCGA----ACG-UG--CACGCA----CU-----GCG-AA-----------
+Mb3586c      G--C----CGA-GG--GU-GAA----UC-----UCA-CG-----ACGGG-
+Mb2756c      GAGC----AGG-CG--CG-G-------------GCA-C------------
+Mb0586c      C--------------------------------GCAUCA-----A-----
+Mb3246c      A--C----AG--UG--CG-G-------------CCC-CG-----A-----
+Mb1821       ---C----AGU-CG--CG-GCA----GC-----ACA-CC-----A-----
+Mb2949c      GCAU----CGA-GA--UC-GAC----GU-----CAG-CG-----CGAUG-
+Mb3742c      GAG---------AU--CA-ACG----UU-----CUG-C------A-----
+Mb3054c      GAGC----AGU-CG--CA-AAA----GA-----CCC-CG-----AC----
+Mb0875       GCGC----UG--CA--GU-GAGCGCAUC-----GCU-G-G--GCA-----
+Mb0449c      ----------------CA-GAG----GA-----GCC-CG-----G-----
+Mb2811       GAGC-----GU-AA--CG-UGG----CU-----GCG-AU-----U-----
+Mb1330       A--C----CGA-CG--CC-CGA----AC-----U----------G-----
+Mb2587       CGGC----AG--UA--CC-G-------------GCC-C------------
+Mb1936       GAA-------A-UC--GA-CAG----CA-----GCG-CG----A-C----
+Mb1261c      GAGC----AGA-CG--CA-AAA----GA-----ACC-CG-----A-----
+Mb1563       GAG---------CG--UA-ACG----UC-----ACG-GCU--GAA-----
+Mb1688       GAGC---------G--UA-ACG----CC-----ACU-GC-----GCUA--
+Mb1848       GCGCC--GCGA-CU--GG-GAA----UC-----CUG-CG-----A-----
+Mb1517       GAGC-----GU-AA--CC-UGG----CU-----GCG-AU-----U-----
+Mb2873c      GAGC-----GU-AA--CG-GCA----CU-----GCG-AA-----A-----
+Mb1197       GAGC-----GU-AA--CG-CCA----CU-----GCG-AA-----AU----
+Mb2658c      GAGC----CGA-CG-------------------AUG-AA-----A-----
+Mb1827       ------------CG--CA-CUU----UC-----AUC-CG-----A-----
+Mb0047c      GCGU----UGA-CU--CU-GCG----CU------UA-CC-----A-----
+Mb2936c      -AGC----AGA-CGCAAA-AGA----AC-----AUG-AU-----G-----
+Mb3732c      ---------------------------------CCU-UU-----U-----
+Mb2261       G--C----CGA-GU--GU-GAG----CCUGACAGCC-CG-----A-----
+Mb1502c      GAAC----GUG-AA--CU-CAC----GG------CG-GU-----------
+Mb0814c      CCG-------A-CU--GU-GAA----UC-----UCA-CG-----A-----
+Mb1967       GAGC----AG-----------------C-----GCA-C------------
+Mb0585       ----------------------------------CA-CA-----A-----
+Mb0899c      G--C----CGA-CC-------------------GCG-C------------
+Mb0134c      G------------G--CA-GCA-----------GCG-CA-----A-----
+Mb0531       GAGC-----CA-CG--CA-AAG----GG-----UUA-GCG--UGA-----
+Mb1270       GAGC----GGA-CA--CA-UAA----GC-----CCC-CGC---CA-----
+Mb2440c      G--C----CAG-CG--UA-ACG----UC-----ACG-GC-----G-----
+Mb2997c      G--C----CGA-CG--GU-GAA----UC-----UCA-CG-----A-----
+Mb2935       -AGC----AGA-CG--U----------------GGG-CG----CU-----
+Mb1861       GAAC----AGA-CA--CA-GAA----UC-----GCA-CG-----C-----
+Mb2302       AAGC-----------------------------CCC-CG-----A-----
+Mb3039c      GAAC-----GU-AA--CG-GCA----CU-----GCG-AA-----U-----
+Mb1559c      GCGC----CGAACG--UG-CAC----UCA--GGGCG-GAA---AA-----
+Mb2882c      ---C----CGA-GU--GU-GAA----CU-----GCG-CA-----A-----
+Mb3426c      GCGC----CGA-AC--GU-GAC----GUCA-GGGCG-AG-----A-----
+Mb1511c      GAG------GA---------------CC-----AUC-UG-----G-----
+Mb3585c      GCGC----CGA-GA--GU-GAA----CC-----ACA-CG-----A-----
+Mb3276c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb2769c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb3370       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb0661c      GAGC----AGA-CG--CA-UAA----GC-----CCC-CG-----A-----
+Mb0704       ---C----AGA-CG--CA-AAA----GA-----ACA-UG-----A-----
+Mb1359       GAGC----AGA-CG--CA-GAA----UC-----GCC-UA-----A-----
+Mb1652       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb2768       GAGC----AGA-CG--CA-AAA----UC-----GCCUCA-----U-----
+Mb2088c      GAGC----AGA-CG--CA-GAA----UC-----GCA-UG-----C-----
+Mb1653c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb3520       GAGC----AGA-CG--CA-GAA----UC-----GCC-CA-----U-----
+Mb0928c      GAGC----AGA-CA--CA-GAG----UC-----GCA-CA-----A-----
+Mb0238       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb1103c      GCGU----UGA-CU--CU-GCG----UC------CA-CC-----ACGCAA
+Mb1428c      GAGC----AGA-CG--CA-GAA----UC-----GCA-CG-----C-----
+Mb2819c      GAGC----AGA-CG--CA-AAA----GC-----CCC-CA-----U-----
+Mb1427       GAGC----AGA-CG--CA-GAA----UC-----GCA-CG-----C-----
+Mb3015       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb3371c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb2273c      GAGC----AGA-CG--CA-GAG----UC-----GCA-CU-----G-----
+Mb0687       GAGC----AGA-CG--CA-GAA----UC-----GCA-C------G-----
+Mb0680c      GAGC----AGU-CG--CA-UAA----GC-----CCC-CG-----A-----
+Mb3609       GAGC----AGA-CG--CA-GAA----UC-----GCA-UG-----A-----
+Mb0773c      GAGC----AGA-CG--CA-UAA----GC-----GCC-CA-----U-----
+Mb2426c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----U-----
+Mb1125       GAGC----AGA-CA--CA-GAA----UC-----GCA-C-----UG-----
+Mb0239c      GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+Mb0386       GAGC----AGA-CG--CA-AAA----UC-----GCA-CG-----G-----
+Mb0883       GAGC----AGA-CG--UA-AAA----GC-----CCC-CG----CA-----
+Mb0204c      GAGC----AGA-CG--CA-GAA----UC-----GCC-CA-----U-----
+Mb2787       AAGC----AGA-CG--CA-GAA----UC-----GCA-UU-----A-----
+Mb1510c      G--C----UGA-CU--GU-GAA----UC-----UGA-CG-----A-----
+Mb0920       GAGC----AGA-CG--CA-AAA----GC-----CCC-CU-----A-----
+Mb0921c      G--C----AGA-CG--CA-AAA----GC-----CCC-UA-----A-----
+Mb3834c      A---------A-CA--UC-UAG----CG-----GCG-GU-----G-----
+Mb0660       GAGC----AGA-CG--CA-UAA----GC-----CCC-CG----CA-----
+Mb1360c      GAGC----AGA-CG--CA-GAA----UC-----GCC-UA-----A-----
+Mb1245       GAGC----AGA-CA--CA-GAA----UC-----GCC-CA-----U-----
+Mb1041       GAGC----AGA-CG--CA-AAA----UC-----CCC-UC-----G-----
+Mb2272       GAGC----AGA-CG--CA-GAG----UC-----GCA-CU-----G-----
+Mb2886c      GAGU----AGG-CG--CA-AAA----GA-----ACA-UG-----A-----
+Mb0884c      GAGC----AGA-CG--UA-AAA----GC-----CCC-CG-----A-----
+Mb1108       GAGC----AGA-CG--CG-AAA----GC----A-CC-CC-----A-----
+Mb2425       GAGC----AGA-CG--CA-AAA----UC-----GCC-CA-----A-----
+#=GC SS_cons <<<<....<<<.<<..<<.<<<....<<.....<<<.<<.....<.....
+#=GC RF      GAGC....aGA.Cg..Ca.gAA....uc.....gCc.cg.....A.....
+
+Mb2613       ------A------A-U---C-A------GCC-------------------
+Mb1686       ---CAC-------G-C---C-C------GUC-------G-----------
+Mb2303c      ------C------G-C-----A-----CGGC-------------------
+Mb1087       ------U------U-U---C-G-----UGUC-------G-----------
+Mb3598c      ------U------U-U---G-C------GGG-------C-----------
+Mb2477c      ------A------U-C---C-G------GUC-------G-----------
+Mb3628c      ------A------G-G---C-G------AAA-------G-----------
+Mb0744       ------A------A-U---G-C--------C-------C-----------
+Mb3239c      ------A------AGC---C-A-------UC-------G-----------
+Mb1509       ------C------G-CG-AC-A------GCG-------GCGU--------
+Mb1252c      ------A------A-C---C-G-----UGC--------G-----------
+Mb1109c      ------A------A-C---C-G------GCG-------G-----------
+Mb0730       ------C------A-C---G-C------GCG------GC-----------
+Mb3823       ------A------G-U---C-G------GGC-------G-----------
+Mb3215c      ------U------U-U---C-A------CCG-------G-----------
+Mb3348       -----AA------A-C---C-A------GU--------G-----------
+Mb3672c      ------A------A-C---G-G------UUC-------C-----------
+Mb3349c      ------A------A-C---C-A-------CU-------G-----------
+Mb1066c      ------C------A-C---C-G------GUU-------G-----------
+Mb3238       ------A------A-C--C--G------AUG-------------------
+Mb0476       ------U------U-G---C-G------GC--------G-----------
+Mb1042c      ------C------A-A---C-C------GGC-------G-----------
+Mb3420       ------U------UUC---G-U------GC--------C-----------
+Mb0391c      ------C------G-U---G-A-----GGUC-------C-----------
+Mb2296       ------C------G-C-----A-----CGGA-------------------
+Mb0772       ------U------U-U---C-G-----UGUC-------G-----------
+Mb2930c      ------C------A-C---G-C-----CGAA-------C-----------
+Mb1943c      ------A------G-C---U-G------ACC-------G-----------
+Mb0387c      ------A------U-----C-A------ACC-------GC----------
+Mb3451c      ------C------A-C---G-C-----CGAG-------C-----------
+Mb3820       ------U------U-C---G-G------GCA-------C-----------
+Mb2375c      ------C------G-G---G-U------AUC-------C-----------
+Mb1101       ACCACUC------G-C---A-C------UUU-------U-----------
+Mb3421c      ------U------U-C---G-G-------CA-------C-----------
+Mb1492c      -ACACGC------C-G---A-C------GCA-------U-----------
+Mb0203       ------U------U-U---G-GU----AGCC-------C-----------
+Mb3578c      ------A------G-AUUUC-G------GCC-------GU----------
+Mb2297c      ------C------A-C--UC-C------GU--------G-----------
+Mb3450       ------C------G-C-----U-----CGGC-------------------
+Mb1852       ------U------U-U---C-G-----GGCA-------G-----------
+Mb2225c      ------U------GU----G-G------GCC-------C-----------
+Mb1363       ------A------A-U---C-U-----GGCC-------G-----------
+Mb2744c      ------A------A-UU-CG-G-----UGCA-------CGC---------
+Mb3164       ------U------U-U---C-A------GU--------G-----------
+Mb1593c      ------C------C-C---G-CUGCUCAGCG-------C-----------
+Mb3010c      ------C---------G-GU-G------GCA-------A-----------
+Mb3036c      ------G------G-C---G-C-----CCCU-------C-----------
+Mb2224       ------G------C-G---G-G------GCC-------C-----------
+Mb3009       -----UC------A-C--AU-U------GCC-------AC----------
+Mb0758       ------U------G-U---C-G-----UGCC-------G-----------
+Mb2693       ------U------G-C--AG-A-----CGCC-------CUCUCGCACUUU
+Mb1102       CCUACUC------G-C---A-C------UUU-------U-----------
+Mb3547c      ------A------UAU---C-G------GCC-------G-----------
+Mb2552c      ------A------A-A---U-C------CGG-------A-----------
+Mb3026c      ---------------A---G-C-------UC-------C-----------
+Mb0669       ------C------G-CG-AC-A-----CGCC-------GGU---------
+Mb1364c      ------A------A-U---C-G------GCC------AG-----------
+Mb2493c      ------C------A-C---G-CCC--GGGUU-------C-----------
+Mb1558       ------G------A-U--UC-C------GCC-------GG----------
+Mb3545       ------U------U-U---C-G------GCC-------G-----------
+Mb0218c      ------C------A-C---G-C-----CGUG-------C-----------
+Mb0485       ---------------------A-------CG-------------------
+Mb3245       -------------G-A---C-A------UAC-------G-----------
+Mb2614c      ------G------G-C---G-G------GCU-------G-----------
+Mb2812c      ------A------U-C---C-G-----UGCC-------G-----------
+Mb3546       ------A------U-U---C-G------GCC-------G-----------
+Mb2212c      ------A------A-A---C-C------GGC-------G-----------
+Mb2729       ------C------G-C-----G------CCA-------------------
+Mb0982       ------C------G-UG-AC-A-----CGCC-------GGA---------
+Mb0250c      GUUACUC------G-C---A-C------UUU-------U-----------
+Mb3577       ------A------G-AAAAC-G------GCC-------GA----------
+Mb0448       ------U------C-C---C-UU----UGU--------G-----------
+Mb3733c      ------U------G-U---C-C------ACCC----AAG-----------
+Mb0217       ------C------G-C-----A-----CGGC-------------------
+Mb3425       ------U------U-U---U-C------CCG-------A-----------
+Mb1280c      ------U------G-A---G-U------UCG-------C-----------
+Mb2374       -------------G-G---G-G------AUA-------C-----------
+Mb2694c      -----GU------G-C---G-A------GAG-------G-----------
+Mb1501       ------------------AG-A------AUC-------CGGCA------A
+Mb3474c      ------C------G-G---G-G------GAG------AG-----------
+Mb2636c      ------U------U-U---C-A-----GGCC-------G-----------
+Mb1333       ------G------A-U---U-C-----GGCC-------A-----------
+Mb3586c      --UCGUC------GGC---G-U------GU--------C-----------
+Mb2756c      -----------------------------U--------------------
+Mb0586c      ------A------A-U---C-G-------CU-------G-----------
+Mb3246c      ------C------G-U----------------------------------
+Mb1821       ------A------C-C---A--------GCC-------------------
+Mb2949c      --CUCUC------U-C----UC------GCG-------------------
+Mb3742c      ------G------G-C--CG-C-----UACU-------CGCA--------
+Mb3054c      -----AC------G-C---C-G-------A--------G-----------
+Mb0875       ------C------U-C---G-GCC--CGGCC-------C-----------
+Mb0449c      ------C------C-C---C-A-----CAAA-------G-----------
+Mb2811       ------U------U-C---G-G-------CA-------C-----------
+Mb1330       ------UG----CA-C---C-A------GC--------G-----------
+Mb2587       -----GA------G-C-----C-----CGAC-------------------
+Mb1936       ----AAA------G-U--U--CGA-CGAGAA-------------------
+Mb1261c      ------U------U-C---U-G------GUC-------G-----------
+Mb1563       ------A-----AUCC---G-U------GCC-------C-----------
+Mb1688       ---UUCG------G-A---U-C------GCA-------A-----------
+Mb1848       ------C------G-CG-AC-A-----CGCC-------GAC---------
+Mb1517       ------U------C-C---G-G-------CG-------C-----------
+Mb2873c      ------A------G-C---C-G-----GGCC-------G-----------
+Mb1197       ----CCA------G-C---C-C----------------G-----------
+Mb2658c      ------A------C-A---A-U-------CA-------U-----------
+Mb1827       -----CU------G-C--GC-G------GUU-------GUUUG------U
+Mb0047c      ------C------G-C--G--G------GCCA-----C-UCGCA-----C
+Mb2936c      ------G------G-C---G-C------ACCA-----GC-----------
+Mb3732c      ------C------U-U---G-AC---UCGUU-------C-----------
+Mb2261       ------C------A-C---C-G------GCG-------GC----------
+Mb1502c      ------A------U-U---U-U------GCC-------G-----------
+Mb0814c      ------C------G-CC-UC-C------GCC-------GCGU--------
+Mb1967       -------------------G-A------UUU-------C-----------
+Mb0585       ------A------A-U---C-A------GC--------G-----------
+Mb0899c      ---------------------U------UAA-------------------
+Mb0134c      ------C--------------G------GCC-------------------
+Mb0531       ------C------G-A---C-G------GUC-------G-----------
+Mb1270       ------C------G-C---C-G-------AA-------G-----------
+Mb2440c      -----AA------A-U--UC-GU----CGCU-------G-----------
+Mb2997c      ------C------G-UG-AC-A-----CGCC-------GAG---------
+Mb2935       ------G------G-U---G-C------GCC-------C-----------
+Mb1861       ------G------GC----A-G------GCU-------------------
+Mb2302       ------C------A-C---G-C-----CGUG-------C-----------
+Mb3039c      ------C------U-C---C-G-----CGC--------G-----------
+Mb1559c      ------A------U-C--GC-C------GGC-------G-----------
+Mb2882c      ------CGGGUUAG-C---G-U------GU--------C-----------
+Mb3426c      ------A------U-U---U-C------GGG-------A-----------
+Mb1511c      ------C------G-G---C-U-----CGCC-------G-----------
+Mb3585c      ------C------GGC---G-A------AUCGGCGUGUC-----------
+Mb3276c      ------U------U-U---C-A-----UGAC-------G-----------
+Mb2769c      ------U------U-C-----G-----UGCC-------------------
+Mb3370       ------U------U-C---G-G-------CA-------C-----------
+Mb0661c      ------C------A-C---G-C-----CGUG-------C-----------
+Mb0704       ------U------G-G---G-C------GCACCA-GCGC-----------
+Mb1359       ------A------C-C---C-G------CAC-------G-----------
+Mb1652       ------U------U-C---G-U------ACC-------C-----------
+Mb2768       ------U------U-C---G-G-------CA-------C-----------
+Mb2088c      ------G------C-G---G-G------ACC-------C-----------
+Mb1653c      ------U------U-C---G-G------GUA-------C-----------
+Mb3520       ------U------U-C---G-G-------CA-------C-----------
+Mb0928c      ------A------A-U---C-G------GC--------G-----------
+Mb0238       ------U------UUC---G-U------GC--------C-----------
+Mb1103c      -AAGUGC------G-A---G-U-----AGGA-------C-----------
+Mb1428c      ------G------G-A---A-G------CCU-------U-----------
+Mb2819c      ------U------U-C---G-G------GCC-------C-----------
+Mb1427       ------G------G-A---A-A------GGC-------U-----------
+Mb3015       ------U------U-C---G-A------GA--------C-----------
+Mb3371c      ------U------U-U---C-G-----UGCC-------G-----------
+Mb2273c      ------C------G-C---C-G------GCC-------G-----------
+Mb0687       ------C------G-A---A-A-----UGCC-------U-----------
+Mb0680c      ------C------A-C---G-C-----CGAG-------C-----------
+Mb3609       ------U------U-U---G-A------GCU-------C-----------
+Mb0773c      ------U------U-C---G-A-------CA-------C-----------
+Mb2426c      ------U------U-C---G-G-------CC-------C-----------
+Mb1125       ------C------G-C---C-G------GCC------CG-----------
+Mb0239c      ------U------U-C---G-G-------CA-------C-----------
+Mb0386       ------U------U-U---G-C------GGU-------U-----------
+Mb0883       ------C------G-C-----U-----CGGC-------------------
+Mb0204c      ------U------U-G---G-G------CUA-------C-----------
+Mb2787       ------A------U-C---G-C------GCC-------C-----------
+Mb1510c      ------C------G-CG-AC-A-----CGCC-------GCU---------
+Mb0920       ------A------A-C---C-G------GCA-------G-----------
+Mb0921c      ------U------A-C---C-U------GCC-------G-----------
+Mb3834c      ------A------C-C-----CU----UGU--------------------
+Mb0660       ------C------G-C-----A-----CGGC-------------------
+Mb1360c      ------A------C-C---C-G-----UGC--------G-----------
+Mb1245       ------U------U-C---G-G-------CA-------C-----------
+Mb1041       ------A------C-A---C-G------CCG-------G-----------
+Mb2272       ------C------G-C---C-G------GCC-------G-----------
+Mb2886c      ------U------G-G---G-CAC--CAGCG-------C-----------
+Mb0884c      ------C------A-C---G-C-----CGAG-------C-----------
+Mb1108       ------A------A-A---C-C------GCC-------G-----------
+Mb2425       ------A------U-U---C-G-----GGCC-------G-----------
+#=GC SS_cons ......<......<.<...<._......___.......>...........
+#=GC RF      ......c......g.c...c.g......GCc.......g...........
+
+Mb2613       ---------------C-GCCCAAUGC-----GA-UUC--UGCG-UC-U--
+Mb1686       ----G-C----------G-----UGC-----GA-UUC--UGCG-UC-U--
+Mb2303c      ----G-U-G--U---C-G-----GGG-----GC-UUU--AGCG-AC-U--
+Mb1087       ----A-A-A------U-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb3598c      ----G-U-G--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb2477c      ----G-A-U--U---U-G-----GGA-----GC-UUU--UGCG-UC-U--
+Mb3628c      ----C-C-U--------G-----GGC-----GC-CGG--UACU-UU----
+Mb0744       ----A-U-U--U--UC-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb3239c      ----G-U-U--U---C-G-----GGC-----GA-UUU--UGCG-UC----
+Mb1509       -GUCG-C-G--U---C-G-----UCA-----GA-UUC--ACAG-UC-A--
+Mb1252c      ----U-U-C--C---A-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb1109c      ----U-U-U--U---G-G-----GGU-----GC-UUU--CGCG-UC-U--
+Mb0730       ----G-U-G------C-G-----GGG-----GC-UUU--UGCG-AC-U--
+Mb3823       ----A-U-U--U---U-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb3215c      ----A-A-A--U---C-G-----GGG-----AC-UUC--UGCG-UC-U--
+Mb3348       ----G-U-U--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb3672c      ----G-U-U--U---U-G-----GGG-----GC-UUU--A-CG-UC-U--
+Mb3349c      ----G-U-U--U--UC-G-----GGC-----GA-UUU--UGCG-UC-UCG
+Mb1066c      ----G-U-G--U---G-U-----GGC-----CA-CGU--UGUU-AUCU--
+Mb3238       ----GCU-U--U---C-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb0476       ----C-A-A--A---A-G----UGGC-----GC-UUU--UGCG-UC-U--
+Mb1042c      ----U-G-U--C---G-A-----GGG-----GA-UUU--UGCG-UC-U--
+Mb3420       ----G-A-A--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb0391c      ----G-C-G--C---A-G-----UGC-----GA-UUC--CGCG-UC-U--
+Mb2296       ----G-U-G--U---C-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb0772       ----A-A-A------U-G-----GGC-----GC-UUA--UGCG-UC-U--
+Mb2930c      ----G-U-G------C-G-----GUG-----GC-UUU--UGCG-UC-U--
+Mb1943c      ----G-C-U--C---G-C-----GGG-------------------G-U--
+Mb0387c      ---A--A-A--C---C-G-----UGC-----GA-UUU--UGCG-UC-U--
+Mb3451c      ----G-U-G------C-G-----GGG-----GC-UUU--AGCG-UC-U--
+Mb3820       ----G-A-A--A---U-G-----GGG-----GC-UUU--UACG-UC-U--
+Mb2375c      ----C-C-G--U-----G-----CGC-------------------U-G--
+Mb1101       ----G-C-G--U-----G-----GUA-----GA-CGC--AGGA-UC-A--
+Mb3421c      ----GAA-A--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb1492c      ----C-G-G--------------UGC-----GU-GGU--UGCA-GU----
+Mb0203       ----A-A-A--U-----G-----GGC-----GA-UUC--UGCG-UC-U--
+Mb3578c      --UUU-C-U--C---G-C-----CCU-----GG-CUU--CACGUUC-G--
+Mb2297c      ---CG-U-G------C-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb3450       ----G-U-G--U---C-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb1852       ----A-A-A------A-U-----CGC-----AG-UGG--CGUU-AC----
+Mb2225c      ------C-G--C--CG-A-----UGC-----GA-UUC--CGCG-U-----
+Mb1363       ----A-U-U--U---A-G-----UGG-----GC-UUU--UGCG-UC-U--
+Mb2744c      --AAG-C-U--C---G-C-----CGU-----GG-CGU--UACG-------
+Mb3164       ----A-A-A--U---C-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb1593c      ----G-C-G--A---A-G-----CAG-----GA-GGC--UGGU-UU-G--
+Mb3010c      ---U----G--U---GAC-----GAA-----GG-GUA--UCCG-UG-U--
+Mb3036c      ----G-C-C------C-G-----UGC-----GA-UUC--UGUG-UC-U--
+Mb2224       ----A-C-A--C---G-G-----UGC-----GA-UUC--CGCG-UC-U--
+Mb3009       ---CG-U-G--C---A-A-----A-------GG-GUA--UCCG-UG-U--
+Mb0758       ----A-A-A------U-G-----GGC-----GC-UUA--UGCG-UC-U--
+Mb2693       CACUG-C-A--A---A---------------AC-GUC--AGUC-UC-G--
+Mb1102       ----G-C-G--U---G-G-----UG------GA-CGC--AGAG-UC-A--
+Mb3547c      ----A-A-U-CU---C-C-----GCCG--UGAG-UUC--ACGU-UC-G--
+Mb2552c      ----U-U-U--U---C-A-----UGC-----GA-CUC--UGCG-UC-U--
+Mb3026c      ----U------------A-----GGC-------------------C-G--
+Mb0669       -GCGG-C-G--U---C-G-----CGG-----GA-UUC--ACAC-UC-G--
+Mb1364c      ----A-U-U--U---A-G------GA-----GC-UUU--UGCG-UC-U--
+Mb2493c      ----U-U-G--U---C-G-----CCG-----AA-UUC--ACUA-UC-G--
+Mb1558       --CGA-U-U--UUUCC-G-----CCC----UGA-GUG--CACGUUC-G--
+Mb3545       ----A-U-U--U---U-C-----CGC---------CC--UCAG-UU-C--
+Mb0218c      ----G-U-G------C-G-----GGG-----GC-UUA--UGCG-UC-U--
+Mb0485       -----------------G-----GGC-----GA-CUC--GGAG-UC-G--
+Mb3245       ----U-C----------G-----GG------GC-CGC--ACUG---UU--
+Mb2614c      ----A-U-U--U---C-G-----UGC-----GA-UUC--UGUG-UC-U--
+Mb2812c      ----A-A-A------A-U-----CGC-----AG-CCA--CGUU-AC----
+Mb3546       ----A-U-A--U---U-C-----CGCCC-UCAG-UUC--ACGU-UC-G--
+Mb2212c      ----A-U-U--U---U-G-----GGC-----GA-CUU--UGCG-UC-U--
+Mb2729       ----G-C-G--G---C-G-----GGC---------AU--ACCG--C-U--
+Mb0982       -AACG-C-G--U---C-G-----UGA-----CA-UUC--ACUC-UC----
+Mb0250c      ----G-C-G--U---G-G-----UG------GA-CGC--AGAG-UC-A--
+Mb3577       --AAU-C-U--C---G-C-----CCU-----GA-GUU--CACGCUC-G--
+Mb0448       ----G-G-G--C---C-G-----GGC------------------UC----
+Mb3733c      ----G-C-A--C---C-G-----GGC---------------------U--
+Mb0217       ----G-U-G--U---C-G-----AGG-----GC-UUU--AGUG-UC-U--
+Mb3425       ----A-A-U--U---C-U-----CGC-----CC-UGA----CG-UC-A--
+Mb1280c      ----U-C-A--G---C-C-----GAA---------------CG-------
+Mb2374       ----C-C----------G-----UAC-----GC-UGG--CGCG-UGUG--
+Mb2694c      ----G-C-G--U-------------C-----UG-CAA--AACG-UC-A--
+Mb1501       AAUA-------------C-----CGCCG-UGAG-UUC--ACGU-UC-G--
+Mb3474c      ----C-C-G--U---C-G-----GG------AC-CAC--ACAG-UC-A--
+Mb2636c      ----A-A-A-----UU-U-----GGA-----GC-UUU--UGUG-UC-U--
+Mb1333       ----A-U-U-----GU-U-----CGC-----AGCUGU--UGCA-CG-U--
+Mb3586c      ----G-C-G--U---C-G-----UGC-----GA-UUC--ACUG-UC-G--
+Mb2756c      -----------------G-----UGC----------C--UGCG-CC-U--
+Mb0586c      ----A-U-U--U---U-G-----UGC------------------------
+Mb3246c      ----A-U-G--U---C-G-----GGG----------C--CGCA--C-U--
+Mb1821       ---------------G-G-----UGU-----GC-UGC--UGUG-UCCU--
+Mb2949c      ----G-G-G--G---C-G-----CUG-----CC-GUC--GAUC-UC-G--
+Mb3742c      CCUUG-C-C--U-----G-----CAA-----AA-UGU--UGAU-------
+Mb3054c      ----G-C-G--U---G-G-----GGG-----GC-CUU--GGCG-CC-U--
+Mb0875       ----G-G-G--U-----C-----AGC-----GACCUC--ACUG--C-G--
+Mb0449c      ----G-G-A--C---C-G-----GGC-----UC-CUCGCUGCG-AC-U--
+Mb2811       ----G-G-A--U--UU-U-----CGC-----AG-UCC--GGUU-AC----
+Mb1330       ----G-U-A--C-------------A-----GG-ACG--GGCG-UC-G--
+Mb2587       ----G-C-U--------G-----GGC----------C--GGCA--C-U--
+Mb1936       ---GA-C-A-----CC-G-----CGC-----UA-AUG--UCGA-U-----
+Mb1261c      ----A-A-A--U---U-G-----GGU-----GC-CGU--UGCG-UC-U--
+Mb1563       ----G-ACU--U--CG-C-----CGU-----GG-CGU--UACG-------
+Mb1688       ----U-C-U--C---G-C-----AGU-----GA-CGU--UAC--------
+Mb1848       -AAGG-C-G--U---C-G-----UGA-----GA-UUC--ACAG-UC-GC-
+Mb1517       ----G-G-A--U--UU-U-----CGC-----AG-UGC--GGUU-AC----
+Mb2873c      ----G-A-A--A---U-U-----CGC-----AG-UGG--CGUU-AC----
+Mb1197       ----G-C-U--U---U-U-----CGC-----AG-CCG--GGUU-AC----
+Mb2658c      ----U-G-U--U---G-G-----UAU---------------CG-AU-G--
+Mb1827       UAGCG-C-A--U---C-G-----GAU-----GA-AAG--UGUG-CC-G--
+Mb0047c      AAUUG-C-C--U---G-G-----UA------UC-CGC--AGAG-UCAA--
+Mb2936c      ----G-C-C--C---A-------------------------CG-UC-U--
+Mb3732c      ----A-A-G--A---A-A-----AGG----------------G-CC-U--
+Mb2261       --GUG-U-G--U---C-G-----CGUCGCCAGG-UUC--ACGC-UC-G--
+Mb1502c      ----G-A-U---U-CU-C-----CG------CC-CUC--AGUU-CA-C--
+Mb0814c      -GUCG-C-G--U---C-G-----UGC-----CA-UUC--ACAG-UG-G--
+Mb1967       -----------------G-----AGC-----G-------------C-U--
+Mb0585       ----A-U-U--U---U-G----AUGC-----GA-UUC--UGCG-UC-U--
+Mb0899c      -----------------G-----CGC---------------GG-UC-G--
+Mb0134c      ---------------A-G-----CGC--------UGC--UGC--------
+Mb0531       ----A-C-G--U---G-C-----UAG-----UC-CUC--UGCG-UG-C--
+Mb1270       ----G-A-U--U---U-G-----GAG-----CU-UUU--UGCG-UC-U--
+Mb2440c      ----A-U-UCUC---G-C-----AGU-----GG-CGU--CACG-CU-G--
+Mb2997c      -GAGA-C-G--U---C-G-----CGC-----GG-UUC--ACAG-UC-G--
+Mb2935       ----A-U-C--A---U-G-----UUC--------UUU--UGCG-UC-U--
+Mb1861       ------C-C--U---C-GG---AUGC-----GA-UUG--UGUG-UC-U--
+Mb2302       ----G-U-G------C-G-----GGG------------------------
+Mb3039c      ----G-U-U--U---U-U-----CGC-----AG-UGG--CGUU-AC----
+Mb1559c      ----G-A-A--U---C-U-----CGCC--AUGG-UUA--CACGCUC-G--
+Mb2882c      ----G-C-G--U---A-G-----UGC-----AU-UUC--ACAG-UC-G--
+Mb3426c      ----A-A-A--U---C-C-----CGCCG-UCAG-UUC--ACGU-UC-G--
+Mb1511c      ----C-C-G--U---C-A-----GA-------------------UC----
+Mb3585c      ----G-C-G--U---C-G-----UCA-----GA-UUC--ACAG-UC-G--
+Mb3276c      ----A-A-A------A-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb2769c      ----G-A-A--A---U-G----AGGC-----GA-UUU--UGCG-UC-U--
+Mb3370       ----G-A-A--A--UU-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb0661c      ----G-U-G------C-G-----GGG-----GC-UUA--UGCG-UC-U--
+Mb0704       ----C-C-A--U---C-A-----UGU-----UC-UUU--UGCG-UC-U--
+Mb1359       ----G-G-U--U---U-A-----GGC-----GA-UUC--UGCG-UC-U--
+Mb1652       ----G-A-A--A---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb2768       ----G-A-A--A---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb2088c      ----C-G-C--G---C-A----GUGC-----GA-UUC--UGCG-UC-U--
+Mb1653c      ----G-A-A--A---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb3520       ----G-A-A--A--UU-G-----GGC-----GA-UUC--UGCG-UC-U--
+Mb0928c      ----G-U-U--U---U-G----AUGC-----GA-CUC--UGUG-UC-U--
+Mb0238       ----G-A-A--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb1103c      ----A-C-G--U---G-G-----UG------GG-CGC--AGAG-UC-A--
+Mb1428c      ----U-C-C--G---C-G-----UGC-----GA-UUC--UGCG-UC-U--
+Mb2819c      ----G-A-A--A---U-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb1427       ----U-C-C--G---C-G-----UGC-----GA-UUC--UGCG-UC-U--
+Mb3015       ----G-A-A--A--UU-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb3371c      ----A-A-A------U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb2273c      ----G-C-G--C---A-G-----UGC-----GA-CUC--UGCG-UC-U--
+Mb0687       ----G-C-G--C-----G----AUGC-----GA-UUC--UGCG-UC-U--
+Mb0680c      ----G-U-G------C-G-----GGG-----GC-UUA--UGCG-UC-U--
+Mb3609       ----A-A-A--U---C-A-----UGC-----GA-UUC--UGCG-UCCU--
+Mb0773c      ----G-A-A--A--UU-G-----GGC-----GC-UUA--UGCG-UC-U--
+Mb2426c      ----G-A-A--U--UU-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb1125       ----G-C-G--C-----G-----UGC-----GA-UUC--UGUG-UC-U--
+Mb0239c      ----GAA-A--U---U-G-----GGC-----GA-UUU--UGCG-UC-U--
+Mb0386       ----G-A-U--U---C-G-----UGC-----GA-UUU--UGUG-UC-U--
+Mb0883       ----G-U-G--U---C-G-----GGG-----GC-UUU--UACG-UC-U--
+Mb0204c      ----C-A-A--A---U-G-----GGC-----GA-UUC--UGCG-UC-U--
+Mb2787       ----G-G-U--U---U-G-----UGC-----GA-UUC--UGCG-UC-U--
+Mb1510c      -GUCG-C-G--U---C-G-----UCA-----GA-UUC--ACAA-UC-G--
+Mb0920       ----G-U-A--U---U-A-----GGG-----GC-UUU--UGCG-UC-U--
+Mb0921c      ----G-U-U--U---A-G-----GGG-----GC-UUU--UGCG-UC-U--
+Mb3834c      ----G-G-U--C---G-C-----CGC-----CG-CUA--GAUG-U-----
+Mb0660       ----G-U-G--U---C-G-----GGG-----GC-UUA--UGCG-UC-U--
+Mb1360c      ----G-G-U--U---U-A-----GGC-----GA-UUC--UGCG-UC-U--
+Mb1245       ----G-A-A--A--UU-G-----GGC-----GA-UUC--UGCG-UC-U--
+Mb1041       ----U-U-G--C---G-A-----GGG-----GA-UUU--UGCG-UC-U--
+Mb2272       ----G-C-G--C---A-G-----UGC-----GA-CUC--UGCG-UC-U--
+Mb2886c      ----C-C-A--U---C-A-----UGU-----UC-UUU--CGCG-UC-U--
+Mb0884c      ----G-U-G------C-G-----GGG-----GC-UUU--UACG-UC-U--
+Mb1108       ----G-U-U--U---G-G-----GG------GC-UUC--UGCG-UC-U--
+Mb2425       ----A-A-A------U-G-----GGC-----GA-UUU--UGCG-UC-U--
+#=GC SS_cons ....>.>.>..>...>.>.....>>>.....>>.>>>..>>>>.>>.>..
+#=GC RF      ....g.c.g..U...c.g.....gGc.....ga.UUc..uGcG.UC.u..
+
+Mb2613       --GCUC
+Mb1686       --GCUC
+Mb2303c      --GCUC
+Mb1087       --GCUC
+Mb3598c      --GCUC
+Mb2477c      --GCUC
+Mb3628c      ---GCC
+Mb0744       --GCUC
+Mb3239c      ---CUC
+Mb1509       --G--C
+Mb1252c      --GCUC
+Mb1109c      --GCUC
+Mb0730       --GCUC
+Mb3823       --GCUC
+Mb3215c      --GCUC
+Mb3348       -CGCGC
+Mb3672c      --GCUC
+Mb3349c      UCGCGC
+Mb1066c      --G--A
+Mb3238       --GCUC
+Mb0476       --GCUC
+Mb1042c      --GCUC
+Mb3420       --GCUC
+Mb0391c      --GCUC
+Mb2296       --ACUC
+Mb0772       --G--C
+Mb2930c      --GCUC
+Mb1943c      --GCUG
+Mb0387c      --GCUC
+Mb3451c      --GCU-
+Mb3820       --GCUC
+Mb2375c      --GCGC
+Mb1101       --ACGG
+Mb3421c      --GCUC
+Mb1492c      ---UUC
+Mb0203       --GCU-
+Mb3578c      --G--C
+Mb2297c      --GUUC
+Mb3450       --GCU-
+Mb1852       --GCUC
+Mb2225c      -----C
+Mb1363       --GCUC
+Mb2744c      ---CUC
+Mb3164       --GCU-
+Mb1593c      --G---
+Mb3010c      --G-UU
+Mb3036c      --GCUC
+Mb2224       --GCUC
+Mb3009       --G--U
+Mb0758       --GCUC
+Mb2693       --G--U
+Mb1102       --A--C
+Mb3547c      --G--C
+Mb2552c      --GCUC
+Mb3026c      --UCUC
+Mb0669       --G--C
+Mb1364c      --UCU-
+Mb2493c      --GCGG
+Mb1558       --GCGC
+Mb3545       --ACGU
+Mb0218c      --GCUC
+Mb0485       --ACG-
+Mb3245       --G--C
+Mb2614c      --GCUC
+Mb2812c      --GCUC
+Mb3546       --GCGU
+Mb2212c      --GCUC
+Mb2729       --G--C
+Mb0982       --GUGG
+Mb0250c      --A--C
+Mb3577       --G--C
+Mb0448       ---CUC
+Mb3733c      --G--C
+Mb0217       --GCUC
+Mb3425       -CGUUC
+Mb1280c      ---CUC
+Mb2374       --G--C
+Mb2694c      -AUCUC
+Mb1501       --G--C
+Mb3474c      --UUU-
+Mb2636c      --GCUC
+Mb1333       --UCGG
+Mb3586c      --G--C
+Mb2756c      --GCUC
+Mb0586c      -----G
+Mb3246c      --G--U
+Mb1821       --G---
+Mb2949c      --ACGC
+Mb3742c      ---CUC
+Mb3054c      --GCUC
+Mb0875       --GCGC
+Mb0449c      --UCU-
+Mb2811       --GCUC
+Mb1330       --G--U
+Mb2587       --GCUG
+Mb1936       ---UUC
+Mb1261c      --GCUC
+Mb1563       ---CUC
+Mb1688       --GCUC
+Mb1848       -AGCGC
+Mb1517       --GCUC
+Mb2873c      --AUUC
+Mb1197       --GCUC
+Mb2658c      --GUUC
+Mb1827       --UCU-
+Mb0047c      --ACGC
+Mb2936c      --GCU-
+Mb3732c      --UCU-
+Mb2261       --G--C
+Mb1502c      --GUUC
+Mb0814c      --CCGG
+Mb1967       --GCUC
+Mb0585       --GCU-
+Mb0899c      --G--C
+Mb0134c      -----C
+Mb0531       -CGUUC
+Mb1270       --GUUC
+Mb2440c      --G--C
+Mb2997c      --G--C
+Mb2935       --GCU-
+Mb1861       --GCUC
+Mb2302       --GCUU
+Mb3039c      --GCUC
+Mb1559c      --GCGC
+Mb2882c      --G---
+Mb3426c      --GCGC
+Mb1511c      ---CUC
+Mb3585c      --GCGC
+Mb3276c      --GCUC
+Mb2769c      --GCUC
+Mb3370       --GCUC
+Mb0661c      --GCUC
+Mb0704       --GCU-
+Mb1359       --GCUC
+Mb1652       --GCUC
+Mb2768       --GCUC
+Mb2088c      --GCUC
+Mb1653c      --GCUC
+Mb3520       --GCUC
+Mb0928c      --GCUC
+Mb0238       --GCUC
+Mb1103c      --ACGU
+Mb1428c      --GCUC
+Mb2819c      --GCUC
+Mb1427       --GCUC
+Mb3015       --GCUC
+Mb3371c      --GCUC
+Mb2273c      --GCUC
+Mb0687       --GCUC
+Mb0680c      --GCUC
+Mb3609       --GCUC
+Mb0773c      --GCUC
+Mb2426c      --GCUC
+Mb1125       --GCUC
+Mb0239c      --GCUC
+Mb0386       --GCUC
+Mb0883       --GCUC
+Mb0204c      --GCUC
+Mb2787       --GCUU
+Mb1510c      --G--C
+Mb0920       --GCUC
+Mb0921c      --G--C
+Mb3834c      -----U
+Mb0660       --GCUC
+Mb1360c      --GCUC
+Mb1245       --GCUC
+Mb1041       --GCUC
+Mb2272       --GCUC
+Mb2886c      --ACUC
+Mb0884c      --GCUC
+Mb1108       --GCUC
+Mb2425       --GCUC
+#=GC SS_cons ..>>>>
+#=GC RF      ..GCUC
+//

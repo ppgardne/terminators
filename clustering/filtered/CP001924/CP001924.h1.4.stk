@@ -1,0 +1,806 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS DehalGT_0293 WT 1.03
+#=GS DehalGT_1124 WT 0.80
+#=GS DehalGT_0118 WT 1.35
+#=GS DehalGT_0350 WT 0.63
+#=GS DehalGT_0653 WT 0.67
+#=GS DehalGT_0360 WT 0.91
+#=GS DehalGT_1281 WT 1.46
+#=GS DehalGT_0296 WT 1.31
+#=GS DehalGT_0652 WT 0.67
+#=GS DehalGT_1146 WT 0.95
+#=GS DehalGT_0801 WT 1.04
+#=GS DehalGT_0381 WT 1.01
+#=GS DehalGT_0886 WT 1.05
+#=GS DehalGT_0349 WT 0.63
+#=GS DehalGT_1147 WT 1.06
+#=GS DehalGT_0884 WT 0.87
+#=GS DehalGT_1299 WT 1.03
+#=GS DehalGT_0627 WT 0.76
+#=GS DehalGT_1007 WT 0.88
+#=GS DehalGT_0871 WT 1.08
+#=GS DehalGT_1378 WT 1.43
+#=GS DehalGT_0697 WT 0.85
+#=GS DehalGT_0698 WT 1.05
+#=GS DehalGT_0655 WT 0.95
+#=GS DehalGT_0833 WT 0.88
+#=GS DehalGT_1294 WT 0.80
+#=GS DehalGT_1345 WT 0.54
+#=GS DehalGT_0834 WT 0.89
+#=GS DehalGT_0802 WT 0.83
+#=GS DehalGT_0847 WT 1.12
+#=GS DehalGT_1373 WT 0.90
+#=GS DehalGT_1040 WT 1.08
+#=GS DehalGT_0979 WT 1.04
+#=GS DehalGT_1343 WT 1.08
+#=GS DehalGT_1346 WT 0.54
+#=GS DehalGT_0933 WT 1.08
+#=GS DehalGT_1076 WT 1.13
+#=GS DehalGT_0906 WT 1.10
+#=GS DehalGT_0570 WT 0.99
+#=GS DehalGT_1425 WT 1.10
+#=GS DehalGT_0897 WT 1.52
+#=GS DehalGT_0536 WT 1.19
+#=GS DehalGT_0862 WT 1.11
+#=GS DehalGT_1024 WT 0.96
+#=GS DehalGT_0447 WT 0.79
+#=GS DehalGT_0023 WT 1.03
+#=GS DehalGT_1035 WT 0.94
+#=GS DehalGT_0887 WT 1.05
+#=GS DehalGT_1032 WT 1.14
+#=GS DehalGT_1293 WT 0.79
+#=GS DehalGT_0705 WT 1.18
+#=GS DehalGT_0004 WT 0.81
+#=GS DehalGT_0680 WT 1.35
+#=GS DehalGT_0312 WT 0.66
+#=GS DehalGT_1330 WT 1.17
+#=GS DehalGT_1284 WT 1.47
+#=GS DehalGT_1422 WT 0.64
+#=GS DehalGT_1372 WT 0.90
+#=GS DehalGT_0654 WT 1.01
+#=GS DehalGT_0607 WT 0.93
+#=GS DehalGT_0226 WT 1.29
+#=GS DehalGT_1352 WT 1.61
+#=GS DehalGT_0545 WT 1.34
+#=GS DehalGT_1286 WT 0.84
+#=GS DehalGT_1115 WT 1.30
+#=GS DehalGT_0123 WT 1.06
+#=GS DehalGT_1273 WT 1.06
+#=GS DehalGT_1202 WT 1.24
+#=GS DehalGT_1155 WT 1.37
+#=GS DehalGT_0306 WT 1.11
+#=GS DehalGT_0346 WT 1.43
+#=GS DehalGT_1190 WT 0.91
+#=GS DehalGT_1198 WT 1.34
+#=GS DehalGT_0022 WT 1.03
+#=GS DehalGT_1052 WT 0.74
+#=GS DehalGT_1095 WT 0.65
+#=GS DehalGT_0639 WT 0.96
+#=GS DehalGT_1072 WT 0.87
+#=GS DehalGT_0307 WT 1.16
+#=GS DehalGT_1225 WT 1.22
+#=GS DehalGT_1382 WT 0.61
+#=GS DehalGT_0380 WT 0.94
+#=GS DehalGT_1311 WT 0.92
+#=GS DehalGT_0504 WT 1.46
+#=GS DehalGT_0885 WT 0.77
+#=GS DehalGT_1039 WT 1.69
+#=GS DehalGT_0541 WT 0.66
+#=GS DehalGT_1041 WT 0.99
+#=GS DehalGT_0582 WT 1.21
+#=GS DehalGT_0003 WT 0.81
+#=GS DehalGT_1351 WT 0.94
+#=GS DehalGT_1396 WT 1.35
+#=GS DehalGT_0534 WT 0.69
+#=GS DehalGT_0359 WT 1.18
+#=GS DehalGT_0608 WT 0.93
+#=GS DehalGT_1188 WT 1.01
+#=GS DehalGT_1317 WT 0.85
+#=GS DehalGT_1123 WT 0.83
+#=GS DehalGT_1004 WT 0.87
+#=GS DehalGT_0167 WT 1.23
+#=GS DehalGT_0489 WT 1.15
+#=GS DehalGT_0334 WT 0.80
+#=GS DehalGT_0510 WT 1.23
+#=GS DehalGT_0311 WT 0.64
+#=GS DehalGT_1043 WT 0.79
+#=GS DehalGT_0266 WT 1.16
+#=GS DehalGT_0267 WT 1.16
+#=GS DehalGT_0983 WT 1.08
+#=GS DehalGT_0592 WT 0.84
+#=GS DehalGT_0728 WT 1.01
+#=GS DehalGT_0242 WT 1.08
+#=GS DehalGT_1335 WT 1.18
+#=GS DehalGT_0564 WT 1.32
+#=GS DehalGT_0328 WT 1.46
+#=GS DehalGT_0855 WT 0.97
+#=GS DehalGT_0333 WT 0.83
+#=GS DehalGT_1117 WT 1.08
+#=GS DehalGT_0848 WT 1.12
+#=GS DehalGT_0270 WT 0.79
+#=GS DehalGT_0446 WT 0.79
+#=GS DehalGT_1423 WT 0.68
+#=GS DehalGT_0944 WT 0.93
+#=GS DehalGT_0953 WT 0.82
+#=GS DehalGT_0045 WT 1.24
+#=GS DehalGT_1308 WT 1.14
+#=GS DehalGT_0630 WT 1.04
+#=GS DehalGT_1063 WT 0.63
+#=GS DehalGT_1224 WT 1.38
+#=GS DehalGT_1201 WT 0.91
+#=GS DehalGT_0649 WT 0.65
+#=GS DehalGT_0591 WT 0.84
+#=GS DehalGT_0535 WT 0.69
+#=GS DehalGT_0144 WT 1.00
+#=GS DehalGT_0715 WT 1.14
+#=GS DehalGT_0918 WT 1.10
+#=GS DehalGT_0301 WT 0.85
+#=GS DehalGT_0016 WT 1.35
+#=GS DehalGT_1097 WT 0.92
+#=GS DehalGT_0391 WT 1.52
+#=GS DehalGT_1044 WT 0.79
+#=GS DehalGT_1054 WT 1.09
+#=GS DehalGT_0135 WT 0.91
+#=GS DehalGT_0200 WT 0.55
+#=GS DehalGT_0682 WT 0.76
+#=GS DehalGT_1078 WT 0.95
+#=GS DehalGT_0098 WT 0.55
+#=GS DehalGT_0165 WT 1.07
+#=GS DehalGT_0950 WT 1.22
+#=GS DehalGT_0526 WT 0.97
+#=GS DehalGT_0856 WT 0.95
+#=GS DehalGT_0308 WT 0.96
+#=GS DehalGT_0152 WT 1.00
+#=GS DehalGT_0748 WT 0.95
+#=GS DehalGT_1051 WT 0.77
+#=GS DehalGT_1383 WT 0.61
+#=GS DehalGT_1025 WT 0.86
+#=GS DehalGT_1320 WT 0.75
+#=GS DehalGT_1337 WT 0.80
+#=GS DehalGT_0999 WT 1.11
+#=GS DehalGT_1415 WT 0.93
+#=GS DehalGT_0683 WT 0.77
+#=GS DehalGT_0327 WT 0.66
+#=GS DehalGT_0411 WT 1.50
+#=GS DehalGT_0890 WT 0.92
+#=GS DehalGT_0951 WT 1.55
+#=GS DehalGT_1008 WT 0.86
+#=GS DehalGT_0865 WT 1.14
+#=GS DehalGT_0326 WT 0.66
+#=GS DehalGT_0722 WT 0.80
+#=GS DehalGT_0958 WT 1.31
+#=GS DehalGT_1341 WT 0.80
+#=GS DehalGT_0298 WT 1.00
+#=GS DehalGT_1079 WT 0.94
+#=GS DehalGT_0299 WT 0.86
+#=GS DehalGT_0077 WT 0.38
+#=GS DehalGT_1158 WT 1.01
+#=GS DehalGT_0362 WT 1.01
+#=GS DehalGT_1153 WT 1.11
+#=GS DehalGT_0919 WT 1.23
+#=GS DehalGT_0522 WT 1.06
+#=GS DehalGT_1116 WT 1.68
+#=GS DehalGT_0176 WT 0.72
+#=GS DehalGT_0580 WT 1.29
+#=GS DehalGT_0503 WT 0.77
+#=GS DehalGT_0492 WT 0.63
+#=GS DehalGT_0151 WT 1.08
+#=GS DehalGT_0252 WT 1.03
+#=GS DehalGT_1389 WT 1.22
+#=GS DehalGT_1327 WT 0.94
+#=GS DehalGT_1315 WT 1.52
+#=GS DehalGT_0221 WT 0.38
+#=GS DehalGT_0747 WT 0.95
+#=GS DehalGT_0163 WT 1.38
+#=GS DehalGT_0197 WT 1.28
+#=GS DehalGT_1319 WT 0.94
+#=GS DehalGT_1136 WT 1.24
+#=GS DehalGT_1302 WT 1.03
+#=GS DehalGT_0820 WT 0.72
+
+DehalGT_0293 UAUAA-----CAG-----------------------------------GG
+DehalGT_1124 AGUCA-----AAG-----------------------------------AG
+DehalGT_0118 ACU-------AAC-----------------------------------GA
+DehalGT_0350 ACAAA-----GAG-----------------------------------UG
+DehalGT_0653 AAUCA-----AAG-----------------------------------CC
+DehalGT_0360 AAAUA-----AUA-----------------------------------CA
+DehalGT_1281 UCC--------AU-----------------------------------CC
+DehalGT_0296 AAAAA-----CAC-----------------------------------CU
+DehalGT_0652 AAUCA-----AAG-----------------------------------CC
+DehalGT_1146 ACAGA----AAAG-----------------------------------GG
+DehalGT_0801 AAAAAC---CAAA-----------------------------------GG
+DehalGT_0381 AAACA-----AAA-----------------------------------GC
+DehalGT_0886 UGCCA-----AGA-----------------------------------GC
+DehalGT_0349 AAACA-----GAG-----------------------------------UG
+DehalGT_1147 AAAGA-----AAA-----------------------------------GG
+DehalGT_0884 AAUAA-----UAA-----------------------------------AG
+DehalGT_1299 UUUUA-----CAA-----------------------------------GG
+DehalGT_0627 AAACA-----GGG-----------------------------------GG
+DehalGT_1007 UAAAA-----UAA-----------------------------------GG
+DehalGT_0871 UUUUA-----AGC-----------------------------------GG
+DehalGT_1378 AAUUA-----UAU-----------------------------------AU
+DehalGT_0697 AUU-------AAA-----------------------------------GC
+DehalGT_0698 AACAA-----AAA-----------------------------------GC
+DehalGT_0655 ACAAA-----UAACCUAAACCUGG-------------GGAUAACAUUAAG
+DehalGT_0833 AAAGA-----AGG-----------------------------------GC
+DehalGT_1294 UUCAA-----UAA-----------------------------------GC
+DehalGT_1345 UGACA-----AGG-----------------------------------GG
+DehalGT_0834 AAACA-----AAG-----------------------------------GG
+DehalGT_0802 AUGCC-----AAA-----------------------------------GG
+DehalGT_0847 AAUAA-----GGC-----------------------------------CG
+DehalGT_1373 UAACA-----AUG-----------------------------------AG
+DehalGT_1040 AAAAA-----AGG-----------------------------------GU
+DehalGT_0979 AAAAAC---UAAA-----------------------------------GG
+DehalGT_1343 UCU-------GAC-----------------------------------AG
+DehalGT_1346 AUACA-----AGG-----------------------------------GG
+DehalGT_0933 AUU--------CG-----------------------------------GA
+DehalGT_1076 ACCUA-----AUG-----------------------------------CC
+DehalGT_0906 AUAAAUUGGCGCA-----------------------------------GG
+DehalGT_0570 UGAAA-----GAG-----------------------------------AG
+DehalGT_1425 AAGAA-----GUA-----------------------------------GU
+DehalGT_0897 CAAUA-----UGC-----------------------------------AG
+DehalGT_0536 ACAUA----AGCA-----------------------------------AG
+DehalGT_0862 AGCAAG---ACAA-----------------------------------UG
+DehalGT_1024 ACAAA----CAAA-----------------------------------GG
+DehalGT_0447 AUAAA-----AAG-----------------------------------AC
+DehalGT_0023 UUAUA-----UGG-----------------------------------CA
+DehalGT_1035 UAUCA-----AGG-----------------------------------AG
+DehalGT_0887 AAAAA-----AGA-----------------------------------GC
+DehalGT_1032 UCUGA----AAAA-----------------------------------AG
+DehalGT_1293 AUAAA-----AAG-----------------------------------GG
+DehalGT_0705 AUUAA------GC-----------------------------------GG
+DehalGT_0004 AAACA----GCUA-----------------------------------AG
+DehalGT_0680 UGAUA----UAUA-----------------------------------AU
+DehalGT_0312 AGAUA-----AAAU--------------------------------UUAA
+DehalGT_1330 UUU-------AAA-----------------------------------GG
+DehalGT_1284 UAACA-----GUC-----------------------------------UC
+DehalGT_1422 AAUAA-----AAA-----------------------------------GG
+DehalGT_1372 AAA--------UG-----------------------------------AG
+DehalGT_0654 UAUAA-----AAA-----------------------------------AG
+DehalGT_0607 AGACA-----AAA-----------------------------------CG
+DehalGT_0226 UUUUA-----GGG-----------------------------------AC
+DehalGT_1352 UUACA------GU-----------------------------------GC
+DehalGT_0545 UCG-------GCC-----------------------------------AU
+DehalGT_1286 AAUCAUG-CUGAA-----------------------------------GC
+DehalGT_1115 AGCAA-----AAGACU----------------------------UCUCCA
+DehalGT_0123 AUUCA------AG-----------------------------------CG
+DehalGT_1273 UGC-------AAA-----------------------------------GG
+DehalGT_1202 AGACA-----AAA-----------------------------------AC
+DehalGT_1155 AGCUA-----AAU-----------------------------------UG
+DehalGT_0306 AGAAA------AA-----------------------------------CC
+DehalGT_0346 UAUAA-----UAG-----------------------------------GG
+DehalGT_1190 UAAAA-----GAG-----------------------------------GG
+DehalGT_1198 UAUUA----UGGC-----------------------------------UG
+DehalGT_0022 AAAUA----UUGG-----------------------------------CA
+DehalGT_1052 AUCAA----GAAA-----------------------------------AG
+DehalGT_1095 AUCUA-----AAACAGGUUUUUAA------------AAGCUUUUUUUAAG
+DehalGT_0639 AACCAU--CCAAAUGGAU-------------------------AAUUGAC
+DehalGT_1072 AAUAA-----UAA-----------------------------------AG
+DehalGT_0307 UGUUAG--CUUAA-----------------------------------GG
+DehalGT_1225 UAC--------AU-----------------------------------GA
+DehalGT_1382 AAAUAU---UAAA-----------------------------------GG
+DehalGT_0380 UUAGA------AA-----------------------------------AG
+DehalGT_1311 UGCUA-----AGG-----------------------------------GG
+DehalGT_0504 AUU-------UAA-----------------------------------GG
+DehalGT_0885 AAGCA-----CAA-----------------------------------AG
+DehalGT_1039 AAA-------UAAUAUAGUUGU-----------------UCGGACCUUAC
+DehalGT_0541 ACUUA-----AAA-----------------------------------GA
+DehalGT_1041 AGCAA------AG-----------------------------------GG
+DehalGT_0582 AUUCA----GGUG-----------------------------------GG
+DehalGT_0003 AAAAA-----UUA-----------------------------------AG
+DehalGT_1351 UAUCA-----AAG-----------------------------------GG
+DehalGT_1396 AUAUA-----AAUUGGGA-------------------------UAAGCCC
+DehalGT_0534 ACAAA-----GAA-----------------------------------GG
+DehalGT_0359 AAAUA-----CAG-----------------------------------AC
+DehalGT_0608 AAUAA-----AAA-----------------------------------CG
+DehalGT_1188 UCUGA-----CAG-----------------------------------GG
+DehalGT_1317 AACGAG--CUUAA-----------------------------------GG
+DehalGT_1123 AGCCU-----AAA-----------------------------------GG
+DehalGT_1004 UUCAA--------------------------------------------G
+DehalGT_0167 AGAUA----GUCCUA-------------------------------AUGG
+DehalGT_0489 UGGAA-----UAACCACCUGACCGG-----------UAUUCUAAUCCAGC
+DehalGT_0334 AAUCA-----AAA-----------------------------------AG
+DehalGT_0510 AAGUA-----GUCUGAAAA----------------------GCGGUCUGA
+DehalGT_0311 AAUAA-----AAA-----------------------------------AA
+DehalGT_1043 AAAAA----GCAA-----------------------------------GU
+DehalGT_0266 UAGCA----GAGC-----------------------------------GG
+DehalGT_0267 ACAAA-----AGC-----------------------------------GG
+DehalGT_0983 AACCG-----AUG-----------------------------------GG
+DehalGT_0592 AAUCA-----AAA-----------------------------------AC
+DehalGT_0728 AAUCA-----GAA-----------------------------------GG
+DehalGT_0242 AAUAA-----AGA-----------------------------------AG
+DehalGT_1335 AGUUA-----GUC-----------------------------------GG
+DehalGT_0564 AGUUA------AAUAUGGGG---------------------UUAAAUCAA
+DehalGT_0328 ACCCA-----UCGGC-------------------------------AACC
+DehalGT_0855 AAAUA----GAAAGC------------------------------UACCC
+DehalGT_0333 AACAA-----AAA-----------------------------------AG
+DehalGT_1117 AAUAA-----AGGCCGGGAAUUUGG-----------UUCUGCGGCCUCUG
+DehalGT_0848 AGU-------GGC-----------------------------------CG
+DehalGT_0270 AGAAACCCUGAAG-----------------------------------GG
+DehalGT_0446 AAACA-----AAG-----------------------------------AC
+DehalGT_1423 AAAUA-----AAA-----------------------------------GG
+DehalGT_0944 ACCGA-----AAA-----------------------------------GG
+DehalGT_0953 AGGUA----UUAU-----------------------------------AG
+DehalGT_0045 AACAA---------------------------------------------
+DehalGT_1308 AUUUA----UAAAUAAUUAUCUCA-------------UUCUGGCUUGGAG
+DehalGT_0630 AUAAA-----AAAUCGUCUUAGACAAGUCUUCUUUAGCUAGUUUUAGGGG
+DehalGT_1063 UAAUA-----AAA-----------------------------------GG
+DehalGT_1224 UAGGA-----UGA-----------------------------------GU
+DehalGT_1201 UAAUA-----AAA-----------------------------------CA
+DehalGT_0649 AUAAA------AA-----------------------------------AG
+DehalGT_0591 AUUAA-----AAA-----------------------------------AC
+DehalGT_0535 AUUAA----UAAA-----------------------------------GG
+DehalGT_0144 UAUAA-----AGC-----------------------------------CG
+DehalGT_0715 UCGUA-----AA--------------------------------------
+DehalGT_0918 AGACA----AUUG-----------------------------------AA
+DehalGT_0301 UAUUAU--UGGAA-----------------------------------GC
+DehalGT_0016 ACU-------AAG-----------------------------------AG
+DehalGT_1097 AAA-------AAG-----------------------------------GG
+DehalGT_0391 AAA-------GGU-----------------------------------UU
+DehalGT_1044 AAAUA-----UAA-----------------------------------GU
+DehalGT_1054 ACAAA-----AAA-----------------------------------AG
+DehalGT_0135 UGCAA-----AAG-----------------------------------GG
+DehalGT_0200 AUAUA----G---------------------------------------G
+DehalGT_0682 AAAUA----UUAA-----------------------------------AG
+DehalGT_1078 AACUA------AA-----------------------------------GC
+DehalGT_0098 AUAUA----G---------------------------------------G
+DehalGT_0165 CCCUA-----AAACCCGGU-----------------------AGCGCCAG
+DehalGT_0950 UGC-------GGC-----------------------------------GG
+DehalGT_0526 AUU-------UAA-----------------------------------CC
+DehalGT_0856 ACAUA-----UAU-----------------------------------GU
+DehalGT_0308 AAAUA--------------------------------------------G
+DehalGT_0152 UUGCA-----GAC-----------------------------------UG
+DehalGT_0748 AUAUA--------------------------------------------C
+DehalGT_1051 AACAA-----UAA-----------------------------------AG
+DehalGT_1383 ACAAA-----AAA-----------------------------------GG
+DehalGT_1025 UUUAA---------------------------------------------
+DehalGT_1320 AAUUA-----AAAAAGCUUAAACAGGGU----UUAUUAAUUAUCCUCAAG
+DehalGT_1337 AAUAA-----AAAAAGCGUAGCUCAGGUU--UAAGGUUUAUACCCUAAAC
+DehalGT_0999 UUC-------UUA-----------------------------------GC
+DehalGT_1415 AGCAA-----AAGGCUUUACAUGC-------------AUGACUUCUGGAC
+DehalGT_0683 AAAAA-----CCA-----------------------------------AG
+DehalGT_0327 AAACA-----AAA-----------------------------------AG
+DehalGT_0411 AGAAA------AUAGGGG-------------------------GAAUUGG
+DehalGT_0890 UAUCA-----AAG-----------------------------------GG
+DehalGT_0951 UUC-------AGGAU-------------------------------AACG
+DehalGT_1008 AAGCA------AA-----------------------------------GG
+DehalGT_0865 AACUA-----AACAGGAACAAA-----------------GCACUUUAAGU
+DehalGT_0326 AAUAA-----AAA-----------------------------------AG
+DehalGT_0722 AUUAA-----AAA-----------------------------------AG
+DehalGT_0958 ACUUA----UUGA-----------------------------------AA
+DehalGT_1341 UUAAA--------------------------------------------G
+DehalGT_0298 AUAAA-----AAG-----------------------------------GG
+DehalGT_1079 UAAAA------CA-----------------------------------AG
+DehalGT_0299 AAUAAC---UAAAUUUAAUUACC---------------UUAAACCGGAAG
+DehalGT_0077 ACGCA----GGAA-----------------------------------AG
+DehalGT_1158 ACAGA-----AAAGUCCUGAGUUUCCAAUG-GUGGCAAUAUGUAAAUUAU
+DehalGT_0362 AACUA-----CAG-----------------------------------AG
+DehalGT_1153 AUUGA----CACA-----------------------------------GG
+DehalGT_0919 UGC-------GUU-----------------------------------GA
+DehalGT_0522 AUAAA-----CUG-----------------------------------GC
+DehalGT_1116 AAACAG--GCAAC-----------------------------------UU
+DehalGT_0176 AGUAACC-GUUAA-----------------------------------AG
+DehalGT_0580 UUC-------AAC-----------------------------------AG
+DehalGT_0503 AAACA-----AAA-----------------------------------AG
+DehalGT_0492 UAC-----------------------------------------------
+DehalGT_0151 AAC-----------------------------------------------
+DehalGT_0252 UAGAA-----CUG-----------------------------------GG
+DehalGT_1389 ACUUA-----GAU-----------------------------------GA
+DehalGT_1327 AAACA-----GAAUAACGGCAUGGUUGC-----UUUAGCACAAAUCUUAG
+DehalGT_1315 ACU-------GGG-----------------------------------AA
+DehalGT_0221 ACGCA----GGAA-----------------------------------AG
+DehalGT_0747 AAAGA-----AAA-----------------------------------GC
+DehalGT_0163 UAA-------CAG-----------------------------------UU
+DehalGT_0197 AGC----------------------------------------------G
+DehalGT_1319 AUAAA------AA-----------------------------------AG
+DehalGT_1136 AUUUA------AACUCUA------------------------GAUUAUAA
+DehalGT_1302 AACCA-----AGAAAGCCUAGGUUUAGUCCUUAUCAGUACACAUUGAGGG
+DehalGT_0820 AUAUA-----AAG-----------------------------------AG
+#=GC SS_cons :::::.....<<<...................................<<
+#=GC RF      AaaaA.....AAa...................................gG
+
+DehalGT_0293 -CU-GC---GGU---------------GCUUAA--------------CCG
+DehalGT_1124 -CC-CC---CC-----------------GGAAA-------------CGGG
+DehalGT_0118 -AU-AG---UC-----------------GGUGA-------------AGGC
+DehalGT_0350 -GG-GA---AG-----------------UGAUAU-----------CACUU
+DehalGT_0653 -CC-CG---GU-----------------UGCAA-------------GACC
+DehalGT_0360 -GA-CC---CGUACUCACCAGAAAAUUCUUAAAG-----------UAUGA
+DehalGT_1281 -UG-UA---GC------------------UAUA--------------GCU
+DehalGT_0296 -UU-CC---UGC---------------CUUAAAA------------ACAG
+DehalGT_0652 -CC-CG---GU-----------------CUUGC-------------AACC
+DehalGT_1146 -CG-AG---AC------------------CAAA--------------GUC
+DehalGT_0801 -GC-AG---UA------------------UUUC--------------UAC
+DehalGT_0381 -CC-UG---A------------------AAUAA---------------UC
+DehalGT_0886 -CG-UA---CC------------------ACAA--------------GGU
+DehalGT_0349 -GG-GA---AG-----------------UGAUAU-----------CACUU
+DehalGT_1147 -GC-GA---GA-----------------CUUUG-------------GUCU
+DehalGT_0884 -CC-GC---UCAC------------AACUGAAAU-----------GUGAG
+DehalGT_1299 -AG-GG---AG------------------UUUA--------------CUC
+DehalGT_0627 -GG-AG---AGU---------------AUUUAA--------------CUC
+DehalGT_1007 -GC-AG---AC-----------------UCAAAG-----------UAGUC
+DehalGT_0871 -GA-GG---GGA---------------AUAUCA--------------CCC
+DehalGT_1378 -GC-CC---GCUC-------------CACCAGAG-----------AAGCG
+DehalGT_0697 -CC-UC---UG------------------GAAA--------------CAG
+DehalGT_0698 -CC-UC---UG------------------UUUC--------------CAG
+DehalGT_0655 -CC-AG---AC-----------------GCGAA--------------GUC
+DehalGT_0833 -GG-GG---AC-----------------UUAAA--------------GUC
+DehalGT_1294 -GG-GG---GA-----------------UUUAA--------------UCC
+DehalGT_1345 -GG-GG---AG----------------ACUUAAG------------UCUC
+DehalGT_0834 -CG-GG---GA----------------CUUUAA-------------GUCC
+DehalGT_0802 -GC-AG---UA------------------GAAA--------------UAC
+DehalGT_0847 -GC-AC---AUUCG----------AGGGUUAAAACCCC----UUCAGGUG
+DehalGT_1373 -GC-AG---UCA---------------CCGUAA--------------GAC
+DehalGT_1040 -GG-CA---G------------------UAAUA---------------CU
+DehalGT_0979 -CG-GC---UC-----------------UUUUA-------------CGAG
+DehalGT_1343 -GG-GA---GG-----------------UUUAA--------------CCU
+DehalGT_1346 -GG-GG---AG----------------ACUUAAG------------UCUC
+DehalGT_0933 -GC-CG---CC-----------------UGAAA-------------AGGC
+DehalGT_1076 -CC-UC---UGCC-------------UAUAAAA-------------GCAA
+DehalGT_0906 -GU-CU---GGCAAA---------UAGGUUACAAUAGC----CUAUACCA
+DehalGT_0570 -UG-GC---AG-----------------GUUGAACUCC----CUCCCCUG
+DehalGT_1425 -GG-CU---GC-----------------CUAAA--------------GCA
+DehalGT_0897 -GG-CU---CGGCAA---------CAAACAUAAACC--------CGUCGG
+DehalGT_0536 -GC-UA---CCG---------------CUUAAAUU---------GCUGGU
+DehalGT_0862 -CC-GC---AC----------------CUUUAAAUA--------UUGAUG
+DehalGT_1024 -GC-UG---AA-----------------GAAUAU-----------UCUUC
+DehalGT_0447 -CG-GA---AC-----------------UUUGA-------------GGUU
+DehalGT_0023 -GG-GU---GA------------------ACGU--------------UCA
+DehalGT_1035 -GC-AA---UU------------------UAAA--------------AAU
+DehalGT_0887 -CG-UA---CC------------------UUGU--------------GGU
+DehalGT_1032 -AC-CA---AC-----------------CUCAG--------------GUU
+DehalGT_1293 -UG-CG---GC------------------UUAA--------------GCC
+DehalGT_0705 -CG-GG-----------------------GAAA----------------C
+DehalGT_0004 -GG-GC---GU-----------------CUUAG--------------ACG
+DehalGT_0680 -CA-AU---CU-----------------UUAUAU-----------CAGGG
+DehalGT_0312 -GG-GG---CU-----------------UUAAA--------------AGC
+DehalGT_1330 -GC-AC---CG-----------------GAUAAU------------CCGA
+DehalGT_1284 -CC-CU---GAAG------------CCGUUAAAAA---------GCCUCA
+DehalGT_1422 -GG-GG---CU-----------------UAAAA-------------AAGC
+DehalGT_1372 -GC-AG---UC-----------------UUACGG------------UGAC
+DehalGT_0654 -CC-AG---AC-----------------UUCGC--------------GUC
+DehalGT_0607 -CC-CU---UC------------------GCAA--------------GAG
+DehalGT_0226 -CU-GG---GA------------------AAAU--------------UCC
+DehalGT_1352 -CC-GA---AC-----------------CUUAAA------------AGUU
+DehalGT_0545 -GC-CC---GGUGU----------GGUUUUCCAU-----------UUCCG
+DehalGT_1286 -GG-AG---GA-----------------UUAUG--------------UCC
+DehalGT_1115 -GC-UC---U-------------------UCAA---------------AG
+DehalGT_0123 -GG-GG---AG------------------UAGU--------------UUC
+DehalGT_1273 -GG-GA---GU------------------AAUU--------------ACU
+DehalGT_1202 -AG-CC---UC-----------------UUUCG--------------GAG
+DehalGT_1155 -CC-CC---CAGGC-----------GGAGUUGAC-----------UUUGG
+DehalGT_0306 -AC-CC---C------------------UCAAA---------------GG
+DehalGT_0346 -GU-AC---AU-----------------GGAAAA-----------AGAUG
+DehalGT_1190 -GG-AG---AC------------------CUGG--------------GUC
+DehalGT_1198 -GC-CG---GGGU-------------UUUUAUA-------------UUCC
+DehalGT_0022 -GG-GU---GA------------------ACGU--------------UCA
+DehalGT_1052 -CC-CG---CU-----------------UUUAA--------------GGC
+DehalGT_1095 -CC-CU---CU-----------------UCAUAC-----------GAAGA
+DehalGT_0639 -CG-CU---GU-----------------CGAAA-------------AACA
+DehalGT_1072 -CG-GC---UG-----------------UUUAC--------------CAG
+DehalGT_0307 -CU-CG---GG-----------------AGUAGUA----------CUUCC
+DehalGT_1225 -GU-AC---UG-----------------UUAAAA------------ACAG
+DehalGT_1382 -GG-CG---GU-----------------UAAUA--------------ACC
+DehalGT_0380 -CC-CU---GA-----------------UUAUU--------------UCA
+DehalGT_1311 -GG-AU---AC-----------------UUUAG-------------GGUA
+DehalGT_0504 -UC-AA---CCCCUC--------CCGGCCUUGCGCCGC---GGUUCGGGU
+DehalGT_0885 -CC-GC---UCA--------------CAUUUCAGU---------UGUGAG
+DehalGT_1039 -CG-GG---UG-----------------CAUACG------------UAAC
+DehalGT_0541 -GG-GG---C------------------UUUAU---------------GC
+DehalGT_1041 -UG-GC---AG-----------------UAUUA--------------CUG
+DehalGT_0582 -GC-AG---GU-----------------AAUAU--------------ACC
+DehalGT_0003 -GG-GC---GU-----------------CUAAG--------------ACG
+DehalGT_1351 -GG-GA---GUGG------------GGGUUAAACC----------CUGCU
+DehalGT_1396 -CU-UC---CU-----------------UGAGAA------------UAGG
+DehalGT_0534 -GG-AG---GU------------------UAAA--------------ACC
+DehalGT_0359 -UC-AU---AC-----------------UUUAAGAAUUUUCUGGUGAGUA
+DehalGT_0608 -CC-CC---UC------------------UUGC--------------GAA
+DehalGT_1188 -GA-GG----------------------UUAAA----------------C
+DehalGT_1317 -CG-AG---GG-----------------AAAUAU-----------UUCCC
+DehalGT_1123 -GC-CG---GA------------------GAAA--------------UCC
+DehalGT_1004 -CC-CU---CCA---------------CUUAAA-------------AGGA
+DehalGT_0167 -GC-AG---AG----------------ACGAAAA-----------CUCUC
+DehalGT_0489 -CC-CU---GU-----------------CGCAAC-----------UGACA
+DehalGT_0334 -CC-AC---CC----------------AUGAAA--------------AGG
+DehalGT_0510 -AG-GG---GC------------------GUAA--------------GCC
+DehalGT_0311 -GG-GG---CU-----------------UUUAA--------------AGC
+DehalGT_1043 -GG-CG---GG----------------AUAUAA--------------CCC
+DehalGT_0266 -AC-AC---CU-----------------UUUUG--------------GGG
+DehalGT_0267 -AC-AC---CC-----------------CAAAA--------------AGG
+DehalGT_0983 -GC-UG---UUC---------------UUUUAAA------------GGGC
+DehalGT_0592 -CC-CC---G------------------UUACC---------------CG
+DehalGT_0728 -CC-UG---CC-----------------UUUUG--------------GGC
+DehalGT_0242 -GG-CA---GGUGG----------UUAUUAUGAA-----------CGCCU
+DehalGT_1335 -GG-GU---GCCGG-----------CAAAGUAAC------------GGCA
+DehalGT_0564 -GC-CU---CC------------------UUCG--------------GGA
+DehalGT_0328 -UG-GA---GG----------------AUAUCA-------------CCCU
+DehalGT_0855 -GG-CU---CC-----------------CCAAA-------------AGGA
+DehalGT_0333 -CC-AC---CU-----------------UUUCA-------------UGGG
+DehalGT_1117 -GG-AG---GGG---------------GUGUGAUG----------CCCCC
+DehalGT_0848 -GC-AC---ACCUGAA-------GGGGUUUUAACCC-------UCGAAUG
+DehalGT_0270 -GG-AG---GCG---------------AUUUCA-------------AGCC
+DehalGT_0446 -CG-GA---AC-----------------CUCAA-------------AGUU
+DehalGT_1423 -GG-GG---CU----------------UUUUUA--------------AGC
+DehalGT_0944 -GG-CU-----------------------UUAA----------------A
+DehalGT_0953 -GG-GG---GC------------------GAAA--------------GCC
+DehalGT_0045 AGG-CC---UU------------------CCCG--------------GAG
+DehalGT_1308 -AG-CG---A------------------CAUUG---------------UC
+DehalGT_0630 -GU-UC---ACGUAAGGAG-UUCAAAGAUUUCACG----------GCGUG
+DehalGT_1063 -AG-CG---GU----------------AUUAAA-------------AGCC
+DehalGT_1224 -AC-UG---U------------------UUUUA---------------AC
+DehalGT_1201 -GC-CU---C------------------CGAAA---------------GA
+DehalGT_0649 -CC-CU---CU-----------------UUUGA-------------AAGA
+DehalGT_0591 -CC-CC---G------------------GGUAA---------------CG
+DehalGT_0535 -GG-AG---GU------------------UUUA--------------ACC
+DehalGT_0144 -CCGCG---GU-----------------CUAAA--------------ACC
+DehalGT_0715 CCC-GU---CC-----------------UUAGA--------------GGA
+DehalGT_0918 -GG-GG---GC-----------------UUUAA--------------UCC
+DehalGT_0301 -CC-UC---UCC---------------CUGAAA-------------AGAG
+DehalGT_0016 -CC-AG---UU-----------------CCUGACC----------GGGGC
+DehalGT_1097 -GC-GG---UG-----------------CUCAAA-----------GCUAC
+DehalGT_0391 -AC-GG---GU-----------------AUUGU--------------ACC
+DehalGT_1044 -GG-CG---GG-----------------UUAUA-------------UCCC
+DehalGT_1054 -AG-GU---C-------------------UUCA---------------CA
+DehalGT_0135 -GC-AG---AC-----------------CGUGA-------------GGUC
+DehalGT_0200 -GC-UG---UC-----------------UUAAUC------------GGAC
+DehalGT_0682 -GC-CG---GG-----------------UUAAAU------------CCCC
+DehalGT_1078 -CC-CG---CU------------------UUUC--------------GGC
+DehalGT_0098 -GC-UG---UC-----------------UUAAUC------------GGAC
+DehalGT_0165 -CC-AG---UU-----------------UGAAUA------------AAGC
+DehalGT_0950 -GU-AC---AG-----------------UUUCG-------------GCUG
+DehalGT_0526 -GG-CU---UC-----------------GGAAAUU----------CUGAG
+DehalGT_0856 -CC-CG---CC-----------------CUUUAU-----------CCGGC
+DehalGT_0308 -CC-UG-----------------------AAGG----------------C
+DehalGT_0152 -CC-GG---CU------------------UCAA--------------ACC
+DehalGT_0748 -CC-CG---GC------------------CAAG--------------ACC
+DehalGT_1051 -CC-CG---CC-----------------UUAAA--------------AGC
+DehalGT_1383 -GG-CG---GU-----------------UAUUA--------------ACC
+DehalGT_1025 AGG-GG---GC-----------------GUAAA--------------GCC
+DehalGT_1320 -CG-GG---GG----------------GUUAAA-------------UCCC
+DehalGT_1337 -GG-GG---GA------------------GAAA--------------UCC
+DehalGT_0999 -CC-GG---GC------------------AAUU--------------GCC
+DehalGT_1415 -CG-GU---GUAG------------AUACUAAAC------------UAUG
+DehalGT_0683 -GC-CG---GGG---------------AUUUAA--------------CCC
+DehalGT_0327 -GC-CG---GU------------------UAAA--------------ACC
+DehalGT_0411 -GU-AA---CC----------------CUGACG--------------GGU
+DehalGT_0890 -GC-AG---GU-----------------CUCAAA------------AGCC
+DehalGT_0951 -GG-CU---U-------------------GAGG---------------AA
+DehalGT_1008 -GC-AG---ACU--------------ACUUUGA--------------GUC
+DehalGT_0865 -CC-AG---CG-----------------UUCAAGUU--------CAACGC
+DehalGT_0326 -GC-CG---GU------------------UUUA--------------ACC
+DehalGT_0722 -GG-GC----------------------GGAAA----------------G
+DehalGT_0958 -GC-GG---CU------------------GCAA--------------GGC
+DehalGT_1341 -GG-GG---GA-----------------UUAGU--------------UCC
+DehalGT_0298 -AG-AC---UU-----------------UUUAA--------------AGG
+DehalGT_1079 -CC-CC---GC-----------------CGAAA-------------AGCG
+DehalGT_0299 -GG-AG---AC----------------CUUUAAA-----------AAGUC
+DehalGT_0077 -CG-GG---G-------------------GAGA---------------CC
+DehalGT_1158 -CC-GG---GG-----------------UUUAA--------------ACC
+DehalGT_0362 -GG-GG---CU-----------------UCAGA--------------AGC
+DehalGT_1153 -CU-GG---ACA---------------GCUAUUC------------UGCC
+DehalGT_0919 -AG-GG---GG----------------AUUAAA-------------GCCC
+DehalGT_0522 -AG-GG---GU----------------UUUUAAU------------AACC
+DehalGT_1116 -AA-CC---CU-----------------UAAUC--------------AGG
+DehalGT_0176 -GG-GG---C------------------UUUUA---------------GC
+DehalGT_0580 -CC-GC---AGA---------------CUUACAA------------ACUG
+DehalGT_0503 -CC-CC---UU-----------------GUUCA--------------GAG
+DehalGT_0492 --G-CG---GU-----------------UAAAA--------------GCC
+DehalGT_0151 CGC-CG---C-------------------AAUA---------------GC
+DehalGT_0252 -CA-AG---GG------------------UUAA--------------CCC
+DehalGT_1389 -GG-ACAAUUGA---------------CCAAAAGUC--------AGGCAG
+DehalGT_1327 -CG-GG---GG----------------UUGUAA-------------UCCC
+DehalGT_1315 -GA-AA---AG-----------------CCUAA--------------CUU
+DehalGT_0221 -CG-GG---G-------------------GAGA---------------CC
+DehalGT_0747 -CC-CG---GU------------------CUUG--------------GCC
+DehalGT_0163 -AC-UA---UUU---------------UCUUAA--------------AAU
+DehalGT_0197 -CG-CU---AU----------------GUUCGA--------------GUA
+DehalGT_1319 -CG-GG---GG----------------AUUUAA-------------CCCC
+DehalGT_1136 -AG-CG---GC-----------------CUUAAC-----------CAGCC
+DehalGT_1302 -AG-GG---GAA---------------GCUAUA-------------UUCC
+DehalGT_0820 -GG-GG---CU------------------UUAA--------------AGC
+#=GC SS_cons .<<.<<...<<................._____..............>>>
+#=GC RF      .gc.gg...gc.................UUuAA..............gcc
+
+DehalGT_0293 CAG-CC---CUGU-UUCUUU
+DehalGT_1124 GGG-CU---CUUA-UA-UUU
+DehalGT_0118 UAU-UC---GUUA-GUCUUU
+DehalGT_0350 CCC-CA---CUCU-GU-UUU
+DehalGT_0653 GGG-GG---CUUU-GA-UUU
+DehalGT_0360 GUC-UG---UAUU-UGAUUU
+DehalGT_1281 ACA-GG---AU--G------
+DehalGT_0296 GAU-AG---GUGU-UU-UUU
+DehalGT_0652 GGG-GG---CUUU-GA-UUU
+DehalGT_1146 UCG-CC---CUUU-UC-UUU
+DehalGT_0801 UGC-CC---UUUG-GC-AUA
+DehalGT_0381 AGG-GC---UUUU-CU-AAU
+DehalGT_0886 ACG-GC---UCUU-UUUUAU
+DehalGT_0349 CCC-CA---CUCU-UUGUUU
+DehalGT_1147 CGC-CC---UUUU-CUGUUU
+DehalGT_0884 CGG-CU---UUGU-GC-UUU
+DehalGT_1299 CCU-CC---UUGU-UU-UAU
+DehalGT_0627 UCC-CC---CCUU-UA-CUU
+DehalGT_1007 UGC-CC---UUUG-CU-UUU
+DehalGT_0871 CUC-CC---GCUU-GUUUAU
+DehalGT_1378 GGC-AU---AUAU-AA-UUU
+DehalGT_0697 AGG-GC---UUUU-UG-UUA
+DehalGT_0698 AGG-GC---UUUA-AUCUGU
+DehalGT_0655 UGG-CU---UUUU-UA-UAU
+DehalGT_0833 CCC-GC---CCUU-UG-UUU
+DehalGT_1294 CCC-GC---UUAU-UUAUUU
+DehalGT_1345 CCC-CC---CCUU-GU-AUU
+DehalGT_0834 CCG-CC---CUUC-UU-UAU
+DehalGT_0802 UGC-CC---UUUG-GU-UUU
+DehalGT_0847 UGC-CG---GCCA-CUCCCU
+DehalGT_1373 UGC-CU---CAUU-UGGUUU
+DehalGT_1040 GCC-AC---CCUU-UGCUAA
+DehalGT_0979 CCG-CC---UUUU-UAUAAU
+DehalGT_1343 CCC-CU---GUUU-UUUUCU
+DehalGT_1346 CCC-CC---CCUU-GU-CAU
+DehalGT_0933 GGC-UC---CG--G--GUUU
+DehalGT_1076 AGG-GG---CAUU-UU-UUU
+DehalGT_0906 GAC-CC---UGUU-UU-UAU
+DehalGT_0570 CCA-CU---CUCU-AGACAU
+DehalGT_1425 GCC-AC---UCUC-UU-UUU
+DehalGT_0897 GCC-CU---GCGU-AU-AUU
+DehalGT_0536 AGC-CU---UGCU-UA-UUU
+DehalGT_0862 CGG-CG---UUGU-UU-UGU
+DehalGT_1024 AGC-CC---UUUC-CGGUUU
+DehalGT_0447 CCG-GU---CUUU-GU-UUU
+DehalGT_0023 CCC-UG---CCAA-UA-UUU
+DehalGT_1035 UGC-CU---CCUU-UUUUAU
+DehalGT_0887 ACG-GC---UCUU-GGCAUU
+DehalGT_1032 GGU-CU---UUUU-AU-UUU
+DehalGT_1293 GCA-CC---CUUU-AG-UUU
+DehalGT_0705 CCG-CC---GC--A--AUUA
+DehalGT_0004 CCC-CU---UAAU-UUUUAU
+DehalGT_0680 UUG-AU---UAUU-CCCUUU
+DehalGT_0312 CCC-UU---UUUU-UA-UUU
+DehalGT_1330 UGC-CC---UUUA-GA-UUU
+DehalGT_1284 GGG-GA---GACA-CUGGGU
+DehalGT_1422 CCC-CC---UUUU-AU-UUU
+DehalGT_1372 UGC-CU---CA---------
+DehalGT_0654 UGG-CU---UAAU-GU-UAU
+DehalGT_0607 GGG-CG---UUUU-UAUUCU
+DehalGT_0226 CAG-GU---CCCU-UU-UUU
+DehalGT_1352 CGG-GC---AC--U--GGUA
+DehalGT_0545 GGU-GU---GGCU-GU-UUU
+DehalGT_1286 UCC-GC---UUUU-UUAUUU
+DehalGT_1115 AGC-UG---CUUC-UG-UUU
+DehalGT_0123 CCC-CG---CU--U--AUUU
+DehalGT_1273 CCC-CC---UUUU-UA-UUA
+DehalGT_1202 GCU-GU---UUUA-UUAUGU
+DehalGT_1155 GGG-CA---AUUU-AG-UAG
+DehalGT_0306 GGU-GG---UU--U---ACU
+DehalGT_0346 UGC-CU---CUGU-UA-GUU
+DehalGT_1190 UCC-CC---CUCU-GG-UUU
+DehalGT_1198 GGU-CA---GCCU-UU-AUU
+DehalGT_0022 CCC-UG---CCAU-AU-AAU
+DehalGT_1052 GGG-CU---UUAU-UG-UUU
+DehalGT_1095 GGG-CU---UUUA-UU-UUU
+DehalGT_0639 GCG-GU---UUUU-CCGUUU
+DehalGT_1072 CCG-CU---UUAU-GUUUAU
+DehalGT_0307 GGG-CC---UUUU-GU-UUU
+DehalGT_1225 UAC-UC---AU--C--CUAA
+DehalGT_1382 GCC-CC---UUUU-UU-GUU
+DehalGT_0380 GGG-CU---UU--U--GUUU
+DehalGT_1311 UCC-CC---CCUU-AG-UUU
+DehalGT_0504 UGA-CC---UUAU-UAAUAU
+DehalGT_0885 CGG-CU---UUAU-UA-UUU
+DehalGT_1039 CCG-GU---UUGA-GG-UAG
+DehalGT_0541 CCC-UC---UUUU-UU-AUU
+DehalGT_1041 CCA-CC---CU--U--UUUU
+DehalGT_0582 UGC-CC---CACA-GU-UUU
+DehalGT_0003 CCC-CU---UAGC-UG-UUU
+DehalGT_1351 UCC-CC---CUUU-UU-UAU
+DehalGT_1396 AAG-GG---AUUU-GU-UUA
+DehalGT_0534 UCC-CC---UUUA-UUAAUU
+DehalGT_0359 CGG-GU---CUGU-AU-UAU
+DehalGT_0608 GGG-CG---UUUU-GUCUUU
+DehalGT_1188 CUC-CC---CUGU-UGCUAU
+DehalGT_1317 UCG-CC---UUUU-UUAUUU
+DehalGT_1123 GGC-CC---UUUC-UU-UUU
+DehalGT_1004 GGG-C--------U--UUUU
+DehalGT_0167 UGC-CC---GGAC-UGGUUU
+DehalGT_0489 GGG-GC---UUUU-UUAUAU
+DehalGT_0334 UGG-CU---UUUU-UG-UUU
+DehalGT_0510 CAU-UC---GGCU-GU-UUG
+DehalGT_0311 CCC-UUAAAUUUU-AUCUGU
+DehalGT_1043 GCC-AC---UUAU-AU-UUA
+DehalGT_0266 UGU-CC---GCUU-UUGUUU
+DehalGT_0267 UGU-CC---GCUC-UGCUAU
+DehalGT_0983 AGC-CU---UAUU-AU-UUU
+DehalGT_0592 GGG-GU---UUUU-UA-AUA
+DehalGT_0728 AGG-CC---UUUU-UG-AAU
+DehalGT_0242 GCC-CU---UCUU-GGCAUU
+DehalGT_1335 CCC-CC---GACU-GUGUUU
+DehalGT_0564 GGC-UU---UU--U--AUUU
+DehalGT_0328 CCG-GG---CGCU-UCGGUU
+DehalGT_0855 GCC-GG---UUUU-UU-AUU
+DehalGT_0333 UGG-CU---UUUU-GA-UUA
+DehalGT_1117 UCC-CG---CCUU-UA-UUU
+DehalGT_0848 UGC-CG---GCCU-UAUUAU
+DehalGT_0270 UCC-CC---CUUU-UUAUAU
+DehalGT_0446 CCG-GU---CUUU-UU-AUU
+DehalGT_1423 CCC-CC---UUUU-UA-UUC
+DehalGT_0944 GCC-CC---UUUU-AUCAUU
+DehalGT_0953 CCC-CU---UUCU-UA-UUU
+DehalGT_0045 GCC----------U--UUUU
+DehalGT_1308 GCU-CU---UUUU-UA-UUU
+DehalGT_0630 AAC-CC---UUUU-GA-UAU
+DehalGT_1063 GCU-CC---UUUU-UG-UUU
+DehalGT_1224 AGU-AC---UCAU-GU-ACU
+DehalGT_1201 GGC-UG---UUUU-UG-UCU
+DehalGT_0649 GGG-CU---UU--A--GUUU
+DehalGT_0591 GGG-GU---UUUU-GA-UUU
+DehalGT_0535 UCC-CC---UUCU-UUGUUU
+DehalGT_0144 GGG-CG---GCUU-UUUUAU
+DehalGT_0715 CGG-------UUU-UUAAUU
+DehalGT_0918 CCC-UU---CAAC-GC-AUU
+DehalGT_0301 AGG-GC---UUCU-UC-UUU
+DehalGT_0016 UGG-CU---CUUC-CC-UUU
+DehalGT_1097 CGC-CC---CUUG-GU-UUU
+DehalGT_0391 CGU-AG---GCUU-AU-UUA
+DehalGT_1044 GCC-AC---UUGC-UU-UUU
+DehalGT_1054 CCU-CU---UUAA-AA-UAU
+DehalGT_0135 UGC-CC---CCUA-UACUUU
+DehalGT_0200 AGG-C--------C--GUUG
+DehalGT_0682 GGC-CU---UGGU-UU-UUC
+DehalGT_1078 GGG-GC---UU--G--UUUU
+DehalGT_0098 AGG-C--------C--GUUG
+DehalGT_0165 UGG-CU---UUUU-UG-UUU
+DehalGT_0950 UAC-CC---GCUC-UC-UUU
+DehalGT_0526 GCC-GG---UUUU-UU-AUU
+DehalGT_0856 GGG-AU---AUUC-AU-UUU
+DehalGT_0308 AGG-C--------U--GUUU
+DehalGT_0152 CGG-CA---GUUU-UUUUAU
+DehalGT_0748 GGG-G--------C--UUUU
+DehalGT_1051 GGG-CU---UUUC-UUGAUU
+DehalGT_1383 GCC-CC---UUUA-AUAUUU
+DehalGT_1025 CCC----------C--UUUU
+DehalGT_1320 CCG-CU---UUUU-UA-UUU
+DehalGT_1337 CCC-GU---UUUU-CA-UUU
+DehalGT_0999 UGG-GC---UAUU-UG-UUU
+DehalGT_1415 CCG-GU---CUUU-UU-AUU
+DehalGT_0683 GGC-CU---UUAA-UA-UUU
+DehalGT_0327 GGC-CU---UUUU-UA-UUA
+DehalGT_0411 UAC-CC---AG--A--GUUU
+DehalGT_0890 UGC-CC---CUUG-CCGUUU
+DehalGT_0951 GCC-CG---CCUU-GAAUCU
+DehalGT_1008 UGC-CC---UU--A--UUUU
+DehalGT_0865 UGG-AU---GUUU-UU-AUU
+DehalGT_0326 GGC-CU---UUUU-GU-UUU
+DehalGT_0722 CCC-CU---UUUA-UU-UUU
+DehalGT_0958 CGC-UU---UCUU-CUACGU
+DehalGT_1341 CCC-C--------C---UUU
+DehalGT_0298 UCU-CC---CUUC-CGGUUU
+DehalGT_1079 GGG-CU---UU--A--GUUU
+DehalGT_0299 UCC-CU---UUUU-AUAUUU
+DehalGT_0077 CCG-CU---UUUU-UGCUUU
+DehalGT_1158 CGG-AU---UUUU-UA-UGU
+DehalGT_0362 CCC-CU---CUCU-UG-UAU
+DehalGT_1153 CGG-CC---UGUU-UUAUUU
+DehalGT_0919 CCU-UC---AAUU-GUCUAG
+DehalGT_0522 CCUAGC---UAAA-UA-UCU
+DehalGT_1116 GUU-AA---GUUC-GGGUGU
+DehalGT_0176 CCC-CU---UUUU-AU-AUU
+DehalGT_0580 CGG-CU---GGUU-UA-UUG
+DehalGT_0503 GGG-CU---UUUA-UCAUUU
+DehalGT_0492 GC-----------C---UUU
+DehalGT_0151 GGC----------A------
+DehalGT_0252 ----CC---CCGC-UUAAAU
+DehalGT_1389 UCC-UC---AUUU-UU-AUA
+DehalGT_1327 CCG-CU---UUUU-AU-UGG
+DehalGT_1315 UUC-UU---CCCA-AA-AAU
+DehalGT_0221 CCG-CU---UUUU-UGCUUU
+DehalGT_0747 GGG-GU---AUAU-UU-AUU
+DehalGT_0163 AGU-AA---CUAU-AA-AGU
+DehalGT_0197 GCG-C--------U---UUU
+DehalGT_1319 CCG-CU---UG--A--GGAU
+DehalGT_1136 GCU-UU---UU--C--UUUU
+DehalGT_1302 CCU-CC---UCUU-UU-UAU
+DehalGT_0820 CCC-CU---CUUU-AU-AUU
+#=GC SS_cons >>>.>>...>>>:.::.:::
+#=GC RF      cgc.Cc...uUUU.UU.UUU
+//

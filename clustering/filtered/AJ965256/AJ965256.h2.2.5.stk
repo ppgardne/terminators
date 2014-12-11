@@ -1,0 +1,992 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.2-1
+#=GF AU Infernal 1.0.2
+
+#=GS cbdbA285  WT 1.04
+#=GS cbdbA912  WT 0.94
+#=GS cbdbA1556 WT 1.33
+#=GS cbdbA288  WT 1.06
+#=GS cbdbA1368 WT 0.97
+#=GS cbdbA738  WT 0.87
+#=GS cbdbA369  WT 0.91
+#=GS cbdbA737  WT 0.87
+#=GS cbdbA1077 WT 1.09
+#=GS cbdbA1094 WT 1.11
+#=GS cbdbA1393 WT 0.91
+#=GS cbdbA1394 WT 0.93
+#=GS cbdbC1    WT 1.22
+#=GS cbdbA1217 WT 1.04
+#=GS cbdbA1159 WT 0.80
+#=GS cbdbA1021 WT 0.93
+#=GS cbdbA1573 WT 0.90
+#=GS cbdbA1569 WT 0.42
+#=GS cbdbA1008 WT 1.13
+#=GS cbdbA394  WT 1.01
+#=GS cbdbA953  WT 0.87
+#=GS cbdbA1625 WT 0.90
+#=GS cbdbA794  WT 1.08
+#=GS cbdbA969  WT 1.11
+#=GS cbdbA1074 WT 0.91
+#=GS cbdbA1196 WT 1.01
+#=GS cbdbA689  WT 0.90
+#=GS cbdbA795  WT 0.83
+#=GS cbdbA1106 WT 1.06
+#=GS cbdbA740  WT 0.95
+#=GS cbdbA1663 WT 0.95
+#=GS cbdbA954  WT 0.87
+#=GS cbdbA1050 WT 0.98
+#=GS cbdbA1623 WT 0.85
+#=GS cbdbA1223 WT 1.10
+#=GS cbdbA1670 WT 1.13
+#=GS cbdbA27   WT 1.09
+#=GS cbdbA1244 WT 1.06
+#=GS cbdbB33   WT 1.28
+#=GS cbdbA4    WT 0.92
+#=GS cbdbA580  WT 1.17
+#=GS cbdbA1626 WT 0.92
+#=GS cbdbA393  WT 1.00
+#=GS cbdbA1224 WT 1.09
+#=GS cbdbA1237 WT 0.87
+#=GS cbdbA1568 WT 1.02
+#=GS cbdbA471  WT 0.92
+#=GS cbdbA1290 WT 1.00
+#=GS cbdbA3    WT 0.92
+#=GS cbdbA1285 WT 1.16
+#=GS cbdbA704  WT 1.23
+#=GS cbdbA1024 WT 0.98
+#=GS cbdbA1234 WT 1.06
+#=GS cbdbA622  WT 1.14
+#=GS cbdbA1549 WT 0.42
+#=GS cbdbA666  WT 0.96
+#=GS cbdbA1039 WT 1.39
+#=GS cbdbA1470 WT 1.10
+#=GS cbdbB40   WT 0.96
+#=GS cbdbA1025 WT 1.00
+#=GS cbdbA310  WT 0.71
+#=GS cbdbA723  WT 1.00
+#=GS cbdbA803  WT 1.13
+#=GS cbdbA1609 WT 0.91
+#=GS cbdbA1677 WT 0.85
+#=GS cbdbA1356 WT 1.15
+#=GS cbdbA1256 WT 0.96
+#=GS cbdbA772  WT 1.29
+#=GS cbdbA1562 WT 0.93
+#=GS cbdbA25   WT 1.35
+#=GS cbdbA1463 WT 0.97
+#=GS cbdbA1023 WT 0.93
+#=GS cbdbA739  WT 1.02
+#=GS cbdbA1587 WT 0.40
+#=GS cbdbA354  WT 1.18
+#=GS cbdbA914  WT 0.94
+#=GS cbdbA1245 WT 1.06
+#=GS cbdbA1507 WT 0.40
+#=GS cbdbA1405 WT 1.16
+#=GS cbdbA1637 WT 1.22
+#=GS cbdbA541  WT 1.32
+#=GS cbdbA1331 WT 1.01
+#=GS cbdbA1559 WT 1.33
+#=GS cbdbA633  WT 0.98
+#=GS cbdbA1662 WT 1.42
+#=GS cbdbB12   WT 1.07
+#=GS cbdbA1594 WT 0.86
+#=GS cbdbA667  WT 0.89
+#=GS cbdbA1541 WT 0.80
+#=GS cbdbA587  WT 1.05
+#=GS cbdbA1614 WT 1.30
+#=GS cbdbA1635 WT 0.87
+#=GS cbdbA339  WT 0.97
+#=GS cbdbA1452 WT 0.85
+#=GS cbdbA1454 WT 1.03
+#=GS cbdbA831  WT 1.12
+#=GS cbdbA1727 WT 0.86
+#=GS cbdbA161  WT 1.30
+#=GS cbdbA174  WT 0.78
+#=GS cbdbA1247 WT 0.86
+#=GS cbdbA1164 WT 1.13
+#=GS cbdbA1583 WT 1.00
+#=GS cbdbA219  WT 1.05
+#=GS cbdbA645  WT 1.01
+#=GS cbdbA525  WT 1.09
+#=GS cbdbA1186 WT 1.12
+#=GS cbdbA222  WT 1.05
+#=GS cbdbA1193 WT 1.10
+#=GS cbdbA1469 WT 0.91
+#=GS cbdbA85   WT 0.79
+#=GS cbdbA1130 WT 0.99
+#=GS cbdbA1358 WT 0.93
+#=GS cbdbA547  WT 1.22
+#=GS cbdbA983  WT 1.08
+#=GS cbdbA1545 WT 0.90
+#=GS cbdbA1310 WT 1.27
+#=GS cbdbA188  WT 0.90
+#=GS cbdbA1311 WT 1.01
+#=GS cbdbA579  WT 0.85
+#=GS cbdbA1410 WT 1.09
+#=GS cbdbA578  WT 0.90
+#=GS cbdbA1401 WT 1.35
+#=GS cbdbA734  WT 0.83
+#=GS cbdbA133  WT 1.06
+#=GS cbdbA701  WT 1.14
+#=GS cbdbA714  WT 1.28
+#=GS cbdbA1063 WT 0.86
+#=GS cbdbA816  WT 1.07
+#=GS cbdbA122  WT 0.97
+#=GS cbdbA971  WT 0.97
+#=GS cbdbA1119 WT 0.82
+#=GS cbdbA300  WT 1.15
+#=GS cbdbA644  WT 0.89
+#=GS cbdbA1259 WT 0.96
+#=GS cbdbA1597 WT 0.79
+#=GS cbdbA1728 WT 0.80
+#=GS cbdbA58   WT 0.93
+#=GS cbdbA1272 WT 0.95
+#=GS cbdbA774  WT 0.80
+#=GS cbdbA470  WT 0.92
+#=GS cbdbA1126 WT 1.28
+#=GS cbdbA1617 WT 0.90
+#=GS cbdbA985  WT 1.06
+#=GS cbdbA1075 WT 0.91
+#=GS cbdbA239  WT 0.98
+#=GS cbdbA1333 WT 1.06
+#=GS cbdbA568  WT 1.09
+#=GS cbdbA408  WT 0.92
+#=GS cbdbA1292 WT 0.97
+#=GS cbdbA824  WT 0.80
+#=GS cbdbA1490 WT 1.05
+#=GS cbdbA143  WT 1.08
+#=GS cbdbA775  WT 0.80
+#=GS cbdbA1536 WT 0.61
+#=GS cbdbA435  WT 1.25
+#=GS cbdbA853  WT 1.02
+#=GS cbdbA1581 WT 0.61
+#=GS cbdbA1198 WT 1.11
+#=GS cbdbA1667 WT 1.22
+#=GS cbdbB27   WT 0.97
+#=GS cbdbA290  WT 1.09
+#=GS cbdbA1678 WT 0.86
+#=GS cbdbA998  WT 1.15
+#=GS cbdbB5    WT 1.28
+#=GS cbdbA564  WT 1.10
+#=GS cbdbA1248 WT 0.86
+#=GS cbdbA1030 WT 1.01
+#=GS cbdbA292  WT 0.71
+#=GS cbdbA371  WT 1.03
+#=GS cbdbA329  WT 1.08
+#=GS cbdbA159  WT 1.00
+#=GS cbdbA1412 WT 1.17
+#=GS cbdbA173  WT 0.79
+#=GS cbdbA1064 WT 0.86
+#=GS cbdbA227  WT 1.12
+#=GS cbdbA1135 WT 1.16
+#=GS cbdbA1402 WT 1.17
+#=GS cbdbA932  WT 1.39
+#=GS cbdbA1127 WT 1.17
+#=GS cbdbA1621 WT 0.86
+#=GS cbdbA1606 WT 0.89
+#=GS cbdbA631  WT 1.07
+#=GS cbdbA1686 WT 1.28
+#=GS cbdbB11   WT 0.96
+#=GS cbdbA1293 WT 1.02
+#=GS cbdbA1596 WT 1.02
+#=GS cbdbA309  WT 0.78
+#=GS cbdbA851  WT 0.96
+#=GS cbdbA540  WT 0.97
+#=GS cbdbA308  WT 0.92
+#=GS cbdbA1708 WT 0.87
+#=GS cbdbA359  WT 0.89
+#=GS cbdbA939  WT 0.92
+#=GS cbdbA358  WT 0.89
+#=GS cbdbA1502 WT 1.23
+
+cbdbA285     UAAGUCUA-------AUAUAGUUG---UAUAA------------------
+cbdbA912     UAAACUUAUU---CUUAAUA-------UCCCAA---------AAAA----
+cbdbA1556    ----CUUUA----UU---UCUCCG---UUUC-------------------
+cbdbA288     GUAUUCUAA----UUAGAU-UAGG---UAUA-------------------
+cbdbA1368    AAAAAGGA------U---UGACGG---UCCUAAA-------GUAAGU---
+cbdbA738     UUAUCUAG------UAAA-AUAGU---U---AGUU------AAA-A----
+cbdbA369     AAAUCCUG------CAUA-ACUCC---U---AGCCC---CGAA--A----
+cbdbA737     ----CUGACC---GUUAAUA-------UGUUAUA--------AA-A----
+cbdbA1077    AAACCAGAC----AU---UAUUGC---U---UG-----------------
+cbdbA1094    CAAA----A-----UAAAUCAAAG---UAUU-------------------
+cbdbA1393    CAAACGGG------U---UA--------AACAG-----------------
+cbdbA1394    GUAUCUAUUU---AUAAAUAUAGU---UUUGAGU--------A-AA----
+cbdbC1       UUAUCCUG------CGAG--UCAC---U--UA------------------
+cbdbA1217    UUAGUUUA------UAAAUAAUUGG-UUAUUAA-----------------
+cbdbA1159    AAAACGGCU----UUACA--GCAG--GUUAAAGA-------AA--AA---
+cbdbA1021    UUAGCCCAA-----UAAAUG---U---UUUCAAA--------UAA-----
+cbdbA1573    UAAGCUAACG--AGUAGG-AACAGGCAUUUUA------------------
+cbdbA1569    AAAGUUUAA-----UCAA-AAGUC---UUUCAGGU------UCAA-----
+cbdbA1008    AAAACGGCAU---AC---UAUGUC---UUUU-------------------
+cbdbA394     ----AAGC------CAAA-C------------------------------
+cbdbA953     UAAACUCUA----AUACAUCAAUA---UUCUAGAC------AUAA-----
+cbdbA1625    CUAUCAGA------UUAA-AGAAG--AUGACAA-----------------
+cbdbA794     UAAUAUUAC----AU------UGG---UGACAG---------A-------
+cbdbA969     CAAAUAGAC----UCUAAUA--------AUAA------------------
+cbdbA1074    UAACCACCA----UUUGA-A--CU---UAUAU-------------A----
+cbdbA1196    CAACCCGCA----CC---UCGAGA---UAAAA------------------
+cbdbA689     AAAUCCUU-------AAAUA--------AACAG-----------------
+cbdbA795     UUACCUUUA-----CUAAUA--------AUUAAAC------CUAAC----
+cbdbA1106    AUAUCCAA------C---UAGCUG--A--UU-------------------
+cbdbA740     AAACCUGG-------GGAUAACAU---U----------------------
+cbdbA1663    ----CCGG------UAAAUAACAA---U----------------------
+cbdbA954     UAAACCUCG----GU---U-AGGC---UAAAAGU-------AA--AA---
+cbdbA1050    AUAUCUGCCC--GUUCUAUAACCU---UUACUGA-------AUAAAU---
+cbdbA1623    ----CUGCA-----U---UAUCGG---UGUCUG-----------------
+cbdbA1223    CAACCGGG-------AUAU-GCGG---UAUAAA---------CA------
+cbdbA1670    AAAGCAAAA-----U---UA-------U----------------------
+cbdbA27      CAAGUUUA------U---UA-------U---AU-----------------
+cbdbA1244    GAAGCUGA------U---UC--------CUCUGCC-----UGCAA-----
+cbdbB33      ----CAGA------UAAA--UUGG---UUUUACG--------A-------
+cbdbA4       UAAGCCUUU----AUUAA-AGCCU---U---AGA--------AA-AC---
+cbdbA580     AAAUCUAGC-----U---UCUCAG---UCUUUGG-------GA-AACA--
+cbdbA1626    AAAGCCUAAA---CC---U-CAGG---UAAUAC-----------------
+cbdbA393     ----CAGC------U---U-AAAG---UAUUAG---------A-------
+cbdbA1224    AUACCUUUA-----UGUAUC-------UAUUCCC-------CGAAUAU--
+cbdbA1237    UAAACAGAAU---UC---UGCCGG--AUGUUAU---------C-------
+cbdbA1568    UAAUCCUUG----CCUGAUGUUUG---UUUAAA----------AACGU--
+cbdbA471     ----CGGGAA---CUAAAUAACCUG-UUUUCAAC--------CAAU----
+cbdbA1290    ----CUGCC----CUAAA--AUAA---UAUUACCG------UC--A----
+cbdbA3       AAAUCCGGU----AU---UAAAAC---UGUCAGA-------UA-AA----
+cbdbA1285    GAACCAGAC-----U---UC--------UCAAGA-------UGAAU----
+cbdbA704     CAAUCAUUA-----AAAAUA-------UUUUUGC-------UUA-GC---
+cbdbA1024    AUAGCCCCG-----UAAA-A--------UAAAGC--------UAAAU---
+cbdbA1234    UUAACUUUA----UC---UC-------UCUGAA-----------------
+cbdbA622     UAAUAUUC----------UACAUU---UUUAUAUC-----UUGAAA----
+cbdbA1549    AAAGUUUAA-----UCAA-AAGUC---UUUCAGGU------UCAA-----
+cbdbA666     UUAACAGU----------UGGUGG---UUUUACAU------CUAAA----
+cbdbA1039    GAAGUAGU-------AAGUC-------UUAUAGU--------CAAU----
+cbdbA1470    CUAGUUCG-------UAA-G--------UUCAGGG-----CAG--A----
+cbdbB40      UAACUCGGC----CUAAA--CCAA---U---AAU--------CAACU---
+cbdbA1025    UAAGCGGGCU---GU---UA-------UUUAUAACU----GAUAA-----
+cbdbA310     AUAACAGA------UAAA-A--------UUU-------------------
+cbdbA723     AAACCAUC------CAAAUG--GA---U---AA-----------------
+cbdbA803     AAAACUGUA------AAA-AACAA---U---------------AAUCU--
+cbdbA1609    CAAACUGUU-----U---UA---G---UUUAAGU--------A-UAG---
+cbdbA1677    AAAUCCACCAG-ACUUGAUACCGG---UUUUAAAC------UA-AAA---
+cbdbA1356    UUAUCCUCA----GCAAA-AGACU---UCUC-------------------
+cbdbA1256    ----CUGAAG---UUCUAUAUCCC---U---AAU--------CAA-----
+cbdbA772     UAAUCUGUC----CUUAAUAUUAU---UGAU--------------A----
+cbdbA1562    UAAGCAGAG----UU---UA-------U-A-AA------------UCA--
+cbdbA25      CUACGUGC------U---UA--------AUUAAA--------AA-AU---
+cbdbA1463    CUAGAGUA------U---UA-------U----------------------
+cbdbA1023    UUACCGGAA----GCAUA-A-------UUACA-CC------CUAAAG---
+cbdbA739     AAAUCUGU------CUAAUA--------UAAAA-----------------
+cbdbA1587    CAAUCUGG------UUAAUACCAU---UAUUUGU--------G--C----
+cbdbA354     CAAAGGGCG-----UUAA-AUCUU---UAUAA------------------
+cbdbA914     AUAACCGUU-----U---U-AGGG---UUUCAAAAUAUACCAGAAGUGU-
+cbdbA1245    AUAACACCG-----CUAA--AGGG---UAUUUA---------G-------
+cbdbA1507    CAAUCUGG------UUAAUACCAU---UAUUUGU--------G--C----
+cbdbA1405    AUAACUCU------UUGA--CAAG---UAAUACCGA----AUA--AAA--
+cbdbA1637    GAAACAGAU----AUAAAUA---C---UCUCCGGU------AA--AAAC-
+cbdbA541     GAACCAGGC-----C---UA--------UUU-------------------
+cbdbA1331    AAAACAGGUU---U-UUA-AAAGC---UUUUUU-----------------
+cbdbA1559    UAAACGGGUG---UU---UAACAG---U----------------------
+cbdbA633     ----CUGAU----AUAGA-A--------UUCAG-----------------
+cbdbA1662    AUAACUUCU-----CCGA-A--------CUAAAA-------CCAA-----
+cbdbB12      UAACCCGG------UAAA-A-------U--CA-----------AA-----
+cbdbA1594    AAAGCCUAA-----U---UCAGGG---UUUUUGC--------UAACGA--
+cbdbA667     CUAACUGAUU--UCU---UACCGC---UUGAAG----------AA-----
+cbdbA1541    UAAGUUUUC-----UUGAU-GCGC---U----------------------
+cbdbA587     ----CUAGG----UUUC--AGCAU---UUUUAA----------AAGA---
+cbdbA1614    ----CGGGG----AUUUAUAAAGU---U---AG-----------------
+cbdbA1635    UAAUCUUAA-----UCAA-A-------UAUCA------------------
+cbdbA339     GAAUCUAC------UUAA-ACCAA---UAUUGCC-------CUAAU----
+cbdbA1452    ----CUGCA-----U---UAUCGG---UGUCUG-----------------
+cbdbA1454    GAAUCUCAA-----U---UACCCG---UGUAUUGA------UUAA-----
+cbdbA831     AAAGAUAC------CAAAGAAUAG---UCUUAACCCU-CGAAG--AA---
+cbdbA1727    AAACCUGCUG---UUUGA-A--------AUCCG----------AAU----
+cbdbA161     ----CGGGU-----CAAA--UCAG--AU---AGUC------CUAA-----
+cbdbA174     GAAUCUUG------CACA-A-------UAUAAA-----------------
+cbdbA1247    AAAUCUCAG----CCAAA-ACACC---UUAUAA---------AAA-----
+cbdbA1164    AAAACUGAA-----U---UAGCAU---UUUUUAAUGC--UGGUAAC----
+cbdbA1583    AAAUCUGAUU--UAUAAAUAAUUA---U-----C-------UC--AUUCU
+cbdbA219     CAAGUUGC------U---U-UCAG---UAUCAUA--------U--AG---
+cbdbA645     UAAUCCAG-------AAGUAGCUC---UCCUAAUAC----CAA--AA---
+cbdbA525     AUAACCAC------CUGA--CCGG---UAUUCU----------AA-----
+cbdbA1186    ----CUUCA----GCAAGUA-------UUUUC------------------
+cbdbA222     UAACCUGCA----A----UC-------UGUCAAA--------CAA-----
+cbdbA1193    ----CUGCA-----U---UAGUGU---UUUAUAAUAU--UCUGAAC----
+cbdbA1469    ----CGGAA-----CAUA-A-------U----------------------
+cbdbA85      AAAAAAGC------CUAAUCACAG--CUUUCAA-----------AUG---
+cbdbA1130    AAACCUGCU----GUAUUUCAAGG---UAUUA------------------
+cbdbA1358    ----CGGC------C---UC-------U----------------------
+cbdbA547     GAAGCUCA------CUAA-AGUAG---UCUGAA----------AAGCG--
+cbdbA983     AAAGCUGAA----AUAGA--AAGC---U----------------------
+cbdbA1545    GAAAUAGCC----AUAGGUA--------UUUAG-----------------
+cbdbA1310    ----CUUC------UAGA--GGGC--AUUUUACCG-----AAA--UA---
+cbdbA188     AAAUCAGGC----AUUUA-ACCGU---UAUUUAG--------CAACUA--
+cbdbA1311    UAAUUUCUA-----U---UA--------AUUAGC--------UAAU----
+cbdbA579     AAAGCCUGA----UUAAAUA-------UUUAUGU--------A-AAU---
+cbdbA1410    ----CCGCU----CUCAA-ACCAC--AUAAA-------------------
+cbdbA578     CUAUCGGG------U---UA--------UUAAAA--------CAA-----
+cbdbA1401    CAAACUUGG----AUAAA-A--------CUAAGA--------UA-UUAC-
+cbdbA734     UAAGAUUAA-----U---UA--------UUUACC--------UAAU----
+cbdbA133     AUACCUGA----------UAACAU---CCUUUGU-------CUAAGA---
+cbdbA701     ----CUGU----------UACCAU---UUUUCAG--------UAAG----
+cbdbA714     CAAGUCUUC----UUUAG--CUAG---UUUUAG-----------------
+cbdbA1063    UAAAUAUGU----GUAUAUAUUGC---U---AGA--------CAA-----
+cbdbA816     UAAACACUU-----CCAAUA--------AUCUGUC------GU-------
+cbdbA122     AUAUCCCGGU---CAUAAUA-------UAUAUG---------CAA-----
+cbdbA971     CAAGCGUUG----UUAAGUAAGGC--A--UUAU----------AAGG---
+cbdbA1119    AAAACUGCU----CU---U-CCAG---UAAAUGU-------ACAAC----
+cbdbA300     AAAUCCAGC----CCGGAUA--------UUUACU--------AAAUA---
+cbdbA644     CCAGCAGAG---------UA--------UUAA------------------
+cbdbA1259    UAAAGGGG------UAAC-ACCAG---UCUAAAA--------CAA-----
+cbdbA1597    UAAACAGGG----UUUAUUA--AU---UAU---CC------UC-------
+cbdbA1728    UUAGCUGAAG--UCU---U-UUGG---U-U-AA---------AAA-----
+cbdbA58      AAAUCUGCU-----C---UA-------U---AA-----------------
+cbdbA1272    CAAGCACCA----GUUAA-AAAGG---UAAUAA------------U----
+cbdbA774     AAAAGUGC-------AAAUA--------UUA-------------------
+cbdbA470     UAAGACUGU----CUAUAUA-------U--ACAU-------AAA-A----
+cbdbA1126    ----CAGGU----UU---UAAAGG---UUAU-------------------
+cbdbA1617    AAAGCGUAG-----C---U-CAGG---UUUAAGGU------UUAUAC---
+cbdbA985     AUACAUUGC----AU---UAGCAC--AUAUAUG-----------------
+cbdbA1075    AAAGUUUAGG---UU---UAUCAG---U---AA-----------------
+cbdbA239     UAAACUGCA-----AACA-A--------UUCAGG-------GCAA-----
+cbdbA1333    AAAACAAAAA---AC---CACCAG---UGUCAGC--------CAA-----
+cbdbA568     AAAACACCA-----C---U-GCAU---U--U-------------------
+cbdbA408     AAAUACGG------C---UAAAGG---U----------------------
+cbdbA1292    ----CUUCU-----U---UC--------AUUAGG-------CA-AA----
+cbdbA824     AAAACUGAU----UUAAAUA--AU---UUACAG----------AAUU---
+cbdbA1490    GUAGCAGG----------UA-------UUUU-------------------
+cbdbA143     AAAG----A----GUUAAUGCUAU---UAUUUG---------C-------
+cbdbA775     AAAACAGAUAA-CCCCAA-AAUAG---UCUUGAA--------AA-A----
+cbdbA1536    AAAGCAGC------C---UAGAAG---U-UAAGU--------UAAGA---
+cbdbA435     ----CCCA------U---UACAGG---UGGUAGAG-----AGA-AAAUAG
+cbdbA853     UAAUAUUA----------UA-------UUUUUACU-----AAUAAA----
+cbdbA1581    AAAGCAGC------C---UAGAAG---U-UAAGU--------UAAGA---
+cbdbA1198    UUAUUUUACG---GUUAGUA---U---UAUA--CUC---UCCA-AA----
+cbdbA1667    UUAAGUGA------U---UAAAGC---U----------------------
+cbdbB27      AAAUACUC------C---UC-------UUUAAA---------CAA-----
+cbdbA290     ----CCGCU----UUCAA-AGAAA---UAUAAA-----------------
+cbdbA1678    UAACCUGUAGU-CAUUUAUCACAG---UUUGCAGA-----GAUAAC----
+cbdbA998     UAAACAGGA----ACAAA--GCAC---UUUAAG-----------------
+cbdbB5       GAACUCAG------CUAA-A-------UGUCAG---------A--C----
+cbdbA564     AAACCCUU------U---UAUAAG---UAUC-------------------
+cbdbA1248    AUAUCAACA-----UUAAUA-------U----------------------
+cbdbA1030    CAAUCCUG------CUAA--GCGC---UUAUAGCU-----GAU--A----
+cbdbA292     AUAACUAAA----UU---UA--------AUUACCU------UAAAC----
+cbdbA371     GAACUUGAA-----UCCAUAAUCG---U-UAA----------GAAC----
+cbdbA329     CAAGUGUCA----GUAAA-AAUAU---UCUGUAU--------A-AA----
+cbdbA159     AAACCCGG----------UAGCGC---C----------------------
+cbdbA1412    CAAUGGUGG------CAAUA-------UGUAAA-----------------
+cbdbA173     UAAUCCUG------UAAGUAACCG---U---UA-----------------
+cbdbA1064    CAAACCGGU-----UUAAU-GCGU---U----------------------
+cbdbA227     CUAGGUUUU-----C---UAACAC---CUUCCGGA------AA--GAAA-
+cbdbA1135    UAAACAGGU----AU---UA-------UUUAAAUA------AG--AAAC-
+cbdbA1402    AUAACCGGA-----CAA---GCAU---UGAC-------------------
+cbdbA932     CUAACUCA-------UAAUA-------UAUUAG-----------------
+cbdbA1127    AAAGCCGCCG--GUC---UC-------CUUCAGG-------AU-------
+cbdbA1621    UAAGCUGC------U---U-CGGG---UUUCAGA--------UAAU----
+cbdbA1606    AUAACGGCAU--GGU---U----G---CUUUAGCA------CA-AA----
+cbdbA631     UAAUCCGGUAAUUCUAAA-ACAAG---UUUCAA-----------------
+cbdbA1686    ----UUGGC----GU---UA--------CUUA------------------
+cbdbB11      ----CUGUU----UUAAG-GUUG-G-GUUUGAGC--------UAAU----
+cbdbA1293    CAAACCGU------UUGGUAUCAG---UUUAUA---------AAA-----
+cbdbA1596    ----CUGAU----ACAAAUG--------AUAAA---------UAA-----
+cbdbA309     AAAAAGUG-------AAAUA--------AUAAA-----------------
+cbdbA851     CUACCGCUA----CUAAGUAUAAU---UUUAAGC-------CUAAA----
+cbdbA540     UUAGCUUU----------UAGUUU---UAUCAUC-------CCAAA----
+cbdbA308     CUAACGGG------UUUAU-CCGG---U---------------AA-----
+cbdbA1708    UAAUCAGA------CAGAUG--------AUAA------------------
+cbdbA359     UAACCUUAG----UCCAA--ACAG---UCUUAUA--------AA-A----
+cbdbA939     CAAACUAUAU---AUAAAUAGACA---UGUUGUUGG---UCAGAAU----
+cbdbA358     UAAUCUUCU-----U---UA-------U---AA----------AAC----
+cbdbA1502    AAAUAUGUAG---UCGAAUA--------AUUAG----------AAGGC--
+#=GC SS_cons :::::::::.....::::::::::...::::::..........::.....
+#=GC RF      aAAaCugaa.....UaAAUAacag...UuUuAg..........AA.....
+
+cbdbA285     ------CAGGGCUG-C-------------------GGUGCU---------
+cbdbA912     ----CCAAAGGGCA-G--------------------UAGAA---------
+cbdbA1556    ------CAUCCUGU-A-------------------GCUAU----------
+cbdbA288     ------AAAACACC-UUUC-------------CUGCCUUAAA--------
+cbdbA1368    ---CAAAGAGCCCC-C--------------------CGGAA---------
+cbdbA738     ---UCAAAGCCCCC-G-------------------GUUGCA---------
+cbdbA369     ---AAUAAUACAGA-CCCGUACUCACCAGAAAAUU-CUUAA---------
+cbdbA737     ---UCAAAGCCCCC-G-------------------GUCUUG---------
+cbdbA1077    ------AAGGCGGC-U-------------------CCGGUA---------
+cbdbA1094    ------CAGCGGUG-C-------------------GGUUAA---------
+cbdbA1393    -----AAAAGGGCG-A-------------------GACCAA---------
+cbdbA1394    ---GAAAAGGGCGA-G-------------------ACUUU----------
+cbdbC1       ------GAAAGGGG-G-------------------GUAAUAA--------
+cbdbA1217    ------AAAGCCCG-GUG---------------CUGUUUCU---------
+cbdbA1159    ---ACUAAAGGCGG-C-------------------UCGUAA---------
+cbdbA1021    ----UAAAGCCGCU-C-------------------ACAACUG--------
+cbdbA1573    ------CAAGGAGG-G-------------------AG-UUU---------
+cbdbA1569    ------UAAGCGGG-G-------------------GAUUUA---------
+cbdbA1008    ------AAGCGGGA-G-------------------GGGAAUA--------
+cbdbA394     ------AAAAGCCC-U-------------------GAAAUA---------
+cbdbA953     ----AGAAGGGCGG-G-------------------GACUUA---------
+cbdbA1625    ------GGGGGGGG-A-------------------GACUUA---------
+cbdbA794     ----UUAAAGCCCU-C--------------------UGGAA---------
+cbdbA969     ------GGCCGGCA-CAUU------------CGAGGGUUAA---------
+cbdbA1074    ----CCAAGGGGGA-A-------------------GCAAAU---------
+cbdbA1196    ------UAAGGGCA-G-------------------ACUCAAA--------
+cbdbA689     ------GGGGGGAG-A-------------------GUAUUU---------
+cbdbA795     ----AAAAAGCCCU-C--------------------UGUUU---------
+cbdbA1106    ------CGGAGCCG-C--------------------CUGAA---------
+cbdbA740     ------AAGCCAGA-C-------------------GC-GAA---------
+cbdbA1663    ------GAGGCAGU-C-------------------ACCGUA---------
+cbdbA954     ---ACAAAGGGCGG-G-------------------GACUUU---------
+cbdbA1050    --UGGCACAGGGUC-U-------------------GGCAAAUAGGUUACA
+cbdbA1623    ------ACAGGGGA-G--------------------GUUUA---------
+cbdbA1223    ------AAGGGCUG-A-------------------AGAAUA---------
+cbdbA1670    ------AUAUGCCC-G--------------------CUCCACCA------
+cbdbA27      ------GGCAGGGU-G-------------------AAC------------
+cbdbA1244    -----AAAGGGUGG-C-------------------AGUAAU---------
+cbdbB33      ------GCCUUGGG-U-------------------GCCAUA---------
+cbdbA4       ---AGCUAAGGGGC-G--------------------UCUAA---------
+cbdbA580     --UAAGCAAGGCUA-C------------------C-GCUUAA--------
+cbdbA1626    ----AAGGGGGGGG-A-------------------GACUUA---------
+cbdbA393     ------AAAGCCCU-G--------------------AUUAU---------
+cbdbA1224    --AGUUUAAGGGGG-G--------------------CGUAA---------
+cbdbA1237    ------AAGGAGGC-A-------------------AUUUAA---------
+cbdbA1568    --AUAAAAAGGGUG-C-------------------GGCUUA---------
+cbdbA471     ---AAAAAGACCGG-A-------------------ACUUUG---------
+cbdbA1290    ---CCUAAUGCCCC-UC-----------------UGCCUAUA--------
+cbdbA3       ----AAUUAAGGGG-C-------------------GUCUUA---------
+cbdbA1285    ----AAUAAAGCGG-C-------------------UGGUAA---------
+cbdbA704     ---UUU--AGCGCC-A-------------------GCUUUAAAA------
+cbdbA1024    ---GCCAAGAGCCG-C-------------------ACCACA---------
+cbdbA1234    ------AAAAGACC-A-------------------ACCUCA---------
+cbdbA622     ----GAGAGUGGCA-G-------------------GUUGAACU-------
+cbdbA1549    ------UAAGCGGG-G-------------------GAUUUA---------
+cbdbA666     ---GACAAAACGCC-C-------------------UUCGCA---------
+cbdbA1039    ---AUGCAGGGCUC-GG----------------CA---GCAAACA-----
+cbdbA1470    ----CAAAAACAGC-C-------------------UCUUUC---------
+cbdbB40      --CUGCAAAGGGGG-A-------------------GUAAU----------
+cbdbA1025    ----AAAAGAGCCG-U-------------------ACCUUG---------
+cbdbA310     ------AAGGGGC-----------------------UUUAA---------
+cbdbA723     -----UUGACCGCU-G--------------------UCGAA---------
+cbdbA803     -AUUAA--GCGGC----------------------GGGGAA---------
+cbdbA1609    ---UUUAAAGGGCACC-------------------GGAUAA---------
+cbdbA1677    --UAUUAAAGGGGC-G-------------------GUUAAU---------
+cbdbA1356    --------CAGCU-----------------------CUUCA---------
+cbdbA1256    ----GAAAAGCCCG-C--------------------UUUUA---------
+cbdbA772     ----UAUAAUCAAU-C-------------------UUUAUA---------
+cbdbA1562    --UGCUGAAGCGGA-G-------------------GAUUAU---------
+cbdbA25      --AUUGGCAGGGUG-A----------------------ACG---------
+cbdbA1463    ------GGCUGGCC-G-------------------GGGUUUUU-------
+cbdbA1023    --CACAAAGCCGCU-C-------------------ACAUUUC--------
+cbdbA739     ------AAGCCAG-----------------------ACUUC---------
+cbdbA1587    ----UAAGGGGGGA-U-------------------ACUUUA---------
+cbdbA354     ------UAGGGGUA-C-------------------AUGGAAA--------
+cbdbA914     -AUGCCAAAGGGCA-G--------------------UAUUU---------
+cbdbA1245    ----CAAAGGGUGG-C-------------------AGUAUU---------
+cbdbA1507    ----UAAGGGGGGA-U-------------------ACUUUA---------
+cbdbA1405    -GCUAAAUUGCCCC-CAG--------------GCGGAGUUG---------
+cbdbA1637    UAUUACAGUGCCCG-A-------------------ACCUUA---------
+cbdbA541     ------AAGGUCAA-CCCCU-----------CCCG-GCCUU---------
+cbdbA1331    ------UAAGCCCU-C-------------------UUCAUA---------
+cbdbA1559    ------CUCCCCUG-AAG---------------CCGUUAAA---------
+cbdbA633     ------GUGGGGCA-G-------------------GUAAUA---------
+cbdbA1662    ----AUGAGGCAG-----------------------UCUUAC--------
+cbdbB12      ----UACAGACUCA-U-------------------ACUUUAAGAAUU---
+cbdbA1594    --GCUUAAGGCGAG-G-------------------GAAAUA---------
+cbdbA667     ----UAAAAACGCC-C-------------------CUCUUG---------
+cbdbA1541    ------GAAGCGGG-G-------------------GAGUUA---------
+cbdbA587     ---CUUAAAAGAGG-G-------------------GCUUUA---------
+cbdbA1614    ------UCGGGGGU-G-------------------CCGGCAAA-------
+cbdbA1635    ------AAGGGGGG-AGU--------------GGGGGUUAA---------
+cbdbA339     ---CAAAAAGCCAC-C-------------------CCUGAA---------
+cbdbA1452    -------ACAGGGG-A-------------------GGUUAA---------
+cbdbA1454    -----AAGAGGGGG-A-------------------GACCUG---------
+cbdbA831     --AUCAGAAGGCCU-G-------------------CCUUUU---------
+cbdbA1727    ---AAAAAGGGGGG-C--------------------UUUUU---------
+cbdbA161     ------UGGGCAGA-G-------------------ACGAAA---------
+cbdbA174     ------AAGGGGG-----------------------CUAAA---------
+cbdbA1247    ----GCAAGUGGCG-G-------------------G-AUAU---------
+cbdbA1164    ----CGAUGGGGCU-GU-----------------U--CUUUU--------
+cbdbA1583    GGCUUGGAGAGCGA-C----------------------AUU---------
+cbdbA219     ---CAGAGCGGACA-C-------------------CUUUUU---------
+cbdbA645     --AUCAAAAACCCC-C-------------------G--UUA---------
+cbdbA525     ----UCCAGCCCCU-G-------------------UCGCAA---------
+cbdbA1186    ------UUAGCCCG-G-------------------GCAAU----------
+cbdbA222     -----AAGCGGACA-C--------------------CCCAA---------
+cbdbA1193    ---UUCAAGCCCUC-C-------------------ACUUAA---------
+cbdbA1469    ------AAAACAGC-C-------------------UCCGAA---------
+cbdbA85      --CACUAAGCGGGG-G-------------------AUUUAA---------
+cbdbA1130    ------UAGGGGG-----------------------GCGAA---------
+cbdbA1358    ------GGGAGGGG-G--------------------UGUGA---------
+cbdbA547     --GUCUGAAGGGG-----------------------C-GUA---------
+cbdbA983     ------ACCCGGCU-C--------------------CCCAA---------
+cbdbA1545    ------AGAGGGGG-G-------------------AGCUU----------
+cbdbA1310    --AAUUAAGGGGCG-G-------------------UUAGUC---------
+cbdbA188     -AUAAAGAAGGGCA-G-------------------GUGGUUAUU------
+cbdbA1311    ---UAAUAAAGGCU-U-------------------GCUUUA---------
+cbdbA579     --UAAUAAAGGGGA-G-------------------GUUUU----------
+cbdbA1410    ----AAAUCCGGG-----------------------UUUAA---------
+cbdbA578     -----AGAAGGGGA-G--------------------GUUAA---------
+cbdbA1401    -UGGCCCAUGGUUC-G-------------------GGCGGA---------
+cbdbA734     ---AAAAAAGCCCU-C--------------------UUUUG---------
+cbdbA133     ---UAUAAAGCCGC-CG----------------CG-GUCUA---------
+cbdbA701     ---AGAUAGCGGCC-G--------------------GCGAA---------
+cbdbA714     ------GGGGUUCA-CGUA------------AGGAGUUCAA---------
+cbdbA1063    ----UUGAAGGGG----------------------GCUUUA---------
+cbdbA816     ------AAACCCGU-C--------------------CUUAG---------
+cbdbA122     ------AAGGGGCA-G-------------------ACCGUG---------
+cbdbA971     --GAGUGGCCGGCA-CACCU----------GAAGGGGUUUU---------
+cbdbA1119    ---CGAAAAGGGG-----------------------CUUUA---------
+cbdbA300     ---GAAAAACCACC-C--------------------UUCAA---------
+cbdbA644     ------AAAACCCC-C--------------------GGGUA---------
+cbdbA1259    ----AAAAAGAGG-----------------------UCUUC---------
+cbdbA1597    ------AAGCGGGG-G--------------------GUUAA---------
+cbdbA1728    ----UAAAGGGGGG-C--------------------UUAAA---------
+cbdbA58      --------GGGCGG-A-------------------AAGUAU---------
+cbdbA1272    ----AAAAGGAGCG-G-------------------UAUUAA---------
+cbdbA774     ------AAGGCCGG-G----------------------UUAA--------
+cbdbA470     ----CAAAGACCGG-A-------------------ACCUCA---------
+cbdbA1126    ----GCGGCGGGUA-C-------------------AGUUUC---------
+cbdbA1617    ---CCUAAACGGGG-G---------------------AGAA---------
+cbdbA985     --------UCCCGC-C--------------------CUUUA---------
+cbdbA1075    ------AAGGGGGA-A-------------------GCAAAU---------
+cbdbA239     ------AAGAGGGG-C-------------------AUGUUC---------
+cbdbA1333    -----AAAGGGGCG-G------------------UGCUCAA---------
+cbdbA568     ------AACCGGCU-U--------------------CGGAAA--------
+cbdbA408     ------UUACGGG-----------------------UAUUG---------
+cbdbA1292    ---AC-UAAAGCCC-C-------------------GCUUUU---------
+cbdbA824     ---AAAAAAGGGG-----------------------CGGAA---------
+cbdbA1490    ------ACAAGGAG-G-------------------GAGUUA---------
+cbdbA143     ------AGACUGCC-G-------------------GCUUCA---------
+cbdbA775     ----CCAAGGCCGG-G-------------------GAUUUA---------
+cbdbA1536    ---GCGGGCGGGAG-G-------------------GCAGCUUCUU-----
+cbdbA435     GGGGAAUUGGGUAA-C--------------------CCUGA---------
+cbdbA853     ----UAUACCCCG-----------------------GCCAA---------
+cbdbA1581    ---GCGGGCGGGAG-G-------------------GCAGCUUCUU-----
+cbdbA1198    ---AGCAAAGGGCA-G-------------------ACUACUU--------
+cbdbA1667    ------GGUAUACA-A-------------------GUUUUA---------
+cbdbB27      -----UAAAGCCCG-C--------------------CUUAA---------
+cbdbA290     ------AAGGGAGA-C-------------------UUUUUA---------
+cbdbA1678    ---AAAAAAGGGGC-G-------------------GUUAUU---------
+cbdbA998     ------UCCAGCG-----------------------UUCAAG--------
+cbdbB5       ----GAAGGGGAAG-G-------------------GGGUUA---------
+cbdbA564     ------AACCCCUGAC-------------------GGAUAA---------
+cbdbA1248    ------AAGUGGCG-G-------------------G-UUAU---------
+cbdbA1030    ---UCAAAGGGGCA-G-------------------GUCUCA---------
+cbdbA292     ---CGGAAGGGAGA-C-------------------CUUUAA---------
+cbdbA371     ---UACAGAGGGGG-C--------------------UUCAA---------
+cbdbA329     ---AC-AAAAAGGC-C-------------------GGUUAA---------
+cbdbA159     ------AGCCAGU-----------------------UUGAA---------
+cbdbA1412    ------UUAUCCGG-G-------------------GUUUAA---------
+cbdbA173     ------AAGGGGG-----------------------CUUUU---------
+cbdbA1064    ------GAAGGGG----------------------GAUUAA---------
+cbdbA227     -CCCUGACGGGGGA-G-------------------GCGAUUU--------
+cbdbA1135    -UUAUUGAAAGCGG----------------------CUGCA---------
+cbdbA1402    ------ACAGGCUG-G-------------------ACAGCUA--------
+cbdbA932     --------GAGGCG-CUAU------------GACACCUAUA---------
+cbdbA1127    ------AACGGGC-----------------------UUGAG---------
+cbdbA1621    ----UUAAAGGGGG-G-------------------A--UUA---------
+cbdbA1606    ---UCUUAGCGGGG-G--------------------UUGUA---------
+cbdbA631     ------CAGCCGCA-G-------------------ACUUAC---------
+cbdbA1686    ------GAUGAGGA-CAA---------------UUGACCAA---------
+cbdbB11      ----AAAAAAGGCC-G-------------------GUUUU----------
+cbdbA1293    ----CAAGCCCCG-----------------------CCGAA---------
+cbdbA1596    ----AAAAGCGGGG-G--------------------AUUUA---------
+cbdbA309     ------AAGGGGC-----------------------UUUUA---------
+cbdbA851     ----GAAAAGCCCC-G-------------------GUCUU----------
+cbdbA540     ----CAAAAAGCCC-C--------------------UUGUU---------
+cbdbA308     ----UUUAAAGGGG-C-------------------UUUUUA---------
+cbdbA1708    ------AAGGGGG-----------------------GUCAC---------
+cbdbA359     ---CAGAUUGGGGA-A-------------------GUGAUA---------
+cbdbA939     ---AUAAAGAGGGG-G--------------------UUUUA---------
+cbdbA358     ----AGAUUGGGGA-A-------------------GUGAUA---------
+cbdbA1502    -UAGGCAACUCUGC-C-------------------UCCAACUA-------
+#=GC SS_cons .....:<<<<<<<<.<...................<<<___.........
+#=GC RF      .....aAAgGGGgg.g...................gcuUuA.........
+
+cbdbA285     -------UAAC-C------------G-CAGCCCUG------UU----UCU
+cbdbA912     --------AUA--------------C-UGCCCUUU---------------
+cbdbA1556    ---------AG-C------------U-ACAGGAUG------------GAA
+cbdbA288     ------AACAG-GA----------UA-GGUGUUUU------UU----UAU
+cbdbA1368    --------ACG--------------G-GGGGCUCU------------UAU
+cbdbA738     --------AGA-C------------C-GGGGGCUU------------UGA
+cbdbA369     ---------AG--UA-------UGAG-UCUGUAUU------------UGA
+cbdbA737     --------CAA-C------------C-GGGGGCUU------------UGA
+cbdbA1077    -------UCCG-G------------A-GCCGCCUUCU-UGGUU---UCAU
+cbdbA1094    -------ACAC-C------------G-CGCCGCUG---------------
+cbdbA1393    --------AGU-C------------U-CGCCCUUU------------UCU
+cbdbA1394    ---------GG-U------------C-UCGCCCUU------UU---CUGU
+cbdbC1       -------AAUA-U------------C-UCCCUUUC------------UAA
+cbdbA1217    -------AAAA-CG---------UGC-CGGGCUUU------UU---UUGA
+cbdbA1159    --------AAG-A------------G-CCGCCUUU------UU---AUAA
+cbdbA1021    ------AAAUG-U------------G-AGCGGCUU------------UGU
+cbdbA1573    --------A-C-U------------C-CCUCCUUG------UU---UUAU
+cbdbA1569    ---------AU-C------------C-CCCGCUUA------UU----UAU
+cbdbA1008    ------ACACC-C------------C-UCCCGCUUGUUUAU--CAAUAAU
+cbdbA394     ---------AU-C------------A-GGGCUUUU------CU----AAU
+cbdbA953     -------AAGU-C------------C-CCGCCCUU------------UGU
+cbdbA1625    --------AGU-C------------U-CCCCCCCC------UU---GUAU
+cbdbA794     --------ACA--------------G-AGGGCUUU------UU----GUU
+cbdbA969     --------AAC-CCCUU---CAGGUG-UGCCGGCC------------ACU
+cbdbA1074    --------UUG-C------------U-UCCCCCUU------UUA-CUGAU
+cbdbA1196    -------GUAG-U------------C-UGCCCUUU------------GCU
+cbdbA689     ---------AA-C------------U-CUCCCCCC------UU----UAC
+cbdbA795     --------CCA--------------G-AGGGCUUU------------AAU
+cbdbA1106    --------AAG--------------G-CGGCUCCG------------GGU
+cbdbA740     -------------------------G-UCUGGCUU------UU---UUAU
+cbdbA1663    ---------A---------------G-ACUGCCUC-----AUU---UGGU
+cbdbA954     -------AAGU-C------------C-CCGCCCUU-----CUU----UAU
+cbdbA1050    AUAGCCUAUAC-C------------A-GACCCUGU------UU---UUAU
+cbdbA1623    ---------AC--------------C-UCCCCUGU------UU---UUUU
+cbdbA1223    --------UUC-U------------U-CAGCCCUU------UC---CGGU
+cbdbA1670    -----GAGAAG--------------C-GGGCAUAU------AU----AAU
+cbdbA27      ---------GU-U------------C-ACCCUGCC------------AAU
+cbdbA1244    ---------AC-U------------G-CCACCCUU---------------
+cbdbB33      ---------AG-C------------A-CCCAAGGC------------UAC
+cbdbA4       ---------GA--------------C-GCCCCUUAA----UUU---UUAU
+cbdbA580     ------AUUGCU------------GG-UAGCCUUG------CU----UAU
+cbdbA1626    --------AGU-C------------U-CCCCCCCC------UUG--UCAU
+cbdbA393     ---------UU--------------C-AGGGCUUU------------UGU
+cbdbA1224    ---------AG--------------C-CCCCCUCU------UU----AAU
+cbdbA1237    --------AAA-U------------U-GCCUCCUU------UU---UUAU
+cbdbA1568    --------AGC-C------------G-CACCCUUU------------AGU
+cbdbA471     --------AGG-U------------U-CCGGUCUUU----GUU---UUAU
+cbdbA1290    -------AAAG-CA----------AA-GGGGCAUU------------UUU
+cbdbA3       ---------GA-C------------G-CCCCUUAG-----C------UGU
+cbdbA1285    ---------AC-A------------G-CCGCUUUA------------UGU
+cbdbA704     ----AAUUAGG-C------------U-GGCGCU--------------AGU
+cbdbA1024    --------AGG-U------------A-CGGCUCUU------UU---UUAU
+cbdbA1234    ---------GG-U------------U-GGUCUUUU------------UAU
+cbdbA622     -----CCCUCC-C------------C-UGCCACUC------------UCU
+cbdbA1549    ---------AUCC------------C-CCCGCUUA------UU----UAU
+cbdbA666     --------AGA-G------------G-GGCGUUUU------------UAU
+cbdbA1039    ---UAAACC----C---------GUC-GGGCCCUG------------CGU
+cbdbA1470    ---------GG-A------------G-GCUGUUUU-----AUU---AUGU
+cbdbB40      ---------UA-C------------U-CCCCCUUU------UUA-UUAAU
+cbdbA1025    --------UGG-U------------G-CGGCUCUUG----G------CAU
+cbdbA310     ---------AA-----------------GCCCCUU------UU----UAU
+cbdbA723     --------AAA--------------C-AGCGGUUU------UU---CCGU
+cbdbA803     --------ACC-C---------------GCCGC--------------AAU
+cbdbA1609    ---------UC-C------------GAUGCCCUUU-----A------GAU
+cbdbA1677    ---------AA-C------------C-GCCCCUUU------UUU-GUUAU
+cbdbA1356    --------AAG-----------------AGCUG-------CUU---CUGU
+cbdbA1256    ---------AG--------------G-CGGGCUUU------AU----UGU
+cbdbA772     --------UCA-G------------G-GUUGAUUA------UU----CCC
+cbdbA1562    ---------GU-C------------C-UCCGCUUU------UU----UAU
+cbdbA25      --------U----------------U-CACCCUGC------------CAU
+cbdbA1463    ------AUAUU-C------------C-GGUCAGCC------UU----UAU
+cbdbA1023    ------AGUUG-U------------G-AGCGGCUU------------UAU
+cbdbA739     -------GCGU-----------------CUGGCUU------------AAU
+cbdbA1587    --------GGG-U------------A-UCCCCCCUU---AGUU---UAAU
+cbdbA354     -------AAGA-U------------G-UGCCUCUG------UU----AGU
+cbdbA914     --------CUA--------------C-UGCCCUUU------------GGU
+cbdbA1245    ---------AC-U------------G-CCACCCUU------UU----UGC
+cbdbA1507    --------GGG-U------------A-UCCCCCCUU---AGUU---UAAU
+cbdbA1405    --------ACU-U-----------UG-GGGGCAAU------UU----AGU
+cbdbA1637    -------AAAG-U------------U-CGGGCACU---------------
+cbdbA541     -------GCGC--CGCGG--UUCGGG-UUGACCUU-----AUU----AAU
+cbdbA1331    --------CGA-A------------G-AGGGCUUU------------UAU
+cbdbA1559    --------AAG-C-----------CU-CAGGGGAG------------ACA
+cbdbA633     ---------UA-C------------C-UGCCCCAC------------AGU
+cbdbA1662    ------GGUGA-----------------CUGCCUC---------------
+cbdbB12      -UUCUGGUGAG-U------------A-CGGGUCUG------------UAU
+cbdbA1594    --------UUU-C------------C-CUCGCCUU------UU---UUAU
+cbdbA667     --------CGA-A------------G-GGCGUUUU-----G------UCU
+cbdbA1541    --------AUU-C------------C-CCCGCUUU------AU----CAU
+cbdbA587     ---------UG-C------------C-CCUCUUUU------UU----AUU
+cbdbA1614    -----GUAACG-G------------C-ACCCCCGA------CU---GUGU
+cbdbA1635    ---------AC-CCU--------GCU-UCCCCCUU------UU---UUAU
+cbdbA339     --------AA---------------G-GUGGCUUU------UU----UGU
+cbdbA1452    ---------AC-C------------U-CCCCUGU----------------
+cbdbA1454    --------GGU-C------------U-CCCCCUCU------------GGU
+cbdbA831     ---------GG-G------------C-AGGCCUUU------UU---GAAU
+cbdbA1727    --------UAA--------------G-CCCCCCUU------------UAU
+cbdbA161     ---------AC-U------------C-UCUGCCCGG----ACU----GGU
+cbdbA174     ---------AG-----------------CCCCCUU------------UAA
+cbdbA1247    --------AA--C------------C-CGCCACUUA---UAUUA--AUGU
+cbdbA1164    ------AAAG---G----------GC-AGCCUUAU------------UAU
+cbdbA1583    -------------------------G-UCGCUCUU------UU---UUAU
+cbdbA219     ---------GG-G------------G-UGUCCGCU------UU----UGU
+cbdbA645     --------C--CC------------G-GGGGUUUU------UU----AAU
+cbdbA525     --------CUG-A------------C-AGGGGCUU------UU---UUAU
+cbdbA1186    ---------UG-C------------C-UGGGCUAU------UU---GUUU
+cbdbA222     -------AAAG--------------G-UGUCCGCU------CUG--CUAU
+cbdbA1193    --------AA---------------G-GAGGGCUU------UU---UACA
+cbdbA1469    ---------AG-A------------G-GCUGUUUU------------UGU
+cbdbA85      --------UA---------------C-CCCCGCUU------UU----UAU
+cbdbA1130    --------AGC-----------------CCCCCUU------UC---UUAU
+cbdbA1358    ---------UG--------------C-CCCCUCCCG---CCUU----UAU
+cbdbA547     --------A-G-----------------CCCAUUCG---GC------UGU
+cbdbA983     --------AAG--------------G-AGCCGGUU------UU---UUAU
+cbdbA1545    ---------GC-U------------C-CCCCCUUC------UU---UUGU
+cbdbA1310    --------UGA-A------------C-CGCCCCUU------UU---GUUU
+cbdbA188     ----AUGAACG-C------------C-UGCCCUUC------UUG--GCAU
+cbdbA1311    --------AGG-C------------A-GGCCUUUA------UU---AUGU
+cbdbA579     ---------AA-C------------C-UCCCCUUC------UU----UGU
+cbdbA1410    ---------AC-----------------CCCGGAU------------AAU
+cbdbA578     --------AAC--------------C-UCCCCUUU-----AUU----AAU
+cbdbA1401    --------CGC-C------------U-GACCCAUGA----CCU----UAU
+cbdbA734     --------AAA--------------G-AGGGCUUU------------AGU
+cbdbA133     -------AAAC--C----------GG-GCGGCUUU------UU----UAU
+cbdbA701     -------UAAC--------------C-GGCCGCCA---------------
+cbdbA714     --------AGA-UUUCA----CGGCG-UGAACCCU------UU---UGAU
+cbdbA1063    ---------AU-C---------------CCCCUUC------------AAC
+cbdbA816     ---------AG--------------G-ACGGUUUU------------UAA
+cbdbA122     --------AGG-U------------C-UGCCCCCUAU-ACUUU---GAAU
+cbdbA971     --------AAC-CCUC-----GAAUG-UGCCGGCC------UUA--UUAU
+cbdbA1119    --------AAG-----------------CCCCUUU------------UAU
+cbdbA300     ---------AG--------------G-GGUGGUUU---------------
+cbdbA644     ---------AC--------------G-GGGGUUUU------------UGA
+cbdbA1259    --------ACA-----------------CCUCUUU------------AAA
+cbdbA1597    ---------AU--------------C-CCCCGCUU------UU---UUAU
+cbdbA1728    --------AAA--------------G-CCCCCCUU------UU----UAU
+cbdbA58      ---------C---------------U-CCGCCC-----------------
+cbdbA1272    ---------AA-G------------C-CGCUCCUU------UU----UGU
+cbdbA774     ------AUC----------------C-CCGGCCUU------------GGU
+cbdbA470     --------AAG-U------------U-CCGGUCUU------UU----UAU
+cbdbA1126    --------GGC-U------------G-UACCCGCUC---UCUU---UUGU
+cbdbA1617    --------AU---------------C-CCCCGUUU------UU----CAU
+cbdbA985     --------UCC--------------G-GCGGGA--------------UAU
+cbdbA1075    --------UUG-C------------U-UCCCCCUU------------GGU
+cbdbA239     ---------UA-U------------G-CCCCUCUU------UU---AAAU
+cbdbA1333    ---------AG-CU----------AC-CGCCCCUU------------GGU
+cbdbA568     ------UUCUG--------------A-GGCCGGUU------UU---UUAU
+cbdbA408     ---------UA-----------------CCCGUAG-----GCU----UAU
+cbdbA1292    --------CGG-C------------G-GGGCUUGU------UU----UAU
+cbdbA824     ---------AG-----------------CCCCUUU------------UAU
+cbdbA1490    ---------CU-C------------C-CUCCUUGU------UU----UAU
+cbdbA143     --------AAC-C------------C-GGCAGUUU------UU---UUAU
+cbdbA775     ---------A---------------C-CCGGCCUU------UA---AUAU
+cbdbA1536    ---UGCAUAUG-C------------C-UUCCUGCC------------CGU
+cbdbA435     --------CGG--------------G-UUACCCAG------------AGU
+cbdbA853     --------GAC-----------------CGGGGCU------UU----UCU
+cbdbA1581    ---UGCAUAUG-C------------C-UUCCUGCC------------CGU
+cbdbA1198    -------UGAG-U------------C-UGCCCUUA------UU---UUAU
+cbdbA1667    -------UAAA-U------------U-UGUAUACU---------------
+cbdbB27      ---------AA--------------G-CGGGCUUU------------UCU
+cbdbA290     ---------AA-G------------G-UCUCCCUU-----C-C----GGU
+cbdbA1678    ---------AA-C------------C-GCCCCUUU------------AAU
+cbdbA998     ------UUCAA-----------------CGCUGGA------------UGU
+cbdbB5       --------AAC-C------------C-UUUCCCCUAU--CCUU----AGU
+cbdbA564     ---------AC-U------------GGCAGGGGUU------UU---UAAU
+cbdbA1248    --------AU--C------------C-CGCCACUUG---CUUU---UUAU
+cbdbA1030    -------AAAG-C------------C-UGCCCCUUG----C------CGU
+cbdbA292     ---------AA-A------------G-UCUCCCUU------UUU--AUAU
+cbdbA371     ---------AA--------------G-CCCCCUCU------CU----UGU
+cbdbA329     --------AAC-C------------G-GCCUUUUU------------UAU
+cbdbA159     -------UAAA-----------------GCUGGUU------UUU--UUGU
+cbdbA1412    ---------A---------------C-CCGGAUUU------UU----UAU
+cbdbA173     ---------AG-----------------CCCCCUU------UU----UAU
+cbdbA1064    ---------AG-C---------------CCCCUUC------------AAU
+cbdbA227     -------CAAG-C------------C-UCCCCCUU------UU----UAU
+cbdbA1135    --------AGG----------------CCGCUUUC------UU---CUAC
+cbdbA1402    ------UUCUG-C------------C-CGGCCUGU------UU----UAU
+cbdbA932     --------AAG-GUUGUAGUUCACGG-UGCCUC-----------------
+cbdbA1127    --------GAA-----------------GCCCGCC------UU---GAAU
+cbdbA1621    -------GU--UC------------C-CCCCCUUU---------------
+cbdbA1606    ---------AU--------------C-CCCCGCUU------UU----UAU
+cbdbA631     -------AAA---------------C-UGCGGCUG-----GUU----UAU
+cbdbA1686    -------AAGU-CAG-------GCAG-UCCUCAUU------UU----UAU
+cbdbB11      ---------AA-C------------C-GGCCUUUU------------UGU
+cbdbA1293    --------AAG-----------------CGGGGCU------UU----AGU
+cbdbA1596    ---------AC--------------C-CCCCGCUU---------------
+cbdbA309     ---------AA-----------------GCCCCUUA---AAUU---UUAU
+cbdbA851     ---------GG-C------------C-GGGGUAUA------UU----UAU
+cbdbA540     -------CAGA--------------G-GGGCUUUU------AU----CAU
+cbdbA308     --------AAA-A------------G-CCCCUUUU------------GGU
+cbdbA1708    --------CAC-----------------CCCCCUU------UU----UGU
+cbdbA359     --------UCA-C------------U-UCCCCAAU------CU----GUU
+cbdbA939     --------AAG--------------C-CCCCUCUU------------UAU
+cbdbA358     --------UCA-C------------U-UCCCCAAUC---UGUU---UUAU
+cbdbA1502    ------GUCGG-A------------G-GCAGAGUU---------------
+#=GC SS_cons ........_>>.>............>.>>>>>>>>......::....:::
+#=GC RF      ........Aag.c............c.ccCCCcUU......UU....UAU
+
+cbdbA285     UU----GUA
+cbdbA912     --G-GCAUA
+cbdbA1556    AC-------
+cbdbA288     CU-------
+cbdbA1368    AU----UUA
+cbdbA738     UU----UUA
+cbdbA369     UU----UUA
+cbdbA737     UU----UUA
+cbdbA1077    UU---GGUA
+cbdbA1094    --A--CAUA
+cbdbA1393    UU----ACU
+cbdbA1394    UU-------
+cbdbC1       GU----GUG
+cbdbA1217    CC----GCG
+cbdbA1159    U-G--CCUU
+cbdbA1021    GC----UUU
+cbdbA1573    U-G-UCCCA
+cbdbA1569    UU----GUG
+cbdbA1008    UU----UUU
+cbdbA394     AC----UUU
+cbdbA953     UU----UUA
+cbdbA1625    U-A--CCUG
+cbdbA794     A----GGUU
+cbdbA969     CC----CUU
+cbdbA1074    A-A--ACCU
+cbdbA1196    UU-------
+cbdbA689     UU-------
+cbdbA795     CU---GUCA
+cbdbA1106    UU----AUA
+cbdbA740     AU-------
+cbdbA1663    UU-------
+cbdbA954     GU----CUA
+cbdbA1050    AU----AUG
+cbdbA1623    CU----CUA
+cbdbA1223    UU-------
+cbdbA1670    UU---AUCU
+cbdbA27      AU-------
+cbdbA1244    --U--GCUA
+cbdbB33      UU-------
+cbdbA4       CU---GACA
+cbdbA580     UU---GAGG
+cbdbA1626    CU----UCU
+cbdbA393     UUG--GCUU
+cbdbA1224    AU----CUG
+cbdbA1237    A-G--CGGG
+cbdbA1568    UU-------
+cbdbA471     GU----AUA
+cbdbA1290    UU---GACA
+cbdbA3       UU----UCU
+cbdbA1285    UU----AUA
+cbdbA704     UU----UUU
+cbdbA1024    C-A--GUUA
+cbdbA1234    UU----UCA
+cbdbA622     A----GACA
+cbdbA1549    UU----GUA
+cbdbA666     UC-------
+cbdbA1039    AU----AUU
+cbdbA1470    UC-------
+cbdbB40      A-C-AAUUA
+cbdbA1025    UUA--GCUU
+cbdbA310     U----AUUU
+cbdbA723     UU----AUU
+cbdbA803     U-A--UGUA
+cbdbA1609    UU---GCCU
+cbdbA1677    CU----CUG
+cbdbA1356    UU----CCG
+cbdbA1256    UU-------
+cbdbA772     UU----UUA
+cbdbA1562    UU----UCU
+cbdbA25      AU---AAUA
+cbdbA1463    UC----ACU
+cbdbA1023    U-A--UUUG
+cbdbA739     GU-------
+cbdbA1587    AU----CUG
+cbdbA354     UG-------
+cbdbA914     UU----UUU
+cbdbA1245    A----GGCA
+cbdbA1507    AU----CUG
+cbdbA1405    A-----GUA
+cbdbA1637    -----GGUA
+cbdbA541     AU-------
+cbdbA1331    UU----UUU
+cbdbA1559    CUG--GGUA
+cbdbA633     UU-------
+cbdbA1662    ---------
+cbdbB12      U----AUUU
+cbdbA1594    UU----AUA
+cbdbA667     UUA--GAUG
+cbdbA1541    UU-------
+cbdbA587     A----GUUG
+cbdbA1614    UUU--GACU
+cbdbA1635    AC----CCU
+cbdbA339     UU----GCA
+cbdbA1452    --U--GCUA
+cbdbA1454    UU----UUG
+cbdbA831     A-C-AGACA
+cbdbA1727    UU----UUA
+cbdbA161     UU-------
+cbdbA174     C-G--GUUA
+cbdbA1247    U----GAUA
+cbdbA1164    UU----UCA
+cbdbA1583    UU---CCCA
+cbdbA219     UU---GACA
+cbdbA645     AC----UCU
+cbdbA525     AU----CCA
+cbdbA1186    U----GGUG
+cbdbA222     AU---GAUA
+cbdbA1193    AU----CUG
+cbdbA1469    CU-------
+cbdbA85      UUA--GGCU
+cbdbA1130    UU---GGCG
+cbdbA1358    UU---GGCA
+cbdbA547     UUG--GGUG
+cbdbA983     U-C-GGGGA
+cbdbA1545    UU----CCA
+cbdbA1310    A----CCCU
+cbdbA188     UU---GGCA
+cbdbA1311    CU---GUCG
+cbdbA579     UUU--AAUA
+cbdbA1410    UU----ACA
+cbdbA578     UU----ACA
+cbdbA1401    UU----CCA
+cbdbA734     UUA--GAGA
+cbdbA133     GC----CUG
+cbdbA701     --G--CUCA
+cbdbA714     AU-------
+cbdbA1063    G----CAUU
+cbdbA816     UU-------
+cbdbA122     U-C-AGGCA
+cbdbA971     U-A--GAGU
+cbdbA1119    -----CAUU
+cbdbA300     ------ACU
+cbdbA644     UU----UUU
+cbdbA1259    AU----AUA
+cbdbA1597    UU-------
+cbdbA1728    U-C-GGAUU
+cbdbA58      ---------
+cbdbA1272    UU----AUG
+cbdbA774     UU-------
+cbdbA470     U-G--GUUG
+cbdbA1126    A-A--AAUU
+cbdbA1617    UU----UUA
+cbdbA985     UC----AUU
+cbdbA1075    AU----AUA
+cbdbA239     UU-------
+cbdbA1333    UUU--ACCA
+cbdbA568     U-G--UCUG
+cbdbA408     UU-------
+cbdbA1292    A-A--ACUG
+cbdbA824     UU----UUU
+cbdbA1490    U-A--UUCU
+cbdbA143     GC----CCG
+cbdbA775     UU----GCA
+cbdbA1536    CU-------
+cbdbA435     UUA--GAUA
+cbdbA853     UUA--GGCU
+cbdbA1581    CU-------
+cbdbA1198    CU----CGA
+cbdbA1667    --U--GAUG
+cbdbB27      U-G--AUUA
+cbdbA290     UU-------
+cbdbA1678    AU----UUU
+cbdbA998     UU----UUA
+cbdbB5       AC----AUA
+cbdbA564     A--------
+cbdbA1248    A-A--GGUG
+cbdbA1030    UU---GGCA
+cbdbA292     UU----CUU
+cbdbA371     AUG--GAGA
+cbdbA329     U-A--GCUC
+cbdbA159     UU-------
+cbdbA1412    GUG--GUUU
+cbdbA173     AU-------
+cbdbA1064    U-G--UCUA
+cbdbA227     AU----UGA
+cbdbA1135    GU----CUA
+cbdbA1402    UU-------
+cbdbA932     --A--GGCA
+cbdbA1127    CU-------
+cbdbA1621    ---------
+cbdbA1606    U-G--GCUA
+cbdbA631     U-G--AUUG
+cbdbA1686    AC-------
+cbdbB11      UU-------
+cbdbA1293    UUU--GCCU
+cbdbA1596    --GAGGAUA
+cbdbA309     CU---GUUA
+cbdbA851     U-A--GUAA
+cbdbA540     UU----AUG
+cbdbA308     UU----UUU
+cbdbA1708    UUG--GAGA
+cbdbA359     UU----AUA
+cbdbA939     AU----UCU
+cbdbA358     A-A--GACU
+cbdbA1502    --G--CCUG
+#=GC SS_cons ::....:::
+#=GC RF      UU....aUa
+//

@@ -1,0 +1,806 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS MAGa4170 WT 1.28
+#=GS MAGa6940 WT 0.34
+#=GS MAGa5480 WT 0.99
+#=GS MAGa5340 WT 1.03
+#=GS MAGa4180 WT 1.28
+#=GS MAGa3160 WT 0.34
+#=GS MAGa5010 WT 0.34
+#=GS MAGa6740 WT 0.99
+#=GS MAGa2610 WT 0.95
+#=GS MAGa4600 WT 1.26
+#=GS MAGa0130 WT 0.88
+#=GS MAGa1500 WT 0.96
+#=GS MAGa3640 WT 1.25
+#=GS MAGa7940 WT 0.59
+#=GS MAGa1600 WT 1.23
+#=GS MAGa2760 WT 1.21
+#=GS MAGa7490 WT 1.25
+#=GS MAGa0530 WT 1.25
+#=GS MAGa4040 WT 0.59
+#=GS MAGa8440 WT 1.16
+#=GS MAGa7480 WT 1.07
+#=GS MAGa1510 WT 0.96
+#=GS MAGa2660 WT 1.00
+#=GS MAGa1180 WT 1.13
+#=GS MAGa4510 WT 1.00
+#=GS MAGa5210 WT 1.06
+#=GS MAGa5200 WT 1.27
+#=GS MAGa2190 WT 1.20
+#=GS MAGa3520 WT 1.25
+#=GS MAGa5560 WT 1.06
+#=GS MAGa7260 WT 1.04
+#=GS MAGa2330 WT 1.04
+#=GS MAGa8100 WT 0.46
+#=GS MAGa7870 WT 1.46
+#=GS MAGa2840 WT 0.85
+#=GS MAGa5820 WT 0.46
+#=GS MAGa8630 WT 1.27
+#=GS MAGa7910 WT 1.14
+#=GS MAGa5350 WT 1.03
+#=GS MAGa8160 WT 0.96
+#=GS MAGa0510 WT 0.90
+#=GS MAGa5610 WT 1.07
+#=GS MAGa1480 WT 0.93
+#=GS MAGa8290 WT 1.29
+#=GS MAGa1920 WT 0.92
+#=GS MAGa5900 WT 1.12
+#=GS MAGa1890 WT 1.07
+#=GS MAGa2870 WT 1.13
+#=GS MAGa7230 WT 0.85
+#=GS MAGa8200 WT 1.10
+#=GS MAGa1990 WT 1.15
+#=GS MAGa1010 WT 1.29
+#=GS MAGa4560 WT 1.07
+#=GS MAGa7430 WT 1.44
+#=GS MAGa1530 WT 1.27
+#=GS MAGa4590 WT 1.15
+#=GS MAGa1940 WT 0.95
+#=GS MAGa6560 WT 0.89
+#=GS MAGa5360 WT 1.10
+#=GS MAGa7140 WT 0.85
+#=GS MAGa6530 WT 1.12
+#=GS MAGa8600 WT 1.14
+#=GS MAGa8530 WT 0.90
+#=GS MAGa7160 WT 1.06
+#=GS MAGa8570 WT 1.15
+#=GS MAGa6820 WT 0.95
+#=GS MAGa4710 WT 0.90
+#=GS MAGa3460 WT 1.00
+#=GS MAGa1490 WT 0.96
+#=GS MAGa2580 WT 1.19
+#=GS MAGa6970 WT 0.39
+#=GS MAGa5650 WT 1.41
+#=GS MAGa3130 WT 0.39
+#=GS MAGa5240 WT 1.19
+#=GS MAGa5570 WT 0.96
+#=GS MAGa0340 WT 0.99
+#=GS MAGa1470 WT 1.00
+#=GS MAGa5420 WT 1.40
+#=GS MAGa8270 WT 1.06
+#=GS MAGa5260 WT 1.10
+#=GS MAGa4980 WT 0.39
+#=GS MAGa3340 WT 0.89
+#=GS MAGa2010 WT 0.86
+#=GS MAGa5170 WT 1.63
+#=GS MAGa2150 WT 1.11
+#=GS MAGa4360 WT 1.11
+#=GS MAGa3990 WT 1.05
+#=GS MAGa6490 WT 0.93
+#=GS MAGa7170 WT 1.27
+#=GS MAGa2650 WT 0.83
+#=GS MAGa8610 WT 0.97
+#=GS MAGa1370 WT 1.00
+#=GS MAGa5020 WT 0.25
+#=GS MAGa7250 WT 0.93
+#=GS MAGa3170 WT 0.25
+#=GS MAGa5500 WT 1.14
+#=GS MAGa8120 WT 0.31
+#=GS MAGa6960 WT 0.25
+#=GS MAGa6840 WT 1.09
+#=GS MAGa2030 WT 1.18
+#=GS MAGa3140 WT 0.25
+#=GS MAGa8210 WT 0.31
+#=GS MAGa2130 WT 1.18
+#=GS MAGa6930 WT 0.25
+#=GS MAGa3810 WT 0.77
+#=GS MAGa5840 WT 0.31
+#=GS MAGa5620 WT 1.10
+#=GS MAGa8420 WT 1.09
+#=GS MAGa2730 WT 0.96
+#=GS MAGa8280 WT 1.06
+#=GS MAGa4990 WT 0.25
+#=GS MAGa3470 WT 1.28
+#=GS MAGa7770 WT 0.92
+#=GS MAGa5870 WT 0.31
+#=GS MAGa0450 WT 1.07
+#=GS MAGa8180 WT 1.25
+#=GS MAGa6870 WT 1.40
+#=GS MAGa1170 WT 1.06
+#=GS MAGa0950 WT 1.05
+#=GS MAGa8190 WT 1.16
+#=GS MAGa2640 WT 0.83
+#=GS MAGa0210 WT 1.05
+#=GS MAGa1790 WT 1.07
+#=GS MAGa0590 WT 1.13
+#=GS MAGa2850 WT 1.03
+#=GS MAGa2020 WT 0.93
+#=GS MAGa2210 WT 1.18
+#=GS MAGa2460 WT 1.17
+#=GS MAGa6150 WT 0.99
+#=GS MAGa3500 WT 0.93
+#=GS MAGa4240 WT 1.18
+#=GS MAGa8550 WT 1.21
+#=GS MAGa0180 WT 1.55
+#=GS MAGa4700 WT 0.90
+#=GS MAGa0680 WT 0.96
+#=GS MAGa7920 WT 1.16
+#=GS MAGa2570 WT 1.12
+#=GS MAGa7130 WT 0.85
+#=GS MAGa6210 WT 1.10
+#=GS MAGa2490 WT 0.95
+#=GS MAGa1960 WT 1.32
+#=GS MAGa0140 WT 0.92
+#=GS MAGa4340 WT 1.15
+#=GS MAGa4650 WT 1.14
+#=GS MAGa8050 WT 0.64
+#=GS MAGa2620 WT 1.03
+#=GS MAGa1300 WT 0.86
+#=GS MAGa6300 WT 1.11
+#=GS MAGa4100 WT 1.60
+#=GS MAGa2930 WT 1.12
+#=GS MAGa6730 WT 1.12
+#=GS MAGa2510 WT 1.10
+#=GS MAGa5280 WT 0.96
+#=GS MAGa3590 WT 1.20
+#=GS MAGa1950 WT 0.92
+#=GS MAGa1050 WT 0.88
+#=GS MAGa6610 WT 1.33
+#=GS MAGa5140 WT 0.92
+#=GS MAGa5910 WT 0.87
+#=GS MAGa7750 WT 1.17
+#=GS MAGa2920 WT 1.14
+#=GS MAGa1870 WT 1.25
+#=GS MAGa1560 WT 1.38
+#=GS MAGa2140 WT 1.11
+#=GS MAGa1930 WT 1.12
+#=GS MAGa1140 WT 1.06
+#=GS MAGa0280 WT 1.30
+#=GS MAGa3800 WT 1.10
+#=GS MAGa1060 WT 0.99
+#=GS MAGa7280 WT 1.41
+#=GS MAGa0840 WT 0.99
+#=GS MAGa5850 WT 0.32
+#=GS MAGa0870 WT 1.15
+#=GS MAGa1290 WT 0.86
+#=GS MAGa7190 WT 1.05
+#=GS MAGa8500 WT 1.55
+#=GS MAGa6910 WT 0.50
+#=GS MAGa7340 WT 1.23
+#=GS MAGa2590 WT 0.92
+#=GS MAGa0980 WT 1.15
+#=GS MAGa5250 WT 0.96
+#=GS MAGa6720 WT 0.95
+#=GS MAGa2000 WT 0.86
+#=GS MAGa1760 WT 1.12
+#=GS MAGa6650 WT 1.05
+#=GS MAGa5490 WT 0.99
+#=GS MAGa8090 WT 0.32
+#=GS MAGa6670 WT 1.06
+#=GS MAGa0070 WT 1.15
+#=GS MAGa7470 WT 1.44
+#=GS MAGa3820 WT 0.77
+#=GS MAGa7200 WT 0.96
+#=GS MAGa7600 WT 1.46
+#=GS MAGa3350 WT 0.93
+#=GS MAGa0200 WT 1.09
+#=GS MAGa7530 WT 1.11
+#=GS MAGa3190 WT 0.50
+#=GS MAGa2600 WT 0.87
+
+MAGa4170     AAAAUGCAU-CUAUGGCUGUUUUA----UAGCCAUGAAG-AUGCAUUUU-
+MAGa6940     AACAAGCAA-CUAAAAA--------------------AG-UUGCUUGUU-
+MAGa5480     AAAGAGCAAUAGCGCUUA-----------------UCCUAUUGUUCUUU-
+MAGa5340     AAUAAGUAA-GCUGUUAUGCUUAAUA-CAAAAUGACAGC-UUACUUAUU-
+MAGa4180     AAAAUGCAU-CUUCAUGGCUAUAA----AACAGCCAUAG-AUGCAUUUU-
+MAGa3160     AACAAGCAA-CUAAAAA--------------------AG-UUGCUUGUU-
+MAGa5010     AACAAGCAA-CUAAAAA--------------------AG-UUGCUUGUU-
+MAGa6740     AAAAAGUAU-GGAAAAA------------------UUCC-AUAUUUUUU-
+MAGa2610     AAAAUGUGG-CCUGUUGU----------------UUUGG-CCAUAUUUU-
+MAGa4600     AACUUACAA-GGCUAUAAA--------------ACAGUC-UUGUAAGUU-
+MAGa0130     AAAAACCAG-GCAGCAA--------------------GC-CCGGUUUUU-
+MAGa1500     AAAAUAGCA-CAGACGA--------------------UG-UGCUAUUUU-
+MAGa3640     UAAAAACUU-GUUACACCAAA-----------CCACAAC-AAGUUUUUA-
+MAGa7940     AAAGCACCA-CAAGUUAA-----------------CUUG-CGGUGCUUU-
+MAGa1600     GAAACAUCU-GCUAAUU------------------AUGC-AGAUGUUCC-
+MAGa2760     AAAGAAGCAU-CAUCACUACC-----------UUGAUG--UGCUUCUUU-
+MAGa7490     UAAAACAGA-CUUAUUCG----------------ACAAG-UCUGUUUUU-
+MAGa0530     AAGGGAAAA-ACUGCUC--------------------GU-UUUUCCUUU-
+MAGa4040     AAAGCACCA-CAAGUUAA-----------------CUUG-CGGUGCUUU-
+MAGa8440     AUAAUAGCG-AAUACUC--------------------UU-CGCUAUUUU-
+MAGa7480     AAAAAACAG-ACUUGUCGA--------------AUAAGU-CUGUUUUAU-
+MAGa1510     AAAAUAGCA-CAUCGUC--------------------UG-UGCUAUUUU-
+MAGa2660     AAAAACUCAA---AUUG-------------------C---UGAGUUUUU-
+MAGa1180     AAAAAACAC-AUGAUAACUA------------GUUGCAU-GUGUUUUUU-
+MAGa4510     AAAAAGCAU-CCUGAUUAAUUU--------AAAACCAGG-AUGCUUUUU-
+MAGa5210     AAAAACCAAUAGCGCUAUAAA----------ACAAGGCUAUUGGUUUUU-
+MAGa5200     AAACCAAUA-GCCUUGUUUU------------AUAGCGC-UAUUGGUUU-
+MAGa2190     UAAAGGCCU-CAUUUACACCAAUUU---GUGUAGACUUG-AGGUUUUUA-
+MAGa3520     UGGGGAAAA-AUAACG---------------------AU-UUUUCCCUA-
+MAGa5560     CAAAAGCAA-CAAGUCUUU--------------CUCUUG-UUGCUUUUU-
+MAGa7260     AAAAAUGAA-GCAAGAC--------------------GC-UUCAUUUUU-
+MAGa2330     AAAAAGUAA-GCAAAACAAAUGU-------UUAAACUGC-UUACUUUUU-
+MAGa8100     AAAAAACGG-G--UUGC---------------------C-UCGUUUUUU-
+MAGa7870     AAUCGACCA-UUUAGGCUGUUUUA-----UAGGGUUAAA-UGGUCGAUU-
+MAGa2840     AAAGAGACAU-CAGAAC--------------------G--UGUCUCUUU-
+MAGa5820     AAAAAACGG-G--UUGC---------------------C-UCGUUUUUU-
+MAGa8630     GAGAAACGA-UGUAGAC--------------------CA-UCGUUUUUU-
+MAGa7910     --AAAAUCA-GCCUAGU-------------------CGC-UGAUUUU---
+MAGa5350     AAUAAGUAA-GCUGUCAUUUUGUAUU-AAGCAUAACAGC-UUACUUAUU-
+MAGa8160     ---AAGCAA-ACUCAUUA----------------CGGGU-UUGCUU----
+MAGa0510     --AAAUUAG-GCAACUU--------------------GC-CUAAUUU---
+MAGa5610     AAAAAACUG-AGAGAGCUUGCU--------GCUGCUUCU-CAGUUUUUU-
+MAGa1480     AAAAAGCAA-ACUGUGU--------------------GU-UUGCUUUUU-
+MAGa8290     GUAAAUCUG-G--UCGC---------------------C-CAGAUUUUU-
+MAGa1920     AAAAUGCCAC---UUUU-----------------------UGGCAUUUU-
+MAGa5900     AAAUAAAGU-GGUUUU---------------------CC-ACUUUUUUU-
+MAGa1890     AAAACACUGU---UUUA-----------------------UAGUGUUUU-
+MAGa2870     AAUAAGUUUU---ACUU------------------UU---CACCUUAUUA
+MAGa7230     AAAAAGCC----AAACC------------------------GGCUUUUU-
+MAGa8200     AAAAACCUG-CCUGUGC-------------------AGG-UUUGUUUUU-
+MAGa1990     AAUAAUUCU-UCGGC----------------------GA-AGAAUUAUU-
+MAGa1010     GACAAAAAG-UGAUUG---------------------CG-CUUUUUGUU-
+MAGa4560     AAAAAGCAU-CCUGGUUUUAGU---------UAAUCAGG-AUGUUUUUU-
+MAGa7430     AGCAAAGCAU---AAGU-----------------------UGCUUUGCU-
+MAGa1530     AAUUUCCUG-GCUUAA---------------------GC-UAGGAAAUU-
+MAGa4590     AAAAACUUA-CAAGACUGUUUU--------AUAGCCUUG-UAAGUUUUU-
+MAGa1940     AAAAAAUGG-ACACUUUGC---------------UUUGU-CCAUUUUUU-
+MAGa6560     AAAAAGCAG-G--AACC---------------------C-CUGCUUUUU-
+MAGa5360     AAAAAGGAA-AUUACUUAUUUA--------AGCAAGUAU-UUCCUUUUU-
+MAGa7140     AAAAUCUAA-CCACAU---------------------GG-UUAGAUUUU-
+MAGa6530     AAAAGACGA-AGGUUUUA----------------AGUCU-UCGUCUUUU-
+MAGa8600     AAAUAUUGUAGGCGAG---------------------CCUAUGAUAUUU-
+MAGa8530     AGAAAUCAGAGCAAAAUU----------------AUUGC-CUGAUUUUU-
+MAGa7160     AAAAAAUAA-ACGGCUCUU---------------UCCGU-UUAUUUUUU-
+MAGa8570     AAAAAGUCA-AGAGACUAUAAGU-------AAUUGCUCU-UGACUUUUU-
+MAGa6820     AUUAAGCGU-CUAAAAAA-----------------CAAG-ACGCUUUUU-
+MAGa4710     AAAAAGUGA-CUUAUGAAU--------------CGAAAG-UCACUUUUU-
+MAGa3460     AAAGCGCCUA---AAUU-----------------------AGGUGCUUU-
+MAGa1490     AAAAAGCAA-ACACACA--------------------GU-UUGCUUUUU-
+MAGa2580     AGAAUAUAG-AGAAGUGCAAA-----------GAUUUCU-CUAUAUUUU-
+MAGa6970     AGGGAG---U---UUA---------------------------CUCCCU-
+MAGa5650     AAACAUCAG-CAAAUUA------------------AGUG-CUGAUGUUG-
+MAGa3130     AGGGAG---U---UUA---------------------------CUCCCU-
+MAGa5240     AAGUAGAUA-G--AAAG---------------------C-UAUCUGCUU-
+MAGa5570     AAAAAGCAA-CAAGAGAAA--------------GACUUG-UUGCUUUUG-
+MAGa0340     AAAAGAGAG-ACACUA---------------------GU-CUCUUUUUU-
+MAGa1470     AAAGCAC------AAAU-------------------------GUGCUUU-
+MAGa5420     -----GCCA-CACACUG--------------------UG-UGGC------
+MAGa8270     AAAGAGCAA-CCAAAAAA-----------------UAGG-CUGCUCUUU-
+MAGa5260     AGAAACAAA-ACGCAG---------------------GU-UUUGUUUUU-
+MAGa4980     AGGGAG---U---UUA---------------------------CUCCCU-
+MAGa3340     AAAAAGCAA-AGUAAUC------------------AGCU-UUGCUUUUU-
+MAGa2010     AAAAUGCCGC---UUUU-----------------------CGGCAUUUU-
+MAGa5170     ---UAGCCA-AUGAAUCUAAAAAA-----UCCUUUUCAU-UGGCUA----
+MAGa2150     AAAAAGUGU-G--GGUCU----------------ACA-C-ACAUUUUUU-
+MAGa4360     GAAGUGUAGC-----AU-----------------------UUACACUUU-
+MAGa3990     AAACUGCCUAGGCUCUAA-----------------AACC-AGGUAGUUU-
+MAGa6490     AAAAAUGAG-CUUGAUA------------------AUGG-CUCAUUUUU-
+MAGa7170     AAUAAACGGA---AAGA-------------------G---CCGUUUAUU-
+MAGa2650     AAAAAACAA-GUGUUUUUAAU-----------AACUCAC-UUGUUUUUU-
+MAGa8610     AAAAAAGCA-C--ACAC------------------CC-G-UGCUUUUUU-
+MAGa1370     AAAAAACAG-GCUUAAUCA--------------GACGGC-CUGUUUUUU-
+MAGa5020     AGAAAGCCAAGUUGUAG------------------AAACCUGGCUUUUU-
+MAGa7250     AAAAAUGAA-GCGUCUU--------------------GC-UUCAUUUUU-
+MAGa3170     AGAAAGCCAAGUUGUAG------------------AAACCUGGCUUUUU-
+MAGa5500     AAUAAACCA-GUUGA----------------------AC-UGGUUUAUU-
+MAGa8120     AGCAAACCAG---CUUU-----------------------UGGUUUGCU-
+MAGa6960     AAAAAGCCAAGUUAUAA------------------CAACCUGGCUUUUU-
+MAGa6840     CAAAGCCGA-AUCAAGC--------------------GU-UCGGCUUUU-
+MAGa2030     AAAAAAUGAACCUGCUC-------------------UGGUUCAUUUUUU-
+MAGa3140     AAAAAGCCAAGUUAUAA------------------CAACCUGGCUUUUU-
+MAGa8210     AGCAAACCAG---CUUU-----------------------UGGUUUGCU-
+MAGa2130     GUUGAGCCUG---AAAA-------------------U---AGGCUUAAU-
+MAGa6930     AGAAAGCCAAGUUGUAG------------------AAACCUGGCUUUUU-
+MAGa3810     AAAACACCA-AGGUAAU--------------------CU-UGGUGUUUU-
+MAGa5840     AGCAAACCAG---CUUU-----------------------UGGUUUGCU-
+MAGa5620     AAAAAACUG-AGAAGCAGCAGC--------AAGCUCUCU-CAGUUUUUU-
+MAGa8420     AAAGCACAA-GCAAACU-------------------AGC-UUGUGUUUU-
+MAGa2730     AAAUAGCCAAGGUUUCU------------------UUCC-UGGCUAUUU-
+MAGa8280     AAAGAGCAG-CCUAUUUU-----------------UUGG-UUGCUCUUU-
+MAGa4990     AAAAAGCCAAGUUAUAA------------------CAACCUGGCUUUUU-
+MAGa3470     AAAGAGUUUC---UAUUACU-------------GAAA---AAGCUCUUU-
+MAGa7770     AAAAAGCGAA---UUAC-----------------------UCGCUUUUU-
+MAGa5870     AGCAAACCAG---CUUU-----------------------UGGUUUGCU-
+MAGa0450     CAAAUAGAA-G--GCAA---------------------C-UUCUAUUUU-
+MAGa8180     --UAUGGAC-GCAUUU---------------------GU-GUCCAUA---
+MAGa6870     ---AAGCCC-UCAACA---------------------GG-GGGCUU----
+MAGa1170     AAAACACAU-GCAACUAG----------------UUAUC-AUGUGUUUU-
+MAGa0950     AAAAUGCUUA---AUUU------------------AC---AGGCAUUUU-
+MAGa8190     ---AAACCU-GCACAG---------------------GC-AGGUUU----
+MAGa2640     AAAAAACAA-GUGAGUUAUUA-----------AAAACAC-UUGUUUUUU-
+MAGa0210     AAAAAAUCA-GGAACC---------------------CC-UGAUUUUAU-
+MAGa1790     AAGAUACAA-GCAACUA--------------------GC-UUGUAUUUU-
+MAGa0590     AUAAAACAGUGUUAAAAGC--------------AUAUGCACUGUUUUAU-
+MAGa2850     AAAGAGACAC---GUUCU-----------------GA---UGUCUCUUU-
+MAGa2020     AAAAAUGAA-CCAGAGC-------------------AGG-UUCAUUUUU-
+MAGa2210     AACUCCCAAUCCAGAUUAAAA----------AGUAACGGAAUGGGGGUU-
+MAGa2460     AAUAAGCAG-GAAAUUUUU--------------GCAUUC-CUGCUUUUU-
+MAGa6150     AAAAGCGAGA---AUUC-----------------------CUCGCUUUUA
+MAGa3500     AAAAAUCAA-GGAGUUG--------------------CC-UUGAUUUUU-
+MAGa4240     AAAGCUCUG-CAAGCGA--------------------UG-CAGAGUUUUA
+MAGa8550     AGAUAAGCCC---UUGC-----------------------GGCUUUUUU-
+MAGa0180     AUCAGCUCA-G--AGAAAA---------------AAA-C-UGAGCUGAU-
+MAGa4700     AAAAAGUGA-CUUUCGAUU--------------CAUAAG-UCACUUUUU-
+MAGa0680     AUAAAAUAG-GGAAAUAAG--------------UCGUCC-CUAUUUUUU-
+MAGa7920     --AAAAUCA-GCGACUA-------------------GGC-UGAUUUU---
+MAGa2570     AAAAAUAUA-GAGCAA---------------------UC-UAUAUUUUU-
+MAGa7130     AAAAUCUAA-CCAUGU---------------------GG-UUAGAUUUU-
+MAGa6210     AAAAAGUUG-GGAUUUU--------------------CC-CAAUUUUUU-
+MAGa2490     AAAAAGCCU-AUAAAAC--------------------A---GGCUUUUU-
+MAGa1960     --AAAGCCUU---GUAACUCUG---------UUUUAU---AGGCUUU---
+MAGa0140     AAAAACCGG-GCUUGCU--------------------GC-CUGGUUUUU-
+MAGa4340     AAAACGGCA-G--AAUUU----------------UAA-C-UGCUGUUUU-
+MAGa4650     AUAAAACAG-CCAUUUUGUGCAA-------UGCUAGUGG-CUGUUUUGU-
+MAGa8050     AAAACGUCA-GCAAAUA--------------------GC-UGAUGUUUU-
+MAGa2620     AAUACACCAC-----AC-----------------------UGGUGUGUU-
+MAGa1300     AAAAAAUAUUGGGGUUG-------------------UCCAAUAUUUUUU-
+MAGa6300     AAUGGCCAA-CUAACUUGC--------------UUUUAG-UUGGCUUUU-
+MAGa4100     AGCACUC------GCAUU----------------GUA-----GAGUGCU-
+MAGa2930     AAAGGGCAAAAGUAAUUUUAUG--------CAAAAUUCUUUUGCUUUUU-
+MAGa6730     AAAAAUAUG-GGAAUU---------------------UC-CAUAUUUUU-
+MAGa2510     AAAAUACUG-AAAGCGUG----------------AGUUU-CAGUAUUUU-
+MAGa5280     AAACUGCAAA---ACU------------------------UUGCAGUUU-
+MAGa3590     GAAAAGUCG-C--ACAG---------------------G-CGACUUUUA-
+MAGa1950     UAAAAUCAG-GUUGCAG--------------------GC-CUGAUUUUU-
+MAGa1050     AAAAACCAA-GCUGCGAUU--------------AUAAGC-UUGGUUUUG-
+MAGa6610     AAGAUAUCG-UUGUUU---------------------AA-CGAUAUUUU-
+MAGa5140     AAAAAGCUA-AGUUUUUG-----------------CUCU-UAGCUUUUU-
+MAGa5910     AAAAAGUGGA---AAA------------------------CCACUUUAU-
+MAGa7750     ---AAGCAGUGGAAAUU--------------------CCGCUGCUU----
+MAGa2920     UAAAAAUCG-CCCUGU---------------------GG-CGAUUUUAA-
+MAGa1870     ---UAGGUA-GCUUUU---------------------GC-UACCUU----
+MAGa1560     AUAGAAGUA-GCAAAAUU-----------------UAGC-UACUUUUAU-
+MAGa2140     AAAAUGUGU-G--UAGA---------------------C-CCACACUUU-
+MAGa1930     AAAAAUGGA-CAAAGCAA-----------------AGUG-UCCAUUUUU-
+MAGa1140     AGCAGGC------UUUA-------------------------GCUUGCU-
+MAGa0280     GGAAAAAUGG---GUG------------------------CAUUUUUCA-
+MAGa3800     AGAUAGUAGAGUUAUUUCAU------------AUAGCCCACUACUAACU-
+MAGa1060     CAAAACCAA-GCUUAUAAU--------------CGCAGC-UUGGUUUUU-
+MAGa7280     AAUCUAGAG-C--AGU----------------------G-CUCUAGACG-
+MAGa0840     AAAAAAUGG-GAAAAACUGCU----------UGAUUUUC-CCAAUUUUU-
+MAGa5850     AGAACGUCA-GCAAAUA--------------------GC-UGAUGUUUU-
+MAGa0870     AAAAAUUCC-GCCACAGA-----------------AAGC-GGAAUUUAU-
+MAGa1290     AAAAAAUAUUG-GACAAC-----------------CC-CAAUAUUUUUU-
+MAGa7190     AAAAUUCAA-GAAGGCAA----------------AAUUC-UUGAAUUUU-
+MAGa8500     AUAAUUUAA-GUAUAAUUA--------------GCAUAC-UUAAAUUGU-
+MAGa6910     AAUUAGUUU-CUAAUU---------------------AG-CUACUAAUUA
+MAGa7340     AACUAAUAA-AGGUUUC--------------------CU-UUAUUAGUU-
+MAGa2590     AUAAAGUGA-AUGUUU---------------------GU-UCACUUUUU-
+MAGa0980     CAAAAAUUA-GGCCUGC-------------------ACC-UAAUUUUUU-
+MAGa5250     AAAAAGCAA-GAGAAGAA-----------------AAUC-UUGCUUUUU-
+MAGa6720     AAUAGACCA-AAAAAACAGAUUAAAUUUUUAUACUGCUU-UGGUCUAUU-
+MAGa2000     AAAAUGCCGA---AAAG-----------------------CGGCAUUUU-
+MAGa1760     AUAGAAUAU-GGACUUU-------------------GCC-AUAUUUUUU-
+MAGa6650     AAUAAGC------UUCG-------------------------GCUUAUU-
+MAGa5490     AAAGAACAAU-AGGAUAAG---------------CGCU-AUUGCUCUUU-
+MAGa8090     AGAACGUCA-GCAAAUA--------------------GC-UGAUGUUUU-
+MAGa6670     GAAAUACCU-GCAUUUGA----------------AUAUC-GGGUAUUUU-
+MAGa0070     AAAAAGCCGC-----UA-----------------------UGGCUUUUU-
+MAGa7470     GACUAGGCA-UUUCUAC--------------------AA-UGCCUGUUU-
+MAGa3820     AAAACACCA-AGAUUAC--------------------CU-UGGUGUUUU-
+MAGa7200     AAAAUGCAG-GCAAAAUUAAAC---------UUUUUCGC-UUGCAUUUU-
+MAGa7600     AAUCCUUUA-AUUUAAGCUAU----------AUGCUUAU-UAAAGGAUU-
+MAGa3350     AAAAAGCAA-AGCUGAU------------------UACU-UUGCUUUUU-
+MAGa0200     AUAAAAUCA-GGGGUU---------------------CC-UGAUUUUUU-
+MAGa7530     AAAGGUUAG-GAUUUA---------------------UC-UUAAUCUUU-
+MAGa3190     AAUUAGUUU-CUAAUU---------------------AG-CUACUAAUUA
+MAGa2600     AAAAUAUGG-CCAAAACA----------------ACAGG-CCACAUUUU-
+#=GC SS_cons <<<<<<<<<.<<_____..................._>>.>>>>>>>>>.
+#=GC RF      AAAAAacaa.gcaaauu...................ugc.uuguUUUUU.
+
+MAGa4170     ---------------------------------------U-------UUA
+MAGa6940     -UUUACUUCUAAUU--------AGAAACUAAUUAUUAGCUAAUUACUUUC
+MAGa5480     ----------------------------------UACUCA-------AGU
+MAGa5340     -UUUUAU---------------------AUAUCAUAA---AAUUUUAAAA
+MAGa4180     -U--------------------------------UUA---AUUCUUAUUU
+MAGa3160     -UUUACUUCUAAUU--------AGAAACUAAUUAUUAGCUAAUUACUUUC
+MAGa5010     -UUUACUUCUAAUU--------AGAAACUAAUUAUUAGCUAAUUACUUUC
+MAGa6740     ----------------------------------UAAUCAAAAUUCAAAA
+MAGa2610     ----------------------------------UUA---UUUUUGUUCG
+MAGa4600     -UUUUACUCU----------------UCAACAUAUUUGGUGUUAA--AGG
+MAGa0130     ----------------------------------UUAUGU-------UGA
+MAGa1500     ------------------------------------UUCUAAAAUCACUA
+MAGa3640     -U--------------------------------UUUUAUAUUUUCAAUC
+MAGa7940     CU--------------------------------AUUGCC-----UUUUG
+MAGa1600     ----------------------------------AUA---AAUGA--AGG
+MAGa2760     -UGU---------------------------UUAUUGGCUUAUUAGCCUA
+MAGa7490     ----------------------------------UUA---AUUUAGUAGC
+MAGa0530     AUU------------------------------UUUA---CACUUUUUAU
+MAGa4040     CU--------------------------------AUUGCC-----UUUUG
+MAGa8440     C--------------------------------AUUA---ACUUUAUUGG
+MAGa7480     ----------------------------------UACUGU-----CUUAG
+MAGa1510     ----------------------------------UAAUUC-------UUU
+MAGa2660     AU--------------------------------UUUGCUCUUUUAAUGC
+MAGa1180     -UA------------------------------UUUGUCUGUUUUAUAGG
+MAGa4510     ------------------------------------UGCAUACAUUCUUG
+MAGa5210     ----------------------------------AUA---AUUCAUGCAG
+MAGa5200     ----------------------------------UUA---GAUUAUUUAU
+MAGa2190     -UUUAUAC--------------------AUUGUUUUAACU-----GCAUU
+MAGa3520     -UU------------------------------UUUUACU-----CUUUU
+MAGa5560     CUUUUAUGC-----------------CUAUAAAACAAGCAAAUUUGUCGA
+MAGa7260     ----------------------------------------AAUUAUGCAU
+MAGa2330     ----------------------------------UUAUGC-------AAU
+MAGa8100     ----------------------------------UGA---AUUUUGAUGU
+MAGa7870     -U--------------------------------UUU---AAGUAGGAAA
+MAGa2840     GUUUU--------------------------UUUAUUGCUGUUUUAUAGU
+MAGa5820     ----------------------------------UGA---AUUUUGAUGU
+MAGa8630     CUUUUAACUCUA------------AAAUAUAAAUUUAGGA-----CAUUU
+MAGa7910     AUU------------------------------UUACUGAAAUAAAGAAG
+MAGa5350     ---------------------------------------U-------UUG
+MAGa8160     ----------------------------------UUAUUU----------
+MAGa0510     ----------------------------------------GAUAACAAUG
+MAGa5610     ----------------------------------UAC---AUUCUUUAUU
+MAGa1480     AUU------------------------------UGUUUCU-----UUUAU
+MAGa8290     AUUUUUCA-------------------AAAUAGGUAUGGAAACAUAUUGC
+MAGa1920     ------------------------------------UUCA-----UACAC
+MAGa5900     AUU------------------------------UUUA---AACAAAUAAA
+MAGa1890     ----------------------------------UAG---AAAUUUUUUA
+MAGa2870     AUU-----------------------------UUUAAGCUAAUUAAAAGG
+MAGa7230     AUUU----------------------------UUAUACCUGUUUUAUAGG
+MAGa8200     ----------------------------------UAUUCUAGUUAUCUUA
+MAGa1990     -UUUAUA----------------------UUGAUUUAGAUAUUUUCUUAG
+MAGa1010     ----------------------------------UUA---UAUUAUAAUU
+MAGa4560     ----------------------------------AUAUGU-------CGG
+MAGa7430     -UCCAU------------------------AAAUGAAGGU-----UCAAG
+MAGa1530     ----------------------------------UUA---UAUUUGUUUA
+MAGa4590     ----------------------------------UAAUGAUCUAAUUUUG
+MAGa1940     AUU------------------------------UUUG---AUUUUUUUAA
+MAGa6560     GU-------------------------------UUAUGGC-------UGU
+MAGa5360     ----------------------------------UAUUGC-----CUAUG
+MAGa7140     ----------------------------------UUUGCA-----CAAAU
+MAGa6530     ----------------------------------GUA---UAUUCCUCUA
+MAGa8600     ----------------------------------UUUUCUAUAAAACAGG
+MAGa8530     ----------------------------------UU----AAUAAGCAGG
+MAGa7160     ----------------------------------------AUUCACUCUU
+MAGa8570     ----------------------------------GUAUGU-----AUUUU
+MAGa6820     GUU------------------------------UUUA---AAUUUAUAAU
+MAGa4710     GUUUAU-----------------------GAAUUUAAGCU-------UUU
+MAGa3460     ----------------------------------UUU---AAAAU--AAA
+MAGa1490     ----------------------------------AAAUCUGUUUUAUAGG
+MAGa2580     ----------------------------------UUU---AUAUAUGAAA
+MAGa6970     ----------------------------------UUUGCU-----UUUAU
+MAGa5650     ----------------------------------CUU---GAUUGUAAGU
+MAGa3130     ----------------------------------UUUGCU-----UUUAU
+MAGa5240     -UUUU-------------------------UAUUUUAUGCAACAAAAAAG
+MAGa5570     ----------------------------------UUUGCU-----AAUUU
+MAGa0340     GUUUAACAUUGU-----------UUUAUAGAACUUUUGGC-----UUUAU
+MAGa1470     -UUU---------------------------AUAUUUGGAUAAUAACAAU
+MAGa5420     -UUUUAU---------------------UUUGUUUUA---CAAAACUCGC
+MAGa8270     ----------------------------------UAUUGU-------UAG
+MAGa5260     ----------------------------------------AUUUUCCUAU
+MAGa4980     ----------------------------------UUUGCU-----UUUAU
+MAGa3340     -UGUUUAC--------------------UAUUGUUUAGGA-----UUAAU
+MAGa2010     -U--------------------------------UAUGUU-----CUUUG
+MAGa5170     ----------------------------------AAAUCAAAAAACAAAU
+MAGa2150     ----------------------------------GUU---AUCAAAAAUG
+MAGa4360     ----------------------------------UUA---AUUUUUUAUA
+MAGa3990     -UUUAU------------------------UUUGUUAGCUAAUAAAUUGA
+MAGa6490     ----------------------------------UAAACAAAAAUGCUGU
+MAGa7170     -UUUUAC---------------------UAAAAGUAAUCU-----GAUUG
+MAGa2650     -U--------------------------------UAAUCC-------UGU
+MAGa8610     -U-------------------------------GUUUUUAAACAAGUUUA
+MAGa1370     ------------------------------------UGCU-------UUA
+MAGa5020     GU--------------------------------UUUUCUAAUUACAAUG
+MAGa7250     ----------------------------------AAGUCU-------UGC
+MAGa3170     GU--------------------------------UUUUCUAAUUACAAUG
+MAGa5500     ----------------------------------UAAUGAAAUGGACAAA
+MAGa8120     -UU-----------------------------UAUUUGCUAUAAACUCAC
+MAGa6960     CUUUGCUC--------------------UAAUUAGUAGCUAAUUACAUAG
+MAGa6840     CUU------------------------------UUUUGCC-----UAUAU
+MAGa2030     ----------------------------------GACUGC-----UGUGC
+MAGa3140     CUUUGCUC--------------------UAAUUAGUAGCUAAUUACAUAG
+MAGa8210     -UU-----------------------------UAUUUGCUAUAAACUCAC
+MAGa2130     ----------------------------------AUGGCUAAUGUUUUAG
+MAGa6930     GU--------------------------------UUUUCUAAUUACAAUG
+MAGa3810     ----------------------------------UAUGCU-----UGAAA
+MAGa5840     -UU-----------------------------UAUUUGCUAUAAACUCAC
+MAGa5620     AUUU----------------------------UAGUUUGU-----UUUAG
+MAGa8420     -U--------------------------------GUAUCUAUAAAACAGG
+MAGa2730     -U--------------------------------UUUGCUAUUAGCUCAG
+MAGa8280     CUUUAUAAUUA-------------AUAACUUCAAUUUGCCAUUUA--UGC
+MAGa4990     CUUUGCUC--------------------UAAUUAGUAGCUAAUUACAUAG
+MAGa3470     ----------------------------------UAAGCCUUAUAGAUAA
+MAGa7770     -UU------------------------------CUUUGAUCUUUUUUUGU
+MAGa5870     -UU-----------------------------UAUUUGCUAUAAACUCAC
+MAGa0450     -UU------------------------------UAUAUCC-----UUAAU
+MAGa8180     -UU------------------------------UUUUUAUAUAAACUCAC
+MAGa6870     -UUUCAUAUAA--------------AAUGAUUGUUUU---AAUCACUUAU
+MAGa1170     ----------------------------------UUU---AUUUAAAAUU
+MAGa0950     ------------------------------------AGAAAAUGAGUCUA
+MAGa8190     ----------------------------------UUAUGUCUUUUGUUAU
+MAGa2640     ----------------------------------UAUGCC-----CUUAU
+MAGa0210     -UUUUU-----------------------GUUUUUUAAGUAAUUUGCAAU
+MAGa1790     -UAUUUA---------------------UCCUUUUAGGCUGUUUUAUAGG
+MAGa0590     -UUUUUUCACAAA---------AAUAGUGGAAAGAUUGCCAUAUAUUUAC
+MAGa2850     ----------------------------------------AUUUUUUAAC
+MAGa2020     ----------------------------------UAUUCA-----CUAGU
+MAGa2210     -UUUG--------------------------UGUUUA---AAAAAAUAGU
+MAGa2460     CUU------------------------------UUGAGCUUAUAAAUUAA
+MAGa6150     AU-------------------------------UUAUGCU-----UUUAG
+MAGa3500     ----------------------------------UAAUAU-----GGUGC
+MAGa4240     AUU------------------------------UUUA---CUUAAGUUAA
+MAGa8550     ----------------------------------CUU---AACUUCCUAU
+MAGa0180     ----------------------------------UUU---AUUUAAUCAU
+MAGa4700     ----------------------------------GUAUUU-----UUUAU
+MAGa0680     ----------------------------------UAU---AUUUAUAUUG
+MAGa7920     -UAUUACUAUGA-----------AACAGACAAAUUGGGCUAUUUUGUCUU
+MAGa2570     ----------------------------------CAAACC-----CCCAU
+MAGa7130     ----------------------------------UAAGUG-----CUUGU
+MAGa6210     -UCU----------------------------UUUUUGUG-----CUUUU
+MAGa2490     AUUACACA--------------------AAAAUAUAA---AAAUUUUAAU
+MAGa1960     ----------------------------------UUAGGCAAAUU--UUU
+MAGa0140     ----------------------------------GUA---UAUUAAUUUU
+MAGa4340     ----------------------------------UUGUAU-----UUUUU
+MAGa4650     -U-------------------------------UUUUUAAAAAAACCUAU
+MAGa8050     ----------------------------------UUC---AUAAACUCAC
+MAGa2620     -U--------------------------------UUU---AUUUUUGUGC
+MAGa1300     ----------------------------------UAAUUUAUUUAUAUGG
+MAGa6300     ----------------------------------------UAUUACUUAA
+MAGa4100     ----------------------------------------AAAAUUGUAU
+MAGa2930     ----------------------------------UUA---UAAUUAUUUA
+MAGa6730     -UUUGACAAAA-------------AAGCACAAAAUAAGCAGAUUUUCUGC
+MAGa2510     -UUUACU----------------------AACGAUUUGGA-----UUUAU
+MAGa5280     ----------------------------------UUA---UUUUACAAAC
+MAGa3590     ----------------------------------UUAUUC-----GCCUA
+MAGa1950     ----------------------------------------GUUUACUUUU
+MAGa1050     -UU------------------------------UUUAAUUACCUUCAAGA
+MAGa6610     -UU------------------------------UGAUGCU----------
+MAGa5140     -UUAUU------------------------ACAGUUUCCUGUUUUCCCUA
+MAGa5910     ----------------------------------UUU---AACUUUAAAU
+MAGa7750     -UUUUGA----------------------UAGAAUUAUUU-----AUAAA
+MAGa2920     ----------------------------------UUUUGUUAAUUAUUAU
+MAGa1870     -UU------------------------------UUUUGGUCACGACUCUU
+MAGa1560     ----------------------------------UAUUGG-----CCUGU
+MAGa2140     ----------------------------------UUUUAUAUUAGAAAUA
+MAGa1930     ----------------------------------UAGUCU-----UAAAA
+MAGa1140     -UUU----------------------------AUUAUUCAAAUUUAUCUA
+MAGa0280     ----------------------------------GAAUGC-------AAC
+MAGa3800     GUUUU-------------------------GUUUGUUGCA-----CUUUU
+MAGa1060     ----------------------------------------AAUUA--UUA
+MAGa7280     ----------------------------------AAA---AAUUACAUUU
+MAGa0840     -UUUAU-----------------------UUUUAUAAUCCUAAUGCUUUU
+MAGa5850     -UUU---------------------------CUUUUC---AUAAACUCGC
+MAGa0870     -UUUUUUAA------------------ACUUUAGCAAGCAAAUUUUUAAC
+MAGa1290     ----------------------------------UAUGUC-------UGU
+MAGa7190     ----------------------------------UUAGCA-----CUCUA
+MAGa8500     ----------------------------------AGGAGU-----GUAGU
+MAGa6910     CUUUCU-----------------------AAUUAUUUUCUAAUUACUAUA
+MAGa7340     AUU-----------------------------UUAUAGGGAUAUACUUUU
+MAGa2590     ------------------------------------UGUU----------
+MAGa0980     ----------------------------------UAUGCACAUUUUUAUG
+MAGa5250     -U--------------------------------GUUGCA-----UAAAA
+MAGa6720     -UUUU--------------------------AUAUUUUCU-----UAAAG
+MAGa2000     AUUUUUAAUGAAAAUGUAGAGUUAAAUAAAAAGAUUAUUUCUUUUCCUUG
+MAGa1760     AUU------------------------------UUUCUGA-----ACCAU
+MAGa6650     -UUUU-------------------------UAUUUUA---AUUUAGCAGU
+MAGa5490     ----------------------------------UACUCA-------UAG
+MAGa8090     -UUU---------------------------CUUUUC---AUAAACUCGC
+MAGa6670     ----------------------------------UUU---GAUUAAAUCA
+MAGa0070     -UAUAA------------------------UGCUUUGGGG-----CUAGC
+MAGa7470     -UU-----------------------------UAUAAGUC-----UUAUG
+MAGa3820     GU-------------------------------UUAUUGU-----AUAAG
+MAGa7200     -UUUAUUAUU---------------GAUAUAAAAUUA---AAUUACUUAC
+MAGa7600     -UUUAUUU-------------------AAUAAAAUUG---AAUUAUGAAG
+MAGa3350     -UUAUA-----------------------GGGGUUUUGGU-----CAAAU
+MAGa0200     ----------------------------------GUAUCUAUAAAACACA
+MAGa7530     ----------------------------------UUU---AAAAUUCAUU
+MAGa3190     CUUUCU-----------------------AAUUAUUUUCUAAUUACUAUA
+MAGa2600     ----------------------------------UUA---UUUUUUUAAU
+#=GC SS_cons .:................................::::::::::::::::
+#=GC RF      .U................................UUagcUAAUUAuUuau
+
+MAGa4170     C
+MAGa6940     U
+MAGa5480     C
+MAGa5340     C
+MAGa4180     C
+MAGa3160     U
+MAGa5010     U
+MAGa6740     U
+MAGa2610     U
+MAGa4600     C
+MAGa0130     U
+MAGa1500     U
+MAGa3640     C
+MAGa7940     U
+MAGa1600     U
+MAGa2760     U
+MAGa7490     C
+MAGa0530     U
+MAGa4040     U
+MAGa8440     U
+MAGa7480     C
+MAGa1510     U
+MAGa2660     U
+MAGa1180     U
+MAGa4510     U
+MAGa5210     U
+MAGa5200     U
+MAGa2190     U
+MAGa3520     U
+MAGa5560     U
+MAGa7260     U
+MAGa2330     C
+MAGa8100     U
+MAGa7870     C
+MAGa2840     G
+MAGa5820     U
+MAGa8630     C
+MAGa7910     U
+MAGa5350     U
+MAGa8160     C
+MAGa0510     U
+MAGa5610     U
+MAGa1480     U
+MAGa8290     U
+MAGa1920     U
+MAGa5900     U
+MAGa1890     U
+MAGa2870     U
+MAGa7230     U
+MAGa8200     U
+MAGa1990     C
+MAGa1010     U
+MAGa4560     C
+MAGa7430     U
+MAGa1530     U
+MAGa4590     U
+MAGa1940     U
+MAGa6560     U
+MAGa5360     C
+MAGa7140     U
+MAGa6530     U
+MAGa8600     C
+MAGa8530     C
+MAGa7160     U
+MAGa8570     U
+MAGa6820     U
+MAGa4710     U
+MAGa3460     U
+MAGa1490     C
+MAGa2580     U
+MAGa6970     U
+MAGa5650     U
+MAGa3130     U
+MAGa5240     C
+MAGa5570     U
+MAGa0340     U
+MAGa1470     U
+MAGa5420     U
+MAGa8270     U
+MAGa5260     A
+MAGa4980     U
+MAGa3340     U
+MAGa2010     U
+MAGa5170     U
+MAGa2150     U
+MAGa4360     U
+MAGa3990     U
+MAGa6490     U
+MAGa7170     U
+MAGa2650     U
+MAGa8610     U
+MAGa1370     U
+MAGa5020     U
+MAGa7250     U
+MAGa3170     U
+MAGa5500     U
+MAGa8120     C
+MAGa6960     U
+MAGa6840     U
+MAGa2030     C
+MAGa3140     U
+MAGa8210     C
+MAGa2130     U
+MAGa6930     U
+MAGa3810     U
+MAGa5840     C
+MAGa5620     U
+MAGa8420     G
+MAGa2730     C
+MAGa8280     C
+MAGa4990     U
+MAGa3470     U
+MAGa7770     U
+MAGa5870     C
+MAGa0450     U
+MAGa8180     C
+MAGa6870     U
+MAGa1170     U
+MAGa0950     U
+MAGa8190     U
+MAGa2640     U
+MAGa0210     U
+MAGa1790     U
+MAGa0590     U
+MAGa2850     U
+MAGa2020     U
+MAGa2210     U
+MAGa2460     G
+MAGa6150     U
+MAGa3500     C
+MAGa4240     U
+MAGa8550     U
+MAGa0180     U
+MAGa4700     G
+MAGa0680     U
+MAGa7920     U
+MAGa2570     U
+MAGa7130     U
+MAGa6210     G
+MAGa2490     U
+MAGa1960     U
+MAGa0140     U
+MAGa4340     U
+MAGa4650     U
+MAGa8050     C
+MAGa2620     U
+MAGa1300     U
+MAGa6300     U
+MAGa4100     U
+MAGa2930     U
+MAGa6730     U
+MAGa2510     U
+MAGa5280     U
+MAGa3590     U
+MAGa1950     U
+MAGa1050     C
+MAGa6610     U
+MAGa5140     U
+MAGa5910     U
+MAGa7750     U
+MAGa2920     U
+MAGa1870     U
+MAGa1560     U
+MAGa2140     U
+MAGa1930     U
+MAGa1140     U
+MAGa0280     U
+MAGa3800     U
+MAGa1060     U
+MAGa7280     U
+MAGa0840     U
+MAGa5850     C
+MAGa0870     C
+MAGa1290     U
+MAGa7190     G
+MAGa8500     U
+MAGa6910     U
+MAGa7340     G
+MAGa2590     U
+MAGa0980     G
+MAGa5250     U
+MAGa6720     U
+MAGa2000     U
+MAGa1760     U
+MAGa6650     U
+MAGa5490     U
+MAGa8090     C
+MAGa6670     U
+MAGa0070     U
+MAGa7470     U
+MAGa3820     U
+MAGa7200     C
+MAGa7600     C
+MAGa3350     C
+MAGa0200     U
+MAGa7530     U
+MAGa3190     U
+MAGa2600     U
+#=GC SS_cons :
+#=GC RF      U
+//

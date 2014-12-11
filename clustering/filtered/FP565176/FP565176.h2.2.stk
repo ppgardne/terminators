@@ -1,0 +1,962 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS XALc_2320 WT 0.90
+#=GS XALc_0053 WT 0.99
+#=GS XALc_2395 WT 0.54
+#=GS XALc_2968 WT 1.10
+#=GS XALc_0538 WT 1.15
+#=GS XALc_1104 WT 0.97
+#=GS XALc_2627 WT 0.54
+#=GS XALc_0865 WT 1.02
+#=GS XALc_0032 WT 1.07
+#=GS XALc_1733 WT 0.89
+#=GS XALc_0814 WT 0.93
+#=GS XALc_2526 WT 1.07
+#=GS XALc_0494 WT 1.31
+#=GS XALc_1989 WT 1.07
+#=GS XALc_0932 WT 1.04
+#=GS XALc_1365 WT 0.97
+#=GS XALc_0168 WT 1.01
+#=GS XALc_0054 WT 1.11
+#=GS XALc_2714 WT 1.10
+#=GS XALc_2442 WT 1.04
+#=GS XALc_2516 WT 1.09
+#=GS XALc_2314 WT 0.95
+#=GS XALc_2918 WT 1.06
+#=GS XALc_2216 WT 1.05
+#=GS XALc_2969 WT 0.94
+#=GS XALc_2141 WT 0.94
+#=GS XALc_0291 WT 0.77
+#=GS XALc_0962 WT 1.16
+#=GS XALc_0802 WT 1.01
+#=GS XALc_2580 WT 1.12
+#=GS XALc_0772 WT 1.16
+#=GS XALc_2773 WT 1.06
+#=GS XALc_0616 WT 0.91
+#=GS XALc_1056 WT 1.28
+#=GS XALc_0551 WT 0.90
+#=GS XALc_2846 WT 0.73
+#=GS XALc_0319 WT 1.08
+#=GS XALc_2195 WT 0.96
+#=GS XALc_1035 WT 0.96
+#=GS XALc_0087 WT 1.09
+#=GS XALc_1677 WT 1.06
+#=GS XALc_1113 WT 1.09
+#=GS XALc_1836 WT 1.39
+#=GS XALc_1235 WT 0.81
+#=GS XALc_2130 WT 1.13
+#=GS XALc_1857 WT 1.10
+#=GS XALc_2604 WT 1.04
+#=GS XALc_0023 WT 1.19
+#=GS XALc_2680 WT 0.97
+#=GS XALc_0397 WT 0.73
+#=GS XALc_1022 WT 1.19
+#=GS XALc_0818 WT 1.05
+#=GS XALc_2197 WT 0.96
+#=GS XALc_1208 WT 0.95
+#=GS XALc_1615 WT 0.83
+#=GS XALc_2665 WT 0.80
+#=GS XALc_2626 WT 0.46
+#=GS XALc_0874 WT 0.99
+#=GS XALc_1783 WT 0.69
+#=GS XALc_0979 WT 1.01
+#=GS XALc_2524 WT 1.16
+#=GS XALc_0169 WT 1.02
+#=GS XALc_3077 WT 0.95
+#=GS XALc_0594 WT 1.02
+#=GS XALc_1956 WT 0.86
+#=GS XALc_1908 WT 1.22
+#=GS XALc_3061 WT 0.90
+#=GS XALc_1071 WT 1.04
+#=GS XALc_0909 WT 1.09
+#=GS XALc_2394 WT 0.46
+#=GS XALc_0506 WT 0.99
+#=GS XALc_1567 WT 0.96
+#=GS XALc_2844 WT 1.06
+#=GS XALc_0885 WT 1.33
+#=GS XALc_2065 WT 0.95
+#=GS XALc_0659 WT 1.03
+#=GS XALc_0011 WT 1.08
+#=GS XALc_2946 WT 1.14
+#=GS XALc_2473 WT 1.03
+#=GS XALc_1278 WT 0.97
+#=GS XALc_2027 WT 0.93
+#=GS XALc_1136 WT 0.95
+#=GS XALc_2798 WT 1.08
+#=GS XALc_1784 WT 0.69
+#=GS XALc_2967 WT 1.02
+#=GS XALc_1417 WT 1.08
+#=GS XALc_1794 WT 0.90
+#=GS XALc_0741 WT 0.84
+#=GS XALc_2727 WT 1.10
+#=GS XALc_0510 WT 1.04
+#=GS XALc_2417 WT 1.08
+#=GS XALc_1763 WT 1.04
+#=GS XALc_1364 WT 0.95
+#=GS XALc_1065 WT 1.05
+#=GS XALc_2306 WT 1.09
+#=GS XALc_2356 WT 0.85
+#=GS XALc_0919 WT 0.82
+#=GS XALc_0184 WT 1.13
+#=GS XALc_2584 WT 1.15
+#=GS XALc_3146 WT 1.12
+#=GS XALc_1866 WT 1.10
+#=GS XALc_2981 WT 1.07
+#=GS XALc_1020 WT 0.72
+#=GS XALc_0836 WT 1.06
+#=GS XALc_2013 WT 1.05
+#=GS XALc_0967 WT 0.97
+#=GS XALc_2667 WT 1.05
+#=GS XALc_0331 WT 0.88
+#=GS XALc_0557 WT 0.94
+#=GS XALc_2587 WT 1.32
+#=GS XALc_0580 WT 0.91
+#=GS XALc_1346 WT 1.10
+#=GS XALc_0090 WT 1.24
+#=GS XALc_0964 WT 1.04
+#=GS XALc_0702 WT 0.86
+#=GS XALc_0899 WT 0.90
+#=GS XALc_2184 WT 0.91
+#=GS XALc_0917 WT 0.77
+#=GS XALc_2681 WT 0.84
+#=GS XALc_1362 WT 1.12
+#=GS XALc_2155 WT 0.93
+#=GS XALc_0327 WT 0.95
+#=GS XALc_2915 WT 0.96
+#=GS XALc_1477 WT 1.13
+#=GS XALc_1651 WT 0.96
+#=GS XALc_2903 WT 1.10
+#=GS XALc_0933 WT 1.00
+#=GS XALc_1926 WT 0.90
+#=GS XALc_1909 WT 0.97
+#=GS XALc_2882 WT 0.73
+#=GS XALc_1369 WT 1.08
+#=GS XALc_0671 WT 0.95
+#=GS XALc_0493 WT 1.07
+#=GS XALc_1012 WT 0.89
+#=GS XALc_1033 WT 1.05
+#=GS XALc_2787 WT 1.03
+#=GS XALc_2448 WT 1.07
+#=GS XALc_2349 WT 1.07
+#=GS XALc_2522 WT 0.95
+#=GS XALc_1352 WT 0.82
+#=GS XALc_0866 WT 1.07
+#=GS XALc_0959 WT 1.06
+#=GS XALc_0427 WT 1.03
+#=GS XALc_2870 WT 0.97
+#=GS XALc_2807 WT 1.02
+#=GS XALc_1440 WT 1.00
+#=GS XALc_0972 WT 1.16
+#=GS XALc_2630 WT 1.29
+#=GS XALc_0878 WT 1.08
+#=GS XALc_0328 WT 0.95
+#=GS XALc_2151 WT 0.45
+#=GS XALc_2880 WT 1.02
+#=GS XALc_1358 WT 1.09
+#=GS XALc_1488 WT 1.19
+#=GS XALc_2834 WT 0.99
+#=GS XALc_1729 WT 1.14
+#=GS XALc_0256 WT 1.03
+#=GS XALc_1144 WT 1.14
+#=GS XALc_2869 WT 0.97
+#=GS XALc_1670 WT 0.99
+#=GS XALc_0984 WT 0.93
+#=GS XALc_1987 WT 0.90
+#=GS XALc_0110 WT 0.96
+#=GS XALc_0002 WT 0.82
+#=GS XALc_0534 WT 0.90
+#=GS XALc_2983 WT 1.00
+#=GS XALc_2303 WT 0.90
+#=GS XALc_1580 WT 0.99
+#=GS XALc_2326 WT 1.25
+#=GS XALc_1301 WT 0.99
+#=GS XALc_1984 WT 1.06
+#=GS XALc_2244 WT 1.03
+#=GS XALc_0737 WT 1.16
+#=GS XALc_0635 WT 0.72
+#=GS XALc_1616 WT 0.83
+#=GS XALc_0504 WT 1.05
+#=GS XALc_0376 WT 0.84
+#=GS XALc_1911 WT 0.89
+#=GS XALc_3053 WT 1.17
+#=GS XALc_1131 WT 0.85
+#=GS XALc_3040 WT 1.00
+#=GS XALc_2153 WT 0.45
+#=GS XALc_0766 WT 1.07
+#=GS XALc_2991 WT 0.96
+#=GS XALc_0459 WT 1.04
+#=GS XALc_0798 WT 0.94
+#=GS XALc_0047 WT 1.10
+#=GS XALc_1132 WT 0.85
+#=GS XALc_1617 WT 1.07
+#=GS XALc_0312 WT 1.13
+#=GS XALc_0657 WT 1.00
+#=GS XALc_2766 WT 1.02
+#=GS XALc_0018 WT 1.09
+#=GS XALc_0492 WT 1.21
+#=GS XALc_0982 WT 0.90
+#=GS XALc_0541 WT 1.22
+#=GS XALc_0081 WT 1.14
+#=GS XALc_3039 WT 1.08
+#=GS XALc_0662 WT 1.08
+#=GS XALc_2200 WT 0.84
+#=GS XALc_1070 WT 1.23
+#=GS XALc_2694 WT 0.63
+#=GS XALc_1068 WT 1.04
+#=GS XALc_2177 WT 1.21
+#=GS XALc_1884 WT 1.00
+#=GS XALc_2082 WT 1.09
+#=GS XALc_0064 WT 0.93
+#=GS XALc_1786 WT 1.28
+#=GS XALc_0460 WT 1.08
+#=GS XALc_1034 WT 0.96
+#=GS XALc_2131 WT 0.98
+#=GS XALc_2726 WT 0.96
+#=GS XALc_2886 WT 1.11
+#=GS XALc_2693 WT 0.63
+#=GS XALc_0102 WT 0.94
+#=GS XALc_0586 WT 1.03
+#=GS XALc_2556 WT 1.12
+#=GS XALc_0277 WT 1.16
+#=GS XALc_0375 WT 0.98
+#=GS XALc_0395 WT 1.01
+#=GS XALc_2673 WT 1.03
+#=GS XALc_0722 WT 1.09
+#=GS XALc_1872 WT 1.19
+#=GS XALc_0212 WT 0.98
+#=GS XALc_2961 WT 1.14
+#=GS XALc_0337 WT 1.13
+#=GS XALc_0332 WT 0.88
+#=GS XALc_2725 WT 1.14
+#=GS XALc_1036 WT 1.08
+#=GS XALc_2067 WT 1.07
+#=GS XALc_1446 WT 0.96
+#=GS XALc_1669 WT 1.00
+#=GS XALc_1687 WT 1.09
+#=GS XALc_2971 WT 0.95
+#=GS XALc_0918 WT 0.73
+#=GS XALc_1227 WT 0.99
+#=GS XALc_2290 WT 1.08
+
+XALc_2320    CUAC-----UG----AUGAG------CG--------------AUCC----
+XALc_0053    GA---CA--------CACA-----------UG----------A--A----
+XALc_2395    GCUA-UCG-A-----UUGA--------UC-GA--------GGAA------
+XALc_2968    GAGG-----UA----AUUAC------CA----C-----ACAUAAC-----
+XALc_0538    GCUC-GG--------CUAAG-----UC---CCU------CGGAUC-----
+XALc_1104    -----UG--C-----CACC--------G--CA--------AGGUCG----
+XALc_2627    GCUA-UCG-A-----UUGA--------UC-GA--------GGAA------
+XALc_0865    CA---CCA-CG----CAUCG------CGU-GG--------UGGCC-----
+XALc_0032    CACC-CGC-UG---ACUUC--------AG-CGCAA-GUGC-----GCC--
+XALc_1733    GAUC--G--------CCGCA-----UU---C--------GUUUUCA----
+XALc_0814    GAAU-----CGG--CCUGA--------G--------------U-------
+XALc_2526    CAAG-AAG-UA----AUCACUU--CUUGC-UUCA---GGCAC---GU---
+XALc_0494    GAUUC-----GU--GAUUG--------------------GGGA-------
+XALc_1989    GAAC---C-UG---AAGUAA-----CCGG----------GCGCA------
+XALc_0932    CAUU-GAA-C-----CCGCG-----GAGU-CCCA---CCUGGAUGC----
+XALc_1365    CAAG--AG-C-----ACCAC------UGC-C--------AGCAAGU----
+XALc_0168    CAACGCGG-CAC--GCUGAC------CGU-CGG-----ACGGA-------
+XALc_0054    GA---CGA-UG----UGUA--------AG-CG----------A-------
+XALc_2714    GAA---AC-C-----CUGAC------AGG-U-UC----CAUUGUCGC---
+XALc_2442    -----UAC-CGC-UUCUGAG-----CCGG-CA--------ACUAC-----
+XALc_2516    CACU-CGU-A-----CUCC--------UG-CG--------UCA-------
+XALc_2314    CAUGAUG--------AUGUA-----GC---CA-------CAGA-------
+XALc_2918    CUAA--GC-AU----CGGAG------UUG-C-----------AUCGC---
+XALc_2216    GAAC-UUC-AAG-UUCUGA--------UG-UA--------ACAAC-----
+XALc_2969    CCUU-CAC-CGU--GCUCACUG--CACGG-UG--------ACU-------
+XALc_2141    CUUU-GA--------CCGA-----------UC--------UGA-------
+XALc_0291    GAAU-CCUGCG---GAUUCCA----CUGG-GG--------UGU-------
+XALc_0962    GCUU--GG-A-----CUCAA-----CUUC-C-A-----AAUGC-------
+XALc_0802    CAAC-CG--------CUGAU------A---CG----------C-------
+XALc_2580    CA---UCU-UG----CCAAG------UGA-GA--------GCGUC-----
+XALc_0772    GA----GU-CG---UAUGCGG----AUGG-C---------GGAUG-----
+XALc_2773    GAUGA-GU-UG----AGCCU-----GCGG-C---------UGAUCGUG--
+XALc_0616    CUUC-UUU-CA----CGUU--------GA-AAC------AAGA-------
+XALc_1056    GAUCCC----G----AAGAC-----CC----G----------GACA----
+XALc_0551    ------GU-CG----CUUCC------CGA-C-----------A-------
+XALc_2846    GAU--CGCACG----CGUUA------CGG-CG----------UACC----
+XALc_0319    GACC-CUG-CG---U--CA-------CGC-AG--------UCA-------
+XALc_2195    GAUCGCCU-CGC--GAUCAC------CGA-UGC------GUCACC-----
+XALc_1035    GAUC--C--------AGGCAA----AC---G---------UGU-------
+XALc_0087    CCUA-CCG-CU---UCUGA--------GU-GG----------AAC-----
+XALc_1677    -----CC--------CGGAA-----GC---GG----------GAC-----
+XALc_1113    GAA--CG--------CUGCA-----UC---CG----------A-------
+XALc_1836    CUUU--G--------AUGC-----------C--------AGGUUCA----
+XALc_1235    -----AAA-C-----AGAC-------CGU-CU----------AAC-----
+XALc_2130    ------GG-CA----CGCUCG---CCCGC-C-U------UGCA-------
+XALc_1857    GAAG-AUU-CG----AACU--------GA-UU-------U--UUCC----
+XALc_2604    CA----GC-C-----UGGAC-----GCGG-C--------CAGU-------
+XALc_0023    CAA---AC-CA----AUGAAU---AAUGG-U-U------GAUUUC-----
+XALc_2680    -----UG--------CGGG-----------CA--------UGAAC-----
+XALc_0397    CAAC-CG--------CUGCG------C---CG----------AUCA----
+XALc_1022    CAAC-GG--------CUGAG-----CC---CC--------UCC--C----
+XALc_0818    GAUUC-GG-CG----CUUCA-----CCGC-C-UU---GCCAGUACA----
+XALc_2197    CAAC-----------CUCA-----------------------A-------
+XALc_1208    GCU--UGCGCG---GCUGAGUA-UCACGG-CA--------UGC-------
+XALc_1615    CAAC------G---GCUGA--------------------AUGUUC-----
+XALc_2665    CAUU-CGG-CG---UAGGAG-----GCGU-CGG------GUGUUC-----
+XALc_2626    ------U--------UGCAG------C---A-----------A-------
+XALc_0874    CA---CG--CA----CUGU--------G--CG-------GUGACCA----
+XALc_1783    -----CG--------AUGA-----------CG----------A-------
+XALc_0979    -----CG--------CUGG-----------CG----------AUG-----
+XALc_2524    GUAG-CG--------UUGGG------C---CG--------AGGUCUC---
+XALc_0169    GCAG-CGU-G-----AGGU--------GA-CG----------A-------
+XALc_3077    ------GC-CG----CGCG-------CGG-C-U------CUGA-------
+XALc_0594    GA---UGG-C-----AUGUA-----UAGA-CA----------A-------
+XALc_1956    GAUA-UU--------AUUA-----------AA----------A-------
+XALc_1908    CCUG-ACG-C-----ACGAC-----GCGU-GUCCGGGAUUGGUUC-----
+XALc_3061    GAAA-----------CGGAG------U-------------UCA-------
+XALc_1071    -----CGC-CG----AGCAG-----UCGG-CGU------AAGAUCAC---
+XALc_0909    GUUU-CAU-CG---C-GACAA---GGCGA-UG----------AUCGA---
+XALc_2394    ------U--------UGCAG------C---A-----------A-------
+XALc_0506    CAU--CGC-CAG--UCGUUC-----GAGG-CG-------GUGCAC-----
+XALc_1567    CAAA-CGU-UGAAGCAUUAGC----GCAG-CGG------CGUUUCA----
+XALc_2844    CAAU-GGC-CG----UUGAGG----AUGG-UCC------CGGG-------
+XALc_0885    ------AG-CG----AUUAA-----UAGU-U-UG---ACA-----AUAGA
+XALc_2065    CUUG--GU-U-----CUCUG------CGG-C--------AUCC-------
+XALc_0659    CACC--GC-C-----CGGGA------AGG-C--------AAUA-------
+XALc_0011    CCUC-AGU-C-----AUGAC-----GCGA-CU--------GUA-------
+XALc_2946    GAAC-UGA-C-----AUUAC------AGG-CA-------AGGC-------
+XALc_2473    CAUCGCGU-CGU--UCGCUGC----UUGA-CG-------UCGAUCU----
+XALc_1278    CAAG-----------CUGAA-----GC---------------G--U----
+XALc_2027    GAUA--UC-C-----CGGAAU---UGUGG-A-----------A-------
+XALc_1136    CAA--CGC-UG----AUUCG-----GCGG-CGA------AGGUUCCC---
+XALc_2798    UAAA--GU-UA---CAGGCG-----ACAA-C-C------G-----UU---
+XALc_1784    -----CGC-CA----AGCA--------GGCCGU------UUGAGCGG---
+XALc_2967    CAUC--G--UG----CGCACU----AUA--C-G------GUGA--C----
+XALc_1417    CAAAG----CGA-UA-UAC-AA--GUCG-------------CAUC-----
+XALc_1794    GAAA-----------CUCAG-----GC-------------ACA-------
+XALc_0741    GCUG--GG-CG----CCGU--------GA-C-----------AAC-----
+XALc_2727    CAUACCA--------CUUUC-----GC---UGCG----UCUCCAC-----
+XALc_0510    -----CAC-UA---CCGCU--------GG-UG-------AUCUUC-----
+XALc_2417    GAAA-CA--------AGGAA-----GC---UG-------AUGCUGU----
+XALc_1763    GAAAU-----A----CUCAGC----GC------------GAGA-------
+XALc_1364    GAUG-GAG-UG----AAGUGA---CACAG-UC--------UGA--AU---
+XALc_1065    ------GG-CA----CUGAG------CGC-C-A------U--AUCGU---
+XALc_2306    GAAG-UAA-CG----CGUC-------CGG-CAG-----GU----CGC---
+XALc_2356    GAUCGCAG-CG---UCGCUG------UGG-UG-------U--AUCU----
+XALc_0919    GCAC-UUC-C-----AGCACG----ACGA-AA-------AAGA-------
+XALc_0184    GAAG-UGGAC-----AUCAG------CGU-CG-------AAGAAC-----
+XALc_2584    GAUU--G--------AGCUG-----GC---C--------AGCGUCGGU--
+XALc_3146    GAUC-----C-----AGCAGA----UCG----G-----UCUGAUC-----
+XALc_1866    GAUA--UU-U-----CAGA--------GA-U-----------U-------
+XALc_2981    ------GA-CG---ACUGG--------GU-C-----------U-------
+XALc_1020    CAU--UG--------CGGUU------C---CA----------A-------
+XALc_0836    -----CGG-CA----UUGAGA----GUGCGCG----------AUCUGC--
+XALc_2013    CAAC--G--------AUGC-----------C---------UGAGC-----
+XALc_0967    CAAG-UA---A---GCGGA-----------UAC-----GC---ACAA---
+XALc_2667    GA----G--------CUGA-----------C---------GCA-------
+XALc_0331    -----UGG-CG----CCGCCU----CCGG-CA----------A-------
+XALc_0557    GAAC-AAG-UG----AUCGG-----ACGU-UUC-----UA--GUC-----
+XALc_2587    -----CGG-AA---GACGAC-----UUUC-CG--------UGAU------
+XALc_0580    GAAU-UGA-CG---GCACAC-----CCGG-CA--------AGUUCCCGAC
+XALc_1346    GAAU-UG--CG----CUGACG---UUUG--CG----------U-------
+XALc_0090    CAAAU--U-AGU--U--CAGUA--CGUUG----------AUGUUG-----
+XALc_0964    UAUC-GGA-UA----AGCA-------AAU-CC----------AUG-----
+XALc_0702    UAUG-UUG-AG----AGUA-------CUC-AA-------UAUAUC-----
+XALc_0899    GAUG-----CA----AUGA--------G------------UGAAC-----
+XALc_2184    ------U--------CCGA-----------A-----------A-------
+XALc_0917    -----CCG-CGC--CAUGC--------GC-GGG-----UUGGUU------
+XALc_2681    GA----GU-CGG-GAAUGAC------CGA-C-C------A-----A----
+XALc_1362    CAUG-----------AGUU--------------------CUGAUCC----
+XALc_2155    CAUU--GU-UGG--GCUGAG------CGG-C-GUG--GGUUGU-------
+XALc_0327    CAAU-CCG-UA----AGGCC-----GCGC-UGUA----AAAGCA------
+XALc_2915    -----CC--------CUUAC------C---UG--------CGU-------
+XALc_1477    CUUG-CAG-UUUUAACUGAC-----GAAC-UG--------CGAUGU----
+XALc_1651    -----UG--------CUCAG-----GU---CAUG---CGGUUAUC-----
+XALc_2903    GA---CCG-CG----CGGCC------UGC-GGC-----ACUCG--A----
+XALc_0933    UAAG-ACG-CG----CUGAUG---GCCGA-GU--------GCGUC-----
+XALc_1926    CAUG-CA--------CGUUGUC--UCC---UG-------AUCAAC-----
+XALc_1909    CAUAA----------CGCACU----AA-----UUC--AAUUCAACCU---
+XALc_2882    GAAG-CGC-UG----AAGUC------CGG-CGC------CGCUUC-----
+XALc_1369    GAU------CG----CUUCCCG--AGCG----ACC--CACACAACAC---
+XALc_0671    -----CG--CG----AGCAC------UG--CG----------U-------
+XALc_0493    GAAG--GA-CGG-CAAGUAA-----GCGU-C---------UGU-------
+XALc_1012    CAAA-----------ACGU-----------------------UUC-----
+XALc_1033    GAUG-UA--------CUCU-----------UG--------UGGUCUA---
+XALc_2787    ------GG-CG---GCUCUA------CGU-C---------UGCAC-----
+XALc_2448    ------GG-CG----AUGUAAG--CGCGC-C---------CCAUCUG---
+XALc_2349    GUUG--AG-CA---CAGCCGA----GCGC-U-C------GGGUUGC----
+XALc_2522    -----UGG-C-----CGGAC------UGC-CGUA---AUCACAUCC----
+XALc_1352    CAAC---G-UG----CUGUC-----GUGC----------GUUA-G-----
+XALc_0866    GUUG--AU-CGUGCCAUAAG-----CUGA-U-C------GUGAGCCA---
+XALc_0959    CCUG--GC-CG---CAUGA--------GG-U---------UGA-------
+XALc_0427    -----CG--CG----CGCAAG----GCG--CG--------CCAUG-----
+XALc_2870    GAUG--GG-CG----CGUCGU----GCGA-C-G------CUUU-------
+XALc_2807    GCUG-UU--------AUCAA------C---AAG------UUAA-------
+XALc_1440    CAUU--U--------CCGCG------C---U--------AUGAAC-----
+XALc_0972    GAUC-CA--------CGCC-----------UG----------CACG----
+XALc_2630    GUUUC-C---G----CGGAG-----GC---U-GUU-UGGUUUA-------
+XALc_0878    -----CGU-C-----AUUCC-----UCGA-CG----------UUCGC---
+XALc_0328    UAAG-UUA-C-----CGCG-------CGU-AA----------AAGC----
+XALc_2151    -----AUG-C-----CUUG--------GC-AU--------GCA-------
+XALc_2880    -----CGG-UU---CCUGA--------GC-CGC------GGCGUC-----
+XALc_1358    CAUC-AA--------AUAAG-----UA---UUG------UGCA-------
+XALc_1488    CAAUCUA--------CGGUAA----CC---CA--------UCA--C----
+XALc_2834    -----CAG-CG----CGCCG-----CCGU-UG----------A-------
+XALc_1729    -----CG--------CCCU-----------CG----------C-------
+XALc_0256    -----CGG-CG---GACUC--------GA-CG----------A-------
+XALc_1144    GAUG--GC-A-----AUGAC------CUG-C-----------G-------
+XALc_2869    -----CG--------CUGCC-----AC---CGCA---CAAUGAAA-----
+XALc_1670    -----CG--------CACC-----------CG--------CGA-------
+XALc_0984    GA----GU-CG----CUGAGU----GCGA-C-----------A-------
+XALc_1987    GUAG-CG--------CGCC-----------CGC------AUCCACA----
+XALc_0110    -----UGG-U-----CGCAGA---AUCGC-CAUU----GUUGAUCG----
+XALc_0002    -----UUC-C-----ACGU--------GG-AAC------AAGUACA----
+XALc_0534    GAUUGUUA-UA----CUGU--------AU-GA----------AUCCU---
+XALc_2983    CUAA--GC-CA---GCCGA--------GG-C-CA----AG--UUGC----
+XALc_2303    -----CCG-CG----CCCACC---CGCGC-GG-------UCCAUC-----
+XALc_1580    GA---CGA-GG----CAUAG-----CCGU-CG----------A-------
+XALc_2326    GAAC-UG--------AUCCAU---UGU---CA--------ACAAC-----
+XALc_1301    GAA--CGC-CG----CUGAC------UGG-CGCGC--ACUACAUCC----
+XALc_1984    CAAGUAAG-CG----CGAC--------GC-UUCAG-UGUAAG--------
+XALc_2244    GAAG---U-CG----CGCA--------GG---A------CUCA-------
+XALc_0737    GAUCC-----A---CCCCUC-----GC------------GAAUAC-----
+XALc_0635    CAUG-----------CGGUG------C-------------UGA-------
+XALc_1616    GA----GC-CG----AUUGG-----GGGG-C---------UGAUCUU---
+XALc_0504    GAAG-UA--------AUUG-----------CA----------A-------
+XALc_0376    UAUC-CGG-CG---GCUGA--------GC-CGCAG-ACGGCCAUC-----
+XALc_1911    GCAG--GG-CG---ACUGAUC---CCCGC-C---------UCUUCUG---
+XALc_3053    GAAA-AA--------CAAAC-----AC---UU----------A-------
+XALc_1131    CAUU--G--------CGGA-----------C-GG----CUUGGUCCGC--
+XALc_3040    CAUU-----------CUGAU-----CC------------GGCAUC-----
+XALc_2153    -----AUG-C-----CUUG--------GC-AU--------GCA-------
+XALc_0766    CAAA--GG-CG----CUCCCGC-CGAUGC-C---------UUGUC-----
+XALc_2991    GCAG-GA--------CUGAGC----GU---UC----------ACC-----
+XALc_0459    CAUC--GC-CG----AGGC--------GG-C-UUG--AUGUCUUC-----
+XALc_0798    GAUC---G-CG----CUGCC-----GCGC---U------GCGAUCGU---
+XALc_0047    GAAAUAAU-UA----AUUAAA----UCAA-UU----------A-------
+XALc_1132    GAUC--GC-C-----CCCA--------GG-U-CU----CUCCAAC-----
+XALc_1617    GCAG-GAU-CG---CAGCU--------GA-UCCC---ACCCCAAC-----
+XALc_0312    CAUG-CG--CU---CCGGAGCCAAAUCG--CG----------AUCC----
+XALc_0657    CCUG-AUC-CG----CGCUC-----GCGG-AUCG----GUGCGAC-----
+XALc_2766    CCAG-GA--------CUGA-----------UC--------GCUUC-----
+XALc_0018    CAAG-CA--------UUGA-------A---UG----------C-------
+XALc_0492    ------UU-CG---U-UGUAC---GUCGA-U---------UGA-------
+XALc_0982    GUUG-----------AUGC-----------------------AUG-----
+XALc_0541    GA---UUU-CU---AAACAGG----GCGA-AAC-----CUACU-------
+XALc_0081    GAUA--UG-UGA--ACGCAA-----UCGG-G-U-----AUAGAAG-----
+XALc_3039    GAUG--GG-UU----CUGAG------CAU-C-C------GUGUUC-----
+XALc_0662    GAUU-CG--------AUGGGU----GC---CG--------UUU-------
+XALc_2200    GAAAA-CA-CG---AUUGA--------GU-U-----------AUC-----
+XALc_1070    GAAGC----------UGUAG-----GC------------GGUAUCCG---
+XALc_2694    CACG-CCG-C-----AUGCGC----GAGU-GG--------AAAAC-----
+XALc_1068    -----CAG-AG----CGCA--------UC-CGC------AACAUC-----
+XALc_2177    CAAG-CCG-UG----ACGC--------AC-GG-------CCGC-------
+XALc_1884    -----AGU-CGGUCUUGCA-G---UGCGA-UU--------GCU-------
+XALc_2082    CAAA-UA--------UUGAG------C---UAG-----CCGCA-------
+XALc_0064    GAUG-CGG-UGU--GCGCC--------GC-CG----------CUC-----
+XALc_1786    CAUCA-----G---UAGGA-------------UUU--AAG-----UG---
+XALc_0460    CAAGA---------UCUAAAC---CAC-----GU----CCACU-------
+XALc_1034    -----GU--------CUAC-----------AC--------GCA-------
+XALc_2131    GAAC-UGAAC-----AGCAG-----GCGU-CA----------A-------
+XALc_2726    -----GCA-CG----CUGAG------CGU-UC--------ACAAC-----
+XALc_2886    GAAA-UGC-UGA-AUCGGA--------AG-CA----------C-------
+XALc_2693    CACG-----------CUGU-----------------------AAC-----
+XALc_0102    CAAC-----------CUGC-----------------------AUC-----
+XALc_0586    GAUC-CGG-CA----AUAAG-----GUGA-CG--------CCAUG-----
+XALc_2556    -----CCU-CG----CUCAGC---CUAGG-UGA------CGUAAC-----
+XALc_0277    CCUG-CUG-CG---CAUGAA-----AAGC-AGCG---ACG---UGCA---
+XALc_0375    GAUG-----------CUCGG------C-----U-----UUUGA-------
+XALc_0395    CA---CG--------CUGAU------C---CG----------AUG-----
+XALc_2673    -----CG--C-----CGCCC------CG--CG--------UCAGCGC---
+XALc_0722    GAAU--CA-CG---ACGCAGA----CCGU-U-A-----CUACAUC-----
+XALc_1872    -----CCC-UG----CGAAA-----AAAG-UG-------GUGA-------
+XALc_0212    GCAG--GG-C-----AGGCG------CGC-C---------UGAUGG----
+XALc_2961    GACU-UAG-UG---CAGCA--------GU-CA--------ACAACC----
+XALc_0337    GAUG-CAA-UA----ACGU--------AU-UG----------C-------
+XALc_0332    CAUCU-AU-CGC--C--ACGC----CCGA-U-UG---CGC--UUGAA---
+XALc_2725    CAAU--GG-CGU--A--CAAU---CGAGC-C-A-----CUUCAAGG----
+XALc_1036    CUAA-UUA-CU---AAGUAA------CGU-AA----------AUGG----
+XALc_2067    GAAG-UAA-CA----ACCAAG----CCGU-CG--------UGU-------
+XALc_1446    GUAA--UC-C-----CUGCGG---CCCGG-A--------U--A-------
+XALc_1669    CAAAC-----A----CACAA------A-----G-----AGAGG-------
+XALc_1687    GA----GG-CGG--ACGGU--------GU-C-G------GUGUU------
+XALc_2971    CAAAACAC-CA----CCUA--------GG-CG----------UUCG----
+XALc_0918    -----UGU-CG----CGCA--------GA-CG----------A-------
+XALc_1227    GA---CGU-UU---AAUUU-------CAG-CG--------UGA-------
+XALc_2290    GAAA--GG-C-----UCCA--------GG-C-----------A-------
+#=GC SS_cons ::::.<<<.<_...._____......_>>.>>........-----.....
+#=GC RF      GAag.CGc.CG....CugAg......CGg.CG........uGAUC.....
+
+XALc_2320    ----CCUU---G-C-CUC--CG-GCGC----G-CC---------------
+XALc_0053    -----UCC---C-G-UGC--CG-AUGU----GCCGCAACCU----GCGGC
+XALc_2395    -------A---A-G-AAG--CC-AGGC----AU-U---------------
+XALc_2968    -----UUU--AG-G-U----CG-GCCC---AUUCC---------------
+XALc_0538    -----------C-G-AUC--GC-UGUC----GUAA---------------
+XALc_1104    ----CCUA---A-C-GCC--GG-GAGC----GCAA---------------
+XALc_2627    -------A---A-G-AAG--CC-AGGC----AU-U---------------
+XALc_0865    -----GCG---A-A-CGG--CA-GCGUC--UUGCG---------------
+XALc_0032    ---AGCAU---A-A-AAC--CC-CAGG----UUCG---------------
+XALc_1733    -----CCG---A-C-ACG--GG-CACC----GCAA---------------
+XALc_0814    ------GG---A-A-AAG--CC-GGCG----GUGA---------------
+XALc_2526    ---CUGAG---A-A-AGC--CG-CUGG----UUCG---------------
+XALc_0494    ------UU---G-G-GGA--UG-CGCC----UCCACAAUA------AUGC
+XALc_1989    -----CCG---C-A-GGC--GC-CGUC----GCAACA------------U
+XALc_0932    -----UGC---G-A-CAG--GC-CGCC----UGCA---------------
+XALc_1365    -----CCA---A-C-CCC--GG-GAGA----GCAA---------------
+XALc_0168    ------AU---C-G-GAG--UG-CGCC----AUAC---------------
+XALc_0054    ------AU---C-C-CGU--GC-CGAU----GUCCGCCGCAGGUUGCGGC
+XALc_2714    ----GGGC---G-G-UGG--CA-GGCC----UCCUCG-------------
+XALc_2442    -----GCC---C-U-UGG--CC-ACCC----AUCGC--------------
+XALc_2516    ------GG---A-C-AGG--CC-GCCC---CAACC---------------
+XALc_2314    ------AU---G-A-CGG--GC-CGUG----UCCU---------------
+XALc_2918    ---AGACG---C-A-AAC--GG-GCCC----GAAC---------------
+XALc_2216    ------GG---C-G-CGC--CA-CCGU----UCCUC--------------
+XALc_2969    ------UG---C-C-AAC--GA-CAGC----CUCGCCA-----------G
+XALc_2141    -----UUG---C-G-ACC--GA-CAGC----ACCCAA-------------
+XALc_0291    ------AC---A-A-AAG--CC-CGGC----UCCG---------------
+XALc_0962    -------------A-ACA--CC-CCGCA--AUCAC---------------
+XALc_0802    -------------G-CGG--CG-GUCC----AUCCUGC-----------C
+XALc_2580    -----GUG---G-U-CCG--CU-GCCU----G-CA---------------
+XALc_0772    -----CGG---A-G-U----CC-AAUC----GGGA---------------
+XALc_2773    ---GCGUG---C-A-AGC--GG-CCCC----AGUGG--------------
+XALc_0616    -----AUG---C-A-AAA--CG-CCGC----UGACC--------------
+XALc_1056    -----CGC---A-C-UUG--CC-UGAC----AUGCGUC----------CU
+XALc_0551    -----------C-U-GCA--CG-GCGC----CCCU---------------
+XALc_2846    -----ACG--CA-A-AAG--CC-CCGC----UAAA---------------
+XALc_0319    ------AA---A-G-AGC--CC-CGCA----GCGA---------------
+XALc_2195    -----------A-C-AAC--GG-CUCC----GCAA---------------
+XALc_1035    ------AA--CG-A-CGA--GA-CGGC----CCAG---------------
+XALc_0087    -------C---A-G-CAC--CGCUUGC----GUGU---------------
+XALc_1677    -----CCG---G-G-GCC--CG-GCAG----GGGGA--------------
+XALc_1113    ----------------UG--CG-ACGAC--GGUCA---------------
+XALc_1836    ----AUCC---A-G-U----GC-ACGA----GCAUUU------------A
+XALc_1235    -----AGC---A-A-GAA--CC-CCGC----UCCG---------------
+XALc_2130    ------UC---G-G-CCA--CC-GACCC--GUACA---------------
+XALc_1857    ----CCGC---G-A-AUC--UU-CCGG----AGCC---------------
+XALc_2604    ------GU---G-G-UCU--CC-CCC-------CG---------------
+XALc_0023    -----UAC---G-C-GGC--GGACCAU---UUUCC---------------
+XALc_2680    -----AAG---A-U-GGG--CC-GGGA----AUAU---------------
+XALc_0397    -----UGA---A-A-AAG--CC-CCGC----UUCU---------------
+XALc_1022    ----CUCG---C-A-GCG--UGAUGGA----CGCCG--------------
+XALc_0818    -----ACA---C-G-CGC--CA-UCGC----U-CA---------------
+XALc_2197    -------------G-ACG--GU-GGAC----CUCG---------------
+XALc_1208    -------------A-CAC--GG-GGUC----UUCU---------------
+XALc_1615    -----GGU---G-C-CGG--GC-GGCG----ACAA---------------
+XALc_2665    -----CCG---G-G-AAA--CC-CGGC----UUCG---------------
+XALc_2626    ------CC---G-G-UGA--CG-GUGC----UG-C---------------
+XALc_0874    -----AGA---A-C-GGC--AG-UGUC----UCUU---------------
+XALc_1783    ------CG---G-G-AGA--CG-ACGC----GAUCCG------------C
+XALc_0979    ------GC---U-G-ACC--CG-CGCC----CGCG---------------
+XALc_2524    ---AGUCG---C-G-CUG--UUCCGGU----GCGG---------------
+XALc_0169    ------UG---C-C-CGG--CG-CAG-------CA---------------
+XALc_3077    -------------A-AGC--CC-GGUC----UCAC---------------
+XALc_0594    -------G---A-C-AGG--CC-CGGC----UGGCA--------------
+XALc_1956    ------UA---A-A-U---------AA----UU-U---------------
+XALc_1908    -------------G-CGC--GUCCAGC----ACUG---------------
+XALc_3061    ------AG---A-A-CGG--GA-UGGCC--GUGUG---------------
+XALc_1071    ----CCUG---C-C-GCG--GA-CGGA----A-CU---------------
+XALc_0909    ----UAAC---G-C-CCC--CG-UGCC----UUAC---------------
+XALc_2394    ------CC---G-G-UGA--CG-GUGC----UG-C---------------
+XALc_0506    -----UGA---A-G-GCU--GG-GGGC----GCGA---------------
+XALc_1567    -----GUU---G-G-AUG--UU-GUAG----CCCG---------------
+XALc_2844    ------AG--UA-U-GGU--GG-CGGU----CGCGA--------------
+XALc_0885    -AAGUGCG---C-G-CCA--GUCCGUC----UUUG---------------
+XALc_2065    -----------A-C-CGC--CG-CCGC---CUCAG---------------
+XALc_0659    ------CC---G-C-CGC--CG-UUGC----GCAA---------------
+XALc_0011    -------------A-ACG--CC-ACCG----GCAA---------------
+XALc_2946    -----------G-G-UCC--GG-GCCG----UGAA---------------
+XALc_2473    ----GCCA---G-G-CCU--GC-UCCC----AGUGA--------------
+XALc_1278    -----GGG---A-A-ACG--GC-CAGG----GCGA---------------
+XALc_2027    ------GA---A-A-AAG--CC-GCGC----ACCG---------------
+XALc_1136    ----GACG---A-A-GGC--CG-GCGC----AU-----------------
+XALc_2798    ---AAUGC---A-G-CGC--GG-AUGC----AGAUCAUCGC----GUCAC
+XALc_1784    ----GACG---G-G-AGA--CG-ACGC----GUGCGG------------A
+XALc_2967    ----UGCC---A-A-CGG--CA-GCGU----GGCAA--------------
+XALc_1417    -------------A-GGC--CC-ACCC----GCAA---------------
+XALc_1794    -----ACG---C-A-UGG--CG-GCGCC--GGCAA---------------
+XALc_0741    -------------G-CCG--CC-ACGC----UUCG---------------
+XALc_2727    -----CCG---C-G-CUG--CG-CCA-------UG---------------
+XALc_0510    -------------C-GGA--CC-UCG-----GCAA---------------
+XALc_2417    ----AGGC---A-U-GGC--GG-CGCC----GGCA---------------
+XALc_1763    ------GC---A-A-AGA--AG-CGGA----CGAAA--------------
+XALc_1364    ----AGAU---G-G-CGG--GU-CGCA----ACAA---------------
+XALc_1065    ----CCCC---C-U-CCU--GG-CGGC----GUGU---------------
+XALc_2306    ----AUAC---A-A-AAG--AA-GCGCC--GUUCG---------------
+XALc_2356    -----CUG---A-A-ACG--CC-CCAC----GU-U---------------
+XALc_0919    -----------A-A-AAG--CC-CGGC----UUCC---------------
+XALc_0184    ------UU--GC-A-G-----------------CA---------------
+XALc_2584    --GGCCGC---G-C-CCU--GU-CGGG----CUAU---------------
+XALc_3146    -----GGU---G-A-GCG--GCGACAU----U-CG---------------
+XALc_1866    ------CU---A-A-A---------UU----UCCC---------------
+XALc_2981    -----------G-A-GAG--GC-CUGC----UGAUCGGG---------CA
+XALc_1020    -------G---A-A-AAA--GC-GGGC----UUCG---------------
+XALc_0836    ---GCCAG---G-G-CCC--CG-GUGU----CGUG---------------
+XALc_2013    ------GC---G-A-UGC--CU-CCCG----UGCG---------------
+XALc_0967    ----UCGG---A-A-AAG--CC-CACC----CCCGC--------------
+XALc_2667    ------CU---G-A-CGC--AU-CCGC----UGCCA--------------
+XALc_0331    ------CG---C-G-AAC--GC-CCGC----CGAAC--------------
+XALc_0557    -----UCAA-GC-A-AAG--CC-CGGC----CUCG---------------
+XALc_2587    -------------A-AUG--CGUGGAU----GAAG---------------
+XALc_0580    CCGCAACG--CA-A-CAG--GG-CGCC----ACAU---------------
+XALc_1346    -------------U-AUA--GC-CCGG----GGUGCU------------A
+XALc_0090    -----AUG---AGC-GCG--GG-GCGU----UUUG---------------
+XALc_0964    -----CAC---G-A-CGG--CG-CGG-----ACAA---------------
+XALc_0702    ------GA---A-A-A---------AA----UUCG---------------
+XALc_0899    -----CCG---G-A-ACG--CG-CCGC----AUCU---------------
+XALc_2184    -----------G-G-UGG--CG-CUGA----CCAGU--------------
+XALc_0917    -----GAC---G-A-AAG--CC-CCGC----UUCG---------------
+XALc_2681    -----UCG---G-A-AAC--GC-CGGC----GUAU---------------
+XALc_1362    ----AGGU---G-G-UCG--UC-AUGCC-AUGUCG---------------
+XALc_2155    -------G---C-U-GGU--CG-CGGC---CGGUC---------------
+XALc_0327    -----CGC---G-C-CCG--CG-UCGC----AGCG---------------
+XALc_2915    -----------G-C-G----CC-GCGC----UCAA---------------
+XALc_1477    -----CGC---C-G-CUC--GC-GCUU---GAUGG---------------
+XALc_1651    ---------------------G-CGGC----AUAG---------------
+XALc_2903    -----CCG---C-G-UGC--GA-UGGC----AUGGA--------------
+XALc_0933    -----UGC---C-G-AUG--CC-GUGC----GCGCU--------------
+XALc_1926    -----ACG---C-A-CGG--GG-CGGC----CCUG---------------
+XALc_1909    ----GUGG---C-A-AGG--CC-GGGA----AAAC---------------
+XALc_2882    ------GCCCCA-A-ACG--CC-CCGC----UUCG---------------
+XALc_1369    ----ACCG--CA-C-GCC--CC-GGCA----GUAC---------------
+XALc_0671    -----------C-G-UCG--CC-GCAA----ACCG---------------
+XALc_0493    ------GC---G-G-UGC--CU-GGACC-AUCGUG---------------
+XALc_1012    -----GCG---A-C-GCC--GC-CGCC----GAAA---------------
+XALc_1033    ---UUACG---C-A-AAA--CG-GCGG----CUCGCA-------------
+XALc_2787    ------GG---A-A-AAC--GG-GCCG---CAACA---------------
+XALc_2448    ---GCAGA--CA-C-AAG--GC-CGCU----GGAUA--------------
+XALc_2349    -----CCG---A-C-GGG--AG-AGAC----GCAG---------------
+XALc_2522    ----ACCG---C-G-UUG--CA-GGCC----ACAGC--------------
+XALc_1352    -----CGA---A-A-GAG--CC-CGGC----A-AU---------------
+XALc_0866    ---UAAAG---A-U-UGC--AA-GGAC----GCGGGA-------------
+XALc_0959    ------CG---G-C-UCA--GG-CGCC----GACUG--------------
+XALc_0427    -------------U-CGG--CG-CGCG----GUGU---------------
+XALc_2870    -------------A-ACG--CC-GGCC----AUGG---------------
+XALc_2807    -----------A-U-U---------AA------AG---------------
+XALc_1440    ------CG---A-C-ACG-UCC-CCGG----CUCU---------------
+XALc_0972    ----CCGA---C-A-GUG-CGU-UCGU---CGCCG---------------
+XALc_2630    -----------A-G-UCA--GG-CCGCC-ACGGCG---------------
+XALc_0878    ----AUCU---C-C-CGG-CCU-CGC-------CC---------------
+XALc_0328    ----AUUC---G-C-CCG--CG-UCGC----ACCC---------------
+XALc_2151    ------GG---G-A-UGG--CG-CCGC----AC-----------------
+XALc_2880    -----CGU---C-C-GCC--GU-GCGC---UGUAU---------------
+XALc_1358    ------CC---G-C-CGG--GC-UGGA----GCCUUUG----------GC
+XALc_1488    -----CGG---C-C-UCA--UA-CGAU----UUUCG--------------
+XALc_2834    -----AUG---C-C-GUC--GC-GCGG----UGAGU--------------
+XALc_1729    ------GC---A-G-ACG--CACGUGG----ACCUG--------------
+XALc_0256    -----UGA---A-A-ACG--GG-CCGG----CUUA---------------
+XALc_1144    -------------G-CGG--GGCUCGG----CGAC---------------
+XALc_2869    -------------A-ACA--CC-GGCC----ACCA---------------
+XALc_1670    ------CG---C-A-GAC--GC-CGGG----CAAU---------------
+XALc_0984    -----------G-C-GUC--CG-CCGC---GUGAC---------------
+XALc_1987    ----AACGA-AG-A-AGG--CG-GCGC----AAAU---------------
+XALc_0110    -----ACA---C-A-CAA--CC-CGCC----ACCU---------------
+XALc_0002    -----AAG---G-A-ACG-ACC-CGGC---CUCCC---------------
+XALc_0534    ----UCCG---C-G-AAG-ACG-CUCC----AUUUC--------------
+XALc_2983    ----ACGC---A-G-CAU--GC-ACGC----CGUU---------------
+XALc_2303    -----CCG---C-C-GCG--CG-ACGU---AUCCA---------------
+XALc_1580    ------AC---G-G-CGA--GGCAGGA----AGCGA--------------
+XALc_2326    -------------------------AA----CCUC---------------
+XALc_1301    -----UAG---C-C-GUC--UC-GCCC----UGUAAGCA--------AGU
+XALc_1984    -----AUG---A-U-UGC--GC-CGGC----AGUGA--------------
+XALc_2244    -------------G-C---------AC----AGAG---------------
+XALc_0737    -------------G-GCG--GU-CCGG----GCACG--------------
+XALc_0635    ------CG--CA-A-AAA--GC-CGGC----ACUG---------------
+XALc_1616    ---GCCGU---G-C-CGG--GC-GGCG----UUGU---------------
+XALc_0504    -----------C-A-CGG--CG-CCGC----CCGCGA------------G
+XALc_0376    ------GGCCUG-C-CGG--GCAACGC----GUUG---------------
+XALc_1911    ---CGUCG--CC-A-GGG--CC-CCGC----UCGU---------------
+XALc_3053    -------------G-CAG--CCGCCCC----AGAAA--------------
+XALc_1131    ---ACGCA---A-A-AUG--GC-CCGC----G-CU---------------
+XALc_3040    -----CUG---C-G-CUG--CC-GGUG----CCUG---------------
+XALc_2153    ------GG---G-A-UGG--CG-CCGC----AC-----------------
+XALc_0766    -----CGG---C-A-GAU--GC-CGCU----UGCGC--------------
+XALc_2991    -----GCG---C-A-GCG--CGGCGGC----ACUUCC-------------
+XALc_0459    -------------G-CCC--CA-CGCC----GCCGA--------------
+XALc_0798    ---UCGAC---G-A-GCA--GC-CCGC----AUCC---------------
+XALc_0047    ------UU---U-A-A---------AU----UGAA---------------
+XALc_1132    -----GCA---A-A-AAG--GC-CCGC----AG-C---------------
+XALc_1617    -----ACA---A-A-AAA--GC-GACC----UUCG---------------
+XALc_0312    ----AGUG---C-C-G----------U----GACG---------------
+XALc_0657    -----CCA---A-C-CCG--CC-CCGC----CUCU---------------
+XALc_2766    ------GC--AC-A-GCC--GG-GCGC----CUACA--------------
+XALc_0018    -----------C-C-CCC--GG-UAUC---GUGAC---------------
+XALc_0492    ------GG---G-U-UGG--GA-UGGG---CGUUG---------------
+XALc_0982    -------------C-AGA--CG-GCGC----G-CG---------------
+XALc_0541    -------------A-GGC--CGCGCCC---GAGCC---------------
+XALc_0081    -----GCG---A-U-CAC--GA-CAG-------CG---------------
+XALc_3039    ------GG---A-CUCGG--GG-CGAU----GGCA---------------
+XALc_0662    -------------C-AGC--GA-UGGC----GGCAU--------------
+XALc_2200    -----GCG---G-A-A----GG-CGGC----GCAA---------------
+XALc_1070    ----AAUU---C-A-U----CC-AUGC----AACAC--------------
+XALc_2694    ------CA---A-A-GAG--CC-GGGC----GU-U---------------
+XALc_1068    -----CGC---C-A-UCG--GGCCGAC----AU-----------------
+XALc_2177    ------UG---A-G-CGG--CG-GAUU----UCCUCG------------U
+XALc_1884    ------CC---C-A-UGG--CAGGCGC----GACA---------------
+XALc_2082    -------------C-AGG--CC-AGG-----GAUG---------------
+XALc_0064    -----UGC---C-A-CCG-UCA-GCGCU--UGUUG---------------
+XALc_1786    ----AAUU---G-C-CCC--CC-UGAA----GUUGGAC----------GA
+XALc_0460    -----------C-C-CAU--CU-CCGC----CGCUC--------------
+XALc_1034    -----------A-U-AAC--GG-CGGCC--UGCGA---------------
+XALc_2131    ------GA---A-C-AAG-CCG-GACC----ACAU---------------
+XALc_2726    -------------A-CGC--UG-CGCC----GCAU---------------
+XALc_2886    -------U---C-C-CUC--UU-UGAC----GACU---------------
+XALc_2693    -----GCA---A-A-GAG--CC-GGAC----A-AC---------------
+XALc_0102    -------------A-CCG--GC-UCGA----UGAA---------------
+XALc_0586    -----------C-C-GCG--GC-CCGC----AUCGUG------------C
+XALc_2556    ------CU---G-G-CGC--CA-GCAU---CAUCU---------------
+XALc_0277    ---AAAAG--CA-G-GAA--CC-GCACGGUUGCCG---------------
+XALc_0375    -----------G-C-CGG--GC-ACGC----CCAA---------------
+XALc_0395    -------C---G-C-AUC--CU-GGUC----GUCGAC------------G
+XALc_2673    ---GAAAG---A-G-CGC-CUG-CUGG----GU-U---------------
+XALc_0722    -------G---C-C-GUG--CG-GGUC----AUCGACGCCUGCCUGCGCG
+XALc_1872    -------------C-CGC--AC-CGGC----GCGCAG------------G
+XALc_0212    -----ACC---G-C-CGU--GU-GCGC----GCAGAGG----------GG
+XALc_2961    -----UGC---C-U-ACG--CG-GCUU----GCAC---------------
+XALc_0337    -----------C-C-CUC--UC-CUGC----CCAG---------------
+XALc_0332    ----AACG---C-G-AAC--GC-CCGCG--GUUCG---------------
+XALc_2725    -----UGA---C-C-C----GC-CGGC----UCCG---------------
+XALc_1036    -----AGA--CA-G-GGC--GC-CUGC----U-CG---------------
+XALc_2067    -------------C-CAC--GC-GCACAGGUGCCG---------------
+XALc_1446    ------GC---G-A-AAAGAGG-CGGC---CUGCG---------------
+XALc_1669    -------C---A-A-CAC--GU-CGGC----AGUG---------------
+XALc_1687    -------------G-CAG--CG-UGGC----AUUAACU-----------A
+XALc_2971    -----ACG---C-C-CCU-CCG-CCGC----ACAU---------------
+XALc_0918    -------------A-AAA--CC-CGGC----GGAA---------------
+XALc_1227    ------UC---G-C-CGA--GG-GGGC----AUGG---------------
+XALc_2290    -----------A-A-U---------AA----UUAU---------------
+#=GC SS_cons ......<<...<.<.<<<..<<.<<<<....____...............
+#=GC RF      ......cg...a.a.cgg..Cc.ccGC....gccg...............
+
+XALc_2320    --GCG-C--CG-GA-GGCAA
+XALc_0053    GGACA-U--CG-GC-ACGGG
+XALc_2395    --GCU-U--GG-CU-UCUU-
+XALc_2968    --GGG-C--CG----ACCAU
+XALc_0538    --GAC-A--GC-GG-UCG--
+XALc_1104    --GCU-U--CC-GG-CGUUU
+XALc_2627    --GCU-U--GG-CU-UCUU-
+XALc_0865    --ACG-C--UG-UC-GUUCG
+XALc_0032    --CCU-G--GG-GU-UUUAU
+XALc_1733    --GGU-G--CC-UG-UGUCG
+XALc_0814    --CGC-C--GG-CU-UUUUC
+XALc_2526    --CCA-G--CG-GC-UUUUU
+XALc_0494    GUUGC-G--CA-UC-UCCAA
+XALc_1989    ACGAC-G--GC-GC-CUGCG
+XALc_0932    --GGC-G--GC-CU-GUCGC
+XALc_1365    --UCU-C--CC-GG-GGUUU
+XALc_0168    -CGGC-G--CA-UU-CCGAU
+XALc_0054    ACAUC-G--GC-AC-GGGAU
+XALc_2714    UCGGC-C--UG-CC-ACCGU
+XALc_2442    -CGGG-U--GG-CC-AAGGG
+XALc_2516    --GGG-C--GG-CC-UGUCC
+XALc_2314    --UAC-G--AC-CC-GUCAU
+XALc_2918    --GGG-C--CC-GU-UUGUU
+XALc_2216    -CACG-G--UG-GC-GCGCU
+XALc_2969    ACGCU-G--CC-GU-UGGCA
+XALc_2141    ACGCU-G--UC-GG-UCGCU
+XALc_0291    --GCC-G--GG-CU-UUUGU
+XALc_0962    --GCG-G--GG-UG-UU---
+XALc_0802    ACGGA-C--CG-CC-GC---
+XALc_2580    --AGG-C--CG-CG-GACCA
+XALc_0772    --GAU-U--GG----ACUCC
+XALc_2773    AUGGG-G--CC-GC-UUGCA
+XALc_0616    CAGCG-G--CG-UU-UUGCA
+XALc_1056    AUGCC-A--GG-CA-AGUGC
+XALc_0551    --GCG-C--CG-UG-CAG--
+XALc_2846    -UGCG-G--GG-CU-UUUUU
+XALc_0319    --UGC-G--GG-GC-UCUUU
+XALc_2195    --GGG-G--CC-GU-UGU--
+XALc_1035    --GCC-G--UC-UC-GUUUU
+XALc_0087    --GCA-G--CG-GU-GCUG-
+XALc_1677    -CUUG-C--CG-GG-UCCCG
+XALc_1113    --UCG-U--CG-CA------
+XALc_1836    UAUCG-U--GC----ACUGG
+XALc_1235    --GCG-G--GG-UU-UUUGC
+XALc_2130    --GGU-C--GG-UG-GUCGU
+XALc_1857    --CCG-G--AA-GA-UUCGC
+XALc_2604    ---GG-G--GG-AG-ACCAC
+XALc_0023    --AUG-G--CC-GC-CGCGU
+XALc_2680    -AUCC-C--GG-CC-UUUUC
+XALc_0397    --GCG-G--GG-UU-UUUUC
+XALc_1022    -UUCC-A--CA-CG-CUGCG
+XALc_0818    --GCG-G--UG-GC-GCGUU
+XALc_2197    --GUC-C--AC-CG-UC---
+XALc_1208    --GGC-C--CC-GC-GU---
+XALc_1615    --CGC-C--GC-CC-GGCAC
+XALc_2665    --GCC-G--GG-UU-UCCUG
+XALc_2626    --GCA-C--CG-UC-ACCGU
+XALc_0874    --GAC-G--CU-GC-CGUUC
+XALc_1783    ACGCG-U--CG-UC-UCCCG
+XALc_0979    --GGU-G--UG-GG-UCAGC
+XALc_2524    --ACC-G-UGA-CA-GCGCG
+XALc_0169    ---CU-G--CG-CC-GGGCA
+XALc_3077    --GAC-C--GG-GC-UU---
+XALc_0594    UUGCC-G--GG-CC-UGUC-
+XALc_1956    ----A-A--UA----AUUUU
+XALc_1908    -GGCU-G-CAC-GC-GC---
+XALc_3061    --GCC-A--UC-CC-GUUUU
+XALc_1071    --UCC-G--UU-CG-CGGUA
+XALc_0909    --GGC-G--CG-GG-GGCGC
+XALc_2394    --GCA-C--CG-UC-ACCGU
+XALc_0506    --GUC-C--CC-GG-CCUUU
+XALc_1567    --CUG-C--AA-CA-UCCAA
+XALc_2844    AGGCC-G--CC-GC-CAUCU
+XALc_0885    --GAU-G--GC-UG-GCGUG
+XALc_2065    --GCG-G--CG-GC-GUU--
+XALc_0659    --GCA-G--CG-GC-GGCGU
+XALc_0011    --CGG-U--GG-CG-UU---
+XALc_2946    --CGG-C--CC-GG-ACC--
+XALc_2473    -UGGG-G--GU-GG-GCCUU
+XALc_1278    --CCU-G--GC-UG-UUUUC
+XALc_2027    --UCG-C--GG-CU-UUUUU
+XALc_1136    --GCG-C--CG-GC-CUUCG
+XALc_2798    GGGCA-U--CC-GC-GUUGC
+XALc_1784    UCGCG-U--CG-UC-UCCCG
+XALc_2967    -AACG-C--GG-CC-GUUGG
+XALc_1417    --GGG-U--GG-GC-UU---
+XALc_1794    --GUG-C--CG-CC-AUGCG
+XALc_0741    --GCG-U--GG-CG-GC---
+XALc_2727    ---CG-G--CG-CA-GCGUG
+XALc_0510    ---CG-G--GG-UC-CG---
+XALc_2417    --GGU-G--CC-GC-CAUGU
+XALc_1763    -GGCC-G--CU-UC-UUUGC
+XALc_1364    --UGC-G--UC-CC-GCCAU
+XALc_1065    --GCU-G--UC-GG-GAGGG
+XALc_2306    --GCG-C--UU-UU-UUUGU
+XALc_2356    --GUG-G--GG-CG-UUUUU
+XALc_0919    --GCC-G--GG-UU-UUU--
+XALc_0184    ----G-A--AA----UUGAA
+XALc_2584    --UCC-G--GC-AG-GGCGU
+XALc_3146    --AUG-A--GU-CG-CUCAC
+XALc_1866    --A-A-A--AA----UUUAG
+XALc_2981    UUGCA-G--GC-UU-UUC--
+XALc_1020    --GCC-C--GC-UU-UUUU-
+XALc_0836    --ACA-C--CG-GG-GCCUU
+XALc_2013    --CGG-G--AG-GC-AUCGC
+XALc_0967    -GGGU-G--GG-CU-UUUUU
+XALc_2667    -UGCG-G--AU-GC-GUCAG
+XALc_0331    -CGCG-G--GC-GU-UCGCG
+XALc_0557    -UGCC-G--GG-CU-UUGUG
+XALc_2587    --AUC-CUGCG-UA-UU---
+XALc_0580    --GGC-G--CC-CU-GUUUU
+XALc_1346    AACCG-G--GC-UA-UU---
+XALc_0090    --ACG-C--CC-CG-CGUCA
+XALc_0964    ---CC-G--CG-CC-GUCGU
+XALc_0702    ----G-A--AA----UUUUC
+XALc_0899    -UGCG-G--CG-CG-UUCUG
+XALc_2184    -CGCA-G--CG-CC-ACC--
+XALc_0917    --GCG-G--GG-UUUUUCGU
+XALc_2681    --GCC-G--GC-GU-UUUUU
+XALc_1362    --GCA-U--GA-CG-ACCAC
+XALc_2155    --GCU-G--CG-AC-CAGC-
+XALc_0327    --UCG-A--CG-UG-GGCGC
+XALc_2915    --GCG-C--GG----UGC--
+XALc_1477    --AAG-C--GC-GA-GCGGC
+XALc_1651    --GCC-G--CA---------
+XALc_2903    -CGCC-A--UC-GC-ACGCG
+XALc_0933    GAGGG-C--GG-CA-UCGGU
+XALc_1926    --GCCGG--CC-CC-GUGUU
+XALc_1909    --UCC-C--AG-CC-UUGCC
+XALc_2882    --GCG-G--GG-CG-UUUGC
+XALc_1369    --UGC-C--GG-GG-CGUUU
+XALc_0671    -GUUG-C--GG-CG-ACG--
+XALc_0493    --GUU-C--GG-GC-GCCGC
+XALc_1012    --GGC-G--GC-GU-UGUCG
+XALc_1033    GGCCG-C--CG-UUAUUGCG
+XALc_2787    --UGG-C--CC-GU-UUUUU
+XALc_2448    -CAGC-G--GC-CU-UUUUC
+XALc_2349    --GUC-U--CU-CC-CGUUG
+XALc_2522    GCGGC-C--UG-CA-ACGCG
+XALc_1352    --GCC-G--GG-CU-UUUUC
+XALc_0866    ACGUC-C--UU-GC-AAUCU
+XALc_0959    -CGGC-G--CC-UG-AGCUU
+XALc_0427    --CGU-G--CG-CC-GA---
+XALc_2870    -UGGC-C--GG-UG-UU---
+XALc_2807    ----U-U--AA----AAU--
+XALc_1440    -ACCG-G--GG-CG-UGUCG
+XALc_0972    --ACG-G--AC-CA-CUGUC
+XALc_2630    --GCG-G--UC-UG-ACU--
+XALc_0878    ---GC-G--AGCCC-GGGAG
+XALc_0328    --UCG-A--CG-UG-GGCGU
+XALc_2151    --GCG-G--UG-CC-AUCCC
+XALc_2880    --GUG-U--UC-GG-UGGAC
+XALc_1358    CAUCC-A--GC-GC-GGCGG
+XALc_1488    CUAUC-G--CA-UG-AGGCC
+XALc_2834    -GCCG-C--GC-GA-CGGCA
+XALc_1729    -GCCG-CGCUG-CG-UCUGC
+XALc_0256    --CCG-G--CC-CG-UUUUU
+XALc_1144    --CCG-AUGCC-CC-GC---
+XALc_2869    -UGGC-C--GG-CG-UU---
+XALc_1670    -ACCC-G--GC-GUUUUGCG
+XALc_0984    --GCG-G--CG-GA-CGC--
+XALc_1987    --GCG-C--CG-CC-UUCCG
+XALc_0110    --GGC-G--GG-UU-GUGUG
+XALc_0002    --GCC-G--GG-UU-UUCUU
+XALc_0534    UUGGA-G--CG-CUCUUGCG
+XALc_2983    --GCG-A--GC-GU-GCUGC
+XALc_2303    --GCG-U--CG-CG-CGGUU
+XALc_1580    -UUUC-U--CC-UC-GCCGU
+XALc_2326    ----A-A--AA---------
+XALc_1301    GCGGG-C--GA-GA-CGGCU
+XALc_1984    -UGCC-G--GC-GC-AAUUU
+XALc_2244    --G-A-A--CA----GC---
+XALc_0737    UACCG-G--AC-CG-CC---
+XALc_0635    -GGCC-G--GC-UA-UUUCG
+XALc_1616    --CGC-C--GC-CC-GGCAC
+XALc_0504    GUGCG-G--CG-UCGGUG--
+XALc_0376    -GGCG-U--GC-CC-GGCUC
+XALc_1911    --GCG-G--GG-CC-UUGCG
+XALc_3053    AAGGG-GUUGG-CU-GC---
+XALc_1131    --GCG-G--GC-CU-UUUUG
+XALc_3040    --CCU-C--GG-CA-GCGCA
+XALc_2153    --GCG-G--UG-CC-AUCCC
+XALc_0766    UGGGC-G--GC-AU-CUGCC
+XALc_2991    CCGCC-GCACG-CG-UUGCG
+XALc_0459    CCGGC-G--UG-GG-GC---
+XALc_0798    --GCG-G--GC-UGUUUCGU
+XALc_0047    ----A-U--AA----UUAAA
+XALc_1132    --GCG-G--GC-CA-UUUUG
+XALc_1617    --GGC-C--GC-UU-UUUUG
+XALc_0312    --AAA-A--AA----CGGCA
+XALc_0657    --GCG-G--GG-C-----UG
+XALc_2766    CGGCG-C--UC-GG-UCGGC
+XALc_0018    --GAU-G--CC-GG-GGG--
+XALc_0492    --CCU-G--UC-CC-AACUU
+XALc_0982    --GCG-C--CG-UCCUG---
+XALc_0541    --GGG-C--CG-GC-CU---
+XALc_0081    ---CC-G--UC-GU-GGUCU
+XALc_3039    --AUC-G--UC-CC-G--CC
+XALc_0662    -GGCCUA--UC-GC-UG---
+XALc_2200    --GCC-G--CC----UUCUU
+XALc_1070    -CGCA-U--GG----ACGAA
+XALc_2694    --GUC-C--GG-CU-CUUUG
+XALc_1068    --GCC-G--CU-UG-AUGGC
+XALc_2177    CGGGU-C--CG-CC-GCUUU
+XALc_1884    --GCG-C-AUG-CC-AUGGG
+XALc_2082    ---CC-U--GG-CC-UU---
+XALc_0064    --GCG-C-GUG-CG-GUGGU
+XALc_1786    ACUUC-A--AG-GG-GGCAA
+XALc_0460    UGGCG-G--GG-GU-GGG--
+XALc_1034    --GCC-G--CC-GU-UUU--
+XALc_2131    --GGU-C--CGCCU-UGUUC
+XALc_2726    --GGC-G--CA-GC-GC---
+XALc_2886    --GUC-A--GA-GA-GGGA-
+XALc_2693    --GCC-C--GG-CU-CUUUG
+XALc_0102    --UCG-A--GC-CG-GC---
+XALc_0586    AUGCG-G--GU-UG-CGG--
+XALc_2556    --AUG-C--UG-GC-GUCAU
+XALc_0277    --GUG-C--GG-UU-CCUCU
+XALc_0375    -CGCGUU--GC-CC-GGC--
+XALc_0395    AUUAU-C--AG-GA-UGCG-
+XALc_2673    --CCA-G--CAAGC-GCUCU
+XALc_0722    AGGAU-C--UG-CA-CGGC-
+XALc_1872    AUGCU-G--GU-GC-GG---
+XALc_0212    CAGCG-C--AC-GC-GGCGG
+XALc_2961    --ACG-C--UG-CG-UAGGC
+XALc_0337    --GCG-G--GA-GA-GGG--
+XALc_0332    --GCG-G--GC-GU-UCGCG
+XALc_2725    --GCC-C--GC----GGGUU
+XALc_1036    --GCA-G--GC-GC-CCUUU
+XALc_2067    --GUG-C--GC-GU-GG---
+XALc_1446    --GCC-G--CC-UU-UUCGC
+XALc_1669    -CGCC-G--GC-GU-GUUG-
+XALc_1687    ACGCU-G--CG-UU-GC---
+XALc_2971    --GCG-G--CG-A-----CG
+XALc_0918    --GCC-G--GG-CU-UU---
+XALc_1227    -GGUC-C--CC-UC-GGCGU
+XALc_2290    ----U-U--AA----AUU--
+#=GC SS_cons ..>>>.>..>>.>>.>>>>>
+#=GC RF      ..GCg.g..gG.cc.guucg
+//

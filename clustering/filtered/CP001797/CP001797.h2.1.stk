@@ -1,0 +1,666 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS PSM_B0626 WT 1.31
+#=GS PSM_B0042 WT 1.09
+#=GS PSM_B0448 WT 0.75
+#=GS PSM_B0633 WT 0.62
+#=GS PSM_B0598 WT 1.26
+#=GS PSM_B0202 WT 0.88
+#=GS PSM_B0324 WT 1.27
+#=GS PSM_B0168 WT 1.31
+#=GS PSM_B0567 WT 0.78
+#=GS PSM_B0406 WT 0.63
+#=GS PSM_B0623 WT 1.11
+#=GS PSM_B0255 WT 0.89
+#=GS PSM_B0635 WT 0.82
+#=GS PSM_B0394 WT 0.98
+#=GS PSM_B0437 WT 0.65
+#=GS PSM_B0334 WT 1.10
+#=GS PSM_B0197 WT 1.19
+#=GS PSM_B0594 WT 1.38
+#=GS PSM_B0274 WT 0.93
+#=GS PSM_B0592 WT 1.32
+#=GS PSM_B0469 WT 0.98
+#=GS PSM_B0581 WT 0.64
+#=GS PSM_B0634 WT 0.94
+#=GS PSM_B0636 WT 0.82
+#=GS PSM_B0640 WT 0.61
+#=GS PSM_B0568 WT 0.78
+#=GS PSM_B0444 WT 0.75
+#=GS PSM_B0580 WT 0.64
+#=GS PSM_B0065 WT 1.26
+#=GS PSM_B0485 WT 0.61
+#=GS PSM_B0405 WT 0.63
+#=GS PSM_B0170 WT 1.19
+#=GS PSM_B0315 WT 0.99
+#=GS PSM_B0486 WT 0.61
+#=GS PSM_B0058 WT 1.13
+#=GS PSM_B0490 WT 0.70
+#=GS PSM_B0591 WT 0.65
+#=GS PSM_B0317 WT 1.00
+#=GS PSM_B0193 WT 1.17
+#=GS PSM_B0291 WT 1.34
+#=GS PSM_B0465 WT 0.87
+#=GS PSM_B0016 WT 1.02
+#=GS PSM_B0464 WT 0.87
+#=GS PSM_B0358 WT 0.74
+#=GS PSM_B0009 WT 0.84
+#=GS PSM_B0419 WT 0.83
+#=GS PSM_B0093 WT 0.74
+#=GS PSM_B0489 WT 0.70
+#=GS PSM_B0175 WT 1.24
+#=GS PSM_B0583 WT 0.85
+#=GS PSM_B0493 WT 1.02
+#=GS PSM_B0427 WT 0.79
+#=GS PSM_B0305 WT 1.13
+#=GS PSM_B0436 WT 0.65
+#=GS PSM_B0179 WT 1.33
+#=GS PSM_B0461 WT 0.51
+#=GS PSM_B0188 WT 1.41
+#=GS PSM_B0052 WT 1.22
+#=GS PSM_B0478 WT 1.22
+#=GS PSM_B0114 WT 1.11
+#=GS PSM_B0425 WT 1.11
+#=GS PSM_B0140 WT 1.16
+#=GS PSM_B0339 WT 1.19
+#=GS PSM_B0256 WT 0.84
+#=GS PSM_B0370 WT 0.80
+#=GS PSM_B0169 WT 0.71
+#=GS PSM_B0482 WT 0.92
+#=GS PSM_B0165 WT 1.13
+#=GS PSM_B0408 WT 0.93
+#=GS PSM_B0288 WT 0.84
+#=GS PSM_B0249 WT 1.25
+#=GS PSM_B0199 WT 1.30
+#=GS PSM_B0638 WT 0.67
+#=GS PSM_B0615 WT 0.94
+#=GS PSM_B0113 WT 1.14
+#=GS PSM_B0081 WT 0.51
+#=GS PSM_B0235 WT 1.45
+#=GS PSM_B0254 WT 0.95
+#=GS PSM_B0383 WT 0.98
+#=GS PSM_B0518 WT 0.67
+#=GS PSM_B0206 WT 1.22
+#=GS PSM_B0135 WT 1.35
+#=GS PSM_B0240 WT 1.13
+#=GS PSM_B0502 WT 1.06
+#=GS PSM_B0589 WT 0.65
+#=GS PSM_B0201 WT 0.88
+#=GS PSM_B0187 WT 0.80
+#=GS PSM_B0006 WT 0.81
+#=GS PSM_B0096 WT 1.01
+#=GS PSM_B0641 WT 0.71
+#=GS PSM_B0287 WT 1.05
+#=GS PSM_B0513 WT 1.10
+#=GS PSM_B0384 WT 1.38
+#=GS PSM_B0556 WT 1.00
+#=GS PSM_B0257 WT 0.84
+#=GS PSM_B0389 WT 1.26
+#=GS PSM_B0431 WT 1.26
+#=GS PSM_B0517 WT 0.67
+#=GS PSM_B0178 WT 1.23
+#=GS PSM_B0616 WT 1.23
+#=GS PSM_B0167 WT 0.62
+#=GS PSM_B0021 WT 1.22
+#=GS PSM_B0499 WT 0.98
+#=GS PSM_B0304 WT 1.00
+#=GS PSM_B0487 WT 1.00
+#=GS PSM_B0290 WT 1.07
+#=GS PSM_B0435 WT 1.20
+#=GS PSM_B0593 WT 1.04
+#=GS PSM_B0142 WT 1.07
+#=GS PSM_B0545 WT 1.26
+#=GS PSM_B0399 WT 0.91
+#=GS PSM_B0637 WT 0.67
+#=GS PSM_B0038 WT 1.00
+#=GS PSM_B0418 WT 0.90
+#=GS PSM_B0424 WT 1.22
+#=GS PSM_B0303 WT 1.34
+#=GS PSM_B0560 WT 1.13
+#=GS PSM_B0055 WT 1.30
+#=GS PSM_B0397 WT 1.06
+#=GS PSM_B0543 WT 0.92
+#=GS PSM_B0631 WT 1.16
+#=GS PSM_B0341 WT 1.23
+#=GS PSM_B0064 WT 1.14
+#=GS PSM_B0221 WT 1.11
+#=GS PSM_B0532 WT 1.07
+#=GS PSM_B0483 WT 1.27
+#=GS PSM_B0388 WT 1.14
+#=GS PSM_B0292 WT 1.05
+#=GS PSM_B0037 WT 0.88
+#=GS PSM_B0151 WT 1.13
+#=GS PSM_B0539 WT 1.11
+#=GS PSM_B0007 WT 0.81
+#=GS PSM_B0029 WT 0.84
+#=GS PSM_B0128 WT 1.17
+#=GS PSM_B0109 WT 1.15
+#=GS PSM_B0379 WT 1.15
+#=GS PSM_B0131 WT 0.85
+#=GS PSM_B0326 WT 1.22
+#=GS PSM_B0276 WT 1.37
+#=GS PSM_B0584 WT 0.52
+#=GS PSM_B0190 WT 1.26
+#=GS PSM_B0577 WT 0.99
+#=GS PSM_B0316 WT 0.83
+#=GS PSM_B0585 WT 0.52
+#=GS PSM_B0415 WT 0.88
+#=GS PSM_B0445 WT 1.14
+#=GS PSM_B0273 WT 0.84
+#=GS PSM_B0605 WT 1.01
+#=GS PSM_B0611 WT 1.19
+#=GS PSM_B0344 WT 0.95
+#=GS PSM_B0260 WT 0.61
+#=GS PSM_B0141 WT 1.22
+#=GS PSM_B0498 WT 0.98
+#=GS PSM_B0005 WT 1.04
+#=GS PSM_B0008 WT 1.13
+#=GS PSM_B0045 WT 0.94
+#=GS PSM_B0343 WT 0.83
+#=GS PSM_B0474 WT 1.39
+#=GS PSM_B0245 WT 1.43
+#=GS PSM_B0285 WT 1.26
+#=GS PSM_B0251 WT 0.93
+#=GS PSM_B0074 WT 1.43
+#=GS PSM_B0137 WT 0.94
+
+PSM_B0626    UAA--UAAA------------UCAUCAUUUA----------------UUG
+PSM_B0042    CAA--UAA--------------GACUAUG---------------------
+PSM_B0448    UAA--UUAUGU-------GGGACAC-A-----------------------
+PSM_B0633    AAA--UAAAUA-------UAAGCAAAAUA---------------------
+PSM_B0598    UAA-UUUAGGU-------AAAGCGUUA-----------------------
+PSM_B0202    CAA--UAAGCGAA----UUAUC-------AAU---------------UUA
+PSM_B0324    ACA--UGA--------------CUCUA-----------------------
+PSM_B0168    AAA--AUA------------------AUU---------------------
+PSM_B0567    U----UUA--------------UACAA-----------------------
+PSM_B0406    AAA--UUA-------------GUGU-AUU---------------------
+PSM_B0623    UAA-CUUA-----------------UAUA---------------------
+PSM_B0255    CAA--UCAAAGUGACUGUUCGCGAUAA-----------------------
+PSM_B0635    U----UAAG------------CCAUAA-----------------------
+PSM_B0394    UAA--UGACA----------GCCAACAUAG------------------CU
+PSM_B0437    UAA-GUUAG------------CUAUUA-----------------------
+PSM_B0334    C----UAAU------------GCGUUAAAC------------------CU
+PSM_B0197    AGA-GUUA-----------------AA-----------------------
+PSM_B0594    CGA--UAC------------------AUCU------------------UU
+PSM_B0274    UGA--UUAC-----------CC-CUUAUAGUUGA-----------AAAGU
+PSM_B0592    C----UAACU---------AUACCAAAAU---------------------
+PSM_B0469    A----UAA-----------------AAUA---------------------
+PSM_B0581    UGA--AAA-----------------UA-----------------------
+PSM_B0634    UAA--UUAA-----------GCUGAAAAU---------------------
+PSM_B0636    AAA--UUAC-----------CUUGUUAAA---------------------
+PSM_B0640    AAA--UUA--------------UGUUA-----------------------
+PSM_B0568    AAA--UUAAG----------CU-AAAAAUAUAGC-----------UCUAA
+PSM_B0444    U----UUA------------------A-----------------------
+PSM_B0580    AAA--UUAAUA--------GCCAA--AUA---------------------
+PSM_B0065    AAA--UAAAAC-------GCAGAGUUAUG---------------------
+PSM_B0485    C----UAAG------------CCAUUA-----------------------
+PSM_B0405    AAA--UUACA----------GGCAU-A-----------------------
+PSM_B0170    UAA--UUA--------------UUUUUUG---------------------
+PSM_B0315    CGA--UAAGUU-------UAAGUACAAUC---------------------
+PSM_B0486    C----ACA------------------A-----------------------
+PSM_B0058    U----UUA------------------A-----------------------
+PSM_B0490    UAA--ACA--------------CAAAA-----------------------
+PSM_B0591    CAA--AAAAGAGCA--GUAAACCAUUA-----------------------
+PSM_B0317    UAA--UUAA------------AUAUU---AAGCUACC----GAGACACAC
+PSM_B0193    U----UUA-----------------UA-----------------------
+PSM_B0291    CAA--UAGU------------GUAUUA-----------------------
+PSM_B0465    U----UGA---------------GUAAUG---------------------
+PSM_B0016    C----UGA------------------A-----------------------
+PSM_B0464    UAA--UCA------------------AUG---------------------
+PSM_B0358    UUA--UAA-------------AUACAA-----------------------
+PSM_B0009    AAA--UAA-----------------AAUA--------------------C
+PSM_B0419    UAA--UUAACG--------CCGUUAAAA---------------------C
+PSM_B0093    AAA--UAAGCC-------UAAGUAAAAUU--------------------U
+PSM_B0489    CAA--UAA-----------------AA-----------------------
+PSM_B0175    C----UAA------------------AUUGGUU------------UACAG
+PSM_B0583    AGA--UUAG------------CAACUAUA---------------------
+PSM_B0493    UAA-UUUAG-----------CCUGCCA-----------------------
+PSM_B0427    UAA--UUAGU---------CGGAUCAAUAGACC------------CUAGU
+PSM_B0305    CAA--UAAC------------CCUUAAUU---------------------
+PSM_B0436    U----UAA-----------------AACA---------------------
+PSM_B0179    UUA--UUA-------------GCGC-A-----------------------
+PSM_B0461    AAA--AUAU-----------UGCACCA-----------------------
+PSM_B0188    C----UUA------------------AUUGCUUUC---------GGCUAC
+PSM_B0052    C----AAA------------------A-----------------------
+PSM_B0478    AAA--UGACAC--------UCA-GUUAAUAGC--------------AAAG
+PSM_B0114    AAA--UAA-------------C----AAUG------------------UA
+PSM_B0425    UGA--UUA------------------AUU---------------------
+PSM_B0140    C----UUA-----------------AA-----------------------
+PSM_B0339    C----UUA--------------UAUAA-----------------------
+PSM_B0256    UAA--UAAAUCGU----AAUCU-------CAAA------------AAUGU
+PSM_B0370    UAA--UAA-----------------UAAU---------------------
+PSM_B0169    CAA-UUGA------------------AAA---------------------
+PSM_B0482    UAA--AUA--------------CUAAAUU--------------------U
+PSM_B0165    AAA--UAAAGC-------UAGA-ACAAAU--------------------U
+PSM_B0408    AAA--UUA------------------A-----------------------
+PSM_B0288    AAA--UAAGCACUU--AUAAAC-------GCGUUU---------AAUUUU
+PSM_B0249    CAA--UUA--------------CACAAAUGUAAU----------UGAUGA
+PSM_B0199    AAA-GUAA--------------CUUAA-----------------------
+PSM_B0638    UAA--UAA------------------GUU---------------------
+PSM_B0615    AAA--UAAGUAG------CAGGGAUAA-----------------------
+PSM_B0113    UGA--UUAA-----------UCAUUAAAA---------------------
+PSM_B0081    AAA--UGA------------------A-----------------------
+PSM_B0235    C----UAA--------------CAAAAUG--------------------G
+PSM_B0254    C----UUAU-----------UGUUUGAUUUU-----------------AU
+PSM_B0383    AAA--ACA--------------UUCAAUA---------------------
+PSM_B0518    C----UAA-----------------CA-----------------------
+PSM_B0206    CCA--UUA-----------------UAAAA------------------CC
+PSM_B0135    CAA--UAACCUC------CACCAGCUAUCCCU---------------AGC
+PSM_B0240    CAA--UAA---------------AUUA-----------------------
+PSM_B0502    AAA--ACA-----------------UAAC---------------------
+PSM_B0589    CGA--AUA---------------ACUA-----------------------
+PSM_B0201    CUA--UUACC----------GUAUUUA-----------------------
+PSM_B0187    UAA--UAA-----------------AAUA---------------------
+PSM_B0006    CAA--UAA-----------------UA-----------------------
+PSM_B0096    C----UAA---------------ACCAUU---------------------
+PSM_B0641    CAA-CAAA-----------------UAUA--------------------U
+PSM_B0287    U----UUA-----------------UAUUG-------------------C
+PSM_B0513    UAA--UUA-----------------AAAG---------------------
+PSM_B0384    CGA--AAA-----------------AAUAGCCCA-----------AGGUU
+PSM_B0556    CGA--UAAG-----------GCCUA-AAUCGUA-------------CAGU
+PSM_B0257    CGA--UCAA-----------GU--AUAAA---------------------
+PSM_B0389    CAA-GUAACACUU---UAGCGGCUUCA-----------------------
+PSM_B0431    AAA--UUAAGCU-----AAAAC-------AGCACACCUUAAAAGGUGAUU
+PSM_B0517    UAA--AAA--------------AGCAAAU---------------------
+PSM_B0178    C----UAACCCU------GUGAUGCAAAGUA-----------------UG
+PSM_B0616    CAA--UUA------------------A-----------------------
+PSM_B0167    UCA--UAA------------------A-----------------------
+PSM_B0021    C----UAA-----------------AA-----------------------
+PSM_B0499    CGA--UAACCAAA---GUGUGUUGA-AUU--------------------U
+PSM_B0304    UAA--UAA--------------UACUAAG---------------------
+PSM_B0487    AGA--UUAU------------ACUUUAUC--------------------G
+PSM_B0290    AAA--UAACG---------GUGAGAAAUGACU--------------AGAC
+PSM_B0435    UAA--UCAA-----------CUAACAAAACA----------------GAU
+PSM_B0593    U----UAA--------------CACAA-----------------------
+PSM_B0142    C----UAA-------------CAAACA-----------------------
+PSM_B0545    U----UUA-------------CUUCUUAU---------------------
+PSM_B0399    AAA-CUAAC-----------UGACUAA-----------------------
+PSM_B0637    UAA--UGACACA-----CAGCACACAA-----------------------
+PSM_B0038    U----UAA-------------G-UAUAUA---------------------
+PSM_B0418    AAA--UUA-------------C-UCAAAAACC--------------AAAC
+PSM_B0424    AAA--UAAA------------G--CAACAGU----------------UUG
+PSM_B0303    AAA--UAACCUAA----GUUCAGGUUA-----------------------
+PSM_B0560    UAA-GUAA------------------AACCGCCU-----------GUUAC
+PSM_B0055    U----UAAUUGC-----CUUGGGUAUAUU---------------------
+PSM_B0397    AAA--UUAG-----------UACGC--AU---------------------
+PSM_B0543    UAA--AAA--------------AGCUACU---------------------
+PSM_B0631    CUA--UCAAAA--------CCCUAUCA-----------------------
+PSM_B0341    AAA-GUAA--------------CAAGA-----------------------
+PSM_B0064    CAA--CUAGA---------UAGUGUUACU---------------------
+PSM_B0221    CAA--UAA-------------CUUUCAAUCAGGA-----------UUUAG
+PSM_B0532    C----UAAUG---------CAGUGU-AUU--------------------U
+PSM_B0483    ACA--UAA------------------AAA---------------------
+PSM_B0388    AGA--UUA-------------GUUUU------------------------
+PSM_B0292    UAA--UUA------------------AUA--------------------U
+PSM_B0037    UGA--UUA------------------AAU---------------------
+PSM_B0151    UAA--UAA-----------------CAUU---------------------
+PSM_B0539    AAA--UAAG-----------CGUUAAAU-UUACGG---------CAAAAA
+PSM_B0007    CAA--UAAAUGC-----AGAAGAACCA-----------------------
+PSM_B0029    AAA--UAA------------------AAC---------------------
+PSM_B0128    AAA--UAA-----------------UA-----------------------
+PSM_B0109    UAA--UAA------------------A-----------------------
+PSM_B0379    UUA--UAAG-----------UGCUUUAAU---------------------
+PSM_B0131    AAA--UAA-----------------AA-----------------------
+PSM_B0326    UAA--AUAG-----------CGCUCAAAA---------------------
+PSM_B0276    AAA--AUAGCAA------UACG-------GCUA-------------AUGA
+PSM_B0584    UAA--UUAGA---------GUA--UUAAAUAGCUUGAU---GUAAAAAAU
+PSM_B0190    UGAUGUUA-----------------UA-----------------------
+PSM_B0577    CUA--UAAAUG--------CACAAUAAUU---------------------
+PSM_B0316    UAA-CUUA------------------ACUA-------------------C
+PSM_B0585    AAA--UAA-----------------UA-----------------------
+PSM_B0415    AAA--UAAGC---------CGUA---AAA--------------------A
+PSM_B0445    CAA--UAAAA---------UUCAAUA---A------------------UG
+PSM_B0273    AAA--UUAAA---------CAGUUAUAAA---------------------
+PSM_B0605    UAA--AUA---------------AUUAUU---------------------
+PSM_B0611    AAA--UAA-----------------UAUUUA----------------CUU
+PSM_B0344    AUA--UAA------------------A-----------------------
+PSM_B0260    C----UUA-----------------AA-----------------------
+PSM_B0141    U----UUA------------------A-----------------------
+PSM_B0498    U----UUA-------------GCAA-A-----------------------
+PSM_B0005    AUA--UAA-----------------UA-----------------------
+PSM_B0008    UAA--UUA-----------------UA-----------------------
+PSM_B0045    AAA-UUGAG------------G-UAAA-----------------------
+PSM_B0343    UAA--UGA-----------------UG-----------------------
+PSM_B0474    CAA--UAAUA----------CCAACUAUAACUGCCAU----CUUUUGAGU
+PSM_B0245    CAA-CUUAA-----------CCUACUCUUGC-----------------AG
+PSM_B0285    UAA--UAAAG----------GCAAAAA-----------------------
+PSM_B0251    C----UUA---------------GACAUU---------------------
+PSM_B0074    UGA--UCA-----------------UCUU---------------------
+PSM_B0137    AAA--UUA------------------A-----------------------
+#=GC SS_cons :::..:::..............:::::::.....................
+#=GC RF      uAA..UaA..............cauuAUu.....................
+
+PSM_B0626    U--UCU-CAUGGCAG----------------------UCAUUUA---GC-
+PSM_B0042    AAAGCU-GAGGCUAACUU-----------------ACUAAGUUA----G-
+PSM_B0448    AACACG-CAGGCUCUGCU----------------UCGCAGUUUA----G-
+PSM_B0633    AAAAGG-CGUACUUA----------------------AUAAUAA----GU
+PSM_B0598    CUAUGG-GGAUAA-----------------------------AAU--UU-
+PSM_B0202    AAAUGC-CUUUAUUA----------------------CGCUCAA----U-
+PSM_B0324    A--ACC-CAGUGAGCC---------------------UGUAUAGG-UUC-
+PSM_B0168    AACUAU-UAGUGC---------------------------CUUA----C-
+PSM_B0567    AAAAGG-CACAGAUGC--------------------GCUCGCAC----C-
+PSM_B0406    UAAAAG-CCCACU-----------------------------UA----G-
+PSM_B0623    AAACGC-AUAUACUGUAC----------------ACUUAUACAG----U-
+PSM_B0255    AAAAAG-CAGCUC-----------------------------GA---AA-
+PSM_B0635    AAAAUG-CCAGCA-----------------------------GA---UG-
+PSM_B0394    UAAGAG-CAGCCAAUGA-------------------AAGUUCAU---UG-
+PSM_B0437    AAAAAG-CUGAAUGAA--------------------GUGAUUCA----U-
+PSM_B0334    AAAAGC-GACUUA-----------------------------AC---UA-
+PSM_B0197    CAAGCG-GCUAAUUU----------------------AAUACAG---AU-
+PSM_B0594    AUAAGG-UUGAGC---------------------------UUAG----C-
+PSM_B0274    CAAAGC-CGCUCA-----------------------------UU----G-
+PSM_B0592    AUAGUG-CGCACAAACCA-----------------ACCUGGCUU----G-
+PSM_B0469    AUAAUG-CCGAGUU-------------------------UAUUA----C-
+PSM_B0581    AAAAGC-CCGAAUA-------------------------AUUUA----U-
+PSM_B0634    AAAAAG-GCGUAACUU--------------------AUUAUUAA---GU-
+PSM_B0636    AAAAUG-CCAGC----------------------------AUCU----G-
+PSM_B0640    AAAAGG-CCACAU-----------------------------AA----U-
+PSM_B0568    AAAAGG-CACAGGUGC--------------------GAGCGCAU----C-
+PSM_B0444    AAAACG-CAGCCUA------------------------AUUUUA----G-
+PSM_B0580    AAAAGC-CCGAAUA-------------------------AAUUA----U-
+PSM_B0065    AGUGAC-GAGCU----------------------------AUAU---AA-
+PSM_B0485    AAAAAC-CUGAG----------------------------UUUA----C-
+PSM_B0405    AAAAAG-CCCACU-----------------------------AA----G-
+PSM_B0170    UAAGGC-UUCGCA-----------------------------CU----G-
+PSM_B0315    AAGAGG-CUCAAA---------------------------UUAA---UU-
+PSM_B0486    AAAAAC-CUGAGU-----------------------------AA---AC-
+PSM_B0058    UUGCUG-CGCCAA-----------------------------GU---AU-
+PSM_B0490    AAACAC-GCUACC-----------------------------CA----G-
+PSM_B0591    AAAAGC-CGC--A-----------------------------AUG--A--
+PSM_B0317    AAAACC-CACGCU---------------------------AUUU----G-
+PSM_B0193    AAAACA-CGCCAUGA----------------------GUGAUCA----U-
+PSM_B0291    U--GCC-GUGAGAUUAAGAAU-----------AUCCCCUCUCAA---UC-
+PSM_B0465    UAACUG-UAAAGC-----------------------------CC----C-
+PSM_B0016    AAAAGC-CACACCUAAAC-----------------AUAAGUUAA---AG-
+PSM_B0464    UAACUG-UAAAGG-----------------------------GG----C-
+PSM_B0358    AAAAAG-CAGC-U-----------------------------AA---G--
+PSM_B0009    UAAAGC-CGCACACUA--------------------AUUAUUAG---UG-
+PSM_B0419    AAAACC-CAGUCA---------------------------ACAA---UG-
+PSM_B0093    AAAAAG-GAGCA----------------------------GCAA----U-
+PSM_B0489    AAACAC-GCUACU-----------------------------GG----G-
+PSM_B0175    UAAAAC-GAGCGAUAU---------------------CAACCGAU--AC-
+PSM_B0583    AAAAAG-CCGAC----------------------------AUCA----G-
+PSM_B0493    UAAAGGCCACUCUUUUAAGC------------AAAAUGCUUUAA---GG-
+PSM_B0427    AAAAAC-GGCGCUU-------------------------UUUUA----G-
+PSM_B0305    UACGUG-CUGAGUUUUGAC--------------UAUUAGAUCAAA--AC-
+PSM_B0436    AAAAAG-CUGAAUGAA--------------------UCACUUCA----U-
+PSM_B0179    GAAGAG-AAAUUUUGAUGA---------------UCUUGAUCAA----G-
+PSM_B0461    AAAAAG-CGCAUU---------------------------UUAA----A-
+PSM_B0188    UAGGGU-UUGAAA--------------------------CAUAC---GU-
+PSM_B0052    AAAAGC-UAAUAUCA-----------------------UAAUGA----U-
+PSM_B0478    CAGGAG-CUGUAA-----------------------------CU----U-
+PSM_B0114    AACAUG-GGU--U-----------------------------AAU--A--
+PSM_B0425    AAAGAG-CAGUGAAAUC------------------GCGCUGUGU---AU-
+PSM_B0140    UAAGCG-UGCUGG---------------------------UUAA---UC-
+PSM_B0339    AAAGCG-CUUACAACUAACUU-----------GUAUAAAAGUAG----G-
+PSM_B0256    AAAAGC-GAGCCU--------------------------UAUAA---AG-
+PSM_B0370    CAAAGG-CGAAAUGU----------------------GUAAUGC---AU-
+PSM_B0169    AAACGG-CGUACU---------------------------UUAU---AG-
+PSM_B0482    UCAAAG-CAGCCUACUG------------------UAUACACAG---AG-
+PSM_B0165    GAGAGG-CGGUA----------------------------UUGU----U-
+PSM_B0408    AAAAGC-CAUUACA-------------------------UGCAU---GU-
+PSM_B0288    AAAAGG-CCAAC----------------------------AUAAAAAUG-
+PSM_B0249    GACGGG-GAGAGU-----------------------------AAC--CC-
+PSM_B0199    GAUCAG-UGUUCUAGUUCAAAAUCG---UAAUUAUUAAUGGCUA----G-
+PSM_B0638    AAAAGC-CGCUA----------------------------UUAU---UU-
+PSM_B0615    AAAGGG-CAUGC----------------------------AUUU----G-
+PSM_B0113    AAGAGC-GCC--------------------------------GA------
+PSM_B0081    AAAAAG-CGC------------------------------UUAA---G--
+PSM_B0235    CACCAC-UUUGGG--------------------------UUUCA----C-
+PSM_B0254    AAAAAG-CAGCU----------------------------UUCG----A-
+PSM_B0383    AACGAG-CAGCA----------------------------CUUU----C-
+PSM_B0518    AAAAAC-GCAGCU-----------------------------AA---GG-
+PSM_B0206    A---CG-CCCUGG---------------------------CCGA---CU-
+PSM_B0135    U--CAG-UGCACUUUG--------------------CAGUAUAA---AG-
+PSM_B0240    AAGUCG-CGGUGU---------------------------UUAGU--AC-
+PSM_B0502    UAAGUC-CUGAGGCAAAC-----------------ACACGUUUA---CC-
+PSM_B0589    AAAAGC-CGC------------------------------UCAU---U--
+PSM_B0201    AAAUGC-CUUUAUUG----------------------AGCGUAA----U-
+PSM_B0187    UAAAGG-CCAAU----------------------------AUUU----A-
+PSM_B0006    AAAAAC-ACGCCAGAC---------------------UUUGCUA----G-
+PSM_B0096    UAAAAG-CGGUGCGU-----------------------GUUUAA---GC-
+PSM_B0641    UAAAGG-CCACAU-----------------------------UA----U-
+PSM_B0287    AAAGUC-GGUAAC-----------------------------CU----U-
+PSM_B0513    A---GC-AAGGCG-----------------------------AA---AG-
+PSM_B0384    AUCAAG-UCUUUG---------------------------GUAAU--GA-
+PSM_B0556    AAAUAC-CUCAAA--------------------------CUUUU----U-
+PSM_B0257    AAAAGC-GAGCCUU-------------------------UAUAA----G-
+PSM_B0389    AGUACC-ACGGCAACCGAUU------------UUUUCUCAAUCU---CG-
+PSM_B0431    AAACCG-UGGAAU---------------------------GUAAU--AU-
+PSM_B0517    AAAAAC-GCAGC----------------------------CUUA----G-
+PSM_B0178    AAAAGG-GCU------------------------------UUCG------
+PSM_B0616    C---GC-UCG------------------------------CUUG------
+PSM_B0167    AAACGG-CGUCCU---------------------------AUAA---AG-
+PSM_B0021    AACAGC-UAGGUUUGU--------------------AAGCGCAA----A-
+PSM_B0499    AAAAAG-CCCA-----------------------------CUUU------
+PSM_B0304    UAAACG-AGUACG---------------------------CUAAA-CCG-
+PSM_B0487    AAAAAC-CUCACA-----------------------------AC----G-
+PSM_B0290    AGACGG-CGAUUUGU-----------------------GUUUAA----A-
+PSM_B0435    A--ACC-GAUGCACAC--------------------AAAAGCAG---UG-
+PSM_B0593    U--GCG-CACAAGCC----------------------AGGUUGG---UU-
+PSM_B0142    UUCACG-CGGGUU--------------------------AAUCA----G-
+PSM_B0545    UGAUGC-GCUUAA--------------------------UUUAA---UU-
+PSM_B0399    AAAUGG-CGUAAA-----------------------------UA----U-
+PSM_B0637    AAAAGC-CGCUAA---------------------------AUAA----U-
+PSM_B0038    AAAAGG-CUGCG------------------------------GA----U-
+PSM_B0418    AAAACC-CAGCCA---------------------------UUGU---UG-
+PSM_B0424    A--CGG-GUGAGCG------------------------CAAUAA---GC-
+PSM_B0303    A----G-GCUUGUUUAUAG--------------UUAACUAAUUG----C-
+PSM_B0560    UGUGUG-CGCCAU---------------------------UUUG----U-
+PSM_B0055    G----G-CGCUCUUAUG------------------GUUUUUUAA----G-
+PSM_B0397    AAAGCC-UGUUA----------------------------ACAA----U-
+PSM_B0543    CGAAAG-CAC------------------------------ACAG------
+PSM_B0631    UAAGUG-GGC--UAGUUU-----------------GUAUGAUUA---C--
+PSM_B0341    A--UGC-CAUCAAUUAA------------------UAAUUUUAA---AU-
+PSM_B0064    UAAGGG-C-C------------------------------GCAA------
+PSM_B0221    AAACGG-CAUUGCAAAUAAC-------------GGGCACGUUGU---UU-
+PSM_B0532    A---GG-CGAUG----------------------------UUAA---AC-
+PSM_B0483    AGCAGC-CUCUGU---------------------------GUAU---AC-
+PSM_B0388    AGAGGG-AACAC----------------------------ACGA---CG-
+PSM_B0292    AACAAC-CCUAAC---------------------------UUAU---AU-
+PSM_B0037    UAAAGG-CUGC-----------------------------AUCC------
+PSM_B0151    C--AGG-CUGUGUUGU---------------------AAUUCAA----C-
+PSM_B0539    AAAAGG-GCU--U-----------------------------AA---U--
+PSM_B0007    AAAAAC-ACGCCUAGC---------------------AAAGUCU----G-
+PSM_B0029    AAAGGC-CGCAGU--------------------------AAUAAA-UAC-
+PSM_B0128    AAAAGG-CGCGAUAGGU------------------UUAAAACCU---AC-
+PSM_B0109    GUAGUC-AUUAG----------------------------UUGA----U-
+PSM_B0379    AGAUGC-CUGAAUGUAUUGGCUGUGCUAAAAUCGCGGCGUUUAA---AU-
+PSM_B0131    AUAAUG-ACA------------------------------ACGC------
+PSM_B0326    AAGCCG-CCUUUG-----------------------------GA----G-
+PSM_B0276    AAACGC-CCAUGUACACCUUUUAAAC-CUUUAUUUAUAACAUUA----C-
+PSM_B0584    AAAAAG-GGCGCU-----------------------------UA----G-
+PSM_B0190    AAGCCC-UGCAUU-----------------------------AC----A-
+PSM_B0577    AACAGG-GGC------------------------------AUAA------
+PSM_B0316    AAAGCC-CAAGCA-----------------------------AAU--AG-
+PSM_B0585    AAAAAG-GGCGCU-----------------------------AA----G-
+PSM_B0415    UAACGG-CGACUU---------------------------AUCA---UA-
+PSM_B0445    CAAAGC-GCCUGC-----------------------------AGU--UU-
+PSM_B0273    AAAAGC-CGCUCA-----------------------------AU----G-
+PSM_B0605    GAAAAG-CGGUGAA-------------------------CAUAA---UC-
+PSM_B0611    UGAGGG-UUAGC----------------------------AUUU----G-
+PSM_B0344    A--AGG-CCAGAA-----------------------------UG----U-
+PSM_B0260    UAAAGG-CCA--U-----------------------------AA---U--
+PSM_B0141    A---AC-GCGGGCU------------------------GAUUAA----C-
+PSM_B0498    AAAACG-CAGUGGG-------------------------AAUAA---GCA
+PSM_B0005    UUUGCG-CACUGA-----------------------------GG----U-
+PSM_B0008    A--AAG-UUUGGG--------------------------UUUAA---AC-
+PSM_B0045    AAAUGG-CAAGCC---------------------------AUCA---GG-
+PSM_B0343    U--AGG-CCAGAC-----------------------------AU----U-
+PSM_B0474    AAACUC-AAC--UCA-----------------------AUACCU---U--
+PSM_B0245    A---UG-GCCACAACG---------------------UCAUUGA---UG-
+PSM_B0285    AAAUGG-UUAUAAG------------------------CGUUAGC--CU-
+PSM_B0251    CAAAGC-CCAGCA-----------------------------AU----G-
+PSM_B0074    G--UGG-CGCAAGGGCUU-----------------UGCCGCUCA----U-
+PSM_B0137    AGACAG-UGGUAA--------------------------UUUAAA--UU-
+#=GC SS_cons :<<<<<.<<<<<_...........................____....>.
+#=GC RF      AAAAgG.Cagacu...........................uUAA....g.
+
+PSM_B0626    CG-UGAGAAAU
+PSM_B0042    CC-UCAGUUUA
+PSM_B0448    CC-UACGUGUU
+PSM_B0633    UA-CGCCUUUU
+PSM_B0598    AU-CCCCAUAG
+PSM_B0202    AA-AGGCAUUU
+PSM_B0324    AC-UGGGCACU
+PSM_B0168    AC-UAAUAGUA
+PSM_B0567    UG-UGCCUUUU
+PSM_B0406    UG-GGCUUUUU
+PSM_B0623    AU-AUGCAUUU
+PSM_B0255    GC-UGCUUUUU
+PSM_B0635    CU-GGCAUUUU
+PSM_B0394    GC-UGCUUUUU
+PSM_B0437    UC-AGCUUUUU
+PSM_B0334    AG-UCGCUUUU
+PSM_B0197    UA-GCCGCUUU
+PSM_B0594    UC-AACCUUAA
+PSM_B0274    AG-CGGCUUUU
+PSM_B0592    UG-CGCAUUGU
+PSM_B0469    UC-GGCAUUAU
+PSM_B0581    UC-GGGCUUUU
+PSM_B0634    AC-GCCUUUUU
+PSM_B0636    CU-GGCAUUUU
+PSM_B0640    GU-GGCCUUUA
+PSM_B0568    UG-UGCCUUUU
+PSM_B0444    GC-UGCGUUUU
+PSM_B0580    UC-GGGCUUUU
+PSM_B0065    GC-UCGUUGCU
+PSM_B0485    UC-AGGUUUUU
+PSM_B0405    UG-GGCUUUUA
+PSM_B0170    CG-AAGCCUUU
+PSM_B0315    UG-AGCCUUUU
+PSM_B0486    UC-AGGUUUUU
+PSM_B0058    GG-CGCAUCAA
+PSM_B0490    UA-GCGUGUUU
+PSM_B0591    -G-CGGCUUUU
+PSM_B0317    CU-UGGGCUUU
+PSM_B0193    UG-CGUGUUUU
+PSM_B0291    UC-ACGGCACU
+PSM_B0465    UU-UACAGUUA
+PSM_B0016    UG-UGGCUUUU
+PSM_B0464    UU-UACAGUUA
+PSM_B0358    GC-UGCUUUUU
+PSM_B0009    UG-CGGCUUUU
+PSM_B0419    GC-UGGGUUUU
+PSM_B0093    GC-UCCUUUUU
+PSM_B0489    UA-GCGUGUUU
+PSM_B0175    AC-UCGUUUUU
+PSM_B0583    UC-GGCUUUUU
+PSM_B0493    AG-UGCCUUUA
+PSM_B0427    CG-CCGUUUUU
+PSM_B0305    UU-AGCAUGUA
+PSM_B0436    UC-AGCUUUUU
+PSM_B0179    GU-UUCUCUUU
+PSM_B0461    UG-CGCUUUUU
+PSM_B0188    UC-AAACCCUU
+PSM_B0052    AU-UAGCUUUA
+PSM_B0478    AC-AGCUCCCU
+PSM_B0114    -A-CCCAUGCU
+PSM_B0425    AU-UGCU--UA
+PSM_B0140    AG-CACGCUUU
+PSM_B0339    UA-AGCGCUUU
+PSM_B0256    GC-UCGCUUUU
+PSM_B0370    UU-CGCCUUUU
+PSM_B0169    GA-CGCCGUUU
+PSM_B0482    GC-UGCUUUUU
+PSM_B0165    AC-CGCCUCUU
+PSM_B0408    AA-UGGCUUUU
+PSM_B0288    UU-GGCCUUUU
+PSM_B0249    UC-UCCC--UU
+PSM_B0199    AA-CACUGUUU
+PSM_B0638    AG-CGGCUUUU
+PSM_B0615    CU-UGCCCUUA
+PSM_B0113    -G-GCGCUCCG
+PSM_B0081    -G-CGCUUUUU
+PSM_B0235    CU-AAGUGGUC
+PSM_B0254    GC-UGCUUUUU
+PSM_B0383    GC-UGCUCUUU
+PSM_B0518    CU-GCGUUUUU
+PSM_B0206    AG-GGCGAAAU
+PSM_B0135    UG-CACUGAUU
+PSM_B0240    AC-GGCGGCUU
+PSM_B0502    UC-AGGAUUUU
+PSM_B0589    -G-CGGCUUUU
+PSM_B0201    AA-AGGCAUUU
+PSM_B0187    UU-GGCCUUUA
+PSM_B0006    GC-GUGUUUUU
+PSM_B0096    GC-CGUUUUUU
+PSM_B0641    GU-GGCCUUUU
+PSM_B0287    UA-CCG---UU
+PSM_B0513    CC-UUGCAGCA
+PSM_B0384    GA-GACUUGAU
+PSM_B0556    UG-AGGUAUUU
+PSM_B0257    GC-UCGCUUUU
+PSM_B0389    CC-GUGGU-CU
+PSM_B0431    UU-CACGGUUU
+PSM_B0517    CU-GCGUUUUU
+PSM_B0178    -A-GCCCUUUU
+PSM_B0616    -U-GAGCAAAU
+PSM_B0167    UA-CGCCGUUU
+PSM_B0021    CC-UAGCCUUU
+PSM_B0499    UG-GGCUUUUU
+PSM_B0304    UA-CUCGUUUU
+PSM_B0487    UG-AGGUUUUU
+PSM_B0290    AU-CGCCG-CA
+PSM_B0435    CA-UCGGUAUG
+PSM_B0593    UG-UGCGCACU
+PSM_B0142    CC-CGCGUUUU
+PSM_B0545    AG-GCGCAUCU
+PSM_B0399    UA-CGCCAUUU
+PSM_B0637    AG-CGGCUUUU
+PSM_B0038    GC-AGCCUUUA
+PSM_B0418    AC-UGGGUUUU
+PSM_B0424    UC-ACCCGAUU
+PSM_B0303    AA-GCCAAACU
+PSM_B0560    GG-CGCA--CU
+PSM_B0055    AG-CGCAAAAU
+PSM_B0397    AA-AAGGUUUU
+PSM_B0543    -U-UGCUUUUA
+PSM_B0631    -G-CCCACUUU
+PSM_B0341    GA-UGGCAAAU
+PSM_B0064    -G--GCCCUUU
+PSM_B0221    AC-UGCCGUUA
+PSM_B0532    AU-CGCCGUUU
+PSM_B0483    AGUAGGCUGCU
+PSM_B0388    UG-UUCCCUUU
+PSM_B0292    UA-GGGCUGUU
+PSM_B0037    GC-AGCCUUUU
+PSM_B0151    AC-AGCUCAAU
+PSM_B0539    -A-GCCCUUUU
+PSM_B0007    GC-GUGUUUUU
+PSM_B0029    UG-CGGCUUUU
+PSM_B0128    CG-CGCCCUUC
+PSM_B0109    UA-AUGACUGA
+PSM_B0379    UU-AAGCAUUA
+PSM_B0131    -U-GUCAUUUG
+PSM_B0326    AG-GGCGGCUU
+PSM_B0276    UU-GGGCGUUU
+PSM_B0584    CG-CCCUUUUU
+PSM_B0190    UGACAGGGCUA
+PSM_B0577    -G-CCCCUUUA
+PSM_B0316    CG-UGGGUUUU
+PSM_B0585    CG-CCCUUUUU
+PSM_B0415    GC-CGCCGUUU
+PSM_B0445    AG-GCGCUUUU
+PSM_B0273    AG-CGGCUUUG
+PSM_B0605    AC-CGCUUAUU
+PSM_B0611    CU-AGCCCUUU
+PSM_B0344    CU-GGCCUACA
+PSM_B0260    -C-GGCCUUUA
+PSM_B0141    CC-GCGUGAAU
+PSM_B0498    AC-UGCGUUUA
+PSM_B0005    UG-UGCG--UU
+PSM_B0008    CAUAGCUUUGU
+PSM_B0045    CU-UGCCAAUU
+PSM_B0343    CU-GGCCUUUU
+PSM_B0474    -G-UUGAGUUU
+PSM_B0245    UG-GCCAAACA
+PSM_B0285    AU-AACCAAUA
+PSM_B0251    CU-GGGCUUUU
+PSM_B0074    UG-CGCCAAGA
+PSM_B0137    AC-CACUGUCU
+#=GC SS_cons >>.>>>>>>>:
+#=GC RF      uc.uGCcUUUU
+//

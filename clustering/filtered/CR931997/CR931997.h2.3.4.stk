@@ -1,0 +1,826 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.3-1
+#=GF AU Infernal 1.0.2
+
+#=GS jk1792 WT 1.10
+#=GS jk2091 WT 1.02
+#=GS jk0356 WT 0.88
+#=GS jk1839 WT 0.87
+#=GS jk0479 WT 0.85
+#=GS jk1936 WT 1.26
+#=GS jk0158 WT 1.03
+#=GS jk1189 WT 0.99
+#=GS jk0371 WT 0.89
+#=GS jk1681 WT 1.06
+#=GS jk0171 WT 0.99
+#=GS jk1744 WT 1.01
+#=GS jk1363 WT 1.05
+#=GS jk0718 WT 1.01
+#=GS jk1533 WT 0.96
+#=GS jk1198 WT 1.06
+#=GS jk1798 WT 0.86
+#=GS jk0007 WT 1.00
+#=GS jk0590 WT 0.83
+#=GS jk1799 WT 0.94
+#=GS jk0355 WT 0.88
+#=GS jk1334 WT 1.10
+#=GS jk0811 WT 0.96
+#=GS jk1069 WT 1.05
+#=GS jk1727 WT 0.81
+#=GS jk0415 WT 1.14
+#=GS jk0740 WT 0.79
+#=GS jk1836 WT 0.79
+#=GS jk0816 WT 1.02
+#=GS jk1193 WT 0.94
+#=GS jk0100 WT 1.00
+#=GS jk1757 WT 1.02
+#=GS jk0377 WT 1.02
+#=GS jk0177 WT 0.96
+#=GS jk0722 WT 0.91
+#=GS jk2032 WT 1.04
+#=GS jk1365 WT 1.00
+#=GS jk0717 WT 1.08
+#=GS jk1859 WT 1.06
+#=GS jk1718 WT 0.89
+#=GS jk1905 WT 1.10
+#=GS jk0328 WT 1.07
+#=GS jk0616 WT 1.05
+#=GS jk2097 WT 1.11
+#=GS jk1494 WT 0.86
+#=GS jk0653 WT 1.14
+#=GS jk0301 WT 1.12
+#=GS jk1619 WT 1.09
+#=GS jk1174 WT 0.99
+#=GS jk1728 WT 0.81
+#=GS jk1242 WT 0.98
+#=GS jk0960 WT 0.88
+#=GS jk0170 WT 1.11
+#=GS jk0223 WT 0.44
+#=GS jk0107 WT 0.97
+#=GS jk1044 WT 1.04
+#=GS jk0597 WT 1.00
+#=GS jk2080 WT 1.11
+#=GS jk0689 WT 1.06
+#=GS jk0482 WT 0.44
+#=GS jk0099 WT 1.04
+#=GS jk1473 WT 1.05
+#=GS jk0589 WT 0.83
+#=GS jk0836 WT 1.06
+#=GS jk0011 WT 1.15
+#=GS jk0180 WT 1.05
+#=GS jk1841 WT 0.98
+#=GS jk1631 WT 1.08
+#=GS jk0203 WT 1.10
+#=GS jk0132 WT 0.94
+#=GS jk1840 WT 1.11
+#=GS jk0448 WT 1.07
+#=GS jk1168 WT 1.00
+#=GS jk2022 WT 1.03
+#=GS jk0475 WT 1.02
+#=GS jk1459 WT 1.12
+#=GS jk1689 WT 1.20
+#=GS jk0201 WT 0.98
+#=GS jk0714 WT 1.03
+#=GS jk1462 WT 1.16
+#=GS jk1774 WT 1.04
+#=GS jk1324 WT 0.94
+#=GS jk1907 WT 0.99
+#=GS jk1498 WT 1.09
+#=GS jk1541 WT 1.05
+#=GS jk1184 WT 0.91
+#=GS jk0521 WT 1.12
+#=GS jk1719 WT 0.95
+#=GS jk1874 WT 0.98
+#=GS jk0823 WT 1.03
+#=GS jk1175 WT 1.03
+#=GS jk1377 WT 1.09
+#=GS jk2021 WT 1.16
+#=GS jk0270 WT 0.86
+#=GS jk0268 WT 0.74
+#=GS jk1291 WT 1.11
+#=GS jk0565 WT 1.06
+#=GS jk0820 WT 0.86
+#=GS jk1812 WT 1.14
+#=GS jk1236 WT 0.63
+#=GS jk0135 WT 1.17
+#=GS jk0884 WT 0.97
+#=GS jk0490 WT 1.09
+#=GS jk1567 WT 1.21
+#=GS jk1576 WT 1.05
+#=GS jk1366 WT 0.99
+#=GS jk0306 WT 1.20
+#=GS jk0266 WT 1.21
+#=GS jk0914 WT 0.94
+#=GS jk0416 WT 0.90
+#=GS jk1021 WT 1.05
+#=GS jk1603 WT 1.30
+#=GS jk1577 WT 1.05
+#=GS jk1587 WT 0.21
+#=GS jk1955 WT 0.83
+#=GS jk1747 WT 0.74
+#=GS jk0155 WT 1.11
+#=GS jk0077 WT 1.11
+#=GS jk0588 WT 1.17
+#=GS jk0723 WT 1.08
+#=GS jk1512 WT 1.13
+#=GS jk0998 WT 0.98
+#=GS jk0269 WT 0.98
+#=GS jk0478 WT 1.04
+#=GS jk1993 WT 0.99
+#=GS jk0879 WT 0.21
+#=GS jk1151 WT 0.87
+#=GS jk1538 WT 1.04
+#=GS jk0889 WT 1.26
+#=GS jk0031 WT 1.29
+#=GS jk1973 WT 0.89
+#=GS jk1530 WT 1.10
+#=GS jk0506 WT 1.06
+#=GS jk0615 WT 0.21
+#=GS jk1170 WT 1.09
+#=GS jk0534 WT 0.99
+#=GS jk1314 WT 1.07
+#=GS jk1047 WT 1.05
+#=GS jk2016 WT 0.59
+#=GS jk0830 WT 1.05
+#=GS jk1281 WT 1.12
+#=GS jk0390 WT 1.24
+#=GS jk0529 WT 0.36
+#=GS jk1746 WT 1.06
+#=GS jk0461 WT 1.01
+#=GS jk0543 WT 0.95
+#=GS jk1395 WT 1.07
+#=GS jk0384 WT 0.94
+#=GS jk1169 WT 1.02
+#=GS jk0704 WT 1.20
+#=GS jk1141 WT 1.00
+#=GS jk0826 WT 1.10
+#=GS jk0860 WT 1.11
+#=GS jk0769 WT 0.94
+#=GS jk0133 WT 0.96
+#=GS jk0258 WT 1.05
+#=GS jk2101 WT 0.94
+#=GS jk1181 WT 0.94
+#=GS jk0210 WT 1.34
+#=GS jk1096 WT 1.18
+#=GS jk1699 WT 1.18
+#=GS jk0967 WT 1.01
+#=GS jk0227 WT 1.06
+#=GS jk1355 WT 0.36
+#=GS jk1845 WT 1.05
+#=GS jk0743 WT 1.01
+#=GS jk0349 WT 1.05
+#=GS jk1776 WT 1.07
+#=GS jk0997 WT 1.21
+#=GS jk1763 WT 1.03
+#=GS jk0085 WT 1.06
+#=GS jk0757 WT 1.18
+#=GS jk0250 WT 1.05
+#=GS jk1400 WT 0.86
+#=GS jk0364 WT 0.88
+#=GS jk0312 WT 1.01
+#=GS jk0300 WT 1.06
+#=GS jk0874 WT 0.94
+#=GS jk0032 WT 1.02
+#=GS jk0393 WT 1.18
+#=GS jk1932 WT 0.99
+#=GS jk1284 WT 0.91
+#=GS jk0397 WT 0.90
+#=GS jk1904 WT 0.96
+#=GS jk0238 WT 1.04
+#=GS jk0440 WT 1.26
+#=GS jk1045 WT 0.97
+#=GS jk1126 WT 0.96
+#=GS jk0881 WT 1.11
+#=GS jk1282 WT 0.83
+#=GS jk0824 WT 1.05
+#=GS jk1765 WT 1.02
+#=GS jk0051 WT 0.91
+#=GS jk0504 WT 1.17
+#=GS jk0164 WT 1.00
+#=GS jk1483 WT 1.06
+#=GS jk1847 WT 1.15
+#=GS jk1043 WT 1.02
+#=GS jk0116 WT 0.88
+#=GS jk0975 WT 1.09
+#=GS jk1244 WT 1.24
+#=GS jk1408 WT 1.15
+#=GS jk0553 WT 1.09
+
+jk1792       UCAG-ACUUA--GUUACUAACAAU--------------------------
+jk2091       UC--CCCUUAGC---GCAUUACG---------------------------
+jk0356       GC--GGCAACAC---GCCACAGCACAA--------------------GGC
+jk1839       GC---GCUAA--ACGGUUCAAGG---------------------------
+jk0479       GC--CACUCA--ACGGCCAAUAACA------------------------A
+jk1936       UC--GG------CCAGCUGAC-----------------------------
+jk0158       GC---GCUAAGC---GCUCCAAUCCAUAA-----------------ACUA
+jk1189       GC---UCCAG--CCCGUCCAGAU---------------------------
+jk0371       GCCUAU------CCUCCGCAAA----------------------------
+jk1681       GC--AG-UAAGAACCUUUCUACAUC------------------------G
+jk0171       GC--UU-UGAUA---GCCAAA-----------------------------
+jk1744       GC--GU-UAA--AUCGCUCCAUCUUUUUGGU-------------GGCGAC
+jk1363       GA---GCGAA--CCUUUCU-------------------------------
+jk0718       GAAGAA-GAACU--------------------------------------
+jk1533       GA--GU------CCAGCAAAA-----------------------------
+jk1198       GACA-GCAAAAA---UUAAAAAAUUUACG-----------------UAAA
+jk1798       GC--AGCGGAUA---CCAAAAACAAA-----------------------G
+jk0007       GCUU-UCAUA--GCGAGACACGGUA------------------------A
+jk0590       GCUCCC------CCCGGCAAUAGAA------------------------A
+jk1799       GCUGAG-UAAAU-CAGCGUGACAA--------------------------
+jk0355       GC--CGCGACAA---GUAAUCA----------------------------
+jk1334       GCUU-UCGACUUCCCUGACAAA----------------------------
+jk0811       GUAG-UCUAA--ACGACUAAAACGGCACC----------------ACAGC
+jk1069       GC--CA------CCAACUAGU-----------------------------
+jk1727       GCAGCU------CCCACAAAAGA---------------------------
+jk0415       GU--AACUGAAC---UAUCAAACUAAUG-------------------AAG
+jk0740       GCUG-U-AAAGAACAGCUAGAAA---------------------------
+jk1836       GC--AU-AAA--ACAGCUCUA-----------------------------
+jk0816       GAGGAG------CCUGUGA-------------------------------
+jk1193       GC--CU------CCCGCUUCAA----------------------------
+jk0100       GCCG-U-AUAAU---GCAAA------------------------------
+jk1757       GACAAG-UAAGUCCAGCGCUUUCGCCUAG-----------------CUUU
+jk0377       GCAU-UCAGACA---GCAAUGUA---------------------------
+jk0177       GC--GACUAG--CUCGCACGCUGAA------------------------U
+jk0722       GCUA-ACUCA--ACUGCUCUCACAUAAGGCU-------------CGAGAA
+jk2032       ACAGAG-UUAGC---UCCCAA-----------------------------
+jk1365       GCGGAU-AAA--GCCGCGGAUACG--------------------------
+jk0717       GAAGCACUAA--ACUUCACACUUCACU--------------------AAA
+jk1859       GA--GGCUUAAA---UCUCGUUUCCUAGGUUCCUU----CUAGGUUUUCC
+jk1718       GCUA-A-GAAGC---GCUAAAGCAA------------------------A
+jk1905       AAUUAGCGAGAC---GCAACAGU---------------------------
+jk0328       GCAG-UCGAA--CCCCUCU-------------------------------
+jk0616       GC--CG------CUGGCUU-------------------------------
+jk2097       GU--CG-AAA--ACCGACCCAGAAC------------------------G
+jk1494       GAGGAG-UAA--UCCACUCCCCCUUCACA-----------------CACU
+jk0653       GC--GG-UUAGG---GCUUCA-----------------------------
+jk0301       GCAGAGCUAA--UUAGCGAUACCUAAUACUU-------------CUAGCG
+jk1619       UC---U-UAA--GCCGUAACGCAA--------------------------
+jk1174       GC---U-UAAAGACUGCACAGUCUGUACACUCCGAAA-AUUUUUUCGGUA
+jk1728       GC--CUCUAG--GCAGACGGA-----------------------------
+jk1242       GC--AUCCAG--CCCGCCGGUUCU--------------------------
+jk0960       GC--AA------CCCGCU--------------------------------
+jk0170       GC---UCUAG--CCCUGAGGCUGUG------------------------A
+jk0223       GC--CGCAUAAA---GCCCAAAGAC------------------------G
+jk0107       GCUC-GCUAAAAACCGCUAAAGCGUC----------------------GU
+jk1044       GAAGAUCUAA--UUCGCCGUAAUCAAUACCCC-----------AAUCACC
+jk0597       GUUAAG-AAA--UCCACUCCACG---------------------------
+jk2080       GC---U-UUAGC---UCGCAGCUUC------------------------A
+jk0689       GCGGCA-AUAUA---GCCCACCUACUUCC-----------------CCAA
+jk0482       GC--CGCAUAAA---GCCCAAAGAC------------------------G
+jk0099       UCAA-UCUAAAA---UCUAAAUUCUCAC-------------------CCA
+jk1473       GC--GA------CCGUCACCCUC---------------------------
+jk0589       GA--CU-UAAGA---CGACAAAA---------------------------
+jk0836       GCUU-CCUAAAGCCAGCUUUCACUGCGUA----------------ACGCG
+jk0011       GCAGGG-UAA--GCCGUGAACCGAA-------------------------
+jk0180       GAUG-GCGUGAG---GCUUAG-----------------------------
+jk1841       GCUG-G-UAGCAGCGGCUCUAU----------------------------
+jk1631       UCUUCUCUUAAU---UCGUAAAAGA------------------------G
+jk0203       GCGGAA-UAA--UUCGCCAAAUACGA-----------------------C
+jk0132       GCCUAG-UUU--UCUGUUCUUUCUUU----------------------GU
+jk1840       GCAACGCUUA--ACCCUUAAAACAA------------------------G
+jk0448       GAAUGGCUAACCCCGUCUAAACACA------------------------C
+jk1168       GCUAGU-UUAUAGCCCCAAGAAUUUU-----------------------U
+jk2022       GCUGAA------GCUGCAA-------------------------------
+jk0475       GA--ACCAAAGG---GUUCUAAU---------------------------
+jk1459       GAAGCGCUAGGU---UCUAACUUUAAAGUAG------------AACUUGA
+jk1689       GAAGCA-AUAACCCAGAACAAGUAACGC------------------GAAA
+jk0201       GCUUCUCCGA--GCGGCAUGAA----------------------------
+jk0714       GC---U-AUAGA---CCCAAGA----------------------------
+jk1462       UCUAGCCUUACUCCCCCUUAAACU--------------------------
+jk1774       UCAGGGCUUAGUCCUCCAUCAGCUCC-----------------------U
+jk1324       GCUGAA-GA---ACCGCAAGUAGUUCUUCACCCUA-----GGCUUUUACA
+jk1907       GAGGCU------CUACCGAAG-----------------------------
+jk1498       GCUGCG------CCCUCAUCAAAAA-------------------------
+jk1541       GCACCG-UAA--UCAGCGCCAUCACC----------------------GG
+jk1184       CC--CCCUAAGU---GCUAUC-----------------------------
+jk0521       GC--GU-UAA--ACCACUGCAUCACUUUUCU------------GGCCACG
+jk1719       UCCUAA-UAAAAGCCGAAAUAGUUU------------------------U
+jk1874       GC--AUCUGA--GCAGCACACACU--------------------------
+jk0823       GC---U-AAAGCGCCGCUAGC-----------------------------
+jk1175       GCUGCU-UUAGA---GCUAGCGAAU------------------------U
+jk1377       UA--AUCAAAGA---GUUCAGGUC--------------------------
+jk2021       GAGGCG------CCGGC---------------------------------
+jk0270       GAAA-GCUAACU---UUUAUAGAAAC-----------------------A
+jk0268       GC---U-UAAAA---GUUAAA-----------------------------
+jk1291       GCUGGGCUUCAC---GCCCAGUACGUG---------------------UG
+jk0565       GC--CCCUAAGUGUGGCGA-------------------------------
+jk0820       GUAGAGCUUUAA---GCGACUAA---------------------------
+jk1812       UC---UCUUA--GUCUCUUUUUCUC------------------------C
+jk1236       GC---U------GCC-----------------------------------
+jk0135       UAUU-G-UUAGU---GGUCACUCGUUUC-------------------CCA
+jk0884       GCUACUCAGAAA---GUCCUAAUCUGAGGUU------------UCUCUUG
+jk0490       GCCG-ACUAA--GCUUCAACC-----------------------------
+jk1567       GC--CG------CCCGCCGACUUAAUUGCGC------------GGCGGGA
+jk1576       GU--CA-AAAGCCCCACAACA-----------------------------
+jk1366       GC--CGCUAGCGGCAGCACAAAUAA------------------------A
+jk0306       UC--CUCAAA--AUCGAACAAAC---------------------------
+jk0266       GCACAGCUAGGC---GCCCAAAA---------------------------
+jk0914       GCUGCA-UAU--CUGGCACCA-----------------------------
+jk0416       GCCUCACUAAGAGCAGGUCUAGCUA------------------------A
+jk1021       GCUUCG-AAAGUACGGCUCCGAG---------------------------
+jk1603       GCAG-UCCGAGC---GUUAAAGCCU-------------------------
+jk1577       GC--CACUAACA---UCCCCCGACUCGAGCA-------------CAUCGA
+jk1587       GA--CACUAAGA---GUAAAGAU---------------------------
+jk1955       GCUC-U-UUAAACCCACAGGGU--UUUG-------------------CAA
+jk1747       GC---A-UAAGACCAGUUAAGCAAUCUUCUCU-----------CGCUAUG
+jk0155       GA---UCUAACUUCCCCUUCCACUCCCCCGCCAUACCCAGGCGGGAAACC
+jk0077       GC--CGCUUA--CCUUGGGCU-----------------------------
+jk0588       GAUU-U-UACGA---GUACAAUUAACC--------------------CCA
+jk0723       GCCUAGCCUAAUACAGCAA-------------------------------
+jk1512       GCUGGG------UCUGCGCUA-----------------------------
+jk0998       GA--CU-AGAACGCCGCA--------------------------------
+jk0269       UA--CGCGAACA--------------------------------------
+jk0478       GC--GG------CCUGCUCUA-----------------------------
+jk1993       GCUGCU-AAA--GCAGAAA-------------------------------
+jk0879       GA--CACUAAGA---GUAAAGAU---------------------------
+jk1151       GCUGGUCUAAGUACCGCAGUAGGUCG-----------------------U
+jk1538       GC--CGCUAA--GCCGCUGUGCCCUUUCGGCU-----------AGCAGCC
+jk0889       GCAGCU-AAUGC---GCCCUUU----------------------------
+jk0031       GCCUAACAUUCU---ACUCGAAACA-------------------------
+jk1973       GCUACU------GCCCCUGAAA----------------------------
+jk1530       GCCGAG-UAA--ACCCCCA-------------------------------
+jk0506       GCUC-UCCUGGC---GCUCCCCU---------------------------
+jk0615       GA--CACUAAGA---GUAAAGAU---------------------------
+jk1170       GCUGAGCAUAUU-CAGCACGACCCAGGU------------------AAUC
+jk0534       GCUAGUCGGACA---GCUC-------------------------------
+jk1314       GA--CU------ACCGCCAGCAGU--------------------------
+jk1047       GCAG-U--A---CUGGGUUAGAC---------------------------
+jk2016       CCUGACCUAAAA---GCGA-------------------------------
+jk0830       UAAGAGCUAAAU---AAUCAGAAAA------------------------G
+jk1281       GC--AG-UAAGCGCAGCGGUAGGUGUG--------------------CUU
+jk0390       GA---ACAAAACCCGGGGCACUUC--------------------------
+jk0529       CCUGACCUAAAA---GCGA-------------------------------
+jk1746       GC---GCACG--GCCGCUAGA-----------------------------
+jk0461       GA--AGCUAA--CCUGCGCUAGUU--------------------------
+jk0543       GAAGAU-UAAGAGUCGUCCUACA---------------------------
+jk1395       GCAG-GCUUA--ACUGCUUUUUCUUUA---------------------UU
+jk0384       GAAGGGCUAGCGCUGGCGCAA-----------------------------
+jk1169       GCGGCA-GAAGA---GCGAUAAAA--------------------------
+jk0704       GC---GCGGAAA---GAAAUAACGC------------------------U
+jk1141       GC--CG-UAGUGACUGCCAACGCUU------------------------C
+jk0826       GC---UCGAGUAGCUGUUC-------------------------------
+jk0860       GCCU-G-UAUGC---GCUAAACCG--------------------------
+jk0769       GCUG-GCCUAAUGCAGCUUCUUUA--------------------------
+jk0133       GU--CACUAAA-GCCGCUAAA-----------------------------
+jk0258       GCUGCG-GCAAA---GCACUAGGU--------------------------
+jk2101       GA--AGCUUG--UUUGCUUUUA----------------------------
+jk1181       GCCGGACUGA--CCUGCACCUUUUCCUUUU---------------AUUCA
+jk0210       GUAACGCAAGAA---GUAACGAAAA-------------------------
+jk1096       GCAG-CCGAAUG---GGUCACCCACCUG-------------------CAC
+jk1699       GA---A-UUAAA---GUAA-------------------------------
+jk0967       GCUGAGCAUAAUCCACGGCCACC---------------------------
+jk0227       GUGG-ACUAAAAACCGUAUUCGC---------------------------
+jk1355       CCUGACCUAAAA---GCGA-------------------------------
+jk1845       UCUGAU-GUAGUUCGGAUC-------------------------------
+jk0743       GCCAAUCGAAAA---CUUCAGACA--------------------------
+jk0349       GCCGGGCGAGAU---UCUUUAGC---------------------------
+jk1776       GC--CACGAAGU---AGUCUGAAUCAAC------------------UGCC
+jk0997       GA--CG------ACCGUUUAAACAACUU-------------------AAA
+jk1763       GUCGACCAAGAA---GGCAAA-----------------------------
+jk0085       UCGG-ACUAGGU---UCCUUAGACAAAGUUC------------CGGGACG
+jk0757       GAUU-U-UUACA---GUCAAAAC---------------------------
+jk0250       CCAGGCCAAAUA---GCCGGAAA---------------------------
+jk1400       GC---GCAAA--CCCCCUC-------------------------------
+jk0364       GUCACGCUUAGA---GCGCUUUCCACUCCA--------------GCCCGC
+jk0312       GC---A------ACCGCAUUAACUG------------------------C
+jk0300       GCUUAG-UUA--GCCUUUCUG-----------------------------
+jk0874       GCAG-CCAGA--GCAGCCCGAGC---------------------------
+jk0032       GCCU-G-UAA--CCCGCACCCCCAG-------------------------
+jk0393       CAAUAUCUAAGC---GCGCAGCCGA------------------------C
+jk1932       GC--CU-AAAGC---GUUAAGGAUC------------------------U
+jk1284       GCUGAG-UAAGU---GCUUAAAA---------------------------
+jk0397       GCAGCUCUAAAC--------------------------------------
+jk1904       GC--CGCAUAUA---GAAAGAA----------------------------
+jk0238       GCGGGACUAA--CCCGCCAUAUC---------------------------
+jk0440       UCUGCG------CCUGCUUC------------------------------
+jk1045       GA--AG-UAACACCGGUCACAUCU--------------------------
+jk1126       GCUGUG-UAA--CCCCUAC-------------------------------
+jk0881       GCUGUUCUAAAC---GCUU-------------------------------
+jk1282       GACG-G-UGA--CCUGCA--------------------------------
+jk0824       GC---G-AAGGU---GUUCUAGCAACCGGC--------------GGCUCG
+jk1765       GC---A------CCCGCGCAAUCUG------------------------A
+jk0051       GCUGAGCUAGGUACCGGAUUAAUCA-------------------------
+jk0504       GA--CUCAGACU--------------------------------------
+jk0164       UC--CACUAA--GCCACUAGACUAU-------------------------
+jk1483       GCUUCACUAAGU--------------------------------------
+jk1847       GCAGAG-GAA--GCCUAGACAUUC--------------------------
+jk1043       GC--UGCUUAGC---GCUGGA-----------------------------
+jk0116       GCUA-G-UCAGG---GCU--------------------------------
+jk0975       GC--GG------GCGUCAAAAAAU--------------------------
+jk1244       GCGGAACGAAAACCAGGACGCUUCAAU---------------------UU
+jk1408       GC--CGCCAGAUCCUGGCGUAGCG--------------------------
+jk0553       GC--CGCGUGUA---GCGCCA-----------------------------
+#=GC SS_cons ::::::::::::::::::::::::..........................
+#=GC RF      GCuGcgCUAAgacCcGCucaAacu..........................
+
+jk1792       -CGCCCU-GU---CGGCACGUAAU--------------------------
+jk2091       -GCGCCU-G-----CCUCAACUGUGAAGU---------------------
+jk0356       AAGGGGC-CC---GCGACCAUCUG--------------------------
+jk1839       -CCCCGG-G-----UUCCGUAAA---------------------------
+jk0479       AAGCCGA-C-----UGGGAUUCCU--------------------------
+jk1936       -CGGCCC-G-----CGCCUUUGCGAAGCUUCCCCUG--------GAAGUU
+jk0158       AGCCCCC-A-----ACUCCAGCGGAGGUAAU------------------C
+jk1189       -ACGCCC-GA---UCUGCCUUGGAUAGCUCCA-----------------C
+jk0371       -GCUCCC-GC---CCCUCCACACGUAGA----------------------
+jk1681       CAAGAGA-GC---U-CGUCAUGGUAAG-----------------------
+jk0171       -GGGGGC-GG---GAACGAAACUU--------------------------
+jk1744       GCCCCCA-CG---C-CCCAACCGAUCAACU--------------------
+jk1363       -AGCGCC-GC---UGCAGUCUAAG--------------------------
+jk0718       -CCCCCU-CCG--AGCCCAAUCUUCA------------------------
+jk1533       -CCCCGU-C-----GCACAUACAU--------------------------
+jk1198       UAACCCC-GU----AUGCGUGCA---------------------------
+jk1798       AACCCCC-GC---UUCCCUAUUAUUCGAGGAG-----------------A
+jk0007       AACCCGC-GGU--CCCUUCUCACUC-------------------------
+jk0590       AGUCCCG-G-----CUGGAAUCCU--------------------------
+jk1799       -ACCCCC-GC---U-UCCCAUCGAGGUUCUCCU---------------CG
+jk0355       -AGGGGC-CC---ACGACCAGAUG--------------------------
+jk1334       -CGGGUU-C----CACUGAUUUAU--------------------------
+jk0811       UGCCCCU-GU---UCUUUAUUGUU--------------------------
+jk1069       -ACGCGA-AC----UG----GUAG--------------------------
+jk1727       -AAGGGA-G-----AGGGAUAAAU--------------------------
+jk0415       GUGGCGC-GC---CUCCCCCUGCA--------------------------
+jk0740       -CCACCG-UC----CUCCAAUUGU--------------------------
+jk1836       --------------CUGCACCAAC--------------------------
+jk0816       -UGGGCG-GC----CACCGUGUGA--------------------------
+jk1193       -ACCCCA-GGA--UGAGUAUUUAC--------------------------
+jk0100       -UCCUGU-AG----AGUCCAAAG---------------------------
+jk1757       GAGGCGG-GC----CAGGGUUACCCAAUGG--------------------
+jk0377       -ACCCCC-G-----CUCGUUCUU---------------------------
+jk0177       AGCGGCG-GC---GGGUCCAGCAGAAC-----------------------
+jk0722       GAUCCCG-U-----CCACCAACUG--------------------------
+jk2032       -AGCUAG-CC----CG----CCC---------------------------
+jk1365       CAAAAAC-GC----ACCCCUCCCC--------------------------
+jk0717       AACUCCC-CC----UCCGCCCAACUUGAAG--------------------
+jk1859       GCACCCU-CG----UUGCCUUCGG--------------------------
+jk1718       ACGGCCC-GC---ACUCCCCAAACGC------------------------
+jk1905       -CCCCCA-UU---UUCGGCGCUAGAUGGCUUU----------------CG
+jk0328       -GGCGCG-A-----CCUCAACCUC--------------------------
+jk0616       -ACCUCG-GC---U-GGCUGGCUUGCUACUG-------------------
+jk2097       ACCCCGA-U-----GUUUCACGUG--------------------------
+jk1494       GGGCCACACCG--UGUGCAUUUUC--------------------------
+jk0653       -AGGGUC-UG---AUUCCGAUAUUGC------------------------
+jk0301       GAGAAAA-CGC--U-UAGGAUUCC--------------------------
+jk1619       AAGGCCG-GC----AGGCACACCGCAUAA---------------------
+jk1174       GAGGCUC-CG----GCACACGAAA--------------------------
+jk1728       -AAGGGA-G-----AGGGAUUUAU--------------------------
+jk1242       -CACCCC-A-----CGCGCACAAG--------------------------
+jk0960       -GCCCAC-GG----CCUGCGAGAUAU------------------------
+jk0170       GGCGGGG-AG---UGUGCAUGAUG--------------------------
+jk0223       GAGCCGA-C------CAGCACACG--------------------------
+jk0107       AUUACCC-C-----CAGGUGCCCA--------------------------
+jk1044       UCUAGCU-C-----CCGCCUCACC--------------------------
+jk0597       -ACACCG-GC---CACGCCUCCGC--------------------------
+jk2080       GGGCCAG-UG---GGGUGACUUAG--------------------------
+jk0689       UAGCGCU-GC---AACUCCCCUGCAAGAUUUC----------------UU
+jk0482       GAGCCGA-C------CAGCACACG--------------------------
+jk0099       AAGGGCG-CC----CG----AAUUGUCCCGAGAA-------------UAG
+jk1473       -GGGUGG-CC----GCCACUACUU--------------------------
+jk0589       -GUCCCG-G-----CUGGAGGAUU--------------------------
+jk0836       CACCCCA-U-----CCUGGACACC--------------------------
+jk0011       GUAGCCU------GGCGGUCGAUA--------------------------
+jk0180       -AGAGCU-CC----AUGGCUUAUG--------------------------
+jk1841       -AGCCUC-AC---CGCCCAAACUUCAU-----------------------
+jk1631       UCGGCCC-C-----CACGCCCAAC--------------------------
+jk0203       ACACCCC-GGA--CUUCCGCGCUGAAGUAC--------------------
+jk0132       GACGCCG-ACU--UCUCCUAUUUG--------------------------
+jk1840       ACCUCAA-G-----------CAAGG-------------------------
+jk0448       UAAGGCU-C-----CCCGCGUCAG--------------------------
+jk1168       UAACUGC-GC---AGGCUCUUUUA--------------------------
+jk2022       -GCCCGC-UG----CGAACUGGUGG-------------------------
+jk0475       -UCCCCC-GUC--UCCCGCUGAGGGUGCUGA-------------------
+jk1459       UAACCCC-AG---GUG----AGGGGCGGAAAA-----------------U
+jk1689       CAGUAAA-GC---ACGGCAAGCCC--------------------------
+jk0201       -CGCCCC-AC---CUG----UUCC--------------------------
+jk0714       -ACGCCC-CC---GAGGGAAUCCA--------------------------
+jk1462       GCGGUGG-UC---GCUUUCCUAGG--------------------------
+jk1774       GGGCGGG-A------GUCUUCUUG--------------------------
+jk1324       GCCGGCG-CCC--UUUCGCUUAGCUCUA----------------------
+jk1907       -GGCGCU-GG---UUG----GGG---------------------------
+jk1498       UAUUUGC-AC---AAGUCUUGCAACGUU----------------------
+jk1541       UAGCGCG-AG----ACCCGUGGAAACCA----------------------
+jk1184       -AACCCA-G-----UCACACUUUC--------------------------
+jk0521       AAGGUGC-C-----UGACAGUUCU--------------------------
+jk1719       UCGGCCC-GC---UCUCCCUGGCGUU------------------------
+jk1874       ACCCCGC-AG---GAGGGCAGAAA--------------------------
+jk0823       -CGCUAG-C------UGCUAGUUA--------------------------
+jk1175       AGCGCCC-AC---CCCCGUAUGGGACACAGUUUAA----------GACCC
+jk1377       ACGUCCU-CC---CACCCAUAACC--------------------------
+jk2021       -GCGCUA-GC---GGCGGCAGCGG--------------------------
+jk0270       CGCCCCG-GU---CGCCCUUGUA---------------------------
+jk0268       -ACCCCG-GC----------UUCG--------------------------
+jk1291       CGGCCGG-GC----AG----UCGU--------------------------
+jk0565       -UGGCGC-UC----ACUUUGCCAGUU------------------------
+jk0820       -CCCCCG-AC---UUCCCUUUGCU--------------------------
+jk1812       AGCACCC-C-----UCGCGAAUGUGUCGCCC------------------G
+jk1236       -AGCCGA-C-----UGGGUAAAAU--------------------------
+jk0135       UAACCAG-GU----UGUCCGCCAUUGGU----------------------
+jk0884       GGUCCCC-GC----UCACCUCGU---------------------------
+jk0490       -AGGCGA-CG---CAGUGCACCCC--------------------------
+jk1567       GAGCAGG-GG----UAACCUUGUCCA------------------------
+jk1576       -CAGCGU-A------GCGGUUAAC--------------------------
+jk1366       AACGCAC-CC----CG----GGGA--------------------------
+jk0306       -GCCGCCGCC----GGACAUUGGU--------------------------
+jk0266       -UCUCAC---AUAAUGAGAUAUAAGCAACA--------------------
+jk0914       -CCUGCG-UC----UUGAGGAAGG--------------------------
+jk0416       AAACCGG-G-----UCGGCGCGCAGUA-----------------------
+jk1021       -UCCCCU-GUA-UU-GAUGACCAUAAC-----------------------
+jk1603       GGUGAAA-UC----GCCUGUGACC--------------------------
+jk1577       CUUGGCG-CC----CCAACUUAUA--------------------------
+jk1587       -AGCCGA-C-----CGGGUAAAAU--------------------------
+jk1955       GCCCCCG-CCC-GCGGUGCACCUC--------------------------
+jk1747       UUCUCGG-GC----UCCCUUUGAAAAAG----------------------
+jk0155       CACGGCG-GG---CCGGGCUUUCCACUU----------------------
+jk0077       -GCUCGG-UG---CCUGGGUGCUGGCCAUUAC----------------GG
+jk0588       CAACGCC-CG---CUGGGUAAUUCGAAGGCCGUG------------ACCG
+jk0723       -AAAUCC-CG---CCCACCAGUUG--------------------------
+jk1512       -AACCGC-AG---AGCGCAGGUUGCGCG----------------------
+jk0998       -UCCCGC-G-----UGGCAGGUU---------------------------
+jk0269       -AGCCCC-GG---CUGCCCUACAA--------------------------
+jk0478       -GGUGGA-GG----------GCGG--------------------------
+jk1993       -CGAGUC-CG----CCCCACCAAGGA------------------------
+jk0879       -AGCCGA-C-----CGGGUAAAAU--------------------------
+jk1151       GAACUCG-GC----UUCCUCGCGCGGCACC--------------------
+jk1538       UAAGGCU-G-----CAGCCUAAG---------------------------
+jk0889       -CGACGG-GU---UCCGGCUGAACUCCGCCAUCUUCGCUU-CAAUAUGGC
+jk0031       UUUUCGA-G-----------UACGUUGUUUAUCG-------------CAG
+jk1973       -AAGCCC-G------CACCAGAAG--------------------------
+jk1530       -UUCCCG-U-----UCGCCUGUACAGC-----------------------
+jk0506       -AACGCA-GC---CCG----CUA---------------------------
+jk0615       -AGCCGA-C-----CGGGUAAAAU--------------------------
+jk1170       AUCGCC---G----ACGGCAACAU--------------------------
+jk0534       -AGCGGC-GU----AGGCCAAUUUG-------------------------
+jk1314       -AGCCCG-CC---GGGCGUUAACU--------------------------
+jk1047       -AACUCG-GC----UAGCCUUCAG--------------------------
+jk2016       -AACUGG-CG---CCCCGGAAAAGAA------------------------
+jk0830       UACCCCU-GGA-CUAGUUCAUUG---------------------------
+jk1281       GCACGUG-CCG-UCCUGCGAGUCA--------------------------
+jk0390       -ACCUGG-C-----GAUCUUGACC--------------------------
+jk0529       -AACCGG-CG---CCUCGGAAAAAGAA-----------------------
+jk1746       -ACCCCG-GC---CCG----UUUCCUUCGACUC--------------GAG
+jk0461       GGUGGCG-A-----GUCCUUACAU--------------------------
+jk0543       -CCGCCG-GG---ACCUCCACGC---------------------------
+jk1395       GACGCCC-A-----------CACUUGCACCG-------------------
+jk0384       -GUUCUG-GU---GCCGGCACAUU--------------------------
+jk1169       -AACUGC-GC----AGACUCUAAAA-------------------------
+jk0704       UAGCGGC-U-----GCGGAUAACGGCCGUGCCGGUGG-------CGCGAU
+jk1141       UUCCGGC-C-----AGGCCGAUGCCCGCACUAU---------------CU
+jk0826       -CACGGU-U-----CCGGAAUUAU--------------------------
+jk0860       -AUCCUC-UG----GUAGUUGCAUUUUC----------------------
+jk0769       -CCCGCC-GC----------ACAC--------------------------
+jk0133       -GCCACU-GC---CUUGGCUCUUU--------------------------
+jk0258       UUGCGCA-AG---GUUGUCACUAGGU------------------------
+jk2101       -ACCGUC-AC----CG----UUAA--------------------------
+jk1181       CAGCCCA-GG---G-GUUAUCCAC--------------------------
+jk0210       GGGUUGU-C-----UGCCCGCUGGUGUAA---------------------
+jk1096       GAAUUCA-AC---CACACCUACCA--------------------------
+jk1699       -CUGUGG-G---------AACAUU--------------------------
+jk0967       -AUCCGG-G------CGGUUCUUA--------------------------
+jk0227       -GGGCGG-U-----------GAUA--------------------------
+jk1355       -AACCGG-UG---CCUCGGAAAAAGAA-----------------------
+jk1845       -UGCUGCAUG---GUUGCCCGUAACUG-----------------------
+jk0743       -CGCCGG-GG----------CCAA--------------------------
+jk0349       -UGCGUA-C-----UGGUGCAGCU--------------------------
+jk1776       GAACCGC-CC---C-GCAUGAACG--------------------------
+jk0997       GCAGUGG-GU----UGGCGGCCUC--------------------------
+jk1763       -CGCUCG-CG---CUAGCUUCUAAG-------------------------
+jk0085       UGGGCGG-G-----GUGGAUUUCA--------------------------
+jk0757       -UUCUCU-AG----UG----GUUC--------------------------
+jk0250       -GCCGGC-G-----AUCGAGGCGCGAA-----------------------
+jk1400       -GGCCGC-GC--------AUAUCU--------------------------
+jk0364       UGCCCAC-GG----CCUGCUCAAUCG------------------------
+jk0312       UGAGCUG-A------GCCAAACUA--------------------------
+jk0300       -AUUCCA-GU----------CGUC--------------------------
+jk0874       -AGCCGG-A-----------AAUC--------------------------
+jk0032       AUCGCGC-GC----UG----AAUC--------------------------
+jk0393       UAGGCCA-GC---AGCUCCUUAAAGUCCGGGUUCUUCUCCACGAAGGCCU
+jk1932       AGUCGCC-GGU--GUGAGCCCGC---------------------------
+jk1284       -ACUU---------GCGCAGAUUC--------------------------
+jk0397       -AAUCGC-U-----CCGCUUUGC---------------------------
+jk1904       -CCCCAC-CGC-AAGCGCCCUUCGAA------------------------
+jk0238       -AAUCCG-C-----AGGUCACUG---------------------------
+jk0440       -GCGCGG-C-----------UUCUGCUCUU--------------------
+jk1045       -GUACCC-UC----GCGUAACACU--------------------------
+jk1126       -AACGCG-GC---CGG----CCA---------------------------
+jk0881       -AUGCGC-G-----------UAGACUU-----------------------
+jk1282       -CCCCCG-C---------CAUUGC--------------------------
+jk0824       CAGCCGC-UG---GCCGCUAGAAGCUAGCGGCUA-------------ACU
+jk1765       UCCCGCC-AG---C-CGGCCUUCCAC------------------------
+jk0051       AGUACC--------GCGCUAGCUU--------------------------
+jk0504       -CACCGC-C-----UGGCGAAACUGUACGC--------------------
+jk0164       UGGCUGU-G-----------AAAC--------------------------
+jk1483       -AAGCG--------UUAGCGCUAC--------------------------
+jk1847       -GCGCAG-CGA--UGCUAUAGGA---------------------------
+jk1043       -AGUCCU-G-----------GUGG--------------------------
+jk0116       -AGCCGC-U-----------AACC--------------------------
+jk0975       -AGUAAA-U-----AGACCAAGCG--------------------------
+jk1244       AACUUAG-CU---GCUAGGCGAAU--------------------------
+jk1408       -GUAGGG-G-----UAGUAAAAAA--------------------------
+jk0553       -AGGCGU-UG-----CGGCGCUGUA-------------------------
+#=GC SS_cons .<<<<<<.<<....<<<<______..........................
+#=GC RF      .agCCcc.gC....ccgCcuuaag..........................
+
+jk1792       -------GUGCU---GGCAGGGCG----------AUUA-
+jk2091       -UCACAAUGAGG-----CAGGCGC----------CGUU-
+jk0356       --------GUCG---UGGGCCCCU----------UGAU-
+jk1839       --------GGAG-----CCCGG-----------------
+jk0479       --------CCCA-----GUCGGCU----------UUUU-
+jk1936       UCCUUGAAGGCA-----CGGGCCG----------GUUU-
+jk0158       CGCGAAGGGAGU-----UGGGGGC----------UUUA-
+jk1189       GCUAUCCAGCAGG--UCCGGGCGU----------AUUU-
+jk0371       ---AGGUGGAGG---GGCGGGAGC----------UUUU-
+jk1681       ---CCCAGACG----AGCUCUUUU----------GUUAG
+jk0171       --------CGUU---CUCGCCCCC----------UUUCG
+jk1744       UUUCGGUUGGG----ACGUGGGGG----------UUUC-
+jk1363       -------ACUGCA--UGCGGCGCU----------UUUU-
+jk0718       ----AGUUGGGC----GGAGGGGG---------------
+jk1533       --------GUGU-----GGCGGGG----------UUUUG
+jk1198       --------GCGU----ACGGGGUU----------AUUC-
+jk1798       ACCUCGAUGGGA---AGCGGGGGU----------UUGU-
+jk0007       -----CGGAAGG---GUCGCGGGU----------UUUA-
+jk0590       --------CCAG-----CCGGGAC----------UUUUG
+jk1799       AAUAAUAGGGA----AGCGGGGGU----------UCUU-
+jk0355       --------GUCG---CGGGCCCCUUG------CCUUGUG
+jk1334       --------CAGU---G-GGGCCCG----------UUUUG
+jk0811       -------UAAAG---AGCAGGGGC----------AUUU-
+jk1069       -----------A----GAUCGCGU----------AUGU-
+jk1727       --------CCCU-----CUCCCUU----------U----
+jk0415       --------GGGA---AGCGCGCCA----------CUUU-
+jk0740       --------GGAG----GGCGGUGG----------UUUUG
+jk1836       --------GCAG---------------------------
+jk0816       --------GGUG----GCCGCCCA----------UCAC-
+jk1193       -------UACUC---ACCUGGGGU----------UUAC-
+jk0100       --------GGCU----CUACAGGA----------UUUUG
+jk1757       -GGUAGCUCGUG----GCCCGCCU----------UUUU-
+jk0377       --------CGAC-----CGGGGGU----------UACAG
+jk0177       ----GCUGGAUC---UGCCGCCGC----------UUUUG
+jk0722       --------GUGG-----GCGGGAU----------UUUU-
+jk2032       -----------G----GGCUAGCU---------------
+jk1365       -------GGGGU----GCGUUUUU----------AUUU-
+jk0717       AUUGGGCUCGGA----GGGGGAGU----------UCUU-
+jk1859       --------GCGG----CGAGGGUG----------UUUU-
+jk1718       -----CAGGGAG---AGCGGGCCGAAAA--ACUAUUUCG
+jk1905       UCAUCCGCCCGG---UGAUGGGGG----------AUUU-
+jk0328       --------GAGG-----UCGCGCCGGGG--GAGUUUUUG
+jk0616       CAGGCUCGGCCU---GGCUGAGGU----------UGCU-
+jk2097       --------AAAC-----AUCGGGG----------UUUUG
+jk1494       --------GCAC---CGGGUGGCC----------CUUU-
+jk0653       -----AUCGGGG---UCAGGCCCUUGAG--UCGUUGUUG
+jk0301       -------CCUA-U-GACGUUUUCU----------CGUA-
+jk1619       --GACGGUGCCU----GCCGGCCU----------UUUA-
+jk1174       ------GGGUGC----CGGGGCCU----------UUUU-
+jk1728       --------CCCU-----CUCCCUU----------UCUU-
+jk1242       --------CUCG-----UGGGGUG----------UCUUG
+jk0960       ----UCUCCAGG----CCGUGGGC----------CUUC-
+jk0170       --------GCAU---GCUCCCCGC----------UUUUG
+jk0223       --------CUG------GUCGGCU----------CCUAG
+jk0107       --------CCUG-----GGGGUAU----------UUUU-
+jk1044       -------AGCGG-----GAGCUAU----------CUUC-
+jk0597       --------GUGU---GGCCGGUGU----------UCUUG
+jk2080       ------GUCACC---UUGCUGGCC----------UUUUG
+jk0689       GUAGAUUCGGGUA-CUGCAGCGCU----------UUUU-
+jk0482       --------CUG------GUCGGCU----------CCUAG
+jk0099       GGGCAAAA---G----GGCGCCCU----------UUCU-
+jk1473       --------CGGC----GGCCACCC----------UUUU-
+jk0589       --------CCAG-----CCGGGAC----------UUUU-
+jk0836       --------CAGG-----GUGGGGU----------UUUG-
+jk0011       --------CCGC---U--AGGC-----------------
+jk0180       --------CUGU----GGAGCUCU----------UUUUG
+jk1841       ----AUCGGGGU---AGUGGGGCUAU------AGUUUU-
+jk1631       -------CCGUG-----GGGGCCG---------------
+jk0203       GGUGCGGUGGGA---GCCGGGGUG---------------
+jk0132       --------GGGG---AGUCGGCGU----------UCUU-
+jk1840       ------UC---------CUUAAGG----------UUUUG
+jk0448       --------CGGG-----GAGCC-----------------
+jk1168       -------GAGUC---UGCGCAGUU----------UUUU-
+jk2022       -----AAGUUCG----CGGCGGGC----------UUUCG
+jk0475       UAGCACCGCGGG---UGCGGGGGA----------UUUU-
+jk1459       GCCUCAGA----A--CCUGGGGCU----------UUUU-
+jk1689       -------CGCCG---UGCUUUACU---------------
+jk0201       -----------G---GGUGGGGCG----------UUUUG
+jk0714       -------UCCCU---AGGGGGCGU---------------
+jk1462       --------AAGG---CGGCCACCG----------CUUCG
+jk1774       --------GAC------UUCCGCC----------AGUU-
+jk1324       --CGCUGGCGGGA--UGGCGCCGG----------UUUU-
+jk1907       -----------A---ACCGGCGCC----------UUUCG
+jk1498       ---UCGCAGACU----GUGCAAAU----------AUUU-
+jk1541       ---CCGCGGUGU----CUCGCGCUAA-----AACUUUA-
+jk1184       --------GUGG-----CUGGGUU----------UUUUG
+jk0521       -------CGUCA-----GGUACCU----------UCUU-
+jk1719       -----UGGGGAG---UGCGGGCCG----------UUUUG
+jk1874       --------CCCUC-CUCCGCGGGG----------UU---
+jk0823       --------GCC------GCUAGCU----------UCUAG
+jk1175       GUGUCCGACGGG---CGUGGGCGU----------U----
+jk1377       --------GGGUG--CGGAGGGCU----------UUUC-
+jk2021       --------CGGC---GGCUGGCGC----------ACUCG
+jk0270       --------GGGC---AGCCGGGGC----------UUGU-
+jk0268       ----------------GCCGGGGU----------UUUU-
+jk1291       -----------U----GCCCGGCC----------UUUU-
+jk0565       -----GAAAAGU----GGGCGUCA----------UAAAG
+jk0820       --------GGGA---GGCCGGGGG----------UUGA-
+jk1812       GUGUGGCAGCGU-----GGGGUGU----------UUUC-
+jk1236       --------CCCA-----GGCGGCU----------AGCAG
+jk0135       --GGCGAGGACA----GCCUGGUU----------UUGC-
+jk0884       --------GUGA----GCGGGGAU----------UUCU-
+jk0490       -------GCACU---GUGUCGCCA----------UUUU-
+jk1567       ----AAUUGUUA----CCUCUG-----------------
+jk1576       --------CGC------UACGCUU----------CUUU-
+jk1366       -----------G----GGGUGCGU----------UUUUG
+jk0306       -------UGUCC----GGGGCGGC---------------
+jk0266       GUUUGAUUCUCAG--A--GUGAGA---------------
+jk0914       --------UCAA----GGCGCAGG----------UUUUG
+jk0416       ---GCGUUCCGG-----CCCGGUU----------UUUU-
+jk1021       ---CGGCCAUC----AGCAGGGGC----------UUUUG
+jk1603       --------AGGC----GAUUUCAC----------UUUA-
+jk1577       -------ACCGG----GGCGCCAG----------UUUA-
+jk1587       --------CCCA-----GUCGGCU----------AGCAG
+jk1955       -------GCGCC---CGGCGGGGG----------CUUC-
+jk1747       ---AAAAGGGGA----GCCUGAGU----------UUUU-
+jk0155       --ACGGAUCCCG----CCCGCC-----------------
+jk0077       UGCCAGGUCCAG---ACACCGUGC----------AGCU-
+jk0588       CGGCUCGGCCCG---GUGGGCG-----------------
+jk0723       --------GUGG---ACGGGAU-----------------
+jk1512       ---CAGUAGUAC---ACUGCGG-----------------
+jk0998       --------GUCA-----CGCGGGG----------CGUA-
+jk0269       -------GGGCG---ACCGGGGCG----------UGUU-
+jk0478       ----------------CCUCCACC---------------
+jk1993       ----AGUGGGGG----CGGACUCG----------UUUU-
+jk0879       --------CCCA-----GUCGGCU----------AGCAG
+jk1151       -GCCGCAUGGAG----GCCGAGUU----------UUUC-
+jk1538       --------GCUG-----CAGCC-----------------
+jk0889       UGGUAUUCCUGG---UGCCCGUCG----------CUCUG
+jk0031       GUCAGAGG---------CUCGAAA----------UUUG-
+jk1973       --------GCG------CGGGCUU----------UUUUG
+jk1530       ---AGAGGGCGA-----ACGGGAU----------ACUU-
+jk0506       -----------G---CGCUGCGUU----------UCGCG
+jk0615       --------CCCA-----GUCGGCU----------AGCAG
+jk1170       -------ACCGU----CCAGGCGA----------UCCA-
+jk0534       -----CUGGCCU----GCGCCGCC----------UUUC-
+jk1314       --------CGCC----GGCGGG-----------------
+jk1047       -------GGCUA----GCCG-------------------
+jk2016       ----AAACCGAG---ACGCCAGUU----------UGUC-
+jk0830       --------AACU---GCCAGGGGU----------UCUU-
+jk1281       --------GCGG---CGGCGCG-----------------
+jk0390       -------GGAUC-----GUCAGGG----------ACUU-
+jk0529       ----AAACCGAG---ACGCCAGUU----------UGUC-
+jk1746       GGGAGUGG---G---AGCCGGGGU----------UUUA-
+jk0461       --------GGGC-----UCGCCAC----------UCUUG
+jk0543       --------GAGG---UUCUGGCGG----------UUUU-
+jk1395       GUUAGCGC---------CGGGCGU----------ACUA-
+jk0384       -------GCCGG---CGCCGGUACUAGGGGGCAAUUUU-
+jk1169       ------GAGCCU----GCGCAGUUAAA---AAAUUCUUG
+jk0704       CGUGCAUUCCGC-----GGCCG-----------------
+jk1141       UGGGGUUGGCCU-----GGCCGGC----------UCUUG
+jk0826       --------CCAG-----AACCGUG----------U----
+jk0860       --CUGCUUCUAC----CAGGGGAU----------UUGUG
+jk0769       ----------------GCGGCGGG----------CGGUG
+jk0133       ------GCCUAG---GGCAGUGGU---------------
+jk0258       ----UUGCGCGAA--GUUUGCGCA----------UUCA-
+jk2101       -----------G----GUGGCGGU----------UUUU-
+jk1181       --------AACC---ACCUGGGCU----------UUUG-
+jk0210       --GGUUUGGGCA-----GACAACC---------------
+jk1096       -------GGUGU---GGAUGAA-----------------
+jk1699       -----------------CCCACAG----------UGCAG
+jk0967       --------CCG------CCCGGAG----------CAUUG
+jk0227       -----------------GCCGCCU----------GGUU-
+jk1355       ----AAACCGAG---ACGCCAGUU----------UGUC-
+jk1845       ----GCGGGCGG---CCAGCAGCC----------UUUAG
+jk0743       ----------------CCCCGGCU----------UGUU-
+jk0349       --------ACUA-----GUGCGCU----------UUUAG
+jk1776       --------UGCU---GGGGCGGUU----------UUGC-
+jk0997       --------GUCA----ACCCAC-----------------
+jk1763       -----GAGGCGG---GUGCGAGCG----------UUUUG
+jk0085       --------CCAC-----CCCGCCC----------UUUU-
+jk0757       -----------G----CUAGAGAG----------GUUAG
+jk0250       ---CCGUGCGGU-----CGUCGGC----------AUUUG
+jk1400       ----------------GCGCGGCC----------UUUUG
+jk0364       ----AGUCCAGG----CCGUGGGC----------UUUG-
+jk0312       --------GGC------UCGGCCU----------UCUUG
+jk0300       ----------------GCUGGAAU----------CUGCG
+jk0874       -----------------ACCGGCU----------UCCGG
+jk0032       -------C---G----GCGCGCGA----------UAAUG
+jk0393       UAACAGCGGAGC---AGCUGGCCU---------------
+jk1932       --------CUCA---CCCGGCGGU----------UUUC-
+jk1284       ------CGGCGU---------------------------
+jk0397       --------GCGG-----GGCGAUU----------UUUU-
+jk1904       -----AGGGCGUGGCACGGUGGGU----------UUUUG
+jk0238       --------ACCU-----GCG-------------------
+jk0440       -GGGUUUU---------GCCGCGC----------UUUCG
+jk1045       --------ACGC----GGGGGUAU----------UUUUG
+jk1126       -----------C---CGCUGCG-----------------
+jk0881       ---UCUUU---------CGUGCAU---------------
+jk1282       -----------------GCGGGGG----------UUUUG
+jk0824       AGCAGCUAGCGG---CUAGCGGCG----------CUUU-
+jk1765       -----GGUCCGA---CCUGGCGGG----------AUUUG
+jk0051       ------AGGCGU----CCAGGUAC----------UUUU-
+jk0504       AGCGCCAGGCCG-----GGCGG-----------------
+jk0164       -----------------CGCAGCC----------UCUG-
+jk1483       --------CUAU----GGGCGCUC----------CUUAG
+jk1847       --------UAGU---UCGUUGCGCU-------GGAUUUG
+jk1043       -----------------CAGGACU----------UCAUG
+jk0116       -----------------AGCGGCU----------ACUAG
+jk0975       --------GUCU-----GUU-------------------
+jk1244       --------CUAG---UAGCU-------------------
+jk1408       --------ACUA-----CCCCUUC----------UUAAG
+jk0553       -----GUGCCG-----UGACGCCAC--------GUGUAG
+#=GC SS_cons ......._>>>>....>>>>>>>>..........::::.
+#=GC RF      .......gGcgg....GcggGGcu..........UUUU.
+//

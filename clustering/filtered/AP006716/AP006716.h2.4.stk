@@ -1,0 +1,4037 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS SH0400 WT 1.03
+#=GS SH1581 WT 1.09
+#=GS SH1701 WT 1.12
+#=GS SH1117 WT 1.17
+#=GS SH0691 WT 1.03
+#=GS SH0116 WT 1.15
+#=GS SH0618 WT 0.65
+#=GS SH0231 WT 0.95
+#=GS SH0375 WT 0.88
+#=GS SH1384 WT 0.76
+#=GS SH1141 WT 1.04
+#=GS SH2148 WT 1.11
+#=GS SH2189 WT 0.64
+#=GS SH1434 WT 1.26
+#=GS SH2171 WT 0.92
+#=GS SH0895 WT 0.80
+#=GS SH1167 WT 1.13
+#=GS SH1383 WT 0.76
+#=GS SH2392 WT 1.35
+#=GS SH1575 WT 1.22
+#=GS SH1092 WT 1.12
+#=GS SH1217 WT 0.81
+#=GS SH1413 WT 1.11
+#=GS SH0622 WT 0.99
+#=GS SH2644 WT 0.85
+#=GS SH0361 WT 0.94
+#=GS SH1582 WT 0.91
+#=GS SH0900 WT 0.59
+#=GS SH2510 WT 0.99
+#=GS SH1292 WT 0.92
+#=GS SH0609 WT 0.70
+#=GS SH2423 WT 1.09
+#=GS SH1126 WT 0.97
+#=GS SH1832 WT 1.27
+#=GS SH2546 WT 1.12
+#=GS SH2155 WT 0.79
+#=GS SH1431 WT 0.95
+#=GS SH0642 WT 1.04
+#=GS SH2149 WT 1.14
+#=GS SH2552 WT 1.01
+#=GS SH0598 WT 1.01
+#=GS SH2290 WT 0.96
+#=GS SH0085 WT 1.25
+#=GS SH0015 WT 1.22
+#=GS SH1702 WT 1.01
+#=GS SH2285 WT 0.92
+#=GS SH2625 WT 0.99
+#=GS SH0619 WT 0.65
+#=GS SH0621 WT 0.93
+#=GS SH1036 WT 0.72
+#=GS SH0646 WT 0.86
+#=GS SH0002 WT 1.05
+#=GS SH1000 WT 1.08
+#=GS SH1157 WT 1.06
+#=GS SH0128 WT 0.86
+#=GS SH1048 WT 0.96
+#=GS SH1216 WT 0.81
+#=GS SH2260 WT 0.87
+#=GS SH2314 WT 1.27
+#=GS SH0452 WT 1.12
+#=GS SH0693 WT 0.96
+#=GS SH1580 WT 1.03
+#=GS SH1845 WT 1.56
+#=GS SH1111 WT 1.21
+#=GS SH1229 WT 0.64
+#=GS SH0800 WT 0.80
+#=GS SH0566 WT 0.64
+#=GS SH0360 WT 0.94
+#=GS SH0469 WT 1.07
+#=GS SH1837 WT 1.08
+#=GS SH1842 WT 0.85
+#=GS SH0217 WT 1.01
+#=GS SH2044 WT 1.09
+#=GS SH0536 WT 1.10
+#=GS SH0229 WT 0.89
+#=GS SH2014 WT 1.12
+#=GS SH2058 WT 1.17
+#=GS SH0277 WT 1.02
+#=GS SH1127 WT 1.09
+#=GS SH1206 WT 0.10
+#=GS SH2594 WT 0.92
+#=GS SH1925 WT 1.05
+#=GS SH0376 WT 0.75
+#=GS SH0999 WT 1.26
+#=GS SH0569 WT 1.22
+#=GS SH0357 WT 0.94
+#=GS SH2426 WT 1.10
+#=GS SH0912 WT 1.46
+#=GS SH1471 WT 1.10
+#=GS SH1574 WT 0.93
+#=GS SH0123 WT 0.95
+#=GS SH2136 WT 1.10
+#=GS SH1238 WT 1.07
+#=GS SH0720 WT 0.92
+#=GS SH0700 WT 1.09
+#=GS SH1473 WT 0.73
+#=GS SH0605 WT 0.86
+#=GS SH0908 WT 1.09
+#=GS SH2326 WT 0.78
+#=GS SH0346 WT 1.18
+#=GS SH1844 WT 1.06
+#=GS SH1122 WT 0.87
+#=GS SH0893 WT 0.88
+#=GS SH1472 WT 0.73
+#=GS SH0905 WT 1.01
+#=GS SH0477 WT 0.11
+#=GS SH2398 WT 0.93
+#=GS SH2194 WT 1.05
+#=GS SH0493 WT 1.34
+#=GS SH1194 WT 1.05
+#=GS SH0887 WT 0.87
+#=GS SH0082 WT 1.11
+#=GS SH1964 WT 0.53
+#=GS SH1121 WT 1.10
+#=GS SH1576 WT 1.52
+#=GS SH1827 WT 1.04
+#=GS SH0539 WT 0.98
+#=GS SH0909 WT 1.02
+#=GS SH0794 WT 0.87
+#=GS SH0772 WT 0.81
+#=GS SH0791 WT 1.19
+#=GS SH1025 WT 1.12
+#=GS SH0315 WT 1.26
+#=GS SH2203 WT 0.92
+#=GS SH1966 WT 0.17
+#=GS SH2144 WT 1.02
+#=GS SH0694 WT 1.14
+#=GS SH0449 WT 0.92
+#=GS SH0022 WT 1.00
+#=GS SH1883 WT 1.29
+#=GS SH0559 WT 0.88
+#=GS SH0680 WT 0.92
+#=GS SH0242 WT 1.07
+#=GS SH1552 WT 1.35
+#=GS SH0193 WT 1.04
+#=GS SH1214 WT 1.15
+#=GS SH2616 WT 1.23
+#=GS SH1567 WT 1.33
+#=GS SH0944 WT 0.51
+#=GS SH1695 WT 1.05
+#=GS SH0641 WT 1.05
+#=GS SH0212 WT 1.13
+#=GS SH2532 WT 1.00
+#=GS SH2654 WT 1.02
+#=GS SH1130 WT 1.04
+#=GS SH1324 WT 0.89
+#=GS SH2590 WT 0.87
+#=GS SH1072 WT 1.05
+#=GS SH0521 WT 0.90
+#=GS SH0771 WT 0.81
+#=GS SH1839 WT 1.11
+#=GS SH0073 WT 0.92
+#=GS SH1526 WT 0.71
+#=GS SH0506 WT 1.11
+#=GS SH0171 WT 0.98
+#=GS SH2066 WT 0.97
+#=GS SH0933 WT 0.97
+#=GS SH0091 WT 0.89
+#=GS SH1073 WT 1.01
+#=GS SH2452 WT 1.00
+#=GS SH1937 WT 1.07
+#=GS SH0349 WT 0.85
+#=GS SH0867 WT 1.15
+#=GS SH2248 WT 1.17
+#=GS SH0356 WT 1.15
+#=GS SH2143 WT 1.19
+#=GS SH0226 WT 1.14
+#=GS SH1071 WT 0.51
+#=GS SH0453 WT 0.11
+#=GS SH0587 WT 1.11
+#=GS SH0992 WT 1.16
+#=GS SH0627 WT 0.88
+#=GS SH0839 WT 0.11
+#=GS SH0955 WT 1.16
+#=GS SH0687 WT 0.92
+#=GS SH2269 WT 1.32
+#=GS SH1924 WT 1.12
+#=GS SH0373 WT 1.01
+#=GS SH0061 WT 0.88
+#=GS SH0374 WT 1.01
+#=GS SH1243 WT 1.07
+#=GS SH0460 WT 0.95
+#=GS SH0473 WT 0.99
+#=GS SH1597 WT 1.20
+#=GS SH2295 WT 0.58
+#=GS SH1677 WT 1.05
+#=GS SH1461 WT 0.90
+#=GS SH1822 WT 0.95
+#=GS SH2179 WT 0.17
+#=GS SH2028 WT 1.22
+#=GS SH0593 WT 0.88
+#=GS SH2173 WT 1.10
+#=GS SH1417 WT 1.38
+#=GS SH0542 WT 1.08
+#=GS SH0430 WT 1.13
+#=GS SH1531 WT 0.93
+#=GS SH0866 WT 1.46
+#=GS SH2497 WT 1.09
+#=GS SH1293 WT 1.13
+#=GS SH2208 WT 1.13
+#=GS SH0545 WT 0.74
+#=GS SH0896 WT 0.80
+#=GS SH0425 WT 1.13
+#=GS SH1689 WT 0.98
+#=GS SH0706 WT 1.10
+#=GS SH0456 WT 0.17
+#=GS SH2035 WT 1.09
+#=GS SH2045 WT 1.01
+#=GS SH0888 WT 0.87
+#=GS SH0762 WT 1.24
+#=GS SH0358 WT 0.61
+#=GS SH0610 WT 0.70
+#=GS SH0245 WT 1.20
+#=GS SH0519 WT 1.08
+#=GS SH1432 WT 1.09
+#=GS SH0551 WT 0.94
+#=GS SH0505 WT 1.20
+#=GS SH0579 WT 1.26
+#=GS SH0718 WT 0.86
+#=GS SH0511 WT 1.13
+#=GS SH0427 WT 1.27
+#=GS SH1510 WT 0.85
+#=GS SH2121 WT 1.14
+#=GS SH1189 WT 0.99
+#=GS SH1026 WT 1.28
+#=GS SH0162 WT 1.26
+#=GS SH0273 WT 0.87
+#=GS SH2211 WT 1.21
+#=GS SH1222 WT 0.87
+#=GS SH0484 WT 0.84
+#=GS SH1545 WT 1.26
+#=GS SH2640 WT 1.21
+#=GS SH0126 WT 1.15
+#=GS SH1848 WT 0.79
+#=GS SH2168 WT 1.07
+#=GS SH0713 WT 0.96
+#=GS SH0052 WT 0.96
+#=GS SH2250 WT 1.07
+#=GS SH2582 WT 0.98
+#=GS SH0841 WT 0.70
+#=GS SH2027 WT 1.01
+#=GS SH0541 WT 0.92
+#=GS SH1561 WT 0.88
+#=GS SH2436 WT 1.09
+#=GS SH1527 WT 0.71
+#=GS SH2259 WT 0.87
+#=GS SH2067 WT 0.97
+#=GS SH2520 WT 1.09
+#=GS SH1593 WT 0.80
+#=GS SH1462 WT 0.61
+#=GS SH0786 WT 0.79
+#=GS SH2630 WT 0.96
+#=GS SH2407 WT 0.93
+#=GS SH0892 WT 1.23
+#=GS SH0901 WT 0.59
+#=GS SH0722 WT 0.53
+#=GS SH1284 WT 0.88
+#=GS SH1972 WT 1.16
+#=GS SH0424 WT 1.27
+#=GS SH1815 WT 1.15
+#=GS SH2488 WT 1.06
+#=GS SH0915 WT 1.05
+#=GS SH2013 WT 1.12
+#=GS SH1558 WT 1.05
+#=GS SH1156 WT 1.11
+#=GS SH1291 WT 1.04
+#=GS SH1215 WT 1.24
+#=GS SH1044 WT 1.14
+#=GS SH1704 WT 1.12
+#=GS SH0558 WT 0.95
+#=GS SH0458 WT 1.09
+#=GS SH0953 WT 0.17
+#=GS SH1120 WT 1.12
+#=GS SH1935 WT 1.05
+#=GS SH2595 WT 0.92
+#=GS SH0799 WT 0.80
+#=GS SH0040 WT 0.99
+#=GS SH1833 WT 1.04
+#=GS SH0350 WT 0.85
+#=GS SH2459 WT 1.20
+#=GS SH2302 WT 0.77
+#=GS SH1692 WT 1.10
+#=GS SH1097 WT 1.22
+#=GS SH0344 WT 0.21
+#=GS SH1847 WT 0.79
+#=GS SH0426 WT 1.02
+#=GS SH0322 WT 1.28
+#=GS SH0972 WT 0.56
+#=GS SH1176 WT 0.94
+#=GS SH2538 WT 0.94
+#=GS SH0913 WT 1.19
+#=GS SH1164 WT 1.04
+#=GS SH0567 WT 1.16
+#=GS SH2450 WT 0.88
+#=GS SH0985 WT 1.16
+#=GS SH2071 WT 1.41
+#=GS SH0686 WT 0.92
+#=GS SH1979 WT 0.95
+#=GS SH2492 WT 1.16
+#=GS SH2604 WT 0.77
+#=GS SH0334 WT 1.56
+#=GS SH2513 WT 1.11
+#=GS SH1029 WT 1.27
+#=GS SH1592 WT 0.80
+#=GS SH1350 WT 1.29
+#=GS SH1254 WT 1.05
+#=GS SH1746 WT 0.91
+#=GS SH0837 WT 0.75
+#=GS SH1583 WT 0.91
+#=GS SH1960 WT 0.25
+#=GS SH2026 WT 1.01
+#=GS SH0508 WT 1.23
+#=GS SH2551 WT 1.05
+#=GS SH1990 WT 1.35
+#=GS SH1423 WT 0.95
+#=GS SH1975 WT 1.16
+#=GS SH1878 WT 1.20
+#=GS SH1812 WT 0.96
+#=GS SH0312 WT 1.28
+#=GS SH0671 WT 1.12
+#=GS SH1160 WT 0.95
+#=GS SH0614 WT 1.15
+#=GS SH1409 WT 0.58
+#=GS SH0552 WT 0.94
+#=GS SH2449 WT 1.00
+#=GS SH2622 WT 0.32
+#=GS SH0296 WT 1.00
+#=GS SH2266 WT 1.04
+#=GS SH2138 WT 1.18
+#=GS SH1691 WT 1.03
+#=GS SH0662 WT 0.81
+#=GS SH0333 WT 1.07
+#=GS SH0871 WT 0.93
+#=GS SH2491 WT 1.04
+#=GS SH2414 WT 1.10
+#=GS SH1976 WT 1.05
+#=GS SH0060 WT 1.09
+#=GS SH1165 WT 1.11
+#=GS SH1640 WT 1.08
+#=GS SH1974 WT 0.79
+#=GS SH1988 WT 1.22
+#=GS SH0486 WT 1.29
+#=GS SH0098 WT 1.11
+#=GS SH1381 WT 1.06
+#=GS SH0029 WT 0.25
+#=GS SH2116 WT 0.88
+#=GS SH0561 WT 0.97
+#=GS SH1933 WT 0.98
+#=GS SH1050 WT 0.49
+#=GS SH1437 WT 0.84
+#=GS SH0465 WT 1.22
+#=GS SH0134 WT 1.00
+#=GS SH0875 WT 0.45
+#=GS SH0078 WT 1.18
+#=GS SH2249 WT 1.18
+#=GS SH2041 WT 0.85
+#=GS SH2403 WT 0.50
+#=GS SH2544 WT 0.72
+#=GS SH1926 WT 1.09
+#=GS SH0062 WT 0.75
+#=GS SH0186 WT 1.02
+#=GS SH0472 WT 0.99
+#=GS SH1676 WT 1.10
+#=GS SH2056 WT 1.04
+#=GS SH0405 WT 1.01
+#=GS SH1435 WT 1.14
+#=GS SH1520 WT 1.04
+#=GS SH2255 WT 0.82
+#=GS SH2054 WT 1.10
+#=GS SH1250 WT 1.02
+#=GS SH0198 WT 1.14
+#=GS SH0285 WT 0.95
+#=GS SH1150 WT 0.87
+#=GS SH0377 WT 0.45
+#=GS SH1331 WT 0.56
+#=GS SH2439 WT 1.12
+#=GS SH0604 WT 0.86
+#=GS SH0969 WT 1.31
+#=GS SH2668 WT 0.86
+#=GS SH0287 WT 0.98
+#=GS SH0664 WT 1.18
+#=GS SH2484 WT 0.84
+#=GS SH0570 WT 1.02
+#=GS SH0007 WT 1.11
+#=GS SH0124 WT 0.95
+#=GS SH1197 WT 1.06
+#=GS SH0133 WT 1.04
+#=GS SH1010 WT 0.80
+#=GS SH1913 WT 1.00
+#=GS SH1549 WT 1.43
+#=GS SH0777 WT 1.13
+#=GS SH2120 WT 1.03
+#=GS SH0114 WT 0.98
+#=GS SH1559 WT 1.06
+#=GS SH0838 WT 0.90
+#=GS SH0354 WT 1.23
+#=GS SH0423 WT 1.09
+#=GS SH0132 WT 1.25
+#=GS SH1034 WT 1.08
+#=GS SH0529 WT 1.24
+#=GS SH2412 WT 1.16
+#=GS SH0470 WT 1.22
+#=GS SH0868 WT 1.07
+#=GS SH0316 WT 0.98
+#=GS SH1030 WT 1.58
+#=GS SH0101 WT 1.05
+#=GS SH2669 WT 1.26
+#=GS SH0039 WT 1.09
+#=GS SH2258 WT 0.98
+#=GS SH0586 WT 0.87
+#=GS SH0667 WT 1.02
+#=GS SH0257 WT 1.02
+#=GS SH0946 WT 0.15
+#=GS SH0590 WT 0.99
+#=GS SH0159 WT 1.18
+#=GS SH0125 WT 1.07
+#=GS SH0127 WT 1.10
+#=GS SH2667 WT 0.86
+#=GS SH0211 WT 1.02
+#=GS SH0784 WT 1.17
+#=GS SH2471 WT 1.06
+#=GS SH0498 WT 1.09
+#=GS SH2261 WT 1.01
+#=GS SH1861 WT 1.25
+#=GS SH1560 WT 0.88
+#=GS SH0876 WT 0.95
+#=GS SH2240 WT 1.12
+#=GS SH2262 WT 1.05
+#=GS SH2023 WT 1.05
+#=GS SH2115 WT 0.88
+#=GS SH0256 WT 0.92
+#=GS SH0436 WT 0.98
+#=GS SH2137 WT 1.22
+#=GS SH1057 WT 1.14
+#=GS SH1149 WT 1.09
+#=GS SH0145 WT 0.67
+#=GS SH0624 WT 1.04
+#=GS SH2626 WT 1.14
+#=GS SH0937 WT 0.50
+#=GS SH0153 WT 1.09
+#=GS SH0272 WT 0.97
+#=GS SH1572 WT 1.22
+#=GS SH1645 WT 1.09
+#=GS SH0299 WT 1.20
+#=GS SH0544 WT 0.74
+#=GS SH1992 WT 1.05
+#=GS SH1264 WT 1.19
+#=GS SH1032 WT 0.83
+#=GS SH0362 WT 1.11
+#=GS SH1491 WT 0.98
+#=GS SH0546 WT 1.04
+#=GS SH1909 WT 1.16
+#=GS SH2043 WT 0.10
+#=GS SH1547 WT 1.15
+#=GS SH2586 WT 1.22
+#=GS SH2192 WT 0.21
+#=GS SH1623 WT 1.25
+#=GS SH1630 WT 1.08
+#=GS SH0603 WT 0.92
+#=GS SH1716 WT 1.21
+#=GS SH1867 WT 1.38
+#=GS SH0882 WT 0.10
+#=GS SH0079 WT 0.15
+#=GS SH1875 WT 1.22
+#=GS SH2210 WT 1.01
+#=GS SH0196 WT 1.17
+#=GS SH0768 WT 0.99
+#=GS SH1821 WT 1.14
+#=GS SH0089 WT 1.25
+#=GS SH0637 WT 1.10
+#=GS SH0727 WT 1.03
+#=GS SH2093 WT 1.27
+#=GS SH1962 WT 0.10
+#=GS SH1835 WT 0.85
+#=GS SH2167 WT 1.31
+#=GS SH1740 WT 1.28
+#=GS SH1600 WT 1.42
+#=GS SH1590 WT 1.07
+#=GS SH2063 WT 0.87
+#=GS SH1546 WT 1.06
+#=GS SH2383 WT 1.73
+#=GS SH1344 WT 1.12
+#=GS SH0207 WT 1.13
+#=GS SH1123 WT 1.12
+#=GS SH1474 WT 1.09
+#=GS SH1956 WT 1.02
+#=GS SH0865 WT 1.09
+#=GS SH1444 WT 1.26
+#=GS SH0020 WT 1.18
+#=GS SH0766 WT 1.30
+#=GS SH2095 WT 1.11
+#=GS SH0420 WT 0.79
+#=GS SH0580 WT 0.93
+#=GS SH0997 WT 1.16
+#=GS SH0874 WT 1.24
+#=GS SH0185 WT 1.02
+#=GS SH0219 WT 0.99
+#=GS SH2293 WT 1.02
+#=GS SH2678 WT 0.96
+#=GS SH2200 WT 1.10
+#=GS SH0239 WT 0.99
+#=GS SH0318 WT 1.31
+#=GS SH0649 WT 1.18
+#=GS SH1756 WT 1.14
+#=GS SH2091 WT 1.00
+#=GS SH2554 WT 1.09
+#=GS SH2415 WT 0.84
+#=GS SH0797 WT 1.17
+#=GS SH1053 WT 1.05
+#=GS SH2500 WT 1.22
+#=GS SH0863 WT 1.19
+#=GS SH1219 WT 1.05
+#=GS SH1199 WT 1.28
+#=GS SH0432 WT 1.42
+#=GS SH2641 WT 1.26
+#=GS SH0918 WT 1.06
+#=GS SH1944 WT 0.83
+#=GS SH0852 WT 1.10
+#=GS SH1841 WT 1.35
+#=GS SH0283 WT 1.25
+#=GS SH0302 WT 1.10
+#=GS SH1594 WT 1.07
+#=GS SH0719 WT 0.86
+#=GS SH0769 WT 1.25
+#=GS SH0297 WT 1.15
+#=GS SH1688 WT 0.97
+#=GS SH0387 WT 1.00
+#=GS SH1260 WT 0.93
+#=GS SH2009 WT 1.10
+#=GS SH1425 WT 1.25
+#=GS SH0886 WT 0.95
+#=GS SH0121 WT 1.18
+#=GS SH1548 WT 1.18
+#=GS SH0956 WT 1.04
+#=GS SH0672 WT 1.07
+#=GS SH1416 WT 1.08
+#=GS SH0303 WT 1.10
+#=GS SH1019 WT 1.07
+#=GS SH0752 WT 1.22
+#=GS SH1406 WT 1.16
+#=GS SH1912 WT 1.10
+#=GS SH1978 WT 1.20
+#=GS SH2408 WT 1.03
+#=GS SH0556 WT 1.10
+#=GS SH0581 WT 1.06
+#=GS SH1489 WT 1.01
+#=GS SH1458 WT 1.14
+#=GS SH1849 WT 1.16
+#=GS SH1493 WT 1.27
+#=GS SH2498 WT 0.99
+#=GS SH0274 WT 0.87
+#=GS SH0281 WT 0.99
+#=GS SH2197 WT 1.22
+#=GS SH1752 WT 0.99
+#=GS SH0625 WT 1.21
+#=GS SH0437 WT 0.96
+#=GS SH2660 WT 1.03
+#=GS SH1995 WT 1.17
+#=GS SH0325 WT 1.03
+#=GS SH2395 WT 1.46
+#=GS SH1825 WT 1.14
+#=GS SH1268 WT 1.09
+#=GS SH0653 WT 1.26
+#=GS SH1659 WT 1.30
+#=GS SH2311 WT 1.04
+#=GS SH2493 WT 1.12
+#=GS SH1170 WT 1.05
+#=GS SH0214 WT 1.43
+#=GS SH0716 WT 1.01
+#=GS SH0300 WT 0.78
+#=GS SH0790 WT 1.18
+#=GS SH0194 WT 1.00
+#=GS SH2332 WT 0.92
+#=GS SH0589 WT 1.19
+#=GS SH2617 WT 1.21
+#=GS SH0547 WT 0.99
+#=GS SH0042 WT 1.06
+#=GS SH0365 WT 1.04
+#=GS SH1351 WT 1.09
+#=GS SH2198 WT 1.36
+#=GS SH0543 WT 1.06
+#=GS SH1065 WT 0.90
+#=GS SH1522 WT 1.30
+#=GS SH2463 WT 1.08
+#=GS SH2638 WT 1.51
+#=GS SH0592 WT 0.88
+#=GS SH0459 WT 0.95
+#=GS SH0448 WT 1.14
+#=GS SH0246 WT 1.06
+#=GS SH0482 WT 1.00
+#=GS SH1424 WT 1.21
+#=GS SH1283 WT 0.94
+#=GS SH1985 WT 1.04
+#=GS SH1639 WT 0.85
+#=GS SH1183 WT 0.98
+#=GS SH2559 WT 1.02
+#=GS SH1781 WT 1.39
+#=GS SH1900 WT 1.08
+#=GS SH0462 WT 1.07
+#=GS SH1816 WT 1.08
+#=GS SH0513 WT 1.03
+#=GS SH0920 WT 1.10
+#=GS SH0230 WT 0.89
+#=GS SH1980 WT 0.95
+#=GS SH0663 WT 1.21
+#=GS SH2405 WT 1.26
+#=GS SH1105 WT 0.88
+#=GS SH1031 WT 1.03
+#=GS SH1759 WT 0.44
+#=GS SH2437 WT 1.12
+#=GS SH0151 WT 1.10
+#=GS SH2607 WT 0.44
+#=GS SH1371 WT 1.02
+#=GS SH1079 WT 0.07
+#=GS SH1159 WT 1.22
+#=GS SH0883 WT 0.07
+#=GS SH1329 WT 0.07
+#=GS SH1741 WT 1.02
+#=GS SH0454 WT 0.07
+#=GS SH0100 WT 1.07
+#=GS SH0707 WT 1.29
+#=GS SH1011 WT 0.80
+#=GS SH0650 WT 0.89
+#=GS SH1378 WT 1.07
+#=GS SH1196 WT 0.63
+#=GS SH0795 WT 0.87
+#=GS SH0515 WT 0.07
+#=GS SH1205 WT 0.07
+#=GS SH0478 WT 0.07
+#=GS SH0951 WT 0.07
+#=GS SH1934 WT 1.20
+#=GS SH0858 WT 0.07
+#=GS SH2427 WT 0.07
+#=GS SH0998 WT 1.18
+#=GS SH0737 WT 1.11
+#=GS SH1792 WT 1.34
+#=GS SH1856 WT 1.05
+#=GS SH0288 WT 0.98
+#=GS SH1946 WT 1.16
+#=GS SH1136 WT 1.06
+#=GS SH1020 WT 1.16
+#=GS SH1963 WT 0.07
+#=GS SH1666 WT 0.84
+#=GS SH1897 WT 0.07
+#=GS SH2165 WT 0.98
+#=GS SH1871 WT 0.07
+#=GS SH1418 WT 0.92
+#=GS SH2320 WT 1.10
+#=GS SH1503 WT 0.07
+#=GS SH1555 WT 1.30
+#=GS SH0019 WT 1.04
+#=GS SH0166 WT 0.92
+#=GS SH1193 WT 1.06
+#=GS SH2642 WT 1.08
+#=GS SH0970 WT 0.07
+#=GS SH0583 WT 1.12
+#=GS SH1470 WT 1.09
+#=GS SH2042 WT 0.07
+#=GS SH2399 WT 1.30
+#=GS SH0939 WT 0.91
+#=GS SH1275 WT 1.10
+#=GS SH0248 WT 0.92
+#=GS SH2624 WT 1.16
+#=GS SH0464 WT 1.24
+#=GS SH1315 WT 1.00
+#=GS SH0203 WT 0.07
+#=GS SH2205 WT 1.33
+#=GS SH2062 WT 0.81
+#=GS SH0195 WT 1.18
+#=GS SH2279 WT 1.15
+#=GS SH2176 WT 0.07
+#=GS SH0840 WT 0.07
+#=GS SH1922 WT 1.21
+#=GS SH0715 WT 1.22
+#=GS SH0468 WT 1.09
+#=GS SH0674 WT 1.14
+#=GS SH1621 WT 0.67
+#=GS SH1402 WT 0.41
+#=GS SH0910 WT 0.91
+#=GS SH0108 WT 1.00
+#=GS SH0660 WT 0.96
+#=GS SH2345 WT 1.52
+#=GS SH0280 WT 1.21
+#=GS SH2253 WT 0.91
+#=GS SH2388 WT 1.14
+#=GS SH1054 WT 1.12
+#=GS SH1449 WT 1.09
+#=GS SH2419 WT 1.14
+#=GS SH0584 WT 1.13
+#=GS SH0183 WT 0.99
+#=GS SH1267 WT 1.09
+#=GS SH1596 WT 1.04
+#=GS SH1682 WT 1.27
+#=GS SH1190 WT 0.86
+#=GS SH1137 WT 0.99
+#=GS SH2458 WT 1.02
+#=GS SH0213 WT 1.38
+#=GS SH0306 WT 1.14
+#=GS SH2117 WT 1.19
+#=GS SH0666 WT 0.87
+#=GS SH2336 WT 0.99
+#=GS SH0485 WT 1.14
+#=GS SH1739 WT 1.28
+#=GS SH0735 WT 1.27
+#=GS SH1738 WT 1.12
+#=GS SH1095 WT 0.93
+#=GS SH2016 WT 0.07
+#=GS SH2223 WT 0.93
+#=GS SH1042 WT 1.05
+#=GS SH0371 WT 1.20
+#=GS SH0408 WT 1.00
+#=GS SH0560 WT 1.15
+#=GS SH0255 WT 1.00
+#=GS SH0031 WT 1.29
+#=GS SH2476 WT 0.91
+#=GS SH1102 WT 1.21
+#=GS SH1394 WT 1.34
+#=GS SH1441 WT 0.07
+#=GS SH1109 WT 1.18
+#=GS SH1172 WT 1.11
+#=GS SH0122 WT 0.75
+#=GS SH1879 WT 0.89
+#=GS SH1602 WT 1.12
+#=GS SH1977 WT 1.15
+#=GS SH0798 WT 1.42
+#=GS SH0927 WT 1.04
+#=GS SH0767 WT 1.01
+#=GS SH1751 WT 1.09
+#=GS SH0623 WT 1.18
+#=GS SH2162 WT 1.19
+#=GS SH0293 WT 0.93
+#=GS SH1796 WT 1.23
+#=GS SH2219 WT 1.00
+#=GS SH1439 WT 1.25
+#=GS SH1296 WT 0.94
+#=GS SH2567 WT 1.05
+#=GS SH1338 WT 0.84
+#=GS SH1961 WT 0.91
+#=GS SH1131 WT 0.91
+#=GS SH2461 WT 1.07
+#=GS SH0557 WT 1.08
+#=GS SH2621 WT 1.65
+#=GS SH0401 WT 1.31
+#=GS SH0483 WT 0.99
+#=GS SH1970 WT 1.37
+#=GS SH0535 WT 0.73
+#=GS SH0305 WT 1.39
+#=GS SH2040 WT 0.85
+#=GS SH1565 WT 1.11
+#=GS SH2442 WT 1.58
+#=GS SH2142 WT 1.10
+#=GS SH1387 WT 1.07
+#=GS SH1009 WT 1.03
+#=GS SH2400 WT 0.88
+#=GS SH1556 WT 0.88
+#=GS SH0805 WT 1.33
+#=GS SH2229 WT 1.15
+#=GS SH0647 WT 1.10
+#=GS SH0531 WT 1.08
+#=GS SH2333 WT 1.33
+#=GS SH2107 WT 1.09
+#=GS SH0443 WT 0.91
+#=GS SH1773 WT 0.98
+#=GS SH0936 WT 1.09
+#=GS SH0699 WT 1.18
+#=GS SH2034 WT 1.14
+#=GS SH1033 WT 0.83
+#=GS SH1247 WT 0.91
+#=GS SH0648 WT 1.15
+#=GS SH1706 WT 1.07
+#=GS SH1707 WT 1.16
+#=GS SH1971 WT 1.22
+#=GS SH0751 WT 1.12
+#=GS SH2145 WT 1.10
+#=GS SH0661 WT 0.86
+#=GS SH2154 WT 0.79
+#=GS SH1916 WT 1.18
+#=GS SH2268 WT 1.09
+#=GS SH1142 WT 0.95
+#=GS SH1708 WT 1.22
+#=GS SH2125 WT 1.17
+#=GS SH1882 WT 1.03
+#=GS SH1187 WT 1.39
+#=GS SH1528 WT 1.08
+#=GS SH1341 WT 1.01
+#=GS SH0129 WT 0.86
+#=GS SH1904 WT 1.33
+#=GS SH0599 WT 1.25
+#=GS SH1943 WT 0.83
+#=GS SH0090 WT 0.89
+#=GS SH1544 WT 1.31
+#=GS SH2589 WT 1.21
+#=GS SH1428 WT 0.85
+#=GS SH1604 WT 1.05
+#=GS SH1427 WT 0.85
+#=GS SH1062 WT 0.90
+#=GS SH0704 WT 1.02
+#=GS SH2547 WT 1.15
+#=GS SH0507 WT 1.28
+#=GS SH2645 WT 0.85
+#=GS SH2190 WT 0.64
+#=GS SH1063 WT 0.90
+#=GS SH2161 WT 1.24
+#=GS SH0278 WT 1.04
+
+SH0400       UUAAC------UAAAUG----------------------AAAGC--AC-C
+SH1581       AUAAC-------AAAUUA--------------------UAAAGA--AG-C
+SH1701       GUAAUU-----AAAGU-----------------------AAAAG--AG-U
+SH1117       CUAAU----------UGUUA---------------GCACAAUAA--GC-U
+SH0691       UUCAA-------AAA-------------------------UAGC--CC-G
+SH0116       UAAAU-------AAAU-------------------------GAA--CG-A
+SH0618       AAAAU-------AAAUUAUUAG------------UAAAAGAAGC--AC-U
+SH0231       GAAAUA-----CAAAUA----------------------AUAAA--AG-C
+SH0375       UAAAUA-----AAGCUAUA-----------------CACAAACA--AG-C
+SH1384       AAAAU------AAAA-------------------------AAAA--UC-A
+SH1141       UUAAUA-----AAAAUAU--------------------AAAAAU--AC-A
+SH2148       AUAAU-------AAA-------------------------UAAG--GC-A
+SH2189       AAAAU-------AAAU------------------------AAAC--GC-U
+SH1434       CAAAUA----AGGAC-------------------------AGCU--AU-U
+SH2171       AAAAU-------AAAUAGUCACG---------CGAAAAUGUUGG--AA-C
+SH0895       UUAAU-------AUAU-----------------------AAAAA--GG-U
+SH1167       UUAAUA-----AAAA-------------------------GAAC--UC-C
+SH1383       AUAAA-------AAAUA----------------------AAAAA--UC-A
+SH2392       UUCAC-------AGCU------------------------ACGA--CU-G
+SH1575       AUAAU-------AAA-------------------------AAAG--GC-A
+SH1092       AUAAU----------UUU-------------------UAAAAAG--AG-U
+SH1217       AAAAU------UAAA-------------------------AAUC--CA-G
+SH1413       UUAAUG-----UAAA-------------------------AGAG--AC-U
+SH0622       AAAAU-------CAAU------------------------UAAA--GC-C
+SH2644       AACAA-------AAA-------------------------UGAC--CU-C
+SH0361       ACAAU-------AAAUAUAUA-------------GCACAUAAAA--AG-C
+SH1582       UUCAU------UAAGU-----------------------AAGCG--AU-U
+SH0900       AGAA--------AAGUA----------------------AAACC--AC-C
+SH2510       UUGAU----------UGUUAU--------------CUUUAUGGG--AG-U
+SH1292       UAUAU-------AAAU-----------------------AAUAG--AC-U
+SH0609       CAAAU------GAAA-------------------------AAGA--AC-C
+SH2423       UUCAUA-----UAAAUA---------------------AUAAGG--CA-G
+SH1126       AAGAU----------U------------------------AAAA--AG-G
+SH1832       AUAAA-------GUA-------------------------AAAG--GA-G
+SH2546       AUAAU-------AUA-------------------------AAAA--AG-C
+SH2155       AAAAUU-----AAAAUAAUAAAAAC------GUAAAGUAUAAAG--GC-U
+SH1431       AUCAU----------UC----------------------AAAAG--AG-A
+SH0642       UAAAU------CAAA-------------------------AAAA--CA-C
+SH2149       UGAAU-------AACUAA-------------------CAAAAGG--CA-A
+SH2552       AUCAU------ACAAU-----------------------AUAAA--AA-G
+SH0598       UAAAU-------AAAUU----------------------AAAAA--GU-C
+SH2290       UUAA--------GAA-------------------------AAGC--AU-U
+SH0085       UAAAU----------UUU--------------------AGCGCC--AC-A
+SH0015       GUCAUA-----AAAAUAU--------------------UUUACC--GU-A
+SH1702       UUAAUGU--AAAAAA-------------------------UAAG--AG-U
+SH2285       UUCAU-------CACU------------------------A-GG--AG-C
+SH2625       AUAAUAU--CGAAUC--------------------------CCC--AC-C
+SH0619       UCAAUA-----CAAC-------------------------AAGC--AC-U
+SH0621       CAAAU------AAACUUAU-----------------AGAAAAGC--CC-A
+SH1036       ACAAU-------AAAU------------------------AGCC--AG-U
+SH0646       UUAA--------AAAUACU------------------UAUAUGG--CU-U
+SH0002       UUAAU----------U------------------------UGGA--GU-U
+SH1000       UUAAU-------AAA-------------------------UGAA--CG-C
+SH1157       AUAAA-------AAAU------------------------AAAU--CC-U
+SH0128       UUAAU-------AAAUUU-------------------AAAAAAG--UG-A
+SH1048       AUAAUU-----AACA-------------------------UAAA--AC-U
+SH1216       UUAAUA-----UAAAU------------------------AAUC--CA-G
+SH2260       UAAAUA-----UGGA-------------------------GAAG--GC-G
+SH2314       UUCAU----------UU----------------------AUCAC--AA-A
+SH0452       UUAAUA-----UGAA-------------------------AAAU--AG-A
+SH0693       AAAAU------AACA-------------------------UUAA--GC-U
+SH1580       AGCAUAG---UUAAA-------------------------AAGC--AU-C
+SH1845       AAAAU-------AAA-------------------------AAAU--GU-C
+SH1111       CACAUA-----UAACUAA-------------------UAAAAGG--AG-U
+SH1229       AUAAU-----------------------------------AGCC--AG-U
+SH0800       CAAAU-------AAAUGGU-----------------AAAAAAAG--GA-C
+SH0566       AGAAU------C---U------------------------AGCC--AG-U
+SH0360       GAAAC------GAUAUUUGU---------------ACUAUAAAA--AG-C
+SH0469       UUAAAG-----AAAAU-------------------------GAC--UC-C
+SH1837       AAAAU------CAAAUAACCUA------------UUAGUAUAAA--AG-G
+SH1842       CUCAA-------AAA-------------------------AGCC--AG-U
+SH0217       UAGAU-------AAAU------------------------AAAG--AU-G
+SH2044       AAAAUCUU-UCUAAAU-----------------------AAUAG--AA-A
+SH0536       UUAAU------UCAAUGA--------------------UAAUAA--AC-U
+SH0229       AUGAUU-----GAUA-------------------------AAAA--GC-G
+SH2014       AUAAU----------UCUUGAGA---------AAAAAGGUCGGG--GG-U
+SH2058       UUAAU----------UAUA-----------------GUAGUAGG--CU-A
+SH0277       AAAAU------GAAA-------------------------AAAC--AG-A
+SH1127       AUAAU-----------------------------------AAAA--AG-G
+SH1206       GAAAU------AGCC-------------------------------AG-U
+SH2594       CACAU-----------------------------------AAAA--AU-C
+SH1925       CUCAU------UAUA-------------------------AAAG--GU-C
+SH0376       AAAAU-------AAAUAAAAAUAUUGC--UUCUGCUAAACAUCA--AG-C
+SH0999       AAAAUA-----GAAA-------------------------ACGC--AU-C
+SH0569       AUAAU----------UAGUA---------------GUUGCAAAC--CU-U
+SH0357       AGAAU------UAAAUA---------------------UUAGAA--CU-G
+SH2426       AGAAC----------U------------------------UAAA--AC-C
+SH0912       AUAAU-------AAA-------------------------------GA-G
+SH1471       CUAAU------UAGA-------------------------AAAA--UC-C
+SH1574       AAAAU------UAAAUA---------------------AUAAAA--UG-C
+SH0123       GUAAA-------AGCUUAU------------------AUGACAA--UC-C
+SH2136       UUAAU-------AUAUUCAG---------------AUGUCAGAG--UU-C
+SH1238       UAAAU------UAAA-------------------------ACGA--GA-C
+SH0720       AAAAU-------AAAUAA-------------------AAAUAAG--CC-A
+SH0700       UUAAA-------AAA-------------------------GGCG--GG-A
+SH1473       UAAAU-------ACAU------------------------AACA--CC-C
+SH0605       AUCAUU----UAAAA-------------------------A-GC--AU-U
+SH0908       AAAAU-------AAAUAAU-----------------AUAAUAAA--UC-A
+SH2326       UUAA--------AAC-------------------------AGCC--AG-U
+SH0346       AUAAUA-----UAAG-------------------------AGUA--GG-A
+SH1844       UUAAUA-----UAGA-------------------------AAAA--UG-U
+SH1122       UUCAC------U----GAG-----------------UAUCAUAG--UA-U
+SH0893       AAGAU-------AAC-------------------------UAAA--CC-U
+SH1472       UUAAU------UGACUAA-------------------AAAAACA--CC-C
+SH0905       UUUAU-------AAA-------------------------AAAC--CC-U
+SH0477       UAGAG-------AAAU------------------------AGCC--AG-U
+SH2398       CUAAU----------U------------------------AAGC--GC-U
+SH2194       UGAAUA-----GAAA-------------------------UAAA--AA-U
+SH0493       UAAAA-------AAAU------------------------AAGA--GU-U
+SH1194       AGCAU------UAAG-------------------------AAGG--CC-A
+SH0887       GUAAA-------AAAU-------------------------AGG--GG-U
+SH0082       AAAAUA----AGCAA-------------------------AAAG--CC-C
+SH1964       UAAAU-----------------------------------------UG-G
+SH1121       AACAU------UAAAUCG--------------------UAAGGG--AG-C
+SH1576       AAAAUA-----A----------------------------------GG-C
+SH1827       AAAAA------GAACU------------------------AGGA--CU-G
+SH0539       AUAAUU-----GAAAUU---------------------AGAAGC--CA-U
+SH0909       UUCAUU----AUAAA-------------------------AUCA--AC-C
+SH0794       UGAAU-------AAAUAU--------------------GAAAAA--AG-C
+SH0772       GU-AU----------U------------------------AAAG--CC-A
+SH0791       GACAU----------UA---------------------UGAUAU--GCUC
+SH1025       UUGAUAU--CCAAAA-------------------------AAGA--GG-G
+SH0315       UUGAA-------GAA-------------------------ACAC--CU-C
+SH2203       AUAAU------------------------------------UGG--AG-U
+SH1966       UGGAU-------AAGUGA-------------------AAAAAAG--AC-A
+SH2144       AUAAA-------AAA-------------------------UAAA--GC-C
+SH0694       CUAAU------GAAA-------------------------AAGC--UC-C
+SH0449       AUAAU-------AAAUAU-------------------UAGAAAA--GC-C
+SH0022       GUAAU----------UAUUU---------------AGACGAACG--AC-C
+SH1883       UAAAU-------GUA-------------------------AAAA--AU-A
+SH0559       AUAA--------AAA-------------------------AAUG--GC-A
+SH0680       UUAAU----------UGGAU---------------UGAAGUGAG--AC-U
+SH0242       AUAAU-------CAAUAUU-----------------GAAAUUAA--UA-C
+SH1552       UUCAUA-----C---U------------------------------CC-U
+SH0193       UUAAU-------AAAUUAU------------------AUUAAAA--AG-A
+SH1214       AUAAU----------UUAUU---------------AAUACUGAC--AA-C
+SH2616       AGCACC-----UAAA-------------------------AAUC--CC-C
+SH1567       UAAAU----------U------------------------UGAG--GU-C
+SH0944       AGAAA-------AAAUAAAGGC-----------UCUAUAAUAAA--UU-G
+SH1695       UAAAU----------U------------------------UAAC--CC-U
+SH0641       AUAAU-------AAA-------------------------AAAC--AC-U
+SH0212       UUAAC-------GAAUU---------------------AAAAGC--AC-A
+SH2532       UAAAU-------AUA-------------------------------GC-U
+SH2654       UUCAU------A---U-----------------------UAUAA--CG-C
+SH1130       AUAAU----------U------------------------UAAA--CA-C
+SH1324       UAAAU-------AAAUAA--------------------AGUAAA--CU-C
+SH2590       AAAAU------AAGCUAUUU----------------AUAAAUAA--AG-C
+SH1072       UAAAA-------AAA-------------------------------GG-U
+SH0521       ACAAU------UAAAUAA--------------------UAAAAC--AA-G
+SH0771       UUAAU------UAAA-------------------------UAAG--CC-A
+SH1839       UAAAUA-----AGGAU-----------------------GAUAA--CC-U
+SH0073       CACAU----------U-----------------------UAAAA--AU-C
+SH1526       ACAAU----------U------------------------AAAC--CC-U
+SH0506       UUAAU-------AGAU------------------------AUAA--GC-G
+SH0171       UGUAU-------AAG--------------------------GCA--CC-U
+SH2066       UUCAU------GGACU-----------------------UAGAG--AG-A
+SH0933       AUAAU----------U------------------------AAAA--AG-G
+SH0091       UGAAU------AACA-------------------------AAAC--AG-U
+SH1073       CUAAU------UAAAUU---------------------AAAAAA--AG-G
+SH2452       AUAAUU----ACAAAUU---------------------UAAAAC--CG-U
+SH1937       UAAAU-------AAGUGA--------------------UUCGAG--CC-U
+SH0349       CAAAUG-----ACAA-------------------------AAAA--GC-A
+SH0867       UUAAA-------AAA-------------------------ACGG--CA-A
+SH2248       AGAAU-------GAAU------------------------AAGG--UU-A
+SH0356       ACAAU-------AAAUACAA---------------ACUUAAAGC--GU-G
+SH2143       UUAAU-------AAA-------------------------AAAC--CU-U
+SH0226       UUGAU----------U------------------------AAGG--CC-C
+SH1071       UUGAU------UCAAUAAAAAGG---------CUCUAUAAUAAA--UU-G
+SH0453       UAGAG-------AAAU------------------------AGCC--AG-U
+SH0587       AACAUA-----UAAA-------------------------AUAG--GC-A
+SH0992       AUGAU-------AAA-------------------------AAGU--GC-C
+SH0627       AAAAU-------AAAUUGUGAAA----------GUAUAACAAGA--AC-U
+SH0839       UAGAG-------AAAU------------------------AGCC--AG-U
+SH0955       UCAAU-------CUA-------------------------AGCA--AG-U
+SH0687       AUAAU-------AACUA---------------------AUAAAC--CU-C
+SH2269       UUGAU------UAAAU------------------------CAAU--GA-G
+SH1924       AAAAU------AAAAUGU--------------------AAAAAG--GU-C
+SH0373       UGAAUA-----ACGA-------------------------AAAG--UC-C
+SH0061       UUAAU------A----------------------------UAAG--AG-C
+SH0374       UUAAU----------UUUGACUUU--------AUACAACAAAGG--UC-C
+SH1243       GACAU-------AGAUU---------------------AAGCAG--AU-G
+SH0460       UUAAUA-----CAAAU-----------------------GAAAA--AG-C
+SH0473       AUAAU-------AAA-------------------------CAUG--GG-U
+SH1597       AUAAU-------AUC-------------------------UUAA--UG-G
+SH2295       CACACC-----UAAA--------------------------AAU--CC-C
+SH1677       UUAAU------UAAGU-----------------------GAAAA--UA-U
+SH1461       UUAAU------ACUAUAACA----------------GUAAGUAG--CC-A
+SH1822       AUAAU------GAAGU-----------------------AAAAG--AG-A
+SH2179       UGGAU-------AAGUGA--------------------AAAAAG--AC-A
+SH2028       UAGAU------UAAGUUUU------------------UAGAGAC--UU-A
+SH0593       AUCAUAA---AAAAC-------------------------AAGC--UG-U
+SH2173       UAUAU------AAAGUA----------------------AAAGG--UA-A
+SH1417       UGCAU----------U------------------------UAAU--UG-A
+SH0542       UGCAUG----ACAAAU------------------------AAGA--AA-A
+SH0430       UGAAU-------AAGUAUGU---------------AUAAAUUGG--AU-A
+SH1531       AAAAU-------AAAUUGAUG--------------UUAUUAAAG--GC-U
+SH0866       AAAAUA----GUAAA--------------------------GGC--AA-U
+SH2497       UAAAU-------AAG-------------------------AAAU--GG-C
+SH1293       AAAAU-------AAA-------------------------AAAG--AC-U
+SH2208       UUAAA-------ACG-------------------------AAAA--AC-C
+SH0545       UUAAU-------AAAUA----------------------AACAG--GA-G
+SH0896       CUAAU-------AGAUA---------------------AUAAAA--GG-U
+SH0425       UAGAU----------U-----------------------AUAAG--AC-C
+SH1689       UGAAU-------AACUAAUU----------------UCUAAAAU--AG-C
+SH0706       UAAAU------AAAAUGAUGUUGGGGG--ACAUUAUUUUUAAAG--UA-U
+SH0456       UGGAU-------AAGUGA--------------------AAAAAG--AC-A
+SH2035       UUAAUA-----ACAAUCA--------------------CAAGUA--CC-A
+SH2045       AUAAU-------GAA-------------------------AGAA--AC-U
+SH0888       UUAAU-----------------------------------CAGG--GG-U
+SH0762       CUAAU------U----CUAUUA-----------GUAAGUUUAAA--AG-C
+SH0358       CUAAU------AAAA-------------------------AUAG--GC-A
+SH0610       AACAUU----UUAAA-------------------------AAGA--AC-C
+SH0245       AUAAU-------AUAUA---------------------AAUUAA--GA-G
+SH0519       GAAAU-------AGAUU---------------------CGACAC--AC-U
+SH1432       UUAAU-----------------------------------AAGA--GC-U
+SH0551       UGAAU-------AAAU-----------------------AAAAA--AU-A
+SH0505       CAAAC------UAAAU------------------------AAGC--GU-A
+SH0579       CAAAA-------GAA-------------------------GACC--CC-A
+SH0718       AACAU----------U-------------------------AAA--GC-G
+SH0511       ACAAUA-----ACAAUAUUU----------------AGAAAAGC--CA-C
+SH0427       AAGAUA-----U----UU--------------------AAAAAA--GC-U
+SH1510       AAAAU-------AAA-------------------------AAAC--AC--
+SH2121       AUAAU------CAAAUUUAACC-----------AUGACAUACAA--AU-G
+SH1189       UUAAU-------GAAUAU--------------------AAGUAA--GC-U
+SH1026       UUAAU------GCUAUAAAAGUAU--------AUAUAGUAAGAG--GG-U
+SH0162       UAAAC-------AAAUU----------------------AAAAC--UC-C
+SH0273       UAAAU-------ACAU------------------------AAAG--GG-A
+SH2211       UUGAUG-----GAGAUGC--------------------UUGUCC--AG-U
+SH1222       AAAAU----------UAU-------------------GAUAUAG--UA-A
+SH0484       UAAAU-----------------------------------AGGA--AU-U
+SH1545       AAAAU-------AUAUCCU-----------------CCUAUCAA--UG-A
+SH2640       UCAAU-------AAA-------------------------AUAA--UC-C
+SH0126       AUCAU-------AAAUAUUUA--------------UUAAAAUAG--GC-A
+SH1848       AAAAUAU---AAAACU------------------------AAAA--UC-U
+SH2168       GUAAUU-----AAAAU------------------------AAGC--GA-U
+SH0713       AUUAU-------AAA--------------------------AAA--GC-A
+SH0052       ACAAU-------AACUA---------------------UAAUGA--GC-C
+SH2250       AUAAU------UAAAUUGA-----------------AAGUAGAA--AG-C
+SH2582       UGAAU----------UA----------------------UAAAA--CC-C
+SH0841       AUAAA-----------------------------------AAAG--AC-A
+SH2027       UAAAU------AAAAU------------------------GAGC--UG-U
+SH0541       AGAAA-----------------------------------------AG-U
+SH1561       GGAAU------UAAA-------------------------AAAG--AC-C
+SH2436       AACAU-------AAA-------------------------C-AA--AA-C
+SH1527       UGAAU-------AUAUUUUGAUU----------UAUAGUAAAAC--CC-U
+SH2259       AAAAU----------U-----------------------UAAAG--GC-G
+SH2067       AAAAU-----------------------------------AGAG--AG-A
+SH2520       AUAAU-------AUAUGU-------------------CUGAGAA--AG-A
+SH1593       UACAU----------U------------------------AAAA--AA-C
+SH1462       AUAAUU-----AAAA-------------------------GAAG--GC-A
+SH0786       ACAAU------UAAAUUAAUA-------------UGUAGAAAGA--GG-C
+SH2630       ACAAUA-----UAAA-------------------------AAAA--GC-A
+SH2407       AUAAUA-----G----------------------------AAAA--GC-G
+SH0892       UUAAU-------GCAU------------------------AGGG--GA-A
+SH0901       AAAAU-------AAA-------------------------AACC--AC-C
+SH0722       AUAAU-----------------------------------AAAU--UG-G
+SH1284       UAAAU----------UA---------------------UUAGGG--AG-U
+SH1972       AAAAU------GAUA-------------------------UUAG--AC-C
+SH0424       AUGAU------U----AU--------------------AAACCC--CU-U
+SH1815       UAAAA-------AAA-------------------------GGGG--CU-A
+SH2488       CUAAUAU---CGAAAUU----------------------AAAUA--AC-C
+SH0915       CUAAUU----AUAAGUU----------------------UAAAC--UG-U
+SH2013       AAAAU-------AAG--------------------------GGG--UA-G
+SH1558       AUAAU-------AUAUGA-------------------ACUUUGA--AG-C
+SH1156       UUAAUU-----AAAA-------------------------AUAC--AA-A
+SH1291       UAAAU-------ACAU------------------------UAGU--CA-U
+SH1215       UUAAU-----------------------------------AUGG--CG-A
+SH1044       UAAAU------UGAA-------------------------AUGC--UC-C
+SH1704       AUAAU----------UUU-------------------UUAUAUG--CA-C
+SH0558       GUAAU-------AUAU------------------------AAAU--GG-C
+SH0458       UCCAUAU---UAAACU------------------------------AC-C
+SH0953       UGGAU-------AAGUGA-------------------AAAAAAG--AC-A
+SH1120       CUAAUU-----UAAA-------------------------AGCG--UU-U
+SH1935       UAAAU-------AUAU------------------------UAGC--AU-U
+SH2595       UUAAU----------UAAC-----------------ACGCAAAA--AU-C
+SH0799       UUAAUA-----AGGA-------------------------AAAG--GA-C
+SH0040       UUUAU------UAAA-------------------------GUAA--GA-C
+SH1833       GUCAU------AAAAU------------------------AAGG--AG-A
+SH0350       AUGAU-------AAAU------------------------AAAA--GC-A
+SH2459       UUAAU----------UAUUCCUU----------AUUUCUAAAUG--AG-A
+SH2302       UACA--------AAA-------------------------------AU-C
+SH1692       CAAAUU-----AAAAUUAAG---------------CAAAAAAAA--UG-C
+SH1097       UAAAU----------UUAU-----------------AACCUACA--AU-A
+SH0344       CAAAUA-----U---U-------------------------GAG--AU-U
+SH1847       AGAAUU----AUAAA-------------------------AAAA--UC-U
+SH0426       UAAAU-------AAA-------------------------AAAG--AG-C
+SH0322       AUAA--------AAA-------------------------AGAG--GC-U
+SH0972       UGAAA-------AAA-------------------------AGAC--AA-U
+SH1176       AUAAU------AAAGUAAA-----------------AGGCAAGA--GA-A
+SH2538       UUAAU------ACAAU-----------------------UAAAG--AC-G
+SH0913       UUAAUU-----UAUAUAUUA----------------UUUAUAAC--AG-U
+SH1164       AUCAU-------GCA-------------------------UAAG--CG-A
+SH0567       AUAAUA-----UACAUUA-------------------CUAAGGU--AG-G
+SH2450       AUAA--------CAC-------------------------AGAA--CC-U
+SH0985       CUCAU----------UAUU-----------------UUACCAUU--AG-C
+SH2071       UUAAU------UCAAUUA-------------------CUUUUAC--CG-G
+SH0686       UGGAUAG---UAAAAU-----------------------GAAAC--CU-C
+SH1979       AUAA--------AAA-------------------------GUAG--CC-C
+SH2492       UUAAU------A---UAAA------------------CGAUGGC--AC-G
+SH2604       GCCAC-------ACCUA----------------------CAACA--AU-C
+SH0334       AACAA-----------------------------------AAAG--CU-U
+SH2513       UAAAU-------AAAUCAUA----------------CAUUAUGG--CA-G
+SH1029       ACAAU------AAAGU-----------------------AAAAU--GA-U
+SH1592       UUAAC-------AUCU------------------------GAAA--AA-C
+SH1350       CACACU-----UAAA-------------------------------AC-C
+SH1254       AUAAU----------UA---------------------UUUUAA--UC-U
+SH1746       AUGAU----------UU---------------------AUUUUA--AC-C
+SH0837       AUGAU------AAAAU------------------------------AG-G
+SH1583       UUAA--------AAAU-----------------------AAGCG--AU-U
+SH1960       CUAAU------A---U------------------------UGAG--AU-U
+SH2026       AUAAU----------UACUAU--------------UUUAAAAGC--UG-U
+SH0508       UUAAU----------U-----------------------AAGAG--GC-A
+SH2551       UCAAU----------UAG-------------------UAAAAAA--GG-U
+SH1990       UUAAU----------U-----------------------UUAGA--GG-U
+SH1423       AAAAU-------AAAUGAAGUA-----------UAUUUUACAAU--AG-C
+SH1975       AUAAU-------GAAUGUU------------------UAGGUAA--AC-C
+SH1878       CAAAU----------UUU--------------------ACUUAG--GU-G
+SH1812       AUAAUU-----UGAA-------------------------AAGU--AG-U
+SH0312       GUAAU------ACAA-------------------------------GC-C
+SH0671       UAAAC------GAAA-------------------------UAAA--GU-C
+SH1160       UAAAU------AAUAUA----------------------AAAAA--UC-C
+SH0614       UUAAUA-----UAAAUAUUAGUU----------UUUAAUAGUGA--GA-U
+SH1409       CACACC-----AAAA--------------------------AAU--CC-C
+SH0552       UGAAU-------AAAUUGG------------------UAUAAAA--AU-A
+SH2449       AGAAUA-----UAAAUAAGGU-------------GAGUUUAAAG--AG-C
+SH2622       UAGAG-------AAAU------------------------AGCC--AG-U
+SH0296       AUAAU-------AAA-------------------------AACA--AG-C
+SH2266       CAAAU------UAAGUAGA-----------------UUUGAGGG--AG-U
+SH2138       UUAAUA-----A----------------------------UAAG--UG-G
+SH1691       UUAAU-------AAAUAUAA---------------UGCACUAAA--AA-A
+SH0662       AGAAU------AAAAUG---------------------UUAAAG--AG-C
+SH0333       AUCAU------UAAAUGAG-----------------GAUAAUAA--AG-C
+SH0871       AGAAU----------U-----------------------UAAAA--UA-G
+SH2491       AUCAU------UAACUGUAUA-------------GUGAAAAAAG--CA-C
+SH2414       AUAAUU----AUCAA-------------------------UUAA--AC-G
+SH1976       UUCAU----------UC----------------------UAGAC--CA-G
+SH0060       UUAAUA-----AAACU------------------------AGAG--CA-U
+SH1165       UUAAU-------CAAUGAAUU--------------UAUUUGGAA--AU-C
+SH1640       UUAAUUU---UUAUAUA----------------------UUAAG--AG-G
+SH1974       AUAAU------ACAAUACG-----------------UUAAAAAC--GC-U
+SH1988       UCAAU------UAAAUAUGU---------------CUUACAAAG--UC-G
+SH0486       UACAU------CGAGUUAUC----------------GAGGGAAG--AG-G
+SH0098       AUCAUA-----GCCA-------------------------------CG-C
+SH1381       AUAAUUU---AAAACU------------------------UUGA--CC-C
+SH0029       CAAAU------A---U------------------------UGAG--AU-U
+SH2116       GUAAU-------GAAUAAUAUAGUU-----AGUAGUUAUCAAAG--UG-A
+SH0561       AAAAUA-----AAAAUACACAUAGG-----UUUAUACAAGCAAU--UC-A
+SH1933       UUCAU-------GGAU------------------------AAAA--AA-C
+SH1050       AUAAU------AAUAUGGUUC--------------UAUAAUAAA--UU-G
+SH1437       UACAU------------------------------------AAA--AU-A
+SH0465       AUAAA-------AAAU------------------------AACG--UU-U
+SH0134       UGAAU------CAAC-------------------------CUAG--CC-U
+SH0875       AAAAU----------UGAGGUU------------CUAUAAUAAA--UU-G
+SH0078       GAGAU------UAAAUC---------------------UUAAAA--AG-G
+SH2249       ACAAUU-----UAAA-------------------------AGGA--UC-G
+SH2041       UUAAC-------AGA-------------------------AAAA--CG-G
+SH2403       AAAAUU----GAAAAUUUGAU-------------ACAGUUAAAG--AG-G
+SH2544       UAAAUA-----AACA-------------------------AGCC--AG-U
+SH1926       UUAAUU----UUAAAU-----------------------CAUAC--GG-G
+SH0062       AAAAU------AAACU-----------------------AAAAG--AG-C
+SH0186       AAGAU-----------------------------------------CG-C
+SH0472       UUAAU-------AACU-------------------------AUG--GG-U
+SH1676       UUUAU-------AAGUAAA------------------GUAAUAG--AG-G
+SH2056       AUAAU----------U-----------------------UUAGA--CA-C
+SH0405       AUAAUU-----AAACUUUCAA-------------UAUUGUAAGCUAGC-C
+SH1435       AUCAUA----CAAACU------------------------CAUU--CC-C
+SH1520       AUAAU-------AUAUAAG------------------CACAUAC--GC-A
+SH2255       UUAAU------CCUAUUAA------------------AAGAGCC--AG-C
+SH2054       AGAAUU-----AAUA-------------------------AAGA--CG-G
+SH1250       AUAAUU-----AAAAUU----------------------UAAAG--UA-G
+SH0198       GACAU------UGAAUCUC-----------------GCGAAAAU--AG-G
+SH0285       UAAAU-------AAA-------------------------AAUA--AG-C
+SH1150       AAAAU-------AAAUAAUUGUA----------AGUAAACUAAA--GC-C
+SH0377       GCAAU-------AAAUAUUGGU-----------UCUAUAAUAAA--UU-G
+SH1331       UGAAA-------AAA-------------------------AGAC--AA-U
+SH2439       AUAAUG----AAAAAU-------------------------CAC--CC-C
+SH0604       AGAAUG-----AAAG-------------------------AAGC--AU-U
+SH0969       AAAAU------UGAA-------------------------------AU-U
+SH2668       GUAAU-------CAAUU----------------------AAAAA--GA-C
+SH0287       UUAAU------UACAUAGUAUAU----------ACGCAAUAAAA--AG-C
+SH0664       AAAAU------A-----------------------------AGG--AG-A
+SH2484       UUAAUG----UUAAAU------------------------AUAA--GC-U
+SH0570       AUAAU-------AACUAAAACG------------AUUAGUUUAA--AG-U
+SH0007       UAAAUAAGCUAU----A---------------------AAAAUA--AG-A
+SH0124       AACAC------UAAA-------------------------AAAA--UC-C
+SH1197       CUAAUU----AACAAU------------------------AAAC--AC-U
+SH0133       AAAAU----------UA----------------------UAAAU--GU-C
+SH1010       AAAAUG----GUAAAU------------------------UUUA--AC-G
+SH1913       UAAAU-------AAAU------------------------AAGU--CC-U
+SH1549       GUCAU-------AAAUAAUUGU------------UAAAAAAAGG--CA-U
+SH0777       UGAAU-------AAAUAAA------------------AAAAUAG--UC-A
+SH2120       GUCAU------AAAA-------------------------AAAC--GG-G
+SH0114       UUAAUG----UAGUAU-----------------------UAAUC--AA-U
+SH1559       AUAAU------AACAU-----------------------UAUUA--CC-C
+SH0838       AAAAU-------AAAUAUAA---------------AGUUCAAAA--GA-G
+SH0354       CAAAU----------U------------------------UGAG--CA-A
+SH0423       AUAAUU----UGAAAUCAC------------------UUUUAAC--CA-C
+SH0132       UGAAUA----UAAAA-------------------------CGAG--AC-G
+SH1034       UUUAU-------AUA-------------------------CGCA--GU-U
+SH0529       AAAAU-----------------------------------AAAG--UA-G
+SH2412       UAAACU----CAAAC-------------------------UAAC--CU-C
+SH0470       ACAAUA-----UAAA-------------------------AUAC--GA-C
+SH0868       UUCAU----------UCGCAAAG----------UUAUAUAAAAA--AC-U
+SH0316       UGAAU-------AACUAUA------------------AUAGAAC--AC-C
+SH1030       AAAAUC----GU----UCGUCG-----------ACUUAUAUAAG--UG-A
+SH0101       UCAA------------------------------------AGAA--AC-G
+SH2669       CUAAA-------AAA-------------------------------GG-A
+SH0039       UUAA--------AAAU-----------------------AUGGG--AG-U
+SH2258       AUAAU----------UU----------------------AAAGU--CC-U
+SH0586       AAAAU-------AAA-------------------------------GG-C
+SH0667       ACAAU-------AAAU------------------------CACU--GU-C
+SH0257       AGCAC------UAAA-------------------------AUAA--AC-C
+SH0946       CAAAU------A---U------------------------UGAG--AU-U
+SH0590       UUAAU------A---U-----------------------UAUAA--CC-C
+SH0159       CUCAU----------UUUAU----------------UGUCUAGG--CG-G
+SH0125       UUCAU-------AUC-------------------------AAGG--CC-U
+SH0127       UUCAU-------AAAUAUA-----------------CAAAAGAC--AG-C
+SH2667       GAAAU----------UU---------------------UUAAAA--AA-C
+SH0211       AAAAU------AAAAUAA--------------------CAAAAG--CA-C
+SH0784       UAGAU-------AAC--------------------------AUC--UC-U
+SH2471       UUAAU----------U-----------------------AUAGA--AC-C
+SH0498       UAAAUG-----AAAAUUUUA----------------AUGUAUUG--AG-C
+SH2261       UUAAU-------AAAUUCAU----------------UCAAAAAA--UC-U
+SH1861       ACAAU----------UUU-------------------AUUUUGC--UC-A
+SH1560       AUAAU------CAUAUU----------------------UUAAG--AC-C
+SH0876       AAAAU------A----------------------------UUGA--CG-C
+SH2240       UUAAU------C---UU----------------------AAAAG--CA-A
+SH2262       UAAAU------CAGAUAA-------------------UAAAAUC--UC-C
+SH2023       UAAAU-------AAAUU---------------------UUAAAG--AA-C
+SH2115       UAAAA-------AAGUA----------------------AAAAG--UG-A
+SH0256       AUAAUA----UGGAGU------------------------AGGG--AG-U
+SH0436       UGUAU------AAAA-------------------------GACA--CC-U
+SH2137       AGAAUU----GAAAA-------------------------UAGG--AG-U
+SH1057       UGAAU-------AAAUA---------------------GUGAGU--CU-C
+SH1149       UUUAU------AGAAU-----------------------CAAGU--AA-U
+SH0145       AACAU-------GUA-------------------------------AG-C
+SH0624       AUAAU-------AUAU-----------------------AUGUG--AG-A
+SH2626       CUAAU-------AUAUAAGUAU------------UGGUUAAACC--CC-G
+SH0937       AGAAU-------AAA-------------------------AAUG--AG-G
+SH0153       UUAAUA-----UGAAUU----------------------AUCGG--UC-U
+SH0272       GUAAU------UAUA-------------------------UUAA--GG-A
+SH1572       AAGAU------AAACUUAG------------------AGCUUGC--CG-A
+SH1645       ACAAU-------AUAUG----------------------UAUAG--GU-G
+SH0299       UUAAUAU---CUAAA-------------------------UCAU--AU-C
+SH0544       AAAAUAG--CUUAAA-------------------------AAAG--GA-G
+SH1992       AACAU-------AAAU------------------------AAAC--GC-U
+SH1264       UAAAUU----UGAAAU------------------------AGUA--UA-U
+SH1032       AAAAUA-----C---U------------------------AAGC--CA-C
+SH0362       UAAAU------AAUAUUU-------------------AGAAGAG--CG-C
+SH1491       UAAAU-------AAAUAUUU----------------AAAUCGAA--AC-U
+SH0546       UUAAUAU---AGGAC-------------------------UAAA--AA-A
+SH1909       AUAAU------CAAAUAA-------------------UUUCCAC--UC-C
+SH2043       GAAAU------AGCC-------------------------------AG-U
+SH1547       UAAAU-------AACUAAA-----------------ACGUAAAA--GA-G
+SH2586       UAAAC----------UU---------------------UGAGAC--CG-U
+SH2192       CAAAUA-----U---U-------------------------GAG--AU-U
+SH1623       GAAAU----------UGU--------------------AGGAGC--UC-A
+SH1630       AACAU------UAAAUUAG-----------------UGAAAUAU--AA-C
+SH0603       UUAAU------A---U-----------------------UGUAA--AC-C
+SH1716       UGAAU-------AAA-------------------------------GA-C
+SH1867       UAAAU-------GACU------------------------------AC-U
+SH0882       GAAAU------AGCC-------------------------------AG-U
+SH0079       CAAAU------A---U------------------------UGAG--AU-U
+SH1875       UUAAU----------UAA-------------------UGGUAUU--GC-G
+SH2210       CACAU-------AAC--------------------------AUC--GU-C
+SH0196       AUAAU-------AAA-------------------------AAGG--UU-C
+SH0768       AUAAU-------CAAUUAUUUA------------UGAUAUUUAA--GC-U
+SH1821       UAAAU-------AAAUU----------------------UAUAA--AG-A
+SH0089       UCAAUA----GAAAGU------------------------UAGA--GG-U
+SH0637       UAAAU-------AACUCCUA---------------AAAAGAAGA--AA-G
+SH0727       AGAAUA-----UAAAU------------------------CCAA--CG-C
+SH2093       GGAAUA----UUAGA-------------------------AAAG--UG-U
+SH1962       GAAAU------AGCC-------------------------------AG-U
+SH1835       UAAAUA-----CAAAUUG--------------------AUUGAG--AC-U
+SH2167       CUAAUA-----UAAA-------------------------------AG-C
+SH1740       UGCAA------AAAG-------------------------UUGG--AG-U
+SH1600       GGAAA-------GACUUAGUG--------------GUACAAGGA--GU-U
+SH1590       AAAAU----------U------------------------AUGA--GA-U
+SH2063       UAAAU-------AUCUAU-------------------AGUAAAA--AG-A
+SH1546       UAAAA-----------------------------------AAGA--GU-G
+SH2383       CGCAUU----ACAAG-------------------------AUAC--CA-G
+SH1344       AAGAU------UAUAU------------------------UUAA--CC-C
+SH0207       AUAAU-------ACAUUUA------------------AGCAAAC--AC-C
+SH1123       UAGAUU-----AAACUGU-------------------GAUACGG--GA-G
+SH1474       UUAAA-------GAAUAU--------------------UAUGGG--AA-U
+SH1956       CUAA--------CAAU------------------------AGCC--AU-U
+SH0865       UUAAU------GAAAU-----------------------UCAAG--AG-C
+SH1444       UGAAA-------AAAUAUUGAA-----------AGCGCUUUAAC--AA-C
+SH0020       AGAAU-----------------------------------AGUA--AG-U
+SH0766       UUCAU------A----------------------------AAAG--AC-U
+SH2095       UUAAU-------AAAUU----------------------AACAG--AG-C
+SH0420       AAAAU----------UAUUA---------------UGCGUGUGA--GG-C
+SH0580       GAAAU------UAACUAU--------------------ACAAAA--AG-C
+SH0997       UACA--------AAA-------------------------AAAG--UC-A
+SH0874       UAAAUC----UGAUAUU----------------------GAUAG--AA-G
+SH0185       AUAA--------AAA-------------------------------CG-C
+SH0219       UAAAUUU--UUAGAAU------------------------AGGG--AG-A
+SH2293       UUGAU-------AAC-------------------------------AC-C
+SH2678       AUCA--------GCA-------------------------UAAG--AU-C
+SH2200       UAAAU------UAAAU-----------------------UAGCC--CA-U
+SH0239       UUGAUA-----GAAAUAGUU----------------GAAGGGGG--AG-U
+SH0318       AAGAUA-----UGAA-------------------------AUAA--UA-U
+SH0649       GUAAU-------CAAU-----------------------AAUAG--GG-U
+SH1756       UGAAU------AAAAUU---------------------GAUUAU--CC-A
+SH2091       AAAAU----------U------------------------AUAG--GU-C
+SH2554       AUGAU-------CAAUAUA------------------UAGGGAG--UG-G
+SH2415       AUAAU----------U------------------------AGAA--AU-U
+SH0797       AGCAU------ACCAU------------------------UAAA--GC-A
+SH1053       AUCAU----------U------------------------UAAG--GU-U
+SH2500       UGGAU----------UA----------------------UUAUC--UC-C
+SH0863       GCAAU------AAAA-------------------------------UG-A
+SH1219       GUCA--------AAAUA----------------------AUAGC--AC-A
+SH1199       UUAAU------ACGC-------------------------------CC-C
+SH0432       ACCAUU-----UAAC-------------------------AGAA--GU-A
+SH2641       AACAU----------U------------------------------UC-C
+SH0918       UAAAUGG--UAAAACU------------------------CAAA--GU-U
+SH1944       AUAAUAU--GUAAAAU------------------------AAAA--AU-C
+SH0852       UUAAUU-----UAAAUUAACAAGCUAUUAUAUUUCUUUAUAAAU--GG-C
+SH1841       GUGAUA-----CAAA-------------------------------GG-U
+SH0283       AAAAU------AAUAU-----------------------UUUGU--UG-C
+SH0302       AUAAU----------UAG--------------------UCGAAC--UC-U
+SH1594       UGAAUA----UAAACUA----------------------GAAAA--CU-U
+SH0719       AGCAU------AAUAU-------------------------AAA--GC-G
+SH0769       UAGAU----------UCUC-----------------CUUCUUGA--AU-G
+SH0297       UUAAU------UAUAUAUA------------------AACAAAC--AA-G
+SH1688       AUCAUAU--AGUAAA-------------------------UUAG--GG-U
+SH0387       UUAA--------AAAU-----------------------AAUAA--GU-C
+SH1260       AUAAUGUU-AUGAAAU------------------------AAAA--UG-A
+SH2009       AAAAUA-----GAAAUCAUU---------------UGCUUAAGG--AG-U
+SH1425       UUAAC-----------------------------------UAAG--AG-C
+SH0886       UGAAA------AAAA-------------------------------GA-C
+SH0121       UUCAU-------AAA--------------------------GCA--UC-C
+SH1548       UAAAU------AAUC-------------------------AAAG--GC-A
+SH0956       AUAAU-----------------------------------CAAA--CC-A
+SH0672       CUAAUUA--UACAAA-------------------------AAAU--CG-A
+SH1416       AUAAU-------CACU------------------------UAGG--UU-G
+SH0303       UAAAU------UAAAUU---------------------AGAAAA--AA-U
+SH1019       UACAC-------AAA--------------------------AAC--CC-C
+SH0752       GAAACU-----GAAA-------------------------CAGA--CU-A
+SH1406       GUAAU------CGCAUACU-----------------AGUUACAG--AA-G
+SH1912       UAAAA-------AGA-------------------------------CA-A
+SH1978       ACAAU----------U-----------------------CUUAA--AG-U
+SH2408       UUAACU----UUAAA-------------------------AAGC--GC-G
+SH0556       AUAAU------GGAA-------------------------AAGG--AC-U
+SH0581       UCAAUU-----AAAAUUA-------------------UUUUAAA--GA-C
+SH1489       AAAAU-----------------------------------AUAU--CG-A
+SH1458       UUAAU----------U-----------------------UACUC--GU-C
+SH1849       CUAAUA----UACACU-----------------------UAAAA--CG-G
+SH1493       CUAAU------A----------------------------UUGA--UA-C
+SH2498       AUAAUU----AAAAAUAU--------------------ACUAAA--GG-C
+SH0274       UUAAU----------UUUUU----------------UGAAAAAG--GG-A
+SH0281       UAAAU-------AGA-------------------------------AG-U
+SH2197       AAAAUA-----GCAAUAU-------------------AGUGACA--GA-U
+SH1752       GUAAG-----------------------------------------CC-A
+SH0625       GUAAC----------UG---------------------CUAGUG--AG-A
+SH0437       AAAAU------AACA-------------------------------CC-U
+SH2660       UUAAU-------AAAUGAAUAGCG-------GUAAUGAUUACGA--GG-U
+SH1995       UUGAU------UGACUGUUA---------------ACACGCUAA--GC-U
+SH0325       UUAAA------GAAGUGUA------------------AGGAUAA--GG-U
+SH2395       AUAAA-------AAA-------------------------------AC-G
+SH1825       AUAAU------CGACUUAAUG--------------AUUUUAGUG--AA-G
+SH1268       UCAAU-------AAAUUA-------------------UUAAACU--AG-C
+SH0653       UUAAUUU---AUAAGUCA-------------------UCCUUGC--AG-G
+SH1659       AUAAU------GAAAUAACC---------------AACAUUCAA--CU-G
+SH2311       ACAAUAG---UAAAAUACUUA-------------GUUUAGAAAA--AG-A
+SH2493       UAAAU------UAAAUA---------------------UUAGAG--AU-U
+SH1170       AAGAUG-----U----U----------------------UUUGA--AC-C
+SH0214       GUAAU-------AUGUAGUA----------------GAUGAUGU--GC-G
+SH0716       UGAAU-------AAAUGUUU---------------UACGCAAAC--GC-U
+SH0300       CACAC------CAUA--------------------------AAA--CC-C
+SH0790       UAAAU----------U------------------------UAAA--UC-U
+SH0194       UUAAU-------AAGUUCA-----------------AACCCAAG--UU-C
+SH2332       AUAAU-------AAA-------------------------AUAA--CC-C
+SH0589       UAGAU-------AUGU------------------------ACAU--AA-A
+SH2617       UACAC-----------------------------------------CG-U
+SH0547       UGAAUG-----AGAG-------------------------------CU-A
+SH0042       AAAAUU----AUAGAUU---------------------UUAAAA--AG-A
+SH0365       AGCAU-------AACUU----------------------GAAAG--AC-A
+SH1351       AAAAU-------GAAUAAUU---------------AGUACUAAC--CC-C
+SH2198       AUAAC------GCAC-------------------------AAUG--AG-C
+SH0543       UUAAU------UAAA-------------------------------UG-U
+SH1065       UAAAC----------UA----------------------AAAAA--CC-A
+SH1522       GGAAU----------UAUUCAA-----------GGGGUAUUACA--AG-G
+SH2463       UGAAUG-----AGAA-------------------------------UU-A
+SH2638       AGCAG-------GGA-------------------------------GC-C
+SH0592       AUAAU-------GAAUCA-------------------UAAAAGC--UG-U
+SH0459       AACAC-------GAA-------------------------AAGA--AG-C
+SH0448       AUAAU-------GAAUAAUA---------------AUCGUAAAU--AC-U
+SH0246       AUAAUG-----A---U------------------------AAGA--GC-A
+SH0482       AUAAU----------U------------------------CAAC--UU-C
+SH1424       GUAAU------A----------------------------AAAC--UG-U
+SH1283       GAAAU------GAAAUUUAUU--------------UAUUUAAAA--CU-G
+SH1985       UUAAU-------GAAUUAAUUUU---------UAACAUAGCAAG--AC-U
+SH1639       AAAAU-------AAAUAAUA----------------AUUUUAAG--AC-U
+SH1183       AUGAU------UCAAUC----------------------AAAUG--CA-C
+SH2559       UUAAU------ACAAUUUU-----------------AAAGAGGC--AC-C
+SH1781       UCAAUG----UUAAG--------------------------CGU--CC-C
+SH1900       AUGAC-------AAAUU----------------------UUUGA--GA-U
+SH0462       AUCAU-------AACUAU-------------------AGAAGGG--AG-U
+SH1816       AUAAUU----UGAACUUA--------------------UAUGAG--ACUG
+SH0513       AUCAUC----UCACC-------------------------AAGC--GC--
+SH0920       UAAAU-------AAGUUAU-----------------AAUGAAGA--AG-U
+SH0230       GUAAU-----------------------------------AAAA--GC-G
+SH1980       UUAAU------GAUAUAG--------------------GGAUAG--CC-C
+SH0663       CUAAUA-----U---U-------------------------UAA--UC-C
+SH2405       UUCAU-------AACUU---------------------GU------UC-C
+SH1105       CAAAU-------AAC-------------------------AGCG--AG-U
+SH1031       GUAAU----------U------------------------UAAC--CA-G
+SH1759       UUAAU-------AGA-------------------------AAAA--GC-A
+SH2437       AUAAA-------AAAUG---------------------UAAAAA--CG-C
+SH0151       AUAAU----------UAGA-----------------GUCAAACC--UC-C
+SH2607       UUAAU-------AGA-------------------------AAAA--GC-A
+SH1371       UAAAU----------U-----------------------CUUCA--CC-U
+SH1079       AAAAU-------AAA-------------------------------GC-A
+SH1159       AUAA--------AAA-------------------------AAAC--GA-U
+SH0883       AAAAU-------AAA-------------------------------GC-A
+SH1329       AAAAU-------AAA-------------------------------GC-A
+SH1741       CUAAU------U----A---------------------UCAUGG--AC-C
+SH0454       AAAAU-------AAA-------------------------------GC-A
+SH0100       UAAAU-------AUA-------------------------AAGA--AA-C
+SH0707       AUAAU-------AUAUU----------------------UUUUG--CC-A
+SH1011       AUAAA-------AAA-------------------------------AC-G
+SH0650       UUAAU----------UAGG-----------------AUUUAUAA--GC-U
+SH1378       AGAAUA-----AAAAU------------------------------AU-U
+SH1196       UUGAG-----------------------------------------AU-U
+SH0795       UAAAU----------UUCAAGCAC--------UAUGCAGUAAAA--AG-C
+SH0515       AAAAU-------AAA-------------------------------GC-A
+SH1205       AAAAU-------AAA-------------------------------GC-A
+SH0478       AAAAU-------AAA-------------------------------GC-A
+SH0951       AAAAU-------AAA-------------------------------GC-A
+SH1934       CAAAA-------AAA-------------------------------CU-U
+SH0858       AAAAU-------AAA-------------------------------GC-A
+SH2427       AAAAU-------AAA-------------------------------GC-A
+SH0998       ACAAU------UCAA--------------------------GAC--UC-A
+SH0737       AAAAA------GAGAU------------------------GGAA--UG-G
+SH1792       UACAU-------CACU------------------------------CA-A
+SH1856       UAUAU-------AGAU-----------------------CGAAU--AA-C
+SH0288       AGCAUAU---UUAAGU-----------------------UAAAA--AA-C
+SH1946       UUGAUA-----UAAAUUUAAAA-----------AACGUUUCAGU--AG-U
+SH1136       GAAAU-------AUA-------------------------AUAA--GA-C
+SH1020       AAAAU------AACAUU---------------------UUAGAC--UC-U
+SH1963       AAAAU-------AAA-------------------------------GC-A
+SH1666       AUAAUA-----UAAA-------------------------AAAU--UC-U
+SH1897       AAAAU-------AAA-------------------------------GC-A
+SH2165       AAGAU------UAACU------------------------UAAC--CA-C
+SH1871       AAAAU-------AAA-------------------------------GC-A
+SH1418       UAGAU------UAACU-----------------------AAUAG--GC-U
+SH2320       CAAAU-------ACC-------------------------AUUA--AA-C
+SH1503       AAAAU-------AAA-------------------------------GC-A
+SH1555       UAAAU------CCAAUACCGA--------------UAAUAAUGC--AU-U
+SH0019       UAAAU-------GAAUU---------------------GGAAACGAAC-G
+SH0166       UUCAU----------U------------------------------AA-U
+SH1193       GAGAUU-----AAACUU----------------------AAAAA--CU-C
+SH2642       UUCAU------ACGAU------------------------UAAA--GG-G
+SH0970       AAAAU-------AAA-------------------------------GC-A
+SH0583       AACAU----------UCAAGA--------------ACCUUAUAU--GC-C
+SH1470       AUAAC----------UUA--------------------GGACAA--AG-A
+SH2042       AAAAU-------AAA-------------------------------GC-A
+SH2399       AUUAU------AAACU-----------------------UAAGC--UA-U
+SH0939       UUAAU----------UAUUU---------------UAAAGUAAG--AG-U
+SH1275       AUAAU----------UUUUGU--------------CUAGUUAAC--AC-C
+SH0248       UUAAU----------U------------------------UGAG--AG--
+SH2624       AUAAU----------UUCU------------------AUUAAAU--GC-C
+SH0464       UUAAU-------AAAUAA-------------------UGUAUGG--CU-U
+SH1315       AUAAUUC--UUUAAG-------------------------------GC-U
+SH0203       AAAAU-------AAA-------------------------------GC-A
+SH2205       AGAAU-------GAC-------------------------AUAG--AC-U
+SH2062       AGAAU----------U------------------------AAAG--AA-C
+SH0195       AACAU-------AAAU------------------------UAAG--GU-U
+SH2279       UUUAU----------U------------------------UAAA--AU-G
+SH2176       AAAAU-------AAA-------------------------------GC-A
+SH0840       AAAAU-------AAA-------------------------------GC-A
+SH1922       AAAAU-------AAA--------------------------ACG--GA-G
+SH0715       AUGAU-------GAA-------------------------------GCUU
+SH0468       AGAAUA----UUAACUAUU-----------------AUUCAACU--CC-U
+SH0674       UAAAU------C---U------------------------AGCC--CU-C
+SH1621       UAAAUG----AGAUA-------------------------------AG-U
+SH1402       AAAAU------AGCC-------------------------------AG-U
+SH0910       UAAAU-------AAAUAAUGUAAUUGAAGAUGUUUUGAACUAGG--AG-U
+SH0108       UAGAU------AAACU-----------------------UUGAG--CG-U
+SH0660       AUGAU------GAAA-------------------------AUGA--AA-C
+SH2345       UAAAG-----------------------------------GAGU--GU-U
+SH0280       AGAAU-------GAGU-----------------------GGGGA--GU-G
+SH2253       GUAAU-------GAAUA----------------------UUAGG--UA-G
+SH2388       UUCAU------CGACUAAUU---------------UCUUUAAGC--AA-C
+SH1054       AAAAU------UAAA-------------------------AGGC--UU-G
+SH1449       UACAC-------AAAU-------------------------GAA--AC-A
+SH2419       AGAAU-------AAAUAGUGU--------------UUAUUUAAU--CC-A
+SH0584       AUAAU------ACACU------------------------GAAG--CC-C
+SH0183       AAAAU----------UG---------------------AUUUGA--UC-C
+SH1267       UUAAA-------AAAU-----------------------AAAAC--UA-G
+SH1596       CUGAC-----------------------------------UGAA--CU-G
+SH1682       AAAAUA----AAAACU-----------------------UACAU--CU-G
+SH1190       UUGA--------AAA-------------------------------CU-G
+SH1137       AUAAU------UAAAUAUUU----------------AUUAAAAA--GG-C
+SH2458       UGAAU-------AAAUUUAUUU-----------AGAUUCUGUAU--GU-C
+SH0213       AAAAU------AAAGUA----------------------UUUUC--AA-A
+SH0306       UAAAC-------AAAU------------------------AUCC--CC-A
+SH2117       AUAAU-------AGAUAU--------------------ACAAAG--AG-C
+SH0666       GACAU----------U-----------------------UUUAG--UA-U
+SH2336       AGGAU-------AAAUAU--------------------AAGUAA--GG-C
+SH0485       UGGAU-------GAAUC----------------------AUGGA--AC-C
+SH1739       AUAAU------UAAAUAGAAUAUG--------GAAAAGCUAUGG--AG-U
+SH0735       UUAAA-----------------------------------AAAA--GA-G
+SH1738       UUAAU-------AAAUCAA------------------GCUUUAG--AC-C
+SH1095       UAAAA-------AAAU-------------------------GAG--CC-U
+SH2016       AAAAU-------AAA-------------------------------GC-A
+SH2223       UGAAUU----CUAAA-------------------------AAGA--GC-C
+SH1042       UUAAU----------UUU--------------------AUUAAG--AG-U
+SH0371       CACAU-------AAAU------------------------AGAG--UU-U
+SH0408       UUAAUAG---UUGAGUCG-------------------UUUAAAG--AG-U
+SH0560       GUAAU-------ACG-------------------------UGAA--AG-C
+SH0255       UUAAU----------UUU--------------------AGACUG--AC-C
+SH0031       ACAAU-------AAA-------------------------AUCC--CA-G
+SH2476       AAAAU-------GACUUC--------------------AUAUAA--AC-U
+SH1102       GAAAU------AGUG-------------------------------GG-A
+SH1394       AUCAU----------UAGU-----------------AUUAACCC--UU-C
+SH1441       AAAAU-------AAA-------------------------------GC-A
+SH1109       AAAAU-------AAAUAUUAGUUAU------GAACUAAGUAACC--UA-A
+SH1172       UUAAU----------U------------------------GAAG--AG-C
+SH0122       UUAAUGU---GAAAAUU----------------------CAUAA--AG-C
+SH1879       UUAAG-------AAAU------------------------------CU-C
+SH1602       AAAAU-----------------------------------GUAU--CC-C
+SH1977       UUAAU-------CGCU-----------------------UUUGA--AC-A
+SH0798       GAAAU----------UAUAG----------------UUAAAAAU--CG-A
+SH0927       AAAAU----------U-----------------------UCAUG--GC-G
+SH0767       CUAAU-------AACUAUAG----------------UUUUUAAG--UC-U
+SH1751       ACGAU-----------------------------------------AG-C
+SH0623       GUAAU-----------------------------------------UC-A
+SH2162       AUAAC-------AAAUUUUAAAA----------AGGAGGAAGGU--UGUA
+SH0293       CACAU----------U------------------------AAAA--AG-A
+SH1796       AAAAU------AAAA-------------------------------GA-C
+SH2219       CUAAU------AAAA-------------------------AAAG--GU-U
+SH1439       UAAAUUA--UUUAAC-------------------------------AG-C
+SH1296       AUAAU------U---U------------------------------GG-A
+SH2567       UUAAU-------AAC-------------------------AAAG--CC-U
+SH1338       UUUAU-------CGAU------------------------CAAA--AC-G
+SH1961       AUAAU-----------------------------------AUGA--AA-C
+SH1131       CUAAU----------U------------------------UAAG--UA-G
+SH2461       CAAAU-------AAG-------------------------------AU-G
+SH0557       UACAU------UAAA-------------------------AUGG--AC-C
+SH2621       UUAAUC-----UCAA-------------------------------UA-U
+SH0401       UAAAA-------GCA-------------------------------CU-U
+SH0483       AUCAU----------UA---------------------CUAAUC--UG-A
+SH1970       AUCAUU-----CAAA--------------------------CGC--GG-C
+SH0535       UUAAU-----------------------------------UAUG--AG-G
+SH0305       AAAAU------UCAC-------------------------------CC-C
+SH2040       AUAAU-----------------------------------GAAA--CG-G
+SH1565       GAAAUUA--GAGAACU------------------------GAGA--AG-G
+SH2442       AUAAU----------UUAUUUGGAUU----UAUCUUAGCUUAGA--CA-C
+SH2142       AUAAUU-----UAAGUCUAAAA------------GCGUUUAAGA--AA-G
+SH1387       UUAA--------CAGUA----------------------GCUAA--AG-U
+SH1009       AUCAA------AAAA-------------------------------AC-G
+SH2400       AUAAUA----UAAACUAA--------------------UAAAUG--AG-U
+SH1556       AGCAU-------AUAUA----------------------AAAGA--AC-U
+SH0805       AUAAC-------AACUUA--------------------UUUGGG--UG-U
+SH2229       GAAAU------UAAAUAUA-----------------GAGUAUAA--GA-G
+SH0647       CAAAA-------AAA-------------------------------UU-C
+SH0531       AGAAU------AAAA-------------------------UGAU--AG--
+SH2333       AUAAA-------CACUAUA------------------UUCUAGG--GG-A
+SH2107       UUUAU-----------------------------------AAGG--UC-C
+SH0443       UUAAU-------AAAU------------------------AAGA--GU-C
+SH1773       UGCAU----------UU----------------------UAAGU--AG-C
+SH0936       AUCAU-------AGAU-------------------------GGG-AGU-A
+SH0699       AAAAU------AAACUU---------------------AGAAAG--UU-U
+SH2034       AAAAU----------U------------------------AAUA--AU-U
+SH1033       AAAAUUU---GCAAA-------------------------AAGC--CA-C
+SH1247       AUAAU----------UGA-------------------UUUAUAA--AA-G
+SH0648       UAAAUA----GUAAAUUA-------------------CUAAGUG--AG-A
+SH1706       AUAAUA-----AAAAU------------------------AGGA--UU-A
+SH1707       AAAAU------AAAA-------------------------AAAU--AG-G
+SH1971       UACAA-------AAAU-------------------------AGA--CC-A
+SH0751       UAAAU------AAAAU-----------------------AAGAC--GG-A
+SH2145       AUCAU------UAAGUUAUAGA-----------AACGUAAAAGA--AG-U
+SH0661       AAAAU-------AAAUUUAUA-------------CAUUAAAAAG--AG-C
+SH2154       AUAAU-----------------------------------AAAG--GC-U
+SH1916       UUAAUU----AAAAA-------------------------AGGA--CA-C
+SH2268       UAAAUUU---AAAAA-------------------------AAUG--AG-A
+SH1142       UCGAUA-----UAAA-------------------------UAAA--UA-C
+SH1708       AAAAUAG--UUUAAA-------------------------AACG--UG-G
+SH2125       AGCAU-------AAAUAA-------------------GAUUAGG--CU-A
+SH1882       CUCAU------AAAA-------------------------AAAU--AG-G
+SH1187       UUCAU----------UGGUAUA-----------CACACUAAGGG--AG-C
+SH1528       AUAAU-------AAAU------------------------AAAG--GC-G
+SH1341       UUAAU------UAUAU------------------------AUAU--GC-U
+SH0129       AAAAU-------AGAUCCAAUU------------ACACAUAAAG--UG-A
+SH1904       CUCAC------ACAA-------------------------AGAA--CC-U
+SH0599       UAGAU------UAAA-------------------------AGUC--AG-U
+SH1943       UAAAA-------CACU------------------------AAAA--AU-C
+SH0090       UUCAU------AAUA-------------------------AAAC--AG-U
+SH1544       CUAAU-----------------------------------ACAA--UG-A
+SH2589       UUAAUAU--UUAAAA-------------------------AAAG--CG-U
+SH1428       UGAAU-------CAAUAA-------------------UGAAACC--UC-C
+SH1604       ACAAU-------AAA-------------------------AAGC--UU-C
+SH1427       AUCAU------AAAA-------------------------AACC--UC-C
+SH1062       AUAAUA----AGCAAUU----------------------AAAAA--UG-A
+SH0704       UUAAU-------CAAU-----------------------GAAGA--AG-C
+SH2547       UUAAUUU--AUCAAA-------------------------AAAA--GC-U
+SH0507       UACACG-----UAAAU-----------------------AAAGA--GG-C
+SH2645       UUCAUU-----AAAAU------------------------AGAC--CU-C
+SH2190       AAAAUC-----AAAAU------------------------AAAC--GC-U
+SH1063       AUAAUG----ACAAAUA----------------------AAAAA--UG-A
+SH2161       UUAAU-----------------------------------AAGC--CA-C
+SH0278       AGCAUA-----AAAC-------------------------AAAA--AC-A
+#=GC SS_cons :::::.......::::........................:<<<..<<.<
+#=GC RF      uUAAU.......AAAU........................AAAa..ac.c
+
+SH0400       UU-----G-U-C-----G----A--UGAUAUAA-----------------
+SH1581       AU-----C-U-A------A---U--AUUUAAGUGGAAUGUACAAA-----
+SH1701       UA-----C-G-C------A---A--UUUAGGAUUCCAU------------
+SH1117       AC-----A-A-A------G---C--U-UUCAAUU----------------
+SH0691       UA-----A-A-U------G---A--AUUGUAAA-----------------
+SH0116       CA-----A-A-U------U---C--CAAUGUAAUA---------------
+SH0618       GU-----U-A-C------A---A--GCUAAUUGCA---------------
+SH0231       GU-----U-G-A------A---U--CAUUCUACAGGCUUUUUUA------
+SH0375       CU-----G-C-G------A---C--AAUAUUA------------------
+SH1384       UA-----G-G-A------U---G--ACCAAAUAU----------------
+SH1141       CU-----U-C-A------U---A--GUUGCAAGAUUUAA-----------
+SH2148       AA-----C-C-A------C---A--AUUACCAUGCUUAU-----------
+SH2189       UG-----A-A-G------U---U--UCAUCAUU-----------------
+SH1434       UA-----G-A-G------U---G--AUUCGUAUUUAACUAAGU-------
+SH2171       AA-----G-A-C------A---A--CGAAUUAAUCAU-------------
+SH0895       GC-----U-U-G------A---G--AUUUCAUUA----------------
+SH1167       CU-----A-A-G------A---U--UAUUCUAGUAAUA------------
+SH1383       UA-----G-G-A------U---G--GCUAAUAUU----------------
+SH2392       UC-----A-A-G----------------CUCCA-----------------
+SH1575       UG-----A-G-AU---CG-------AAUGGAUCAUUCAUCAUGGUAAUU-
+SH1092       GA-----A-C-C------A---G--AACCAUAAACUAC------------
+SH1217       UU-----G-A-GU---UAA---U--AGUAAAAU-----------------
+SH1413       AG-----G-A-UA---AU-------------GAUUUCUAUG---------
+SH0622       CA-----U-A-G------A---U--AAUGUAACCU---------------
+SH2644       AU-----A-G-G------A---U--GCAUCAAU-----------------
+SH0361       AU-----U-C-U------A---G--CCCAUUUAU----------------
+SH1582       GA-----C-A-G------U---G-----AAUCUACAUA------------
+SH0900       AA-----U-A-C------U---U--AAAUAUA------------------
+SH2510       GG-----A-A-CA---UG----A--AUUCUUAAU----------------
+SH1292       AU-----G-A-A------U---C--AAAUUUAAAAGUCAUUU--------
+SH0609       UG-----A-G-C------A---C-----AACAU-----------------
+SH2423       UU-----G-U-C------A---C--ACGUUUCA-----------------
+SH1126       UU-----G-C-CU----AU---G--ACUAGAACAAGUUAAA---------
+SH1832       AA-----A-G-A------A---A--UCAAAUGCAU---------------
+SH2546       UA-----A-U-C------A---A--AAGAAGUAAAGUA------------
+SH2155       UA-----G-U-A------A---C--AAUCUUUC-----------------
+SH1431       CU-----G-A-A------A---C-----AAAAU-----------------
+SH0642       UU-----U-U-C-----UA---G--GUUCAACUUU---------------
+SH2149       AC-----U-G-C------A---A--UUACCUAUAUAAG------------
+SH2552       GU-----U-A-G------U---C--ACACAUA------------------
+SH0598       AG-----U-U-U------U---C--ACUUGAAUCA---------------
+SH2290       GA-----G-U-A------U---U--UCUAAAUU-----------------
+SH0085       AU-----C-U-U----------------AACA------------------
+SH0015       UA-----U-U-A------A---A--UGAUAUAA-----------------
+SH1702       UA-----C-G-C------A---A--UUAUUAGAGAUGG------------
+SH2285       AU-----G-A-C------G---U--UAAAUUCUAACU-------------
+SH2625       GA-----U-A-C------U---A--AAUUAUUA-----------------
+SH0619       GU-----U-A-C------A---A--GCUAAUUGCA---------------
+SH0621       UA-----G-A-U------A---A--UGCAAGGU-----------------
+SH1036       AA-----A-U-A------C---G--UUUUGAA------------------
+SH0646       CC-----U-A-C------A---A--AGUAGACAUUAAUG-----------
+SH0002       AC-----G-A-C-----GA---A--UUCAAAAG-----------------
+SH1000       AU-----C-U-A------U---U--AAUCUCAUCAUUUC-----------
+SH1157       CG-----A-C-A-----CU---G-----CUAA------------------
+SH0128       GC-----G-G-G-----AU---G--ACAUAACUAGG--------------
+SH1048       AC-----G-G-A------U---A--ACGCCUACAAG--------------
+SH1216       UU-----G-A-GU---ACA---U--AGUUAUUU-----------------
+SH2260       GA-----U-U-C------A--AG--UCGAGAG------------------
+SH2314       AA-----G-A-G------A---G--UGCCAAUU-----------------
+SH0452       GU-----G-U-A------U---A--GAAAGUAACU---------------
+SH0693       CC-----U-U-A-----AA---A--AGUUUGCACUUUAA-----------
+SH1580       UA-----G-U-A------U---U--UAAGUAGUCAUGUUUUG--------
+SH1845       UC-----G-G-UCA-GUC---------AACUUUGAAAGGUGA--------
+SH1111       AA-----C-U-G------U---C-----UAUGAA----------------
+SH1229       AA-----A-U-G------A---A--UUAACAUA-----------------
+SH0800       GA-----U-GUC------U---C-----UUAAU-----------------
+SH0566       AA-----G-U-G------G---G--UUUUAAU------------------
+SH0360       AU-----U-C-U------A---A--CCUUAUAAA----------------
+SH0469       UA-----A-U-U------U---G--AAGUUUAAU----------------
+SH1837       AG-----A-U-G------U---G--AAUGGUUC-----------------
+SH1842       AA-----A-U-G------A---A--AUGACAA------------------
+SH0217       CC-----U-A-C------A---U--AUUGGAAUCAAAGCAUU--------
+SH2044       CU-----C-C-G------U---A--AUCAAAAU-----------------
+SH0536       GG-----A-G-C------A---G-----CAAUG-----------------
+SH0229       UU-----G-G-A------U---C--ACUUCAUUA----------------
+SH2014       AG-----A-A-U------A---G--AAUUCAUCAU---------------
+SH2058       GA-----A-C-U------U---A--AAAUAACUUAUCAU-----------
+SH0277       AA-----G-C-G------G---A--UUGGUUAU-----------------
+SH1127       UU-----G-C-C------U---G-----UUAACUAGAUUUAGUUUA----
+SH1206       AA-----A-U-G------A---G--UUUUAAC------------------
+SH2594       CA-----A-A-C------C---G--UUAAAAU------------------
+SH1925       UA-----U-U-C------A---C--UACUUAAAUCA--------------
+SH0376       CU-----G-C-G------A---C--AUUUAAU------------------
+SH0999       UA-----U-U-AU---UGU---C--AUUUGAAA-----------------
+SH0569       UA-----U-G-UC----UG---G--ACGCAUU------------------
+SH0357       UC-----A-A-C------G---G--UGUCUACG-----------------
+SH2426       AG-----G-C-C----------------UUACA-----------------
+SH0912       UU-----U-U-G------U---G--CCUUAUAUUGAAUGAAUAAUGACUU
+SH1471       AC-----U-G-A------A---A--UCUUAAA------------------
+SH1574       GA----GC-A-C------U---A--AAAGUAUAGUAA-------------
+SH0123       AA-----C-A-C----------------GAUCU-----------------
+SH2136       AA-----U-G-GC----UA---U--GCAAUUU------------------
+SH1238       UG-----U-U-A------A---A--UCUUUUGAC----------------
+SH0720       GA-----A-A-A------U---G--AACUAAGAA----------------
+SH0700       GU-----G-G-A------A---C--AGUAUGU------------------
+SH1473       CU-----U-U-A------U---U--UAAUUUUGA----------------
+SH0605       UA-----A-U-CU----UC---A--UCUUUAG------------------
+SH0908       AC-----C-C-U------U---A--CGUACUGAAAU--------------
+SH2326       AA-----G-U-G------C---A--UUUGUAU------------------
+SH0346       CG-----U-G-C------G---A--UGACUAU------------------
+SH1844       CU-----C-G-G-----UA---G-----UAAAAUUUGGAAGAAAUUC---
+SH1122       CG-----A-G-C------U---U--GAAACAUAUAUA-------------
+SH0893       GA-----G-A-C------G---U-----UUUAC-----------------
+SH1472       CU-----U-U-A------U---U--UAAUGUCAA----------------
+SH0905       UA-----A-U-C------A---C-----CAAAAG----------------
+SH0477       AA-----A-U-G------A---G--UUUUAAC------------------
+SH2398       UA-----G-A-A------G---A-----UAAAU-----------------
+SH2194       CU-----C-U-U------G---C--CCUAAUAA-----------------
+SH0493       GG-----G-C-A------U---G--GGACAGAAUUAUUUAAA--------
+SH1194       GU-----A-A-U------U---G--AUUUUGAA-----------------
+SH0887       UA-----G-A-C-----AG---A--AUUCAAUUC----------------
+SH0082       AU-----A-A-U------U---A--GCGGAUA------------------
+SH1964       AC-----U-G-A------U---G--ACUAAAA------------------
+SH1121       AA-----G-U-C-----UU---A--AUUCUUAAC----------------
+SH1576       AU-----G-A-GUA--UAC---G--AAUGUAGUUUAUUUCAUCAUAAUU-
+SH1827       AG-----A-A-A-----AG---C--UUAAUUU------------------
+SH0539       UC-----U-U-G------A---A--UGUCAAUAU----------------
+SH0909       CU-----U-A-C------G---U-CACCAUUUC-----------------
+SH0794       AA-----G-C-A------A---U--UCUACUUU-----------------
+SH0772       CA-----G-A-G------U---A--GUUGGAAUAAUUA------------
+SH0791       CC-----U-U-C------A---A--AGUUUUCAUUUUUUU----------
+SH1025       UA-----G-U-A------A---A--ACAAAUUU-----------------
+SH0315       UA-----G-U-G------U---C--AGUGUGUCAU---------------
+SH2203       GA-----G-A-U------A---G--CAAUCAAAUU---------------
+SH1966       AU-----U-U-C------U---A--UUGAAAUA-----------------
+SH2144       UU-----G-U-U------U---G--UAAUAACUACUUAAAUGAU------
+SH0694       UU-----A-U-A------A---A--GUAAACACUUAAA------------
+SH0449       GG-----C-U-G------G---U-----UGAAA-----------------
+SH0022       UA-----C-U-U------A---C--AAAAUUAGU----------------
+SH1883       GG-----G-C-G------U---A--UCCUGAUGGA---------------
+SH0559       CU-----U-U-C------U---A-----AAUCACU---------------
+SH0680       UU-----U-C-A------U---U-----UUAAUAGCACAAU---------
+SH0242       CC-----U-U-G------U---A--AGAUAAAAGUCGAUAA---------
+SH1552       UU-----C-A-AUG--UGU---U--GAAACUCUC----------------
+SH0193       GU-----G-C-U------C---C--AAAAAUUA-----------------
+SH1214       AU-----G-C-A------U---U--GUAAUUG------------------
+SH2616       UC-----A-C-U------A---U-----UGCG------------------
+SH1567       UGU---CA-A-A------G---C--UAUUUAAAUG---------------
+SH0944       GA-----C-U-G------A---U--GACUAAAA-----------------
+SH1695       UU-----U-A-G------U---G--AAUGGAAUAAU--------------
+SH0641       UU-----U-C-UAA--AGU---U--CAUAAAG------------------
+SH0212       UU-----G-C-AAA--GCU---U--GAUUAACU-----------------
+SH2532       AU-----U-A-C------A---G-----UUAUAUUU--------------
+SH2654       UA-----A-G-G------U---A-----CACG------------------
+SH1130       UU-----U-U-UU----UG---A--GGUGAAAU-----------------
+SH1324       AU-----C-U-C------C---U--UGAACGUUUAU--------------
+SH2590       GU-----A-G-C------U---A--AUGAUUACAAUUGUUCGAAAU----
+SH1072       UG-----A-G-G------C---A-----AUAAAC----------------
+SH0521       CC-----U-G-G------G---A--CAACAUAU-----------------
+SH0771       CA-----G-A-G------U---A--GUUUGAACUAAUU------------
+SH1839       UU-----A-C-G------U---G--AAAUAAAGCU---------------
+SH0073       UA-----A-G-U----------------UUUU------------------
+SH1526       GA-----U-A-A-----GA---C--UGAUUAAA-----------------
+SH0506       UG-----U-G-A-----AU---C--UACCAUUU-----------------
+SH0171       CG-----U-U-A------A---U--UUAGCUUAGUGAU------------
+SH2066       GG-----C-A-AGC--UAU---C--ACAUGUUAAAUA-------------
+SH0933       UU-----U-G-G------A---A--ACUAACUU-----------------
+SH0091       GA-----A-G-C------A---A--UCCGUAACG----------------
+SH1073       UU-----G-A-G------G---C--AUCGGUUU-----------------
+SH2452       GU-----A-G-A------U---G--ACAAUUAACA---------------
+SH1937       UU-----U-A-G------A---U--UUGAUGUAUAU--------------
+SH0349       AU-----C-U-C------A---C-----UCUUAAU---------------
+SH0867       UG-----A-A-G------UA-UA--GAUAGGAAUUGUUUAUUUC------
+SH2248       GG-----U-G-U------U---U--CAAUAUAUUGGUGAAAGUGUUA---
+SH0356       GA-----U-A-A-----UU---G--AGUAAUCAUUA--------------
+SH2143       GU-----U-U-G------U---A-----UAACACUACCUAAUCA------
+SH0226       UC-----A-G-U------A---C-----ACUAAA----------------
+SH1071       GA-----C-U-G------A---U--GACUAAAA-----------------
+SH0453       AA-----A-U-G------A---G--UUUUAAC------------------
+SH0587       AU-----G-G-U------C---G-----CUCA------------------
+SH0992       AG-----U-A-A------A---U--GAUUUUAUU----------------
+SH0627       GA-----G-A-A-----AC---G--CUUAAAAA-----------------
+SH0839       AA-----A-U-G------A---G--UUUUAAC------------------
+SH0955       CA-----C-U-AA---UUA---G--GAAUCUAA-----------------
+SH0687       GA-----GUA-C------U---U--GUUAUUCC-----------------
+SH2269       AU-----U-G-A------A---C--AUGAAUGAGUAAUAGUUAAA-----
+SH1924       UA-----U-U-CGC--UA---------ACUUUGAUU--------------
+SH0373       UC-----U-A-U------U---U--CAAAUGA------------------
+SH0061       AU-----C-C-U------U---C--ACUUUGC------------------
+SH0374       UC-----U-A-C------U---U--CAUUCAU------------------
+SH1243       GU-----U-G-C------A---U--AUCUAAA------------------
+SH0460       AC-----C-U-G------U---C--UCAUCGAU-----------------
+SH0473       GG-----C-A-C-----CG---G--UAUCACU------------------
+SH1597       CA-----U-C-C------U---U--UCUACCCAUAU--------------
+SH2295       CU-----C-A-C------U---A-----CGGCA-----------------
+SH1677       CG-----A-A-C------G---C--UUCUCAA------------------
+SH1461       GU-----A-AAA------U---G--AGUUAUUU-----------------
+SH1822       CG-----A-A-U------U---C--UGUAUUA------------------
+SH2179       AU-----U-U-C------U---A--UUGAAAUA-----------------
+SH2028       GG-----U-U-G------C---A--CAUUUUAAAUU--------------
+SH0593       AA-----C-G-A------CU-UG--AGCAUUA------------------
+SH2173       GG-----U-U-G------U---U--ACUAUUUC-----------------
+SH1417       AA-----A-U-A------U---U-----GGUAGUUUAG------------
+SH0542       GU-----A-A-G------U---G--AGUCCCUUU----------------
+SH0430       AU-----G-A-C------A---A--AAAUUAAUCAU--------------
+SH1531       GU-----G-A-C------A---U-----GGUG------------------
+SH0866       GA-----A-G------------------UCAGAGGUUAGAAAUGUUGAAA
+SH2497       UG-----G-U-U------U---C--GUAAAAG------------------
+SH1293       AU-----G-A-A------U---C--AAUUAGCCAUUAUAAAU--------
+SH2208       UG-----A-G-G------U---A--UCUGUUAU-----------------
+SH0545       AA-----U-U-C------U---C-----AAAAU-----------------
+SH0896       GC-----U-U-G------A---G--ACGAUAAUG----------------
+SH0425       AC-----U-A-A-----UU---U--UGGGCAAAU----------------
+SH1689       UA-----U-G-A------A---G--UAAUCUAUGACU-------------
+SH0706       CG-----G-U-A------C---A--CUUCUUU------------------
+SH0456       AU-----U-U-C------U---A--UUGAAAUA-----------------
+SH2035       AA-----G-U-G------U---U--CUAACUAA-----------------
+SH2045       CC-------G-U------A---A--CCAUUUU------------------
+SH0888       UA-----G-A-CGU--UG----A--AUUCGAAUU----------------
+SH0762       GA-----U-C-C------A---A-----AAAA------------------
+SH0358       AU-----U-U-C------U---A--UUGUAAUA-----------------
+SH0610       UG-----A-A-C------A---C-----AAUGU-----------------
+SH0245       CA-----C-G-C------U---A--AUCUGAA------------------
+SH0519       GA-----C-A-A------A---A-----GCAAU-----------------
+SH1432       GA-----G-A-AC----GA---C--GCAACAUU-----------------
+SH0551       UC-----C-C-C------A--AU--CCUUUUAU-----------------
+SH0505       UG-----A-U-U------C---U--ACAAAUG------------------
+SH0579       UA-----G-A-CA---CUU---A--AGUGAUCA-----------------
+SH0718       GG-----U-A-G------A---U--CGUCAGU------------------
+SH0511       UA----AU-U-A------C---G--AGUAAGGUUCUUAAAUC--------
+SH0427       AG-----C-A-G------A---U--UUUCUAAAGUGUAAA----------
+SH1510       -----------C------U---U--ACAUCUU------------------
+SH2121       GG-----G-A-G------U---G--UUUAAAC------------------
+SH1189       AG-----G-A-C----------------AAUUAU----------------
+SH1026       AA-----U-A-A------A---A--CAAAAUU------------------
+SH0162       CU-----C-C-A------A---G--UAAGCUUUGAAAA------------
+SH0273       GA-----U-A-UC----UC---A--GCAUAAUUU----------------
+SH2211       AG-----U-U-G------A---U--UCAGUAAU-----------------
+SH1222       AC-----U-G-A------U---G--AUUUAUAAAA---------------
+SH0484       GA-----U-A-A------A---G--UGUUGAUUA----------------
+SH1545       AA-----U-G-C------G---C-----AUUUAAAAGA------------
+SH2640       UG-----C-C-A----------------UAUACCGGCACUUACAC-----
+SH0126       GC-----U-A-G------C---A--GAUUAAA------------------
+SH1848       AA-----C-G-A-----CU---U--AGUAUUUAUA---------------
+SH2168       UA-----A-G-G-----UA---U--GAUAACCC-----------------
+SH0713       AG-----U-U-G------G---G--AGUCCAA------------------
+SH0052       AG-----C-U-C----------------AAGAA-----------------
+SH2250       AC-----U-A-G------A---G-----CAGUAAAU--------------
+SH2582       UU-----U-A-A------C---C-----ACAA------------------
+SH0841       AU-----U-U-C------U---A-----AAUUAUU---------------
+SH2027       GA-----A-G-A------A---A--UCUAAGAUA----------------
+SH0541       AA-----G-U-G------A---G-----UAAAAG----------------
+SH1561       GU-----A-U-G------G---C--AAAAUUAAUUC--------------
+SH2436       GC-----U-A-C------A---C--AUUUCAAAC----------------
+SH1527       GA-----U-A-AU----AA---C--UGAUUUAA-----------------
+SH2259       GA-----U-U-C------A---G--UCCUCUC------------------
+SH2067       GG-----C-AUA-----GU---C--ACAUCACAUAUU-------------
+SH2520       UG-----U-U-AAA-CCGU---G--UCUGUCAUGGUAUGAUU--------
+SH1593       AG-----G-A-U------U---U--CCUUUUA------------------
+SH1462       AU-----U-U-C------U---A--UUACAUC------------------
+SH0786       UG-----G-G-A------C---A-----AAAUAA----------------
+SH2630       AU-----G-U-A------A---G--UCUCCUGUCAUUCAA----------
+SH2407       CG----UG-G-C------U---C-----CCUA------------------
+SH0892       UA-----U-U-U------A---G--AAUUAUUAAUA--------------
+SH0901       AA-----U-A-C------U---U--AAGUAUA------------------
+SH0722       AC-----U-G-A------U---G--ACUAAAA------------------
+SH1284       AG-----G-A-C------A---U--UGCAUU-------------------
+SH1972       AA-----G-G-A------C---A--CUAAUUGA-----------------
+SH0424       GG-----A-A-G-----AU---G--CUAUAUC------------------
+SH1815       UG-----A-G-A----------------AUUA------------------
+SH2488       UA-----G-A-A------C---U--UCCAAUUUAU---------------
+SH0915       CU-----G-C-CU---AAU---C--UAUUUUAU-----------------
+SH2013       AA-----U-A-G------A---A--UUCAUGAU-----------------
+SH1558       CA-----U-G-C------U---G--ACUUUAU------------------
+SH1156       UC-----C-U-C------G---A--CAAAGUAUUA---------------
+SH1291       CG-----A-A-A------U---C-----ACAAU-----------------
+SH1215       UA-----A-G-G----------------UCUUU-----------------
+SH1044       CU-----U-C-A------A---A--AUUGACAAUAAU-------------
+SH1704       AU-----C-U-U------A---U--UGAUUUAAGUAUAA-----------
+SH0558       AC-----U-U-U------C---U--AUUUCAGUG----------------
+SH0458       CG-----C-A-A------A---G-----UAAUU-----------------
+SH0953       AU-----U-U-C------U---A--UUGAAAUA-----------------
+SH1120       UU-----A-C-C-----UU---A--CAAUGUCAAUUAAUG----------
+SH1935       CU-----C-A-G------A---A-----AUUAUU----------------
+SH2595       CA-----A-A-C------C---G-----CAUAUUU---------------
+SH0799       GA-----U-G-C------U---C-----UAUUA-----------------
+SH0040       AA-----G-C-U------A---A-----GUAAA-----------------
+SH1833       AA-----G-A-A------A---U--CGUAAUGCA----------------
+SH0350       AU-----C-U-C------A---C-----AUAAAUU---------------
+SH2459       CU-----C-C-C----------------UUAA------------------
+SH2302       CC-----C-U-C------A---C--UAUUUGCG-----------------
+SH1692       CU-----U-C-A----------------CCACA-----------------
+SH1097       AA-----G-G-A------G---C--GUGAAUUA-----------------
+SH0344       AA-----G-C-A------A---C-----CUUA------------------
+SH1847       AA-----C-G-A-----UU---U--AGCAUUAUAA---------------
+SH0426       UA-----G-C-A------G---A--UUCUUCAAAGUUUUAC---------
+SH0322       AUC--GCU-U-A-----UA---G--GUUAAUA------------------
+SH0972       UU-----C-U-A------U---U-----GAAAU-----------------
+SH1176       GU-----G-G-GA----AA---U-----AAAA------------------
+SH2538       UU-----C-A-A------ACUUC--ACAUAUUA-----------------
+SH0913       UC-----A-U-G------G---A--AUAUUUUU-----------------
+SH1164       CU-----G-A-C------A---A-----AUUCA-----------------
+SH0567       AU----UU-G-A------A---A--UCUAUGUCACA--------------
+SH2450       CA-----G-A-C----------------GAAA------------------
+SH0985       UA-----G-A-A------A---G--UAUUAAU------------------
+SH2071       GA-----U-A-A----------------UCAACUUU--------------
+SH0686       GA-----G-A-C------U---U--GUGGGAAU-----------------
+SH1979       UU-----A-A-A------U---G--AUUACUGCAAA--------------
+SH2492       UC-----G-A-U------A---A--GUUUUUA------------------
+SH2604       CC-----C-U-C------A---C--UAUUUGCG-----------------
+SH0334       UU-----G-A-G----------------UAAAAGUAGACUUUUUGU----
+SH2513       GU-----U-C-A------G---C--AUUUAAA------------------
+SH1029       UG-----C-C-U----------------ACACAAU---------------
+SH1592       AG-----G-A-C------U---U--CCUAAAA------------------
+SH1350       CC-----A-C-C------A---C--AAAGAAA------------------
+SH1254       AA-----G-C-A------G---A--GGUCAAA------------------
+SH1746       GU-----A-C-C----------------AAUUA-----------------
+SH0837       CU-----G-A-G------A---C--AUUUUAU------------------
+SH1583       GA-----C-ACG------U---G-----UAUCAGUAUG------------
+SH1960       AA-----G-C-A------A---C-----CUUA------------------
+SH2026       GA-----A-A-A------A---A--UCCCUUAUC----------------
+SH0508       UU-----C-A-AA----AU---A--AGGGCAAUUUA--------------
+SH2551       UA-----G-C-C------A---C-----AUAUG-----------------
+SH1990       UG-----G-G-U------A---U--GGGCCAACGAAUUCUGA--------
+SH1423       AA-----G-A-G------A---A--AUUAAAUGAU---------------
+SH1975       UA-----G-G-G------A---G--UGUGAUGA-----------------
+SH1878       GAAGCGUG----A---AAU---C--UAUGGUGACA---------------
+SH1812       UA-----A-U-G------A---U--UCUUAAU------------------
+SH0312       UU-----C-A-GG----A-------UGUCUUACUC---------------
+SH0671       GA-----C-A-U------U---C--UGAUUUAU-----------------
+SH1160       AC-----U-C-C------A---U--AGUUUUA------------------
+SH0614       AU-----C-G-A------A---U--UCGAUUA------------------
+SH1409       CU-----C-A-C------U---A-----CUGGC-----------------
+SH0552       UC-----C-C-CA---UCU---C--CUAAUAA------------------
+SH2449       UG-----G-A-A------A---U--CUUGAGAAA----------------
+SH2622       AA-----A-U-G------A---G--UUUUAAC------------------
+SH0296       GU-----G-G-C------U---U-----UUUAA-----------------
+SH2266       AG-----G-A-C------AA-UG--AAUCUAAA-----------------
+SH2138       GA-----G-UUG------U---G--AAAAAGA------------------
+SH1691       UG-----C-C-U------U---C--AUAUGUG------------------
+SH0662       AA-----U-A-C------A---A-----AACUAUGUU-------------
+SH0333       UU-----U-U-G------A---G-----AUGAAUGAAGACUUACAA----
+SH0871       GG-----U-U-G------A---U--GAUUUUAUC----------------
+SH2491       GU-----C-C-A------U---A--AGUUAAAA-----------------
+SH2414       CA-----U-U-G------A---U--GCACGUU------------------
+SH1976       UU-----U-A-G------U---G--AUUUUAA------------------
+SH0060       UC-----U-U-C------A---C-----UUUGU-----------------
+SH1165       AG-----A-C-U------U---C--ACAUAAU------------------
+SH1640       AA-----A-G-C------A---C--CAUUUAGU-----------------
+SH1974       UG-----G-A-A------U---U--UGAAUUUAAA---------------
+SH1988       AU-----A-U-G------G---A-----UUAAA-----------------
+SH0486       UC-----G-A-C----------------UUUAA-----------------
+SH0098       CU-----G-G-A------A---C--AUUACUU------------------
+SH1381       UG-----U-A-A------C---C--AAUUUAA------------------
+SH0029       AA-----G-C-A------A---C-----CUUA------------------
+SH2116       GAU---UU-U-G------A---A--ACAGUCA------------------
+SH0561       UA-----G-U-A------A---A--UUUUAUUAUA---------------
+SH1933       UU-----U-U-C------U---U--AGUUAAA------------------
+SH1050       GA-----C-U-G------A---U--GACAAAA------------------
+SH1437       CU-----G-A------------------UAUU------------------
+SH0465       UC-----U-U-A------A---C-----UCGC------------------
+SH0134       AU-----C-A-G------A---G-----UAUGAA----------------
+SH0875       GA-----C-U-G------A---U--GACAAAA------------------
+SH0078       CA-----U-A-AC----A-------UAUCAAAUUACAAUUCA--------
+SH2249       UG-----G-A-ACA--UCA---U--UCAAUUU------------------
+SH2041       GC-----C-C-A------U---U--AGAUUAA------------------
+SH2403       CU-----G-G-G------A---C--AAAAUAA------------------
+SH2544       GA-----A-U-G------A---A--UUUAUCA------------------
+SH1926       AC----UU-U-U------A---U--AUUAAUAU-----------------
+SH0062       AU-----C-C-C------U---C--ACCGCAA------------------
+SH0186       UC-----A-G-A------A---A--GCUAAUUUA----------------
+SH0472       GG-----U-A-C-----AG---G--UACAGUG------------------
+SH1676       CG-----C-C-A----------------ACUG------------------
+SH2056       AA-----A-A-A------U---C-----UUUUA-----------------
+SH0405       AA-----C-A-A------C---A-----UCUGUAAGAAA-----------
+SH1435       AA-----U-U-A------A---A--GUUUAAG------------------
+SH1520       CU-----U-C-C------C---U--AUUACUA------------------
+SH2255       AA-----A-U-G------A---A--CUUUUUG------------------
+SH2054       CU-----G-G-A------C---A-----AAUAA-----------------
+SH1250       CA-----G-G-U------G---C--AUCAAUA------------------
+SH0198       AU-----C-U-C------A---A--ACAUUUUAU----------------
+SH0285       AG-----G-A-C------U---U--CGACGGA------------------
+SH1150       AA-----C-G-A------U---C--ACACUGAUUCA--------------
+SH0377       GA-----C-U-G------A---U--GACAAAA------------------
+SH1331       UU-----C-U-A------U---U-----GAAAU-----------------
+SH2439       GG----UA-U-U------A---G--AUUAAAA------------------
+SH0604       UA-----A-U-CA----AC---A--UCGCUAA------------------
+SH0969       CA-----G-G-U------C---U--ACUUUUACAAA--------------
+SH2668       CU-----A-A-G------A---A--GCGGAAA------------------
+SH0287       AA-----U-G-C------C---U--AAGUUUU------------------
+SH0664       AC-----A-G-A------A---U--UCAUAAU------------------
+SH2484       GA-----G-A-C------A---U-----AUCAUAC---------------
+SH0570       AU-----A-A-C------U---U--GAUGAAUUGUACGUAACU-------
+SH0007       CU-----U-C-C------C---U-----GGUAU-----------------
+SH0124       AA-----C-A-C----------------GAGAU-----------------
+SH1197       CU-----A-U-UU---AAU---G--ACUCUAAU-----------------
+SH0133       UA-----G-U-U------G---A--AGUAUGUGUA---------------
+SH1010       UC-----U-A-C----------------UUAU------------------
+SH1913       AU-----U-G-UC---UUA---A--UGAAUUUAUCCA-------------
+SH1549       CCA---AC-A-A------G---U--GAAUGGGUGA---------------
+SH0777       UG-----G-A-UU----UA---A--ACUUAAAUGAUAGGUUU--------
+SH2120       GA-----G-U-G------U---U-----UGUUU-----------------
+SH0114       UU-----U-U-U------U---U--GAUUAAUA-----------------
+SH1559       UU-----A-A-G------U---G--CUUUUAA------------------
+SH0838       GC-----U-G-G------G---A--CAAAAUAA-----------------
+SH0354       UC-----A-C-G------U---U--GAUUAAAUAU---------------
+SH0423       GA-----U-U-C----------------CUUAUCA---------------
+SH0132       UA-----G-C-AC----GG---A--CAUUCAUACCUUAGUU---------
+SH1034       GA-----A-U-G------A---A-----UCUU------------------
+SH0529       GU-----G-C-AUA-GUGU---C--AUCAAUCA-----------------
+SH2412       CU-----C-A-A------U---A--AAGUCUUUAUUA-------------
+SH0470       UC-----C-U-A------A---U-----UUGAAAGGAUUA----------
+SH0868       GU-----C-A-A------C---U--UCCGCUA------------------
+SH0316       UC-----U-A-AU----AU---C--AGUACGAUGA---------------
+SH1030       UU-----G-C-C----------------UCUUAUUG--------------
+SH0101       CU-----C-G-U----------------UUAA------------------
+SH2669       AC-----A-G-C------G---U-----CUUAACA---------------
+SH0039       GG-----G-G-C-----AA---C--AUUUAUUUUG---------------
+SH2258       UG-----A-U-A------A---A--UGUUGAU------------------
+SH0586       AA-----U-G-G------U---C-----AUGAG-----------------
+SH0667       AA-----U-G-A------A---G-----AGAAA-----------------
+SH0257       UU-----C-U-U------U---G--UAUCGUCG-----------------
+SH0946       AA-----G-C-A------A---C-----UUUA------------------
+SH0590       CA-----G-U-C------U---A-----UGACG-----------------
+SH0159       AAU--CGC-G-A------A---U--UCAAUUU------------------
+SH0125       CG-----U-G-A----------------UGAUA-----------------
+SH0127       UA-----G-U-A------G---A-----AUUUA-----------------
+SH2667       CU-----A-A-G------A---A--GCAUUUC------------------
+SH0211       AU-----U-G-CA----CU---U--GAUAGUUA-----------------
+SH0784       AG-----C-A-A------U---G--GUUUAUG------------------
+SH2471       UG-----U-G-A----------------CUUUUCG---------------
+SH0498       CA-----U-A-A------A---G--GUGUCUAG-----------------
+SH2261       CC-----A-A-UA---AAA---A--GGUAUUAUUG---------------
+SH1861       AA-----C-U-A-----CU---U--UCAACGA------------------
+SH1560       GU-----A-U-G------A---C--AAUAUUGAAUU--------------
+SH0876       AU-----G-G-A------A---U-----UUUG------------------
+SH2240       UU-----C-G-U------A---U-----GAUU------------------
+SH2262       AA-----U-A-A------A---G--GGUUCAAUA----------------
+SH2023       UU-----C-U-A------A---C--GUUUAGGUAAAGAUU----------
+SH2115       GA----CU-U-G------A---A--ACAUGAC------------------
+SH0256       GA-----G-A-C-----A----G--AAUUUAACUU---------------
+SH0436       CG-----U-U-A------A---A--UGCUUUGG-----------------
+SH2137       GA-----G-A-U------A--G------AGUUCGUUUU------------
+SH1057       AA-----U-A-U------A---A--UUAUUUAUGUGCACAUUUCAUGAGU
+SH1149       GA-----A-A-U----------------UCUAU-----------------
+SH0145       CU-----G-G-G------A---C--AUAAAUC------------------
+SH0624       UU-----G-G-G------A---A--GUGUUUUA-----------------
+SH2626       UA-----G-G-C----------------UUAA------------------
+SH0937       CU-----G-A-G------A---C--AAAAUUA------------------
+SH0153       AG-----G-A-C------A---A--CUAUAAU------------------
+SH0272       GA-----G-A-A------A---C--AGUGAAU------------------
+SH1572       AG-----U-A-U------A---A-----UAAU------------------
+SH1645       GA-----C-GUG----------------GAGAA-----------------
+SH0299       CC-----U-U-A------U---G--AGAUUUAAU----------------
+SH0544       AA-----U-U-C------U---C-----AAUUU-----------------
+SH1992       AU-----A-G-C------U---U--GUUAUGGGAA---------------
+SH1264       CC-----U-C-A------A---G--UCAUUUAGGCUAACUUU--------
+SH1032       GG-----C-A-G----------------UGUAA-----------------
+SH0362       AU-----A-A-A------U---G--GGACUUC------------------
+SH1491       GG-----G-A-C------A---A-----UUAA------------------
+SH0546       GA-----G-A-G----------------UGAAG-----------------
+SH1909       UU-----U-U-U------A---C--AAAUUUG------------------
+SH2043       AA-----A-U-G------A---G--UUUUAAC------------------
+SH1547       CG-----C-A-C------U---C-----GAUU------------------
+SH2586       GA-----A-A-U------G---A--ACGUAGUUU----------------
+SH2192       AA-----G-C-A------A---C-----CUUA------------------
+SH1623       CU-----U-U-A------A---A--ACGCUUUA-----------------
+SH1630       CA-----A-G-A------A---U--GAUAAUGAUAGAAAGAUAA------
+SH0603       UA-----A-G-U------G---U--GACUACG------------------
+SH1716       CU-----U-U-UAA--AUC---A--GUACGAGA-----------------
+SH1867       AA-----A-U-A-----A-----------AAAAGCUAUU-----------
+SH0882       AA-----A-U-G------A---G--UUUUAAC------------------
+SH0079       AA-----G-C-A------A---C-----UUUA------------------
+SH1875       GC-----A-U-C----------------AGAC------------------
+SH2210       AA-----A-G-A----------------UUUA------------------
+SH0196       AA-----U-G-U-----GG---U--UAAUCAU------------------
+SH0768       AU-----G-A-U------U---A--CAUAUAA------------------
+SH1821       GA-----C-G-A------A---U--UCCAUUAAU----------------
+SH0089       GA-----G-U-C------UU-AC--GUUUCAGU-----------------
+SH0637       CU-----G-G-G------A---C-----UAAAUAA---------------
+SH0727       AA-----G-G-G------U---U-----UCAAAA----------------
+SH2093       AA-----G-G-U------G---U-----AAAAGCGUUGAUAUAAC-----
+SH1962       AA-----A-U-G------A---G--UUUUAAC------------------
+SH1835       AA-----G-A-C----------------AUCAU-----------------
+SH2167       GA-----U-U-A------A---G--GUUAAUGAUAGGG------------
+SH1740       GG-----U-A-A------AG-AU--UCUGAUA------------------
+SH1600       AA-----G-G-C----------------AUCU------------------
+SH1590       UA-----A-G-C------A---A-----UUUAA-----------------
+SH2063       GU-----A-G-C------U---U-----UGAA------------------
+SH1546       CA-----C-C-C----------------AAUC------------------
+SH2383       CGAGAUAA-C-------GA---C--GGUACUUA-----------------
+SH1344       GA-----A-U-U------U---C--AUUUUUA------------------
+SH0207       UU-----U-A-U------C---U--UCAUUGUUGUA--------------
+SH1123       UG-----G-C-GU---UGA---A--UUCAUUAUG----------------
+SH1474       GGA---AA-U-G------A---U--UUCUUAAU-----------------
+SH1956       CA-----A-U-G------A---U--GAUUAUA------------------
+SH0865       UA-----A-U-UAU--UCU---C--AUAUUUAU-----------------
+SH1444       CU-----G-U-U------A---C--UAUUAAA------------------
+SH0020       GU-----G-U-G------G---G--GCAACGAU-----------------
+SH0766       UA-----A-G-CU----UU---G--AGAGAUUCA----------------
+SH2095       AGU---UA-A-UA---AAA---U--ACUCUUUAUA---------------
+SH0420       UG-----G-G-A------C---A-----AAAUAA----------------
+SH0580       GA-----A-C------------------GAUC------------------
+SH0997       CG-----A-G-C------U---U-----GGGA------------------
+SH0874       UU-----A-G-CC----A-------ACAAAUA------------------
+SH0185       UC-----A-G-A------A---U--GCAAUAAAU----------------
+SH0219       GA-----G-G-CA----GA---A--UUUUAUAU-----------------
+SH2293       CU-----C-A-U------A---A-----AUUUCG----------------
+SH2678       AC-----U-G-A----------------CUUC------------------
+SH2200       AG-----A-UGA------C---A--UAUUUAG------------------
+SH0239       GG-----G-A-CA----GA---A--UUCUUUUU-----------------
+SH0318       UA-----G-A-A------C---A--UCAUUAAACGA--------------
+SH0649       UG-----U-G-U------U---A--UCACUAAGUUAAA------------
+SH1756       GU----UG-G-C----------------GUUA------------------
+SH2091       AU-----G-C-A------C---U-----UUAAU-----------------
+SH2554       GA-----C-A-GA----AA---U--AAUAUUUUCUC--------------
+SH2415       GA-----U-A------------------AAAU------------------
+SH0797       UA-----U-U-A------A---G--AUAAUUACACA--------------
+SH1053       UG-----U-U-U------C---C--UAUCAUGG-----------------
+SH2500       UU-----U-G-A-----GU---A--AGGCAAUUC----------------
+SH0863       CU-----A-U-U------A---G-----AUCU------------------
+SH1219       AA-----G-A-U------G---A--UUGUUCAUGU---------------
+SH1199       UCA---GU-G-A------U---G--AAGUAAA------------------
+SH0432       UA-----U-G-CA----AG---C----AUUUAUC----------------
+SH2641       UU-----C-C-U------U---A--UAGAUAA------------------
+SH0918       AC-----U-U-A------U---C--UGAUAAAA-----------------
+SH1944       UA-----G-C-U------A---A--UGUACAGUGUAU-------------
+SH0852       GU-----U-U-AU----UC---C--UAUAAAAAAAG--------------
+SH1841       UU-----U-A-A------U---U--GAUGAAAA-----------------
+SH0283       GA-----G-U-U------G---A--ACACAAGUU----------------
+SH0302       GA-----G-A-A------U---U--GCAUUAU------------------
+SH1594       AC-----U-G-A------A---A-----AAUUAUAAGAG-----------
+SH0719       GA-----U-A-A------A---U--CGUACUG------------------
+SH0769       UA-----A-A-C------U---U--UUUAUUUU-----------------
+SH0297       CG-----U-G-A------C---U-----GAUUAA----------------
+SH1688       GC-----G-G-A------A---C--AAGAAAUUCGUAA------------
+SH0387       AA-----G-A-U------G---U--UUUCAUAUU----------------
+SH1260       GG-----U-U-A------G---G--ACUUUCAACUAG-------------
+SH2009       AG-----A-A-A------C---A--UGUGCUAU-----------------
+SH1425       AA----AC-A-U------C---A--UCAACUUA-----------------
+SH0886       AA-----U-U-U------C---U--AUUGAAAUA----------------
+SH0121       UU-----C-A-U----------------CACAA-----------------
+SH1548       CCC--UUC-AAA------G---U--GAUUAUCACC---------------
+SH0956       UC-----U-C-A----------------UGCUU-----------------
+SH0672       CA-----U-U-C------U---G-----CAUAA-----------------
+SH1416       UU-----U-G-G------G---A--CAUUAAAUUAA--------------
+SH0303       GU-----C-G-C------U---A--AGUUUUCA-----------------
+SH1019       UA-----A-C-U------U---G-----CCGUC-----------------
+SH0752       UU-----A-A-G------C---A--UAUUAAUCAUUA-------------
+SH1406       UA-----A-A-C------C---A-----AUUCA-----------------
+SH1912       UU-----U-C-U------A---U--UGAUAAU------------------
+SH1978       GA-----G-A-CA---AAU---G--UAUACUU------------------
+SH2408       GG-----C-U-C----------------UAGG------------------
+SH0556       CA-----A-A-G------A---U--GUAUGGUU-----------------
+SH0581       AA-----U-A-C------U---U-----AGAC------------------
+SH1489       GA-----U-A-C------A---U--UCUUAAAAUG---------------
+SH1458       CA-----G-U-C------A---G-----CAUG------------------
+SH1849       UU-----A-A-C------C---A-----UAUA------------------
+SH1493       AA-----C-G-G------C---G-----UCACA-----------------
+SH2498       GA-----U-A-A------A---C-----CAUCAC----------------
+SH0274       GA-----U-A-C-----GC---A--GCUAAAAAU----------------
+SH0281       GG-----G-A-CA---CCG---A--AUUCAUAUA----------------
+SH2197       AU-----U-A-C-----AA---A--UAGGAUGA-----------------
+SH1752       CA-----G-U-C----------------AGAGU-----------------
+SH0625       UU-----G-A-G------A--UA--AUUUAAAA-----------------
+SH0437       CG-----U-U-A------G---A--UGACCAAA-----------------
+SH2660       UG-----A-G-C------G---A--UUGAAUU------------------
+SH1995       AA-----C-G-U------U---A--UAUUUUA------------------
+SH0325       UG-----A-G-A------C---G-----AAUA------------------
+SH2395       UU-----A-U-C------A---G-----CAACUGGCGACC----------
+SH1825       CA-----U-G-G------A---C--AAUUUAAU-----------------
+SH1268       CA-----U-G-U-----CU---C--AAUUUUGUA----------------
+SH0653       AG-----U-G-G------U---A--UAACGAAUUCUUAG-----------
+SH1659       UU-----G-C-A------A---G--UAUAUAU------------------
+SH2311       GU-----G-C-G----------------AAUU------------------
+SH2493       GA-----G-A-UAAAGUUU---A--GGGUUUAUUCAAA------------
+SH1170       UG-----A-A-C------A---U-----UGAAA-----------------
+SH0214       CU-----U-C-U------C---U-----UUUU------------------
+SH0716       GU-----C-U-A------U---U--AAAAAUU------------------
+SH0300       CU-----C-A-C------U---A-----GCGCA-----------------
+SH0790       GA-----A-C-GAU-UCCA---C--AAUAAUC------------------
+SH0194       UC-----A-G-G------U---U--AAUUAAA------------------
+SH2332       GU-----C-G------------------AAUU------------------
+SH0589       CC-----U-C-C------U---C-----UAUCU-----------------
+SH2617       GA-----G-G-U------A---A--GUUGCAAAU----------------
+SH0547       UC-----U-G-C------A---A--AGCUGAG------------------
+SH0042       UG-----C-C-C------U---G--GGUUAUA------------------
+SH0365       CC-----U-C-A------A---U--AGUUGGAUGAUAA------------
+SH1351       AC-----C-U-C------A---A-----AUUUC-----------------
+SH2198       GCG---CC-U-U------U---U--CUUAUAA------------------
+SH0543       AU-----U-U-U----------------CAAAAU----------------
+SH1065       GU-----A-A-A------U---G--AGCGUUGUC----------------
+SH1522       UA-----G-C-A----------------ACAC------------------
+SH2463       GU-----A-A-G----------------UGUAU-----------------
+SH2638       GU-----A-C-AG----AA---A--UCACUUG------------------
+SH0592       AA-----C-A-A------C---G--AGUAAUG------------------
+SH0459       AC-----C-U-A------U---C--UCAAUCGA-----------------
+SH0448       AU-----U-C-U------G---A--CAGAGUU------------------
+SH0246       CA-----C-U-A------A---A-----UUUCA-----------------
+SH0482       UG-----A-G-G----------------CAUU------------------
+SH1424       GG-----U-UAA-----C----U--AUACUUUU-----------------
+SH1283       UC-----G-A-C------A---A--AGUUCAU------------------
+SH1985       GGUA-AUG-G-A------A---U--GUUCAUA------------------
+SH1639       AG-----G-A-G----------------AUUA------------------
+SH1183       UU-----A-A-A------U---G--AGGUUUUU-----------------
+SH2559       CU-----A-A-A------A---G--UUAGAUUAUUA--------------
+SH1781       UU-----U-A-U-----C---------UUAAAUUUACCGUGC--------
+SH1900       GA-----G-A-U----------------GAAU------------------
+SH0462       AG-----G-A-C-----AG---A--AAUAAUAUUUUCUC-----------
+SH1816       GG-----G-C-A------U---U--ACAUAGAA-----------------
+SH0513       -----------C----------------UUUA------------------
+SH0920       AU-----A-G-C----------------UAGUU-----------------
+SH0230       UU-----G-A-G------U---C--ACUAUUAAU----------------
+SH1980       UU-----A-A-A------U---G--AUCGAAUUUGC--------------
+SH0663       UG-----G-C-A------A---A--AGCGAAACACUUUAUUUCACAAUUA
+SH2405       CU-----U-C-U------A---A--GCUUGCUUGAA--------------
+SH1105       CU-----G-A-G------A---C--AUUAUUU------------------
+SH1031       UG-----A-C-U------U---C-----CGUUU-----------------
+SH1759       AU-----G-UAC------U---U-----UAAUA-----------------
+SH2437       UA-----C-A-C------A---A-----AGAGUUU---------------
+SH0151       UGAUAAGG-U-A------U--AU--ACUUAAU------------------
+SH2607       AU-----G-UAC------U---U-----UAAUA-----------------
+SH1371       CU-----U-A-C------G---U-----UUAUA-----------------
+SH1079       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1159       AU-----G-A-AAU-ACUU---G--AAAAUAGUCUAAAUUCAUUAAUGCG
+SH0883       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1329       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1741       AG-----G-G-C----------------AAGC------------------
+SH0454       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0100       GC-----U-C-A----------------CAUUA-----------------
+SH0707       UU-----G-UAG------A---C-----GCGAUAA---------------
+SH1011       CC-----U-A-C----------------AUAA------------------
+SH0650       GA-----G-G-C----------------ACAAU-----------------
+SH1378       GU-----A-C-U------U---A-----AAUU------------------
+SH1196       AA-----G-C-A------A---C-----CUUA------------------
+SH0795       AA-----G-C-A------A---U--CCUUAAAG-----------------
+SH0515       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1205       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0478       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0951       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1934       UU-----C-U-U------A---G-----UUUUA-----------------
+SH0858       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH2427       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0998       GU-----U-U-C-----UA---U--AGGAUUCAU----------------
+SH0737       CAG---UG-G-A------A---U--AUUAUUC------------------
+SH1792       GA-----U-G-A------C---G--GUACAAC------------------
+SH1856       UU-----U-A-A------U---U-----AGAUU-----------------
+SH0288       AA-----U-G-C------C---U--AUCAAAA------------------
+SH1946       GA-----A-C-U------U---G--AAUUUACAAU---------------
+SH1136       AA-----C-G-U------A---U--AAGGGUUCAAUACA-----------
+SH1020       AU-----A-U-U------A---G--CGUUUGA------------------
+SH1963       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1666       GA-----G-G-C----------------UUUAA-----------------
+SH1897       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH2165       UA-----A-A-U------U---G-----UCAA------------------
+SH1871       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1418       AG-----G-A-C------A---A-----UUUUAAA---------------
+SH2320       UA-----U-U-G------A---A-----ACUAU-----------------
+SH1503       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1555       AA-----G-C-G----------------UAUCAA----------------
+SH0019       AA-----G-A-C----------------AUUGU-----------------
+SH0166       AU-----G-A-C----------------ACAUU-----------------
+SH1193       GC-----U-U-A----------------CAAG------------------
+SH2642       AU-----A-G-U------U---G-----AUAA------------------
+SH0970       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0583       UU-----C-G-U------U---G-----GUGA------------------
+SH1470       CU-----C-G-A------G---A--CUGUAAU------------------
+SH2042       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH2399       GAG--UG-----------U---A--UUCUAACC-----------------
+SH0939       GG-----A-A-C------A---G-----UGAAU-----------------
+SH1275       AG-----A-A-G----------------UGAAU-----------------
+SH0248       -----------A------C---U-----AAUU------------------
+SH2624       UG-----U-C-A------U---A--CUAUAUAUU----------------
+SH0464       CU-----A-A-U------U---A--CUGAUAU------------------
+SH1315       GU-----U-U-C------U---A--UUAAAUUU-----------------
+SH0203       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH2205       UU-----G-U-G------A---U--AGUCAGUAAG---------------
+SH2062       AA-----A-A-U------G---A-----CAUU------------------
+SH0195       CA-----A-C-G------U---GCAGUUAAUGAU----------------
+SH2279       UC-----U-U-C------U---U-----UUCUUAGU--------------
+SH2176       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH0840       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1922       GA-----G-A-CA----GA---A--ACUCUAAU-----------------
+SH0715       UG-----C-A-A------G---U--AGAAAAA------------------
+SH0468       UA-----A-U-U------A---U--UAUAUAAUAAAU-------------
+SH0674       GA-----U-U-U------A---G-----CAGAUUG---------------
+SH1621       CU-----G-G-G------A---C--AUAAAUC------------------
+SH1402       AA-----A-U-G------A---G--UUUUUAU------------------
+SH0910       GA-----A-A-C------G---U-----UAAG------------------
+SH0108       CU-----C-A-A----------------UAUC------------------
+SH0660       UG-----A-G-A------C---A-----GAUUAG----------------
+SH2345       AU-----U-A-U------U---G--AUUGCUCACGACAUAGAAAUAAUUA
+SH0280       GG-----A-C-U-----GA---A--UUCUAUAU-----------------
+SH2253       UU-----G-G-A------A---C-----UUAAGU----------------
+SH2388       UC-----U-GCA------A---C--UGCUCGCA-----------------
+SH1054       UU-----C-C-C------U---A-----ACCAU-----------------
+SH1449       AA-----G-UUA------U---A-----UUGA------------------
+SH2419       AU-----C-G-A------U---U--CCCUUAAA-----------------
+SH0584       GU-----A-U-C----------------UCUAUGG---------------
+SH0183       GG-----U-A-G------C---U-----UAAA------------------
+SH1267       CC-----A-U-U-----GC---A--AUAUCAAUCCU--------------
+SH1596       AG-----A-A-GG----CG---C--UUAAAUC------------------
+SH1682       AG-----U-C-G------U---C-----UACA------------------
+SH1190       UC-----G-A-C------A---A--AGCGCAAA-----------------
+SH1137       AA-----C-G-U------A---U--AAUGCGUACUGUAU-----------
+SH2458       UA-----U-G-AU----UA---C--UCUUACAU-----------------
+SH0213       AU-----G-U-A------U---A-----UCCCACCA--------------
+SH0306       CA-----U-G-C----------------UAAUU-----------------
+SH2117       CC-----A-C-A------C---G-----AUUC------------------
+SH0666       CG-----A-G-C----------------ACAUA-----------------
+SH2336       UA-----U-U-C------A---C-----UGAC------------------
+SH0485       AA-----G-A-A------A---C--GAUUGAUUAU---------------
+SH1739       GA-----U-A-A------AA-G----UUCUAUCA----------------
+SH0735       AG-----G-G-A------A--AA--GGGUAGGAACAUUGAAUA-------
+SH1738       UA-----U-U-U------U---A--UCGAAAU------------------
+SH1095       GU-----G-G-C------A---U-----AAUUC-----------------
+SH2016       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH2223       UG-----A-G-C------A---U-----AAUUC-----------------
+SH1042       GA-----A-A-A------G---A--AGCUAAAGUA---------------
+SH0371       UC-----C-A-U------U---U--CGAAUUUCA----------------
+SH0408       GA-----G-A-C----------------GAGU------------------
+SH0560       CU-----C-A-G----------------AAUUCAUU--------------
+SH0255       CU-----C-U------------------AUUC------------------
+SH0031       CA-----G-U-G------A---G-----UCGU------------------
+SH2476       UU-----G-C-C------U---A-----ACUUAAU---------------
+SH1102       GU-----G-G-G------A---C--AGAAAUAAUAUUUUCUCA-------
+SH1394       AA-----A-G-C------U---ACUGUUUAAA------------------
+SH1441       CUU---U--C-GU---AUA---A--UUUAAUAAACAUCA-----------
+SH1109       GA-----U-G-U----------------UAAA------------------
+SH1172       GU-----A-C-U-----AA---U--UCUUAAAAG----------------
+SH0122       AU-----C-C-C------U---C--AUCGCAA------------------
+SH1879       AA-----U-U-C----------------GCAG------------------
+SH1602       UA-----C-U-U----------------GAGU------------------
+SH1977       AU-----A-G-U------A---C--ACGAUUAG-----------------
+SH0798       AC-----U-U------------------AAUCAUAUUUGU----------
+SH0927       AA-----G-U-C----------------ACUU------------------
+SH0767       UG-----A-U-C------A---A-----UAAUU-----------------
+SH1751       CG-----U-U-U------U---G--UAACACG------------------
+SH0623       AU-----U-A-A------U---U--AUUAAUCAUC---------------
+SH2162       GA-----G-U-C------A---A-----AACUUA----------------
+SH0293       GG-----G-U------------------CCCC------------------
+SH1796       UGA---AU-G-C------U---A-----UCGGCA----------------
+SH2219       AA-----G-U-C------A---U--UUAUAUC------------------
+SH1439       AUC--UUU-U-A------A---U--GCUUUACC-----------------
+SH1296       GU-----G-G-G------A---U-----AUUAUU----------------
+SH2567       CC-----U-C-U------A---U-----GAAA------------------
+SH1338       CU-----G-A-U----------------GAAA------------------
+SH1961       AG-----C-A-C----------------UAUUU-----------------
+SH1131       GG-----A-G-U----------------UAAA------------------
+SH2461       GCU--CAU-G-C----------------UUAG------------------
+SH0557       CA-----A-A-G------A---U--GCGAACCA-----------------
+SH2621       UU-----G-GAC------U---C-----AUCAGUCCGAU-----------
+SH0401       UG-----U-C-A------A---U--GAUUUAU------------------
+SH0483       AG-----C-A-C----------------AAUU------------------
+SH1970       GA-----U-GAC----------------ACAUACCUC-------------
+SH0535       UU-----G-G-G------A---C--AAAAAUAA-----------------
+SH0305       CA-----C-A-U------G--AC-----GAAUU-----------------
+SH2040       AC-----C-C-A------U---A--AGGUUAA------------------
+SH1565       CU-----U-U-C----------------AUUG------------------
+SH2442       CU-----G-U-U----------------ACUA------------------
+SH2142       UA-----U-U-GU---UUA---G--CACAUAG------------------
+SH1387       CU-----U-U-C------U---A--AUUACUA------------------
+SH1009       CC-----A-C-U----------------UUAA------------------
+SH2400       AG-----G-A-CU---AAA---U--UCAAAUGU-----------------
+SH1556       GA-----G-A-AG----AC---G--CUCCCAUG-----------------
+SH0805       GC-----G-G-C----------------UUAAU-----------------
+SH2229       CA-----G-C-U------A---A--UUAAGUU------------------
+SH0647       AA-----C-U-A-----AA---U--UUAAGUU------------------
+SH0531       -----------GU---UCA---G--AAUUAUA------------------
+SH2333       CA-----A-G-U----------------UUAG------------------
+SH2107       GA-----C-G------------------AUGUU-----------------
+SH0443       GC-----U-U-G------A---G-----AGUUUA----------------
+SH1773       UA-----U-U-A----------------GCAAUUG---------------
+SH0936       GGA--CAG-A-A------A---U--AAUAUUUUCUC--------------
+SH0699       AA----A--U-AG----UU---G--UGUCAUUUAA---------------
+SH2034       AGA---UA-A-G------U---A--UCAAAUUU-----------------
+SH1033       GA-----C-A-U----------------UUUA------------------
+SH1247       AU-----G-A-C----------------UUUGA-----------------
+SH0648       UA-----G-A-A------U---C--GUGUCUACAU---------------
+SH1706       GA-----A-C-C-----AA---A--UGCAUUUA-----------------
+SH1707       AU-----U-A-G------A---A--CCGAAUGUAUAAA------------
+SH1971       AG-----G-A-C------A---U--UAUCAAU------------------
+SH0751       UA-----C-U-G------A---A-GACUAAUUAAGCAUAUAAGUUAAUGA
+SH2145       CA-----A-C-A------U---A--UUGAUUAACCAAAUUAUUAAU----
+SH0661       AA-----U-A-C------A---A--AGCUAAACA----------------
+SH2154       UA-----G-U-A------A---C--GAUUGAAA-----------------
+SH1916       UU-----A-A-AA----UA---G--UGGUUAACUGUCAAU----------
+SH2268       UU-----G-A-G------C---A-----UUUCAAAGUAGUAGUUUUA---
+SH1142       AC-----U-U-C------A---U--AGUUUUAAGAUUAAA----------
+SH1708       UA-----U-A-U------A---U--GACAAAUACUUUUUCAUAAA-----
+SH2125       GA-----G-C-A------U---G--CAAUCACAUCAUA------------
+SH1882       GC-----G-U-A------U---C-----ACUGUCCA--------------
+SH1187       GG-----U-A-U------G---A--UGAUUUAAUUUU-------------
+SH1528       UU-----U-G-A------A---A--CAUUUUAACAUGCUUU---------
+SH1341       CU-----C-G-A------U---U--AGUUAAA------------------
+SH0129       GC-----G-G-GAU--AUU---G--ACAUUACCCUA--------------
+SH1904       GU-----UAU-G------A---A--ACUCGUCA-----------------
+SH0599       UU-----U-C-A------U---U--UGGUGAU------------------
+SH1943       UA-----G-U-U------A---A--UGUACAUCAUAC-------------
+SH0090       GA-----A-G-C------A---A--CCAUCGUUA----------------
+SH1544       AG-----U-G-CGC-UCGA---U--UUCUUUU------------------
+SH2589       AG-----C-U-AA----AA---C--AUUACAAUGUUUAUU----------
+SH1428       UA-----A-U-G------U---U--GAAUAAUAA----------------
+SH1604       AU-----U-A-U------A---G--AGUGAAAUAG---------------
+SH1427       UA-----A-U-G------U---U--GAACUUAUU----------------
+SH1062       CG-----U-A-C------C---G--GAUCUAUAGA---------------
+SH0704       CA-----U-U-A------A---U--UGAGUUAA-----------------
+SH2547       AA-----U-C-A------A---A--AGGAAGUAUACU-------------
+SH0507       GU-----U-C-G------A---G--AUAAGAGCCUAAAU-----------
+SH2645       AU-----A-G-G------A---U--GCAUAUUG-----------------
+SH2190       UG-----A-A-G------U---U--UUAAAUGA-----------------
+SH1063       CG-----U-A-C------U---G--GAAAAUUCUA---------------
+SH2161       UA-----G-A-UUC-AGUG---U--UGUUGAUA-----------------
+SH0278       GA-----A-A-G------U---G--GAUUGAUAAC---------------
+#=GC SS_cons <<.....<.<.<......<...<..<<______.................
+#=GC RF      ua.....u.a.a......a...a..aauuauaa.................
+
+SH0400       --------------------AUCAU----------UG--A-C-----AA-
+SH1581       --------ACAUGACUACUUAAAUA----C------U--A-G-----AU-
+SH1701       ---------------CUCUAAUAAU----U------G--C-G-----UA-
+SH1117       -------------------GAA-AG----C------U--U-U-----GU-
+SH0691       ---------------------AAUU----C------G--U-U-----UA-
+SH0116       -------------------GUAUGG----A------A--U-U-----UG-
+SH0618       ------------------AUUAGCU----U------G--U-A-----AC-
+SH0231       ---------GUCAAGUAGAUCAUGA----U------U--C-A-----AC-
+SH0375       ---------------------AAUG----U------C--G-C-----AG-
+SH1384       --------------------UAGCC----A------U--C-C-----UA-
+SH1141       ---------------UCUUAAAACU----A------U--G-A-----AG-
+SH2148       ---------------AUAGGUAAUU----G------C--A-G-----UU-
+SH2189       ---------------------UAAA----A------C--U-U-----CA-
+SH1434       -----------UUAAAGUGCGAAUU----A------U--U-U-----UA-
+SH2171       -----------------GAAUUCGU----U------G--U-C-----UU-
+SH0895       --------------------UCGUC----U------C--A-A-----GC-
+SH1167       ---------------UGUAGAAUAA----U------C--U-U-----AG-
+SH1383       --------------------UGGUC----A------U--C-C-----UA-
+SH2392       ---------------------C--------------C--U-U-----GA-
+SH1575       ----AUGAUGAAAUAAACUACAUU------CG--UAU-AC-U-----CA-
+SH1092       ---------------ACUAUGAUUC----U------G--A-U-----UC-
+SH1217       --------------------AACUA----UG---UAC--U-C-----AA-
+SH1413       ------------UGAAUUCUAA--------------A--U-C-----CU-
+SH0622       ------------------UGCAUUA----U------C--U-A-----UG-
+SH2644       --------------------AUGCA----U------C--C-U-----AU-
+SH0361       --------------------AAGGU----U------A--G-A-----AU-
+SH1582       ----------------CUGAUA--C----A------C-GU-G-----UC-
+SH0900       ---------------------CUUA----A------G--U-A-----UU-
+SH2510       --------------------GAAUU-----C----UG--U-U-----CU-
+SH1292       -----------AUAAUGGCUAAUUG----A------U--U-C-----AU-
+SH0609       ---------------------U--G----U------G--U-U-----CA-
+SH2423       ---------------------AAUG----U------G--A-U-----AA-
+SH1126       -------------CUAAAUCUAGUU----AA---CAG--G-C-----AA-
+SH1832       -------------------UACGAU----U------U--C-U-----UU-
+SH2546       ---------------UACUUCCUUU----U------G--A-U-----UA-
+SH2155       --------------------AAUCG----U------U--A-C-----UA-
+SH1431       ---------------------U--G----U------U--U-C-----AG-
+SH0642       ------------------AUGAACU----UU----AG--A-A-----AA-
+SH2149       ----------------CAUGGUAAU----U------G--U-G-----GU-
+SH2552       ---------------------UGUG----G------C--U-A-----AC-
+SH0598       ------------------CCAAAUG----A------A--A-A-----CU-
+SH2290       --------------------UAGAG----A------U--A-U-----UC-
+SH0085       ---------------------U--------------G--A-G-----AU-
+SH0015       --------------------AUCGU----U------U--A-A-----UG-
+SH1702       ---------------AAUCCUAAAU----U------G--C-G-----UA-
+SH2285       ----------------UUUGAAUAA----C------G--U-C-----AU-
+SH2625       ---------------------AUUU----A------G--U-A-----UC-
+SH0619       ------------------AUUAGCU----U------G--U-A-----AC-
+SH0621       --------------------UACAU----U------A--U-C-----UA-
+SH1036       ----------------------GAC----G------C--A-U-----UU-
+SH0646       --------------AAUGUAAACUU----U------G--U-A-----GG-
+SH0002       ---------------------AAAU----UC----UG--U-C-----GU-
+SH1000       --------------AAAUGACAAUA----A------U--A-G-----AU-
+SH1157       ------------------------U----AC---UUU--G-U-----CG-
+SH0128       -----------------GUAAUGUC----AAU--AUC--C-C-----GC-
+SH1048       ------------------UUGGGUU----A------U--C-C-----GU-
+SH1216       --------------------UACUA----UU---AAC--U-C-----AA-
+SH2260       ----------------------GAC----U------G--A-A-----UC-
+SH2314       --------------------CGCAC----U------C--U-C-----UU-
+SH0452       ------------------AUUUUCU----G------U--A-C-----AC-
+SH0693       ---------------GUGUUUACUU----U-----AU--A-A-----GG-
+SH1580       -----------UACAUUCCACUUAA----A------U--A-U-----UA-
+SH1845       ------------AUUUCUUCCA---AAUU-UU-ACUA--C-C-----GA-
+SH1111       --------------------UC--G----A------U--A-G-----UU-
+SH1229       --------------------AAAAU----U------C--A-U-----UU-
+SH0800       ---------------------A--G----A------G--C-A-----UC-
+SH0566       ---------------------UAAU----U------C--A-U-----UU-
+SH0360       --------------------UGGGC----U------A--G-A-----AU-
+SH0469       -------------------CCUUUC----A------A--A-U-----UA-
+SH1837       ---------------------AUUC----A------C--A-U-----CU-
+SH1842       ---------------------AAUC----U------C--A-U-----UU-
+SH0217       -----------AUUGUUCCAAAUCA----U------G--U-A-----GG-
+SH2044       ---------------------GGUU----A------C--G-G-----AG-
+SH0536       ---------------------G--U----U------G--U-U-----CC-
+SH0229       -------------------AUAGUG----A------C--U-C-----AA-
+SH2014       -------------------GAAUUC----U------A--U-U-----CU-
+SH2058       ---------------AAGUGUUUUU----A------G--G-U-----UC-
+SH0277       ---------------------CAAU----C------C--A-C-----UU-
+SH1127       --------ACUUGUUCUAGUCA--U----A------G--G-C-----AA-
+SH1206       ---------------------AAAU----U------C--A-U-----UU-
+SH2594       ---------------------AUGC----G------G--U-U-----UG-
+SH1925       ------------------AAGUUAG----C------G--A-A-----UA-
+SH0376       ---------------------AUUG----U------C--G-C-----AG-
+SH0999       --------------------UGAUG----AG---AUU--A-A-----UA-
+SH0569       ----------------------GUU----C-----AA--U-A-----UA-
+SH0357       ---------------------ACGC----U------G--U-U-----GG-
+SH2426       ---------------------U--------------G--G-C-----CU-
+SH0912       UUAUAAUUGUUCAUCAUUGCCAGGU----G------C--A-A-----AA-
+SH1471       ---------------------UGAU----U------U--C-G-----GU-
+SH1574       ----------------AUCCUUUUU----A------G--U-GA---CUC-
+SH0123       ---------------------C--------------G--U-G-----UU-
+SH2136       ---------------------AGCA----UA----GU--U-A-----UU-
+SH1238       -------------------UAAGAU----U------U--G-A-----UA-
+SH0720       -------------------AGAUUC----A------U--U-U-----UC-
+SH0700       ---------------------UUUG----U------U--C-C-----AC-
+SH1473       -------------------CAUUAA----A------U--A-A-----AG-
+SH0605       ---------------------CGAU----GU----UG--A-U-----UA-
+SH0908       -----------------GGUGACGU----A------A--G-G-----GU-
+SH2326       ---------------------AAAU----A------C--A-C-----UU-
+SH0346       ----------------------CAU----C------A--C-A-----CG-
+SH1844       -------ACCUUUCAAAGUUGA--C----UG----AC--C-G-----AG-
+SH1122       -----------------AUGCCUCA----A------G--U-U-----CG-
+SH0893       ---------------------U--A----U------G--U-C-----UC-
+SH1472       -------------------AAUUAA----A------U--A-A-----AG-
+SH0905       --------------------AU--G----U------G--A-U-----UA-
+SH0477       ---------------------AAAU----U------C--A-U-----UU-
+SH2398       ---------------------A--U----C------U--U-C-----UA-
+SH2194       --------------------UUGGG----C------G--A-G-----AG-
+SH0493       ------------AAUUCAAUGUCCC----A------U--A-C-----UC-
+SH1194       --------------------UAAUC----A------U--U-U-----AC-
+SH0887       --------------------GAAUU----CA---ACG--U-C-----UA-
+SH0082       ---------------------UGUU----A------A--U-U-----AU-
+SH1964       ----------------------AUC----A------U--C-A-----GU-
+SH1121       --------------------GAAUU----GA---UUG--A-C-----UU-
+SH1576       ----ACCAUGAUGAAUGAUCCAUUC----GA----UC--U-C-----AU-
+SH1827       ---------------------AAAG----CA----CU--U-U-----CU-
+SH0539       --------------------AACAU----U------U--A-A-----GA-
+SH0909       ---------------------AGUA----C------G--U-A-----AG-
+SH0794       --------------------AAGGA----U------U--G-C-----UU-
+SH0772       ----------------GUUCAAACU----A------C--U-C-----UG-
+SH0791       --------------AAUGUUUACUU----U------G--A-A-----GG-
+SH1025       ---------------------UGUU----U------U--A-U-----UA-
+SH0315       ------------------CGUACUG----A------U--A-U-----UA-
+SH2203       -------------------AAAUGU----U------G--U-C-----UC-
+SH1966       ---------------------AUAU----A------G--A-A-----AU-
+SH2144       ----------UAGGUAGUGUUAUAC----A------A--A-C-----AA-
+SH0694       ----------------GUGCAAACU----U------U--U-U-----AA-
+SH0449       --------------------UA--A----C------C--A-G-----UC-
+SH0022       --------------------AUUUG----U------G--A-G-----UA-
+SH1883       ------------------CAGUGAU----A------C--G-C-----CC-
+SH0559       ------------------GAAA--U----A------G--A-A-----AG-
+SH0680       -------------CGUGUUAUU--A----A------U--G-A-----AA-
+SH0242       -------------ACUUUUAUACUU----G------C--A-A-----GG-
+SH1552       --------------------AUUCA----AAA--CGU--U-G-----AA-
+SH0193       --------------------UAAUG----G------G--G-C-----AC-
+SH1214       ---------------------GACA----A------U--G-U-----AU-
+SH2616       ---------------------A--G----U------A--G-U-----GA-
+SH1567       ------------------UCAAUAG----C------U--U-UUG-UCCA-
+SH0944       ---------------------AUCA----U------C--A-G-----UC-
+SH1695       -----------------GCACAUUC----G------C--U-A-----AA-
+SH0641       ---------------------UUGA----AC---CUA--G-A-----AA-
+SH0212       ---------------------AUCA----A-----GU--G-C-----AA-
+SH2532       ------------------CGAU--U----U------G--U-A-----AU-
+SH2654       ------------------------U----A------U--C-U-----UA-
+SH1130       --------------------UGCCU----CU----UU--A-A-----AA-
+SH1324       -----------------ACAUAUAA----G------G--A-G-----AU-
+SH2590       --------AAACAUUGUAAUGUUUU----A------G--C-U-----AC-
+SH1072       -------------------CGA--U----G------C--C-U-----CA-
+SH0521       ---------------------GUGU----C------U--C-A-----GG-
+SH0771       ----------------AUUCCAACU----A------C--U-C-----UG-
+SH1839       ------------------UGAUUUC----A------U--G-U-----AA-
+SH0073       ---------------------A--------------A--C-U-----UA-
+SH1526       ---------------------UCAG----UU----AU--U-A-----UC-
+SH0506       ---------------------GUAG----A-----AU--C-A-----UA-
+SH0171       ---------------GUUCAAUAAA----U------U--A-A-----CG-
+SH2066       ----------------UGUGAUGUG----A-----CU-AU-G-----CC-
+SH0933       --------------------UAGUU----U------U--C-A-----AA-
+SH0091       --------------------AUGGU----U------G--C-U-----UC-
+SH1073       ---------------------AUUG----C------C--U-C-----AA-
+SH2452       ------------------AUAUGUC----A------U--U-U-----AC-
+SH1937       ------------------CAUUAAG----U------U--U-A-----AA-
+SH0349       ------------------UUAU--G----U------G--A-G-----AU-
+SH0867       ---------AACAUUUCUAACCUCU---GA------C--U-U-----CA-
+SH2248       ------UGACGACAUCAAUUAAUGA----A------A--U-A-----CC-
+SH0356       ------------------CUUACUU----AU----GU--U-A-----UC-
+SH2143       ---------UUUAAGUAGUUAU--U----A------C--A-A-----AC-
+SH0226       --------------------CA--G----U------G--C-U-----GG-
+SH1071       ---------------------AUCA----U------C--A-G-----UC-
+SH0453       ---------------------AAAU----U------C--A-U-----UU-
+SH0587       ------------------------U----G------A--C-C-----AU-
+SH0992       -------------------AGUUCA----U------U--U-A-----CU-
+SH0627       ---------------------GAGC----GC----CU--U-C-----UC-
+SH0839       ---------------------AAAU----U------C--A-U-----UU-
+SH0955       ---------------------AUCC----U-----UU--A-G-----UG-
+SH0687       ---------------------CACA----A------G--U-C-----UC-
+SH2269       --------ACUACUACUUUGAAAUG----C------U--C-A-----AU-
+SH1924       ------------------UAAG------U-A---GUG--A-A-----UA-
+SH0373       ---------------------AUGA----A------G--U-A-----GA-
+SH0061       ---------------------GGUG----A------G--G-G-----AU-
+SH0374       ---------------------UUGA----A------A--U-A-----GA-
+SH1243       ---------------------GGUA----U------G--C-A-----AC-
+SH0460       ---------------------UGAG----A------U--A-G-----GU-
+SH0473       ---------------------GUAC----C-----UG--U-A-----CC-
+SH1597       -----------------AAAUAGAA----A------G-UG-G-----UG-
+SH2295       ---------------------A--U----A------G--U-G-----AG-
+SH1677       ---------------------AUAG----U------G--U-U-----CG-
+SH1461       --------------------AAUUC----A------U--C-U-----AC-
+SH1822       ---------------------AUGG----A------A--U-U-----CG-
+SH2179       ---------------------AUAU----A------G--A-A-----AU-
+SH2028       ------------------GAAUUGU----G------U--A-A-----UC-
+SH0593       ----------------------CUC----G------U--U-G-----UU-
+SH2173       ---------------------UGUA----G------C-GA-A-----CC-
+SH1417       ---------------UAAUUGA--A----A------U--A-U-----UU-
+SH0542       --------------------UACUC----A------C--U-U-----AC-
+SH0430       ------------------UAAUUUU----U------G--U-C-----AU-
+SH1531       ---------------------G--A----U------G--U-C-----GC-
+SH0866       ---UAAACAAUUCCUAUCUAUA-----------------C-U-----UC-
+SH2497       ----------------------GCG----A------A--G-C-----CA-
+SH1293       -----------GACUUUUAAAUUUG----A------U--U-C-----AU-
+SH2208       ---------------------AGAU----A------A--C-U-----CA-
+SH0545       ---------------------U--G----A------G--A-A-----UU-
+SH0896       --------------------AAAUC----U------C--A-A-----GC-
+SH0425       -------------------GCUCAA----AG----UU--U-A-----GU-
+SH1689       ----------------AUAGAAUGC----U------U--C-A-----UA-
+SH0706       ---------------------AAGU----G------U-AA-U-----CG-
+SH0456       ---------------------AUAU----A------G--A-A-----AU-
+SH2035       ---------------------GUGA----A------U--G-C-----UU-
+SH2045       ----------------------GAU----U------A--C-------GG-
+SH0888       --------------------GAAUU-----C----UG--U-C-----UA-
+SH0762       ---------------------A--A----U------G--G-A-----UC-
+SH0358       ---------------------AAAU----A------G--A-A-----AU-
+SH0610       ---------------------U--G----U------G--C-U-----CA-
+SH0245       ---------------------AUUU----A------G--U-G-----UG-
+SH0519       --------------------GC--U----U------U--U-G-----UC-
+SH1432       ---------------------AGUG----U-----CU--U-C-----UC-
+SH0551       --------------------UAGGAG--AU------G--G-G-----GA-
+SH0505       ----------------------GUA----G------A--U-U-----CA-
+SH0579       ---------------------GCUU----AA---AUG--U-U-----UA-
+SH0718       ---------------------ACGA----U------U--U-A-----UC-
+SH0511       ------------AAGACCUCGAUUC----A------U--A-A----GUA-
+SH0427       --------------ACUUUGAAGAA----U------C--U-G-----CU-
+SH1510       ---------------------GGUA----A------G-------------
+SH2121       ---------------------AAAC----A------C--U-C-----CC-
+SH1189       --------------------UG--------------G--U-C-----CU-
+SH1026       ----------------------UGU----U------U--U-A-----CU-
+SH0162       ---------------UCAUGGCUAC----U------U--A-G-----AG-
+SH0273       -------------------UUAGCU----G-----CG--U-A-----UC-
+SH2211       ---------------------UGAA----U------U--A-A-----CU-
+SH1222       ------------------UAAAGUC----A------U--C-A-----GU-
+SH0484       -------------------UCGCAU----U------U--U-A-----UC-
+SH1545       ----------------AAUCGA--G----C------G--C-A-----CU-
+SH2640       ---------GUAACGGUUGAUG--------------U--G-G-----CA-
+SH0126       ---------------------UUCU----A------C--U-A-----GC-
+SH1848       -------------------AUGCUA----A-----AU--C-G-----UU-
+SH2168       --------------------UAUCA----UU---AAC--C-U-----UA-
+SH0713       ---------------------ACUC----U------C--A-A-----CU-
+SH0052       ---------------------U--------------G--A-G-----UU-
+SH2250       ------------------UUAA--C----U------C--U-A-----GU-
+SH2582       ---------------------U--G----G------U--U-A-----GA-
+SH0841       ------------------UCAA--U----A------G--A-A-----AU-
+SH2027       -------------------AGGGAU----U------U--U-U-----UC-
+SH0541       -------------------GGA--C----U------C--A-C-----UU-
+SH1561       ------------------AAUAUUG----U------C--A-U-----AC-
+SH2436       -------------------UCUUUG----U------G--U-A-----GC-
+SH1527       ---------------------UCAG----U-----CU--U-A-----UC-
+SH2259       ----------------------GAC----U-----UG--A-A-----UC-
+SH2067       ----------------UAACAUGUG----AUA--GCU--U-G-----CC-
+SH2520       ------------UUAUAAACAUGAC----AC----AC--G-A-----CA-
+SH1593       ----------------------GGA----A------G--U-C-----CU-
+SH1462       ---------------------AAAU----A------G--A-A-----AU-
+SH0786       --------------------AA--U----G------U--C-U-----CA-
+SH2630       -------------GCCAAGCGAAAC----U------U--A-C-----AU-
+SH2407       ------------------------G----A------G--C-C-----CG-
+SH0892       -----------------AUGGAUUC----U------G--A-A-----UG-
+SH0901       ---------------------UUUA----A------G--U-A-----UU-
+SH0722       ----------------------AUC----A------U--C-A-----GU-
+SH1284       ----------------------CAA----U------G--U-U-----CU-
+SH1972       ---------------------UAAU----G------U--C-C-----UU-
+SH0424       ---------------------AAGC----AU----AC--U-U-----UC-
+SH1815       ---------------------U--------------U--C-U-----CA-
+SH2488       -------------------AAAGAA----G------U--U-C-----UA-
+SH0915       ---------------------AUAG----AA---AUG-CG-U-----AG-
+SH2013       ---------------------GAAU----U------C--U-A-----UU-
+SH1558       ----------------------GUU----G------G--C-A-----UG-
+SH1156       ------------------GCAGUGU----C------G--A-G-----GA-
+SH1291       ---------------------A--G----A------U--U-U-----UG-
+SH1215       --------------------GA--------------C--U-U-----UA-
+SH1044       ----------------UUGGAUAUU----U------U--G-A-----UG-
+SH1704       --------------CCACUUUUCAA----U------A--A-G-----AU-
+SH0558       --------------------AUUUA----G------A--A-A-----GU-
+SH0458       ---------------------G--C----U------U--U-G-----UG-
+SH0953       ---------------------AUAU----A------G--A-A-----AU-
+SH1120       -------------AAUAGACAAUGU----AG---UGG--G-U-----AA-
+SH1935       --------------------AA--U----U------C--U-G-----AG-
+SH2595       -------------------UAA--C----G------G--U-U-----UG-
+SH0799       ---------------------A--G----A------G-AC-A-----UC-
+SH0040       ---------------------A--U----U------A--G-C-----UU-
+SH1833       --------------------UUUGA----U------U--U-C-----UU-
+SH0350       ------------------AAGA--G----U------G--A-G-----AU-
+SH2459       ---------------------U--------------G--G-G-----AG-
+SH2302       ---------------------GUAG----U------G--A-G-----GG-
+SH1692       --------------------UA--------------U--G-A-----AG-
+SH1097       --------------------UAACG----U------U-GC-C-----UU-
+SH0344       ---------------------G--G----U------U--G-U-----UU-
+SH1847       -------------------AUACUA----A-----GU--C-G-----UU-
+SH0426       -------------ACUUUAGAAAAU----C------U--G-C-----UA-
+SH0322       ---------------------CACC----U-----UU--A-AU---GAU-
+SH0972       --------------------AA--U----A------U--A-G-----AA-
+SH1176       ---------------------U--A----U-----GC--C-C-----AC-
+SH2538       ---------------------AGUG----U------U--U-G-----AG-
+SH0913       ---------------------AGUU----C------C--A-U-----GA-
+SH1164       ---------------------A--A----U------G--U-C-----AG-
+SH0567       -----------------GAUAUGAU----U------U--C-A-----AU-
+SH2450       ---------------------U--------------G--U-U-----UG-
+SH0985       ---------------------UAAC----U------U--U-C-----UA-
+SH2071       -----------------UCGAC--------------U--U-A-----UC-
+SH0686       ---------------------AACA----A------G--UAC-----UC-
+SH1979       ------------------UUCGAUC----A------U--U-U-----AA-
+SH2492       ----------------------ACU----U------A--U-G-----GA-
+SH2604       ---------------------GUAG----U------G--A-G-----GG-
+SH0334       --------AAGUCUUCAUUCAU--------------C--U-C-----AA-
+SH2513       ---------------------UUUG----U------U--G-A-----AC-
+SH1029       -------------------AAG--------------A--G-G-----CA-
+SH1592       ----------------------GGA----A------A--U-C-----CU-
+SH1350       ---------------------UUUG----A------G--G-U-----GG-
+SH1254       ----------------------CUU----C------U--G-U-----UU-
+SH1746       ---------------------A--------------G--G-U-----AC-
+SH0837       ---------------------UUUG----U------C--C-C-----AG-
+SH1583       ----------------UAGAUU--C----A------C--U-G-----UC-
+SH1960       ---------------------G--G----U------U--G-U-----UU-
+SH2026       -------------------UUAGAU----U------U--C-U-----UC-
+SH0508       ------------------GGCUCUU----AU----CU--C-G-----AA-
+SH2551       ---------------------U--G----U------G--A-C-----UA-
+SH1990       -----------AUGAAUUCUAUCCA----U------U--C-C-----CA-
+SH1423       ------------------AUUAAUU----U------C--U-C-----UU-
+SH1975       ---------------------GCAC----U------U--U-C-----UA-
+SH1878       -------------------AAAUAG----AC---UU-----CGC-GAUC-
+SH1812       ---------------------UGAA----U------U-GA-U-----UA-
+SH0312       ------------------CAGACA------A----UC--C-G-----AA-
+SH0671       ---------------------GCAG----A------A--U-G-----UC-
+SH1160       ---------------------AUUA----U------G--G-A-----GU-
+SH0614       ----------------------GAG----U------U--C-G-----AU-
+SH1409       ---------------------A--U----A------G--U-G-----AG-
+SH0552       ---------------------AAGG----AU----UG--G-G-----GA-
+SH2449       -------------------UCGAGG----U------U--U-C-----UA-
+SH2622       ---------------------AAAU----U------C--A-U-----UU-
+SH0296       ---------------------U--C----A------G--U-C-----AC-
+SH2266       --------------------CAUUC----U------G--U-C-----CA-
+SH2138       ---------------------AUUC----A------C--G-C-----UC-
+SH1691       ----------------------GUG----A------A--G-G-----CA-
+SH0662       -----------------UAGCU--U----U------G--U-A-----UU-
+SH0333       --------AAAGUCUACUUUUA--C----U------C--A-A-----AA-
+SH0871       --------------------GGUCA----U------C--A-G-----UC-
+SH2491       ---------------------ACUU----A------U--C-G-----AC-
+SH2414       ---------------------CGCA----U------C--A-A-----UG-
+SH1976       ----------------------AUC----A------U--U-G-----AA-
+SH0060       ---------------------G--G----U------G--A-G-----GG-
+SH1165       ---------------------AGUG----G------G--G-U-----CU-
+SH1640       ---------------------UUGG----U------A--C-U-----UU-
+SH1974       -------------------ACUCAA----A------U--U-U-----CA-
+SH1988       ---------------------U--U----C------C--G-U-----AU-
+SH0486       ---------------------G--------------G--U-C-----GG-
+SH0098       ----------------------UUG----U------U--C-C-----AG-
+SH1381       ----------------------UUG----A------U--U-A-----CA-
+SH0029       ---------------------G--G----U------U--G-U-----UU-
+SH2116       ---------------------UGUU----U------C--A-A----GUC-
+SH0561       -------------------AUAAAU----U------U--A-C-----UA-
+SH1933       ---------------------ACUA----A------G--A-A-----AA-
+SH1050       ---------------------UUCA----U------C--A-G-----UC-
+SH1437       ---------------------------------------U-C-----AG-
+SH0465       ---------------------A--A----U------U--A-A-----GA-
+SH0134       --------------------CA--C----U------U--U-G-----AU-
+SH0875       ---------------------UUCA----U------C--A-G-----UC-
+SH0078       ------------GUAAUAUUAAUA------C----AC--U-A-----UG-
+SH2249       ----------------------GAA----UUU--CGU--U-C-----CA-
+SH2041       ---------------------CCUU----A------U--G-G-----GU-
+SH2403       ---------------------AAUG----U------C--U-C-----AG-
+SH2544       ---------------------AGAC----U------C--A-U-----UU-
+SH1926       ---------------------AGUG----U------A--A-A----UGU-
+SH0062       ---------------------AGUG----A------A--G-G-----AU-
+SH0186       --------------------UUGCA----U------U--C-U-----GA-
+SH0472       ---------------------AUAC----C-----GG--U-G-----CC-
+SH1676       ---------------------A--------------U--G-G-----CG-
+SH2056       --------------------GG--G----A------U--U-U-----UU-
+SH0405       ---------------UUAUCAA--U----G------U--U-G-----UU-
+SH1435       ----------------------ACU----U------U--A-A-----UU-
+SH1520       ---------------------AAUU----G------G--G-G-----AG-
+SH2255       ----------------------AAU----U------C--A-U-----UU-
+SH2054       ---------------------A--U----G------U--CUC-----AA-
+SH1250       ---------------------UAUG----U------A-AC-C-----UG-
+SH0198       --------------------AUGUA----U------G--A-G-----GU-
+SH0285       ---------------------AUGA----A------G--U-C-----CU-
+SH1150       -----------------AGCAAGUG----A------UAAC-G-----UU-
+SH0377       ---------------------UUCA----U------C--A-G-----UC-
+SH1331       --------------------AA--U----A------U--A-G-----AA-
+SH2439       ----------------------AUC----U------A--A-UU---UUC-
+SH0604       ---------------------AGAU----GA----AG--A-U-----UA-
+SH0969       ------------------AAUUGUA----G------A--U-C-----UG-
+SH2668       ---------------------UGCU----U------C--U-U-----AG-
+SH0287       ---------------------GAUA----G------G--C-A-----UU-
+SH0664       ----------------------GAU----U------U--C-U-----GA-
+SH2484       ------------------UCGA--A----U------G--U-C-----UC-
+SH0570       ----------UGCAACAAUUCUAUA----A------G--U-U-----AU-
+SH0007       ---------------------U--A----G------G--G-A-----AG-
+SH0124       ---------------------C--------------G--U-G-----UU-
+SH1197       ---------------------AGUU----AUU--UUA--A-U-----AG-
+SH0133       ------------------AUUGCUU----U------G--G-C-----UA-
+SH1010       ------------------------------------G--U-A-----GG-
+SH1913       ----------------AAUGAUCAU----UA---UAG--C-G-----AU-
+SH1549       -------------------UAAUCA----C------U-UU-GA---AGG-
+SH0777       -----------CCCUAAUUGAAGUU----UU---GCA--U-C-----CA-
+SH2120       ---------------------A--A----A------C--A-C-----UC-
+SH0114       --------------------AAUCA----A------G--A-A-----AU-
+SH1559       ---------------------AAGU----A------C--U-U-----GA-
+SH0838       --------------------AAUGU----C------U--C-A-----GC-
+SH0354       -------------------UUAUUA----A------C--A-U-----GA-
+SH0423       ------------------UACG--------------G--A-G-----UC-
+SH0132       -------------GGUUAUAGAUGU----CU---AAU--G-C-----UA-
+SH1034       ------------------------U----U------C--A-U-----UC-
+SH0529       ---------------------GAUG----AG---CUU--G-C-----AC-
+SH2412       ----------------AGACCAUUC----A------U--U-G-----AG-
+SH0470       --------------AACUUCAA--A----U------U--A-G-----GA-
+SH0868       ---------------------UGUA----G------U--U-G-----AC-
+SH0316       ------------------CACACUG----AC----AC--U-A-----GA-
+SH1030       ------------------UGUA--------------G--G-C-----AA-
+SH0101       ---------------------U--------------G--U-G-----AG-
+SH2669       ------------------UUUA--U----U------G--C-U-----GU-
+SH0039       -------------------AAUUUG----U-----AG--U-C-----UC-
+SH2258       ---------------------GCGU----U------U--A-U-----CA-
+SH0586       ---------------------C--G----A------C--C-A-----UU-
+SH0667       ---------------------U--C----U------U--U-G-----UU-
+SH0257       ---------------------UUAC----A------A--A-G-----AA-
+SH0946       ---------------------G--G----U------U--G-U-----UU-
+SH0590       ---------------------G--U----A------G--A-C-----UG-
+SH0159       ----------------------GAA----U------U--C-G----GUU-
+SH0125       ---------------------G--------------U--C-A-----UG-
+SH0127       ---------------------A--U----C------U--G-C-----UA-
+SH2667       ---------------------CGCU----U------C--U-U-----AG-
+SH0211       ---------------------AUCA----AGC-UUUG--C-A-----AU-
+SH0784       ----------------------ACU----A------U--U-G-----CU-
+SH2471       ------------------AAUG--------------U--C-A-----CA-
+SH0498       ---------------------UGCC----U------U--U-A-----UG-
+SH2261       -------------------AACCCU----U-----UA--U-U-----GG-
+SH1861       ---------------------UGAA----A-----CU--A-G-----UU-
+SH1560       ------------------AAUUUUG----C------C--A-U-----AC-
+SH0876       ---------------------A--A----U------U--U-C-----AU-
+SH2240       ------------------------A----U------A--C-G-----GG-
+SH2262       -------------------AUACCU----U------U-UU-A-----UU-
+SH2023       -------------UAACCAUGAACG----A------U--A-G-----AG-
+SH2115       ---------------------UGUU----U------C--A-AA---AUC-
+SH0256       -------------------GAAUUC----------AG--U-U-----UC-
+SH0436       ---------------------UCAU----C------U--A-A-----CG-
+SH2137       ---------------GAAUUCA------UU------G--U-C-----UU-
+SH1057       U--UUGUUGCUAGUCACAUUAUAAU----U------A--U-A-----UU-
+SH1149       --------------------AG--------------G--U-U-----UC-
+SH0145       ---------------------AAUG----U------C--U-C-----AG-
+SH0624       --------------------AAUUA----U------C--U-C-----AA-
+SH2626       ---------------------G--------------G--C-U-----UA-
+SH0937       ---------------------AAUG----U------C--U-C-----AG-
+SH0153       ----------------------GGU----U------G--U-C-----UU-
+SH0272       ---------------------UCUG----U------U--U-C-----CC-
+SH1572       ---------------------C--U----U------A--U-A-----CU-
+SH1645       ---------------------A--------------C--C-G-----UC-
+SH0299       -------------------UAGCUC----A------U--A-A-----GG-
+SH0544       ---------------------U--G----A------G--A-A-----UU-
+SH1992       ------------------UGAAACA----A------G--U-U-----AU-
+SH1264       ------------AUACCUAUGUGAC----U------C--G-G-----GG-
+SH1032       ---------------------A--------------A--U-G-----UC-
+SH0362       ----------------------CUC----A------U--C-U-----AU-
+SH1491       ---------------------G--U----U------G--U-U-----CC-
+SH0546       ---------------------A--------------C--U-C-----UC-
+SH1909       ----------------------UUG----U------A--A-A-----AA-
+SH2043       ---------------------AAAU----U------C--A-U-----UU-
+SH1547       ------------------------G----G------G--U-G-----CA-
+SH2586       -------------------UAAGUU----C------A--U-U-----UU-
+SH2192       ---------------------G--G----U------U--G-U-----UU-
+SH1623       ---------------------AGUU----U------U--G-A-----AG-
+SH1630       ----------UUCUAUUCCUAUUUA----U------U--C-U-----UG-
+SH0603       ---------------------UUCA----U------A--C-U-----UA-
+SH1716       ---------------------GACU----G-----AA--A-A-----AG-
+SH1867       ---------------GAUUUAA--------------U--A-U-----UU-
+SH0882       ---------------------AAAU----U------C--A-U-----UU-
+SH0079       ---------------------G--G----U------U--G-U-----UU-
+SH1875       ------------------------------------G--G-U-----GU-
+SH2210       ---------------------A--------------U--C-U-----UU-
+SH0196       ----------------------UAA----CU---GCA--C-G-----UU-
+SH0768       ----------------------UGU----A------G--U-C-----AU-
+SH1821       -------------------ACAGAA----U------U--C-G-----UC-
+SH0089       ---------------------GACGG--UA------G--A-C-----UU-
+SH0637       -------------------AAU--G----U------C--U-C-----AG-
+SH0727       --------------------AA--G----A------C--U-C-----UU-
+SH2093       --------UAAGUUUAUUACAA--A----U------A--C-C-----UU-
+SH1962       ---------------------AAAU----U------C--A-U-----UU-
+SH1835       ---------------------U--------------G--U-C-----UU-
+SH2167       ---------------UUAUCAUACC----U------U--A-A-----UC-
+SH1740       ----------------------GAAC--UU------U--U-A-----UC-
+SH1600       ---------------------U--------------G--C-C-----UU-
+SH1590       --------------------UG--U----U------G--C-U-----UA-
+SH2063       ---------------------A--U----A------G--C-U-----AC-
+SH1546       ------------------------------------G--A-G-----UG-
+SH2383       --------------------UUCCG----U-----C---G-UU--GCUA-
+SH1344       ---------------------AAUG----A------U--U-U-----UC-
+SH0207       ------------------AAUAGAA----G------G--U-A-----AA-
+SH1123       --------------------AAUAU----U-----UC--G-C-----UA-
+SH1474       ---------------------GAAA----U------C-UA-U----GCC-
+SH1956       ---------------------UUCA----U-----GC--A-U-----UG-
+SH0865       ---------------------GAUG----A-----AA--A-U-----UA-
+SH1444       ----------------------UAG----U------A--G-C-----AG-
+SH0020       ---------------------GGUC----U------C--A-U-----GC-
+SH0766       --------------------AUCUC----AU----UG-AC-U-----UA-
+SH2095       ------------------UAUUGUA----U-----CA--U-UU---UCU-
+SH0420       --------------------AA--U----G------U--C-U-----CA-
+SH0580       ---------------------------------------G-U-----UC-
+SH0997       ---------------------G--G----A------A--C-U-----CG-
+SH0874       ----------------------GU------G----AG--C-U-----AA-
+SH0185       --------------------UAGCU----U------U--C-U-----GA-
+SH0219       ---------------------GAAU----UCU--UUG--U-C-----UU-
+SH2293       --------------------AU--U----U------G--U-G-----AG-
+SH2678       ------------------------------------U--C-A-----GU-
+SH2200       ---------------------AUAU----G------U--A-U-----CU-
+SH0239       ---------------------AAAU----UCG--UCG--U-C-----CC-
+SH0318       ------------------AAUUGAA----G------U--U-U-----UA-
+SH0649       ----------------UGAGUAGAU----A------G--C-A-----CA-
+SH1756       ---------------------C--------------G--C-C-----AC-
+SH2091       ---------------------A--G----G------U--G-C-----AU-
+SH2554       -----------------AAAAUUUA----UUU--CGU--U-G-----UC-
+SH2415       ---------------------------------------U-A-----UU-
+SH0797       ------------------UUAAAUC----U------U--A-A-----UA-
+SH1053       ---------------------UUAG----G------G--A-A-----CA-
+SH2500       --------------------CCCUU----A-----GU--C-A-----AA-
+SH0863       ---------------------A--C----U------G--A-U-----AG-
+SH1219       -------------------AUAAAU----C------A--C-C-----UU-
+SH1199       ---------------------AUCC----A------U--C-AU---AGA-
+SH0432       -------------------AAU--G----UU----CA--C-A-----UA-
+SH2641       ----------------------UAU----G------G-AG-G-----AA-
+SH0918       --------------------UUUAG----A------U--G-A-----GU-
+SH1944       ----------------GAUGUACAU----U------A--A-C-----UA-
+SH0852       ------------------GCAAUAG----G-----AU--A-A-----AC-
+SH1841       ---------------------UACG----G------U--U-G-----AA-
+SH0283       -------------------UUUGUU----C------G--A-C-----UC-
+SH0302       ---------------------GGUA----G------U--U-C-----UC-
+SH1594       --------------GCAAUAUG--U----U------U--C-A-----GU-
+SH0719       ---------------------ACGA----U------C--U-A-----CC-
+SH0769       ---------------------AUAA----A------G--U-U-----UA-
+SH0297       --------------------AA--A----G------C--C-A-----CG-
+SH1688       ----------------UGAAUAUUG----U------U--U-C-----GU-
+SH0387       --------------------GAAAA----U------G--U-C-----UU-
+SH1260       -----------------AUGACGUC----U------U--A-A-----CC-
+SH2009       --------------------UGCGU----G------U--U-U-----AU-
+SH1425       --------------------AGAAU----G------G--U-GU---AUU-
+SH0886       --------------------AUAUA----G------A--A-A-----UU-
+SH0121       ---------------------A--------------G--U-G-----AA-
+SH1548       -------------------CAUUCA----C------U--U-GU--UGGA-
+SH0956       ---------------------U--------------U--G-A-----GG-
+SH0672       --------------------AU--C----A------G--A-A-----UG-
+SH1416       -----------------AAACUUGU----C------C--U-A-----AA-
+SH0303       ---------------------UCUU----G------G--C-G-----AU-
+SH1019       ---------------------A--C----A------A--G-U-----UA-
+SH0752       -----------------ACUUAUAU----G------C--U-U-----AAU
+SH1406       ---------------------A--U----G------G--U-U-----UA-
+SH1912       ----------------------CUA----U------A--G-A-----AA-
+SH1978       ---------------------UUAU----AA----UG--U-C-----UC-
+SH2408       ------------------------------------G--A-G-----CCA
+SH0556       ---------------------CGCA----U------C--U-U-----UG-
+SH0581       ------------------------A----A------G--U-G-----UU-
+SH1489       -------------------CGAGAU----U------G--U-A-----UC-
+SH1458       ------------------------U----U------G--A-C-----UG-
+SH1849       ------------------------U----G------G-CU-U-----AA-
+SH1493       ---------------------U--C----G------U--C-G-----UU-
+SH2498       --------------------GU--G----U------U--U-A-----UU-
+SH0274       -------------------UAUGCU----G-----AG-AU-A-----UC-
+SH0281       --------------------GAAUU----C-----AG--U-C-----CC-
+SH2197       --------------------CAAAU----UG----UG--U-A-----AU-
+SH1752       ---------------------A--------------G--A-U-----UG-
+SH0625       ---------------------CACU----U------C--C-C-----AA-
+SH0437       ---------------------GCAU----U------U--A-A-----CG-
+SH2660       ---------------------UAAU----U------G--C-U-----CA-
+SH1995       ---------------------AUAU----A------A--C-G-----UU-
+SH0325       ------------------------C----G------U--U-U-----CA-
+SH2395       -------------AAACCGAAA--C----U------G--A-U-----AA-
+SH1825       ---------------------GUUG----U------U--CGA-----UG-
+SH1268       -------------------GGAUUG----AUA--UUG--CAA-----UG-
+SH0653       ---------------AACGUUAUGU----A------C--C-A-----CUA
+SH1659       ----------------------UAU----U------U--G-U-----AA-
+SH2311       ------------------------------------C--G-U-----AC-
+SH2493       ----------------UGUUAACCU----AAU--AUA--U-C-----UC-
+SH1170       ---------------------A--A----U------G--UAU-----CA-
+SH0214       ------------------------A----G------G--G-A-----AG-
+SH0716       ----------------------UUA----A------U--A-G-----AG-
+SH0300       ---------------------A--U----A------G--U-G-----AG-
+SH0790       ---------------------AUUG----UG----AC--G-U-----UC-
+SH0194       ----------------------UUA----G------A--C-U-----GA-
+SH2332       ---------------------------------------C-G-----AC-
+SH0589       --------------------UC--G----A------G--G-A-----GG-
+SH2617       --------------------UCGCU----U------A--C-U-----UC-
+SH0547       ---------------------ACUU----U------G--C-A-----GG-
+SH0042       ---------------------AGCC----A------G--A-G-----CA-
+SH0365       ----------------AUCUUACUU----U------U--G-G-----GG-
+SH1351       ---------------------U--U----U------G--U-G-----GU-
+SH2198       ---------------------UAGA----G------A--A-G----AGC-
+SH0543       --------------------UU--------------G--A-A-----AU-
+SH1065       --------------------AUCUC----A------U-UU-U-----AC-
+SH1522       ------------------------------------U--G-C-----UA-
+SH2463       --------------------UG--------------C--U-U-----AC-
+SH2638       ---------------------UGAU----UU---CGU-CG-U-----AC-
+SH0592       ----------------------CUCA--AG------U--C-G-----UU-
+SH0459       ---------------------UGAG----A------C--A-G-----GU-
+SH0448       ----------------------UGU----U------G--G-G-----GU-
+SH0246       ---------------------G--A----U------U--A-G-----CG-
+SH0482       ---------------------G--------------C--C-U-----UG-
+SH1424       ---------------------UAUA----------GU--A-A-----CG-
+SH1283       ---------------------ACUA----U------G--U-U-----GA-
+SH1985       ---------------------GAGG----U------U--C-C----GCC-
+SH1639       ---------------------U--------------C-AU-C-----CU-
+SH1183       ---------------------ACUU----A------U--U-U-----AA-
+SH2559       ------------------UGCUGAC----U------U--UGU-----AG-
+SH1781       -----------CUUUUAAAAUU-------------AG--U-A-----AA-
+SH1900       ---------------------A--------------A--U-C-----UC-
+SH0462       --------------AAAAUUUAUUU----CG---UAG--U-C-----CU-
+SH1816       ---------------------UGUA----A------U-AG-C-----UC-
+SH0513       ---------------------U--------------G-------------
+SH0920       ---------------------U--------------G--C-U-----AU-
+SH0230       -------------------GAAGUG----A------U--C-C-----AA-
+SH1980       ------------------AGUAAUC----A------U--U-U-----AA-
+SH0663       CUAGGCUUUAUACAUAUUGAGACUU----U------U--G-C-----CAU
+SH2405       ------------------CAUGGCU----U------U--G-A-----AG-
+SH1105       ---------------------CAUG----U------U--U-C-----AA-
+SH1031       ---------------------U--G----A------A--G-U-----UA-
+SH1759       ---------------------U--A----G------G--A-C-----AU-
+SH2437       -------------------GAA--A----U------G--U-G-----UA-
+SH0151       ---------------------GGUA---CA------U--A-CUG-GACG-
+SH2607       ---------------------U--A----G------G--A-C-----AU-
+SH1371       ---------------------U--A----U------G--U-A-----GG-
+SH1079       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1159       ---UGUUUAAUCGAUUUGAUGUUUU----A-----GU--U-U-----AU-
+SH0883       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1329       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1741       ------------------------------------G--C-U-----CU-
+SH0454       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0100       --------------------AA--------------C--G-A-----GC-
+SH0707       ------------------UUUA--G----U------C--A-C-----AA-
+SH1011       ------------------------------------G--U-A-----GA-
+SH0650       --------------------GU--------------G--U-C-----UC-
+SH1378       ------------------------U----A------A--G-U-----AC-
+SH1196       ---------------------G--G----U------U--G-U-----UU-
+SH0795       --------------------UAGAA----U------U--G-C-----UU-
+SH0515       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1205       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0478       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0951       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1934       ---------------------A--C----U------A--A-G-----AA-
+SH0858       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH2427       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0998       --------------------UUCUA----UG---UUG--A-A-----AU-
+SH0737       ---------------------AAUG----U------U--C-C-----UA-
+SH1792       ---------------------UACC----G------U--U-G-----UCA
+SH1856       ---------------------U--G----A------U--U-G-----AG-
+SH0288       ---------------------CUUA----G------G--C-A-----UU-
+SH1946       -------------------GCAUUC----A------A--G-U-----UC-
+SH1136       ---------------GUACGCAUUA----U------A--C-G-----UU-
+SH1020       ----------------------CGU----U------A-GA-U-----AU-
+SH1963       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1666       --------------------GG--------------G--U-C-----UC-
+SH1897       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH2165       ---------------------A--C----A------U--U-U-----UA-
+SH1871       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1418       -------------------UCA--U----U------G--U-C-----UU-
+SH2320       ---------------------U--U----U------C--A-A-----UA-
+SH1503       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1555       --------------------UU--------------C--G-C-----UU-
+SH0019       --------------------UU--------------A--U-U-----UU-
+SH0166       ---------------------U--------------G--U-C-----AU-
+SH1193       ---------------------U--------------U--A-A-----GC-
+SH2642       ---------------------U--C----A------G--C-U-----AU-
+SH0970       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0583       ---------------------G--C----A------G-UC-G-----AA-
+SH1470       ---------------------AUGU----U------U--C-G-----AG-
+SH2042       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH2399       --------------------UGAAU----A------------U--UGUC-
+SH0939       ---------------------U--U----U------G--U-U-----CC-
+SH1275       ---------------------G--------------C--U-U-----CU-
+SH0248       ---------------------U--A----G------U-------------
+SH2624       -------------------UAGUGU----A------U--G-A-----CA-
+SH0464       ---------------------UAGU----G------A--U-U-----AG-
+SH1315       ---------------------CAAU----A------G--A-A-----AU-
+SH0203       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH2205       -------------------ACGUUA----U------C--A-C-----AA-
+SH2062       ---------------------G--U----U------A-UU-U-----UU-
+SH0195       --------------------UAACC----A------C--A-U-----UG-
+SH2279       ------------------AAUU--G----A------G--A-A-----GA-
+SH2176       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH0840       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1922       --------------------UAGUU----UCA--UUG--C-C-----UCA
+SH0715       ---------------------AUUA----C-----AU--U-G-----CA-
+SH0468       -----------------UCAUAUAA----U------G--C-U-----UA-
+SH0674       -------------------CUA--U----U------A--A-A-----UC-
+SH1621       ---------------------UGUG----U------C--U-U-----AG-
+SH1402       ---------------------AAAU----U------C--A-U-----UU-
+SH0910       ------------------------U----C------G--U-U-----UC-
+SH0108       ---------------------A--------------U--U-G-----GG-
+SH0660       -------------------UAA--U----G------U--C-U-----CA-
+SH2345       A--AGAUAAUAAAAAGUAUAAAGUC----A------G--U-A-----AU-
+SH0280       ---------------------GAAU----UC---GGU--G-U-----CC-
+SH2253       --------------------UU--G----U------U--C-C-----AA-
+SH2388       ---------------------ACAG----U------U--C-A-----GG-
+SH1054       --------------------GA--U----A------G--G-A-----AA-
+SH1449       ---------------------A--U----A------U--G-C-----UU-
+SH2419       ---------------------AGGC----A------U--C-G-----GU-
+SH0584       -------------------UAA--------------G--A-U-----AC-
+SH0183       ------------------------A----G------C--U-A-----UC-
+SH1267       -----------------ACAAAAUU----GA----GA-CA-U-----GG-
+SH1596       ----------------------AAG----C-----UU--U-U-----CU-
+SH1682       ---------------------A--G----A------U--G-G-----CU-
+SH1190       ---------------------ACUU----U------G--U-C-----GG-
+SH1137       ---------------UGAACCCUUA----U------A--C-G-----UU-
+SH2458       ---------------------UGAG----UU---GAU--C-A-----UA-
+SH0213       -----------------CUUUU--U----A------U--G-C-----AU-
+SH0306       ---------------------C--------------G-UC-A-----UG-
+SH2117       ---------------------U--C----G------C--A-U-----GG-
+SH0666       ---------------------G--------------G--C-U-----CG-
+SH2336       ---------------------A--G----U------G--G-G-----UA-
+SH0485       ------------------AGAAACG----U------U--U-C-----UU-
+SH1739       --------------------GAA--U--CU------U--U-A-----CC-
+SH0735       -----------AUAUUCCACUGCCA----U------U--C-C-----AU-
+SH1738       ----------------------GAU----A------A--A-A-----UA-
+SH1095       ---------------------A--A----U------G--C-C-----UC-
+SH2016       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH2223       ---------------------A--A----U------G-AC-U-----CA-
+SH1042       -------------------CAACUU----C------U--U-U-----UU-
+SH0371       --------------------AACGA----A------G--U-G-----GA-
+SH0408       ------------------------------------G--U-C-----UC-
+SH0560       -----------------GGUGA--------------C--U-G-----AG-
+SH0255       ---------------------C-----------------G-G-----AA-
+SH0031       ------------------------C----U------C-AA-C-----CG-
+SH2476       ------------------UUGA--A----A------G--G-U-----AA-
+SH1102       ----------AAAUUUAUUUCGUUG----U------C--C-U-----AC-
+SH1394       ---------------------AACU----G------G--C-G-----UU-
+SH1441       --------------CUAAACUAAAU----UA----AC--G------AGG-
+SH1109       ---------------------G--------------A--U-G-----UC-
+SH1172       -------------------AUAGAA----UU---UUA--G-U-----AU-
+SH0122       ---------------------AGUG----A------A--G-G-----AU-
+SH1879       ------------------------------------G--A-G-----UU-
+SH1602       ---------------------U--------------G--A-G-----UA-
+SH1977       ---------------------GAUG----U------A--C-U-----AU-
+SH0798       --------------UGGUAAAA-----------------A-A-----GU-
+SH0927       ---------------------G--------------G--AUC-----UU-
+SH0767       ---------------------A--U----U------G--A-U-----UA-
+SH1751       ----------------------UAC----A------G--A-A-----UG-
+SH0623       -------------------AGAUUA----A------U--U-A-----AU-
+SH2162       -------------------AAA--A----U------G--A-C-----UC-
+SH0293       ---------------------------------------A-C-----CC-
+SH1796       --------------------AA--U----A------G--C-AA---ACA-
+SH2219       ---------------------AAAG----U------G--G-C-----UUU
+SH1439       ---------------------AGCU----U------U--A-A-----AU-
+SH1296       --------------------UA--A----U------C--U-C-----AC-
+SH2567       ---------------------A--A----U------A--G-A-----GA-
+SH1338       ------------------------------------G--U-C-----AG-
+SH1961       --------------------UA--------------G--U-G-----CU-
+SH1131       ------------------------------------G--C-U-----AC-
+SH2461       ---------------------G--------------G--C-AU---CGC-
+SH0557       ---------------------UACA----U------C--U-U-----UG-
+SH2621       --------------UUGACGUA--G----A------G--C-C-----AA-
+SH0401       ---------------------AUCA----U------C--G-A-----CA-
+SH0483       ------------------------------------G--U-G-----UU-
+SH1970       -----------------UGAAG--------------G--C-A-----UU-
+SH0535       ---------------------AUUG----U------C--U-C-----AA-
+SH0305       ---------------------A--G----C------A--U-G-----UG-
+SH2040       ---------------------UCUA----A------U--G-G-----GC-
+SH1565       ------------------------------------G--A-A-----AG-
+SH2442       ---------------------U--------------G--A-C-----AG-
+SH2142       ----------------------UGU----U-----UC--A-A-----UA-
+SH1387       ----------------------AUU----G------G--A-A-----AG-
+SH1009       ---------------------A--------------A--G-U-----GA-
+SH2400       ---------------------UGAA----UCA--GCG--U-C-----UU-
+SH1556       ---------------------UAGC----A-----UU--U-C-----UC-
+SH0805       ---------------------U--------------G--C-U-----GC-
+SH2229       ---------------------AAAU----U------G--GAU-----UG-
+SH0647       ---------------------AUAA----U-----GU--A-G-----UU-
+SH0531       ---------------------CUUC----U-----CC-------------
+SH2333       ---------------------U--------------G--C-U-----UG-
+SH2107       --------------------AA-----------------U-G-----UC-
+SH0443       -------------------UAG--C----U------U--A-A-----GC-
+SH1773       ------------------AUAU--------------U--A-A-----UG-
+SH0936       -----------------AAAAUUUA----U------U--U-CGUUGGCC-
+SH0699       ------------------AUCACAC----A-----AU--A------AUU-
+SH2034       ---------------------AGAA----A------C--U-UU---CCU-
+SH1033       ---------------------C--------------A-CU-G-----CC-
+SH1247       ---------------------A--------------G--U-C-----AU-
+SH0648       -------------------GAUACG----A------U--U-U-----UA-
+SH1706       --------------------UACAU----U-----CG--G-U-----UC-
+SH1707       ---------------UGCAUUUGGU----U------C--U-A-----AU-
+SH1971       ----------------------UAG----U------G--U-C-----CU-
+SH0751       ---UUAAUAUGCUUAAUAGUCUGUU----U------C--A-G-----UU-
+SH2145       -------AUAUCUGGUUAUCUAAAU----A------U--G-U-----UG-
+SH0661       -------------------UAGUUU----U------G--U-A-----UU-
+SH2154       --------------------GAUUG----U------U--A-C-----UA-
+SH1916       --------------CAGUUUAUCAC----U-----AU--U-U-----AA-
+SH2268       -------ACUAUUACUCAUUCA--U----G------U--U-C-----AA-
+SH1142       --------------UCUUGCAACUA----U------G--A-A-----GU-
+SH1708       --------UAGUUAAAAAGUAGUCG----U------G--U-A-----UA-
+SH2125       ---------------UAGUGAUUGC----A------U--G-C-----UC-
+SH1882       ------------------UCAG--G----A------U--A-C-----GC-
+SH1187       -----------------AAAAUCAU----C------A--U-A-----CC-
+SH1528       ------------UUUGCAUAUAUGU----U------U--C-A-----AA-
+SH1341       ----------------------CUA----G------U--C-G-----AG-
+SH0129       -----------------GUUAUGUC----A-----UC--C-C-----GC-
+SH1904       --------------------GAGUU----U------C--A-A-----AC-
+SH0599       ---------------------UCAA----G------U--G-A-----AA-
+SH1943       ----------------ACUGUACAU----U------A--G-C-----UA-
+SH0090       --------------------CGGAU----U------G--C-U-----UC-
+SH1544       ----------------------AAA----UG----CG--C-A-----UU-
+SH2589       --------------UCGAACAAUUG----UAAUCAUU--A-G-----CU-
+SH1428       --------------------GUUCA----A------C--A-U-----UA-
+SH1604       -------------------CAACUC----U------A--U-A-----AU-
+SH1427       --------------------AUUCA----A------C--A-U-----UA-
+SH1062       ------------------AUUUUCC----A------G--U-A-----CG-
+SH0704       --------------------CUCGA----U------U--A-A-----UG-
+SH2547       ----------------UUACUUCUU----U------U--G-A-----UU-
+SH0507       ---------------UGCCCUUAUU----U------U--G-A-----AU-
+SH2645       --------------------AUGCA----U------C--C-U-----AU-
+SH2190       ---------------------UGAA----A------C--U-U-----CA-
+SH1063       ------------------UAGAUCC----G------G--U-A-----CG-
+SH2161       ---------------------ACAA----CUA-CGAU--U-U-----UA-
+SH0278       -------------------CAAUCC----G------C--U-U-----UC-
+#=GC SS_cons ....................._>>>....>......>..>.>.....>>.
+#=GC RF      .....................auuu....u......u..u.a.....ua.
+
+SH0400       AGU-GCUU
+SH1581       GCU-UUUU
+SH1701       ACU-CUUA
+SH1117       AGC-UUUU
+SH0691       CGG-GCUU
+SH0116       UCG-UUC-
+SH0618       AGU-GCUU
+SH0231       GCU-UUUU
+SH0375       GCU-UGAU
+SH1384       UGA-UUUU
+SH1141       UGU-AUUU
+SH2148       UGC-CUUU
+SH2189       AGC-GUUU
+SH1434       AAU-AGCU
+SH2171       GUU-CCUU
+SH0895       ACC-UUUU
+SH1167       GGA-GUUU
+SH1383       UGA-UUUU
+SH2392       CGG-UCUU
+SH1575       UGC-CUUA
+SH1092       ACU-CUUU
+SH1217       CUG-GAUU
+SH1413       AGU-CUCU
+SH0622       GGC-UUUU
+SH2644       GAG-GUCU
+SH0361       GCU-UUUU
+SH1582       AAU-CGCU
+SH0900       GGU-GGUU
+SH2510       ACU-CCCU
+SH1292       AGU-CUUU
+SH0609       GGU-UCUU
+SH2423       CUG-CCUU
+SH1126       CCU-UUUU
+SH1832       CUC-CUUA
+SH2546       GCU-UUUU
+SH2155       AGC-CUUU
+SH1431       UCU-CUUU
+SH0642       GUG-UUUU
+SH2149       UUG-CCUU
+SH2552       CUU-UUUU
+SH0598       GAC-UUUU
+SH2290       AAU-GCUU
+SH0085       UGU-GGCU
+SH0015       UGC-GGUU
+SH1702       ACU-CUUU
+SH2285       GCU-CU-U
+SH2625       GGU-GGG-
+SH0619       AGU-GCUU
+SH0621       UGG-GCUU
+SH1036       ACU-GGCU
+SH0646       GAG-CUUU
+SH0002       AAC-UCCU
+SH1000       GCG-UUUU
+SH1157       AGG-AUUU
+SH0128       UCA-CUUU
+SH1048       AGU-UUUU
+SH1216       CUG-GAUU
+SH2260       CGC-CUUU
+SH2314       UUU-GUGU
+SH0452       UCU-AUUU
+SH0693       AGC-UUUU
+SH1580       GAU-GCUU
+SH1845       GAC-AUUU
+SH1111       ACU-CCUU
+SH1229       ACU-GGCU
+SH0800       GUC-CUUU
+SH0566       ACU-GGCU
+SH0360       GCU-UUUU
+SH0469       GGA-GUC-
+SH1837       CCU-UUUU
+SH1842       ACU-GGCU
+SH0217       CAU-CUUU
+SH2044       UUU-CUUU
+SH0536       AGU-UUAU
+SH0229       CGC-UUUU
+SH2014       ACC-CCUU
+SH2058       UAG-CCAU
+SH0277       UCU-GUUU
+SH1127       CCU-UUUU
+SH1206       ACU-----
+SH2594       GAU-UUUU
+SH1925       GAC-CUUU
+SH0376       GCU-UGUU
+SH0999       GAU-GCGU
+SH0569       AAG-GUUU
+SH0357       CAG-UUUU
+SH2426       GGU-UUUA
+SH0912       CUC-----
+SH1471       GGA-UUUU
+SH1574       GCA-UUUU
+SH0123       GGA-UUUU
+SH2136       GAA-CUCU
+SH1238       GUC-UCGU
+SH0720       UGG-CUAU
+SH0700       UCC-CGCA
+SH1473       GGG-UGUU
+SH0605       AAU-GC-U
+SH0908       UGA-UUUU
+SH2326       ACU-GGCU
+SH0346       UCC-UAUU
+SH1844       ACA-UUUU
+SH1122       AUA-CUUU
+SH0893       AGG-UUUU
+SH1472       GGG-UGUU
+SH0905       AGG-GUUU
+SH0477       ACU-GGCU
+SH2398       AGU-GCUU
+SH2194       AUU-UUUU
+SH0493       AAC-UCCU
+SH1194       UGG-CCUU
+SH0887       ACC-CCU-
+SH0082       GGG-CUUU
+SH1964       CCA-----
+SH1121       GCU-CCCU
+SH1576       GCC-----
+SH1827       CAG-UCCU
+SH0539       AUG-GCUU
+SH0909       GGU-UGAU
+SH0794       GCU-UUUU
+SH0772       UGG-CUUA
+SH0791       GGC-AUAU
+SH1025       CCC-UCUU
+SH0315       GAG-GUGU
+SH2203       ACU-CCA-
+SH1966       UGU-CUUU
+SH2144       GGU-UUUU
+SH0694       GGA-GCUU
+SH0449       GGC-UUUU
+SH0022       GGU-UGUU
+SH1883       UAU-UUUU
+SH0559       UGC-CAUU
+SH0680       AGU-CUUU
+SH0242       GUA-UUUU
+SH1552       AGG-----
+SH0193       UUU-UUUU
+SH1214       GUU-GUCU
+SH2616       GGG-GAUU
+SH1567       GAC-CUCU
+SH0944       CAA-UUUU
+SH1695       AGG-GUUU
+SH0641       AGU-GUUU
+SH0212       UGU-GCUU
+SH2532       AGC-----
+SH2654       GCG-UUGU
+SH1130       GUG-UUUU
+SH1324       GAG-UUUU
+SH2590       GCU-UUUU
+SH1072       ACC-----
+SH0521       CUU-GUUU
+SH0771       UGG-CUUU
+SH1839       AGG-UUUU
+SH0073       GAU-UUUU
+SH1526       AGG-GUUU
+SH0506       CGC-UUAU
+SH0171       AGG-UGC-
+SH2066       UCU-CUCU
+SH0933       CCU-UUUU
+SH0091       ACU-GUUU
+SH1073       CCU-UUUU
+SH2452       ACG-GUUU
+SH1937       AGG-CUUU
+SH0349       UGC-UUUU
+SH0867       UUG-CCUU
+SH2248       UAA-CCUU
+SH0356       UAC-GCUU
+SH2143       AAG-GCUU
+SH0226       GGG-UCUU
+SH1071       CAA-UUUU
+SH0453       ACU-GGCU
+SH0587       UGC-CUUU
+SH0992       GGC-UUUU
+SH0627       AGU-UCUU
+SH0839       ACU-GGCU
+SH0955       GCU-UGUU
+SH0687       GAG-GUUU
+SH2269       CUC-AUUU
+SH1924       GAC-CUUU
+SH0373       GGA-CCUU
+SH0061       GCU-CUUU
+SH0374       GGA-CUUU
+SH1243       CAU-UUUU
+SH0460       GCU-UCUU
+SH0473       ACC-CAUA
+SH1597       CUA-UUUU
+SH2295       GGG-AUU-
+SH1677       AUA-UUUU
+SH1461       UGG-CUAU
+SH1822       UCU-CUUU
+SH2179       UGU-CUUU
+SH2028       UAA-GUUU
+SH0593       ACA-GCUU
+SH2173       UUA-CCUU
+SH1417       UCA-AUUU
+SH0542       UUU-UCUU
+SH0430       UAU-CCUU
+SH1531       AGC-CUUU
+SH0866       AUU-GCC-
+SH2497       GCU-AUUU
+SH1293       AGU-CUAU
+SH2208       GGC-UUUU
+SH0545       CUC-CUUU
+SH0896       ACC-UUUU
+SH0425       GGU-CUUU
+SH1689       GCU-AUUU
+SH0706       AUA-CUUU
+SH0456       UGU-CUUU
+SH2035       UGG-UGCU
+SH2045       AGU-UUCU
+SH0888       ACC-CCUA
+SH0762       GCU-UUUU
+SH0358       UGC-CUUU
+SH0610       GGU-UCUU
+SH0245       CUC-UUAU
+SH0519       AGU-GUUU
+SH1432       AGC-UCUU
+SH0551       UAU-UUUU
+SH0505       CAC-GCUU
+SH0579       UGG-GGUU
+SH0718       CGC-UUU-
+SH0511       GUG-GCUU
+SH0427       AGC-UCUU
+SH1510       -GU-GUUA
+SH2121       CGU-UUUU
+SH1189       AGC-UUUU
+SH1026       ACC-CUCU
+SH0162       GGA-GUUA
+SH0273       UCC-CUUU
+SH2211       ACU-GGGA
+SH1222       UUA-UUUU
+SH0484       AAU-UCUU
+SH1545       UCA-UUGU
+SH2640       GGA-UUUU
+SH0126       UGU-CUUU
+SH1848       AGA-UUUU
+SH2168       AUC-GCUU
+SH0713       UGC-UUU-
+SH0052       GGC-UUUU
+SH2250       GCU-UUCU
+SH2582       GGG-UUGU
+SH0841       UGU-CUUU
+SH2027       ACA-GCUU
+SH0541       ACU-----
+SH1561       GGU-CUUA
+SH2436       GUU-UU-U
+SH1527       AGG-GUUU
+SH2259       CGC-CUUC
+SH2067       UCU-CUCU
+SH2520       UCU-UUCU
+SH1593       GUU-UUUC
+SH1462       UGC-CUUU
+SH0786       GCC-UAUU
+SH2630       UGC-UUUU
+SH2407       CGC-UUUU
+SH0892       UUC-CCCU
+SH0901       GGU-GGUU
+SH0722       CCA-AUUU
+SH1284       ACU-CUUU
+SH1972       GGU-CUAU
+SH0424       AAG-GGUU
+SH1815       UAG-CCCA
+SH2488       GGU-UAUU
+SH0915       ACA-GUUU
+SH2013       CUA-CCC-
+SH1558       GCU-UUUU
+SH1156       UUU-AUUU
+SH1291       GUG-ACUU
+SH1215       UCG-UCAU
+SH1044       GGA-GCGU
+SH1704       GUG-UCUU
+SH0558       GCC-AUUU
+SH0458       GGU-----
+SH0953       UGU-CUUU
+SH1120       AAA-CGCU
+SH1935       AAU-GCUU
+SH2595       GAU-UUUU
+SH0799       GUC-CUUU
+SH0040       GUC-UUAU
+SH1833       UCU-CCUU
+SH0350       UGC-UUUU
+SH2459       UCU-U-UU
+SH2302       GAU-----
+SH1692       GCA-UUUU
+SH1097       UAU-UGUA
+SH0344       AAU-CUC-
+SH1847       AGA-UUUU
+SH0426       GCU-UUUU
+SH0322       AGC-CUCU
+SH0972       AUU-GUCU
+SH1176       UCC-UCUU
+SH2538       CGU-CUUU
+SH0913       GCU-GUUU
+SH1164       UCG-CUUU
+SH0567       CCU-ACCU
+SH2450       AGG-UUUU
+SH0985       GCU-AAUU
+SH2071       CCG-GUAU
+SH0686       GAG-GUUU
+SH1979       GGG-CUAU
+SH2492       CGU-GCUU
+SH2604       GAU-UGGU
+SH0334       AAG-CUUU
+SH2513       CUG-CUUU
+SH1029       AUC-ACUU
+SH1592       GUU-UUUU
+SH1350       GGU-----
+SH1254       AGA-UUUU
+SH1746       GGU-UAUU
+SH0837       CCU-----
+SH1583       AAU-CGCU
+SH1960       AAU-CUCU
+SH2026       ACA-GCUC
+SH0508       CGC-CUCU
+SH2551       ACC-UUUU
+SH1990       ACC-UUUU
+SH1423       GCU-AUUU
+SH1975       GGU-UUUU
+SH1878       CAC-CUUU
+SH1812       ACU-ACUU
+SH0312       GGC-----
+SH0671       GAU-UUUU
+SH1160       GGA-UUGU
+SH0614       AUC-UUUU
+SH1409       GGG-AUU-
+SH0552       UAU-UUUU
+SH2449       GUU-UUUU
+SH2622       ACU-GGUU
+SH0296       GCU-UGUU
+SH2266       ACU-CCCU
+SH2138       CUA-CUUU
+SH1691       UUU-UUUU
+SH0662       GCU-CUUU
+SH0333       GCU-UUUU
+SH0871       UUA-UUUU
+SH2491       GUG-CCAU
+SH2414       CGU-UUUU
+SH1976       CUG-GUUU
+SH0060       AUG-CUCU
+SH1165       GAU-UUUU
+SH1640       CCU-UUUU
+SH1974       AGU-GUUU
+SH1988       CGA-CUUU
+SH0486       CCU-CUUU
+SH0098       GCG-----
+SH1381       GGG-UCUU
+SH0029       AAU-CUCU
+SH2116       UCA-CUUU
+SH0561       UGA-AUUU
+SH1933       GUU-UUUU
+SH1050       CAA-UUUU
+SH1437       UGU-UUU-
+SH0465       AAA-CGUU
+SH0134       AGG-CUUU
+SH0875       CAA-UUUU
+SH0078       CCU-UUUU
+SH2249       CGA-UUUU
+SH2041       CCG-UUUC
+SH2403       CCUACUUU
+SH2544       ACU-GGCU
+SH1926       UCC-GUAU
+SH0062       GCU-CUUA
+SH0186       GCG-----
+SH0472       ACC-CAU-
+SH1676       CCU-UUUU
+SH2056       GUG-UCUU
+SH0405       GGC-GUUU
+SH1435       GGG-AAUU
+SH1520       UGC-GUUU
+SH2255       GCU-GGCU
+SH2054       CCG-UCUU
+SH1250       CUA-CUCU
+SH0198       UCU-AUUU
+SH0285       GCU-U-UU
+SH1150       GGC-UUUU
+SH0377       CAA-UUUU
+SH1331       AUU-GUCU
+SH2439       GGG-GUG-
+SH0604       AAU-GCUU
+SH0969       AAU-----
+SH2668       GUU-UUUU
+SH0287       GUU-UUUU
+SH0664       UCU-CCU-
+SH2484       AGC-UUUA
+SH0570       ACU-UUUU
+SH0007       UCU-UAUU
+SH0124       GGA-UUGU
+SH1197       GGU-GUUU
+SH0133       GAC-UUUU
+SH1010       CGU-U-UU
+SH1913       AGG-GCUU
+SH1549       GUG-CCUU
+SH0777       UGA-CUUU
+SH2120       CCC-AUUU
+SH0114       AUU-GAUU
+SH1559       GGG-U-UU
+SH0838       CUA-UUUU
+SH0354       UUG-CUCU
+SH0423       GUG-GUUU
+SH0132       CGU-CUGU
+SH1034       AAC-UGUU
+SH0529       CUA-CUUU
+SH2412       GAG-GUAU
+SH0470       GUC-AUUU
+SH0868       AGU-UUUU
+SH0316       GGU-GUUU
+SH1030       UCA-UUUU
+SH0101       CGU-UUCU
+SH2669       UCC-----
+SH0039       GCU-CCCU
+SH2258       AGG-AUUU
+SH0586       GCC-----
+SH0667       GGC-AGUU
+SH0257       GGU-UUUU
+SH0946       AAU-CUCU
+SH0590       GGG-UUUA
+SH0159       CCG-CCUU
+SH0125       AGG-UCUU
+SH0127       GCU-GCCU
+SH2667       GUC-UUUU
+SH0211       GUG-CUUU
+SH0784       AGA-G-U-
+SH2471       GGU-UAUU
+SH0498       GCU-UAUU
+SH2261       AGA-UUUU
+SH1861       UGA-GUUU
+SH1560       GGU-CUUU
+SH0876       GCG-UUUU
+SH2240       UUG-CUUU
+SH2262       GGA-GAUU
+SH2023       GUU-CUUU
+SH2115       UCA-CUUU
+SH0256       AUU-CCCU
+SH0436       AGG-UGUU
+SH2137       ACU-CCUU
+SH1057       GAG-GCUU
+SH1149       AUU-ACUU
+SH0145       GCU-----
+SH0624       UCU-CACU
+SH2626       UGG-GGUU
+SH0937       CCUAC-UU
+SH0153       AGA-CUUC
+SH0272       UCC-UUUU
+SH1572       UCG-GUUU
+SH1645       CAC-CUUU
+SH0299       GAU-AUUU
+SH0544       CUC-CUGU
+SH1992       AGC-GUUU
+SH1264       AUA-U-UU
+SH1032       GUG-GCUU
+SH0362       GCG-CUUU
+SH1491       GGU-UUUU
+SH0546       UUU-UUUU
+SH1909       GGA-GUUU
+SH2043       ACU-----
+SH1547       CUC-UUUU
+SH2586       ACG-GUUU
+SH2192       AAU-CUC-
+SH1623       UGA-GUUU
+SH1630       GUU-UUUU
+SH0603       GGU-UUUU
+SH1716       GUA-----
+SH1867       AGU-----
+SH0882       ACU-----
+SH0079       AAU-CUCU
+SH1875       CGC-AAUU
+SH2210       GGC-GAU-
+SH0196       GAA-CCUU
+SH0768       AGC-UUUU
+SH1821       UCU-UUUA
+SH0089       ACC-UUUA
+SH0637       CCU-UCUU
+SH0727       GCG-UUUU
+SH2093       ACA-CCUU
+SH1962       ACU-----
+SH1835       AGU-CUUU
+SH2167       GCU-----
+SH1740       ACU-CCAU
+SH1600       AGC-UUCU
+SH1590       AUC-UCUU
+SH2063       UCU-UUUU
+SH1546       CGC-UCUU
+SH2383       CUG-GUGU
+SH1344       GGG-UUGU
+SH0207       GGU-GUCU
+SH1123       CUC-UCUU
+SH1474       AUU-CCUU
+SH1956       GGU-GGCU
+SH0865       GCU-CUUU
+SH1444       GUU-GUUU
+SH0020       ACU-UAUU
+SH0766       AGU-CUUU
+SH2095       GCU-CUGU
+SH0420       GCC-UAUU
+SH0580       GCU-UUUU
+SH0997       CGA-CUUU
+SH0874       CUU-CUUU
+SH0185       GCG-----
+SH0219       UCU-CCCA
+SH2293       GGU-----
+SH2678       GGU-CUUU
+SH2200       AUG-GGUU
+SH0239       ACU-CCCA
+SH0318       AUA-UUAU
+SH0649       ACC-UUUU
+SH1756       UGG-AUUU
+SH2091       GGC-UUUU
+SH2554       CUA-CCCC
+SH2415       AAU-UUUU
+SH0797       UGC-UUUU
+SH1053       AGC-CUUU
+SH2500       GGA-GAUU
+SH0863       UCA-----
+SH1219       UGU-GCUU
+SH1199       GGG-----
+SH0432       UGC-UUCU
+SH2641       GGA-----
+SH0918       AAC-UUUU
+SH1944       GAU-UUUU
+SH0852       GUC-AUUU
+SH1841       GCC-----
+SH0283       GCA-UUUU
+SH0302       AGA-GUUU
+SH1594       AGG-UAUU
+SH0719       CGC-UUU-
+SH0769       CAU-UAGU
+SH0297       CUU-GUUU
+SH1688       ACC-UUUU
+SH0387       GGC-UUUU
+SH1260       UCA-UUUU
+SH2009       ACU-CCUU
+SH1425       GCU-CUUU
+SH0886       GUC-----
+SH0121       GGG-UGC-
+SH1548       UGC-CUUU
+SH0956       UGG-UUUU
+SH0672       UCG-ACUU
+SH1416       CAC-CUUU
+SH0303       AUU-UUUC
+SH1019       GGG-GUU-
+SH0752       UAG-UCUU
+SH1406       CUU-CUUU
+SH1912       UUG-----
+SH1978       ACU-UUUU
+SH2408       CGC-GCUU
+SH0556       GGU-CCAU
+SH0581       GUC-UUUU
+SH1489       UCG-AUUU
+SH1458       GAC-GCUU
+SH1849       CCG-UUUU
+SH1493       GUA-UUUU
+SH2498       GCC-UUUU
+SH0274       UCC-CUUU
+SH0281       ACU-----
+SH2197       AUC-UGUU
+SH1752       UGG-----
+SH0625       UCU-CACA
+SH0437       AGG-----
+SH2660       GCC-UUUU
+SH1995       AGC-UUUU
+SH0325       ACC-UUGU
+SH2395       CGC-----
+SH1825       CUU-C-UU
+SH1268       GCU-AGUU
+SH0653       CCU-GCUU
+SH1659       CAG-UUUU
+SH2311       UCU-UUUU
+SH2493       AAU-CUCU
+SH1170       GGU-UCUU
+SH0214       CGU-AUUU
+SH0716       AGC-GUUU
+SH0300       AGG-UUU-
+SH0790       AGA-UUUU
+SH0194       GAA-CUUU
+SH2332       GGG-UUUU
+SH0589       UUU-AUUU
+SH2617       ACG-----
+SH0547       UAG-----
+SH0042       UCU-UUUU
+SH0365       CGU-UUUU
+SH1351       GGG-GUUU
+SH2198       GCU-C-UU
+SH0543       ACA-----
+SH1065       UGG-UUUU
+SH1522       CCU-UGUU
+SH2463       UAA-----
+SH2638       GGC-----
+SH0592       ACA-GCUU
+SH0459       GCU-UUUU
+SH0448       AGU-AUUU
+SH0246       UGC-UCUU
+SH0482       GAA-GUUU
+SH1424       ACA-GUUU
+SH1283       CAG-UUUU
+SH1985       AGU-CUUU
+SH1639       AGU-CUUU
+SH1183       GUG-C-UU
+SH2559       GGU-GCUU
+SH1781       GGG-ACG-
+SH1900       AUC-UUUU
+SH0462       ACC-CCGG
+SH1816       CGU-CUUU
+SH0513       -GC-GCUU
+SH0920       GCU-UCUU
+SH0230       CGC-UUUU
+SH1980       GGG-CUAC
+SH0663       GGA-UUU-
+SH2405       GGA-----
+SH1105       ACU-CGCU
+SH1031       CUG-GUUU
+SH1759       UGC-UUUU
+SH2437       GCG-UUUU
+SH0151       GGA-GGUU
+SH2607       UGC-UUUU
+SH1371       AGG-UGUU
+SH1079       UGC-----
+SH1159       AUC-GUUU
+SH0883       UGC-----
+SH1329       UGC-----
+SH1741       GGU-CUUU
+SH0454       UGC-----
+SH0100       GUU-UCUU
+SH0707       UGG-C-UU
+SH1011       CGU-----
+SH0650       AGU-UUUU
+SH1378       AAU-----
+SH1196       AAU-----
+SH0795       GCU-UUUU
+SH0515       UGC-----
+SH1205       UGC-----
+SH0478       UGC-----
+SH0951       UGC-----
+SH1934       AAG-----
+SH0858       UGC-----
+SH2427       UGC-----
+SH0998       UGA-GUC-
+SH0737       CCC-UUUU
+SH1792       UUG-----
+SH1856       GUU-AUUU
+SH0288       GCU-UUUU
+SH1946       ACU-UCUU
+SH1136       GCC-UUUU
+SH1020       AGA-GUUU
+SH1963       UGC-----
+SH1666       AGA-UUUU
+SH1897       UGC-----
+SH2165       GUG-GAUU
+SH1871       UGC-----
+SH1418       AGU-CUUU
+SH2320       GUU-UAAU
+SH1503       UGC-----
+SH1555       AGU-GCUU
+SH0019       CGU-GUUU
+SH0166       AUU-----
+SH1193       GAG-UUUA
+SH2642       CCU-UUUU
+SH0970       UGC-----
+SH0583       GGC-AUAC
+SH1470       CCU-UUUU
+SH2042       UGC-----
+SH2399       GUA-GCUU
+SH0939       ACU-CUUU
+SH1275       GGU-GUUU
+SH0248       -CU-CUUU
+SH2624       GGU-UUUU
+SH0464       GAG-CUUU
+SH1315       GGU-----
+SH0203       UGC-----
+SH2205       AGU-UUUU
+SH2062       GUU-CUUU
+SH0195       AAC-CUUU
+SH2279       CAU-UUUU
+SH2176       UGC-----
+SH0840       UGC-----
+SH1922       CCC-CGU-
+SH0715       AGC-----
+SH0468       AGG-AGUC
+SH0674       GGG-GGUU
+SH1621       GCU-----
+SH1402       ACU-----
+SH0910       ACU-CUUU
+SH0108       ACG-CUUU
+SH0660       GUU-UUUU
+SH2345       AAC-ACUU
+SH0280       CAC-UUCU
+SH2253       CUA-CUUU
+SH2388       GUU-GUUU
+SH1054       CAA-ACCU
+SH1449       UGU-UUC-
+SH2419       UGG-AUUU
+SH0584       GGG-CUUU
+SH0183       GGA-UUUU
+SH1267       CUA-GUUU
+SH1596       CAG-UUCU
+SH1682       CAG-AUUU
+SH1190       CAG-----
+SH1137       GUC-UUAU
+SH2458       GGC-AUUU
+SH0213       UUU-G-UU
+SH0306       UGG-GGGU
+SH2117       GCU-UCUA
+SH0666       AUA-CUUU
+SH2336       GCC-UUUU
+SH0485       GGU-UUUU
+SH1739       ACU-CCAA
+SH0735       CUC-UUUU
+SH1738       GGU-UUUU
+SH1095       AGG-CUU-
+SH2016       UGC-----
+SH2223       GGC-UAUA
+SH1042       ACU-CUUU
+SH0371       AGG-UUUG
+SH0408       GCU-CUUU
+SH0560       GCU-UUUU
+SH0255       GGU-C-UU
+SH0031       CUG-GGAU
+SH2476       GGU-UUAU
+SH1102       CCC-----
+SH1394       GAA-GGGU
+SH1441       UGC-----
+SH1109       UUA-GGUU
+SH1172       GUU-CUUU
+SH0122       GCU-UUAU
+SH1879       GAG-----
+SH1602       GGG-AUUU
+SH1977       UGU-UUUU
+SH0798       UCG-UUUU
+SH0927       CGC-CGUU
+SH0767       AGG-CUUU
+SH1751       GCU-----
+SH0623       UGA-----
+SH2162       UCA-ACUU
+SH0293       UCU-UUUU
+SH1796       GUC-----
+SH2219       GAG-UUUU
+SH1439       GCU-----
+SH1296       UCC-----
+SH2567       AGG-CCUU
+SH1338       CGU-UUUU
+SH1961       GUU-UUUU
+SH1131       CUA-CUUU
+SH2461       CAU-----
+SH0557       AGU-CCUU
+SH2621       AUA-----
+SH0401       AGG-----
+SH0483       UCA-G-UU
+SH1970       GCA-GCU-
+SH0535       CCU-U-UU
+SH0305       GGG-----
+SH2040       CCG-UUUU
+SH1565       UCU-UCUU
+SH2442       GUG-UUUU
+SH2142       UUU-UUUU
+SH1387       ACU-UUUU
+SH1009       CGU-----
+SH2400       GCU-C-UU
+SH1556       AGU-UUUU
+SH0805       ACG-CACA
+SH2229       CUC-UUUU
+SH0647       GAA-----
+SH0531       -CU-AUUU
+SH2333       UCC-CUAU
+SH2107       GGG-CUUU
+SH0443       GAC-UCUU
+SH1773       GCU-AUUU
+SH0936       UAC-CCC-
+SH0699       AAA-CUUC
+SH2034       AAU-U-UU
+SH1033       GUG-GCUU
+SH1247       CUU-UUUU
+SH0648       UCU-CACU
+SH1706       UAA-UCCU
+SH1707       CCU-AUUU
+SH1971       UGG-UCU-
+SH0751       UCC-GUCU
+SH2145       ACU-UUUU
+SH0661       GCU-CUUU
+SH2154       AGC-CUUU
+SH1916       GUG-UCCU
+SH2268       UCU-CAUU
+SH1142       GUA-UUUU
+SH1708       CCA-CGUU
+SH2125       UAG-CCUU
+SH1882       CCU-AUUU
+SH1187       GCU-CCCU
+SH1528       CGC-CUUU
+SH1341       AGC-UUUU
+SH0129       UCA-CUUU
+SH1904       AGG-UUCU
+SH0599       ACU-GACU
+SH1943       GAU-UUUU
+SH0090       ACU-GUUU
+SH1544       UCA-UUGA
+SH2589       ACG-CUUU
+SH1428       GGA-GGUU
+SH1604       GAA-GCUU
+SH1427       GGA-GGUU
+SH1062       UCA-UUUU
+SH0704       GCU-UCUU
+SH2547       AGC-UUUU
+SH0507       GCC-UCUU
+SH2645       GAG-GUCA
+SH2190       AGC-GUUU
+SH1063       UCA-UUUU
+SH2161       GUG-GCUU
+SH0278       UGU-UUUU
+#=GC SS_cons >>>.>>>:
+#=GC RF      ggu.uUUU
+//

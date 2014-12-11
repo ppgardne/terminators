@@ -1,0 +1,806 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS DhcVS_1188 WT 1.01
+#=GS DhcVS_284  WT 1.09
+#=GS DhcVS_1211 WT 0.86
+#=GS DhcVS_1455 WT 0.99
+#=GS DhcVS_1348 WT 1.16
+#=GS DhcVS_157  WT 1.14
+#=GS DhcVS_974  WT 1.19
+#=GS DhcVS_673  WT 0.78
+#=GS DhcVS_103  WT 1.11
+#=GS DhcVS_97   WT 1.25
+#=GS DhcVS_99   WT 1.37
+#=GS DhcVS_921  WT 0.61
+#=GS DhcVS_255  WT 0.98
+#=GS DhcVS_1070 WT 1.22
+#=GS DhcVS_1307 WT 1.21
+#=GS DhcVS_905  WT 0.95
+#=GS DhcVS_359  WT 1.16
+#=GS DhcVS_878  WT 1.20
+#=GS DhcVS_674  WT 0.78
+#=GS DhcVS_1086 WT 1.00
+#=GS DhcVS_1359 WT 1.15
+#=GS DhcVS_1413 WT 0.88
+#=GS DhcVS_1262 WT 0.89
+#=GS DhcVS_879  WT 1.25
+#=GS DhcVS_1025 WT 0.68
+#=GS DhcVS_198  WT 0.96
+#=GS DhcVS_598  WT 0.60
+#=GS DhcVS_448  WT 0.93
+#=GS DhcVS_1160 WT 1.11
+#=GS DhcVS_1456 WT 0.99
+#=GS DhcVS_576  WT 0.79
+#=GS DhcVS_254  WT 1.03
+#=GS DhcVS_1369 WT 0.88
+#=GS DhcVS_1141 WT 0.86
+#=GS DhcVS_1122 WT 1.37
+#=GS DhcVS_922  WT 0.61
+#=GS DhcVS_599  WT 0.60
+#=GS DhcVS_721  WT 0.94
+#=GS DhcVS_672  WT 0.95
+#=GS DhcVS_1029 WT 1.16
+#=GS DhcVS_360  WT 1.16
+#=GS DhcVS_701  WT 0.86
+#=GS DhcVS_1339 WT 0.83
+#=GS DhcVS_1514 WT 0.79
+#=GS DhcVS_671  WT 0.85
+#=GS DhcVS_656  WT 0.96
+#=GS DhcVS_449  WT 0.84
+#=GS DhcVS_1270 WT 1.10
+#=GS DhcVS_702  WT 0.86
+#=GS DhcVS_646  WT 1.28
+#=GS DhcVS_862  WT 0.79
+#=GS DhcVS_1338 WT 0.83
+#=GS DhcVS_289  WT 0.78
+#=GS DhcVS_1418 WT 0.92
+#=GS DhcVS_668  WT 0.83
+#=GS DhcVS_539  WT 1.31
+#=GS DhcVS_899  WT 1.27
+#=GS DhcVS_828  WT 1.07
+#=GS DhcVS_793  WT 1.29
+#=GS DhcVS_1334 WT 0.68
+#=GS DhcVS_1087 WT 0.98
+#=GS DhcVS_333  WT 0.93
+#=GS DhcVS_588  WT 1.22
+#=GS DhcVS_215  WT 1.05
+#=GS DhcVS_1259 WT 0.95
+#=GS DhcVS_941  WT 1.21
+#=GS DhcVS_1326 WT 0.68
+#=GS DhcVS_752  WT 0.98
+#=GS DhcVS_1325 WT 0.95
+#=GS DhcVS_617  WT 0.86
+#=GS DhcVS_1142 WT 1.05
+#=GS DhcVS_1085 WT 1.47
+#=GS DhcVS_1210 WT 1.03
+#=GS DhcVS_920  WT 1.36
+#=GS DhcVS_3    WT 0.89
+#=GS DhcVS_1045 WT 1.35
+#=GS DhcVS_197  WT 0.96
+#=GS DhcVS_4    WT 0.89
+#=GS DhcVS_849  WT 0.59
+#=GS DhcVS_1428 WT 0.86
+#=GS DhcVS_1343 WT 0.78
+#=GS DhcVS_328  WT 0.99
+#=GS DhcVS_586  WT 1.09
+#=GS DhcVS_1429 WT 0.86
+#=GS DhcVS_861  WT 0.92
+#=GS DhcVS_362  WT 0.93
+#=GS DhcVS_537  WT 0.82
+#=GS DhcVS_618  WT 0.86
+#=GS DhcVS_22   WT 1.29
+#=GS DhcVS_919  WT 0.99
+#=GS DhcVS_170  WT 0.86
+#=GS DhcVS_307  WT 1.37
+#=GS DhcVS_925  WT 1.21
+#=GS DhcVS_310  WT 0.85
+#=GS DhcVS_642  WT 0.89
+#=GS DhcVS_1158 WT 0.94
+#=GS DhcVS_1392 WT 1.10
+#=GS DhcVS_114  WT 0.96
+#=GS DhcVS_720  WT 0.99
+#=GS DhcVS_529  WT 1.23
+#=GS DhcVS_544  WT 1.02
+#=GS DhcVS_1461 WT 1.24
+#=GS DhcVS_548  WT 1.19
+#=GS DhcVS_381  WT 0.66
+#=GS DhcVS_1389 WT 1.19
+#=GS DhcVS_1181 WT 0.93
+#=GS DhcVS_1438 WT 1.01
+#=GS DhcVS_1315 WT 0.59
+#=GS DhcVS_953  WT 1.35
+#=GS DhcVS_1401 WT 0.86
+#=GS DhcVS_1068 WT 0.95
+#=GS DhcVS_288  WT 0.68
+#=GS DhcVS_987  WT 0.75
+#=GS DhcVS_349  WT 0.83
+#=GS DhcVS_291  WT 1.07
+#=GS DhcVS_1515 WT 0.92
+#=GS DhcVS_81   WT 1.49
+#=GS DhcVS_1420 WT 0.92
+#=GS DhcVS_1109 WT 0.73
+#=GS DhcVS_1118 WT 0.96
+#=GS DhcVS_1224 WT 1.42
+#=GS DhcVS_1078 WT 1.10
+#=GS DhcVS_1079 WT 0.92
+#=GS DhcVS_1503 WT 1.32
+#=GS DhcVS_1053 WT 0.92
+#=GS DhcVS_363  WT 1.01
+#=GS DhcVS_350  WT 0.83
+#=GS DhcVS_345  WT 0.99
+#=GS DhcVS_144  WT 0.87
+#=GS DhcVS_965  WT 0.90
+#=GS DhcVS_1377 WT 0.94
+#=GS DhcVS_1089 WT 0.73
+#=GS DhcVS_1400 WT 0.78
+#=GS DhcVS_538  WT 0.98
+#=GS DhcVS_1021 WT 0.92
+#=GS DhcVS_1328 WT 1.47
+#=GS DhcVS_505  WT 0.92
+#=GS DhcVS_382  WT 0.66
+#=GS DhcVS_299  WT 1.25
+#=GS DhcVS_1125 WT 0.84
+#=GS DhcVS_311  WT 0.68
+#=GS DhcVS_1072 WT 0.88
+#=GS DhcVS_827  WT 1.10
+#=GS DhcVS_992  WT 1.21
+#=GS DhcVS_729  WT 1.24
+#=GS DhcVS_1472 WT 0.86
+#=GS DhcVS_476  WT 1.12
+#=GS DhcVS_753  WT 0.84
+#=GS DhcVS_248  WT 1.00
+#=GS DhcVS_491  WT 1.07
+#=GS DhcVS_1090 WT 0.73
+#=GS DhcVS_1414 WT 0.88
+#=GS DhcVS_1148 WT 1.29
+#=GS DhcVS_739  WT 0.96
+#=GS DhcVS_1417 WT 0.92
+#=GS DhcVS_1398 WT 0.59
+#=GS DhcVS_1512 WT 0.59
+#=GS DhcVS_312  WT 0.68
+#=GS DhcVS_1435 WT 1.50
+#=GS DhcVS_1434 WT 0.94
+#=GS DhcVS_884  WT 1.08
+#=GS DhcVS_339  WT 1.29
+#=GS DhcVS_127  WT 0.78
+#=GS DhcVS_506  WT 1.21
+#=GS DhcVS_373  WT 1.25
+#=GS DhcVS_1071 WT 0.79
+#=GS DhcVS_295  WT 1.07
+#=GS DhcVS_504  WT 0.98
+#=GS DhcVS_300  WT 1.21
+#=GS DhcVS_838  WT 1.34
+#=GS DhcVS_1054 WT 1.04
+#=GS DhcVS_1463 WT 0.94
+#=GS DhcVS_570  WT 1.31
+#=GS DhcVS_1000 WT 1.32
+#=GS DhcVS_179  WT 1.11
+#=GS DhcVS_1471 WT 0.82
+#=GS DhcVS_1024 WT 0.90
+#=GS DhcVS_146  WT 1.06
+#=GS DhcVS_115  WT 0.92
+#=GS DhcVS_1138 WT 1.32
+#=GS DhcVS_118  WT 0.73
+#=GS DhcVS_750  WT 1.32
+#=GS DhcVS_1099 WT 0.94
+#=GS DhcVS_746  WT 0.98
+#=GS DhcVS_1437 WT 1.22
+#=GS DhcVS_133  WT 1.43
+#=GS DhcVS_1511 WT 0.77
+#=GS DhcVS_56   WT 0.85
+#=GS DhcVS_1352 WT 0.87
+#=GS DhcVS_172  WT 1.24
+#=GS DhcVS_745  WT 0.82
+#=GS DhcVS_327  WT 0.87
+#=GS DhcVS_1323 WT 0.87
+#=GS DhcVS_1273 WT 1.08
+#=GS DhcVS_1219 WT 1.14
+#=GS DhcVS_1200 WT 0.99
+#=GS DhcVS_201  WT 1.01
+#=GS DhcVS_109  WT 1.67
+
+DhcVS_1188   CGGACUAACGGUCCGAAA---GUAAC------------------------
+DhcVS_284    G----UAAGUCUGGUAUAG--AUAAUAU----------------------
+DhcVS_1211   AUUAUUCA---UGAUAAAG--A----------------------------
+DhcVS_1455   AUAAUUCCUUCGGGCAAAA-CGCAA-------------------------
+DhcVS_1348   AUAAUUUAUA-----AAA---UUAAUAGGUUAGA----------------
+DhcVS_157    GCUUGAAAACC----AUAU--UUAAGGUUCUUU-----------------
+DhcVS_974    CCGUUUACAG-UAUAAAA----UAAAUUCAGAAUAUC-------------
+DhcVS_673    AAUAUUUCCUGUCUCAAA----UAA-------------------------
+DhcVS_103    CCGAAUAUCCU----AAA----UAA-------------------------
+DhcVS_97     CAGUUUACCUAGCG-CAA----UCAGGGA---------------------
+DhcVS_99     G----UAA-------AAA----UCUUCCU---------------------
+DhcVS_921    AGGUUUAU-------AUA----CA--------------------------
+DhcVS_255    C----AAA-------AAA--------------------------------
+DhcVS_1070   CGCUUGAUACC----A------UAGGGAUAU-------------------
+DhcVS_1307   CUUUUUAG-------AA-----CCA-------------------------
+DhcVS_905    AGUAAUAUUUCUGUC-------UAAACGUU--------------------
+DhcVS_359    CUUUUUAUCCCGGUAAAA---UUAA-------------------------
+DhcVS_878    ACUAUCAACU-UCU-AAA----UAAUAUUC--------------------
+DhcVS_674    A----UAAACCAAC-AAA----UAA-------------------------
+DhcVS_1086   C----GAACUG----CAA--------------------------------
+DhcVS_1359   CAAAGUAAAUC----AAA----UAAG------------------------
+DhcVS_1413   A----UUACACUUGCAGA----UAGUU-----------------------
+DhcVS_1262   AUAUUUAU-------UAA----U---------------------------
+DhcVS_879    C----AAACGCUGU-UAA---GUAAAGCAUUC------------------
+DhcVS_1025   GCCUUUAAAUAGGUAAAAA--UUAAAA-----------------------
+DhcVS_198    GUCUGUAA---GAA-AAA--------------------------------
+DhcVS_598    A----UACAUU----AUA----UAA-------------------------
+DhcVS_448    AAGAUUAUCU-UAC-A------UAAAAA----------------------
+DhcVS_1160   CGUUUAAACCG----AAAA--GUAAACAAUAUC-----------------
+DhcVS_1456   CGGUUUUAGUUGGU-AAA----UAAA------------------------
+DhcVS_576    AUUUUUAUAUCUUG-AAA---G----------------------------
+DhcVS_254    AGUUUUGGUGCUAGAAGA----UAA-------------------------
+DhcVS_1369   CGUUUGUUUAGAAACAUA----UAU-------------------------
+DhcVS_1141   AGGUUUUUUGCUGAUAAA---AUC--------------------------
+DhcVS_1122   AUUUUUAUCAGCUUG-------U---------------------------
+DhcVS_922    AUCUGUAUUUG----CAA----UAA-------------------------
+DhcVS_599    A----UAACGG----AAAU-UAUAA-------------------------
+DhcVS_721    ACCAAUAU-------AUA---CUA--------------------------
+DhcVS_672    AGCAGAUA-------AAA----UCA-------------------------
+DhcVS_1029   CUGAAUUAAAAUUU-A------UAAACACUAU------------------
+DhcVS_360    CUUAGCUACA-----AAA----UA--------------------------
+DhcVS_701    AGUUUUUG---UGAAAAA----UAAAA-----------------------
+DhcVS_1339   GUUAUUUACGAGAUUA------UAG-------------------------
+DhcVS_1514   A--------------AGA--------------------------------
+DhcVS_671    A----UAUCACUUAAUAA----UA--------------------------
+DhcVS_656    AGAUUUAAACCCAUAAAAUGGAUAAU------------------------
+DhcVS_449    CUCUUUUAAU-----CAA----UAA-------------------------
+DhcVS_1270   C----UAA---UGUAUUA----UGG-------------------------
+DhcVS_702    C----UACCC-AUA-AAA---CU---------------------------
+DhcVS_646    CUUUAUUUCUGGUUU-------U---------------------------
+DhcVS_862    ACCUUUAGCCAGAUAAAA---GUAAAA-----------------------
+DhcVS_1338   AGGGGUAAUAGUUUUAAA---AUAG-------------------------
+DhcVS_289    ACUUAAUACCCUCU-AAA---CUAA-------------------------
+DhcVS_1418   C----UUA-------AAA----UC--------------------------
+DhcVS_668    CUUAUUUAUCUGAU-AAA----UA--------------------------
+DhcVS_539    AGUUGUAA-------AAAU--CUAGUUUUUUAGAGUU-------------
+DhcVS_899    CGGAUUGAACA----AAA----CAAAAC----------------------
+DhcVS_828    AAUAAUAAUUAUAUAAAA---AUAAA------------------------
+DhcVS_793    CGUUUUAUAUAGAUUU------UCA-------------------------
+DhcVS_1334   AAGUCUAGUUUGGG-AAA----UAGUAACAG-------------------
+DhcVS_1087   AGGAUUCAGUC----AAA----UAACUCUAUUGAG---------------
+DhcVS_333    C----AUACCGGAU-UAA----UCA-------------------------
+DhcVS_588    GAAUUUAGCGCGUAA-------UGAAU-----------------------
+DhcVS_215    AAGUGUAA---UGA-A------UA--------------------------
+DhcVS_1259   CUUAGUUUAUCAGCU-------UA--------------------------
+DhcVS_941    AGCCUCUACU-----AAA----UAAAUU----------------------
+DhcVS_1326   C----UAGCUUAGC-AAA----UAGUAAAAG-------------------
+DhcVS_752    G----UCA---UGU-AAA----UC--------------------------
+DhcVS_1325   CUGAGUAAAUCUUGG-AA----UAAUA-----------------------
+DhcVS_617    AUAUCUAA-------AAA----U---------------------------
+DhcVS_1142   CGAUUAAU---UAGCUAA---UUAA-------------------------
+DhcVS_1085   A----UUCCCGCUC-AAA----UAAUAUAGUUG-----------------
+DhcVS_1210   C----GUACGGGUU-AAA----UAG-------------------------
+DhcVS_920    C----AAACU-GGG-AAA----CA--------------------------
+DhcVS_3      AGUUUAAUGGCAGA-CAA----UAAU------------------------
+DhcVS_1045   ACAUUUAG---UUUU-------UAGCUCCAGCUUCU--------------
+DhcVS_197    GGCAUUAU-------AAAA-GA----------------------------
+DhcVS_4      GCCUUUGA-------AAA----CAGC------------------------
+DhcVS_849    AUAUUUCUCU-----AAA----UAC-------------------------
+DhcVS_1428   CGGAUUACAGCCGG-AGAA--UUAA-------------------------
+DhcVS_1343   AGUUUAAA---GGG-UAA----U---------------------------
+DhcVS_328    AGUAUUUUGUAUAAAAUA----UAAA------------------------
+DhcVS_586    CUAAUUUAUU-----AGA----UAAGAUACA-------------------
+DhcVS_1429   CUAAAUUCCCGGUAAAAA----CAG-------------------------
+DhcVS_861    CAGUUUUU---UAUAAAA----CAA-------------------------
+DhcVS_362    AUCCGUAAUCAGGUAAAAA--AU---------------------------
+DhcVS_537    AGGUUUAU-------AAA---ACAA-------------------------
+DhcVS_618    AUUAUUCACCAAGAUAUA---AUA--------------------------
+DhcVS_22     AGUUUAUU-------A------UA--------------------------
+DhcVS_919    ACCUGUAAUUAUAA-AAA----UAUUUUCA--------------------
+DhcVS_170    CUUAGUAA---GUGCUAA---GUAAA------------------------
+DhcVS_307    CACUUUAU-------A------UCAAGCGUU-------------------
+DhcVS_925    CGGUCUUUCUUUAC-UAAC--AUCA-------------------------
+DhcVS_310    GGGUGUUUGUCUGU-AUA---UUA--------------------------
+DhcVS_642    GGAAGUAAAU-UAUCAAA----UAA-------------------------
+DhcVS_1158   AACUCAAG---UGG-AAA----UAAUCUAAAACAGGUU------------
+DhcVS_1392   GCCUUUUA-------AAA----U---------------------------
+DhcVS_114    AGUAAUAACAG----AAA----U---------------------------
+DhcVS_720    AUUUGUGACAG----A------U---------------------------
+DhcVS_529    A----UAACC-UCU-AAA----CCACCAUG--------------------
+DhcVS_544    GCCUUUAG---GCUUAAA----UAAGCUUCGGUUG---------------
+DhcVS_1461   CUGCUUAGCUAGAAACAA---GUAGAA-----------------------
+DhcVS_548    CCCUUUUAAU-----AAAU--UUAAGAAGCCA------------------
+DhcVS_381    C----UUACUCUGUAU------UAA-------------------------
+DhcVS_1389   CUGAUUAA-------CAA---AUAAUUUCCCCAG----------------
+DhcVS_1181   CGAAGUCU-------AAA----U---------------------------
+DhcVS_1438   CAGACAAA-------AAA---G----------------------------
+DhcVS_1315   CAGAGUUCCCGGUU-AUAC--CU---------------------------
+DhcVS_953    CUUUAUAUGUGUGUUAAA---A----------------------------
+DhcVS_1401   AGGUUUAC-------CAA----UCAAC-----------------------
+DhcVS_1068   AUAAAUAACAGGUUAA------UAA-------------------------
+DhcVS_288    GCGUUUAA---GGAAAUA----UA--------------------------
+DhcVS_987    AGGUUUUUUAGGAGAAAA---A----------------------------
+DhcVS_349    CGAAUUGUUCCAUA-AAA---C----------------------------
+DhcVS_291    CUGACUAC-------UAA---AUAAUCCCUGACUUAA-------------
+DhcVS_1515   AAGAUUUAAUCUGU-A------UAAAA-----------------------
+DhcVS_81     GUCUAUAUUCUGGUUUUA---UU---------------------------
+DhcVS_1420   AGCUGAAGCUU----AAAC-GUUAAGC-----------------------
+DhcVS_1109   CUAUUUAAAAAUGCGA------UAA-------------------------
+DhcVS_1118   GUUAGUAU-------AAA----UAA-------------------------
+DhcVS_1224   CGGCUUUACA-----AAA----U---------------------------
+DhcVS_1078   AAUUUUAGCUUUCU-AAA--------------------------------
+DhcVS_1079   AAUUUUCAAAGACA-AAA----UAA-------------------------
+DhcVS_1503   AAGUUUAUCAGUUCAUUAC--UU---------------------------
+DhcVS_1053   CCGUUUAA---GUUGCAA----U---------------------------
+DhcVS_363    AAACUUAA-------UAA----UA--------------------------
+DhcVS_350    GAUAUUAA-------AAA---UUA--------------------------
+DhcVS_345    ACAAUUAGAGGUUAGAUA----UAUAU-----------------------
+DhcVS_144    CUGAGUAAUU-----C------UAAGUGCAG-------------------
+DhcVS_965    AUACUUAA-------AAA----UAACCGGCAAAUCUG-------------
+DhcVS_1377   CGGUUCAUGCAAGU-A------U---------------------------
+DhcVS_1089   CUCCUUAACA-----AAA----UCA-------------------------
+DhcVS_1400   CUGAUAAAAAUUGAUAGA----U---------------------------
+DhcVS_538    AAUAUUUA---GGUAAAA----UCA-------------------------
+DhcVS_1021   AGUUUUAGCUA----AAA---AUAACGUUUAUCUCUUUUCUCACAUACCU
+DhcVS_1328   AGUAUAUAAAGGGU-A------UA--------------------------
+DhcVS_505    GUUUGUCA---GCCCAAA----CAA-------------------------
+DhcVS_382    C--------------AAA---C----------------------------
+DhcVS_299    AGCUUUAGUA-UAUGCAA----UAA-------------------------
+DhcVS_1125   AAGUUUAA---GGUUA------UAAA------------------------
+DhcVS_311    AGAAAAAA---GAG-AAA----UAA-------------------------
+DhcVS_1072   CCGUGUGGCAG----AUAU--UUAA-------------------------
+DhcVS_827    CGCUUUAA---GGC-A------UAAAAUCCCG------------------
+DhcVS_992    CGGUUUUAAUGGUA-A------UCA-------------------------
+DhcVS_729    A----AAACUGCAAGAAAC-AGUAAACUU---------------------
+DhcVS_1472   AGAUUUUGCGGAUA-CAA----CAA-------------------------
+DhcVS_476    GACUAUAAAGAUGGUCAA----UAUUGUCAAGA-----------------
+DhcVS_753    AUAUUUAA---UAUUA------UAA-------------------------
+DhcVS_248    CGCUUGAACUCAGA-AAA----CAGCCAA---------------------
+DhcVS_491    CUUAUUAA-------UAA---CUAAA------------------------
+DhcVS_1090   GGAAUUGA-------AAA---GU---------------------------
+DhcVS_1414   GGUUUUAAAACAGCUAAAA-GCUA--------------------------
+DhcVS_1148   AGCUUUAU---GAAU-------CCG-------------------------
+DhcVS_739    AUGGUUAAACACUUCCAA----UAAUCU----------------------
+DhcVS_1417   CAAUACAACCG----AAA----UAA-------------------------
+DhcVS_1398   CAGAGUUUCUGGUU-AUAC--C----------------------------
+DhcVS_1512   CUUUUUAGCUG----AAA----UAUUACUGU-------------------
+DhcVS_312    GGAAUUUG---GGCAAAAG--AUAA-------------------------
+DhcVS_1435   CGCGUUAACACUUGC-------UA--------------------------
+DhcVS_1434   AAUCUUAAUCAAGUC-------UAA-------------------------
+DhcVS_884    AGCUGAAAUAG----AAAG--C----------------------------
+DhcVS_339    CGGUUUUA-------A------UAGCCA----------------------
+DhcVS_127    CGCACCAUCUG----AAA----UAA-------------------------
+DhcVS_506    AUUCUUUA---GUU-AAA----UAACAAGCCAA-----------------
+DhcVS_373    A----UGC-------CAA----UCAAGC----------------------
+DhcVS_1071   G----UAACUGAAU-A------UAAU------------------------
+DhcVS_295    CGGACUAAUAGUUU-UUA---GUAG-------------------------
+DhcVS_504    CGGUACAAAUCUGC-AAA----UGA-------------------------
+DhcVS_300    C----UUACCCGAU-AAAU--AUAA-------------------------
+DhcVS_838    CGGAGCAGACAGAA-UAA---UUAA-------------------------
+DhcVS_1054   AGUAGGCACU-----AAA--------------------------------
+DhcVS_1463   AAGAUUAGCAA----AAA---G----------------------------
+DhcVS_570    CUAAGUUU---GCU-A------UAGCGGUU--------------------
+DhcVS_1000   CUGUAUUU-------AAA----UAAGAAA---------------------
+DhcVS_179    CCAAGUAA-------AAA----UAAAAA----------------------
+DhcVS_1471   CUGUUAGACCG----AAA----UAU-------------------------
+DhcVS_1024   AGUACUCAAGCCUA-AAA---CUA--------------------------
+DhcVS_146    C----UUAUC-UGU-AAA---CUAAGCCCGGGUCGGGUA-----------
+DhcVS_115    CAGUUUAAACCGGAUAUA---AUAA-------------------------
+DhcVS_1138   AGGAGUAUUUAUGA-AAA----UAAGUAAAACCU----------------
+DhcVS_118    AUAUUUUA---GUA-A------UAA-------------------------
+DhcVS_750    CAGAUUACUUGGUG-AUAC--C----------------------------
+DhcVS_1099   A----UACCAGGAACCAA---G----------------------------
+DhcVS_746    ACGAUUUGCAGAAU-CGA--------------------------------
+DhcVS_1437   CUUCUUUAAAUUGA-AAA----CAGUAUCCUUAA----------------
+DhcVS_133    CAGAUUAGGUGUUUGAAA---GU---------------------------
+DhcVS_1511   GGGUAAAACGC----CAA----UAA-------------------------
+DhcVS_56     GGGUGUAAUUGAUU-AUU----UA--------------------------
+DhcVS_1352   AGCUUAAACCAGAU-UUA----UAAAUU----------------------
+DhcVS_172    C----UUACUAGAAC-------UGA-------------------------
+DhcVS_745    C----UAGCGUGGAUAUA----UAU-------------------------
+DhcVS_327    CUGUGAAUUUCAGC-CAA----UAA-------------------------
+DhcVS_1323   AGUUUUUA---GUU-AUA---C----------------------------
+DhcVS_1273   CAGCGGAACC-----UAA----U---------------------------
+DhcVS_1219   A----AAAUGGUGCCAAA----UGAAA-----------------------
+DhcVS_1200   AGCUAUCCCCAUACUAAA---GU---------------------------
+DhcVS_201    ACCUUUCGGCAGGUAAAA----CCA-------------------------
+DhcVS_109    G--------------AGA---A----------------------------
+#=GC SS_cons ::::::::::::::.:::....:::.........................
+#=GC RF      cggUUUAAcugugu.AAA....UAA.........................
+
+DhcVS_1188   -------------------CAAA-GAGCCC---CC-CG------------
+DhcVS_284    ------------------AGCAG-GGCUGC---AG-UU------------
+DhcVS_1211   ---------------------AA-AGGGCG---GG-AU------------
+DhcVS_1455   --------------------CUC-AGGCAG---UC-UU------------
+DhcVS_1348   ------------CAUCAUAUUAA-AGGGCA---UU---------------
+DhcVS_157    -------------GGUAAUUGAC-GCCUGC---UG-AC------------
+DhcVS_974    ---------CAACUAGCUGAUUC-GGAGCC---GC-CC------------
+DhcVS_673    ---------------------AA-AAGCCA---GA-CU------------
+DhcVS_103    ---------------------AG-AAGCAG--G-A-GA------------
+DhcVS_97     -----------------CUUGCU-GGUCAG---UC-AUGAUA--------
+DhcVS_99     -----------------UCUAAG-GCAGGA---GC-AG------------
+DhcVS_921    ---------------------AA-GAGCCG---UA-CU------------
+DhcVS_255    ---------------------AG-GGGGUG---AC-GG------------
+DhcVS_1070   ---------------GAUGAAAC-ACAGGG---GG-AUGAAGA-------
+DhcVS_1307   ---------------------UC-AGGGGGG-ACC-UC------------
+DhcVS_905    ----------------UUUUUGG-AGGGAG---GG-GC------------
+DhcVS_359    ---------------------AU-ACAGAC---UC-AUGCUUUAAG---G
+DhcVS_878    ---------------CACAAAAA-AGCCGG---CA-CACUCAAGGUC--A
+DhcVS_674    ---------------------AA-AAGCCA---GA-CU------------
+DhcVS_1086   ---------------------AA-AGGGGU---GG-CC------------
+DhcVS_1359   --------------------UCA-GCGGUG---CG-GU------------
+DhcVS_1413   -------------------UAAA-GGGCGC---UG-AG------------
+DhcVS_1262   ---------------------AG-AGGGGA---AG-AC------------
+DhcVS_879    --------------UCAGGGAGU-GCCGGC---AC-GGUUCAGGGU---A
+DhcVS_1025   -------------------CCGA-AGGGCG---GC-UU------------
+DhcVS_198    ---------------------GA-GCGGAC---AC-CU------------
+DhcVS_598    ---------------------AA-ACCCCC---GG-AU------------
+DhcVS_448    -----------------AGACAA-AGGCCG--A-A-AC------------
+DhcVS_1160   -------------AGCCACAAAG-GGGCGG---UA-GC------------
+DhcVS_1456   -------------------ACUC-AGGCAG---UC-UU------------
+DhcVS_576    ---------------------AG-AGUGGC---AG-GU------------
+DhcVS_254    ---------------------AA-GGGGGU---GA-CG------------
+DhcVS_1369   ---------------------AA-AGGGUG---CG-GC------------
+DhcVS_1141   ---------------------AA-AGGGGU---GG-UU------------
+DhcVS_1122   ---------------------UU-GCCCCC---UG-UG------------
+DhcVS_922    ---------------------AA-GAGCCG---UA-CU------------
+DhcVS_599    ---------------------AA-ACCCCC---GG-AU------------
+DhcVS_721    ---------------------AU-AAGCCC---UC-UG------------
+DhcVS_672    ---------------------AA-AGCCCC---CG-GC------------
+DhcVS_1029   --------------CUUCCGAUA-GGGCUG---UU-CU------------
+DhcVS_360    ---------------------AU-ACAGAC--CCA-UACUUACAAG----
+DhcVS_701    -------------------CUAA-AGGCUG---GGAAU------------
+DhcVS_1339   ---------------------AA-GAUGGG---GG-U-------------
+DhcVS_1514   ---------------------AGUAGUGGC---UG-CC------------
+DhcVS_671    ---------------------AA-GCCCCC---GG-CU------------
+DhcVS_656    -------------------UGA----CCGC---UG-UC------------
+DhcVS_449    ---------------------AA-AGGCCG--AAA-CU------------
+DhcVS_1270   ---------------------CU-GACCGG---GG-UU------------
+DhcVS_702    ---------------------AA-AGGCCG---GG-UU------------
+DhcVS_646    ---------------------AG-GGUUCA---CG-CCGGAAUCU-----
+DhcVS_862    -------------------ACAA-AGGGGCAGGGA-CU------------
+DhcVS_1338   ---------------------AA-GAUGGG---GG-U-------------
+DhcVS_289    ---------------------AA-AGGGAG---AC-UU------------
+DhcVS_1418   ---------------------AU-UCGGGG---GU-GGCGUUC-------
+DhcVS_668    ---------------------AA-AAGCCC---UC-UU------------
+DhcVS_539    --------UGUGGUAAUAUGGCA-AGGCUA---CC-GC------------
+DhcVS_899    ------------------CUUUA-AGUCCA---GC-GUUC----------
+DhcVS_828    --------------------AAU-GAGGGG---UA-GU------------
+DhcVS_793    --------------------GUA-UGGGCG---GG-UGAUAC--------
+DhcVS_1334   --------------UCGUUUUAC-AAGGAG---GG-AG------------
+DhcVS_1087   ----------GGUAUUUUAAAAA-GGGGUG---GC-CG------------
+DhcVS_333    ---------------------AA-AAGCCA---CC-UU------------
+DhcVS_588    ------------------UCAGG-UGGGGC---AG-GU------------
+DhcVS_215    ---------------------CA-GGGCAG---UA-AC------------
+DhcVS_1259   ---------------------AA-AGGGGG---GG-G-------------
+DhcVS_941    ------------------GGCAC-AGGGUC---UG-GGAAAUAGGUU--A
+DhcVS_1326   --------------GCAUUUUAC-AAGGAG---GG-AG------------
+DhcVS_752    ---------------------AG-AAGGCC---UG-CC------------
+DhcVS_1325   -------------------GAAC-AAGGAG---GG-AG------------
+DhcVS_617    ---------------------AA-AACGCC---CC-UU------------
+DhcVS_1142   ---------------------UA-AAGGUC---UG-CU------------
+DhcVS_1085   -------------UUCGGACCUU-ACCGGG--UGC-AU------------
+DhcVS_1210   --------------------AAA-AGGGCG---GG-AC------------
+DhcVS_920    ---------------------AA-AAGCUG---CC-UUCAGC--------
+DhcVS_3      --------------------UAA-GGGGCG---UC-GU------------
+DhcVS_1045   ----------GCCAGUAUUUUCU-UAGCCC---GG-GC------------
+DhcVS_197    ---------------------AA-GCGGAC---AC-CU------------
+DhcVS_4      --------------------UAA-GGGGCG---UC-GU------------
+DhcVS_849    ---------------------CG-AAGGGG---GC-U-------------
+DhcVS_1428   ---------------------AA-GGGGGGG-AGA-CU------------
+DhcVS_1343   ---------------------AA-GGCGGG---GG---------------
+DhcVS_328    -------------------ACAA-AAAGCC---GG-U-------------
+DhcVS_586    --------------GGUCUUAAU-AGCCGC---AG-UU------------
+DhcVS_1429   ---------------------AA-GGGGGG--AGA-CU------------
+DhcVS_861    ---------------------AG-GGGCGG--AGA-CC------------
+DhcVS_362    ---------------------AG-AGAGGG---GG-CU------------
+DhcVS_537    ---------------------AG-AAGGGG---AG-GU------------
+DhcVS_618    ---------------------AA-AACGCC---CC-UC------------
+DhcVS_22     ---------------------U----GGCA---GG-GU------------
+DhcVS_919    ----------------AAAGAAA-AAAGCU---GC-CUCUAGC-------
+DhcVS_170    --------------------GAA-AGGCAGG-GGG-CU------------
+DhcVS_307    ---------------AUCCGCAG-GCACGG---GA-GU------------
+DhcVS_925    ---------------------AU-GGGGCA---GA-CU------------
+DhcVS_310    ---------------------AA-AGGGGC---UU-UU------------
+DhcVS_642    ---------------------AG-AGGGGG---AG-UU------------
+DhcVS_1158   -------UUUAAAAGCCUUUUUA-AAGCCC---UC-UU------------
+DhcVS_1392   ---------------------AU-CAGGGG---GU-ACA-----------
+DhcVS_114    ---------------------AA-AAGGGC---AG-AUU-----------
+DhcVS_720    ---------------------UU-AAGCCC---UC-UG------------
+DhcVS_529    ---------------GCACUUUA-ACGGCU---UC-GG------------
+DhcVS_544    ----------UUAUAGUCUUGAA-AAGAGG---GG-CG------------
+DhcVS_1461   ------------------GUUAU-ACAUGC---CC-GUUAUU--------
+DhcVS_548    -------------GUUCGGCCAU-GCCCGG--UGU-GG------------
+DhcVS_381    ---------------------AA-AAGCCC---UG-AU------------
+DhcVS_1389   ------------CUUCAGCUUAG-AGAGCG---GC-AU------------
+DhcVS_1181   ---------------------AA-AGGCCG--GGA-AU------------
+DhcVS_1438   ---------------------A----GGGC---CC-CG------------
+DhcVS_1315   ---------------------AA-GGCGGG---GG-AG------------
+DhcVS_953    ---------------------AU-UGAAGG---G--GUA-----------
+DhcVS_1401   -------------------UCAG-AGCGGG---GG-AU------------
+DhcVS_1068   ---------------------AA-AGCCCG--GUG-CUGC----------
+DhcVS_288    ---------------------AA-AGGGAG---AC-UU------------
+DhcVS_987    ---------------------UG-AAAGGG---GC-U-------------
+DhcVS_349    ---------------------AG-AGGGGG---AA-GU------------
+DhcVS_291    --------GAAUUUGUAUUGGAA-GCCCUC---UC-CU------------
+DhcVS_1515   ------------------AAGAG-AGUGGC---UG-CU------------
+DhcVS_81     ---------------------UG-CCCGGU---AG-GUGG----------
+DhcVS_1420   -------------------CGAA-ACGGGG---GA---------------
+DhcVS_1109   --------------------UAA-AAGGAG---CG-GUA-----------
+DhcVS_1118   --------------------UCA-GGCGGC---UG---------------
+DhcVS_1224   ---------------------UU-AGCCCG---UG-UUUGCUGUGGA--U
+DhcVS_1078   ---------------------AG-AAGACC---AA-CC------------
+DhcVS_1079   ---------------------AA-AGCCCU---GC-UC------------
+DhcVS_1503   ---------------------CA-GACCGGU-AUA-GA------------
+DhcVS_1053   ---------------------CA-GGGCAG---AC-CC------------
+DhcVS_363    ---------------------AA-UGCCCG---GC-UGGGAAGUUUU-CA
+DhcVS_350    ---------------------AA-AGGGGG---AA-GU------------
+DhcVS_345    ------------------UACAA-ACAGGC---CU-UC------------
+DhcVS_144    --------------UUAGUGGAU-AAGCCG---GU-UU------------
+DhcVS_965    ---------AUUAGCACUAUUAA-CGCCCC--CGG-C-------------
+DhcVS_1377   ---------------------AG-GCGGGG---GG-GG------------
+DhcVS_1089   ---------------------AG-UGGCGG---GC-UG------------
+DhcVS_1400   ---------------------AA-AGCGGG---GG-AU------------
+DhcVS_538    ---------------------UA-AAGGGG---AG-GC------------
+DhcVS_1021   AUCCGAAAAGUUUUGUUGUGGCA-AGGAGG---GC---------------
+DhcVS_1328   ---------------------CG-CCCCCA---GC-A-------------
+DhcVS_505    ---------------------AA-AGCCCC---U----------------
+DhcVS_382    ---------------------AA-AAGCCC---UG-AA------------
+DhcVS_299    ---------------------AG-GUGCAA---GC-CA------------
+DhcVS_1125   --------------------AU--AAGCCC---CG-CU------------
+DhcVS_311    ---------------------AA-AAAGGG---GC-UU------------
+DhcVS_1072   ---------------------AA-GGGGGG---C----------------
+DhcVS_827    -------------CGUAUAAAAU-GAGGGG--CAG-UU------------
+DhcVS_992    ---------------------GG-CGGGUA---CA-GU------------
+DhcVS_729    -----------------AUUUG----GCGG---CG-GG------------
+DhcVS_1472   ---------------------AA-AGGGGC---GG-UU------------
+DhcVS_476    -------------UACGCUAUAA-ACAGGC---CG-GCAAGAUA------
+DhcVS_753    ---------------------AG-AAGGCC---UG-CU------------
+DhcVS_248    ----------------CGCAGAA-AGGCGG---GG---------------
+DhcVS_491    -------------------GACA-ACCCCU---GC-CC------------
+DhcVS_1090   ---------------------AG-UGGCGG---GC-UG------------
+DhcVS_1414   ---------------------AA-GGGCGC---UG-AG------------
+DhcVS_1148   ---------------------GA-GAGCUU---C----------------
+DhcVS_739    -----------------GUCGUA-AACCCG---UC-CU------------
+DhcVS_1417   ---------------------AU-UCGGGG---GU-GCCGC---------
+DhcVS_1398   ---------------------UA-GGCGGG---GG-AG------------
+DhcVS_1512   ---------------UAAACACA-AAGGGG---GC-UU------------
+DhcVS_312    ---------------------AA-AAAGGG---GC-U-------------
+DhcVS_1435   ---------------------CA-GUGCCC---GA-AU------------
+DhcVS_1434   ---------------------AC-GGGGGGG-UGG-GU------------
+DhcVS_884    ---------------------UA-CCCGGC---UC-CCC-----------
+DhcVS_339    -----------------UUGAUA-CAGCCA--CCC-CG------------
+DhcVS_127    ---------------------AA-CGGGGG---GC---------------
+DhcVS_506    ------------GGUCUAUCUAA-GGUCAA---CC-CCUCCCCCGGCCCG
+DhcVS_373    ------------------UUCCU-AAGCCG---CU-UU------------
+DhcVS_1071   --------------------CUA-AGGGGG--C-----------------
+DhcVS_295    ---------------------AG-CGGGGG---GA-GGGGU---------
+DhcVS_504    ---------------------UA-AAAGCC---CC-UU------------
+DhcVS_300    ---------------------AA-GGUGCA---AG-CCG-----------
+DhcVS_838    ---------------------AG-ACUUGC---AG-AUUUA---------
+DhcVS_1054   ---------------------AA-GGGCAG---AC-UG------------
+DhcVS_1463   ---------------------AA-AAGCCC---CU-UGCGGAAA------
+DhcVS_570    ----------------AUGUCCA-AGCCUC---C----------------
+DhcVS_1000   -----------------CUUACU-GAAAGC---GG-CU------------
+DhcVS_179    -----------------AUUUUA-AGGCGA---UC-UG------------
+DhcVS_1471   ---------------------UA-AAGGGG---CG---------------
+DhcVS_1024   ---------------------AA-AGGGGC---GG-CU------------
+DhcVS_146    ------AAUCAGACCAUCUUAAU-GGGCAG---AG-AC------------
+DhcVS_115    ---------------------AA-GGGCAG---AG-CU------------
+DhcVS_1138   -----------CGUGGGCACUUC-UGGCAUU-CGG-CUUGA---------
+DhcVS_118    ---------------------AA-AAUGGG---CG-GU------------
+DhcVS_750    ---------------------AA-AGCCCUG-CUG-GA------------
+DhcVS_1099   ---------------------AA-AAGCCC---GC-UU------------
+DhcVS_746    ---------------------AA-AAGGGG---C----------------
+DhcVS_1437   -----------GCUACUGAUUUG-CCGGCC---UC---------------
+DhcVS_133    ---------------------GA-GGUUGC---CG-GGGAGUAAGC---U
+DhcVS_1511   ---------------------AA-AAGGGG---GC-UU------------
+DhcVS_56     ---------------------AA-AGGGGA---GC-UU------------
+DhcVS_1352   -----------------GUACUA-AAGCGG---GG-GU------------
+DhcVS_172    ---------------------AA-AUGGGA---GC-GU------------
+DhcVS_745    ---------------------AA-AAGGGG---C----------------
+DhcVS_327    ---------------------AA-AAGCCG---GU---------------
+DhcVS_1323   ---------------------UA-AGGCGG---GG-GG------------
+DhcVS_1273   ---------------------AA-AACAGC--AUC-C-------------
+DhcVS_1219   ------------------GCUAA-ACUGCC---UC-CGGGC---------
+DhcVS_1200   ---------------------UU-AAAGCG---GC-UC------------
+DhcVS_201    ---------------------AG-GGGGAG---GC-UU------------
+DhcVS_109    ---------------------AU-AGGGUA---UA-CCUAAACAGC----
+#=GC SS_cons .....................:<.<<<<<<...<<.<_............
+#=GC RF      .....................AA.AgGGgg...gg.cU............
+
+DhcVS_1188   --------GAAA-------CGGG---GGGCUCUU
+DhcVS_284    --------UAUA-------AACU---GCAGCCCU
+DhcVS_1211   --------CGAA-------GUCC---CGCCCUUU
+DhcVS_1455   --------UUGA--------AGA---CUGCCUG-
+DhcVS_1348   --------CUUA-------G-AA---UGCCCUUU
+DhcVS_157    --------AUAU-------GUCA---GCAGGCGU
+DhcVS_974    --------UCAA-------AGGC---GGCUCCGG
+DhcVS_673    --------UAAU-------AGUC---UGGCUUUU
+DhcVS_103    --------GUAA------CUCU---CCUGCUUCU
+DhcVS_97     ---UGUUUUUUAG-----CAUGA---CUGACCAG
+DhcVS_99     --------AUCAA----AUCUGC---UCCUGCCU
+DhcVS_921    --------UUAA-------AGUA---CGGCUCUU
+DhcVS_255    --------AUUC------UCCGU---CACCCCCU
+DhcVS_1070   --CUAAUCUUUA--------UCC---CCCUGUGU
+DhcVS_1307   --------GCAC-------GAGGC-UCCCCCUG-
+DhcVS_905    --------UAAA------AGCCC---CUCCCUCU
+DhcVS_359    GUUUCCUUGUAAG-----UAUGG---GUCUGUAU
+DhcVS_878    AAAUACCCUGAA------CCGUG---CCGGCACU
+DhcVS_674    --------AUUA-------AGUC---UGGCUUUU
+DhcVS_1086   --------GUAAU----ACGGCC---ACCCCUUU
+DhcVS_1359   --------AUUA------UGCCG---CACCGCUG
+DhcVS_1413   --------UAA--------CUCA---GCGCCCUU
+DhcVS_1262   --------UUAA-------GUCU---UCCCCUCU
+DhcVS_879    UUUUGACCUUGA-------GUGU---GCCGGCUU
+DhcVS_1025   --------AUAA------AGAGC---CGCCCUUU
+DhcVS_198    --------UUCA------GAGGU---GUCCGCUU
+DhcVS_598    -------------------AUCC---GGGGGUUU
+DhcVS_448    --------UUAAA-----AGUU---UCGGCCUUU
+DhcVS_1160   --------CAAA-------GCUA---CUGCCCCU
+DhcVS_1456   --------CAAA--------AGA---CUGCCUG-
+DhcVS_576    --------UGAACUCCCUCCCCU---GCCACUCU
+DhcVS_254    --------GAGAA----UCCGUC---ACCCCCUU
+DhcVS_1369   --------UUAA-------GCCG---CACCCUUU
+DhcVS_1141   --------CAUG-------AACC---GCCCUUUU
+DhcVS_1122   --------UACAUA--AUACACA---GGGGGCA-
+DhcVS_922    --------UUAA-------AGUA---CGGCUCUU
+DhcVS_599    -------------------AUCC---GGGGGUUU
+DhcVS_721    --------CUUC-------CAGA---GGGCUUA-
+DhcVS_672    --------UUAA------AGCCG---GGGGCUUU
+DhcVS_1029   --------UUAA-------AGGA---CAGCCCUG
+DhcVS_360    GAAACCCUUAAA------GCAUG--AGUCUGUAU
+DhcVS_701    --------UAAA---------CC---CGGCCUUU
+DhcVS_1339   --------UUAA--------ACC---CCCAUCUU
+DhcVS_1514   --------UAAA--------GCA---GCCACUCU
+DhcVS_671    --------UUAA--------GCC---GGGGGCUU
+DhcVS_656    --------UAAA-------AGCA---GCGGCUUU
+DhcVS_449    --------UUUA-------AGUU--UCGGCCUUU
+DhcVS_1270   --------UCUA-------GACU---CCGGUCAG
+DhcVS_702    --------UAAU--------UCC---CAGCCUUU
+DhcVS_646    -AAAUGAUUUCA------UAGCG---UGAACCCU
+DhcVS_862    --------UUCA-------GGUCUCCGCCCCUUU
+DhcVS_1338   --------UUAA--------ACC---CCCAUCUU
+DhcVS_289    --------UUAA-------AAGU---CUCCCUUU
+DhcVS_1418   ---AGGCA----G----CGGCAC---CCCCGAAU
+DhcVS_668    --------UGAA--------AGA---GGGCUUU-
+DhcVS_539    --------UUAAAU---UGCUGG---UAGCCUUG
+DhcVS_899    -----AAGUUCA-------ACGC---UGGACGUU
+DhcVS_828    --------CAAA------AACUG---CCCCUCAU
+DhcVS_793    ---GGAUGUAC--------AACC---CGCCCAU-
+DhcVS_1334   --------UUUA-------CUCC---CUCCUUGU
+DhcVS_1087   --------UAUU------ACGGC---CACCCCUU
+DhcVS_333    --------UAAG-------AAGG---UGGCUUUU
+DhcVS_588    --------GAUAU-----CACCU---GCCCCAC-
+DhcVS_215    --------UACGC-----AGUUG---CUGCCCUG
+DhcVS_1259   --------UUAA--------CCU---CCCCCUUU
+DhcVS_941    CAAUAGCCUAUA--------CCA---GACCCUGU
+DhcVS_1326   --------UUG--------CUCC---CUCCUUGU
+DhcVS_752    -------C-UAG------AAGCA---GGCCUUCU
+DhcVS_1325   --------CAA--------CUCC---CUCCUUGU
+DhcVS_617    --------CGCA------AGAGG---GGCGUUUU
+DhcVS_1142   --------UUAC-------GGCA---GACCUUU-
+DhcVS_1085   -------------------AUGUA-ACCCGGUUU
+DhcVS_1210   --------UUCG-------AUCC---CGCCCUUU
+DhcVS_920    ----UAAG----C----UAGAGG---CAGCUUUU
+DhcVS_3      -------------------ACGA---CGCCCCUU
+DhcVS_1045   --------AAUU-------GCCU---GGGCUAUU
+DhcVS_197    --------CUGA------AAGGU---GUCCGCUC
+DhcVS_4      -------------------ACGA---CGCCCCUU
+DhcVS_849    --------UAAA--------AGC---CCCCUUUU
+DhcVS_1428   --------UUAA-------AGUC--UCCCCCCUU
+DhcVS_1343   --------UAAA-------A-CC---CCCGCCUU
+DhcVS_328    --------UUAA--------ACC---GGCUUUUU
+DhcVS_586    --------UAUA-------AACU---GCGGCUGU
+DhcVS_1429   --------UUAA-------AGUCU-CCCCCCCUU
+DhcVS_861    --------UGAA-------AGUC--CCUGCCCCU
+DhcVS_362    --------UUAA------AAGCC---CCCUCUCU
+DhcVS_537    --------GAAA-------GCCU---CCCCUUU-
+DhcVS_618    --------UUGC------GAAGG---GGCGUUUU
+DhcVS_22     --------GAACGU---UCGCCC---UGCCAAAU
+DhcVS_919    ---UUAGCUGA--------AGGC---AGCUUUUU
+DhcVS_170    --------GUAU-------GGCCU-UCUGCCUUU
+DhcVS_307    --------AGUA--------CUU---CCGUGCUU
+DhcVS_925    --------UUUG-------CGUC---UGCCCCUU
+DhcVS_310    --------UUU--------GAAA---GCCCCUUU
+DhcVS_642    --------UUGA-------AACU---CCCCCUCU
+DhcVS_1158   --------CAUAC-----GGAGA---GGGCUUUU
+DhcVS_1392   ------AC-UUA-------GUAC---CCCCUGAU
+DhcVS_114    -------UUUAA------GCUCU---GCCCUUUU
+DhcVS_720    --------GAAG-------CAGA---GGGCUUAU
+DhcVS_529    ---------AAAU-----UCCGA---AGCCGUUU
+DhcVS_544    --------UUAU--------GCC---CCUCUUUU
+DhcVS_1461   ----CUCUUGAA-------GCGG---GCAUGUAU
+DhcVS_548    --------UUUU-------CCACU-UCCGGGUGU
+DhcVS_381    --------UUAA-------UUCA---GGGCUUUU
+DhcVS_1389   --------------------UGC---CGCUCUUU
+DhcVS_1181   --------UUG--------GUUCU-GCGGCCUCU
+DhcVS_1438   --------UAAAAG--AUUCGGG---GCCCAACU
+DhcVS_1315   --------GACA------AAUCC---CCCGCCUU
+DhcVS_953    ------UUUAC-------ACC-C---CCUUCAAU
+DhcVS_1401   --------UUUA-------AUCC---CCCGCUUU
+DhcVS_1068   ------UGCUAA-------GGCGUGCCGGGCUUU
+DhcVS_288    --------UUAA-------AAGU---CUCCCUUU
+DhcVS_987    --------UUAA--------AGC---CCCUUUUU
+DhcVS_349    --------AAUAU-----UACUU---CCCCCUUU
+DhcVS_291    --------UUCA-------GGGA---GAGGGCUU
+DhcVS_1515   --------UUA--------GGCA---GCCACUAC
+DhcVS_81     -----UCUUAAAAG--UCUGCCU---GCCGGGUU
+DhcVS_1420   --------GAAA---------UC---CCCCGUUU
+DhcVS_1109   -------CUAAA------AGCCG---CUCCUUUU
+DhcVS_1118   --------GAAA---------CA---GCCGCUUU
+DhcVS_1224   UAUAUCCU----G----ACGACA---CGGGUUU-
+DhcVS_1078   --------UCA--------GGUU---GGUCUUUU
+DhcVS_1079   --------UCAC-------AAGC---AGGGCUUU
+DhcVS_1503   --------UGAAA-----AACUAU-GCCGGUCUU
+DhcVS_1053   --------CAAA-------CAGU---CUGCCCUU
+DhcVS_363    GCUAUAAA----UAACCUCCGGC---CGGGCAUU
+DhcVS_350    --------AAUAU-----UACUU---CCCCCUCU
+DhcVS_345    --------UUAA--------AAG---GCCUGUUU
+DhcVS_144    --------GAAA--------AAC---CGGUUUUU
+DhcVS_965    --------AAAA--------GCCCAAGGGGCGUU
+DhcVS_1377   --------UAUA-------ACCC---CCCCGCUU
+DhcVS_1089   -------------------CAGC---CCGCCACU
+DhcVS_1400   --------UAAA-------AUCC---CCCGCUCU
+DhcVS_538    --------UUUC-------ACCU---CCCCUUCU
+DhcVS_1021   --------AAAA---------GC---CCUCCUUU
+DhcVS_1328   --------GAUA--------UGU---UGGGGGCU
+DhcVS_505    --------UUAA------CA--A---GGGGCUUU
+DhcVS_382    --------UUAA-------AUCA---GGGCUUUU
+DhcVS_299    --------UUUCC-----CCGGC---UUGCACCU
+DhcVS_1125   --------UUU--------GGCG---GGGCUU-U
+DhcVS_311    ---------UUA--------AGC---CCCUUUUU
+DhcVS_1072   --------UUAA----------G---CCCCCUU-
+DhcVS_827    --------UUU--------GACU--ACCCCUCAU
+DhcVS_992    --------UUCG-------GCUG---UACCCGCU
+DhcVS_729    --------GAAA-------CCCG---CCGCAAUU
+DhcVS_1472   ---------UUA----------C---GCCCCUUU
+DhcVS_476    -UAUUAUUUUGA-------CCCG---GCCGGUUU
+DhcVS_753    --------UCUA------GGGCA---GGCCUUCU
+DhcVS_248    --------GAGA---------CC---CCGCUUUU
+DhcVS_491    --------CAAA-------CGGC---AGGGGUUU
+DhcVS_1090   -------------------CAGC---CCGCCACU
+DhcVS_1414   --------UUA--------CUCA---GCGCCCUU
+DhcVS_1148   --------AAAA----------G---AAGCUCUU
+DhcVS_739    --------UUGA--------GGA---CGGUUUUU
+DhcVS_1417   ----UGCCUGAAC-----GCCAC---CCCCGAAU
+DhcVS_1398   --------GACA------AAUCC---CCCGCCUU
+DhcVS_1512   --------UUAA--------AGC---CCCCUUUU
+DhcVS_312    --------UAAA--------AGC---CCCUUUUU
+DhcVS_1435   --------CUGAG----AAGUUC---GGGCACUG
+DhcVS_1434   --------UUAA------AACCC--GCUCCCCGU
+DhcVS_884    -------CUAAA-------AGGA---GCCGGUUU
+DhcVS_339    --------GACA------CCGGG--CUGGCUAUU
+DhcVS_127    --------UAAA-------A-GC---CCCCUUUU
+DhcVS_506    GUGCCGUGGUU--------CGGG---UUGGCCUU
+DhcVS_373    -------------------CAGG---CGGCUUAC
+DhcVS_1071   --------UUAA-------G-----CCCCCCUUU
+DhcVS_295    ----UAAU----UU--UGGACUU---CCCCCGCU
+DhcVS_504    --------GUUA-------AAGG---GGCUUUUU
+DhcVS_300    ------GGGAAA------UGGCU---UGCACCUU
+DhcVS_838    -----CUUUAA-AU---ACAUUU---GCAAGUCU
+DhcVS_1054   --------UUUG-------GGGU---CUGCCCUG
+DhcVS_1463   --AACACCGUCA-------GAAG---GGGCUUUU
+DhcVS_570    --------UUC--------G--G---GAGGCUUU
+DhcVS_1000   --------GCAA-------GGCC---GCUUUCUU
+DhcVS_179    --------GAU---------AGA---UUGUUUU-
+DhcVS_1471   --------UAAA------AC-CG---CCCCUUUU
+DhcVS_1024   --------GUGA-------UGCC---GCCCUUUU
+DhcVS_146    -------CGACA-------CUCU---CUGCCCGG
+DhcVS_115    --------UAAA------AA--U---CUGCCCU-
+DhcVS_1138   ----UAAU-UA-------UUGCC--GGUGCCAGU
+DhcVS_118    --------GAAA------AGCCG---CCCAUUUC
+DhcVS_750    --------GAAA------AGCCAGUGGGGGCUUG
+DhcVS_1099   --------UUAA--------GGC---GGGCUUU-
+DhcVS_746    --------UUU--------C--G---CCCCUUUU
+DhcVS_1437   --------UUU--------C-GG---GGCCGGUU
+DhcVS_133    UGGGCGAC---AC-----UUCCG---GCAGCCUU
+DhcVS_1511   --------UAAA--------AGC---CCCCUUUG
+DhcVS_56     --------UUAA--------AGC---UCCCCUUU
+DhcVS_1352   --------GAAU--------CCC---CCGCUUUU
+DhcVS_172    --------CAAA------AGCGC---UCCCCUUC
+DhcVS_745    --------GAAA----------G---CCCCUUUU
+DhcVS_327    --------UUAA---------AC---CGGCUUUU
+DhcVS_1323   --------CUUA-------UCCC---CCGCUUUU
+DhcVS_1273   --------UAAA--------GGA--GGCUGUUUU
+DhcVS_1219   ----GGAGUUGAC----UUCGGG---GGCAGUUU
+DhcVS_1200   --------UGAC-------CAGC---CGCUUUUU
+DhcVS_201    --------UAAA--------ACC---CUCCCCCU
+DhcVS_109    UAUAGCUAUUCA-------GGUA---UACCCUAU
+#=GC SS_cons ........____......._>>>...>>>>>>>:
+#=GC RF      ........UuAA.......ggcc...ccCCcUUU
+//

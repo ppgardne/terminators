@@ -1,0 +1,2982 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CV_3702 WT 1.57
+#=GS CV_1519 WT 1.21
+#=GS CV_0674 WT 1.38
+#=GS CV_0974 WT 0.83
+#=GS CV_4014 WT 0.86
+#=GS CV_1076 WT 0.77
+#=GS CV_2078 WT 1.25
+#=GS CV_4194 WT 1.14
+#=GS CV_3475 WT 1.06
+#=GS CV_2352 WT 0.92
+#=GS CV_2702 WT 1.14
+#=GS CV_0713 WT 0.92
+#=GS CV_1932 WT 0.97
+#=GS CV_1486 WT 1.07
+#=GS CV_1643 WT 1.20
+#=GS CV_3667 WT 0.84
+#=GS CV_3533 WT 1.39
+#=GS CV_0714 WT 0.83
+#=GS CV_3455 WT 1.42
+#=GS CV_2112 WT 1.80
+#=GS CV_0478 WT 0.77
+#=GS CV_0554 WT 0.78
+#=GS CV_2347 WT 1.22
+#=GS CV_3365 WT 0.77
+#=GS CV_4304 WT 0.82
+#=GS CV_3461 WT 0.81
+#=GS CV_2047 WT 0.67
+#=GS CV_2614 WT 1.16
+#=GS CV_1968 WT 0.59
+#=GS CV_1108 WT 1.71
+#=GS CV_1176 WT 0.62
+#=GS CV_1060 WT 1.23
+#=GS CV_4192 WT 0.78
+#=GS CV_1662 WT 0.99
+#=GS CV_0775 WT 1.46
+#=GS CV_2363 WT 0.78
+#=GS CV_4281 WT 0.94
+#=GS CV_3900 WT 0.78
+#=GS CV_4207 WT 1.04
+#=GS CV_3324 WT 1.42
+#=GS CV_1791 WT 1.17
+#=GS CV_4106 WT 1.02
+#=GS CV_3325 WT 0.50
+#=GS CV_1062 WT 0.99
+#=GS CV_3991 WT 0.89
+#=GS CV_2937 WT 0.88
+#=GS CV_3633 WT 1.62
+#=GS CV_3992 WT 0.89
+#=GS CV_1737 WT 0.81
+#=GS CV_3413 WT 1.61
+#=GS CV_4196 WT 1.14
+#=GS CV_1177 WT 0.86
+#=GS CV_0967 WT 0.85
+#=GS CV_1349 WT 1.09
+#=GS CV_3062 WT 0.94
+#=GS CV_3580 WT 0.74
+#=GS CV_4354 WT 1.22
+#=GS CV_3182 WT 0.79
+#=GS CV_3476 WT 1.17
+#=GS CV_0085 WT 0.89
+#=GS CV_2016 WT 0.79
+#=GS CV_2116 WT 1.43
+#=GS CV_2362 WT 0.78
+#=GS CV_0644 WT 1.07
+#=GS CV_1530 WT 0.77
+#=GS CV_1364 WT 0.93
+#=GS CV_0742 WT 1.06
+#=GS CV_2184 WT 0.99
+#=GS CV_0645 WT 0.91
+#=GS CV_1661 WT 0.74
+#=GS CV_3146 WT 0.98
+#=GS CV_2721 WT 1.05
+#=GS CV_1938 WT 1.22
+#=GS CV_2048 WT 0.67
+#=GS CV_1520 WT 0.80
+#=GS CV_0979 WT 0.72
+#=GS CV_3016 WT 1.21
+#=GS CV_3918 WT 0.99
+#=GS CV_0673 WT 0.81
+#=GS CV_0547 WT 0.89
+#=GS CV_2237 WT 0.76
+#=GS CV_1989 WT 0.61
+#=GS CV_1148 WT 1.48
+#=GS CV_3183 WT 0.79
+#=GS CV_1334 WT 1.41
+#=GS CV_2198 WT 0.74
+#=GS CV_3428 WT 1.14
+#=GS CV_0772 WT 1.44
+#=GS CV_1240 WT 1.21
+#=GS CV_4125 WT 0.91
+#=GS CV_2878 WT 1.27
+#=GS CV_3571 WT 0.53
+#=GS CV_0564 WT 0.92
+#=GS CV_3962 WT 0.63
+#=GS CV_1303 WT 0.62
+#=GS CV_1988 WT 0.61
+#=GS CV_0963 WT 1.01
+#=GS CV_3669 WT 0.86
+#=GS CV_3424 WT 0.76
+#=GS CV_1474 WT 1.18
+#=GS CV_1897 WT 1.11
+#=GS CV_1055 WT 0.95
+#=GS CV_1892 WT 0.92
+#=GS CV_0850 WT 1.11
+#=GS CV_0590 WT 1.23
+#=GS CV_3403 WT 0.57
+#=GS CV_0766 WT 1.19
+#=GS CV_2892 WT 0.72
+#=GS CV_3473 WT 0.69
+#=GS CV_0090 WT 0.87
+#=GS CV_3609 WT 0.80
+#=GS CV_0526 WT 1.04
+#=GS CV_0617 WT 1.05
+#=GS CV_0826 WT 0.86
+#=GS CV_2934 WT 1.10
+#=GS CV_3800 WT 0.66
+#=GS CV_2197 WT 1.29
+#=GS CV_2712 WT 0.77
+#=GS CV_0978 WT 0.72
+#=GS CV_3799 WT 0.66
+#=GS CV_1506 WT 1.06
+#=GS CV_2795 WT 0.84
+#=GS CV_0224 WT 0.71
+#=GS CV_3295 WT 0.95
+#=GS CV_4270 WT 0.81
+#=GS CV_4217 WT 1.00
+#=GS CV_0057 WT 0.68
+#=GS CV_3787 WT 0.97
+#=GS CV_2383 WT 0.74
+#=GS CV_1297 WT 0.90
+#=GS CV_4214 WT 0.86
+#=GS CV_4239 WT 1.01
+#=GS CV_3462 WT 0.96
+#=GS CV_2893 WT 0.72
+#=GS CV_0827 WT 1.22
+#=GS CV_3579 WT 1.03
+#=GS CV_0821 WT 1.52
+#=GS CV_1294 WT 0.80
+#=GS CV_3398 WT 0.84
+#=GS CV_1365 WT 0.74
+#=GS CV_0807 WT 1.01
+#=GS CV_1641 WT 1.22
+#=GS CV_2238 WT 0.72
+#=GS CV_0325 WT 1.48
+#=GS CV_2040 WT 1.04
+#=GS CV_3795 WT 1.06
+#=GS CV_3963 WT 0.63
+#=GS CV_2179 WT 0.67
+#=GS CV_4109 WT 0.84
+#=GS CV_1080 WT 1.01
+#=GS CV_3393 WT 1.04
+#=GS CV_4051 WT 0.53
+#=GS CV_1934 WT 1.52
+#=GS CV_3296 WT 0.95
+#=GS CV_0279 WT 1.48
+#=GS CV_1937 WT 0.87
+#=GS CV_4305 WT 0.68
+#=GS CV_3696 WT 0.65
+#=GS CV_3755 WT 0.78
+#=GS CV_1928 WT 1.29
+#=GS CV_1171 WT 1.04
+#=GS CV_2353 WT 0.83
+#=GS CV_4384 WT 1.30
+#=GS CV_0516 WT 1.13
+#=GS CV_2384 WT 0.74
+#=GS CV_2039 WT 0.77
+#=GS CV_0912 WT 1.38
+#=GS CV_0175 WT 0.91
+#=GS CV_4013 WT 0.81
+#=GS CV_3709 WT 0.72
+#=GS CV_0342 WT 1.07
+#=GS CV_1468 WT 1.02
+#=GS CV_0190 WT 1.10
+#=GS CV_3386 WT 1.24
+#=GS CV_4006 WT 0.96
+#=GS CV_3758 WT 0.86
+#=GS CV_2077 WT 1.10
+#=GS CV_0527 WT 0.92
+#=GS CV_0361 WT 1.19
+#=GS CV_1466 WT 0.93
+#=GS CV_0739 WT 0.83
+#=GS CV_2715 WT 1.20
+#=GS CV_2051 WT 1.17
+#=GS CV_3037 WT 0.80
+#=GS CV_2590 WT 1.19
+#=GS CV_3104 WT 1.43
+#=GS CV_0745 WT 0.84
+#=GS CV_3117 WT 0.70
+#=GS CV_2017 WT 0.79
+#=GS CV_2284 WT 1.23
+#=GS CV_4213 WT 0.86
+#=GS CV_0405 WT 0.83
+#=GS CV_0115 WT 1.15
+#=GS CV_1781 WT 0.76
+#=GS CV_1745 WT 0.69
+#=GS CV_3762 WT 1.47
+#=GS CV_3666 WT 1.40
+#=GS CV_2395 WT 0.79
+#=GS CV_3823 WT 0.88
+#=GS CV_0626 WT 1.11
+#=GS CV_2804 WT 1.23
+#=GS CV_1277 WT 0.88
+#=GS CV_0252 WT 0.88
+#=GS CV_1748 WT 0.93
+#=GS CV_3628 WT 0.95
+#=GS CV_0174 WT 1.01
+#=GS CV_3151 WT 1.17
+#=GS CV_0551 WT 0.94
+#=GS CV_2765 WT 1.27
+#=GS CV_0010 WT 0.85
+#=GS CV_1231 WT 1.07
+#=GS CV_1363 WT 0.83
+#=GS CV_2713 WT 0.83
+#=GS CV_0225 WT 0.71
+#=GS CV_3627 WT 0.91
+#=GS CV_4159 WT 0.96
+#=GS CV_0528 WT 0.93
+#=GS CV_3644 WT 0.85
+#=GS CV_3092 WT 1.19
+#=GS CV_4154 WT 0.93
+#=GS CV_4057 WT 0.88
+#=GS CV_3213 WT 1.63
+#=GS CV_4052 WT 0.77
+#=GS CV_2563 WT 1.29
+#=GS CV_0389 WT 1.14
+#=GS CV_3304 WT 0.97
+#=GS CV_2233 WT 0.92
+#=GS CV_3829 WT 0.88
+#=GS CV_1237 WT 1.49
+#=GS CV_3708 WT 0.79
+#=GS CV_3784 WT 0.79
+#=GS CV_4040 WT 0.87
+#=GS CV_0208 WT 0.95
+#=GS CV_0995 WT 1.05
+#=GS CV_3747 WT 0.92
+#=GS CV_4093 WT 0.85
+#=GS CV_0901 WT 0.61
+#=GS CV_0561 WT 0.74
+#=GS CV_3597 WT 1.10
+#=GS CV_4158 WT 0.99
+#=GS CV_2171 WT 1.59
+#=GS CV_2300 WT 1.15
+#=GS CV_3402 WT 0.57
+#=GS CV_4329 WT 1.23
+#=GS CV_3474 WT 0.69
+#=GS CV_2001 WT 1.00
+#=GS CV_2012 WT 0.89
+#=GS CV_4177 WT 1.47
+#=GS CV_2751 WT 0.73
+#=GS CV_3425 WT 1.01
+#=GS CV_0885 WT 1.06
+#=GS CV_1418 WT 1.46
+#=GS CV_1789 WT 1.23
+#=GS CV_0320 WT 0.84
+#=GS CV_4069 WT 0.83
+#=GS CV_2988 WT 1.27
+#=GS CV_0588 WT 0.89
+#=GS CV_3116 WT 0.74
+#=GS CV_0871 WT 0.62
+#=GS CV_3038 WT 0.91
+#=GS CV_3307 WT 0.60
+#=GS CV_0299 WT 0.74
+#=GS CV_4258 WT 0.49
+#=GS CV_4100 WT 0.82
+#=GS CV_0913 WT 0.93
+#=GS CV_3549 WT 0.68
+#=GS CV_3364 WT 0.77
+#=GS CV_3249 WT 1.06
+#=GS CV_0066 WT 0.91
+#=GS CV_2791 WT 0.73
+#=GS CV_0900 WT 0.97
+#=GS CV_2380 WT 0.98
+#=GS CV_1480 WT 1.00
+#=GS CV_1129 WT 0.81
+#=GS CV_4206 WT 0.91
+#=GS CV_1121 WT 1.34
+#=GS CV_1329 WT 0.86
+#=GS CV_4155 WT 0.87
+#=GS CV_4004 WT 1.07
+#=GS CV_2719 WT 0.82
+#=GS CV_3354 WT 1.01
+#=GS CV_4224 WT 0.80
+#=GS CV_2861 WT 0.72
+#=GS CV_1529 WT 0.86
+#=GS CV_3056 WT 1.13
+#=GS CV_1997 WT 0.91
+#=GS CV_3084 WT 0.84
+#=GS CV_1539 WT 0.92
+#=GS CV_1353 WT 1.03
+#=GS CV_3384 WT 0.67
+#=GS CV_1302 WT 0.62
+#=GS CV_4088 WT 0.86
+#=GS CV_2832 WT 1.40
+#=GS CV_3009 WT 0.77
+#=GS CV_1477 WT 1.25
+#=GS CV_2193 WT 0.95
+#=GS CV_2530 WT 0.92
+#=GS CV_3072 WT 0.86
+#=GS CV_1096 WT 1.28
+#=GS CV_3850 WT 0.82
+#=GS CV_0759 WT 0.89
+#=GS CV_3429 WT 0.97
+#=GS CV_1138 WT 1.20
+#=GS CV_3831 WT 1.04
+#=GS CV_0038 WT 1.72
+#=GS CV_0917 WT 1.23
+#=GS CV_4407 WT 0.81
+#=GS CV_2038 WT 0.77
+#=GS CV_3791 WT 0.76
+#=GS CV_0548 WT 0.93
+#=GS CV_0932 WT 1.31
+#=GS CV_3399 WT 0.84
+#=GS CV_2850 WT 1.17
+#=GS CV_4240 WT 0.91
+#=GS CV_2466 WT 1.34
+#=GS CV_1462 WT 1.21
+#=GS CV_1865 WT 0.81
+#=GS CV_4098 WT 1.36
+#=GS CV_1712 WT 0.88
+#=GS CV_2554 WT 1.03
+#=GS CV_3078 WT 1.25
+#=GS CV_2544 WT 1.07
+#=GS CV_1003 WT 0.85
+#=GS CV_0059 WT 1.08
+#=GS CV_3610 WT 0.87
+#=GS CV_0933 WT 1.15
+#=GS CV_3528 WT 0.85
+#=GS CV_4373 WT 1.03
+#=GS CV_2551 WT 1.17
+#=GS CV_2874 WT 0.91
+#=GS CV_3788 WT 1.50
+#=GS CV_0972 WT 1.11
+#=GS CV_0305 WT 0.54
+#=GS CV_0149 WT 1.14
+#=GS CV_3378 WT 0.95
+#=GS CV_3765 WT 0.96
+#=GS CV_3457 WT 1.49
+#=GS CV_1367 WT 1.00
+#=GS CV_1197 WT 0.94
+#=GS CV_1532 WT 0.96
+#=GS CV_3064 WT 1.39
+#=GS CV_1974 WT 1.03
+#=GS CV_1298 WT 0.90
+#=GS CV_3740 WT 0.94
+#=GS CV_3670 WT 0.79
+#=GS CV_3481 WT 1.05
+#=GS CV_0744 WT 0.62
+#=GS CV_1767 WT 1.42
+#=GS CV_0865 WT 1.03
+#=GS CV_1261 WT 0.96
+#=GS CV_2044 WT 0.78
+#=GS CV_1175 WT 0.84
+#=GS CV_0410 WT 1.48
+#=GS CV_3656 WT 1.14
+#=GS CV_4048 WT 1.05
+#=GS CV_0331 WT 1.09
+#=GS CV_0086 WT 0.84
+#=GS CV_4099 WT 1.06
+#=GS CV_1149 WT 0.85
+#=GS CV_1891 WT 0.96
+#=GS CV_4070 WT 0.96
+#=GS CV_1465 WT 1.29
+#=GS CV_1670 WT 0.86
+#=GS CV_0997 WT 0.93
+#=GS CV_2853 WT 0.54
+#=GS CV_1817 WT 0.91
+#=GS CV_2531 WT 1.01
+#=GS CV_2093 WT 1.16
+#=GS CV_1019 WT 0.88
+#=GS CV_2790 WT 0.91
+#=GS CV_3816 WT 1.16
+#=GS CV_1130 WT 0.81
+#=GS CV_2761 WT 1.04
+#=GS CV_3326 WT 0.62
+#=GS CV_1086 WT 1.26
+#=GS CV_3797 WT 0.97
+#=GS CV_1785 WT 0.91
+#=GS CV_3589 WT 0.68
+#=GS CV_4193 WT 1.14
+#=GS CV_2750 WT 0.73
+#=GS CV_0263 WT 1.38
+#=GS CV_0432 WT 1.28
+#=GS CV_3207 WT 1.05
+#=GS CV_0173 WT 0.93
+#=GS CV_1358 WT 0.76
+#=GS CV_2723 WT 0.88
+#=GS CV_4108 WT 0.80
+#=GS CV_3298 WT 1.19
+#=GS CV_2329 WT 1.45
+#=GS CV_1927 WT 1.04
+#=GS CV_1896 WT 1.17
+#=GS CV_2876 WT 0.77
+#=GS CV_0440 WT 1.17
+#=GS CV_0117 WT 0.87
+#=GS CV_1092 WT 1.46
+#=GS CV_0209 WT 1.06
+#=GS CV_3501 WT 1.16
+#=GS CV_0870 WT 0.62
+#=GS CV_3865 WT 0.84
+#=GS CV_3552 WT 0.86
+#=GS CV_3520 WT 0.79
+#=GS CV_3206 WT 0.99
+#=GS CV_2778 WT 0.94
+#=GS CV_2829 WT 0.87
+#=GS CV_3083 WT 0.99
+#=GS CV_1755 WT 1.30
+#=GS CV_1646 WT 1.03
+#=GS CV_1584 WT 1.45
+#=GS CV_2823 WT 1.17
+#=GS CV_1654 WT 0.92
+#=GS CV_0300 WT 0.83
+#=GS CV_3637 WT 0.94
+#=GS CV_1687 WT 0.93
+#=GS CV_0165 WT 0.86
+#=GS CV_1421 WT 1.23
+#=GS CV_1699 WT 1.00
+#=GS CV_0981 WT 0.99
+#=GS CV_3408 WT 0.96
+#=GS CV_1850 WT 0.93
+#=GS CV_2670 WT 1.03
+#=GS CV_2500 WT 0.76
+#=GS CV_3036 WT 1.14
+#=GS CV_0747 WT 0.49
+#=GS CV_3554 WT 0.85
+#=GS CV_3625 WT 0.76
+#=GS CV_3108 WT 1.12
+#=GS CV_3705 WT 1.00
+#=GS CV_2768 WT 1.17
+#=GS CV_0193 WT 1.14
+#=GS CV_2728 WT 1.14
+#=GS CV_0098 WT 1.41
+#=GS CV_3757 WT 0.86
+#=GS CV_0964 WT 0.84
+#=GS CV_2435 WT 1.66
+#=GS CV_2753 WT 1.29
+#=GS CV_2178 WT 0.67
+#=GS CV_2760 WT 0.80
+#=GS CV_3214 WT 1.06
+#=GS CV_3008 WT 0.77
+#=GS CV_1533 WT 0.90
+#=GS CV_1317 WT 1.17
+#=GS CV_0272 WT 0.67
+#=GS CV_4401 WT 0.69
+#=GS CV_1102 WT 0.65
+#=GS CV_4365 WT 1.00
+#=GS CV_1651 WT 0.90
+#=GS CV_1263 WT 1.05
+#=GS CV_0296 WT 1.25
+#=GS CV_1476 WT 0.88
+#=GS CV_0311 WT 0.95
+#=GS CV_0639 WT 0.74
+#=GS CV_3615 WT 1.03
+#=GS CV_2408 WT 1.28
+#=GS CV_3077 WT 1.02
+#=GS CV_2860 WT 0.98
+#=GS CV_3869 WT 0.86
+#=GS CV_3426 WT 1.61
+#=GS CV_0030 WT 1.14
+#=GS CV_3870 WT 1.05
+#=GS CV_2163 WT 1.41
+#=GS CV_0834 WT 0.96
+#=GS CV_0961 WT 0.72
+#=GS CV_2394 WT 0.79
+#=GS CV_2694 WT 1.04
+#=GS CV_3372 WT 0.86
+#=GS CV_2248 WT 0.94
+#=GS CV_2251 WT 0.87
+#=GS CV_3190 WT 1.17
+#=GS CV_2411 WT 0.79
+#=GS CV_3478 WT 1.17
+#=GS CV_4390 WT 1.58
+#=GS CV_3143 WT 1.53
+#=GS CV_1437 WT 1.09
+#=GS CV_3664 WT 0.97
+#=GS CV_4269 WT 0.82
+#=GS CV_2935 WT 1.05
+#=GS CV_0928 WT 0.76
+#=GS CV_2966 WT 0.88
+#=GS CV_0254 WT 0.93
+#=GS CV_0825 WT 0.86
+#=GS CV_3567 WT 0.81
+#=GS CV_0657 WT 1.02
+#=GS CV_2085 WT 1.31
+#=GS CV_3306 WT 0.60
+#=GS CV_0397 WT 0.94
+#=GS CV_3152 WT 1.01
+#=GS CV_3728 WT 0.94
+#=GS CV_0168 WT 1.02
+#=GS CV_0955 WT 0.78
+#=GS CV_1345 WT 0.85
+#=GS CV_1028 WT 0.88
+#=GS CV_0071 WT 0.82
+#=GS CV_0444 WT 1.06
+#=GS CV_2796 WT 0.95
+#=GS CV_2230 WT 0.63
+#=GS CV_3649 WT 0.84
+#=GS CV_4246 WT 0.84
+#=GS CV_4119 WT 0.88
+#=GS CV_1637 WT 1.35
+#=GS CV_0578 WT 1.35
+#=GS CV_0308 WT 0.98
+#=GS CV_3343 WT 0.92
+#=GS CV_0517 WT 0.86
+#=GS CV_0351 WT 1.01
+#=GS CV_0443 WT 0.91
+#=GS CV_4041 WT 0.87
+#=GS CV_2642 WT 0.93
+#=GS CV_1242 WT 1.65
+#=GS CV_4388 WT 0.86
+#=GS CV_0326 WT 0.97
+#=GS CV_1106 WT 1.24
+#=GS CV_2011 WT 0.85
+#=GS CV_2130 WT 1.37
+#=GS CV_0549 WT 1.28
+#=GS CV_0076 WT 1.06
+#=GS CV_0170 WT 0.77
+#=GS CV_1275 WT 0.91
+#=GS CV_2556 WT 0.72
+#=GS CV_1378 WT 0.80
+#=GS CV_1668 WT 0.83
+#=GS CV_1146 WT 0.97
+#=GS CV_0886 WT 0.84
+#=GS CV_3026 WT 1.09
+#=GS CV_2225 WT 1.13
+#=GS CV_2816 WT 0.82
+#=GS CV_4104 WT 0.84
+#=GS CV_3822 WT 0.91
+#=GS CV_2159 WT 1.46
+#=GS CV_0045 WT 1.14
+#=GS CV_3771 WT 1.30
+#=GS CV_1987 WT 1.14
+#=GS CV_3269 WT 1.09
+#=GS CV_3576 WT 0.61
+#=GS CV_0565 WT 1.20
+#=GS CV_0973 WT 0.87
+#=GS CV_3919 WT 0.92
+#=GS CV_2350 WT 1.00
+#=GS CV_0628 WT 0.50
+#=GS CV_0779 WT 0.70
+#=GS CV_1970 WT 1.39
+#=GS CV_0068 WT 1.09
+#=GS CV_4364 WT 1.31
+#=GS CV_2618 WT 1.17
+#=GS CV_4353 WT 0.97
+#=GS CV_2168 WT 0.77
+#=GS CV_0337 WT 0.97
+#=GS CV_0868 WT 0.76
+#=GS CV_1582 WT 0.92
+#=GS CV_3097 WT 0.99
+#=GS CV_1945 WT 0.91
+#=GS CV_3530 WT 0.96
+#=GS CV_1604 WT 1.15
+#=GS CV_0379 WT 1.16
+#=GS CV_0986 WT 1.17
+#=GS CV_1212 WT 1.10
+#=GS CV_3233 WT 1.08
+#=GS CV_3188 WT 0.89
+#=GS CV_1537 WT 1.14
+#=GS CV_0289 WT 0.88
+#=GS CV_0056 WT 1.10
+#=GS CV_3783 WT 1.15
+#=GS CV_3718 WT 1.82
+#=GS CV_2759 WT 0.98
+#=GS CV_0916 WT 0.93
+#=GS CV_2979 WT 1.52
+#=GS CV_1498 WT 1.30
+#=GS CV_3524 WT 1.53
+#=GS CV_1416 WT 0.94
+#=GS CV_0266 WT 1.15
+#=GS CV_1613 WT 0.62
+#=GS CV_2854 WT 0.68
+#=GS CV_1821 WT 0.76
+#=GS CV_1912 WT 1.23
+#=GS CV_2217 WT 0.88
+#=GS CV_3687 WT 0.89
+#=GS CV_2875 WT 0.77
+#=GS CV_2662 WT 1.06
+#=GS CV_1249 WT 0.95
+#=GS CV_3519 WT 0.85
+#=GS CV_3556 WT 0.89
+#=GS CV_0968 WT 0.96
+#=GS CV_2377 WT 0.83
+#=GS CV_1977 WT 0.93
+#=GS CV_2948 WT 1.10
+#=GS CV_1430 WT 1.06
+#=GS CV_0808 WT 1.01
+#=GS CV_3878 WT 1.31
+#=GS CV_1408 WT 1.11
+#=GS CV_3129 WT 0.85
+#=GS CV_0965 WT 0.94
+#=GS CV_0992 WT 1.10
+#=GS CV_2410 WT 0.79
+#=GS CV_2196 WT 0.99
+#=GS CV_3057 WT 1.23
+#=GS CV_3618 WT 1.02
+#=GS CV_0099 WT 0.94
+#=GS CV_3208 WT 0.78
+#=GS CV_3561 WT 0.97
+#=GS CV_2516 WT 1.39
+#=GS CV_1638 WT 1.16
+#=GS CV_1150 WT 0.87
+#=GS CV_3739 WT 1.00
+#=GS CV_1074 WT 1.00
+#=GS CV_4361 WT 1.08
+#=GS CV_1889 WT 1.14
+#=GS CV_3662 WT 1.16
+#=GS CV_2006 WT 1.23
+#=GS CV_3294 WT 0.72
+#=GS CV_4284 WT 0.85
+#=GS CV_0524 WT 0.67
+#=GS CV_0081 WT 1.22
+#=GS CV_2766 WT 1.25
+#=GS CV_2000 WT 1.10
+#=GS CV_3881 WT 0.96
+#=GS CV_3523 WT 1.27
+#=GS CV_3916 WT 1.39
+#=GS CV_2738 WT 0.95
+#=GS CV_3466 WT 1.38
+#=GS CV_2820 WT 1.30
+#=GS CV_1569 WT 1.04
+#=GS CV_4404 WT 1.10
+#=GS CV_3276 WT 1.06
+#=GS CV_2019 WT 1.09
+#=GS CV_1500 WT 0.97
+#=GS CV_0360 WT 1.09
+#=GS CV_2390 WT 1.35
+#=GS CV_3754 WT 1.17
+#=GS CV_2936 WT 0.93
+#=GS CV_1256 WT 0.84
+#=GS CV_3200 WT 1.35
+#=GS CV_2970 WT 1.15
+#=GS CV_0707 WT 0.93
+#=GS CV_3011 WT 1.16
+#=GS CV_2859 WT 1.23
+#=GS CV_0651 WT 1.02
+#=GS CV_0121 WT 1.31
+#=GS CV_2914 WT 1.48
+#=GS CV_0323 WT 0.80
+#=GS CV_0743 WT 0.92
+#=GS CV_2707 WT 0.89
+#=GS CV_2037 WT 1.17
+#=GS CV_3751 WT 0.67
+#=GS CV_1955 WT 0.63
+#=GS CV_3103 WT 1.20
+#=GS CV_3241 WT 1.40
+#=GS CV_1944 WT 0.97
+#=GS CV_1751 WT 1.10
+#=GS CV_1523 WT 1.07
+#=GS CV_2575 WT 1.63
+#=GS CV_1916 WT 0.93
+#=GS CV_0660 WT 1.14
+#=GS CV_3977 WT 1.04
+#=GS CV_3415 WT 1.14
+#=GS CV_2540 WT 0.80
+#=GS CV_1576 WT 1.24
+#=GS CV_3465 WT 1.02
+#=GS CV_4092 WT 0.85
+#=GS CV_2043 WT 0.82
+#=GS CV_3817 WT 1.04
+#=GS CV_3013 WT 0.93
+#=GS CV_3792 WT 0.77
+#=GS CV_0852 WT 0.84
+#=GS CV_1207 WT 0.76
+#=GS CV_0140 WT 1.01
+#=GS CV_0113 WT 1.41
+#=GS CV_3031 WT 1.30
+#=GS CV_4198 WT 1.14
+#=GS CV_1585 WT 1.06
+#=GS CV_3366 WT 0.77
+#=GS CV_2194 WT 1.34
+#=GS CV_3657 WT 0.95
+#=GS CV_0596 WT 0.90
+#=GS CV_4221 WT 1.24
+#=GS CV_1626 WT 1.15
+#=GS CV_2515 WT 1.46
+#=GS CV_3912 WT 0.98
+#=GS CV_0796 WT 0.84
+#=GS CV_3397 WT 0.84
+#=GS CV_2059 WT 1.14
+#=GS CV_1716 WT 1.30
+#=GS CV_1652 WT 0.90
+#=GS CV_1747 WT 0.83
+#=GS CV_3582 WT 0.80
+#=GS CV_3305 WT 1.26
+#=GS CV_3352 WT 1.17
+#=GS CV_3543 WT 1.02
+#=GS CV_2088 WT 0.96
+#=GS CV_1697 WT 0.92
+#=GS CV_1645 WT 0.83
+#=GS CV_4053 WT 1.20
+#=GS CV_0130 WT 0.68
+#=GS CV_0403 WT 0.77
+#=GS CV_0924 WT 0.80
+#=GS CV_3270 WT 1.09
+#=GS CV_2453 WT 1.11
+#=GS CV_1996 WT 0.99
+#=GS CV_1375 WT 0.77
+#=GS CV_0450 WT 1.20
+#=GS CV_3862 WT 1.29
+#=GS CV_1439 WT 1.24
+#=GS CV_0188 WT 0.77
+#=GS CV_3899 WT 0.72
+#=GS CV_0111 WT 0.85
+#=GS CV_0336 WT 0.89
+#=GS CV_3153 WT 1.37
+#=GS CV_2921 WT 0.86
+#=GS CV_3555 WT 0.77
+#=GS CV_4003 WT 1.44
+#=GS CV_2527 WT 1.18
+#=GS CV_4274 WT 0.91
+#=GS CV_0531 WT 1.33
+#=GS CV_3159 WT 1.14
+#=GS CV_3779 WT 0.85
+#=GS CV_0468 WT 1.21
+#=GS CV_1372 WT 1.11
+#=GS CV_3650 WT 1.01
+#=GS CV_3760 WT 1.08
+#=GS CV_0537 WT 1.40
+#=GS CV_3085 WT 1.08
+#=GS CV_2637 WT 1.06
+#=GS CV_0706 WT 0.93
+#=GS CV_0402 WT 1.17
+#=GS CV_0349 WT 1.15
+#=GS CV_2968 WT 0.89
+#=GS CV_0172 WT 0.88
+#=GS CV_1332 WT 0.84
+#=GS CV_0338 WT 0.96
+#=GS CV_2676 WT 0.84
+#=GS CV_1137 WT 0.95
+#=GS CV_1327 WT 1.15
+#=GS CV_1052 WT 1.21
+#=GS CV_0249 WT 0.97
+#=GS CV_2481 WT 1.06
+#=GS CV_1813 WT 0.97
+#=GS CV_4187 WT 1.31
+#=GS CV_0929 WT 0.72
+#=GS CV_1087 WT 0.61
+#=GS CV_2156 WT 1.52
+#=GS CV_0530 WT 1.33
+#=GS CV_3351 WT 0.98
+#=GS CV_3454 WT 1.00
+#=GS CV_0433 WT 0.95
+
+CV_3702      GC-UAAA----------------------ACCA-------------UGAA
+CV_1519      UC-UGAAACCCGGC--------UGGCCGGGUAA-------------AGAG
+CV_0674      UU-UGAAUUC-----------------GCGGC--------------UGAA
+CV_0974      GC-AGCC----------------------GUGA-------------AAAA
+CV_4014      CC-UGCC------------------------CAAAC---------AAACA
+CV_1076      UC-UGAAC-----------------------GA-------------AAAC
+CV_2078      CC-CGCCAGG-----------------CGUCAUUCU---------CAAAA
+CV_4194      UU-UGAAA-----------------------AAAGAA-------GGUGAG
+CV_3475      GC-CAACU-----------------------AAAA----------UAAAA
+CV_2352      GC-UUCC------------------------AAAA----------GAAAC
+CV_2702      UC-UUCAU-----------------------GUUA----------GAGCA
+CV_0713      GC-UGUAAGCGCCC--------CGCUUGGGCAAAG----------AAAAA
+CV_1932      UC-GGAU-----------------------CAAUGAC------GGGACAA
+CV_1486      GC-AGAACG-------------------UGACAUGGC------UUUAUCG
+CV_1643      GC--GCCA-----------------------GAUGACC----GGGCCAAG
+CV_3667      GC-UGCAA---------------------GGCAUAU--------UUCAAA
+CV_3533      UC--GCC------------------------GAUCGGG-----CCGAUUG
+CV_0714      UC-CGCCG---------------------GCAAAA----------CAAAA
+CV_3455      UC-GGUAG--------------------G---UUG----------AAGAG
+CV_2112      GC-CGCAGUAA---------------UGG------UAGAC-GACAGCGAC
+CV_0478      GC-GGAUC--------------------CGCGAUCGC------AGGAAAA
+CV_0554      UC-CGAUG-----------------------AA-------------AAAC
+CV_2347      CC-GGACG---------------------GGG--------------CCAC
+CV_3365      GC--GCCGAG-----------------UCGGGAUGG---------AAAAG
+CV_4304      UC-UGACCCCAC-------------CCCAUGCAUG----------AAAAA
+CV_3461      GC-UGACCAGCCC-----------GUUGGCCAAUA----------AAAAA
+CV_2047      GC--GCCA---------------------GUCACG----------AAAAA
+CV_2614      CC-UGCG----------------------GCG--------------GAGA
+CV_1968      GC-UGAAGGUAUC-----------AAGCCGUAACGU---------GAAAA
+CV_1108      GC-CGAAUACUU-------------GCACUGCAAGA---------GAUAG
+CV_1176      GC--GCCA--------------------GGCAAUGC---------AAAAC
+CV_1060      GC-UUACAUU----------------GGG-CUAAAG---------AGAAA
+CV_4192      GC-GGCCAAGU---------------GUUGAAA-------------AAAC
+CV_1662      CC-UGACCUCCC------------UCUUGUCCAACA---------AAAAA
+CV_0775      UC-UAAUAGU-----------------AAGCA--------------AAGC
+CV_2363      GC-UGAAUGC-----------------AGGCAAACUGU----GUGAAACA
+CV_4281      GC-GGUC------------------------AACG----------ACAAA
+CV_3900      GC-CGUCG---------------------CGC--------------AAAA
+CV_4207      UC-GGCGGGG----------------GAGGGCAUGA---------AAAAA
+CV_3324      UC-CGA-----------------------GCGAUG-----------AUCU
+CV_1791      CC-AGCCAGG-----------------GCGCGA-------------GAGG
+CV_4106      GC-UGCUGUU-----------------CAGCG--------------CAAC
+CV_3325      GC-CGACGG------------------CCCCAAAC----------GAAAA
+CV_1062      CC-UGACC-----------------------GAAG-----------AGAA
+CV_3991      GC--GAC----------------------GCCAAAC--------AAAAAC
+CV_2937      GC-CGCA----------------------UCCU-------------GGCC
+CV_3633      CC-UGAA------------------------AAUG----------AAUCG
+CV_3992      UC--GACACC-----------------AUCCCAUGG---------CAAAC
+CV_1737      UC-GGACU--------------------UAGAAUCG---------GAGAA
+CV_3413      UC-GGGA------------------------C--------------CAGG
+CV_4196      GC-CGGA----------------------GCGU-------------GGCG
+CV_1177      GC-GGAAA---------------------UGCA-------------AAAC
+CV_0967      GC--GCC----------------------CCAAUG-----------CGAA
+CV_1349      UC-GUUC------------------------G--------------ACAC
+CV_3062      GC-CGAUA--------------------UGACA-------------AAAG
+CV_3580      GC-UGCCAAGUAAUU------CGCGGCGAGCAACAC--------CAAAAA
+CV_4354      GC--GUU----------------------UGAAACA---------GCAAG
+CV_3182      CC-GGAC------------------------AAAC----------AAAAA
+CV_3476      UC-UAUCA-----------------------AAUA-----------AAAG
+CV_0085      GC-UGU-----------------------GGGACAAUU-----CUUCAUG
+CV_2016      GC-UGUAAGCC---------------AGGUCAACG----------UCAAA
+CV_2116      GC-UGACCUGGGG----------UAAGCAUUAAACCCC-----UUUAAAG
+CV_2362      GC-GGACA---------------------GAAA-------------AACA
+CV_0644      CU-UGAA----------------------GCGUAG-----------AAAU
+CV_1530      GC-UGAA------------------------CA-------------AAAC
+CV_1364      GC--GAUGUGAGU-----------CGAGUGGCAUG----------AAAAA
+CV_0742      CC-UGCCCA------------------UUCCAA-------------UGAC
+CV_2184      GCGUGAAU---------------------UCAA-------------AACC
+CV_0645      UCUUGAA----------------------GUAAUG----------AAAAU
+CV_1661      UC-UGUUGGG----------------UCGGCAAUC----------AAAAA
+CV_3146      GCUUGCCG---------------------GUGA-------------ACCA
+CV_2721      GCAUGAA------------------------AAUG-----------AUUC
+CV_1938      GC-UGAGG---------------------GCAAACAA------AACCCCC
+CV_2048      GC-CGCCG---------------------GCAAUA----------AAAAA
+CV_1520      UC-UGACG--------------------CGGAA-------------AAGG
+CV_0979      CC-CGCC----------------------GCAAAA-----------AAAC
+CV_3016      CC-CGCA----------------------GACA-------------GAAC
+CV_3918      CC-UGAU------------------------AA-------------GCCG
+CV_0673      GC--GUAAU------------------CGUGUAUAG---------UGCAA
+CV_0547      GC-UUGCUCC-----------------CUGGAAUG----------AAAAA
+CV_2237      GC-GGGA----------------------GUCAUG----------AAAAA
+CV_1989      GC-GUUC------------------------CAAAU---------CAAAC
+CV_1148      GC-GGCUA-----------------------C--------------AAUG
+CV_3183      UC-UGAUAUCC---------------GUCGGGAUAUG-------AGAAAA
+CV_1334      GC--GUAGG-------------------CGUUAUGUC-------UGAAGC
+CV_2198      GC-UGAG----------------------GGC--------------GAAA
+CV_3428      UU-UGCCA---------------------UCGAUG----------AAGAA
+CV_0772      GC-AGCC------------------------AAUGA---------UAAAC
+CV_1240      GC-AGUA----------------------UCUAUG-----------CAAU
+CV_4125      GC--GCA------------------------G--------------GCCG
+CV_2878      UC-CGCAGG-------------------GGCG--------------GAAA
+CV_3571      GC--GCA------------------------AA-------------AAAA
+CV_0564      GC-GGCCGGCU--------------CUGGGACAUG----------GCGAC
+CV_3962      CC-GGCAC---------------------GCAAUAA--------AAAAAC
+CV_1303      GC-UGGAA---------------------GCGA-------------AAAA
+CV_1988      GC--GAUA-----------------------AA-------------AAAC
+CV_0963      GU-UGCA----------------------UCGA-------------AGAA
+CV_3669      CC-AGUC----------------------GGAA-------------CGAA
+CV_3424      GC--GAACUUA---------------GACGCAA-------------AAAA
+CV_1474      GC--GUUUC------------------ACUCCUUC-----------AGAU
+CV_1897      GC-UGAAAUAGG-------------CGCGGAAAAGC---------GAAGG
+CV_1055      GC-UGUAAGCC--------------CUGCUCCAUAAAC-----ACCAACA
+CV_1892      CC-GGCA----------------------UGAAUGC---------GACAA
+CV_0850      GC--UAC----------------------GAGA-------------GACG
+CV_0590      UC-GGUUU--------------------AGGC--------------GAAC
+CV_3403      GC-CGCAUUGAACG---------AUGGACG-----U--------AAAAAA
+CV_0766      UC-GGCA------------------------CA-------------AACG
+CV_2892      UC-UGAA------------------------AAUG----------AAAAA
+CV_3473      CC-UGAA----------------------GCC--------------AAAA
+CV_0090      GC-CGCCG-----------------------CUUG-----------CACG
+CV_3609      GC-CGCCA-----------------------GACGC--------AGAAAA
+CV_0526      GC-UGGAAGGUGU----------AAUUCCAGGAUG-----------GAAG
+CV_0617      GC-UGACCG-------------------CGCC--------------GAAG
+CV_0826      UC--GCCA--------------------A----CGA---------AACAA
+CV_2934      UC--GCA----------------------UCA--------------CCAG
+CV_3800      GC--GAUA-----------------------AA-------------AAAA
+CV_2197      GC-UUACC---------------------GCUUUA----------UUGAC
+CV_2712      GC-CGCCC-----------------------CAUGA---------AAAAC
+CV_0978      GC--GAUA-----------------------AA-------------AAAC
+CV_3799      GC-GGAU----------------------GAAA-------------AAAA
+CV_1506      UC-CGCA----------------------UCGA-------------CCAU
+CV_2795      GC--GAAGCCA--------------UCCGGCCAUGA---------AAAAA
+CV_0224      CC-CGCAA---------------------ACCAUG----------AAAAA
+CV_3295      GC-GGAAA-----------------------CAAA-----------AAAA
+CV_4270      GC--GAA------------------------AA-------------AACA
+CV_4217      UC-UGCU------------------------G--------------AACA
+CV_0057      UC-UGAC----------------------UGC--------------CCGG
+CV_3787      GC-UGCUGGCG---------------AGGUGAAAGA--------AAAACG
+CV_2383      GC-GGCAA---------------------UGAA-------------AAAG
+CV_1297      UC-CGCCG---------------------GCAAUGA---------AAAAA
+CV_4214      GU-GGUCC--------------------UGGAAUG----------AAAAA
+CV_4239      UC-CGUUCC-------------------AGCCAUGA---------AAAAC
+CV_3462      GC-GGGU----------------------GGAAACA---------AAAAA
+CV_2893      GC-AGAA----------------------UAAA-------------AAAA
+CV_0827      UC-UGC-----------------------GCGA-------------AAAC
+CV_3579      GC-UGCAAUAACGCAAC--AGCCGAGUCU-CCAAAA--------CGCCAC
+CV_0821      GC-CUCCU--------------------CUCAU-------------CCCU
+CV_1294      GC--GUCA--------------------UGCG--------------GCAG
+CV_3398      GC-GGGAC---------------------GCAA-------------AAAA
+CV_1365      UC--GCC----------------------UCGAUC----------AAAAA
+CV_0807      GC-CGCAUG------------------GCGCCAAGG---------CUAGC
+CV_1641      GC-AGUUCC------------------ACUAAAAGU---------GGGCG
+CV_2238      GC--GCA----------------------UGAA-------------AAAA
+CV_0325      GC-UGUAAC-------------------GUGGAUGGG------UAGGGUG
+CV_2040      GC--GACU---------------------GACA-------------GCAA
+CV_3795      UC-UGAA------------------------AA-------------GAAU
+CV_3963      GC--GCCG---------------------GCAAUAA---------AAAAC
+CV_2179      UC-CGUCA-----------------------CAUG-----------AAAC
+CV_4109      GC--GUA----------------------GACAAGA--------AAAAAG
+CV_1080      GC-UGUAA---------------------GCGUUU----------UCGCC
+CV_3393      UC-CGCC----------------------GGGAUA----------CGAAA
+CV_4051      GC-CGGC----------------------GUAAAC----------GAAAA
+CV_1934      CC-GUCC-----------------------CAAACG--------AAACGG
+CV_3296      CC-UGAUUCAGGC----------UGUGUU-UGA-------------AAUG
+CV_0279      UC-CGUAG-----------------------AAUG-----------CGCG
+CV_1937      UC-UGUCCGG-----------------CUGGCAUC-----------AUCG
+CV_4305      GC-GGCAA---------------------GGCAUG----------AAAAA
+CV_3696      GC-CGCA------------------------GA-------------AAAA
+CV_3755      GC--GA-----------------------GUAAAA-----------AAAC
+CV_1928      CC-CUCA------------------------AAAC----------AAAAA
+CV_1171      GC-AGUAACACG-------------CUUCGCCAUC----------GCGCG
+CV_2353      GC--GCC----------------------GUAU-------------CCGG
+CV_4384      GC-AACAG---------------------GGCA-------------AAAG
+CV_0516      GC--GAA------------------------AA-------------CGAC
+CV_2384      GC--GCC------------------------AAACA---------GAAAG
+CV_2039      CC-UGCCG---------------------UCAAAA-----------AAAA
+CV_0912      CC-UGAA------------------------C--------------CGCA
+CV_0175      GCUUGCC----------------------CGGAUU-----------CAAA
+CV_4013      GC-UGAAGCCAU-------------UUCUGAAAUGC---------AAACA
+CV_3709      GC-UGACGGCAGCC---------CAUCGGUGAAUG----------AGAAA
+CV_0342      GC-CGUA------------------------AACCGU------CUCCAAA
+CV_1468      UU-UGAAUC-------------------CGGCAUG----------ACAAC
+CV_0190      GC-UGACGCG----------------GGCGGGA-------------AACG
+CV_3386      GC-UUCCA--------------------AGACAUG-----------GGCG
+CV_4006      CC-UGA-------------------------G--------------AAAA
+CV_3758      UU-UGAC----------------------GGAAUGUG------CGAAAAA
+CV_2077      GC-GGAC------------------------A--------------AAAG
+CV_0527      GC-GGUACAGAA------------GGUAGGCG--------------GAAC
+CV_0361      GC-AUUC----------------------UCAACA----------AAAAA
+CV_1466      GC-GGACGC------------------CAGCCA-------------GAAC
+CV_0739      GC-GGAAC---------------------GCAA-------------AAAA
+CV_2715      UC--GAUU--------------------AUUGAUCC---------GGUCG
+CV_2051      UC--GC-----------------------GGCAAG----------GAGCC
+CV_3037      GC-UGAAA-----------------------CAAA-----------AAAA
+CV_2590      CC-GGCAAGCC---------------AAAGAAAUGA--------ACAAUA
+CV_3104      GC-UGACAUCGG-------------CGCGCGAAUA----------CAGAC
+CV_0745      UC-GGCUU--------------------CUCAAUAA---------AAAAA
+CV_3117      GC--GAU------------------------CAAGC---------CAAAA
+CV_2017      GC-GGAC----------------------GCGA-------------CAAA
+CV_2284      GC--UCCU-----------------------UAUG----------CAAAA
+CV_4213      GC-CGCCU-----------------------GAUG----------AAAAA
+CV_0405      CC-UGUCGAA-----------------CGGCAAUA----------AAAAA
+CV_0115      CC-GGCUCG-------------------CGCG--------------CGAA
+CV_1781      UC-GGAU------------------------CAUG-----------GAAA
+CV_1745      UC--GAAC--------------------GGCGA-------------AGCG
+CV_3762      GC-UUGA------------------------AAUGCU-------GGAAAU
+CV_3666      CC--GCC----------------------GGA------------------
+CV_2395      CC-UGCCAGG----------------CUUGCAAUGA---------AAAAC
+CV_3823      GC-UGACA---------------------GACAAA----------AAAAC
+CV_0626      CC-UGAAGCCA--------------GCAAGCAAAG----------ACAAG
+CV_2804      UU-UGAU----------------------UUGA-------------CAAG
+CV_1277      GC--GACGC------------------ACCGAAUA----------GGAAG
+CV_0252      GC-UGCCGCUUU-------------GAUGUCCUAGCU------UUUCGAC
+CV_1748      GC-GGCCGG------------------CUGCGA-------------AGAA
+CV_3628      UC-UGAAGCGGGU----------GGUGCGGGUAUGA---------GAAAA
+CV_0174      CC-CGAC------------------------A--------------CGAA
+CV_3151      CC-GGAUA-----------------------AAAG----------ACAAG
+CV_0551      UC-GGCU----------------------UGC--------------AUAC
+CV_2765      GC-CGAUAGGCGCGGC----GAGGCGAGCGGC--------------GAAU
+CV_0010      GC-UGGUAGGCAA----------GGUGUAGCAA-------------AAAG
+CV_1231      GC--GAAC--------------------UGGCAUA-----------GUCG
+CV_1363      GCUUGAA----------------------UCCAUAU--------AAAAAA
+CV_2713      GC-CGAA-------------------------AUG----------AAACA
+CV_0225      GC--GAAA-----------------------AAUG----------AAAAA
+CV_3627      GC--GCCUCCC---------------ACUGGCAAGA---------CAAAC
+CV_4159      GC-AGUUG-----------------------AAAG----------AAAAA
+CV_0528      GC-CGUCA-----------------------GAUGG--------AGAAAG
+CV_3644      UC-CGCAU--------------------UCCGA-------------AAAC
+CV_3092      UU-GGAC------------------------GAUACU-------GGAACA
+CV_4154      GC-UGGCA--------------------UUGAACAA--------GAAAAA
+CV_4057      GC-UGCCGUCGCCG---------CGCGCGGUGACGG--------UGAAAA
+CV_3213      UC-AUUA----------------------GCCAACU---------CCUCG
+CV_4052      GCGUGACAG------------------CUGGCAUAG--------GAAAAA
+CV_2563      UC-UGAG----------------------GGGA-------------CGCG
+CV_0389      UC-GGAAA--------------------CCCAA-------------AAAA
+CV_3304      UC-GGCCU---------------------UCC--------------GAAC
+CV_2233      CC-GGCA------------------------AAUG-----------AAAA
+CV_3829      UC-UGCUUG------------------GUC-----U---------GAAAA
+CV_1237      GC-UGCA------------------------G--------------AAAA
+CV_3708      CC-UGCC----------------------GCAAACAA------GCGAAAA
+CV_3784      UC-UGUA------------------------UAUG----------AAAAA
+CV_4040      GC-AGCC----------------------GGAAACG---------ACAAA
+CV_0208      GC-CGCC----------------------GACAUG----------AAAAA
+CV_0995      GC-UGCCGAGUAA-----------GCGUUUGAAAG-----------CGGG
+CV_3747      GC-UGCAA----------------------GAAUAC--------GCAAAG
+CV_4093      GCGUGCC------------------------AAAA----------ACAAA
+CV_0901      GC-UGUAG---------------------GGC--------------GGAA
+CV_0561      GC-UGCAGGAAGA-----------CGAAUGAAAA-A--------ACGGCC
+CV_3597      GC-UGCAUC-------------------AGGCAAG-----------CGCG
+CV_4158      GC-UGUUCA-------------------AGACAUG----------AAAAA
+CV_2171      GC-CGGCAUCUAAA---------CAGACAGCA--------------AAGC
+CV_2300      UC-GUAC----------------------UGUACGC--------AGGCAA
+CV_3402      GC--GCCC---------------------GCAA-------------AAAA
+CV_4329      GC-UGACGCC----------------GGCGGCAAC----------CGAGG
+CV_3474      GC-AGA-------------------------GA-------------AAAA
+CV_2001      CU-UGAAGUA-----------------AGUAAAUG-----------AAAC
+CV_2012      GC-CUCC----------------------CCAAAA-----------AAAC
+CV_4177      UC-UGUAU-----------------------AAUGG---------CCAUC
+CV_2751      GC-GGCA----------------------UGAA-------------AAAG
+CV_3425      GC-UGCCGUUCUGAGUC---UUUAUUUUCUCGAUU----------GAAAA
+CV_0885      GC-AUAA------------------------AA-------------ACUG
+CV_1418      GC-CGAUC---------------------GCUAUCCA-------GUAAGA
+CV_1789      GC-CGCCC-----------------------G--------------CGCC
+CV_0320      GC-CGAU----------------------GGA--------------AAAG
+CV_4069      GCUUGAU----------------------GUAA-------------AAAA
+CV_2988      GC-UGAAAAUAUGC--------UCUCUUCCCA-------------UAAAA
+CV_0588      UC-UGUUG---------------------UGGAUG----------ACGAA
+CV_3116      GC-UGCUGGUG---------------ACGGGCAAA----------CAAAA
+CV_0871      CC-CGCAU---------------------GCGA-------------AAAA
+CV_3038      UC-CGUCG--------------------GUGCA-------------AAAA
+CV_3307      UC-CGCCU---------------------GCAAUGC---------GAAAC
+CV_0299      GC-CGCC------------------------A--------------GGCC
+CV_4258      GC-CGUAG---------------------GGC--------------GGAA
+CV_4100      GC-UGAAC-----------------------G------------------
+CV_0913      UC-UGACAGCC---------------UGUUCAAAGUCU-----UUGAACA
+CV_3549      UC-UGACGCCG---------------GCCUGAU-------------CCAG
+CV_3364      GC-UGCCA---------------------GGAA-------------AAAG
+CV_3249      GC-GGCU----------------------GAGAUCCC------GGUUUCA
+CV_0066      GC-GGCAGCGC---------------GUAGCAAAC----------GGAAA
+CV_2791      GC-CUAAACGA--------------UUGGGCAAAA----------CAAAA
+CV_0900      UC-CGCCAAGC--------------UUAGGCCAUGAUAG---GCGGAACG
+CV_2380      UC-UGAUG-----------------------CAAG----------AAAAA
+CV_1480      GC-UGCAUG------------------UU-GGAAC----------GAAAA
+CV_1129      GC-GGACGCC----------------CGCGCAAAAGA------CAUCAAG
+CV_4206      UC-CGUC----------------------GCAA-------------AAAA
+CV_1121      CC-UGGA----------------------AGGAUG----------GAAGG
+CV_1329      CC-UGACC-----------------------C--------------UCCG
+CV_4155      GC--GCCG---------------------GAAAUGG---------AAAAA
+CV_4004      UC--UCAC-----------------------CAUC-----------CCAA
+CV_2719      UC-CGCCAUC----------------GCUUGGAAC-----------AAAC
+CV_3354      CC-CGAC------------------------A--------------CGAU
+CV_4224      GC-UGACGCGU--------------UCGG-AAAAGG--------CAACAA
+CV_2861      GC--GUCG--------------------CGCGAUGA---------AAAAC
+CV_1529      UC-CGAA------------------------CAUG----------AAAAA
+CV_3056      CC-UGCAG--------------------CGCAAAAG---------ACGAC
+CV_1997      GC--GCCU---------------------GACAAG-----------CCAA
+CV_3084      GC-CGAAAGG-----------------ACGGAAUGA---------GCAAC
+CV_1539      UC-GUAU------------------------GUAG----------GAAAC
+CV_1353      GC-AGCUGCGCGU----------GUGAUCGAGAUG----------UGGGC
+CV_3384      GC-GGAAA--------------------U--GAUG----------AAAAC
+CV_1302      UC-GGCCGG-------------------CGCGAAA-----------AAAA
+CV_4088      UC-CGAU------------------------A--------------AGAA
+CV_2832      UC-CGCC------------------------CAUG---------------
+CV_3009      GC-GGCAG---------------------GGCAAA----------AAAAC
+CV_1477      UC-UGUU------------------------CAAGC---------ACCAG
+CV_2193      GC-UGAAA----------------------CCA-------------AGCA
+CV_2530      CC-GGCCA---------------------UGAA-------------AAAG
+CV_3072      GC-AGUAAACGC------------CCCGCGCAAAC-----------AAAA
+CV_1096      GC--GCAU---------------------GAAAAGC---------CAGAG
+CV_3850      UC-AGCG-----------------------AAAC-C--------ACAAAA
+CV_0759      CC-CUCA------------------------AAUC----------AAAAC
+CV_3429      GC-AGCU------------------------GAUC----------CAGAC
+CV_1138      GC-CGCCCA-------------------U-----UUC-------AUCCAG
+CV_3831      GC--GCC----------------------GGCAUCAC------AUCGCAA
+CV_0038      GC-UUAACGC-----------------CGGUGA-------------CAUA
+CV_0917      CC-CGCCCCA----------------AACGACAUG----------CCGCC
+CV_4407      GC-UGUU------------------------A--------------AAAA
+CV_2038      GC-UGGC----------------------GGCAUG----------AAAAA
+CV_3791      CC-UGACG---------------------GCAA-------------AAAG
+CV_0548      GC-AGCA----------------------UGAA-------------AAAC
+CV_0932      UC-UGAC----------------------CGAAUGA---------CGAGG
+CV_3399      CC-UGAUCGGGA-------------GGGACAAA--A--------GAAAAA
+CV_2850      UC--GAA----------------------GAAAACUU-------UCAGCC
+CV_4240      GC-GGCCAAGAAGUAAGC-GUGCGAGGACGGAA-------------AAAC
+CV_2466      GC--GAAG--------------------AUUGAUGC--------CCGGCA
+CV_1462      CC-UGUAAU-------------------CGGGACG----------CCAGG
+CV_1865      UC--GACA---------------------UGAAUC-----------AAAA
+CV_4098      CC-AGCACACA--------------UAUA------UA-------GAAAAA
+CV_1712      GC-UGA-----------------------GGU--------------CGAA
+CV_2554      UC-CGUCG-----------------------G------------------
+CV_3078      GU-UGCC----------------------GCAUUCC---------CGAUG
+CV_2544      GC-UGAUUGG----------------CCGGCG--------------CAAU
+CV_1003      GC-UGAUG-----------------------AAUC-----------GAAA
+CV_0059      GC-CGUA------------------------AAUC----------UCCCA
+CV_3610      GC-UGACCAUCGC-----------GUCCGGCAAUG----------AAAAA
+CV_0933      GC-AUAA------------------------AAAA-----------AUCC
+CV_3528      GC-UGUUG-----------------------G--------------AAAG
+CV_4373      GC-CGUC----------------------GCCAUC----------GCGCG
+CV_2551      GC-GGUUUGU-----------------CCGGG--------------CGCG
+CV_2874      GC-UGACCCCAGC-----------UCUAAGCAA-------------AAAA
+CV_3788      GC-GGAC------------------------AAAA-----------AGAC
+CV_0972      GC--GAUGUAA--------------GCCCUUGAUC----------CGACG
+CV_0305      GC--GCA----------------------UGAA-------------AACG
+CV_0149      UC-CGCAU---------------------CGAA-------------AAAA
+CV_3378      GC-CGCC------------------------AUUGCC-------CGACAA
+CV_3765      GC-UGCCC---------------------GGCAUCAA-------GCAGGA
+CV_3457      GC-UGAC------------------------C------------------
+CV_1367      GC-GUUC----------------------GGGAUGC--------GAUAGG
+CV_1197      GC-GGGU------------------------GA-------------GGAG
+CV_1532      GC-UGAAGAGGCAA--------GUUAAAUGCCAUAA--------UGCAGA
+CV_3064      GC-CGAUU--------------------CCCG--------------CCAC
+CV_1974      GU-GGCAU-----------------------GAUGU--------CGGACA
+CV_1298      GC--GCAA--------------------CGCAA-------------AAAA
+CV_3740      UC--GCC----------------------UGGA-------------AAAA
+CV_3670      GC-UGGAACGGGA----------CGAAAGUCCAAAC---------AAAAA
+CV_3481      GC-UGAAUUCG--------------UCGGGCC--------------AGCC
+CV_0744      CC-GGUA------------------------AAAG----------AAAAA
+CV_1767      CC-UGAUCAU----------------CCCGCCAUA----------UUGAC
+CV_0865      CC-CGACG---------------------GCAGAG----------UAAGC
+CV_1261      GC-UGAG----------------------UGCA-------------AAAU
+CV_2044      GC-CGCAG--------------------CGCAAAG----------CAAAC
+CV_1175      UC--GAC------------------------CAAG-----------AGCG
+CV_0410      GC-GGCU------------------------AAUCCCG-----GCUGUCC
+CV_3656      CC--GCCAAU----------------UGAUCCAUC----------CGGAA
+CV_4048      GC-GGUA------------------------GAUG----------GCGAC
+CV_0331      GC-GGCAG-----------------------C--------------GCCG
+CV_0086      GC-UGAUAAUAC-------------UUAGGCG--------------GAAC
+CV_4099      GC-UGAAGUAAGAGGGUCCGCGCGAUUCAGCAA-------------AAAG
+CV_1149      UC-CGCCG--------------------CGAGA-------------AAAA
+CV_1891      GC--GAU-----------------------CAA-------------AAAG
+CV_4070      GC-UGACGA-------------------CGACA-------------AGAC
+CV_1465      UC-GGUAUACG--------------GUUCUGA--------------AAAA
+CV_1670      GC-UGAUGG-------------------CGGCAUGA--------GAAGAC
+CV_0997      GC-UGAUUCCGGCACG----GCGCUCAGGUAAA-------------AAAA
+CV_2853      GC-CGCAG--------------------AUCAA-------------AAAG
+CV_1817      UC-CGCC------------------------GAACU--------GGAAGA
+CV_2531      GC-UGAAA---------------------CGG--------------GAAG
+CV_2093      GC-GGCCGG------------------CCGCGACGG---------CAAAG
+CV_1019      UC-GGAAA---------------------CGC--------------GAAC
+CV_2790      CC-CGCUU---------------------CGCAAGU--------ACGAAA
+CV_3816      CC-UGUUUA-------------------UUCGACCC--------UCCGAC
+CV_1130      GC-GGACA---------------------GCGA-------------AAAG
+CV_2761      UC-CGCUA-----------------------GAACA---------CAGAC
+CV_3326      GC--GCCC-----------------------AAUG----------AAAAA
+CV_1086      UC--GCAAAAC---------------GGGUGGA-------------UCAA
+CV_3797      GC-CGCAUUC----------------UCUUCA--------------ACCG
+CV_1785      GC--GCCAU------------------CCUCCACU----------CGCAG
+CV_3589      GC-GGCAAGC----------------GCGUCGAUC-----------ACAA
+CV_4193      CC-UGGAACGUUAU--------UGAUUGGGUAAUA-----------GGGC
+CV_2750      CC-CGCC----------------------GCAAAGC---------AAAAG
+CV_0263      UC-UGACGCC-----------------CAGCCA-------------CAAG
+CV_0432      UC-GUUA----------------------GUUAUA----------AAAAA
+CV_3207      UC-CGAAA---------------------CACA-------------AAAA
+CV_0173      CC-GGCC----------------------GCGAAGUUC-----GCGCGAU
+CV_1358      GU-GGAAU---------------------GAAAAG----------AAAAA
+CV_2723      GU-UGA-----------------------GCAA-------------AGCG
+CV_4108      GC--UCCA-----------------------GAUAG---------GGAAA
+CV_3298      GC-UUCCGUC----------------UUUUUAA-------------AAGU
+CV_2329      GC--UAA------------------------CAUC----------AAAAC
+CV_1927      UC-GGCAGGC-----------------GAGAAA-------------AAAG
+CV_1896      GC--GUG----------------------GACAUGU--------UGGCAG
+CV_2876      UC-CGCAUCC-----------------GCGUAUUG-----------AAAA
+CV_0440      CU-UGAUGA-------------------CGGA--------------AAAC
+CV_0117      GC-GGUAU--------------------CCGGUUG----------GCAAA
+CV_1092      GC-CGCC------------------------C--------------CGGG
+CV_0209      GC-GUACG-----------------------AAUG----------UAAAC
+CV_3501      CC-CGAC----------------------GCU--------------GUAA
+CV_0870      UC--GCAG---------------------GCAAAG----------AAAAA
+CV_3865      GC-CGAC----------------------UGAAUA-----------AAAG
+CV_3552      GC-CGCCC----------------------CCA------------GGCAU
+CV_3520      GC-UGC-----------------------GAGA-------------AAAA
+CV_3206      UC-UGGCA---------------------GUGAUG----------ACAAA
+CV_2778      GC-UGAUU-----------------------GACG----------CGCGU
+CV_2829      CC-CGUA------------------------AA-------------AAAA
+CV_3083      CC-UGGC----------------------UGGA-------------AGCC
+CV_1755      UC-UGCAAGG-----------------UGUGAAUG----------GAGCG
+CV_1646      UC-GGUUUC-------------------UGGAAUGUG-------CGAACA
+CV_1584      UC-UUUC------------------------A--------------UGAC
+CV_2823      GC-GGUA------------------------G--------------CAGG
+CV_1654      GC-UGUUA---------------------GGG------------------
+CV_0300      GC--GUC----------------------UCCAAC-----------CAGG
+CV_3637      UC-AGGAAU------------------CUUCGA-------------GAAA
+CV_1687      UC-UGUUG---------------------GAGU-------------GAAA
+CV_0165      CC-UGGAC--------------------CUCC--------------CGCC
+CV_1421      CC-UGUA------------------------AA-------------CCCC
+CV_1699      CC-UUCU------------------------C--------------AACG
+CV_0981      CC-UGACC--------------------CUCAUUA----------UCCAG
+CV_3408      GC-GGAUCGA----------------CCAGGCAAGA---------AAAAG
+CV_1850      GC-CGCCG--------------------CGGAAAC----------GAAAC
+CV_2670      GC--GCC----------------------GGGACCA--------UGCGCG
+CV_2500      GC--GCC----------------------GGA--------------ACAA
+CV_3036      GC--GCCG--------------------CGGAAAGU---------GAAAA
+CV_0747      GC-CGUAG---------------------GGC--------------GGAA
+CV_3554      GC-CGCC------------------------CAAGC--------UGAGAA
+CV_3625      CC-AGUC------------------------C--------------CGCC
+CV_3108      CC-UUGAG-----------------------AA-------------CGCG
+CV_3705      GC-UUUCAC-------------------GGCG--------------ACAC
+CV_2768      CC-GGCC----------------------UCCACAGC------AUUCAAG
+CV_0193      GC-GGAC----------------------GCGA-------------AAAC
+CV_2728      GC-GGGAG--------------------CGGGAAGG---------CGGCG
+CV_0098      GC-UGCCCGG-----------------CAGGCA-------------GGGA
+CV_3757      CC-UGACGCCGCGC--------UCGGCGCGCGA-------------AAAA
+CV_0964      GC-GGAU------------------------AAUAA---------AAAAA
+CV_2435      UC--UCAAAU-----------------UG-AGAAAA---------AAGAC
+CV_2753      UC-GGCC----------------------UGAU-------------CGAG
+CV_2178      UC-UGGC----------------------GGCAUG-----------AAAC
+CV_2760      CC-GGAU------------------------CAUG-----------AAAG
+CV_3214      CC-UGUU-----------------------CG--------------GACA
+CV_3008      GC-CGAU------------------------AACA-----------AAAC
+CV_1533      GC--GCU------------------------GA-----------------
+CV_1317      UC-CGUUGA-------------------GGAC--------------AAAA
+CV_0272      GC-CGCA------------------------AAAG-----------AAAC
+CV_4401      GC--GCCG-----------------------G--------------AGCG
+CV_1102      GC-CGCA------------------------CA-------------AAAA
+CV_4365      UC-UGCC----------------------ACAA-------------UGAA
+CV_1651      UC-CGUC----------------------AGCAUG-----------CGAA
+CV_1263      GC-GGCCGGG-----------------ACGGGA-------------AAAC
+CV_0296      CC-UGACCG-------------------UUCAA-------------UCCA
+CV_1476      CC-GGUAAC-------------------UGACA-------------GCAC
+CV_0311      GC-GGCCAG------------------GCUCG--------------CAAG
+CV_0639      UC-UGAU----------------------GCAA-------------AAAA
+CV_3615      UC-CGCAGGU----------------AGCGCC--------------CCGC
+CV_2408      UC--GCCU--------------------UUGC--------------CAUC
+CV_3077      GC-UGCACG------------------AGGGGAUG----------C----
+CV_2860      UC-UGACCCUC---------------CUGGACAAAA--------CAAAAC
+CV_3869      GC-CGAA------------------------CAUGA---------AAAAG
+CV_3426      UC--GAG------------------------CAAG----------AAUAG
+CV_0030      GC--GUCGAG----------------ACCCACAUGC---------GAACC
+CV_3870      UCAGGACA---------------------UCCAAG----------CAAAA
+CV_2163      GC-GUAAA---------------------GCGA-------------AACC
+CV_0834      GC-GGGC----------------------GCGA-------------ACAA
+CV_0961      GC-UGA-----------------------GCGAUGC---------AGAAC
+CV_2394      GC-UGUC----------------------UCCAUAA--------AAAAAC
+CV_2694      CC-CGAA------------------------GAUGA---------AGAAC
+CV_3372      GC-UGCCUCC----------------CGCGCG--------------ACAA
+CV_2248      GC-AAAU------------------------AAAG-----------CGAA
+CV_2251      GC-CGUCG---------------------UCUAUG-----------GAAA
+CV_3190      GC-GGAUAG------------------CC-UGAUCGA-------GCAUUG
+CV_2411      GC--GCA------------------------CAAAA---------CAAAA
+CV_3478      GC-GGGU------------------------UAAGG---------UGGGG
+CV_4390      GC-UGUA------------------------A--------------AGAC
+CV_3143      UC-AGUAAG------------------CUCCAA-------------AUCG
+CV_1437      UC-CGCCG--------------------CGAC--------------AGUC
+CV_3664      GC-AGAAA-----------------------C--------------ACAG
+CV_4269      CC-CGAA----------------------CCGAUC----------AACAA
+CV_2935      GC-GGACGGCCUG-----------GUGAUGCGAUGA--------CUGGAU
+CV_0928      GC-UGUAAGCGCGC--------CGCGUCCGCGAUGA---------AGAAA
+CV_2966      GC-CGC-----------------------GCGA-------------CGAU
+CV_0254      CC-UGAUUUU----------------CGCGCCUUGUC------GAUUCAA
+CV_0825      GC-UGCUGG-------------------CGAAAAGC---------GACAA
+CV_3567      UC--GCC------------------------AAAG----------CCAAG
+CV_0657      UC-GGUAGGG----------------UGCCCAAAA----------CACAA
+CV_2085      GC-UGAUUGUCGCG---------UAGGGCGGAU-----------------
+CV_3306      CC-GGAC----------------------GCAA-------------AAAC
+CV_0397      GU-GGCAAU-------------------CGGCA-------------CAAA
+CV_3152      CC-UGUCUC------------------CCCGG--------------CAAG
+CV_3728      CC-AGACA-----------------------C--------------AAAC
+CV_0168      CC-GGCU----------------------CCG--------------CGAC
+CV_0955      GC--GCAA---------------------GCAA-------------CAAA
+CV_1345      UC-CGCAU-----------------------C--------------AAAC
+CV_1028      GC-UGACGGCG--------------CGCGCCAAUG-----------AAAA
+CV_0071      GC-UGA-------------------------AAUG-----------GCCC
+CV_0444      GC-CGCCGGCAA-------------GAUCGCCAAG----------CCGCU
+CV_2796      GC-UGUAAACU---------------CAGGCGAUACCC----GUCGACAG
+CV_2230      CC-UGAAA----------------------CCA-------------GCAA
+CV_3649      GC-CGUCC------------------------AAAC--------AAAAAG
+CV_4246      GC-GGUU----------------------GCGAUC-----------GAGA
+CV_4119      GC--GUAG---------------------GGC--------------GGAA
+CV_1637      GC--GCCGGUU---------------UUUCCG--------------CCAU
+CV_0578      CC-GGACGUUCC-------------GGGUGAGA-------------UCCG
+CV_0308      GC-CGCC----------------------GUGACCC---------CAUGA
+CV_3343      GC-GGCAAU-------------------CGGCA-------------AGCA
+CV_0517      CC-CGCA----------------------UGAA-------------AACA
+CV_0351      GC-UUUC----------------------CCCU-------------CGCC
+CV_0443      GC--GCCG---------------------GCAAUCA---------GCGAA
+CV_4041      GC-UGUAAGGCG-------------UUUGGGCAUGA---------AAAAA
+CV_2642      CC-GGAUAC------------------CGGCAAUC----------GAAAC
+CV_1242      UC--GAUGC------------------UUGUUAAG----------AAAAA
+CV_4388      CC-CGCU----------------------CCG--------------ACCC
+CV_0326      GC-AGAC------------------------A--------------AAAG
+CV_1106      UC-CGCCUU-------------------CGCAAUGUGA----GACGAUAG
+CV_2011      GC-UGAAGA------------------GUGACAAGA--------AAAAAC
+CV_2130      GC-CGACGACGA------------AUGUCGUCA-----------------
+CV_0549      GC--GCC----------------------GCC--------------CGAU
+CV_0076      GC-GGC-----------------------GCCAUG----------AAAAA
+CV_0170      GC-UUUCA---------------------GACA-------------AAAG
+CV_1275      CC-CGUC------------------------C--------------GCAA
+CV_2556      GC--GACA-----------------------AAUA----------AAAAA
+CV_1378      GU--GCAG-----------------------AA-------------AAAA
+CV_1668      CC-GGCU----------------------GGGA-------------AAAA
+CV_1146      GC-CGCU------------------------AAUG-----------AACG
+CV_0886      GC--GCA------------------------GAUGC---------GAAAC
+CV_3026      GC-CGCC----------------------UCC--------------CCGC
+CV_2225      GC-CGGU----------------------UGAUUGA---------CGCGA
+CV_2816      GC-GGCCAGCCG------------UGCCCGGCAUG-----------AAAA
+CV_4104      GC-GGCCA---------------------GAA--------------CCGA
+CV_3822      GC-CGCC------------------------AAAA----------CAAAA
+CV_2159      GC-UGAAGCA----------------AGC------CGUGCCCGAGCUGGA
+CV_0045      CC-UGAUGCC----------------CGCUCCA-------------UACG
+CV_3771      CC-UUCAU-----------------------C--------------CGAC
+CV_1987      GC-UGAAUAGUUGA--------CCGGCUUUCG--------------GCUC
+CV_3269      UC-GUCCG---------------------GCGACGA---------CAAUG
+CV_3576      UC-CGCAAG-------------------CCCAAAG----------AAAAC
+CV_0565      CC-GGCAA---------------------GCAA-------------AACG
+CV_0973      GC--GCAG---------------------GCAAUGC---------AAAAA
+CV_3919      GC--GCC------------------------AACG----------ACGAC
+CV_2350      GC-UGAUACGUU-------------UUCCGCUUU-U---------UCCAA
+CV_0628      GC-CGAC------------------------A--------------AAAA
+CV_0779      UC-CGUC------------------------C--------------GGAA
+CV_1970      GC-CGCGG---------------------GGCAUGC--------GCCCCC
+CV_0068      GC--GCAU--------------------CCCCAUAU--------UCCGCG
+CV_4364      GC--GCUACC-----------------AAGCGAUAUC-------CGCAGC
+CV_2618      UC-CGCCU----------------------GU--------------CGCC
+CV_4353      UC-AGCCAUGU---------------AUUUAAAAAA--------CAACAG
+CV_2168      GC--GCC------------------------CU-----------------
+CV_0337      CC-CGCAAC------------------GUUCCACG----------UGAAA
+CV_0868      CC-CGUC----------------------CCCA-------------GGCC
+CV_1582      GCGUGAA----------------------UGAA-------------AAAC
+CV_3097      UC-CGCAACU-----------------CA------C--------UCAAAC
+CV_1945      GC-UGAAGCCGGC----------AGCCCUCCCAUG----------AAAAA
+CV_3530      GC-UGAU------------------------GA-------------CAAG
+CV_1604      GC--GCA------------------------GAAC-----------AAAC
+CV_0379      GC--GCAA--------------------GGGAAUA-----------ACAA
+CV_0986      UC-GGAC----------------------GACAUCGCG----AGAUUCAG
+CV_1212      CC-UGCC------------------------AAUAC---------CUAAA
+CV_3233      CC-UUUCC---------------------UCA--------------UUGG
+CV_3188      GC-GGAC----------------------GCUAUC----------CAAAA
+CV_1537      GU--GUC----------------------UGGA-------------ACAG
+CV_0289      GC-CGCCG--------------------UUCG--------------CGAU
+CV_0056      GC-UGUC------------------------G--------------CGAC
+CV_3783      GC--GAAAGA----------------UUUUGAAAC----------CAGUG
+CV_3718      GC--UAU----------------------GGAAUGA---------UGAAU
+CV_2759      GC-UGCCG--------------------AUCCAAAU---------GAAAA
+CV_0916      GC--GUCU-----------------------UAUAC--------UGAACG
+CV_2979      GC-CGAAAA-------------------CGGAAUG-----------CAGC
+CV_1498      UC-UGUUC--------------------AUCGAUGG--------CAAAUG
+CV_3524      GC-CGCCAGGC--------------GGGGCCG--------------CGUC
+CV_1416      UC-UGAC----------------------UCCA-------------GAAG
+CV_0266      CC-AGUA----------------------UUA--------------UGAA
+CV_1613      GC--GCA------------------------AA-------------AAAG
+CV_2854      GC-GGCCGGC----------------GAGGCGAAAC--------GACAAG
+CV_1821      CC-GGAAU---------------------GCAA-------------AAAG
+CV_1912      CC--GCCC-----------------------CAUC-----------GAAC
+CV_2217      GC-UUCCAU------------------CGUCCAUA-----------AGCC
+CV_3687      CCAAGCAA---------------------GCA--------------AAAA
+CV_2875      UC-AGAC----------------------GCAA-------------AAAA
+CV_2662      GC--GAAUCAC---------------GGAGAGAUAAA-------GCAAAA
+CV_1249      GC--GAUGAGA---------------CGUGGAAAGC---------AAAAA
+CV_3519      UC-UGAAGCGCG------------AACCGGCAAUG-----------AGAA
+CV_3556      GC--GACGAC----------------GCGGCGA-------------UGGA
+CV_0968      UC-UGACCAGUCC-----------CGCGCGGAAAA----------GCGAA
+CV_2377      GC-UGAUUUCCA------------GCCCCUCGA-------------AAAA
+CV_1977      UC--GAUGU------------------UCCACAUG----------ACAGG
+CV_2948      GC--GCC----------------------GGAAUCGGC----GUGUCGCG
+CV_1430      UU-UGAU------------------------CAACA--------UGUAAA
+CV_0808      UC--GCCU-----------------------AAUGC---------GAAGC
+CV_3878      GC-UGCU----------------------GCAAUA----------ACAGU
+CV_1408      GC-GGCCUGAGCCC--------GCGAGUUCCCAUC-----------GACG
+CV_3129      GC-UGCAGAAAUAAU-------GGACAUGGGAAAACG------CGUGAAA
+CV_0965      UU--GAAC-----------------------CAAGG---------UGAAA
+CV_0992      UC-UGCA------------------------U--------------CGAU
+CV_2410      UC-GGAA------------------------UAUG----------ACGAA
+CV_2196      GC-CGAGUA-------------------AGC--------------GGAAA
+CV_3057      GC--GAA------------------------AA-------------AACG
+CV_3618      GC-GGAACA------------------AGGGCAUGG---------ACGGC
+CV_0099      UC-CGCCG---------------------UCC--------------CGAA
+CV_3208      GC-CGCUAUCCGCGUU-----GAGGAGAGGCAAACG---------ACAAA
+CV_3561      GC--GCAA---------------------UCGAUC-----------GCAA
+CV_2516      CC-GGACAGUU---------------AGGUGGA-------------AGAG
+CV_1638      GC-UGAU----------------------CCAAAGA---------CAAUC
+CV_1150      GC-GGGCAGG-----------------AU----UGA---------AAAAA
+CV_3739      UC-CGUC------------------------C--------------CGCA
+CV_1074      CC-GGAA------------------------CACGC--------GC----
+CV_4361      CC-GGAA----------------------CCCUUGC--------CGAGCC
+CV_1889      CC-UGUCG--------------------CGCAUUGA---------UACAG
+CV_3662      GC-UGC-----------------------GCC--------------CGAG
+CV_2006      GC-UGAAGGAA---------------AUC------UGAU--AUCUCCGAG
+CV_3294      UC-CGAC------------------------GA-------------AAAA
+CV_4284      GC-UGCCUC------------------AGGCCACG----------CAGCG
+CV_0524      GC-GGAA----------------------UUG--------------AAAC
+CV_0081      GC-UGUAGCC-----------------GGGCAAAAG---------AAAAG
+CV_2766      UC-UUCU------------------------CUAGC--------CGACAG
+CV_2000      UU-UGCAAU-------------------UUCCAUU----------CAAAA
+CV_3881      GCUUGAC----------------------GCGAUGG--------GGCGAA
+CV_3523      GC-UUAUCUAUAU----------UAAAAG-GUAUAAA-------GCAACC
+CV_3916      GC-CGC-----------------------GCGA-------------GGCC
+CV_2738      CC-GGAAA---------------------GCGA-------------CAUU
+CV_3466      UC-UACCAAC----------------ACGGGUAAG----------CCGUC
+CV_2820      GC-AGCA------------------------C--------------AUUG
+CV_1569      UC--GCAC-----------------------AAUG----------AAGAG
+CV_4404      UC-CGAAUU------------------GCUGAU-------------GGAA
+CV_3276      UC-CGC-----------------------GCG--------------CAAG
+CV_2019      GC-UGUAAUC-----------------UCUCG--------------CGCC
+CV_1500      GC--GUUU--------------------UUCCAACG---------CACAG
+CV_0360      GC-UGACG--------------------CGCG--------------GGCG
+CV_2390      GC-CGCCAGU-----------------CGUCC--------------AACG
+CV_3754      GC-UGGA----------------------UGGAUA----------AAAAA
+CV_2936      GC-AGCA----------------------CGAAAA----------AAACC
+CV_1256      UC-UGAACAG-----------------UAGACACG----------CCGCG
+CV_3200      CC-UUCC------------------------C--------------GAUG
+CV_2970      CC-UUACCU------------------UUGCAAUU----------UCACG
+CV_0707      GC-UGAA----------------------ACG--------------AAAA
+CV_3011      GC--GCCGC-------------------GGCGAUG-----------CAAG
+CV_2859      CC-AGACAACGACA--------GGGAUCGGGGAAGA--------UCCGAC
+CV_0651      UC-CGCACC------------------CGGCCA-------------AGAG
+CV_0121      GC-UGACGGACAU-----------UCCGCGGCU-----------------
+CV_2914      UU-UUAUA---------------------CCAAUGUC------GCCGACC
+CV_0323      GC-UGAAGUAAAA----------ACGUAGGGC--------------GGAA
+CV_0743      GC-UGAAU---------------------GCGA-------------AACG
+CV_2707      CC-CGCUAAGC--------------CAUCGCCAUACC-------GGCAAG
+CV_2037      UU-UGACG-----------------------CAAGC--------CCCCGG
+CV_3751      GC-CGCA------------------------AA-------------AAAA
+CV_1955      UC--GAC------------------------C--------------GCAA
+CV_3103      GC-AGGAUA-------------------GGCCAUGA---------AAACG
+CV_3241      GC-CGCC----------------------GAGAUGC--------CG----
+CV_1944      UC-CGCCUCUU--------------GCCCGCAA-------------AAAC
+CV_1751      CC-UGCCGG------------------CU----UGGUA----GCCCGAAA
+CV_1523      UC-GGCUA-----------------------CAUCUG------AGCCGAG
+CV_2575      UC-GGUCGUCAAAAUUUA-ACUCCACUUAUGAAUCG--------UGAGCG
+CV_1916      UU-UGCC------------------------AAAG----------CAAAA
+CV_0660      GC-UGCCGA-------------------C-----GC--------CG----
+CV_3977      GC--GAU----------------------GGAAUU----------CUGAC
+CV_3415      UC-UGAC----------------------GCGAAAU--------UCCGGC
+CV_2540      GC-UGAACGG----------------CUGGGCAUGA---------AAAAC
+CV_1576      CC-UGCCGG-------------------UCGCACG-----------ACUU
+CV_3465      CC-UGACUC-------------------CGCCA-------------ACAG
+CV_4092      GC-AGAAAUAG--------------CCGCGCAAAA-----------CAAA
+CV_2043      GC--GA-----------------------GGAAUGA---------AAAAC
+CV_3817      GC-CGAACU-------------------GUCGAAGUAAG---CGGCAGCC
+CV_3013      GC-UGGC----------------------UGA--------------AAAG
+CV_3792      CC-GGCAAU-------------------GCAAAU-G---------AAAAG
+CV_0852      GC-UGU-------------------------G--------------AUGC
+CV_1207      GC--GCA------------------------C--------------GCAA
+CV_0140      UU-UGGCG-----------------------G--------------AACU
+CV_0113      GC-CGCUCA-------------------GUCC--------------GGGC
+CV_3031      UC-CGCUGC-------------------GGGAAUCU---------GCAAG
+CV_4198      GC-UGUAAGAUUU-----------CGCUUGGCAACUUU-----GUGAAAA
+CV_1585      GC-GGCAACCG---------------CCCGCCA-------------AGAU
+CV_3366      GC-UGUUGGCCGGCAUC--UGAGCCUUGUUCGAUG-----------AAAA
+CV_2194      UU-UGAC----------------------CCAAAAAAC-----AACAAAA
+CV_3657      CC-AGUAGAGC---------------GGGGCAAAAAA-------CAAAAA
+CV_0596      GC--GCCC---------------------UCGACGU--------GCCAAC
+CV_4221      GC-GGCAACCG---------------UCCCGCAUCC--------GUCUUG
+CV_1626      GC-GUACUG-------------------CGCUAUGA--------UCCGAC
+CV_2515      UC-UGAC----------------------CCCAAC----------GGGGA
+CV_3912      GC-AGGCA--------------------UGCCAAGC---------AGACA
+CV_0796      GC--GAU----------------------ACAAUG-----------AAAC
+CV_3397      GC-CGCUA--------------------AGCCAUUUCG-----UUUCGAA
+CV_2059      UC-UGAUUGGUG-------------UUUU--GAUGUU-------CG----
+CV_1716      CC-AGACU---------------------GCGA-------------UCGC
+CV_1652      GC--GCC----------------------GGCAUGA---------AAAAA
+CV_1747      UC-UGGAC--------------------CCCGA-------------AAAA
+CV_3582      CC-UGUCU-----------------------G--------------GAAA
+CV_3305      GC-UAAAGUAAG-------------CACUGCG--------------CGCG
+CV_3352      UC--GCCU-----------------------CACG----------GAGCG
+CV_3543      CC-CGAACC------------------GCGCAACGA---------GAAAG
+CV_2088      CC-GGCC------------------------GA-------------CGAG
+CV_1697      GC--GCCAUGGA------------CGGGAGAAAUGA---------AAAAC
+CV_1645      UC-GGAAC--------------------UGCG--------------AAAC
+CV_4053      GC-CGCUUUGUGA-----------UAGCAUCGACC----------GCGCG
+CV_0130      GC-CGUCCGGU---------------UCCGCAACCC---------GAAAC
+CV_0403      GC-UGAAGCAGC------------CUAUAUAAAAC----------AAAAC
+CV_0924      GC-UGUCU---------------------UCG--------------CCAG
+CV_3270      UC-GGGCA---------------------GAAA-------------AACG
+CV_2453      GC-GGCUAG------------------GAGGAA-------------GCCG
+CV_1996      GC-UGGA------------------------AAAA----------CAAAG
+CV_1375      CC-UGCC------------------------GAUG-----------AAAC
+CV_0450      GC-GGCGUG-------------------UGACAUCG---------UCGGG
+CV_3862      GC-CGCAA-----------------------AAAAC--------UGAGUC
+CV_1439      UC-GGCAGG-------------------A---UUCA--------AAAAAG
+CV_0188      UC--GAA----------------------CCG------------------
+CV_3899      GC-CGCC----------------------UGAAAC----------ACAAA
+CV_0111      GC--GCCG---------------------GCAAAG----------ACAAA
+CV_0336      GC-UGCGU---------------------UGAAUAA--------CGAAAA
+CV_3153      GC-UGAUCCCCAAC---------GCCUCUUCA--------------ACCG
+CV_2921      GC--GCCAAGUAA-----------CAGCAGGCAUG----------AAAAC
+CV_3555      GC-UGCU----------------------CAAAUGA---------AAAGA
+CV_4003      UC--GAAAGAUUGU--------UGUGUAAGGGA-------------CUUG
+CV_2527      GC-CGCCG-----------------------GUUGA---------GCGGC
+CV_4274      UC-UGAC------------------------AA-------------GCAG
+CV_0531      GC-UGCA----------------------UAAAAAA---------C----
+CV_3159      GC-CGGCG---------------------UCAA-------------AGCG
+CV_3779      GC-GUCCG-----------------------CAUGC---------GAAAA
+CV_0468      GC-GGG-----------------------GGC--------------GGAC
+CV_1372      GC-GGCAUG-------------------GGCGAUG-----------CCAG
+CV_3650      CC-UGUCUCCCA-------------AUCCGCGAUGA---------CGAAG
+CV_3760      GC-CGCGA--------------------GGGAAAG----------CGGAG
+CV_0537      UC-UUCCAC-------------------CGGCA-----------------
+CV_3085      CC-UGAACUGAU------------CCCACCCGAUAC---------GACCC
+CV_2637      GC-GGAAG-----------------------CAAA-----------AACA
+CV_0706      GC-GUCCG-----------------------CAUCG---------CCAAA
+CV_0402      UC--UAUAUA-----------------UAUGUAUGC--------GGAAAC
+CV_0349      CC-AGAU----------------------UGAAAA----------AGGAA
+CV_2968      GC-UGCC----------------------GCA------------------
+CV_0172      CC-UGACGCGG---------------GCCGGAAACG---------GCGAU
+CV_1332      UC-UUAAA--------------------CGCAA-------------UAAU
+CV_0338      CC-AGACU--------------------UGCCUUGC---------GUAAA
+CV_2676      GC-UGCU------------------------U------------------
+CV_1137      CC-UGCCG-----------------------CAUCA---------GCCAA
+CV_1327      CC-UGAAACA-----------------GAGGAACC-----------AAAG
+CV_1052      GC-GGAU----------------------UCGAAG-----------CCAG
+CV_0249      CC-GGCA----------------------UCGAUAC---------GACAA
+CV_2481      GC-CGAAUGCA---------------CCGGCGAUG-----------ACAG
+CV_1813      GC-UGGC----------------------CUGAUC----------CCAAU
+CV_4187      CC-GGACA--------------------GGAGA-------------GAGU
+CV_0929      GU-UGAAACCGUU-----------GUCCAGCA--------------AAAA
+CV_1087      UC--GCA----------------------GCA--------------AAAA
+CV_2156      GC-UGAAGAGCG-------------UGCUGCAA-------------AAGG
+CV_0530      UC-UGACGCGCUGGGU-----UGAACCCGGUGA-------------AAUC
+CV_3351      GC-UUCACGG-----------------GACCCAUAU--------GGAAAA
+CV_3454      UC--GAA------------------------AACGA---------CAAAG
+CV_0433      GC-CGCU----------------------UGAAUG----------AAAAA
+#=GC SS_cons ::.:::::.....................::::::...........:<<<
+#=GC RF      GC.uGcca.....................GcaAUG...........AAAa
+
+CV_3702      CCG--GCUGGAAUGCCCGUGGAU----------------CGGGCGUUUCA
+CV_1519      GCC--UGCG-CCAUCCG----------------------------CGGCG
+CV_0674      GCC--GCUCCUACACCUCAC---------------------CCUGUAGAA
+CV_0974      AGC--ACGC-CCAG----------------------------------GC
+CV_4014      GCC--CCGC-GGCUUAU---------------------------GCCUGC
+CV_1076      ACC--CCGCGAGCGA-------------------------------UCGC
+CV_2078      GAC--AGGCCGGCAA-------------------------------CGGC
+CV_4194      GCU--GGCGGAGAAA-------------------------------UCCG
+CV_3475      GCG--CCAC-CAAAU--------------------------------GGU
+CV_2352      GGC--GCGG-CGU-CCUGAU---------------------AUGGGCGCC
+CV_2702      GGU--CCGC-CGAG---------------------------------UGC
+CV_0713      CCG--CUCC-GAAG----------------------------------GG
+CV_1932      CGG--CCCGUUUUGGCGACUU-------------------CGCCAAAGCG
+CV_1486      GGC--GCGC-AUGGC-------------------------------UUGC
+CV_1643      CCCUCCGGGAAGC-----------------------------------CC
+CV_3667      GCC--CGCC-UCC-----------------------------------GG
+CV_3533      GCC--GCAU-CUCAG--------------------------------GAU
+CV_0714      CCG--CUCCCUUC-----------------------------------GG
+CV_3455      CCC--UUCU-CUGGUGC---------------------------ACGGAG
+CV_2112      CGG--GCGAGUGCUACGA--------------------------ACACUC
+CV_0478      GCC--CCCGAAAC-----------------------------------CG
+CV_0554      GCC--GCUCUAUC-----------------------------------GA
+CV_2347      AGC--CGCGGUGAUUCA---------------------------UCAUCG
+CV_3365      GCC--GGGG-GAAA----------------------------------CC
+CV_4304      CGG--CAGC-CUUG----------------------------------GC
+CV_3461      AGG--AUGGCUUC-CA------------------------------GGCC
+CV_2047      GGA--GACC-CAAG----------------------------------GG
+CV_2614      GCC--GCUCCCGGGGCGCGAG--------------------UCCCCGGGA
+CV_1968      GCC--CCGGGCAA-----------------------------------CC
+CV_1108      GAA--AUA--CCAG----------------------------------UU
+CV_1176      GCG--CCGGUUUAU----------------------------------CC
+CV_1060      GCC--GCUC-ACUGCAA----------------------------GGUGA
+CV_4192      GCU--GCUCCAUCAACGGUUAA------------------CGUUGCUGGG
+CV_1662      GCC--CAUCGCAAAC-------------------------------GCGA
+CV_0775      AGG--CGGA-CGAGG--------------------------------CUC
+CV_2363      GGC--CCGA-AAUA----------------------------------UC
+CV_4281      GCC--GACG-CGAAC--------------------------------GCG
+CV_3900      AGC--CGCC-CCCGGCAUC------------------------CGGGAGG
+CV_4207      GCC-G-CUC-GAUGUU------------------------------UCGA
+CV_3324      UCC--UUCUCCGC-CGCCA------------------------GGCGGAG
+CV_1791      CGG--GCGG-CGCGGAA----------------------------GCGCC
+CV_4106      GCC--CAUCCGGCAUGAU--------------------------GCCGGG
+CV_3325      GCC--CCGG-GAAA----------------------------------CC
+CV_1062      GCG--CACCAAAC-----------------------------------GG
+CV_3991      GGG--GAGC-CGCUUGC----------------------------GCAGC
+CV_2937      GCC--GCCCACUC----------------------------------CGG
+CV_3633      GGG--UUGU-CGAAGCUUAC---------------------CUCUUCGAC
+CV_3992      GGG--GAGC-UGCGCAA----------------------------GCGGC
+CV_1737      CCC--GGCA-AGCAAG------------------------------CUUG
+CV_3413      ACC--UCUG-CGUGGUGUGGCUUC--------------GGCUCGCCUGCA
+CV_4196      GGG--CGGC-GAAA----------------------------------GC
+CV_1177      GCG--CCGGAUAAA----------------------------------CC
+CV_0967      ACG--GCCCGUGA-----------------------------------GG
+CV_1349      GGC--AGGG-UGCG----------------------------------CU
+CV_3062      CCG--CCUG-CGCGCAAUAU----------------------UCGCCGCA
+CV_3580      AAC--CGGC-UUCG----------------------------------GC
+CV_4354      GCG--GCC--UGAA----------------------------------UG
+CV_3182      GGC--GCGG-CCUGG--------------------------------GCC
+CV_3476      CGC--CACC-AUUU----------------------------------GG
+CV_0085      GCC--GGGCGCAA-----------------------------------GC
+CV_2016      GCC--CGGUUCUUGG--------------------------------AAC
+CV_2116      ----------UUCA----------------------------------C-
+CV_2362      GGC--CCGA-UAUU----------------------------------UC
+CV_0644      GGC--CCGCCCUC-C--------------------------------AGC
+CV_1530      GGC--UCCCGCGA-----------------------------------GG
+CV_1364      AGC--CGGC-GAAU----------------------------------GC
+CV_0742      GGC--GGCG-GUCGGAC----------------------------GACCG
+CV_2184      GCC--CGGCCGACGCGA---------------------------AUCGGC
+CV_0645      GGC--CCGCUGGAG---------------------------------GGC
+CV_1661      GCC--CAUCGCGUUU-------------------------------GCGA
+CV_3146      UCC--CCGC-UUCG----------------------------------GC
+CV_2721      GGG--GCGGAUGCGCAG---------------------------GCGUCC
+CV_1938      GCG--GCCC-AUCA----------------------------------GG
+CV_2048      GGA--GACC-CUUG----------------------------------GG
+CV_1520      CCU--GCGC-CGCGGA------------------------------UGGC
+CV_0979      GCC--AGCGAAUCU----------------------------------CG
+CV_3016      CCC--GGCC-GCCGCUU----------------------------GGCGG
+CV_3918      GCG--CGGCCGGAGGG-----------------------------CCGGC
+CV_0673      GGC--UGCCACGCAA-------------------------------GUGG
+CV_0547      CAG--CGCC-GGAA----------------------------------GG
+CV_2237      AGC--GGACCCAGG----------------------------------GU
+CV_1989      GCC--ACGG-CAUG----------------------------------CC
+CV_1148      GCG--GGAAUUGAGCAUUC-----------------------GAGACUUU
+CV_3183      GGC--GCGGCCCAG---------------------------------GCC
+CV_1334      CCG--AGCA-UGUGAUA----------------------------GCGUG
+CV_2198      ACG--GC---AAU-----------------------------------G-
+CV_3428      CAG--GGCG-CAUG----------------------------------CG
+CV_0772      AAA--CCGGUCGU-CCUCA------------------------AACGGCC
+CV_1240      GCC--CUCAAUAAU----------------------------------UG
+CV_4125      GCC--GCGCGAUCG----------------------------------GC
+CV_2878      GGC--ACCGGCUU-CGACA-----------------------AGGAGGCG
+CV_3571      GCC--CCGCGAUC----------------------------------CGC
+CV_0564      GGG--UUGCCGGCGGAA---------------------------GCGGGC
+CV_3962      ACG--CGGC-AUCGC--------------------------------UGC
+CV_1303      GCC--CGCGUUGCGC-------------------------------AACG
+CV_1988      GCC--ACGG-CAUG----------------------------------CC
+CV_0963      ACC--GCCAGUUCGC-------------------------------GCUG
+CV_3669      CGC--CCGCGCAA-----------------------------------GC
+CV_3424      GAC--CCGC-UUCG----------------------------------GC
+CV_1474      GGC--CGCC-GGCU---------------------------------UGG
+CV_1897      CCG--GAACCCUCUGC------------------------------GGGU
+CV_1055      GCC--UGUC-CGCUUCC---------------------------CAGCGG
+CV_1892      GGG--CGGC-CAC-CCCAA------------------------GGGGUGC
+CV_0850      GGC--UGGA-UGCAU--------------------------------AUC
+CV_0590      GGC--UGUCCGGC-CUGGGGUAAGCG----------CCCCGGAGCCGCGA
+CV_3403      GCC--CCGCCGGAUC-------------------------------CGGC
+CV_0766      GGC--CCUGCUGAAC-------------------------------AGCG
+CV_2892      CGG--CGGGACUU-----------------------------------CC
+CV_3473      GCG--CCCG-CAAG----------------------------------CG
+CV_0090      CCC--CCGC-CUC-----------------------------------GC
+CV_3609      AGC--UCCCGCAA-----------------------------------GG
+CV_0526      CCC--CGGC-UCAG----------------------------------GC
+CV_0617      CGG--CGGG-CGAG---------------------------------UCC
+CV_0826      GGC--UGCC-CCAG----------------------------------GG
+CV_2934      GCC--GUCCGCGU-CG-----------------------------CGCGG
+CV_3800      GCG--GUGGCAAAG----------------------------------CC
+CV_2197      GGC--ACCC-UGCUUG------------------------------CAGG
+CV_2712      AGG--CGCCGCAAU----------------------------------GG
+CV_0978      GCC--AGCGAGAUU----------------------------------CG
+CV_3799      GCG--GUGGCUUUG----------------------------------CC
+CV_1506      CCC--CCGCCGGUUCG-----------------------------CCGGC
+CV_2795      CCU--CCUGUCGCGGA-----------------------------AGGCA
+CV_0224      ACC--GCCC-GAAA----------------------------------GG
+CV_3295      GCG--GAGCCCAUG---------------------------------GGC
+CV_4270      GCC--CUGUCGGCAACG----------------------------CCGGC
+CV_4217      GGG--GCGCAUCC-----------------------------------GC
+CV_0057      CCG--GCGC-CGCGA--------------------------------GGC
+CV_3787      GCC--CGCG-CGA------------------------------------G
+CV_2383      GCC--ACUGCUAUG----------------------------------CA
+CV_1297      GCC--UUCG-GCUGUUC---------------------------GCGCCG
+CV_4214      CGC--CGGCGGGUU----------------------------------GC
+CV_4239      GGC--GGGG-AAU-----------------------------------CC
+CV_3462      AGG--AUGG-CCUGGA------------------------------AGCC
+CV_2893      CGG--CGGGAAGU-----------------------------------CC
+CV_0827      AGC--UG---AUCU----------------------------------C-
+CV_3579      AGC--CCGC-GAAA----------------------------------GC
+CV_0821      GGC--GUCGAAUAU----------------------------------CG
+CV_1294      GCG--GCUC-AGCG---------------------------------UGA
+CV_3398      GGG--CUGU-CGUUG-------------------------------CGAC
+CV_1365      AGC--CGGCAUUC-----------------------------------GC
+CV_0807      GCC--GCGC-CGCGCUCCAAAAC---------------CGGAAGCGAGGC
+CV_1641      GCU--GGCA-GCCA----------------------------------UG
+CV_2238      GCG--GACC-CUG-----------------------------------GG
+CV_0325      CGU--CACC-CGAAA--------------------------------GGG
+CV_2040      GGC--GGGAAUCCGUUAGCA----------------------UGCGGUUC
+CV_3795      GCC--GACC-UGUAC--------------------------------GGG
+CV_3963      ACG--CGGC-AGCGA--------------------------------UGC
+CV_2179      GCC--GGC--CGC-----------------------------------UG
+CV_4109      CCG--GC---GAU-----------------------------------C-
+CV_1080      GCG--CCGG-CUGG----------------------------------CC
+CV_3393      GCC--CAGCGUCCGCGUGG------------------------CGGACGC
+CV_4051      GCC--CCGC-AUC-----------------------------------GC
+CV_1934      GGC--CGCG-AAA------------------------------------G
+CV_3296      GCG--GAGCCCAUG---------------------------------GGC
+CV_0279      CUU--UCCCGCAAU----------------------------------GG
+CV_1937      CCC--CCGC-CGC-CCUGA-----------------------UGGGCCGC
+CV_4305      CGG--CAGC-CAAG----------------------------------GC
+CV_3696      ACC--GCCU-GGCUUU-----------------------------GCCCG
+CV_3755      GGA--GACCAUGC-----------------------------------GG
+CV_1928      GGA--CACG-CGUGC--------------------------------GCG
+CV_1171      CCG--CCCGCCCCGA--------------------------------GCG
+CV_2353      CCG--GCGCCAUC-----------------------------------GC
+CV_4384      GCG--AAGGAUGCA---------------------------------UCC
+CV_0516      AGC--CCCG-UCGGCUCA-------------------------GGCCGCG
+CV_2384      GCC--ACUGCAUAG----------------------------------CA
+CV_2039      ACC--GUCC-CGGAC-------------------------------CGGG
+CV_0912      GCC--UGUUCAAAGACU----------------------------UUGAA
+CV_0175      GGC--GGC--UUU-----------------------------------UG
+CV_4013      GCC--CCGCAGGCAUAA----------------------------GCCGC
+CV_3709      CCG--CCCG-GAAA----------------------------------CG
+CV_0342      CGC--GCGC-UUC-----------------------------------CC
+CV_1468      GCC--GAGUCCCCGCUA---------------------------CGGGAC
+CV_0190      ACG--GGGCGGGCGGCGGUUUC-----------------AUGCCAUUCGC
+CV_3386      ACC--GCC--GGC-----------------------------------UG
+CV_4006      GGC--GGAA-GAAA----------------------------------UU
+CV_3758      GCC--GGG--CGCU----------------------------------GC
+CV_2077      ACA--GGCC-GUUGC--------------------------------CGG
+CV_0527      GCC--CG---CUUU----------------------------------G-
+CV_0361      GCC--GUGAUCGGA----------------------------------UC
+CV_1466      CCC--CUGC-CAUG----------------------------------GC
+CV_0739      GCC--AGGCUCGAG---------------------------------AGC
+CV_2715      CCC--GCGCGGUUGU--------------------------------CGC
+CV_2051      GGG-UCAG--AUCG----------------------------------CC
+CV_3037      ACC--GCGCCAUCUUCGA-------------------------CGAUGAC
+CV_2590      GGC--GCUC-GGAGAUC----------------------------CGACA
+CV_3104      ----------UGC-----------------------------------C-
+CV_0745      CCC--GCCG-AAAA----------------------------------CG
+CV_3117      CGG--CGCCAUUCA----------------------------------GG
+CV_2017      GCC--CGGUUCCAAG--------------------------------AAC
+CV_2284      GGC--ACACUCUUA----------------------------------GU
+CV_4213      CGC--CGGCAACC----------------------------------CGC
+CV_0405      ACC--CGCCAGGCAA-------------------------------CUGG
+CV_0115      CCC--UCC--UGC-----------------------------------GG
+CV_1781      AGC--GGAC-UUCG----------------------------------GU
+CV_1745      GCC--GCCGCGUCGAGA---------------------------GGCGCG
+CV_3762      CCC--CAAG-CGC-CUUGAA---------------------UAAAGGGCU
+CV_3666      GGC--GGGC-UUUGAAAUAUG--------------------CCUUGCAGC
+CV_2395      GCC--GCGA-AUCA----------------------------------UC
+CV_3823      CGCCAGGCC-AAAU----------------------------------GG
+CV_0626      ACC--GGCAUCUCAU-------------------------------GAUG
+CV_2804      GGC-CCGCG-CGA-----------------------------------CG
+CV_1277      GGG--AGGC-CGAG---------------------------------CGC
+CV_0252      GCC--GCCGUGUC-CG------------------------------CACG
+CV_1748      GCC--GUUC-CGGGUCAA-------------------------UGCCGGG
+CV_3628      CGC--GCCG-CGGACCAUCC----------------------GGUCCGCG
+CV_0174      GCG--CCACCGCCGCCA---------------------------GGCCGU
+CV_3151      CCC--GCGCGGGU-CG------------------------------ACGC
+CV_0551      GGC--AUGGUUUCGGUUCGGAAUU-------------UACGGACUGCACC
+CV_2765      GGC--ACCGGUUUUCA------------------------------ACCG
+CV_0010      CCC--ACCCGGCCGGAU---------------------------GGCGGG
+CV_1231      CGC--CC---AACG----------------------------------C-
+CV_1363      AGC--GCCG-ACU-----------------------------------CG
+CV_2713      GGC--GCC--AUUG----------------------------------CG
+CV_0225      ACC--GCCCUUUC-----------------------------------GG
+CV_3627      GCG--CCGCGGAC-CGGAU------------------------GGUCCGC
+CV_4159      GCC--AGCU-CUCAG--------------------------------GAG
+CV_0528      GGC--AAGCCUGGG---------------------------------UGC
+CV_3644      GGC--AGGCCAUCA---------------------------------GGC
+CV_3092      GGC--CGGC-GGCAA--------------------------------CGC
+CV_4154      GGC--CCGG-CGAUGCGC--------------------------ACCGCC
+CV_4057      GCC--CGUUGUGCGCCCAGGU--------------------GGCGGGCAG
+CV_3213      CGA--AUGGCCUAG----------------------------------CC
+CV_4052      GCC--CCGC-GAU-----------------------------------GC
+CV_2563      GCG--CUUC-AACGCGGCCUGCC---------------GGGCCGCAGCGA
+CV_0389      ACG--GCGA-AGAGCAUG-------------------------UCUCCUC
+CV_3304      GGC--CCC--UUC-----------------------------------CG
+CV_2233      UGG--CCCCGCGA-----------------------------------GG
+CV_3829      GGG--CUGC-CUCG----------------------------------GC
+CV_1237      ACA--AUAAUUUCACUCGA-----------------------AUGGGAUU
+CV_3708      CCG--CCCGUUUC-----------------------------------CG
+CV_3784      GCC--CCCGGCAAUC-------------------------------GCCG
+CV_4040      GGC--GGGAGCGA-----------------------------------UC
+CV_0208      CGC--GCCGCCGGACCCAG-----------------------CUCCGGCG
+CV_0995      CGG--CGGGGCGCGU--------------------------------UCC
+CV_3747      GCU--CCGC-AUC-----------------------------------GC
+CV_4093      AGG--GGCC-AUA-----------------------------------GG
+CV_0901      GCC--CGGC-CGC-----------------------------------GC
+CV_0561      GGG--GCCC-AGA-----------------------------------GG
+CV_3597      GGG--GGC--GUC-----------------------------------CG
+CV_4158      AGC--CAGCUCCUGA-------------------------------GAGC
+CV_2171      CGC--CAAC-AAC-----------------------------------GU
+CV_2300      ACC--GGCGCAUC-CCUGGC----------------------GGGAGACG
+CV_3402      GCC--CCGCCGGAUC-------------------------------CGGC
+CV_4329      CCG--GAUG-UCCGCGCGA------------------------GCGGCCA
+CV_3474      GCG--CCCG-CUUG----------------------------------CG
+CV_2001      GGG--AAGCGUAAA----------------------------------GC
+CV_2012      ACC--CCGC-UGCG----------------------------------GC
+CV_4177      UCC--UACG-CGCUAA-----------------------------CUGCG
+CV_2751      CGG--AAGC-CUGG----------------------------------GC
+CV_3425      CCC--CGUCGCUUG---------------------------------CGG
+CV_0885      GGG--AGGC-UUCG----------------------------------GC
+CV_1418      AGG--GGAU-GACGGCCAU-----------------------GCCGGCAU
+CV_1789      GGC-U-UGG-CUC-CCC----------------------------GAGCC
+CV_0320      GGC--CGCCGGAUA----------------------------------GG
+CV_4069      AGC--ACCCAAUCGGC-----------------------------AUUGG
+CV_2988      GCC--UUGC-CUUU----------------------------------GC
+CV_0588      GCC--GGGCGCAA-----------------------------------GC
+CV_3116      ACG--GCGCCUGAAU--------------------------------GGC
+CV_0871      GCC--GACCUCGC-----------------------------------GG
+CV_3038      CCG--CGUC-AUCGUCGA--------------------------AGAUGG
+CV_3307      GCC--ACCG-CGUG----------------------------------CG
+CV_0299      GGC--GC---UGAG----------------------------------G-
+CV_4258      UCC--CGGCUUUUA----------------------------------GC
+CV_4100      GGG--CGGCGCGA-----------------------------------GC
+CV_0913      GGCUGCGGU-UCAG----------------------------------GC
+CV_3549      CCG--GCGCGCCCGG--------------------------------GCC
+CV_3364      GCC--GGGGUUUC-----------------------------------CC
+CV_3249      GCC--GCC----------------------------------------CG
+CV_0066      CGG--CGGC-UUGG----------------------------------GC
+CV_2791      CCC--GCCG-GAUU----------------------------------CG
+CV_0900      CCC--GG---CGCG----------------------------------G-
+CV_2380      GGC--CGGA-CGCGC-------------------------------AGUC
+CV_1480      AGG--CCGC-AAU-----------------------------------GC
+CV_1129      GCC--GCUGCCUUUUAC----------------------------GGGCA
+CV_4206      AGC--CACU-CGAAACA----------------------------UCGAG
+CV_1121      ACG--GUCGGCUUUU--------------------------------GCG
+CV_1329      GCC--GGCG-GCCU----------------------------------CG
+CV_4155      GGC--CCGGCGGUGCGC---------------------------AUCGCC
+CV_4004      CCG--GC---CGCU----------------------------------G-
+CV_2719      GCC--ACGGCUUCGC--------------------------------GCC
+CV_3354      GCC--GCCC-GGC-CCC----------------------------GCCGG
+CV_4224      AGC--GGCC-CGCG----------------------------------GG
+CV_2861      GGC--CAGC-UCCGAAG---------------------------GGAGGC
+CV_1529      ACG--GCUCCCUCGC-------------------------------GGGA
+CV_3056      GCC--GCCGCAUC-CUCAG------------------------GGAUGCG
+CV_1997      GCC--CCGCAUGA----------------------------------CGC
+CV_3084      GCC--GCGAGGUUUC--------------------------------CUC
+CV_1539      GGC--GCGG-AUCU----------------------------------CC
+CV_1353      GGG--CGGA-UUCGAAC----------------------------GGGUC
+CV_3384      GGC--CCGG-AAUGC--------------------------------UCC
+CV_1302      GCC--CGCGUUGCGC-------------------------------AACG
+CV_4088      CCG--GCGC-CUUG----------------------------------GC
+CV_2832      GCC--ACGCGUUC-CGGCAAGCU----------------UGCCGAAGCGC
+CV_3009      AGG--CUCCGUGC-----------------------------------GG
+CV_1477      UCC--CCCGUUUAU----------------------------------CG
+CV_2193      GCC--CGUCGAGU-CA------------------------------UCGG
+CV_2530      GCG--GCGCUUUC----------------------------------CGC
+CV_3072      AGC--CCGC-GAAA----------------------------------GC
+CV_1096      GGC--GCUUGUCAA----------------------------------AA
+CV_3850      GCC--CCG--UCAA----------------------------------CC
+CV_0759      AGC--CCGC-AACG----------------------------------AC
+CV_3429      CCC--GCCCGGGCGAAA----------------------------GCCGG
+CV_1138      CCC--GCC--UCC-----------------------------------CG
+CV_3831      CCG--CCAU-GCCGCCA----------------------------CGGAU
+CV_0038      AGC--GGUGGGGUGAUAAA------------------------AACCUCA
+CV_0917      GCG--AUGGGCUUUG--------------------------------CCC
+CV_4407      CGG--AUGAGUUC-----------------------------------UC
+CV_2038      ACC--GUCC-CGGUC-------------------------------CGGG
+CV_3791      GCC--AUCCGCAA-----------------------------------GG
+CV_0548      AGC--GCC--UUC-----------------------------------CG
+CV_0932      CGG--AAGCCGGCGCGA----------------------------GCCGC
+CV_3399      GGG--CUGU-CGCAA-------------------------------CGAC
+CV_2850      UGG--CCGC-CGCG----------------------------------GC
+CV_4240      GGC--GGGG-AUU-----------------------------------CC
+CV_2466      UGC--GGCG-CGCAUUU---------------------------CCGCCG
+CV_1462      GGC--GGGU-GUCGCGUCGGCCGGA-----------AGGCCGGCGGGCGC
+CV_1865      ----------AUC-----------------------------------U-
+CV_4098      GGC--CGGGAAACU---------------------------------UCC
+CV_1712      GCU--CGGC-GGGG----------------------------------GC
+CV_2554      GGC--CUGA-UUCG----------------------------------UC
+CV_3078      GCC--CGGCCCUC-----------------------------------GC
+CV_2544      GCC--CGGC-AGAGCGU---------------------------GCUAGC
+CV_1003      ACC--CCGC-AGAA----------------------------------GC
+CV_0059      GGG--CCGCGACC-----------------------------------GC
+CV_3610      AGC--UCCCUUGC-----------------------------------GG
+CV_0933      GCC--GCGAUUGGGGG-----------------------------AAAUC
+CV_3528      CCC--ACCG-CUUG----------------------------------CG
+CV_4373      GCC-------UGG-----------------------------------C-
+CV_2551      GCC--GCUU-UGAAC-------------------------------UGAG
+CV_2874      AGC--CGCGGCGAAA-------------------------------ACCG
+CV_3788      ACC--GUGG-CAGGAGGA--------------------------CUGUCC
+CV_0972      GGC--CGGC-UGCGUCU---------------------------GGCGGC
+CV_0305      GCC--AUCC-CUCG----------------------------------GG
+CV_0149      UCC--CCUGUCAUGC-------------------------------GGCA
+CV_3378      ACC--CGCCCGGCGUAG---------------------------CCGAGG
+CV_3765      CCG--CAGGCCAUG----------------------------------CC
+CV_3457      ACG--CUCAAUGCGCC-----------------------------CCAUG
+CV_1367      GCC--GGGGAUGC-CA------------------------------UUCC
+CV_1197      GGC--GCGA-UAU-----------------------------------UU
+CV_1532      GGC--GCGGGCAUU----------------------------------CC
+CV_3064      GCC--CAGU-CCGGCCGCC-----------------------AGCCGCAC
+CV_1974      GGC--GGCCAAAC-----------------------------------GG
+CV_1298      GCC--UUCGGCGCGAAC----------------------------AGCCG
+CV_3740      CGG--ACAG-CUUG----------------------------------CU
+CV_3670      CGC--CCGCUUGC-----------------------------------GC
+CV_3481      GCC--GCUUUCCAGCA------------------------------GUUG
+CV_0744      CCC--GCCG-UUUU----------------------------------CG
+CV_1767      GCU--UACG-UAAA----------------------------------CG
+CV_0865      GCCCCGCCGGCGC-----------------------------------CG
+CV_1261      GGC--GGUAACAU-CUCG--------------------------CGGUUA
+CV_2044      GGA--AGCC-UACG----------------------------------GG
+CV_1175      GCG--CCG---AC-----------------------------------CC
+CV_0410      CGC--GGAC-CAG-----------------------------------GU
+CV_3656      ACG--GGCGCGCCGCGA----------------------------GGCCG
+CV_4048      GGU--GCGUAAGC-----------------------------------CC
+CV_0331      GCC--CGC--AUGG----------------------------------CG
+CV_0086      GCC--CGGC-CAAG----------------------------------GC
+CV_4099      GCC--GGGA-AGUU----------------------------------UC
+CV_1149      GGC--CGCG-UCA------------------------------------G
+CV_1891      GGC--GGCACCCCUUGG----------------------------GGUGG
+CV_4070      CCU--CCGG-CAUG----------------------------------CC
+CV_1465      GUC--GCAG-CUUG----------------------------------CU
+CV_1670      GGG--GAGC-GGCG----------------------------------GC
+CV_0997      CAG--GCUCACUCG---------------------------------GGA
+CV_2853      GCC--AUCC-CGCG----------------------------------GG
+CV_1817      CGG--CGGC-CUCG----------------------------------GC
+CV_2531      GCG--GCGCGGAAA----------------------------------GC
+CV_2093      GGU--GUGG-CGCGG--------------------------------GCC
+CV_1019      GGG--AUGC-CAAG----------------------------------GC
+CV_2790      CCC--GCCGAAUC-----------------------------------CG
+CV_3816      GCC--GCGGUCUUG----------------------------------CC
+CV_1130      GCC--GCUG-CCCGUAA---------------------------AAGGCA
+CV_2761      GGG--GGCG-CAG-----------------------------------CG
+CV_3326      GCC--CCGGUUUC-----------------------------------CC
+CV_1086      CGC--GCCA-UAAGUCAU-------------------------UAGAAUG
+CV_3797      GGC--AAGCCUUUGC-------------------------------GGGC
+CV_1785      GCC--GCGC-CCAG----------------------------------GC
+CV_3589      CGG--CAGC-CCAG----------------------------------GC
+CV_4193      GCG--GCGG-AAUG----------------------------------CC
+CV_2750      CGG--AAGC-CCAG----------------------------------GC
+CV_0263      UGG--CCGG-UAUGCCA----------------------------GUACC
+CV_0432      ACC--UGCC-UGUUUC------------------------------CAGG
+CV_3207      GCG--CAGCUCCAU---------------------------------GGC
+CV_0173      GCC--CCGC-CCCG----------------------------------GC
+CV_1358      GGG--AGGC-CGCG----------------------------------GC
+CV_2723      GCC--GCG--UCCA----------------------------------GC
+CV_4108      AGC--CGGCGAUC-----------------------------------GC
+CV_3298      GCC--GCGACCGC-C--------------------------------AUC
+CV_2329      GCGUGCUGC-UUUGGU-----------------------------AAAGC
+CV_1927      GAC--ACGCGCAC-----------------------------------GC
+CV_1896      GCC--GGAA-CCCGCAG---------------------------AGGGUU
+CV_2876      ACC--GGGC-CUUG----------------------------------GC
+CV_0440      GCC--GCGUGCCUUCG------------------------------GGAC
+CV_0117      GGC--CCGG-CAUG----------------------------------CC
+CV_1092      GCG--GAGC-GUUGACGCGCAA------------------GCGCUGAUGC
+CV_0209      GCG--CCGCCGGAGCUGG-------------------------GUCCGGC
+CV_3501      GCC--CCGCCCACGGCCCCG----------------------CACCGCGC
+CV_0870      GCC--GACCGCGA-----------------------------------GG
+CV_3865      AGC--CGCCUCGUGAU-----------------------------CAAGG
+CV_3552      GCC--CGGC-UUCG----------------------------------GC
+CV_3520      CGG--CCCC-UUU-----------------------------------GG
+CV_3206      ACC--CGGA-CCUG----------------------------------UC
+CV_2778      GGC--GCGA-UCCGCUGA--------------------------AGGAUC
+CV_2829      GCC--CUCC-CCAUC-------------------------------CGGG
+CV_3083      GGC--GGCGCCUC-CA-----------------------------GCUCG
+CV_1755      GCC--AAGCAGGAA---------------------------------UGC
+CV_1646      GCC--GCCC-CACA----------------------------------GG
+CV_1584      GGG--UGGCAUAUAGC------------------------------AAGC
+CV_2823      GCG--GGCCGGGU-----------------------------------GG
+CV_1654      GCG--GCGGUUUAG----------------------------------CC
+CV_0300      CCG--GCGCCCUCA----------------------------------GC
+CV_3637      AGC--CCGC-UUCG----------------------------------GC
+CV_1687      GGC--UGCC-UAAAAA-----------------------------AUGGG
+CV_0165      GCC--GGC--CCCU----------------------------------CG
+CV_1421      GCC--CCGGAAGC-CGCGCGGCG---------------ACGCUGGCUUCC
+CV_1699      GCG--GCGC-CCAAC--------------------------------GGC
+CV_0981      CCC--CGC--GUC-----------------------------------CG
+CV_3408      GCC--GGGCGCAAA----------------------------------GC
+CV_1850      AGG--GCGGCAAC-CAUCA------------------------GCUUACC
+CV_2670      GCC--UGUCCUGCAA-------------------------------UGGG
+CV_2500      GCA--GAC--UCC-----------------------------------GG
+CV_3036      ----------UAUU----------------------------------U-
+CV_0747      GCC--CGGC-UCU-----------------------------------GC
+CV_3554      GGG--AUGGCCGAG---------------------------------GCC
+CV_3625      GCC--GCC--CCGG----------------------------------UG
+CV_3108      GGC--GCCA-GAAG---------------------------------AUG
+CV_3705      GCC--GCCC-CGC-CUCC--------------------------GGCCGG
+CV_2768      GGC--AC---UUC-----------------------------------G-
+CV_0193      GGG--CAGGCGCCGUCA----------------------------GGCCC
+CV_2728      CGG--CGGAUGUCACC------------------------------CAUC
+CV_0098      GGG--GAUA-UUUGCGUGG------------------------CCAAAUA
+CV_3757      GCC--GGGC-AGC-----------------------------------GC
+CV_0964      CCG--CCAG-CGCGA--------------------------------ACU
+CV_2435      GGG--UAAU-ACCA----------------------------------GU
+CV_2753      ACC--CGCC-CGC-CCGCCAG-------------------CCCGGCGCGG
+CV_2178      GCC--GGC--AGC-----------------------------------GG
+CV_2760      CGC--CGCC-UUCG----------------------------------GG
+CV_3214      GGC--AUGGCCGA-CU-----------------------------ACGCC
+CV_3008      AGG--CUCCGCAC-----------------------------------GG
+CV_1533      GCC--GGC--UCGG----------------------------------CG
+CV_1317      GCC--CUGU-CGC-C-------------------------------UGAC
+CV_0272      GGG--ACGC-CGA-----------------------------------GC
+CV_4401      GCC--GC-------------------------------------------
+CV_1102      ----------AUC-----------------------------------C-
+CV_4365      CGG--AUAGUCCCG----------------------------------CU
+CV_1651      GCG--GCCC-CGUAA--------------------------------CGG
+CV_1263      GGG--GAGAGCGAU----------------------------------UC
+CV_0296      GCC--GGCCCAGC-CGGUA------------------------AGUCUGG
+CV_1476      GCC--CCCGAAUAU----------------------------------CG
+CV_0311      CCC--CCCG-CCCGC--------------------------------GCG
+CV_0639      ----------AUU-----------------------------------G-
+CV_3615      GCC--GCUGGCUC-C-------------------------------GCCG
+CV_2408      GCC--GUGGCCGA-CAUCCC---------------------CCUGUCGCC
+CV_3077      GGG--AGGCUUGC-----------------------------------GC
+CV_2860      GGC--CAGC-CUC-CCUU--------------------------CGGAGC
+CV_3869      GGC--CGCGAUUC-----------------------------------CG
+CV_3426      ACC--ACUC-CGUUUUAU-------------------------AAACAGA
+CV_0030      GCC--AGGCAGGC-CAUG-------------------------AGGCCGC
+CV_3870      GGG--CCGC-GGAAU--------------------------------CGC
+CV_2163      GCG--CACAUUGAAA-------------------------------UAUG
+CV_0834      CCG--GCGG-GCUGA--------------------------------CCC
+CV_0961      ------------------------------------------------G-
+CV_2394      GCC--GCGA-UGAU----------------------------------UC
+CV_2694      GGU--CUGGCUUUG----------------------------------CC
+CV_3372      ACC--GGCC-ACCU----------------------------------GG
+CV_2248      GCC--GGCG-AAA------------------------------------G
+CV_2251      GGC--CCGG-CGAAA--------------------------------ACC
+CV_3190      GCC--GGACGAGUU----------------------------------GU
+CV_2411      GCC--CCGCUUGC-----------------------------------GC
+CV_3478      CCG--GUGC-CGCGCAAG-------------------------GCGUGGC
+CV_4390      AGG--CGUA-UUUACAUAUA----------------------UGUACAUA
+CV_3143      CCC--GGACGCGC-CGAUAG----------------------GGCGACGU
+CV_1437      GGG--CCGCUCGCAA-------------------------------GGGC
+CV_3664      CCC--CCGG-UUUU----------------------------------CC
+CV_4269      ACA--GCCCUGCCGGCGUUG----------------------CCGACAGG
+CV_2935      GAU--CGUCGCUCAG-------------------------------GCGG
+CV_0928      GCC--CCGG-CUUG----------------------------------CC
+CV_2966      GCC--CGC--UUUU----------------------------------CG
+CV_0254      GCC--CGGC-CAC-----------------------------------GC
+CV_0825      GGC--UGCC-CUGG----------------------------------GG
+CV_3567      GCC--GCUCCAUCU---------------------------------GGA
+CV_0657      GCG--GCCC-GAAA----------------------------------GG
+CV_2085      GCC--CCG--UUAA----------------------------------GC
+CV_3306      GCC--ACCG-CACG----------------------------------CG
+CV_0397      GGA--CGGC-CCCG----------------------------------GC
+CV_3152      CCC--GCGC-GUCGAC------------------------------CCGC
+CV_3728      GGC--AUGGCAUCG----------------------------------CC
+CV_0168      GGC--CGUCGGGCU----------------------------------GA
+CV_0955      GCA--CUGC-CCAG----------------------------------GC
+CV_1345      GGG-------ACA-----------------------------------U-
+CV_1028      AGG--CUGC-CUCG----------------------------------GC
+CV_0071      GGG--CGGC-CGCUGCGGAGCAUGUGGAAACCGCCCGCGCUUCCGGACGC
+CV_0444      GCC--GUCC-CGAG----------------------------------GG
+CV_2796      GCC--AUGC-CGCUG-------------------------------CGGC
+CV_2230      GGC--UGCCCUCC-----------------------------------GG
+CV_3649      CCC--GCCG-GAAA----------------------------------CG
+CV_4246      GCC--CGGC-CAG-----------------------------------GC
+CV_4119      GCC--CCCGUUUUU----------------------------------UG
+CV_1637      CGC--CGCG-CGUGGCCCGGAU------------------GGGCAACCCG
+CV_0578      GCG--GGCG-CGUU----------------------------------CG
+CV_0308      GAC--CCGC-CUG-----------------------------------GC
+CV_3343      AGC--GGGC-UUCG----------------------------------GC
+CV_0517      GCC--CCGCGGCCUGAG----------------------------CCGAC
+CV_0351      GCG--CC---AAC-----------------------------------C-
+CV_0443      GGC--GGCC-CUCG----------------------------------GG
+CV_4041      GGC--GGGAUCGC-----------------------------------UC
+CV_2642      CCU--CCGC-CCCG----------------------------------GC
+CV_1242      CGU-CCUCA-GUCA----------------------------------AG
+CV_4388      GCC--CGGC-UGC-----------------------------------GC
+CV_0326      GGC--AAGCCAUC-C--------------------------------GGC
+CV_1106      GGC--AAUG-CAUGGG------------------------------CGCA
+CV_2011      ACC--CCGC-CGCA----------------------------------GC
+CV_2130      UGC--CGGC-CAUA----------------------------------GC
+CV_0549      GCC--GGAG-CGCGCCGCG-----------------------CCGCCGCU
+CV_0076      CGG--ACAACCGCAG--------------------------------GUU
+CV_0170      CCC--CCGC-GAU-----------------------------------GC
+CV_1275      CCG--CCGG-CUC-C--------------------------------CCC
+CV_2556      CCG--CCC--UGA-----------------------------------CG
+CV_1378      AGC--GCCC-CACG----------------------------------GG
+CV_1668      ACG--CGCC-UGCG----------------------------------GG
+CV_1146      GCC-G-GCU-CGAUU--------------------------------GAG
+CV_0886      GCC--CCGCAGGCUUUG---------------------------GCCCGC
+CV_3026      GCC--CGCGGCGGGCGGUC------------------------GCCGCCG
+CV_2225      CGC--CCGCUCAC-----------------------------------GC
+CV_2816      ACG--GCGCCAGC-CUCAG------------------------GCUUGGC
+CV_4104      GCC--GGGCGCGC-----------------------------------GC
+CV_3822      CCG--CCGGCCAUUUG------------------------------GCCU
+CV_2159      CGC--UGCC-ACCA----------------------------------AG
+CV_0045      GCC--GAAGCCUC-C-------------------------------CGCU
+CV_3771      GGC--CUGCCCGCUAC------------------------------GCGC
+CV_1987      GGG--CAGGCGACAUCUCU------------------------UGUCUCC
+CV_3269      GGG--CUGCCCGAA---------------------------------AGC
+CV_3576      GCC--CCGGCAGGU----------------------------------CC
+CV_0565      GGU--UGCC-CGCUUCC----------------------------GCCGG
+CV_0973      GCC--GAAU-CCUGAG------------------------------GGAU
+CV_3919      GGC--CCGCGCAAG----------------------------------GC
+CV_2350      GCC--CGCC-CGCUCAA---------------------------CGCCGG
+CV_0628      GCC--CCGGACCAG----------------------------------CC
+CV_0779      CGG--CGCCAUUC-----------------------------------GG
+CV_1970      GGA--CGCC-GGCU----------------------------------GG
+CV_0068      GCG--CGG----------------------------------------UC
+CV_4364      AGC--UUGCCGCCGUUGU--------------------------CGGCGC
+CV_2618      CCG--GCU--UUCG----------------------------------CG
+CV_4353      GGC--GGCCAUUCA----------------------------------GG
+CV_2168      GCC--GGGCCACCA----------------------------------GC
+CV_0337      CCG--CGCCUCAC-----------------------------------GG
+CV_0868      GCC--GCCGCCUCAC--------------------------------GCG
+CV_1582      GGC--GCGGGAAAA----------------------------------CC
+CV_3097      GGC--AUCC-AGGGCGCC-------------------------AAUCCGG
+CV_1945      CGG--CCGCUUGCAU-------------------------------CAGC
+CV_3530      GCG--GG---UCCU---------------------------------UC-
+CV_1604      GGC--CGCAUGGAUUC------------------------------CAUG
+CV_0379      AAC--AAU--UCCU----------------------------------UA
+CV_0986      GGC--ACGGCCAAGG--------------------------------UCU
+CV_1212      ----------CCC-----------------------------------U-
+CV_3233      CCC--GCGC-UCAG----------------------------------GC
+CV_3188      GCC--GGGC-GAAA----------------------------------GC
+CV_1537      GCC--GGCGGCGA-----------------------------------CG
+CV_0289      GCC--CGGC-CCAU----------------------------------GC
+CV_0056      GCG--GAGCCGGCUUUG----------------------------CCGGC
+CV_3783      GGG--GCGGAUGC-----------------------------------CC
+CV_3718      AUC--AUGUAAAAA---------------------------------AAC
+CV_2759      CGC--CGCC-CGAA----------------------------------GG
+CV_0916      GGC--AAGC-GUC-----------------------------------GC
+CV_2979      CGG--UCCGGAGA-----------------------------------CG
+CV_1498      GCU-GGCCGGAGA-----------------------------------CG
+CV_3524      CCC--UGGCGCGCA----------------------------------GC
+CV_1416      CCG-GGCGC-UUCG----------------------------------GC
+CV_0266      GGC--AAGCUUGUAU--------------------------------AGC
+CV_1613      CCC--GCCG-UUUG----------------------------------CG
+CV_2854      GCC--AUCC-CGCG----------------------------------GG
+CV_1821      CCC--AUGCGCGAA---------------------------------CGC
+CV_1912      GCC--CCGGCAGCGGACGAC---------------------GCUGCGA-C
+CV_2217      GCC--GCGG-ACCACG------------------------------AGCC
+CV_3687      GCC--GCCC-CACG----------------------------------GG
+CV_2875      ACC--GGGC-CAAG----------------------------------GC
+CV_2662      GCC--GCCAGCAUUGC-----------------------------GCUUG
+CV_1249      ACC--GAGG-CUAG---------------------------------GCC
+CV_3519      ACG--GCCCCAAAG----------------------------------GG
+CV_3556      GCC--GGGC-GAU-----------------------------------GC
+CV_0968      ACG--GCCCUCAC-----------------------------------GG
+CV_2377      GCC--AGCCGCGG-CAC---------------------------GCCGGG
+CV_1977      AGC--CGGC-GAUU----------------------------------GC
+CV_2948      GCG--GGCGGGGA-CG-----------------------------UGCCG
+CV_1430      GCC--UACCAAGU-CAGUA-----------------------UGGAUUGG
+CV_0808      GCC--GCGC-CUCGCUUCCGGUU---------------UUGGAGCGCGGC
+CV_3878      ----------AGUA----------------------------------C-
+CV_1408      CCG--CCGG-AUUU----------------------------------CC
+CV_3129      GUG--CGCCUGGCGCUG----------------------------CGGGG
+CV_0965      CGG--ACAGUCCC-CAUAGA----------------------AUGGAGCU
+CV_0992      GCC--GUUCGCCUGUUU----------------------------GGCGA
+CV_2410      GCC--CCGCGCAA-----------------------------------GC
+CV_2196      AGG--GGCG-AAA------------------------------------G
+CV_3057      CCG--CCGCAUCC-CUGA--------------------------GGAUGC
+CV_3618      GGC--CCGCUUGC-CACG-------------------------CGCAGGC
+CV_0099      CGC--CCGCCUCCG----------------------------------GC
+CV_3208      GCG--CAGC-CAUGG--------------------------------AGC
+CV_3561      ----------UAC-----------------------------------C-
+CV_2516      GCG--GAAU-AUCUUGAUAUCUU----------------UACUUCAAGAU
+CV_1638      GCC--GCGG-GUUGCCCAUCC-------------------GGGCCACG-C
+CV_1150      GCC--GC---UGA-----------------------------------C-
+CV_3739      CCC--CGCC-CGCGCAA----------------------------GCCGG
+CV_1074      GCC--GGGG-GGCGC--------------------------------GCC
+CV_4361      GGC--CUGC-CCAA----------------------------------GC
+CV_1889      GGG--AGCCUCAC-----------------------------------GG
+CV_3662      CGG--GGAAGCCAGG--------------------------------CUU
+CV_2006      CGG--CUUGGCGA-----------------------------------CA
+CV_3294      CGC--CGCCUUCCG----------------------------------GG
+CV_4284      GGC--GCCG-GAA-----------------------------------CG
+CV_0524      ----------AAU-----------------------------------U-
+CV_0081      GCC--AC---GCAA----------------------------------G-
+CV_2766      GCC--GCCC-GCAGCUAUU-----------------------UGUCUCGG
+CV_2000      AAG--CCGC-UUAU----------------------------------GC
+CV_3881      CCG--GCGGGCAAU----------------------------------CC
+CV_3523      GGC--UCGA-AGCGCA-----------------------------GAUUC
+CV_3916      GGG--UUUCCUGU-C--------------------------------GGA
+CV_2738      GCC--GCCC-CGC-----------------------------------AG
+CV_3466      GGC--GCGGCGGUUUGAC--------------------------UCGGCC
+CV_2820      GCC--CGGAGCGUUUU-----------------------------UCCUC
+CV_1569      GCC--CGGC-UUU-----------------------------------GC
+CV_4404      CCC--GGCC-ACU-----------------------------------GG
+CV_3276      CCG--CCGUCCGCUG-------------------------------GGAC
+CV_2019      GGC--CGGG-CUUGG--------------------------------UCC
+CV_1500      CCC--GUCC-CGCGAAA----------------------------CCGGG
+CV_0360      GGC--GGCG-UUUGG-------------------------------CGCG
+CV_2390      GGA--AGCGGGGCGGUC---------------------------GCGCCG
+CV_3754      AAC--GGAG-GCCGCAU----------------------------GGUCU
+CV_2936      GCC--GCCC-GGAG---------------------------------UGG
+CV_1256      GCG--CCGU-CGAU----------------------------------AC
+CV_3200      GCA--AGUU-UGAG----------------------------------AA
+CV_2970      AGC--CGGCUCCC-----------------------------------GC
+CV_0707      GAG--GCC--CGCA----------------------------------GG
+CV_3011      CCA--GUGG-UCCG----------------------------------CC
+CV_2859      AGG--GCCG-CGA------------------------------------G
+CV_0651      ----------CAGA----------------------------------C-
+CV_0121      GGC--CGGG-UUU------------------------------------C
+CV_2914      CGC--AGGC-UUUU----------------------------------GC
+CV_0323      GCC--CCG--CCA-----------------------------------GC
+CV_0743      GCG--GCGGUCGU-CC------------------------------GACC
+CV_2707      GCC--GCC--CACA----------------------------------CG
+CV_2037      CCC--GCGAUGGUUUUU---------------------------GCCAUC
+CV_3751      GGG--AUGC-CGAGA--------------------------------AGC
+CV_1955      GGC--UGCC-UCU-----------------------------------GG
+CV_3103      GAC--CGCCGCGG-CCUA--------------------------GCCGGG
+CV_3241      GCC--GCGCGAAUUUGCGAUUUCG--------------CUUGCAUCCGGC
+CV_1944      GGC--CGCU-GAUGC--------------------------------AAG
+CV_1751      GGG--UCGCGGCCAGG-----------------------------CCCGC
+CV_1523      CCC--GCCUCAGCGC--------------------------------CAG
+CV_2575      GAU--AUGGGUUUU---------------------------------CCC
+CV_1916      GCC--CGGCUCAUG----------------------------------GC
+CV_0660      GCC--GGGA-UGCUAC------------------------------AAUC
+CV_3977      CCG--CCCGGCCC-----------------------------------CG
+CV_3415      GCG--UCGGCUUUG---------------------------------UCC
+CV_2540      GCC--GCGCAUCCUGUGA--------------------------GGGGGC
+CV_1576      GCG--CCGCCUGCGCCGGCGCGUC-------------GUGGACCGGGCGC
+CV_3465      GCC--GAC--CCCG----------------------------------CG
+CV_4092      AGG--GGCC-UAU-----------------------------------GG
+CV_2043      GGA--AGCC-CGUA----------------------------------GG
+CV_3817      GGG--GGCGCGGC-CGC----------------------------AAGCG
+CV_3013      ----------ACAG----------------------------------G-
+CV_3792      GCC--AUCCUUGC-----------------------------------GG
+CV_0852      GCC--CCGC-UUU-----------------------------------GC
+CV_1207      GCC--CCGC-CUUG---------------------------------AGC
+CV_0140      CCC--GG---CUUG----------------------------------G-
+CV_0113      GGC--GGG--ACUG----------------------------------GC
+CV_3031      GCU-------UGC-----------------------------------G-
+CV_4198      GCG-------UGUAACA---------------------------UUCUG-
+CV_1585      GCC--AGAC-CAUGC-------------------------------CGGU
+CV_3366      GCC--GACCGUGU-CUGGCCCUUG--------------GGGGCGGGGCGG
+CV_2194      CAG--CCCGCCGAUGAC---------------------------UCGACG
+CV_3657      AGC--GCGCCGGCAU--------------------------------GGC
+CV_0596      GCC--GACCUUGUG----------------------------------GG
+CV_4221      CCC--GCUG-CCA-----------------------------------CA
+CV_1626      AGG--CGGC-CCCG----------------------------------GC
+CV_2515      CGC--UCCUGCGC-----------------------------------CG
+CV_3912      GGC--CCGG-AUUU----------------------------------CC
+CV_0796      GGC--GCGGGCCUG----------------------------------CC
+CV_3397      CCC--CGCA-UCCGGC------------------------------GAUG
+CV_2059      GGG--CCGCGUGC-----------------------------------GC
+CV_1716      CGC--CGGGACUCAG-------------------------------CCCC
+CV_1652      GCG--GCCC-GUUAC--------------------------------GGG
+CV_1747      GGC--AGCC-UGC-----------------------------------GG
+CV_3582      AGC--GGCC-CGCG----------------------------------GG
+CV_3305      CCG--GCCCCACCUU-------------------------------CGGG
+CV_3352      GCG--GCCA-UGCUCCG----------------------------GCGUG
+CV_3543      CCC--CAGG-CAAAA--------------------------------GCC
+CV_2088      CCG--CAGGGCAUU----------------------------------CC
+CV_1697      GGG--CCGCGAUCA---------------------------------UGC
+CV_1645      GCC--AGCC-UCAG----------------------------------GG
+CV_4053      CCC--CUGC-AUUA----------------------------------GC
+CV_0130      GCC--CCGC-CGC-----------------------------------GC
+CV_0403      GGC--GACCGAAAU----------------------------------GG
+CV_0924      GCG--GC---UGC-----------------------------------G-
+CV_3270      GGG--CUGCUUUCG---------------------------------GGC
+CV_2453      GCG--GGG--CUUG----------------------------------CC
+CV_1996      CCC--CGC--GUCA----------------------------------UG
+CV_1375      CGG--CGCC-GAAA----------------------------------GG
+CV_0450      GGC--GCCC-UCC-----------------------------------CG
+CV_3862      GGA--ACCC-CGAGUUUCAGCAAUCCUGC---UACCUACUGAAAAACGGG
+CV_1439      CCG--GGCG-CAU------------------------------------G
+CV_0188      GCC--CCGCGAACU----------------------------------GC
+CV_3899      AGC--CGCCUCCCGGAUG-------------------------CCGGGGG
+CV_0111      GGG--CGCCGCGC-----------------------------------GG
+CV_0336      CCG--CGCCGUGA-----------------------------------GG
+CV_3153      GGC--CGGC-CAU-----------------------------------GC
+CV_2921      GGC--CGCGCAGCGCAA----------------------------GCCCG
+CV_3555      GCC--GGGC-AUC-----------------------------------GC
+CV_4003      GCG--GGGC-UUCG----------------------------------GC
+CV_2527      GCG--CCCAUUUC-CGCGGAC-------------------AGGCGGCGUG
+CV_4274      GCC--CCGC-UUAG----------------------------------CC
+CV_0531      GCC--UUGC-CGGGGCAC-------------------------CCGCAGC
+CV_3159      UCC--GGCG-CAAG---------------------------------GCG
+CV_3779      GGG--CUGCCCCAG----------------------------------GC
+CV_0468      GGC--GUCCGCCCG----------------------------------GG
+CV_1372      CCG--CC---GGC-----------------------------------C-
+CV_3650      CCC--GCCGUUUC-----------------------------------CG
+CV_3760      CGG--GGCCGCUA-----------------------------------GG
+CV_0537      GGC--GGGC-GACAAACACCG--------------------AGCCCUUGC
+CV_3085      GGC--GCGC-CGC-C--------------------------------CGC
+CV_2637      GGC--AUGGCCGCG----------------------------------CC
+CV_0706      GAG--GCCC-UGC-----------------------------------GG
+CV_0402      GGC--GGCC-AUUU---------------------------------CGG
+CV_0349      GCC-AAGUCAUUUA---------------------------------UGG
+CV_2968      AGC--CGGCUAUUGC--------------------------------GGC
+CV_0172      GCC--CCGC-CGGG----------------------------------GC
+CV_1332      GCC--GCG----------------------------------------GC
+CV_0338      ACC--GCGCUGAC-----------------------------------GC
+CV_2676      GCG--CCCG-CGCG-----------------------------------G
+CV_1137      GCC--CGGA-CGCGA--------------------------------GUC
+CV_1327      GCA--GGGCAGGC-CUAUA-----------------------GGCCUUGC
+CV_1052      GCC--CUCCACGG-C-------------------------------AAGG
+CV_0249      CGG--AACC-UUCG----------------------------------GG
+CV_2481      GGG--CGC--UUC-----------------------------------GG
+CV_1813      GCC--CGGUUAUAA---------------------------------UGC
+CV_4187      CGC--ACGC-UAAG---------------------------------UGC
+CV_0929      GCC--CCGG-CAAG----------------------------------CC
+CV_1087      GCC--CCGG-ACU-----------------------------------CC
+CV_2156      UCG--GCCG-GAAGC--------------------------------A-G
+CV_0530      GCC--UUGC-UGCGGGUG-------------------------CCCCGGC
+CV_3351      AGC--CGCG-AAA-----------------------------------CG
+CV_3454      GCC--AGUCAUGA-----------------------------------GA
+CV_0433      ACC--UGCCUGGAAA-------------------------------CAGG
+#=GC SS_cons <<<..<<<<.____..................................>>
+#=GC RF      GCC..gcgC.cgcG..................................Gc
+
+CV_3702      GC---CGGUUC
+CV_1519      CA---GGCCUU
+CV_0674      GC---GGCUUC
+CV_0974      GU---GCUUUU
+CV_4014      GG---GGCUGU
+CV_1076      GG---GGUGUU
+CV_2078      CU---GUCUUU
+CV_4194      CC---AGCCUU
+CV_3475      GG---CGCUUU
+CV_2352      GC---GCCGUU
+CV_2702      GG---GCCUGC
+CV_0713      AG---CGGUUU
+CV_1932      GG---CCGUUU
+CV_1486      GC---GCCCGA
+CV_1643      CG---GGGCUU
+CV_3667      CG---GGCUUU
+CV_3533      GC---GGCCUU
+CV_0714      AG---CGGUUU
+CV_3455      AA---GGGUUU
+CV_2112      GC---CCGGUC
+CV_0478      GG---GGCUUU
+CV_0554      GC---GGCGUU
+CV_2347      CG---GCUGUU
+CV_3365      CC---GGCCUU
+CV_4304      UG---CCGUUU
+CV_3461      AU---CCUUUU
+CV_2047      UC---UCCUUU
+CV_2614      GC---GGCUUU
+CV_1968      GG---GGCUUU
+CV_1108      AU---UUCUUU
+CV_1176      GG---CGCGUU
+CV_1060      GC---GGCUUU
+CV_4192      GC---GGCGUU
+CV_1662      UG---GGCUUU
+CV_0775      CG---CCUGUU
+CV_2363      GG---GCCUGU
+CV_4281      UC---GGCUUU
+CV_3900      CG---GCUUUU
+CV_4207      G---UGGCUUU
+CV_3324      AA---GGAAGA
+CV_1791      GU---CCGUUU
+CV_4106      UG---GGCGUU
+CV_3325      GG---GGCUUU
+CV_1062      UG---CGCUUU
+CV_3991      UC---CCCGUU
+CV_2937      GC---GGCGGU
+CV_3633      AA---CCCCGU
+CV_3992      UC---CCCGUU
+CV_1737      CC---GGGUUU
+CV_3413      GA---GGUUCU
+CV_4196      CG---CCUUGU
+CV_1177      GG---CGCGUU
+CV_0967      GC---CGUUUC
+CV_1349      CU---GCCGUG
+CV_3062      GG---CGGUUU
+CV_3580      CG---GUUUUU
+CV_4354      GC---CGCCCU
+CV_3182      GC---GCCUUU
+CV_3476      UG---GCGCUU
+CV_0085      CC---GGCUAU
+CV_2016      CG---GGCUUU
+CV_2116      --------CUU
+CV_2362      GG---GCCUGU
+CV_0644      GG---GCCAUU
+CV_1530      GA---GCCGUU
+CV_1364      CG---GCUUUU
+CV_0742      CC---GCCGUU
+CV_2184      CG---GGCGGU
+CV_0645      GG---GCCAUU
+CV_1661      UG---GGCUUU
+CV_3146      GG---GGAUUU
+CV_2721      GC---CCCGUU
+CV_1938      GC---GGCGGG
+CV_2048      UC---UCCUUU
+CV_1520      GC---AGGCCU
+CV_0979      CU---GGCGUU
+CV_3016      CC---GGGGUU
+CV_3918      CG---CGCCGU
+CV_0673      CA---GCCUUU
+CV_0547      CG---CUGUUU
+CV_2237      CC---GCUUUU
+CV_1989      GU---GGCGUU
+CV_1148      CC---CGCCAU
+CV_3183      GC---GCCUUU
+CV_1334      CU---CGGGCU
+CV_2198      GC---CGUUUU
+CV_3428      CC---CUGUUU
+CV_0772      GG---UUUGUU
+CV_1240      AG---GGCAUU
+CV_4125      GC---GGCCGG
+CV_2878      GU---GCCUUU
+CV_3571      GG---GGCUUU
+CV_0564      AA---CCCGUU
+CV_3962      CG---CGUGUU
+CV_1303      CG---GGCUUU
+CV_1988      GU---GGCGUU
+CV_0963      GC---GGUUUU
+CV_3669      GG---GCGUUU
+CV_3424      GG---GUCUUU
+CV_1474      CG---GCCAUU
+CV_1897      UC---CGGCCU
+CV_1055      CA---GGCUGU
+CV_1892      CG---CCCUUU
+CV_0850      UA---GCCCGU
+CV_0590      CA---GCCGUU
+CV_3403      GG---GGCUUU
+CV_0766      GG---GCCUGU
+CV_2892      CG---CCGUUU
+CV_3473      GG---CGCUUU
+CV_0090      GG---GGGUUU
+CV_3609      GA---GCUUUU
+CV_0526      CG---GGGCCU
+CV_0617      CG---CCGCUU
+CV_0826      CA---GCCUUG
+CV_2934      GC---GGCCUU
+CV_3800      AC---CGCUUU
+CV_2197      GU---GCCGUU
+CV_2712      CG---CCUGUU
+CV_0978      CU---GGCGUU
+CV_3799      AC---CGCUUU
+CV_1506      GG---GGGAUU
+CV_2795      GG---AGGUUU
+CV_0224      GC---GGUUUU
+CV_3295      UC---CGCCAU
+CV_4270      AG---GGCUGU
+CV_4217      GC---CCCUGU
+CV_0057      GC---CGGCCU
+CV_3787      CG---GGCCGU
+CV_2383      GU---GGCCUU
+CV_1297      AA---GGCUUU
+CV_4214      CG---GCGUUU
+CV_4239      CC---GCCGUU
+CV_3462      AU---CCUUUU
+CV_2893      CG---CCGUUU
+CV_0827      CG---GCUGUC
+CV_3579      GG---GCUGUU
+CV_0821      GC---GCCAGG
+CV_1294      GC---CGCCUG
+CV_3398      AG---CCCUUU
+CV_1365      CG---GCUUUU
+CV_0807      GC---GGCGCU
+CV_1641      CC---AGCCGC
+CV_2238      UC---CGCUUU
+CV_0325      CG---ACGCAC
+CV_2040      CC---GCCUUU
+CV_3795      UU---GGCAUU
+CV_3963      CG---CGUGUU
+CV_2179      CC---GGCGUU
+CV_4109      GC---CGGCUU
+CV_1080      GG---UGUGGC
+CV_3393      UG---GGCUUU
+CV_4051      GG---GGCUUU
+CV_1934      CG---GCCCCC
+CV_3296      UC---CGCUUU
+CV_0279      GA---AAGUUU
+CV_1937      GG---GGGUUU
+CV_4305      UG---CCGUUU
+CV_3696      GC---GGUUUU
+CV_3755      CC---UCCGUU
+CV_1928      UG---UCCUUU
+CV_1171      GG---CGGCGC
+CV_2353      GC---CGGCCG
+CV_4384      UU---CGCCUU
+CV_0516      GG---GCUGUU
+CV_2384      GU---GGCCUU
+CV_2039      AC---GGUUUU
+CV_0912      CA---GGCUGU
+CV_0175      CC---GCCUUU
+CV_4013      GG---GGCUGU
+CV_3709      GG---CGGUUU
+CV_0342      GC---GCGUUU
+CV_1468      UC---GGCGUU
+CV_0190      CC---UGUUGU
+CV_3386      GC---GGUUGC
+CV_4006      CC---GCCUUU
+CV_3758      CC---GGCUUU
+CV_2077      CC---UGUCUU
+CV_0527      CG---GGCUUU
+CV_0361      AC---GGCUUU
+CV_1466      AG---GGGGUU
+CV_0739      CU---GGCUUU
+CV_2715      GC---GGGCGA
+CV_2051      UG--UCCCGGC
+CV_3037      GC---GGUUUU
+CV_2590      GC---GCCUGU
+CV_3104      --------GUU
+CV_0745      GC---GGGUUU
+CV_3117      CG---CCGUUU
+CV_2017      CG---GGCUUU
+CV_2284      GU---GCCUUU
+CV_4213      CG---GCGUUU
+CV_0405      CG---GGUUUU
+CV_0115      GA---GGGUUU
+CV_1781      CC---GCUUUU
+CV_1745      GC---GGCCGU
+CV_3762      UG---GGGAUU
+CV_3666      CC---GCC---
+CV_2395      GC---GGCGUU
+CV_3823      CC--GGCGGUU
+CV_0626      CC---GGUUUU
+CV_2804      CGAUGGCCCUC
+CV_1277      CU---CCCCUU
+CV_0252      GC---GGCGUU
+CV_1748      AC---GGCUUU
+CV_3628      GC---GCGUUU
+CV_0174      GG---CGCUUU
+CV_3151      GC---GGGCUU
+CV_0551      AU---GCCUUU
+CV_2765      GU---GCCAUU
+CV_0010      GU---GGGCUU
+CV_1231      GG---GCGCGU
+CV_1363      GC---GCUUUU
+CV_2713      GC---GCCUGU
+CV_0225      GC---GGUUUU
+CV_3627      GG---CGCGUU
+CV_4159      CU---GGCUUU
+CV_0528      UU---GCCCUU
+CV_3644      CU---GCCGUU
+CV_3092      CG---GCCUGU
+CV_4154      GG---GCCUUU
+CV_4057      CG---GGCUUU
+CV_3213      AU---UCGUGC
+CV_4052      GG---GGCUUU
+CV_2563      AG---CGCCGC
+CV_0389      GC---CGUUUU
+CV_3304      GG---GCCGUU
+CV_2233      GG---CCAUUU
+CV_3829      AG---CCCUUU
+CV_1237      AU---UGUUUU
+CV_3708      GG---CGGUUU
+CV_3784      GG---GGCUUU
+CV_4040      CC---GCCUUU
+CV_0208      GC---GCGUUU
+CV_0995      CG---CCGCUC
+CV_3747      GG---GGCCUU
+CV_4093      CC---CCUUUU
+CV_0901      CG---GGCGUU
+CV_0561      GC---GCCGGC
+CV_3597      CC---UCCCGC
+CV_4158      UG---GCUUUU
+CV_2171      UG---GCGGCU
+CV_2300      CC---GGUUUU
+CV_3402      GG---GGCUUU
+CV_4329      UC---CGGCUU
+CV_3474      GG---CGCUUU
+CV_2001      UU---CCCGUU
+CV_2012      GG---GGUGUU
+CV_4177      UA---GGAGUU
+CV_2751      UU---CCGCUU
+CV_3425      CG---GGGUUU
+CV_0885      CU---CCCUUU
+CV_1418      CC---CCUUCU
+CV_1789      A---GGCCGGC
+CV_0320      CG---GCCUUU
+CV_4069      GU---GCUUUU
+CV_2988      AA---GGCUUU
+CV_0588      CC---GGCUUU
+CV_3116      GC---CGUUUU
+CV_0871      UC---GGCUUU
+CV_3038      CG---CGGUUU
+CV_3307      GU---GGCGUU
+CV_0299      GC---GCCGGC
+CV_4258      CG---GGAGUU
+CV_4100      CG---CCC---
+CV_0913      CG---GCCUUU
+CV_3549      GC---CGGCUU
+CV_3364      CC---GGCCUU
+CV_3249      GC---GGCUGU
+CV_0066      CG---CCGUUU
+CV_2791      GC---GGGUUU
+CV_0900      CC---GGGCUU
+CV_2380      UG---GCCUUU
+CV_1480      GG---CCUUUU
+CV_1129      GC---GGCCUU
+CV_4206      CG---GCUUUU
+CV_1121      GC---CGUUUU
+CV_1329      CC---GGCCGC
+CV_4155      GG---GCCUUU
+CV_4004      GC---CGGUUU
+CV_2719      GU---GGCGUU
+CV_3354      GC---GGCAUU
+CV_4224      CC---GCUUUG
+CV_2861      UG---GCCGUU
+CV_1529      GC---CGUUUU
+CV_3056      GC---GGCGUU
+CV_1997      GG---GGCUUU
+CV_3084      GC---GGCGUU
+CV_1539      GC---GCCGUU
+CV_1353      CG---CCCGUC
+CV_3384      GG---GCCGUU
+CV_1302      CG---GGCUUU
+CV_4088      GC---CGGUUU
+CV_2832      GU---GGC---
+CV_3009      AG---CCUGUU
+CV_1477      GG---GGAUUU
+CV_2193      CG---GGCUGU
+CV_2530      GC---CGCCUU
+CV_3072      GG---GCUUUU
+CV_1096      GC---GCCCUC
+CV_3850      GG---GGCUUU
+CV_0759      GG---GCUGUU
+CV_3429      GC---GGGGUU
+CV_1138      GC---GGGCUU
+CV_3831      GG---CGGUUU
+CV_0038      UC---GCUUAU
+CV_0917      AU---CGCGGC
+CV_4407      AU---CCGUUU
+CV_2038      AC---GGUUUU
+CV_3791      AU---GGCCUU
+CV_0548      GC---GCUGUU
+CV_0932      UU---CCGCCU
+CV_3399      AG---CCCUUU
+CV_2850      GG---CCACGC
+CV_4240      CC---GCCGUU
+CV_2466      CC---GCAUGC
+CV_1462      UC---GCCCUU
+CV_1865      --------UUU
+CV_4098      CG---GCCUUU
+CV_1712      CG---GGCUUC
+CV_2554      GG---GCC---
+CV_3078      CG---GGCCAU
+CV_2544      CG---GGUAUU
+CV_1003      GG---GGUUUU
+CV_0059      GG---CCCUGU
+CV_3610      GA---GCUUUU
+CV_0933      GC---GGCGGC
+CV_3528      GU---GGGCUU
+CV_4373      -----GGCUGU
+CV_2551      GC---GGCCGC
+CV_2874      CG---GCUUUU
+CV_3788      AC---GGUGUA
+CV_0972      CG---GCCCGC
+CV_0305      AU---GGCCGU
+CV_0149      GG---GGAUUU
+CV_3378      CG---GGUUUU
+CV_3765      UG---CGGUUU
+CV_3457      AG---CGU---
+CV_1367      CC---GGCCUU
+CV_1197      GC---GCCUUU
+CV_1532      GC---GCCUUU
+CV_3064      UG---GGCGUU
+CV_1974      CC---GCCUGU
+CV_1298      AA---GGCUUU
+CV_3740      GU---CCGUUU
+CV_3670      GG---GCGUUC
+CV_3481      GC---GGCGGU
+CV_0744      GC---GGGUUU
+CV_1767      UA---AGCGAU
+CV_0865      GC--AGGCGUU
+CV_1261      CC---GCCAUU
+CV_2044      CU---UCCGUU
+CV_1175      GG---CGCCGC
+CV_0410      CC---GCGGGC
+CV_3656      CC---CGUUUU
+CV_4048      GC---GCCGUC
+CV_0331      CG---GGCCGG
+CV_0086      CG---GGCUUC
+CV_4099      CC---GGCCUU
+CV_1149      CG---GCUUUU
+CV_1891      CC---GCCCUU
+CV_4070      GG---AGGGUU
+CV_1465      GC---GACUUU
+CV_1670      UC---CCCGUU
+CV_0997      GC---CUGUUU
+CV_2853      AU---GGCCUU
+CV_1817      CG---CCGCUU
+CV_2531      GC---CGCCUU
+CV_2093      AC---ACCUUU
+CV_1019      AU---CCCGUU
+CV_2790      GC---GGGUUU
+CV_3816      GC---GGCGUU
+CV_1130      GC---GGCCUU
+CV_2761      CC---CCCGUC
+CV_3326      GG---GGCUUU
+CV_1086      GC---GCGUUU
+CV_3797      UU---GCCCGG
+CV_1785      GC---GGCCUG
+CV_3589      UG---CCGUUU
+CV_4193      GC---CGCGCC
+CV_2750      UU---CCGCUU
+CV_0263      GG---CCAUUU
+CV_0432      CA---GGUUUU
+CV_3207      UG---CGCUUU
+CV_0173      GG---GGCAUC
+CV_1358      CU---CCCUUU
+CV_2723      GC---GGCUGU
+CV_4108      CG---GCUUUU
+CV_3298      GC---GGCACU
+CV_2329      AG---CGCGCU
+CV_1927      GU---GUCCUU
+CV_1896      CC---GGCCUU
+CV_2876      CC---GGUUUU
+CV_0440      GC---GGCUUU
+CV_0117      GG---GCCUUU
+CV_1092      UC---CGCCCU
+CV_0209      GG---CGCGUU
+CV_3501      GG---GGCUUU
+CV_0870      UC---GGCUUU
+CV_3865      CG---GCUCUU
+CV_3552      CG---GGCAUU
+CV_3520      GG---CCGUUU
+CV_3206      CG---GGUUUU
+CV_2778      GC---GCCAUU
+CV_2829      AG---GGCUUU
+CV_3083      CC---GCCGGC
+CV_1755      UU---GGCCGC
+CV_1646      GC---GGCUGU
+CV_1584      CG---CCCGUU
+CV_2823      CU---UGCCCU
+CV_1654      GC---CGC---
+CV_0300      GC---CGGCCU
+CV_3637      GG---GCUUUU
+CV_1687      CA---GCCUUU
+CV_0165      CC---GGCGGC
+CV_1421      GG---GGCGUU
+CV_1699      GC---CGCCGU
+CV_0981      CG---GGGCUU
+CV_3408      CC---GGCCAA
+CV_1850      GC---CCUGUU
+CV_2670      CA---GGCCGC
+CV_2500      UC---UGCUUU
+CV_3036      --------UUU
+CV_0747      CG---GGCGUU
+CV_3554      AU---CCCUUU
+CV_3625      GC---GGCGGC
+CV_3108      GC---GCCCGC
+CV_3705      GC---GGCGUU
+CV_2768      GU---GCCCUU
+CV_0193      UG---CCCGUU
+CV_2728      CG---CCGCGC
+CV_0098      UC---CCCUCC
+CV_3757      CC---GGCUUU
+CV_0964      GG---CGGUUU
+CV_2435      CA---CCCGUC
+CV_2753      CG---GGUCUC
+CV_2178      CC---GGCGUU
+CV_2760      CG---GCGUUU
+CV_3214      AU---GCCUGU
+CV_3008      AG---CCUGUU
+CV_1533      CC---GGC---
+CV_1317      AG---GGCUUU
+CV_0272      GU---CCCGUU
+CV_4401      GC---GGCCGU
+CV_1102      --------UUU
+CV_4365      AU---CCGUUC
+CV_1651      GC---CGCUUU
+CV_1263      UC---CCCGUU
+CV_0296      CC---GGUUUG
+CV_1476      GG---GGCGUU
+CV_0311      GG---GGGCUU
+CV_0639      --------UUU
+CV_3615      GC---GGCGCU
+CV_2408      GC---GGCGUU
+CV_3077      CU---CCC---
+CV_2860      UG---GCCGUU
+CV_3869      CG---GCCCUU
+CV_3426      GU---GGUCUC
+CV_0030      CU---GGCUUU
+CV_3870      GG---CCCUUU
+CV_2163      UG---CGCGGU
+CV_0834      GC---CGGUUU
+CV_0961      --------GUU
+CV_2394      GC---GGCGUU
+CV_2694      AG---GCCGUU
+CV_3372      CC---GGUUUU
+CV_2248      CC---GGCUUU
+CV_2251      GG---GCCUUU
+CV_3190      CC---GGCCUU
+CV_2411      GG---GGCUUC
+CV_3478      GC---CGGCUU
+CV_4390      UG---UCUGUU
+CV_3143      CC---GGGCGC
+CV_1437      GG---CCCGUU
+CV_3664      GG---GGGCUU
+CV_4269      GC---UGUUUU
+CV_2935      CG---GUCAUC
+CV_0928      GG---GGCUUU
+CV_2966      CG---GGCAUC
+CV_0254      CG---GGCUUU
+CV_0825      CA---GCCUUG
+CV_3567      GC---GGCCUU
+CV_0657      GC---CGCUUU
+CV_2085      GG---GGC---
+CV_3306      GU---GGCGUU
+CV_0397      CG---UCCUUU
+CV_3152      GC---GGGCUU
+CV_3728      AU---GCCGUU
+CV_0168      CG---GCCGUU
+CV_0955      AG---UGCUUU
+CV_1345      -----CCCGUU
+CV_1028      AG---CCUUUU
+CV_0071      CG---CCCGGC
+CV_0444      AC---GGCAGC
+CV_2796      AU---GGCCUG
+CV_2230      CA---GCCUUG
+CV_3649      GC---GGGCUU
+CV_4246      CG---GGCUUU
+CV_4119      GG---GGCGUU
+CV_1637      CG---GCGAUU
+CV_0578      CC---UGCUGU
+CV_0308      GG---GUCUUU
+CV_3343      CC---GCUUUU
+CV_0517      GG---GGCUGU
+CV_0351      GG---CGCGGC
+CV_0443      CC---GCCUUU
+CV_4041      CC---GCCUUU
+CV_2642      GG---AGGGUU
+CV_1242      AG--AACGUUU
+CV_4388      CG---GGCUUU
+CV_0326      CU---GCCCUC
+CV_1106      UU---GCCCUA
+CV_2011      GG---GGUGUU
+CV_2130      CG---GCA---
+CV_0549      UC---GGCAUC
+CV_0076      GU---CCGUUU
+CV_0170      GG---GGGCUU
+CV_1275      GG---CGGUUU
+CV_2556      GG---CGGUUC
+CV_1378      GC---GCUUUU
+CV_1668      CG---CGUUUU
+CV_1146      C---UGGCCAU
+CV_0886      GG---GGCGUU
+CV_3026      CG---GGCGCG
+CV_2225      GG---GCGUUU
+CV_2816      GC---CGUUUU
+CV_4104      CC---GGCUUU
+CV_3822      GG---CGGUUU
+CV_2159      CA---GCGUCU
+CV_0045      UC---GGCCGU
+CV_3771      AG---GCCGUC
+CV_1987      UG---CCCGUU
+CV_3269      AG---CCCCGU
+CV_3576      GG---GGCGUU
+CV_0565      CA---ACCCGU
+CV_0973      UC---GGCUUU
+CV_3919      GG---GCCGUU
+CV_2350      CG---GGCUUU
+CV_0628      GG---GGCUUU
+CV_0779      CG---CCGUUU
+CV_1970      CG---UCUGGG
+CV_0068      CG---CGCCGC
+CV_4364      AA---GCUGCU
+CV_2618      GC---CGGGGC
+CV_4353      CC---GCCUUG
+CV_2168      CC---GGC---
+CV_0337      CG---CGGUUU
+CV_0868      GC---GGCGGC
+CV_1582      GC---GCCGUC
+CV_3097      AU---GCCGUU
+CV_1945      GG---CCGUUU
+CV_3530      CC---CGCCUU
+CV_1604      UG---GCCGUU
+CV_0379      UU---AUUUUU
+CV_0986      GU---GCCCUU
+CV_1212      --------UUU
+CV_3233      GC---GGGCUU
+CV_3188      CC---GGCUUU
+CV_1537      CC---GGCCUG
+CV_0289      CG---GGCAUU
+CV_0056      CC---CGCGUU
+CV_3783      GC---CCCCGA
+CV_3718      AU---GAUCUU
+CV_2759      CG---GCGCUU
+CV_0916      UU---GCCCGU
+CV_2979      GA---UCGGCC
+CV_1498      GCG-AAGCCAU
+CV_3524      CA---GGGGAC
+CV_1416      GC--UCGGCGC
+CV_0266      UU---GCCUUU
+CV_1613      GC---GGGCUU
+CV_2854      AU---GGCCUU
+CV_1821      AU---GGGCUU
+CV_1912      GG---GGCGUU
+CV_2217      GC---GGCGGU
+CV_3687      GC---GGCUUU
+CV_2875      CC---GGUUUU
+CV_2662      GC---GGCUUU
+CV_1249      UC---GGUUUU
+CV_3519      GC---CGUUUU
+CV_3556      CC---GGCUCU
+CV_0968      GC---CGUUUC
+CV_2377      CU---GGCUUU
+CV_1977      CG---GCUCCU
+CV_2948      CC---CGCCGC
+CV_1430      UA---GGCUUU
+CV_0808      GC---GGCGCU
+CV_3878      --------ACU
+CV_1408      GG---CGGCGU
+CV_3129      CG---CACUUU
+CV_0965      GU---CCGUUU
+CV_0992      GC---GGCAUU
+CV_2410      GG---GGCUUU
+CV_2196      CC---CCUUUU
+CV_3057      GG---CGGCGU
+CV_3618      GG---GCCGCC
+CV_0099      GG---GCGUUU
+CV_3208      UG---CGCUUU
+CV_3561      --------UUU
+CV_2516      UC---CGCCUU
+CV_1638      GC---GGCGAU
+CV_1150      GC---GGCCUU
+CV_3739      CG---GGGUGU
+CV_1074      CC---GGC---
+CV_4361      AG---GCCGGU
+CV_1889      CU---CCCUUU
+CV_3662      CC---CCGCUU
+CV_2006      GG---CCGCUU
+CV_3294      CG---GCGUUU
+CV_4284      GC---GCCCGU
+CV_0524      --------GUU
+CV_0081      GU---GGCCCC
+CV_2766      GC---GGCUUU
+CV_2000      GG---CUUUUU
+CV_3881      GC---GGGUUU
+CV_3523      GA---GCCGGU
+CV_3916      AA---UCCGGU
+CV_2738      GC---GGCGGU
+CV_3466      GC---GCCGGC
+CV_2820      CG---GGCCUU
+CV_1569      CG---GGUCCU
+CV_4404      CC---GGGUUU
+CV_3276      GG---CGGCUU
+CV_2019      CG---GCCGGC
+CV_1500      GC---GGGUUU
+CV_0360      CC---GCCCGC
+CV_2390      CU---UCCCUU
+CV_3754      CC---GUUUUU
+CV_2936      GC---GGCGGC
+CV_1256      GG---CGCCGC
+CV_3200      CU---UGCCUC
+CV_2970      CG---GCUCCU
+CV_0707      GC---CUCUUU
+CV_3011      AC---UGGCUU
+CV_2859      GC---CCUGUU
+CV_0651      --------CUU
+CV_0121      CG---GCC---
+CV_2914      CU---GCAGGU
+CV_0323      GG---GGCGUU
+CV_0743      GC---CGCCGU
+CV_2707      GC---GGCCUU
+CV_2037      GC---GGGCUU
+CV_3751      AU---CCCUUU
+CV_1955      CA---GCCUUU
+CV_3103      CG---GUCCGU
+CV_3241      GC---GGC---
+CV_1944      CG---GCCGUU
+CV_1751      GA---CCCUUU
+CV_1523      GC---GGGUUC
+CV_2575      AU---AUCCGC
+CV_1916      CG---GGCUUU
+CV_0660      CC---GGC---
+CV_3977      GG---CGGGUU
+CV_3415      GG---CGCGCC
+CV_2540      GC---GGCGUU
+CV_1576      GG---CGCAAG
+CV_3465      UC---GGCCUU
+CV_4092      CC---CCUUUU
+CV_2043      CU---UCCGUU
+CV_3817      CC---CCCGAC
+CV_3013      --------UUU
+CV_3792      AU---GGCCUU
+CV_0852      GG---GGCGUA
+CV_1207      GG---GGCUUG
+CV_0140      CC---GGGAUU
+CV_0113      CC---GCCGCC
+CV_3031      -----AGCCUU
+CV_4198      -----CGCUUU
+CV_1585      CU---GGCAUU
+CV_3366      UC---GGCUUU
+CV_2194      GG---CUGCUU
+CV_3657      GC---GCUUUU
+CV_0596      UC---GGCGUC
+CV_4221      GC---GGGCUU
+CV_1626      CG---CCUGUU
+CV_2515      GA---GCGUCC
+CV_3912      GG---GCCUGU
+CV_0796      GC---GCUGUU
+CV_3397      CG---GGGUUU
+CV_2059      GG---CCC---
+CV_1716      CG---GCGGCC
+CV_1652      GC---CGCUUC
+CV_1747      CU---GCCUUU
+CV_3582      CC---GCUUUU
+CV_3305      GC---CGGCGU
+CV_3352      GC---CGCCGU
+CV_3543      CG---GGGCUU
+CV_2088      UG---CGGCUC
+CV_1697      GG---UCCGUU
+CV_1645      CU---GGCGUU
+CV_4053      GG---GGGCGU
+CV_0130      GG---GGCGUU
+CV_0403      CC---GCCGUU
+CV_0924      GC---CGCCUU
+CV_3270      AG---CCCCAU
+CV_2453      CU---GGCCGU
+CV_1996      CG---GGGCUU
+CV_1375      CG---CCGGUU
+CV_0450      GC---GCCCCU
+CV_3862      GU---UCCUUU
+CV_1439      CC---CGGCUU
+CV_0188      GG---GGC---
+CV_3899      CG---GCUUUU
+CV_0111      CG---CCCUUU
+CV_0336      CG---CGGUUU
+CV_3153      CG---GCCUUU
+CV_2921      CG---GCCGUU
+CV_3555      CC---GGCUCC
+CV_4003      CC---CGUUUU
+CV_2527      GG---CGCGCC
+CV_4274      GG---GGCCUU
+CV_0531      AA---GGC---
+CV_3159      CU---GGGCGU
+CV_3779      AG---CCCUUU
+CV_0468      AC---GCCGUC
+CV_1372      GG---CGGCUG
+CV_3650      GC---GGGCUU
+CV_3760      CC---CCGUUU
+CV_0537      CC---GCC---
+CV_3085      GC---GCCGGC
+CV_2637      AU---GCCUGU
+CV_0706      GC---CUCUUU
+CV_0402      UC---GCCGUU
+CV_0349      CU--CGGCUUU
+CV_2968      CG---GCU---
+CV_0172      GG---GGCAUC
+CV_1332      GC---GGCAUU
+CV_0338      GC---GGUUUU
+CV_2676      GG---CGC---
+CV_1137      CG---GGCUUU
+CV_1327      CC---UGCCUC
+CV_1052      AG---GGCCUG
+CV_0249      UU---CCGUUU
+CV_2481      CG---CCCCUU
+CV_1813      CG---GGCAUU
+CV_4187      UU---GCGAUU
+CV_0929      GG---GGCUUU
+CV_1087      GG---GGCUUU
+CV_2156      GC---UGACCU
+CV_0530      AA---GGCGUU
+CV_3351      CG---GCUUUU
+CV_3454      CU---GGCCUU
+CV_0433      CA---GGUUUU
+#=GC SS_cons >>...>>>>>>
+#=GC RF      gc...GGCuUU
+//

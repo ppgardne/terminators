@@ -1,0 +1,962 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.2-1
+#=GF AU Infernal 1.0.2
+
+#=GS MMSYN1_0607 WT 0.88
+#=GS MMSYN1_0764 WT 1.08
+#=GS MMSYN1_0783 WT 1.13
+#=GS MMSYN1_0119 WT 0.95
+#=GS MMSYN1_0382 WT 1.34
+#=GS MMSYN1_0588 WT 1.04
+#=GS MMSYN1_0154 WT 0.95
+#=GS MMSYN1_0900 WT 1.02
+#=GS MMSYN1_0195 WT 1.08
+#=GS MMSYN1_0505 WT 1.09
+#=GS MMSYN1_0629 WT 1.13
+#=GS MMSYN1_0059 WT 1.02
+#=GS MMSYN1_0784 WT 1.02
+#=GS MMSYN1_0574 WT 0.85
+#=GS MMSYN1_0901 WT 1.02
+#=GS MMSYN1_0881 WT 1.00
+#=GS MMSYN1_0584 WT 1.20
+#=GS MMSYN1_0160 WT 1.07
+#=GS MMSYN1_0712 WT 0.94
+#=GS MMSYN1_0870 WT 1.22
+#=GS MMSYN1_0551 WT 0.94
+#=GS MMSYN1_0632 WT 0.99
+#=GS MMSYN1_0113 WT 1.06
+#=GS MMSYN1_0438 WT 0.84
+#=GS MMSYN1_0491 WT 0.87
+#=GS MMSYN1_0037 WT 0.86
+#=GS MMSYN1_0396 WT 0.82
+#=GS MMSYN1_0859 WT 1.17
+#=GS MMSYN1_0885 WT 1.07
+#=GS MMSYN1_0788 WT 0.95
+#=GS MMSYN1_0393 WT 1.06
+#=GS MMSYN1_0141 WT 1.25
+#=GS MMSYN1_0136 WT 0.92
+#=GS MMSYN1_0488 WT 1.30
+#=GS MMSYN1_0617 WT 0.87
+#=GS MMSYN1_0130 WT 1.13
+#=GS MMSYN1_0575 WT 0.79
+#=GS MMSYN1_0368 WT 1.01
+#=GS MMSYN1_0898 WT 0.86
+#=GS MMSYN1_0414 WT 0.83
+#=GS MMSYN1_0400 WT 1.12
+#=GS MMSYN1_0753 WT 1.08
+#=GS MMSYN1_0561 WT 1.04
+#=GS MMSYN1_0478 WT 0.92
+#=GS MMSYN1_0309 WT 1.07
+#=GS MMSYN1_0361 WT 1.12
+#=GS MMSYN1_0481 WT 1.15
+#=GS MMSYN1_0297 WT 0.94
+#=GS MMSYN1_0114 WT 0.97
+#=GS MMSYN1_0586 WT 1.22
+#=GS MMSYN1_0311 WT 0.91
+#=GS MMSYN1_0278 WT 0.87
+#=GS MMSYN1_0272 WT 1.16
+#=GS MMSYN1_0394 WT 0.86
+#=GS MMSYN1_0122 WT 0.97
+#=GS MMSYN1_0703 WT 0.99
+#=GS MMSYN1_0308 WT 0.94
+#=GS MMSYN1_0474 WT 0.91
+#=GS MMSYN1_0187 WT 0.93
+#=GS MMSYN1_0274 WT 1.28
+#=GS MMSYN1_0344 WT 1.09
+#=GS MMSYN1_0104 WT 1.00
+#=GS MMSYN1_0169 WT 0.99
+#=GS MMSYN1_0170 WT 1.01
+#=GS MMSYN1_0237 WT 0.83
+#=GS MMSYN1_0238 WT 0.85
+#=GS MMSYN1_0732 WT 0.97
+#=GS MMSYN1_0118 WT 0.87
+#=GS MMSYN1_0343 WT 0.92
+#=GS MMSYN1_0292 WT 0.90
+#=GS MMSYN1_0716 WT 0.90
+#=GS MMSYN1_0787 WT 1.02
+#=GS MMSYN1_0008 WT 0.94
+#=GS MMSYN1_0598 WT 0.99
+#=GS MMSYN1_0097 WT 1.04
+#=GS MMSYN1_0701 WT 0.91
+#=GS MMSYN1_0320 WT 0.91
+#=GS MMSYN1_0064 WT 1.04
+#=GS MMSYN1_0178 WT 1.06
+#=GS MMSYN1_0246 WT 0.83
+#=GS MMSYN1_0861 WT 0.89
+#=GS MMSYN1_0057 WT 0.91
+#=GS MMSYN1_0310 WT 0.91
+#=GS MMSYN1_0291 WT 0.90
+#=GS MMSYN1_0463 WT 1.22
+#=GS MMSYN1_0748 WT 1.15
+#=GS MMSYN1_0076 WT 1.25
+#=GS MMSYN1_0324 WT 1.11
+#=GS MMSYN1_0480 WT 1.08
+#=GS MMSYN1_0287 WT 0.99
+#=GS MMSYN1_0217 WT 0.90
+#=GS MMSYN1_0159 WT 1.00
+#=GS MMSYN1_0216 WT 0.90
+#=GS MMSYN1_0271 WT 0.92
+#=GS MMSYN1_0085 WT 1.09
+#=GS MMSYN1_0903 WT 0.96
+#=GS MMSYN1_0469 WT 1.06
+#=GS MMSYN1_0163 WT 1.03
+#=GS MMSYN1_0172 WT 0.71
+#=GS MMSYN1_0451 WT 0.91
+#=GS MMSYN1_0208 WT 0.92
+#=GS MMSYN1_0174 WT 0.71
+#=GS MMSYN1_0007 WT 0.97
+#=GS MMSYN1_0296 WT 0.94
+#=GS MMSYN1_0039 WT 0.90
+#=GS MMSYN1_0437 WT 0.84
+#=GS MMSYN1_0256 WT 1.06
+#=GS MMSYN1_0386 WT 1.03
+#=GS MMSYN1_0188 WT 0.94
+#=GS MMSYN1_0652 WT 0.79
+#=GS MMSYN1_0731 WT 1.22
+#=GS MMSYN1_0713 WT 1.00
+#=GS MMSYN1_0729 WT 1.01
+#=GS MMSYN1_0277 WT 0.87
+#=GS MMSYN1_0637 WT 1.13
+#=GS MMSYN1_0204 WT 1.37
+#=GS MMSYN1_0222 WT 1.03
+#=GS MMSYN1_0038 WT 0.93
+#=GS MMSYN1_0418 WT 1.15
+#=GS MMSYN1_0179 WT 0.86
+#=GS MMSYN1_0882 WT 1.16
+#=GS MMSYN1_0601 WT 1.19
+#=GS MMSYN1_0035 WT 0.89
+#=GS MMSYN1_0209 WT 0.94
+#=GS MMSYN1_0030 WT 1.02
+#=GS MMSYN1_0715 WT 1.04
+#=GS MMSYN1_0395 WT 0.82
+#=GS MMSYN1_0175 WT 0.56
+#=GS MMSYN1_0230 WT 1.01
+#=GS MMSYN1_0415 WT 0.83
+#=GS MMSYN1_0125 WT 0.88
+#=GS MMSYN1_0604 WT 0.86
+#=GS MMSYN1_0453 WT 0.88
+#=GS MMSYN1_0827 WT 1.00
+#=GS MMSYN1_0257 WT 1.02
+#=GS MMSYN1_0687 WT 0.98
+#=GS MMSYN1_0606 WT 0.93
+#=GS MMSYN1_0613 WT 0.92
+#=GS MMSYN1_0886 WT 1.01
+#=GS MMSYN1_0413 WT 0.88
+#=GS MMSYN1_0767 WT 1.22
+#=GS MMSYN1_0345 WT 0.86
+#=GS MMSYN1_0101 WT 1.13
+#=GS MMSYN1_0700 WT 1.02
+#=GS MMSYN1_0673 WT 0.89
+#=GS MMSYN1_0305 WT 0.93
+#=GS MMSYN1_0706 WT 1.01
+#=GS MMSYN1_0806 WT 0.93
+#=GS MMSYN1_0171 WT 1.05
+#=GS MMSYN1_0332 WT 1.01
+#=GS MMSYN1_0012 WT 0.93
+#=GS MMSYN1_0080 WT 0.95
+#=GS MMSYN1_0542 WT 1.07
+#=GS MMSYN1_0093 WT 0.96
+#=GS MMSYN1_0756 WT 0.92
+#=GS MMSYN1_0822 WT 0.98
+#=GS MMSYN1_0850 WT 0.91
+#=GS MMSYN1_0743 WT 1.17
+#=GS MMSYN1_0117 WT 1.28
+#=GS MMSYN1_0335 WT 1.16
+#=GS MMSYN1_0134 WT 1.15
+#=GS MMSYN1_0482 WT 1.15
+#=GS MMSYN1_0866 WT 1.12
+#=GS MMSYN1_0133 WT 1.11
+#=GS MMSYN1_0538 WT 0.97
+#=GS MMSYN1_0025 WT 1.12
+#=GS MMSYN1_0176 WT 1.08
+#=GS MMSYN1_0129 WT 0.86
+#=GS MMSYN1_0634 WT 0.98
+#=GS MMSYN1_0454 WT 1.10
+#=GS MMSYN1_0173 WT 0.56
+#=GS MMSYN1_0852 WT 1.18
+#=GS MMSYN1_0033 WT 0.89
+#=GS MMSYN1_0915 WT 1.66
+#=GS MMSYN1_0877 WT 1.00
+#=GS MMSYN1_0812 WT 0.92
+#=GS MMSYN1_0065 WT 1.06
+#=GS MMSYN1_0060 WT 1.04
+#=GS MMSYN1_0151 WT 0.96
+#=GS MMSYN1_0499 WT 0.93
+#=GS MMSYN1_0726 WT 1.01
+#=GS MMSYN1_0146 WT 0.91
+#=GS MMSYN1_0306 WT 1.66
+#=GS MMSYN1_0757 WT 0.95
+#=GS MMSYN1_0034 WT 0.93
+#=GS MMSYN1_0571 WT 1.09
+#=GS MMSYN1_0840 WT 0.86
+#=GS MMSYN1_0789 WT 0.95
+#=GS MMSYN1_0490 WT 0.87
+
+MMSYN1_0607  AUUAUAAAA-AA--U----------------------------AAA--AA
+MMSYN1_0764  CAGAUAA--UAA-UUAG-------------------------U-AA--GG
+MMSYN1_0783  AAGUUCAAAUGA--UAAUAACAUU------------UGAACUUAUA--AA
+MMSYN1_0119  AAGAUCAUAU----UAA--------------------------AAA--AA
+MMSYN1_0382  AAGAUAGAUUAA-------------------------------AAU--AA
+MMSYN1_0588  AAAACAAAAUAAAAUAUG------------------------AAAA--AU
+MMSYN1_0154  AAAAUAA--UAA--UAA-------------------------CAUA--AG
+MMSYN1_0900  AGACGAAAAUAA-AUAGAAAU-----------------AUAUU-AA--AG
+MMSYN1_0195  UAGCUAA--UAA-AUAG-------------------------AAAA--AA
+MMSYN1_0505  CCUGCAAAAU---------------------------------AAU--AA
+MMSYN1_0629  AGAAUUA--UAA-AUAC--------------------------A----AA
+MMSYN1_0059  AAUAUAA--UAA--AAAA------------------------CAAA--AA
+MMSYN1_0784  AAAAGUAGUUAU--UAACUAC-----------------UUUAUAAG--UU
+MMSYN1_0574  AAAAUUAGUUAG--UAA---------------------------AA--AA
+MMSYN1_0901  AAAAUAAAAUAA--UAAAAAUAA--------------UAUAUU-----AA
+MMSYN1_0881  GAAAUAAAAUAA--G----------------------------AAA--AA
+MMSYN1_0584  AUGAAUAAACAA-AUAA---------------------------UA--UC
+MMSYN1_0160  AAAGUUA------------------------------------AAA--AG
+MMSYN1_0712  UUAGAUAAAUAA--UAA--------------------------AAA--AU
+MMSYN1_0870  GAUUCAAUAU--CUUAA-------------------------AAAA--AG
+MMSYN1_0551  AAAACUAAAUAA-UUAAU-----------------------CUACA--AG
+MMSYN1_0632  CAAAUUAACUAA-------------------------------AAA--AG
+MMSYN1_0113  GUUCAAAACUAA-------------------------------AAA--AG
+MMSYN1_0438  AUAGUUAAAUAA--UAAAUU-------------------ACAAAAA--AA
+MMSYN1_0491  AAAACAAAAUAA-GUACUAU--------------------UUAAAA--AG
+MMSYN1_0037  AAAAUAAAAU--UUUAU-------------------------AAGA--AA
+MMSYN1_0396  GAAAUAAAAUAA-------------------------------AAU--AG
+MMSYN1_0859  AAGAUAA--UAA-AUAACA----------------------UGAAA--GA
+MMSYN1_0885  AAAUAUUGAUAA-UU---------------------------------AA
+MMSYN1_0788  AAACAAACAUAA-------------------------------AAA--AA
+MMSYN1_0393  AAAUUAAAUU----U---------------------------------AA
+MMSYN1_0141  UAAAUAAAAUAA--AAAAC----------------------ACUAA--CA
+MMSYN1_0136  AAUAAUAAAUAA--UAGUA---------------------AGUAAA--AU
+MMSYN1_0488  AUGAACCUUUAAUUU-----------------------------AA--AC
+MMSYN1_0617  AUAGAAGAAUAA--------------------------------AA--AA
+MMSYN1_0130  AAAAAUAAUU---UU---------------------------U-----GA
+MMSYN1_0575  AAUUUUAGAUAA--U-----------------------------AA--AA
+MMSYN1_0368  AAUUUUGAAUAA--------------------------------AA--AA
+MMSYN1_0898  AUUGAUAAUUAA-AUAUUGU--------------------UUU-AA--AA
+MMSYN1_0414  AAAAUUAAAUAA--UAA---------------------------AA--AA
+MMSYN1_0400  AAUUUUAAA-AA-------------------------------AUC--AC
+MMSYN1_0753  UUAGAUAAAUAA--------------------------------AA--AG
+MMSYN1_0561  AUAAGUAACUAA-AUAAAUUUCUCUUAACCUAAUAAAGCAAAUACC--AA
+MMSYN1_0478  AUAGAAGAUUAA-------------------------------AAA--AA
+MMSYN1_0309  C--------UAA--------------------------------AA--AG
+MMSYN1_0361  AAUAUCA--UAA-AUAAUU---------------------UUU-AA--GG
+MMSYN1_0481  CUAACUAAA-AA--CAA-------------------------------AG
+MMSYN1_0297  CAAAUUAAAUAA-UU----------------------------AAA--AA
+MMSYN1_0114  AAAUACAAUUAAUUUAAUAU--------------------UAAAAA--AA
+MMSYN1_0586  AAUAUAAACU----U----------------------------AAUAUCC
+MMSYN1_0311  AAGAAUAAUUAA-AUAUUU----------------------AAUAA--AA
+MMSYN1_0278  UAUAGUAAUUAA--UACA------------------------AAAA--AA
+MMSYN1_0272  CAAUCAGAAUAA--------------------------------AA--AC
+MMSYN1_0394  UAAUCUA--UAA-AUAAU------------------------U-----AA
+MMSYN1_0122  AUUAAAAAAUAA--UAA-------------------------CAAA--AA
+MMSYN1_0703  CAAAUUAAUUAA-UUAUUUGUAA--------------AUAUUU-AU--AG
+MMSYN1_0308  AAUAGAAAAUAA-------------------------------AAA--AG
+MMSYN1_0474  AAGAAAAAAUAA-UUAAA------------------------UAAA--AA
+MMSYN1_0187  AUAUUUA--UAA-------------------------------AAA--AA
+MMSYN1_0274  AUUAAAAAAUAA------------------------------------GA
+MMSYN1_0344  UAAACAAAAU----U----------------------------AAA--AA
+MMSYN1_0104  GAAAAGAAUUAA-------------------------------AAA--AA
+MMSYN1_0169  AAAACUAAAUAA-AUAAUU----------------------UUAUA--AG
+MMSYN1_0170  AUUAUAGAUU--UUUAA-------------------------UAAA--AA
+MMSYN1_0237  AAAAUAGAAGAA--UAA---------------------------AA--AA
+MMSYN1_0238  AAACUCA--UAA--U----------------------------AAA--AA
+MMSYN1_0732  AAAAGUAAUUAU--UAAUA---------------------UAAAAU--AA
+MMSYN1_0118  CUAGUAGAAUAA--------------------------------AA--AA
+MMSYN1_0343  AUUAAAAAAUAA-AUAGA------------------------AAAA--AA
+MMSYN1_0292  AAGACAAAAUAA--A-A--------------------------AAU--AG
+MMSYN1_0716  AAAUAAGAAUAA-UUAAUCU-------------------AAAACUA--AA
+MMSYN1_0787  AAAAUAAGAUAU-AUAAUUUU-----------------ACUACAAA--AG
+MMSYN1_0008  AAUUUAA--UAA--U----------------------------AAA--AA
+MMSYN1_0598  AAAAAUAAACAAAUUAC-------------------------UAAA--AA
+MMSYN1_0097  AUAAAAAUUUAA--A----------------------------AAA--AU
+MMSYN1_0701  AAAUUAACAUAA--AAC-------------------------U--A--AA
+MMSYN1_0320  AUUAGAA--UAA-AUAA-------------------------CAAA--AA
+MMSYN1_0064  AAACCAAGAGAA--UAAU------------------------U-----GA
+MMSYN1_0178  AUAUUUAAAC----U----------------------------AAA--UU
+MMSYN1_0246  A--------UAA-------------------------------AAA--AA
+MMSYN1_0861  AAAUUUA--UAA--UAC-------------------------AAAA--AA
+MMSYN1_0057  AAAAGUAAAUAAGAUAA---------------------------AA--UA
+MMSYN1_0310  AAAAUAAAAUAA-AUAAUGCAU----------------UGAAUUAA--AA
+MMSYN1_0291  GAUCUAAAAU----UAA--------------------------AAU--AG
+MMSYN1_0463  AAGAUAA--UAA--AAAUCU-------------------CCCG-----AA
+MMSYN1_0748  AUACUUA--UAA--AAAA-----------------------UUA----GA
+MMSYN1_0076  CUUAUUAUUU----UAAUUAU------------------UGACAAA--CA
+MMSYN1_0324  AUAACAAGAUA---U------------------------------A--AA
+MMSYN1_0480  AAAUUAAUAUAA--U----------------------------AAA--AG
+MMSYN1_0287  AUAGUUAAAUAA--AAA-------------------------GUAA--AA
+MMSYN1_0217  AUAACUUAAUAAAUUAAGCA-------------------AAAG-AA--AA
+MMSYN1_0159  AAGUUAAUAUAAAUUAG-------------------------UAAA--AA
+MMSYN1_0216  GAUUGAAAAUGA--UAAU------------------------AAAA--AA
+MMSYN1_0271  AAUAUAAAA----------------------------------AAA--AC
+MMSYN1_0085  AAUUCUA-UUAA-U---CAA--------------------AAC-AA--AA
+MMSYN1_0903  GAAAAAAAAUAA--UAUU------------------------G-----AA
+MMSYN1_0469  CUUAUUAAAUAA-AUAA--------------------------AAA--AA
+MMSYN1_0163  AAUAAUAUUUAA--UAA--------------------------AUC--AA
+MMSYN1_0172  AAAGAAGUAUAA--AAA---------------------------AA--CA
+MMSYN1_0451  AUUAAUA--UAA--UAAU-----------------------CAAAA--AA
+MMSYN1_0208  AAUAGUUAAUAA--AAU--------------------------AAA--AA
+MMSYN1_0174  AAAGAAGUAUAA---AA--------------------------AAA--CA
+MMSYN1_0007  AUUAAAAUAUAA--CAA----------------------------A--AA
+MMSYN1_0296  A--------UAA---AA--------------------------AAA--AG
+MMSYN1_0039  AAAGACAAAUAA--UAAUAU-------------------AAACAAA--AA
+MMSYN1_0437  AUAAACA--UAA--------------------------------AA--AA
+MMSYN1_0256  AUAAGAA--CAA-------------------------------AAA--AA
+MMSYN1_0386  AUAUCAAAUUAA-AUACUU---------------------AUU-UA--AA
+MMSYN1_0188  AAAAGAA--UAA--U----------------------------AAA--AA
+MMSYN1_0652  CAUAUUUGAUAA-------------------------------AAA--AG
+MMSYN1_0731  AAUUUACAAUAA--U-----------------------------AA--AA
+MMSYN1_0713  AAGUCUAAAAAA--UAAG------------------------A-AA--AA
+MMSYN1_0729  UAAUUAAAAU--CUUAA--------------------------AAU--AA
+MMSYN1_0277  AUUAGUAAAG--CUUAA--------------------------AAA--AA
+MMSYN1_0637  CAAAACG--U----UAAUC---------------------UCCA----GA
+MMSYN1_0204  AUUAAAAAA--A-------------------------------CAA--CA
+MMSYN1_0222  AAAAGUAAAUAA-AUAAUA----------------------GUAGA--AC
+MMSYN1_0038  AUUAAAAGAU----UAA--------------------------AAA--AA
+MMSYN1_0418  AAGCCAA--CAA-AC----------------------------AAU--UA
+MMSYN1_0179  AAAACAAAAU---UUAUG------------------------CAAA--AA
+MMSYN1_0882  AAAUUUA--UAA--AAAA-----------------------UUAAU--UU
+MMSYN1_0601  AAGAUAAAUCAA-UUAAU-----------------------UUA----UC
+MMSYN1_0035  AAAUCUAAAU---------------------------------AAA--AA
+MMSYN1_0209  AAAAAUA--UAA--U----------------------------AAA--AA
+MMSYN1_0030  AUGAUCA--UAA-------------------------------AAA--AA
+MMSYN1_0715  AGAAUUGUCUAA-UU---------------------------------AA
+MMSYN1_0395  AAUGAAAAAUAA---AA--------------------------AAU--AG
+MMSYN1_0175  AAAAUUGAUUAA--UAAU------------------------C-AA--AA
+MMSYN1_0230  AAAGAUA--UAA--UAGU-----------------------UAAAA--AA
+MMSYN1_0415  UAAUUUA--UAAAAU-----------------------------AA--AA
+MMSYN1_0125  AAAUUAGUUUAA--UAAU------------------------UAUA--AA
+MMSYN1_0604  AAAUAAAAAUAA-UUAACU----------------------UUAAA--AA
+MMSYN1_0453  AAAUCAAGAUGA--UAAU------------------------U-A---AA
+MMSYN1_0827  AGAAUCAAAUGA-UUAGU------------------------AAAA--AA
+MMSYN1_0257  C--------UAA--A----------------------------AAA--GA
+MMSYN1_0687  AAAUUUA--UAA--UAA---------------------------AA--AA
+MMSYN1_0606  AAUACUAAUUAA--UAGA-----------------------UUAAA--AA
+MMSYN1_0613  AUUUUAA--UAAAAU----------------------------AAA--AA
+MMSYN1_0886  AAAAUUAAUUAA--UAAC-----------------------CU--G--AG
+MMSYN1_0413  AUGAUAAAACAU--U----------------------------AAA--AA
+MMSYN1_0767  AAUAACAUACAU-UU----------------------------AGC--CA
+MMSYN1_0345  AUAGAUA--CAA-AU----------------------------AAA--AA
+MMSYN1_0101  CAUUGAA--U----U---------------------------CA----UA
+MMSYN1_0700  CAAAUUA--UAA--UAAUU----------------------AGAAA--AA
+MMSYN1_0673  AUAAAUAAAUAA--UAU-------------------------UAAA--AU
+MMSYN1_0305  AAUAAUAAAUAA-UUAC-------------------------------AA
+MMSYN1_0706  AUUUUUAAAUAA--UAAG-----------------------UU--A--AA
+MMSYN1_0806  UUGAAUAAUU--UUU---------------------------------AA
+MMSYN1_0171  AAAUGCAAUUGA--UAUU------------------------U--A--AA
+MMSYN1_0332  ACAAUAGUUUAA--UAGUU----------------------UU-AA--AU
+MMSYN1_0012  AGAAUUAAAGAA--U----------------------------AAA--AA
+MMSYN1_0080  AAGAAAAAAUAA--UAAA------------------------UAUA--AG
+MMSYN1_0542  AGAACAAAAUAA-UUAAUCAGAA--------------AAAUAUAUA--AA
+MMSYN1_0093  AAAAUAAAUU--UUUAAU------------------------UAAA--AA
+MMSYN1_0756  AAUUUUUAAUAA-AU-----------------------------AA--AA
+MMSYN1_0822  UAUUCUAAUUGA--U----------------------------AAA--AA
+MMSYN1_0850  AUAUUAA--UAA--U----------------------------A----AA
+MMSYN1_0743  AGUUCAAGCU----UAA--------------------------AAC--AC
+MMSYN1_0117  CCUGUUAGAUAA-------------------------------A----AG
+MMSYN1_0335  CAACACAAUUAA-UUAGAAUAU---------------GUGUAG-AA--AG
+MMSYN1_0134  AUUAAUAAUUAA-AUAAUC----------------------GC-AA--UU
+MMSYN1_0482  AAUAGUGGUUAA--UAAUU---------------------UAU-AA--UU
+MMSYN1_0866  GUAAAUA--U---CU----------------------------AAA--CA
+MMSYN1_0133  UUGAAUAGCUGA-UU-----------------------------UA--AA
+MMSYN1_0538  AUUAUCAUAGAA--U----------------------------AAA--AA
+MMSYN1_0025  AAGAUAAUAUAA-----A-----------------------GCAAA--AA
+MMSYN1_0176  AUAUCUA--U----UAG--------------------------AAA--AA
+MMSYN1_0129  AUAGUUAAAU----U----------------------------A----AA
+MMSYN1_0634  UAUAGUAAUUGA-GU----------------------------AAA--AA
+MMSYN1_0454  UAAAUUAAAUAA-UUAGUGUA-----------------AAUAAAAA--AG
+MMSYN1_0173  GAAAUUAAAUCA-AUAAU------------------------C-AA--AA
+MMSYN1_0852  AGAGUUAAAG---UU-----------------------------AA--AC
+MMSYN1_0033  UUGAUUA--C---------------------------------A----AA
+MMSYN1_0915  AAAAUAA--UAA--UAAUUUUACACAAU---UAUACGGACUUUA------
+MMSYN1_0877  AUAACUA--U----UAAU-----------------------UUAUU--AG
+MMSYN1_0812  GAUUAAAAAUAA-------------------------------AAA--AA
+MMSYN1_0065  GAAAUUAAUUGA-UUAAU-----------------------GC-AU--AA
+MMSYN1_0060  AAAAAUAUAUCA-AUAAUA----------------------UC-AA--AA
+MMSYN1_0151  AAAAAUAAUUAA-AUAAUU---------------------UAU-AA--AA
+MMSYN1_0499  AUUCCUAACUAAUUU----------------------------AAA--GA
+MMSYN1_0726  C--------UAAUUU-----------------------------AA--AA
+MMSYN1_0146  AAGAAAAAAUAA--U-----------------------------GA--AA
+MMSYN1_0306  AAAGACAUAUAA-------------------------------A------
+MMSYN1_0757  AUUUUUA--UAA--CAA--------------------------AAA--AA
+MMSYN1_0034  AAUAAAAGAU----U-----------------------------AA--AC
+MMSYN1_0571  AAAGAUAAAUAAUUUAAUAUA------------------UUGAAUA--UA
+MMSYN1_0840  AAUCAAAAAUGA-UU-----------------------------AA--AG
+MMSYN1_0789  AUAAUAAAAU---------------------------------AAA--AA
+MMSYN1_0490  CAUAUCAAAUAA-AUACUUAG-----------------ACAUAAAA--AG
+#=GC SS_cons ::::::::::::..:::..........................<<<..<<
+#=GC RF      AAAAuaAAAUAA..UAA..........................AAA..AA
+
+MMSYN1_0607  U-CU-AGA-C-UUUUAUUA-------------UGUUUUAAUAAA----GG
+MMSYN1_0764  U-UC-UUA-A-A----------------------------UGU------U
+MMSYN1_0783  G-UA-GUU--------------------------------AAU-------
+MMSYN1_0119  C-GA-GAA-U-U----------------------------UAAA-----U
+MMSYN1_0382  A-UU-AAA-A-A----------------------------ACU-U---UU
+MMSYN1_0588  C-CU-UUA-G-U----------------------------UAG-U---UC
+MMSYN1_0154  A-CA-ACU-U-U----------------------------UAC------A
+MMSYN1_0900  U-CU-CUA-G-UGAUUAUG--------------UUUUUUAUAAAU---CC
+MMSYN1_0195  C-CU-UGG-A-A----------------------------AAU------U
+MMSYN1_0505  A-UG-AAC-U-U----------------------------UUA------A
+MMSYN1_0629  U-GA-UCU-U-AAUCA-------------------AAAAUGAUA-----A
+MMSYN1_0059  U-CU-AGC-A-------------------------------AU------U
+MMSYN1_0784  C-AA-AUG-U-U----------------------------AUUA-----U
+MMSYN1_0574  G-CA-AGA-C-U----------------------------UUAA-----G
+MMSYN1_0901  U-CU-CCA-A-AUCUUAU---------------UCUCUAAAUAA----GU
+MMSYN1_0881  U-UC-CUA-A-CGAUCU------------------AAAAGAUC------U
+MMSYN1_0584  C-UU-UAG-A-U----------------------------UAUA-----U
+MMSYN1_0160  C-UC-UUA-G-U----------------------------UUU-----UU
+MMSYN1_0712  G-CA-GAU-C-A----------------------------UUAA----AG
+MMSYN1_0870  A-CU-UAC-A-A----------------------------AAAA----AU
+MMSYN1_0551  A-UC-UUA-A-A----------------------------UAA-----UU
+MMSYN1_0632  A-GA-AGA-U-A----------------------------UAAA-----A
+MMSYN1_0113  C-AA-GUA-A-C---------------------------AUUUA-----U
+MMSYN1_0438  U-AG-AAG-C-U----------------------------UUA------G
+MMSYN1_0491  C-GU-UAC-U-A----------------------------AAAA-----A
+MMSYN1_0037  G-UG-AAG-U-U----------------------------AUAAA---GA
+MMSYN1_0396  U-UA-GUA-A-UUG------------------------UCACUA-----U
+MMSYN1_0859  A-UC-CUU-C-G----------------------------CAA------G
+MMSYN1_0885  G-AA-UUG-C-U----------------------------AUA------G
+MMSYN1_0788  C-CU-AUA-C-UAUUUUUCUA---------UUAAUUUAGAACUA-----G
+MMSYN1_0393  A-CU-AUC-C-U----------------------------UCA-----UG
+MMSYN1_0141  U-CA-GUC-U-G----------------------------AAUA-----A
+MMSYN1_0136  A-AU-AGC-A-A----------------------------AUU------U
+MMSYN1_0488  C-AG-UUA-U-UAGCUAAUUUUUUUUAAAUCUUUAGCUUUUAAA-----A
+MMSYN1_0617  A-CU-GGA--------------------------------CUAA------
+MMSYN1_0130  A-CC-UAG-U-A----------------------------AAU------A
+MMSYN1_0575  G-CA-AGA-C-U----------------------------UAAA-----G
+MMSYN1_0368  G-CA-AAG-A-UUCUAGUUU------------UUUAACUAGUU------U
+MMSYN1_0898  A-GA-CUG-A-A----------------------------AUU------U
+MMSYN1_0414  U-CC-GGG--------------------------------AUC-------
+MMSYN1_0400  C-UC-UAA-U-A----------------------------CAUA----UA
+MMSYN1_0753  U-UC-UUG-G------------------------------UAC------C
+MMSYN1_0561  C-UU-AUU-U-A----------------------------ACAA-----A
+MMSYN1_0478  U-CG-UAA-C-UAA------------------------UUUAAA-----G
+MMSYN1_0309  G-GC-UUA-A-U----------------------------UUU-----UU
+MMSYN1_0361  U-GU-UAA-G-U----------------------------AUAAU--UAC
+MMSYN1_0481  G-CU-UGG-A-U----------------------------AAU------U
+MMSYN1_0297  G-AC-AGA-C-UU--------------------------UUCUA-----G
+MMSYN1_0114  G-CA-AGU-A-A----------------------------UAAAU--GUU
+MMSYN1_0586  U-UU-AGA-U-U----------------------------UUU------A
+MMSYN1_0311  A-UA-GAC-C-U----------------------------AUU------G
+MMSYN1_0278  G-AC-UUU-C-------------------------------UAA-----G
+MMSYN1_0272  A-AG-AUG-A-A----------------------------AAAA-----U
+MMSYN1_0394  C-UC-ACA-A-U----------------------------UAAA-----U
+MMSYN1_0122  U-CA-GCA-C-A----------------------------ACUA----AG
+MMSYN1_0703  C-AA-UAG-C-U----------------------------AAU-----GG
+MMSYN1_0308  G-GC-UUA-A-A----------------------------AAAA-----U
+MMSYN1_0474  A-UG-CAG-G-UGUAGA------------------GGAGGAAAA-----C
+MMSYN1_0187  U-CU-CGG---U----------------------------AUC-------
+MMSYN1_0274  A-GA-CUU-C-AAU-----------------------AAAAUAA-----G
+MMSYN1_0344  A-UG-GAU-U-A----------------------------UCAAC---UA
+MMSYN1_0104  U-AG-GUU-A-G----------------------------AUCA----AU
+MMSYN1_0169  C-AA-UAC-C------------------------------UCAA-----G
+MMSYN1_0170  A-AA-CAG-C-U----------------------------UUAA-----G
+MMSYN1_0237  A-UC-AAG-C-U----------------------------UAA------G
+MMSYN1_0238  U-CA-AGC--------------------------------UUAA------
+MMSYN1_0732  G-CC-CCU-U-AUUAUUUGA-----------UUAAAAAUCAAAA-----A
+MMSYN1_0118  A-CG-AGA-A-A----------------------------UUUAA---AU
+MMSYN1_0343  U-GG-AUU-A-G----------------------------UUGA-----U
+MMSYN1_0292  U-AC-AUA-C-U----------------------------UUUAU--AAG
+MMSYN1_0716  U-UA-AAG-A-UUUAU-------------------AAUUUUAAAU---GU
+MMSYN1_0787  U-UC-AAA-U-A---------------------------CAAAAUUUGUG
+MMSYN1_0008  A-UC-GGG-A-------------------------------UU------U
+MMSYN1_0598  A-GA-GCU--------------------------------AUGA------
+MMSYN1_0097  A-GU-GAG-U-C----------------------------UACA-----G
+MMSYN1_0701  A-CA-GAU-C-U----------------------------UAU------G
+MMSYN1_0320  C-UU-GAA-U-G---------------------------UCUUA-----A
+MMSYN1_0064  G-UA-GAA-C-U----------------------------UACA----UG
+MMSYN1_0178  A-AG-CAU-C-------------------------------UUA-----G
+MMSYN1_0246  A-UC-AAG-G-G----------------------------UAA------C
+MMSYN1_0861  A-CA-GCU-U-U----------------------------UAAA-----A
+MMSYN1_0057  A-UU-CAA-U-GAGUAACAUA----------AAAAUAAUUAUUA-----A
+MMSYN1_0310  A-UA-GAC-C-A----------------------------AUA------G
+MMSYN1_0291  U-AC-ACA-C-U----------------------------UAUAA--AAG
+MMSYN1_0463  C-CC-CAUAU-UCCGGACU--------------AAAAUCCAGGA-----A
+MMSYN1_0748  C-CU-UAG-C-AAG------------------------CAAACA-----G
+MMSYN1_0076  A-AU-GCA-A-UACAAAA----------------UUAAAUGCUA-----U
+MMSYN1_0324  A-GC-AGU-C-------------------------------UUA-----G
+MMSYN1_0480  G-CU-UGG-A-A----------------------------UUA------U
+MMSYN1_0287  G-UA-GGG-U-C----------------------------UAAA-----A
+MMSYN1_0217  G-CU-CAU-C-A----------------------------AUU------G
+MMSYN1_0159  G-CU-CUU-A-A----------------------------AAAAA---CU
+MMSYN1_0216  G-CU-CAU-C-A----------------------------AUU------G
+MMSYN1_0271  A-AG-AUG-A-U----------------------------UUU-----UU
+MMSYN1_0085  G-CA-AGA-A-U----------------------------AUU------U
+MMSYN1_0903  U-CU-CUA-G-G----------------------------UUA-U---GC
+MMSYN1_0469  G-AU-GAU-U-UCUAACUU--------------AGUUAGAUUUA-----A
+MMSYN1_0163  G-AC-UUA-A-UUAAUUGU--------------UUUUAACAAUA-----U
+MMSYN1_0172  A-GA-GAU-C-A----------------------------UAU------G
+MMSYN1_0451  U-CC-AAG-C-AA--------------------------AAUAA-----G
+MMSYN1_0208  A-CU-GAA-U-UAACAAAAA-----------UAAAGAUUUGUU------A
+MMSYN1_0174  A-GA-GAU-C-A----------------------------UAU------G
+MMSYN1_0007  A-AU-CGG-G-A----------------------------AAU------C
+MMSYN1_0296  A-CA-GAC-U-A----------------------------GAAA-----A
+MMSYN1_0039  A-CC-AAG-A-U---------------------------UUAUAA---CU
+MMSYN1_0437  U-AG-AAG-C-U----------------------------AAA------G
+MMSYN1_0256  U-AG-CUA-A-UUCUUU------------------AAAUAGUAA-----U
+MMSYN1_0386  C-UC-CUA-A-A----------------------------UAU------U
+MMSYN1_0188  A-UC-UCG-G------------------------------GAUA-----C
+MMSYN1_0652  G-CA-------------------------------------AUA------
+MMSYN1_0731  G-CC-CCU-U-UUUUGAUUU------------UUAAUCAAAUAA----UA
+MMSYN1_0713  U-GC-AGACC-U----------------------------UUAA----UG
+MMSYN1_0729  C-UA-GCA-C-U----------------------------ACCAA--GGG
+MMSYN1_0277  G-AC-UUU-C-------------------------------UUA-----G
+MMSYN1_0637  G-CA-ACA-C-A----------------------------UUU-----UG
+MMSYN1_0204  CUAG-AAA-C-UAG------------------------UAUUUAU---CG
+MMSYN1_0222  U-UG-CAA-A-U----------------------------AAU------U
+MMSYN1_0038  C-CA-AGAGU-U----------------------------AUAA-----A
+MMSYN1_0418  A-AA-GAA-C-A----------------------------UAA------G
+MMSYN1_0179  U-UC-AAG-U-A----------------------------AAAA-----A
+MMSYN1_0882  A-GC-AAC-C-A----------------------------UAU------G
+MMSYN1_0601  C-CU-GAA-C-U----------------------------UUU------G
+MMSYN1_0035  U-AC-AGG---A----------------------------UUU-------
+MMSYN1_0209  A-AC-UGA-A-UAACAAAUCU----------UUAUUUUUGUUAA-----U
+MMSYN1_0030  U-GC-ACC-A-------------------------------CU------U
+MMSYN1_0715  G-GC-A----------------------------------ACC-------
+MMSYN1_0395  U-UA-GUA-A-UAG------------------------UGACAA-----U
+MMSYN1_0175  C-AA-GAG-A-C----------------------------CAUAU--GAU
+MMSYN1_0230  C-UU-AGC-U-U----------------------------AAAA-----A
+MMSYN1_0415  U-CC-GGG--------------------------------GAU-------
+MMSYN1_0125  G-UU-CAG-A-U----------------------------UAAA-----U
+MMSYN1_0604  C-UA-AGU-C-U----------------------------ACAAU---UG
+MMSYN1_0453  G-UU-CAA-A-------------------------------UUA-----U
+MMSYN1_0827  U-CU-CUA-U-AUAUGAUCUUAAC---UUUUAAGUUUGUAUAAA-----A
+MMSYN1_0257  U-AA-AUC-A-U----------------------------AAU-----CU
+MMSYN1_0687  A-AU-GGG-C------------------------------ACU------G
+MMSYN1_0606  A-CU-CAC-U-U----------------------------UAU------A
+MMSYN1_0613  U-CU-AAG-U-UG-------------------------UUUAAA-----A
+MMSYN1_0886  U-UC-AAC---A----------------------------CAAA----U-
+MMSYN1_0413  U-AA-AGA-C-U----------------------------UUU-----UG
+MMSYN1_0767  A-AU-ACUAA-A----------------------------UUUA------
+MMSYN1_0345  U-GC-CG----------------------------------UU-------
+MMSYN1_0101  G-AA-CUA-C-A----------------------------UUU-----GG
+MMSYN1_0700  C-AA-AUC-U-A----------------------------UUA------A
+MMSYN1_0673  U-AC-AUC-A-A----------------------------UUU------U
+MMSYN1_0305  A-AU-GAC-C-U----------------------------AAAA----UG
+MMSYN1_0706  U-UC-CCU-U-AG-------------------------AUAAAAU---CA
+MMSYN1_0806  A-CU-CAC-C-A----------------------------UAA-U---GG
+MMSYN1_0171  A-GA-UAG-G-U----------------------------AAA-----UC
+MMSYN1_0332  C-UU-AUU-A-UUUAUG-----------------CUUUAUUAAA-----U
+MMSYN1_0012  U-CU-CAG-A-C----------------------------UUU-----UU
+MMSYN1_0080  A-UU-ACU-C-AACCAUCUA-----------AAAAACUAUUGU------G
+MMSYN1_0542  A-AC-UAA-C-A----------------------------UUA------G
+MMSYN1_0093  G-CUUAAC-AAACUAAAAGU-----------ACGAUGUGUACUAGG-UUU
+MMSYN1_0756  G-GA-GCU--------------------------------UUUA------
+MMSYN1_0822  G-UG-CU---------------------------------AGCA------
+MMSYN1_0850  A-GA-GUG-C-U----------------------------UAU------G
+MMSYN1_0743  A-UC-CUC-U-U----------------------------UUU------A
+MMSYN1_0117  A-AU-UAA-C-A----------------------------ACAA-----G
+MMSYN1_0335  A-AG-AAU-U-U----------------------------AAAA-----A
+MMSYN1_0134  G-AC-UCA-C-U----------------------------UAU------G
+MMSYN1_0482  A-AG-AGU-C-U----------------------------UUAA----UG
+MMSYN1_0866  A-AU-AGC-C-U----------------------------UAUA-----G
+MMSYN1_0133  U-GG-AUU---A----------------------------UUAAA---C-
+MMSYN1_0538  G-UA-UGA-U-U----------------------------AUAA-----A
+MMSYN1_0025  G-CU-GCC---A----------------------------UAAA------
+MMSYN1_0176  C-UC-UAG-U-U----------------------------UUUA-----A
+MMSYN1_0129  C-UC-ACA-A-U----------------------------UUAA-----U
+MMSYN1_0634  G-GU-AG---------------------------------AAAA------
+MMSYN1_0454  U-CA-UAA-G-U----------------------------UAGA----CC
+MMSYN1_0173  C-AA-GAG-A-C----------------------------CAUAU--GAU
+MMSYN1_0852  U-CA-AUU-C-U----------------------------UUUAU---AG
+MMSYN1_0033  A-CA-GCU---------------------------------UAA------
+MMSYN1_0915  U-CG-CUG-C-GCUCGGU----------------CGUUCGGCU------G
+MMSYN1_0877  A-CU-UC----U----------------------------UUAA------
+MMSYN1_0812  A-CU-AAAAC-U----------------------------AUUA------
+MMSYN1_0065  C-CG-ACU-U-U----------------------------UAUAA---UA
+MMSYN1_0060  C-AA-GCC---------------------------------AC-------
+MMSYN1_0151  G-AA-CUA-G-U----------------------------UAU-----UC
+MMSYN1_0499  A-CU-CAU------------------------------------------
+MMSYN1_0726  G-CU-AAU--------------------------------UAG-------
+MMSYN1_0146  A-AG-CUGAU-U----------------------------AUU------A
+MMSYN1_0306  A-AC-CCC-A-UUUCCUGGAU---------UUUAGUCCGGAAUA-----U
+MMSYN1_0757  G-GA-GUU--------------------------------UAAA------
+MMSYN1_0034  C-AA-AUA---C----------------------------AUU-----G-
+MMSYN1_0571  C-CU-UUA-C-AU-------------------------UC-UAA-----G
+MMSYN1_0840  C-UA-GU----U----------------------------AAAA------
+MMSYN1_0789  C-CU-AUA-C-UAGUUCUAAA---------UUAAUAGAAAAAUA-----G
+MMSYN1_0490  C-GU-UAC-U-U----------------------------UUU-----UA
+#=GC SS_cons <.<<.<<<.<._............................____.....>
+#=GC RF      a.cu.aua.c.u............................uauA.....g
+
+MMSYN1_0607  -UUUAGAUU--UUGUU-----------------------UUUUAAUG--A
+MMSYN1_0764  -UAAGAACC--UU-UUU------------UAUUAUCU--UAUUACAA---
+MMSYN1_0783  -AACUACUU--UU-UU---------------------------UAUU---
+MMSYN1_0119  -UUCUCGUU--UU-UU---------------------------UAUU--C
+MMSYN1_0382  -UUUAGUUU--AU-UUUAGUA-----GAUCU---UAU--UUUUUAAU---
+MMSYN1_0588  -UAAAGGAU--UU-UU---------------UAAUUUA-GAUUUAAU---
+MMSYN1_0154  -AGUUGUCU--UU-UU--------------AUUUAUUA---AAGG--U-A
+MMSYN1_0900  -UAGAGAUU--UU-UU------------------------UAUUAAU---
+MMSYN1_0195  -CCAAGGUU--UU-UUU-------------AUACACUU-UUUUUGAU---
+MMSYN1_0505  -GUUCAUUU--UU-UU---------------UAUGUAA-----AAAU---
+MMSYN1_0629  -AGAUCAUU-----UU---------------UUAUUUU-GUUUUCUU---
+MMSYN1_0059  -GCUAGAUU--UU-UUAU----------AUCUAUUUU--UAAAU---CUU
+MMSYN1_0784  -CAUUUGAA--CU-UU---------------UUUAUUA-UAUUAAUUU-G
+MMSYN1_0574  -UCUUGCUU--UU-AU---------------UAUCUAA-----AAUU--A
+MMSYN1_0901  -UGGAGAUU-----UU---------------UAUUUU--UAUAAAAA---
+MMSYN1_0881  -UAGGAAUU--UU-UUA-------------UUUUGUUU-----AAAU---
+MMSYN1_0584  -CUAAAGGA--UU-UU---------------UUAACUA-----UAUU---
+MMSYN1_0160  -UAAGAGCU--UU-UUA-------------CUAAUUUA-UAUUAACUU-G
+MMSYN1_0712  -GUCUGCAU--UU-UU--------------CUUAUUUU-UUAGACUUA-A
+MMSYN1_0870  -GUAAGUCU--UU-UU---------------UGUUCU--UACUUGGA---
+MMSYN1_0551  -UAAGAUCU--UG-UU---------------UUUUUUA-------UU---
+MMSYN1_0632  -UCUUCUCU--UU-UU---------------UAUAAUGGUAAGUCUU---
+MMSYN1_0113  -UACUUGCU--UU-UUUUAAU----AUUAAAUUAAUUG-UAUUUAUU---
+MMSYN1_0438  -CUUCUAUU--UU-UU---------------AUGUUUA-UAAAACAUU-U
+MMSYN1_0491  -GUAACGCU--UU-UU-----------------------------AU---
+MMSYN1_0037  -CUUCACUU--UU-UU---------------AUUGUUU-UAAAAUGU--G
+MMSYN1_0396  -UACUAACU--AU-UU---------------UUUAUU--UUUCAUU---C
+MMSYN1_0859  -AAGGAUUU--UUAUU---------------UGGUCUA-GUAUUAAUA-A
+MMSYN1_0885  -CAGUUCUU-----UU---------------UUUGUAU-----AAAA---
+MMSYN1_0788  -UAUAGGUU--UU-UA-----------------------UUUUAUUA---
+MMSYN1_0393  -GAUAGUUU-----UU--------------AUUAAUUU-----AGCA---
+MMSYN1_0141  -GGCUGAUG--UUUAU---------------------------CAUA---
+MMSYN1_0136  -GCUAUUAU--UU-UU---------------UAUUUUA-------AU---
+MMSYN1_0488  -UAACUGGU--UU-UU-------------------------UAAAUU---
+MMSYN1_0617  -UCCAGUUU--UU-UU---------------------------AGUU---
+MMSYN1_0130  -CUAGGUUU-----UU---------------UUAUGUU-UUUUACUG---
+MMSYN1_0575  -UCUUGCUU--UU-UUACU---------AACUAAUUUU-UAUUAAUU---
+MMSYN1_0368  -CUUUGCUU--AU-UUUUU---------UAAUUGGUU--UAUAAGAU--U
+MMSYN1_0898  -CAGUCUUU--UU-UU--------------GUUAUUU--GCUUUGUU--A
+MMSYN1_0414  -CCCGGAUU--UU-AU---------------UUUAUA------AAUU--A
+MMSYN1_0400  -UGAGAGGU--GA-UU---------------UUUAUUA-----AACU---
+MMSYN1_0753  -CAAGAACU--UU-UU-----------------------UAAUACAA--A
+MMSYN1_0561  -AAUAGGUU--GG-UU---------------U---------UUUGUU---
+MMSYN1_0478  -UUACGAUU--UU-UU--------------CUUUUUUC-----UUAU---
+MMSYN1_0309  -UAAGCCCU--UU-UUU-------------AUUUUCUA-UUAUAAUUU-A
+MMSYN1_0361  -UUGACACC--UU-UU-----------------------UUUAAAAU---
+MMSYN1_0481  -CCAAGCCU-----UU---------------UAUUAUA-UUAAUUUU---
+MMSYN1_0297  -UCUGUCUU--UU-UU---------------UUA-----UACAAAUUU-U
+MMSYN1_0114  -ACUUGCUU--UU-UU---------------------------AGUU---
+MMSYN1_0586  -UCUAAAGGAUUU-UU--------------UUAUAUUA-----AAUU---
+MMSYN1_0311  -GUCUAUUU--UU-AA---------------UUCAAUG-----CAUU---
+MMSYN1_0278  -AAAGUCUU--UU-UU---------------UAAGCUU-UACUAAUUU-C
+MMSYN1_0272  -CAUCUUGU--UU-UU-----------------------UUUAUAUU---
+MMSYN1_0394  -UGUGAGUU-----UU---------------UAUUUU--UAACUAUAA-G
+MMSYN1_0122  -UGCUGAUU--UU-UU--------------AUUAUCUA-----UUAA---
+MMSYN1_0703  -CUAUUGCU--UU-UUA-------------UUUUAUUA-----AGAU---
+MMSYN1_0308  -UAAGCCCU--UU-UU---------------------------AGCG---
+MMSYN1_0474  -CUGCAUUU--UU-UU--------------AUUAUUGU-UAUUAUCU---
+MMSYN1_0187  -CCGAGAUU--UU-UUA------------UU-AUUCUUUUAAUAAUU--C
+MMSYN1_0274  -AAGUCUUU-----UU---------------UAAUCAA-UUUUAGUUU-A
+MMSYN1_0344  -AUCCAUUU--UU-UUC------------UAUUUAUUU-UUUAAUUU---
+MMSYN1_0104  -AACCUAUU--UU-UU---------------UGUAUAU-----AAAA---
+MMSYN1_0169  -GUAUUGCU--UU-UU------------------------UAUAAAA---
+MMSYN1_0170  -CUGUUUUU--UG-UUUAUUC----AUCUAAUGUUUU--UAAAAGUU---
+MMSYN1_0237  -CUUGAUUU--UU-AUUAU---------GAGUUUUUAA-UUUUUAUU---
+MMSYN1_0238  -GCUUGAUU--UU-UU---------------------------UAUU--C
+MMSYN1_0732  -AGGGGCUU--UUAUUAU-----------UGUAAAUU---UUUAAUUU-G
+MMSYN1_0118  -UCUCGUUU--UU-UUA-------------AUAUGAUC-UUAAAAAU--A
+MMSYN1_0343  -AAUCCAUU--UU-UUA-------------AUUUUGUU-UAUUAAAU---
+MMSYN1_0292  -UGUGUACU--AU-UU---------------UAAUUUU-------AG---
+MMSYN1_0716  -CUUUAGUU--UA-GU------------------------UUUAAUU---
+MMSYN1_0787  -UUUGAACU--UU-UU-----------------------------CU---
+MMSYN1_0008  -CCCGAUUU--UU-UUG-------------UUAUAUU--UUAAUCUU---
+MMSYN1_0598  -AGCUCUUU--UU-UUA-------------AUGAAUCC-------UU--A
+MMSYN1_0097  -CUCACUAU--UU-UU---------------------------AGUU--A
+MMSYN1_0701  -AUCUGUUU--U--UU---------------UGUUCUA-UAUCAAAA--U
+MMSYN1_0320  -UUCAAGUU--UU-UU-----------------------------AU--U
+MMSYN1_0064  -UUCUACUU-----UU---------------U-------UAUUACAA---
+MMSYN1_0178  -AUGCUU----UU-UU---------------UUAGUUG-U-----AU---
+MMSYN1_0246  -CUUGAUUU--UU-UA---------------UUUACUU-----UAAU---
+MMSYN1_0861  -AGCUGUUU--UUGUU---------------UUAGUUG-UUCUAGGU--A
+MMSYN1_0057  -UUGAAU----UU-CU---------------UAUUUUA-----AAAG---
+MMSYN1_0310  -GUCUAUUU--UU-AU-----------------------UAAAUAUU--U
+MMSYN1_0291  -UAUGUACU--AU-UU---------------UUUAUUU-UGUCUUCUU-U
+MMSYN1_0463  -AUGGGGUU-----UU---------------UAUAUG------UCU---A
+MMSYN1_0748  -CUAAGGUU-----UU---------------UAAUUUG-CAAAUAGUU-U
+MMSYN1_0076  -UGCAUUUG--UU-UU---------------UAUUCUC-----UAAU---
+MMSYN1_0324  -ACUGCUUU--U--UUUGUU------AAAUGUUUUUUU-UAAAAAAU---
+MMSYN1_0480  -CCAAGCCU--UUGUU--------------UUUAGUUA-GAAGAGAU--A
+MMSYN1_0287  -CCCUACUU--UU--------------------------------UU---
+MMSYN1_0217  -AUGAGCUU--UU-UU--------------AUUAUCAU-UUUCAAUC---
+MMSYN1_0159  -AAGAGCUU--UU-U----------------------------AACU--U
+MMSYN1_0216  -AUGAGCUU--UU-CU---------------UUUGCUU-----AAUU---
+MMSYN1_0271  -CAUCUUGU--UU-UU----------------AUUCU------GAUU--G
+MMSYN1_0085  -UCUUGCUU--UU-UU---------------UAAUCUU-UAACUACA--U
+MMSYN1_0903  -UAGAGAUU-----UU---------------UUGUUUU-----UAUU---
+MMSYN1_0469  -AUCAUCUU--UU-UU---------------UUAGUU--UUAAAAAU---
+MMSYN1_0163  -UAGGUCUU--GU-UU---------------UUUUUUU------UUU---
+MMSYN1_0172  -GUCUCUUG--UU--U-----------------------UGAUUAUU--G
+MMSYN1_0451  -CUUGGAUU--UUCUU---------------UUAUUUA-----AAAU--C
+MMSYN1_0208  -UUCAGUUU--UU-UUA-------------UUAUAUUU------UUU--C
+MMSYN1_0174  -GUCUCUUG--UU-UUGAU---------UAUUAAUCAA-UUUUAGUU---
+MMSYN1_0007  -CCGAUUUU--U---U---------------AUUAUU------AAAU---
+MMSYN1_0296  -GUCUGUCU--UU-UUA-------------AUUAUUUA-----AUU-U-G
+MMSYN1_0039  -CUUGGUUU--UU-UU---------------------------AAUC---
+MMSYN1_0437  -CUUCUAUU--UU-UUUG----------UAAUUUAUUA-UUUAACUA---
+MMSYN1_0256  -UAGCUAUU--UU-UU--------------AUAAUUU------AAUU--A
+MMSYN1_0386  -UAGGAGCU--UU-UU---------------UG------UAAGUAUA---
+MMSYN1_0188  -CGAGAUUU--UU-UU---------------A-------UAAAUAUU---
+MMSYN1_0652  ----UGCCU--UU-UU---------------UAUUUG--UAUUAAUU--A
+MMSYN1_0731  -AGGGGCUU--AU-UU---------------UAUAUUA-------AU---
+MMSYN1_0713  AUCUGCAUU--UU--U---------------------------UAUU---
+MMSYN1_0729  -UGCUAGUU--UU-UA---------------UUUUUUC-UAAU--UU--A
+MMSYN1_0277  -AAAGUCUU--UU-UU---------------UGUAUUA-------AU---
+MMSYN1_0637  -UGUUGCUU-----UU---------------UAUUU--------GUUU-A
+MMSYN1_0204  -UUUCUGUG--UU-GU---------------UUUUGUU-------CU---
+MMSYN1_0222  -UUGCAAGU--UU-UUU-------------AUUUGUAA-UAAAUAUU---
+MMSYN1_0038  -UCUUGGUU--UU-UU--------------GUUUAUAU-----UAUU---
+MMSYN1_0418  -UUCUUUU---UU-UU--------------GUUUUUUG-UAAAUGUU--U
+MMSYN1_0179  -CUUGAAUU--UU-UU-----------------------UAUUUCUU---
+MMSYN1_0882  -GUUGCU-----U-UU---------------UUUAUUU-----UGCU---
+MMSYN1_0601  -UUCAGGGU-----UU---------------UUCUUUU-UAAUAAAU---
+MMSYN1_0035  -CCUGUAUU--UU-UUU-------------GUCUUCU------AGAU---
+MMSYN1_0209  -UCAGUUUU--UUAUUU------------UAUUAACUA-UUUGAAAUU-G
+MMSYN1_0030  -GGUGCAUU--UUGUU--------------UUUUAUUA-UUAAAAAG---
+MMSYN1_0715  ---UGCCUU-----UU---------------------------UGUA---
+MMSYN1_0395  -UACUAACU--AU-UU---------------UAUUUUA-UUUCUACU---
+MMSYN1_0175  -CUCUUGUU--UU-UU---------------UAUACUU------CUU---
+MMSYN1_0230  -GCUAAGUU--UU-U------------------------------AA---
+MMSYN1_0415  -CCCGGAUU--UU-UU---------------AUUAUUU-----AAUU---
+MMSYN1_0125  -CUGAACUU--UUAUU--------------UUGUUUUU-----AGUG---
+MMSYN1_0604  -AUUUAGUU--UU-UUA-------------UUAUUUUU-UUAUUAGU---
+MMSYN1_0453  -UUGAACUU---U-UU---------------UUAUUU------AAUUA-G
+MMSYN1_0827  -UAGAGAUU--UU-UA--------------UUUUGUUA-------UU---
+MMSYN1_0257  -GGUUUAUC--UU-UU---------------UUUA----UAAAAAUU--A
+MMSYN1_0687  -CCCAUUUU--UU-AU---------------UGUUCUU-CAGUUAAAA-G
+MMSYN1_0606  -GUGAGUUU--UU-UA---------------UUGCUU--GAUAUAUU---
+MMSYN1_0613  -CUUAGAUU--UU-UU---------------UGUUUAU-------AU---
+MMSYN1_0886  -GUUGAACU--U--UU---------------UUUAUUU-----UCUA---
+MMSYN1_0413  -UCUUUAUU--UU-UU-----------------------UAUAAUUA---
+MMSYN1_0767  -AGUAUUUG--GU-UU---------------UUUAUUG-AAAAACAA--A
+MMSYN1_0345  ---GGCAUU--UU-UUA-------------UUAUGUU------UGUU---
+MMSYN1_0101  -UAGUUCUU-----UU-----------------------------UA---
+MMSYN1_0700  -GAUUUGUU--UU-UU---------------AUUAUUU-UAAUUAAA---
+MMSYN1_0673  -GAUGUAAU--UU-UU---------------UUUGCU--UUUUAAUU--A
+MMSYN1_0305  -GUCAUUUU-----UUA-------------AUGUUUUU-UAAUAAAU---
+MMSYN1_0706  -AGGGAAUU--U--UUU-------------AUUUAUUU-------AA---
+MMSYN1_0806  -GUGAGUUU-----UU--------------GUGUGUU--UAAUUGCU---
+MMSYN1_0171  -CUAUCUUU--U---------------------------UAUUUAAU---
+MMSYN1_0332  -AAUAAGAU--UU-UU---------------UAUUUUA-UAAAAAUG---
+MMSYN1_0012  -CUGAGAUU--UU-UU---------------UGAUCUU-UUAAAACU--U
+MMSYN1_0080  -GGUAUUCU--UU-UUUUA---------UUAUUUAUUU-UUUUUAUUU-A
+MMSYN1_0542  -UUAGUUUU--UG-UU---------------UUUAUAG-----AAAA---
+MMSYN1_0093  -GUUUGCUU--UU-UU---------------UUUUUU--------UU---
+MMSYN1_0756  -AACUCCUU--UU-UU---------------UGUUAUA-----AAAA---
+MMSYN1_0822  --AGCACUU--UU-UU---------------UAUGUU--UAAACAUU--A
+MMSYN1_0850  -CACUCUUU-----UU---------------------------AACA---
+MMSYN1_0743  -GAGGAU----UU-UU-----------------------UAAUUAAA---
+MMSYN1_0117  -UUAUUUCU-----UU---------------UAUCUU--UCUUAAUUU-U
+MMSYN1_0335  -GUUCUUCU--UU-UU----------------UAUUUA-----U-CU--C
+MMSYN1_0134  -UGAGUC----UU-UU-----------------------UAUUAAAA---
+MMSYN1_0482  -ACUCUU----UU-UU---------------UAUACUU-UUUUAAAU---
+MMSYN1_0866  -GCUAUUUU--UUAUUAUUCA----AACCCCUGUAUU--UAUAUCUU--U
+MMSYN1_0133  -AAUCCAUU--UU-UUU-------------UUUUUUUU-UAAUAAAAA-G
+MMSYN1_0538  -UCAUACUU--UU-UU-----------------------UAUAAACA---
+MMSYN1_0025  -GGCAGCUU--UU-UU--------------GCAUGUUU-----AAUA---
+MMSYN1_0176  -CUAGAGUU--UU-UU--------------AUAUAUUG-AUAUACUU--A
+MMSYN1_0129  -UGUGAGUU-----UU---------------UAUUUUU-------UU---
+MMSYN1_0634  ---UACCUU--UU-UUA-------------UUUUGCAA-----AAUU---
+MMSYN1_0454  -UUAUGACU--UU-UU--------------AUUAGUUC-----UUAA---
+MMSYN1_0173  -CUCUUGUU--UU-UU---------------UAUACUU------CUU---
+MMSYN1_0852  -GAUUGAGU--UU-UU---------------UUAUUUG-UAAAAAAAU-C
+MMSYN1_0033  -AGCUGUUU-----UU-----------------------UUAUAAAC---
+MMSYN1_0915  -CGGCGAGC--GG--------------------------UAUCAGCU---
+MMSYN1_0877  --GAAGUCU--UU-UU---------------UUUAUU--UAAUAGCA---
+MMSYN1_0812  -UUUAGUAU--UU-UU---------------AGUAUUG-------CU--U
+MMSYN1_0065  -AGUUGGUU--UU-UU---------------UA------UUACUAAA---
+MMSYN1_0060  -GGCUUGUU--UU-UU---------------UGUUU---UAAGAAUU---
+MMSYN1_0151  -UAGUUCUU--UU-UU---------------UUGUUUU-----UAAA---
+MMSYN1_0499  -AUGAGUUC--UU-UU---------------UUUAUUA-----AAUA---
+MMSYN1_0726  -AUUAGCUU--UU-UU-----------------------UAUUUGCU--U
+MMSYN1_0146  -CAGUUUUA--UC-UU---------------------------UAAU---
+MMSYN1_0306  -GGGGUUCG--GG------------------------------AGAU---
+MMSYN1_0757  -AGCUCCUU--UUAUU-----------------------UAUUAAAA---
+MMSYN1_0034  -UGUUUGGU--UU-UU---------------UUAUUUA-------CU---
+MMSYN1_0571  -UAAAGGUU--UU-UU---------------AUUGCUA-----AAAU---
+MMSYN1_0840  --ACUAGUU--UU-UU---------------UAUUAUU-----AAUU---
+MMSYN1_0789  -UAUAGGUU--UU-UUUA-----------UGUUUGUU--UUAAACU---U
+MMSYN1_0490  -GUAACGCU--UU-UUAAAUAGUACUUAUUUUGUUUUU-UAUUAAGUA-A
+#=GC SS_cons .>>>>>>>>..>>.>:...............:::::::.::::::::...
+#=GC RF      .uauaguUU..UU.UU...............UuUuUUu.UAuuAAuU...
+
+MMSYN1_0607  AUUUA
+MMSYN1_0764  GUUUG
+MMSYN1_0783  AUUUA
+MMSYN1_0119  UACUA
+MMSYN1_0382  CUUUA
+MMSYN1_0588  GUUGA
+MMSYN1_0154  UAAUA
+MMSYN1_0900  AUUUA
+MMSYN1_0195  AAAUA
+MMSYN1_0505  AGUUG
+MMSYN1_0629  UUUUA
+MMSYN1_0059  AACUA
+MMSYN1_0784  UUUUU
+MMSYN1_0574  UAAUC
+MMSYN1_0901  AUAUA
+MMSYN1_0881  GCUUA
+MMSYN1_0584  UACUA
+MMSYN1_0160  AUGUG
+MMSYN1_0712  UUUUA
+MMSYN1_0870  UUUUG
+MMSYN1_0551  AUUUA
+MMSYN1_0632  UUCUA
+MMSYN1_0113  UUUUG
+MMSYN1_0438  UAUUA
+MMSYN1_0491  GUCUA
+MMSYN1_0037  UUUUA
+MMSYN1_0396  UAUUA
+MMSYN1_0859  AAUUA
+MMSYN1_0885  AAACA
+MMSYN1_0788  UGCUA
+MMSYN1_0393  CUUUA
+MMSYN1_0141  UUUUA
+MMSYN1_0136  AUUUA
+MMSYN1_0488  UUUUA
+MMSYN1_0617  UUCUA
+MMSYN1_0130  UCUUA
+MMSYN1_0575  UUUUG
+MMSYN1_0368  UUCUA
+MMSYN1_0898  UUUUA
+MMSYN1_0414  GUGUA
+MMSYN1_0400  GAUUA
+MMSYN1_0753  UAUUA
+MMSYN1_0561  UUUCA
+MMSYN1_0478  UUUUA
+MMSYN1_0309  AUCCC
+MMSYN1_0361  UGAUA
+MMSYN1_0481  UUCUA
+MMSYN1_0297  CUUUA
+MMSYN1_0114  -----
+MMSYN1_0586  AUUUA
+MMSYN1_0311  AUUUA
+MMSYN1_0278  UUGUA
+MMSYN1_0272  AAAUA
+MMSYN1_0394  AUUUG
+MMSYN1_0122  AUUUA
+MMSYN1_0703  UUCUA
+MMSYN1_0308  -----
+MMSYN1_0474  UUUUA
+MMSYN1_0187  UUCUA
+MMSYN1_0274  UAGCA
+MMSYN1_0344  GAUCA
+MMSYN1_0104  CUCUA
+MMSYN1_0169  AUACA
+MMSYN1_0170  CUUCA
+MMSYN1_0237  UUUUA
+MMSYN1_0238  UUCUA
+MMSYN1_0732  UUUUA
+MMSYN1_0118  AUCUU
+MMSYN1_0343  UAUUA
+MMSYN1_0292  AUCUA
+MMSYN1_0716  UUUUA
+MMSYN1_0787  UUUUA
+MMSYN1_0008  CUUCA
+MMSYN1_0598  UUUUA
+MMSYN1_0097  UUUUA
+MMSYN1_0701  AAAUA
+MMSYN1_0320  UUUUA
+MMSYN1_0064  AACUA
+MMSYN1_0178  GCACA
+MMSYN1_0246  UAUUA
+MMSYN1_0861  GGAUA
+MMSYN1_0057  UAUUA
+MMSYN1_0310  AAUUA
+MMSYN1_0291  UUUUA
+MMSYN1_0463  AAUUA
+MMSYN1_0748  UUCUA
+MMSYN1_0076  UUUUA
+MMSYN1_0324  AAUCA
+MMSYN1_0480  GAUUA
+MMSYN1_0287  UCCCA
+MMSYN1_0217  AUCUA
+MMSYN1_0159  UUCUA
+MMSYN1_0216  UAUUA
+MMSYN1_0271  AUUUA
+MMSYN1_0085  AACCA
+MMSYN1_0903  AACUG
+MMSYN1_0469  AAAUC
+MMSYN1_0163  UUUUA
+MMSYN1_0172  AUUUA
+MMSYN1_0451  UUAUA
+MMSYN1_0208  UUCUA
+MMSYN1_0174  GUUUG
+MMSYN1_0007  UUAUA
+MMSYN1_0296  UUCUA
+MMSYN1_0039  UUUUA
+MMSYN1_0437  UUUUA
+MMSYN1_0256  AAAUA
+MMSYN1_0386  ACAUA
+MMSYN1_0188  UAAUA
+MMSYN1_0652  AUUGA
+MMSYN1_0731  AAUUA
+MMSYN1_0713  AUUUA
+MMSYN1_0729  UCCCG
+MMSYN1_0277  UACUA
+MMSYN1_0637  GUAUA
+MMSYN1_0204  GCUUG
+MMSYN1_0222  AGUUA
+MMSYN1_0038  AUUUG
+MMSYN1_0418  UCUUA
+MMSYN1_0179  UUUUC
+MMSYN1_0882  AUGUA
+MMSYN1_0601  AUUUC
+MMSYN1_0035  UAUUA
+MMSYN1_0209  GUUUG
+MMSYN1_0030  UUCUA
+MMSYN1_0715  UUUCA
+MMSYN1_0395  UUUGA
+MMSYN1_0175  UUCCA
+MMSYN1_0230  UAUUA
+MMSYN1_0415  UUUUG
+MMSYN1_0125  AUAUA
+MMSYN1_0604  UUUUA
+MMSYN1_0453  UUUUA
+MMSYN1_0827  UUUUA
+MMSYN1_0257  AAUUA
+MMSYN1_0687  GUUUG
+MMSYN1_0606  CUUUA
+MMSYN1_0613  UUUCA
+MMSYN1_0886  UUUUA
+MMSYN1_0413  UUCUA
+MMSYN1_0767  AAGUA
+MMSYN1_0345  UAUUA
+MMSYN1_0101  AUAUA
+MMSYN1_0700  GUUUA
+MMSYN1_0673  CUUUA
+MMSYN1_0305  UAUUA
+MMSYN1_0706  GUUUA
+MMSYN1_0806  UUUUA
+MMSYN1_0171  AUUUA
+MMSYN1_0332  UAUUA
+MMSYN1_0012  AUUUA
+MMSYN1_0080  AAGUA
+MMSYN1_0542  GAAGA
+MMSYN1_0093  UUUUA
+MMSYN1_0756  UACUA
+MMSYN1_0822  AUAUA
+MMSYN1_0850  UCCUA
+MMSYN1_0743  AAGUA
+MMSYN1_0117  UAGUA
+MMSYN1_0335  AUUUA
+MMSYN1_0134  -----
+MMSYN1_0482  AUUUA
+MMSYN1_0866  AUUUA
+MMSYN1_0133  ACUCA
+MMSYN1_0538  ACUUA
+MMSYN1_0025  AAUCA
+MMSYN1_0176  GGCUA
+MMSYN1_0129  AGGUA
+MMSYN1_0634  AUAUA
+MMSYN1_0454  UUUUG
+MMSYN1_0173  UUCCA
+MMSYN1_0852  GAUGA
+MMSYN1_0033  UUUUA
+MMSYN1_0915  CACUC
+MMSYN1_0877  AAAUA
+MMSYN1_0812  UUUUA
+MMSYN1_0065  UUUUA
+MMSYN1_0060  ACUUA
+MMSYN1_0151  AUCUA
+MMSYN1_0499  AAUCA
+MMSYN1_0726  AUUUA
+MMSYN1_0146  UUUUA
+MMSYN1_0306  CUUUA
+MMSYN1_0757  AUUUG
+MMSYN1_0034  AUUGA
+MMSYN1_0571  AUAUA
+MMSYN1_0840  AAAUA
+MMSYN1_0789  AUUUA
+MMSYN1_0490  UUUUA
+#=GC SS_cons :::::
+#=GC RF      uUUUA
+//

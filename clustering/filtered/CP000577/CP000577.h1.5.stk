@@ -1,0 +1,998 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Rsph17029_2826 WT 1.09
+#=GS Rsph17029_2571 WT 1.08
+#=GS Rsph17029_2546 WT 0.77
+#=GS Rsph17029_2033 WT 0.92
+#=GS Rsph17029_2910 WT 0.89
+#=GS Rsph17029_1094 WT 1.17
+#=GS Rsph17029_0128 WT 1.23
+#=GS Rsph17029_1202 WT 0.87
+#=GS Rsph17029_1095 WT 1.17
+#=GS Rsph17029_2628 WT 1.05
+#=GS Rsph17029_2034 WT 0.76
+#=GS Rsph17029_1733 WT 1.02
+#=GS Rsph17029_1340 WT 0.69
+#=GS Rsph17029_2485 WT 0.77
+#=GS Rsph17029_0350 WT 0.54
+#=GS Rsph17029_2802 WT 1.02
+#=GS Rsph17029_0166 WT 1.04
+#=GS Rsph17029_0336 WT 0.54
+#=GS Rsph17029_0867 WT 0.99
+#=GS Rsph17029_1213 WT 1.15
+#=GS Rsph17029_1331 WT 1.08
+#=GS Rsph17029_0536 WT 0.88
+#=GS Rsph17029_2247 WT 0.87
+#=GS Rsph17029_1492 WT 1.13
+#=GS Rsph17029_1073 WT 0.98
+#=GS Rsph17029_2873 WT 0.98
+#=GS Rsph17029_0626 WT 1.07
+#=GS Rsph17029_1568 WT 1.04
+#=GS Rsph17029_2248 WT 0.69
+#=GS Rsph17029_0590 WT 1.02
+#=GS Rsph17029_0386 WT 0.87
+#=GS Rsph17029_0871 WT 1.29
+#=GS Rsph17029_0535 WT 0.93
+#=GS Rsph17029_1901 WT 1.40
+#=GS Rsph17029_0968 WT 0.85
+#=GS Rsph17029_2827 WT 0.98
+#=GS Rsph17029_0621 WT 1.29
+#=GS Rsph17029_1601 WT 0.80
+#=GS Rsph17029_2801 WT 1.01
+#=GS Rsph17029_0414 WT 0.88
+#=GS Rsph17029_0352 WT 0.52
+#=GS Rsph17029_2549 WT 0.98
+#=GS Rsph17029_0363 WT 1.21
+#=GS Rsph17029_2756 WT 1.15
+#=GS Rsph17029_1006 WT 1.03
+#=GS Rsph17029_0338 WT 0.52
+#=GS Rsph17029_2335 WT 0.93
+#=GS Rsph17029_1557 WT 1.23
+#=GS Rsph17029_1154 WT 0.87
+#=GS Rsph17029_2622 WT 0.96
+#=GS Rsph17029_1961 WT 1.18
+#=GS Rsph17029_1425 WT 1.09
+#=GS Rsph17029_2371 WT 0.74
+#=GS Rsph17029_1962 WT 0.96
+#=GS Rsph17029_0701 WT 0.93
+#=GS Rsph17029_2343 WT 1.05
+#=GS Rsph17029_1727 WT 1.08
+#=GS Rsph17029_2035 WT 0.95
+#=GS Rsph17029_0045 WT 0.96
+#=GS Rsph17029_2318 WT 1.03
+#=GS Rsph17029_1159 WT 0.64
+#=GS Rsph17029_2500 WT 0.93
+#=GS Rsph17029_1996 WT 0.98
+#=GS Rsph17029_2928 WT 0.85
+#=GS Rsph17029_0585 WT 1.08
+#=GS Rsph17029_1158 WT 0.64
+#=GS Rsph17029_1349 WT 1.12
+#=GS Rsph17029_2862 WT 0.89
+#=GS Rsph17029_0066 WT 0.93
+#=GS Rsph17029_0339 WT 0.54
+#=GS Rsph17029_0353 WT 0.54
+#=GS Rsph17029_1399 WT 1.28
+#=GS Rsph17029_0534 WT 0.87
+#=GS Rsph17029_1376 WT 0.77
+#=GS Rsph17029_1348 WT 0.98
+#=GS Rsph17029_0416 WT 0.74
+#=GS Rsph17029_1940 WT 0.82
+#=GS Rsph17029_0368 WT 1.24
+#=GS Rsph17029_0982 WT 1.15
+#=GS Rsph17029_1609 WT 1.26
+#=GS Rsph17029_2410 WT 0.91
+#=GS Rsph17029_2221 WT 0.87
+#=GS Rsph17029_2698 WT 1.15
+#=GS Rsph17029_0345 WT 0.45
+#=GS Rsph17029_0913 WT 1.10
+#=GS Rsph17029_1432 WT 0.87
+#=GS Rsph17029_0764 WT 1.07
+#=GS Rsph17029_2725 WT 1.30
+#=GS Rsph17029_1173 WT 0.98
+#=GS Rsph17029_0469 WT 1.13
+#=GS Rsph17029_2633 WT 1.39
+#=GS Rsph17029_1039 WT 1.05
+#=GS Rsph17029_0514 WT 0.87
+#=GS Rsph17029_1431 WT 1.32
+#=GS Rsph17029_2131 WT 0.95
+#=GS Rsph17029_0398 WT 0.93
+#=GS Rsph17029_2767 WT 0.85
+#=GS Rsph17029_2149 WT 0.97
+#=GS Rsph17029_2715 WT 0.95
+#=GS Rsph17029_2620 WT 1.25
+#=GS Rsph17029_0126 WT 0.93
+#=GS Rsph17029_0384 WT 1.22
+#=GS Rsph17029_1169 WT 0.92
+#=GS Rsph17029_1089 WT 0.98
+#=GS Rsph17029_0870 WT 0.77
+#=GS Rsph17029_2935 WT 1.07
+#=GS Rsph17029_2795 WT 1.03
+#=GS Rsph17029_0407 WT 1.02
+#=GS Rsph17029_0393 WT 0.87
+#=GS Rsph17029_0428 WT 1.12
+#=GS Rsph17029_2835 WT 0.68
+#=GS Rsph17029_1043 WT 0.87
+#=GS Rsph17029_1604 WT 0.93
+#=GS Rsph17029_0044 WT 0.96
+#=GS Rsph17029_0513 WT 0.87
+#=GS Rsph17029_0331 WT 0.45
+#=GS Rsph17029_2190 WT 0.88
+#=GS Rsph17029_0075 WT 0.91
+#=GS Rsph17029_0729 WT 1.00
+#=GS Rsph17029_1820 WT 0.76
+#=GS Rsph17029_1624 WT 1.05
+#=GS Rsph17029_2290 WT 1.09
+#=GS Rsph17029_1491 WT 1.21
+#=GS Rsph17029_1430 WT 1.24
+#=GS Rsph17029_0435 WT 0.92
+#=GS Rsph17029_0736 WT 1.14
+#=GS Rsph17029_1892 WT 0.95
+#=GS Rsph17029_2672 WT 1.25
+#=GS Rsph17029_1090 WT 0.99
+#=GS Rsph17029_1146 WT 0.97
+#=GS Rsph17029_0380 WT 1.02
+#=GS Rsph17029_2696 WT 0.93
+#=GS Rsph17029_1661 WT 1.61
+#=GS Rsph17029_2493 WT 1.14
+#=GS Rsph17029_1830 WT 1.15
+#=GS Rsph17029_1236 WT 0.96
+#=GS Rsph17029_0750 WT 1.15
+#=GS Rsph17029_0121 WT 1.13
+#=GS Rsph17029_2709 WT 0.97
+#=GS Rsph17029_1622 WT 1.23
+#=GS Rsph17029_1594 WT 1.08
+#=GS Rsph17029_0954 WT 1.00
+#=GS Rsph17029_2612 WT 0.92
+#=GS Rsph17029_2927 WT 1.02
+#=GS Rsph17029_0137 WT 1.14
+#=GS Rsph17029_0897 WT 1.06
+#=GS Rsph17029_2837 WT 0.80
+#=GS Rsph17029_0245 WT 1.05
+#=GS Rsph17029_2834 WT 1.05
+#=GS Rsph17029_1332 WT 0.87
+#=GS Rsph17029_0606 WT 1.16
+#=GS Rsph17029_0656 WT 1.22
+#=GS Rsph17029_2000 WT 1.08
+#=GS Rsph17029_1493 WT 0.91
+#=GS Rsph17029_0322 WT 0.87
+#=GS Rsph17029_1501 WT 1.03
+#=GS Rsph17029_0115 WT 1.36
+#=GS Rsph17029_2541 WT 1.14
+#=GS Rsph17029_2037 WT 0.83
+#=GS Rsph17029_2820 WT 0.99
+#=GS Rsph17029_2011 WT 1.51
+#=GS Rsph17029_2373 WT 0.99
+#=GS Rsph17029_2473 WT 0.93
+#=GS Rsph17029_2811 WT 1.28
+#=GS Rsph17029_0815 WT 0.92
+#=GS Rsph17029_1426 WT 0.96
+#=GS Rsph17029_0922 WT 0.68
+#=GS Rsph17029_1013 WT 1.08
+#=GS Rsph17029_2199 WT 1.25
+#=GS Rsph17029_0076 WT 0.91
+#=GS Rsph17029_2238 WT 1.08
+#=GS Rsph17029_2861 WT 0.89
+#=GS Rsph17029_1420 WT 0.90
+#=GS Rsph17029_2402 WT 1.22
+#=GS Rsph17029_1485 WT 1.03
+#=GS Rsph17029_1005 WT 1.26
+#=GS Rsph17029_0226 WT 0.66
+#=GS Rsph17029_1705 WT 1.08
+#=GS Rsph17029_0524 WT 0.96
+#=GS Rsph17029_0257 WT 0.96
+#=GS Rsph17029_1086 WT 0.99
+#=GS Rsph17029_1780 WT 0.95
+#=GS Rsph17029_0690 WT 1.06
+#=GS Rsph17029_1058 WT 0.97
+#=GS Rsph17029_1810 WT 1.38
+#=GS Rsph17029_2909 WT 1.00
+#=GS Rsph17029_1882 WT 1.09
+#=GS Rsph17029_0418 WT 1.20
+#=GS Rsph17029_0853 WT 1.13
+#=GS Rsph17029_0183 WT 0.92
+#=GS Rsph17029_2805 WT 1.10
+#=GS Rsph17029_1217 WT 1.07
+#=GS Rsph17029_0100 WT 1.08
+#=GS Rsph17029_1125 WT 0.99
+#=GS Rsph17029_2360 WT 0.90
+#=GS Rsph17029_1414 WT 1.24
+#=GS Rsph17029_2521 WT 0.98
+#=GS Rsph17029_0323 WT 0.93
+#=GS Rsph17029_1031 WT 1.16
+#=GS Rsph17029_2952 WT 1.21
+#=GS Rsph17029_1795 WT 0.74
+#=GS Rsph17029_2982 WT 0.85
+#=GS Rsph17029_1768 WT 0.91
+#=GS Rsph17029_2847 WT 1.00
+#=GS Rsph17029_1649 WT 1.05
+#=GS Rsph17029_1272 WT 1.00
+#=GS Rsph17029_0484 WT 1.04
+#=GS Rsph17029_2401 WT 1.29
+#=GS Rsph17029_2132 WT 0.66
+#=GS Rsph17029_0985 WT 0.96
+#=GS Rsph17029_2334 WT 1.08
+#=GS Rsph17029_1500 WT 0.95
+#=GS Rsph17029_0179 WT 0.85
+#=GS Rsph17029_0209 WT 0.99
+#=GS Rsph17029_0808 WT 1.20
+#=GS Rsph17029_0832 WT 1.08
+#=GS Rsph17029_0704 WT 0.94
+#=GS Rsph17029_0409 WT 1.19
+#=GS Rsph17029_2694 WT 0.87
+#=GS Rsph17029_0321 WT 0.99
+#=GS Rsph17029_1990 WT 1.11
+#=GS Rsph17029_0858 WT 1.18
+#=GS Rsph17029_1885 WT 0.96
+#=GS Rsph17029_1048 WT 1.00
+#=GS Rsph17029_0445 WT 0.82
+#=GS Rsph17029_1329 WT 1.01
+#=GS Rsph17029_2237 WT 1.30
+#=GS Rsph17029_1194 WT 1.03
+#=GS Rsph17029_1044 WT 0.87
+#=GS Rsph17029_0603 WT 1.09
+#=GS Rsph17029_0079 WT 1.75
+#=GS Rsph17029_0902 WT 0.87
+#=GS Rsph17029_1824 WT 0.96
+#=GS Rsph17029_2606 WT 1.15
+#=GS Rsph17029_0642 WT 0.92
+#=GS Rsph17029_0267 WT 0.96
+#=GS Rsph17029_2644 WT 0.99
+#=GS Rsph17029_0533 WT 1.01
+#=GS Rsph17029_1330 WT 1.00
+#=GS Rsph17029_2376 WT 1.09
+#=GS Rsph17029_0974 WT 0.89
+#=GS Rsph17029_0301 WT 1.14
+#=GS Rsph17029_0132 WT 0.99
+#=GS Rsph17029_2209 WT 0.99
+#=GS Rsph17029_1898 WT 0.82
+#=GS Rsph17029_1203 WT 0.87
+
+Rsph17029_2826 -------AAA---------------AG-----------------------
+Rsph17029_2571 AG---AACC----------------CGGA---------------------
+Rsph17029_2546 CGA-C--A------------------------------------------
+Rsph17029_2033 AGG--AAA-------------------AG---------------------
+Rsph17029_2910 CGA--CGAC----------------CGCA---------------------
+Rsph17029_1094 AGU--CUU------------------C-----------------------
+Rsph17029_0128 UGA-G--AC-----------------GCA---------------------
+Rsph17029_1202 CGA-C-AUG----------------AAAA---------------------
+Rsph17029_1095 CGG-CCACC-----------------UUC---------------------
+Rsph17029_2628 AGU-U--UC----------------ACAG---------------------
+Rsph17029_2034 GGU--GAA------------------AAA---------------------
+Rsph17029_1733 CGA-GCACCGCAC---------GAAAGAA---------------------
+Rsph17029_1340 CGG-GGGU-------------------GC---------------------
+Rsph17029_2485 CGG--AAUG----------------GG-----------------------
+Rsph17029_0350 CGG-GCAGG-----------------GGA---------------------
+Rsph17029_2802 CAA-G-AUGAA------------GGUCGG---------------------
+Rsph17029_0166 CGG-G--UUC--------------GGAAG---------------------
+Rsph17029_0336 CGG-GCAGG-----------------GGA---------------------
+Rsph17029_0867 UGA-C--CC-----------------GAC---------------------
+Rsph17029_1213 UGA-CGAC-------------------GG---------------------
+Rsph17029_1331 AGG--GGUGA---------------CGGA---------------------
+Rsph17029_0536 CGC--CACGA---------------ACG----------------------
+Rsph17029_2247 CGG-C--AGC---------------GCCG---------------------
+Rsph17029_1492 UAA--AACG----------------CGAA---------------------
+Rsph17029_1073 UCG--GAGC-----------------GAA---------------------
+Rsph17029_2873 AGG-C--UG-----------------G-----------------------
+Rsph17029_0626 CUG--AACCUUCUUGCUUCCCGUCAACCA---------------------
+Rsph17029_1568 CGG--CAC------------------------------------------
+Rsph17029_2248 CGG-GGGA-------------------GC---------------------
+Rsph17029_0590 UGA--GAUUCUCGUC-----ACGGACCAA---------------------
+Rsph17029_0386 AAG--AAU-------------------AAGACCGUUUCCGGUCUUGGCGA
+Rsph17029_0871 AGG-C--C------------------UUU---------------------
+Rsph17029_0535 AUG--AAAA-----------------A-----------------------
+Rsph17029_1901 CGC--CGAG-----------------UAAUCGGGCC-----------GGC
+Rsph17029_0968 AGA-UAAGG----------------GACA---------------------
+Rsph17029_2827 AAG--AAUG----------------AAAA---------------------
+Rsph17029_0621 CUA-A-AUA----------------GAUC---------------------
+Rsph17029_1601 CAA--GACAG--------------CGAAA---------------------
+Rsph17029_2801 AAUCAGAA------------------------------------------
+Rsph17029_0414 -----GAUG----------------CAGA---------------------
+Rsph17029_0352 UGA-A-AUC-----------------G-----------------------
+Rsph17029_2549 CGA-GACUGC---------------AGAA---------------------
+Rsph17029_0363 AUA--GAAGGCCUG------CGAAUCUCG---------------------
+Rsph17029_2756 CCG--GGUGG--------------GCG-----------------------
+Rsph17029_1006 CGC--GGCC-----------------GGA---------------------
+Rsph17029_0338 UGA-A-AUC-----------------G-----------------------
+Rsph17029_2335 AGG--CAGG----------------CGGG---------------------
+Rsph17029_1557 CCG-A--U-------------------GC---------------------
+Rsph17029_1154 CGG-U--CG----------------GA-----------------------
+Rsph17029_2622 AGA--GACG----------------ACAG---------------------
+Rsph17029_1961 CG---GAU-------------------GC---------------------
+Rsph17029_1425 GAUUCGAA------------------AGA---------------------
+Rsph17029_2371 CGG-GGGAG----------------C------------------------
+Rsph17029_1962 AGG--CAC------------------------------------------
+Rsph17029_0701 UGU--GAUAUU-------------UUAAA---------------------
+Rsph17029_2343 AAA-GGAC------------------GAA---------------------
+Rsph17029_1727 CUU-C--C------------------G-----------------------
+Rsph17029_2035 CAG--GGCGGAU-----------GCG---C--------------------
+Rsph17029_0045 AGA-CG-AA-----------------AGC---------------------
+Rsph17029_2318 CGA-C-AU------------------GGA---------------------
+Rsph17029_1159 CGG-ACAUG----------------CGAA---------------------
+Rsph17029_2500 CUG--AACG-----------------GAA---------------------
+Rsph17029_1996 CGG--CGG------------------C-----------------------
+Rsph17029_2928 AGA--CGCAC---------------GACA---------------------
+Rsph17029_0585 CUG-CCAGC----------------CUCG---------------------
+Rsph17029_1158 AGG--CAA-------------------AA---------------------
+Rsph17029_1349 AAG-G--A-------------------AA---------------------
+Rsph17029_2862 ACG--CGCC-----------------CGC---------------------
+Rsph17029_0066 GGA--CAG------------------AAA---------------------
+Rsph17029_0339 CG-----A------------------GGA---------------------
+Rsph17029_0353 CG-----A------------------GGA---------------------
+Rsph17029_1399 CUG--GCCG----------------GU-----------------------
+Rsph17029_0534 CG---GAC-------------------AA---------------------
+Rsph17029_1376 UGA-CCACA----------------GGAA---------------------
+Rsph17029_1348 CAG-U--C-------------------AA---------------------
+Rsph17029_0416 UGC--GAC------------------C-----------------------
+Rsph17029_1940 CGG--GACCCGGGC------GCAUGCGAA---------------------
+Rsph17029_0368 GCA-GGACA-----------------GAG---------------------
+Rsph17029_0982 CGG--AGGG-----------------GG-GCGGC--------------GC
+Rsph17029_1609 CAA--GGCCAUG----------GACUG--AGUUUCGGUCCU-GCUCCACC
+Rsph17029_2410 CUG-U--CA-----------------GAA---------------------
+Rsph17029_2221 CG-----C------------------------------------------
+Rsph17029_2698 CUG-A--U------------------G-----------------------
+Rsph17029_0345 ACG--GAUCGGUC---------GGGGCAG---------------------
+Rsph17029_0913 GGA-A--A------------------GUG---------------------
+Rsph17029_1432 CA---GACA-----------------GAG---------------------
+Rsph17029_0764 UGA--GGC------------------GGA---------------------
+Rsph17029_2725 CGA-UCAAGG---------------CCCA---------------------
+Rsph17029_1173 CGG--GGCC-----------------G-----------------------
+Rsph17029_0469 CG---CAU------------------------------------------
+Rsph17029_2633 CAA-ACAU------------------G-----------------------
+Rsph17029_1039 CAG-C-AUU-----------------GGA---------------------
+Rsph17029_0514 CUC-GGAAAC--------------GCGAA---------------------
+Rsph17029_1431 UG-----A------------------G-----------------------
+Rsph17029_2131 AGA-U-GC------------------AGA---------------------
+Rsph17029_0398 AGG-G--C------------------------------------------
+Rsph17029_2767 UG-----A------------------G-----------------------
+Rsph17029_2149 GAG--AAUCUUUGG------GCUCCGGAG---------------------
+Rsph17029_2715 CC---CGCCGG-------------AGGAA---------------------
+Rsph17029_2620 GAG-CGAUCCGCC--------AGUCUCAG---------------------
+Rsph17029_0126 CU---CAUGA--------------UCG--GA-------------------
+Rsph17029_0384 CCA-U--CG----------------GGUC---------------------
+Rsph17029_1169 CUG--GAAGUUCUG------AUCCUGC-----------------------
+Rsph17029_1089 AGG--CGCGA---------------AAAG---------------------
+Rsph17029_0870 AGA-A-ACG----------------GAAA---------------------
+Rsph17029_2935 CAC--GACCC---------------AG-----------------------
+Rsph17029_2795 CGA-U--C------------------GGA---------------------
+Rsph17029_0407 CA---GAC------------------GAA---------------------
+Rsph17029_0393 UGU-G--A------------------CGA---------------------
+Rsph17029_0428 CGG-G--A------------------------------------------
+Rsph17029_2835 CGU--GAG------------------G-----------------------
+Rsph17029_1043 AUG-A--A------------------AAA---------------------
+Rsph17029_1604 CGG--GACUG---------------AGAG---------------------
+Rsph17029_0044 UGA-A--G------------------C-----------------------
+Rsph17029_0513 CGA-UGCA------------------GAA---------------------
+Rsph17029_0331 ACG--GAUCGGUC---------GGGGCAG---------------------
+Rsph17029_2190 AGC--CAGGCG-------------CAGAA---------------------
+Rsph17029_0075 AAG-A--A------------------ACG---------------------
+Rsph17029_0729 CGG-C--C------------------A-----------------------
+Rsph17029_1820 UGA-C--CU-----------------A-A---------------------
+Rsph17029_1624 UG-----UC-----------------GCA---------------------
+Rsph17029_2290 UGA-CCUU------------------------------------------
+Rsph17029_1491 UGA-C--AAG--------------GCCCC---------------------
+Rsph17029_1430 GAG-AGUC------------------GAG---------------------
+Rsph17029_0435 GGA-C--CUC---------------GG-----------------------
+Rsph17029_0736 AGA-UCAGAAAU-----------GAAA-----------------------
+Rsph17029_1892 AUC--GACA----------------GGAA---------------------
+Rsph17029_2672 UGA--GGC------------------GGAUCCGA---------------C
+Rsph17029_1090 -------C------------------------------------------
+Rsph17029_1146 AGG--AAA------------------GAA---------------------
+Rsph17029_0380 AAG--GUU-------------------GU---------------------
+Rsph17029_2696 CAG-ACAAG----------------ACAG---------------------
+Rsph17029_1661 CGG--GAC------------------A-----------------------
+Rsph17029_2493 UAG--GCCUCU-------------GGGAC---------------------
+Rsph17029_1830 ACG--AAC------------------G-----------------------
+Rsph17029_1236 CUG-ACCC------------------------------------------
+Rsph17029_0750 AGA--GGU------------------------------------------
+Rsph17029_0121 CG---GAUGCCCGG------CAGCCCG-----------------------
+Rsph17029_2709 CGU-G--A------------------------------------------
+Rsph17029_1622 UGA-U--CU-----------------GCU---------------------
+Rsph17029_1594 AGG--AAUAG--------------GUCGC---------------------
+Rsph17029_0954 AUG--GAC-------------------GA---------------------
+Rsph17029_2612 CGG--AAACG--------------GAGAG---------------------
+Rsph17029_2927 UGA--CAU-------------------GA---------------------
+Rsph17029_0137 ACG-GGGC------------------------------------------
+Rsph17029_0897 CGU--GA-------------------------------------------
+Rsph17029_2837 CAG--GAA-------------------AA---------------------
+Rsph17029_0245 CGG-C--CC-----------------GGG---------------------
+Rsph17029_2834 CGG-C--UGAC-------------CCGAG---------------------
+Rsph17029_1332 CAG--GGCU----------------UGAG---------------------
+Rsph17029_0606 CGG--CAC-------------------AA---------------------
+Rsph17029_0656 AGA--AAUUCCAAAA----UCGGGACGAA---------------------
+Rsph17029_2000 UGA--CAC-------------------GA---------------------
+Rsph17029_1493 GCA--GAUC----------------AAGA---------------------
+Rsph17029_0322 UGU-G-AA------------------A-----------------------
+Rsph17029_1501 UGA--AAUGAG-------------GGCAA---------------------
+Rsph17029_0115 CU-----UG----------------CCGG---------------------
+Rsph17029_2541 AGC--CACGA---------------AC-----------------------
+Rsph17029_2037 AAA--CAA------------------GAA---------------------
+Rsph17029_2820 GGA--GAAGGCG-----------GCGCA-AUAACCGCCCG---ACAUGCA
+Rsph17029_2011 CCG--AAUC----------------CCCC---------------------
+Rsph17029_2373 CG-----CCA---------------UCGG---------------------
+Rsph17029_2473 CGC--CCU------------------G-----------------------
+Rsph17029_2811 CUG--ACC-------------------UA---------------------
+Rsph17029_0815 CGC-C--C------------------------------------------
+Rsph17029_1426 AGA--AA-------------------------------------------
+Rsph17029_0922 CCU--GAAAC---------------GGAA---------------------
+Rsph17029_1013 UGA-G--CCC--------------CGG-----------------------
+Rsph17029_2199 UGG--CGCG----------------CAGA---------------------
+Rsph17029_0076 CAG-CAGC------------------GCG---------------------
+Rsph17029_2238 AGA-G--AGGC-------------CCGGC---------------------
+Rsph17029_2861 CCU-G--C------------------------------------------
+Rsph17029_1420 CAA--GCCUCC-------------GAGAG---------------------
+Rsph17029_2402 UGA--AAACC--------------AGA-----------------------
+Rsph17029_1485 CUC--AUCAGCC----------UGCCGAG---------------------
+Rsph17029_1005 CCU--GAAC-----------------------------------------
+Rsph17029_0226 CGG--GAAGC---------------GAAA---------------------
+Rsph17029_1705 CUG--CAU-------------------CG---------------------
+Rsph17029_0524 UUU-C--C------------------GA----------------------
+Rsph17029_0257 CCG-C--C-------------------CG---------------------
+Rsph17029_1086 UG-----C------------------A-----------------------
+Rsph17029_1780 CGAGGGACA-----------------GGA---------------------
+Rsph17029_0690 UGA-C--CG-----------------CGG---------------------
+Rsph17029_1058 UGUCUGAAGG---------------GCAG---------------------
+Rsph17029_1810 AUUAGGAC-------------------GG---------------------
+Rsph17029_2909 CGG--GGC-------------------GA---------------------
+Rsph17029_1882 UCG--AGU------------------GACCUCCGGGUCC----UGCCCCU
+Rsph17029_0418 CAG--CAA------------------C-----------------------
+Rsph17029_0853 CGU--CAG--------------------G---------------------
+Rsph17029_0183 CGG--CGC------------------------------------------
+Rsph17029_2805 CG-----U------------------------------------------
+Rsph17029_1217 AGG--GGCUGC------------GCAG-----------------------
+Rsph17029_0100 CGG-C--C------------------GGC---------------------
+Rsph17029_1125 CUG--GGCAU--------------UUCGG---------------------
+Rsph17029_2360 AGA--GCCCCCUGU-------UUCUUGAA---------------------
+Rsph17029_1414 UGA-G-ACGG---------------U-GACCGGGCC----------AGAA
+Rsph17029_2521 UGA--GAU------------------GCA---------------------
+Rsph17029_0323 CG-----C------------------AGG---------------------
+Rsph17029_1031 CGG-U--UCCAC-----------CUUC-----------------------
+Rsph17029_2952 CGG--CGC------------------GCA---------------------
+Rsph17029_1795 GGC-UGACA-----------------CGGA--------------------
+Rsph17029_2982 UG-----A------------------A-----------------------
+Rsph17029_1768 UGG-UGACAU---------------UCGG---------------------
+Rsph17029_2847 AUG-CGAACGAC----------CUAAGGA---------------------
+Rsph17029_1649 AAA--GAG------------------------------------------
+Rsph17029_1272 UGG-A--C------------------G-----------------------
+Rsph17029_0484 CGA-A--A------------------A-----------------------
+Rsph17029_2401 CGA-U--CUG---------------ACAA---------------------
+Rsph17029_2132 CGG-A-AUGA---------------GGAA---------------------
+Rsph17029_0985 CG---CAUGUCGGU------CGGAUCGAA---------------------
+Rsph17029_2334 UGA-G--CC----------------A---CACGGGCA---------UGGA
+Rsph17029_1500 GGAAAGAC-------------------CA---------------------
+Rsph17029_0179 AGA-C--CG----------------GACG---------------------
+Rsph17029_0209 CUG--CAUUUCU----------CUGGGAA---------------------
+Rsph17029_0808 AAU-C--U------------------------------------------
+Rsph17029_0832 CGA-G--U------------------------------------------
+Rsph17029_0704 ACG--GAAUGU-------------CCGGA---------------------
+Rsph17029_0409 CGC-UGAUAC---------------CU-----------------------
+Rsph17029_2694 CGG-A--C------------------------------------------
+Rsph17029_0321 CCG-G--C------------------------------------------
+Rsph17029_1990 GUG--AUC-------------------CG---------------------
+Rsph17029_0858 CGA--GAUUGUC----------GAUUA-----------------------
+Rsph17029_1885 CGU--CGC------------------------------------------
+Rsph17029_1048 CG-----C------------------------------------------
+Rsph17029_0445 CCU--GACC-----------------GGA---------------------
+Rsph17029_1329 CGA--CAAGG---------------GAAA---------------------
+Rsph17029_2237 ACA--GGCCC---------------CG--C--------------------
+Rsph17029_1194 AUC--GAU-------------------AA---------------------
+Rsph17029_1044 CUG--AAAAG--------------CAUAA---------------------
+Rsph17029_0603 UCG--GA--------------------AA---------------------
+Rsph17029_0079 CAA--GAG-------------------GA---------------------
+Rsph17029_0902 -----GAC-------------------UA---------------------
+Rsph17029_1824 UGA--CACAU---------------CC-----------------------
+Rsph17029_2606 AUA--AAUCCG------------GCUGAUCCGCGCGA--------GCGAG
+Rsph17029_0642 CGU--GAUGGC-------------UUG-----------------------
+Rsph17029_0267 UGA-U--CC------------------AGUAACGGCA---------UCUG
+Rsph17029_2644 CG---GAUG----------------AUGA---------------------
+Rsph17029_0533 CGA-G--CCAU------------UUCG-G---------------------
+Rsph17029_1330 CCA-U--CAUG-------------UCGAA---------------------
+Rsph17029_2376 UGA--CCCUU--------------CCA-----------------------
+Rsph17029_0974 CG---AAC------------------G-----------------------
+Rsph17029_0301 AGG--CG-------------------------------------------
+Rsph17029_0132 AGU--AACCUG------------UUCCGG---------------------
+Rsph17029_2209 CUG-C--C-------------------AA---------------------
+Rsph17029_1898 CGG--GGC------------------A-----------------------
+Rsph17029_1203 UUA--CAAAA--------------GAAAA---------------------
+#=GC SS_cons   :<<..<<--.................-<<.....................
+#=GC RF        Cgg..gAcg.................gaA.....................
+
+Rsph17029_2826 ----G-CCGGGCA-GC--UGAC-----------------GC--U--GCCC
+Rsph17029_2571 ----C-GCCUGCC-GA-CGGAA----------------GUC--G--GCAG
+Rsph17029_2546 ----G-GCCCGGA-C---GACG------------------G--U--CCGG
+Rsph17029_2033 ----G-GCUCCGC-AG--UCGC-----------------CU--G--CGGA
+Rsph17029_2910 ----G-GGCCGGA-GG-CGG--UGCG---------CCCGCC--U--CCGG
+Rsph17029_1094 ----G-GAGGCGA-UC-UUC------------------GGA--U--CGCC
+Rsph17029_0128 ----G-GGGGCGAGGC-A--ACUUG----------ACGCGC-UU--CGCC
+Rsph17029_1202 ----C-UGCCGCA-GC-ACC--UCA-----------UGUGC--U--GCGG
+Rsph17029_1095 ----G-GAGGCGA-UC--CGAA-----------------GA--U--CGCC
+Rsph17029_2628 ----G-GCGCGCC-GG-AUC------------------UCC--G--GCGC
+Rsph17029_2034 ----G-GGCUCCG-CA-GGCGA----------------CUG--C--GGAG
+Rsph17029_1733 ----G-ACCCCGG-A--GCCGCA---------------C-U--C--CGGG
+Rsph17029_1340 ----C-GCCCGCG-GG-GGCAUCGA-----------ACCCC--C--GCGG
+Rsph17029_2485 ----G-GCGCGGA-CC--GCAG-----------------GG--U--CCGC
+Rsph17029_0350 ----U-GACGGGG-CG--GAGA-----------------CG--C--CCUG
+Rsph17029_2802 ----G-GGCGUGC-CC--GC-------------------GG--G--CGCG
+Rsph17029_0166 ----G-GGCCGUC-GG--GAAA-----------------CC--G--GCGG
+Rsph17029_0336 ----U-GACGGGG-CG--GAGA-----------------CG--C--CCUG
+Rsph17029_0867 ----C-GGCGCCG-CC-CGACUCC-------------CGGG--C--GGCG
+Rsph17029_1213 ----G-UCGAGGC-AG-UCCGUG---------------ACU--G--CCUC
+Rsph17029_1331 ----U-GGCGCGC-GG--GAAA-----------------CC--G--CGCG
+Rsph17029_0536 ---GG-GGCCGGU-CC--UC-------------------GG--A--CCGG
+Rsph17029_2247 ----U-GGGCAGG-GG-UUCGAU---------------GCC--C--CUGC
+Rsph17029_1492 ----A-GGCCCCG-GA-A--UU-----------------UC--C--GAGG
+Rsph17029_1073 ----G-GCCGGG--C---ACCC------------------G-----CCCG
+Rsph17029_2873 ----A-ACCGGCG-CC-CUG------------------CGG--C--GCCG
+Rsph17029_0626 ----U-GCCCGC---U--UC-------------------G------GCGG
+Rsph17029_1568 ----G-GCCCGGG-GCGCGCAUCUG-----------UGUGC--C--UUGG
+Rsph17029_2248 ----C-GUGGGCA-GG-GGCAUCGA-----------ACCCC--U--GCCC
+Rsph17029_0590 ----G-ACCGCCG-CG-CGGACCC-------------CGCG--C--GGCG
+Rsph17029_0386 UUUGG-GCCCGUC-UC-CUC------------------GGA--G--GCGG
+Rsph17029_0871 ----C-GGGAGAC-GG-A--AU----------------GCC--G--UCUC
+Rsph17029_0535 ----G-GGCCGGU-CC----GA-----------------GG--A--CCGG
+Rsph17029_1901 CCUCC-GUCGCGG-GC-GGCACCC------------ACCGC--C--CGCG
+Rsph17029_0968 ----A-GGGCGGG-G---GAAA------------------C--C--UCGC
+Rsph17029_2827 ----G-GCCGGGC-AGCGUCAG-----------------CU--G--CCCG
+Rsph17029_0621 ----C-GCGAGGC-CG-GUCGGC---------------ACG--G--CCUC
+Rsph17029_1601 ----G-GCCGCGC-C----CGA------------------G--G--CGCG
+Rsph17029_2801 ----G-GGCGCGC-CC--GC-------------------GG--G--CACG
+Rsph17029_0414 ----C-GGGCGGC-C---CCUC------------------G--G--CCGC
+Rsph17029_0352 ----G-GCUGGGU-CC-GGCGGAUA-----------GUCGG--G--CCCA
+Rsph17029_2549 ----C-GCCGCCC-C-----UU------------------G--G--GGCG
+Rsph17029_0363 ----C-GGCCCCG-G---GCUU------------------C--C--GGGG
+Rsph17029_2756 ----G-CCCCUGU-CA-UUCACGAAGC-------GCGAAUG--A--CAGG
+Rsph17029_1006 ----A-GUCCCGG-CC-CUCCCU---------------CGG--C--CGGG
+Rsph17029_0338 ----G-GCUGGGU-CC-GGCGGAUA-----------GUCGG--G--CCCA
+Rsph17029_2335 ----G-GGCGGCU-CA-CGCAUC--------------CUUG--A--GCCG
+Rsph17029_1557 ----C-GUCCGGC-AU-CCCCUG--------------CGGU--G--CCGG
+Rsph17029_1154 ----C-GGGGGGC-U--GUC--------------------U--G--CCCC
+Rsph17029_2622 ----G-GACCGGU-C--CCCCC------------------G--A--CCGG
+Rsph17029_1961 ----C-CCGGCCC-CC--UC-------------------GG--G--GGCC
+Rsph17029_1425 ----C-GCCGGCG-GG-AUGUCAU-------------GUCC--C--GCCG
+Rsph17029_2371 ----C-GGAGGCG-GG-GGCAUCGA-----------ACCCC--C--GCCU
+Rsph17029_1962 ----U-GCCCCGG-CC-CCCGAG--------------GGGG--C--CGGG
+Rsph17029_0701 ----G-CCCGGCC-GG-AACCU----------------CCC--G--GUCG
+Rsph17029_2343 ----G-GCCCGCG-GA--GAGA-----------------UC--C--GCGG
+Rsph17029_1727 ----C-GGGCCGG-CC-CUGAC----------------CGG--C--CGGC
+Rsph17029_2035 --GGG-GGCGGGC-U--GUC--------------------A--G--CCCG
+Rsph17029_0045 ----C-CGCGGCA-GG-AGC------------------ACC--U--GCCG
+Rsph17029_2318 ----G-CCCCGAAGCC-UGCGA----------------AGG-CU--UCGG
+Rsph17029_1159 ----G-GCCCGGA-CG-CGCAU----------------GCG--U--CCGG
+Rsph17029_2500 ----A-GAGCGGG-C---UCCG------------------G--C--CCGC
+Rsph17029_1996 ----G-GCAGCGG-CA-GGGAC----------------UUG--C--CGCU
+Rsph17029_2928 ----G-GGCCCGC-U---UC--------------------G--G--CGGG
+Rsph17029_0585 ----G-GCCGCCAUGC-CACCUUU-------------UGGCACU--GGCG
+Rsph17029_1158 ----G-GCCCGGA-CG-C--AUG--------------CGCG--U--CCGG
+Rsph17029_1349 ----G-GCCAGAG-GCGAUCGC-----------------GC--C--UCUG
+Rsph17029_2862 ----C-GCGCCCCCGG-CUCGU----------------GCC-CG--GGGC
+Rsph17029_0066 ----G-GCCGCCC-GG-GACCU----------------CCC--G-UGGCG
+Rsph17029_0339 ----A-UAAGCCG-C---GCGG------------------G--C--GGC-
+Rsph17029_0353 ----A-UAAGCCG-C---GCGG------------------G--C--GGC-
+Rsph17029_1399 ----C-UGGGCGG-GG-UUC------------------UCC--U--CGCC
+Rsph17029_0534 ----G-GCCGUGC-CU---CCG-----------------GG--G--CGCG
+Rsph17029_1376 ----A-GGGCGCG-GA--GCGA-----------------UC--C--GCGC
+Rsph17029_1348 ----A-GGCCAGA-GG-CGCGAU--------------CGCC--U--CUGG
+Rsph17029_0416 ----C-GGCCGGG-C---CC--------------------G--C--CCGG
+Rsph17029_1940 ----G-GCCGGCA-GA--GCGA-----------------UC--U--GCCG
+Rsph17029_0368 ----G-CCCCCGGACG-CAGAC----------------GCG-CC--CGGG
+Rsph17029_0982 CCGCA-GCCCGCG-----UCAC---------------------C--GCGG
+Rsph17029_1609 UCCCG-CAGCCGG-CG-CCCCC----------------GCG--C--CGGC
+Rsph17029_2410 ----G-GGGCGGA-----GCAA---------------------U--CCGC
+Rsph17029_2221 ----G-GGGCAGGGG--CGCGA----------------G-C-UU--CUGC
+Rsph17029_2698 ----U-UCGCCGU-C---UGAU------------------G--A--CGGC
+Rsph17029_0345 ----G-GCGCGCG-GG--GCAU-----------------CC--C--GCGC
+Rsph17029_0913 ----G-CCGCGGG-CG-C--AAUGGG--------GAGGUCG--C--CCGC
+Rsph17029_1432 ----C-GGCGCGA-UC-CUCCG----------------GGA--U--CGCG
+Rsph17029_0764 ----C-GCGGCGC-CC--CC-------------------GG--G--CGCC
+Rsph17029_2725 ----C-GGACGCG-AG-G--AA-----------------CU--C--GCGU
+Rsph17029_1173 ----G-GGUGCGA-C-----AC------------------G--U--CGCA
+Rsph17029_0469 ----C-CGGUGGA-GG--UCCU-----------------CC--U--CCGC
+Rsph17029_2633 ----U-GAUCACA-GG-CCCGCA---------------UCU--U--GUGA
+Rsph17029_1039 ----A-GCUGGCC-CCCGUC--C---------------GGG--G--GCCA
+Rsph17029_0514 ----A-GGCGCCC-C---UC--------------------G--G--GGCG
+Rsph17029_1431 ------GGUCUGC-CG--CGGU-----------------CG--G--CAGA
+Rsph17029_2131 ----A-GGGGCGC-CC-CGC------------------AGG--G--CGCC
+Rsph17029_0398 ----G-GGCCGCG-CG-CGCAGG---------------CGG--U--GCGG
+Rsph17029_2767 ----A-GCCCGCA-G---CGAU------------------C--UGGGCGG
+Rsph17029_2149 ----G-GGCGCGG-CG---CAA-----------------CG--C--CGCG
+Rsph17029_2715 ----A-GGCGCGC-CC-CGCAA-----------------GG--G-ACGCG
+Rsph17029_2620 ----C-CGCCGUG-G--CCCCG----------------G-C--C--GCGG
+Rsph17029_0126 -UCGG-GCCCGGU-CGCUUCGG-----------------CG--G--CCGG
+Rsph17029_0384 ----G-GGCCGCG-CC-AUC------------------UGG--U--GCGG
+Rsph17029_1169 ----G-GCCGGUC-CG-G--GAUC-------------CCCG--G--GCCG
+Rsph17029_1089 ----A-ACCGCGG-CC--CC-------------------GG--C--CGCG
+Rsph17029_0870 ----A-GGGCGGG-GA----UU-----------------UC--C--CCGC
+Rsph17029_2935 ----G-GCGGCGC-C--UCC--------------------G--G--CGCC
+Rsph17029_2795 ----A-GCCCCGG-C-----AC------------------G--C--CGGA
+Rsph17029_0407 ----G-GCGCCGG-AG-UCCGCGG------------GGACU--C--CGGC
+Rsph17029_0393 ----G-GGGCGCC-CG-GGCAA----------------UCG--G--GCGC
+Rsph17029_0428 ----G-GCCAGAC-CUUGUCGA-----------------AG--G--UCUG
+Rsph17029_2835 ----G-GGGCGGU-CU-CGAAA-----------------GG--G--CCGC
+Rsph17029_1043 ----G-GCUCCGG-UC-U--GU-----------------GA--C--CGGA
+Rsph17029_1604 ----A-UGCCGGC-CC--UC-------------------GG--G--CCGG
+Rsph17029_0044 ----C-CGCGGCA-GG--UGCU-----------------CC--U--GCCG
+Rsph17029_0513 ----A-GGCGCCC-C-----GA------------------G--G--GGCG
+Rsph17029_0331 ----G-GCGCGCG-GG--GCAU-----------------CC--C--GCGC
+Rsph17029_2190 ----C-GGCCGGU-GC-CCC-------------------GC--A--CCGG
+Rsph17029_0075 ----G-GCCCGCU-CC-A--GAU---------------CGG--A--GCGG
+Rsph17029_0729 ----A-GGGCGCG-CG--UUGC-----------------CG--C--GCGC
+Rsph17029_1820 ----G-GGCUCCC-C---GCGA------------------G--G--GGAG
+Rsph17029_1624 ----G-GCGCGG-CCC-GGCCUUG------------CCCGG-U---CCGC
+Rsph17029_2290 ----U-CCCGCCG-CC--CCGG-----------------GG--C--GGCG
+Rsph17029_1491 ----C-GGCUCCG-GC-AUCCC-----------------GC--C--GGGG
+Rsph17029_1430 ----G-GUCUGCC--G--ACCG-----------------C---G--GCAG
+Rsph17029_0435 ----G-GCCGGCA-CC--UCCG-----------------GG--U--GCCG
+Rsph17029_0736 ----A-ACGGGCG-GC---CGA-----------------GC--C--GCCC
+Rsph17029_1892 ----A-GCGCGCC-C---UUCC------------------G--G--GCGC
+Rsph17029_2672 GCGCC-CCUGCCC-GG-C--AUCC-------------GUCC--G--GGCA
+Rsph17029_1090 ----G-GUCUCCG-CC-CCCAU----------------GGG--C--GGAG
+Rsph17029_1146 ----G-GGGCCGG-UC-UGCGA----------------GGA--U--CGGC
+Rsph17029_0380 ----G-GGUGCGC-CU--GC-------------------GG--G--CGCA
+Rsph17029_2696 ----G-GCCCGG-GCC--GCGA-----------------GG-A---CCGG
+Rsph17029_1661 ----C-CCUGCCA-UU-CGCGAAGC-----------GUGAA--U--GGCA
+Rsph17029_2493 ----G-GCCGCCC-UU-CGCACU---------------GGA--G--GGCG
+Rsph17029_1830 ----G-CCCUCCG-CC-GGG--UGC-----------AUCGG--C--GGAG
+Rsph17029_1236 ----U-GCCGGAG-CC--CCCG-----------------GG--C--UCCG
+Rsph17029_0750 ----G-ACCGGGC-AG-AGGGU-----------------CU--G--CCCG
+Rsph17029_0121 ----G-GGGCGGA-AG-UCCGAUC-------------CCCU--U--CCGC
+Rsph17029_2709 ----G-GGCGGCC-CG-UACGG-----------------CG--G--GCCG
+Rsph17029_1622 ----C-CGGGCCG-CC--CCAG-----------------GG--U--GGCC
+Rsph17029_1594 ----A-GAAGCGC-C---GCAA------------------G--G--CGC-
+Rsph17029_0954 ----A-ACCGGCG-C--C--GAC--------------GA-G--C--GCCG
+Rsph17029_2612 ----G-GCGCCGC-U---GCGU------------------G--G--CGGC
+Rsph17029_2927 ----A-AAAGGCC-CG-CCGAA----------------GCG--G--GCC-
+Rsph17029_0137 ----G-GCGGCC-U----UCUA--------------------C---GGCC
+Rsph17029_0897 ----C-GCCCCGC-GGUCUCCG----------------GCC--G--CGGG
+Rsph17029_2837 ----G-GCCGCCC-C---GG--------------------G--G--GGCG
+Rsph17029_0245 ----G-UGCCGCG-GC-C--AGA---------------CGC--C--GCGG
+Rsph17029_2834 ---C--GCCGCGC-CC-CUCAC-----------------GG--G--CGCG
+Rsph17029_1332 ----C-GGCGCGC-C---UCCG------------------G--G--CGCG
+Rsph17029_0606 ----G-GGCUGAU-C---GCGA------------------G--A---CGG
+Rsph17029_0656 ----A-CCGCGCCUUG-GGGAA----------------CCU-CG--GCGC
+Rsph17029_2000 ---U--GCCUGUC-GG-CGGGGCC------------CUGCC--G--GCAG
+Rsph17029_1493 ----G-GGGCGCG-GC--GAAA-----------------GC--U--GCGC
+Rsph17029_0322 ----C-GGGCGCC-C-CUUCGA------------------G--G--GCGC
+Rsph17029_1501 ----G-GGGCGGC--U--UC-------------------G---G--CCGC
+Rsph17029_0115 ----G-AUCCGGG-UC-GUCGAA--------------CUGG--C--CCGG
+Rsph17029_2541 ----G-GGCGCCC------CGU---------------------G--GGCG
+Rsph17029_2037 ----G-GGCGCC------GCGA------------------------GGCG
+Rsph17029_2820 GUUCG-GCCCCCG-GG-UUCGGCGUUCCUGACGCGCCGGCC--C--GGGG
+Rsph17029_2011 ----U-GACGAC-AGC-AUC--U---------------AGC-C---GUCG
+Rsph17029_2373 ----A-CCCCCG-UCG-CGCAA----------------GUG-U---CGGG
+Rsph17029_2473 ----A-GCCCGG------GCGC------------------------CCGG
+Rsph17029_2811 ----A-AAUCUGC-GG-A--AAU---------------UGC--G--CGG-
+Rsph17029_0815 ----G-GCGGGCG-C---UCCG------------------G--C--GCCC
+Rsph17029_1426 ----C-GCCGGCG-GG-A-CAUGA------------CAUCC--C--GCCG
+Rsph17029_0922 ----G-GGGCGGC-CU-CGGCAU--------------CCGG--G--CCGC
+Rsph17029_1013 ----G-GCUCGGA-AC-AUCCUC--------------CCGU--U--CCGG
+Rsph17029_2199 ----C-CGCCUCC-GG-CCCCG----------------UCC--G--GGGG
+Rsph17029_0076 ----G-GCCCGCU-CC-G--AUC---------------UGG--A--GCGG
+Rsph17029_2238 ----G-GCCGGGC-GG-CAGGGGAUG--------CGCUGCC--G-CCCCG
+Rsph17029_2861 ----C-GCGCCCCGGG-CACGA----------------GCC-GG--GGGC
+Rsph17029_1420 ----A-CGCCGCC-CG-C--ACC---------------CCG--G--GCGG
+Rsph17029_2402 ---GA-GCCGCGC-AG--GGAU-----------------CU--G--CGCG
+Rsph17029_1485 ----G-GGCGCGG-UC-CGACA----------------GGG--C--CGCG
+Rsph17029_1005 ----G-GGGCCG-GCC-GCCCGA---------------CGG-G---CGGC
+Rsph17029_0226 ----G-GGGCGCC-C---GC--------------------G--G--GCGC
+Rsph17029_1705 ----G-CCCUCCG-CC-CGCACA--------------GGGG--C--GGGG
+Rsph17029_0524 ----G-GCCCGCC-GC-GACAGAG------------CUCGC--G--GCGG
+Rsph17029_0257 ----G-GCCCGGC-CG-C-CGUG--------------CGCG--G--CCGG
+Rsph17029_1086 ----G-GCGCGC-UUC-UUCAA-----------------GA-C---GCGC
+Rsph17029_1780 ----A-GGGCGCC-----UCCG---------------------G--GCGC
+Rsph17029_0690 ----GGGCGCCCU-CC-UGCCC-----------------GG--A--GGGC
+Rsph17029_1058 ----G-GGCGGUC-CC--GC-------------------GG--G--GCCG
+Rsph17029_1810 ----U-GUGGCGG-C--AUGAC------------------G--C--CGCC
+Rsph17029_2909 ----A-GCGCGGC-CC-CUCCCGC------------GAGGG--G--CCGC
+Rsph17029_1882 UGCGC-GCGCUCC-GC-CCCCC----------------GGC--G--GGGC
+Rsph17029_0418 ----G-CCCCGGA-CC--UG-------------------GG--U--CCGG
+Rsph17029_0853 ----C-GCGCGUC-CC--GCCC-----------------GG--G--GCGC
+Rsph17029_0183 ------GCCGGCA-GG-AGGGUC---------------UCC--U--GCCG
+Rsph17029_2805 ----G-CGGGGGG-C--UUCAC------------------G--C--CCCC
+Rsph17029_1217 ----C-GCCACGG-CC-CUCGUA--------------CGGG--C--CAUG
+Rsph17029_0100 ----C-GGAGCCC-CC-CUGACGUC-----------UCCGG--G--GGCU
+Rsph17029_1125 ----A-CCCCCGU-CG-AGCGGCG-------------CUCG--G--CGGG
+Rsph17029_2360 ----G-GGCCGCC-CG----AU-----------------CG--G--GCGG
+Rsph17029_1414 GAAUG-GGCGCC-----UUGAA------------------------GGCG
+Rsph17029_2521 ----G-GGCCGCC-U---UC--------------------G--G--GCGG
+Rsph17029_0323 ----C-GGGCGCC-CU--CGAA-----------------GG--G--GCGC
+Rsph17029_1031 ----G-UCCGCGG-CG-C--AUC--------------UCCG--C--CGCG
+Rsph17029_2952 ----G-GCGGUGC-GG-CACCAG---------------CCC--G-CCACC
+Rsph17029_1795 --CCC-GCCCGGG-CU--UC-------------------GG--C--CCGG
+Rsph17029_2982 ----G-GCCCGCA-UC--GGAU-----------------GA--U--GCGG
+Rsph17029_1768 ----C-GGGCGGA-GC-CACAC-----------------GC--U--CCGC
+Rsph17029_2847 ----G-GCCCGCG-C-----AA------------------G--C-CGCGG
+Rsph17029_1649 ----C-GGCCGGG-C--A--GA------------------G--C--CCGG
+Rsph17029_1272 ----A-GGACGCG-GC--GUAA-----------------GC--C--GCG-
+Rsph17029_0484 ----G-CCCCGCC-GG-AGCGA-----------------CC--G--GCGG
+Rsph17029_2401 ---CG-GGUGCGC-AA-U--AAU---------------GUU--G--CGCA
+Rsph17029_2132 ----G-GGGCGCC-CU--GC-------------------GG--G--GCGC
+Rsph17029_0985 ----A-GGGGGCC-----UCCG---------------------G--GCCC
+Rsph17029_2334 UGGUG-GGCGGCC-U---UC--------------------G--G--GCCG
+Rsph17029_1500 ----G-GGGCGGC-----CGAA---------------------G--CCGC
+Rsph17029_0179 ----G-GGCGCC--U---UC--------------------G-----GGCG
+Rsph17029_0209 ----A-GGCCGCC-CU----UU-----------------GG--G--GCGG
+Rsph17029_0808 ----G-CUCCUGU-C-----GU------------------G--A--CGGG
+Rsph17029_0832 ----U-GCCGGC-UGU-C--AACA-------------CGGC-C---GCCG
+Rsph17029_0704 ----C-GGCGGCC-CU--UC-------------------GG--G--GCCG
+Rsph17029_0409 ----U-GACCGGA-UC-UUGGUAA-------------AGGG--U--CCGG
+Rsph17029_2694 ----G-GGCGGGC-C---UC-U------------------G--G--CCCG
+Rsph17029_0321 ----G-GGCGGCG-G--CGCAGG--------------AA-C--C--GCCG
+Rsph17029_1990 ----G-GACCCCG-GC-CGCACC---------------GGC--U--GGGG
+Rsph17029_0858 ----G-CAGGCCG-CG-G--UU----------------GCG--C--GGCC
+Rsph17029_1885 ----C-GGGGGC-----AUCGA------------------------GCCC
+Rsph17029_1048 ----G-GCGAGCC-UC-CGCAGC---------------GGG--G--GCUC
+Rsph17029_0445 ----C-GGGCGGC-C--CGCAA------------------G--G--CCGC
+Rsph17029_1329 ----G-GCCGGCA-G--AUCCU------------------C--U--GCCG
+Rsph17029_2237 ---CC-CGCCCGAUCC-CGC--U--------------GCGG-AU--CGGG
+Rsph17029_1194 ----A-GGGCCGG-C---GGAA------------------G--C--CGGC
+Rsph17029_1044 ----G-GCUCCGG-UC-AUG-------------------GA--C--CGGA
+Rsph17029_0603 ----G-CGGGGCG-GC-UUGAA-----------------GC--U--GCC-
+Rsph17029_0079 ----A-AAAUGAC-GA-AGAGACG-------------AU-----------
+Rsph17029_0902 ----A-GCCCGCC-U---CCCA------------------A--G--GCGG
+Rsph17029_1824 ----C-GCGGGCG-GC--GCAUG--------------AAGC--C--GCCC
+Rsph17029_2606 GCCUG-CGCCGCG-CC-GUCGCUC------------CCCGG--C--GCGG
+Rsph17029_0642 ----G-GCCGCUC-CG-GGUGA----------------CCG--G--GGCG
+Rsph17029_0267 CCGCG-GCCCGGG-CG--GCAU-----------------CG--C--CCGG
+Rsph17029_2644 ----G-GCCCCGC-G-----AU------------------C--G--CGGG
+Rsph17029_0533 ----G-GCCCGUC-CG-G-CAUCCC----------CUGCCG--G--GCGG
+Rsph17029_1330 ----G-GCCGGCA-G--AGGAU------------------C--U--GCCG
+Rsph17029_2376 ----U-CCCGCGC-CG--UCCG-----------------CG--G--CGCG
+Rsph17029_0974 -----------GA-GG-CUC------------------GCC--U--C---
+Rsph17029_0301 ----G-GGCGGCC----GUUACA--------------UA----G--GCCG
+Rsph17029_0132 ----G-GCGCGGG-UC--CCGU-----------------GA--C--CCGC
+Rsph17029_2209 ----A-GGCCGCU-CC-C-CACC---------------GGG--A-CGCGG
+Rsph17029_1898 ----G-GGCGGC------GCAA-----------------------GGCCG
+Rsph17029_1203 ----C-UGCCGCA-GC-A-CAUGA------------GGUGC--U--GCGG
+#=GC SS_cons   ....<.<<<<<<<.<<._____.................>>..>..>>>>
+#=GC RF        ....G.GcCCGcc.Cc.cgCaa.................gG..g..gCGG
+
+Rsph17029_2826 GG-CC------------U------------------------
+Rsph17029_2571 GC-G-UUC------GACA--------------UU------UG
+Rsph17029_2546 GC-CU------------G---------------------UCG
+Rsph17029_2033 GC-C-CU----------U--------------UU-----UCA
+Rsph17029_2910 CC-C-UU--------GCC--------------UG-----UCA
+Rsph17029_1094 UC-CG------------A--------------AG-----GUG
+Rsph17029_0128 CC-C-UG--------CGA--------------------GUCG
+Rsph17029_1202 CA-G-UU-------UUCU--------------U------UUG
+Rsph17029_1095 UC-C-GAA-----GACUU--------------UG-----UCA
+Rsph17029_2628 GC-C-UUUU---UCUUUA--------------------AGCG
+Rsph17029_2034 CC-C-UU-------UUCC--------------UC-----GUG
+Rsph17029_1733 GU-C-UUU------UUCA--------------UGG---UUCU
+Rsph17029_1340 GC-G-GC----------G--------------CU----GCCG
+Rsph17029_2485 GC-CC------------U--------------UU-----UCG
+Rsph17029_0350 UC---------------C--------------UG----UCCG
+Rsph17029_2802 CC-C-UU----------C--------------U-G---AUUG
+Rsph17029_0166 CC-C-UU--------UCU--------------------GCUG
+Rsph17029_0336 UC---------------C--------------UG----UCCG
+Rsph17029_0867 CC-G-GUU------GUCC--------------------CUUG
+Rsph17029_1213 GA-C-CUAUG-AAAGACA--------------UU-----UUA
+Rsph17029_1331 CC-A-UU--------UCC--------------UU-----UUG
+Rsph17029_0536 CC-CU-UU------UUCA--------------UG-----GUG
+Rsph17029_2247 CC-A-CGG------CUCC--------------------CCCG
+Rsph17029_1492 CC-U-UUCA----ACGUA--------------UU-----AUG
+Rsph17029_1073 GC-C-UU--------UGC--------------UU-----UGG
+Rsph17029_2873 GU-UG------------A---------------------CCU
+Rsph17029_0626 GC-U-UU-------UUCA--------------UU-----UGG
+Rsph17029_1568 GC-CG------------U--------------UG-----CCA
+Rsph17029_2248 AC-G-GC----------G--------------CU----GCCG
+Rsph17029_0590 GU-C-UU--------GCA--------------UU-----UCG
+Rsph17029_0386 GC-CUUU-------UUCU--------------UU-----UUG
+Rsph17029_0871 CC-G-AA----------C---------------------CCG
+Rsph17029_0535 CC-CC-----------CG--------------UU-----CGU
+Rsph17029_1901 AC-GAUU--------CCA--------------AG-----GUU
+Rsph17029_0968 CC-U-UU-------UUCC--------------UU-----UCA
+Rsph17029_2827 GC-C-UU-------UUCC--------------AU-----CUC
+Rsph17029_0621 GC-G-GA--------UCA--------------U-C---GUCG
+Rsph17029_1601 GC-C-UU--------CUU--------------UC-----UUG
+Rsph17029_2801 CC-CC--C------GACC--------------UU----CAUC
+Rsph17029_0414 CC-G-UUC------UGCU--------------UU--------
+Rsph17029_0352 GC-CG---------AACC--------------U-----GUCU
+Rsph17029_2549 GC-G-UU-------UUCA--------------GU-----UCA
+Rsph17029_0363 CC-G-UG--------AUU--------------UU-----UAU
+Rsph17029_2756 GG-CA----------UCA--------------CU-----CGG
+Rsph17029_1006 AC-U-UC--------UUC--------------CU-----GCG
+Rsph17029_0338 GC-CG---------AACC--------------U-----GUCU
+Rsph17029_2335 CC-C-CC--------CGU--------------UG-----CCA
+Rsph17029_1557 GC-G-GU----------A--------------------GCGG
+Rsph17029_1154 CC-GC---------ACCC--------------------CCCG
+Rsph17029_2622 UC-C-CU-------UCGC--------------UU-----UCG
+Rsph17029_1961 GG-G-GCA-----GUGCC--------------UU------CA
+Rsph17029_1425 GC-G-UU--------UCU--------------UC-----AUG
+Rsph17029_2371 CC-G-----------GCG--------------CU----GCCG
+Rsph17029_1962 GC-AU------------C--------------CG-----CCG
+Rsph17029_0701 GG-U-UUU------UUCU--------------UC-----AUC
+Rsph17029_2343 GC-C-UU----------U--------------UC----GUUC
+Rsph17029_1727 CC-GC------------A--------------------UGCG
+Rsph17029_2035 CC-CU----------UUC--------------UU-----UUU
+Rsph17029_0045 CG-G-GC-------UUCA---------------UG---GUCU
+Rsph17029_2318 GG-C-UU--------UCC--------------U------UUG
+Rsph17029_1159 GC-C-UUU------UGCC--------------UG-----CCG
+Rsph17029_2500 UC-U-UU--------UCA--------------UU-----UCC
+Rsph17029_1996 GC-CG------------C--------------CG-----CCG
+Rsph17029_2928 CC-U-UU-------UUCA--------------UG-----UCA
+Rsph17029_0585 GC-C-CU-------UUCA--------------UG-----CAG
+Rsph17029_1158 GC-C-UU-------CGCA--------------UG-----UCC
+Rsph17029_1349 GC-C-UU--------UGA---------------------CUG
+Rsph17029_2862 GC-G-GC-------AGGA--------------UG-----CGG
+Rsph17029_0066 GC-C-UU-------UUCC--------------UG-----UCA
+Rsph17029_0339 -----------------C----------------------CG
+Rsph17029_0353 -----------------C----------------------CG
+Rsph17029_1399 CA-G-----------GCC--------------GU-----CGC
+Rsph17029_0534 GC-C-UUC------UGCA--------------UU------UG
+Rsph17029_1376 CC-U-UUU------UCCA--------------UG-----UCC
+Rsph17029_1348 CC-U-UU----------C---------------------CUU
+Rsph17029_0416 CC-CG------------U--------------UU-----GCA
+Rsph17029_1940 GC-C-UUU------CGCA--------------UU-----CCA
+Rsph17029_0368 GG-C-CU----------U--------------UCA---AUGA
+Rsph17029_0982 GC-UCUC-------CUUU--------------UU-----CCA
+Rsph17029_1609 UG-CU----------UUC--------------CU-----UUG
+Rsph17029_2410 CC-C-UU--------UUU---------------------CGU
+Rsph17029_2221 CC-CU------------C----------------------CG
+Rsph17029_2698 GA-AC------------C---------------------CGG
+Rsph17029_0345 GC-C-UU-------UUCC--------------UU-----UGG
+Rsph17029_0913 GG-C-CAG------AGCC--------------------CUCG
+Rsph17029_1432 CC-G-UU-------UUUC--------------UU------UG
+Rsph17029_0764 GC-G-UCA-----CG---A------------GCC-----UUA
+Rsph17029_2725 CC-G-UU----------C--------------UG----CUUU
+Rsph17029_1173 CC-CG---------------------------CU-----CCG
+Rsph17029_0469 CG-GA---------------------------UG------UU
+Rsph17029_2633 UC-AC------------A--------------UGACGAAUUU
+Rsph17029_1039 GC-U-UCU------GAGA--------------U-----UCUG
+Rsph17029_0514 CC-U-UUC------UGCA--------------UC-----GGG
+Rsph17029_1431 CC--C------------U----------------------CG
+Rsph17029_2131 CC-U-UC-------CUCA--------------U------UCC
+Rsph17029_0398 UC-CG------------U---------------------CCA
+Rsph17029_2767 GC-UC------------C----------------------CG
+Rsph17029_2149 CC-C-UUC------UGCA--------------UU-----CUG
+Rsph17029_2715 CC-U-UU-------UGCA--------------UG------GG
+Rsph17029_2620 CG-G-CUU------UGCA--------------UU-----UUA
+Rsph17029_0126 GC-CUU-U------CUCU--------------UG------GG
+Rsph17029_0384 CC-C-GAU-----CGACU---------------------UGU
+Rsph17029_1169 GC-CC------------C--------------UC-----CCG
+Rsph17029_1089 GU-U-UU-------UUCA--------------UG-----CCC
+Rsph17029_0870 CC-U-UU-------CUCA--------------U-----GUCC
+Rsph17029_2935 GC-CG------------U--------------UC-----GUU
+Rsph17029_2795 GC-U-UCCG----CG-------------------A--GCUCG
+Rsph17029_0407 GC-C-UU--------UCC--------------UU------UC
+Rsph17029_0393 CC-C-UU----------C--------------------AACA
+Rsph17029_0428 GC-CC------------G--------------------UCCA
+Rsph17029_2835 CC-CA------------C--------------UC-----GCG
+Rsph17029_1043 GC-C-UU-------CUGC---------------------UGU
+Rsph17029_1604 CA-U-UU-------UUCA--------------UU-----UCG
+Rsph17029_0044 CG-GG------------C---------------------UUU
+Rsph17029_0513 CC-U-UU----------C--------------GC----GUUU
+Rsph17029_0331 GC-C-UU-------UUCC--------------UU-----UGG
+Rsph17029_2190 CC-G-UUU-----CUGCA--------------UG-----GCG
+Rsph17029_0075 GC-C-CG-------CGCU--------------------GCUG
+Rsph17029_0729 CC-UG------------C---------------------CCG
+Rsph17029_1820 CC-CGU---------UCC---------------------UUC
+Rsph17029_1624 GC-C-UU-------CGCG----------------------CU
+Rsph17029_2290 GG-AC--AC----CGACA--------------AG----AUCG
+Rsph17029_1491 CC-G-GG-------GCC---------------------AUCG
+Rsph17029_1430 AC-C-CU----------C--------------AU----GCUG
+Rsph17029_0435 GC-UC------------C--------------------GUCA
+Rsph17029_0736 GU-UC---------C-----------------UGC---CUUG
+Rsph17029_1892 GU-U-UU--------UCU--------------UU-----GGG
+Rsph17029_2672 GG-GUUC----------C--------------UU-----UUC
+Rsph17029_1090 AC-CU------------C------------------------
+Rsph17029_1146 CC-C-UU-------------------------UU-----UCA
+Rsph17029_0380 UA-C-AU----------C--------------AC-----CUG
+Rsph17029_2696 GC-C-UUU------GUCA--------------UG----GCUU
+Rsph17029_1661 GG-GG---------CACG--------------UC-----CCU
+Rsph17029_2493 GC-C-GU----------C--------------GU-----CUU
+Rsph17029_1830 GG-CG------------A--------------UU-----UGG
+Rsph17029_1236 GC-AC------------C--------------CG-----CCG
+Rsph17029_0750 GU-CC--AU---AAAACC--------------CC-----UCA
+Rsph17029_0121 CC-CC------------A--------------UC------CC
+Rsph17029_2709 CC-CG------------G---------------------AUC
+Rsph17029_1622 CG-G-AG---------GA---------------------UUG
+Rsph17029_1594 --------------------------------UU-----CCG
+Rsph17029_0954 -----------------C--------------AU-----CGG
+Rsph17029_2612 GC-C-CUG-----UGAUC--------------UU-----CUG
+Rsph17029_2927 -----------------C--------------UG-----UCG
+Rsph17029_0137 GC-CU------------C--------------CU-----CGG
+Rsph17029_0897 GC-GA------------A--------------UC-----AUG
+Rsph17029_2837 GC-C-UU-------CCGG--------------UC-----CCG
+Rsph17029_0245 CA-C-CC----------C---------------------CCG
+Rsph17029_2834 GC--UUU-------UUCG--------------------UCCG
+Rsph17029_1332 CC-G-CU----------U--------------UU-----UUC
+Rsph17029_0606 CC-C-UUCAG-GGCGACA--------------UG-----CCA
+Rsph17029_0656 GG-U-UU-------UUCG--------------UU-----UCU
+Rsph17029_2000 GC--UUCACA--UGAGCU--------------UG-----ACG
+Rsph17029_1493 CC-C-UU--------UUC--------------UU-----UGG
+Rsph17029_0322 CC-GC------------C--------------U------GCG
+Rsph17029_1501 CC-C-UG--------GUC--------------UU-----UCC
+Rsph17029_0115 AU-C-CU-------GGCC----------------------GG
+Rsph17029_2541 CC-CA--A------UGGG--------------UG-----GCG
+Rsph17029_2037 CC-C-UU--------UCC--------------CG-----UUC
+Rsph17029_2820 GC-CGUU-------UUCA--------------UU-----UCC
+Rsph17029_2011 UC-A-GUUGC--GGACUC--------------UU-----UGU
+Rsph17029_2373 GG-U-UU-------UUCU----------------------UU
+Rsph17029_2473 GC-UC------------A--------------GG-----GCG
+Rsph17029_2811 -----------------C--------------GU-----CGG
+Rsph17029_0815 GC-CU------------C--------------------CGCA
+Rsph17029_1426 GC-GU------------C--------------UU-----UCG
+Rsph17029_0922 CC-C-UU---------CC--------------UC-----GGU
+Rsph17029_1013 GC-CG------------U--------------------UUCU
+Rsph17029_2199 CG-GAUC-------UGCC--------------UG-----CCG
+Rsph17029_0076 GC-C-CG----------U--------------UU-----CUU
+Rsph17029_2238 GC-C-GC----------C---------------------UCG
+Rsph17029_2861 GC-GG------------C---------------------GGG
+Rsph17029_1420 CG-U-UU----------C--------------GC-----UUU
+Rsph17029_2402 GC-UC--C-----UUUCG--------------UU-----UCA
+Rsph17029_1485 CC-C-UU-------UGCC--------------AU-----GGU
+Rsph17029_1005 CC-CC----------UUA--------------UU-----GGA
+Rsph17029_0226 CC-C-UU----------U--------------UU-----CUG
+Rsph17029_1705 GG-C-UU----------U--------------CG-----CGC
+Rsph17029_0524 GC-C--U----------C---------------------GCG
+Rsph17029_0257 GC-C-CG--------CCC---------------------CGG
+Rsph17029_1086 GC-CC------------U----------------------CG
+Rsph17029_1780 CC-U-UC-------UUCU--------------UUGGCGUUCA
+Rsph17029_0690 GCGC-CCC-----GCUCC--------------------CUCA
+Rsph17029_1058 CC-C-UU-------UCUC--------------UC----UACG
+Rsph17029_1810 AC-A-CCA-----UCGCC--------------UC-----AGG
+Rsph17029_2909 GC-UCUCC------UCGA--------------UC-----CUG
+Rsph17029_1882 GC-GCGU-------UCCG--------------UU-----UGG
+Rsph17029_0418 GG-CG------------CGCGUCCUCCCGAUUUG-----CUG
+Rsph17029_0853 GC-G-C--------CGUC--------------UG-----AUC
+Rsph17029_0183 GC-------------GCU--------------CG-----CCU
+Rsph17029_2805 CG-CG------------C----------------------CC
+Rsph17029_1217 GC-GC------------G--------------CU-----UCG
+Rsph17029_0100 CC-G-GC----------C--------------------AUCU
+Rsph17029_1125 GG-U-UU-------UUCG--------------UU-----UCC
+Rsph17029_2360 CC-U-UU--------UCC--------------GU-----UUU
+Rsph17029_1414 CC-CGUC-------ACCA--------------U-G---CUCG
+Rsph17029_2521 CC-U-UUUUCAUCCCGCC--------------UU-----UUG
+Rsph17029_0323 CC-G-UU--------UCA----------------------CA
+Rsph17029_1031 GA-C-------------C---------------------CCA
+Rsph17029_2952 GC-C-UG----------C--------------CG-----CUC
+Rsph17029_1795 GC-GGCCU-----UCCGA--------------UU-----GCG
+Rsph17029_2982 GC-CU-----------GC----------------------CG
+Rsph17029_1768 CC-C-UU----------U--------------UU----UCCU
+Rsph17029_2847 GC-C-UUC------UUCA--------------UU----CCGG
+Rsph17029_1649 CC-GA------------G--------------UC-----AUG
+Rsph17029_1272 CC-UG------------A---------------------CCU
+Rsph17029_0484 GG-CG------------A----------------G---GUUG
+Rsph17029_2401 CC-CUUU-------U-CC----------------A--UAUCU
+Rsph17029_2132 CC-C-UUC------UGCA--------------U------CUU
+Rsph17029_0985 CC-U-UU-------CUCA--------------UG------CG
+Rsph17029_2334 CC-CCU-U------UGCC---------------------UUG
+Rsph17029_1500 CC-C-UU-------GCCC--------------UC----AUUU
+Rsph17029_0179 CC-C-UU-------UUCC---------------------UUG
+Rsph17029_0209 CC-U-UUU-----CACGU--------------UG-----UGG
+Rsph17029_0808 AG-CG------------G---------------------AUG
+Rsph17029_0832 GC-AC------------C---------------------UCG
+Rsph17029_0704 CC-G-UU-------UGCA--------------UU-----CGG
+Rsph17029_0409 UC-AU-----------GG--------------UU----AGCG
+Rsph17029_2694 CC-CU-----------CC--------------------GCCG
+Rsph17029_0321 CU-CG------------A---------------------CGA
+Rsph17029_1990 UC-C-UG-------CCCC--------------AU-----CCG
+Rsph17029_0858 UG-CA--G------GCCC--------------UC-----UCA
+Rsph17029_1885 CC-G-------------A--------------CG-----ACG
+Rsph17029_1048 GC-CG------------C----------------------UG
+Rsph17029_0445 CC-GAUC-------CCGU--------------UC-----AGG
+Rsph17029_1329 GC-C-UUC------GACA--------------UG-----AUG
+Rsph17029_2237 CG-GC--GG----ACGCC--------------UC-----UGA
+Rsph17029_1194 CC-U-UU--------UCG--------------UU-----GAA
+Rsph17029_1044 GC-C-UU-------UUCAU------------GUU-----CCG
+Rsph17029_0603 CG-C-UU--------UCA--------------UU-----CGA
+Rsph17029_0079 -----------------A--------------UU-----UUU
+Rsph17029_0902 GC---------------A--------------UU--------
+Rsph17029_1824 GC-G-------------C--------------UG-----ACG
+Rsph17029_2606 CG-CUAU-------UGUU--------------UU-----UCG
+Rsph17029_0642 GU-CC------------C--------------UC-----AUG
+Rsph17029_0267 GC-CCUU-------UCCC--------------------GUCG
+Rsph17029_2644 GC-C-UUU-----GGUCU--------------UU------CC
+Rsph17029_0533 GC-C-U--------UUCC--------------------AUCU
+Rsph17029_1330 GC-C-UU-------UCCC--------------------UUGU
+Rsph17029_2376 GG-AC------------C--------------CG-----UCU
+Rsph17029_0974 -----------------C--------------UU------CG
+Rsph17029_0301 CU-CC------------A--------------UG-----CCC
+Rsph17029_0132 GU-C-CC--------CCU--------------UU-----GCG
+Rsph17029_2209 CC-U-UU----------U---------------------CCU
+Rsph17029_1898 CC-CG---------------------------CU-----CCU
+Rsph17029_1203 CA-G-UU-------UUCA--------------UG-----UCG
+#=GC SS_cons   >>.>.>>........---..............>>.....>>:
+#=GC RF        gC.C.Uu........uCc..............Uu.....ccG
+//

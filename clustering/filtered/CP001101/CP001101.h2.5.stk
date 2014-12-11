@@ -1,0 +1,886 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS Cphamn1_0305 WT 1.01
+#=GS Cphamn1_1597 WT 1.06
+#=GS Cphamn1_1375 WT 0.89
+#=GS Cphamn1_2209 WT 0.64
+#=GS Cphamn1_0270 WT 1.01
+#=GS Cphamn1_0030 WT 1.11
+#=GS Cphamn1_1351 WT 0.87
+#=GS Cphamn1_1229 WT 1.20
+#=GS Cphamn1_0341 WT 1.13
+#=GS Cphamn1_1325 WT 1.13
+#=GS Cphamn1_1202 WT 0.91
+#=GS Cphamn1_1654 WT 1.25
+#=GS Cphamn1_0433 WT 0.88
+#=GS Cphamn1_0033 WT 0.92
+#=GS Cphamn1_1820 WT 1.34
+#=GS Cphamn1_0307 WT 1.02
+#=GS Cphamn1_0308 WT 1.02
+#=GS Cphamn1_0165 WT 1.06
+#=GS Cphamn1_0513 WT 0.76
+#=GS Cphamn1_1404 WT 1.09
+#=GS Cphamn1_2097 WT 1.11
+#=GS Cphamn1_2268 WT 0.79
+#=GS Cphamn1_0108 WT 0.77
+#=GS Cphamn1_2210 WT 0.64
+#=GS Cphamn1_0055 WT 0.72
+#=GS Cphamn1_1724 WT 1.28
+#=GS Cphamn1_0514 WT 0.76
+#=GS Cphamn1_1834 WT 0.98
+#=GS Cphamn1_0953 WT 1.02
+#=GS Cphamn1_0402 WT 1.07
+#=GS Cphamn1_0799 WT 0.99
+#=GS Cphamn1_2204 WT 1.10
+#=GS Cphamn1_2098 WT 1.11
+#=GS Cphamn1_1027 WT 1.01
+#=GS Cphamn1_1707 WT 1.02
+#=GS Cphamn1_0286 WT 1.16
+#=GS Cphamn1_0550 WT 0.92
+#=GS Cphamn1_2176 WT 0.93
+#=GS Cphamn1_2469 WT 1.00
+#=GS Cphamn1_0321 WT 0.52
+#=GS Cphamn1_1201 WT 0.91
+#=GS Cphamn1_0152 WT 0.92
+#=GS Cphamn1_0463 WT 0.83
+#=GS Cphamn1_1640 WT 1.07
+#=GS Cphamn1_2460 WT 1.46
+#=GS Cphamn1_0069 WT 0.86
+#=GS Cphamn1_1331 WT 1.01
+#=GS Cphamn1_1354 WT 1.17
+#=GS Cphamn1_0522 WT 0.86
+#=GS Cphamn1_2000 WT 0.92
+#=GS Cphamn1_1771 WT 0.93
+#=GS Cphamn1_0303 WT 0.96
+#=GS Cphamn1_1463 WT 1.18
+#=GS Cphamn1_1816 WT 0.81
+#=GS Cphamn1_1388 WT 1.17
+#=GS Cphamn1_1271 WT 0.82
+#=GS Cphamn1_1076 WT 1.24
+#=GS Cphamn1_0995 WT 0.89
+#=GS Cphamn1_0070 WT 0.72
+#=GS Cphamn1_1392 WT 0.87
+#=GS Cphamn1_1042 WT 0.98
+#=GS Cphamn1_2135 WT 0.90
+#=GS Cphamn1_0578 WT 1.03
+#=GS Cphamn1_0252 WT 0.91
+#=GS Cphamn1_0115 WT 0.92
+#=GS Cphamn1_2012 WT 0.81
+#=GS Cphamn1_1997 WT 0.96
+#=GS Cphamn1_0355 WT 0.88
+#=GS Cphamn1_2236 WT 1.29
+#=GS Cphamn1_2463 WT 1.04
+#=GS Cphamn1_1433 WT 1.11
+#=GS Cphamn1_2267 WT 0.79
+#=GS Cphamn1_2195 WT 0.87
+#=GS Cphamn1_1091 WT 0.94
+#=GS Cphamn1_0536 WT 1.21
+#=GS Cphamn1_0202 WT 0.87
+#=GS Cphamn1_0510 WT 1.02
+#=GS Cphamn1_0583 WT 1.16
+#=GS Cphamn1_0234 WT 1.25
+#=GS Cphamn1_0637 WT 0.93
+#=GS Cphamn1_0754 WT 0.96
+#=GS Cphamn1_0756 WT 0.80
+#=GS Cphamn1_1784 WT 1.42
+#=GS Cphamn1_2412 WT 0.92
+#=GS Cphamn1_2205 WT 0.69
+#=GS Cphamn1_1095 WT 1.09
+#=GS Cphamn1_0397 WT 1.08
+#=GS Cphamn1_0318 WT 1.29
+#=GS Cphamn1_2554 WT 1.36
+#=GS Cphamn1_1895 WT 0.99
+#=GS Cphamn1_0285 WT 1.12
+#=GS Cphamn1_0623 WT 1.01
+#=GS Cphamn1_1519 WT 1.03
+#=GS Cphamn1_0944 WT 1.09
+#=GS Cphamn1_0432 WT 0.72
+#=GS Cphamn1_0549 WT 1.13
+#=GS Cphamn1_1090 WT 0.97
+#=GS Cphamn1_0105 WT 1.13
+#=GS Cphamn1_1295 WT 1.07
+#=GS Cphamn1_1137 WT 1.12
+#=GS Cphamn1_0306 WT 1.12
+#=GS Cphamn1_1166 WT 1.14
+#=GS Cphamn1_0328 WT 1.17
+#=GS Cphamn1_0523 WT 0.86
+#=GS Cphamn1_1869 WT 0.82
+#=GS Cphamn1_0638 WT 0.82
+#=GS Cphamn1_1158 WT 0.92
+#=GS Cphamn1_2363 WT 1.20
+#=GS Cphamn1_0298 WT 0.92
+#=GS Cphamn1_1230 WT 0.77
+#=GS Cphamn1_0636 WT 1.16
+#=GS Cphamn1_2044 WT 1.24
+#=GS Cphamn1_2141 WT 1.00
+#=GS Cphamn1_1081 WT 1.17
+#=GS Cphamn1_0010 WT 0.93
+#=GS Cphamn1_2365 WT 1.21
+#=GS Cphamn1_1754 WT 1.19
+#=GS Cphamn1_0584 WT 1.10
+#=GS Cphamn1_0512 WT 1.07
+#=GS Cphamn1_0610 WT 0.92
+#=GS Cphamn1_0506 WT 1.14
+#=GS Cphamn1_0577 WT 1.16
+#=GS Cphamn1_1238 WT 0.95
+#=GS Cphamn1_0287 WT 1.04
+#=GS Cphamn1_1769 WT 1.06
+#=GS Cphamn1_0667 WT 0.90
+#=GS Cphamn1_0259 WT 1.19
+#=GS Cphamn1_0356 WT 0.34
+#=GS Cphamn1_0800 WT 1.24
+#=GS Cphamn1_0943 WT 1.24
+#=GS Cphamn1_1860 WT 1.16
+#=GS Cphamn1_2018 WT 0.91
+#=GS Cphamn1_0615 WT 1.01
+#=GS Cphamn1_1646 WT 1.01
+#=GS Cphamn1_2136 WT 0.90
+#=GS Cphamn1_1830 WT 1.45
+#=GS Cphamn1_0551 WT 1.21
+#=GS Cphamn1_1547 WT 1.16
+#=GS Cphamn1_2354 WT 1.42
+#=GS Cphamn1_1845 WT 0.99
+#=GS Cphamn1_1462 WT 0.98
+#=GS Cphamn1_0326 WT 0.92
+#=GS Cphamn1_0997 WT 0.74
+#=GS Cphamn1_0868 WT 0.96
+#=GS Cphamn1_1975 WT 0.97
+#=GS Cphamn1_0333 WT 0.96
+#=GS Cphamn1_1193 WT 1.20
+#=GS Cphamn1_1831 WT 1.36
+#=GS Cphamn1_1655 WT 1.07
+#=GS Cphamn1_2118 WT 0.98
+#=GS Cphamn1_0183 WT 0.92
+#=GS Cphamn1_2464 WT 1.13
+#=GS Cphamn1_0265 WT 1.32
+#=GS Cphamn1_0362 WT 0.99
+#=GS Cphamn1_0976 WT 0.98
+#=GS Cphamn1_0727 WT 1.15
+#=GS Cphamn1_2248 WT 1.22
+#=GS Cphamn1_1896 WT 1.07
+#=GS Cphamn1_2154 WT 1.19
+#=GS Cphamn1_1390 WT 0.95
+#=GS Cphamn1_1192 WT 1.06
+#=GS Cphamn1_1429 WT 0.87
+#=GS Cphamn1_1307 WT 1.20
+#=GS Cphamn1_0841 WT 0.80
+#=GS Cphamn1_1165 WT 0.93
+#=GS Cphamn1_1200 WT 1.11
+#=GS Cphamn1_1047 WT 0.99
+#=GS Cphamn1_0840 WT 0.77
+#=GS Cphamn1_1302 WT 0.77
+#=GS Cphamn1_1237 WT 1.04
+#=GS Cphamn1_0658 WT 1.02
+#=GS Cphamn1_1344 WT 0.94
+#=GS Cphamn1_0986 WT 1.02
+#=GS Cphamn1_0431 WT 0.72
+#=GS Cphamn1_1897 WT 1.12
+#=GS Cphamn1_1759 WT 0.93
+#=GS Cphamn1_1101 WT 0.56
+#=GS Cphamn1_1403 WT 1.15
+#=GS Cphamn1_0996 WT 0.74
+#=GS Cphamn1_1125 WT 1.07
+#=GS Cphamn1_0984 WT 1.04
+#=GS Cphamn1_0857 WT 1.24
+#=GS Cphamn1_1312 WT 1.17
+#=GS Cphamn1_0601 WT 1.19
+#=GS Cphamn1_1819 WT 1.01
+#=GS Cphamn1_2512 WT 0.47
+#=GS Cphamn1_2216 WT 0.93
+#=GS Cphamn1_1984 WT 0.83
+#=GS Cphamn1_0689 WT 1.04
+#=GS Cphamn1_0854 WT 0.47
+#=GS Cphamn1_1837 WT 1.32
+#=GS Cphamn1_0765 WT 0.60
+#=GS Cphamn1_1368 WT 1.12
+#=GS Cphamn1_2388 WT 0.76
+#=GS Cphamn1_1817 WT 1.22
+#=GS Cphamn1_0366 WT 0.17
+#=GS Cphamn1_1411 WT 1.09
+#=GS Cphamn1_0905 WT 1.10
+#=GS Cphamn1_1783 WT 1.17
+#=GS Cphamn1_0136 WT 1.12
+#=GS Cphamn1_0131 WT 1.12
+#=GS Cphamn1_1634 WT 1.02
+#=GS Cphamn1_0132 WT 0.87
+#=GS Cphamn1_1888 WT 0.90
+#=GS Cphamn1_0256 WT 0.60
+#=GS Cphamn1_2493 WT 1.06
+#=GS Cphamn1_1833 WT 0.17
+#=GS Cphamn1_0266 WT 1.33
+#=GS Cphamn1_0057 WT 1.40
+#=GS Cphamn1_0617 WT 0.92
+#=GS Cphamn1_1533 WT 0.94
+#=GS Cphamn1_0977 WT 1.12
+#=GS Cphamn1_0783 WT 1.14
+#=GS Cphamn1_1349 WT 0.51
+#=GS Cphamn1_1488 WT 0.82
+#=GS Cphamn1_2538 WT 1.01
+#=GS Cphamn1_1641 WT 0.96
+#=GS Cphamn1_2037 WT 1.29
+
+Cphamn1_0305 UGAU--GAU---CUG-A----------------------------GAA--
+Cphamn1_1597 GAAG-GUAA---CUGAUAU------------------------GAGAA--
+Cphamn1_1375 UCAG--GAGAU----------------------------------AAA--
+Cphamn1_2209 UAAA-UAAUAC-----C----------------------------AAC--
+Cphamn1_0270 GGAA--C-UUG-CUUCUUA-----------------------AAAGAA--
+Cphamn1_0030 UAAC-GC-GCU-AUAAA---------------------------AAAC--
+Cphamn1_1351 UAAC-UCAUU--ACGAUGAC----------------------UUAAAA--
+Cphamn1_1229 CAACGGCAUCU----------------------------------GCA--
+Cphamn1_0341 GG--GAUAGUG-ACGAC---------------------------------
+Cphamn1_1325 GAAA--GAGU--AACAA----------------------------GUC--
+Cphamn1_1202 GC--UGGAUAG-CUGGA---------------------------UAGC--
+Cphamn1_1654 GAAA-ACAGCU----------------------------------UAU--
+Cphamn1_0433 GA--UUCAUCG-GUU------------------------------AAA--
+Cphamn1_0033 UCAA-UGAUU--UUUAUC--------------------------ACAA--
+Cphamn1_1820 GAAA--CAGU------------------------------------CU--
+Cphamn1_0307 UCAG--CACC----CCU----------------------------ACU--
+Cphamn1_0308 U---AGGAGCU-UUG------------------------------ACU--
+Cphamn1_0165 GAAG-CU-GU--CUGAUUA-----------------------UGUGAA--
+Cphamn1_0513 UGAU-GUAUAA-AUAAA---------------------------AAAA--
+Cphamn1_1404 UA--UCCAUUU----------------------------------AUA--
+Cphamn1_2097 UGAA--AAG---CCGCA----------------------------UAC--
+Cphamn1_2268 UGAG--C-UAU-CUGAUUUCUU-----------------GAUUGAAAA--
+Cphamn1_0108 CCAG--UAAUA----------------------------------AAA--
+Cphamn1_2210 UAAA--CAGAC----------------------------------AAC--
+Cphamn1_0055 U---GUCAG-----GCA----------------------------CAA--
+Cphamn1_1724 GCAC-AU-UAC-CUGAC-----------------------------AC--
+Cphamn1_0514 UCAU-GUAAAC---AAA----------------------------AAA--
+Cphamn1_1834 CAAA--AAAUU----------------------------------AAA--
+Cphamn1_0953 CGAG--CACUA----------------------------------AAA--
+Cphamn1_0402 CGAA--AACU--AUG-----------------------------------
+Cphamn1_0799 CC--GGAAGUU-AUUCC----------------------------GAA--
+Cphamn1_2204 CCAG-UCAUUU---C--G-------------------------CGCAA--
+Cphamn1_2098 GGAUACUAUU-----------------------------------GCA--
+Cphamn1_1027 UUAG--C-UCU-CUG------------------------------AAA--
+Cphamn1_1707 CCAC--UACCA----------------------------------AUA--
+Cphamn1_0286 UGAG--AAGAU-AUACU---------------------------------
+Cphamn1_0550 CAAU-ACACUU----------------------------------CAA--
+Cphamn1_2176 UCAG-GUACU--ACGAA----------------------------GAA--
+Cphamn1_2469 UGAG--UAUUA---GGU---------------------------AUAA--
+Cphamn1_0321 UCAU--AAAAC-CUCGACA-----------------------AAAAAA--
+Cphamn1_1201 CC--GUC-UUC-CUGUA----------------------------AGC--
+Cphamn1_0152 GAAA-CAAGAC-AUCAUU--------------------------CAAA--
+Cphamn1_0463 CGAC-GGAUUU-UUU------------------------------CCU--
+Cphamn1_1640 GCAG-AUAUUU---UAA----------------------------AGG--
+Cphamn1_2460 UC--UGCAAAG----------------------------------CAU--
+Cphamn1_0069 GGAU--AAGU--AUAAA---------------------------ACAA--
+Cphamn1_1331 UC--CGAAC---AUGCUGUU----------------------ACAGCA--
+Cphamn1_1354 U---CUUAG------------------------------------GGG--
+Cphamn1_0522 GCAG--CAGAG-UUGAAAC-----------------------AGUUCU--
+Cphamn1_2000 GCAG-ACAGUC----------------------------------AAA--
+Cphamn1_1771 UCAAUGCACUG-AUGCUCUUCCA---------------GACAUGUAGU--
+Cphamn1_0303 GAAA-GAAAUG-CCAAA----------------------------GCA--
+Cphamn1_1463 GGAU-GUAAUU---GCC----------------------------UAA--
+Cphamn1_1816 G---CGUAUA--CUACAGCGUU------------------ACACGAAA--
+Cphamn1_1388 UCAU--U-UCC-AUG-A----------------------------GAA--
+Cphamn1_1271 CCAU-UCAUCG-CUGCUCGGUUCC-------------AGCCUUUCGGC--
+Cphamn1_1076 UCAC--CAUAC----------------------------------CCG--
+Cphamn1_0995 UAAA--CAGCA-AUAACCUCUU-----------------UAUUCAAAA--
+Cphamn1_0070 GG--UACAG-----GCA----------------------------CAA--
+Cphamn1_1392 UCAA--UAGAG-----U----------------------------AAA--
+Cphamn1_1042 GC--GACAGAU-----A----------------------------GAU--
+Cphamn1_2135 GCAA--CAAU-----------------------------------ACA--
+Cphamn1_0578 UGAG--UACAU-AUGAU----------------------------AAAGG
+Cphamn1_0252 GCAC--CAGCU-----U----------------------------GAA--
+Cphamn1_0115 GAAU-GCAU------------------------------------AAA--
+Cphamn1_2012 GGAG--C-GUA----------------------------------AAC--
+Cphamn1_1997 UCAG--CACAA-CACAA----------------------------GAC--
+Cphamn1_0355 GGAA--AAG---AUCAAU--------------------------AAAA--
+Cphamn1_2236 GCAC-AUACUC-GUCAU---------------------------------
+Cphamn1_2463 GCAG--UAG------------------------------------GCA--
+Cphamn1_1433 UAAC-GCAUC--AUGGA----------------------------AC---
+Cphamn1_2267 CAAU-GCAAA-----------------------------------AAA--
+Cphamn1_2195 GCAA-AC-UAU-CUG-A----------------------------AAA--
+Cphamn1_1091 UUAG--UAUAU----------------------------------AAA--
+Cphamn1_0536 UCAG--CAAUC-CUUCU---------------------------CCGA--
+Cphamn1_0202 GAAA-UCAG------------------------------------AAA--
+Cphamn1_0510 UC--UGUAUCU-AUGAA----------------------------GUA--
+Cphamn1_0583 UGAU--CACAG-GUAAUGU-----------------------GACGUG--
+Cphamn1_0234 CAAAUGCAUUC-AAG------------------------------UAU--
+Cphamn1_0637 GGAGAAAAGC--CUG------------------------------AUA--
+Cphamn1_0754 UCAG-GAACAC-----A----------------------------AAA--
+Cphamn1_0756 UCAAGACAAUA-GUUCA----------------------------AAA--
+Cphamn1_1784 GAAA--CAUAG-UUU-----------------------------------
+Cphamn1_2412 UAAC--AAG-----GCA----------------------------AAU--
+Cphamn1_2205 UAAA--AAC---AUGGUUCU----------------------CCGCGA--
+Cphamn1_1095 GCAU--CAGC--CUGAUUCUCCG----------------CUCUGUUAA--
+Cphamn1_0397 UGAG-GC-C---GCGAA---------------------------------
+Cphamn1_0318 UCAG--CACAA----------------------------------GCU--
+Cphamn1_2554 UC--CGC-CUU----------------------------------UUC--
+Cphamn1_1895 CCAC-GUAUA--ACGCA----------------------------AAA--
+Cphamn1_0285 UAAC-GAAUCC-AUGAC-----------------------------CA--
+Cphamn1_0623 CGAA--CAAAU-CUGAACCG----------------------GAAAAAAC
+Cphamn1_1519 GG--UGGAUAU-AUGAU---------------------------GAAA--
+Cphamn1_0944 UGAC--UAUU----GAA----------------------------AAA--
+Cphamn1_0432 GG--UACAGC-----------------------------------AAA--
+Cphamn1_0549 CC--UGCAGCA---------------------------------------
+Cphamn1_1090 UGAA--GAUAC-AUCAA----------------------------UAA--
+Cphamn1_0105 GCAU-UC-CUC-CCCCU---------------------------------
+Cphamn1_1295 GCAG-UGAGUU-GUAAU----------------------------GAA--
+Cphamn1_1137 UAAU--AACAA-CGGAA---------------------------------
+Cphamn1_0306 UAAC--AACAC-AUUAU----------------------------CAA--
+Cphamn1_1166 U---CUCAGC--CUG-----------------------------------
+Cphamn1_0328 U---UUUAGCU-UUGCU----------------------------GAA--
+Cphamn1_0523 UCAA--AAAAA---------------------------------------
+Cphamn1_1869 CCAG--AAC-----------------------------------------
+Cphamn1_0638 UCAA-UUAU---CUUCU---------------------------------
+Cphamn1_1158 UAAC-AAAGCG-----------------------------------UU--
+Cphamn1_2363 GC--UGCAGU--AUGAAUA------------------------UUGA---
+Cphamn1_0298 GCAG-ACAGCU--U------------------------------UUUU--
+Cphamn1_1230 UGAGUGC-UU--GUGAU----------------------------GAU--
+Cphamn1_0636 UAAA--AAG---GUAAAAGGU-------------------AAAAGGCA--
+Cphamn1_2044 GCAGCGAAGUU---------------------------------------
+Cphamn1_2141 UGAU-GAAAU--AUGUU----------------------------AAA--
+Cphamn1_1081 CC--UGAAGCC-AUACA----------------------------GAA--
+Cphamn1_0010 GGAU--AAGCU-GUGAUGUUUAC----------------CUGAAUACA--
+Cphamn1_2365 UCAC-AAACUA----------------------------------UUU--
+Cphamn1_1754 UCAC-ACAGU--AACAC----------------------------UGG--
+Cphamn1_0584 UAAA-GGAGA----GCC----------------------------AGA--
+Cphamn1_0512 CGAU-ACAGA--GUGAUUUUA--------------------GCUCCCU--
+Cphamn1_0610 GCAA--AAU-----------------------------------------
+Cphamn1_0506 UUAU--U-GU--CUGAC---------------------------UGAA--
+Cphamn1_0577 GGAU--GAGAC-GCGAA----------------------------GAA--
+Cphamn1_1238 UCAG-GCAGA--CCG------------------------------UUA--
+Cphamn1_0287 CAAA-GUAUCA-CUGAUUUUGUUUUGUGUCUGUUUUUCUCUCCGUCAA--
+Cphamn1_1769 UAAC--AAGU-----------------------------------UUC--
+Cphamn1_0667 UCAG--CAG------------------------------------AAA--
+Cphamn1_0259 UAAUAGAAG-----------------------------------------
+Cphamn1_0356 U---GUCAU-----------------------------------------
+Cphamn1_0800 GCAC-AC-GAA-CCGCU----------------------------CAC--
+Cphamn1_0943 GGAGUGUAGAA-AUGAC----------------------------UAU--
+Cphamn1_1860 CGAA--GAAUG---GGA----------------------------AAAC-
+Cphamn1_2018 GAAA--CAG------------------------------------AAA--
+Cphamn1_0615 CCAG--GAG---CUC-----------------------------------
+Cphamn1_1646 UCAA-GUAGUC-UUCAC----------------------------GAC--
+Cphamn1_2136 U---CGAAGUU---GAA----------------------------ACA--
+Cphamn1_1830 GC--UAUAAAA-CUGGU----------------------------AAC--
+Cphamn1_0551 UCAG--UAUUU-UUGCUGCAU-------------------UCUUUCGC--
+Cphamn1_1547 UAAC--AAUCA----------------------------------CAU--
+Cphamn1_2354 UAAA-AAAG-----------------------------------------
+Cphamn1_1845 UAAA-UUAUUCUCUGCC---------------------------------
+Cphamn1_1462 GC--UGCAUU----GAA----------------------------AAA--
+Cphamn1_0326 GAAA--CAGCA-----A----------------------------UA---
+Cphamn1_0997 U---GACAUU----------------------------------------
+Cphamn1_0868 CCAC--AAGAC---CGU----------------------------UAA--
+Cphamn1_1975 UAAU-GG-G------------------------------------UAA--
+Cphamn1_0333 UAAA--AAA---CUCAA---------------------------------
+Cphamn1_1193 UCAC--CAUAA---AAA----------------------------AAC--
+Cphamn1_1831 GAACGGUAG------------------------------------AAC--
+Cphamn1_1655 GCAG--CAUAA---------------------------------------
+Cphamn1_2118 GAAAUGAAUU--CUACUC-------------------------UUCAA--
+Cphamn1_0183 GC--GUCAGUG---------------------------------------
+Cphamn1_2464 GG--CCCAAUG----------------------------------GGU--
+Cphamn1_0265 CGAU--AAGUU-----U----------------------------CAG--
+Cphamn1_0362 CCAU--CAG-----GCU---------------------------------
+Cphamn1_0976 GAAA--CACA-----------------------------------GAA--
+Cphamn1_0727 UGAUAAAAUAU-CUG-----------------------------------
+Cphamn1_2248 U---GCCAUAU-CUGAUACCUACUCAC--------AUACCACAGUAGG--
+Cphamn1_1896 UGAA-GAAGUA-AUGAUACAGCCUGC---------UCCCCGCACAAC---
+Cphamn1_2154 GAAA--CAACA---GGU----------------------------CUA--
+Cphamn1_1390 UGAC--CAUUCACUCAU----------------------------GAU--
+Cphamn1_1192 UGAU-GUAGUA-AUUGCUGUUU-----------------UUCUCCGUU--
+Cphamn1_1429 U---UUUAUUU----------------------------------CAA--
+Cphamn1_1307 CAAG-UAAGA-----------------------------------GAA--
+Cphamn1_0841 CAAA-ACAGU-----------------------------------AAA--
+Cphamn1_1165 U---UGCAGUA----------------------------------ACA--
+Cphamn1_1200 GCAG--GAUUA---------------------------------------
+Cphamn1_1047 UCAU-AGAU---UUCAC----------------------------GAA--
+Cphamn1_0840 GCAG-UAAUAA----------------------------------AAA--
+Cphamn1_1302 CGAG-UCAGC--CUG-----------------------------------
+Cphamn1_1237 UCAG-UCAUU----GAAAGAUUAG-------------CUUCCUGUUAA--
+Cphamn1_0658 U---UAUAGAG-AUG-U----------------------------AGA--
+Cphamn1_1344 GGAU--GAUUU-----U---------------------------------
+Cphamn1_0986 GAAA--AAUUG-UUGCA----------------------------UCC--
+Cphamn1_0431 G---GGCAUA--AUG------------------------------AAA--
+Cphamn1_1897 UGAC-AAAAAA---------------------------------------
+Cphamn1_1759 UAAA-GCAUAG----------------------------------AGA--
+Cphamn1_1101 UAAG--CACC-----------------------------------AUA--
+Cphamn1_1403 UCAU--AAGAC-CGCAU----------------------------GCG--
+Cphamn1_0996 U---GUCAUUU---------------------------------------
+Cphamn1_1125 GCAG-GUAGUU-CCCAUCGAUAG----------------AGGAAUAAA--
+Cphamn1_0984 U---GGCAGAU-AUUCA----------------------------GUA--
+Cphamn1_0857 GCAC--AAC---GUGAUCGU----------------------UACAAG--
+Cphamn1_1312 GAAG-ACAGA--GUGCA----------------------------AAU--
+Cphamn1_0601 GGAC-ACACCA-CUUCAUA-----------------------CUGAUU--
+Cphamn1_1819 UC--UGCAG---GUG------------------------------UAG--
+Cphamn1_2512 CCAA-AAAGCA----------------------------------GUA--
+Cphamn1_2216 UGAU--UAA---AUGAA----------------------------AAA--
+Cphamn1_1984 GAAAGGCAAUG---GAU---------------------------------
+Cphamn1_0689 CA--UGCAGAC-AUGUA---------------------------------
+Cphamn1_0854 UCAG--CAGC--AUCAA---------------------------CAGA--
+Cphamn1_1837 UG--UACAGAC-----U----------------------------AUC--
+Cphamn1_0765 U---UGUAG-----------------------------------------
+Cphamn1_1368 GCAG--CAG------------------------------------CAG--
+Cphamn1_2388 U---UUUAUUA-GUCAU---------------------------------
+Cphamn1_1817 UGAC-GU-GUA----------------------------------CCA--
+Cphamn1_0366 UG--GUCAU-----------------------------------------
+Cphamn1_1411 UAAU--AAGUC-GAGGA----------------------------AAA--
+Cphamn1_0905 GAAA--CAUA--GAGGU----------------------------AAA--
+Cphamn1_1783 UAAG--CAUCU----------------------------------ACA--
+Cphamn1_0136 UGAA-GUAU---GUGCCC--------------------------CGCA--
+Cphamn1_0131 G---GACAG-----------------------------------------
+Cphamn1_1634 U---UGAAUU--GUUGA-----------------------------GU--
+Cphamn1_0132 GCAU-GCAUU----GCA----------------------------AAA--
+Cphamn1_1888 UAAU-CC-GU--CUGAUCCC----------------------UUGAAA--
+Cphamn1_0256 GAAC-GUAG-----------------------------------------
+Cphamn1_2493 UCAG-ACAGUA-ACGCA---------------------------------
+Cphamn1_1833 U---GUCAU-----------------------------------------
+Cphamn1_0266 GC--GUUAGUU-GUGAA----------------------------AUU--
+Cphamn1_0057 UCAA-UCAUA----------------------------------------
+Cphamn1_0617 GAAUGAUAGCG-CUGGA---------------------------UAGC--
+Cphamn1_1533 GGAU--UAUUU-AUCGUAGC----------------------AAGAAA--
+Cphamn1_0977 GG--CUCAGUG---GCU----------------------------UA---
+Cphamn1_0783 CC--UGUAGUU-----A----------------------------CUU--
+Cphamn1_1349 UCAC-UC-U---GUCAU---------------------------------
+Cphamn1_1488 UCAG--AAUUU-CAG-----------------------------------
+Cphamn1_2538 GGAU-GC-CUG-AUUCA---------------------------------
+Cphamn1_1641 GGAA--CAGAA-CAGAA----------------------------AAA--
+Cphamn1_2037 UCAA--UAA---AUGAAG-------------------------UAGAU--
+#=GC SS_cons ::::.::::::.:::::............................<<<..
+#=GC RF      ucAa.gcAguu.cUGAa............................aAA..
+
+Cphamn1_0305 -GA-----------------AGG-AGCCGUC-------------------
+Cphamn1_1597 -AG-----------------CCC-GACCUGCU------------------
+Cphamn1_1375 ----------------------------CCGUU-----------------
+Cphamn1_2209 -AA-----------------AAA-ACCCUCCA------------------
+Cphamn1_0270 -AA-----------------GCC-GUUCAUCUGC----------------
+Cphamn1_0030 -AU-----------------CAG-UGACAGGAA-----------------
+Cphamn1_1351 -GC-----------------AGG-AGCGGAU-------------------
+Cphamn1_1229 -GCUG-------------UGGAA-GCCACCCC------------------
+Cphamn1_0341 ------------------------GCCCGG--------------------
+Cphamn1_1325 -AC-----------------AGG-CCCCGGU-------------------
+Cphamn1_1202 -AA-----------------AAA-GGCAGGGUCA----------------
+Cphamn1_1654 -GC-----------------UGC-UUCAUGAA------------------
+Cphamn1_0433 --A-----------------AGG-AGGC---G------------------
+Cphamn1_0033 -GC-----------------CGC-GACAGG-A------------------
+Cphamn1_1820 -UC-----------------AGC-AGGCAGUGUGCUGUCUCCAGUACACA
+Cphamn1_0307 -GC-----------------CGG-UGCGCGAAAAA---------------
+Cphamn1_0308 -GC-----------------CGG-UGCGCGAUCUGA--------------
+Cphamn1_0165 -AC-----------------CGC-ACAAUGAUA-----------------
+Cphamn1_0513 -GC-----------------CAC-CUCGUGCA------------------
+Cphamn1_1404 -AA-----------------AGC-CGUAACAGAUCAU------------C
+Cphamn1_2097 -AA-----------------GCC-GUCUGUC-------------------
+Cphamn1_2268 -AG-----------------CAC-AGCAGG--------------------
+Cphamn1_0108 -GG-----------------AAA-AGCCGGUA------------------
+Cphamn1_2210 -AA-----------------AAA-ACCCUCCG------------------
+Cphamn1_0055 -AG-----------------AAC-CCGAAGAG------------------
+Cphamn1_1724 -CG-----------------GCC-CUGUAC-A------------------
+Cphamn1_0514 -GC-----------------CAC-CUCAAGCA------------------
+Cphamn1_1834 -AG-----------------CAG-GGAGCGUU------------------
+Cphamn1_0953 -AA-----------------AACAGGGGGGCG------------------
+Cphamn1_0402 ------------------------ACCUGAAUC-----------------
+Cphamn1_0799 -AG-----------------CCC-CCCUGC--------------------
+Cphamn1_2204 -AC-----------------AGG-CCCCUU--------------------
+Cphamn1_2098 --A-----------------GCC-GUCUGUC-------------------
+Cphamn1_1027 -AG-----------------CCC-UGCA-UCAGG----------------
+Cphamn1_1707 -AA-----------------AAA-GGGAUUCA------------------
+Cphamn1_0286 ------------------------GUCCGG-A------------------
+Cphamn1_0550 -AA-----------------AGA-AGCCGUC-------------------
+Cphamn1_2176 --A-----------------AGC-AGCUCC--------------------
+Cphamn1_2469 -GG-----------------AAG-CUGUCUCAUAUG--------------
+Cphamn1_0321 -AG-----------------AGA-GGCUGUCU------------------
+Cphamn1_1201 -AA-----------------AAA-GGCAGGGCAC----------------
+Cphamn1_0152 -AA-----------------GCC-GCCUCCGG------------------
+Cphamn1_0463 -GU-----------------CAU-UCCCGUG-------------------
+Cphamn1_1640 --G-----------------UAC-UUCUAUU-------------------
+Cphamn1_2460 -GG-----------------CCG-UGAAGGUUG-----------------
+Cphamn1_0069 -AG-----------------AAC-CCGAGGC-------------------
+Cphamn1_1331 -AA-----------------AGC-CUCCGGAGCC----------------
+Cphamn1_1354 --A-----------------CGG-UGGCGUA-------------------
+Cphamn1_0522 -UA-----------------CAG-CGCCAUCA------------------
+Cphamn1_2000 -AA-----------------GCC-UCUUGCGG------------------
+Cphamn1_1771 -AA-----------------AAA-GGCGCGAA------------------
+Cphamn1_0303 -GA-----------------AAA-AGCAGGA-------------------
+Cphamn1_1463 ------------------------GUUGAUCG------------------
+Cphamn1_1816 -AA-----------------AGG-AGAUAAG-------------------
+Cphamn1_1388 -AA-----------------ACC-UUCCUG-CCAG---------------
+Cphamn1_1271 -AG-----------------CAA-UGCCGCUG------------------
+Cphamn1_1076 -UG-----------------UAA-AUUGAACA------------------
+Cphamn1_0995 -AG-----------------AGG-GUGGCCGG------------------
+Cphamn1_0070 -AG-----------------AAC-CCGAAGC-------------------
+Cphamn1_1392 -GC-----------------CGC-C-GUGC--------------------
+Cphamn1_1042 -CA-----------------AAG-GCCACGGC------------------
+Cphamn1_2135 -AA-----------------AAA-GGAGGCUG------------------
+Cphamn1_0578 AAA-----------------AGC-CCCGGAGC------------------
+Cphamn1_0252 --U-----------------AAC-UCCCGUG-------------------
+Cphamn1_0115 -GC-----------------AA----CGA--G------------------
+Cphamn1_2012 -AA-----------------AAA-AGCCUCGU------------------
+Cphamn1_1997 ------------------------GGCCGU--------------------
+Cphamn1_0355 -AA-----------------AGC-AGCCUCACCA----------------
+Cphamn1_2236 -------------------------GCCCCGUAAACUAUC------UUUC
+Cphamn1_2463 ------------------------GUCCCCAG------------------
+Cphamn1_1433 ------------------------U-AUACA-------------------
+Cphamn1_2267 -AG-----------------CAC-AGCAGG--------------------
+Cphamn1_2195 ------------------------GGCAGUGAUAGCG------------U
+Cphamn1_1091 -AA-----------------AGC-GGCAGG-A------------------
+Cphamn1_0536 -UC-----------------AGG-ACAGCGUC------------------
+Cphamn1_0202 -GC-----------------GUG-AGCUGU-G------------------
+Cphamn1_0510 -UG-----------------UAA-AGGCGGCU------------------
+Cphamn1_0583 -UG-----------------ACA-GGGCCGG-------------------
+Cphamn1_0234 -UC-----------------CGG-GUCCUCAU------------------
+Cphamn1_0637 ------------------------UCCCUG--------------------
+Cphamn1_0754 ------------------------AGCACGGG------------------
+Cphamn1_0756 -AA-----------------GCC-AACCCUCA------------------
+Cphamn1_1784 ------------------------CCGACAACC-----------------
+Cphamn1_2412 -UC-----------------AGU-CGACGCCA------------------
+Cphamn1_2205 -AA-----------------AGA-GGCUGUCUC-----------------
+Cphamn1_1095 --A-----------------AAG-CCGUUUC-------------------
+Cphamn1_0397 --C-----------------AGG-UGCCGAGG------------------
+Cphamn1_0318 ------------------------CCGUUUCG------------------
+Cphamn1_2554 -AG-----------------CAC-GAUUGUCA------------------
+Cphamn1_1895 ------------------------ACCCCGAG------------------
+Cphamn1_0285 -AA-----------------GAG-GUCGAUA-------------------
+Cphamn1_0623 GAC-----------------GGG-AGCAGACGA-----------------
+Cphamn1_1519 --------------------------------------------------
+Cphamn1_0944 ------------------------UGUAAAAG------------------
+Cphamn1_0432 -AA-----------------AGG-AGGUC---------------------
+Cphamn1_0549 ------------------------UCCGGGAGCU----------------
+Cphamn1_1090 -AA-----------------AAG-CGGCAGGU------------------
+Cphamn1_0105 ------------------------GGCCAG-GAU----------------
+Cphamn1_1295 -AA-----------------AGC-CUGGC---------------------
+Cphamn1_1137 ------------------------CCCCGGAG------------------
+Cphamn1_0306 -AG-----------------CAU-UGCCC---------------------
+Cphamn1_1166 ------------------------CUCUAAC-------------------
+Cphamn1_0328 --A-----------------ACC-UGAAUUGA------------------
+Cphamn1_0523 --A-----------------CAG-CGCCAUCU------------------
+Cphamn1_1869 ------------------------GGGCGAAA------------------
+Cphamn1_0638 ------------------------UGUCG---------------------
+Cphamn1_1158 -GC-----------------ACC-GGACGGCA------------------
+Cphamn1_2363 --------------------------CAGGAUA-----------------
+Cphamn1_0298 -CA-----------------GGC-GCCCCGA-------------------
+Cphamn1_1230 -AA-----------------AAA-AGCCGGUUG-----------------
+Cphamn1_0636 -AA-----------------AUA-UCCC-GG-------------------
+Cphamn1_2044 ------------------------ACAAGAA-------------------
+Cphamn1_2141 AGG-----------------AGG-CUGUCUC-------------------
+Cphamn1_1081 -AC-----------------AGC-CCGCCC--------------------
+Cphamn1_0010 -UG-----------------AAG-GCCCGGC-------------------
+Cphamn1_2365 -UC-----------------AUC-AGGCCAUCCCAU-------------U
+Cphamn1_1754 ------------------------ACCGGGCG------------------
+Cphamn1_0584 -CA-----------------AAC-AGCAGGCCACGCA------------G
+Cphamn1_0512 -GG-----------------AAG-AGCC----------------------
+Cphamn1_0610 ------------------------GGCUGGAU------------------
+Cphamn1_0506 -GG-----------------CCG-UUCCAUCU------------------
+Cphamn1_0577 ------------------------CUGGA---------------------
+Cphamn1_1238 -UG-----------------AAA-AGGCGAAU------------------
+Cphamn1_0287 ------------------------CUCCGCUGUACG-------------U
+Cphamn1_1769 -CA-----------------GGC-CGCAGU--------------------
+Cphamn1_0667 ------------------------AGCCCCCGCC----------------
+Cphamn1_0259 ------------------------CGCGGGCUACC---------------
+Cphamn1_0356 ------------------------UCCCGUGC------------------
+Cphamn1_0800 -------------------------GACGGCA------------------
+Cphamn1_0943 -UA-----------------AAA-AUGAAAAGA-----------------
+Cphamn1_1860 CGG-----------------GGC-AUAGUCGGCAUG--------------
+Cphamn1_2018 ------------------------UCCCGGUG------------------
+Cphamn1_0615 ------------------------CGCCGGAC------------------
+Cphamn1_1646 -AG-----------------GCU-C-CCGG--------------------
+Cphamn1_2136 -AA-----------------AAA-GGAGGCUU------------------
+Cphamn1_1830 -GC-----------------AUG-ACUGCAU-------------------
+Cphamn1_0551 -UC-----------------AGC-AGGCAG-U------------------
+Cphamn1_1547 -CC-----------------AGC-UGACCCAAAAACCG---------CUG
+Cphamn1_2354 ------------------------CGGACCGGGU----------------
+Cphamn1_1845 ------------------------UGCCUGUGA-----------------
+Cphamn1_1462 -AAGUAA---------CCGCAAA-AGCCCCG-------------------
+Cphamn1_0326 -AA-----------------GAA-AGCCGGCU------------------
+Cphamn1_0997 ------------------------CUCCGCUGA-----------------
+Cphamn1_0868 -AA-----------------GCC-UGCAAGG-------------------
+Cphamn1_1975 ------------------------UGGGAGGU------------------
+Cphamn1_0333 -------------------------GCGGGUU------------------
+Cphamn1_1193 ------------------------CUGCCUUGC-----------------
+Cphamn1_1831 --G-----------------CAU-GACUUCAU------------------
+Cphamn1_1655 -------------------------GCUGUUU------------------
+Cphamn1_2118 ------------------------GGCAGCG-------------------
+Cphamn1_0183 ------------------------UCCCCG--------------------
+Cphamn1_2464 -UGUG------------UGACAG-UCCCCAG-------------------
+Cphamn1_0265 ------------------------CACCUUAUACAG--------------
+Cphamn1_0362 ------------------------UUCCCGC-------------------
+Cphamn1_0976 -AG-----------------CAG-GGAUGUA-------------------
+Cphamn1_0727 -------------------------CGACGC-------------------
+Cphamn1_2248 ------------------------GGCAGGCCCC----------------
+Cphamn1_1896 -AA-----------------AAA-ACCCCGAA------------------
+Cphamn1_2154 -------------------------UCACCUU------------------
+Cphamn1_1390 -ACCUC-----------UGAAGA-GGCUGUCU------------------
+Cphamn1_1192 -CA-----------------AUC-UGCCUUGU------------------
+Cphamn1_1429 ------------------------GUCAGUGC------------------
+Cphamn1_1307 -CACUAUAGAAUUCUGUCCGAGA-GCCGUGAG------------------
+Cphamn1_0841 ------------------------AGCCGGCU------------------
+Cphamn1_1165 --G-----------------AGG-UCCCGGC-------------------
+Cphamn1_1200 ------------------------CGGCGCCUG-----------------
+Cphamn1_1047 -AC-----------------CUC-CCCCGUUGUG----------------
+Cphamn1_0840 ------------------------AGCCGGCG------------------
+Cphamn1_1302 ------------------------A-CCGGU-------------------
+Cphamn1_1237 -AA-----------------CCC-GUCGUCAGAG----------------
+Cphamn1_0658 -------------------------GGUGGC-------------------
+Cphamn1_1344 ------------------------UGUCGCCG------------------
+Cphamn1_0986 -UG----------------UAGG-GGCAAGCC------------------
+Cphamn1_0431 -AA-----------------AGG-AGGUC---------------------
+Cphamn1_1897 ------------------------GGCGAAA-------------------
+Cphamn1_1759 -GA-----------------AAA-AGGGC---------------------
+Cphamn1_1101 -UG----------------CAGA-GGCUGCCU------------------
+Cphamn1_1403 ------------------------GGGAAGCUGC----------------
+Cphamn1_0996 ------------------------CUCCGCUGA-----------------
+Cphamn1_1125 -AA-----------------ACC-UGCUC---------------------
+Cphamn1_0984 -AA-----------------AGC-UGCUUUUU------------------
+Cphamn1_0857 ------------------------AGGGUGAA------------------
+Cphamn1_1312 --U-----------------CAG-CGGGGUCA------------------
+Cphamn1_0601 -CA-----------------AGG-CUCAACUU------------------
+Cphamn1_1819 ------------------------GGUUCCGG------------------
+Cphamn1_2512 -AA-----------------AGA-GGCUGUCU------------------
+Cphamn1_2216 ------------------------GGCUCC-U------------------
+Cphamn1_1984 ------------------------UCCCGUG-------------------
+Cphamn1_0689 ------------------------UGCAUG--------------------
+Cphamn1_0854 -AA-----------------AGA-GGCUGUCU------------------
+Cphamn1_1837 ------------------------CCCGAGGU------------------
+Cphamn1_0765 ------------------------GGGCGAAA------------------
+Cphamn1_1368 -AC-----------------UCC-AUCCGG--------------------
+Cphamn1_2388 ------------------------CCCCGGGC------------------
+Cphamn1_1817 ------------------------UGGCUGCG------------------
+Cphamn1_0366 ------------------------UCCCGUGC------------------
+Cphamn1_1411 -AA-----------------GAU-GGCCGAUGC-----------------
+Cphamn1_0905 -------------------------GUCAGCG------------------
+Cphamn1_1783 -AGCAUUUU-----CUCCAGAGC-AUCCUG-UUG----------------
+Cphamn1_0136 -------------------------GCUGGCGU-----------------
+Cphamn1_0131 ------------------------AUCAGUCA------------------
+Cphamn1_1634 -UG-----------------AAG-GGCUGGCC------------------
+Cphamn1_0132 -GC-----------------CGC-C-CUGA--------------------
+Cphamn1_1888 ------------------------AGCCGUACCA----------------
+Cphamn1_0256 ------------------------GGGCGAAA------------------
+Cphamn1_2493 -------------------------UCCGGGC------------------
+Cphamn1_1833 ------------------------UCCCGUGC------------------
+Cphamn1_0266 ------------------------AUUUUAAU------------------
+Cphamn1_0057 ------------------------ACUUUGCAAA----------------
+Cphamn1_0617 -UG-----------------GAU-AGCUGAAU------------------
+Cphamn1_1533 -------------------------GCCGCCU------------------
+Cphamn1_0977 -AU-----------------AGC-AGGAAUGUA-----------------
+Cphamn1_0783 -UA-----------------CGC-UGUCCCGGC-----------------
+Cphamn1_1349 ------------------------UCCCGUGC------------------
+Cphamn1_1488 ------------------------GGGCGAGUC-----------------
+Cphamn1_2538 ------------------------AUACGGCUG-----------------
+Cphamn1_1641 -AG-----------------AAA-GGCAGCCUU-----------------
+Cphamn1_2037 -GC-----------------AGA-CAUUGUC-------------------
+#=GC SS_cons .-<.................<<<.<<<<<<<_..................
+#=GC RF      .Aa.................Aac.gGCcggcu..................
+
+Cphamn1_0305 ----CAC-------------------U-GUGCGGCUCCU-UCUUC----
+Cphamn1_1597 ----UCA-------------------C-UGCAGGUCGGG-CUUUUUUGU
+Cphamn1_1375 --CCUGA-------------------C--CGGC---------UUUUUUU
+Cphamn1_2209 ----UCU-------------------C-CGGAGGGUUUU-UUGUU----
+Cphamn1_0270 -UCUUGC-------------------U--GGUGAACGGC-UUUUCUUUU
+Cphamn1_0030 --AAAUC-------------------U-CCCAAUCACUG-AUGUUUUUU
+Cphamn1_1351 ----UUG-------------------A--ACCCGCUCCU-GCUUUUUUU
+Cphamn1_1229 ----UAA-------------------A-AGGGUGGCUUCUGCUGCUUUU
+Cphamn1_0341 ----CAG-------------------G---CCGGGC-------------
+Cphamn1_1325 -----GC-------------------U-GACCGGGGCCU-GUGAC----
+Cphamn1_1202 --CACAG-------------------U-GCCCUGCCUUU-UUGCUUACA
+Cphamn1_1654 ----CCA-------------------C-CUUAUGAGGCA-GCAUG----
+Cphamn1_0433 ----UAA-------------------C-C---GCCUCCU-U-UUUUUUC
+Cphamn1_0033 ----UUU-------------------U-C-CCUGUCGUG-GCUUUUUUU
+Cphamn1_1820 CAGAUAC-------------------A-AACUGCCUGCU-G--------
+Cphamn1_0307 UCUUUCA-------------------G-AUCGCGCACCG-GCAGU----
+Cphamn1_0308 AAGAUUU-------------------U--UCGCGCACCG-GCAGU----
+Cphamn1_0165 ---UUGC-------------------U-GUCAUUGUGCG-GUUUUUUUG
+Cphamn1_0513 ---AGCA-------------------A-UGCUUGAGGUG-GCUUUUUUG
+Cphamn1_1404 AACCUGA-------------------U-UUGUAACGGCU-UUUUUUUUA
+Cphamn1_2097 ----CCU-------------------U--GACAGACGGC-U----UGCA
+Cphamn1_2268 ----AUA-------------------U-A-CCUGCUGUG-CUUUUUUUG
+Cphamn1_0108 ----UUC-------------------U--GCCGGCUUUU-CCUUUUUGC
+Cphamn1_2210 ---GAGA-------------------U--GGAGGGUUUU-UUGUU----
+Cphamn1_0055 ----AAG-------------------A--UCUUCGGGUU-CUUUGUUUU
+Cphamn1_1724 ----UCC-------------------C-C-GUACAGGGC-C--------
+Cphamn1_0514 ---UUGC-------------------U-UGCACGAGGUG-GCUUUUUUU
+Cphamn1_1834 ---CGUA-------------------U-GACGCUCCCUG-CUUUUUUUU
+Cphamn1_0953 ----ACA-------------------A--GCCCCCCGUU-UUUUUUGAU
+Cphamn1_0402 --GCUCA-------------------A--UUCAGGU-------------
+Cphamn1_0799 ----CGA-------------------C---GCAGGGGGG-CUUUUUUUA
+Cphamn1_2204 ----GAA-------------------A---AAGGGGCUU-GUUUUUUUC
+Cphamn1_2098 ----AAG-------------------G--GACAGACGGC-U-UGU----
+Cphamn1_1027 -AUUGUC-------------------A-GGAAUGCGGGG-CUUUU----
+Cphamn1_1707 ----UGU-------------------U--GAAUCCCUUU-UUUAUUUAC
+Cphamn1_0286 ----CUC-------------------U-G-CGGGAC-------------
+Cphamn1_0550 ----AGG-------------------A--GACGGCUUCU-UUUUU----
+Cphamn1_2176 ----UUG-------------------A---GGAGUUGCU-U-UUUUUUG
+Cphamn1_2469 UCAAUUA-------------------U--GAGGCAGCUU-UUUUGUUUU
+Cphamn1_0321 ---CAAA-------------------A-GGGCAGCCUCU-CGUAUUUUG
+Cphamn1_1201 -UGUGUG-------------------A--CCCUGCCUUU-UUGCU----
+Cphamn1_0152 ----GAU-------------------A--CGGGGGCGGC-UUUUUUUUA
+Cphamn1_0463 ----UCA-------------------G-GCACGGGAAUG-ACAGG----
+Cphamn1_1640 ----UAU-------------------U--AAUAGAGGUG-C-CCU----
+Cphamn1_2460 --CACAA-------------------A-GACCAUCACGG-CCACGUUUU
+Cphamn1_0069 ----AUU-------------------C--GCUUCGGGUU-CUUUGUGCC
+Cphamn1_1331 --AGGAA-------------------A-CUCCGGAGGCU-UUUGUUUUU
+Cphamn1_1354 ----GCA-------------------A--UGCGCCGCCG-U-UAC----
+Cphamn1_0522 ----CAG-------------------A--GAUGGCGCUG-U----UUUU
+Cphamn1_2000 ----UAA-------------------C-CCGCAAGAGGC-UUUUUUUAU
+Cphamn1_1771 ----GUU-------------------U--UCGCGCCUUU-UUUAUUUAC
+Cphamn1_0303 ----UGA-------------------U-CUCCUGCUUUU-UCUGC----
+Cphamn1_1463 ---AUUG-------------------U-CGGUCAAC------UUA----
+Cphamn1_1816 ----UUA-------------------U-GCUUGUCUCCU-UUUUUUAUA
+Cphamn1_1388 ACGCUGC-------------------A---CAGGAAGGU-UUUUC----
+Cphamn1_1271 ----GUU-------------------U-CACCGGCAUUG-CUGCCGAUU
+Cphamn1_1076 ---GUAU-------------------A-GUUUCAAUUUA-CACGGUUCU
+Cphamn1_0995 ---CUAA-------------------A-CCGGUCACCCU-CUUUUUUUU
+Cphamn1_0070 ----GAA-------------------U--GCCUCGGGUU-CUUUGUUUU
+Cphamn1_1392 ----AUA-------------------A-C-GCACAGGCG-GUUUUUUUU
+Cphamn1_1042 ----GAA-------------------A-ACCGUGGCCUU-UGUUUUUUU
+Cphamn1_2135 ----GAA-------------------A-AAGCCUCCUUU-UUUGUUUCA
+Cphamn1_0578 ----AGC-------------------A--CUUCGGGGCU-UUUUU----
+Cphamn1_0252 ----AUU-------------------C--CGCGGGAGUU-U-UUUUUUG
+Cphamn1_0115 ----UAA-------------------A-A--UUGAUCUU-GCUUU----
+Cphamn1_2012 ----UGU-------------------U--CGAGGCUUUU-UUGUU----
+Cphamn1_1997 -----UC-------------------A---ACGGCC------GUC----
+Cphamn1_0355 -CUCAAA-------------------U-GUGAGGCUGCU-UUUUUUUAU
+Cphamn1_2236 UGGUUUC-------------------U--CGGGGC--------------
+Cphamn1_2463 ----UCG-------------------A-CUGGGGAC------UGU----
+Cphamn1_1433 ----ACC-------------------A--UGUAUAA-----GCGUUUUA
+Cphamn1_2267 ----UAU-------------------A-U-CCUGCUGUG-CUUUU----
+Cphamn1_2195 AAAGCUA-------------------A-CCACUGCC------UUUUUUA
+Cphamn1_1091 ----GCC-------------------A-A-CCUGCCGCU-UUUUUAUUG
+Cphamn1_0536 ----AAA-------------------C-GACGC-GUCCU-G----CAUC
+Cphamn1_0202 ----UUA-------------------A-G-ACGGCUCAC-GCUUUUUUG
+Cphamn1_0510 ----UGU-------------------G-GGCCGCCUUUA-C----UGUU
+Cphamn1_0583 ----AAC-------------------U--CCGGCCCUGU-UCUACUUUG
+Cphamn1_0234 ----GUC-------------------U--UCAGGAUCCG-GAAUA----
+Cphamn1_0637 ----GAU-------------------C---CCGGGA------UAUUUUG
+Cphamn1_0754 ----GGA-------------------U-ACCGUGCU------UUUUUAU
+Cphamn1_0756 ---GAAA-------------------U-GGGAGGUUGGC-UUUUUUUUU
+Cphamn1_1784 --GCUUU-------------------U--UUGUCGG-------------
+Cphamn1_2412 ----AAA-------------------AGCGGCG-CGGCU-GAUUU----
+Cphamn1_2205 ---AAAA-------------------U-GGACAGCCUCU-CGUAUUUUG
+Cphamn1_1095 ----AUC-------------------C-CGAAACGGCUU-U-UUGUUUU
+Cphamn1_0397 ----CUG-------------------A--CUCGGCACCU-G--------
+Cphamn1_0318 ----GCA-------------------U--GAAGCGG------AGCUUUG
+Cphamn1_2554 ----UCC-------------------A--GGCAGUCGUG-C----UGUU
+Cphamn1_1895 ----UCA-------------------U--UCGGGGU------UUUUUGU
+Cphamn1_0285 ----AAU-------------------C--UAUUGACCUC-U--------
+Cphamn1_0623 ---CCGC-------------------C-GGUUUGCUCCC-GUUUUUGCU
+Cphamn1_1519 ----AAU-------------------A---------------UUUUUCU
+Cphamn1_0944 ----UCC-------------------U-CUUUU-CA------UUUUUAA
+Cphamn1_0432 ----UCA-------------------U----GACCUCCU-UUUUU----
+Cphamn1_0549 --GUGCA-------------------U-AUCCCGGA-------------
+Cphamn1_1090 ---UGGC-------------------U--CCUGCCGCUU-UUUUAUAUA
+Cphamn1_0105 --AGUUA-------------------U-A-CUGGCC-------------
+Cphamn1_1295 ----GUC-------------------G----GUCAGGCU-UUUUU----
+Cphamn1_1137 ----ACU-------------------C-CUCCGGGG-------------
+Cphamn1_0306 ----UUG-------------------U----GGGCAGUG-CUUUUUUUA
+Cphamn1_1166 ----AGA-------------------U--GUUAGAG-------------
+Cphamn1_0328 ----ACA-------------------A-UCGAUUCAGGU-U-UUC----
+Cphamn1_0523 ----CUG-------------------U--GAUGGCGCUG-U--------
+Cphamn1_1869 ----GAU-------------------U-UUUCGCCC-------------
+Cphamn1_0638 ----GUA-------------------U----CGGCG-------------
+Cphamn1_1158 ----AAA-------------------AGCGCCG-CCGGU-G--------
+Cphamn1_2363 --CCACA-------------------U--UCCUGAGUUG-ACCUUUUCA
+Cphamn1_0298 ----CGA-------------------A--UCGGGGCGCU-U----UUUU
+Cphamn1_1230 --AGUUU-------------------U-UGCCGGCUUUU-UUAUC----
+Cphamn1_0636 -----GA-------------------U--CCAGGGAUAU-CAGGCUUUU
+Cphamn1_2044 ----AAC-------------------A-GUUCCUGU-------------
+Cphamn1_2141 ----GAA-------------------A--GGGUCAGCCU-CUUUU----
+Cphamn1_1081 ----UUC-------------------A---GAACGGGCU-GUUUC----
+Cphamn1_0010 ----AUU-------------------U--GCCGGGCUUU-UCUGUUACU
+Cphamn1_2365 CCUUGGA-------------------U--AUGGCCUGAU-G----GUUU
+Cphamn1_1754 ---CAGA-------------------A--GCCCGGU------CAG----
+Cphamn1_0584 CCUUGCU-------------------U-UACCGGCUGUU-UGUCU----
+Cphamn1_0512 -----GU-------------------U--GCAGGCUCUU-UCGGGUUUU
+Cphamn1_0610 ----AGC-------------------U-AUCCGGCU-------------
+Cphamn1_0506 ---GAAG-------------------U--UAUGGAGCGG-CUUUUUUUG
+Cphamn1_0577 ----UAU-------------------U----UACAG------UAUUUUU
+Cphamn1_1238 ----GAC-------------------A-GUUCGCCUUUU-U----UUUU
+Cphamn1_0287 AAGUGUA-------------------A--AGCGGAG------UUUUUUU
+Cphamn1_1769 ----UUA-------------------C---ACUGCGGCU-U----UUUU
+Cphamn1_0667 --AGCAC-------------------A--GGGGGCU------UUUUGUU
+Cphamn1_0259 AAGCAUC-------------------A--GCCCGCG-------------
+Cphamn1_0356 ----CUG-------------------A--CACGGGA-------------
+Cphamn1_0800 ----GAA-------------------A--GCUG---------GUUUGUU
+Cphamn1_0943 ---GGAC-------------------U--UUUACAUUUU-U--------
+Cphamn1_1860 AUCAUCA-------------------U-GCGAU-AUGUC-CCUUUUUUU
+Cphamn1_2018 ---UUAC-------------------A-AACCGGGA------UUUUUUG
+Cphamn1_0615 ----GUC-------------------A--UCCGGCG-------------
+Cphamn1_1646 ----UGU-------------------U---CCGGCGGGC-CUGUUUUUU
+Cphamn1_2136 ----UUU-------------------C-CAGCCUCCUUU-UUUGUAUUG
+Cphamn1_1830 ----CCA-------------------U--AUGAAGUCAU-GCGUU----
+Cphamn1_0551 ----GAA-------------------G-C-CUGCCUGCU-G----UAGC
+Cphamn1_1547 CGCGUUU-------------------U--UCGGUCGGCU-G----UUAG
+Cphamn1_2354 -UUCAAG-------------------A--CGGUCCG-------------
+Cphamn1_1845 --UGAUA-------------------A--ACAGGCA-------------
+Cphamn1_1462 ----AAC-------------------U-CCGGGGCUUUUCUAUUU----
+Cphamn1_0326 ----UGG-------------------A--GCCGGCUUUC-UACUUUUUU
+Cphamn1_0997 ---CUCU-------------------U-CAGCGGAG-------------
+Cphamn1_0868 ----AAA-------------------U-CCCUUGCAGGC-UUUUUUUAU
+Cphamn1_1975 ---GGAC-------------------U-CCCUUCCA------UUG----
+Cphamn1_0333 ----GGA-------------------A-AACCCGC--------------
+Cphamn1_1193 --AGAUA-------------------A-CAAGGCAG------AUU----
+Cphamn1_1831 ---AUGG-------------------A--UGCAGUCAUG-C-GUU----
+Cphamn1_1655 ----UCA-------------------U--AGUAGC--------------
+Cphamn1_2118 ----GGC-------------------U-CCGCUGCC------UUUUUCU
+Cphamn1_0183 ----UGA-------------------U---CAGGGA-------------
+Cphamn1_2464 ----UCG-------------------A--CUGGGGACUGCC----UACU
+Cphamn1_0265 CCCUGUA-------------------U--UAAGGUG------CUUUUUU
+Cphamn1_0362 ----UGU-------------------U--UCGGGAA-------------
+Cphamn1_0976 ----GCA-------------------U--UACAUUCCUG-CUAUU----
+Cphamn1_0727 ----AUA-------------------U--GCGACG--------------
+Cphamn1_2248 -CGUGCC-------------------U--GCCCGCC------CCUUAUU
+Cphamn1_1896 ----UGA-------------------C--UCGGGGUUUU-UGCGUUAUA
+Cphamn1_2154 ----UGC-------------------G--AGGUGA-------UAG----
+Cphamn1_1390 ---CAGA-------------------C-GGGCGGCCUCUCGUAUUUUGC
+Cphamn1_1192 ---UAUC-------------------U-GCAAGGCAGGU-U----UUUU
+Cphamn1_1429 ----UUC-------------------A--CACUGAC------UUUUUUA
+Cphamn1_1307 ----AAC-------------------A--UCACGGCUCUUUGUUUUUCU
+Cphamn1_0841 ----AAA-------------------U-CGCCGGCU------UUUUUAU
+Cphamn1_1165 ----AUG-------------------U--UCCGGGGCCU-U-UGUUUUU
+Cphamn1_1200 ---UUGA-------------------U-GGCUGCCG-------------
+Cphamn1_1047 --AUUGA-------------------U--GACAGGGGAG-GUUUUUGUU
+Cphamn1_0840 ----AUU-------------------U-AGCCGGCU------UUU----
+Cphamn1_1302 ----UAC-------------------U--GCCGGCU-------------
+Cphamn1_1237 --AGUGA-------------------A-AUGCCGACGGG-UUUUAUUUU
+Cphamn1_0658 ----UUC-------------------G--GCCACC-------UUUUUUU
+Cphamn1_1344 ----AGC-------------------U-UGGCGAUA-------------
+Cphamn1_0986 ---CCUG-------------------U--GCUUGCCCGU-C----UCUU
+Cphamn1_0431 ----AUG-------------------A----GACCUCCU-UUUUU----
+Cphamn1_1897 ----UAU-------------------U--UUUCGCC-------------
+Cphamn1_1759 ----UCC-------------------G----GCCCUUUU-UCUAU----
+Cphamn1_1101 ---CAAA-------------------A-GGGCAGCCUCU-UGUAUUUUG
+Cphamn1_1403 -UGAAAA-------------------C-CGCUUCCC------CGCUUCC
+Cphamn1_0996 ---AGAG-------------------U-CAGCGGAG-------------
+Cphamn1_1125 ----UCA-------------------U----GGGCAGGU-UUUUUUGUU
+Cphamn1_0984 ----GCU-------------------U-GAAAAGCAGCU-UUUUUUAUG
+Cphamn1_0857 ----GAA-------------------U-AUCACCCU------CUUUUUU
+Cphamn1_1312 ----UAA-------------------A-CUGCGCCGCUG-A-UUU----
+Cphamn1_0601 ----UUU-------------------C-CGGUUGAGCCU-U----UUUU
+Cphamn1_1819 ----UGA-------------------A--CGGAGCC------CUGUUUU
+Cphamn1_2512 ---CAAA-------------------A-GGGCAGCCUCU-CGUAUUUUG
+Cphamn1_2216 ----GUU-------------------U-G-GGAGCC------UUU----
+Cphamn1_1984 ----UCA-------------------G-GCACGGGA-------------
+Cphamn1_0689 ----AAU-------------------U---CAUGCA-------------
+Cphamn1_0854 ---CAAA-------------------A-GGGCAGCCUCU-CGUAUUUUG
+Cphamn1_1837 ----GUA-------------------A--CCUCGGG------GAUUAUU
+Cphamn1_0765 ---AAUA-------------------U--UUCGCCC-------------
+Cphamn1_1368 ----UUCAGCGUCUUCCUGCAGGCCUU---CCGGAUGGA-GUUUUUUUA
+Cphamn1_2388 ----UUG-------------------A--CCCGGGG-------------
+Cphamn1_1817 ----UGU-------------------U-UGCAUCCA------UGGUAUA
+Cphamn1_0366 ----UUG-------------------A--CACGGGA-------------
+Cphamn1_1411 ---GAUA-------------------A-CAUCGGCC----UUAUUAUUG
+Cphamn1_0905 ---UUAC-------------------U--GCUGGC-------UUU----
+Cphamn1_1783 -GCCUUC-------------------A-U-CAGGAUGCUCUUUGUUGUU
+Cphamn1_0136 ---UUUA-------------------U-CGCCA---------UGCUUUU
+Cphamn1_0131 ---GAUC-------------------A--GGCUGAU-------------
+Cphamn1_1634 ---GGUG-------------------U--GCCAGCCCUU-U--------
+Cphamn1_0132 ----AUU-------------------U---CCAGAGGCG-GCUUUUUUG
+Cphamn1_1888 --GGUUA-------------------C-GGGCGGCU------UUUUGAU
+Cphamn1_0256 ---AAUC-------------------U--UUCGCCC-------------
+Cphamn1_2493 ----GUU-------------------A--CCCUGA--------------
+Cphamn1_1833 ----UUG-------------------A--CACGGGA-------------
+Cphamn1_0266 ---UUUC-------------------U--UCAAAAU------AAU----
+Cphamn1_0057 --UAUCG-------------------A-CGCAAAGU-------------
+Cphamn1_0617 ----AGC-------------------U-AUUCAGC-----C----UUCU
+Cphamn1_1533 ----UGC-------------------A-GGGCGGC-------UUUUUCA
+Cphamn1_0977 ---AUGC-------------------U-ACAUCCCUGCU-UUCUGUGUU
+Cphamn1_0783 ---AUAC-------------------A-CCGGGGCAGCU-U----UUUU
+Cphamn1_1349 ----CUG-------------------A--CACGGGA-------------
+Cphamn1_1488 ---CUUG-------------------U-UCUCGCCC-------------
+Cphamn1_2538 ---CUGC-------------------U--GCCG-AU-------------
+Cphamn1_1641 ---UUUC-------------------A--GGCUGCCUUU-CUUUUUUCA
+Cphamn1_2037 ----GGA-------------------A--GGCGAUGUCU-GCAUUUACG
+#=GC SS_cons ....___..................._..>>>>>>>>>>.>.>>>::::
+#=GC RF      ....uua...................u..gccgGCcguU.u.UUuUUUU
+//

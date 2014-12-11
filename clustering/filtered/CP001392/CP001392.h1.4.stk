@@ -1,0 +1,941 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Dtpsy_3031 WT 0.65
+#=GS Dtpsy_2047 WT 0.54
+#=GS Dtpsy_0747 WT 0.80
+#=GS Dtpsy_0771 WT 0.98
+#=GS Dtpsy_0661 WT 0.57
+#=GS Dtpsy_2056 WT 0.96
+#=GS Dtpsy_1428 WT 1.16
+#=GS Dtpsy_0269 WT 1.44
+#=GS Dtpsy_0371 WT 0.60
+#=GS Dtpsy_1948 WT 1.56
+#=GS Dtpsy_2594 WT 0.68
+#=GS Dtpsy_2824 WT 0.66
+#=GS Dtpsy_0372 WT 0.59
+#=GS Dtpsy_0568 WT 0.50
+#=GS Dtpsy_1464 WT 0.61
+#=GS Dtpsy_2580 WT 0.93
+#=GS Dtpsy_1904 WT 0.50
+#=GS Dtpsy_1025 WT 1.07
+#=GS Dtpsy_2019 WT 1.04
+#=GS Dtpsy_2494 WT 1.18
+#=GS Dtpsy_0597 WT 1.03
+#=GS Dtpsy_1854 WT 1.07
+#=GS Dtpsy_3245 WT 1.29
+#=GS Dtpsy_0868 WT 0.89
+#=GS Dtpsy_2565 WT 0.73
+#=GS Dtpsy_0442 WT 0.89
+#=GS Dtpsy_1444 WT 1.24
+#=GS Dtpsy_3402 WT 0.58
+#=GS Dtpsy_1558 WT 1.08
+#=GS Dtpsy_3032 WT 1.34
+#=GS Dtpsy_2811 WT 0.96
+#=GS Dtpsy_2855 WT 0.65
+#=GS Dtpsy_2904 WT 0.95
+#=GS Dtpsy_3401 WT 0.61
+#=GS Dtpsy_2507 WT 0.65
+#=GS Dtpsy_3047 WT 0.73
+#=GS Dtpsy_3030 WT 0.65
+#=GS Dtpsy_1733 WT 0.93
+#=GS Dtpsy_2493 WT 1.22
+#=GS Dtpsy_1914 WT 1.25
+#=GS Dtpsy_0530 WT 0.64
+#=GS Dtpsy_1596 WT 0.84
+#=GS Dtpsy_2317 WT 0.63
+#=GS Dtpsy_0282 WT 1.34
+#=GS Dtpsy_3096 WT 0.81
+#=GS Dtpsy_2723 WT 0.76
+#=GS Dtpsy_1045 WT 0.87
+#=GS Dtpsy_2322 WT 0.65
+#=GS Dtpsy_3332 WT 1.47
+#=GS Dtpsy_1463 WT 0.69
+#=GS Dtpsy_0857 WT 1.20
+#=GS Dtpsy_0380 WT 1.35
+#=GS Dtpsy_1046 WT 0.81
+#=GS Dtpsy_0803 WT 0.90
+#=GS Dtpsy_2226 WT 1.12
+#=GS Dtpsy_1451 WT 1.37
+#=GS Dtpsy_0895 WT 0.99
+#=GS Dtpsy_2290 WT 1.40
+#=GS Dtpsy_0896 WT 0.90
+#=GS Dtpsy_2338 WT 1.07
+#=GS Dtpsy_2936 WT 1.11
+#=GS Dtpsy_0695 WT 0.69
+#=GS Dtpsy_3051 WT 1.11
+#=GS Dtpsy_0582 WT 0.99
+#=GS Dtpsy_0614 WT 0.89
+#=GS Dtpsy_1732 WT 0.93
+#=GS Dtpsy_2595 WT 0.58
+#=GS Dtpsy_3375 WT 1.35
+#=GS Dtpsy_0358 WT 1.05
+#=GS Dtpsy_2499 WT 1.42
+#=GS Dtpsy_2432 WT 1.58
+#=GS Dtpsy_2975 WT 0.91
+#=GS Dtpsy_0304 WT 0.76
+#=GS Dtpsy_1964 WT 1.17
+#=GS Dtpsy_2952 WT 0.75
+#=GS Dtpsy_0824 WT 1.11
+#=GS Dtpsy_0677 WT 1.16
+#=GS Dtpsy_3311 WT 0.93
+#=GS Dtpsy_2700 WT 1.28
+#=GS Dtpsy_3411 WT 1.12
+#=GS Dtpsy_0292 WT 0.96
+#=GS Dtpsy_3023 WT 1.30
+#=GS Dtpsy_3487 WT 1.07
+#=GS Dtpsy_1483 WT 1.64
+#=GS Dtpsy_2825 WT 0.89
+#=GS Dtpsy_3471 WT 0.62
+#=GS Dtpsy_1825 WT 0.91
+#=GS Dtpsy_0794 WT 1.04
+#=GS Dtpsy_1729 WT 1.12
+#=GS Dtpsy_0671 WT 0.80
+#=GS Dtpsy_2362 WT 1.69
+#=GS Dtpsy_2897 WT 1.44
+#=GS Dtpsy_0287 WT 0.81
+#=GS Dtpsy_1452 WT 1.64
+#=GS Dtpsy_0549 WT 0.62
+#=GS Dtpsy_2089 WT 1.18
+#=GS Dtpsy_3542 WT 1.18
+#=GS Dtpsy_0644 WT 1.56
+#=GS Dtpsy_0608 WT 0.81
+#=GS Dtpsy_1436 WT 0.99
+#=GS Dtpsy_2085 WT 0.83
+#=GS Dtpsy_0944 WT 0.92
+#=GS Dtpsy_3004 WT 0.74
+#=GS Dtpsy_0984 WT 0.93
+#=GS Dtpsy_2829 WT 1.40
+#=GS Dtpsy_3458 WT 0.67
+#=GS Dtpsy_0754 WT 1.59
+#=GS Dtpsy_1199 WT 0.90
+#=GS Dtpsy_1447 WT 1.30
+#=GS Dtpsy_0381 WT 1.72
+#=GS Dtpsy_3310 WT 0.57
+#=GS Dtpsy_2745 WT 1.08
+#=GS Dtpsy_0286 WT 0.69
+#=GS Dtpsy_2953 WT 0.67
+#=GS Dtpsy_2948 WT 1.24
+#=GS Dtpsy_3496 WT 1.09
+#=GS Dtpsy_1397 WT 0.82
+#=GS Dtpsy_1787 WT 1.08
+#=GS Dtpsy_2588 WT 0.87
+#=GS Dtpsy_3457 WT 1.11
+#=GS Dtpsy_1687 WT 0.83
+#=GS Dtpsy_0662 WT 0.87
+#=GS Dtpsy_0484 WT 1.06
+#=GS Dtpsy_3268 WT 0.97
+#=GS Dtpsy_2441 WT 0.93
+#=GS Dtpsy_0373 WT 1.03
+#=GS Dtpsy_1381 WT 0.72
+#=GS Dtpsy_1691 WT 1.20
+#=GS Dtpsy_2347 WT 1.22
+#=GS Dtpsy_0311 WT 0.82
+#=GS Dtpsy_0100 WT 0.95
+#=GS Dtpsy_1534 WT 1.08
+#=GS Dtpsy_1809 WT 0.95
+#=GS Dtpsy_0465 WT 0.92
+#=GS Dtpsy_1028 WT 1.24
+#=GS Dtpsy_1908 WT 1.19
+#=GS Dtpsy_0096 WT 1.22
+#=GS Dtpsy_1396 WT 0.60
+#=GS Dtpsy_2868 WT 1.22
+#=GS Dtpsy_0315 WT 1.11
+#=GS Dtpsy_3034 WT 1.34
+#=GS Dtpsy_0982 WT 1.44
+#=GS Dtpsy_1700 WT 0.82
+#=GS Dtpsy_1571 WT 0.65
+#=GS Dtpsy_0983 WT 1.32
+#=GS Dtpsy_1885 WT 0.66
+#=GS Dtpsy_3391 WT 1.56
+#=GS Dtpsy_0997 WT 0.83
+#=GS Dtpsy_1587 WT 0.71
+#=GS Dtpsy_2705 WT 0.64
+#=GS Dtpsy_0973 WT 0.71
+#=GS Dtpsy_1423 WT 1.37
+#=GS Dtpsy_2428 WT 1.30
+#=GS Dtpsy_0871 WT 1.44
+#=GS Dtpsy_2443 WT 0.71
+#=GS Dtpsy_1997 WT 0.75
+#=GS Dtpsy_1095 WT 1.07
+#=GS Dtpsy_0293 WT 1.08
+#=GS Dtpsy_1313 WT 1.64
+#=GS Dtpsy_1692 WT 1.11
+#=GS Dtpsy_1688 WT 0.80
+#=GS Dtpsy_0027 WT 1.07
+#=GS Dtpsy_3052 WT 1.00
+#=GS Dtpsy_2693 WT 1.35
+#=GS Dtpsy_1701 WT 0.91
+#=GS Dtpsy_0154 WT 0.88
+#=GS Dtpsy_0430 WT 0.98
+#=GS Dtpsy_1264 WT 1.65
+#=GS Dtpsy_1677 WT 0.69
+#=GS Dtpsy_3160 WT 0.89
+#=GS Dtpsy_0957 WT 0.93
+#=GS Dtpsy_0736 WT 1.39
+#=GS Dtpsy_0441 WT 0.89
+#=GS Dtpsy_0963 WT 0.68
+#=GS Dtpsy_2372 WT 0.75
+#=GS Dtpsy_1682 WT 1.12
+#=GS Dtpsy_3015 WT 0.65
+#=GS Dtpsy_2991 WT 1.04
+#=GS Dtpsy_1907 WT 0.85
+#=GS Dtpsy_3407 WT 1.05
+#=GS Dtpsy_2231 WT 1.18
+#=GS Dtpsy_1767 WT 0.77
+#=GS Dtpsy_2585 WT 0.66
+#=GS Dtpsy_0230 WT 0.80
+#=GS Dtpsy_1042 WT 0.93
+#=GS Dtpsy_0694 WT 0.65
+#=GS Dtpsy_3231 WT 1.47
+#=GS Dtpsy_3162 WT 0.77
+#=GS Dtpsy_0162 WT 1.00
+#=GS Dtpsy_0611 WT 1.20
+#=GS Dtpsy_1665 WT 0.96
+#=GS Dtpsy_1604 WT 1.13
+#=GS Dtpsy_1744 WT 1.31
+#=GS Dtpsy_3393 WT 1.41
+#=GS Dtpsy_2263 WT 1.05
+#=GS Dtpsy_0962 WT 0.64
+#=GS Dtpsy_3351 WT 0.72
+#=GS Dtpsy_2337 WT 0.93
+#=GS Dtpsy_0270 WT 0.70
+#=GS Dtpsy_3068 WT 1.10
+#=GS Dtpsy_1853 WT 0.73
+#=GS Dtpsy_2508 WT 0.65
+#=GS Dtpsy_0681 WT 1.45
+#=GS Dtpsy_0967 WT 0.81
+#=GS Dtpsy_2550 WT 1.44
+#=GS Dtpsy_0170 WT 1.04
+#=GS Dtpsy_0738 WT 0.97
+#=GS Dtpsy_2369 WT 1.17
+#=GS Dtpsy_2564 WT 0.52
+#=GS Dtpsy_3333 WT 1.26
+#=GS Dtpsy_0187 WT 1.01
+#=GS Dtpsy_0454 WT 1.18
+#=GS Dtpsy_1380 WT 0.80
+#=GS Dtpsy_0344 WT 0.72
+#=GS Dtpsy_0415 WT 0.69
+#=GS Dtpsy_1768 WT 0.80
+#=GS Dtpsy_1826 WT 0.73
+#=GS Dtpsy_1370 WT 0.80
+#=GS Dtpsy_0054 WT 0.70
+#=GS Dtpsy_1229 WT 1.17
+#=GS Dtpsy_2367 WT 1.11
+#=GS Dtpsy_0108 WT 0.84
+#=GS Dtpsy_2417 WT 0.92
+#=GS Dtpsy_0422 WT 1.36
+#=GS Dtpsy_2368 WT 0.92
+#=GS Dtpsy_2251 WT 0.97
+#=GS Dtpsy_1814 WT 1.16
+#=GS Dtpsy_0822 WT 0.69
+#=GS Dtpsy_1635 WT 0.99
+#=GS Dtpsy_0098 WT 1.00
+#=GS Dtpsy_2762 WT 0.93
+#=GS Dtpsy_1824 WT 1.05
+#=GS Dtpsy_0121 WT 0.81
+#=GS Dtpsy_2753 WT 0.72
+#=GS Dtpsy_2295 WT 1.11
+#=GS Dtpsy_1429 WT 1.16
+#=GS Dtpsy_1965 WT 0.96
+#=GS Dtpsy_2440 WT 1.16
+#=GS Dtpsy_0229 WT 0.95
+#=GS Dtpsy_2724 WT 1.42
+#=GS Dtpsy_2452 WT 1.20
+#=GS Dtpsy_1535 WT 1.29
+#=GS Dtpsy_2643 WT 1.31
+#=GS Dtpsy_0177 WT 0.83
+#=GS Dtpsy_2485 WT 0.92
+#=GS Dtpsy_3412 WT 0.83
+#=GS Dtpsy_3054 WT 0.65
+#=GS Dtpsy_2498 WT 1.02
+#=GS Dtpsy_1786 WT 0.96
+#=GS Dtpsy_2273 WT 1.18
+#=GS Dtpsy_1705 WT 0.85
+#=GS Dtpsy_2252 WT 1.07
+#=GS Dtpsy_1516 WT 1.42
+#=GS Dtpsy_0991 WT 0.63
+#=GS Dtpsy_0892 WT 1.20
+#=GS Dtpsy_2294 WT 1.11
+#=GS Dtpsy_1990 WT 0.69
+#=GS Dtpsy_2288 WT 1.45
+#=GS Dtpsy_2239 WT 0.79
+#=GS Dtpsy_1437 WT 1.08
+#=GS Dtpsy_2067 WT 1.82
+#=GS Dtpsy_1193 WT 0.85
+#=GS Dtpsy_1597 WT 0.52
+#=GS Dtpsy_0256 WT 0.90
+#=GS Dtpsy_1164 WT 1.46
+#=GS Dtpsy_3017 WT 1.22
+#=GS Dtpsy_2610 WT 0.66
+#=GS Dtpsy_3408 WT 1.10
+#=GS Dtpsy_0418 WT 0.77
+#=GS Dtpsy_3529 WT 1.42
+#=GS Dtpsy_3456 WT 1.20
+#=GS Dtpsy_1112 WT 0.81
+#=GS Dtpsy_0416 WT 0.77
+#=GS Dtpsy_2254 WT 0.84
+#=GS Dtpsy_0314 WT 1.40
+#=GS Dtpsy_3087 WT 1.11
+#=GS Dtpsy_2718 WT 0.69
+#=GS Dtpsy_2021 WT 1.10
+#=GS Dtpsy_3141 WT 1.00
+#=GS Dtpsy_1468 WT 1.47
+#=GS Dtpsy_1757 WT 0.83
+#=GS Dtpsy_3050 WT 1.37
+#=GS Dtpsy_2646 WT 0.77
+#=GS Dtpsy_2837 WT 0.90
+#=GS Dtpsy_0818 WT 0.87
+#=GS Dtpsy_1634 WT 0.97
+#=GS Dtpsy_0058 WT 1.35
+#=GS Dtpsy_3272 WT 1.45
+#=GS Dtpsy_0919 WT 0.95
+#=GS Dtpsy_0041 WT 0.95
+#=GS Dtpsy_2754 WT 0.67
+#=GS Dtpsy_2661 WT 0.97
+#=GS Dtpsy_0139 WT 1.12
+#=GS Dtpsy_0218 WT 0.83
+#=GS Dtpsy_2422 WT 1.05
+#=GS Dtpsy_0011 WT 0.73
+#=GS Dtpsy_0161 WT 0.85
+#=GS Dtpsy_3486 WT 0.90
+#=GS Dtpsy_3046 WT 0.83
+#=GS Dtpsy_1053 WT 0.82
+#=GS Dtpsy_0751 WT 1.14
+#=GS Dtpsy_1598 WT 1.22
+#=GS Dtpsy_3365 WT 1.24
+#=GS Dtpsy_1835 WT 0.69
+#=GS Dtpsy_0003 WT 1.36
+#=GS Dtpsy_2247 WT 0.87
+#=GS Dtpsy_0087 WT 1.28
+#=GS Dtpsy_2928 WT 1.47
+#=GS Dtpsy_2832 WT 1.39
+#=GS Dtpsy_0953 WT 0.54
+
+Dtpsy_3031   CAUCCAAA-A----C-GCGG-----A-----GC--------------CA-
+Dtpsy_2047   GAU-CAAA-A----UAGCUG-C-C-A-----GC-GCUUG--UCA---AU-
+Dtpsy_0747   CAA-AAAA-A----UAGCUU-C-C-C-----GC-GCUUG--UCU---GU-
+Dtpsy_0771   CGACAACA-A-----AGCC--C-C-G-----AC--------------C--
+Dtpsy_0661   AGA-CAAA-AC---C-GCUG-C-C------------------UU---CG-
+Dtpsy_2056   ACGCAACA-A-----GGCCU-C-C-------------------A---CA-
+Dtpsy_1428   ACG-GAAG-AC--GCAAC-G-C-C-C-----GC---------GU---CG-
+Dtpsy_0269   ACG-AUAA-A----G-GCCG-C-U---------GACGUG--CUG---AAG
+Dtpsy_0371   UAG-UGAU-A------GCUG-C-C-A-----GC-GCUUG--ACU---GU-
+Dtpsy_1948   UUUCUAAA-A----G----A-G-U-C-----GC-GCAAGGUAUU---GAU
+Dtpsy_2594   AAA-AACA-A----UAGCUG-C-U-A-----GC-GCUUG--CUG---GA-
+Dtpsy_2824   CGA-CAAA-A-----AGCGG-C-C------------------UG---CA-
+Dtpsy_0372   CGUCAAAA-A----UAGCUG-C-C-A-----GC-GCUUG--ACA---GU-
+Dtpsy_0568   AGUCAAAA-A----UGGCUG-C---A-----GC-GCUUG--UC----CAG
+Dtpsy_1464   UUU-UA---------GGCUG-C-U-A-----GC-GCUUA--UC----CAA
+Dtpsy_2580   AGU-UAAA-A----CAGCCU-C-C-A-----GC-GCUUA--UCU---GA-
+Dtpsy_1904   AGGCAAAA-A----UGGCUU-C-C-A-----GC-GCUUG--UCA---CA-
+Dtpsy_1025   AAA-AUAU-A------GCUG-U-U-A-----GC-GCUUA--UCC---GU-
+Dtpsy_2019   AAAUAACA-A------GCGC-C-C-C-----GC-GCAGACGAUG---UGG
+Dtpsy_2494   CCACAAAA-A-----AGG-G-A-A-C-----GU-G-------CG---AA-
+Dtpsy_0597   AAA-GCAU-A------GCUG-C-U-U-----GC----------G---CU-
+Dtpsy_1854   AAA-CAAG-A----GAGCC--C-U-G-----GU--C------CA---UG-
+Dtpsy_3245   ACUGAA--------C-GCU--C-C-C-----G--GCUUG--CCCAUCCGG
+Dtpsy_0868   AAUGAG---------AGCUG-C-U-A-----AC-GCCCG--AUG---GA-
+Dtpsy_2565   AGUCAAAA-A----UGGCU--C-U-A-----GC-GCUUA--CUG---GG-
+Dtpsy_0442   UAUCAAAA-AGU-GA-GCUG--AU-A-----GC-GCUUG--ACU---GU-
+Dtpsy_1444   GAA-CAAA-A-----ACCGG-C-A------------------UG---CGC
+Dtpsy_3402   AAGUAAAA-A----GAGCUG-C-U-A-----GC-GCUUA--UG----CAA
+Dtpsy_1558   AAAGACAA-A----CGGCCC-G-C-A-----G----------AG---GAA
+Dtpsy_3032   CGU-AA----------GCUG--CC------------------UG---CAA
+Dtpsy_2811   ACGCAAGA-A-----AGCC--C-C----------GC-------A---C--
+Dtpsy_2855   UCGGGAAA-A-----AGC-G-C-C-------------------G---CA-
+Dtpsy_2904   UUU-UCAU-A------GCUU-C-C-A-----GC-GCUUG--AUG---GG-
+Dtpsy_3401   UAU-AAAA-AUC-AGAGCUG-C-U-A-----GC-GCUUA--UUG---CA-
+Dtpsy_2507   GAA-GAAA-A------GC-G-C-U----------GC------CG---CG-
+Dtpsy_3047   UAAGCCAA-AU--UGAGCU--C-U-A-----GC-GCUUG--CUG---GG-
+Dtpsy_3030   CAUCCAAA-A----C-GCGG-----A-----GC---------C----UG-
+Dtpsy_1733   GAA-AAGA-A-----AACGG-C-U-C-----GC--------------GU-
+Dtpsy_2493   AAA-AAAA-A-----GGGAA-C-G------------UGG--UU----CG-
+Dtpsy_1914   AAUGAA---------GGGCG--GC-A-----GU--C-----------CG-
+Dtpsy_0530   AAUCAAAU-A-----AGCUG-C-U-A-----GC-GCUUG--AUG---GG-
+Dtpsy_1596   GAGGGAAA-AG---UGGCUG-U---A-----GC-GCUUG--UUG---GG-
+Dtpsy_2317   UCA-AAAU-A-----GGCU--C-C-A-----GC-GCUUG--UC----CAU
+Dtpsy_0282   CCUCCGAG-A-----AACGA-C-C------------------CA---CA-
+Dtpsy_3096   GAUGAAAU-A------GCUGUU-U-U-----GC-GCUUG--CUG---GA-
+Dtpsy_2723   UGUCAAAA-A------GCCG-C-C-C-----G--GC------GU---UG-
+Dtpsy_1045   UAU-AAAA-A----UGGCUG-C-U-G-----GC-GCUUA--UGG---A-G
+Dtpsy_2322   UUUUUU---------GGCU--C-U-A-----GC-GCUUG--CUG---GG-
+Dtpsy_3332   GGU-CA---------AGCGGAC-C-C-----GC---------AA---AA-
+Dtpsy_1463   AAA-GGAG-A------GCUG-C-U-A-----GC-GCUUA--UUG---GA-
+Dtpsy_0857   CCUCAGAA-AGG-UGAGCGG--UU-A-----GC-GCUUG--CCA---GA-
+Dtpsy_0380   AAA-AAAG-A----UAGCUG-C-U------UGC-GCUUG--AUU---UA-
+Dtpsy_1046   UAU-UAAU-A------GCUG-C-U-G-----GC-GCUCG--CUC---CA-
+Dtpsy_0803   CGACACCU-A-----AGCGG-C-A-G-----GC-GC--G--UU----CA-
+Dtpsy_2226   CAUCAAAA-A----G----A-U-G-A-----GC-GC-----------CU-
+Dtpsy_1451   AAUUGUAU-A------GCU-AC-U-A-----GC-GCGCA--AA----CAA
+Dtpsy_0895   AAU-AGAU-A------GCU-AU-U------CGC-GCUUG--CU----AG-
+Dtpsy_2290   CAU-AAAA-AC--AGGAGCG-C-U--U---GGC-GCUUG--AUG---CG-
+Dtpsy_0896   CAUGCAGA-A----C-GCCA-C-C----------CCUCU---CG---CG-
+Dtpsy_2338   GAU-CAAA-A-----AGGGG-C-A-G-----GU--------------GA-
+Dtpsy_2936   UAU-AAAU-A----GAGCUG-C-U------------------UG---CGC
+Dtpsy_0695   GAU-AAAA-AU---CGGCU--C-U-A-----GC-GCUUA--CC----CAG
+Dtpsy_3051   CAU-CAAA-A----UGGCCU--GU-C-----GC-GCCCG--UCU---GG-
+Dtpsy_0582   CGU-AAAA-A-----AGCGG-C-U-A-----GC-GCCCG--UGG---UU-
+Dtpsy_0614   CAU-CAAA-C----UGGCUG-C-U-A-----GC-GCCCG--AAU---GA-
+Dtpsy_1732   ACACAUGA-A-----AACGG-C-U-C-----GC--------------AA-
+Dtpsy_2595   AAU-AAAA-A----UAGCUG-C-U-A-----GC-GCCCG--UC----CAG
+Dtpsy_3375   AAAGAAAA-A---------G-C-G-C-----GC--CUUC--CGU---GAG
+Dtpsy_0358   CAA-AAAU-AA---GAGCUG--CC-A-----GC-GCUUG--CC----UA-
+Dtpsy_2499   AUUUUG---------GACU--G-C-A-----GC-GCCCG--CCA---AU-
+Dtpsy_2432   AAA-AAGA-A----GAGCUG-C-U--GGCGC-----UUG--CCA---GG-
+Dtpsy_2975   AAU-GAAA-A-----AGCCG-C-U-G-----GC--------------GU-
+Dtpsy_0304   UCG-CAAA-A------GCCG-C-C------------------UU---CG-
+Dtpsy_1964   CAUCCA---------GCCCG-C-U-G-----GC----------A---CA-
+Dtpsy_2952   AAA-CAAU-A------GCUG-C-U-A-----GC-GCUUG--AUU---AA-
+Dtpsy_0824   CAGCCCCA-A------GCCU-C-C------------------UU---CG-
+Dtpsy_0677   CAGCACCC-A-----ACCCG-C-A-A-----GC--------------AG-
+Dtpsy_3311   AAGGCAAA-A-----GGCCG-C-A-G-----GA-GC------C-----AA
+Dtpsy_2700   AAA-CC----------GCUA-C---A-----G-UGC-----------GAA
+Dtpsy_3411   AAG-CACA-A----CGGGCG-C-C------------------CU---GG-
+Dtpsy_0292   AAA-UAAU-A------GCUG-C-U-G-----GC-GCUUG--UCA---GU-
+Dtpsy_3023   CUU-CACA-A------GCCC-C-U-G----------UCA--AC----AAC
+Dtpsy_3487   AAGGACAA-A----AGGCUC-C-C-----------------------GA-
+Dtpsy_1483   ACA-UAAA-A----C----G-A-U-A----------------UA---AA-
+Dtpsy_2825   AUUUAA---------GGCU--C-U-A-----GC-GCCCG--CCU---GA-
+Dtpsy_3471   AAG-CCAA-AU---CAGCCU-C-C-A-----GC-GCUUG--UC----CAC
+Dtpsy_1825   GAUUUAAU-A------GCUU-U-C-A-----GC-GCUUG--UUG---GA-
+Dtpsy_0794   AAU-UGAU-A------GCU-GC-C-A-----GC-GCUUU--CCC---CU-
+Dtpsy_1729   AAG-AGAA-A-----GGGCU-C-C------------------C----CA-
+Dtpsy_0671   GAA-AAAG-A----GAGCUG-C-U--A--CC---GCUUG---C----CA-
+Dtpsy_2362   CAUGCA---------AGG-G--GA----------GCGUG--UCA---UG-
+Dtpsy_2897   UGUCACCC-A----GGCCCG-G-C-A-----G--GC------UG---CA-
+Dtpsy_0287   GAA-CGAA-AU---CGGCCU-U-U-C-----GC-GCUUA--UA----CAG
+Dtpsy_1452   AAUGCAAA-AAAGUGAGCUG-C-C-A-----G---------------CG-
+Dtpsy_0549   AAGCCAAA-A----CGGCUG-C-C-A-----GC-GCUUG--CA----CAU
+Dtpsy_2089   CUUGAAAA-A-----AGGUG-G-G------------------GG---AAU
+Dtpsy_3542   CCUGCA----------ACGG-C-C----------GC------U----CA-
+Dtpsy_0644   AUUGAUAU-AG---GAGCUA--CU-A-----GC-----G--CUU---GUC
+Dtpsy_0608   CAU-GAGA-AU--CC-GCCG-C-C------------------UA---CG-
+Dtpsy_1436   AAA-CGAU-A------GCUG--CU-G-----GC-GCUUG--CUA---GG-
+Dtpsy_2085   UAA-AAAA-A----C-GC-G-C-C------------------GU---GA-
+Dtpsy_0944   CAG-CACC-AC---CAGCC--C-C-G-----GC--------------CU-
+Dtpsy_3004   UGA-AAAA-A----GAGCUG-C-C-A-----GC-GCUUG--ACU---GG-
+Dtpsy_0984   CAU-AAAA-A----AGGCCG-C---A-----GG-GC------GU---GA-
+Dtpsy_2829   AGAGAAGA-A----G----G-A-C-A-----AC---------U----GA-
+Dtpsy_3458   AAGCCAAA-A-----GACCGCC-U-A-----GC-GCUUG--AC----CAG
+Dtpsy_0754   UGU-ACAG-AG---UGGGUG-C-C-----------------------CU-
+Dtpsy_1199   CAACAGAA-A------GCC--C---G-----GC----------A---CA-
+Dtpsy_1447   GAUGCGAG-A-----AGCCC-G-G-G-----GC---------CC---C--
+Dtpsy_0381   GGU-CACA-A----U----U-C---A-----GG-G-------UA---AA-
+Dtpsy_3310   ACA-GAGA-A----C-GC-G-C-C------------------UU---CG-
+Dtpsy_2745   CCU-CGCA-A-----GGCGC-C-C-----------C------U----UUC
+Dtpsy_0286   GAACUAGU-A------GCUG--CU-A-----GC-GCUUG--CUG---UA-
+Dtpsy_2953   AAGCCAAA-A----AGGCUG-C-U-A-----GC-GCUUA--UUA---AU-
+Dtpsy_2948   CUGCCC----------GCUG-G-C-A-----UC--C------GG---AAA
+Dtpsy_3496   UCACCAAG-A----AAGC-G-C---A-----GC--C------CA---C--
+Dtpsy_1397   UCACAAAA-A-----AGCC--C-C------------------GG---CAA
+Dtpsy_1787   CAGGUCAU-AU---CGACCU-C-C-A-----GG-GCCCA--UC----CAU
+Dtpsy_2588   AUUCAA--------C-GCCA-C-C------------------UU---CG-
+Dtpsy_3457   AAAGACAA-A------GCCC-C-U-G-----CG-GC------CG---CA-
+Dtpsy_1687   GAUGAAAUCA-----GGCU--C-U-A-----GC-GCUCA--UG----CAG
+Dtpsy_0662   UUUCUAAC-A------ACCU-C-C------------------UU---CG-
+Dtpsy_0484   GAU-AAAA-AG---CGGCU--C-A-A-----AC-GCUUA--UGG---GA-
+Dtpsy_3268   CAA-AAAU-AG---GAGCUG-C-U-C-----GC-GCUUG--AUG---UG-
+Dtpsy_2441   UGU-GCAA-A-----GGCC--C-C----------GC-----------CA-
+Dtpsy_0373   AAA-CCAU-A------GCUG--CU-G-----GC----------G---CU-
+Dtpsy_1381   AAA-AUAU-A------GCU-AA-C-A-----GC-GCUUG--AC----CAG
+Dtpsy_1691   CCUGAAAA-AG---GAGCGC-U-U-U-----GC-GC------UG---GU-
+Dtpsy_2347   CCA-CAAA-A-----------C-C-C-----GC-GCUAG--GGA---CGC
+Dtpsy_0311   UAAGCAAA-AU--AU-GCCG--CU-A-----GC-GCUUG--CC----CUU
+Dtpsy_0100   GAGCAAAA-A----CGGCUU--CU-A-----GC-ACUCG--UC----CAC
+Dtpsy_1534   ACA-AAAA-A-----GGCCG-U-G------------------AG---GAU
+Dtpsy_1809   UCUGCAAA-A-----AGGCG-C-U------G-----------U----GAC
+Dtpsy_0465   UAUUAAAUCAG---GAGCUG-C-U-A-----GC-GCUCG--CCA---AA-
+Dtpsy_1028   CUGCCUCA-A----GGGCUG-G-U-G-----CC---------GU---CA-
+Dtpsy_1908   CGUUUU---------GGCC-UU-C-A-----GC-GCCCG--CC----CAU
+Dtpsy_0096   CGA-CAAC-A-----GGGCA-C-C------------------UU---CG-
+Dtpsy_1396   AAA-CGAU-A------GCUG-C-C-A-----GC-GCUUG--ACU---GA-
+Dtpsy_2868   UAA-CAAA-A----GAGCCU-G-U-A-----GC-GCCCG--CCU---AU-
+Dtpsy_0315   CGU-CACA-A------GCCG-G-C------------------CG---CG-
+Dtpsy_3034   CGU-UCCA-A----G-GC-G-C-C----------GCAGA--CAG---CGU
+Dtpsy_0982   CAA-AC----------CCAU-G-G-A-----AC-GC-----------C--
+Dtpsy_1700   CCACGAAA-A-----AGCCG-C-U-----------------------GAA
+Dtpsy_1571   UAG-CA----------GC-G-C-C------------------UG---CA-
+Dtpsy_0983   CCG-CA---------AGGCG-C-C-G-----GC-GC-------G---CA-
+Dtpsy_1885   UAAGUCAA-AU---CGACCU--CC-A-----GC-GCUUG--UC----CAU
+Dtpsy_3391   AAUCCGCG-A----G----C-C-U-G-----GC-GC--G--UUG---UAG
+Dtpsy_0997   CAUCAAAUCA-----GGCU--C-U-A-----GC-GCCCU--AC----CAU
+Dtpsy_1587   AAU-CAGG-A------GCU-AC-U-A-----GC-GCUUG--CCA---GG-
+Dtpsy_2705   AAUGAAAUCA-----GGCU--C-U-A-----GC-GCUUG--AUG---GA-
+Dtpsy_0973   UUUUCAGG-A------GCA-UC-U-A-----GC-GCUUG--ACU---GG-
+Dtpsy_1423   AAUGUAAA-A------GCUC-A-U-C-----GC--------------AAC
+Dtpsy_2428   GAU-CCCA-A-----GGCCU-G-A------------------C----AA-
+Dtpsy_0871   CAA-AAAA-A----C-GCC-UC-A------------------UC---CGU
+Dtpsy_2443   AAG-AAAU-A-----AGCGG-C-C--------A---UUG--CCG---CA-
+Dtpsy_1997   CAG-CA----------GG-G-C--AA-----GC-GC------UG---AA-
+Dtpsy_1095   CAACCAAU-A-----AGCC--C-C-----------------------UG-
+Dtpsy_0293   AAG-UCAA-AU---CGGCCU-C-U-A-----GG-UCAAU--ACU---GA-
+Dtpsy_1313   UUUUUCAA-A------GC---A-U-A-----GU-AAGUA--ACA---UAU
+Dtpsy_1692   UAUUUAAU-A------GCUG-C-U------------------CG---CG-
+Dtpsy_1688   UCU-UGAU-A------GCU-AC-U-A-----GC-GCUUG--CUG---CA-
+Dtpsy_0027   AGGCCCCA-A-----AGCC--C-A-U-----GC-ACCGG--------CA-
+Dtpsy_3052   GAUUGAAU-A------GCUG--CU-C-----GC-GCCCG--CCA---GA-
+Dtpsy_2693   CAU-GACA-A---------G-C-C-A-----GC--CCUC--UC----GUC
+Dtpsy_1701   CAUGAAAA-A----AAGCCG-C-U-----------------------GUU
+Dtpsy_0154   AGUCAAAU-A----GGGCU---CU-A-----GC-GCUUG--CAU---GG-
+Dtpsy_0430   AAGUGAAU-A------GCUA-C-C-A-----GC-GCUUG--CUG---G--
+Dtpsy_1264   UGACCGGA-A---------C-C-C----------GCCCG--AA----CA-
+Dtpsy_1677   UAA-AAAU-A------GCUG--CU-A-----GC-GCUUU--CUC---CA-
+Dtpsy_3160   UUU-UG---------GGCCU-C-U-A-----GC-GCCCG--UC----CAU
+Dtpsy_0957   AAUCCAACGA-----GGCCG-C---A-----G----------UU---C--
+Dtpsy_0736   UCGCCA----------GCUC-C-A----------GCCAG--CAG---AA-
+Dtpsy_0441   GUGCCAAA-AG---UGGCU--G-U-A-----GC-GCUUG--ACA---GU-
+Dtpsy_0963   UAA-AACA-A----UAGCUG-C-C------CGC-GCUUG--CU----G--
+Dtpsy_2372   AAGUCAAA-A----UGGCUU--CU-A-----GC-GCUUA--CC----CAU
+Dtpsy_1682   ACU-CAGA-A-----GGCCG-U-A-G-----GG---------GA---CG-
+Dtpsy_3015   AAA-AGAU-A------GCUG-C-C-A-----GC-GCUUG--AUG---GG-
+Dtpsy_2991   UUUUUUGU-A------GCUG-U-U-U-----GC-GCUUG--UCU---AU-
+Dtpsy_1907   CCUGAAAU-AG---GAGCUA--CU-A-----GC-GCUUG--AUG---GG-
+Dtpsy_3407   AAU-UAAU-A------GCUG-U-U-A-----GC-GCUUA--UC----CAG
+Dtpsy_2231   CAUGCCAG-A----GGGCU--C-U-----------------------U--
+Dtpsy_1767   AAG-AGAA-AU--CGGGCU--C-U-G-----GC-GCUUA--UUU---GA-
+Dtpsy_2585   AAGCAAAA-A----CAGCCU--CC-G-----GC-GCUUA--UC----CAU
+Dtpsy_0230   AAA-AAGA-A-----GGCU--C-C------------------C----GU-
+Dtpsy_1042   AAUGCG----------GCUU-C-U-A-----UC----------A---GG-
+Dtpsy_0694   AAUUAGAU-A------GCU-GC-U-A-----GC-GCUUU--CUG---GG-
+Dtpsy_3231   CUUCCCCG-A----UGACGG-C-G-A-----GC---------CA---UG-
+Dtpsy_3162   CAA-AAAA-A-----AGCAG-C-C------------------UC---CG-
+Dtpsy_0162   AAGCCAAA-A----GAGCUU-C-C-A-----GC-GCCCU--UCU---AU-
+Dtpsy_0611   UUGCCA---------AGCCA-C-U-----------------CCG---CG-
+Dtpsy_1665   UUA-UAAG-A------GCUG-U-U-G-----GC-GCUUG--UCA---GU-
+Dtpsy_1604   UGA-AAGA-A----UAGCUG-C-C-A-----GC-----G--CUU---GA-
+Dtpsy_1744   UUUUCAGU-A------GCUG--CU-A-----CC-GCCCG--UG----GAU
+Dtpsy_3393   CAUCAAAA-A----A----C--AU-A-----G----------CU---G--
+Dtpsy_2263   AAA-AAAG-A----GAGCUG--CC-U-----GC-GCUUG--UCC---CU-
+Dtpsy_0962   AAAUAAAA-A----UAGCUG-C-C--A--UGGC-GCUUG--------CAG
+Dtpsy_3351   UAA-CGAA-AU--CU-GCCU-C-C-A-----GC-GCUUG--AC----CAU
+Dtpsy_2337   AAAGCAAA-A-----GGG-G-C-A-G-----GU--------------AU-
+Dtpsy_0270   AAGCAAAA-A----GAGCUG-C-U-A-----AC-GCUUG--UC----CAU
+Dtpsy_3068   AAA-CAAU-A------GCUG--CC-A-----CC-GCUUG--AUG---CA-
+Dtpsy_1853   AAU-GAAA-A----CAGCAU-C-U-A-----AC-GCUUG--CC----CUG
+Dtpsy_2508   CAUGAAAA-A-----AGC-G-C-U----------GC------CG---CG-
+Dtpsy_0681   CAUCAAAU-A------GCG--G-U----------GCCGG--CCG---GAU
+Dtpsy_0967   GGA-AAAU-A-----GGCCG-C-U-A-----GC-GCUUA--UAU---AU-
+Dtpsy_2550   AUUGAACG-A-----AGGCG-C-G-G-----G----------C----CUU
+Dtpsy_0170   AAA-AUAA-A-----AGCGG-C-C-U-----GC-GC------U----UG-
+Dtpsy_0738   AUGCCGAA-A----AGGCCU--GU-A-----GC-GCGCU--UC----CAG
+Dtpsy_2369   UGACCAAG-A----CGCCCG-G-G-U-----GC--------------CA-
+Dtpsy_2564   AAAUAAAU-A------GCU-GC-U-A-----GC-GCUUA--CC----CAG
+Dtpsy_3333   ACGUCACA-A-----GGGCU-G-C----------GC------C----CU-
+Dtpsy_0187   UGA-CA---------GGCUG-C-U-G-----AC-AC-----------GA-
+Dtpsy_0454   CCUGCC---------AACGC-C-C-G-----GU-GC------C----CG-
+Dtpsy_1380   AGUGAAAU-A----AGGCU---CU-A-----GC-GCUUG--CUG---GU-
+Dtpsy_0344   UAUCAAAA-AUA-GA-GCUG-C-C-A-----GC-GCUUG--AUG---GA-
+Dtpsy_0415   AAU-UAGU-A------GCUG--CU-A-----GC-GCUUA--CUG---GA-
+Dtpsy_1768   UUU-UGAU-A------GCU-GC-C-A-----GC-GCUUG--UCA---AA-
+Dtpsy_1826   AAU-AAAA-A-----AGCUU--CC-A-----GC-GCCCG--UC----CAA
+Dtpsy_1370   AAUGAAAU-U-----GGCCU--CU-G-----GC-GCUUG--AUG---GA-
+Dtpsy_0054   AGGCAAAU-A----GGGCU--C-C-A-----GC-GCUUA--UCC---CA-
+Dtpsy_1229   UCU-UAAA-AGGUGA-GCGU-C-U------UGC-GCUUG--UCA---CA-
+Dtpsy_2367   AAA-ACAA-A-----AGCGC-C-C------------------CG---AA-
+Dtpsy_0108   UUUUUCAU-A------GCUG-C--AA-----GC-GCUUA--CCU---GU-
+Dtpsy_2417   AAU-UAAU-A------GCUG-C-U-U-----GC-GCUGG--UCG---UA-
+Dtpsy_0422   AGACCGGA-A----U-GCC--C-U-G-----GC--------------AA-
+Dtpsy_2368   UAAGCCAA-AU---UGGCC-UU-U-A-----GC-GCUUA--CCG---GU-
+Dtpsy_2251   AGGUAAAUGA-----GGCC---CU-A-----GC-GCACG--CC----CAG
+Dtpsy_1814   ACAGAAAA-A-----GGCC--C-C-C-----GC--------------AU-
+Dtpsy_0822   UUU-UGAU-A------GCUG--GU-A-----GC-GCUUA--CCA---GA-
+Dtpsy_1635   CCA-AAAA-A----CAACCG-C-C------------------UU---CG-
+Dtpsy_0098   CCACCC---------AGCC--C-C----------GC------CU---CU-
+Dtpsy_2762   CAA-AAAA-A------GC-G-C-G----------GC------CU---G--
+Dtpsy_1824   GGUCAAAU-A-----GGCCU--CU-C-----AG-GCACA--CC----CAC
+Dtpsy_0121   AAA-UCAU-A------GCUA--CU-A-----GC-GCUUA--CCA---GA-
+Dtpsy_2753   AAU-AUAU-A------GCUG-C-C-A-----GC-GCUUG--UC----CAA
+Dtpsy_2295   GAA-AAAA-A-----GGCAG-C-C--------A---------GU---CA-
+Dtpsy_1429   AAA-ACAC-A------AC-G-C-C-C-----GC---------AC---GA-
+Dtpsy_1965   UAUCAAAA-AA--GAAGCUG-C-C-A-----GC-GCCCG--UCC---CU-
+Dtpsy_2440   CAUGAACA-A-----AGGC--C-C-C-----GC----------A---UG-
+Dtpsy_0229   ACA-AAAA-A-----GGCU--C-C-----------------------AA-
+Dtpsy_2724   CCG-CAGU-AC---C-GCGG-C-G-A-----CC---------CG---AA-
+Dtpsy_2452   ACUGCA--------CGGCAC-G-C-G-----GC-GC-----------CA-
+Dtpsy_1535   AUUGAU---------AGCUG-C-C-C-----GC-GCUUG--ACC---GG-
+Dtpsy_2643   AUGGCAGA-A----C-ACCG-G-G-G-----GC---------AU---CA-
+Dtpsy_0177   UUUUUG---------GGCUG-U---A-----GC-GCUUG--UUA---AA-
+Dtpsy_2485   CAG-CCAA-C------GCC--C-C-C-----GC---------CG---CU-
+Dtpsy_3412   UUUUCG---------GGCUG-C---A-----GC-GCUUG--UC----CAU
+Dtpsy_3054   UUA-AU---------AGCUG-C-U-A-----GC-GCUUG--CUG---AA-
+Dtpsy_2498   UAUCAACA-AG--AUAGCUG--GU-A-----AC-GCCCG--AUU---GG-
+Dtpsy_1786   UAUUAAAA-AA--GAAGCUG-C-U-U-----GC-GCUUG--AUG---GA-
+Dtpsy_2273   AAA-CCAU-A------GCUG-G-C-A-----GC-GCCCG--UC----CAC
+Dtpsy_1705   AUUUCAAU-A------GCU-GC-C-U-----GC-GCUUG--AU----CAU
+Dtpsy_2252   GCU-GAAA-A------GGGG-C-G--------------G--AC----GA-
+Dtpsy_1516   GAUUCGAU-A------GCUU--GC-C-----AC-GCUUG--AAA---AU-
+Dtpsy_0991   UAA-AAGA-A-----GGC-G-C-C-A-----GC-GCUUG--UC----CAG
+Dtpsy_0892   GCG-CA---------AGCCG-G-C----------CC-----------CU-
+Dtpsy_2294   AGA-CCCG-A-----GGCAG-C-C------------------AU---GAC
+Dtpsy_1990   UAU-UGAU-A------GCUG-C-U-A-----GC-GCUUG--UCA---AA-
+Dtpsy_2288   GAUCAAGG-A------GCG--C-C----------GCCUG--CCG---CG-
+Dtpsy_2239   UUU-UGAU-A------GCUG--CU-A-----CC-GCUUA--UCA---GU-
+Dtpsy_1437   CGU-CGCA-A-----GGCCC-C-G------------------AU---UU-
+Dtpsy_2067   AAAUAAAU-AGA-CA----A-A-U----------GCCUG--AAA---UU-
+Dtpsy_1193   GAUUUGAU-A------GCU-GC-U-G-----GC-GCUUG--AUA---GA-
+Dtpsy_1597   AAA-AAAU-A------GCUG--CU-A-----GC-GCUUA--CC----CAA
+Dtpsy_0256   UAU-CAAU-AAUCUA-GCUG-C-U-A-----GC-GCUUA--CCA---GG-
+Dtpsy_1164   CAUGAAAA-A------ACU--C-C------------------UU---GA-
+Dtpsy_3017   UAA-AAAU-A------GCCA--CG-A-----GC---------CA---UUG
+Dtpsy_2610   CGACACGA-A-----AGCGG-C-C------------------UA---CA-
+Dtpsy_3408   UGAGGUAA-AG---UGGCCU--CA-A-----AC-CCUUU--CUG---GA-
+Dtpsy_0418   UAAGCCAA-AU---CAGGCU-C-U-A-----GC-GCUUA--UC----CAU
+Dtpsy_3529   CGGCCA---------AGCCG--GG------------------CG---CA-
+Dtpsy_3456   UUUGCGAA-A-----AGCCC-C-U--G---G---GC------CU---UG-
+Dtpsy_1112   UGA-AACA-A-----GGC-G-C-U-G-----GC-GCUUU--AAG---GA-
+Dtpsy_0416   UAAGCAAA-AU--CGGGUC--U-U-A-----GC-GCUUA--UC----CAG
+Dtpsy_2254   UUUUUUAU-A------GCU-AC-C-A-----GC-GCUCA--CCC---CA-
+Dtpsy_0314   AAACCAAC-A-----AGCCG-G-C--------A---------CG---CG-
+Dtpsy_3087   UAU-GAGG-A------GCUU-C-U-A-----AC-GCUUA--UUC---CA-
+Dtpsy_2718   AGAGCAAA-AC--AGGGCU--C-U-A-----GC-GCUUA--CCC---CA-
+Dtpsy_2021   UCA-UU---------GGCCU--CU-A-----GC-CCUUU--GUG---GA-
+Dtpsy_3141   UAG-CACA-A----CGGGU--C-C------------------CG---CG-
+Dtpsy_1468   UUUUUC-------------G-C-C-C-----GC---------CA---CG-
+Dtpsy_1757   UAA-AAAA-A----UAGCUG-C-U-C-----GC-GCUUU--AUA---GA-
+Dtpsy_3050   GCG-CCAA-A-----GGCC--U-U-U-----GC---------UGG-UGAG
+Dtpsy_2646   AAA-UGAA-AU---GGGCCG-C-U-A-----GC-GCUUA--UUC---GA-
+Dtpsy_2837   GCGCAGGA-A----C-GCCG-C-C------------------CU---CU-
+Dtpsy_0818   AAUUCAAU-A------GCUG--CC-A-----GC-GCUUU--CCC---UA-
+Dtpsy_1634   AAAUUGAU-A------GCU-GC-U-A-----GC-GCUUG--CUG---GA-
+Dtpsy_0058   CAC-AAAU-AG---C-ACUG--UU------------------UU---GA-
+Dtpsy_3272   AAA-AAAU-A-----AGCGC-C-C-G-----GC-GCCCU--CA----GG-
+Dtpsy_0919   CCA-AAAG-AC---GGGCUC-C-C-----------------------CU-
+Dtpsy_0041   UUUGCAAG-A-----AGGUA-C-U-----------------------GA-
+Dtpsy_2754   GAGCUAAA-A----CGGCCU-C-C-A-----GC-GCUUG--UUG---GA-
+Dtpsy_2661   AAU-GCAU-A------GCUG-C-U-G-----GC-GCUUG--AUG---GA-
+Dtpsy_0139   UAUCAAAA-AG--UGAGCU-GU-C-G-----GC-GCUUC--AUA---GG-
+Dtpsy_0218   UAA-AAAU-A----UAGCU-GU-U-A-----GC-GCUUA--UGG---AA-
+Dtpsy_2422   AAA-AACC-A----UAGCUG--CC-A-----GC-GCUUA--UC----CAG
+Dtpsy_0011   AAACCAAA-AC---C-GCCU-C-U-A-----GC-GCUUG--UC----CAU
+Dtpsy_0161   UAUGAAAU-AA--GGAACUG-C-C-A-----GC-GCUUG--AUA---GA-
+Dtpsy_3486   CAU-CACA-A-----GGCU--C-C------------------CU---CG-
+Dtpsy_3046   UAU-UAGU-A------GCU-GC-U-A-----GC-GCUUA--CC----CAG
+Dtpsy_1053   AUA-AAAA-A----U-GCCU--CU-A-----GC-GCUUG--CGG---GA-
+Dtpsy_0751   GCG-UAAA-A-----AGGC--C-C-A-----CC-GCCCU--CC----C--
+Dtpsy_1598   CCACCG-------------G-C-C-G-----GC-GC------CG---CU-
+Dtpsy_3365   UAA-AAAA-A-----GAC-G-C-G-G-----GC-CC------U----UG-
+Dtpsy_1835   AAA-CAGU-A------GCUG-C-U-A-----GC-GCUUG--AUG---GA-
+Dtpsy_0003   UGA-GAAA-A-----AGCC--A-U-G-----GA---------C----CAA
+Dtpsy_2247   AGGCCAAA-A----CAGCC-UC-U-A-----GC-GCCCA--CC----CAU
+Dtpsy_0087   GAG-AAAU-A------GCCG-C-C-C-----CG-GCUUG--CGC---CA-
+Dtpsy_2928   CCG-CAAA-A----C-CCCG-U--------UGU-GC-----------UU-
+Dtpsy_2832   GCACAA---------AGC-A-C-A-A-----GG-GCCAG--UCAC-UGA-
+Dtpsy_0953   CAU-UACA-A----UAGCUG-C-C-A-----GC-GCUUG--AUA---CA-
+#=GC SS_cons ::::::::.:.....<<<<<.<.<.<.....<<.<<<<_..___...__.
+#=GC RF      aAucaAAA.A.....aGCuG.C.c.A.....GC.GCUUG..ccg...cA.
+
+Dtpsy_3031   G------GC-------U----C--C-GC-----GUU--UUG
+Dtpsy_2047   CAA-GC-GC-------UG-G-C--A-GCU----AUU--UUU
+Dtpsy_0747   AAA-GC-GC-------GG-G-A--A-GCU----AUU--UUU
+Dtpsy_0771   C------GU-------CG-G----G-GCU----UUG--UUG
+Dtpsy_0661   -----------------G-G-C--A-GC-G--GUUU--UUU
+Dtpsy_2056   C----------------G-G-A--G-GCC----UUG--UUG
+Dtpsy_1428   U------GC-------GG-G-C----GUU----GUG--UUU
+Dtpsy_0269   CAC-GC-----------G-G-C--G-GC-----CUG--UGU
+Dtpsy_0371   CAA-GC-GC-------UG-G-C--A-GC----UAUU--UUU
+Dtpsy_1948   CUU-GC-GC-------GA-C-U-----------UUU--UUU
+Dtpsy_2594   CGG-GC-GC-------UA-G-C--A-GCU----AUU--UUU
+Dtpsy_2824   -----------------G-G-C--C-GCU----UUU--UGU
+Dtpsy_0372   CAA-GC-GC-------UG-G-C--A-GCU----AUC--ACU
+Dtpsy_0568   CAA-GC-GU-------U-AG-C--A-GCU----AU---UUU
+Dtpsy_1464   UAA-GC-GC-------UA-G-C--A-GCU----CUC-CUUU
+Dtpsy_2580   UGA-GC-GC-------UG-G-A--G-GCU----AUA--UUU
+Dtpsy_1904   CAA-GC-GC-------UG-G-A--A-GCU----AUU-GUUU
+Dtpsy_1025   AAA-GC-GC-------UA-A-C--A-GC-C--AAUU--UCA
+Dtpsy_2019   UCU-GC-GC-------GG-G-G--C-GU-UUGCUUU--UGU
+Dtpsy_2494   C----C-AC-------GU-U-C----CCU----UUU--UUU
+Dtpsy_0597   U------GC-------CA-G-U--A-GC-C--GUUU--UCA
+Dtpsy_1854   C---G--AC-------CA-G----G-GCU----UUU--UUU
+Dtpsy_3245   CAG-GC--C-------GG-G----A-GU-----UUC--UUU
+Dtpsy_0868   CGG-GC-GC-------UA-G-C--G-GCU------------
+Dtpsy_2565   UAA-GC-GC-------UA-G---CA-GCU----AUU--UAU
+Dtpsy_0442   CAA-GC-GC-------UA---C--A-GC----CACU--UUU
+Dtpsy_1444   A----------------U-G-C--C-GGU----UUU--UUU
+Dtpsy_3402   UAA-GC-GC-------UA-G-C--A-GCUC-UGAUU--UUU
+Dtpsy_1558   U-------C-------UG-C-G--G-GCC----GUU--UUU
+Dtpsy_3032   U----------------G---C-AA-GC-----CUG--AUU
+Dtpsy_2811   C---GC-----------G-G----G-GCU----UUC--UUU
+Dtpsy_2855   A----------------G-G-C----GCU----UUU--UUU
+Dtpsy_2904   AAA-GC-GC-------UG-G-A--G-GC-----AUA--AAA
+Dtpsy_3401   UAA-GC-GC-------UA-G-C--A-GCU----CUU--UUU
+Dtpsy_2507   ----GC-----------A-G-C----GC-----UUU--UUU
+Dtpsy_3047   UAA-GC-GC-------UA-G---CA-GCU----ACU--AAU
+Dtpsy_3030   -------GC-------U----C--C-GC-----GUU--UUG
+Dtpsy_1733   U------GC-------GA-G-C--C-GUU----UUC--AUG
+Dtpsy_2493   -CA--------------C-G-U--U-CCC----UUU--UUU
+Dtpsy_1914   C---G--AC-------UG--GC--G-CCC----UUU--UUU
+Dtpsy_0530   CAA-GC-GC-------UG-G-C--A-GCU----AUC--AAA
+Dtpsy_1596   UAA-GC-GC-------U-AG-C--A-GCU----AUU--UUU
+Dtpsy_2317   CAA-GC-GC-------UG-G---UA-GCUC-ACAUU--UUU
+Dtpsy_0282   AUG-UG-----------G-G-U--C-GUU----UUU-CUUU
+Dtpsy_3096   CAA-GC-GC-------GG-G-C--A-GC----UAUU--UUU
+Dtpsy_2723   C---GC--C-------CG-G-C--G-GC-----UUU--UUU
+Dtpsy_1045   CGA-GC-GC-------CA-G-C--A-GCU----AUU--AAU
+Dtpsy_2322   UAA-GC-GC-------UG-G---CA-GCU----AUU-GUUU
+Dtpsy_3332   A------GC-------GG-G-C--C-GCUU-ACCUU--UAU
+Dtpsy_1463   UAA-GC-GC-------UA-G-C--A-GC-----CUA--AAA
+Dtpsy_0857   UAA-GG-GU-------UU--CA-AU-G--------U-CUUU
+Dtpsy_0380   CGG-GG-AUUUGAGAU-A-G-A-AA-ACU----AUC--UAA
+Dtpsy_1046   UAA-GC-GC-------CA-G-C--A-GC----CAUU--UUU
+Dtpsy_0803   C---GU-GC-------CU-G-C--C-GUU----UUU-GUUU
+Dtpsy_2226   U---GC-GC-------UU-G-U-------------U--UGU
+Dtpsy_1451   CAA-GG-GC-------UA-G----G-GC-----UUG--AAA
+Dtpsy_0895   -AA-GC-GCG----UU-A-G----G-GC----CAUA--UUC
+Dtpsy_2290   CAA-GG-GAUU---CC-A-G-U--A-CUU----UUA--UUA
+Dtpsy_0896   -AG-GC-----------G-G-U--G-GC----GUUU--UAU
+Dtpsy_2338   U------AC-------CU-G-C--C-CCU----UUUGCUUU
+Dtpsy_2936   U----------------G-G---------------U--AUU
+Dtpsy_0695   AAA-GC-GC-------UA-G---CA-GCU----AUC--UAA
+Dtpsy_3051   CGG-GC-GC-------GA--GC--A-GCU----AUU-CAAU
+Dtpsy_0582   AGG-GC-GC-------UA-G-C--C-GCU----UUU-GAUU
+Dtpsy_0614   CGG-GU-GC-------UA-G-C--A-GCU----AUU--UUU
+Dtpsy_1732   C------GC-------GA-G-C--C-GUU----UUC--UUU
+Dtpsy_2595   CAA-GC-GC-------UA-G-C--A-GCU----AUU-GUUU
+Dtpsy_3375   GAA-G-UGC-------GC-G-C-----------UUU--UUG
+Dtpsy_0358   UAA-AC-GA-------UU--UC--A-G-------------U
+Dtpsy_2499   CGG-GC-GU-------UA-C---CA-GCU----AUC--UUG
+Dtpsy_2432   CAA-UG-AUU----UC-A-G-A-UA-GUU----UUG--AUA
+Dtpsy_2975   -------GC-------CA-G-C--G-GCU----UUU--UCA
+Dtpsy_0304   -----------------G-G-C--G-GC-----UUU--UGU
+Dtpsy_1964   U------GC-------CC-G-C--G-GGC----UUU--UUU
+Dtpsy_2952   UAA-GC-GC-------UA-G-C--A-GC----CUUU--UUG
+Dtpsy_0824   -----------------G-G-A--G-GC-----UUG-CUUG
+Dtpsy_0677   U------GC-------UU-G-C--G-GGU----UUU--UUU
+Dtpsy_3311   C---GC-UC-------CU-G-C--G-GCC----UUU--UUC
+Dtpsy_2700   A---GC--C-------U--G-U--A-GC-G--GUUU--UUU
+Dtpsy_3411   -----------------G-G-C--G-CCC----GUU--UGC
+Dtpsy_0292   -AUUGA-CC-------UA-G-A--G-GC-C--GAUU--UGA
+Dtpsy_3023   CGG-------------CA-G-G--G-GC-------U--UUU
+Dtpsy_3487   -----------------G-G-G--A-GCC----UUG--UGA
+Dtpsy_1483   CUG-UU-UA-------UA-U-C-----------GUU--UUU
+Dtpsy_2825   UAA-GC-GC-------GA-G---UA-GCU----AUG--AAA
+Dtpsy_3471   CAA-GC-GC-------UG-G-C--A-GCUA-CUAUU--UUU
+Dtpsy_1825   CGG-GC-GC-------UG-G-A--A-GC-----UUU--UUU
+Dtpsy_0794   UGG-GC-GC-------UG-G---GG-GC-U--GAUU--UGG
+Dtpsy_1729   A----------------G-G-A--G-CCC----UUU--UUU
+Dtpsy_0671   -AU-GC-UUGAU-UUC-A-G-A--U-GCU----UUU-GUUU
+Dtpsy_2362   CAC-GC-----------U---C----CCU----UUU--UUA
+Dtpsy_2897   C---GC--C-------UG-C-C--G-GGC----CUU-GUCU
+Dtpsy_0287   CAA-GC-GC-------UA-G-C--A-GCU-----------A
+Dtpsy_1452   --------C-------UU-G---------------U--UAA
+Dtpsy_0549   CAU-GC-GC-------UG-G-C--A-GCU----AUU--UUU
+Dtpsy_2089   C----------------C-C-C--G-CCU----UUU--UUU
+Dtpsy_3542   ----GC-----------G-G-C--C-GU-U--GUUG--UUU
+Dtpsy_0644   U------GU-------AA---U--G-GUU----UUC--AAU
+Dtpsy_0608   -----------------G-G-C--G-GC-----UUU--UUU
+Dtpsy_1436   CAA-GC-GC-------CC--CU--G-GC-------------
+Dtpsy_2085   A----------------G-G-C----GC----GUUU--UUU
+Dtpsy_0944   -------GC-------CG-G----G-GCU----UUU--UUU
+Dtpsy_3004   CAA-GG-GC-------UG-G-C--A-GCU----GUU--UUG
+Dtpsy_0984   ----GC-GC-------U--G-C--G-GCC----UUU--UUG
+Dtpsy_2829   C------GC-------UG-U-C----------UUUC--UUG
+Dtpsy_3458   CAA-GC-GC-------UA-G-C--A-GCU----AUU--UAU
+Dtpsy_0754   -----------------G-G-C--A-CCC----ACU-CUUU
+Dtpsy_1199   -------GC-------C--G----G-GC-----UUU--UUU
+Dtpsy_1447   C------GC-------CU-C-G--G-GCU----UUU-CUAU
+Dtpsy_0381   -----C-CC-------U--G-A----------UUUU--UCU
+Dtpsy_3310   -----------------G-G-C----GC----GUUU--UUU
+Dtpsy_2745   C---G------------G-G-G--C-GCU----UUU--UUU
+Dtpsy_0286   UAA-GC-GC-------GA--AA--G-GC-C--GAUU--UCG
+Dtpsy_2953   CAA-GC-GC-------UA-G-C--A-GCU----AUU-GUUU
+Dtpsy_2948   C---G--GA-------UG-C-C--A-GC-----UUU--UUU
+Dtpsy_3496   U---G--GC-------U--G-C----GCU----UUCGCUUU
+Dtpsy_1397   C----------------G-G----G-GCU----UUU--UUU
+Dtpsy_1787   CAA-GC-GC-------AA-G-C--A-GCU----UCU--UUU
+Dtpsy_2588   -----------------G-G-U--G-GC----GUUU--UUU
+Dtpsy_3457   A---GG-CC-------CA-G-G--G-GC-------U--UUU
+Dtpsy_1687   CAA-GC-GC-------UA-G---UA-GCU----AUC--AAG
+Dtpsy_0662   -----------------G-G-A--G-GU-U--GUUU--UUU
+Dtpsy_0484   UAA-GC-GC-------GA-G---CA-GCU----AUC-GAUG
+Dtpsy_3268   CGG-GU-GU-------UU-G-C--G-G-------------U
+Dtpsy_2441   U---GC-----------G-G----G-GCC----UU-----U
+Dtpsy_0373   U------GC-------UG---C--A-AC-C--CAUU--UUC
+Dtpsy_1381   CAA-GC-GC-------UA-G----A-GC----CUUA--UUU
+Dtpsy_1691   U---GG-GC-------GG-G---------------U-GAUU
+Dtpsy_2347   CAA-GC-GC-------GG-G-------------UUU--UUU
+Dtpsy_0311   CAA-GC-GC-------UG--AU--A-GC----UAUA--UUU
+Dtpsy_0100   CAA-GC-GC-------GA--CC--A-GCU----AUU--UUU
+Dtpsy_1534   U----------------C-A-C--G-GCC----UUU--UUU
+Dtpsy_1809   UUG-CG-UUG-----C-A-G-C--G-CCU----UUU--UUU
+Dtpsy_0465   AGG-GC-GU-------UU-G-C--A-G-------------U
+Dtpsy_1028   -------GG-------UG-C-C--A-GCC----CUU--UUU
+Dtpsy_1908   CAA-GC-GC-------UA-G---UA-GCU----CCU--AUU
+Dtpsy_0096   -----------------G-G-U--G-CCC----UUU--UUG
+Dtpsy_1396   CAA-GC-GC-------UG-G-C--A-GC-A--CAUU--UGA
+Dtpsy_2868   CAA-GC-GC-------UA-C-A--A-GCU----CUC-GUAU
+Dtpsy_0315   U----------------G-C-C--G-GC-----UUG--UUG
+Dtpsy_3034   UCU-GC-----------G-G-C----GC-----CUU--UUU
+Dtpsy_0982   C---GC-GC-------UC-C-A--U-GG----GUUU--UUU
+Dtpsy_1700   C----------------A-G-C--G-GCU----UUU--UUU
+Dtpsy_1571   -----------------G-G-C----GC-------------
+Dtpsy_0983   ----GC-GC-------UU-G-C--G----------------
+Dtpsy_1885   CAA-GC-GC-------UG--AC--A-GCU----AUC--AAA
+Dtpsy_3391   C---GC-GC-------CA-G-G------------------U
+Dtpsy_0997   CAA-GC-GC-------UA-G---CA-GCU----AUC-AUCU
+Dtpsy_1587   AAA-GC-GC-------UA-G----A-GC-------------
+Dtpsy_2705   CAA-GC-GC-------UA-G---CA-GCU----ACU-CAAA
+Dtpsy_0973   CAA-GC-GC-------UA-G----A-GC-------------
+Dtpsy_1423   U------GC-------GA-U-G--G-GC-------------
+Dtpsy_2428   C----------------A-C-A--G-GCC----UUU--UCU
+Dtpsy_0871   U----------------U-G---UG-AC-A-GGGUU--UUU
+Dtpsy_2443   CCA--------------G-G-C--G-GCU----UUC--UUU
+Dtpsy_1997   ----GC-GC-------U--G-C----CC-------------
+Dtpsy_1095   C----------------G-G---CA-G-------------U
+Dtpsy_0293   CAA-GC-GC-------CA-G-C--A-GCU----AUU--AUU
+Dtpsy_1313   CAC-UC-AC-------UA-U------GC----AGUC--UUG
+Dtpsy_1692   CUG-UA-UC--------G-G-U--G-GC-----GUU--UUU
+Dtpsy_1688   UGA-GC-GC-------UA-G----A-GC-C-UGAUU--UCA
+Dtpsy_0027   ACG-GC-GC-------GU-G----G-GCU----UUU--UUU
+Dtpsy_3052   CGG-GC-GC-------GA--CA--G-GC----CAUU--UUG
+Dtpsy_2693   CAG-G--GC-------UG-G-C-----------UUU--UUU
+Dtpsy_1701   C----------------A-G-C--G-GCU----UUU--UCG
+Dtpsy_0154   CAA-GC-GC-------CA----ACA-GCU----CCU--UUU
+Dtpsy_0430   UAGCGG-GC-------UG-G-A--G-GC-C--AAUU--UCG
+Dtpsy_1264   -GG-GC-----------G-G-G-----------UUU--UUC
+Dtpsy_1677   UAA-GC-GC-------UG---C--A-GC-C--GUUU--UUU
+Dtpsy_3160   CAA-GC-GC-------AA-G-C--A-GCU----AUG-CAAU
+Dtpsy_0957   C-------C-------U--G-C--G-GCU----UUU--UUG
+Dtpsy_0736   CUG-GG-----------U-G-G--A-GC-------------
+Dtpsy_0441   CAA-GC-GC-------UA-U---CA-GCUC--ACUU--UUU
+Dtpsy_0963   CAA-GC-GCC----AU-G-G-C--A-GCU----AUU--UUU
+Dtpsy_2372   CAA-GC-GC-------UA--AC--A-GCU----AUU--AAA
+Dtpsy_1682   C------CC-------AU-G-C--G-GCC----UUU--UUU
+Dtpsy_3015   UAA-GC-GC-------UG-G-A--A-CC-----AUU--UUU
+Dtpsy_2991   CAA-GC-GU-------UA-G-C--G-GC-U--CAUU--UGA
+Dtpsy_1907   CGG-GC-GC-------UG---A--A-G-------------G
+Dtpsy_3407   AAA-GG-GU-------UU-G-A--G-GC----CACU--UUA
+Dtpsy_2231   C----------------G-G----A-GCC----CUU--UUU
+Dtpsy_1767   CAA-GC-GC-------UG-G---CA-GCU----AUC--AAA
+Dtpsy_2585   CAA-GC-GC-------UG--AC--A-GCU----AUC--AAA
+Dtpsy_0230   U----------------G-G----A-GCC----UUU--UUU
+Dtpsy_1042   C------GC-------UG-G-C--A-GC-------------
+Dtpsy_0694   UAA-GC-GC-------UA-G----A-GC-C--GAUU--UUU
+Dtpsy_3231   U------GC-------UC-G-C--C-GUCU--GCUU--UUG
+Dtpsy_3162   -----------------G-G-C--U-GCU----UUU--UUU
+Dtpsy_0162   CAA-GC-GC-------UG-G-C--A-GUUC--CUUA--UUU
+Dtpsy_0611   C----------------A-G-U--G-GCU----UUU--UUC
+Dtpsy_1665   -AUUGC-CU-------CG-G-A--G-GC-C--UAUU--UCU
+Dtpsy_1604   U------GC-------UA-G-C-UG-GUU----UUC--AAU
+Dtpsy_1744   CAU-GC-GC-------CA---C-GG-GC----GUUU--UUA
+Dtpsy_3393   U-------C-------UG--CG----------CUUA--UUU
+Dtpsy_2263   CAA-GG-GU-------UU---C--A----------C--AUU
+Dtpsy_0962   CAA-GC-GC------G-G-G-C--A-GCU----AUU-GUUU
+Dtpsy_3351   CAA-GC-GC-------UG-G-A--A-GC-U--CUUU--UUU
+Dtpsy_2337   C------AC-------CU-G-C----CCC----UUU--UUG
+Dtpsy_0270   CAA-GC-GC-------AA-G-C--A-GCUC-CUGUU--UUU
+Dtpsy_3068   CAA-GC-AU-------UU---C--A-AU-----AUG--UUU
+Dtpsy_1853   CAA-GC-GC-------UA-G-C--A-GCU----AUC--AAU
+Dtpsy_2508   ----GC-----------A-G-C----GCU----UUU-CUUC
+Dtpsy_0681   GCG-GC-----------C-C----C-GC-------------
+Dtpsy_0967   CAA-GC-GC-------UG-G-U--A-GCU----AUU-GAAU
+Dtpsy_2550   U-------C-------CC-G-C--G-CCU----UCA--UCU
+Dtpsy_0170   C---GG-GC-------AG-G-C--C-G-------------U
+Dtpsy_0738   CAA-GC-GC-------UA--UA--A-GCU----AUA--AAA
+Dtpsy_2369   G------GC-------GC-C-C--G-GGU----UUU--UUU
+Dtpsy_2564   UAA-GC-GC-------UA-G----A-GC----CAUU--UUU
+Dtpsy_3333   U---GC-----------G-C-C--G-CCU----CUC--AUG
+Dtpsy_0187   C---GCUGU-------CA-G-C--A-GCU------------
+Dtpsy_0454   C---GC-AC-------CG-G-G--C-GUU----UUU--UCA
+Dtpsy_1380   CAA-GC-GC-------UG----UUA-GCU----AUA--UUU
+Dtpsy_0344   CAA-GC-GC-------UG-G-A--G-GC-C--GAUU--UGA
+Dtpsy_0415   UAA-GC-GC-------UA---A--G-AC-C-CGAUU--UUG
+Dtpsy_1768   UAA-GC-GC-------CA-G----A-GC-C-CGAUU--UCU
+Dtpsy_1826   CAA-GC-GC-------UG--AA--A-GCU----AUU--AAA
+Dtpsy_1370   CAA-GC-GC-------UA--AC--A-GCU----AUU-GUUU
+Dtpsy_0054   UAA-GC-GC-------AA-G---CA-GCU----CUU--UUU
+Dtpsy_1229   UAA-GG-GUU----AC-A-G-G--U-GC----GUUU--UAU
+Dtpsy_2367   -----------------A-G-G--C-GCU----UUG--UUU
+Dtpsy_0108   AGA-GC-GC-------U--G-C--A-GC------------U
+Dtpsy_2417   CGG-AC-GU-------UU-G-A--A-GG------------U
+Dtpsy_0422   C------GC-------CA-G----G-GC----GUUU--ACU
+Dtpsy_2368   CAA-GC-GC-------UG-A---UA-GCU----AUC--AAA
+Dtpsy_2251   CAA-GC-GC-------UG----UCA-GCU----ACU--AAA
+Dtpsy_1814   -------GC-------GG-G----G-GCC----UU------
+Dtpsy_0822   UAA-GC-GC-------UA--GC--G-GC-------------
+Dtpsy_1635   -----------------G-G-C--G-GUU----UUU--UCA
+Dtpsy_0098   ----GC-----------G-G----G-GCU----UUG--UUU
+Dtpsy_2762   U---GG-----------C-G-C----GC-------C--UUU
+Dtpsy_1824   CAA-GC-GC-------AA--AC--A-GCU----AUG--AAU
+Dtpsy_0121   UAA-GC-GC-------UA---A--A-GC-C--CAUU--UAG
+Dtpsy_2753   CAA-GC-GC-------UG-G-A--G-GC----CGUU--UUA
+Dtpsy_2295   U----------------G-G-C--U-GCC-----------U
+Dtpsy_1429   C------GC-------GG-G-C----GU------------U
+Dtpsy_1965   UGG-GC-GC-------UG-GAC--G-G--------C--AUU
+Dtpsy_2440   -------GC-------GG-G----G-CCU----UU------
+Dtpsy_0229   C----------------G-G---GA-GCC----UUC--UUU
+Dtpsy_2724   A------GG-------GU-G-C--C-GC-G--GUUU--UUU
+Dtpsy_2452   U---GC-GC-------CG-C-G--U-GCU----UUU--UUU
+Dtpsy_1535   UGG-GC-GU-------CA-G---------------------
+Dtpsy_2643   U------GC-------CC-C-C--G-GU-G-GCGUU--UUA
+Dtpsy_0177   UCA-GC-GC-------U-AA-C--A-GCU----AU------
+Dtpsy_2485   C-----GGC-------CG-G----G-GC----GUUU--UUU
+Dtpsy_3412   CCA-GC-GC-------G-AG-C--A-GCU----AU------
+Dtpsy_3054   UAA-GC-GC-------UG-G---------------------
+Dtpsy_2498   CGG-GC-GC-------UG---C--A-G-------------U
+Dtpsy_1786   UGG-GC-CC-------UG-G-A--G-G-------------U
+Dtpsy_2273   AGG-GC-GU-------UU-C-A--G-GU-A--GAUU--UGA
+Dtpsy_1705   CAA-GC-GC-------CA-G----A-CC----CGUU--UUU
+Dtpsy_2252   C----------------C-G-C--C-CC-------U--UUU
+Dtpsy_1516   CAA-GG-GU-------UA--GA--A-CC----CAUU--UUG
+Dtpsy_0991   CAA-GC-GC-------UG-G-C---AGCUC-UCAUU--UUU
+Dtpsy_0892   ----GG-----------G-C-C--G-GCU----UUU--UUU
+Dtpsy_2294   U----------------G-G-C--U-GCC----UUU--UUU
+Dtpsy_1990   UAA-GC-GC-------UA-G-C--G-CC----UGUU--UUU
+Dtpsy_2288   AAG-GC-----------A-G---GC-GU-------------
+Dtpsy_2239   AAA-GG-GC-------UA--CA--G-GC-------------
+Dtpsy_1437   C----------------C-G-G--G-GCC----UUU--UUC
+Dtpsy_2067   AAG-GC-----------A-U-U-------C--AAUU--UGU
+Dtpsy_1193   UAA-GC-GC-------UA-G----A-CC-----CUG--UUU
+Dtpsy_1597   CAA-GC-GC-------UA---C--A-GC----CACU--UUU
+Dtpsy_0256   UUG-GC-GC-------UA-G-C--A-GU----GAUU--UUC
+Dtpsy_1164   A----------------U-G---AG-GU------------U
+Dtpsy_3017   C------GC-------AU--CA--A-GC-------------
+Dtpsy_2610   -----------------G-G-C--C-GCU----UUU-CUUU
+Dtpsy_3408   UAA-GC-GC-------UA--AC--A-GCU----AUU--AAU
+Dtpsy_0418   CAA-GC-GC-------CA-G--------------------U
+Dtpsy_3529   U----------------U--GA--G-GCU----AUU--UUG
+Dtpsy_3456   C---GG---CC---GC-A-G-G--G-GCU----UUG--UCU
+Dtpsy_1112   CAA-GC-GC-------UA-G-U---AGCU----AUU--AAU
+Dtpsy_0416   UAA-GC-GC-------UA-G---CA-GCU----ACU--AAU
+Dtpsy_2254   CAA-GC-GC-------UG-G----A-GC-C--ACUU--UUU
+Dtpsy_0314   -----------------G-C-C--G-GCU-----------U
+Dtpsy_3087   UAG-GC-AU-------UA-G-A--G-GC-----UUU--UUU
+Dtpsy_2718   UAA-GC-GC-------UA-G---CA-GCU----AUC-GAAA
+Dtpsy_2021   UGA-GU-GC-------UG--UU--A-GCU----AUC--AAA
+Dtpsy_3141   -----------------G-G----A-CCC---GUUG--UUU
+Dtpsy_1468   C------GC-------GG-G-C-------G-AUAUU-GUUU
+Dtpsy_1757   UAA-GC-GU-------UG-G-C--G-GCU----GUU--UUU
+Dtpsy_3050   C------GC-------GA-G---AA-GCU----AUU--AAA
+Dtpsy_2646   CAA-GC-GC-------CA-G-C--A-GCU----AUC-CAAU
+Dtpsy_2837   G----------------G-G-C--G-GC----GUUU--UUU
+Dtpsy_0818   CAA-GC-GC-------UA--CA--G-GC----CAUU--UCG
+Dtpsy_1634   UGG-GU-GU-------UU-G----A-GU-------------
+Dtpsy_0058   -----------------A---A--A-GC-----AUU--UUU
+Dtpsy_3272   -AG-GC-GC-------CG-----------------------
+Dtpsy_0919   C----------------G-G-G--A-GCCC--GUUG--UGU
+Dtpsy_0041   -----------------A-G--------------------U
+Dtpsy_2754   CAA-GC-GC-------UG-G-C--A-GCU----AUA--UAU
+Dtpsy_2661   CGG-GC-GU-------UA-G-C--G-GC----AGUU--UUG
+Dtpsy_0139   UAA-GC-GC-------UG-G----A-GCUC--GUUC--UGA
+Dtpsy_0218   UAA-GC-GC-------UG-G----A-GCU----UUU--UUG
+Dtpsy_2422   CAA-GC-GU-------UG--CA-AG-GCU----UUU--UCA
+Dtpsy_0011   CAA-GC-GC-------UA-G-C--A-GC----UAUC--AAA
+Dtpsy_0161   AGG-GC-GC-------UG-G-A--A-GCU----CUU--UUG
+Dtpsy_3486   -----------------G-G----A-GCC----UUU--UGU
+Dtpsy_3046   CAA-GC-GC-------UA-G----A-GC-U-CAAUU--UGG
+Dtpsy_1053   UAA-GC-GC-------UG--AU--A-GC----UAUG--UUU
+Dtpsy_0751   CGG-GC-GG-------CG-G----G-CCU----UUG-CAUU
+Dtpsy_1598   ----GC-GC-------CG-G-C-------------U--UCU
+Dtpsy_3365   C---GG-GC-------GC-G-C----GUC----GUC--UUC
+Dtpsy_1835   UAA-GC-GC-------UA-G-A--G-GC-----UUA--AAA
+Dtpsy_0003   C-----AUC-------CA-U----G-GCU----UU------
+Dtpsy_2247   CAA-GC-GC-------AG-G---UA-GCU----AUCGCAAA
+Dtpsy_0087   -GG-GC-GC-------GG-G-C--ACGC-------------
+Dtpsy_2928   U---GC-ACC-----C---G-C--G-GG----GUUU--UUU
+Dtpsy_2832   CUG-GC-CC-------UU-G-U----GCU----UU------
+Dtpsy_0953   CAA-GC-GC-------UG-G-C--A-GCU----AUU--UUU
+#=GC SS_cons _>>.>>.>>.......>>.>.>..>.>>>....:::..:::
+#=GC RF      CAA.GC.GC.......Ug.G.C..a.GCu....uUU..UUU
+//

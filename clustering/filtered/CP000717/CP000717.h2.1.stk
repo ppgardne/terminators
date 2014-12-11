@@ -1,0 +1,678 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU CMfinder 0.2.1
+
+#=GS TBFG_13213 WT 1.58
+#=GS TBFG_11502 WT 1.36
+#=GS TBFG_11098 WT 1.12
+#=GS TBFG_10474 WT 1.34
+#=GS TBFG_12305 WT 0.36
+#=GS TBFG_12476 WT 1.03
+#=GS TBFG_10724 WT 0.77
+#=GS TBFG_13600 WT 1.15
+#=GS TBFG_11676 WT 1.36
+#=GS TBFG_10389 WT 1.17
+#=GS TBFG_11076 WT 0.73
+#=GS TBFG_13677 WT 0.85
+#=GS TBFG_12299 WT 0.64
+#=GS TBFG_11032 WT 1.55
+#=GS TBFG_12920 WT 0.88
+#=GS TBFG_10385 WT 1.61
+#=GS TBFG_10764 WT 0.64
+#=GS TBFG_13422 WT 0.22
+#=GS TBFG_13423 WT 0.16
+#=GS TBFG_13161 WT 1.58
+#=GS TBFG_10199 WT 0.78
+#=GS TBFG_13825 WT 0.70
+#=GS TBFG_13451 WT 0.29
+#=GS TBFG_11937 WT 2.10
+#=GS TBFG_13026 WT 1.60
+#=GS TBFG_10751 WT 0.64
+#=GS TBFG_11361 WT 0.99
+#=GS TBFG_13450 WT 0.57
+#=GS TBFG_11360 WT 0.99
+#=GS TBFG_12229 WT 1.29
+#=GS TBFG_12230 WT 1.17
+#=GS TBFG_12544 WT 1.61
+#=GS TBFG_10483 WT 1.39
+#=GS TBFG_12603 WT 1.28
+#=GS TBFG_12217 WT 1.13
+#=GS TBFG_10247 WT 1.22
+#=GS TBFG_10214 WT 0.59
+#=GS TBFG_11253 WT 1.82
+#=GS TBFG_10213 WT 0.43
+#=GS TBFG_10445 WT 1.85
+#=GS TBFG_11274 WT 2.87
+#=GS TBFG_13589 WT 1.87
+#=GS TBFG_12623 WT 1.10
+#=GS TBFG_10581 WT 0.80
+#=GS TBFG_11824 WT 2.10
+#=GS TBFG_10446 WT 1.85
+#=GS TBFG_13044 WT 0.92
+#=GS TBFG_11254 WT 1.17
+#=GS TBFG_12128 WT 0.66
+#=GS TBFG_12926 WT 2.39
+#=GS TBFG_11263 WT 1.58
+#=GS TBFG_13737 WT 2.64
+#=GS TBFG_11860 WT 1.71
+#=GS TBFG_12304 WT 0.59
+#=GS TBFG_12276 WT 0.99
+#=GS TBFG_12761 WT 0.44
+#=GS TBFG_11642 WT 0.44
+#=GS TBFG_11643 WT 0.50
+#=GS TBFG_12098 WT 0.99
+#=GS TBFG_10922 WT 1.06
+#=GS TBFG_10235 WT 0.22
+#=GS TBFG_10971 WT 0.29
+#=GS TBFG_13370 WT 0.25
+#=GS TBFG_11357 WT 0.99
+#=GS TBFG_13524 WT 0.25
+#=GS TBFG_13350 WT 0.67
+#=GS TBFG_13612 WT 0.68
+#=GS TBFG_10699 WT 1.43
+#=GS TBFG_12760 WT 0.30
+#=GS TBFG_12809 WT 0.70
+#=GS TBFG_11237 WT 0.41
+#=GS TBFG_12431 WT 0.48
+#=GS TBFG_12278 WT 0.70
+#=GS TBFG_13239 WT 0.76
+#=GS TBFG_10674 WT 0.41
+#=GS TBFG_10765 WT 0.79
+#=GS TBFG_10970 WT 0.46
+#=GS TBFG_11356 WT 0.99
+#=GS TBFG_10236 WT 0.16
+#=GS TBFG_10877 WT 0.57
+#=GS TBFG_11421 WT 0.82
+#=GS TBFG_10384 WT 1.37
+#=GS TBFG_13371 WT 0.45
+#=GS TBFG_10916 WT 1.13
+#=GS TBFG_10580 WT 0.80
+#=GS TBFG_11116 WT 1.07
+#=GS TBFG_13351 WT 0.67
+#=GS TBFG_10655 WT 0.41
+#=GS TBFG_11097 WT 0.85
+#=GS TBFG_13078 WT 0.92
+#=GS TBFG_13006 WT 0.50
+#=GS TBFG_13238 WT 0.76
+#=GS TBFG_11422 WT 0.82
+#=GS TBFG_13277 WT 0.74
+#=GS TBFG_11503 WT 1.36
+#=GS TBFG_10915 WT 1.12
+#=GS TBFG_12877 WT 1.43
+#=GS TBFG_12778 WT 1.28
+#=GS TBFG_10654 WT 0.36
+#=GS TBFG_11031 WT 1.55
+#=GS TBFG_10682 WT 0.99
+#=GS TBFG_10200 WT 0.78
+#=GS TBFG_12430 WT 0.56
+#=GS TBFG_10878 WT 0.34
+#=GS TBFG_10737 WT 1.41
+#=GS TBFG_12602 WT 1.61
+#=GS TBFG_11244 WT 1.28
+#=GS TBFG_13828 WT 0.88
+#=GS TBFG_13611 WT 0.68
+#=GS TBFG_12277 WT 0.70
+#=GS TBFG_13838 WT 2.63
+
+#=GS TBFG_13213 DE 46.. 83	35.151844
+#=GS TBFG_11502 DE 33.. 72	2.487268
+#=GS TBFG_11098 DE 34.. 70	33.733856
+#=GS TBFG_10474 DE 32.. 69	38.535439
+#=GS TBFG_12305 DE 40.. 77	34.050053
+#=GS TBFG_12476 DE 33.. 70	46.816322
+#=GS TBFG_10724 DE 33.. 70	39.086372
+#=GS TBFG_13600 DE 32.. 69	37.669052
+#=GS TBFG_11676 DE 38.. 75	35.173389
+#=GS TBFG_10389 DE 36.. 73	23.187817
+#=GS TBFG_11076 DE 33.. 70	39.160267
+#=GS TBFG_13677 DE 37.. 75	41.451591
+#=GS TBFG_12299 DE 32.. 69	38.363255
+#=GS TBFG_11032 DE 36.. 73	33.061352
+#=GS TBFG_12920 DE 36.. 73	25.251247
+#=GS TBFG_10385 DE 34.. 71	36.728394
+#=GS TBFG_10764 DE 52.. 89	44.761620
+#=GS TBFG_13422 DE 33.. 70	51.495476
+#=GS TBFG_13423 DE 33.. 70	51.425850
+#=GS TBFG_13161 DE 33.. 70	29.131615
+#=GS TBFG_10199 DE 1.. 34	32.420517
+#=GS TBFG_13825 DE 33.. 70	48.511787
+#=GS TBFG_13451 DE 34.. 71	42.410095
+#=GS TBFG_11937 DE 61.. 96	13.296135
+#=GS TBFG_13026 DE 30.. 67	19.834410
+#=GS TBFG_10751 DE 30.. 67	34.958748
+#=GS TBFG_11361 DE 3.. 40	39.695457
+#=GS TBFG_13450 DE 33.. 70	34.575138
+#=GS TBFG_11360 DE 32.. 69	37.504921
+#=GS TBFG_12229 DE 38.. 75	22.939913
+#=GS TBFG_12230 DE 55.. 92	23.243116
+#=GS TBFG_12544 DE 30.. 67	34.525818
+#=GS TBFG_10483 DE 41.. 65	0.023792
+#=GS TBFG_12603 DE 42.. 79	25.662292
+#=GS TBFG_12217 DE 36.. 73	32.144318
+#=GS TBFG_10247 DE 77.. 97	12.732145
+#=GS TBFG_10214 DE 33.. 70	30.111362
+#=GS TBFG_11253 DE 32.. 69	23.514194
+#=GS TBFG_10213 DE 29.. 66	32.545673
+#=GS TBFG_10445 DE 33.. 73	3.171024
+#=GS TBFG_11274 DE 3.. 39	1.031495
+#=GS TBFG_13589 DE 42.. 81	2.779197
+#=GS TBFG_12623 DE 24.. 61	32.890133
+#=GS TBFG_10581 DE 65..100	33.677292
+#=GS TBFG_11824 DE 33.. 64	12.289273
+#=GS TBFG_10446 DE 29.. 63	1.980579
+#=GS TBFG_13044 DE 37.. 75	27.940535
+#=GS TBFG_11254 DE 38.. 75	30.361393
+#=GS TBFG_12128 DE 60.. 97	45.158447
+#=GS TBFG_12926 DE 30.. 62	18.492683
+#=GS TBFG_11263 DE 33.. 70	16.598663
+#=GS TBFG_13737 DE 27.. 68	0.303732
+#=GS TBFG_11860 DE 42.. 79	20.468153
+#=GS TBFG_12304 DE 62.. 99	33.690857
+#=GS TBFG_12276 DE 36.. 73	37.708435
+#=GS TBFG_12761 DE 32.. 69	49.233574
+#=GS TBFG_11642 DE 30.. 67	50.292381
+#=GS TBFG_11643 DE 33.. 70	52.024002
+#=GS TBFG_12098 DE 33.. 71	34.277489
+#=GS TBFG_10922 DE 42.. 79	33.717098
+#=GS TBFG_10235 DE 33.. 70	51.495476
+#=GS TBFG_10971 DE 29.. 66	40.138481
+#=GS TBFG_13370 DE 33.. 70	52.655296
+#=GS TBFG_11357 DE 37.. 73	47.260174
+#=GS TBFG_13524 DE 48.. 85	51.055237
+#=GS TBFG_13350 DE 36.. 73	46.448860
+#=GS TBFG_13612 DE 1.. 36	38.070137
+#=GS TBFG_10699 DE 36.. 79	28.055611
+#=GS TBFG_12760 DE 32.. 69	50.099831
+#=GS TBFG_12809 DE 45.. 82	49.741238
+#=GS TBFG_11237 DE 42.. 79	48.585503
+#=GS TBFG_12431 DE 34.. 71	50.062912
+#=GS TBFG_12278 DE 30.. 67	28.122150
+#=GS TBFG_13239 DE 29.. 66	40.971611
+#=GS TBFG_10674 DE 37.. 74	36.372974
+#=GS TBFG_10765 DE 12.. 49	47.881325
+#=GS TBFG_10970 DE 29.. 66	36.951660
+#=GS TBFG_11356 DE 37.. 73	48.306305
+#=GS TBFG_10236 DE 38.. 75	51.425850
+#=GS TBFG_10877 DE 30.. 67	35.172035
+#=GS TBFG_11421 DE 38.. 75	35.271126
+#=GS TBFG_10384 DE 37.. 74	39.959614
+#=GS TBFG_13371 DE 29.. 66	49.145687
+#=GS TBFG_10916 DE 4.. 41	37.407146
+#=GS TBFG_10580 DE 44.. 81	46.302334
+#=GS TBFG_11116 DE 39.. 76	36.189980
+#=GS TBFG_13351 DE 38.. 75	45.764671
+#=GS TBFG_10655 DE 33.. 70	39.832893
+#=GS TBFG_11097 DE 33.. 69	31.548328
+#=GS TBFG_13078 DE 48.. 85	44.253536
+#=GS TBFG_13006 DE 35.. 72	51.948776
+#=GS TBFG_13238 DE 42.. 79	46.621758
+#=GS TBFG_11422 DE 30.. 67	36.100151
+#=GS TBFG_13277 DE 41.. 78	44.691986
+#=GS TBFG_11503 DE 29.. 74	4.286936
+#=GS TBFG_10915 DE 32.. 69	38.170685
+#=GS TBFG_12877 DE 29.. 70	20.013031
+#=GS TBFG_12778 DE 33.. 70	36.446999
+#=GS TBFG_10654 DE 36.. 73	37.815559
+#=GS TBFG_11031 DE 33.. 70	30.291372
+#=GS TBFG_10682 DE 32.. 69	33.315880
+#=GS TBFG_10200 DE 39.. 76	48.907639
+#=GS TBFG_12430 DE 39.. 76	48.198032
+#=GS TBFG_10878 DE 33.. 70	38.358856
+#=GS TBFG_10737 DE 34.. 71	31.634912
+#=GS TBFG_12602 DE 39.. 76	27.027578
+#=GS TBFG_11244 DE 32.. 69	43.991642
+#=GS TBFG_13828 DE 36.. 73	40.851639
+#=GS TBFG_13611 DE 38.. 75	48.816116
+#=GS TBFG_12277 DE 34.. 71	28.122150
+#=GS TBFG_13838 DE 30.. 76	2.266284
+
+TBFG_13213         GACGCAG--AAGUCG-C-C-GAUUUCACCG-GA----------AAU-CG-
+#=GR TBFG_13213 SS ...........<<<-.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11502         -------G-AAUCUG-A-C-GACGCGACAG-CG--GCGUGUCGCGU-CG-
+#=GR TBFG_11502 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11098         GACGCAG--AAGCCC-C-C-AAACCGAC---GG----------UUU-UGG
+#=GR TBFG_11098 SS ...........<<-<.<.<.<<<-<.......>..........->>.>>.
+TBFG_10474         GACGCAA--AAGCAC-C-C-UUUUGCGGC--GC----------AAA-AGU
+#=GR TBFG_10474 SS ...........<<-<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12305         GUCGCAU--AAGCCC-C-C-GCACGCACG--GC----------GUGUCG-
+#=GR TBFG_12305 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12476         GACGCAA--AAGCUC-C-C-AAAUCCGGUC-GG----------AUU-UG-
+#=GR TBFG_12476 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10724         GUCGCAA--AAGCCC-C-C-GACACGCGC--GG----------CGUGCG-
+#=GR TBFG_10724 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_13600         GACGCAA--AAUCGC-C-C-AUUUUGCGGG-CG----------UGU-UG-
+#=GR TBFG_13600 SS ...........<<<<.<.<.<-<-<.......>..........->-.>>.
+TBFG_11676         GACGCAG--AAUCGC-ACC-GCCACGCCC--GU----------CGG-CG-
+#=GR TBFG_11676 SS ...........<<<<.<.<.<<<--.......-..........->>.>>.
+TBFG_10389         GACGCGG--AAUCGC-A-C--GCGUGAGGUCCG----------CGC-AG-
+#=GR TBFG_10389 SS ...........<<<<.<.<..<<<<.......>..........>>>..>.
+TBFG_11076         GACGCAA--AAUCGC-C-C-AUUUUCGUGU-CG----------AAA-UG-
+#=GR TBFG_11076 SS ...........-<-<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13677         GACGCAAA-AAGCCC-C-C-AAAACGGUUC-CG----------UUU-UG-
+#=GR TBFG_13677 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12299         GACGCAA--AAGCCC-C-C-GCACGCACG--GA----------GUGUCG-
+#=GR TBFG_12299 SS ...........<<<<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_11032         GACGCAA--AAUCCC-C-U-CGCAACCGG--CG----------UGUCGA-
+#=GR TBFG_11032 SS ...........<<<<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_12920         GACGCGA--AAUCCC-C-C-GACACGCCG--AA----------CGUGCG-
+#=GR TBFG_12920 SS ...........-<<-.<.<.<<<--.......-..........->>.>>.
+TBFG_10385         GACACAA--AAUCGC-A-C-GAAUCAACC--GC----------AAACCG-
+#=GR TBFG_10385 SS ...........<<<<.<.<.<--<-.......-..........>--.>>.
+TBFG_10764         GACGCAU--AAGCGC-C-C-AAUUUCGUGU-CG----------AAA-UG-
+#=GR TBFG_10764 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_13422         GACGCAA--AAUCGC-C-C-AAUUUCGUGC-CG----------AAU-UG-
+#=GR TBFG_13422 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13423         GACGCAA--AAUCGC-C-C-AAUUCGGCA--CG----------AAAUUG-
+#=GR TBFG_13423 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_13161         GACGUCA--AAGCCC-C-CGAAUUUCAGU--GA----------AAU-CG-
+#=GR TBFG_13161 SS ...........<<<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_10199         ----CAG--AAUCGC-C-C-AUUUGGUAGC-CC----------AAA-UG-
+#=GR TBFG_10199 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13825         GACGCAA--AAGCCC-C-C-AAUUCGGGCA-CG----------AAA-UG-
+#=GR TBFG_13825 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_13451         GACGCAA--AAGCCC-C-C-GACACGCCG--AG----------CGUGCG-
+#=GR TBFG_13451 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_11937         GCCGCAG--CACCCC-G-C-GAGCUGAC---CG----------GCU-CG-
+#=GR TBFG_11937 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13026         GACACAG--ACUCGC-AUC-CGGCGCCCC--UC----------GCC-CG-
+#=GR TBFG_13026 SS ...........<<<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_10751         GACGCGU--AAGCGC-C-C-AAUGUCGUGC-CG----------AAA-UG-
+#=GR TBFG_10751 SS ...........<<<<.<.<.<-<-<.......>..........->-.>>.
+TBFG_11361         GACGCAA--AAGCCCAC-U-AAAUCGGCC--AG----------AUU-UA-
+#=GR TBFG_11361 SS ...........<<-<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13450         GACGCUA--AAGCCC-C-C-GCACGCUCG--GC----------GUGUCG-
+#=GR TBFG_13450 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11360         GACGCAA--AAGCUC-C-U-AAAUCUGGC--CG----------AUU-UA-
+#=GR TBFG_11360 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12229         GACGCGG--AAUCGC-AUC-GGCGGGGCC--CA----------CAC-GG-
+#=GR TBFG_12229 SS ...........<<<<.<.<.-<-<-.......-..........>->.->.
+TBFG_12230         GACGCGG--AAUCGC-A-C-CGUGUGGGC--CC----------CGC-CGA
+#=GR TBFG_12230 SS ...........<<<<.<.<.-<<<-.......-..........>>>.->.
+TBFG_12544         GACGCAG--AAUCGC-A-UCGAAAUCCGG--AU----------UUU-CA-
+#=GR TBFG_12544 SS ...........<<<<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_10483         GACUCCG--AGUCGC-C-C-AC---------G----------------G-
+#=GR TBFG_10483 SS ...........<<<<.<.<.............................>.
+TBFG_12603         GACGCAG--AAUCGC-A-U-UGGGCGGGC--UG----------AUUUCG-
+#=GR TBFG_12603 SS ...........<<<<.<.<.-<<-<.......>..........->>.->.
+TBFG_12217         GACGCAA--AAUCAC-C-CGGAAACCGGC--GA----------UUU-UG-
+#=GR TBFG_12217 SS ...........<<-<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_10247         GACGCAG--AGUCAA-C-G-AA---------C------------------
+#=GR TBFG_10247 SS ...........<<.....................................
+TBFG_10214         GACACUA--AAGCCC-U-C-GACACGCCG--UG----------CGUGCG-
+#=GR TBFG_10214 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_11253         GACGCAA--CGGCAC-C-C-AAUUUCGACC-AG----------AAU-CG-
+#=GR TBFG_11253 SS ...........<-<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_10213         GACGCAU--AAGCCC-C-C-GCACGCACG--GC----------GUGUCG-
+#=GR TBFG_10213 SS ...........<<<<.-.<.<<<<<.......>..........>>>.>>.
+TBFG_10445         GUCGCAGCGAGGAGC-C-C-GGUCCCUUUGUGG----------GGC-CG-
+#=GR TBFG_10445 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11274         GAC----G-AGGCGU-U-CGGCUGAGUUCG-CU----------CAGCCG-
+#=GR TBFG_11274 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13589         -------G-AAUCUC-A-C-GACGGGUCG--UC-GGCGUGUCGCGU-CG-
+#=GR TBFG_13589 SS ...........<<-<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12623         GUCGCAA--AAGCAC-C-C-GUUUCAGGC--CG----------AAAUUU-
+#=GR TBFG_12623 SS ...........<<-<.<.-.<<<<<.......>..........>>>.>-.
+TBFG_10581         GACGCAG--AAUCGC-AUC-AAAAUCGCU--GA----------UUU-UG-
+#=GR TBFG_10581 SS ............<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11824         GUCGCGG--CAGCAC-A-C-CAACCAGC---CG---------------G-
+#=GR TBFG_11824 SS ...........<<<<.<.<.....<.......>...............>.
+TBFG_10446         ----CAG--AGGAGC-C-C-GGCCCCACAA-AG----------GGACCG-
+#=GR TBFG_10446 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_13044         GUCGCAA--AAGACC-C-C-GACACGCCGA-GG----------CGUGGG-
+#=GR TBFG_13044 SS ...........<-<<.<.<.-<<-<.......>..........->>.->.
+TBFG_11254         GACGCAA--AAGAAC-C-C-GAUUCUGGU--CG----------AAAUUG-
+#=GR TBFG_11254 SS ...........<-<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_12128         GACGCAA--AAUCCC-C-C-GACACGCCG--GG----------CGUGCG-
+#=GR TBFG_12128 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_12926         GACGCAA--AAG--A-A-C-AUGAUGGGCG-CA----------CCAGCG-
+#=GR TBFG_12926 SS ...........<......<.-<<-<.......>..........->>.->.
+TBFG_11263         GACACAU--AAGCCC-C-C-GCCACGCCG--AA----------GGAUUU-
+#=GR TBFG_11263 SS ...........<<-<.<.-.<-<--.......-..........->-.>-.
+TBFG_13737         GGCGCAC--CAGCCC-CUU-UUCUUGACU--CG------UUCAAGA-AA-
+#=GR TBFG_13737 SS ...........<<<<.-.<.<<<<<.......>..........>>>.>>.
+TBFG_11860         GACACAG--AAUCGC-A----CG-CGGCA--GG------CUCCUCG-GA-
+#=GR TBFG_11860 SS ...........<<<<.<....<<.<.......>...........>>....
+TBFG_12304         GUCGCUA--AAGCCC-C-C-GACACGCCG--UG----------CGUGCG-
+#=GR TBFG_12304 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_12276         GACGCAG--AAUCGC-A-C-GCGCGAGGU--CC----------GCGCCG-
+#=GR TBFG_12276 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12761         GACGCAA--AAUCGC-C-C-AUUUCGUGC--CG----------AAA-UGA
+#=GR TBFG_12761 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11642         GACGCAA--AAUCGC-C-C-AUUUCGUACC-CG----------AAA-UG-
+#=GR TBFG_11642 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11643         GACGCAA--AAUCGC-C-C-AUUUCGGGUA-CG----------AAA-UG-
+#=GR TBFG_11643 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12098         GACGCAG--AAUCGC-A-U-GCGCGGGACC-CC----------GCG-CAG
+#=GR TBFG_12098 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10922         GACACAG--AGUCGC-A-C-AAAAUCGGC--GG----------UUU-UGA
+#=GR TBFG_10922 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10235         GACGCAA--AAUCGC-C-C-AAUUUCGUGC-CG----------AAU-UG-
+#=GR TBFG_10235 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10971         GACGCAU--AAGCCC-C-C-GACACGCCG--AG----------CGUGCG-
+#=GR TBFG_10971 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_13370         GACGCAA--AAUCGC-C-C-AUUUCGGCA--CG----------AAAUUG-
+#=GR TBFG_13370 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11357         GACGCAG--AAUCGC-C-U-AAACCGUGC--GG----------GUU-UA-
+#=GR TBFG_11357 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13524         GACGCAG--AAUCGC-C-C-AUUUCGGCA--CG----------AAAUUG-
+#=GR TBFG_13524 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13350         GACGCAA--AAUCGC-C-CGAAAACCAGU--GG----------UUU-UG-
+#=GR TBFG_13350 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13612         --CGCAG--AAUCGC-A-U-GAUUUGAGCU-CA----------AAU-CA-
+#=GR TBFG_13612 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10699         GACGCAA--AAGAAC-A-U-GAUGGGCGCA-CC----AGCGCCCAU-CA-
+#=GR TBFG_10699 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12760         GACGCAA--AAUCGC-CUC-AUUUCGGCA--CG----------AAA-UG-
+#=GR TBFG_12760 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12809         GACGCAA--AAGCCC-C-C-AUUUCGGGCC-CG----------AAA-UG-
+#=GR TBFG_12809 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11237         GACACAG--AAUCGC-C-C-AUUUCGGCA--CG----------AAAUUG-
+#=GR TBFG_11237 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12431         GACGCAA--AAUCGC-C-C-AUUUCGGCC--CG----------AAUUUG-
+#=GR TBFG_12431 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_12278         GACGCAG--AGUCGC-A-C-UGCGCCGGCC-GG----------CGC-AG-
+#=GR TBFG_12278 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13239         GACGCAA--AAUCGC-C-C-GAAAGCCAUC-GG----------UUU-CG-
+#=GR TBFG_13239 SS ...........<<<<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_10674         GUCGCAU--AAGCCC-C-C-GACACGCCG--AG----------CGUGCG-
+#=GR TBFG_10674 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_10765         GACGCAU--AAGCGC-C-C-AUUUCGACA--CG----------AAAUUG-
+#=GR TBFG_10765 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10970         GACGCAU--AAGCCC-C-C-GCACGCUCG--GC----------GUGUCG-
+#=GR TBFG_10970 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11356         GACGCAG--AAUCGC-C-U-AAACCCGCA--CG----------GUU-UA-
+#=GR TBFG_11356 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10236         GACGCAA--AAUCGC-C-C-AAUUCGGCA--CG----------AAAUUG-
+#=GR TBFG_10236 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_10877         GACGUAA--AAGCCC-C-C-GCACGCUCG--GC----------GUGUCG-
+#=GR TBFG_10877 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11421         GACGCAG--AAUCGC-A-C-GCGGAAAGGC-UU----------CCG-CG-
+#=GR TBFG_11421 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10384         GACGCAA--AAUCGC-A-C-GGUUUGCGGU-UG----------AUU-CG-
+#=GR TBFG_10384 SS ...........<<<<.<.<.<<-<<.......>..........>->.>>.
+TBFG_13371         GACGCAA--AAUCGC-C-C-AAUUUCGUGC-CG----------AAA-UG-
+#=GR TBFG_13371 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_10916         GACGCAA--AAGCCC-C-U-AAUACCUGC--CG----------GUU-UAG
+#=GR TBFG_10916 SS ...........<<<<.<.<.<<--<.......>..........-->.>>.
+TBFG_10580         GACGCAG--AAUCGC-A-C-AAAAUCAGC--GA----------UUU-UGA
+#=GR TBFG_10580 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11116         GACACAG--AAUCGC-A-CUGCGCCGGCC--CG----------GCG-CG-
+#=GR TBFG_11116 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13351         GACGCAA--AAUCGC-C-C-AAAACCACU--GG----------UUUUCG-
+#=GR TBFG_13351 SS ...........<<<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_10655         GACGCAU--AAGCCC-C-C-GACACGCCG--UG----------CGUGCG-
+#=GR TBFG_10655 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_11097         GACGCGA--AAGCAC-CCC-AAAACCGU---CG----------GUU-UG-
+#=GR TBFG_11097 SS ...........<<-<.<.<.<<<-<.......>..........->>.>>.
+TBFG_13078         GACGCAG--AAUCGC-CUC-AAAAUCUUG--GA----------UUU-UG-
+#=GR TBFG_13078 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13006         GACGCAA--AAUCGC-C-C-AUUUCGAGA--CG----------AAAUUG-
+#=GR TBFG_13006 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13238         GACGCAA--AAUCGC-C-C-GAAACCGAU--GG----------CUUUCG-
+#=GR TBFG_13238 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_11422         GACGCAG--AAUCGC-A-C-GCGGAAGCCU-UU----------CCG-CG-
+#=GR TBFG_11422 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13277         GACGCAA--AAUCGC-C-C-AUUUUCAUGA-CG----------AAA-AG-
+#=GR TBFG_13277 SS ...........<<<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_11503         GACUGUG--AAUCUG-A-C-GACGCGACA--CG-CCGCUGUCGCGU-CG-
+#=GR TBFG_11503 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_10915         GACGCAA--AAGCCC-CCU-AAACCGGCA--GG----------UAU-UA-
+#=GR TBFG_10915 SS ...........<<<<.<.<.<<--<.......>..........-->.>>.
+TBFG_12877         GGCGCAA--AAGAAC-A-U-GAU-GGGCA--CC----AGCGCCCAU-CA-
+#=GR TBFG_12877 SS ...........<<<<.<.<.<<<.<.......>...........>>.>>.
+TBFG_12778         GACGCAG--AAUCGC-A-U-UAAUCGCGCC-CG----------GUU-UG-
+#=GR TBFG_12778 SS ...........<<<<.<.<.-<<<<.......>..........>>>.->.
+TBFG_10654         GACGCAU--AAGCCC-C-C-GCACGCACG--GC----------GUGUCG-
+#=GR TBFG_10654 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_11031         GACGCAA--AAUCCC-C-U-CGACACGCC--GG----------UUGCGA-
+#=GR TBFG_11031 SS ...........<<<<.<.<.<-<--.......-..........->-.>>.
+TBFG_10682         GACGCAG--AAUCGC-A-C-GCGAAAUGC--CU----------GCG-CGA
+#=GR TBFG_10682 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_10200         GACGCAG--AAUCGC-C-C-AUUUGGGCUA-CC----------AAA-UG-
+#=GR TBFG_10200 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12430         GACGCAA--AAUCGC-C-CAAAUUCGGGC--CG----------AAA-UG-
+#=GR TBFG_12430 SS ...........<<<<.<.<.<-<<<.......>..........>>-.>>.
+TBFG_10878         GACGUAA--AAGCCC-C-C-GACACGCCG--AG----------CGUGCG-
+#=GR TBFG_10878 SS ...........<<<<.<.<.<<<-<.......>..........->>.>>.
+TBFG_10737         GACGCAAA-AUGCCC-C-C-GAAAUGCCC--AU----------UUU-CG-
+#=GR TBFG_10737 SS ...........<<<<.<.<.<<<<-.......-..........>>>.>>.
+TBFG_12602         GACACAG--AAUCGC-ACG-AAAUCAGCC--CG------CCCAA------
+#=GR TBFG_12602 SS ...........<<<<.<......<<.......>..........>......
+TBFG_11244         GACGCAA--AAUCGC-C-C-UGAACCGUG--CG----------UUCCAG-
+#=GR TBFG_11244 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13828         GACGCAA--AAGCAC-CCC-AAAUCGGG---CG----------AUUUUG-
+#=GR TBFG_13828 SS ...........<<-<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13611         GACGCAG--AAUCGC-A-U-GAUUUGAGCU-CA----------AAU-CA-
+#=GR TBFG_13611 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_12277         GACGCAG--AGUCGC-A-C-UGCGCCGGCC-GG----------CGC-AG-
+#=GR TBFG_12277 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+TBFG_13838         GACACAA--CAUCUA-G-C-GGCGGUGAC--CCUUGUGGUCGCCGC-CG-
+#=GR TBFG_13838 SS ...........<<<<.<.<.<<<<<.......>..........>>>.>>.
+#=GC SS_cons       :::::::..::<<<<.<.<.<<<<<____.._>..........>>>.>>.
+#=GC RF            GACGCAA..AAUCgC.A.c.AAUUcggcc..cg..........AAU.Ug.
+
+TBFG_13213         G-GGACU
+#=GR TBFG_13213 SS >.->>>.
+TBFG_11502         U-CAGAU
+#=GR TBFG_11502 SS >.>>>>.
+TBFG_11098         G-GUGCU
+#=GR TBFG_11098 SS >.>->>.
+TBFG_10474         G-GCGCU
+#=GR TBFG_10474 SS >.>->>.
+TBFG_12305         G-GGGCU
+#=GR TBFG_12305 SS >.>>>>.
+TBFG_12476         G-GAGCU
+#=GR TBFG_12476 SS >.>>>>.
+TBFG_10724         G-GGGCU
+#=GR TBFG_10724 SS >.>>>>.
+TBFG_13600         G-GCGAU
+#=GR TBFG_13600 SS >.>>>>.
+TBFG_11676         U-GCGAU
+#=GR TBFG_11676 SS >.>>>>.
+TBFG_10389         U-GCGAU
+#=GR TBFG_10389 SS >.>>>>.
+TBFG_11076         G-GGGCU
+#=GR TBFG_11076 SS >.>->-.
+TBFG_13677         G-GGGCU
+#=GR TBFG_13677 SS >.>>>>.
+TBFG_12299         G-GGGCU
+#=GR TBFG_12299 SS >.>>>>.
+TBFG_11032         G-GGGAU
+#=GR TBFG_11032 SS >.>>>>.
+TBFG_12920         G-UGGCU
+#=GR TBFG_12920 SS >.->>-.
+TBFG_10385         U-GCGAU
+#=GR TBFG_10385 SS >.>>>>.
+TBFG_10764         G-GCGCU
+#=GR TBFG_10764 SS >.>>>>.
+TBFG_13422         G-GCGAU
+#=GR TBFG_13422 SS >.>>>>.
+TBFG_13423         G-GCGAU
+#=GR TBFG_13423 SS >.>>>>.
+TBFG_13161         G-GGGCU
+#=GR TBFG_13161 SS >.>>>>.
+TBFG_10199         G-GCGAU
+#=GR TBFG_10199 SS >.>>>>.
+TBFG_13825         G-GGGCU
+#=GR TBFG_13825 SS >.>>>>.
+TBFG_13451         G-GGGCU
+#=GR TBFG_13451 SS >.>>>>.
+TBFG_11937         C-GGGGU
+#=GR TBFG_11937 SS >.>>>>.
+TBFG_13026         U-GCGAU
+#=GR TBFG_13026 SS >.>>>>.
+TBFG_10751         G-GCGCU
+#=GR TBFG_10751 SS >.>>>>.
+TBFG_11361         G-GAGCU
+#=GR TBFG_11361 SS >.>->>.
+TBFG_13450         G-GGGCU
+#=GR TBFG_13450 SS >.>>>>.
+TBFG_11360         GUGGGCU
+#=GR TBFG_11360 SS >.>>>>.
+TBFG_12229         U-GCGAU
+#=GR TBFG_12229 SS >.>>>>.
+TBFG_12230         U-GCGAU
+#=GR TBFG_12230 SS >.>>>>.
+TBFG_12544         U-GCGAC
+#=GR TBFG_12544 SS >.>>>>.
+TBFG_10483         G-GCGAC
+#=GR TBFG_10483 SS >.>>>>.
+TBFG_12603         U-GCGAU
+#=GR TBFG_12603 SS >.>>>>.
+TBFG_12217         G-GCGAC
+#=GR TBFG_12217 SS >.>->>.
+TBFG_10247         ----GAU
+#=GR TBFG_10247 SS ....>>.
+TBFG_10214         G-GGGCU
+#=GR TBFG_10214 SS >.>>>>.
+TBFG_11253         G-GUUCU
+#=GR TBFG_11253 SS >.>>->.
+TBFG_10213         A-GGGCU
+#=GR TBFG_10213 SS -.>>>>.
+TBFG_10445         G-GCUCC
+#=GR TBFG_10445 SS >.>>>>.
+TBFG_11274         A-ACGCU
+#=GR TBFG_11274 SS >.>>>>.
+TBFG_13589         U-GCGAU
+#=GR TBFG_13589 SS >.>->>.
+TBFG_12623         G-GAGCU
+#=GR TBFG_12623 SS >.>->>.
+TBFG_10581         U-GCG--
+#=GR TBFG_10581 SS >.>>>..
+TBFG_11824         U-GUGCU
+#=GR TBFG_11824 SS >.>>>>.
+TBFG_10446         G-GCUCC
+#=GR TBFG_10446 SS >.>>>>.
+TBFG_13044         G-GGCCU
+#=GR TBFG_13044 SS >.>>->.
+TBFG_11254         G-GUGCC
+#=GR TBFG_11254 SS >.>>->.
+TBFG_12128         G-GGGAU
+#=GR TBFG_12128 SS >.>>>>.
+TBFG_12926         -----CC
+#=GR TBFG_12926 SS .....>.
+TBFG_11263         G-GAGCU
+#=GR TBFG_11263 SS >.>->>.
+TBFG_13737         A-GGGCC
+#=GR TBFG_13737 SS -.>>>>.
+TBFG_11860         U-GCGAU
+#=GR TBFG_11860 SS >.>>>>.
+TBFG_12304         G-GGGCU
+#=GR TBFG_12304 SS >.>>>>.
+TBFG_12276         U-GCGAU
+#=GR TBFG_12276 SS >.>>>>.
+TBFG_12761         G-GCGAU
+#=GR TBFG_12761 SS >.>>>>.
+TBFG_11642         G-GCGAU
+#=GR TBFG_11642 SS >.>>>>.
+TBFG_11643         G-GCGAU
+#=GR TBFG_11643 SS >.>>>>.
+TBFG_12098         U-GCGAU
+#=GR TBFG_12098 SS >.>>>>.
+TBFG_10922         U-GCGAC
+#=GR TBFG_10922 SS >.>>>>.
+TBFG_10235         G-GCGAU
+#=GR TBFG_10235 SS >.>>>>.
+TBFG_10971         G-GGGCU
+#=GR TBFG_10971 SS >.>>>>.
+TBFG_13370         G-GCGAU
+#=GR TBFG_13370 SS >.>>>>.
+TBFG_11357         G-GCGAU
+#=GR TBFG_11357 SS >.>>>>.
+TBFG_13524         G-GCGAU
+#=GR TBFG_13524 SS >.>>>>.
+TBFG_13350         G-GCGAU
+#=GR TBFG_13350 SS >.>>>>.
+TBFG_13612         U-GCGAU
+#=GR TBFG_13612 SS >.>>>>.
+TBFG_10699         U-GUUCU
+#=GR TBFG_10699 SS >.>>>>.
+TBFG_12760         G-GCGAU
+#=GR TBFG_12760 SS >.>>>>.
+TBFG_12809         G-GGGCU
+#=GR TBFG_12809 SS >.>>>>.
+TBFG_11237         G-GCGAU
+#=GR TBFG_11237 SS >.>>>>.
+TBFG_12431         G-GCGAU
+#=GR TBFG_12431 SS >.>>>>.
+TBFG_12278         U-GCGAC
+#=GR TBFG_12278 SS >.>>>>.
+TBFG_13239         G-GCGAU
+#=GR TBFG_13239 SS >.>>>>.
+TBFG_10674         G-GGGCU
+#=GR TBFG_10674 SS >.>>>>.
+TBFG_10765         G-GCGCU
+#=GR TBFG_10765 SS >.>>>>.
+TBFG_10970         G-GGGCU
+#=GR TBFG_10970 SS >.>>>>.
+TBFG_11356         G-GCGAU
+#=GR TBFG_11356 SS >.>>>>.
+TBFG_10236         G-GCGAU
+#=GR TBFG_10236 SS >.>>>>.
+TBFG_10877         G-GGGCU
+#=GR TBFG_10877 SS >.>>>>.
+TBFG_11421         U-GCGAU
+#=GR TBFG_11421 SS >.>>>>.
+TBFG_10384         U-GCGAU
+#=GR TBFG_10384 SS >.>>>>.
+TBFG_13371         G-GCGAU
+#=GR TBFG_13371 SS >.>>>>.
+TBFG_10916         G-GGGCU
+#=GR TBFG_10916 SS >.>>>>.
+TBFG_10580         U-GCGAU
+#=GR TBFG_10580 SS >.>>>>.
+TBFG_11116         U-GCGAU
+#=GR TBFG_11116 SS >.>>>>.
+TBFG_13351         G-GCGAU
+#=GR TBFG_13351 SS >.>>>>.
+TBFG_10655         G-GGGCU
+#=GR TBFG_10655 SS >.>>>>.
+TBFG_11097         G-GGGCU
+#=GR TBFG_11097 SS >.>->>.
+TBFG_13078         G-GCGAU
+#=GR TBFG_13078 SS >.>>>>.
+TBFG_13006         G-GCGAU
+#=GR TBFG_13006 SS >.>>>>.
+TBFG_13238         G-GCGAU
+#=GR TBFG_13238 SS >.>>>>.
+TBFG_11422         U-GCGAU
+#=GR TBFG_11422 SS >.>>>>.
+TBFG_13277         G-GCGAU
+#=GR TBFG_13277 SS >.>>>>.
+TBFG_11503         U-CAGAU
+#=GR TBFG_11503 SS >.>>>>.
+TBFG_10915         G-GGGCU
+#=GR TBFG_10915 SS >.>>>>.
+TBFG_12877         U-GUUCU
+#=GR TBFG_12877 SS >.>>>>.
+TBFG_12778         U-GCGAU
+#=GR TBFG_12778 SS >.>>>>.
+TBFG_10654         G-GGGCU
+#=GR TBFG_10654 SS >.>>>>.
+TBFG_11031         G-GGGAU
+#=GR TBFG_11031 SS >.>>>>.
+TBFG_10682         U-GCGAU
+#=GR TBFG_10682 SS >.>>>>.
+TBFG_10200         G-GCGAU
+#=GR TBFG_10200 SS >.>>>>.
+TBFG_12430         G-GCGAU
+#=GR TBFG_12430 SS >.>>>>.
+TBFG_10878         G-GGGCU
+#=GR TBFG_10878 SS >.>>>>.
+TBFG_10737         G-GGGCU
+#=GR TBFG_10737 SS >.>>>>.
+TBFG_12602         U-GCGAU
+#=GR TBFG_12602 SS >.>>>>.
+TBFG_11244         G-GCGAU
+#=GR TBFG_11244 SS >.>>>>.
+TBFG_13828         G-GGGCU
+#=GR TBFG_13828 SS >.>->>.
+TBFG_13611         U-GCGAU
+#=GR TBFG_13611 SS >.>>>>.
+TBFG_12277         U-GCGAC
+#=GR TBFG_12277 SS >.>>>>.
+TBFG_13838         C-UAGAU
+#=GR TBFG_13838 SS >.>>>>.
+#=GC SS_cons       >.>>>>:
+#=GC RF            U.GcGAU
+//

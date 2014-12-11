@@ -1,0 +1,836 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS THA_366  WT 0.71
+#=GS THA_230  WT 1.27
+#=GS THA_747  WT 1.60
+#=GS THA_1104 WT 0.95
+#=GS THA_111  WT 0.94
+#=GS THA_357  WT 1.05
+#=GS THA_1443 WT 0.65
+#=GS THA_110  WT 0.94
+#=GS THA_30   WT 1.22
+#=GS THA_1038 WT 0.82
+#=GS THA_923  WT 0.65
+#=GS THA_1494 WT 0.82
+#=GS THA_1630 WT 0.76
+#=GS THA_329  WT 0.80
+#=GS THA_330  WT 0.80
+#=GS THA_358  WT 1.07
+#=GS THA_367  WT 1.32
+#=GS THA_283  WT 0.90
+#=GS THA_1273 WT 1.01
+#=GS THA_689  WT 1.22
+#=GS THA_1289 WT 1.12
+#=GS THA_286  WT 0.92
+#=GS THA_1024 WT 0.68
+#=GS THA_1350 WT 1.06
+#=GS THA_1486 WT 0.92
+#=GS THA_683  WT 1.01
+#=GS THA_1796 WT 0.84
+#=GS THA_293  WT 0.84
+#=GS THA_1500 WT 0.79
+#=GS THA_1493 WT 1.04
+#=GS THA_490  WT 0.94
+#=GS THA_1471 WT 0.99
+#=GS THA_924  WT 0.77
+#=GS THA_1184 WT 1.14
+#=GS THA_1391 WT 0.65
+#=GS THA_17   WT 0.84
+#=GS THA_549  WT 0.68
+#=GS THA_151  WT 1.06
+#=GS THA_1392 WT 0.65
+#=GS THA_406  WT 1.02
+#=GS THA_1336 WT 0.98
+#=GS THA_928  WT 1.12
+#=GS THA_1431 WT 0.85
+#=GS THA_1648 WT 0.94
+#=GS THA_1110 WT 0.94
+#=GS THA_1164 WT 0.95
+#=GS THA_1943 WT 0.85
+#=GS THA_1547 WT 0.83
+#=GS THA_190  WT 0.71
+#=GS THA_307  WT 1.09
+#=GS THA_1335 WT 1.34
+#=GS THA_612  WT 1.04
+#=GS THA_830  WT 0.96
+#=GS THA_1554 WT 0.93
+#=GS THA_1440 WT 0.80
+#=GS THA_269  WT 1.03
+#=GS THA_292  WT 0.84
+#=GS THA_1524 WT 1.06
+#=GS THA_990  WT 0.78
+#=GS THA_1432 WT 0.85
+#=GS THA_277  WT 0.73
+#=GS THA_824  WT 0.71
+#=GS THA_740  WT 1.13
+#=GS THA_1659 WT 0.97
+#=GS THA_808  WT 1.28
+#=GS THA_1123 WT 0.83
+#=GS THA_70   WT 0.99
+#=GS THA_1582 WT 1.00
+#=GS THA_593  WT 0.65
+#=GS THA_1984 WT 1.00
+#=GS THA_1846 WT 1.14
+#=GS THA_141  WT 0.49
+#=GS THA_1106 WT 0.94
+#=GS THA_1344 WT 1.02
+#=GS THA_894  WT 1.18
+#=GS THA_1553 WT 0.90
+#=GS THA_1581 WT 1.17
+#=GS THA_1029 WT 1.39
+#=GS THA_53   WT 0.71
+#=GS THA_1023 WT 0.68
+#=GS THA_674  WT 0.98
+#=GS THA_1781 WT 0.98
+#=GS THA_630  WT 0.96
+#=GS THA_245  WT 1.00
+#=GS THA_1771 WT 0.70
+#=GS THA_1302 WT 0.86
+#=GS THA_1598 WT 1.52
+#=GS THA_1914 WT 1.02
+#=GS THA_551  WT 1.17
+#=GS THA_1009 WT 0.96
+#=GS THA_1560 WT 0.75
+#=GS THA_981  WT 0.94
+#=GS THA_189  WT 0.83
+#=GS THA_1252 WT 1.22
+#=GS THA_1021 WT 1.17
+#=GS THA_575  WT 1.06
+#=GS THA_1090 WT 1.13
+#=GS THA_489  WT 1.05
+#=GS THA_1015 WT 1.10
+#=GS THA_1118 WT 0.63
+#=GS THA_513  WT 0.77
+#=GS THA_1    WT 1.60
+#=GS THA_722  WT 0.95
+#=GS THA_385  WT 0.58
+#=GS THA_825  WT 0.71
+#=GS THA_71   WT 0.94
+#=GS THA_142  WT 0.49
+#=GS THA_38   WT 1.18
+#=GS THA_431  WT 0.65
+#=GS THA_231  WT 1.21
+#=GS THA_1841 WT 1.08
+#=GS THA_1122 WT 0.83
+#=GS THA_1290 WT 1.07
+#=GS THA_592  WT 0.65
+#=GS THA_405  WT 0.79
+#=GS THA_1501 WT 0.79
+#=GS THA_550  WT 0.90
+#=GS THA_833  WT 0.93
+#=GS THA_93   WT 1.01
+#=GS THA_1470 WT 1.12
+#=GS THA_1533 WT 1.51
+#=GS THA_537  WT 0.93
+#=GS THA_512  WT 0.77
+#=GS THA_152  WT 1.06
+#=GS THA_1008 WT 0.83
+#=GS THA_982  WT 0.96
+#=GS THA_73   WT 1.29
+#=GS THA_983  WT 0.78
+#=GS THA_18   WT 0.84
+#=GS THA_1869 WT 1.19
+#=GS THA_1100 WT 0.87
+#=GS THA_54   WT 0.71
+#=GS THA_225  WT 1.32
+#=GS THA_1942 WT 0.85
+#=GS THA_254  WT 1.03
+#=GS THA_92   WT 1.04
+#=GS THA_1311 WT 1.50
+#=GS THA_430  WT 0.65
+#=GS THA_956  WT 1.00
+#=GS THA_848  WT 1.19
+#=GS THA_345  WT 0.93
+#=GS THA_1174 WT 1.00
+#=GS THA_1682 WT 1.24
+#=GS THA_276  WT 0.73
+#=GS THA_919  WT 1.01
+#=GS THA_527  WT 0.77
+#=GS THA_1590 WT 0.67
+#=GS THA_1548 WT 0.75
+#=GS THA_1912 WT 1.04
+#=GS THA_945  WT 1.17
+#=GS THA_1016 WT 0.94
+#=GS THA_548  WT 1.09
+#=GS THA_1288 WT 0.76
+#=GS THA_493  WT 1.36
+#=GS THA_374  WT 1.10
+#=GS THA_571  WT 0.92
+#=GS THA_35   WT 0.96
+#=GS THA_713  WT 1.30
+#=GS THA_1287 WT 0.76
+#=GS THA_130  WT 1.00
+#=GS THA_517  WT 0.84
+#=GS THA_393  WT 0.96
+#=GS THA_66   WT 1.03
+#=GS THA_384  WT 0.58
+#=GS THA_518  WT 1.06
+#=GS THA_1037 WT 0.90
+#=GS THA_37   WT 1.44
+#=GS THA_1772 WT 1.25
+#=GS THA_711  WT 0.90
+#=GS THA_952  WT 1.04
+#=GS THA_1343 WT 1.16
+#=GS THA_1117 WT 0.63
+#=GS THA_1346 WT 1.49
+#=GS THA_505  WT 1.22
+#=GS THA_734  WT 1.11
+#=GS THA_1762 WT 1.19
+#=GS THA_22   WT 1.49
+#=GS THA_1612 WT 1.51
+#=GS THA_832  WT 0.93
+#=GS THA_29   WT 0.83
+#=GS THA_817  WT 1.00
+#=GS THA_682  WT 1.16
+#=GS THA_829  WT 0.96
+#=GS THA_371  WT 1.04
+#=GS THA_1399 WT 1.06
+#=GS THA_1591 WT 0.67
+#=GS THA_1482 WT 1.00
+#=GS THA_397  WT 1.36
+#=GS THA_1017 WT 1.00
+#=GS THA_621  WT 1.05
+#=GS THA_1054 WT 0.77
+#=GS THA_907  WT 1.21
+#=GS THA_615  WT 1.20
+#=GS THA_554  WT 1.12
+#=GS THA_379  WT 1.00
+#=GS THA_1086 WT 1.33
+#=GS THA_834  WT 0.96
+#=GS THA_279  WT 1.03
+#=GS THA_1759 WT 1.04
+#=GS THA_1725 WT 1.10
+#=GS THA_58   WT 0.75
+#=GS THA_874  WT 0.87
+#=GS THA_1660 WT 1.06
+#=GS THA_657  WT 1.31
+#=GS THA_1384 WT 1.07
+#=GS THA_2015 WT 1.62
+#=GS THA_691  WT 0.70
+#=GS THA_582  WT 0.86
+#=GS THA_1295 WT 1.51
+#=GS THA_1965 WT 1.03
+#=GS THA_1304 WT 1.12
+#=GS THA_699  WT 1.16
+#=GS THA_1027 WT 0.64
+#=GS THA_1393 WT 1.05
+#=GS THA_675  WT 0.93
+#=GS THA_1180 WT 1.22
+#=GS THA_1053 WT 0.77
+#=GS THA_2006 WT 0.94
+#=GS THA_620  WT 0.93
+#=GS THA_1362 WT 0.57
+#=GS THA_939  WT 0.86
+#=GS THA_1140 WT 1.27
+#=GS THA_64   WT 1.07
+#=GS THA_1583 WT 0.93
+#=GS THA_21   WT 1.05
+#=GS THA_1698 WT 1.45
+#=GS THA_1363 WT 0.57
+#=GS THA_1531 WT 1.43
+#=GS THA_1845 WT 1.33
+#=GS THA_1699 WT 1.31
+#=GS THA_647  WT 1.16
+#=GS THA_1944 WT 1.13
+#=GS THA_1539 WT 0.93
+#=GS THA_1158 WT 0.82
+#=GS THA_404  WT 0.68
+#=GS THA_1919 WT 0.98
+#=GS THA_766  WT 0.87
+#=GS THA_198  WT 1.24
+#=GS THA_875  WT 1.23
+#=GS THA_1028 WT 0.64
+#=GS THA_57   WT 0.75
+#=GS THA_1929 WT 1.00
+#=GS THA_646  WT 1.04
+#=GS THA_648  WT 1.45
+#=GS THA_471  WT 1.09
+#=GS THA_153  WT 0.99
+#=GS THA_1703 WT 1.07
+#=GS THA_1309 WT 1.12
+#=GS THA_810  WT 0.96
+#=GS THA_375  WT 1.21
+#=GS THA_1671 WT 1.29
+#=GS THA_1403 WT 1.20
+#=GS THA_664  WT 1.32
+#=GS THA_1605 WT 0.98
+#=GS THA_1249 WT 1.28
+#=GS THA_126  WT 1.20
+#=GS THA_896  WT 1.25
+#=GS THA_1594 WT 1.29
+#=GS THA_1997 WT 1.09
+#=GS THA_1607 WT 1.24
+#=GS THA_1770 WT 0.77
+#=GS THA_583  WT 0.86
+#=GS THA_608  WT 0.83
+#=GS THA_560  WT 1.01
+#=GS THA_1655 WT 1.28
+#=GS THA_944  WT 0.82
+#=GS THA_611  WT 0.97
+#=GS THA_145  WT 0.95
+#=GS THA_1012 WT 1.28
+#=GS THA_842  WT 1.36
+#=GS THA_253  WT 1.01
+#=GS THA_1107 WT 0.87
+#=GS THA_280  WT 0.98
+#=GS THA_1159 WT 1.14
+#=GS THA_227  WT 1.02
+
+THA_366      AAAUG--GCUU---UGGUAA-AC---------------------------
+THA_230      AAGUC--CCUC---UUCUU-GAAAAACCAAC------------UAAAAUC
+THA_747      AAGGG--CUAC---ACCUCAGUAAAAUUUGUAUGUGAACAAAUCUACAAG
+THA_1104     ----U--GGCU---CCCA-A-AA---------------------------
+THA_111      ACAUG--GCUU---UGAGUUUUA---------------------------
+THA_357      AAAAA--GCCC---GGUCUUUUU---------------------------
+THA_1443     AAAAC--CCGU---UUCUA-GUUAAU----------------------UC
+THA_110      AACAU--GGCU---UUGAGUUAAA-------------------------A
+THA_30       AUAGC--AUCU---CACCAGUAA---------------------------
+THA_1038     AAAAC--GGGG---CUUCUAAAU---------------------------
+THA_923      AAAAC--CCGU---UUCUA-GUUUU-----------------------GC
+THA_1494     AAAAC--CUCC---GAAGGA-AA---------------------------
+THA_1630     AAAAU--GAGG---CGCA-ACUA---------------------------
+THA_329      AACAU--GACC---CUGAAAAAU---------------------------
+THA_330      AACAU--GACC---CUGAAUUUU---------------------------
+THA_358      AAAAG--CCCG---GUCA-A-AA---------------------------
+THA_367      GAAUG--CUCC---AUUCU-UGUCAUAG------------------UGCA
+THA_283      --AAG--CUCC---AGCUU-UAA---------------------------
+THA_1273     UAAAA--GAGG---G--UAAUAA---------------------------
+THA_689      AAAAG--UCCU---CGGAU-GUUGUACAA---------------UAUAAU
+THA_1289     AAUAA--GCCA---UGGACA------------------------------
+THA_286      AAAGU--GGCU---UUGGUU------------------------------
+THA_1024     AAAUA--AUGG---CUCC-ACAA---------------------------
+THA_1350     AACUU--AAGU---GGGCCUACC---------------------------
+THA_1486     AAAGU--CGCU---AUGGGAUAU---------------------------
+THA_683      AACAU--GACC---UGCAACUAU---------------------------
+THA_1796     AAAAC--AUGG---CUUCAAUUUGU------------------------U
+THA_293      AACAA--CCGA---AGGCAA-AU---------------------------
+THA_1500     AAGAC--UUCU---GAGAUAACUUAA----------------------AU
+THA_1493     UAAAC--CUCC---GAAGU-UUC---------------------------
+THA_490      AAAUA--ACCC---CCAAGAUGAUUAA-------------------AAUU
+THA_1471     UAAGG--CUCC---AUUUCAAAU---------------------------
+THA_924      AAAAC--CCGU---UUCUA-GCAAA-----------------------AC
+THA_1184     ACACA--GUCC---CCCCUCUAAACU----------------------UG
+THA_1391     AAAAU--GGAG---CGCA--UUU---------------------------
+THA_17       AAAAA--CCUC---GCCAAA-AA---------------------------
+THA_549      AAAGC--CCCC---UUCAUAAAU---------------------------
+THA_151      AGGAU--AUCC---CAAGUCUAA---------------------------
+THA_1392     AAAAU--GGAG---CGCA-A-AA---------------------------
+THA_406      AGCAU--GGCU---UCGC-AUCC---------------------------
+THA_1336     ACAAG--GAGC---C-----UUA---------------------------
+THA_928      UUAAG--GUUC---CAGCAA-GC---------------------------
+THA_1431     AAGAA--GGCU---CCGA-AUUU---------------------------
+THA_1648     AAAUA--CCCU---CUAGGAGAA---------------------------
+THA_1110     AAAGC--CCCU---CUUCUAUUUUAAAA------------------GAAU
+THA_1164     UAAAA--GCGG---CCUA--UGA---------------------------
+THA_1943     UCCCC--AUCU---UUCA--UAA---------------------------
+THA_1547     AAAAU--CCCC---GGUUU-UAA---------------------------
+THA_190      AAAUG--GCUU---UGGGUAAAC---------------------------
+THA_307      AAUAA--AGGC---UCCA--UAU---------------------------
+THA_1335     ACAAG--GA-----GCCUU-GUA---------------------------
+THA_612      AAAAU--GGCC--G-----UUUA---------------------------
+THA_830      AAUAA--AGCG---GGCAU-UUU---------------------------
+THA_1554     AAAAC--GCCC---ACUU-U------------------------------
+THA_1440     --AUC--CCCA---AGCAAAAUU---------------------------
+THA_269      AAAUU--CCCC---GGAA-ACUU---------------------------
+THA_292      AACAA--CCGA---AGGC-AUUU---------------------------
+THA_1524     AAUUU--AAGC---GGCCUUUUC---------------------------
+THA_990      AUCUC--CCCA---UCCUAAUAAU-------------------------C
+THA_1432     AAGAA--GGCU---CCGAAA-AU---------------------------
+THA_277      AAAAU--GCCU---GAUC-AUAU---------------------------
+THA_824      AAAAU--GAGG---CACCAA-AU---------------------------
+THA_740      AAAAA--CAUG---GCUCUAGAC---------------------------
+THA_1659     AAAUC--AAGC---CUCCAAUUU---------------------------
+THA_808      AGCCC--CCCG---AUAGUAAAA---------------------------
+THA_1123     AAGAA--CUCC---CCUUU-UCU---------------------------
+THA_70       --AUU--GCCG---AGCU-AUUU---------------------------
+THA_1582     AUAAA--GUGC---CUGG-AUAU---------------------------
+THA_593      AAAAG--CAGC---CGCACA------------------------------
+THA_1984     AUUCU--CCCC---CUUUGAUAUAU------------------------A
+THA_1846     AAAUC--UCUG---CCCCCA------------------------------
+THA_141      AAAGU--GCCU---CUUU--UUA---------------------------
+THA_1106     AAAUU--CCCC---AUCCUAGCU---------------------------
+THA_1344     AUAAC--CCCC---CUCAAAAAU---------------------------
+THA_894      --GAG--GGGA---AGGC-ACAC---------------------------
+THA_1553     AAAAA--CGCC---CACU--UAA---------------------------
+THA_1581     UAAAG--UGCC---UGGAUA------------------------------
+THA_1029     AAGCU--ACAC---UUUUUCAUU---------------------------
+THA_53       AAAAA--GCCU---GGCAUC------------------------------
+THA_1023     AAAUA--AUGG---CUCCU-UGU---------------------------
+THA_674      AAAAG--GCGC--A-----AUGC---------------------------
+THA_1781     A--AA--GGUU---CUCUU-UAA---------------------------
+THA_630      AAAUC--UCCC---UUUCAACUU---------------------------
+THA_245      AAAAG--GGGC---UGAAG-UUU---------------------------
+THA_1771     AAAAG--GUGA---GGCUAUUUA---------------------------
+THA_1302     AAAAG--AGGG---UUGGAA-AU---------------------------
+THA_1598     UCCAA--GUAG--U-UUAAACUU---------------------------
+THA_1914     UUAAG--GCCC---CUUA-A-AC---------------------------
+THA_551      AAGUA--GGGC---GCACUU------------------------------
+THA_1009     AAAUG--GC-----UCGGAA-UA---------------------------
+THA_1560     AAAAU--CCCC---CGAA--UUU---------------------------
+THA_981      AAAUA--AGAG---GGUAAA-UU---------------------------
+THA_189      AAAUG--GCUU---UGGGGUUUA---------------------------
+THA_1252     AUACC--CUUG---CGCAUACAA---------------------------
+THA_1021     AAGUA--UCCC---GCCCCUUGC---------------------------
+THA_575      --AUG--GCUU---CGGAC-UCU---------------------------
+THA_1090     AAUAA--AGGC---GACUUCCAA---------------------------
+THA_489      AAUAA--CCCC---CAAGAAUUUUAA---------------------UCA
+THA_1015     AAUUG--CCGG---GCAUUUUAA---------------------------
+THA_1118     AAAAG--AGAG---AGGGAA-CC---------------------------
+THA_513      AUAAA--GCGU---GGCG--UAA---------------------------
+THA_1        AUCGC--CUCC---UGAUAAUAUAUAAUUAACC--------ACACACAAA
+THA_722      AAAAA--GGUG---CCCCAA-GA---------------------------
+THA_385      --AGG--CCUC---AUCAAAUAU---------------------------
+THA_825      --AAU--GAGG---CACC-AUUU---------------------------
+THA_71       AUAAA--CC-----GGCUU-UUU---------------------------
+THA_142      AAAGU--GCCU---CUUU--UAA---------------------------
+THA_38       UAGGC--UAAU---AGGG-AUUU---------------------------
+THA_431      --AAG--CCCU---AUGGAAUUU---------------------------
+THA_231      AAGAG--GA-----UAGCUCUUU---------------------------
+THA_1841     GAAUC--CCGG---GAUUUA-AA---------------------------
+THA_1122     AAGAA--CUCC---CCUU-AGAA---------------------------
+THA_1290     AAUCC--CCUU---CCUUUAAAU---------------------------
+THA_592      AAAAG--CAGC---CGCAUG------------------------------
+THA_405      AAAGC--CCCC--A-----AAAC---------------------------
+THA_1501     AAGAC--UUCU---GAGAUAUUUAAG----------------------UU
+THA_550      AAGCC--CCCU---UCAA-AUUU---------------------------
+THA_833      AAAUG--AAGG---UGCUU-UCA---------------------------
+THA_93       AAACU--CCAC---CCAUUA-AAGU------------------------U
+THA_1470     AGUAA--AUUC---CCCGCAUUG---------------------------
+THA_1533     ---CC--GUUU---CUAGUAUAAAAG---------------------UUG
+THA_537      AAGUU--CCCU---CCACAA-AC---------------------------
+THA_512      ACAAA--GCGU---GGCG--UUA---------------------------
+THA_152      AGGAU--AUCC---CAAGG-UUAG--------------------------
+THA_1008     AAAUG--GC-----UCGGUA-UU---------------------------
+THA_982      AGCUC--CCCU---GCCUU-UUU---------------------------
+THA_73       AUAAC--UUGU---AUAUUCUAU---------------------------
+THA_983      AGCUC--CCCU---ACCUAA-AA---------------------------
+THA_18       UAAAA--CCUC---GCCAU-UUU---------------------------
+THA_1869     UGGAG--CCUU---UUGGUAUUA---------------------------
+THA_1100     AAAAG--GCGG---UCAGUAAAA---------------------------
+THA_54       AAAAA--GCCU---GGCUGA------------------------------
+THA_225      UUAAA--GGCC---GGGA--UUU---------------------------
+THA_1942     UCCCC--AUCU---CUCA--UUA---------------------------
+THA_254      AAGAC--UGGA---AGGA--UCA---------------------------
+THA_92       UAUAC--CCCC---UGAUUAGUAUUAA--------------------UUU
+THA_1311     ---CG--UGGC---AGUAA-AAA---------------------------
+THA_430      UUAAG--CCCU---AUGGAAAUU---------------------------
+THA_956      AAAUC--CCCU---UCUUUUUCU---------------------------
+THA_848      UUCCC--ACCU---UACUAACAAAA-----------------------UA
+THA_345      AAAAC--CUCC---ACGCAAUUA---------------------------
+THA_1174     AAGCC--CCCU---CGUAGAGAA---------------------------
+THA_1682     ACCCC--AAGG---GUGAAA-UA---------------------------
+THA_276      AAAAU--GCCU---GACC-AUAU---------------------------
+THA_919      UAAUA--CCGC---UCUUUA------------------------------
+THA_527      AAAUU--GCCC---C-----UUA---------------------------
+THA_1590     --AUC--CCCC---AGCUAA-UU---------------------------
+THA_1548     AAAAU--CCCC---GGUGU-UAA---------------------------
+THA_1912     UAAAA--CCAG---CACU-C------------------------------
+THA_945      ----G--AACC---UCCA--GUU---------------------------
+THA_1016     AUUUU--CCCC---CUCCUA-AUG--------------------------
+THA_548      AAUAA--AUCC---CGCA-AGAA---------------------------
+THA_1288     AACUA--GCGC---CCCC--UUA---------------------------
+THA_493      CCCAG--UUUC---UAGUAAGUAAAU----------------------UG
+THA_374      ----A--GUGC---CGGU-AUUA---------------------------
+THA_571      AUAAU--GCGU---GGGCAAGUU---------------------------
+THA_35       AAAAA--AUGU---GGGGGAAGU---------------------------
+THA_713      UUUAA--GCCU---CGGG--UUU---------------------------
+THA_1287     AACUA--GCGC---C-----UAA---------------------------
+THA_130      AAAAG--GUGC---CUGUAAAAU---------------------------
+THA_517      AAAAA--GUGG---CUUCCAUUUUUU---------------------UUA
+THA_393      AUAGG--GCCC--U-----UUUU---------------------------
+THA_66       UAUAA--UGGG---AGGAG-UUA---------------------------
+THA_384      ACAGG--CCUC---AUCAUAUAU---------------------------
+THA_518      UAAAA--GCAA---GGCG--UCA---------------------------
+THA_1037     AAGCC--ACCC--A-----AUUU---------------------------
+THA_37       AGGCU--AAUA---GGGAAA------------------------------
+THA_1772     --AUU--CAUC---CUCAUA-AA---------------------------
+THA_711      AGAAU--GUGG---CUCCAAGUA---------------------------
+THA_952      AGAUA--UCGG---GGAG-AUUU---------------------------
+THA_1343     AAAUC--AGCA---GUCUU-UUU---------------------------
+THA_1117     AAAAG--AGAG---AGGGG-GUU---------------------------
+THA_1346     AACCC--CGUA---CACAG-UGU---------------------------
+THA_505      AAAAA--CACC---CCCGGAAGUGAUAAAAUA----------UAACUAUC
+THA_734      ACAAA--UCGG---GACUU-UCA---------------------------
+THA_1762     --AGC--CCCA---UUCCUAAAUCU-----------------------GC
+THA_22       AAUGC--AAUA---UAAGG-UAA---------------------------
+THA_1612     ----G--GCUG---GUGCU-UUU---------------------------
+THA_832      AAAUG--AAGG---UGCUU-GAA---------------------------
+THA_29       AAAAU--CACC---CUUUU-UUA---------------------------
+THA_817      AAAGG--AG-----GGUGCA------------------------------
+THA_682      AAACA--UGAC---CUACGA-UAG-------------------------U
+THA_829      AAUAA--AGCG---GGCGAA-AA---------------------------
+THA_371      AAGUG--CCCU---GAAAGAAAC---------------------------
+THA_1399     UAGCA--CCUC---C--AAAUAA---------------------------
+THA_1591     AAAUC--CCCC---AGCAAA-UU---------------------------
+THA_1482     AGAAU--GGCU---UUGGUA-AU---------------------------
+THA_397      UCCAC--GUUA---UGCCU-UCAC-------------------------A
+THA_1017     AACUA--GUCC---CCUCAAGGAG--------------------------
+THA_621      AAAGA--GUGA---UGCGAA------------------------------
+THA_1054     ----U--GCGU---CCCAGC------------------------------
+THA_907      AAUUG--GACA---UACC-AGAC---------------------------
+THA_615      GGAAA--UUCC---UGUA-A-AA---------------------------
+THA_554      AAAAU--UCCC---CAGA--CAU---------------------------
+THA_379      AAAAG--AGCU---GGAGUUUAU---------------------------
+THA_1086     UAAAG--GAAU---UCCC-ACCU---------------------------
+THA_834      AAAAA--AGGU---GGCGG-GAG---------------------------
+THA_279      AAAAU--GGGG---AGGUGAAAU---------------------------
+THA_1759     AAAAG--CCCCUUU------AUC---------------------------
+THA_1725     AAUAU--UAGG---GGCUUUGAU---------------------------
+THA_58       AAAAG--CCCC---AUCCUAUUUAU-----------------------AU
+THA_874      AAAAG--GC-----CGCAAA-AA---------------------------
+THA_1660     ACAUG--GUUU---CGGUAUUCC---------------------------
+THA_657      ---UG--GCAC---GCUAA-AGC---------------------------
+THA_1384     --AAG--GCAG---GUGU-A------------------------------
+THA_2015     ----C--CGUG---ACUUC-UAU---------------------------
+THA_691      AAAAA--GUGA---AGCUU-UGA---------------------------
+THA_582      AAUCA--GCCC---CCAU--UUA---------------------------
+THA_1295     --GCC--CCAU---GUGCU-CUA---------------------------
+THA_1965     GAAUU--GCGG---GGGGGAACU---------------------------
+THA_1304     AAGAA--AUUC---UCUCAAGCG---------------------------
+THA_699      AAAAG--UCCA---GGUUAA------------------------------
+THA_1027     GAAAC--CCCC--A-----AAUU---------------------------
+THA_1393     ACAAG--GUCC---UAGUUAAAA---------------------------
+THA_675      AAAAG--GCGCG-C------AUU---------------------------
+THA_1180     GAAAG--CUAG---UGGCUCUGA---------------------------
+THA_1053     AGAAU--GCGU---CCCAGC------------------------------
+THA_2006     ACGUG--ACUU--C------UAU---------------------------
+THA_620      AAAAG--GGUG---AUGC-AUUC---------------------------
+THA_1362     AAUUA--AAGG---GGGAAA-AU---------------------------
+THA_939      AACAA--ACGG---GGCA--UCU---------------------------
+THA_1140     GAAUA--AUUUAUG-----A-AA---------------------------
+THA_64       AA-CU--CCUU---GAGU-AUAU---------------------------
+THA_1583     AAAGA--GCCA---ACUU--UUA---------------------------
+THA_21       AAAAC--UGCC---AAGCAA-UC---------------------------
+THA_1698     UAAAG--CCCU---CAAAGAUUAUGAAAA---------------ACAAUA
+THA_1363     AAUUA--AAGG---GGGA-AUUU---------------------------
+THA_1531     UGGGC--GCGUG-A-GGUG-UUA---------------------------
+THA_1845     AAAAU--CUCU---GCCCC-UGG---------------------------
+THA_1699     --AAA--GCCC---CCAAAAUAUUGUUUUU-------------CAUAAUC
+THA_647      ---UC--AGUA--A------UUU---------------------------
+THA_1944     GAAAA--GUUG---GCUAG-UUU---------------------------
+THA_1539     AACUA--GC----------A------------------------------
+THA_1158     AAAAU--GGGG--A-----AGCU---------------------------
+THA_404      AAAGC--CCCC--G-----UUUU---------------------------
+THA_1919     UAAAAUUGGCG---CUCGU-UUU---------------------------
+THA_766      UUGAG--CAUC---C----A-AU---------------------------
+THA_198      AUUUG--AGGG---C-----UUU---------------------------
+THA_875      ---GA--GAGG---AGGAUAAUC---------------------------
+THA_1028     AAAAC--CCCC--A-----AUUU---------------------------
+THA_57       CAAAA--CCCC---AUCCAAUAUAA-----------------------AU
+THA_1929     UGAUC--CUCU---ACUAAA-UU---------------------------
+THA_646      AUAAA--UGGG---GGAA-AUAG---------------------------
+THA_648      AAUUC--CUUA---GGGGAAGCUU--------------------------
+THA_471      AAAGG--AUGC--A-----AAUA---------------------------
+THA_153      UAAGG--CUCC---AAUUUAAUA---------------------------
+THA_1703     A------CCCC---AUCCUCAAU---------------------------
+THA_1309     AAAUUUUACCG---CACA--UAU---------------------------
+THA_810      AUAUG--GCUC---UUGCUUAAU---------------------------
+THA_375      ----G--GGGG--CAUUACAUUUUU-----------------------UC
+THA_1671     AUUAC--AGGG---GCCGUA------------------------------
+THA_1403     ----U--GGAU---GGACAAGUC---------------------------
+THA_664      --UAG--GGCC--G------GAA---------------------------
+THA_1605     AGAAC--UAGG---GGGU--GAG---------------------------
+THA_1249     AA--G--CCAA---GUUAUAAAUU--------------------------
+THA_126      AUAAA--UUCUU-U------AAA---------------------------
+THA_896      ----G--CGGC---UUUGAAGUU---------------------------
+THA_1594     AAAUC--CCAU---AUACCUUGA---------------------------
+THA_1997     AAAGG--AGUC--U------UUA---------------------------
+THA_1607     AAAUG--GGGG---C-----UCU---------------------------
+THA_1770     AAAAA--GUGA---GGCUUAAAU---------------------------
+THA_583      AA--A--GCCC---CCAU--UAA---------------------------
+THA_608      ---AU--CCCCC-G-----A-AA---------------------------
+THA_560      ----G--CGGGUUC-----AAAU---------------------------
+THA_1655     ----G--CACCA-G-----AUUU---------------------------
+THA_944      AGAAC--CUCC--A-----AACU---------------------------
+THA_611      AA--C--CCCC---GGAUGUUAAUUA---------------------AAA
+THA_145      ----U--GCGG---CCCA--UUA---------------------------
+THA_1012     --CAC--UGCU--A-GUU-A-UU---------------------------
+THA_842      AUAGG--GGGA--A-----AUUA---------------------------
+THA_253      ----G--CCGGUGA-----AAGU---------------------------
+THA_1107     ----C--CAUC---C----A-AG---------------------------
+THA_280      ----G--UAGG--U-GGAU-UAG---------------------------
+THA_1159     AAAAC--UCUC---CGCA-A-AA---------------------------
+THA_227      ----U--GG-----GGGC-AUCC---------------------------
+#=GC SS_cons <<<<<..<<<<...<<<<_____...........................
+#=GC RF      AAAAg..gccc...cgcauAUau...........................
+
+THA_366      -AC---CAAAGCCAU---UU-UU----UAAUAUAAACAUC
+THA_230      AAG---AAGAGGGAU---UUU-------------------
+THA_747      GAG---GUGUAGCCC---AUG-------------------
+THA_1104     -UG---GGAGCCA--------UU-----UUUAAUAGUAAA
+THA_111      ACU---CAAAGCCAU---GUU-------AAUUUAAUUUUA
+THA_357      -GA---CCGGGCUUU---UA-UU-----AUUUUUAAUUGC
+THA_1443     UAG---AAACGGGUU---UUA-------------------
+THA_110      CUC---AAAGCCAUG---UU-UU-----UAUUUUACAAAA
+THA_30       -GG---UGAGAUGCU---AU--------UUUUUUAGGAAA
+THA_1038     AGA---AGUCCCGUU---UU-UU----UUUUUUUAUAAUU
+THA_923      UAG---AAACGGGUU---UU-UU-----UAUUUAAUUUUU
+THA_1494     -CU---UCGGAGGUU---UA-UU-----UUUUUAUAUAUC
+THA_1630     -UG---CGCCUCAUU---UUU-------------------
+THA_329      -UC---AGGGUCAUG---UU-UU-----UUUUUACUUUAC
+THA_330      -UC---AGGGUCAUG---UU-UU-----UAUUGCAUAAUU
+THA_358      -AG---ACCGGGCUU---UU-UU-----CAUAUUAUAAAU
+THA_367      AGA---AUGGAGCAU---UUA-------------------
+THA_283      -AG---CUGGAGCUU------UU-----UUUAUUAACAAU
+THA_1273     AA-----CCCUCUUU---UA-UU----UUUUUAAAUAUGA
+THA_689      AUC---CGAGGACUU---UUU-------------------
+THA_1289     -UC---CAUGGCUUA---UU-UUC--UUCCUUAAACUUUU
+THA_286      -CC---AAAGCCACU---UU-UUG---AUUUCUAAUACAU
+THA_1024     -GG---AGCCAUUAU---UU-UU-----UAUUGAUUUUUC
+THA_1350     -GC---CCACUUAAG---UU-UU-----UUUAGGACAUUA
+THA_1486     UCC---AUAGCGACU---UU-UU-----UUGUUGAUAAUU
+THA_683      -CG---UAGGUCAUG---UUU-------UUUAAUACAAAU
+THA_1796     UGA---AGCCAUGUU---UUU-------------------
+THA_293      -GC---CUUCGGUUG---UU-UUA---UAUUUUUAUCCUC
+THA_1500     AUC---UCAGAAGUC---UUU-------------------
+THA_1493     -CU---UCGGAGGUU---UUC-------UACUUUAUAUAA
+THA_490      CUU---GGGGGUUAU---UU-UU-----UACCAAAUGUUA
+THA_1471     -AA---AUGGAGCCU---UU-UU-----AUUAAGAUUCAC
+THA_924      UAG---AAACGGGUU---UU-UU-----AAUUGCUCUAAA
+THA_1184     AGA---GGGGGCUGU---GU-AU-----UUUUCAAUUAAU
+THA_1391     -UG---CGCUCCAUU---UU--------GUUUACAUAAGA
+THA_17       -UG---GCGAGGUUU---UA-CU-----UUGUUAAUAAUC
+THA_549      UUG---AAGGGGGCU---UGA-------UUUUUUAUAGAC
+THA_151      CCU---UGGGAUAUC---CU-UU-----UUCUCAUUGAAU
+THA_1392     -UG---CGCUCCAUU---UU-UU----ACUCUACACAAAA
+THA_406      -GC---GGAGCCAUG---CU-UUA---UUUAUUAAUGUUA
+THA_1336     -CA---AGGCUCCUU---GU-UU-----UAAUAAAACUAC
+THA_928      -GC---UGGAACCUU---UA-UU-----UAUCGAAAUAAA
+THA_1431     -UC---GGAGCCUUC---UU-UUA---UUAUUCAACUUGU
+THA_1648     ACU---AGAGGGUAU---UU-UU-----UAUGUUAAAAUA
+THA_1110     AGA---AGAGGGACU---UC-UU----UUAUUUUACAAUA
+THA_1164     -UA---GGCCGCUUU---UAA-------UUUUUUGGAAAA
+THA_1943     -UG---AGAGAUGGG---GA-UUUACAUUUUUUCAUUCAA
+THA_1547     -CA---CCGGGGAUU---UU-UUU---GUUUGAUUUUAUA
+THA_190      -CC---CAAAGCCAU---UU-UU-----UAUAUUAAGAAA
+THA_307      -UG---GAGCCUUUA---UU-UU----AUUUGACUGUAAA
+THA_1335     -AG---GC--UCCUU---GUA-------AUUUUUAGUAGA
+THA_612      --------GGCCAUU---UU--------UUUUAACGUAGA
+THA_830      -CG---CCCGCUUUA---UU-CU-----UAUGUUUUAAAA
+THA_1554     -AA---GUGGGCGUU---UUU-------------------
+THA_1440     -UG---CUUGGGGAU------UU-----UUUAUUAUUUGA
+THA_269      -UU---CCGGGGAAU---UU-UU-----UUAUGCUUGAUU
+THA_292      -GC---CUUCGGUUG---UU-UU----UUUUAUAAUUCAA
+THA_1524     -GG---CCGCUUAAA---UU-UU-----UUAGCAAUACGA
+THA_990      AAG---GACGGGGAG---AUU-------------------
+THA_1432     -UC---GGAGCCUUC---UU-AU-----UUUUUCACAAAG
+THA_277      -GG---UCAGGCAUU---UU-UU-----AUAUACUCUUUU
+THA_824      -GG---UGCCUCAUUG-AUU-UU-----UUUCUAACGUUA
+THA_740      -GA---GCCAUGUUU---UU-UUU---AUAUUAAAUUGUA
+THA_1659     UGG---AGGCUUGAU---UU-UUU---AAUUAUUAUUUAA
+THA_808      -CU---AUUGGGGGG---CU-UUG---AUUUAAAAAUAAA
+THA_1123     -AA---GGGGAGUUC---UUA-------AUUAUGAUAAUC
+THA_70       -AG---CUCGGCAAU-------------UUUUAUGCUAAA
+THA_1582     -CC---AGGCACUUU---AU-UU-----AAUCUUUGUAAC
+THA_593      -UG---CGGCUGCUU---UUU-------------------
+THA_1984     AAA---AGGGGGAGUA-AAU-UU-----GUUUUAUUUUAU
+THA_1846     -GG---GGCAGAGAU---UUU-------AUUUUAAUAUUU
+THA_141      -AA---AGAGGCACU---UU-UU-----UUAAUUAUUUUU
+THA_1106     UGG---AUGGGGAAU---UU--------UUUAAAAAUAGG
+THA_1344     -UG---AGGGGGGUU---AU-UU----GUUUGAAAUGCGA
+THA_894      -GC---CUUCUCCUC------UU-----UAUUUUUGUCUG
+THA_1553     -AG---UGGGCGUUU---UG-UU-----UUUAUUAACAUU
+THA_1581     -UC---CAGGCACUU---UA-UU-----AAUUAGAUAUUC
+THA_1029     -AA---AAGUGUAGC---UU-UU-----UUUAUGUAUUUG
+THA_53       -AG---CCAGGCUUU---UUU-------------------
+THA_1023     -GG---AGCCAUUAU---UUU-------------------
+THA_674      --------GCGCCUU---UU-UU-----AACUACAUUUAC
+THA_1781     -AG---AGAACCUUA---AUG-------UUUUUUAUGAUA
+THA_630      UGA---AAGGGAGAU---UU-UU-----UAUUAAAUUAAA
+THA_245      -UU---CAGCCCCUU---UU-UU-----GUUAUAAUUGUA
+THA_1771     -AG---CCUCACUUU---UUG-------------------
+THA_1302     -CC---AACCCUCUU---UUA-------------------
+THA_1598     -UG---A-CUACUUG---GA-UU-----CUUAAAAUGCUA
+THA_1914     -UA---AGGGGCCUU---AAA-------------------
+THA_551      -GA---GCGCCCUAC---UUA-------UUUUUUUGUAGU
+THA_1009     -CC---GA--GCCAU---UU-UUA---CGUUCUAUCAAAA
+THA_1560     -AA---CGGGGGAUU---UUU-------------------
+THA_981      -UA---CCCUCUUAU---UU-UU-----UACUUGACAAAU
+THA_189      -CC---CAAAGCCAU---UU-UU-----UUAAUUACUUUU
+THA_1252     UUG---UGCAGGGUU---AU-UU----UUUAUUCAAGAAA
+THA_1021     -GG---GCGGGAUAU---UUU-------------------
+THA_575      -UC---CGAAGCCAU------UU-----UAUUUUUUUAAU
+THA_1090     -GG---UCGCCUUUA---UU-UUA---CCUCAAAAUGUUU
+THA_489      UCU---UGGGGGUUA---UU-UU-----UUAGAUAUUAAU
+THA_1015     UGU---GCCCGGC-----UU-UU-----UUUUUACUAAAA
+THA_1118     -CC---CUCUCUCUU---UUA-------------------
+THA_513      -CG---CCACGCUUU---GU-UUA---UUUUUUAAUGAAU
+THA_1        AAC---CAGGAGGCG---AUA-------------------
+THA_722      -AG---GGCACCUUU---UU-UUA---AUCUAAUAUUAAA
+THA_385      AUG---AUGAGGCCU-------------------------
+THA_825      -GG---UGCCUCAUU-------------UUUAAAUUCUUA
+THA_71       -AG---CC--GGUUU---UU-UU----GUUUUAUUUGAAA
+THA_142      -AA---AGAGGCACU---UUU-------------------
+THA_38       -CC---CUAUUAGCC---UU-AUU---CUUUAUUACUUAU
+THA_431      -CC---AUAGGGCUU-------------------------
+THA_231      -GC---UA--UCCUC---UUG-------------------
+THA_1841     -UA---UCCCGGGAU---UU-UU-----AUUUAAACAUUU
+THA_1122     -AA---GGGGAGUUC---UUU-------------------
+THA_1290     -AA---GGAAGGGGA---UU-AU-----AUUUUUAUUAUA
+THA_592      -UG---CGGCUGCUU---UU--------GUUGUAAUUUUU
+THA_405      --------GGGGGCU---UU-UC-----UUUUACAACUUU
+THA_1501     AUC---UCAGAAGUC---UUU-------UUUAUAUCUAAA
+THA_550      -AU---GAAGGGGGC---UU-UUA---AUUUUGUAUAGUA
+THA_833      -AG---CACCUUCAU---UU-UU-----UUAAUAUCUCAA
+THA_93       UAG---GGGUGGAGU---UU-UU-----AAUUUAAUAAAU
+THA_1470     -UG---GGGAAUUUA---CU-UUA---UGAUAUAAUCAAC
+THA_1533     ACU---AGAAACGG--------------------------
+THA_537      -GU---GGAGGGAAU---UU-UUA--AUUUUUUUACUUUU
+THA_512      -CG---CCACGCUUU---AU-AU----UUUGUCCAGGAUA
+THA_152      ACU---UGGGAUAUC---CU-UUA---UUUUUUCUCUUUU
+THA_1008     -CC---GA--GCCAU---UUA-------UAUUUUAAUUUC
+THA_982      -AG---GUAGGGGAG---CU--------CUUUAAUUAAGC
+THA_73       -UU---AUACGAGUU---AUU-------------------
+THA_983      -AG---GCAGGGGAG---CUU-------------------
+THA_18       -UG---GCGAGGUUU---UUU-------------------
+THA_1869     ------AAAAGGCUC---CAA-------AAUUUUUUUCGA
+THA_1100     ACU---GGCCGCCUU---UU-UUU---AUUUUAAAUAAGG
+THA_54       -UG---CCAGGCUUU---UUA-------UUAGUCUUCUAA
+THA_225      -UC---CCGGCCUUU---GA-UU-----UUAUCCGGCAGU
+THA_1942     -UG---AAAGAUGGG---GA-UU-----UUUGUUUUUAAA
+THA_254      -UC---CUUCCAGUC---UU-GU----UCUUCUUAGUAAU
+THA_92       AUU---CAGGGGGU----UU-UU-----GUUUUUAUAUGA
+THA_1311     -UA---CUGCCACG-------UU-----UCCUCGUUUAAA
+THA_430      -CC---AUAGGGCUU---UA-UU-----CAUACCUUAAUG
+THA_956      -UA---GGAGGGGAU---UU-UUCU-UGUUUUUAAUUUGU
+THA_848      AGG---UAAGGUGGG---AU-UU----AUCCAAAAUCUGC
+THA_345      -GC---GUGGAGGUU---UA-UU----UUUUUGGUGGAGC
+THA_1174     -AA---AGAGGGGGC---UU-AU-----GUUAUAAUAUAU
+THA_1682     -UC---AUCCUUGGG---GU-GU-----UUUUUUACUUGA
+THA_276      -GA---UCAGGCAUU---UU-UU-----AUUUUAUAUAUC
+THA_919      -AG---GGGCGGUAU---UA-UU-----UAUUUAUUUAUC
+THA_527      -AC---AGGGGCAAU---UUC-------------------
+THA_1590     -UG---CUGGGGGAU------UU-----UGUUUUACCAAU
+THA_1548     -AA---CCGGGGAUU---UU-GU-----UAUUUAAAUCUU
+THA_1912     -GG---UGCUGGUUU---UA-UU----UUAUUUAAUUAAU
+THA_945      -UG---GAGGUUC--------UU-----AUUUUAAUAUUC
+THA_1016     UAG---AGGGGGAAU---UU-UU-----UAUCAAAUAUUU
+THA_548      -UG---CGGGAUUUA---UU-UUU---GUUUUAAAAAUUA
+THA_1288     -------GGCGCUAG---UUA-------------------
+THA_493      AAC---UAGAAACUG---GG--------UUUUUUAUUAUU
+THA_374      -UC---CGGCACU--------UU----UUUAUUGACAAAA
+THA_571      -GC---UCACGCAUU---UUA-------------------
+THA_35       -CC---CCACAUUUU---UUG-------------------
+THA_713      -UC---CGAGGCUUA---AAA-------UAUUAUUUGAAA
+THA_1287     -GG---GGGCGCUAG---UU-UU-----UUAAUCGUUGUU
+THA_130      GCC---AGGCACCUU---UU-UUU---AUUUUUUAUGUUA
+THA_517      AGG---AGCCACUUU---UU--------UAUAUGAUAAAA
+THA_393      --------GGGCCCU---UUC-------------------
+THA_66       -UC---CUCCCAUU----UAC-------UUUUUUAUUUAU
+THA_384      UUG---AUGAGGCCU---UU-UU-----UCUUUUAAUAAU
+THA_518      -UG---CCUUGCUUU---UU-UU-----GAUAUAAUUGAG
+THA_1037     --------GGGUGGC---UU-UU----AUAUUAUAAUAGU
+THA_37       -UC---CCUAUUAGC---CUA-------UAAUUAAUUUUC
+THA_1772     -UG---GGGAUGAAU------UU-----UUUGUUACCCGG
+THA_711      -GG---AGCCACUUU---UU-UUU---AUUUUAAAAUUGA
+THA_952      -CU---CCCCGAUAU---UU-UUU---UAUCUAAAUUUGA
+THA_1343     -AG---GCUGCUGAU---UU-UU-----UAUACACCUAAU
+THA_1117     -CC---CUCUCUCUU---UUA-------------------
+THA_1346     -UG---UGUAUGGGG---UUU-------------------
+THA_505      UAG---GGGGUGUUU---UUC-------------------
+THA_734      -AG---UCCCGAUUU---AUA-------------------
+THA_1762     UAG---AAUGGGGCU-------------UUUUUAAUUUAU
+THA_22       -CU---UAUAUUGCA---UGG-------------------
+THA_1612     -GC---ACCAGUC--------UC-----UUUUCAAGAGGU
+THA_832      -AG---CACCUUCAU---UU-AUU---UUCUUAAACCUUU
+THA_29       -UA---AGGGUGAUU---UUU-------------------
+THA_817      -CA---CC--CUCCU---UU-AU-----UAUUUAAGCAAA
+THA_682      UGC---AGGUCAUGU---UU-UU----AUUUUUAAUGAUU
+THA_829      -UG---CCCGCUUUA---UUU-------UUAAUAACAAUU
+THA_371      -UU---UCAGGGCAU---UU-UUU--AUUUGCUAAUUUGA
+THA_1399     -UC---AGGAGGUGU---UAA-------------------
+THA_1591     -AG---CUGGGGGAUA-AUU-UU----AAUUUUUAAAAAC
+THA_1482     -CCAUUGAAGCCAUU---UUU-------------------
+THA_397      AGG---CAUAACGUG---GGC-------UUUAUGUUUAUU
+THA_1017     AGA---GGGGAUUAG---UU-UCA---AUUCAAAACUUUC
+THA_621      -UG---CAUCACCCU---UU-UU-----UUACAAUCAAUC
+THA_1054     -UG---GGACGCA--------UU-----CUUAUUUUUUAC
+THA_907      -GG---UAUGUCCA----UU-UU-----UUUUUUAGAAAA
+THA_615      -UA---CAGGAAUUU---CCU-------------------
+THA_554      -UC---UGGGGAAAU---UGC-------UAUAAUUUUUUC
+THA_379      -UU---CCAGCUCUU---UUG-------UAUUUAAUUUUA
+THA_1086     -GG---GAAUUCCUUAAUUA-UU----GGUUGACUUUAUC
+THA_834      -GG---CCACCUUUU---UU-GUU--AAUUUAAUACCUAA
+THA_279      UAC---CUCCCCAAU---UU--------UUUAGAAGGAGG
+THA_1759     --------GGGGCAU---UU-UU-----UUGCUUGAAUAC
+THA_1725     -AG---CCCCUG------UU-UU-----UUCUUUUCCAAA
+THA_58       UGG---AUGGGG-UU---UUG-------------------
+THA_874      -CG---CG--GCCUU---UU-UU----AUUUUUAAAAUAA
+THA_1660     -AC---CGGAGCCAU---GUU-------UUUUAACCUUGC
+THA_657      -UA---GCGUGCCA-------AU-----GCUAUAUUUUAA
+THA_1384     -AC---ACCUGCCUU-------------UUUAAAAUUAAA
+THA_2015     -AA---GUCAUGG---------------UAAUUCACUGAA
+THA_691      -AG---CUUCACUUU---UUU-------------------
+THA_582      -AU---GGGGGC------UU-UU-----AAUUUAUUUUGA
+THA_1295     -GC---ACGUGGGGC-------------AUUCACAGGAGG
+THA_1965     UUC---CCCCGCAAU---UUU-------------------
+THA_1304     -GA---GAGAAUUUC---UU-UU-----UACUUAAUUAAC
+THA_699      -AA---CCUGGACUU---UU-CU-----UCUUGAAAAAAC
+THA_1027     --------GGGGGUU---UU-UU----AAAUUAUAUAUGU
+THA_1393     -AC---UAGGACCUU---UU-UU----UGAUUAUAAAAAA
+THA_675      --------GCGCCUU---UU-UUA--UAUAUUUAAAAAGU
+THA_1180     -GC---CACUAGCUU---UU-UU-----UAAAGAAUAUAU
+THA_1053     -UG---GGACGCAUC---UA-UU----UAUUAUAACUUGA
+THA_2006     --------AAGUCAU---GGU-------------------
+THA_620      -GC---AUCACUCUU---UUA-------------------
+THA_1362     -UC---CCCCUUUAA---UU-UUU--ACUAUUAAAGCAUA
+THA_939      -UG---CCCCGUUAU---UUU-------------------
+THA_1140     --------AAAUUAU---UU-UU----CUUUCUAAUCAUU
+THA_64       -GC---UCAAGGGGA---UUG-------------------
+THA_1583     -AA---GUUGGCUCU---UU-UU----UAUAUUCAUUAAA
+THA_21       -GC---UUGGC--UU---UU-UU-----GUUUUUAUAAAG
+THA_1698     UUU---UGGGGGCUU---UUG-------------------
+THA_1363     -UC---CCCCUUUAA---UUU-------------------
+THA_1531     -GC---C-CCGCGCC---CA-UU-----UUAAAAAUUAAA
+THA_1845     -GG---GCAGAGAUU---UU-UU----AGCCAACAUUUUC
+THA_1699     UUU---GAGGGCUUU------AU-----AAUAUACUUAAA
+THA_647      --------UACUGA-------UUG---CUAUUAUAUUUUU
+THA_1944     -UA---GCCAACUUU---UUU-------------------
+THA_1539     -GU---GU--GCUAU---UU-UUA---AUUUCUUACUUAC
+THA_1158     --------UCCCAUU---UUU-------------------
+THA_404      --------GGGGGCU---UUA-------------------
+THA_1919     -CG---AGCGCCUUU---UA-UU-----UUUUUUAUUAUA
+THA_766      -CU---AGGAUGCUC---UA-UU-----UUUUUAAAUAUA
+THA_198      -GA---GGCCCUCAA---CU-UU-----AUCUAAAGGGGU
+THA_875      -UC---CUCCUCUC-------UU-----UUUUAUUUAUAU
+THA_1028     --------GGGGGUU---UCU-------------------
+THA_57       AGG---AUGGGGCUU---UUU-------------------
+THA_1929     -UA---GUAGGGGAU---UU-UU----UAUUUAAAUGAAA
+THA_646      -AU---CCCCCAUUU---AU-UU-----AUUUGGAGGUGG
+THA_648      UCC---CCUAAGGA----UU-UU----AGCUAAAAGGAGU
+THA_471      --------GCAUCCU---UU-UU-----UAUUGAAGGAGG
+THA_153      -AA---UUGGGGCCU---UU-UU-----UUCGUUUAUCGA
+THA_1703     -GG---AUGGGGACC---AU-UU-----CAUAUUUGGCGG
+THA_1309     -UG---UGCGGUAAU---UUA-------------------
+THA_810      -GC---AAGGGCCAU---UU-UU----CAUUUAGGCCAUC
+THA_375      AUA---AUCCCCC--------UC-----CUUCUUUGUUGA
+THA_1671     -GG---GCUCCUG-----AU-UU----CUAUUGCAUUAGC
+THA_1403     -GU---CCAUCCA---------------UUUUUAUUGAAA
+THA_664      --------GGCCCUA------UU-----AUUAUCGGGAGG
+THA_1605     -UC---CCCCUAGUU---UU-UC-----UUUUACAGGAGG
+THA_1249     AAA---GCUUGGCGA---UG-UU----GUUUUUUUGGAAU
+THA_126      --------AGAAUUU---UUC-------------------
+THA_896      -CA---AAGCCGC--------AU-----UUUUUUAGUGGU
+THA_1594     -GU---AUAUGGGAU---UU-UUU---GAACUUAACUUUG
+THA_1997     --------GACUCCU---UU-UU----AUUUUUUGUUAGA
+THA_1607     -GU---UGCCCCCAU---UA-UU----AAAAUUAACAAGG
+THA_1770     -AG---CCUCACCUU---UUA-------UUUGCUAUAUAU
+THA_583      -AU---GGGGGCUGA---UU-AU-----UAUCCUACUUUA
+THA_608      --------GGGGAU-------UU-----UUUAAUAUCAAC
+THA_560      --------CCCGC---------------------------
+THA_1655     --------GGUGC---------------CUUCAUACUUUC
+THA_944      --------GGAGGUU---CA-UU-----UUUCAAUAUAGC
+THA_611      AGU---CCGGGGGAA---UU-UC-----UUUAAGUUUAUC
+THA_145      -UG---GGCCGCA--------UU-----UUUUUUAUGAUA
+THA_1012     -GA---C-AGCAGUG-------------------------
+THA_842      --------UCCCCCU---AUA-------------------
+THA_253      --------CCGGC---------------------------
+THA_1107     -CU---AGGAUGG---------------------------
+THA_280      -UC---C-CCUAC---------------------------
+THA_1159     -GG---CGGAGAGUU---UUU-------UAUAACACUUUA
+THA_227      -GC---CC--CCA--------UUG---CUUUGUCAUUUUA
+#=GC SS_cons .>>...>>>>>>>>>...>>.::.....::::::::::::
+#=GC RF      .ug...cggggccUU...UU.UU.....UUUUUaAUuAaa
+//

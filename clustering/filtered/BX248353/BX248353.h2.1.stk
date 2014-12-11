@@ -1,0 +1,2942 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS DIP2336 WT 1.01
+#=GS DIP1504 WT 0.91
+#=GS DIP1062 WT 1.02
+#=GS DIP1027 WT 1.03
+#=GS DIP0647 WT 1.01
+#=GS DIP0646 WT 0.97
+#=GS DIP2131 WT 1.11
+#=GS DIP1796 WT 0.82
+#=GS DIP1077 WT 1.08
+#=GS DIP1637 WT 0.67
+#=GS DIP1026 WT 0.96
+#=GS DIP2285 WT 0.97
+#=GS DIP2266 WT 0.72
+#=GS DIP1699 WT 0.62
+#=GS DIP1590 WT 1.02
+#=GS DIP1149 WT 0.71
+#=GS DIP1982 WT 1.09
+#=GS DIP1339 WT 0.77
+#=GS DIP0329 WT 1.14
+#=GS DIP1078 WT 1.04
+#=GS DIP0502 WT 1.08
+#=GS DIP1503 WT 0.98
+#=GS DIP0989 WT 1.01
+#=GS DIP0578 WT 1.02
+#=GS DIP1157 WT 1.09
+#=GS DIP0988 WT 0.95
+#=GS DIP1631 WT 0.92
+#=GS DIP2130 WT 1.15
+#=GS DIP1310 WT 1.11
+#=GS DIP1338 WT 0.77
+#=GS DIP1415 WT 0.75
+#=GS DIP0775 WT 0.79
+#=GS DIP0470 WT 0.99
+#=GS DIP1608 WT 1.06
+#=GS DIP1388 WT 1.07
+#=GS DIP1360 WT 0.76
+#=GS DIP0858 WT 0.83
+#=GS DIP1148 WT 0.71
+#=GS DIP0579 WT 0.99
+#=GS DIP1807 WT 0.75
+#=GS DIP2234 WT 0.92
+#=GS DIP2070 WT 0.85
+#=GS DIP1576 WT 1.07
+#=GS DIP2129 WT 1.12
+#=GS DIP0682 WT 0.84
+#=GS DIP1987 WT 0.79
+#=GS DIP2060 WT 0.95
+#=GS DIP1038 WT 1.04
+#=GS DIP1208 WT 0.88
+#=GS DIP0836 WT 0.80
+#=GS DIP1142 WT 0.84
+#=GS DIP1481 WT 0.97
+#=GS DIP1438 WT 0.81
+#=GS DIP1638 WT 0.67
+#=GS DIP0542 WT 1.09
+#=GS DIP0699 WT 0.91
+#=GS DIP1890 WT 1.03
+#=GS DIP1872 WT 0.95
+#=GS DIP1301 WT 0.82
+#=GS DIP1225 WT 0.77
+#=GS DIP1233 WT 1.06
+#=GS DIP0027 WT 1.03
+#=GS DIP1359 WT 0.76
+#=GS DIP1437 WT 0.81
+#=GS DIP0320 WT 1.14
+#=GS DIP1162 WT 0.96
+#=GS DIP0892 WT 1.02
+#=GS DIP1477 WT 0.87
+#=GS DIP1918 WT 1.04
+#=GS DIP1241 WT 0.78
+#=GS DIP2300 WT 1.05
+#=GS DIP1240 WT 0.78
+#=GS DIP1501 WT 1.02
+#=GS DIP0212 WT 0.95
+#=GS DIP0447 WT 1.10
+#=GS DIP0529 WT 0.99
+#=GS DIP1502 WT 0.91
+#=GS DIP1423 WT 1.09
+#=GS DIP0933 WT 0.82
+#=GS DIP2069 WT 0.85
+#=GS DIP1371 WT 0.85
+#=GS DIP1871 WT 0.87
+#=GS DIP1616 WT 0.71
+#=GS DIP1035 WT 1.01
+#=GS DIP1642 WT 1.01
+#=GS DIP1057 WT 0.82
+#=GS DIP1081 WT 0.85
+#=GS DIP1630 WT 0.92
+#=GS DIP1622 WT 1.09
+#=GS DIP1452 WT 0.93
+#=GS DIP0006 WT 0.84
+#=GS DIP1022 WT 1.03
+#=GS DIP0368 WT 1.05
+#=GS DIP1311 WT 0.96
+#=GS DIP1927 WT 0.85
+#=GS DIP0901 WT 0.97
+#=GS DIP2119 WT 0.97
+#=GS DIP2311 WT 1.07
+#=GS DIP1666 WT 1.01
+#=GS DIP1254 WT 0.73
+#=GS DIP1354 WT 1.06
+#=GS DIP1422 WT 0.96
+#=GS DIP2299 WT 1.29
+#=GS DIP2270 WT 0.77
+#=GS DIP0595 WT 0.89
+#=GS DIP1865 WT 0.87
+#=GS DIP2320 WT 1.02
+#=GS DIP0626 WT 1.11
+#=GS DIP0378 WT 1.05
+#=GS DIP1001 WT 0.61
+#=GS DIP1176 WT 1.06
+#=GS DIP1401 WT 0.83
+#=GS DIP0522 WT 0.93
+#=GS DIP0482 WT 1.05
+#=GS DIP0943 WT 0.82
+#=GS DIP1888 WT 0.84
+#=GS DIP1643 WT 0.85
+#=GS DIP1639 WT 1.03
+#=GS DIP1002 WT 0.61
+#=GS DIP1532 WT 0.90
+#=GS DIP0932 WT 0.82
+#=GS DIP0596 WT 0.89
+#=GS DIP0101 WT 0.98
+#=GS DIP1104 WT 1.07
+#=GS DIP0956 WT 1.22
+#=GS DIP1216 WT 0.91
+#=GS DIP1450 WT 1.24
+#=GS DIP0774 WT 0.95
+#=GS DIP2000 WT 1.09
+#=GS DIP0560 WT 0.98
+#=GS DIP1468 WT 1.20
+#=GS DIP0278 WT 1.15
+#=GS DIP1416 WT 0.75
+#=GS DIP1660 WT 1.02
+#=GS DIP0426 WT 1.07
+#=GS DIP0373 WT 1.15
+#=GS DIP0951 WT 0.99
+#=GS DIP1764 WT 1.08
+#=GS DIP1219 WT 1.08
+#=GS DIP1275 WT 1.31
+#=GS DIP1276 WT 1.09
+#=GS DIP0242 WT 1.02
+#=GS DIP1353 WT 1.14
+#=GS DIP1300 WT 0.82
+#=GS DIP1155 WT 0.92
+#=GS DIP0161 WT 1.33
+#=GS DIP0853 WT 1.02
+#=GS DIP1794 WT 0.95
+#=GS DIP1272 WT 1.29
+#=GS DIP1421 WT 0.97
+#=GS DIP0001 WT 1.12
+#=GS DIP1095 WT 0.92
+#=GS DIP1479 WT 1.35
+#=GS DIP0730 WT 0.98
+#=GS DIP0787 WT 0.90
+#=GS DIP0173 WT 0.79
+#=GS DIP2025 WT 0.99
+#=GS DIP0749 WT 1.19
+#=GS DIP2271 WT 0.77
+#=GS DIP0541 WT 1.03
+#=GS DIP1020 WT 0.92
+#=GS DIP1961 WT 0.99
+#=GS DIP0221 WT 0.99
+#=GS DIP1056 WT 0.82
+#=GS DIP1256 WT 0.92
+#=GS DIP0102 WT 1.21
+#=GS DIP1467 WT 1.06
+#=GS DIP1393 WT 1.02
+#=GS DIP1636 WT 0.94
+#=GS DIP0570 WT 1.11
+#=GS DIP1037 WT 1.11
+#=GS DIP1514 WT 0.93
+#=GS DIP0185 WT 1.11
+#=GS DIP1156 WT 0.95
+#=GS DIP1302 WT 1.13
+#=GS DIP1242 WT 1.12
+#=GS DIP1197 WT 0.96
+#=GS DIP1553 WT 1.01
+#=GS DIP1424 WT 1.01
+#=GS DIP1866 WT 0.93
+#=GS DIP1460 WT 1.12
+#=GS DIP0631 WT 0.93
+#=GS DIP1459 WT 1.03
+#=GS DIP1213 WT 0.91
+#=GS DIP2180 WT 0.95
+#=GS DIP0005 WT 0.84
+#=GS DIP1864 WT 1.04
+#=GS DIP0488 WT 1.04
+#=GS DIP1635 WT 0.94
+#=GS DIP0835 WT 0.80
+#=GS DIP2116 WT 0.91
+#=GS DIP0658 WT 1.12
+#=GS DIP0608 WT 0.98
+#=GS DIP0903 WT 1.03
+#=GS DIP1787 WT 1.02
+#=GS DIP2275 WT 1.10
+#=GS DIP2125 WT 0.75
+#=GS DIP0832 WT 0.97
+#=GS DIP0944 WT 0.82
+#=GS DIP1281 WT 1.11
+#=GS DIP1207 WT 0.88
+#=GS DIP0993 WT 1.08
+#=GS DIP0094 WT 0.97
+#=GS DIP1482 WT 1.09
+#=GS DIP1902 WT 1.08
+#=GS DIP0550 WT 0.99
+#=GS DIP1780 WT 1.14
+#=GS DIP0437 WT 1.03
+#=GS DIP0651 WT 1.04
+#=GS DIP0562 WT 0.94
+#=GS DIP0895 WT 1.18
+#=GS DIP2267 WT 0.72
+#=GS DIP1355 WT 1.15
+#=GS DIP1396 WT 1.11
+#=GS DIP1615 WT 0.71
+#=GS DIP1097 WT 1.04
+#=GS DIP1100 WT 0.96
+#=GS DIP1065 WT 1.08
+#=GS DIP1803 WT 0.91
+#=GS DIP1222 WT 1.17
+#=GS DIP0684 WT 0.89
+#=GS DIP2183 WT 1.21
+#=GS DIP0621 WT 0.91
+#=GS DIP1731 WT 1.06
+#=GS DIP1117 WT 0.73
+#=GS DIP1252 WT 1.08
+#=GS DIP0571 WT 1.11
+#=GS DIP1347 WT 1.16
+#=GS DIP1507 WT 0.95
+#=GS DIP0521 WT 0.92
+#=GS DIP2276 WT 0.95
+#=GS DIP2375 WT 0.58
+#=GS DIP2083 WT 1.11
+#=GS DIP0780 WT 1.17
+#=GS DIP1628 WT 1.03
+#=GS DIP1016 WT 0.90
+#=GS DIP0351 WT 0.91
+#=GS DIP1624 WT 1.11
+#=GS DIP2128 WT 1.04
+#=GS DIP1093 WT 1.12
+#=GS DIP1867 WT 0.75
+#=GS DIP0490 WT 0.91
+#=GS DIP1891 WT 0.87
+#=GS DIP0992 WT 1.09
+#=GS DIP1885 WT 1.21
+#=GS DIP0702 WT 1.01
+#=GS DIP1350 WT 1.22
+#=GS DIP1463 WT 1.07
+#=GS DIP0786 WT 0.90
+#=GS DIP0174 WT 0.79
+#=GS DIP0743 WT 1.11
+#=GS DIP0831 WT 0.97
+#=GS DIP1128 WT 0.87
+#=GS DIP2365 WT 0.96
+#=GS DIP0628 WT 1.10
+#=GS DIP2104 WT 1.07
+#=GS DIP1330 WT 1.10
+#=GS DIP1570 WT 0.99
+#=GS DIP0611 WT 1.17
+#=GS DIP0352 WT 0.95
+#=GS DIP1173 WT 1.15
+#=GS DIP0451 WT 1.09
+#=GS DIP2371 WT 1.03
+#=GS DIP1096 WT 1.02
+#=GS DIP1957 WT 1.02
+#=GS DIP0870 WT 1.02
+#=GS DIP1413 WT 0.99
+#=GS DIP1760 WT 1.06
+#=GS DIP2191 WT 1.06
+#=GS DIP0938 WT 1.12
+#=GS DIP0645 WT 1.03
+#=GS DIP0803 WT 0.90
+#=GS DIP1783 WT 1.03
+#=GS DIP0939 WT 0.93
+#=GS DIP1063 WT 1.02
+#=GS DIP1030 WT 1.20
+#=GS DIP1018 WT 1.02
+#=GS DIP1498 WT 1.03
+#=GS DIP0824 WT 0.99
+#=GS DIP1488 WT 1.14
+#=GS DIP0785 WT 1.08
+#=GS DIP2235 WT 0.90
+#=GS DIP0882 WT 1.04
+#=GS DIP1394 WT 1.02
+#=GS DIP0539 WT 1.20
+#=GS DIP1811 WT 1.14
+#=GS DIP1552 WT 1.05
+#=GS DIP0199 WT 1.13
+#=GS DIP1166 WT 1.01
+#=GS DIP2117 WT 0.95
+#=GS DIP1249 WT 1.04
+#=GS DIP1129 WT 0.87
+#=GS DIP0979 WT 0.46
+#=GS DIP1174 WT 0.91
+#=GS DIP1045 WT 1.08
+#=GS DIP2322 WT 1.14
+#=GS DIP1919 WT 0.97
+#=GS DIP1618 WT 1.17
+#=GS DIP0692 WT 1.09
+#=GS DIP1978 WT 1.12
+#=GS DIP0650 WT 1.07
+#=GS DIP1308 WT 1.11
+#=GS DIP2036 WT 0.98
+#=GS DIP1397 WT 1.15
+#=GS DIP0576 WT 1.09
+#=GS DIP1784 WT 1.22
+#=GS DIP1904 WT 1.06
+#=GS DIP0225 WT 1.15
+#=GS DIP2253 WT 0.87
+#=GS DIP0969 WT 1.02
+#=GS DIP0285 WT 0.91
+#=GS DIP0079 WT 1.04
+#=GS DIP1327 WT 0.95
+#=GS DIP1309 WT 1.08
+#=GS DIP0771 WT 1.02
+#=GS DIP1080 WT 0.85
+#=GS DIP0536 WT 1.02
+#=GS DIP2194 WT 1.03
+#=GS DIP0878 WT 0.83
+#=GS DIP0169 WT 0.93
+#=GS DIP1402 WT 0.83
+#=GS DIP1669 WT 1.27
+#=GS DIP0671 WT 1.03
+#=GS DIP2033 WT 1.23
+#=GS DIP0949 WT 1.05
+#=GS DIP0010 WT 1.03
+#=GS DIP1348 WT 1.03
+#=GS DIP0217 WT 1.24
+#=GS DIP1082 WT 1.01
+#=GS DIP1378 WT 1.11
+#=GS DIP1725 WT 1.14
+#=GS DIP1115 WT 1.24
+#=GS DIP1928 WT 1.09
+#=GS DIP0649 WT 1.23
+#=GS DIP1788 WT 1.19
+#=GS DIP0839 WT 1.01
+#=GS DIP0303 WT 0.61
+#=GS DIP1901 WT 1.09
+#=GS DIP0820 WT 1.13
+#=GS DIP0757 WT 1.16
+#=GS DIP2281 WT 1.08
+#=GS DIP1976 WT 0.99
+#=GS DIP1198 WT 1.11
+#=GS DIP1905 WT 0.95
+#=GS DIP2349 WT 0.93
+#=GS DIP1889 WT 0.84
+#=GS DIP0157 WT 1.03
+#=GS DIP1029 WT 1.04
+#=GS DIP1071 WT 1.08
+#=GS DIP1105 WT 1.12
+#=GS DIP0053 WT 1.11
+#=GS DIP2282 WT 0.94
+#=GS DIP1146 WT 1.11
+#=GS DIP1264 WT 1.02
+#=GS DIP0808 WT 0.94
+#=GS DIP0427 WT 1.19
+#=GS DIP1762 WT 1.17
+#=GS DIP2225 WT 0.93
+#=GS DIP1288 WT 1.09
+#=GS DIP0297 WT 0.91
+#=GS DIP0302 WT 0.61
+#=GS DIP0885 WT 0.96
+#=GS DIP0925 WT 0.99
+#=GS DIP0430 WT 1.02
+#=GS DIP1290 WT 1.02
+#=GS DIP0396 WT 1.23
+#=GS DIP1253 WT 1.00
+#=GS DIP1519 WT 1.10
+#=GS DIP1767 WT 0.98
+#=GS DIP1015 WT 0.90
+#=GS DIP0883 WT 1.05
+#=GS DIP2329 WT 1.19
+#=GS DIP2018 WT 0.94
+#=GS DIP0515 WT 1.18
+#=GS DIP1217 WT 1.12
+#=GS DIP0380 WT 0.98
+#=GS DIP1805 WT 1.14
+#=GS DIP2015 WT 1.07
+#=GS DIP0581 WT 1.06
+#=GS DIP1121 WT 0.84
+#=GS DIP1793 WT 0.94
+#=GS DIP2379 WT 1.02
+#=GS DIP2376 WT 0.46
+#=GS DIP1582 WT 1.09
+#=GS DIP1892 WT 0.87
+#=GS DIP0619 WT 1.04
+#=GS DIP1659 WT 0.87
+#=GS DIP2312 WT 1.07
+#=GS DIP0357 WT 0.68
+#=GS DIP1915 WT 1.08
+#=GS DIP0635 WT 1.12
+#=GS DIP0417 WT 0.95
+#=GS DIP0668 WT 1.17
+#=GS DIP1041 WT 1.06
+#=GS DIP0997 WT 1.02
+#=GS DIP0826 WT 1.00
+#=GS DIP0023 WT 1.06
+#=GS DIP1435 WT 1.15
+#=GS DIP1766 WT 0.92
+#=GS DIP1287 WT 0.96
+#=GS DIP2115 WT 1.02
+#=GS DIP1088 WT 1.04
+#=GS DIP1714 WT 1.00
+#=GS DIP2135 WT 1.02
+#=GS DIP0406 WT 1.18
+#=GS DIP2207 WT 0.84
+#=GS DIP1102 WT 1.24
+#=GS DIP1911 WT 1.12
+#=GS DIP1879 WT 0.92
+#=GS DIP2056 WT 1.23
+#=GS DIP0920 WT 1.10
+#=GS DIP0685 WT 0.89
+#=GS DIP0941 WT 1.06
+#=GS DIP0620 WT 0.93
+#=GS DIP0358 WT 0.68
+#=GS DIP1739 WT 1.31
+#=GS DIP1259 WT 1.09
+#=GS DIP2003 WT 0.97
+#=GS DIP0365 WT 1.04
+#=GS DIP0211 WT 1.09
+#=GS DIP1586 WT 1.24
+#=GS DIP0309 WT 1.04
+#=GS DIP0277 WT 1.09
+#=GS DIP1611 WT 1.33
+#=GS DIP2020 WT 0.75
+#=GS DIP2094 WT 0.97
+#=GS DIP1801 WT 1.08
+#=GS DIP2238 WT 0.96
+#=GS DIP1572 WT 1.08
+#=GS DIP1119 WT 1.08
+#=GS DIP2330 WT 1.10
+#=GS DIP0111 WT 1.03
+#=GS DIP0183 WT 0.92
+#=GS DIP1896 WT 1.02
+#=GS DIP2134 WT 0.97
+#=GS DIP0238 WT 1.11
+#=GS DIP0253 WT 0.98
+#=GS DIP0118 WT 1.09
+#=GS DIP2007 WT 1.23
+#=GS DIP0687 WT 1.14
+#=GS DIP0543 WT 1.09
+#=GS DIP1331 WT 1.14
+#=GS DIP0914 WT 1.08
+#=GS DIP2252 WT 0.98
+#=GS DIP0469 WT 1.16
+#=GS DIP0855 WT 1.20
+#=GS DIP1364 WT 1.16
+#=GS DIP2284 WT 1.10
+#=GS DIP0076 WT 0.89
+#=GS DIP1306 WT 1.07
+#=GS DIP1427 WT 1.00
+#=GS DIP0917 WT 1.01
+#=GS DIP1698 WT 0.62
+#=GS DIP0038 WT 1.26
+#=GS DIP1455 WT 1.02
+#=GS DIP1428 WT 0.99
+#=GS DIP1495 WT 0.92
+#=GS DIP2014 WT 1.21
+#=GS DIP0777 WT 0.92
+#=GS DIP0859 WT 0.83
+#=GS DIP0637 WT 1.19
+#=GS DIP2093 WT 1.02
+#=GS DIP1307 WT 1.00
+#=GS DIP1494 WT 0.87
+#=GS DIP0630 WT 1.21
+#=GS DIP1454 WT 1.06
+#=GS DIP1419 WT 0.81
+#=GS DIP0080 WT 1.18
+#=GS DIP1846 WT 1.19
+#=GS DIP1795 WT 0.82
+#=GS DIP1234 WT 0.95
+#=GS DIP1226 WT 0.77
+#=GS DIP1418 WT 0.81
+#=GS DIP1589 WT 0.96
+#=GS DIP2187 WT 0.97
+#=GS DIP1283 WT 1.11
+#=GS DIP0978 WT 1.02
+#=GS DIP1533 WT 1.06
+#=GS DIP0733 WT 0.97
+#=GS DIP0659 WT 1.03
+#=GS DIP0924 WT 1.06
+#=GS DIP2206 WT 1.25
+#=GS DIP0923 WT 0.98
+#=GS DIP0657 WT 1.03
+#=GS DIP1943 WT 1.05
+#=GS DIP0776 WT 1.00
+#=GS DIP1687 WT 0.98
+
+DIP2336      UGG-A--UA--A--------------G-U-AACUCAAAG-----------
+DIP1504      C----AGUA-UA--------------G-AAAAU-----------------
+DIP1062      A----AAUA--AAAUC-----CUUCCG-AAAAAU----------------
+DIP1027      AGCAGGCUU--A----------------AUACUUUCCUCUCAAG------
+DIP0647      CGA-AAAUA--A----------------C---------------------
+DIP0646      CGU-C--UA--AC------------AG-UUAGAC----------------
+DIP2131      AGC-UAGUA-GA----------------AAAA------------------
+DIP1796      U----CCUA--A----------------AAACCCGCUGA-----------
+DIP1077      A----CAUA--A----------------A---------------------
+DIP1637      U----AAUA--A--------------G-A---------------------
+DIP1026      UGC--AAUA--A----------------AAAAA-----------------
+DIP2285      CGA-GGAUU--AAUCC-----UUGGCG--UAGUUCGUC------------
+DIP2266      AGC--GCUA--A----------------AAAAU-----------------
+DIP1699      U----UUUA--A----------------AUAGA-----------------
+DIP1590      UGA--AUCA--A-------------UG--UAGU-----------------
+DIP1149      CGA--CAUA-GA--------------A-A---------------------
+DIP1982      UGG-AAAUA--AUC---------GCA-----GCACCGC------------
+DIP1339      U----UCUU-GA--------------A-A---------------------
+DIP0329      UGC-C--UA--AGCAG------CCCA-------GCUA-------------
+DIP1078      C----ACUA--A--------------A-ACAACU----------------
+DIP0502      C----AAUA--AAA---------UUG--AAAAAUAU--------------
+DIP1503      A----GAUA--A----------------A---------------------
+DIP0989      CGA-ACAUA--A----------------A---------------------
+DIP0578      UGC--AGUA-GAG------------AG-C---------------------
+DIP1157      CGC--CUUA--A--------------U-UUAGUCCA--------------
+DIP0988      AGU-UCUUA--AC------------CA-A---------------------
+DIP1631      CGU-AAAUA--A-------------AA-A---------------------
+DIP2130      CGA-UAUUC--A----------------U---------------------
+DIP1310      UGC-UAAUA--A----------------AAAGGCGCUA------------
+DIP1338      CGA--UAUA--A----------------A---------------------
+DIP1415      CGC-GGAUA--ACAG--------CGAG--UAGAUUCAUC-----------
+DIP0775      U----GCUC--A----------------A---------------------
+DIP0470      A----AGUA--AU-----------GAU-CAACUGCGCCUA----------
+DIP1608      CGAAGGAUA--AAUUC-----AUCGGG--UAGCGCG--------------
+DIP1388      U----GGUU--A-------------UG-G---------------------
+DIP1360      U----UGUA--A--------------G-ACACGAGGAGGCC---------
+DIP0858      U----CCUG--A----------------AAAAUA----------------
+DIP1148      UGA-U--UA--A----------------AAACCU----------------
+DIP0579      C----CAUA-CA--------------GCA---------------------
+DIP1807      UGC-UGCUA--A--------------G-A---------------------
+DIP2234      C----CACA--A----------------A---------------------
+DIP2070      UGC-ACAUA--A--------------U-A---------------------
+DIP1576      CGA-AACGA--A--------------G-A---------------------
+DIP2129      UGG-GGGUA--AUACCUGCGUGUACG-------GC---------------
+DIP0682      UGC-C--UA--AGUUG------CAGUA-AUACCUAGUGCAA---------
+DIP1987      AGC--GCUA--A----------------AAAGCU----------------
+DIP2060      CGC-A--UC--A----------------A---------------------
+DIP1038      CGA-A--UG--A----------------C---------------------
+DIP1208      CGA--AGUA--AC------------C--AUAAUG----------------
+DIP0836      A----UCUA--A----------------AUACUU----------------
+DIP1142      AGA-AUCUA-UA----------------AAAGCA----------------
+DIP1481      CGA-CGUUA--A--------------G-AAAAAAC---------------
+DIP1438      CGU-UUCUA--A-------------UA-A---------------------
+DIP1638      AGC-AAAUA--A----------------AUAAA-----------------
+DIP0542      CGA-AAGUA--AUAGAA---CUUUCGG-AUAACU----------------
+DIP0699      AGC-C--UA--AUU---------CUU--CCACCGC---------------
+DIP1890      CGC-GACUA--A--------------U-CAACUCACCG------------
+DIP1872      U----UAUA--A-------------CU-U---------------------
+DIP1301      A----UUUA--A----------------AUACUUUGGA------------
+DIP1225      UGA-CACGA--A----------------A---------------------
+DIP1233      AGC--AAUU--A----------------A---------------------
+DIP0027      AGG-GGUUU--A--------------U-CUAG------------------
+DIP1359      U----GCUA--A----------------A---------------------
+DIP1437      A----CGUA--A----------------AUAGC-----------------
+DIP0320      A----UCUA--A----------------UUAGCUCGUUCCC---------
+DIP1162      UGG-GUUUA--A-------------UG-A---------------------
+DIP0892      AGC--AUUA--A--------------G-UAAGU-----------------
+DIP1477      CGC-ACCUA--AU-----------CGG--UAGAUCCGU------------
+DIP1918      A----AAUA--AUUC--------UUCU-UUAGCCGA--------------
+DIP1241      C----AUUC--A-------------GA-AUAGA-----------------
+DIP2300      CGA--ACUU--A----------------A---------------------
+DIP1240      CGA--CAUA-GA----------------U---------------------
+DIP1501      CGA-A--UU--A----------------C---------------------
+DIP0212      A----GGUC--A----------------U---------------------
+DIP0447      C----UCUA--AAACC------GGCCG--AACCCGCAAUUUC--------
+DIP0529      AGC-U--UC--A----------------C---------------------
+DIP1502      CGC-A--UA--A----------------A---------------------
+DIP1423      C----UUUA--A--------------U-A---------------------
+DIP0933      A----AGUA--A--------------G-ACAACA----------------
+DIP2069      CGC--AAUA--A--------------G-A---------------------
+DIP1371      CGA-GGGUA--A----------------CUACACAUUAU-----------
+DIP1871      AGA-UAACA--A----------------A---------------------
+DIP1616      CGC-AUAUA--A----------------A---------------------
+DIP1035      CGU-C--CA--A----------------A---------------------
+DIP1642      CGC--AAUA--AGUA-------AGAAG-AUAGA-----------------
+DIP1057      A----AGUA--AAGC--------GUUU-CUAGC-----------------
+DIP1081      CGC-UUCUA--A----------------CAACCAUUAUUGUUAG------
+DIP1630      A----UAUA--A----------------AAAG------------------
+DIP1622      CGU-UACUA--A--------------A-AUACGAAG--------------
+DIP1452      UGA--AAUA--AUA----------UGU-A---------------------
+DIP0006      UGA--AGUA--ACUC-------CCCCA-CUAC------------------
+DIP1022      A----ACCA--A----------------A---------------------
+DIP0368      C----UCUA--A----------------AAACCAU---------------
+DIP1311      U----UCUA--A--------------A-ACAU------------------
+DIP1927      U----AUUG--A----------------A---------------------
+DIP0901      AGA-G--UA--A----------------AAACUC----------------
+DIP2119      AGA-UGCUC--A----------------AUAGUCACUGAGUU--------
+DIP2311      C----ACCA--AGGA-------AUCC-------GCAAUUG----------
+DIP1666      UGA-CUAUG------------------CAUAC------------------
+DIP1254      A----GAUA--A----------------CUAGUUUUUC------------
+DIP1354      CGA-UGGUU--A----------------A---------------------
+DIP1422      A----AAUA--A--------------G-A---------------------
+DIP2299      C----ACUA--AC------------C----ACAACCAA------------
+DIP2270      C----AAUA--A----------------C---------------------
+DIP0595      UGG-GAAUA--AUCC-------CCAC--ACAGUUCCA-------------
+DIP1865      U----UCUA--AUU---------CCA-----U------------------
+DIP2320      A----AGUA--AC------------C----ACAAC---------------
+DIP0626      A----GGUA-UA--------------G-CAAGCGU---------------
+DIP0378      CGA--GCUA-GA----------------AAACUAGCGC------------
+DIP1001      C----AGCA--A--------------ACA---------------------
+DIP1176      CGC-G--UA--A-------------AG-AUCGAUG---------------
+DIP1401      C----GAUA--A----------------C---------------------
+DIP0522      CGU-UAAUC--A----------------AUAACGU---------------
+DIP0482      UGU-CACUG--A--------------G-ACAGGA----------------
+DIP0943      CGC-ACAUA-GAG------------CG--AAGCA----------------
+DIP1888      CGC-ACAUA--A--------------A-AAAG------------------
+DIP1643      U----AGCA--A----------------C---------------------
+DIP1639      CGC-U--UU--A----------------C---------------------
+DIP1002      CGCUGACUA--A--------------G--AAUU-----------------
+DIP1532      UGA-G--UA--A--------------A-ACAGUUU---------------
+DIP0932      C----UCUA--AA-----------CCU-CAAAC-----------------
+DIP0596      UGG--GUUA--A----------------CAAGCA----------------
+DIP0101      CGG-C--UA--AG-----------CCGCAUAUG-----------------
+DIP1104      UGC-C--UA--AU-----------UU--AUACACCGA-------------
+DIP0956      C----ACCA--AG------------GG-AUAACACCCCUGCCCGU-----
+DIP1216      UGA-A--UA--AG------------UG-A---------------------
+DIP1450      CGA-U--UA--A----------------UCAAUCUGAUUCUGCUC-----
+DIP0774      UGU-GAACA--AG------------U--AAAACCAACCUCAAGC------
+DIP2000      AGA-CUAUA--A----------------AAAUAUGACU------------
+DIP0560      CGC--AAUG--AAUUGAU--UGUGCCG-AUACU-----------------
+DIP1468      U----AUUA--A----------------CAACC-----------------
+DIP0278      AGC-UUGUA--A----------------AUAAGCGGCCAUC---------
+DIP1416      A----UGUA--A----------------A---------------------
+DIP1660      UGA-G--UA--A-------------G---AAU------------------
+DIP0426      CGC-GGAUA--A----------------AUUCUGCG--------------
+DIP0373      UGA--ACUA--AUC----------AC------GUCAGGCAC---------
+DIP0951      C----ACCA--A----------------AAAC------------------
+DIP1764      UGC-UUUUC-GA-------------CGCA---------------------
+DIP1219      CGU-G--UA--AGGUCU----CACCUG-CCACCG----------------
+DIP1275      UGA-U--UA--A----------------CAAGC-----------------
+DIP1276      A----AAUU--A--------------G-AUAUUGCUCAAU----------
+DIP0242      C----UCCA--A--------------A-A---------------------
+DIP1353      CGCAGUCUA--A-------------CA-A---------------------
+DIP1300      C----AAUU--A----------------A---------------------
+DIP1155      C----CGUA--A--------------G-CUAAAGAGC-------------
+DIP0161      A----CAUC--ACU----------UUG-U---------------------
+DIP0853      UGG-AUAUA--AU------------U--CCACUAU---------------
+DIP1794      AGU-AGAUA--AUG---------CAAU-A---------------------
+DIP1272      AGC-G--UA--A----------------UUAGUUCGUUUCAA--------
+DIP1421      U----AAUA--A----------------A---------------------
+DIP0001      CGC-AGUUC--A--------------G--AACG-----------------
+DIP1095      C----AACA--A--------------G-AUAGU-----------------
+DIP1479      A----GCUA--AUUG--------CUUG--UAGUGC---------------
+DIP0730      CGC-U--UU--ACU----------UUG-A---------------------
+DIP0787      UGA--UUUG--A-------------UG-C---------------------
+DIP0173      C----GCUA--A----------------AAAAUC----------------
+DIP2025      A----CCUA--ACCUGC----GCCAUG-A---------------------
+DIP0749      CGU-AAGUA--A----------------CCACUGCAUCCUCA--------
+DIP2271      UGU-G--UA--AA-----------AC----AAAA----------------
+DIP0541      AGC--UCUU--A--------------U-AUAGCUCCGCAUA---------
+DIP1020      UGU-UAUUA--A--------------G--UAGUUGUAAU-----------
+DIP1961      U----GCUA-GA--------------A-ACAA------------------
+DIP0221      AGG--CGUA--A--------------A-A---------------------
+DIP1056      CGC-UAAUA--A----------------ACAGCUAAU-------------
+DIP1256      A----AAUA--A----------------A---------------------
+DIP0102      A----CCUA--A-------------U--AAAAA-----------------
+DIP1467      UGA--UCUA--AA-----------CC--AUACU-----------------
+DIP1393      C----UUUA--A----------------ACAUU-----------------
+DIP1636      C----UAUA--ACG----------AGA-U---------------------
+DIP0570      CGC-U--UA--AUC---------GAA--AUA--AGCGCUCGUU-------
+DIP1037      CGA-UGCCU--A--------------G-AUAACCGCAUGC----------
+DIP1514      U----AUUA--A-------------CU--UAG------------------
+DIP0185      A----UGUA--A----------------CAAUCG----------------
+DIP1156      U----CAUA--A-------------AA-A---------------------
+DIP1302      C----AGCA--A--------------U-AAAACGCGAUUUUC--------
+DIP1242      AGC--AAUA--ACAC--------UGGU-A---------------------
+DIP1197      U----GAUA--AUU---------CUUU-AAAGAUUU--------------
+DIP1553      U----AAUA--A--------------A-A---------------------
+DIP1424      AGC--CUCA--A--------------G-AAAAU-----------------
+DIP1866      C----AGCA--AG-----------CUU-CUAC------------------
+DIP1460      C----GAUA--A--------------G--UACUACUCG------------
+DIP0631      UGA--AGUA--AGGUCGC-GCUCUUUU-AUAGCU----------------
+DIP1459      C----AAUC-GA--------------A-AUAGU-----------------
+DIP1213      U----UUUA-GA--------------A-A---------------------
+DIP2180      U----CCUA--AA------------G---CAGUAC---------------
+DIP0005      AGC-A--UG--A----------------C---------------------
+DIP1864      AGU-GAACA--AG------------CG-AUAAUCUGAUCGCU--------
+DIP0488      CGC-C--UA--A----------------UUAGUUCGUAGC----------
+DIP1635      AGC-U--UA--AAAC--------CGCA-AAAC-U----------------
+DIP0835      UGC-CUAUG-GA----------------AAAGCUCUAGGACGUCU-----
+DIP2116      CGA--ACUA-CA-------------UA-C---------------------
+DIP0658      CGC--AGUU--A-------------CG-U---------------------
+DIP0608      CGU-CGAUA--A--------------GCACAGCACU--------------
+DIP0903      AGC-U--UA--ACCUC-----UCACGG--AACA-----------------
+DIP1787      U----UGUA--C----------------A---------------------
+DIP2275      A----AGUA--ACG----------CAG--UAGCGCUU-------------
+DIP2125      A----AAUA--A----------------AAAUCCACAC------------
+DIP0832      C----CCUA--A--------------A-AUAA------------------
+DIP0944      A----GUUA--AAG----------UCG-AAAGUUAGAA------------
+DIP1281      AGC--AGUA--A----------------AUAUUGA---------------
+DIP1207      U----CGUA--ACGC--------GUUG-AUACGC----------------
+DIP0993      AGC--UUUA--AUGCU-----CGGUGG-AAACCA----------------
+DIP0094      CGC--AAUA--A----------------A---------------------
+DIP1482      AGC--UGCA--A----------------U---------------------
+DIP1902      C----AACA--A----------------A---------------------
+DIP0550      A----AGUA--A-------------A--AUUCUC----------------
+DIP1780      CGC-C--UA--AGUC-------UUAC--AUAAUUCUC-------------
+DIP0437      A----AGUA--AUCU--------UUUG-A---------------------
+DIP0651      CGU-A--UA--A--------------G-C---------------------
+DIP0562      CGC-U--UU--AU------------GU-ACAGG-----------------
+DIP0895      UGC-UGAUU--A----------------ACAGCCAGUAAGC---------
+DIP2267      AGC-A--UA--A----------------AAAAU-----------------
+DIP1355      U----GAUA--A----------------CUAA------------------
+DIP1396      U----CAUA-GA--------------G-AAAUA-----------------
+DIP1615      AGC-U--UC--A----------------AUAAAA----------------
+DIP1097      AGA-GAAUA--A----------------AUAACUCCACACU---------
+DIP1100      UGG-AUUUU--AGGG--------GGUU-A---------------------
+DIP1065      U----UGUA--A--------------G--AAG------------------
+DIP1803      AGC-G--UG--A-------------CG--CACC-----------------
+DIP1222      A----AAUC--A----------------AAACUGUAGGUC----------
+DIP0684      UGA-GAGCA--U--------------G--CAGCA----------------
+DIP2183      U----CCUA--AG-----------AUG--CAGAU----------------
+DIP0621      A----AAUG--AC------------A---UAGUG----------------
+DIP1731      UGA-CGUUG--A----------------A---------------------
+DIP1117      A----AAUA--A----------------C---------------------
+DIP1252      AGC-A--CU--A--------------G--AAGCCGA--------------
+DIP0571      CGC-G--CA--A----------------C---------------------
+DIP1347      UGG-GGACA--A----------------UUAAUCCUG-------------
+DIP1507      AGC-UAGUA--A----------------U---------------------
+DIP0521      CGC-UUCUA--AUC---------GCA---UAGA-----------------
+DIP2276      U----CCUA--AG------------GU-U---------------------
+DIP2375      AGC-A--CA-UA--------------G-C---------------------
+DIP2083      AGA-CACUA--AG-----------AGU-A---------------------
+DIP0780      U----CAUA--A--------------A-A---------------------
+DIP1628      U----CUUA--A-------------CG-CUAGU-----------------
+DIP1016      UGG--UGUA--A----------------CUAA------------------
+DIP0351      AGC-CAUCA--A--------------A-A---------------------
+DIP1624      AGA-GUCUC-GA----------------AAAAAG----------------
+DIP2128      UGC-G--UU--AUUGCAC--CGUAGGG-AUAAUCUCCA------------
+DIP1093      CGA-GCACA--A--------------A-CUAGGCA---------------
+DIP1867      UGC--UAUA--A----------------A---------------------
+DIP0490      AGC-UGAUA--A----------------ACCCC-----------------
+DIP1891      U----ACUA-CA--------------U-CUAAUC----------------
+DIP0992      U----CGUA-UA----------------AAACCU----------------
+DIP1885      C----GCUG--A----------------CUAGAUCUGAAGU---------
+DIP0702      U----UUUU--A----------------A---------------------
+DIP1350      AGC-AAUUU--AUU----------UUG-AAACUC----------------
+DIP1463      U----AGUU--AC------------UG-A---------------------
+DIP0786      C----AAUA--A--------------G--AAGCAA---------------
+DIP0174      A----GCCA--A----------------C---------------------
+DIP0743      U----CUUA--AU------------AG-AUAGCGGGGGA-----------
+DIP0831      AGA-AUCCA-CA----------------C---------------------
+DIP1128      CGC-AAAGA--A----------------A---------------------
+DIP2365      AGC-GCGCG--A----------------A---------------------
+DIP0628      UGU-UUGUU--AGCU--------GUC--A---------------------
+DIP2104      UGC--UGUA--A--------------G--UAC------------------
+DIP1330      A----AUUA--A----------------AUAAUCCCAGCUCAG-------
+DIP1570      UGC-GACUA--AUC---------CCUG--CAGUG----------------
+DIP0611      A----AGUA--ACC---------CUU---UACAUC---------------
+DIP0352      UGC-C--UA-CAC------------C--U---------------------
+DIP1173      CGG-UACUA--A-------------UG--AAGGCGCG-------------
+DIP0451      U----CACA-GA--------------A-A---------------------
+DIP2371      UGC-UUGUUGCA--------------GCA---------------------
+DIP1096      C----ACUA--A--------------GUU---------------------
+DIP1957      CGC-C--UA--AA------------AG-AAACCCCAC-------------
+DIP0870      AGC--ACUA--A----------------AAACUUUUU-------------
+DIP1413      C----AAUA--AA------------GACA---------------------
+DIP1760      UGC-GCGUA-CA-------------C--A---------------------
+DIP2191      CGG-A--UA--A----------------C---------------------
+DIP0938      CGC-AUCUG--A----------------CAACA-----------------
+DIP0645      A----AUCA--A----------------AUAGGGGG--------------
+DIP0803      U----GAUA-GA-------------C--A---------------------
+DIP1783      C----UGUA--A----------------AAACACUU--------------
+DIP0939      A----UCUA--A----------------AAAGUAAUUUU-----------
+DIP1063      AGC-C--UC--A----------------AUAGGGCAA-------------
+DIP1030      UGA--AAUA--A--------------A-C---------------------
+DIP1018      CGC-GACUA--AU-----------AAG-AAAACU----------------
+DIP1498      A----AAUU--AC-----------UCG-AUAGUAAUUGACCUC-------
+DIP0824      A----AGCA--AA------------GG-A---------------------
+DIP1488      U----CCUG--AU------------GG-C---------------------
+DIP0785      AGC--GCUA--AGUUGA---UGACCUG-CUAAUUU---------------
+DIP2235      UGA--AAUA--A----------------C---------------------
+DIP0882      AGA-A--CA--A----------------AAAGUAACUCAUUGC-------
+DIP1394      AGU-G--CA--AG-----------AU----GGU-----------------
+DIP0539      CGC--AUUC--A----------------U---------------------
+DIP1811      UGA-G--UA--AGU----------CCG-U---------------------
+DIP1552      CGA-U--UA--AC------------CA-CUAGUGC---------------
+DIP0199      C----AAUA-UA--------------G-UAAGCUGACGCU----------
+DIP1166      CGC-GCAUA--A--------------A-AUAGCAAUGGUUC---------
+DIP2117      C----GAUU--A----------------A---------------------
+DIP1249      CGC-ACGUA--A--------------G--UAGACUCCUAG----------
+DIP1129      UGA--AGUA--AUCGCU---UUCCUGGCAUAGU-----------------
+DIP0979      A----ACUA--ACC----------GC--ACACCA----------------
+DIP1174      UGU-UCGUA--AA------------UG-ACAUU-----------------
+DIP1045      AGG-GGGUA--A----------------AAAUCAU---------------
+DIP2322      AGA-AAACA--A----------------CAAAC-----------------
+DIP1919      CGC--UGUA--A----------------AAACA-----------------
+DIP1618      AGG-GGCUU--AG-----------UGU-U---------------------
+DIP0692      CGC-UACUA--AU------------G--AUCAUCGCGAU-----------
+DIP1978      C----CUUU--A----------------AUAUUG----------------
+DIP0650      UGA-CUAUA--A-------------AA-U---------------------
+DIP1308      CGC--AGUA--A-------------A--UUAGA-----------------
+DIP2036      UGC--CAUA--AGC----------AGG--UACCCACUCCGGG--------
+DIP1397      C----UGUA--A--------------G-C---------------------
+DIP0576      C----ACUA--A----------------AAACGGCGGAGUAGCAGG----
+DIP1784      U----AGUU--AGU----------UC--A---------------------
+DIP1904      UGC-G--CA--A-------------C--A---------------------
+DIP0225      C----UGUC--A--------------G-G---------------------
+DIP2253      CGA-CAACA--A----------------A---------------------
+DIP0969      A----AGUA--A--------------G-AUAGGUUCC-------------
+DIP0285      AGU-UCCUG--A----------------CUAGG-----------------
+DIP0079      CGC-A--CA-UAG------------CG-A---------------------
+DIP1327      CGC-GGCUU--AGACG------GACC--AUAGUUG---------------
+DIP1309      CGA-AAGCU--A----------------AAAGACC---------------
+DIP0771      U----UGUA--ACUC--------AAU-------GUCACA-----------
+DIP1080      U----UCUU--A----------------AUACU-----------------
+DIP0536      AGG--GAUA--A----------------AAACUAGC--------------
+DIP2194      U----GGUA--AGUA--------UUUG-A---------------------
+DIP0878      UGA-G--UA--A----------------A---------------------
+DIP0169      A----AGUA--A----------------UUAGCAAAUU------------
+DIP1402      UGU-G--UA--AAGA-------CUGCGCAUAG------------------
+DIP1669      AGA-UUCUU--A----------------A---------------------
+DIP0671      CGA-G--UA--A--------------G--UAAUCUGA-------------
+DIP2033      A----ACUA--A----------------U---------------------
+DIP0949      C----CUUC--A----------------ACACAG----------------
+DIP0010      C----UUUU--A--------------G-C---------------------
+DIP1348      C----GAUA--AG------------CG-UUAAUGCG--------------
+DIP0217      C----UGUA--AC------------C----AAAGCACCCCACGUA-----
+DIP1082      CGC--UUUA--A----------------A---------------------
+DIP1378      UGG-AAGCA-UA----------------AUACUUUUUGUU----------
+DIP1725      C----ACUA--ACC---------CCCG-UUAAUU----------------
+DIP1115      UGC-UGCUG--A----------------AUAAAGCUCAU-----------
+DIP1928      C----UCUA--A-------------CA-ACAGUUUU--------------
+DIP0649      CGC-CCUUA--A----------------AAAGA-----------------
+DIP1788      U----CUUA--A----------------AAAAAAUUCUUU----------
+DIP0839      U----UCUU--A----------------U---------------------
+DIP0303      AGA-CAGUA--A----------------AAAC------------------
+DIP1901      UGC--AGUA--AGGGC------AUGAA-AUAAC-----------------
+DIP0820      A----AAUA-CAG------------AG-AAAGAA----------------
+DIP0757      CGC-AUGCA--AA-----------CUG-A---------------------
+DIP2281      U----AGUA--A----------------A---------------------
+DIP1976      AGU-AGCUA-UA--------------G-A---------------------
+DIP1198      C----UUUA-GA--------------G--UAGAAGU--------------
+DIP1905      UGC-AGCUA--A--------------G--AAG------------------
+DIP2349      UGC-C--UA--AU-----------GCG-AUAGCCUAG-------------
+DIP1889      UGC--CUUA--AG-----------GCG-AAAACAC---------------
+DIP0157      AGC-ACCUA-UA----------------AAACCCGAA-------------
+DIP1029      CGU-CGCUAGGAGG---------AGGA-A---------------------
+DIP1071      CGC--UCUU--A----------------AAAGUAGUGGU-----------
+DIP1105      C----GGUA--AG-----------GCG--UACUCGAGG------------
+DIP0053      UGC-CACCAGCA----------------C---------------------
+DIP2282      AGC-GGAUA--A----------------AUAAAG----------------
+DIP1146      CGC--AUUA--AU------------UU-CAAGCUGG--------------
+DIP1264      UGU-UUUUA--A----------------U---------------------
+DIP0808      CGG-AGGUG--AUUG--------UGGG-AUAGGACUGGAUG---------
+DIP0427      AGG-C--UU--A----------------ACAGCCGAG-------------
+DIP1762      AGU-UCAUA--A----------------CUACUACCG-------------
+DIP2225      CGA-CGCUA--A----------------ACACUC----------------
+DIP1288      A----AAUU--A----------------A---------------------
+DIP0297      U----GCUA-GA----------------A---------------------
+DIP0302      AGC--AAUA--AAAU--------CGC--ACAACA----------------
+DIP0885      C----UGCC--A----------------C---------------------
+DIP0925      U----CCUA--A-------------UGCA---------------------
+DIP0430      AGC-UACUA--A----------------AAAGGUU---------------
+DIP1290      CGU-A--UA--A-------------CU-AUAGC-----------------
+DIP0396      C----GGUA--A--------------G-UAAGCCUCUUG-----------
+DIP1253      U----UCUA--AA-----------AGG--UAAU-----------------
+DIP1519      U----CGCA--AA------------GU-AUAGAUGCGUU-----------
+DIP1767      CGC-UCAUA-GA--------------U-AUAAA-----------------
+DIP1015      UGA--GCUA--AGGCA-----UAGGGG-A---------------------
+DIP0883      CGC--GCUA--A--------------A-CCACUA----------------
+DIP2329      C----AACA--A----------------CCAGUAGCGUU-----------
+DIP2018      AGU-UUUUA-GA----------------U---------------------
+DIP0515      AGC-ACUCA--A----------------U---------------------
+DIP1217      C----GCUA--AUA---------GUUU-A---------------------
+DIP0380      UGC-G--UA--AG-----------AUG--UAACG----------------
+DIP1805      CGA-AUUUU--AGG----------CA-----GAACCGG------------
+DIP2015      UGC-AUCCU--A--------------G--UAGUC----------------
+DIP0581      UGC-CGUUA--ACGGU------UUGCU-A---------------------
+DIP1121      CGG--CGUA--A----------------A---------------------
+DIP1793      UGA-G--UA--AUUUCU----UCAUUG-U---------------------
+DIP2379      A----AAUA--AC------------AG-UUAAUUCCCU------------
+DIP2376      U----ACUA--A----------------A---------------------
+DIP1582      AGC--CGUA--AC-----------GUU-C---------------------
+DIP1892      AGG-GCAUA--A----------------A---------------------
+DIP0619      UGU-G--CA--A--------------A-AUAGUCGU--------------
+DIP1659      AGG-A--UA--A-------------GA-A---------------------
+DIP2312      AGC--CCUA--AUCCA------CCACG-AAACCCGCCGAGC---------
+DIP0357      UGC-CGCUA--AC------------CA-A---------------------
+DIP1915      U----AAUA--A----------------CAACUACAGUG-----------
+DIP0635      UGA-CAAUU--A----------------CAACUUU---------------
+DIP0417      U----GGUC--A--------------G--UAGUGACCAUGCCAG------
+DIP0668      UGC-UAAUG--A-------------CU-A---------------------
+DIP1041      C----AUUA-CA----------------CAAGG-----------------
+DIP0997      AGC-CACUA--A-------------AA-C---------------------
+DIP0826      U----ACUA--AU-----------CGU-AUAGUUGU--------------
+DIP0023      CGU-CGAUA--A----------------C---------------------
+DIP1435      CGU-U--UA--A--------------G--CAACGCCGUGA----------
+DIP1766      UGG--CCUA--A--------------G-CUAUU-----------------
+DIP1287      AGC-G--UU--A----------------A---------------------
+DIP2115      A----GGUA--AG-----------CC--AUAGC-----------------
+DIP1088      UGG-C--UA--A----------------AAAAUUGG--------------
+DIP1714      AGA-AAGUU--A----------------U---------------------
+DIP2135      AGC-UGCUACGA----------------C---------------------
+DIP0406      CGC-ACCUC--A----------------A---------------------
+DIP2207      UGC--AGUA--A----------------CAAGC-----------------
+DIP1102      A----AGUA--A-------------GG--CAUCACGG-------------
+DIP1911      A----GGUA--A-------------CGCA---------------------
+DIP1879      A----CAUA--A----------------A---------------------
+DIP2056      C----GCUA--ACC----------CCU--CAGCU----------------
+DIP0920      C----UCUG--A----------------A---------------------
+DIP0685      A----CAUC--A--------------G-C---------------------
+DIP0941      C----AGUA--A-------------AA-CCAACGAU--------------
+DIP0620      CGC-A--UG--A-------------UG-U---------------------
+DIP0358      CGC-A--UA--A--------------G-A---------------------
+DIP1739      U----GGUA--AUUU--------CCA---CAGC-----------------
+DIP1259      UGU-G--UA--A----------------CUAGUUA---------------
+DIP2003      A----CCUC--A----------------AAAG------------------
+DIP0365      CGC-U--UU--A----------------C---------------------
+DIP0211      AGC--GCUA--AUCG--------CAGA-AUACGG----------------
+DIP1586      UGA-G--UA-GA--------------A-ACAAC-----------------
+DIP0309      C----UCUA-CA--------------G-CUAGUGCACAGUUAAAGCCCCA
+DIP0277      U----UUUA--A--------------G-AAAACCGU--------------
+DIP1611      CGC--UGUA-GAACGGCG-AAGGGGCG-A---------------------
+DIP2020      U----UCUA--AUUUUC----GGCCCA-AUACCUU---------------
+DIP2094      AGC-UAAUA--A----------------A---------------------
+DIP1801      U----GAUA--A--------------GCA---------------------
+DIP2238      AGU-GUGUA--A----------------AUCGCGGG--------------
+DIP1572      A----GUUA--ACG----------UCG-ACAC------------------
+DIP1119      UGC-GAGCA--AUG----------UC--A---------------------
+DIP2330      UGC--GUUA--AGC---------CCCA-AUAUUUCGCAGAUC--------
+DIP0111      U----GCUG--A--------------A-CCAG------------------
+DIP0183      UGC-A--UA--AG-----------CA--AUAGACA---------------
+DIP1896      A----CGUU--A----------------A---------------------
+DIP2134      C----AACA--A----------------ACAAUA----------------
+DIP0238      CGC-C--UA--AGC---------GGU--AAAACCA---------------
+DIP0253      A----UCUG--A--------------G--CAGG-----------------
+DIP0118      U----ACUA--A----------------AACGUUAUG-------------
+DIP2007      C----ACUG--A--------------G--UAGUUCGUUCU----------
+DIP0687      CGC-ACAUA--AUCU-------UUAGG-A---------------------
+DIP0543      A----GGCA--A----------------AUAUUU----------------
+DIP1331      UGA--UCCA--AGAG--------CGA---AAAAAUCU-------------
+DIP0914      CGC--UAUA--ACC----------CCG-ACACCUUAA-------------
+DIP2252      C----UGCC--A----------------AUAGCA----------------
+DIP0469      UGC-C--UA--A----------------CAACUAGCCUC-----------
+DIP0855      C----GGCA--A----------------AUAAUACG--------------
+DIP1364      U----AGCA--A--------------A-A---------------------
+DIP2284      C----UCUA--A-------------GA-A---------------------
+DIP0076      AGC-A--CA--A----------------AAAAU-----------------
+DIP1306      U----CGUA-UA----------------AAACC-----------------
+DIP1427      U----CAUA--A----------------UUAAU-----------------
+DIP0917      CGU-AAUUA--ACC----------CCG-AAACACG---------------
+DIP1698      CGC-UUCUU--AAG----------AAG-AUAGA-----------------
+DIP0038      U----UUUA-GAC------------UU-C---------------------
+DIP1455      C----UUUA-UA--------------G-AUAG------------------
+DIP1428      C----GUUA--A-------------UG-A---------------------
+DIP1495      A----CCUA--AA-----------GA--AUAAAG----------------
+DIP2014      CGC-AUCUA--AAA----------CA---UA--AAUUUUG----------
+DIP0777      UGU-CUCUU--A--------------U-AUAGC-----------------
+DIP0859      C----UGUA--A----------------UUAUUCUGCGGA----------
+DIP0637      C----GUUA--AAA---------CAGG-AAACCU----------------
+DIP2093      A----ACUA--AU------------CA-AUAGUUGCUAGC----------
+DIP1307      A----AGUA--AAA----------CCA-AAAC------------------
+DIP1494      CGC-A--UA--A--------------A-G---------------------
+DIP0630      A----UCUA--A--------------ACCUAGACC---------------
+DIP1454      UGGGGACUA--A----------------AAAA------------------
+DIP1419      AGC--CCUA--A--------------U-AAAGGC----------------
+DIP0080      C----UGCA--A----------------C---------------------
+DIP1846      U----CAUA--AAA----------GCG-A---------------------
+DIP1795      CGA-UUUCU--AGU----------UC--AUAGUCUUUGAC----------
+DIP1234      CGG-AUGUA--A----------------AUAAU-----------------
+DIP1226      AGC-AUCUU--A--------------U-UUAGAGUUCAU-----------
+DIP1418      A----GCUG--AA------------AG-ACAAAAGG--------------
+DIP1589      UGU-AACCA--A----------------ACAG------------------
+DIP2187      U----CGUA--A----------------AAACUAGUAUCGUCU-------
+DIP1283      CGC-UGAUU--AUG----------UCG-UAACC-----------------
+DIP0978      C----CACA-GA--------------A-A---------------------
+DIP1533      UGC-U--UU--A--------------U-A---------------------
+DIP0733      UGA--AGUA--AUCGA-----GCUCGA-A---------------------
+DIP0659      CGU-UUCUC--A-------------G---UAGA-----------------
+DIP0924      AGU-UUAUA--A-------------AG-A---------------------
+DIP2206      C----GAUG--A--------------A-C---------------------
+DIP0923      CGU-UAACA--A----------------AUAAAAA---------------
+DIP0657      U----UUUA--A----------------A---------------------
+DIP1943      CGA-G--UA-GA--------------A-ACAAC-----------------
+DIP0776      AGA-GGGUU--AC------------AU-AUAGC-----------------
+DIP1687      AGA-U--UA--AAU----------CCA-A---------------------
+#=GC SS_cons :::..::::..:..............:.:::::.................
+#=GC RF      cGc..acUA..A..............G.AuAgu.................
+
+DIP2336      ------GGGCAUGUACC---------------------------------
+DIP1504      -------------AAAA---------------------------------
+DIP1062      ------------CCUGA---------------------------------
+DIP1027      --AUCUAGGGCUCUUAG---------------------------------
+DIP0647      -------------AGCA---------------------------------
+DIP0646      -----------GCACAG---------------------------------
+DIP2131      -------------AUCG---------------------------------
+DIP1796      ------CACCUUGAAGG---------------------------------
+DIP1077      -------------ACAG---------------------------------
+DIP1637      -------------AUAA---------------------------------
+DIP1026      ------------GACGG---------------------------------
+DIP2285      --------GGCAUUGAG---------------------------------
+DIP2266      -------------AUCA---------------------------------
+DIP1699      -------------AAAA---------------------------------
+DIP1590      -------------GCAC---------------------------------
+DIP1149      -------------AAGG---------------------------------
+DIP1982      -------AUGCGAGAUC---------------------------------
+DIP1339      -------------AAAU---------------------------------
+DIP0329      ---------GUGCAAGG---------------------------------
+DIP1078      ------------CAGUA---------------------------------
+DIP0502      ---------UAUCAGAA---------------------------------
+DIP1503      -------------AGCG---------------------------------
+DIP0989      -------------AGAU---------------------------------
+DIP0578      -------------AAAA---------------------------------
+DIP1157      ----------GAAACGA---------------------------------
+DIP0988      -------------AAAG---------------------------------
+DIP1631      -------------UUCC---------------------------------
+DIP2130      -------------CGGU---------------------------------
+DIP1310      --------ACCCUGCGG---------------------------------
+DIP1338      -------------UAAU---------------------------------
+DIP1415      ------UUUCACACUCC---------------------------------
+DIP0775      -------------AGAG---------------------------------
+DIP0470      ------GGCGCAUAGAA---------------------------------
+DIP1608      ----------CACCACU---------------------------------
+DIP1388      -------------AUUA---------------------------------
+DIP1360      -----ACGCUUGCGGCG---------------------------------
+DIP0858      ------------CAACC---------------------------------
+DIP1148      -----------UUAAGG---------------------------------
+DIP0579      -------------AAAG---------------------------------
+DIP1807      -------------AAAACGACCCAC----------------------AUU
+DIP2234      -------------ACAA---------------------------------
+DIP2070      -------------AAAC---------------------------------
+DIP1576      -------------AAGU---------------------------------
+DIP2129      -----------GAAAAA---------------------------------
+DIP0682      -----CCUAGUCAUAGG---------------------------------
+DIP1987      -----------CUAAAG---------------------------------
+DIP2060      -------------AAGG---------------------------------
+DIP1038      -------------GACU---------------------------------
+DIP1208      ------------GAUGC---------------------------------
+DIP0836      -----------UUGUGU---------------------------------
+DIP1142      ------------CUAGG---------------------------------
+DIP1481      ----------ACUAGAG---------------------------------
+DIP1438      -------------AAAU---------------------------------
+DIP1638      -------------AUAA---------------------------------
+DIP0542      ------------AAUCG---------------------------------
+DIP0699      ----------CACAACA---------------------------------
+DIP1890      -------UUGACACAAC---------------------------------
+DIP1872      -------------CAAA---------------------------------
+DIP1301      -------CAAAGUAAAA---------------------------------
+DIP1225      -------------AGGG---------------------------------
+DIP1233      -------------AUCG---------------------------------
+DIP0027      -------------GGGC---------------------------------
+DIP1359      -------------AGCG---------------------------------
+DIP1437      ------------AAAAU---------------------------------
+DIP0320      ----GCUAGCUACAAGA---------------------------------
+DIP1162      -------------AUGG---------------------------------
+DIP0892      -------------AACA---------------------------------
+DIP1477      --------AUCAUCAGG---------------------------------
+DIP1918      ----------GCUAAGU---------------------------------
+DIP1241      ------------UAAAG---------------------------------
+DIP2300      --------------CAC---------------------------------
+DIP1240      -------------AAAG---------------------------------
+DIP1501      -------------UAAA---------------------------------
+DIP0212      -------------AAUG---------------------------------
+DIP0447      ----GGUCUGUUGUAGA---------------------------------
+DIP0529      -------------CGAG---------------------------------
+DIP1502      -------------AAAG---------------------------------
+DIP1423      -------------AGCA---------------------------------
+DIP0933      -----------CGAAAG---------------------------------
+DIP2069      -------------AAAC---------------------------------
+DIP1371      -------UGAUUGAAAA---------------------------------
+DIP1871      -------------AAGA---------------------------------
+DIP1616      -------------AUAA---------------------------------
+DIP1035      -------------UACC---------------------------------
+DIP1642      -------------AAAA---------------------------------
+DIP1057      ------------CAAGA---------------------------------
+DIP1081      --CGGAAAUACCACAAG---------------------------------
+DIP1630      -------------AUCC---------------------------------
+DIP1622      ----------AGAUUAG---------------------------------
+DIP1452      -------------AAAG---------------------------------
+DIP0006      -------------GAAG---------------------------------
+DIP1022      -------------UAAU---------------------------------
+DIP0368      -----------GAAGAU---------------------------------
+DIP1311      -------------UAAA---------------------------------
+DIP1927      -------------AAUA---------------------------------
+DIP0901      ------------UCGAA---------------------------------
+DIP2119      ---UCACUGAGAUGAAU---------------------------------
+DIP2311      -----CGGGAUUCAUUG---------------------------------
+DIP1666      -------------AAUC---------------------------------
+DIP1254      -------AGUGGAAUAA---------------------------------
+DIP1354      --------------UGG---------------------------------
+DIP1422      -------------GAAU---------------------------------
+DIP2299      -------GAGGUGAACU---------------------------------
+DIP2270      -------------AAAA---------------------------------
+DIP0595      --------ACACCAAGC---------------------------------
+DIP1865      ------------GAAAA---------------------------------
+DIP2320      ----------ACGAGAA---------------------------------
+DIP0626      -----------AGCGAC---------------------------------
+DIP0378      --------ACCAACAGC---------------------------------
+DIP1001      -------------AAAG---------------------------------
+DIP1176      ----------UUUAAGG---------------------------------
+DIP1401      -------------AAAA---------------------------------
+DIP0522      -----------AAAAAG---------------------------------
+DIP0482      -----------AAGAAC---------------------------------
+DIP0943      ------------GAAGG---------------------------------
+DIP1888      -------------ACCU---------------------------------
+DIP1643      -------------AAAA---------------------------------
+DIP1639      -------------AAAC---------------------------------
+DIP1002      ------------GAAAG---------------------------------
+DIP1532      -----------UCUUAA---------------------------------
+DIP0932      ------------AAAAG---------------------------------
+DIP0596      -----------CGAAGC---------------------------------
+DIP0101      -------------AAAA---------------------------------
+DIP1104      --------CGUUCAACG---------------------------------
+DIP0956      -GAACUCCGUCGUGAGC---------------------------------
+DIP1216      -------------GAAA---------------------------------
+DIP1450      -AUAGUGGCAAUGCUUC---------------------------------
+DIP0774      -AGUAUUGCUUGAAAAG---------------------------------
+DIP2000      --------GCAACAAUC---------------------------------
+DIP0560      ------------CAUUG---------------------------------
+DIP1468      -------------UUGC---------------------------------
+DIP0278      -----CUAUUCAUAAGG---------------------------------
+DIP1416      -------------AUCC---------------------------------
+DIP1660      -------------AAAA---------------------------------
+DIP0426      ----------GACUUAUG--------------------------------
+DIP0373      ----CUCCGCGUAAUCG---------------------------------
+DIP0951      -------------CUGC---------------------------------
+DIP1764      -------------C------------------------------------
+DIP1219      ------------CGUCG---------------------------------
+DIP1275      -------------A-GA---------------------------------
+DIP1276      -----UGGUUUUUAGAU---------------------------------
+DIP0242      -------------GGGG---------------------------------
+DIP1353      -------------UGCA---------------------------------
+DIP1300      -------------A------------------------------------
+DIP1155      --------AAAUACACA---------------------------------
+DIP0161      -------------AGUG---------------------------------
+DIP0853      -----------CAAUGA---------------------------------
+DIP1794      -------------AUGU---------------------------------
+DIP1272      ---CACCAUGACUAUGU---------------------------------
+DIP1421      -------------AAUG---------------------------------
+DIP0001      ------------UUAAG---------------------------------
+DIP1095      ------------CAAAG---------------------------------
+DIP1479      -----------UUAAGC---------------------------------
+DIP0730      -------------AGAA---------------------------------
+DIP0787      -------------AUAA---------------------------------
+DIP0173      ------------GGUCC---------------------------------
+DIP2025      -------------UGGG---------------------------------
+DIP0749      ---UACGCACUGCACAU---------------------------------
+DIP2271      ------------AAGAA---------------------------------
+DIP0541      -----UCGUUGAAAUCC---------------------------------
+DIP1020      ------CACUCAUAAAA---------------------------------
+DIP1961      -------------CAAA---------------------------------
+DIP0221      -------------AGAU---------------------------------
+DIP1056      ---------GCAAAAGA---------------------------------
+DIP1256      -------------UUAA---------------------------------
+DIP0102      -------------UCGG---------------------------------
+DIP1467      ------------CAAGC---------------------------------
+DIP1393      ------------UAAAA---------------------------------
+DIP1636      -------------UGAG---------------------------------
+DIP0570      ---UGUACCCAAGAUCC---------------------------------
+DIP1037      ------CAAUUUAACUA---------------------------------
+DIP1514      -------------AAGC---------------------------------
+DIP0185      ------------GU------------------------------------
+DIP1156      -------------AAUG---------------------------------
+DIP1302      ---UCCAUACUGCAAAC---------------------------------
+DIP1242      -------------UUUA---------------------------------
+DIP1197      ---------AUCGUUAG---------------------------------
+DIP1553      -------------GACC---------------------------------
+DIP1424      -------------AAGC---------------------------------
+DIP1866      -------------GAAA---------------------------------
+DIP1460      -------CUUGACAGUU---------------------------------
+DIP0631      ------------AAAAA---------------------------------
+DIP1459      -------------UGAA---------------------------------
+DIP1213      -------------ACAG---------------------------------
+DIP2180      ----------CCCCAAG---------------------------------
+DIP0005      -------------GAAG---------------------------------
+DIP1864      ----UUCUGACUUUGAA---------------------------------
+DIP0488      -----AGCAACGUGAAA---------------------------------
+DIP1635      -----------CCAGAG---------------------------------
+DIP0835      -UAGGGGGGACGUGUGU---------------------------------
+DIP2116      -------------AGAA---------------------------------
+DIP0658      -------------UUUC---------------------------------
+DIP0608      ---------ACUCGGCG---------------------------------
+DIP0903      -------------CACA---------------------------------
+DIP1787      -------------ACGA---------------------------------
+DIP2275      ---------UUAGGUGA---------------------------------
+DIP2125      -------CAACCCUGAAC--------------------------------
+DIP0832      -------------CGGG---------------------------------
+DIP0944      --------CGCACAAGG---------------------------------
+DIP1281      ----------AUAAACG---------------------------------
+DIP1207      -----------AAAAGC---------------------------------
+DIP0993      -----------CAGAGG---------------------------------
+DIP0094      -------------AAAC---------------------------------
+DIP1482      -------------UCUA---------------------------------
+DIP1902      -------------AGGG---------------------------------
+DIP0550      -----------UUA------------------------------------
+DIP1780      ---------UUUGCAGC---------------------------------
+DIP0437      -------------UUAA---------------------------------
+DIP0651      -------------GUAA---------------------------------
+DIP0562      -------------CAAG---------------------------------
+DIP0895      -----UUCACCACCGCC---------------------------------
+DIP2267      -------------AUCA---------------------------------
+DIP1355      -------------GAUG---------------------------------
+DIP1396      ------------CAGGG---------------------------------
+DIP1615      -----------CGCUAA---------------------------------
+DIP1097      ----UUAACCGCUAGUA---------------------------------
+DIP1100      -------------AGGG---------------------------------
+DIP1065      -------------GUAC---------------------------------
+DIP1803      -------------A------------------------------------
+DIP1222      ------GAUGGAAAGCA---------------------------------
+DIP0684      ------------UCAAA---------------------------------
+DIP2183      ------------CCUGA---------------------------------
+DIP0621      -----------GACUGA---------------------------------
+DIP1731      -------------CUGGUU-------------------------------
+DIP1117      -------------AAAA---------------------------------
+DIP1252      ----------UCAAAGC---------------------------------
+DIP0571      -------------AAGC---------------------------------
+DIP1347      --------AGAACAGUG---------------------------------
+DIP1507      -------------AAUG---------------------------------
+DIP0521      -------------AUAA---------------------------------
+DIP2276      -------------UAAA---------------------------------
+DIP2375      -------------AAAG---------------------------------
+DIP2083      -------------AAGC---------------------------------
+DIP0780      -------------AGAAACGCUUU------------------------CA
+DIP1628      ------------UCUGG---------------------------------
+DIP1016      -------------AAGC---------------------------------
+DIP0351      -------------AGCU---------------------------------
+DIP1624      ------------GGGCG---------------------------------
+DIP2128      -------CGGAGUCACC---------------------------------
+DIP1093      ----------GACAGUG---------------------------------
+DIP1867      -------------AAAA---------------------------------
+DIP0490      ------------CUGCU---------------------------------
+DIP1891      -----------CUAAUG---------------------------------
+DIP0992      ------------ACGGG---------------------------------
+DIP1885      -----CCACACCAUACG---------------------------------
+DIP0702      -------------GGCG---------------------------------
+DIP1350      -----------CGACCG---------------------------------
+DIP1463      -------------UUAA---------------------------------
+DIP0786      -----------CAAUAA---------------------------------
+DIP0174      -------------AUCC---------------------------------
+DIP0743      ------GUUGUUAUCGC---------------------------------
+DIP0831      -------------AGGG---------------------------------
+DIP1128      -------------AGUG---------------------------------
+DIP2365      -------------AAAG---------------------------------
+DIP0628      -------------UGGU---------------------------------
+DIP2104      -------------AUGGUGA------------------------------
+DIP1330      --CGCCCUUGUUGCUAA---------------------------------
+DIP1570      ------------CAUGC---------------------------------
+DIP0611      ----------ACAUCAA---------------------------------
+DIP0352      -------------UUAG---------------------------------
+DIP1173      ---------CUUU----GGG------------------------------
+DIP0451      -------------GAGC---------------------------------
+DIP2371      -------------UUCA---------------------------------
+DIP1096      -------------A-AA---------------------------------
+DIP1957      ---------GCGGGAAC---------------------------------
+DIP0870      --------CACACCGAC---------------------------------
+DIP1413      -------------UAAA---------------------------------
+DIP1760      -------------CACC---------------------------------
+DIP2191      -------------CCAA---------------------------------
+DIP0938      ------------GAGUG---------------------------------
+DIP0645      ----------UGUAGCC---------------------------------
+DIP0803      -------------GACA---------------------------------
+DIP1783      ---------ACUUUGAG---------------------------------
+DIP0939      ------UAUCACCCACA---------------------------------
+DIP1063      --------AGAAAAUGA---------------------------------
+DIP1030      -------------CGCG---------------------------------
+DIP1018      -----------GGAAUA---------------------------------
+DIP1498      ---UCGGAGGUUUCAAG---------------------------------
+DIP0824      -------------AGAU---------------------------------
+DIP1488      -------------CAGU---------------------------------
+DIP0785      -----------CGACCG---------------------------------
+DIP2235      -------------AGCA---------------------------------
+DIP0882      ---ACUCCUAGCAAAAA---------------------------------
+DIP1394      -------------AAAA---------------------------------
+DIP0539      -------------AGGC---------------------------------
+DIP1811      -------------A--G---------------------------------
+DIP1552      -----------AUAAAA---------------------------------
+DIP0199      -----CGUAUCAUCUGG---------------------------------
+DIP1166      ----UCCAAUGAGAAUC---------------------------------
+DIP2117      -------------AAGA---------------------------------
+DIP1249      ------CAGGUUUUUAA---------------------------------
+DIP1129      -------------UGUG---------------------------------
+DIP0979      ------------CCAAG---------------------------------
+DIP1174      -------------GAAA---------------------------------
+DIP1045      -----------ACAAAU---------------------------------
+DIP2322      -------------CCCU---------------------------------
+DIP1919      ------------GGGAG---------------------------------
+DIP1618      -------------GUGG---------------------------------
+DIP0692      ------UGAGGGUAUUG---------------------------------
+DIP1978      ------------CAAGUUAAACGCGGCUGAUUCCAGGCCUAGGCGUGCUA
+DIP0650      -------------GAAU---------------------------------
+DIP1308      -------------GUGG---------------------------------
+DIP2036      ---CUCAAUGGUCAUCC---------------------------------
+DIP1397      -------------GAGG---------------------------------
+DIP0576      GGGUAUGCACUUACAUG---------------------------------
+DIP1784      -------------CCGG---------------------------------
+DIP1904      -------------CUUC---------------------------------
+DIP0225      -------------GUGG---------------------------------
+DIP2253      -------------AGGA---------------------------------
+DIP0969      --------AUGUCAAAC---------------------------------
+DIP0285      -------------AGAA---------------------------------
+DIP0079      -------------AGUG---------------------------------
+DIP1327      ----------AAGCAAC---------------------------------
+DIP1309      -----------UAAAGA---------------------------------
+DIP0771      ------CCCCGUUGGAAU--------------------------------
+DIP1080      ------------UAAAG---------------------------------
+DIP0536      ----------UUCAUCA---------------------------------
+DIP2194      -------------UUAA---------------------------------
+DIP0878      -------------AAAAUUU------------------------------
+DIP0169      --------UUCUCGACC---------------------------------
+DIP1402      -------------CAAA---------------------------------
+DIP1669      --------------GCU---------------------------------
+DIP0671      --------UCUCUUAGG---------------------------------
+DIP2033      -------------ACGC---------------------------------
+DIP0949      ------------CAAAA---------------------------------
+DIP0010      -------------AAAA---------------------------------
+DIP1348      ----------CCUUGUG---------------------------------
+DIP0217      -GGGUGCAUUUUUU------------------------------------
+DIP1082      -------------AAGG---------------------------------
+DIP1378      -----UUGUUUCAAGCG---------------------------------
+DIP1725      ------------GACAU---------------------------------
+DIP1115      ------AUCAGACAUUC---------------------------------
+DIP1928      ---------UAAGUACA---------------------------------
+DIP0649      ------------CUCAG---------------------------------
+DIP1788      ------CCCCCUGUUGA---------------------------------
+DIP0839      -------------CAAC---------------------------------
+DIP0303      -------------AAAG---------------------------------
+DIP1901      ------------AACGA---------------------------------
+DIP0820      -----------CCCGAC---------------------------------
+DIP0757      -------------UUGA---------------------------------
+DIP2281      -------------A------------------------------------
+DIP1976      -------------AAAU---------------------------------
+DIP1198      ---------GAGUAGGU---------------------------------
+DIP1905      -------------UAAG---------------------------------
+DIP2349      --------CGCGAUACAUUU------------------------------
+DIP1889      ----------AUUACCU---------------------------------
+DIP0157      ---------AAAUAGGG---------------------------------
+DIP1029      -------------GGAA---------------------------------
+DIP1071      -------AUAUCCAAAC---------------------------------
+DIP1105      -------AGAUCUCGGG---------------------------------
+DIP0053      -------------AGCA---------------------------------
+DIP2282      -----------CUCAAG---------------------------------
+DIP1146      ---------AAUUGAGC---------------------------------
+DIP1264      -------------CGCG---------------------------------
+DIP0808      -----GGGACUCGAAAC---------------------------------
+DIP0427      --------UGAAGAGCC---------------------------------
+DIP1762      --------CAGGAAAGA---------------------------------
+DIP2225      ------------CA------------------------------------
+DIP1288      -------------AAAA---------------------------------
+DIP0297      -------------ACCGGGCAGGAGC--------------------UGUU
+DIP0302      -----------CGAAAG---------------------------------
+DIP0885      -------------AUGC---------------------------------
+DIP0925      -------------CAAG---------------------------------
+DIP0430      -----------UUAUAU---------------------------------
+DIP1290      ------------C-AAGACGAUUU------------------------UC
+DIP0396      -------GCUCUUUUCC---------------------------------
+DIP1253      -------------UAAG---------------------------------
+DIP1519      -------CGUGAGGUCC---------------------------------
+DIP1767      -------------AAAU---------------------------------
+DIP1015      -------------GAGC---------------------------------
+DIP0883      -----------UGAAAA---------------------------------
+DIP2329      ------GUUGUGAUUGA---------------------------------
+DIP2018      -------------AUAA---------------------------------
+DIP0515      -------------CUUC---------------------------------
+DIP1217      -------------AAAA---------------------------------
+DIP0380      -----------CCACCA---------------------------------
+DIP1805      --------UACUGAGGA---------------------------------
+DIP2015      ------------CAUAG---------------------------------
+DIP0581      -------------CAAC---------------------------------
+DIP1121      -------------UAUU---------------------------------
+DIP1793      -------------GAAA---------------------------------
+DIP2379      -------GCAUACCAAG---------------------------------
+DIP2376      -------------AAAG---------------------------------
+DIP1582      -------------UUUG---------------------------------
+DIP1892      -------------AAUG---------------------------------
+DIP0619      ---------UUUUUAAC---------------------------------
+DIP1659      -------------AAGG---------------------------------
+DIP2312      -----GCCAAUUCAUUG---------------------------------
+DIP0357      -------------UAAA---------------------------------
+DIP1915      -------CUGUCAGUGC---------------------------------
+DIP0635      ----------GCAACGA---------------------------------
+DIP0417      -CAUGGCUUUUCCGGUG---------------------------------
+DIP0668      -------------AGCU---------------------------------
+DIP1041      -------------CGGA---------------------------------
+DIP0997      -------------UAAGUGA------------------------------
+DIP0826      ----------CACUCGG---------------------------------
+DIP0023      -------------GUGG---------------------------------
+DIP1435      ------CCACUUUAAAG---------------------------------
+DIP1766      ------------GCAAA---------------------------------
+DIP1287      -------------AAAG---------------------------------
+DIP2115      ------------UAAGU---------------------------------
+DIP1088      ---------GGGAGAAU---------------------------------
+DIP1714      -------------AGGG---------------------------------
+DIP2135      -------------AACG---------------------------------
+DIP0406      -------------UCAC---------------------------------
+DIP2207      ------------ACAAG---------------------------------
+DIP1102      --------ACCUGGAUA---------------------------------
+DIP1911      -------------CAGG---------------------------------
+DIP1879      -------------AAUA---------------------------------
+DIP2056      -----------CAGAUA---------------------------------
+DIP0920      -------------CUGG---------------------------------
+DIP0685      -------------AAAA---------------------------------
+DIP0941      ---------UAUUGUGA---------------------------------
+DIP0620      -------------G--G---------------------------------
+DIP0358      -------------AAAA---------------------------------
+DIP1739      -------------CCGC---------------------------------
+DIP1259      -----------ACCGCG---------------------------------
+DIP2003      -------------AAAC---------------------------------
+DIP0365      -------------UUCC---------------------------------
+DIP0211      -----------GCACGACUA------------------------------
+DIP1586      -------------AAUCC--------------------------------
+DIP0309      CGCUCAUUGAUCUAACA---------------------------------
+DIP0277      ---------GUGAUAAA---------------------------------
+DIP1611      -------------CGAU---------------------------------
+DIP2020      -----------UCAAAA---------------------------------
+DIP2094      -------------GGAU---------------------------------
+DIP1801      -------------U------------------------------------
+DIP2238      ----------GGUUGGC---------------------------------
+DIP1572      -------------GCAC---------------------------------
+DIP1119      -------------AGGA---------------------------------
+DIP2330      ---CCCAUUGUGUUGCU---------------------------------
+DIP0111      -------------GCGA---------------------------------
+DIP0183      ----------GCCAAGU---------------------------------
+DIP1896      -------------GAAA---------------------------------
+DIP2134      -----------UAAAAG---------------------------------
+DIP0238      ----------GGCAGG-G--------------------------------
+DIP0253      -------------GGAG---------------------------------
+DIP0118      ---------UCCCUUUG---------------------------------
+DIP2007      -----UUUCCGCGUGGC---------------------------------
+DIP0687      -------------GAAG---------------------------------
+DIP0543      -----------AUCAAG---------------------------------
+DIP1331      ---------AGUUACAU---------------------------------
+DIP0914      --------UCCCAA------------------------------------
+DIP2252      -----------GCAAUG---------------------------------
+DIP0469      -------UCGCUUA------------------------------------
+DIP0855      ---------UUCACAGG---------------------------------
+DIP1364      -------------GUGU---------------------------------
+DIP2284      -------------AUAG---------------------------------
+DIP0076      -------------A------------------------------------
+DIP1306      -------------AAAA---------------------------------
+DIP1427      ------------GAAGU---------------------------------
+DIP0917      -----------UUUCAG---------------------------------
+DIP1698      -------------AAAA---------------------------------
+DIP0038      -------------AGGU---------------------------------
+DIP1455      -------------AUAG---------------------------------
+DIP1428      -------------AGUG---------------------------------
+DIP1495      -----------CGAAGG---------------------------------
+DIP2014      -----UUUUCACGUUAG---------------------------------
+DIP0777      -------------AAGG---------------------------------
+DIP0859      ------CUAUCUCAACC---------------------------------
+DIP0637      -----------CUGGGU---------------------------------
+DIP2093      -----CAAACGAUAAGG---------------------------------
+DIP1307      -------------GUGU---------------------------------
+DIP1494      -------------CGAA---------------------------------
+DIP0630      -----------CGAAUG---------------------------------
+DIP1454      -------------GAUA---------------------------------
+DIP1419      -----------GUACGU---------------------------------
+DIP0080      -------------GGCC---------------------------------
+DIP1846      -------------GAAG---------------------------------
+DIP1795      ------AUGCUUGAAGG---------------------------------
+DIP1234      -------------CGGU---------------------------------
+DIP1226      -------CGCCAAAGGG---------------------------------
+DIP1418      ----------CGUACGU---------------------------------
+DIP1589      -------------AUGA---------------------------------
+DIP2187      --AACCUAUAUGUAAGG---------------------------------
+DIP1283      -------------AUAG---------------------------------
+DIP0978      -------------UCGACG-------------------------------
+DIP1533      -------------GUCG---------------------------------
+DIP0733      -------------ACAU---------------------------------
+DIP0659      -------------AAAA---------------------------------
+DIP0924      -------------AACG---------------------------------
+DIP2206      -------------AGCA---------------------------------
+DIP0923      ----------CGCGAGG---------------------------------
+DIP0657      -------------AGGG---------------------------------
+DIP1943      ------------AACCC---------------------------------
+DIP0776      ------------AAGGG---------------------------------
+DIP1687      -------------AAAU---------------------------------
+#=GC SS_cons .............:<<<.................................
+#=GC RF      .............Aaag.................................
+
+DIP2336      ------C-CGCCU----CG--C------U---GGC--ACACG--------
+DIP1504      ------G-CGCAA----CC--G------G---CCC--CUAAUCUG-----
+DIP1062      ------U-CCGCU----UC--U------A---GUGAGCUA--ACAAUCAC
+DIP1027      ------A-CGGUG----GC--C------U---CUU--UCAGUUUCAC---
+DIP0647      ------G-CCGGU----UC--G------A--------AUCUCCGCGCG--
+DIP0646      ------C-AGCCG----GU--U------C---GAU--UAUCUCCCGC---
+DIP2131      ------G-UCCGG----CG--A------G--------UUGGGUAGCACCA
+DIP1796      ------G-GUGUG----CC--G------A---CCA--GU--U--------
+DIP1077      ------U-ACGCC----CU--C------C---GAA--GUGAUGA------
+DIP1637      ------A-GUGGU----CA--A------G---GAU--CUCU---------
+DIP1026      ------U-GGCCU----CU--U------U---CAG-CGUGA---------
+DIP2285      ------C-CCCUG----UG-UG------A---GAU--GAAU---------
+DIP2266      ------C-CGCCG----CG--G------A---GCA--CAACC--------
+DIP1699      ------G-UGCCG----CA--A------A---GGU--GUUAU--------
+DIP1590      ------A-CGCAC----UG--U------A---GGG--UUUAC--------
+DIP1149      ------U-GGGGG----UC--C------U---AGC--AAAAU--------
+DIP1982      ------G-GUCAG----GC--A------A---GUU-GGUCACAAAACACA
+DIP1339      ------G-UGGUG----GU--C------G---CAC--GUGAU--------
+DIP0329      ------G-AGAUC----CG--C------C---UCG--UUGAU--------
+DIP1078      ------C-GCCCU----CC--G------A---AGC--ACUUUUC------
+DIP0502      ------U-AUCCG----GU--U------A---CGC--AAGAUGAGUUU--
+DIP1503      ------G-AACCG----GC--C------U---CCU--ACAG---------
+DIP0989      ------G-GCGAC----GG--G------A--------AUAAU--------
+DIP0578      ------G-AGCUG----GU--A------G---GAA--GAUU---------
+DIP1157      ------G-UGCUG----GC--U------U---UAU--CACCUAACG----
+DIP0988      ------A-UGGCG----AC--G------G---GA---AUUAU--------
+DIP1631      ------C-GCUAG----UU--C------U---CCG--UUGUUUU------
+DIP2130      ------C-CGGCG----AG--U------U--GGGC--ACCAUUGUGGU--
+DIP1310      ------C-CCGGG----GU--G------U---ACC--UCGAG--------
+DIP1338      ------G-UGGUG----GU--C------G---CAC--AAUC---------
+DIP1415      ------G-CGGUG----UG--A------C---UUC--CAAG---------
+DIP0775      ------G-GGGUU----UC--U------C---GUA--CAAAU--------
+DIP0470      ------U-UGCCG----CU--U------C---CCC--ACAA---------
+DIP1608      ------C-GGGUG----UC--A------U---CAC--UGAA---------
+DIP1388      ------A-CCCAC----GA--U------G---UAU--UCAAC--------
+DIP1360      ------G-UGGGA----AU--G------C---ACA--GUAUUUUU-----
+DIP0858      ------G-CCUUC----UU--U------C---CUU--AAACUCACGAGCG
+DIP1148      ------U-GGGGG----UC--C------U---AGC--GUAUU--------
+DIP0579      ------A-GCUGG----CA--G------G---AAA--GAAAU--------
+DIP1807      GAACUGC-UCCCC----AU--A------A---UCC--GGACUGAGAAAU-
+DIP2234      ------A-CCCGA----CG--A------G---CUG--GA--U--------
+DIP2070      ------G-CAUCG----CG--UG----UG---GGA--GAAG---------
+DIP1576      ------C-UUUCA----CU--C------C---UUA--AACCU--------
+DIP2129      ------U-CCACA----CC--A------C---AUG--CU--CGAAAACUC
+DIP0682      ------C-UCCCA----CC--A------C---GGC--AGGGU--------
+DIP1987      ------G-GCGGU----UC--U------C---CUU--GAGUU--------
+DIP2060      ------G-UAGCC----UC------------------GAGC---------
+DIP1038      ------A-CCGCC----CU--C------C---UAG--AGACUU-------
+DIP1208      ------G-CCCUC----GU--U------U---CUA--UCGGCCAGAG---
+DIP0836      ------G-GGGCG----CU--U------A---CGG--GACU---------
+DIP1142      ------G-UGCCC----CA--C------G---ACU--GUUUC--------
+DIP1481      ------C-CUCUC----UC--G------G---GAC--UACG---------
+DIP1438      ------U-GUGCC----CG--A------A---AAC--CUGAG--------
+DIP1638      ------A-GUGGU----CA--A------G---GAC--UAGAG--------
+DIP0542      ------G-UGGUU----GG--U------U---GUG--GUAAU--------
+DIP0699      ------A-CGCCG----CC--U------C---CUG--UUGUUU-------
+DIP1890      ------G-CCCUG----AC--C------A---CCG--AAAC---------
+DIP1872      ------G-ACCGU----CA--C------C--------UUUC---------
+DIP1301      ------A-GCCUC----AU--G------A---UGA--UUUAUG-------
+DIP1225      ------G-CGGUG----UA--C------A---GGA--UUUUU--------
+DIP1233      ------G-UGUGGC--AUC--G------A---GCU--UUUAGAUGA----
+DIP0027      ------G-UCUCG----UG------------------UUUG---------
+DIP1359      ------G-UGGGA----AU--G------C---ACG-AGUAAUAAA-----
+DIP1437      ------U-GUGCC----CG--A------A---AAA--CCUCU--------
+DIP0320      ------G-GUCUU----AA--C-----GU---CCA--ACAUU--------
+DIP1162      ------C-CGCAC----UC--U------U--------AUUCC--------
+DIP0892      ------C-UGAAG----CC--U------U---CUU--UUCGCCAUGGCAA
+DIP1477      ------G-CACUG----UU--UC----U----CAU-AGGAAUGUUGAG--
+DIP1918      ------A-ACCCC----CU--G------A---GU---GC--U--------
+DIP1241      ------G-AGCAG----CA--A------U---GCU--GUACU--------
+DIP2300      ------C-CAACA----UA--A------C---ACC--UACUUCC------
+DIP1240      ------G-AGCAG----CG--A------C---GCC--UUAGU--------
+DIP1501      ------A-GCUUC----CG--C------A---UCU--AUAUCC-------
+DIP0212      ------C-AGGUG---AUG--U------U--------UUACUCACCAUCA
+DIP0447      ------A-GCGCC----GC--C------U---AGU--UU--U--------
+DIP0529      ------C-UGGUA----GU--U------A---CUC--AUAAU--------
+DIP1502      ------C-UUCCG----CA--U------C---UGU--GGAU---------
+DIP1423      ------G-UGGUU----CC--U------A---CUG--CUUGUAGA-----
+DIP0933      ------C-CGCAC----AU--U-----CU---GAA--GGAGUU-------
+DIP2069      ------G-CAUCG----CG--U------G--------GGGUUUUUCU---
+DIP1371      ------U-UCCCC----CU--G------A---AUU--GAACUAACUU---
+DIP1871      ------C-CGCCA----CC------------------GAAA---------
+DIP1616      ------U-GGGCC----CG--A------A---GCA-CACCGU--------
+DIP1035      ------C-CCAUU----UU--A------U---GCA--UAUAUU-------
+DIP1642      ------U-UCCCA----CG--C------A--------CGUG---------
+DIP1057      ------G-CGGCC----GG--U------U---UCC--CUUGUAG------
+DIP1081      ------G-CAGCG----CU--C------A---CAG--UUUUU--------
+DIP1630      ------C-GCUAG----UU--C------U---CCU--AGAA---------
+DIP1622      ------A-GGCCU----CA--G------C--------ACAU---------
+DIP1452      ------C-AGCGG----UA------------------CCUA---------
+DIP0006      ------G-CCCGC----UA--C------A---GAA--ACAC---------
+DIP1022      ------G-CGCUU----UA--U------A---CGU--CCAA---------
+DIP0368      ------G-CUCCU----CG--U------U---GCC--GCACC--------
+DIP1311      ------A-AGCCG----AU--G------U---GAU--AACCU--------
+DIP1927      ------C-UCCCC----CG--A------U--------AAACU--------
+DIP0901      ------G-CCGGC----CU--G------U--------UUUGU--------
+DIP2119      ------G-CGGGA----UC--C------A---GCA-GCCC--ACGGUG--
+DIP2311      ------U-UAGAU----UA--G------A--------CCCCC--------
+DIP1666      ------C-CCACU----UC--A------U---CCG--GUACUGUGAC---
+DIP1254      ------G-CCUCG----AU--A------C---CCU--AAACUGAUA----
+DIP1354      ------C-UCUUU----UU--C------A---ACU--UGAAU--------
+DIP1422      ------G-GUGGU----GA--G------G---AUC--GUGA---------
+DIP2299      ------U-AACAC----CC--A------A---CAU--AACACAUGUGGGA
+DIP2270      ------C-UCGCC----UG--C------G---GCA--AUUCC--------
+DIP0595      ------C-CCCAC---A-U--A------U---GCA--GCAAUUC------
+DIP1865      ------C-CGCUG----UG--C------A---ACU--AAUUU--------
+DIP2320      ------A-UCGGC----CC--A------G---CGA--GA--U--------
+DIP0626      ------G-ACGUG----UU--C------G--------UUCUU--------
+DIP0378      ------C-CCGCA---UUG--G------C---CUC--AUCCCACACAUA-
+DIP1001      ------G-GCGGC----CC--C------U--------CUAGG--------
+DIP1176      ------U-CCAAU----CU--C------A---UGU--UUUGU--------
+DIP1401      ------A-UGGAG----CU--G------C-----A--UAAA---------
+DIP0522      ------G-AGCGC----UC--C------C---CUC--ACCA---------
+DIP0482      ------C-CCCAG----AC--C------U---GCC--UUUAU--------
+DIP0943      ------C-GCCAC----GC--A------U--------GGGAU--------
+DIP1888      ------C-GGAUA----UU--U------C--------CACG---------
+DIP1643      ------A-UUCCC----AC--G------C---AC-----AC---------
+DIP1639      ------G-CCUCG----UG--G------C---AGA--CCUUGCUUUC---
+DIP1002      ------G-GCGGC----CC--C------U--------CCUAG--------
+DIP1532      ------C-CCCAC----GA--U------G---CUU-AAUGAUCCUACCUG
+DIP0932      ------C-CGCAC----AU--C-----GU---GAA-GGUAA---------
+DIP0596      ------C-CCCACG--C-----U----GU---GCA--GUGGG--------
+DIP0101      ------A-CGGCC----AG--AUGAGUUG---GGC--ACAAUGUUGC---
+DIP1104      ------G-ACCUU----UC--C------C---CCC--UAAA---------
+DIP0956      ------C-CCGCG----UC------------------ACCA---------
+DIP1216      ------A-CACCA----GC--G------G---AUU--UGAAGCAUCG---
+DIP1450      ------A-GCUGU----GC--A------G---UCU--GAAA---------
+DIP0774      ------G-UGGGU----GC--C------A---GUU--UUCAGC-------
+DIP2000      ------G-GCCUG----GU--G------A---GUU--CACCC--------
+DIP0560      ------C-CCGCA----CC--G------U---UAU--AUUGG--------
+DIP1468      ------C-GCCUG----AG--G------U---CUU--AGCA---------
+DIP0278      ------A-GGCGA----AG--G------G--------GAAA---------
+DIP1416      ------G-CGGUG----UG--A------C---UUC--UUGG---------
+DIP1660      ------C-CGAGA----CA--U------U---CCU--UUGAGG-------
+DIP0426      ----CAG-CUGCU----CU--A------G---CUC--CCAUU--------
+DIP0373      ------G-UGGAG----UC--A------U---CAC--ACAAG--------
+DIP0951      ------G-GCCGC----UG--U------G--------ACUAC--------
+DIP1764      --------CCCCG----CC--U------C---CAC--AUGAGCGUUCU--
+DIP1219      ------A-UGCCG----UG--U------A---GUC--GCAAC--------
+DIP1275      ------U-UGCCU----GC--C------G--------UUCACGAUAGGUU
+DIP1276      ------U-GCCUG----CC--A------U--GCAC--AAAACGUUCGCG-
+DIP0242      ------G-UUGCC----CA--C-----UU---AGC--GCAUU--------
+DIP1353      ------A-AGCUC---ACA--G------U--------GGGCUAGGCA---
+DIP1300      --------GCCUC----AU--G------A---UGU--UCCAU--------
+DIP1155      ------A-UGGUG----CC--A------U---GCG--UUUUC--------
+DIP0161      ------C-CCCUU----GU--G------A---CCG--GAAA---------
+DIP0853      ------A-GGCUG----AU--U------U---CGG--UUAG---------
+DIP1794      ------U-CCCCA----CG--C------A---CAC--CCCCUAG------
+DIP1272      ------U-CACCG----GC--C------G---CUC--GUUUG--------
+DIP1421      ------G-UGGAG----AG--G------A---UU---UCAC---------
+DIP0001      ------A-GGCUG----UA--G------G---UGG--CCCCUGUGGG---
+DIP1095      ------G-CCCUGG-UUCC--C------U---CUG--GAAUU--------
+DIP1479      ------C-GUAUC----AA--U------A--------CUUCCAAGGG---
+DIP0730      ------G-GAGUC----GG--U------U--------CCGC---------
+DIP0787      ------C-GCCCG----UA--G------A--UCGC--GAAUU--------
+DIP0173      ------G-GUGGG----CU--G------G---GAC--AUCUCACGA----
+DIP2025      ------A-CCGCC----AC------------------UUUU---------
+DIP0749      ------C-CCCAA----GA--A------A--------ACCACACGUACCU
+DIP2271      ------C-UCGCC----UG--U------G---GCA--GGAAU--------
+DIP0541      ------G-AGGCG----UU--U------U---CC---GUGACACC-----
+DIP1020      ------A-UCCAC----AC--C------G---GCA--AUGUUU-------
+DIP1961      ------G-CCCUA----CC--C------A---AAU--GUAA---------
+DIP0221      ------G-GCCCC----CU--U------U---GGU-UGAGAUGAUA----
+DIP1056      ------G-CGGCC----GG--U------U---UCC--CCCUUGAC-----
+DIP1256      ------C-UGCAC----AU--U------AA-UGGU--GAUAU--------
+DIP0102      ------C-CAGGU----GG--G------U---UGG--ACAGC--------
+DIP1467      ------C-CCUUG----CC-UC------A---GCU--UCUAGAGGGAUUC
+DIP1393      ------G-CGUGG----GG--U------C---AGU--AACUC--------
+DIP1636      ------C-CGACU----CC--U------U---CUG--AAAAC--------
+DIP0570      ------C-AGCUU---GCC--U------C---GCA--CCAAC--------
+DIP1037      ------C-CGCCC----UC--C------U---AGU--CAAGU--------
+DIP1514      ------G-CGCUU----CA--C------G---GUA--GCCCC--------
+DIP0185      --------GUGAU----AU--U------U--------UCGAUAUUU----
+DIP1156      ------G-UGCCA----UG--C------G--------AAAA---------
+DIP1302      ------G-CAGGU----UG--U------U---GGU--CCGCUUAUGU---
+DIP1242      ------U-GCGUA----AG--C------C---CCA--ACCAUAUAU----
+DIP1197      ------U-CGCCC----AU--U------U---GCU--AUGC---------
+DIP1553      ------A-CCGUG----GU-CA------G---GGG--AUAA---------
+DIP1424      ------A-GUGGU----UC--C------U---ACU--CUCUGCUCUA---
+DIP1866      ------A-AUCCC----CC------------------GCGA---------
+DIP1460      ------G-AAGCC----GU--U------G---ACC--GCUGUCUGGA---
+DIP0631      ------A-UGGGA----AG--G------A---AUC--GACG---------
+DIP1459      ------G-CCGUU----GA--U------C--UGCC---UGCUCCA-----
+DIP1213      ------G-CUGGG----CA------------------UUUU---------
+DIP2180      ------G-UGGCU----UC--C------U--------UACGU--------
+DIP0005      ------G-CCCGC----CG--C------A---GA---GUGUU--------
+DIP1864      ------C-GAGGA----CC--U------A---AGU--UU--U--------
+DIP0488      ------C-CCCCU----UC------------------UUCG---------
+DIP1635      ------C-CGACU----CC--C------C---CUG--UUUUC--------
+DIP0835      ------G-GGGCG----CU--U------A---CGA--AAUAG--------
+DIP2116      ------G-AACCG----CA--C------C---UAG--CAAUU--------
+DIP0658      ------U-ACCUC----AC--C------U---CUC--GCAGG--------
+DIP0608      ------A-AGGCG----CC--C------C---CGU--GAGC---------
+DIP0903      ------A-UCCCG----CG--C------G---CGA--GCACC--------
+DIP1787      ------G-AGCCC----AU--C------G---CAC--GCAU---------
+DIP2275      ------A-UGCUC----AU--G------A---GGA--UUGUC--------
+DIP2125      ----UGC-UCCCC----AU--A------A---UCC--GGACUGAGAAAU-
+DIP0832      ------C-CCUCA----CA--C-----AA---GCA--UUAUU--------
+DIP0944      ------C-GCCAC----GC--A------U--------AUCCC--------
+DIP1281      ------G-GUGAA----AG--U------C---UCG--ACCGUGAGGAUA-
+DIP1207      ------G-CCCUC----GU--U------U---CUA--UCAUUUUCUC---
+DIP0993      ------G-AGGCG----UC--G------A---CAA--GCAAU--------
+DIP0094      ------G-GAUUG----CG--CC----AU---CCA--UUGUU--------
+DIP1482      ------G-AGCCU----CU--C------U---CGA-GAUCGU--------
+DIP1902      ------U-UGGCA----CU------------------GACACAGAUAA--
+DIP0550      --------UGGAG----CG--C------A--------CCAA---------
+DIP1780      ------A-CCCGG---GCA--GC---AU-----------UUCUGAUUU--
+DIP0437      ------G-CUCCC----GU--U------C-----C--AUUCU--------
+DIP0651      ------G-CGGCG----UA--C------G---CCC--UUAUUCUCUCGAU
+DIP0562      ------C-CGCUU----CA--C------C--------ACGAUG-------
+DIP0895      ------G-CGCGA----GC------------------UUGA---------
+DIP2267      ------C-CGCAG----CA--G------A---GCU-GGUUGU--------
+DIP1355      ------G-CUCUU----UU--UC----CA---ACU--AUUC---------
+DIP1396      ------A-CGAGC----CU--A------G---AUU--CCAA---------
+DIP1615      ------U-GGGCC----CG--A------A---GCG--ACGGU--------
+DIP1097      ------U-GGCCG----CC--U------U---CCC--ACUGG--------
+DIP1100      ------C-CUCGC----CU--C------A---GUU--GUGA---------
+DIP1065      ------G-UUGCC----GA--C------C---AGC--AUCA---------
+DIP1803      --------AGCCA----CC--U------C---GGC--GUUUU--------
+DIP1222      ------A-GGCCC----CG--U------U---AUU--AUGUCACAGU---
+DIP0684      ------C-CCCUU----UG--C------U---ACG--AAAU---------
+DIP2183      ------A-CAACA----AG--U------G---GGU--GCGAU--------
+DIP0621      ------G-CGCUG----CG--A------A---GCU--UU--U--------
+DIP1731      ---GUGC-UUGCC----GA------------------UGAAU--------
+DIP1117      ------G-CCUCC----AC--C------C--------AAAA---------
+DIP1252      ------G-GGAAG----CG--G------C---CAU--UGUAUG-------
+DIP0571      ------A-CGCCU----AG--CG---CAA---GCG--ACUAC--------
+DIP1347      ------C-UUCCC----CC--A------U---ACA--AUAG---------
+DIP1507      ------C-CCGUG----CA------------------UUCG---------
+DIP0521      ------G-GAGCG----CU--C------C---UCU--UUGGU--------
+DIP2276      ------G-AGCCG----CC--A------A---UGU--GUCCGAAAA----
+DIP2375      ------G-GAGCC----UC------------------CUAG---------
+DIP2083      ------U-AGCCG----AC--C------G---GGU--AAAAU--------
+DIP0780      CCCGAAC-CCCCU----UC--U------C---AGC--AUGCGGUUGCAAA
+DIP1628      ------C-UAGUG----UC-AU------C---CUC--GGAAG--------
+DIP1016      ------C-CUUCG----CA--G------U---CAC--ACAC---------
+DIP0351      ------A-GCGAC----CA--C------C----------AAU--------
+DIP1624      ------U-UGGUGCAAGAU--U------U---CAC--GUAAG--------
+DIP2128      ------G-CGAUG----GU--G------G---GCU-GGCGA---------
+DIP1093      ------G-AUGUA----GU--C------C--------CUCG---------
+DIP1867      ------U-CCCCC------------------------UCGC---------
+DIP0490      ------G-CCGAU----UG--C------C---UC---AUCAU--------
+DIP1891      ------C-CACCU----CA------------------CACC---------
+DIP0992      ------A-GGCAU----CG--A------U--------UGCUU--------
+DIP1885      ------G-CCACC----AU--U------C--------CACCG--------
+DIP0702      ------C-ACUCU----UG--U------C---ACG--GU--U--------
+DIP1350      ------C-AUCGA----UGUAA------A---CAA--UAAUU--------
+DIP1463      ------U-CCCUC----GG--A------G---GUU--GUCGCUUUACU--
+DIP0786      ------C-GCCCG----UA--G------A--------CAAAUUC------
+DIP0174      ------G-GUGGG----CU--G------G---AAU--CUCUUCGU-----
+DIP0743      ------G-AUGAG----GU--C------A---GCA--UUGU---------
+DIP0831      ------C-CCUCA----CA--U-----CA---GCA--CAUC---------
+DIP1128      ------G-GGCUU----CC--U------A---GAG--CGAAC--------
+DIP2365      ------U-GGGUA----GU--U------C---GGG--ACACG--------
+DIP0628      ------G-UCGUU----UC--U------G--------UUAU---------
+DIP2104      ---CUAG-UCGGC----UG--G------A---GGA--ACAA---------
+DIP1330      ------C-CGCAG----GU--A------G---GA---AAGC---------
+DIP1570      ------G-UGCUC----UG-UC------A---CCU--GAUU---------
+DIP0611      ------G-CCCCG---UAA--C------C---UCU--GCGC---------
+DIP0352      ------C-UAGCG----AC--C------A---CC---AU--U--------
+DIP1173      ---GCGG-CCGCU------------------------UCUCU--------
+DIP0451      ------A-UCAAG----UG--U------U---GAA--CUAGU--------
+DIP2371      ------G-GCCCU----CG--C------C--------GAAA---------
+DIP1096      ------G-GCCCUA--ACC--C------U---CUC--UAAUU--------
+DIP1957      ------G-UGGGG----CA--G------U----------GA---------
+DIP0870      ------G-CCCCC---AUC--U------C---CCG--CGAGUGCCCGCUG
+DIP1413      ------C-GCCUA---U----U------A---AAA--GCAAU--------
+DIP1760      ------A-CACCC----UCUCG------C---AAU--GCAA---------
+DIP2191      ------C-GUCCA----UG--U------A---ACA--UUUUUGUCAUCG-
+DIP0938      ------C-GCCUC----CU--A------G---UCA--CCUUC--------
+DIP0645      ------G-AGGCG----UUUUC------U---GU---UUGCU--------
+DIP0803      ------G-UCCCC----AC--C------C---CGU--ACUUU--------
+DIP1783      ------G-GAGCG----UG--U------A---CAC--ACCCC--------
+DIP0939      ------C-CCCGU---AAC--C------UU-UGUC--CUAAG--------
+DIP1063      ------U-CCGCU----CC--U------A---GUG--AACUUGCAUCGCA
+DIP1030      ------C-GGCUC----AA--A------G---UCU--UUCCU--------
+DIP1018      ------A-GGGAG----UA--C------G---GUA--GUUA---------
+DIP1498      ------G-GUGCA---UCG--G------A--------AUAUU--------
+DIP0824      ------G-GUCAC----AU--G------U--------CUGAUA-------
+DIP1488      ------U-UUGUGU--U-G--U------C---A----CCGAUU-------
+DIP0785      ------A-GCGAG----UG--G------A---UUU--UCAGU--------
+DIP2235      ------A-ACCCG----AC--G------A---ACU--AUCC---------
+DIP0882      ------C-UCCCU----UG--GC----AC---UCA-UGCGAUCA------
+DIP1394      ------G-CGUGG----GA--C------C---AGC--AGCAUUUG-----
+DIP0539      ------G-GUGUC---UCA--G------C---ACU--GCCCUAGCCCA--
+DIP1811      ------G-AUGUG----GG--A------G---AGU--UUUAU--------
+DIP1552      ------A-AUCCA----CC--G------U---GGA--AAGGUUUAUC---
+DIP0199      ------G-UCCAGA--CCA--C------A--------ACAA---------
+DIP1166      ------C-CCAUG---U-C--A-----AU---GAA--GUAAU--------
+DIP2117      ------A-CCGCA----CC--U------A---CAA--UUGCU--------
+DIP1249      ------G-UGGCA----CC--U------U--------UAAA---------
+DIP1129      ------G-GGCCU----CG--U------A---GAG--UUGUU--------
+DIP0979      ------G-GAGCC----CC--U------C--------CUAG---------
+DIP1174      ------A-UGCCA----GU--G------A--------AUAG---------
+DIP1045      ------G-AGGUC----UA---------------G--GAGAC--------
+DIP2322      ------G-UAGGA----AA--C------A---GCU-CGUUGU--------
+DIP1919      ------G-CUGGC---GCG--G------C---UAC--AUCGG--------
+DIP1618      ------G-UGUUG----GA--U------A---GUC--UAGAGUUU-----
+DIP0692      ------A-UGGCG----CU--G------G---CAA--GAAC---------
+DIP1978      UCCCACA-GCGAC----AU--C------C---AGA--GCUUC--------
+DIP0650      ------U-CCUCG----GG--A------G--------CAAUU--------
+DIP1308      ------C-UCCGU---GUU--G------U--------GCCUU--------
+DIP2036      ------C-CGCCG----CG--G------U---CUC--UAAAG--------
+DIP1397      ------G-ACGGG----CC--U------U---GAU--UUUUUG-------
+DIP0576      ------C-CGGUGC-GU----G------A---GAA--ACGCUUA------
+DIP1784      ------C-UGCAC----GA-AC------A--CGGA--AUAGU--------
+DIP1904      ------A-CACCA----AA-UU------C---GGC--AAAACUAGCG---
+DIP0225      ------U-AUCGU----CG--U------G---GGA--UCCA---------
+DIP2253      ------A-UGCCA----CC--A------A---GGA--UCAUG--------
+DIP0969      ------A-AGCAC----CG--U------A---UCC--UCGUUCC------
+DIP0285      ------G-CGCUG----GG--G------A--------GGAAU--------
+DIP0079      ------U-UGCCC----UC--C------U---GCG--GUUGUAUUG----
+DIP1327      ------C-CCCUU----UGCAC------U---GUG--UUUU---------
+DIP1309      ------G-GUAGG----CG--C------G---AAA--AUUCUUUGAUAC-
+DIP0771      ----CCA-UCGUC----UC--G------C---UGA--AU--U--------
+DIP1080      ------G-CAGCG----CU--C------G---UAA--AAAC---------
+DIP0536      ------A-CGCCG----UA--C------U---UGG--CUUCUACC-----
+DIP2194      ------A-GCGCG----GC--U------C---GAG--UUCA---------
+DIP0878      ---UCGG-GGCCG----CU------------------GUAAU--------
+DIP0169      ------G-CGCUA----CA--A------CA-CGUU--AAUGUG-------
+DIP1402      ------A-UGGAG----CU-------------GCU--UUUAU--------
+DIP1669      ------C-CUCUCU--AAG--CU----GG---UGA--GCAUU--------
+DIP0671      ------G-CGAGU----CU--A------C---CCC--ACAA---------
+DIP2033      ------A-GGUAG---AGU--A------A---AUC--CCGGCAAAGCU--
+DIP0949      ------C-CGCGC----CC--C------U---UCG--UCUCU--------
+DIP0010      ------C-AGGCC----GU--G------UA-AGCC--GUCAUCAUC----
+DIP1348      ------G-CCUUA----UC--C------U---AA---ACAA---------
+DIP0217      --------AUGCC----CU--C------A---CCA--ACCG---------
+DIP1082      ------U-CUCAU----UA--U------C---AUU--CUCA---------
+DIP1378      ------G-UUGUC----GU--G------U---CCU--GCUAU--------
+DIP1725      ------C-GGAUU----CC------------------AAUAGGGUAAAUU
+DIP1115      ------C-CCUAG----GU------------------UAAUC--------
+DIP1928      ------A-GUCAU----AU--C------G---CAU--CUGUG--------
+DIP0649      ------G-CUCGU----CA--C------C--------UCGCUGGCUUACU
+DIP1788      ------G-GAGAA----GA--U------A---GCC--UUAG---------
+DIP0839      ------A-CGCCA----CG--A------U---GUA--CGACU--------
+DIP0303      ------G-CAGGG----GC------------------AU--U--------
+DIP1901      ------A-UGGGU----CG--G------C---ACC--UU--UCACAUUA-
+DIP0820      ------U-ACACG----GA--C------A---GCA--GACCC--------
+DIP0757      ------A-CUUCC----GU--G---------------CACG---------
+DIP2281      --------AGCCU----CC--C------U---CCC--CUGCUGGGUUUA-
+DIP1976      ------C-CGCCG----CC--A------C---GCU--GGAAUUAU-----
+DIP1198      ------G-CUAGU----CA--A------G---CUC--UUAUU--------
+DIP1905      ------C-CUCUU----GG--A------U-----A--UCGGC--------
+DIP2349      ---CUCA-CGCCC----CC------------------GCGA---------
+DIP1889      ------C-GGAUA----CU--U------C--------UCGUG--------
+DIP0157      ------G-CAGCU----AG--C------G---CGG--AACAC--------
+DIP1029      ------G-CCGCA----CA--C------G--------AAUC---------
+DIP1071      ------G-CGGGU----UA--U------U---UUG--ACUAG--------
+DIP1105      ------G-UUCCU----GA------------------GUUG---------
+DIP0053      ------C-UAGCA----GU------------------UAACC--------
+DIP2282      ------C-CUCCU----UC--CU---AGC--------GGGUUAAAC----
+DIP1146      ------C-CGUGG----CU--G------A---GU---GCGG---------
+DIP1264      ------G-CUGAG----AC--U------A---GGU--AGCGU--------
+DIP0808      ------G-CCCUG----CG--C------A---CAU--UGGUU--------
+DIP0427      ------A-CGAUG----CC--GA---GGC---UGA--GAUUU--------
+DIP1762      ------G-CACGG----AU------------------GAUC---------
+DIP2225      --------CCGGU----AC--C------A---GUU--CCAAU--------
+DIP1288      ------G-UUGGU----CCGUU------U---UCG--GUAUUGA------
+DIP0297      GGAGCUG-GUGAG----CU--A------G---AUC--GUCA---------
+DIP0302      ------G-CAGGG----GC--------------------AAU--------
+DIP0885      ------GUCCAUC----GA--U------A---CCU--GAAU---------
+DIP0925      ------G-GCACU----A-------------------UUUA---------
+DIP0430      ------C-CCGCA----GA--U------C--------CUCG---------
+DIP1290      CCUUCGC-AGGUG----UC--C------G--------UACUUUG------
+DIP0396      ------G-CCCAA----GG-------------AAU--GUUAU--------
+DIP1253      ------C-GGGAA----GC--AGG--UAC---CAU--ACAA---------
+DIP1519      ------C-CUUCC----CA--U------G---AUU--GAGAG--------
+DIP1767      ------C-CCGCC----CU--G------U--------GACA---------
+DIP1015      ------C-CUUCG----CA--A------U---CAU--GUGUG--------
+DIP0883      ------A-ACUCC----CU--C------G---GUC--UCUGUUGAUC---
+DIP2329      ------G-CCCGA----GG---------------A--UCCUC--------
+DIP2018      ------G-GGCCC----GC--A------U--------CUAA---------
+DIP0515      ------C-CCCUA----GC--U------C---CCA--AUCUUUUUCCACA
+DIP1217      ------C-ACCAG----CG--A------A---CAA--GAU--CGUUUCGA
+DIP0380      ------C-CUGCC----UG------------------UACA---------
+DIP1805      ------U-CUGUG----GA--U------A---ACU--CCCGUAACAGGCA
+DIP2015      ------G-UGAGC----UU--A------A---UCU--CCAAUGCGAUCUC
+DIP0581      ------G-CGCAC---A-C--U------G---CCA--ACAUG--------
+DIP1121      ------G-UGCCC----CA--C------G--------GUAA---------
+DIP1793      ------G-GCCCA----GC------------------CUCG---------
+DIP2379      ------C-CGCCU---UCC--A------G--------AUUAU--------
+DIP2376      ------G-GAGCC----UC------------------CUAG---------
+DIP1582      ------G-CGACG---C-U------------------GCAGG--------
+DIP1892      ------C-CACCU----CG------------------UGGUG--------
+DIP0619      ------A-GGGAA----AC--UU----UC---GCC--AUGGU--------
+DIP1659      ------G-CGCGG----CU--C------C---GAA--GGAAU--------
+DIP2312      ------U-UAGAA----UA--G------G--------GGGUC--------
+DIP0357      ------G-CCGAG----GC--A------C------------U--------
+DIP1915      ------U-GCCUC----GA--U------C---AGC--UCACGGAUC----
+DIP0635      ------U-CCGAC----UG--C------U---UCG--CCACU--------
+DIP0417      ------G-UGCCA---AGG--A-----CG---GGG--AUGAG--------
+DIP0668      ------A-GGCGG----UG--C------U--CACA--GUCC---------
+DIP1041      ------G-GCCAU----UC--U------C---GCU--GA--G--------
+DIP0997      --UGUCA-UCCCA----GC--U------A---AAG--CCCGC--------
+DIP0826      ------C-GGGAA----AC--C------U---CUC--ACAUUGA------
+DIP0023      ------C-CUGCC----GC--A------C---G----UGAA---------
+DIP1435      ------A-GGAGA----AC------------------UUUU---------
+DIP1766      ------A-UCCCG----CU--C------U---GUU--GU--C--------
+DIP1287      ------U-UGGUC----CU--U------UC-CUCG--UCAAU--------
+DIP2115      ------A-GAGCC----CG--U------C--------AUUG---------
+DIP1088      ------C-CACUU----UC--G------G---AGA--GCUUU--------
+DIP1714      ------A-GCGAG----CC------------------CUUGU--------
+DIP2135      ------G-CACAG----UC--C------C---CCU--GGGACGUUGAUCC
+DIP0406      ------G-AUGGU----CG--C------A--CCCA--ACAU---------
+DIP2207      ------C-UCGCC----CC------------------AGCU---------
+DIP1102      ------G-CCACA----CU--U----------G----CCGUUA-------
+DIP1911      ------U-GAACA----GA--A------A--------GGGG---------
+DIP1879      ------U-CCCCU----CA--C------C-----U--GCUGU--------
+DIP2056      ------C-CGCUG----CG--C------G--A-GC--CGACU--------
+DIP0920      -----AC-UAACC----UC--A------C---UGC--AUUUC--------
+DIP0685      ------C-CCCUC----UG--C------C---ACA--UAUUU--------
+DIP0941      ------G-GCGGG----UC--C------A--------GGCA---------
+DIP0620      ------G-UAGGA----AA--G------A---AUC--GCCG---------
+DIP0358      ------G-CCGAG----GC---------------C--CUAGU--------
+DIP1739      ------A-UGGUG----UC--C------U--------CCCACGAAGUG--
+DIP1259      ------A-AGCAU----AG--G------U---CGA--UUGCUAG------
+DIP2003      ------C-AGCUG----GG------------------AACG---------
+DIP0365      ------U-CGCUG----AU--A------C---GCU--UUGGG--------
+DIP0211      --CGUAG-CAGCU----UU--C------U---GGC--GCGA---------
+DIP1586      -----UG-GGCUU----CU------------------AUAUGAGCUUUCU
+DIP0309      ------A-CGCCU----CC------------------GUUUU--------
+DIP0277      ------A-GACCU----CU--C------G---CUA--AUAGU--------
+DIP1611      ------C-UCCUU----CA--A------A---CAU--AAAAU--------
+DIP2020      ------G-CCCCC-------------------CCG--AAAAU--------
+DIP2094      ------A-AGGGC----CC------------------UGCG---------
+DIP1801      --------CUGCG----CC--A------C--------GCGCUGCAUGUGA
+DIP2238      ------G-GGCUG----UG--U------G---GC---GUAU---------
+DIP1572      ------U-GCGGC----GC--C------C---GAU--CAUGCGAU-----
+DIP1119      ------G-AGUUA----UG--U------C--------UCAACAAAAAUAC
+DIP2330      ------C-UGGUC----CC--U------U---UCA--AAAA---------
+DIP0111      ------G-CCGAU----CA--U------C---GA---GUUCU--------
+DIP0183      ------G-CCCUU----CA--C------C---UGU--CCGCCGGCAA---
+DIP1896      ------U-GAUUC----CG--A------U---UCA--UUGAU--------
+DIP2134      ------G-CACAG----CC--U------C---CCC-UGAUAUGACGGAUU
+DIP0238      ----GAG-UGGCG----CG------------------UGCAU--------
+DIP0253      ------U-CGGUC----AC--A------U--------CAAA---------
+DIP0118      ------A-UCCAU----CG--GG---UUC---CCG--AUCCU--------
+DIP2007      ------G-CUGUA----GG--G------A--------GU--U--------
+DIP0687      ------A-AGCAUC--ACA--G------U---GGC--GAAGCCU------
+DIP0543      ------U-GGGGU----AG--G------C---CGU--UUGUU--------
+DIP1331      ------U-CGGCG----AU--C------A---ACU--GGUAG--------
+DIP0914      --------GGGCU----UU--G------G--------CCAAC--------
+DIP2252      ------C-CACCC----AG--G------A---CC---GCAUG--------
+DIP0469      --------UCUCC----CU--A------U---GCA--AAAUUUCUAGU--
+DIP0855      ------A-ACCUC----CC--A------G---CGA--UUCACGAC-----
+DIP1364      ------G-UCUUU----CG--G------C--------GUGUC--------
+DIP2284      ------C-UAACC----CC--C------U--------GUACUGUACC---
+DIP0076      --------CGGAG---CCG--A------A---UCC--GCCA---------
+DIP1306      ------C-GUGUG----GG--G------C---GGA--AAGCUGAA-----
+DIP1427      ------G-GGGCG----GG--A------A---GAA--CUUUU--------
+DIP0917      ------U-CCCCA----CG--A------A---GAU--AUUUU--------
+DIP1698      ------G-UGCCG----CA--A------A---GGA--UAAC---------
+DIP0038      ------A-GCCCA----AA--A------A---ACC--AUGUU--------
+DIP1455      ------U-GCGGA----UC--C------A---CAC--UC--U--------
+DIP1428      ------G-GGCGG----GA--A------G---AAC--AAAAG--------
+DIP1495      ------G-CUGUA----CA--A------C--------AAAAU--------
+DIP2014      ------U-CGGUG----CA--G------U---UCU--UG-UU--------
+DIP0777      ------G-CGGGA----CA--U------CGUACCU--ACAGUUU------
+DIP0859      ------G-CCUUU----UU--U------C---CUU--AAACUCUCCGACA
+DIP0637      ------A-CGCAG----AC--G------A---UGU--GUAU---------
+DIP2093      ------A-UCUCG----CU--C------C---GGU--AUAAG--------
+DIP1307      ------G-GGGCG----GA--A------A---GCU--AAAAUU-------
+DIP1494      ------G-GGCUG----UA--C------A---ACU--AUUUU--------
+DIP0630      ------A-CUAAG----AG--G------G---GGU--CUGCUGCCACCAA
+DIP1454      ------G-UGCGG----AU--C------C---ACA--AGAGU--------
+DIP1419      ------G-UGCUC----AG--U------U---GCU--ACAUUA-------
+DIP0080      ------G-GAGGU----CA--CA---AAC---UCG--AAAG---------
+DIP1846      ------A-GGGAA----UG--U------G---CAU--GAUUGUUAUUGG-
+DIP1795      ------G-GUGUG----CC--G------G---CCA--AC--U--------
+DIP1234      ------G-UGGCC----UC--G------A---GCU--UUUCUCAUC----
+DIP1226      ------G-CGGUG----UA--C------A---GGA--AAAAU--------
+DIP1418      ------G-UGCUC----AG--U------U---GCU--ACUA---------
+DIP1589      ------G-GGCAG----UG--C------U---GCG--GUAA---------
+DIP2187      ------U-GGGUG----UG--G------G---CAU--ACACUUCAG----
+DIP1283      ------G-GGCUC----UA--U------C---UCA--AAAAC--------
+DIP0978      ---CCCA-GGCCC----GC--C------U---CCA--CCACU--------
+DIP1533      ------G-UGCCG----CU--G------A---CAC--AUUCUGAUU----
+DIP0733      ------C-CGGUG----AA--C------A---GCG--GAUUU--------
+DIP0659      ------C-UGGCC----UA--G------A---UUA--CUCAUGA------
+DIP0924      ------C-GAGGG----CG--G------U---ACC--GAGUCCACACAA-
+DIP2206      ------C-UGUUC----AG--G------A---AUA--AUGA---------
+DIP0923      ------G-CGGUA----CC--G------A---GUA--ACAC---------
+DIP0657      ------C-UUGGUG--CAC--C------C---CUC--ACCAU--------
+DIP1943      ------C-CACCU----UG--C------U---UUC--GCAACGGCUGAAA
+DIP0776      ------C-GGGAC----AU--CCU--CCU---ACA-AACUGU--------
+DIP1687      ------G-UACCG----UC--A------C---CAC--AUAAUUU------
+#=GC SS_cons ......<.<<<<<....<<..<......<...<<_.._____........
+#=GC RF      ......g.cgccg....cc..c......a...gcu..auaaU........
+
+DIP2336      ------------------------------------------C-U---A-
+DIP1504      -------------------------UAGGA------------G-G---C-
+DIP1062      --------------------UGCGAUGCAAGU--------UCA-C---U-
+DIP1027      ------------------------GCUGAA------------A-G---A-
+DIP0647      ----------------------GGAGAUAA------------------U-
+DIP0646      -----------------------GCGGAGA-----------UU-C---G-
+DIP2131      CCA--------------CAAUGGUGCCCAA------------------C-
+DIP1796      ------------------------------------------G-G---C-
+DIP1077      ---------------------------AAAGU-------GCUU-C---G-
+DIP1637      -----------------------------A-----------GU-C---C-
+DIP1026      -----------------------------AA----------CU-G---A-
+DIP2285      ------------------------------------------U-C---U-
+DIP2266      -----------------------------A------------G-C---U-
+DIP1699      ------------------------------------------C-C---U-
+DIP1590      ------------------------------U----------GC-C---U-
+DIP1149      -----------------------------AC----------GC-U---A-
+DIP1982      C------------------GAUUUUGUCCA------------A-C---U-
+DIP1339      ------------------------------U----------GU-G---C-
+DIP0329      ------------------------------U----------CG-A---G-
+DIP1078      --------------------------AUCA------------C-U---U-
+DIP0502      -----------------------UGCCUCA------------C-G---U-
+DIP1503      -----------------------------AU----------UA-G---G-
+DIP0989      ------------------------------------------------U-
+DIP0578      -----------------------------AUUU------CUUU-C---C-
+DIP1157      -------------------------AGAGACGG------UGUU-A---A-
+DIP0988      ------------------------------------------U-C---C-
+DIP1631      --------------------------UCUA------------G-G---A-
+DIP2130      -----------------------GGUGCUA------------C-C--CA-
+DIP1310      ------------------------------------------G-U---A-
+DIP1338      -----------------------------AC----------GU-G---C-
+DIP1415      ------------------------------------------A-A---G-
+DIP0775      ------------------------------------------A-C---G-
+DIP0470      -----------------------------A-----------GG-G---G-
+DIP1608      -----------------------------AA---------AGU-G---A-
+DIP1388      -----------------------------AU----------GU-A---C-
+DIP1360      --------------------------AUUAC---------UCG-U---G-
+DIP0858      UG----------------UCGGAGAGUUUA------------A-G---G-
+DIP1148      ------------------------------U---------UGC-U---A-
+DIP0579      -----------------------------AA---------UCU-U---C-
+DIP1807      ---------------------CAGAAACCA------------G-A---U-
+DIP2234      ------------------------------------------A-G---U-
+DIP2070      -----------------------------AAA--------AAC-C---C-
+DIP1576      -----------------------------A-----------UA-A---G-
+DIP2129      G------------------CGGUUUCUCGAG----------GA-U---G-
+DIP0682      -----------------------------AGACCC--CCUCGU-U---G-
+DIP1987      -----------------------------A-----------AA-G---G-
+DIP2060      -----------------------------A--------------------
+DIP1038      ----------------------------GA-----------CU-A---G-
+DIP1208      -----------------------AAAAUGA-----------UA-G---A-
+DIP0836      -----------------------------AU---------UUC-G---U-
+DIP1142      -----------------------------------------UG-U---C-
+DIP1481      -----------------------------A------------U-C---U-
+DIP1438      -----------------------------AG---------GUU-U---U-
+DIP1638      -----------------------------A------------U-C---C-
+DIP0542      -----------------------------A-----------CA-C---A-
+DIP0699      ----------------------------UA------------G-G---G-
+DIP1890      -----------------------------AU----------AA-G---U-
+DIP1872      ------------------------------------------------G-
+DIP1301      ---------------------------GAA------------C-A---U-
+DIP1225      ------------------------------------------C-C---U-
+DIP1233      -------------------------GAAAA------------G-C---U-
+DIP0027      --------------------------------------------------
+DIP1359      --------------------------AAUAC----------UG-U---G-
+DIP1437      ------------------------------CA--------GGU-U---U-
+DIP0320      ------------------------------GA--------UUG-G---A-
+DIP1162      ------------------------------------------------A-
+DIP0892      GGA---------------UCAACGACGAAA------------A-G---A-
+DIP1477      ----------------------UCAUUCCA-----------UU-G-----
+DIP1918      ------------------------------------------A-C---U-
+DIP1241      -----------------------------AA----------GG-C---G-
+DIP2300      --------------------------CACA-----------UG-U---G-
+DIP1240      -----------------------------AC----------AG-C---A-
+DIP1501      ---------------------------ACA------------G-A---U-
+DIP0212      GGUCAA---------AAGCUCUUUGGUGAA------------------A-
+DIP0447      ------------------------------------------C-U---A-
+DIP0529      -----------------------------------------GG-G---U-
+DIP1502      -----------------------------A------------U-A---G-
+DIP1423      -------------------------GCAGA-----------GA-G---U-
+DIP0933      ---------------------------UUAC---------CUU-C---A-
+DIP2069      -----------------------UCUCCCA------------------C-
+DIP1371      ------------------------CUUUCA------------A-U---U-
+DIP1871      --------------------------------------------------
+DIP1616      -----------------------------------------CG-C---U-
+DIP1035      ----------------------------GA------------G-C---G-
+DIP1642      ------------------------------------------------U-
+DIP1057      --------------------------UCAAGG--------GGG-A---A-
+DIP1081      -----------------------------A-----------C--------
+DIP1630      -----------------------------AAAC------AACG-G---A-
+DIP1622      ------------------------------------------------G-
+DIP1452      -----------------------------A--------------------
+DIP0006      ------------------------------------------U-C---U-
+DIP1022      -----------------------------AC----------AU-G---U-
+DIP0368      ------------------------------U----------GG-C---A-
+DIP1311      ------------------------------------------U-C---A-
+DIP1927      ------------------------------------------------A-
+DIP0901      ------------------------------------------------A-
+DIP2119      -----------------------GUGGGGA------------G-C---U-
+DIP2311      ------------------------------------------------U-
+DIP1666      -----------------------ACACUCA-----------CG-G---A-
+DIP1254      ------------------------GUUCAA------------G-G---G-
+DIP1354      -----------------------------A------------G-U---U-
+DIP1422      -----------------------------A------------A-U---C-
+DIP2299      A-------------------GUAGGUGUUA------------U-G---U-
+DIP2270      -----------------------------------------UG-C---C-
+DIP0595      ---------------------------CCAC----------UG-C---A-
+DIP1865      -----------------------------A------------G-U---U-
+DIP2320      ------------------------------------------C-G---U-
+DIP0626      ------------------------------------------------C-
+DIP0378      ----------------------GGUGGGCA------------A-G---G-
+DIP1001      ------------------------------------------------A-
+DIP1176      ------------------------------------------C-G---U-
+DIP1401      -----------------------------A------------------G-
+DIP0522      -----------------------------A------------A-G---A-
+DIP0482      -----------------------------------------GG-U---G-
+DIP0943      ------------------------------------------------A-
+DIP1888      -----------------------------A------------------G-
+DIP1643      ------------------------------------------G-U---G-
+DIP1639      -----------------------ACAACAAG---------UCC-U---G-
+DIP1002      ------------------------------------------------A-
+DIP1532      C-------------------GGGUAGGGGA------------A-G---U-
+DIP0932      -----------------------------AACU------CCUU-C---A-
+DIP0596      -----------------------------AAUU------GCUG-C---A-
+DIP0101      -----------------------UGUCCAA------------C-C---C-
+DIP1104      -----------------------------AGU-------ACUG-G---G-
+DIP0956      --------------------------------------------------
+DIP1216      ------------------------AAACGAUC--------UUG-U---U-
+DIP1450      -----------------------------A------------G-A---U-
+DIP0774      ----------------------------GA------------G-C---U-
+DIP2000      -----------------------------A------------A-C---U-
+DIP0560      ------------------------------G---------CUU-A---A-
+DIP1468      -----------------------------AGUGG----GCUGA-G---A-
+DIP0278      ------------------------------------------------C-
+DIP1416      ------------------------------------------A-A---G-
+DIP1660      ----------------------------GA-----------GG-G---A-
+DIP0426      ------------------------------CG-------UUGA-G---C-
+DIP0373      ------------------------------------------U-G---G-
+DIP0951      ------------------------------------------------C-
+DIP1764      -----------------------GCUCAAA-----------GU-G---G-
+DIP1219      -----------------------------A-----------CA-C---U-
+DIP1275      CGACG----------CGAACGUUUUGUGCA------------------U-
+DIP1276      ---------------------UCGAACCUAU---------CGU-G--AA-
+DIP0242      -----------------------------A------------C-U---A-
+DIP1353      ------------------------CUAGAA------------------A-
+DIP1300      -----------------------------AA---------AUC-A---U-
+DIP1155      ------------------------------------------G-C---A-
+DIP0161      -----------------------------AGUACUCCGAUCUG-G---U-
+DIP0853      -----------------------------A-----------UC-G---A-
+DIP1794      --------------------------GUGAG---------GC--------
+DIP1272      ------------------------------------------A-G---U-
+DIP1421      ------------------------------------------G-A---U-
+DIP0001      -----------------------GAUACAA------------C-A---C-
+DIP1095      -----------------------------A-----------GA-G---A-
+DIP1479      -----------------------GGGAAGA------------------U-
+DIP0730      ------------------------------------------------A-
+DIP0787      ------------------------------------------U-G---U-
+DIP0173      -------------------------AGAGA------------U-U---C-
+DIP2025      -----------------------------A--------------------
+DIP0749      U-------------------UACCGUGGAA------------------U-
+DIP2271      -----------------------------------------UG-C---C-
+DIP0541      -------------------------ACACA------------G-G---G-
+DIP1020      ----------------------------UAC----------UG-C---C-
+DIP1961      -----------------------------AAACUU-UCUACGU-U---U-
+DIP0221      ------------------------UACCUAG----------GC-U---A-
+DIP1056      -------------------------UACAAG----------GG-A---A-
+DIP1256      ----------------------------CA------------C-C---U-
+DIP0102      -----------------------------AACAUU--GUGCCC-A---A-
+DIP1467      ---------------------CCUAGGAAA------------G-C---U-
+DIP1393      -----------------------------AAAU-----GCUGC-U---G-
+DIP1636      ------------------------------------------A-G---G-
+DIP0570      ------------------------------CA--------UCG-C---G-
+DIP1037      ------------------------------C----------UC-U---A-
+DIP1514      ------------------------------C---------UUA-C---C-
+DIP0185      -------------------------UGUUA------------------A-
+DIP1156      ------------------------------------------------C-
+DIP1302      -----------------------UGCUGCA------------C-C---A-
+DIP1242      -------------------------GGAAA------------G-G---G-
+DIP1197      -----------------------------AAUAU----CUAUG-C---A-
+DIP1553      -----------------------------A------------C-C---U-
+DIP1424      ------------------------CAAGCA------------G-U---A-
+DIP1866      --------------------------------------------------
+DIP1460      -----------------------GCAGGCA-----------GA-U---C-
+DIP0631      ------------------------------------------A-U---U-
+DIP1459      --------------------------GACA------------G-C---G-
+DIP1213      --------------------------------------------------
+DIP2180      -----------------------------A------------------A-
+DIP0005      ------------------------------------------U-C---U-
+DIP1864      ------------------------------------------C-C---U-
+DIP0488      --------------------------------------------------
+DIP1635      ------------------------------------------A-G---A-
+DIP0835      ------------------------------U---------CCC-G---U-
+DIP2116      -----------------------------------------GU-A---G-
+DIP0658      ------------------------------------------U-G---A-
+DIP0608      -----------------------------ACAG------AUAC-G---G-
+DIP0903      -----------------------------------------UC-G---C-
+DIP1787      ------------------------------------------U-G---U-
+DIP2275      -----------------------------------------UC-C---U-
+DIP2125      ---------------------CAGAAACCA------------G-A---U-
+DIP0832      ------------------------------GA-------UGUG-C---U-
+DIP0944      ------------------------------------------------A-
+DIP1281      ---------------------ACGGUUGCA-----------CA-A---G-
+DIP1207      -----------------------UGGCCGA-----------UA-G---A-
+DIP0993      --------------------------------------------------
+DIP0094      ------------------------------------------G-G---A-
+DIP1482      -----------------------------AGU--------CCC-G---A-
+DIP1902      -----------------------UGUGAAA--------------------
+DIP0550      -----------------------------A------------------U-
+DIP1780      -----------------------GUCAGAA--------------------
+DIP0437      ------------------------------G----------U------G-
+DIP0651      G------------------GGGAGACAAAA------------G-G---U-
+DIP0562      ----------------------------CU------------------G-
+DIP0895      --------------------------------------------------
+DIP2267      ------------------------------------------G-C---U-
+DIP1355      -----------------------------A-----------AG-U---U-
+DIP1396      -----------------------------AA----------AA-U---C-
+DIP1615      ------------------------------G----------UG-C---U-
+DIP1097      ------------------------------------------G-G---A-
+DIP1100      ------------------------------------------A-C---U-
+DIP1065      -----------------------------A-----------AC-U---G-
+DIP1803      -----------------------------------------UC-C---G-
+DIP1222      ------------------------GACGUA------------A-C---A-
+DIP0684      -----------------------------A-----------UG-U---G-
+DIP2183      ------------------------------UUC-----UGUUC-C---C-
+DIP0621      ------------------------------------------G-U---U-
+DIP1731      --------------------------------------------------
+DIP1117      ------------------------------------------------G-
+DIP1252      ---------------------------GUA-----------C--------
+DIP0571      ------------------------------------------G-C---U-
+DIP1347      -----------------------------AG----------CG-C---A-
+DIP1507      --------------------------------------------------
+DIP0521      ----------------------------GA------------G-G---G-
+DIP2276      -------------------------GGGUA------------U-G---U-
+DIP2375      --------------------------------------------------
+DIP2083      ------------------------------------------C-C---C-
+DIP0780      CAG---------------CCACGGAGCGUA------------C-U---G-
+DIP1628      ------------------------------------------A-G---G-
+DIP1016      -----------------------------A------------U-G---A-
+DIP0351      ------------------------------------------------G-
+DIP1624      ------------------------------------------U-G---G-
+DIP2128      -----------------------------A-----------UG-C---U-
+DIP1093      -----------------------------A------------------G-
+DIP1867      --------------------------------------------------
+DIP0490      ------------------------------------------G-A---G-
+DIP1891      -----------------------------A--------------------
+DIP0992      ------------------------------------------------G-
+DIP1885      -----------------------------A------------------G-
+DIP0702      ------------------------------------------G-U---G-
+DIP1350      ------------------------------U---------ACU-G---U-
+DIP1463      -----------------------AAAGGCA------------A-C---C-
+DIP0786      --------------------------GCGA------------------U-
+DIP0174      --------------------------GAGAU----------GU-C---C-
+DIP0743      ------------------------------------------G-C---G-
+DIP0831      -----------------------------AAU-------AAUG-C---U-
+DIP1128      -----------------------------AA----------CU-C---U-
+DIP2365      ------------------------------GUGU----UGUCU-C---A-
+DIP0628      ------------------------------------------------C-
+DIP2104      ------------------------------------------C-C---U-
+DIP1330      ------------------------------------------U-C---C-
+DIP1570      ------------------------------------------G-G---U-
+DIP0611      ------------------------------------------G-A---G-
+DIP0352      ------------------------------------------G-G---U-
+DIP1173      --------------------------------------------------
+DIP0451      -----------------------------A-----------CU-C---A-
+DIP2371      ------------------------------------------------G-
+DIP1096      ------------------------------C----------CA-G---A-
+DIP1957      ------------------------------------------------A-
+DIP0870      A-------------------GGCAGUAGCA------------G-G---G-
+DIP1413      -----------------------------------------CU-U---U-
+DIP1760      -----------------------------A------------U-U---G-
+DIP2191      ---------------------AAAACAAUA-----------UG-U---U-
+DIP0938      -----------------------------A------------G-A---C-
+DIP0645      ------------------------------------------A-C---A-
+DIP0803      ----------------------------GA------------C-G---A-
+DIP1783      ------------------------------G----------U--------
+DIP0939      -----------------------------------------CA-C---A-
+DIP1063      --------------------GUGAUUGUUAGC--------UCA-C---U-
+DIP1030      ------------------------------UG-------CUUG-G---C-
+DIP1018      ------------------------------------------U-C---C-
+DIP1498      ------------------------------------------------U-
+DIP0824      ---------------------------ACA------------------A-
+DIP1488      ---------------------------CGA--------------U---G-
+DIP0785      -----------------------------ACAC------UGUU-A---U-
+DIP2235      -----------------------------A------------G-C---U-
+DIP0882      ---------------------------ACA------------G-A---G-
+DIP1394      -------------------------AGUUA------------C-U---G-
+DIP0539      ----------------------GACUGCUAG----------GG-U---G-
+DIP1811      ------------------------------------------C-U---U-
+DIP1552      ------------------------CCCUGA------------C-C---A-
+DIP0199      ------------------------------------------------U-
+DIP1166      ------------------------------U---------UUU-C---A-
+DIP2117      --------------------------------------------------
+DIP1249      ------------------------------------------------A-
+DIP1129      ------------------------------C---------GCU-C---U-
+DIP0979      -----------------------------A------------------G-
+DIP1174      -----------------------------A------------------U-
+DIP1045      -----------------------------------------A--------
+DIP2322      -----------------------------------------GG-C---U-
+DIP1919      ------------------------------------------U-A---G-
+DIP1618      --------------------------GAGA------------G-C---U-
+DIP0692      -----------------------------AC---------CUUGG---U-
+DIP1978      ------------------------------------------U-C---G-
+DIP0650      ------------------------------------------------C-
+DIP1308      ------------------------------------------------G-
+DIP2036      ------------------------------------------A-G---A-
+DIP1397      ---------------------------GAA------------U-C---U-
+DIP0576      --------------------------AACAG---------CGU-C---U-
+DIP1784      ------------------------------------------C-C--UU-
+DIP1904      -----------------------AGUUUCA-----------CU-C---G-
+DIP0225      -----------------------------AA----------UC-C---U-
+DIP2253      ------------------------------CG--------GUC-C---U-
+DIP0969      --------------------------ACUAC---------UGG-C---U-
+DIP0285      ------------------------------------------------U-
+DIP0079      -------------------------AAUUA-----------CG-C---A-
+DIP1327      -----------------------------A-----------AA-C---A-
+DIP1309      ----------------------AAGAAGUA------------U-U---U-
+DIP0771      ------------------------------------------C-G---G-
+DIP1080      ------------------------------------------U-G---U-
+DIP0536      -------------------------UAGAAGU-------CCUC-G---G-
+DIP2194      -----------------------------A-----------CU-C---G-
+DIP0878      --------------------------------------------------
+DIP0169      ----------------------------CAUG-------UUUU-C---G-
+DIP1402      ------------------------------------------G-C-----
+DIP1669      ------------------------------------------C-A---C-
+DIP0671      -----------------------------AG----------UG-G---G-
+DIP2033      ----------------------AACCGAGA------------A-U---U-
+DIP0949      -----------------------------A-----------GG-A---G-
+DIP0010      ------------------------GUGGCA------------G-C---A-
+DIP1348      ------------------------------------------U-C---A-
+DIP0217      -----------------------------A------------G-G---U-
+DIP1082      -----------------------------AUGA-----GAGUG-U---G-
+DIP1378      ------------------------------------------G-G---G-
+DIP1725      UGUGUAACAAUUGCAAAUCUAAAUCAAUAA--------------------
+DIP1115      --------------------------------------------------
+DIP1928      ------------------------------GG-------UGUU-G---C-
+DIP0649      GCC---------------UUACUGCGCUGA------------------A-
+DIP1788      ------------------------------------------G-C---U-
+DIP0839      ------------------------------------------G-C---A-
+DIP0303      --------------------------------------------------
+DIP1901      ---------------------UCUGUGUCA------------G-U---G-
+DIP0820      ------------------------------------------G-C---G-
+DIP0757      -----------------------------A--------------------
+DIP2281      ----------------------ACCCGCUA------------G-G---A-
+DIP1976      -------------------------UCCAA------------G-C---G-
+DIP1198      -----------------------------------------GA-G---U-
+DIP1905      ------------------------------------------------A-
+DIP2349      --------------------------------------------------
+DIP1889      ------------------------------------------------G-
+DIP0157      ------------------------------CA--------UGC-G---U-
+DIP1029      -----------------------------A------------------C-
+DIP1071      ------------------------------------------A-A---A-
+DIP1105      --------------------------------------------------
+DIP0053      --------------------------------------------------
+DIP2282      ------------------------CCAGCA------------------G-
+DIP1146      -----------------------------A------------A-U---U-
+DIP1264      ------------------------------------------C-C---U-
+DIP0808      ------------------------------G----------UUGG---U-
+DIP0427      ------------------------------U---------GCC-A---G-
+DIP1762      --------------------------------------------------
+DIP2225      ------------------------------------------G-C---G-
+DIP1288      ---------------------------CGA-----------GG-A---A-
+DIP0297      -----------------------------AGG-------UCGU-U---C-
+DIP0302      --------------------------------------------------
+DIP0885      -----------------------------A------------G-G---U-
+DIP0925      --------------------------------------------------
+DIP0430      ------------------------------------------------G-
+DIP1290      ---------------------------ACA------------------U-
+DIP0396      ------------------------------------------U-U-----
+DIP1253      ------------------------------------------U-G---G-
+DIP1519      -----------------------------A------------U-U---U-
+DIP1767      ------------------------------------------------A-
+DIP1015      ------------------------------------------U-G---A-
+DIP0883      ------------------------GCAUGAG----------UG-C---C-
+DIP2329      ------------------------------C----------G--------
+DIP2018      ------------------------------------------------A-
+DIP0515      C-------------------AUCGCCUAGAG----------CG-G---G-
+DIP1217      ---------------------UGCUUCAAA-----------U--------
+DIP0380      --------------------------------------------------
+DIP1805      AG-----------------GGGGAGGGGAA------------G-U---U-
+DIP2015      UACCG-----------CGCAUAACAAUUAAG----------GG-A---U-
+DIP0581      -----------------------------A------------G-G---C-
+DIP1121      -----------------------------A------------------C-
+DIP1793      --------------------------------------------------
+DIP2379      ------------------------------------------------C-
+DIP2376      --------------------------------------------------
+DIP1582      -----------------------------A--------------------
+DIP1892      --------------------------------------------------
+DIP0619      ------------------------------U----------GG-C---GC
+DIP1659      -----------------------------A------------U-C---G-
+DIP2312      ------------------------------------------------C-
+DIP0357      -----------------------------A------------------G-
+DIP1915      -------------------------UCGGAUUCG----UUGUC-U---G-
+DIP0635      -----------------------------A-----------UG-A---G-
+DIP0417      -----------------------------A-----------UC-C---U-
+DIP0668      -----------------------------AA----------CG-UCCCA-
+DIP1041      ------------------------------------------G-C---G-
+DIP0997      -----------------------------------------CU-U---U-
+DIP0826      ---------------------------GCA-----------CG-G---A-
+DIP0023      --------------------------------------------C---G-
+DIP1435      --------------------------------------------------
+DIP1766      ------------------------------------------A-C---A-
+DIP1287      -----------------------------AC----------CG-A--AA-
+DIP2115      ------------------------------------------------G-
+DIP1088      ------------------------------------------C-U---U-
+DIP1714      --------------------------------------------------
+DIP2135      CAA---------------UCCGUCAUAUCA-----------GG-G---G-
+DIP0406      -----------------------------AAA--------CAG-GC-UU-
+DIP2207      --------------------------------------------------
+DIP1102      ---------------------------UUA--------------C-----
+DIP1911      ------------------------------------------------U-
+DIP1879      ------------------------------U---------UU------G-
+DIP2056      ------------------------------CCC------GCGC----CU-
+DIP0920      ------------------------------CU--------CCC-A---G-
+DIP0685      -----------------------------------------CG-U---A-
+DIP0941      -----------------------------A------------------U-
+DIP0620      ------------------------------------------A-U---U-
+DIP0358      --------------------------------------------------
+DIP1739      -----------------------GAUAACA------------------A-
+DIP1259      --------------------------CCUA------------U-G---A-
+DIP2003      --------------------------------------------------
+DIP0365      -----------------------------------------UG-C---G-
+DIP0211      -----------------------------AGAAAU--CACAAC-C---A-
+DIP1586      CUUCUAG-------AAAGAGAGCAGCAAUA--------------------
+DIP0309      --------------------------------------------------
+DIP0277      -----------------------------------------GU-G---C-
+DIP1611      -----------------------------------------U--------
+DIP2020      --------------------------------------------------
+DIP2094      --------------------------------------------------
+DIP1801      ---------------------UCCCACAUA------------------G-
+DIP2238      ------------------------------------------G-U---C-
+DIP1572      --------------------------GACAC---------GUU-C---G-
+DIP1119      --------------------UGUUUUAACA------------------G-
+DIP2330      -----------------------------AU----------GA-A---A-
+DIP0111      ------------------------------------------U-C---G-
+DIP0183      ------------------------GCAAGA-----------CC-C---G-
+DIP1896      ----------------------------GA------------G-C---A-
+DIP2134      GGG---------------AUCAACGUCCCA------------G-G---G-
+DIP0238      --------------------------------------------------
+DIP0253      -----------------------------A------------------A-
+DIP0118      ------------------------------CGU------UGUG-G---G-
+DIP2007      ------------------------------------------------U-
+DIP0687      --------------------------AUAAU---------GGC-C---A-
+DIP0543      -----------------------------A-----------CU-G---G-
+DIP1331      -----------------------------A-----------GG-C---U-
+DIP0914      -----------------------------A------------------U-
+DIP2252      ------------------------------A----------U--------
+DIP0469      ----------------------CAGUUACAG----------GG-C---A-
+DIP0855      --------------------------GCUAC----------CC-G---C-
+DIP1364      ------------------------------------------------G-
+DIP2284      ------------------------CCCUUA------------------U-
+DIP0076      -----------------------------A------------G-A---U-
+DIP1306      -------------------------UUUUAGC-------UUUC-C---G-
+DIP1427      ------------------------------G----------UU-C---U-
+DIP0917      ----------------------------UA------------U-C---U-
+DIP1698      -----------------------------A------------C-C---U-
+DIP0038      -----------------------------AAAC------AGGA-U---U-
+DIP1455      ------------------------------------------U-G---U-
+DIP1428      ------------------------------------------U-U---C-
+DIP1495      -----------------------------A------------------G-
+DIP2014      -----------------------------A------------G-A---A-
+DIP0777      ---------------------------GUA------------G-GA-GG-
+DIP0859      CG----------------CUCGUGAGUUUA------------A-G---G-
+DIP0637      ------------------------------------------C-A---U-
+DIP2093      -----------------------------A------------C-C---G-
+DIP1307      ----------------------------CA------------G-C---U-
+DIP1494      ------------------------------------------G-U---U-
+DIP0630      --------------------CGACAGCAGA-----------CC-C---C-
+DIP1454      ------------------------------------------G-U---G-
+DIP1419      ---------------------------GUA------------G-C---A-
+DIP0080      -----------------------------A------------G-G---G-
+DIP1846      ----------------------AACCGACAU---------CGU-G---U-
+DIP1795      ------------------------------------------G-G---U-
+DIP1234      -------------------------UAAAA------------G-C---U-
+DIP1226      ------------------------------------------C-C---U-
+DIP1418      -----------------------------AUG--------UAG-C---A-
+DIP1589      ------------------------------------------G-U---G-
+DIP2187      -------------------------AUGUA------------U-G---C-
+DIP1283      ------------------------------------------G-A---G-
+DIP0978      -----------------------------A------------G-G---A-
+DIP1533      -------------------------UGAAA-----------GU-G---U-
+DIP0733      ------------------------------G----------UG-U---U-
+DIP0659      ---------------------------ACAGUG------GGUA-A---U-
+DIP0924      ---------------------CAUGUGUUACU--------CGG-U---A-
+DIP2206      -----------------------------ACGUU----CACUA-U---U-
+DIP0923      -----------------------------AUGUUG--UGUGGA-C---U-
+DIP0657      -----------------------------------------GG-G---G-
+DIP1943      C------------------CAGCACGAGCA-----------GA-A---A-
+DIP0776      -----------------------------A-----------GG-U---A-
+DIP1687      --------------------------CUUAU----------GU-G---G-
+#=GC SS_cons ............................._............>.>...>.
+#=GC RF      .............................A............g.c...u.
+
+DIP2336      -GCG----AG--GCGG-A-GU--U
+DIP1504      -CGG----UU--CCGC-U-UU--U
+DIP1062      -AGG----AG--CGGA-U-CA--U
+DIP1027      -GGC----CA--CCGU-C-UU--U
+DIP0647      -CGA----AC--CGGC-U-GC--U
+DIP0646      -AAC----CG--GCUG-C-UG--U
+DIP2131      -UCG----CC--GGAC-C-GA--U
+DIP1796      -CGG----CA--CACC-C-CU--U
+DIP1077      -GAG----GG--CGUA-C-UG---
+DIP1637      -UUG----AC--CACU-U-UA--U
+DIP1026      -AAG----AG--GCCA-C-CG--U
+DIP2285      -CCA----CG--GGGG-C-UU--U
+DIP2266      -CUG----CU--GCGG-U-GA--U
+DIP1699      -UUG----CG--GCAC-U-UU--U
+DIP1590      -ACA----GU--GCGU-G-UG--U
+DIP1149      -GGA----CC--CCCA-C-CU--U
+DIP1982      -CGC----CU--GACC-G-AU--U
+DIP1339      -GAC----CA--CCAC-A-UU---
+DIP0329      -GCG----GA--UCUC-C-CU--U
+DIP1078      -CGG----AG--GGCG-U-AC--U
+DIP0502      -AAC----CG--GAUA-U-UC--U
+DIP1503      -GGC----CG--GUUG-C-GC--U
+DIP0989      -CCC----GU--CGCC-A-UC--U
+DIP0578      -UGC----CA--GCUC-U-UU--U
+DIP1157      -AGC----CA--GCAC-U-CG---
+DIP0988      -CGU----CG--CCAU-C-UU--U
+DIP1631      -GAA----CU--AGCG-G-GA--U
+DIP2130      -ACU----CG--CCGG-A-CC---
+DIP1310      -CAC----CC--CGGG-C-CG--U
+DIP1338      -GAC----CA--CCAC-A-UU--U
+DIP1415      -UCA----CA--CCGC-G-GA--U
+DIP0775      -AGA----AA--CCCC-C-UC--U
+DIP0470      -AGG----CG--GCUU-U-UC--U
+DIP1608      -UGA----CA--CCCG-A-GU--U
+DIP1388      -AUC----GU--GGGU-U-AA--U
+DIP1360      -CAU----UC--CCAC-C-GC--U
+DIP0858      -AAA----AA--AGGC-G-GU--U
+DIP1148      -GGA----CC--CCCA-C-CU--U
+DIP0579      -CUA----CC--AGCU-C-UU--U
+DIP1807      -UGU----GG--GGAG-U-UU---
+DIP2234      -UCG----UC--GGGU-U-UG---
+DIP2070      CACG----CG--AUGC-G-UU--U
+DIP1576      -GGG----UG--AAAG-A-CU--U
+DIP2129      -CGG----UG--UGGA-U-UU--U
+DIP0682      -UGG----UG--GGAG-C-UU--U
+DIP1987      -AGA----AC--CGCC-C-UU--U
+DIP2060      --GG----GG--CUAC-C-CU--U
+DIP1038      -GAG----GG--CGGU-A-GU--U
+DIP1208      -AAC----GA--GGGC-G-CU--U
+DIP0836      -AAG----CG--CCCC-A-CA---
+DIP1142      -GUG----GG--GCAC-C-CU--U
+DIP1481      -CGA----GA--GAGG-C-UC--U
+DIP1438      -UCG----GG--CACA-A-UU--U
+DIP1638      -UUG----AC--CACU-U-UA--U
+DIP0542      -AUC----GA--CCAC-C-GA--U
+DIP0699      -AGG----CG--GCGU-U-GU--U
+DIP1890      -GGU----CA--GGGC-G-UU--U
+DIP1872      -GUG----GC--GGUC-U-UU--U
+DIP1301      -CAU----GA--GGCU-U-UA---
+DIP1225      -GUA----CA--CCGC-C-CC--U
+DIP1233      -CGAG--GCC--ACAC-C-GA--U
+DIP0027      --CA----UG--AGGC-G-CC--U
+DIP1359      -CAU----UC--CCAC-C-GC---
+DIP1437      -UCG----GG--CACA-A-UU--U
+DIP0320      GGUU----AA--GACC-U-UU--U
+DIP1162      -AGA----GU--GCGG-C-CA--U
+DIP0892      -AGG----CU--UCAG-U-GU--U
+DIP1477      GGAA----CA--GUGC-C-CU--U
+DIP1918      -CAG----GG--GGUU-A-CU--U
+DIP1241      -UCG----CU--GCUC-C-UU--U
+DIP2300      -UUA----UG--UUGG-G-UG--U
+DIP1240      -UUG----CU--GCUC-C-UU--U
+DIP1501      -GCG----GA--AGCU-U-UU--U
+DIP0212      -AUGG-AUCA--CCUG-C-AU--U
+DIP0447      -GGC----GG--CGCU-U-CU--U
+DIP0529      -AAC----UA--CCAG-C-UU--U
+DIP1502      -AUG----CG--GAAG-C-UU--U
+DIP1423      -AGG----AA--CCAC-U-GC--U
+DIP0933      CGAU----GU--GCGG-C-UU--U
+DIP2069      -ACG----CG--AUGC-G-UU--U
+DIP1371      -CAG----GG--GGAA-U-UU--U
+DIP1871      --GG----UG--ACGG-U-CU--U
+DIP1616      -UCG----GG--CCCA-U-UA---
+DIP1035      -UGA----AA--UGGG-G-GU---
+DIP1642      -GCG----UG--GGAA-U-UU--U
+DIP1057      -ACC----GG--CCGC-U-CU--U
+DIP1081      -GAG----CG--CUGC-C-UU--U
+DIP1630      -GAA----CU--AGCG-G-GA---
+DIP1622      -CUG----AG--GCCU-C-UA--U
+DIP1452      --UA----CC--GCUG-C-UU--U
+DIP0006      -GCG----GC--GGGC-C-UU---
+DIP1022      -AUG----AA--GCGC-A-UU--U
+DIP0368      -GCG----GG--GAGC-G-UC---
+DIP1311      -CAU----CG--GCUU-U-UU---
+DIP1927      -UCG----GG--GGAG-U-AU--U
+DIP0901      -CAG----GC--CGGC-U-UU--U
+DIP2119      -GGG----UU--CCGC-A-UU--U
+DIP2311      -CUA----UU--CUAA-C-AA--U
+DIP1666      -UGA----AG--UGGG-G-AU--U
+DIP1254      -UGU----CG--AGGC-U-UA--U
+DIP1354      GGAA----AA--AGAG-C-CA--U
+DIP1422      -CUC----UC--CACC-A-UU--U
+DIP2299      -UGG----GU--GUUA-A-GU--U
+DIP2270      -ACA----GG--CGAG-U-UC--U
+DIP0595      -CAG---CGU--GGGG-G-CU--U
+DIP1865      -GUG----CA--GCGG-U-UU--U
+DIP2320      -UGG----GC--CGAU-U-UU--U
+DIP0626      -GGG----CA--CGUC-G-UC---
+DIP0378      -CUAA--CUG--CGGG-G-UU--U
+DIP1001      -GGG----GC--CGCC-C-UU--U
+DIP1176      -GAG----AU--UGGA-C-CU--U
+DIP1401      -CAG----CU--CCAU-U-UU---
+DIP0522      -GGA----GC--GCUC-C-UU---
+DIP0482      -AGU----CU--GGGG-G-UU--U
+DIP0943      -UGC----GU--GGCG-C-CU--U
+DIP1888      -AAG----UA--UCCG-A-GG--U
+DIP1643      -CGU----GG--GAAU-U-UU--U
+DIP1639      -ACA----CG--AGGC-G-UU--U
+DIP1002      -GGG----GC--CGCC-C-UU--U
+DIP1532      -AUC----GU--GGGG-U-UU--U
+DIP0932      GAAU----GU--GCGG-C-UU--U
+DIP0596      U---A--UGU--GGGG-G-CU--U
+DIP0101      ACCU----GG--CCGA-U-UU--U
+DIP1104      -GGA----AA--GGUC-C-GU--U
+DIP0956      --CA----CG--CGGG-G-CU--U
+DIP1216      -CGC----UG--GUGU-U-UU--U
+DIP1450      -UGC----GC--AGCU-G-AA---
+DIP0774      -GGC----AU--CCAC-C-UU--U
+DIP2000      -CGC----CA--GGCC-G-AU--U
+DIP0560      -CGG----UG--CGGG-C-AA--U
+DIP1468      -UUU----UA--GGCG-G-CU--U
+DIP0278      -CUU----UC--GCCU-C-CU--U
+DIP1416      -UCA----CA--CCGC-G-GA---
+DIP1660      -AUG----UC--UCGG-U-UU--U
+DIP0426      -UGG----GG--CAGC-A-UU--U
+DIP0373      -UGG----CU--CCGC-C-GA--U
+DIP0951      -ACA----GU--GGCC-G-CA---
+DIP1764      -AGG----CG--GGG--------U
+DIP1219      -GCA----CG--GCAU-C-GA---
+DIP1275      -GGC----AG--GCAA-U-C---U
+DIP1276      -CGG----CA--GGCA-A-UC--U
+DIP0242      AGUG----GG--CAAC-C-CC--U
+DIP1353      -UUG----GG--GCUU-U-GU--U
+DIP1300      -CAU----GA--GGC---------
+DIP1155      -UGG----CA--CCAU-U-UU--U
+DIP0161      -CAU----AA--GGGG-C-AC---
+DIP0853      -AGU----CA--GCCU-U-UA--U
+DIP1794      -GCG----UG--GGGA-A-CU--U
+DIP1272      -GGC----CG--GUGA-A-CG---
+DIP1421      -CCU----CA--CCAC-C-AU--U
+DIP0001      -CUA----CA--GCCU-C-UU--U
+DIP1095      -GGG---UUA--GGGC-C-UU--U
+DIP1479      -GUU----GA--UACG-G-CU---
+DIP0730      -GCC----GA--CUCC-U-UU--U
+DIP0787      -CUA----CG--GGCG-U-UA--U
+DIP0173      -CAG----CC--CACC-G-GA--U
+DIP2025      --GU----GG--CGGU-C-CC--U
+DIP0749      -UUC----UU--GGGG-A-UG--U
+DIP2271      -GCA----GG--CGAG-U-UU--U
+DIP0541      -GAA----CGAUCCUC-G-GA--U
+DIP1020      -GGU----GU--GGAU-U-UU--U
+DIP1961      -GGG----UA--GGGU-U-UU--U
+DIP0221      -AAG----GG--GGCU-A-UC--U
+DIP1056      -ACC----GG--CCGC-U-CU--U
+DIP1256      -AAU----GU--GCAG-U-UU--U
+DIP0102      -CUC----AU--CUGG-C-CG--U
+DIP1467      -GGG----CA--AGGG-G-CU---
+DIP1393      -GUC----CC--ACGC-U-UU--U
+DIP1636      -GGG----AG--UCGG-C-UC--U
+DIP0570      -GGG----AA--GCUG-G-GA--U
+DIP1037      -GGA----GG--GCGG-U-AG--U
+DIP1514      -AUG----AA--GCGC-G-CU--U
+DIP0185      -AAU----AU--CAC--------U
+DIP1156      -GCA----UG--GCAC-C-AU--U
+DIP1302      -CUA----AC--CUGC-G-UU--U
+DIP1242      -GUU----UA--CGCA-U-AA--U
+DIP1197      -AAU----GG--GCGA-C-UU--U
+DIP1553      -UUC----CA--CGGU-G-GA--U
+DIP1424      -GGA----AC--CACU-G-CU--U
+DIP1866      --GG----GG--GAUU-U-UU--U
+DIP1460      -AAC----GG--CUUC-A-AC--U
+DIP0631      -CCU----UC--CCAU-U-UU--U
+DIP1459      -GUC----AA--CGGC-U-UC---
+DIP1213      --CG----CC--CAGC-C-UG--U
+DIP2180      -GGA----AG--CCAC-C-UU--U
+DIP0005      -GUA----GC--GGGC-C-UU---
+DIP1864      -AGG----UC--CUCG-U-UU--U
+DIP0488      --GA----AG--GGGG-U-UU--U
+DIP1635      -AGG----AG--UCGG-C-UC---
+DIP0835      -AAG----CG--CCCC-A-CA---
+DIP2116      -GUG----CG--GUUC-U-UU--U
+DIP0658      -GGU----GA--GGUA-G-AA--U
+DIP0608      -GGG----CG--CCUU-C-GC--U
+DIP0903      -ACG----CG--GGAU-U-UU--U
+DIP1787      -GGU----GG--GCUC-U-CG--U
+DIP2275      -CGU----GA--GCAU-U-UU--U
+DIP2125      -UGU----GG--GGAGUU-UC--U
+DIP0832      GAUG----UG--AGGG-C-CC--U
+DIP0944      -UGC----GU--GGCG-C-CU--U
+DIP1281      -ACU----UU--CACC-C-UU--U
+DIP1207      -AAC----GA--GGGC-G-CA--U
+DIP0993      -CGA----UG--CCUC-C-CG--U
+DIP0094      AGCG----CA--AUCC-G-UA---
+DIP1482      -GAG----AG--GCUC-U-AG--U
+DIP1902      --GG----UG--CCGA-C-CC---
+DIP0550      -GCG----CC--CCA--------U
+DIP1780      GCUG---GCU--GGGU-G-UU--U
+DIP0437      -GGC----GG--GAGU-U-UU--U
+DIP0651      GGUG----CG--CCGC-U-UU---
+DIP0562      -GUG----GG--GCGG-C-UU--U
+DIP0895      --GU----UC--GCGC-G-GC---
+DIP2267      -CCG----CG--GCGG-U-GA--U
+DIP1355      GAAA----AA--GAGC-C-AU--U
+DIP1396      -AAG----GC--CCGU-C-CC--U
+DIP1615      -UCG----GG--CCCA-U-UA--U
+DIP1097      -UGG----UG--GCCA-U-AC--U
+DIP1100      -GGG----GU--GAGG-C-CC--U
+DIP1065      -GCC----GG--CAAC-G-UA---
+DIP1803      -AGG----UG--GCU--------U
+DIP1222      -ACA----GG--GCCU-U-GU--U
+DIP0684      -GCA----GA--GGGG-U-UU--U
+DIP2183      -CCU----UG--UUGU-U-CU---
+DIP0621      -UUG----CA--GCGC-U-UU--U
+DIP1731      --UC----GG--CAAG-C-CG--U
+DIP1117      -GGU----GG--AGGC-U-AU--U
+DIP1252      -CUG----CU--UCCC-G-CU--U
+DIP0571      UACU----AG--GCGU-G-CU--U
+DIP1347      -UGG----GG--GAAG-C-AC--U
+DIP1507      --UG----CA--CGGG-C-AU--U
+DIP0521      -GAG----CG--CUCC-U-UU--U
+DIP2276      -UGG----UG--GCUC-U-UU--U
+DIP2375      --GA----GG--CUCC-C-UU--U
+DIP2083      -AGU----CG--GCUA-G-CU---
+DIP0780      -GGA----AG--GGGGAU-UC---
+DIP1628      -GGG----CA--CUAG-C-CU--U
+DIP1016      -UUG----CG--AAGG-G-CU---
+DIP0351      -GUG----GU--CGCU-A-GC--U
+DIP1624      -AAU---CCA--CCAA-C-GC---
+DIP2128      -CAC----CA--UCGC-G-GU---
+DIP1093      -GGC----UG--CAUC-C-AC--U
+DIP1867      --------GG--GGGA-U-UU--U
+DIP0490      -GUG----GU--CGGC-A-GU--U
+DIP1891      --CG----AG--GUGG-C-AU--U
+DIP0992      -UCG----AC--GCCU-C-CC--U
+DIP1885      -GAU----GG--UGGC-C-GU--U
+DIP0702      -GCA----GG--GGUG-C-GU--U
+DIP1350      -UCG----UC--GAUG-C-GG--U
+DIP1463      -UUU----GG--GGGA-U-UU--U
+DIP0786      -CUA----CG--GGCG-U-UA--U
+DIP0174      -CAG----CC--CACC-G-GA---
+DIP0743      -GAC----UU--CAUC-G-UG---
+DIP0831      UGUG----UG--AGGG-C-CC---
+DIP1128      -ACG----AG--GCCC-C-AC---
+DIP2365      -AAC----UA--CCCA-C-UU--U
+DIP0628      -GGA----AG--CGAC-A-CU--U
+DIP2104      -CCA----GC--CGAC-C-UA--U
+DIP1330      -GAC----CU--GCGG-U-UU--U
+DIP1570      -ACA----GA--GCAC-G-CA--U
+DIP0611      -GUUC--GCG--GGGC-U-UG---
+DIP0352      -GGU----CG--CUAG-C-UU--U
+DIP1173      --------GG--CGGC----CCUU
+DIP0451      -ACG----UU--UGAU-G-CU--U
+DIP2371      -GCG----GG--GGCC-U-UU--U
+DIP1096      -GGGAACCAG--GGCC-U-U---U
+DIP1957      -CUG----CU--CCCC-A-UU---
+DIP0870      -AGG---AGG--GGGC-G-UC---
+DIP1413      -AGA---UUA--GGCG-U-UA--U
+DIP1760      -UGA----UG--GUGU-G-GU--U
+DIP2191      -GCA----UG--GACG-U-UG--U
+DIP0938      -CGG----GA--GGCG-C-AU--U
+DIP0645      -GGA----CG--CCUC-G-GU---
+DIP0803      -GGU----GG--GGGC-U-GU--U
+DIP1783      -GCA----UG--CUCC-C-UU--U
+DIP0939      -GGUG--AAC--GGGG-U-GU--U
+DIP1063      -AGA----AG--CGGA-U-CA---
+DIP1030      -UUU----GA--GCCG-C-GU---
+DIP1018      -GUG----CU--CCCU-U-AU--U
+DIP1498      -CCG----UG--CACC-C-UU--U
+DIP0824      CCAU----GU--GACC-A-UC--U
+DIP1488      -AC----ACA--CAAA-A-UU--U
+DIP0785      -CCA----CG--CGCU-C-GG--U
+DIP2235      -CGU----CG--GGUU-U-GU--U
+DIP0882      ACCG----AG--GGAG-U-UU--U
+DIP1394      -ACC----CC--ACGC-U-UU--U
+DIP0539      UCUG----GA--CACC-G-CC--U
+DIP1811      -UCC----UA--CAUC-C-----U
+DIP1552      -CGG----UG--GUCU-U-UU---
+DIP0199      -GUG---GCU--GGGC-C-CU--U
+DIP1166      CUG----GCA--CGGG-G-AU--U
+DIP2117      -AGG----UG--CGGU-U-CU--U
+DIP1249      -AGG----UG--CCAC-U-UA--U
+DIP1129      -AGG----AA--GCCC-C-AC--U
+DIP0979      -AGC----GG--CUCC-C-UU--U
+DIP1174      ACAC----UG--GCAU-U-UU--U
+DIP1045      --UA----GA--CCUC-A-UU--U
+DIP2322      -GCU----UU--CUAC-A-GG---
+DIP1919      -CUG---GGU--CAGC-C-UC--U
+DIP1618      -AUC----CA--ACAC-C-UU--U
+DIP0692      -CAG----CG--CCAU-C-AA---
+DIP1978      -GAU----GU--CGCUUA-CU--U
+DIP0650      -UUC----CG--AGGA-A-UU--U
+DIP1308      -CAGC-CCAC--GGAG-C-CA--U
+DIP2036      -UUG----UG-CGCGG-G-GA--U
+DIP1397      -AGG----CU--CGUC-C-CU---
+DIP0576      UC--U-CCCA--CCGG-C-AU---
+DIP1784      -GCC----GU--GCAG-C-UG---
+DIP1904      -AUU----UG--GUGU-G-AA--U
+DIP0225      -AUG----AC--GAUA-C-CG--U
+DIP2253      -GGG----UG--GCAU-U-GC--U
+DIP0969      -ACG----GC--GCUU-G-UG--U
+DIP0285      -CCC----CA--GCGC-U-UU--U
+DIP0079      -GGA----GG--GC------C--U
+DIP1327      -GCA----AA--GGGG-G-UU---
+DIP1309      -GCA----CC--UACC-U-UU--U
+DIP0771      -CGA----GA--CGAU-U-UU--U
+DIP1080      -GAG----CG--CUGC-C-UU---
+DIP0536      -GUA----CG--GCGU-U-GU--U
+DIP2194      -GGU----UG--CGCU-U-UA--U
+DIP0878      --GG----CG--GCCC-U-UU--U
+DIP0169      -GUG----UA--GCGC-G-GU--U
+DIP1402      --AG----CU--CCAU-U-UU--U
+DIP1669      CGUUA-UUGA--GAGG-A-GC--U
+DIP0671      -UGU----GC--UCGC-C-CU--U
+DIP2033      -UGC----CU--ACCU-G-CG---
+DIP0949      -GGG----GC--GCGG-U-UU--U
+DIP0010      -CAC----GG--CCUG-U-UU--U
+DIP1348      -GGA----UA--AGGC-C-AU--U
+DIP0217      -GGG----GG--CAU--------U
+DIP1082      -GUA----GU--GGGG-C-UU--U
+DIP1378      -CGC----AG--CAGC-C-GC--U
+DIP1725      --GG----AA--UCCG-G-UG--U
+DIP1115      --GC----CU--AGGG-G-AU--U
+DIP1928      -GAU----AU--GACU-U-GU--U
+DIP0649      -AUU----AC--GAGC-C-UG---
+DIP1788      -GUC----UU--CUCC-U-CU--U
+DIP0839      -CCG----UG--GCGU-G-UU--U
+DIP0303      --GC----CC--CUGC-C-UU--U
+DIP1901      -CCA----AC--CCUU-U-UG--U
+DIP0820      -GUC----CG--UGUA-G-UC---
+DIP0757      -CAC----GG--AAGU-U-CA--U
+DIP2281      -AGG----AG--GCU--------U
+DIP1976      -UGA----CG--ACGG-A-UU--U
+DIP1198      UUUG----AC--UAGC-G-CU--U
+DIP1905      -UCC----AA--GAGG-C-UU--U
+DIP2349      --GG----GG--GCGU-U-UU--U
+DIP1889      -AAA----UA--UCCG-A-GG--U
+DIP0157      GACU----AG--CUGC-C-CU---
+DIP1029      GGUG----UG--CGGC-U-UU--U
+DIP1071      -AUA----GC--UCGC-G-UU---
+DIP1105      --UC----AG--GAAC-C-CU--U
+DIP0053      --GC----UG--CUGG-U-GC--U
+DIP2282      GGGA----GG--GAGG-C-UU--U
+DIP1146      -CAU----UC--ACGG-G-CU---
+DIP1264      -AGA----CU--CUGC-C-GC--U
+DIP0808      -GUG----CA--GGGC-G-UU--U
+DIP0427      CCGG----CA--UCGU-G-CC---
+DIP1762      --AU----CC--GUGC-U-CU---
+DIP2225      -GGU----AC--CGG--------U
+DIP1288      -AGG----AC--CAAC-U-UU--U
+DIP0297      -UGG----CU--CACCCC-GG--U
+DIP0302      --GC----CC--CUGC-C-UU--U
+DIP0885      -GCC----GA--UGGC-G-CA--U
+DIP0925      ---U----GG--UGCC-C-UU--U
+DIP0430      -AUC----GG--CGGG-A-UA---
+DIP1290      -GGA----CA--CCUG-C-UU--U
+DIP0396      --CC----UU--GGGC-G-GU--U
+DIP1253      CCGC----UU--CCCG-C-UU--U
+DIP1519      -AUG----GG--GAGG-G-GU--U
+DIP1767      -CAG----AG--CGGG-A-UU--U
+DIP1015      -CUG----CG--AAGG-G-CU--U
+DIP0883      -AAG----GG--AGUU-U-UU---
+DIP2329      --CC----UC--GGGC-U-UU--U
+DIP2018      -AGC----GG--GCCC-U-UU--U
+DIP0515      -UCC----UA--GGGG-G-AA--U
+DIP1217      -CCG----CU--GGUG-U-UU--U
+DIP0380      --CG----GG--CAGG-U-GG--U
+DIP1805      -AUC----CA--CAGA-U-UU--U
+DIP2015      -CGG----GC--UCAC-C-UA---
+DIP0581      -GGG---GGU--GCGC-G-UU--U
+DIP1121      -GUG----GG--GCCU-A-AU--U
+DIP1793      --GC----UG--GGCC-U-UU--U
+DIP2379      -UGG----GG--GCGG-C-UU--U
+DIP2376      --GA----GG--CUCC-C-UU--U
+DIP1582      --GG---ACG--UCGC-C-AA--U
+DIP1892      --UG----AG--GUGG-C-AU--U
+DIP0619      UAGU----UG--CCCU-G-UU--U
+DIP1659      -GAA----CC--ACGC-C-CU---
+DIP2312      -CUA----UU--CUAA-C-AA--U
+DIP0357      -GGC----CU--CGGC-U-UU--U
+DIP1915      -GUC----GG--GGCA-G-UU--U
+DIP0635      -GCA----GC--CGGA-U-UG---
+DIP0417      UUCCU--GUG--GCAC-C-AU--U
+DIP0668      -GCA----CC--GCCU-G-GC---
+DIP1041      -GGG----GU--GGCC-U-CG---
+DIP0997      -GGC----UG--GGAUUC-UU--U
+DIP0826      -GGU----UU--CCCA-C-CG---
+DIP0023      -CGU----GG--CAGG-C-UA--U
+DIP1435      --GU----UC--UCCU-C-UU--U
+DIP1766      -GGG----CG--GGAU-U-UU--U
+DIP1287      -ACG----GA--CCAA-C-UU--U
+DIP2115      -GUG----GG--CUCU-A-CA---
+DIP1088      -CGG----AA--GUGG-C-UU--U
+DIP1714      --GG----UU--CGCU-C-CU---
+DIP2135      -AGG----CU--GUGC-C-UU--U
+DIP0406      -GCG----AU--CAUC-G-GG--U
+DIP2207      --GG----GG--CGAG-C-UU--U
+DIP1102      -AAG----UG--UGGC-U-AU--U
+DIP1911      -UUC----UG--UUCA-C-CU--U
+DIP1879      -GUG----AG--GGG-----U--U
+DIP2056      -GCU----CA--GCGG-U-AU---
+DIP0920      -UGG----GG--UUAG-C-UA---
+DIP0685      -GCA----AA--GGGG-U-UU---
+DIP0941      -GGG----CU--CGCC-U-CG---
+DIP0620      -CCU----UC--CUAC-C-----U
+DIP0358      --GC----CU--CGGC-U-UU---
+DIP1739      -AGA----CA--CCAU-G-AG---
+DIP1259      -CAU----AU--GCUU-C-GC---
+DIP2003      --UC----UG--GCUG-G-UU--U
+DIP0365      UUAU----CA--GCGA-G-GU--U
+DIP0211      -GAA----AG--CUGC-U-CG--U
+DIP1586      --AG----AA--GCCCCG-AU---
+DIP0309      --CG----GG--GCGU-U-GU--U
+DIP0277      -AAG----AG--GUCU-U-UU---
+DIP1611      -CCG----AA--GGAG-G-UC---
+DIP2020      --------GG--GGGC-U-UU--U
+DIP2094      --GG----GC--CCUU-A-UU--U
+DIP1801      -CGG----CG--CGG--------U
+DIP2238      -GCG----CA--GCCC-G-UU--U
+DIP1572      -AGC----GC--CGCA-G-UG---
+DIP1119      -GCG----UA--ACCC-U-CC--U
+DIP2330      -AGG----GA--CCAG-A-CU--U
+DIP0111      -CUG----AU--UGGC-U-CG---
+DIP0183      -GUG----AA--GGGC-A-AU---
+DIP1896      -UUG----GA--AUCG-U-UU---
+DIP2134      -GGA----CU--GUGC-C-GU---
+DIP0238      --CG----CG--CCAC--CCG---
+DIP0253      -CGU----GG--CCGA-C-UU---
+DIP0118      CCUG----AA--GGAU-C-AA--U
+DIP2007      -CCU----UA--CAGU-G-CC--U
+DIP0687      -CUGAUGCAU--ACUU-C-UU---
+DIP0543      -UUU----AC--CCCA-C-UU---
+DIP1331      -GGU----CG--CCGG-C-UG---
+DIP0914      -CAA----AG--CCC--------U
+DIP2252      -CCU----UG--GUGG-C-AU--U
+DIP0469      -UAG----GG--GGA---------
+DIP0855      -AGU----GA--GGUU-C-CA---
+DIP1364      -CGG----GG--AGAC-A-CA---
+DIP2284      -GGG----GG--UUUA-C-UU--U
+DIP0076      -UCG---ACU--CCG--------U
+DIP1306      -CCC----CA--CACG-U-UU--U
+DIP1427      -UCC----CG--CCCC-A-CU--U
+DIP0917      -CCG----UG--GGGA-C-UG---
+DIP1698      -UUG----CG--GCAC-U-UU--U
+DIP0038      -UUU----UG--GGCU-A-CC--U
+DIP1455      -GGA----UC--CGCA-C-UA--U
+DIP1428      -UUC----CC--GCCC-C-AC--U
+DIP1495      -UUG----UA--CAGC-C-CU--U
+DIP2014      -CUG----CA--CCGA-C-UA---
+DIP0777      -AUG----UC--CCGC-C-CU--U
+DIP0859      -AAA----GA--AGGC-G-GU--U
+DIP0637      -CGU----CU--GCGU-A-CC---
+DIP2093      -GAG----CG--AGAU-C-CU--U
+DIP1307      -UUC----CG--CCCC-A-CA---
+DIP1494      -GUA----CA--GCCC-U-UC---
+DIP0630      -CCU----CU--UAGU-C-AU--U
+DIP1454      -GAU----CC--GCAC-U-AU---
+DIP1419      -ACU----GA--GCAC-A-CG--U
+DIP0080      AGUG----AC--CUCC-G-GU--U
+DIP1846      -GCA----UU--CCCU-C-UU--U
+DIP1795      -CGG----CA--CACC-C-CU--U
+DIP1234      -CGA----UG--CCAC-A-CC---
+DIP1226      -GUA----CA--CCGC-C-CC--U
+DIP1418      -ACU----GA--GCAC-A-CG--U
+DIP1589      -GCA----CU--GCCC-U-CA--U
+DIP2187      -CCA----CA--CCCA-C-CU--U
+DIP1283      -GUG----GA--GCCC-C-UA---
+DIP0978      -GGC----GG--GCCA-U-CG--U
+DIP1533      -CGG----UG--GCAC-C-GA---
+DIP0733      -GUU----UA--CCGG-A-UG--U
+DIP0659      -CUA----GG--CCAG-U-UU--U
+DIP0924      -CCG----CC--CUCG-C-GU--U
+DIP2206      -CCU----GA--ACAG-U-GC--U
+DIP0923      -CGG----UA--CCGC-C-CU---
+DIP0657      -GGU---CAC--CAAG-C-CC--U
+DIP1943      -GCA----AG--GUGG-G-GG--U
+DIP0776      CGAU----GU--CCCG-C-CC---
+DIP1687      -UGA----CG--GUAC-A-UU--U
+#=GC SS_cons .>>>....>>..>>>>.>.>>..:
+#=GC RF      .ggg....cg..gcgc.c.uu..U
+//

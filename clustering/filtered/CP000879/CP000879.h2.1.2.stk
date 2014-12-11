@@ -1,0 +1,886 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Pmob_0314 WT 0.91
+#=GS Pmob_1506 WT 1.05
+#=GS Pmob_0353 WT 0.70
+#=GS Pmob_1902 WT 1.00
+#=GS Pmob_0722 WT 1.01
+#=GS Pmob_0530 WT 1.23
+#=GS Pmob_1580 WT 1.02
+#=GS Pmob_1722 WT 0.69
+#=GS Pmob_1663 WT 1.37
+#=GS Pmob_0315 WT 0.91
+#=GS Pmob_1346 WT 1.37
+#=GS Pmob_0183 WT 1.00
+#=GS Pmob_0601 WT 0.92
+#=GS Pmob_0220 WT 0.97
+#=GS Pmob_0354 WT 0.70
+#=GS Pmob_1387 WT 1.00
+#=GS Pmob_1262 WT 1.09
+#=GS Pmob_0012 WT 0.91
+#=GS Pmob_0221 WT 1.16
+#=GS Pmob_0396 WT 1.00
+#=GS Pmob_1915 WT 1.07
+#=GS Pmob_0010 WT 0.99
+#=GS Pmob_0083 WT 1.14
+#=GS Pmob_1487 WT 0.88
+#=GS Pmob_1805 WT 0.88
+#=GS Pmob_1109 WT 1.17
+#=GS Pmob_0302 WT 1.13
+#=GS Pmob_1579 WT 1.00
+#=GS Pmob_1649 WT 0.94
+#=GS Pmob_1901 WT 1.00
+#=GS Pmob_1680 WT 1.06
+#=GS Pmob_1477 WT 0.90
+#=GS Pmob_0835 WT 0.62
+#=GS Pmob_1551 WT 0.82
+#=GS Pmob_1624 WT 0.96
+#=GS Pmob_1427 WT 0.99
+#=GS Pmob_0647 WT 0.99
+#=GS Pmob_1488 WT 0.88
+#=GS Pmob_1625 WT 0.96
+#=GS Pmob_1268 WT 1.46
+#=GS Pmob_1436 WT 0.83
+#=GS Pmob_1194 WT 1.00
+#=GS Pmob_1543 WT 1.06
+#=GS Pmob_1781 WT 1.05
+#=GS Pmob_0001 WT 1.03
+#=GS Pmob_1115 WT 0.71
+#=GS Pmob_1181 WT 1.21
+#=GS Pmob_0903 WT 1.43
+#=GS Pmob_1023 WT 0.79
+#=GS Pmob_1550 WT 0.75
+#=GS Pmob_1660 WT 0.76
+#=GS Pmob_1158 WT 0.95
+#=GS Pmob_0807 WT 1.15
+#=GS Pmob_1924 WT 1.10
+#=GS Pmob_1253 WT 1.00
+#=GS Pmob_0970 WT 0.90
+#=GS Pmob_1207 WT 0.92
+#=GS Pmob_0733 WT 1.04
+#=GS Pmob_0648 WT 0.99
+#=GS Pmob_1922 WT 1.00
+#=GS Pmob_0137 WT 1.08
+#=GS Pmob_0027 WT 1.41
+#=GS Pmob_1206 WT 0.92
+#=GS Pmob_1048 WT 1.03
+#=GS Pmob_1112 WT 0.96
+#=GS Pmob_0488 WT 1.33
+#=GS Pmob_1428 WT 1.02
+#=GS Pmob_1032 WT 1.05
+#=GS Pmob_1129 WT 0.81
+#=GS Pmob_1309 WT 0.94
+#=GS Pmob_0560 WT 1.08
+#=GS Pmob_1723 WT 0.69
+#=GS Pmob_0127 WT 1.01
+#=GS Pmob_0508 WT 0.91
+#=GS Pmob_1128 WT 0.81
+#=GS Pmob_1033 WT 1.00
+#=GS Pmob_1256 WT 0.88
+#=GS Pmob_0340 WT 0.96
+#=GS Pmob_0144 WT 1.28
+#=GS Pmob_0061 WT 0.86
+#=GS Pmob_1767 WT 1.03
+#=GS Pmob_1435 WT 0.83
+#=GS Pmob_1328 WT 0.93
+#=GS Pmob_0313 WT 1.08
+#=GS Pmob_0312 WT 0.99
+#=GS Pmob_0636 WT 1.02
+#=GS Pmob_1575 WT 0.88
+#=GS Pmob_1193 WT 1.22
+#=GS Pmob_0238 WT 0.93
+#=GS Pmob_1278 WT 0.77
+#=GS Pmob_0994 WT 0.82
+#=GS Pmob_1100 WT 1.14
+#=GS Pmob_0262 WT 0.99
+#=GS Pmob_0295 WT 1.41
+#=GS Pmob_1029 WT 1.21
+#=GS Pmob_1629 WT 1.06
+#=GS Pmob_1429 WT 1.06
+#=GS Pmob_1916 WT 1.11
+#=GS Pmob_0031 WT 1.06
+#=GS Pmob_1188 WT 0.77
+#=GS Pmob_1113 WT 1.06
+#=GS Pmob_0136 WT 0.88
+#=GS Pmob_0011 WT 0.81
+#=GS Pmob_0954 WT 0.96
+#=GS Pmob_0646 WT 1.21
+#=GS Pmob_1766 WT 1.09
+#=GS Pmob_0135 WT 0.88
+#=GS Pmob_1468 WT 1.01
+#=GS Pmob_0341 WT 1.22
+#=GS Pmob_0732 WT 1.04
+#=GS Pmob_1910 WT 0.99
+#=GS Pmob_1068 WT 0.96
+#=GS Pmob_1848 WT 0.84
+#=GS Pmob_0289 WT 1.13
+#=GS Pmob_1024 WT 0.96
+#=GS Pmob_0400 WT 0.84
+#=GS Pmob_0259 WT 0.90
+#=GS Pmob_1138 WT 1.09
+#=GS Pmob_0140 WT 0.88
+#=GS Pmob_1600 WT 1.13
+#=GS Pmob_1809 WT 1.37
+#=GS Pmob_0978 WT 0.96
+#=GS Pmob_0270 WT 0.79
+#=GS Pmob_0150 WT 0.94
+#=GS Pmob_0825 WT 1.05
+#=GS Pmob_1887 WT 1.06
+#=GS Pmob_1134 WT 1.03
+#=GS Pmob_1529 WT 0.43
+#=GS Pmob_0349 WT 1.19
+#=GS Pmob_0583 WT 0.90
+#=GS Pmob_1452 WT 1.46
+#=GS Pmob_0716 WT 1.09
+#=GS Pmob_0650 WT 0.75
+#=GS Pmob_1444 WT 1.00
+#=GS Pmob_1678 WT 1.06
+#=GS Pmob_0423 WT 1.13
+#=GS Pmob_1556 WT 0.94
+#=GS Pmob_1630 WT 0.76
+#=GS Pmob_1813 WT 0.76
+#=GS Pmob_0453 WT 1.63
+#=GS Pmob_0056 WT 0.89
+#=GS Pmob_0723 WT 0.94
+#=GS Pmob_1842 WT 0.92
+#=GS Pmob_0838 WT 0.97
+#=GS Pmob_0460 WT 1.21
+#=GS Pmob_0761 WT 0.88
+#=GS Pmob_1163 WT 0.89
+#=GS Pmob_1808 WT 1.07
+#=GS Pmob_1797 WT 0.94
+#=GS Pmob_0884 WT 1.15
+#=GS Pmob_1052 WT 0.43
+#=GS Pmob_1216 WT 1.01
+#=GS Pmob_0120 WT 1.17
+#=GS Pmob_0388 WT 0.94
+#=GS Pmob_0458 WT 1.10
+#=GS Pmob_0769 WT 1.01
+#=GS Pmob_0993 WT 0.82
+#=GS Pmob_0581 WT 1.06
+#=GS Pmob_0713 WT 1.02
+#=GS Pmob_1833 WT 1.05
+#=GS Pmob_0038 WT 0.90
+#=GS Pmob_1381 WT 1.06
+#=GS Pmob_1341 WT 0.84
+#=GS Pmob_0711 WT 0.93
+#=GS Pmob_1441 WT 1.14
+#=GS Pmob_0635 WT 1.01
+#=GS Pmob_1388 WT 1.12
+#=GS Pmob_0523 WT 1.13
+#=GS Pmob_0389 WT 0.94
+#=GS Pmob_1762 WT 0.96
+#=GS Pmob_0104 WT 0.90
+#=GS Pmob_1659 WT 1.13
+#=GS Pmob_1417 WT 1.01
+#=GS Pmob_0721 WT 0.90
+#=GS Pmob_1326 WT 1.35
+#=GS Pmob_1051 WT 0.87
+#=GS Pmob_1467 WT 1.05
+#=GS Pmob_1799 WT 1.19
+#=GS Pmob_0850 WT 1.13
+#=GS Pmob_0568 WT 0.93
+#=GS Pmob_1114 WT 0.71
+#=GS Pmob_0030 WT 1.05
+#=GS Pmob_1104 WT 1.04
+#=GS Pmob_0842 WT 0.93
+#=GS Pmob_1814 WT 0.76
+#=GS Pmob_1583 WT 1.01
+#=GS Pmob_0265 WT 1.29
+#=GS Pmob_1795 WT 1.22
+#=GS Pmob_1108 WT 1.21
+#=GS Pmob_1798 WT 0.62
+#=GS Pmob_0347 WT 0.96
+#=GS Pmob_0531 WT 1.02
+#=GS Pmob_0326 WT 0.83
+#=GS Pmob_0615 WT 0.85
+#=GS Pmob_0813 WT 1.11
+#=GS Pmob_1165 WT 0.91
+#=GS Pmob_0885 WT 1.15
+#=GS Pmob_0792 WT 1.22
+#=GS Pmob_0070 WT 0.90
+#=GS Pmob_0112 WT 0.76
+#=GS Pmob_0797 WT 0.76
+#=GS Pmob_0139 WT 0.94
+#=GS Pmob_0055 WT 1.07
+#=GS Pmob_0828 WT 1.07
+#=GS Pmob_1335 WT 1.30
+#=GS Pmob_0590 WT 1.08
+#=GS Pmob_0569 WT 0.86
+#=GS Pmob_1011 WT 1.06
+#=GS Pmob_0287 WT 1.39
+#=GS Pmob_0485 WT 0.87
+#=GS Pmob_0928 WT 0.83
+#=GS Pmob_1650 WT 1.05
+#=GS Pmob_1769 WT 1.20
+#=GS Pmob_0433 WT 1.13
+#=GS Pmob_0875 WT 1.03
+#=GS Pmob_0084 WT 1.08
+#=GS Pmob_0879 WT 0.88
+#=GS Pmob_1686 WT 0.81
+
+Pmob_0314    -------UAAAAUAAG---------UAAUCUCG--G-UUGCA--------
+Pmob_1506    UAAAAAACAAAAUAU----------GGGAAGGA--G-AUAGAUAA-----
+Pmob_0353    --------UAAAUC------------AAUAACC--G-GUACUGUU-----
+Pmob_1902    -----UUAAUAAUU------------AAAAUAU--C-CCGCU--------
+Pmob_0722    ----------AAUUCA---------AGCUAAAG--G-CGGAU--------
+Pmob_0530    ---UGAAAAAA----------------AAUACC--G-CAUCAG-------
+Pmob_1580    ----------AAGUAU--------UUAAAAGCU--U-GGG----------
+Pmob_1722    ------UAAAA----------------AAAACC--G-GUGAUU-------
+Pmob_1663    ----UAAAGCAAGU-------------AUAAUU--C-CCCUUUGGA----
+Pmob_0315    ----------AAG--------------AUCUCG--G-UUGCU--------
+Pmob_1346    ----------AAUA-------------UACUGA--U-CAGUAAUAUACU-
+Pmob_0183    --------UUA----------------AAAUAA--C-GGGUA--------
+Pmob_0601    -----UAAACAAUC------------UAAAAGG--G-GUGUAAG------
+Pmob_0220    ----------AAUUU-----------UAAAAUC--C-CCCAUCG------
+Pmob_0354    ------UAAAAAUAA-----------AAUAACC--G-GUACUGUU-----
+Pmob_1387    ----UAAAAAA----------------UAAGAG--C-CGGUAU-------
+Pmob_1262    -------UCAAAU--------------AAUACA--U-GCGUA--------
+Pmob_0012    ----------AAUA------------AAAAGGC--U-CGAUAA-------
+Pmob_0221    ----------AAUUA-----------AAAUCCC--C-CAUCU--------
+Pmob_0396    ----------A----------------GUAGGA--A-GUAGAUAA-----
+Pmob_1915    ----------A----------------AACAGU--G-AGGCGUAAGU---
+Pmob_0010    ----------AAUAC----------ACCAAGGA--G-CGC----------
+Pmob_0083    ------UAGAAAUCU-----------UAGACGC--C-CUUUA--------
+Pmob_1487    ------UAAAAAUU------------CAAAAAC--C-CUCCAAAAUCA--
+Pmob_1805    ----UAGAAUAAUA------------UCUGAGA--G-GGAGA--------
+Pmob_1109    --------UAAAUAA----------UAAAAGUC--G-GGAGA--------
+Pmob_0302    ----------AAUUUUUAUC-UUUCACAGCUCG--G-CUAAA--------
+Pmob_1579    ------UUAAAAUU------------UAAAAGC--U-UGGGU--------
+Pmob_1649    ------UAAAA----------------AUUCAG--G-AGGCU--------
+Pmob_1901    ------UUAAAAUAU-----------AAAAUAU--C-CCGCA--------
+Pmob_1680    ----------AAUA-------------UGAGGC--G-GGA----------
+Pmob_1477    ----------AAU--------------AAAUGC--U-GGG----------
+Pmob_0835    ----------AAUUUA---------UUAAAGGC--G-CCC----------
+Pmob_1551    -------UAAAAUA-------------AAAACC--G-CCCCAAC------
+Pmob_1624    -----UAAAAA----------------AAUAUC--G-CUGGUU-------
+Pmob_1427    -------UAAA----------------AACAUA--G-GGUCUUU------
+Pmob_0647    ----------A----------------AUAGUA--A-UGCCUG-------
+Pmob_1488    --------UAAAC--------------AAAAAC--C-CUCCAAACUCG--
+Pmob_1625    --------UAAAUAA-----------AAAUAUC--G-CUGGUC-------
+Pmob_1268    ----------A----------------CACCAC--C-GUACGUAC-----
+Pmob_1436    ------UCAAA----------------AAAGGA--G-ACAUGC-------
+Pmob_1194    -------UGAAAUAAU--------GGGGUAGGA--G-GUAGAUUAA----
+Pmob_1543    ----------AAUU------------AAGAAGG--C-AGGCG--------
+Pmob_1781    -------UAAAACA-------------AUUGCC--C-CGAUUU-------
+Pmob_0001    ------UAAAAAUAGA--------AGAAAUCGG--C-CUCAAAUUAUGAU
+Pmob_1115    ----------AAUU------------AAAAAGC--C-CUC----------
+Pmob_1181    ------UAAAAACUUUAUC---UUCAUUUUGGG--C-GUCCUU-------
+Pmob_0903    --------UAAAUAAAAU----GAUUGAGAGAU--G-CUC----------
+Pmob_1023    ------UAAAAAUG-------------GAAAAA--G-GGC----------
+Pmob_1550    ---UAAAAUAAAUU------------UUAAACC--G-CCCCUAU------
+Pmob_1660    ----------AAUGU----------UCAUUAAG--G-GGC----------
+Pmob_1158    ------UAAAA----------------ACAAGC--G-UGCCAU-------
+Pmob_0807    ----------A----------------UAAAUG--G-GGACG--------
+Pmob_1924    ----------AACU------------UAAUCUC--G-GCCCU--------
+Pmob_1253    ------UUAAAAUU-------------AAAGGG--C-UGA----------
+Pmob_0970    ----------AAUUUU--------CAUAAUUGC--G-GGCCA--------
+Pmob_1207    ------UGAAA----------------AAAAUA--G-AGGCU--------
+Pmob_0733    ----------A----------------AACUGU--A-GGGCUAAC-----
+Pmob_0648    ----------A----------------AUAGUA--A-UGCCCU-------
+Pmob_1922    ----------A----------------AUAAAC--C-CGCCUAA------
+Pmob_0137    ----------A----------------AAAGGC--A-GACUU--------
+Pmob_0027    ----------AAUUUUCAUAGGUGGGCGGUAAA--C-GGAGU--------
+Pmob_1206    ----------AACC-------------AAAAUA--G-AGGCG--------
+Pmob_1048    -----UAAGUAAUUUAUU-----AUUACAGGGA--A-GAGGA--------
+Pmob_1112    ----------A----------------AAAAUA--G-CCC----------
+Pmob_0488    ----------A----------------GUUCGU--G-GAGGAA-------
+Pmob_1428    ----------A----------------ACAUAG--G-GUCUAA-------
+Pmob_1032    ------UGAAAACA------------AAAUCCC--G-AGGUUGUA-----
+Pmob_1129    ----------AAUA-------------AAAAGC--C-AGG----------
+Pmob_1309    ----------AAUAGUU------UCUGAAAAGA--C-GCCCG--------
+Pmob_0560    ----------AAUAC-----------AAUAGAU--A-GAGGG--------
+Pmob_1723    ------UUAAA----------------AAAACC--G-GUGAAA-------
+Pmob_0127    ----------A----------------UUAAGG--G-GGC----------
+Pmob_0508    ----------AAUGA----------UUAUAAGG--G-GGU----------
+Pmob_1128    ----------CAUU-------------AAAAGC--C-AGG----------
+Pmob_1033    ----------AAUU-------------AAAAUC--C-CGAGGCAAUU---
+Pmob_1256    ------UAAAA----------------AUUGAC--G-CUC----------
+Pmob_0340    ----------A----------------ACAAAA--U-AGGUCAAUGAU--
+Pmob_0144    ---UAAAGUUAAUU------------AAAUGAU--G-AGGGG--------
+Pmob_0061    -----UAGAAAAUC-------------AAAGGG--G-CGA----------
+Pmob_1767    --------UAAACU-------------AAAAGC--C-GAGCA--------
+Pmob_1435    -----UAAAAA----------------AAAGGA--G-ACAUGU-------
+Pmob_1328    ----------AAUUA----------AUAUAAAC--C-CCACG--------
+Pmob_0313    ----------A----------------AUAGGC--G-CCGUUU-------
+Pmob_0312    ----------AAUU------------CAAAGGC--G-CCGUAU-------
+Pmob_0636    ----------AAUU------------AAAGUUU--G-UUGGU--------
+Pmob_1575    ----------AAUUU-----------GAAGAGA--G-GGG----------
+Pmob_1193    ----------AAGCUAUU----ACAUUUUAGUG--C-CGG----------
+Pmob_0238    ----------AAUAC-----------AUUGAGC--C-CCC----------
+Pmob_1278    ----UAAAGAAACA------------CACUCAU--G-CCUCU--------
+Pmob_0994    ------UAAAA----------------AUAGCG--G-UGC----------
+Pmob_1100    ----------AACUUAUC-----UUCUAGACGC--U-CUA----------
+Pmob_0262    ----------A----------------AAAAUU--G-ACUGGA-------
+Pmob_0295    ----------AAG--------------GGAUUU--U-GGAGA--------
+Pmob_1029    --------UAAACA-------------UAAGGG--C-CGGGAA-------
+Pmob_1629    ----------A----------------AAAAGC--G-GGAUU--------
+Pmob_1429    ----------AAGCAC---------UUAAAGGG--A-UGC----------
+Pmob_1916    ---------U-AGGG-----------CGUUCAA--G-GGG----------
+Pmob_0031    ----------AAUU-------------AAAAAA--C-GGGGCUUUU----
+Pmob_1188    ----UAAAGAAACA------------CACUCAU--G-CCUCU--------
+Pmob_1113    ------UCAAAAUAUU---------AGAAAAAU--A-GCCCA--------
+Pmob_0136    ----------A----------------ACAACA--G-GGAGU--------
+Pmob_0011    ------UAAAAAGUGCAU----AUAUUAAAGGC--U-CGAUAU-------
+Pmob_0954    ----UGAAAUAAUUUG--------UUUCAUGCC--C-CUCUUUUU-----
+Pmob_0646    ----------AAUU------------CAAAGUA--C-AGCCAUG------
+Pmob_1766    -----UAAAUAAUAC-----------AAAAGCC--G-AGC----------
+Pmob_0135    ----------A----------------ACAACA--G-GGAGU--------
+Pmob_1468    ----------G----------------AAAGGG--G-CGCCU--------
+Pmob_0341    ----------A----------------AAACAA--A-AUAGGCAAACAGA
+Pmob_0732    ----------A----------------AACUGU--A-GAGCAACU-----
+Pmob_1910    ----------AAUUCC---------AAAAAAUG--G-GCAGG--------
+Pmob_1068    ----------AAUUA----------UCAAAACC--C-CAGGUAA------
+Pmob_1848    ----------AAU--------------ACACCG--G-GGG----------
+Pmob_0289    ----------A----------------AUCCAA--G-GAAGA--------
+Pmob_1024    ----------AAGG------------UAAAAAA--G-GGC----------
+Pmob_0400    ---UAAAAAAAAUUUG---------UCAAACCU--G-GGG----------
+Pmob_0259    ------UUAAA----------------UUAAUC--G-GGG----------
+Pmob_1138    -----UAAAAAACCA-----------AGAAGAA--A-GUCCU--------
+Pmob_0140    ----------AAUUU----------AAAAAGUG--G-GCC----------
+Pmob_1600    ------UAAAAAUUCAAAA---AAACUAAAUGG--G-GGAGAC-------
+Pmob_1809    -----UAAACAAU--------------CAUUGA--U-AAUGU--------
+Pmob_0978    ----------G----------------ACAAAA--U-AGC----------
+Pmob_0270    ------UAAAAACGA----------UGAAAAGA--G-GCC----------
+Pmob_0150    ----------A----------------CUAAAA--G-AGGCU--------
+Pmob_0825    ----------AAUA------------AAAAGAU--G-GGGCAUCU-----
+Pmob_1887    ----------AACUUU---------AAAAAAAC--C-CUCUGGA------
+Pmob_1134    ------UAAAAAU--------------AUAGGG--A-CUG----------
+Pmob_1529    ----------AAUUUC--------UGAAAAGAC--G-CCC----------
+Pmob_0349    ----------AAUAAA---------ACAAUGAG--G-ACGCU--------
+Pmob_0583    ----------AAUGA-----------AGAAAGG--G-AGG----------
+Pmob_1452    ----------AAUCC----------UGGCCCGC--G-UUAUGUUU-----
+Pmob_0716    -------UCAA----------------AAAGCA--G-GAGCA--------
+Pmob_0650    ----------A----------------AAAGCC--G-CCUCG--------
+Pmob_1444    -------UCGA----------------AUAAGC--C-ACCUU--------
+Pmob_1678    ----------AAUG------------AAUUGGUUUG-AAGCUAUAUU---
+Pmob_0423    ----------AAUU------------CAGCGCU--U-UGCUA--------
+Pmob_1556    -----UAAAAAAU--------------AAAAGC--A-GGAUA--------
+Pmob_1630    -----UGAAGAAUA-------------AAAAGC--G-GGAUG--------
+Pmob_1813    ----------A----------------AAAAUA--C-CCC----------
+Pmob_0453    ----------A----------------UGGAUG--G-GGUCAUUA-----
+Pmob_0056    ----------AACA-------------AAAAGC--U-GGCUA--------
+Pmob_0723    -----UAAAAAAC--------------UAAAGG--C-GGA----------
+Pmob_1842    ----------AAUGC----------UCGAGAGG--U-AGG----------
+Pmob_0838    ------UAAAAAUGA----------UUAAAAUC--C-CACCG--------
+Pmob_0460    ----------AACUU-----------AAAUAGG--C-UUCGACA------
+Pmob_0761    ------UAAAA----------------AAUGAC--G-CCC----------
+Pmob_1163    -----UAAAUAAUUUUAUA--CGUAUAAAAGGC--GUCCA----------
+Pmob_1808    ------UAAAAAUU------------UAAUAAA--G-UUAUGAUAU----
+Pmob_1797    --------UAAAUA-------------AAAAUG--C-GCCCU--------
+Pmob_0884    ---------UAAG--------------AAGAGG--G-GAGUU--------
+Pmob_1052    ----------AAUUUC--------UGAAAAGAC--G-CCC----------
+Pmob_1216    ----------AAUUUU--------GGAAAAUCC--C-CGCCA--------
+Pmob_0120    ------UCAAA----------------GUAGAA--A-UAA----------
+Pmob_0388    -----UCAAAAAGCA-----------UAAAAAG--U-GGCGAUAU-----
+Pmob_0458    ----------AAUUA----------GACAUAGC--U-UGG----------
+Pmob_0769    ------UAGAAAUG-------------AUGAGA--C-GGGCUGGA-----
+Pmob_0993    ------UAAAAAUA------------UUUAGCG--G-UGC----------
+Pmob_0581    -------UAAAAGAU----------UAAAGGGC--A-UGC----------
+Pmob_0713    -----UGGAAAAUA------------UACAAGG--C-GUCUG--------
+Pmob_1833    ----------A----------------AAAAUC--G-GUCUA--------
+Pmob_0038    ------UCAAA----------------AAACGA--G-GGG----------
+Pmob_1381    ------UAGAAAGA-------------AAAACU--A-CCCCCAU------
+Pmob_1341    ----------AAUUA-----------AAAAAAC--G-CCC----------
+Pmob_0711    ----------AACUA-----------CAAAAGG--G-CGA----------
+Pmob_1441    ------UAAAAAUA-------------AUCUGG--U-AGAGUU-------
+Pmob_0635    ----------AACU-------------AUAAGC--C-CGCUA--------
+Pmob_1388    -----UAAAAA----------------CAAAAG--C-CGGUAA-------
+Pmob_0523    ----------A----------------AAAGGC--G-AUAGGG-------
+Pmob_0389    ----------A----------------AAAAAG--U-GGCGUAAU-----
+Pmob_1762    ----------A----------------AAAAGU--U-CCCCAA-------
+Pmob_0104    ------UAGAAAUUU----------UCAAAAAG--G-CGGUG--------
+Pmob_1659    ----------AACU------------CAAAGCA-AG-AGACGUAA-----
+Pmob_1417    ----------AAU--------------AAUGGC--G-GAC----------
+Pmob_0721    ----------AAU--------------CCAAGG--A-AGA----------
+Pmob_1326    --------UAA----------------AAAAGG--G-CGGAAGG------
+Pmob_1051    ----------AAUU------------GAAAAAC--G-CCC----------
+Pmob_1467    ----------AAUAU-----------AAAAGGG--G-CACCA--------
+Pmob_1799    ----------AAGUU-----------AAAAGCG--C-CCC----------
+Pmob_0850    ------UGAAA----------------AAUAAG--G-GCC----------
+Pmob_0568    ----------AAUUUU--------UUAAAAAGC--G-GGGCA--------
+Pmob_1114    ----------A----------------AAAAGC--C-CUC----------
+Pmob_0030    ----------A----------------AAAAAC--G-GGGUUAGU-----
+Pmob_1104    -----UAAAAAAGCG----------GGGUGAAA--G-GGC----------
+Pmob_0842    ----UAGAAAAAUUC----------UAAAAAUC--G-GUGCU--------
+Pmob_1814    ----------A----------------AAAAUA--C-CCCUA--------
+Pmob_1583    ----------AAU--------------AUACCC--C-UUCCUUA------
+Pmob_0265    ----------AACUAU--------AUUAAAGCC--A-UCUCA--------
+Pmob_1795    ----------A----------------AAGCCG--A-CGCAGAA------
+Pmob_1108    ----------GAU--------------AGGAGG--U-AGAUAA-------
+Pmob_1798    ----------AAC--------------AAAUGC--G-CCC----------
+Pmob_0347    ----UAAACAAACAU----------AAAAAAGG--G-CGC----------
+Pmob_0531    ----------AAUU------------UCAAUGA--G-GCCUGG-------
+Pmob_0326    -----UAGAUAAGUAU--------AUUAAAAAC--C-GCC----------
+Pmob_0615    ----------AAGU-------------GAAAGG--G-AGA----------
+Pmob_0813    ----------AAGCGU--------UUUUGUGGG--G-AGU----------
+Pmob_1165    -----UAAAAAAGGA----------GUAUAAGG--C-GUUUAAUCGCUU-
+Pmob_0885    ---UAAAAAAA----------------UAGAGG--G-GAGCU--------
+Pmob_0792    ----------AAUU------------GUACGGG--G-AGC----------
+Pmob_0070    ----------AAUUAA---------CAAAAAAG--G-GGG----------
+Pmob_0112    --------UCAAUAAUG------AUACAUUAAG--G-GGC----------
+Pmob_0797    ----------A----------------ACAAGG--G-GAA----------
+Pmob_0139    ----------AAUC-------------AAAGUG--G-GCC----------
+Pmob_0055    ----------A----------------AAAAAG--C-UGGCUU-------
+Pmob_0828    -----UUAAUAAUU-------------AAGAAG--G-UCC----------
+Pmob_1335    --------UAAAC--------------UCUUGG--C-GGGAUUUUA----
+Pmob_0590    ----------AAUA------------AAAAAGA--A-UCCUG--------
+Pmob_0569    -----UAAAAAAUC-------------AAACGU--G-CGGCU--------
+Pmob_1011    ----------A----------------AGAGGG--G-AGC----------
+Pmob_0287    ----------A----------------GAAAAG--C-CUAUGAUUGCC--
+Pmob_0485    -----UAAAGAAUUAAACU--CAUAGGAAAAUC--C-CCA----------
+Pmob_0928    ----------AACU------------UAAAAAC--C-UCCGC--------
+Pmob_1650    ----------A----------------AAAAGG--C-AACCA--------
+Pmob_1769    ----------AAU--------------AAACCC--U-UUGUGC-------
+Pmob_0433    ----------GAUUUA---------UUAACCCC--U-UGAUUUAUUUC--
+Pmob_0875    ----------AAUAU----------UCAAUGGC--A-GAGGG--------
+Pmob_0084    ----------A----------------AAAAAC--G-CCCUUUA------
+Pmob_0879    ----------AAU--------------AAAAUG--G-GGC----------
+Pmob_1686    ----------A----------------AAUGGU--U-GGGUA--------
+#=GC SS_cons ..........::::.............<<<<<<..<.<<<<_........
+#=GC RF      ..........AAUu.............AAAagc..G.ggcca........
+
+Pmob_0314    -------------UAAGCAACCGAGAU-----------------------
+Pmob_1506    -------CUUAAUUAUCUUUCUCCUUC---CCAU-----------AGUAU
+Pmob_0353    --------UUAAAACAGUACCGGUUAUUUU--------------------
+Pmob_1902    ------------UUUUGCGGGAUAUUUUAUAUUUUA--------ACUAAA
+Pmob_0722    ------------UUUCUCCGCCUUUAGUUUUUUAA---------AGCCAU
+Pmob_0530    ---------UCAAGUAGAUGCGGUAUUUUU-----------------UUA
+Pmob_1580    ------------UAAAACCCAAGCUUUUAA--------------------
+Pmob_1722    ---------UAUUAUUUCACCGGUUUUUUUAAUAG----------AUAUA
+Pmob_1663    ------GAGUCACCAAAGGGGAAUUAUACU------------------AA
+Pmob_0315    -------------UAUGCAACCGAGAU---UACUU----------AUUUU
+Pmob_1346    ----CACCAGUAUAUUACUGAUCAGUAUAU------------------AA
+Pmob_0183    ----------UUUUCUACCCGUUAUUUUAA--------------------
+Pmob_0601    --------UAAAAUCUACACCCCUUUU-----------------------
+Pmob_0220    --------UAUAUAGAUGGGGGAUUUUAAUUAUAA----------ACCAU
+Pmob_0354    --------UUAAAACAGUACCGGUUAU-----------------------
+Pmob_1387    ----------CAGUUUACCGGCUUUUGUUUUUAUA----------UAUUU
+Pmob_1262    ----------GAUUUUACGCAUGUAUUAUUUGUU------------AAAA
+Pmob_0012    ----------AAAUAUAUCGAGCCUUU---AAUAU----------AUGCA
+Pmob_0221    ----------AUAUACGAUGGGGGAUUUUAAAAUUA--------AUCACA
+Pmob_0396    --------GAUAUUAUCUACUUCCUACUUUUUUAU---------GAUACA
+Pmob_1915    ------CGAUAUUUUUGCCUCACUGUUUUUUUGACUUAA--UAUAACAAA
+Pmob_0010    -------------GAAAGUGCUCCUUU---AUUU------------AUAU
+Pmob_0083    -----------AAGUUAAAGGGCGUUUUUUUCAAAAC-----UUUAUGUA
+Pmob_1487    -----UAAGCGAGUUUGGAGGGUUUUUGUUUAAUCAA-----UUCUGAAA
+Pmob_1805    ------------UUUUCUCCCUCUCAAUUA--------------------
+Pmob_1109    ----------UCGAAUCUACCGACUUUUAU--------------------
+Pmob_0302    ----------AAAUAUUUAGCCGAGUUUUUGUUUUC--------AAUCAU
+Pmob_1579    ------------UUUACCCAAGCUUUU---AAAUA----------CUUUA
+Pmob_1649    -----------UUUAAGCCUCCUGAAUUUUUUUGA----------ACUUA
+Pmob_1901    ------------AAAAGCGGGAUAUUUUAAUUAUUAAU----AUGGAAAA
+Pmob_1680    ------------UAAAAUCCCGCCUAUUUUGUAGAUUA----UUUAUCAA
+Pmob_1477    ------------AAUUUUCCAGCAUUUAUU--------------------
+Pmob_0835    -----------AAAAAAGGGCGCUUUU---AAUA------------UUUU
+Pmob_1551    --------AUUUUAUAGGGGCGGUUUAAAAUUUA------------UUUU
+Pmob_1624    ---------UUUUCGACCAGCGAUAUUUUUAUUUA----------AUGUU
+Pmob_1427    ---------AAAAUUAGACCCUAUGUUUUUUUCUC----------AUUCA
+Pmob_0647    ---------UUUAAAGGGCAUUACUAUUUUUUGC------------UAUA
+Pmob_1488    -----CUUAUGAUUUUGGAGGGUUUUU---GAAU------------UUUU
+Pmob_1625    ---------GAAAAAACCAGCGAUAUUUUU--------------------
+Pmob_1268    --------CGUUCGGUAUACGGCGGUUCAACAGA------------AUUG
+Pmob_1436    ---------AAAUCACAUGUCUCCUUUUUUUUAACAAA----UUACUGGG
+Pmob_1194    -------UUAAUUUAUCUACCUCCUUC---CCGAUU-------UUAGCUA
+Pmob_1543    -------------UAAGCCUGCUUUUUAUAAUUUU----------ACAAA
+Pmob_1781    ---------UUUAAGAAUCGGGGCAAUUUU--------------------
+Pmob_0001    UUAAACAAGAACAAAUUGAGGCCGAUUUUU--------------------
+Pmob_1115    -----------AUCUUUGAGGGCUUUUUUAAAACAC--------GACAAA
+Pmob_1181    ----------UUUUAUGGACGCUUUUUUAU--------------------
+Pmob_0903    ------------AUUGAGAGCAUCUCU-----------------------
+Pmob_1023    ------------GUAAAGCCCUUUUUU-----------------------
+Pmob_1550    --------AAAAUGUUGGGGCGGUUUUUAUUUUAACUAC--CUUAUUUUA
+Pmob_1660    ---------------AAGCCCCUUAAG-----------------------
+Pmob_1158    ---------UGAAUAUGGCACGUUUUU-----------------------
+Pmob_0807    -------------AAAGUCCCCAUUUUAAAUUAUUU--------GGUAAU
+Pmob_1924    -----------UUAUGGGGCCGAGAUUUUCAAUAUA--------CCUCAA
+Pmob_1253    ------------UCUAAUCAGCCCUUU---AAUUU----------UUUAA
+Pmob_0970    ------------AGAUUGCCCGCAAUUUUAAAUAA----------AGGAG
+Pmob_1207    ------------ACUCGCCUCUAUUUUGGUUUAAUACU---CUAUAUGAA
+Pmob_0733    -------UUAUUAGUUGCUCUACAGUUUUAGUAUCU-------UUAUACA
+Pmob_0648    ---------UUAAACAGGCAUUACUAU---UUCUC----------GUUCA
+Pmob_1922    --------UUAUAGAUGGCGGGUAUUUUUUAUCUUCC------UAAAUUU
+Pmob_0137    ------------AAUUAGUCUGCCUUUUAUAAUUG----------ACAAA
+Pmob_0027    --------------UCCUCCGUCUACC-----------------------
+Pmob_1206    ------------AGUAGCCUCUAUUUUUUUCACCAU-------ACUUUCA
+Pmob_1048    ----------AUUUUCCCUCUUCCUUGUAAGAGA------------UUCA
+Pmob_1112    -----------AACCUUGGGCUAUUUUUCUAAUAUU-------UUGAGAA
+Pmob_0488    ---------GUUUCAGCCUCCAUGAAC-----------------------
+Pmob_1428    ----------UUUUAAAGACCCUAUGUUUUUAUAA----------UUGAA
+Pmob_1032    -------CAUUUAAUUGCCUCGGGAUUUUAAUUCAG--------UAUAAU
+Pmob_1129    ------------AGAUUCCUGGCUUUUAAUGUGAUAAC---UGAGAUUAU
+Pmob_1309    ------------ACGUGGGCGUUUUUUCGAAUAAAAA-----UUGCUGCU
+Pmob_0560    -------------AUUCCUCUAUCUAUUUUUUUUG---------AAGAUA
+Pmob_1723    ---------UAAUAAAUCACCGGUUUUUUU--------------------
+Pmob_0127    -------------UAAUGCCCCCUUAAUUUAAUAA----------ACAAA
+Pmob_0508    ------------AAAUUCCCCCCUUAU-----------------------
+Pmob_1128    ------------AAUCUCCUGGCUUUUUAU--------------------
+Pmob_1033    -----AAAUGUACAACCUCGGGAUUUUGUUUUCAAAA-----UAGAUGAU
+Pmob_1256    ------------AUAAAGAGCGUCUUUUUU--------------------
+Pmob_0340    ----GAAUAUCUGUUUGCCUAUUUUGUUUUAAAAUCCU----UAUCUAAA
+Pmob_0144    ------------CAACCCCUCAUCAUUUUU--------------------
+Pmob_0061    -----------AUUUUUUCGCCCUUUUUUA--------------------
+Pmob_1767    ------------GUACGCUCGGCUUUUGUAUUAU-----------UUAAU
+Pmob_1435    ---------GAUUUGCAUGUCUCCUUUUUU--------------------
+Pmob_1328    ----------UAUUUUGUGGGGCUUUUUAUUAUGGUAU----UUGGUUUA
+Pmob_0313    ----------CAAUAUACGGCGCCUUUGAAUUAAUU-------UUCUGAA
+Pmob_0312    ----------AUUGAAACGGCGCCUAUUGAUAUC-----------AUUUA
+Pmob_0636    -----------UUAAACCAACAAACUUUAA--------------------
+Pmob_1575    -------------UUUUCCCCUCUCUUUUU--------------------
+Pmob_1193    -----------UAUUAUCCGGCACUUUUUUAUUGA----------CAAAA
+Pmob_0238    -------------UUCGGGGGGCUUAUUAUGGAG-----------GUGUA
+Pmob_1278    ------------UGACGGGGCAUGAGUUUUUUUGAUAU---AUUAGUAUA
+Pmob_0994    ------------AAAAAGCACCGCUAA-----------------------
+Pmob_1100    ------------UACCAUAGAGCGUUUUUA--------------------
+Pmob_0262    ---------AAUAUUCCGGUCAAUUUUUUU--------------------
+Pmob_0295    -----------GUGACCUCCAAAAUCC-----------------------
+Pmob_1029    ----------GAAAAACCCGGCCAAUGUUUUAUUA----------AUUUU
+Pmob_1629    -------------AACAUCCCGCUUUUUAUUCUUCAAG----UAAUUCAA
+Pmob_1429    ------------ACAAUGCAUCCCUUUUUG--------------------
+Pmob_1916    -------------UAAACCCCUUGAAA-----------------------
+Pmob_0031    -------UAACACUAACCCCGUUUUUU--------------------UAA
+Pmob_1188    ------------UGACGGGGCAUGAGUUUUUUUUG----------AUAUA
+Pmob_1113    -----------AGGUUGGGCUAUUUUU---CAGA-----------AAUAA
+Pmob_0136    -------------UUACUCCCUGUUGUUUGAUAGUU-------CUUUCAA
+Pmob_0011    ----------AUUUUUAUCGAGCCUUUUUA--------------------
+Pmob_0954    --------AUGCAAAAAGAGGGGCUUUGAUC----------------AAA
+Pmob_0646    --------GCUUCCAUGGUUGUACUUUUUU--------------------
+Pmob_1766    ------------GUACUGCUCGGCUUUUAGUUUAA----------AUUAA
+Pmob_0135    -------------AAACUCCCUGUUGUUUAUAAUAGCCUAUUUUAUUGAA
+Pmob_1468    -------------ACUGGUGCCCCUUUUAUAUUAU----------UUCCA
+Pmob_0341    --UAUUCAUCAUUGACCUAUUUUGUUUUUUUG------------------
+Pmob_0732    -------AAUAAGUUAGCCCUACAGUUUUG--------------------
+Pmob_1910    ------------AUUCCUGCCCAUUUUUUUAUGA------------UAAA
+Pmob_1068    --------AACCAAAACCUGGGGUUUU-----------------------
+Pmob_1848    -------------AUAGCUCCCGGUUU-----------------------
+Pmob_0289    -----------AUUUUCUUCCUUGGAUUUU--------------------
+Pmob_1024    ------------UUUACGCCCUUUUUCCAUUUUUA----------AGGAU
+Pmob_0400    -----------CAGCAUCCCCAGGUUUAUA--------------------
+Pmob_0259    -----------AUUUUUCCCCGAUUUUUUU--------------------
+Pmob_1138    -------------UAGGGGCUUUCUUCUUUCAAUAACG----GAGGUGAA
+Pmob_0140    -------------AUAUGGCCCACUUUGAUUAAGC---------UCCGUA
+Pmob_1600    ----------UUUAUUCUCCCCUAUUUUAA--------------------
+Pmob_1809    ----------AACGGUCAUUGUCAAUAUAUAAAUU----------AUUUA
+Pmob_0978    -----------UGCCGUGCUAUUUUGU-----------------------
+Pmob_0270    -------------UAAAGGCCUCUUUUUUUAUACAAA-----GAAAUAAU
+Pmob_0150    --------------AUGCCUCUUUUAG---UUUU------------UUUA
+Pmob_0825    --------AUUAGUUUACCCCAUCUUU---UUAU-----------UUAAA
+Pmob_1887    ---------AUCAAAUAGAGGGUUUUA-----------------------
+Pmob_1134    ------------UUUUACAGUCCCUAU-----------------------
+Pmob_1529    ------------AACAUGGGCGUUUUU-----------------------
+Pmob_0349    -------------GAUGCGUCCUCAUU-----------------------
+Pmob_0583    ------------UAUAACCUCCCUUUUUUU--------------------
+Pmob_1452    -------UUACAAAACAUAACGUGGGU-----------------------
+Pmob_0716    ----------CUUGUUGCUCCUGUUUAUAUUAUUAAU------UGAUUAA
+Pmob_0650    --------------CUGAGGCGGUUUUUUA--------------------
+Pmob_1444    -------------ACAGGGUGGCUUUUUUUCAUA-----------UUUUU
+Pmob_1678    ------UACCGCUUUUGCUUCACCUUUAUUUUAUAAA-----UUAACAAU
+Pmob_0423    -------------UAAGGCAGGGCGUUUUU--------------------
+Pmob_1556    ----------AAGUUCAUCCUGCUUUU---AUUAGCA-----AUAUAUAU
+Pmob_1630    -------------UUAAUCCCGCUUUUUUAAUAAUUC------UCCUCCA
+Pmob_1813    -----------CUGAUAGGGGUAUUUUUAAA-------------------
+Pmob_0453    --------UUGACAGUGAACCCAUCCAUUA--------------------
+Pmob_0056    -----------UAAGAAGCCAGCUUUUUUAAAAACUA------AAAAACA
+Pmob_0723    ------------GAAAAUCCGCCUUUA-----------------------
+Pmob_1842    -----------UUAAUUCCUGCCUCUCUUU--------------------
+Pmob_0838    ------------AAUUGGUGGGAUUUUUUU--------------------
+Pmob_0460    ---------AAAAGUUCGAAGCCUAAUUUAUUAUAAU-----GGAGUUAA
+Pmob_0761    ------------AGCAAGGGCGUCAUUGUUAAAUAUA-----UCAGUAGG
+Pmob_1163    ------------AUCUUUGGCGCCUUU-----------------------
+Pmob_1808    -------UAUAUUUUUGUUACUUUUUU---U-------------------
+Pmob_1797    --------------GUGGGCGCAUUUGUUU--------------------
+Pmob_0884    -----------ACCAAGCUCCCCUCUAUUUUUUUAUU------UUGAAAA
+Pmob_1052    ------------AACAUGGGCGUUUUU-----------------------
+Pmob_1216    -----------UUAUAGGCGGGGAUAAUAUAUAA-------------AAA
+Pmob_0120    ------------UUAAAUUAUUUUUACGUUGA------------------
+Pmob_0388    --------AUUUAUUACGCCACUUUUUUAUGAAAAAU-----UCAUUCUU
+Pmob_0458    --------------UGUCCAGGCUGUGGAA--------------------
+Pmob_0769    -------AAAAAGCUUGCCCGUCUUCUUGA--------------------
+Pmob_0993    ------------UUUUUGCACCGCUAUUUUUAAACGC-----AUUAUUAA
+Pmob_0581    -------------UUACGCAUGCCCUUUAU--------------------
+Pmob_0713    ------------CAUAAGGCGCCUUUUUUA--------------------
+Pmob_1833    -----------AAAUAAGACCGAUUUAAUUUUACA---------UAAUUU
+Pmob_0038    ------------AGUUUCCCCUUGUUUUAUUUCUCAU-----AAUCUCGA
+Pmob_1381    ---------UUAAGAAGGGGUAGUUUUCUAGUAUUU-------UUACAAA
+Pmob_1341    -----------UUUUUUGGGCGCCUUUUCAGAAAUU-------GUUUUAU
+Pmob_0711    -----------AUAUACUCGCCCUUAUUUUUUUAU----------CUACA
+Pmob_1441    ----------GAAAUACUUUACCAGAUUUU--------------------
+Pmob_0635    -------------UUUAGCGGGUUUUAUUUUACGG----------AUUGA
+Pmob_1388    ----------ACUGAUACCGGCUCUUAUUUUUUAA---------AAUCAA
+Pmob_0523    ---------UAUCGACCUAUCGCCCCU-----------------------
+Pmob_0389    --------AAAUAUAUCGCCACUUUUUAUG--------------------
+Pmob_1762    ----------CUUAACGGGGAACUUUUUAAUAAAGA--------AAAAAA
+Pmob_0104    -------------UAAACCGCCUUUCUUAA--------------------
+Pmob_1659    -------AUGUUGAACGUCUCUGCUUU-----------------------
+Pmob_1417    -------------AUUGGUCCGUCUUUUUUUCUAAAA------CAAUCAA
+Pmob_0721    -------------AUUUUCUUCCUUGGUUU--------------------
+Pmob_1326    ---------GAAACCUUCUGCCUUUUUAAAAUCAUA-------GUAGGGA
+Pmob_1051    ------------AUGUUGGGCGUCUUU---UCAGA----------AAUUA
+Pmob_1467    -------------GUAGGCGCCCCUUU---CACUC----------AAUCA
+Pmob_1799    --------------GAAGGGGCGCUAUAUACAAAGU-------UUCUAAA
+Pmob_0850    -------------AAAAGGCCCUUUUCGAUUUUCAAGA----UUAAGGGA
+Pmob_0568    -------------UAAGCUCCGUUUUGUUU--------------------
+Pmob_1114    -----------AAAGAUGAGGGCUUUUUAA--------------------
+Pmob_0030    --------GUUAAAAAGCCCCGUUUUUUAAUUGAU---------UAUUCU
+Pmob_1104    --------------GAAGCCCUCUCUA-----------------------
+Pmob_0842    ---------------UGCACCGGUUUUUUUCAAUCAA-----UAUCAGAA
+Pmob_1814    -------------UCAGGGGGUAUUUUUAAACAAUCCC----UUGAUCCA
+Pmob_1583    --------AUUAUUUAGGAAGGGGUAA-----------------------
+Pmob_0265    ----------CAAAAUGAGAUGGCUAU-----------------------
+Pmob_1795    ---------AAAUUAAUGCGUCGGUUUUUU--------------------
+Pmob_1108    ---------UUAAUUUAUCUACCUUCU-----------------------
+Pmob_1798    --------------ACAGGGCGCAUUU-----------------------
+Pmob_0347    --------------UUAGCGCCCUUUUUUU--------------------
+Pmob_0531    ----------UUUUGAAGGCCUCAUUUUUUUAAAUAC-----AAGGUCAA
+Pmob_0326    -------------AAAAGGCGGUUUUUUAA--------------------
+Pmob_0615    -------------UUAUUCUCCCUUUUCAU--------------------
+Pmob_0813    ---------------AAACUCCCCUUU-----------------------
+Pmob_1165    ----UUAAAAGCGUUUAAACGCCUUUUUUU--------------------
+Pmob_0885    -----------UGGUAACUCCCCUCUU---CUUA-----------AUAUA
+Pmob_0792    -------------UUCAGCUCCCCUUACUAAUGAGUU------AAAAGGA
+Pmob_0070    -------------UAAUCCCCCCUUAUUUAGUUAUAAU----AGUUCCCG
+Pmob_0112    ---------------AAGCCCCUUAAA-----------------------
+Pmob_0797    -------------UGAUUUCCUCUUUU-----------------------
+Pmob_0139    -------------AUAUGGCCCACUUUUUAAAUUAU--------AUUUGA
+Pmob_0055    ----------CUUAUAGCCAGCUUUUUGUUUUAU-------------CAA
+Pmob_0828    -------------UUUUGGACCUUCUUUUU--------------------
+Pmob_1335    -------UUCACUCUUUCCCGCCAACUUUU--------------------
+Pmob_0590    -------------AAUAGGAUUCUUAU-----------------------
+Pmob_0569    -----------UUUUAACCGCAUGUUUUUAUUAAUAU-----UAGUAAUA
+Pmob_1011    -------------UUUCGCUCCCCCUUGUUUUUUAAAA----UAUGGUAA
+Pmob_0287    ----AAUAUGGUGAAAAUGGGCUUUAAUUU--------------------
+Pmob_0485    -------------UAUUUGGGGAUUUUUUAUCAAAU-------UAUAUUU
+Pmob_0928    --------------AACGGAGGUUUUUUAU--------------------
+Pmob_1650    ------------AAACGGCUGCCUUUU---CAAUA----------UAUGU
+Pmob_1769    ---------GUUUGUCACAAAGGGUUUUAUCUAAAGAC----UUAUUAUU
+Pmob_0433    ----CUCAAAGAUAAAAUCAAGGGGUA---UCUGU----------AUUUA
+Pmob_0875    -----------UAAUACCUCUGCCUUUUUUCCAA------------UUGG
+Pmob_0084    ---------ACUUUAAAGGGCGUCUAAGAUUUCUAAC-----UUGCAUAA
+Pmob_0879    --------------UAUGCCCCAUUUUUAUAUAUCU--------UUUGCA
+Pmob_1686    -----------UUUUUACCCAAUCUUU-----------------------
+#=GC SS_cons ..........._____>>>>>>>>>>>:::::::............::::
+#=GC RF      ...........auuauggccCgcuUUUUUUUUaa............UuaA
+
+Pmob_0314    -CUUUUUG
+Pmob_1506    AAUAUGCG
+Pmob_0353    -AUUUUUA
+Pmob_1902    CACUCUCA
+Pmob_0722    UCUCUUUG
+Pmob_0530    GGGGUGAG
+Pmob_1580    -AUUUUAA
+Pmob_1722    UUUGUUAU
+Pmob_1663    AGCUUCGA
+Pmob_0315    ACUUUUGG
+Pmob_1346    AAGUCGUG
+Pmob_0183    -UUUUUCA
+Pmob_0601    -AGAUUCA
+Pmob_0220    AAAUUGCA
+Pmob_0354    -UGAUUUA
+Pmob_1387    GUUUUGCA
+Pmob_1262    AAUAUGUA
+Pmob_0012    CUUUUUAU
+Pmob_0221    GCUAUUUG
+Pmob_0396    AUUAUGAA
+Pmob_1915    UACCUUCA
+Pmob_0010    ACUUUCUU
+Pmob_0083    GCUACCAG
+Pmob_1487    UCUAUCCC
+Pmob_1805    -UUUUUUA
+Pmob_1109    -UAGUGCA
+Pmob_0302    AAUACUUU
+Pmob_1579    GAUUUCUC
+Pmob_1649    CCUUUGGA
+Pmob_1901    GUUAUCUC
+Pmob_1680    AGUUUGUU
+Pmob_1477    -AUUUUUA
+Pmob_0835    AUUUUUUU
+Pmob_1551    ACUGUGUA
+Pmob_1624    CCUUUUUA
+Pmob_1427    AUCUUUAU
+Pmob_0647    ACUUUUUG
+Pmob_1488    AAUAUUGA
+Pmob_1625    -UUAUAGC
+Pmob_1268    AUGUUUUA
+Pmob_1436    GCUGCCCG
+Pmob_1194    CAUAUUUU
+Pmob_1543    GUAAUUUU
+Pmob_1781    -------A
+Pmob_0001    -UUAUUUA
+Pmob_1115    UGCUUUUU
+Pmob_1181    -UUCUUUG
+Pmob_0903    -CGUUGAU
+Pmob_1023    -ACCUUGC
+Pmob_1550    UCUUUUUG
+Pmob_1660    -AACCCCA
+Pmob_1158    -UUAUGGU
+Pmob_0807    UAUUUGGG
+Pmob_1924    UCGAUAAG
+Pmob_1253    UAGCUUGA
+Pmob_0970    GAUUUUCC
+Pmob_1207    AACUUCCA
+Pmob_0733    AAAUUUUA
+Pmob_0648    CUUCUUCC
+Pmob_1922    GUUUUUUU
+Pmob_0137    UUAAUUUC
+Pmob_0027    -GCCUUUC
+Pmob_1206    AACUUUUA
+Pmob_1048    UUUUUGUA
+Pmob_1112    UAUCUUCA
+Pmob_0488    -UCUUUUA
+Pmob_1428    AUUGUUUU
+Pmob_1032    UAAAUUCU
+Pmob_1129    UCUAUUAA
+Pmob_1309    AAUUUUAA
+Pmob_0560    UGUUUUUU
+Pmob_1723    -------U
+Pmob_0127    UCUAUCUA
+Pmob_0508    -AAUCUUA
+Pmob_1128    -UUUCUUA
+Pmob_1033    ACACUUUA
+Pmob_1256    -AUGUGCG
+Pmob_0340    AUAAUAUG
+Pmob_0144    -------U
+Pmob_0061    -AUUCUUA
+Pmob_1767    AAUUUAUG
+Pmob_1435    -------G
+Pmob_1328    UAUUUUUG
+Pmob_0313    UUUUUGUC
+Pmob_0312    ACUUUUAU
+Pmob_0636    -UUAUUAU
+Pmob_1575    -------A
+Pmob_1193    UAAAUAGU
+Pmob_0238    ACACUUUG
+Pmob_1278    CGCACGUA
+Pmob_0994    -------A
+Pmob_1100    -CUUUUUU
+Pmob_0262    -UAAUUUA
+Pmob_0295    -CUUCUUA
+Pmob_1029    CUAUUUCU
+Pmob_1629    AGUCUUCU
+Pmob_1429    -UUAUGCG
+Pmob_1916    -AUUCCCA
+Pmob_0031    GCUAUUUC
+Pmob_1188    UUAAUUUA
+Pmob_1113    ACCUUCUA
+Pmob_0136    GCUUUCCA
+Pmob_0011    -UUUUUCU
+Pmob_0954    ACUUUUUG
+Pmob_0646    -AUUUUAA
+Pmob_1766    GAUCUGUU
+Pmob_0135    UCAUUCUA
+Pmob_1468    ACUAUUCA
+Pmob_0341    -CUUUUCU
+Pmob_0732    -UUUUUUU
+Pmob_1910    GACUUGAU
+Pmob_1068    -AUUUUGG
+Pmob_1848    -UUUUAUA
+Pmob_0289    -------A
+Pmob_1024    AUUCUUCU
+Pmob_0400    -AGUUAUA
+Pmob_0259    -AUUUUUA
+Pmob_1138    UUUUUUGA
+Pmob_0140    CUUUUCUA
+Pmob_1600    -------A
+Pmob_1809    UAUUUUCU
+Pmob_0978    -CCCUAUU
+Pmob_0270    UAACUUUA
+Pmob_0150    GUUUUAGA
+Pmob_0825    AAAUUUCA
+Pmob_1887    -AACUUAU
+Pmob_1134    -UAAUUUA
+Pmob_1529    -AAAUUAA
+Pmob_0349    -GGAUGGG
+Pmob_0583    -GGCUGGG
+Pmob_1452    -UUUUUAG
+Pmob_0716    AUUUUUUU
+Pmob_0650    -AUUUUUA
+Pmob_1444    CUUUUUUU
+Pmob_1678    UCUUUCCG
+Pmob_0423    -UUAUAUG
+Pmob_1556    AAAUUGGA
+Pmob_1630    GAUUUUCU
+Pmob_1813    GCUUUCCU
+Pmob_0453    -------U
+Pmob_0056    UUAUUUUU
+Pmob_0723    -GCUUGAA
+Pmob_1842    -UUAUUAU
+Pmob_0838    -AAUUCCU
+Pmob_0460    AAAUUAUG
+Pmob_0761    ACUAUAAG
+Pmob_1163    -CUUUUUU
+Pmob_1808    GCAUUUUU
+Pmob_1797    -CGUUGGA
+Pmob_0884    UUUUUUCU
+Pmob_1052    -CAAUUAA
+Pmob_1216    GUUUUUUU
+Pmob_0120    -CUAUUCU
+Pmob_0388    CAUCUGCA
+Pmob_0458    -AUUUUGG
+Pmob_0769    -CGCUUUA
+Pmob_0993    AAUCCACA
+Pmob_0581    -UGGUGCC
+Pmob_0713    -UUUUACA
+Pmob_1833    GGCGUGCC
+Pmob_0038    GCUUUUUA
+Pmob_1381    AUAAUGUA
+Pmob_1341    UAUUUUCA
+Pmob_0711    GUCACUUU
+Pmob_1441    -UCAUUUU
+Pmob_0635    ACAUUGUU
+Pmob_1388    ACCUUAGG
+Pmob_0523    -UGAUUUA
+Pmob_0389    -CUUUUUG
+Pmob_1762    UAUUUUUA
+Pmob_0104    -UUUUACU
+Pmob_1659    -UCCUUUC
+Pmob_1417    ACUAUGUA
+Pmob_0721    -------U
+Pmob_1326    GGCUUCGU
+Pmob_1051    GGUUCUCC
+Pmob_1467    AAUCUGCA
+Pmob_1799    GAUACUCA
+Pmob_0850    ACUAUAUA
+Pmob_0568    -UUAUAGG
+Pmob_1114    -UUUUAUU
+Pmob_0030    GGUUUACC
+Pmob_1104    -CCUUUCC
+Pmob_0842    GGUAUUUC
+Pmob_1814    UCAUUGCU
+Pmob_1583    -UUUUUUG
+Pmob_0265    -ACUUUCU
+Pmob_1795    -AUUUUGU
+Pmob_1108    -------C
+Pmob_1798    -UUAUUUA
+Pmob_0347    -------G
+Pmob_0531    UGUUUUCU
+Pmob_0326    -GUUUAAG
+Pmob_0615    -AAUUUCA
+Pmob_0813    -CUUUCCU
+Pmob_1165    -CGUCUUA
+Pmob_0885    AUAAUUGA
+Pmob_0792    GGCUUUUA
+Pmob_0070    UUUUUCCU
+Pmob_0112    -AUCCCCA
+Pmob_0797    -------U
+Pmob_0139    AGUAUUAA
+Pmob_0055    UCAUCUCA
+Pmob_0828    -------G
+Pmob_1335    -AUUCUAG
+Pmob_0590    -GGCUGGG
+Pmob_0569    GAUAUUGU
+Pmob_1011    UUUUUUCU
+Pmob_0287    -------U
+Pmob_0485    CAUUUUCG
+Pmob_0928    -GUGUGCC
+Pmob_1650    AACAUGCU
+Pmob_1769    AAUAUUGG
+Pmob_0433    AAUUUAUA
+Pmob_0875    AUUUUAUU
+Pmob_0084    GAUAUGCU
+Pmob_0879    GCUUUGUG
+Pmob_1686    -UUGUUUU
+#=GC SS_cons ::::::::
+#=GC RF      aaUUUUua
+//

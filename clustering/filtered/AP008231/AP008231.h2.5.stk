@@ -1,0 +1,774 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS syc0647_c WT 0.52
+#=GS syc0166_d WT 0.52
+#=GS syc1450_d WT 1.00
+#=GS syc2437_c WT 1.13
+#=GS syc2451_d WT 1.10
+#=GS syc0818_d WT 0.99
+#=GS syc1185_d WT 1.03
+#=GS syc1452_c WT 0.88
+#=GS syc1662_d WT 1.03
+#=GS syc2427_c WT 0.98
+#=GS syc1092_d WT 0.93
+#=GS syc0664_c WT 1.17
+#=GS syc2045_d WT 0.89
+#=GS syc1661_d WT 1.09
+#=GS syc0290_d WT 1.18
+#=GS syc2431_d WT 1.00
+#=GS syc1093_c WT 0.93
+#=GS syc2065_d WT 1.01
+#=GS syc0135_c WT 0.97
+#=GS syc2465_d WT 0.99
+#=GS syc1562_c WT 0.98
+#=GS syc2426_d WT 0.96
+#=GS syc2264_d WT 1.05
+#=GS syc2335_c WT 1.10
+#=GS syc1493_c WT 1.08
+#=GS syc0983_c WT 1.01
+#=GS syc1789_d WT 0.96
+#=GS syc1062_c WT 0.99
+#=GS syc1932_c WT 1.10
+#=GS syc2207_c WT 1.03
+#=GS syc1015_d WT 1.06
+#=GS syc0657_d WT 0.96
+#=GS syc1549_d WT 1.01
+#=GS syc1850_d WT 0.96
+#=GS syc0637_d WT 1.00
+#=GS syc2394_d WT 1.18
+#=GS syc1045_c WT 0.92
+#=GS syc1451_d WT 0.88
+#=GS syc2029_c WT 0.90
+#=GS syc2236_c WT 0.90
+#=GS syc1129_d WT 0.97
+#=GS syc2507_d WT 1.03
+#=GS syc0117_d WT 0.98
+#=GS syc1656_d WT 1.17
+#=GS syc1790_c WT 0.96
+#=GS syc0879_d WT 0.97
+#=GS syc0146_c WT 0.87
+#=GS syc0572_d WT 0.92
+#=GS syc0067_c WT 0.87
+#=GS syc1478_c WT 1.02
+#=GS syc1938_d WT 0.93
+#=GS syc2383_c WT 0.88
+#=GS syc0662_c WT 1.17
+#=GS syc0600_d WT 0.94
+#=GS syc1322_d WT 1.02
+#=GS syc2450_d WT 1.00
+#=GS syc1403_c WT 1.06
+#=GS syc0473_d WT 1.04
+#=GS syc0240_c WT 1.10
+#=GS syc1770_c WT 0.93
+#=GS syc1415_d WT 1.07
+#=GS syc1657_c WT 1.11
+#=GS syc0481_c WT 0.99
+#=GS syc1915_d WT 1.05
+#=GS syc1920_d WT 1.02
+#=GS syc0330_c WT 0.98
+#=GS syc0925_c WT 0.98
+#=GS syc1751_d WT 0.93
+#=GS syc0800_c WT 0.91
+#=GS syc0894_d WT 1.24
+#=GS syc2461_c WT 1.06
+#=GS syc1320_c WT 0.85
+#=GS syc0460_c WT 0.96
+#=GS syc1076_c WT 0.98
+#=GS syc0418_c WT 0.95
+#=GS syc1989_d WT 0.90
+#=GS syc0804_c WT 1.05
+#=GS syc1697_d WT 0.98
+#=GS syc0191_c WT 1.11
+#=GS syc1366_c WT 0.99
+#=GS syc1350_d WT 0.99
+#=GS syc0426_c WT 1.08
+#=GS syc1098_d WT 1.06
+#=GS syc0413_d WT 0.87
+#=GS syc1170_c WT 0.98
+#=GS syc2237_d WT 1.08
+#=GS syc2448_d WT 0.98
+#=GS syc2395_c WT 0.99
+#=GS syc1408_d WT 1.03
+#=GS syc2386_c WT 1.10
+#=GS syc0263_d WT 0.92
+#=GS syc1758_d WT 0.97
+#=GS syc0712_d WT 0.97
+#=GS syc0231_c WT 0.84
+#=GS syc1438_d WT 1.01
+#=GS syc1485_d WT 0.98
+#=GS syc2138_d WT 1.15
+#=GS syc2274_d WT 0.90
+#=GS syc1200_c WT 0.94
+#=GS syc2206_d WT 1.12
+#=GS syc1936_c WT 1.01
+#=GS syc0063_d WT 1.05
+#=GS syc0461_c WT 0.92
+#=GS syc2245_c WT 1.03
+#=GS syc0881_c WT 1.03
+#=GS syc0129_c WT 0.78
+#=GS syc0986_d WT 0.87
+#=GS syc1498_c WT 1.14
+#=GS syc2223_c WT 1.11
+#=GS syc0398_d WT 1.03
+#=GS syc1488_c WT 0.98
+#=GS syc0113_c WT 1.06
+#=GS syc0414_c WT 1.00
+#=GS syc2188_d WT 1.00
+#=GS syc2473_d WT 0.90
+#=GS syc0122_d WT 1.01
+#=GS syc0154_d WT 1.18
+#=GS syc1181_c WT 0.97
+#=GS syc2262_d WT 0.94
+#=GS syc0010_c WT 1.00
+#=GS syc0066_d WT 1.00
+#=GS syc2097_d WT 1.01
+#=GS syc1787_c WT 0.94
+#=GS syc2150_c WT 1.05
+#=GS syc1338_c WT 1.05
+#=GS syc1899_c WT 1.10
+#=GS syc2263_d WT 1.05
+#=GS syc1088_d WT 1.04
+#=GS syc0012_c WT 0.92
+#=GS syc0970_c WT 0.96
+#=GS syc2119_d WT 0.87
+#=GS syc1040_d WT 0.90
+#=GS syc1863_c WT 1.06
+#=GS syc0454_c WT 1.08
+#=GS syc0311_d WT 0.99
+#=GS syc0002_c WT 1.06
+#=GS syc1825_c WT 1.03
+#=GS syc1364_d WT 1.02
+#=GS syc2009_d WT 0.93
+#=GS syc1698_c WT 1.23
+#=GS syc2254_d WT 0.98
+#=GS syc1636_c WT 0.93
+#=GS syc1227_c WT 0.94
+#=GS syc2105_d WT 0.84
+#=GS syc1319_d WT 0.85
+#=GS syc1095_c WT 1.03
+#=GS syc0417_d WT 0.95
+#=GS syc0872_c WT 0.78
+#=GS syc1188_d WT 0.98
+#=GS syc0495_c WT 1.00
+#=GS syc0802_c WT 1.10
+#=GS syc0079_c WT 1.20
+#=GS syc2046_c WT 1.02
+#=GS syc0886_c WT 1.07
+#=GS syc1084_c WT 1.07
+#=GS syc0145_d WT 0.87
+#=GS syc0091_d WT 1.17
+#=GS syc1253_d WT 0.97
+#=GS syc2416_d WT 1.00
+#=GS syc1691_d WT 0.99
+#=GS syc0568_c WT 1.23
+#=GS syc0140_d WT 1.00
+#=GS syc1176_c WT 1.03
+#=GS syc1449_c WT 1.11
+#=GS syc2440_c WT 1.11
+#=GS syc1579_c WT 1.00
+#=GS syc0183_d WT 0.98
+#=GS syc1761_d WT 0.88
+#=GS syc2151_d WT 1.01
+#=GS syc1072_d WT 0.99
+#=GS syc0044_c WT 1.12
+#=GS syc2037_c WT 1.03
+#=GS syc1924_d WT 1.00
+#=GS syc1955_c WT 1.15
+#=GS syc0566_c WT 0.91
+#=GS syc0065_d WT 1.09
+#=GS syc0489_c WT 0.88
+#=GS syc2511_d WT 0.96
+#=GS syc0656_d WT 1.00
+#=GS syc0737_c WT 0.99
+#=GS syc2275_c WT 0.90
+#=GS syc0125_c WT 1.05
+#=GS syc1218_c WT 1.02
+#=GS syc0942_d WT 1.16
+#=GS syc2349_c WT 0.88
+#=GS syc0820_d WT 1.25
+#=GS syc0163_d WT 1.03
+#=GS syc0301_d WT 1.01
+#=GS syc1177_c WT 1.02
+#=GS syc2099_d WT 0.96
+
+syc0647_c    AGCU---AG--------------AAAU---UGAGUAGGUG--A-------
+syc0166_d    AGCU---AAUCA-----------AAAU---UGAGUAGGUG--A-------
+syc1450_d    AGUU---AAUAA-----------UAUC---GAAUUUAUCU--AAUCAA--
+syc2437_c    UGCU--UAAUUAAG-------CAUCCG---CGAUCGCCCG--CAAACA--
+syc2451_d    GUCUU-CCGUUUC--------UAGGAA---UCAACUGUUU--AGU--U--
+syc0818_d    GUCU--CAAUU------------CCUU---AGAAUGCUGC--AGUGAUGA
+syc1185_d    CUCU---CCUCA--------------G------AUUCUGG--CUG-----
+syc1452_c    AUCU---GCUUU--------------C------------A--AGUUUU--
+syc1662_d    CUCU--AAAUAAU---------GAGCC------UUGAC------------
+syc2427_c    AUCU---AAUCG-------------AC---UGAACCUU------G-----
+syc1092_d    GUCU---AC--------------AAUC------AAUAUCC--AAGCAU--
+syc0664_c    CACC---CCUCA--------------C---AGACGGCUCA--AAAACAU-
+syc2045_d    CGCU--CAGCUA-----------GGCC-----AAUAACAA--AGC-----
+syc1661_d    AACU--GAAUCUUGAU--GAUUCCGAU---UUAGUUGUUG--AGGCUAG-
+syc0290_d    UACC---AG--------------AGCU--AACAGCUCU------------
+syc2431_d    AUCU--GGACUA-----------AGUC---UUAACUCUCU-AAAUCCA--
+syc1093_c    UGCCG-GAAUUA----------CAGC-------AGUCUGA--A-UAAU--
+syc2065_d    CCCU---AACCAU---------UAGC-------GUUGCCG--A-------
+syc0135_c    AACA---AUUC------------CGCA------UGUAAGG--UUG-----
+syc2465_d    GCCU---AAUCAGCCG---CAGUUGUU------GCUCUCA--AUCACUC-
+syc1562_c    AGCUA-GCAUUU-----------GACC---UUGUUGCUCG--AGGUUA--
+syc2426_d    AACU---UAGCU-----------CGCU--GGGAAUUCCCA--UUCAGUA-
+syc2264_d    UUCU--UGCUUU-----------AACG---UAACGUCUUC--UUCAUG--
+syc2335_c    GACA---AUUCAG--------AUCCCC---UGA-----------------
+syc1493_c    GCCU--AAGUCG--------------A------UUACAGA--UAUCCAC-
+syc0983_c    GACU---GAUCA--------------C---UAAAACUUGA--AUUGAU--
+syc1789_d    UCCU---CCGCU-----------CGCG------AUCGC------------
+syc1062_c    CGCUAAGACUCA-----------ACAC---ACAAGCUUUA--CGCGAU--
+syc1932_c    GUCC---AGGCA-----------AGCG------AUCGCUA-CUACUGA--
+syc2207_c    UUCU--CCA--------------AGAA------CCUGAAU--A-------
+syc1015_d    CGUU---AAUUC--------------C---UGAUCCCAAA--UGG-----
+syc0657_d    AUCG--AAGUUA-----------AGCU---CUAGUCAUCA--CUGGAAA-
+syc1549_d    AACU---AAUCG-----------CGCU---CAAACCGUUG--AUUUAAA-
+syc1850_d    GGCU--AAAGCA-----------ACAG---UCAAAACCGU--AUUAAA--
+syc0637_d    CGCU--AAAUUG-----------UCGG---UCA-----------------
+syc2394_d    AACC---GCUCAG--------CCAGAG---GCAACCUU------------
+syc1045_c    GUCU---AACCAAC------ACCGGCA---UUAAUUGCCU--AGCAAA--
+syc1451_d    AACU---CUUUA-----------ACAG------AGUAUUU--AACAGUU-
+syc2029_c    AACU--AAUUCA-----------AGGC------ACCAACG--AAUCAA--
+syc2236_c    UCCU---ACUUG-----------AGCU---UGA-----------------
+syc1129_d    GGCU--UAAUUG----------CUGCC------UCUGAUG--CACAAUC-
+syc2507_d    GACU--AAGUCGU---------AAGUG------AUCGC------------
+syc0117_d    GACU--GAAUCUG--------GG--CUUGGCGAUCGCUCU--AACAAUG-
+syc1656_d    CGCUC-CGC--------------UGCC---CUAGUUGUUG--CACGCG--
+syc1790_c    AGCG--AACUCUGA-------GGAGCG------AUCGC------------
+syc0879_d    CGCU--UCAUUA--------------C--CUCAGUGAAUU--AAC-----
+syc0146_c    AUCU---AG--------------CGCA------AUCUAAA--AACAAU--
+syc0572_d    UUCU--GAAUUG----------CAGCU---CUAGCGCUGU--AAC-----
+syc0067_c    CACU--GAUUUU-----------CCCU---UGAAUGCCUA--A-------
+syc1478_c    CGCU---GG--------------CGCU------AUGGCCU--AGGGCUG-
+syc1938_d    UGCU--AAUUCGU--------UAAACC---UCACUGCGUC--UUGAGAG-
+syc2383_c    UUCU---AGCGA-----------AGCC------GUCGUGA--AAG-----
+syc0662_c    GACU---AGGCU-----------GGAU------AGUGACU--UUUUCG--
+syc0600_d    CACU--AGAUUA----------GGGCC---UCA------A--CUG-----
+syc1322_d    CACC---GCUCU--------------A---UAAGUUGUUG--UUGAAU--
+syc2450_d    CACU---AGUUA--------------G---UUAAUCCUUG--GGA-----
+syc1403_c    GGCG--AAGUCC----------UAGCU------GCUGUUG--GGUUGUC-
+syc0473_d    GCCU---AGUCU----------GAAUU------GCGAUUG--AUUAUU--
+syc0240_c    GACU--GGA--------------AGC-------------G--AUCGCA--
+syc1770_c    UGCU--CAUUCAC--------UGACAG---UAA-----------------
+syc1415_d    AGCUG-UGUUCAGC------AGAGGUU------GCGACUU--UGC-----
+syc1657_c    UCCU--GAU--------------AGGC------UCUUCUU--CUGCAUC-
+syc0481_c    CUCU---AAUUACU------CGACGC-------ACUGCGU--UGG-----
+syc1915_d    CUCU--AGG--------------CGAC------CGCCCAG--AUC-----
+syc1920_d    GGCUG-GAAAUA-----------AGAC------GUUAUUG-GAUCACUU-
+syc0330_c    UGCU--UAAUUC----------CAGC-------GAACUAG--AACAAA--
+syc0925_c    CGCU---AGUUU--------------C---UGAACGCUUC--AUC-----
+syc1751_d    UUCU--CACUCU----------CCGAC------AAUCU------G-----
+syc0800_c    GGCU---GAGUG-----------AGU-------AGUCCAA--AGA-----
+syc0894_d    GUCA--GCGUCA-----------AGUA------GUUCGAG--UAG-----
+syc2461_c    GGCU---AAUCG--------------C---UCAACAGGUA--A-------
+syc1320_c    UUCUG-CGAUCG--------------C---ACAGCUAUCA-AA-------
+syc0460_c    AGCU---AAUCAC--------CCCCUC---UAAUUUGAGC-GAAGUAA--
+syc1076_c    UUCU--UAACUG-----------CGCU------GUCCAUC--CGCGAA--
+syc0418_c    AGCUAGAGGUCA--------------U---CUAAAUAUGU--AUUUUU--
+syc1989_d    AGCU---AAUCA-----------AGCU---UCAAUUCUUG--AUCACU--
+syc0804_c    GACC---AC--------------CGUA---UCAACCACCG--UAA-----
+syc1697_d    AGCU---GCUCU--------------C--AUCAAUUCCCA--CAG-----
+syc0191_c    CGCC---AAUCCC---------CAUCC---UCAGGAUUUA--AGCCAAU-
+syc1366_c    AGCU---GCUUUU---------UAGGC------AGUCUUC--AGG-----
+syc1350_d    CGCU---GUUCUG--------AUCGCU---CGAACCCUAG--GGCGAUU-
+syc0426_c    AGCU--UGUGGA-----------AGCA---GGAACGCUGA--UUGAGUU-
+syc1098_d    CACU--CCCUCA-----------AGAC---CAAACACCGA--UACAGAA-
+syc0413_d    CACU---AAUUUU---------CAGCC------AGACUGA--AAGUCA--
+syc1170_c    CUCU---UUUCGC---------UGGCU--UUGAAUUGAGA--UUGCGA--
+syc2237_d    AACU---AAUCU----------GCUAU---UCACCAGUAG--AUCGCG--
+syc2448_d    CUCU---AACAG----------GAAAG------AUUUUUG--CUC-----
+syc2395_c    CGCC---AAUUA----------ACACU---GAAAGGCUAA--AGGUCU--
+syc1408_d    GUCU--CAAUUA-----------AUCU---CCAACGCUUC-GA-------
+syc2386_c    UUCU---GUUUU----------ACG-----CCAAUCACCA--UAG-----
+syc0263_d    GGCU---AAUCAACUG---UUUC-CCU--GCUAAUCCCCC--AUCAAUCG
+syc1758_d    AAUU---AGUCAGCG----CGCUCGCU------GUAAUGA--AUUGAA--
+syc0712_d    CUCU---AGUCA----------GCGAU------CGCCU------------
+syc0231_c    GUCU---UCACA-----------AGAG------GUUCCUG-AA-------
+syc1438_d    AGCU---AGUCAAU-------CUUGCG---UCAUUGAACU-CAACAAA--
+syc1485_d    GACUG-CAAUCGCUA-----GGACAUC---AAAGUUCUGG--AUUCGCG-
+syc2138_d    AUCA---CGUCAG---------UCGCC------CUUGUCG--CCCAAUA-
+syc2274_d    GACU---AAUCACAAG--GCGAUCGCC---GGAACCCUGA--AGAAAUAA
+syc1200_c    CCCU--AACUCAU---------AACUC---UCA-----------------
+syc2206_d    CUCU--CGA--------------UGGC---UAAGUAAUGC--UGGAUU--
+syc1936_c    GCCUG-CGAUCGC---------AGGGA---UGAAGCCGGA--UUGAAU--
+syc0063_d    CGCU--CAC--------------CUCU------UGGAUUC--UAGAAA--
+syc0461_c    UGCU---UC--------------AGAU---CUAACGAUUG--UUCUCA--
+syc2245_c    GUCC---AGUCCU--------CCUGUC------UGUCUUA--A-------
+syc0881_c    AGCCG-CAAUGA----------CAGCA---UCAAUACGCU--UGCUGUC-
+syc0129_c    CGCU---ACUAA-----------AGCC---UGAUUUGUCU--UGAUAGC-
+syc0986_d    GGCU--UGU--------------GGUU-----------------------
+syc1498_c    UUCU---ACGCA-----------ACCU------UCGCCUU--UUU-----
+syc2223_c    CCCUA-AAA--------------AGAU--AGAAGUUCU------------
+syc0398_d    CGCU---AGUCU----------CUGGC---GGAGCGAUCA--AUCCCCC-
+syc1488_c    AUCU--ACAUCA-----------GGCA---AGAAAUUCCU--AGG-----
+syc0113_c    CCCU--CACUUU-----------ACC-------UCUCUGG--AGUGCU--
+syc0414_c    UGCU--GGA--------------ACUG---GCAGUGAUUU--AAGACU--
+syc2188_d    CGCU--AACGUU----------CAGCA------GCCUUAG--AUUCCAC-
+syc2473_d    CUCUC-CACUCU-----------GCUU---ACAAGACUGC--A-------
+syc0122_d    AACU--GGUUUU--------------C------CUCCUCA--CUGGGA--
+syc0154_d    AACU---ACCUUGG-------UUAAUC---UUAAUUCCGA--UUAGCA--
+syc1181_c    AGCU---AUCCU--------------U-----------------------
+syc2262_d    CGCU---AAUUUUU-------CUGGC-------GUCAUCG--CUGUCU--
+syc0010_c    AGCU---GGCUG--------------A---AAAAGUAAUG--AGCUGA--
+syc0066_d    AGGU--AAG--------------CAUU------UCUGCUG--AAAAAA--
+syc2097_d    GACU---GUCUA-----------AGUU---AAAUCUGUGU--GUG-----
+syc1787_c    AGCU--GAAUCCU---------AGGUU------UGGCUGA--CUU-----
+syc2150_c    GUCU---GA--------------CGAC------AAGCU------------
+syc1338_c    GACU--CAGUCUG--------UGAGCC------------G--AAUUCA--
+syc1899_c    CGCC---GU--------------CGCU------AACGGGG--AUGGCU--
+syc2263_d    GGCA---AAUAA-----------AGCA------AAUCA------------
+syc1088_d    CACU---UA--------------GGGU---UCAUCUCCCU--CGC-----
+syc0012_c    ACCU--CAGUCAG---------CAGC-------AUUACGC--A-------
+syc0970_c    CUCU---AG--------------GGCG---UGAUUUGAAA--UAG-----
+syc2119_d    CGCU--GCUUCAC--------UAGGCA---ACAAGACUAC--AAAUCG--
+syc1040_d    AACA---ACUCU-----------GGC-------AGCACCA--A-------
+syc1863_c    CAGU---AUUUA-----------AGCU--GCGACUUCUCC--GGGGAU--
+syc0454_c    CGCC---GCGUU-----------CGC-------GGUGAUC--AAGAAA--
+syc0311_d    AGCC---AUCAA-----------AGCC---UAAGUCGUCC--UGUUCA--
+syc0002_c    AGCU---CUGUAG---------AAGCC---UAAGUUGAAC--UGCAAG--
+syc1825_c    CUCU--UAAUUAAAGGCGAUCAC--AG--CAAAACCUUGG--CAUCUA--
+syc1364_d    UUCG--CAAUCGC---------CAGAU---CCAGUUUCUG--AGGGUU--
+syc2009_d    UUCU--AAUUCUCCA-----CGUUCAC---UGAACUGACU--GUGUCU--
+syc1698_c    CCCU---AG--------------AAAA---UGA-----------CAAA--
+syc2254_d    AUCU--CAAUCG----------AUGAC---UCAACUCA------------
+syc1636_c    ACCU---AGGCA--------------G------UUUGGGA--AUGAAU--
+syc1227_c    GACU---GAUUAA---------A--A-------GGGUUGA--UUU-----
+syc2105_d    AACU---AAACU-----------AGAU---GCAAUCCC-G--A-------
+syc1319_d    CGCU--AGACCA--------------U--CACAACUCAUC--AAGCAA--
+syc1095_c    AGCAA-UAGUCC-----------AGAC---UGAAAAAUCA-CAACUGA--
+syc0417_d    UGCU---AU--------------GGCG------------------AUA--
+syc0872_c    GCCU--CAA--------------AGUC---UGA-----------------
+syc1188_d    CUCU--AGGUCU--------------C---AAAAUUAUUGCAAUCGAAC-
+syc0495_c    AGCU---AGUUUU---------UAGCU------GCUGCAU--UGUUCA--
+syc0802_c    GACU---UGCCA-----------AGC-------UCGCUUG--AGCUUUCU
+syc0079_c    GGCU--UAGUUU--------------U------GUUGUGA--UUGUGAU-
+syc2046_c    CAGU--GAAUCA-----------AGCU--AAAAAUUUCUG--AGGGCA--
+syc0886_c    UGCU--GCCUCU-----------CGCC------ACCACGG--AUGGCAA-
+syc1084_c    ACCU---AGUAGGG-------GGCGUC---UCAUUGAUCA--AGGACU--
+syc0145_d    GUCC---AUUCU--------------C------UCAACAG--AGC-----
+syc0091_d    AAGU---AAUUUUCAU---ACUGAGCU------ACUACGG--UAGCCU--
+syc1253_d    GACU--AAGUCUGU-------GAAGUUG-AUCAGUUGUUG-AUUCACU--
+syc2416_d    GGCU---GC--------------GGCG---UCU-----------------
+syc1691_d    GGCC---GA--------------AGCC--UAAAUUUGCCA--GUCACA--
+syc0568_c    ACCU--CAGCCA-----------UCAG---UCAGUCCUGAGCAACAAA--
+syc0140_d    GGCU--CACUCA-----------CCCC------AUCCUUU--CCC-----
+syc1176_c    GGCU---AGGUU--------------C------UUCCCGA--AACAGA--
+syc1449_c    CGCU---CA--------------ACUU------CUCCUGU--A-------
+syc2440_c    CGCU--GAUUCA-----------CCCU---CCAACUCUUGGGAGCGAAGA
+syc1579_c    CGCU--GAUUCUA--------GCAACU---CGAACGAGUU--AGAAAUA-
+syc0183_d    GAUU---GAUCA-----------CAAU---GGAUCCCUAA--AGU-----
+syc1761_d    AUCU---GAUUAAU-------UCCACC---UCGUUCCUUA--CAAGAU--
+syc2151_d    GAUU---AGUUU--------------G------GUGCGCU--AGGAAU--
+syc1072_d    AUCG---CCUCA--------------U---UCAAGUUUUA--AAGUCA--
+syc0044_c    GACU--AGCGCAA--------GUCGAU------AGUCUGG--CUGGGU--
+syc2037_c    AGCU---UCUCC-----------UCCU-----------------------
+syc1924_d    CACU--GAA--------------UGAU---UCAUCCCCAG--AGG-----
+syc1955_c    GGCA---AUUCG-----------AACA------------U--AUCCCA--
+syc0566_c    CUCU---AGUCU----------GAGC-------GUUGU------------
+syc0065_d    CACUA-CGGUCG----------UAGCU---GAAAUUCUCC--AGCAUC--
+syc0489_c    AUCUC-CAAUCUA--------UCCGCC-----------------------
+syc2511_d    AUCC---CCUCU-----------AGAU---UGACUUGUAA--G-------
+syc0656_d    UCCU--CCAGUA-----------GGAU---UUAACCCCCU--AAG-----
+syc0737_c    AACU---AA--------------UGCU------GCUCUGA-CAGCGAUC-
+syc2275_c    CCCU---CA--------------ACCG------AACCCUA--AACAAA--
+syc0125_c    AGCU---AACCU----------AAGUU-----------------------
+syc1218_c    GGCU--GAC--------------GCCU------AGGGCGC--AAGUGU--
+syc0942_d    AUCUC-GAGUCA-----------AUUC------GCUAGGU--UAG-----
+syc2349_c    UUCU---AGUCA-----------AGAU-----------------------
+syc0820_d    GGCU---AG--------------AGCU-----------------------
+syc0163_d    UGCC--CAUUUG--------------C---UCAGUAUUUU--UUGCCA--
+syc0301_d    GUCAG-AAAUCA-----------AGUG------ACACUUA-GA-------
+syc1177_c    GUCU---AGUCG--------------U---UCACACACUG--GUU-----
+syc2099_d    AGCU--AAUUCAGU------AGC---A--GUCAACAACUU--AAGAUGAU
+#=GC SS_cons ::::...:::::...........::::...::::::::::..::::::..
+#=GC RF      agCU...AaUCa...........aGCu...UcAauucUua..Augaaa..
+
+syc0647_c    --------AAGGGUCUG-GGAG-------------------------UAA
+syc0166_d    --------AAGGGUCUG-GGAG-------------------------UAA
+syc1450_d    --------UAGACCUUU-UCAAGGUA-----------------AAGCCUG
+syc2437_c    --------GUCCCCAUC-UCAAGACAGAAUGUUGUCGUUCACGUCCUCUG
+syc2451_d    --------AGGGAUGGG-CGA-----------------------------
+syc0818_d    ------GAGGGACGAGU-UGCG-------------------------AUC
+syc1185_d    --------UGAGCGUUU-GGGC-------------------------AAA
+syc1452_c    --------UAGGAAUUU-GGGA-------------------------AUA
+syc1662_d    --------GAGAAAGCU-CGGG-------------------------UUC
+syc2427_c    --------GCAUCCCCA-GACU-------------------------UUU
+syc1092_d    -------CAAAAAGCGC-CCCA-------------------------UUC
+syc0664_c    -------GUCCUCCGUG-AUUACUGCUCCCU------CAAGACGAGCAGC
+syc2045_d    --------AAAGCCCCU-GACU-------------------------UCG
+syc1661_d    -------U---AGGUUG-AGAA-------------------------ACU
+syc0290_d    --------UGCACCCAG-CAGAUUCAUA-------------AGGAUGUUG
+syc2431_d    --------UCCCCACAU-UGUUAA---------------------UUGCU
+syc1093_c    -------CAAAAAGCGC-CUCG-------------------------AAU
+syc2065_d    --------AGCUGUUGC-UUUC-------------------------UUU
+syc0135_c    --------AGGGCUGUU-GAGU-------------------------CGU
+syc2465_d    ------AACCGCAGUCA-GCCG-------------------------AUU
+syc1562_c    -------GACCGAUCGUUGGUG-------------------------CCU
+syc2426_d    -------AACAUCCCCA-GAUC-------------------------AAA
+syc2264_d    -------UCAGCGCCUU-GAGU-------------------------UUU
+syc2335_c    --------GAGCGAUCG-CUUC-------------------------AAC
+syc1493_c    ------AGGCGAUCGCA-GCUCUACUCC-------------UUGAGUGCA
+syc0983_c    --------UCCCCUUUC-GUAA-------------------------GCU
+syc1789_d    -----------UCCUCA-GAGU-------------------------UCG
+syc1062_c    -------CGGGGAGGUG-GCAA----------------------------
+syc1932_c    -------GUUGUUAGGA-UUCG-------------------------UUA
+syc2207_c    --------UAACGCUUG-CUU-----------------------------
+syc1015_d    --------CGGCCGGAG-CGGUAGAACGG-----------GUAUAGCUCG
+syc0657_d    -------CAAGAAGCGG-GAAG-------------------------GAA
+syc1549_d    -------CCACCCCUGA-UGAA-------------------------GUU
+syc1850_d    -------AAGGGGAGAA-AUCA-------------------------UCA
+syc0637_d    --------ACCUCCGGG-GGCG-------------------------AUC
+syc2394_d    --------UGAGCCCUGUUUCG-------------------------AUG
+syc1045_c    -------AAACCGCCAU-GGCA-------------------------GAA
+syc1451_d    ------UUUAGGAAUUC-GGGA-------------------------UAU
+syc2029_c    --------GAGGCUUUG-CAGA-------------------------AUU
+syc2236_c    --------GAGCCCGGA-GAUU-------------------------AGA
+syc1129_d    -------AAAACGGCUC-CUG-----------------------------
+syc2507_d    --------GGGAUGGUU-UUGA-------------------------AGU
+syc0117_d    -------ACAAGGGUUG-AAGG-------------------------CAA
+syc1656_d    --------AUCGCUACC-UGCAUGACCUCUCCU--UCUCGAGAGAUGGAU
+syc1790_c    --------GAGCGGAGG----A-------------------------AAA
+syc0879_d    --------AAGCUGCUC-GAGA-------------------------UAG
+syc0146_c    --------AGCCACCCG-AUUC-------------------------AAG
+syc0572_d    --------AAACCCGCU-GGCU-------------------------CCG
+syc0067_c    --------GAAGCCCUC-UUCAA----------------------AGACU
+syc1478_c    ------UCGACUCUGUU-CAUCGU---------------------UCUUG
+syc1938_d    ------UUGAGGCUGUU-GCCG-------------------------CUA
+syc2383_c    --------UUCCUCUCU-CGAG-------------------------UUU
+syc0662_c    --------GCCCCGGCG-AUCGCUG-------------------GCAAAC
+syc0600_d    --------ACCGCUGCU----GGACU-----------------UCGGAAA
+syc1322_d    -------GAACGCUCUC-UAGUC-----------------------AGUC
+syc2450_d    --------GAGGGUGGG-GUCC-------------------------GCA
+syc1403_c    -------UCAGUCCUUGCUGCG-------------------------AUC
+syc0473_d    -------AGUCCCCUGU-GGUCC-----------------------UUUG
+syc0240_c    -------AAAGCCCUCC----UCGCUA---------------UCUGCAAA
+syc1770_c    --------AAGGGGGUC-UGCA----------------------------
+syc1415_d    --------GGGCUGAAA-GUCUU----------------------GCAGA
+syc1657_c    -------AAAAAUCCCU-CGCCAGAG----------------UUUCCUGU
+syc0481_c    --------CCGGAUCUG-GGUG-------------------------ACU
+syc1915_d    --------GGCGGGGUC----AGGCA-----------------GUCCCUC
+syc1920_d    ------CACCUCCUCUC-UACAGCAA----------------CGCGCGCU
+syc0330_c    --------GGGGAUCGG-ACAU-------------------------UAU
+syc0925_c    --------AGCGAUCGC-UUCCGU---------------------CAUCC
+syc1751_d    -----------CGCCUG-ACAG-------------------------UUC
+syc0800_c    --------AAGUGG------------------------------------
+syc0894_d    --------CUUGAAGGC-AGGA-------------------------CUC
+syc2461_c    --------GGUCUGCUG-UGCU-------------------------CUG
+syc1320_c    --------AAGGGCUUC-AUGA-------------------------UGU
+syc0460_c    --------AAGCCUGUA-AUCCAC---------------------GAUCG
+syc1076_c    --------AUCGUCCGC-UUCC-------------------------AAA
+syc0418_c    -------GAUUGGCUUC-AAUAAUUGA---------------UUCAAGAA
+syc1989_d    -------GGAGGAGAGA-GGUU-------------------------UCC
+syc0804_c    --------GCCCCCAAA-AGCCUUGC----------------AGCGACUA
+syc1697_d    --------CCCCUCAGG-UUGCUUA-------------------ACGCAA
+syc0191_c    -------GGCUUAUCGC-AUUC-------------------------UUC
+syc1366_c    --------AGACCCACC-GAAC-------------------------CAG
+syc1350_d    -------UGCCCUCAAC-CUCA-------------------------GUC
+syc0426_c    -------UCGCCUAGGU-GGUC-------------------------AAC
+syc1098_d    ------AAAAGGGGUAG-GUU-----------------------------
+syc0413_d    -------AAAAGCUCUU-GUCAGGUU----------------CACACUGC
+syc1170_c    --------GCGGACGCU----GACCCC---------------AGGGAUCU
+syc2237_d    -------AUCUCCGUUG-CUGA-------------------------AAC
+syc2448_d    --------AACGGCCUC-CCCA----------------------------
+syc2395_c    --------GAGCCCUGU-UCUC-------------------------AUC
+syc1408_d    --------UCGCUCCUG-AUUACUUGAGUU--------GAUCAAGGCUCA
+syc2386_c    --------AAGCCACCG-GCAA-------------------------AUU
+syc0263_d    ------AAAACCGCUGG-CUCCUC--------------------AAUCAU
+syc1758_d    --------AGGGUCCUG-GAUC-------------------------GCU
+syc0712_d    --------GAGUUAAGU-GGCG-------------------------AUC
+syc0231_c    --------ACGGCUACA----U-------------------------CAC
+syc1438_d    -------GAGUGAGUAG-GAAG-------------------------UGA
+syc1485_d    -------UGAGAGCCUA-CUGU-------------------------UUU
+syc2138_d    -------GGAGACAGGG-GGCU-------------------------UUA
+syc2274_d    UCUGCAUGACGGUCAAG-UCCA-------------------------GUG
+syc1200_c    --------AGCCUUUC-----G-------------------------AAU
+syc2206_d    -------CGCUGGGCUG-ACUAGGU------------------AAGAAUA
+syc1936_c    -------CGACAGGGCA-GGCA-------------------------AAC
+syc0063_d    --------AAGUCCUGU-CAGC-------------------------UUG
+syc0461_c    --------ACAGCCUCU-ACUG-------------------------CAG
+syc2245_c    --------GCAGCUUAG-GCGC-------------------------GAU
+syc0881_c    -------GGAGGGAUUG-CUCUUGGCCC------------AAGCGGCUGG
+syc0129_c    -------U---GCUCCU-GCCU-------------------------UUG
+syc0986_d    --------CAGGGGGC-----G-------------------------AUC
+syc1498_c    --------GUCCUGAUU-CUUU-------------------------GAC
+syc2223_c    --------AGCGAGCAG-UUCAGCAUUUG----------ACUAAAAUCAU
+syc0398_d    -------GAACGUGGCA-GGAUUCCU-----------------AAGGGAG
+syc1488_c    --------AGGCAAGGA-GUGA-------------------------UCG
+syc0113_c    --------GCGGAAUCU-CGAC-------------------------UUG
+syc0414_c    --------GCGAUCGCU-CGGA-------------------------UAU
+syc2188_d    ------CAAAGCAGGGU-CGCU-------------------------AUC
+syc2473_d    --------ACAGCUCCU-GCCU-------------------------CUG
+syc0122_d    --------AUCCCUGCA-AAUCCAA------------------CUGGACG
+syc0154_d    -----------AGGUUA-GUUGU-----------------------CAUG
+syc1181_c    --------CGGGGCGGUCUCAU-------------------------GGG
+syc2262_d    --------GGGGGGCU-----A-------------------------ACC
+syc0010_c    -------AGCGAUCGCA-UUAA-------------------------UCC
+syc0066_d    -------GAAGCCCUCU-UCAG-------------------------UCU
+syc2097_d    --------AAGAGUCUG-GGCA-------------------------AGC
+syc1787_c    --------UGGUGGGGU-UGCG-------------------------AUC
+syc2150_c    --------AGCGAUCGC-AUCAACCCUCCCAG-----CCGGAAGGAAAAC
+syc1338_c    --------GUGUUGGGG-GUUG-------------------------AUU
+syc1899_c    --------GAGCGAUCG-CUAACAAUGGUGUCGG-AAUCUGCUUCAGUUC
+syc2263_d    --------GCCUACAUG-AGCG-------------------------AUC
+syc1088_d    ------------CGCUG-CUCGUCUCCGCCU------ACACUCGGGAGAA
+syc0012_c    --------GCGGUUCCA-GCCA-------------------------GCC
+syc0970_c    --------AAACCCGGU----CG----------------------CAAAC
+syc2119_d    --------ACGGGGGUU-GGGA-------------------------UCA
+syc1040_d    --------AAGG---------A-------------------------AAA
+syc1863_c    -------AGCCGCAAUC-AGGCGGCG-----------------CGUGUAG
+syc0454_c    --------UCGCUCCCC-CAGU-------------------------GCC
+syc0311_d    -------CGCCUGCGAU-CGC-----------------------------
+syc0002_c    --------AGAGGGAUUCUGCUAGG------------------AGUCACU
+syc1825_c    --------UCUGCUUGA-GGUGAG---------------------UCUCA
+syc1364_d    --------UGGCGGCG-----G----------------------------
+syc2009_d    -------GAAGUCCCUG-GGUGAC--------------------GCGAUC
+syc1698_c    -------AAACCCCUCA-GGCCAUUGC---------------GUUAAGCA
+syc2254_d    --------GCGAUCGCU-UCUGG----------------------ACUAA
+syc1636_c    -----------CGCCGG-GCCG-------------------------CAA
+syc1227_c    --------GGGCUGAGG-GGCG-------------------------AUC
+syc2105_d    --------AAGGCUCAA----U-------------------------GAC
+syc1319_d    --------AAGGGCCUC-AUGC-------------------------ACA
+syc1095_c    -------GGGGGAGGAU-GGAC-------------------------AAG
+syc0417_d    --------AUUGGCUUC-AAUUUCUUG---------------AAUCAAUU
+syc0872_c    --------AAAGCCCUU-GCCU----------------------------
+syc1188_d    ------CGACUCUCGGU-CUGACUCUU---------------AUAGUGAG
+syc0495_c    --------AGCCCAGGU-CUCU-------------------------CAG
+syc0802_c    ------UGCUACCCGCA-CAUACGCU-----------------GAUAUUG
+syc0079_c    -------CUGCUCGUGC-CGUUCC---------------------UGAAG
+syc2046_c    --------AGGGGC-------U-------------------------GAU
+syc0886_c    ------UUGGAGCGAUC-UCUU----------------------------
+syc1084_c    --------GGGGCGAUC-GCUU----------------------------
+syc0145_d    --------AGCCACCCG-AUCC-------------------------UUG
+syc0091_d    -------CUGCCUCUCUUCCAG-------------------------CAA
+syc1253_d    --------AAGGUCUAU-CCAAA-----------------------GUUC
+syc2416_d    --------CCCCCUGAU-UGCU-------------------------GGU
+syc1691_d    --------GCCUCGGGG-UGCG-------------------------AUC
+syc0568_c    --------AAAGCUGCU-CUCG-------------------------CUA
+syc0140_d    --------AAGACAGCG-CUAG--------------------------CA
+syc1176_c    -------GGCCGCGCUU-GAGU-------------------------GAA
+syc1449_c    --------AGGCUUUU-----A-------------------------GAU
+syc2440_c    AG--GAAGAUGUUGAGC-GGCA----------------------------
+syc1579_c    -------UAGGGGCAGA-GCCG-------------------------AUC
+syc0183_d    --------CAGGGGAGA----G-------------------------AAA
+syc1761_d    -------GCAGCGAGUC-CUCA-------------------------UUU
+syc2151_d    -------U---CGCAAG-GGGU-------------------------GAA
+syc1072_d    --------AAGGGGAGU-CCAA----------------------------
+syc0044_c    --------GAUCGCUCU-GGACACG-------------------AGUCAA
+syc2037_c    --------CAAGCCGGU-UGUC-------------------------UGA
+syc1924_d    --------GGCAGCGAG-CUU-----------------------------
+syc1955_c    -------ACAACUCCAA-GAGGUACUUAU-----------GCUAACGGUA
+syc0566_c    --------GAGUGGAUG-CUUC-------------------------GAG
+syc0065_d    --------AGCUUUACA-UCAC-------------------------UUC
+syc0489_c    --------ACCGGAGCC-UCUA----------------------------
+syc2511_d    --------GGAGCUAGU-CGCCGAU------------------UAUUGUC
+syc0656_d    --------GAGUCGGUG-GUGA--------------------------GU
+syc0737_c    ------GCUAACGCUCG-GCUC----------------------------
+syc2275_c    --------ACGGCCAAG-CCCU-------------------------CAC
+syc0125_c    --------CAGCUGGGG-UUUGUU--------------------UCGUGU
+syc1218_c    -------AGUCGCUGGU----U-------------------------UAC
+syc0942_d    --------GGCGGUUUG-CAGAUUGC-----------------CUACACC
+syc2349_c    --------AGCCUCCCA-UA----------------------------AC
+syc0820_d    --------ACGGCUGAUAGUCAGUUUCUGG--------CCAAGUAGCUUU
+syc0163_d    --------AAGGGGUUG-AUGUUUC-------------------AAUACG
+syc0301_d    --------ACCGGGUUG-AGUC-------------------------UAU
+syc1177_c    --------GGCGCUGCC-UAAU-------------------------UGA
+syc2099_d    G---AGUAGGGGCUUGC-UGAA-------------------------GUA
+#=GC SS_cons ........<<<<<<<<<.<<<_.........................___
+#=GC RF      ........aaggcccug.cgca.........................auc
+
+syc0647_c    -UCUCA-G--ACCCUU-UC--CCUUUCA
+syc0166_d    -UCUCA-G--ACCCUU-UC--CCUUUUU
+syc1450_d    -UGAAA-A--GAUCUA-UU--GAUUAGU
+syc2437_c    -CGAGA-U--GGGGAU------------
+syc2451_d    -UCGCC-C--AUCCCU------------
+syc0818_d    -GCAAC-U--CGUCCC------------
+syc1185_d    ACCUAG-A--CGCUCA-CA--GCUUUUU
+syc1452_c    UCCCGA-A--UUCCUA------------
+syc1662_d    -CCGAG-C--UUUCUCGUUUGGAUUGUG
+syc2427_c    GAUCUG-G--GGAUGU-UU--ACUGAAU
+syc1092_d    -GAGGC-G--CUUUUU------------
+syc0664_c    -GAUCG-C--GGAGGA------------
+syc2045_d    -GUUGG-G--GGCUUUGUC--GUUGAAA
+syc1661_d    -UCUCG-A--------UUU--GCUAGCC
+syc0290_d    -CUGCU-G--GGUGUAAUCAGGCUUUGA
+syc2431_d    -GCGGU-G--UGGGGA-UU--UUUAGGA
+syc1093_c    -GGGGC-G--CUUUUUGAU--GCUUGGA
+syc2065_d    GAGAGC-A--GCAGCU-UU--GUUUUUU
+syc0135_c    -UUCAA-U--AGCCCUUUC-AUCUUGAU
+syc2465_d    -GGUUU-G--CUGCGGUUC-UGUUUUUC
+syc1562_c    -GCCGC-G--AUCGGUUUU--GUGUUGG
+syc2426_d    AGUCUG-G--GGAUGC------------
+syc2264_d    CCUCAG-G--GCGCUU-UU--GUGUGCU
+syc2335_c    CCAGCG-A--UCGCUC-UU--GUUUUUG
+syc1493_c    -GGCUG-C--GAUCGC------------
+syc0983_c    -UGCGG-A--AGGGGAUUU--UUCUUAU
+syc1789_d    -CUCUG-G--GGA---GUU--UUUUGUG
+syc1062_c    -UGCCA-U--CUCCCCGAU--UCUGUAU
+syc1932_c    CAAGUC-U--UAACAA------------
+syc2207_c    -AAGCA-A--GCGUUA-UU--GUAUUGC
+syc1015_d    AUCGCU-U--CGGUCG-UU--GUUUUUC
+syc0657_d    -CUCCC-G--CUUCUUGUU--UUUUAGC
+syc1549_d    -UCAUC-A--GGGGUUUUU--UCUGAUC
+syc1850_d    UGAUUU-C--UCCCCU-UU--UUUGUCU
+syc0637_d    -GCUCU-C--GGAGGUUUU--UUGUGCU
+syc2394_d    AGAACA-G--GGCUCAGAC--CUUUAGC
+syc1045_c    CGCUGU-G--GCGGUUUUU--GGUCAUU
+syc1451_d    UCCCAA-A--UUCCUA------------
+syc2029_c    -CUGCA-A--AGCCUUUUU--CAAUAGC
+syc2236_c    -AUCUC-U--GGGCUUUUU-AGACUGAC
+syc1129_d    -CAGGA-G--CCGUUUUUU--AUUGAGU
+syc2507_d    -CAGGG-C--CAUCCCCUU--GCUAGCG
+syc0117_d    -CUUCA-G--CCCUUGUUC--UAUCUCU
+syc1656_d    -GUAGG-U--AGCGAU------------
+syc1790_c    ----CC-U--CCGCCCGUC--UUAAAAC
+syc0879_d    UCUUGG-G--CAGCUUUUU--UAUUAGC
+syc0146_c    -GAUCG-G--GUGGCUGCU--CUGUUGA
+syc0572_d    -GCUGG-C--GGGUUU-UU--GCUGGCU
+syc0067_c    -GAAGA-G--GGCUUCUUU--UUUCAGC
+syc1478_c    -GUGUA-C--AGGGUU------------
+syc1938_d    -GGCAG-C--AGCCCU-UC--CCUUUCG
+syc2383_c    -UUGGG-A--GAGGACUUUCAGUUUGGA
+syc0662_c    -GGUUG-C--UGGGGU------------
+syc0600_d    ----GG-C--AGCGGUUUU--UCUUGGG
+syc1322_d    -CUAGG-G--AGCGUUGUU--UUUAGGG
+syc2450_d    AGAUCU-C--ACCCUCUCU--GUUUUGA
+syc1403_c    -GCACG-G--GGGCUG------------
+syc0473_d    -GCUGC-A--GGGGAUUUU--GGUCGAG
+syc0240_c    ----GG-A--GGGCUU------------
+syc1770_c    AGCAGA-C--CCCUUUUUU--GUGGUGC
+syc1415_d    -GUUUU-U--CGGCCU-CU--GCUAAGU
+syc1657_c    -GGGAG-G--GAUUUU------------
+syc0481_c    UACUCA-G--AUCCGUUUU--UAUUGGC
+syc1915_d    ----GA-C--CCCGCUUUU-GGCCGUUC
+syc1920_d    -GUAGA-G--AGGAGUUUU--UUAUGGA
+syc0330_c    -UGUCCUG--AUCCCCUUC--ACUUUGU
+syc0925_c    -GAGGC-G--AUCGCUUUU--ACGUGUU
+syc1751_d    -UGUCA-G--GCG---UUU--UCUUGUU
+syc0800_c    ----------CCACUUUUU--UUGAGGC
+syc0894_d    -UCUGU-C--UUCAAG-CC--GUUUUAC
+syc2461_c    GGCGCG-G--CAGACCUUA--GCUAUUA
+syc1320_c    GCAUGA-G--GCCCUU-UU--GCUUGAU
+syc0460_c    GGAUUA-C--AGGCUUUCU--GUUGAAU
+syc1076_c    GGAGGC-G--GACGAU-UU--GUUUUGG
+syc0418_c    -AUUGA-A--GCCAAU------------
+syc1989_d    -GCUUC-U--CUCCUUUUU-UGAUUGGA
+syc0804_c    -GCUUU-U--GGGGGCUUU--UCUUACG
+syc1697_d    -UGGCC-U--GAGGGGUUU--UUUGUCA
+syc0191_c    -AUUGC-G--GUAAGU------------
+syc1366_c    UUUUGG-U--GGGUCUUUU--GCUUGGG
+syc1350_d    UGGGGU-U--GGGGGC-UU--GCUGCGA
+syc0426_c    -GCCAC-U--UAGGCG------------
+syc1098_d    -GUCCU-A--CCCCUU------------
+syc0413_d    -GACGA-G--AGCUUUUUU--UUGUUAC
+syc1170_c    ----AGCC--GUCCGC-UU--UUUUGCA
+syc2237_d    -CAGUC-A--CGGAGA------------
+syc2448_d    -AAGGA-G--GUCGUUGCC--GUUAGGA
+syc2395_c    -GAAAC-A--GGGCUC------------
+syc1408_d    -GAUCA-A--GAGCGA-UC--GCUACUU
+syc2386_c    -UGCGG-G--UGGCUUUGU--CUUGUGA
+syc0263_d    -GGGCC-A--GCGGUUGAU--UAUUUAU
+syc1758_d    GAUUCA-G--GACCCUUUU-UGCUGGAA
+syc0712_d    -GCUCA-U--UAAUUCAAU--GAUUUUA
+syc0231_c    ----UG-U--GGCCGUUUU--UUGUGGC
+syc1438_d    -UUUCU-A--CUCACUUUU--GCUAUGG
+syc1485_d    -CAGUG-G--GCUUUU-UU--GCU----
+syc2138_d    -GCCCC-U--UGUCCU------------
+syc2274_d    AGGGCU-U--GGCCGUUUU--GUU----
+syc1200_c    -----G-A--AAGGCUUUU--UUUAGUU
+syc2206_d    -AGUCA-G--CUCAGU------------
+syc1936_c    -GCUUG-C--CCUGUUUUC--GUU----
+syc0063_d    -CUGAC-A--GGACUU------------
+syc0461_c    -AGUAG-G--GGCUUU-UU--ACUGGCG
+syc2245_c    -CGCCU-A--GGCUGUUUU--UUUGACC
+syc0881_c    -GGGCA-A--UCCUUU------------
+syc0129_c    -GGCAG-G--GGC---UUU--UUUCUGU
+syc0986_d    -----G-C--CCCCUUUUU--UCUGGCU
+syc1498_c    CAAGGA-U--CAGGACUUA--ACUUUUG
+syc2223_c    -GUACU-G--CUCGCUUUA--GAAAUGU
+syc0398_d    -UCCUG-U--CACGCUGUU--GAUUUGG
+syc1488_c    -C---C-C--UUGCCUUUUACGUUUUAA
+syc0113_c    -UCGGG-G--UUCCGC-UU--UUU----
+syc0414_c    CUGGGG-C--GAUCGCUUU--UUUUCGG
+syc2188_d    AGUUAC-C--CUGCUUUAC--UAUUUUC
+syc2473_d    -GGUGG-G--GGCUGUUGU-UGUUUGGC
+syc0122_d    -A---G-C--AGGGAU-UU--UUUAAUG
+syc0154_d    -AGUUA-G--CC----UCU--CUUAUUC
+syc1181_c    UUGAGC-C--GCCCCCUCU--UCUGUGC
+syc2262_d    -----A-G--CCCCCUUUU--UGUAGCA
+syc0010_c    -----G-C--GAUCGU------------
+syc0066_d    UUGAAG-A--GGGCUU------------
+syc2097_d    -GCUCA-G--GCUUUU-UU--GUUGGCA
+syc1787_c    -GCAGC-C--CCGCCUCCU--GUUUUUG
+syc2150_c    -GGUGC-G--AUCGCUUUU--UUUAGAA
+syc1338_c    -GGCCU-C--CAACACUUU--CUUGUUU
+syc1899_c    -UAGCG-A--UCGCUC------------
+syc2263_d    -GCUCA-U--GUGGGU-AU--GAAGAAA
+syc1088_d    -GAGCA-G--CGAA--UUU--UUUAUGA
+syc0012_c    -GGUUG-G--GACCGC-UU--GUUUAUU
+syc0970_c    ----AC-C--GGGUUUUUU--UUUGUGG
+syc2119_d    -UCUAG-C--CCCCGUUUC--UAUUGAU
+syc1040_d    ------------CCUU-UU--GUUAGUG
+syc1863_c    -UCUGA-U--UGCGGC------------
+syc0454_c    ACUAGA-G--GAGCGA------------
+syc0311_d    -GCGAU-C--GCAGGC------------
+syc0002_c    -GCAAA-U--CCCUCU------------
+syc1825_c    -GCUUC-A--AGCAGAUUU--GUUAUUG
+syc1364_d    -----C-G--UCGCCA------------
+syc2009_d    -GCUCA-G--GGACUA-UU--GAUAAUG
+syc1698_c    -ACCUG-A--GGGGCU------------
+syc2254_d    -AGGGG-C--GAUCGC-UU--GUUCUCU
+syc1636_c    -GGUCC-G--GC----UUU--UUUAUGC
+syc1227_c    -GCUCC-U--UAGCCUUUU-UGAUAGGG
+syc2105_d    ----UU-G--GGCCUUUUU--GUGUUUU
+syc1319_d    UCAUGA-A--GCCCUUUUU--GAUAGCU
+syc1095_c    -GCCAC-C--UUCCCUUCU--CAGUGAG
+syc0417_d    -AUUGA-A--GCCAAU------------
+syc0872_c    CGGCAG-G--GGCUUUUUC-GUAUCUCU
+syc1188_d    -UGUGC-C--GAGAGUUUU--UUUAUGG
+syc0495_c    -GGGAG-C--UGGGCUUCC--CUUUUUA
+syc0802_c    -GUAUG-C--GGGUAG------------
+syc0079_c    -ACUGU-G--CGAGCA------------
+syc2046_c    ----------GCCCCUUAU--CUCAUGU
+syc0886_c    -GGGGG-U--CGCUCCUCU--GUUCAUC
+syc1084_c    -AGCGA-U--CGCCCU------------
+syc0145_d    -AAUCG-G--GUGGCUAUU--GUUUUUA
+syc0091_d    AUGGGG-A--GAGGCC------------
+syc1253_d    -UGGAU-A--GACCUUUUU--UCUGUGC
+syc2416_d    -GCGAU-C--GGGGGG-AC--GUUGUUG
+syc1691_d    -GCGCC-C--CAAGGU------------
+syc0568_c    GGAGAG-C--AGCUUA------------
+syc0140_d    -UGGCG-C--UGUCUUUCU--UUUUGCA
+syc1176_c    -UUCGG-G--CGCGGUUUC--UUGGUGC
+syc1449_c    -----A-A--AAGUCU-UC--UAGGUGG
+syc2440_c    -AUCGC-U--CAACAU------------
+syc1579_c    GGGUUC-U--GCCUCU-UU--UUUUGCG
+syc0183_d    ----UC-U--CCCCUUUUU--CAAUGCC
+syc1761_d    -GGGGG-C--UCGUUUUUU-UGCGUUGC
+syc2151_d    -CCCCC-U--GCG---GUC--UUUUCUG
+syc1072_d    -UGGGC-U--CCCUUUUAU--UUUGGAG
+syc0044_c    -UCUAG-G--GCGAUC------------
+syc2037_c    GACAGU-C--GGCUUUGUU--GUUUGUU
+syc1924_d    -CAGCC-A--GCUGCCUUU--UUUUGUG
+syc1955_c    -CUCUU-G--GAGUUUUUC--UUU----
+syc0566_c    GAAGCG-U--CCACUUUUU--UUGUGGC
+syc0065_d    AUGAUU-U--AGGGUU------------
+syc0489_c    -GGGGA-C--UCCGGUUUU--UUUGUGC
+syc2511_d    -GGAAC-U--GGCUCCUUU--UUUUGGG
+syc0656_d    -CAUCA-C--CGACUCUGU--CUUUUUG
+syc0737_c    CGGUCG-G--GCGUUG------------
+syc2275_c    UGGACU-U--GACCGU------------
+syc0125_c    -GAGCC-U--CAGCUG------------
+syc1218_c    ----AC-C--AGCGGU------------
+syc0942_d    -CUGCA-AUCGCCGCCUUU--GCGUAGA
+syc2349_c    -----G-G--GAGGCUUUU--UUGUGGC
+syc0820_d    -GAUUU-C--AGCCGC-UU--GCUGAGC
+syc0163_d    GCAUCC-A--CCCCUU------------
+syc0301_d    GACUGA-G--CCCGGUUUU-CGUUUAUG
+syc1177_c    -CUGGG-C--GGCGCCGCU--UUUUGGA
+syc2099_d    -UCGGC-A--GGCCUCUAU--GAUUUCG
+#=GC SS_cons .>>>>>.>..>>>>>>:::..:::::::
+#=GC RF      .gcgca.g..ggccuuUUU..gUUUugg
+//

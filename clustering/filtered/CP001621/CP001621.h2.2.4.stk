@@ -1,0 +1,977 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.2-1
+#=GF AU Infernal 1.0.2
+
+#=GS MMCAP1_0490 WT 0.78
+#=GS MMCAP1_0607 WT 1.07
+#=GS MMCAP1_0764 WT 1.08
+#=GS MMCAP1_0783 WT 1.05
+#=GS MMCAP1_0382 WT 0.91
+#=GS MMCAP1_0154 WT 0.89
+#=GS MMCAP1_0900 WT 1.16
+#=GS MMCAP1_0119 WT 0.94
+#=GS MMCAP1_0784 WT 1.09
+#=GS MMCAP1_0629 WT 0.98
+#=GS MMCAP1_0712 WT 0.90
+#=GS MMCAP1_0588 WT 1.02
+#=GS MMCAP1_0574 WT 0.95
+#=GS MMCAP1_0195 WT 0.96
+#=GS MMCAP1_0584 WT 1.09
+#=GS MMCAP1_0505 WT 1.07
+#=GS MMCAP1_0551 WT 1.03
+#=GS MMCAP1_0037 WT 0.96
+#=GS MMCAP1_0491 WT 0.78
+#=GS MMCAP1_0881 WT 1.09
+#=GS MMCAP1_0870 WT 1.00
+#=GS MMCAP1_0901 WT 0.93
+#=GS MMCAP1_0160 WT 0.96
+#=GS MMCAP1_0632 WT 0.97
+#=GS MMCAP1_0113 WT 0.94
+#=GS MMCAP1_0059 WT 0.88
+#=GS MMCAP1_0438 WT 0.87
+#=GS MMCAP1_0885 WT 0.98
+#=GS MMCAP1_0393 WT 1.14
+#=GS MMCAP1_0396 WT 1.05
+#=GS MMCAP1_0488 WT 1.54
+#=GS MMCAP1_0859 WT 0.99
+#=GS MMCAP1_0788 WT 0.94
+#=GS MMCAP1_0136 WT 1.05
+#=GS MMCAP1_0617 WT 0.86
+#=GS MMCAP1_0311 WT 0.93
+#=GS MMCAP1_0575 WT 0.77
+#=GS MMCAP1_0368 WT 0.95
+#=GS MMCAP1_0361 WT 1.11
+#=GS MMCAP1_0141 WT 1.19
+#=GS MMCAP1_0898 WT 1.04
+#=GS MMCAP1_0394 WT 0.95
+#=GS MMCAP1_0478 WT 0.94
+#=GS MMCAP1_0561 WT 1.14
+#=GS MMCAP1_0400 WT 1.19
+#=GS MMCAP1_0130 WT 1.05
+#=GS MMCAP1_0414 WT 0.99
+#=GS MMCAP1_0272 WT 1.04
+#=GS MMCAP1_0474 WT 0.87
+#=GS MMCAP1_0297 WT 0.95
+#=GS MMCAP1_0481 WT 1.29
+#=GS MMCAP1_0278 WT 0.88
+#=GS MMCAP1_0703 WT 0.95
+#=GS MMCAP1_0753 WT 0.99
+#=GS MMCAP1_0274 WT 1.14
+#=GS MMCAP1_0309 WT 1.29
+#=GS MMCAP1_0344 WT 0.92
+#=GS MMCAP1_0122 WT 0.96
+#=GS MMCAP1_0308 WT 1.02
+#=GS MMCAP1_0238 WT 0.75
+#=GS MMCAP1_0586 WT 1.04
+#=GS MMCAP1_0187 WT 0.88
+#=GS MMCAP1_0114 WT 0.99
+#=GS MMCAP1_0237 WT 0.75
+#=GS MMCAP1_0716 WT 0.86
+#=GS MMCAP1_0097 WT 1.01
+#=GS MMCAP1_0104 WT 1.03
+#=GS MMCAP1_0170 WT 0.80
+#=GS MMCAP1_0598 WT 1.04
+#=GS MMCAP1_0343 WT 0.92
+#=GS MMCAP1_0008 WT 1.07
+#=GS MMCAP1_0169 WT 1.02
+#=GS MMCAP1_0287 WT 1.11
+#=GS MMCAP1_0732 WT 0.96
+#=GS MMCAP1_0291 WT 0.84
+#=GS MMCAP1_0178 WT 1.08
+#=GS MMCAP1_0463 WT 1.00
+#=GS MMCAP1_0320 WT 0.97
+#=GS MMCAP1_0246 WT 1.35
+#=GS MMCAP1_0292 WT 0.84
+#=GS MMCAP1_0159 WT 0.83
+#=GS MMCAP1_0039 WT 0.72
+#=GS MMCAP1_0386 WT 1.32
+#=GS MMCAP1_0701 WT 0.87
+#=GS MMCAP1_0271 WT 1.04
+#=GS MMCAP1_0118 WT 0.94
+#=GS MMCAP1_0310 WT 0.93
+#=GS MMCAP1_0480 WT 1.02
+#=GS MMCAP1_0469 WT 0.90
+#=GS MMCAP1_0324 WT 0.95
+#=GS MMCAP1_0748 WT 1.14
+#=GS MMCAP1_0076 WT 1.26
+#=GS MMCAP1_0861 WT 0.89
+#=GS MMCAP1_0064 WT 0.95
+#=GS MMCAP1_0208 WT 0.97
+#=GS MMCAP1_0787 WT 1.09
+#=GS MMCAP1_0451 WT 0.72
+#=GS MMCAP1_0652 WT 1.10
+#=GS MMCAP1_0256 WT 1.05
+#=GS MMCAP1_0217 WT 1.01
+#=GS MMCAP1_0731 WT 0.96
+#=GS MMCAP1_0216 WT 1.04
+#=GS MMCAP1_0172 WT 0.79
+#=GS MMCAP1_0903 WT 0.93
+#=GS MMCAP1_0779 WT 1.00
+#=GS MMCAP1_0038 WT 0.91
+#=GS MMCAP1_0296 WT 1.01
+#=GS MMCAP1_0204 WT 1.46
+#=GS MMCAP1_0163 WT 1.07
+#=GS MMCAP1_0174 WT 0.79
+#=GS MMCAP1_0453 WT 1.08
+#=GS MMCAP1_0007 WT 0.96
+#=GS MMCAP1_0713 WT 0.97
+#=GS MMCAP1_0459 WT 1.05
+#=GS MMCAP1_0395 WT 1.26
+#=GS MMCAP1_0604 WT 0.80
+#=GS MMCAP1_0261 WT 1.19
+#=GS MMCAP1_0729 WT 1.14
+#=GS MMCAP1_0437 WT 0.87
+#=GS MMCAP1_0637 WT 1.14
+#=GS MMCAP1_0175 WT 0.84
+#=GS MMCAP1_0188 WT 0.94
+#=GS MMCAP1_0715 WT 1.19
+#=GS MMCAP1_0085 WT 1.08
+#=GS MMCAP1_0230 WT 0.93
+#=GS MMCAP1_0125 WT 1.04
+#=GS MMCAP1_0277 WT 1.06
+#=GS MMCAP1_0882 WT 0.95
+#=GS MMCAP1_0030 WT 1.04
+#=GS MMCAP1_0222 WT 1.14
+#=GS MMCAP1_0035 WT 0.87
+#=GS MMCAP1_0827 WT 1.04
+#=GS MMCAP1_0179 WT 0.96
+#=GS MMCAP1_0767 WT 1.36
+#=GS MMCAP1_0601 WT 1.08
+#=GS MMCAP1_0606 WT 0.91
+#=GS MMCAP1_0418 WT 1.19
+#=GS MMCAP1_0209 WT 1.21
+#=GS MMCAP1_0257 WT 1.14
+#=GS MMCAP1_0687 WT 1.12
+#=GS MMCAP1_0886 WT 0.95
+#=GS MMCAP1_0415 WT 0.85
+#=GS MMCAP1_0305 WT 0.80
+#=GS MMCAP1_0413 WT 0.94
+#=GS MMCAP1_0171 WT 1.01
+#=GS MMCAP1_0700 WT 0.99
+#=GS MMCAP1_0613 WT 0.94
+#=GS MMCAP1_0806 WT 1.04
+#=GS MMCAP1_0134 WT 1.02
+#=GS MMCAP1_0756 WT 0.95
+#=GS MMCAP1_0706 WT 0.98
+#=GS MMCAP1_0743 WT 1.10
+#=GS MMCAP1_0822 WT 0.98
+#=GS MMCAP1_0101 WT 0.96
+#=GS MMCAP1_0673 WT 0.96
+#=GS MMCAP1_0012 WT 1.01
+#=GS MMCAP1_0542 WT 1.02
+#=GS MMCAP1_0345 WT 1.04
+#=GS MMCAP1_0482 WT 0.77
+#=GS MMCAP1_0093 WT 0.94
+#=GS MMCAP1_0335 WT 1.11
+#=GS MMCAP1_0133 WT 1.00
+#=GS MMCAP1_0065 WT 1.00
+#=GS MMCAP1_0538 WT 0.97
+#=GS MMCAP1_0080 WT 1.08
+#=GS MMCAP1_0852 WT 0.99
+#=GS MMCAP1_0332 WT 0.93
+#=GS MMCAP1_0033 WT 0.87
+#=GS MMCAP1_0866 WT 1.19
+#=GS MMCAP1_0117 WT 0.91
+#=GS MMCAP1_0850 WT 0.98
+#=GS MMCAP1_0454 WT 1.05
+#=GS MMCAP1_0245 WT 0.80
+#=GS MMCAP1_0025 WT 1.02
+#=GS MMCAP1_0151 WT 0.99
+#=GS MMCAP1_0176 WT 1.05
+#=GS MMCAP1_0129 WT 1.04
+#=GS MMCAP1_0173 WT 0.84
+#=GS MMCAP1_0146 WT 0.99
+#=GS MMCAP1_0726 WT 0.83
+#=GS MMCAP1_0683 WT 1.04
+#=GS MMCAP1_0812 WT 0.91
+#=GS MMCAP1_0241 WT 1.00
+#=GS MMCAP1_0877 WT 1.00
+#=GS MMCAP1_0060 WT 1.12
+#=GS MMCAP1_0904 WT 1.11
+#=GS MMCAP1_0634 WT 1.01
+#=GS MMCAP1_0499 WT 1.06
+#=GS MMCAP1_0156 WT 0.96
+#=GS MMCAP1_0314 WT 0.97
+#=GS MMCAP1_0034 WT 0.99
+#=GS MMCAP1_0789 WT 0.94
+
+MMCAP1_0490  CAUA---UCAAAUAA---AUACUUA---------------------GACA
+MMCAP1_0607  UAUA---AAAAAUAA---AA------------------------------
+MMCAP1_0764  CAGA---UAA--UAA---UU------------------------------
+MMCAP1_0783  AUGA---UAA--UAA--CAUUUGA-----------------------ACU
+MMCAP1_0382  UAGA--U-----UAA-----------------------------------
+MMCAP1_0154  AAAA---UAA--UAAU-AAC------------------------------
+MMCAP1_0900  ACGA---AAA--UAA---AUAGAAA--------------------UAUAU
+MMCAP1_0119  AAGA---UCAUAUUA-----------------------------------
+MMCAP1_0784  GUUA---UUAACUAC--UUU------------------------------
+MMCAP1_0629  AGAA---UUA--UAA---AU------------------------------
+MMCAP1_0712  UAAA---UAA--UAA-----------------------------------
+MMCAP1_0588  AAAA---CAAAAUAA--AAUA----------------------------U
+MMCAP1_0574  AAAA--UUAA--UAAA-AA-UUAGU---------------------UAGU
+MMCAP1_0195  ACUAG-CUAA--UAA---AUA-----------------------------
+MMCAP1_0584  AUGA---AUAAACAA---AU------------------------------
+MMCAP1_0505  CU----GCAAAAUAA-----------------------------------
+MMCAP1_0551  ACAA---AAAACUAA---AUAAUU----------------------AAUC
+MMCAP1_0037  AAAA---UUUUAUAA-----------------------------------
+MMCAP1_0491  AAAA---CAAAAUAA--G-UACU------------------------AUU
+MMCAP1_0881  GAAA---UAAAAUAA--G-A------------------------------
+MMCAP1_0870  CAGA---UUCAAUAUCUU--A-----------------------------
+MMCAP1_0901  AUAA---AAA--UAA--UAU------------------------------
+MMCAP1_0160  AAAA--G-----U------U------------------------------
+MMCAP1_0632  CAAA---UUAACUAA-----------------------------------
+MMCAP1_0113  GUUC---AAAACUAA-----------------------------------
+MMCAP1_0059  AAUA---UAA--UAAAAAAC------------------------------
+MMCAP1_0438  UAAA---UAA--UAA---AUUA---------------------------C
+MMCAP1_0885  AAUA--UUGA--UAA---UU------------------------------
+MMCAP1_0393  ACAA---UAAAUUAA---AU------------------------------
+MMCAP1_0396  GAAA---UAAAAUAA-----------------------------------
+MMCAP1_0488  CCUU---UAAUUUAA-----------------------------------
+MMCAP1_0859  GAUA---AUAAAUAA--CAU------------------------------
+MMCAP1_0788  ACAA---ACA--UAA-----------------------------------
+MMCAP1_0136  AAUA---AUAAAUAA--U--AGU------------------------AAG
+MMCAP1_0617  AGAA---GAA--UAA-----------------------------------
+MMCAP1_0311  AAGA---AUAAUUAA---AUAU--------------------------UU
+MMCAP1_0575  AUAAU-UUUAGAUAA----U------------------------------
+MMCAP1_0368  AUAAU-UUUGAAUAA---AAAA---------------------------G
+MMCAP1_0361  AAUAU-CAUAAAUAAU-U--U----------------------------U
+MMCAP1_0141  AAUA---AAAAACAC-----------------------------------
+MMCAP1_0898  AUAA---UUAAAUAUU-G--UU---------------------------U
+MMCAP1_0394  AUAA--UCUA--UAA---AU------------------------------
+MMCAP1_0478  UAUA---GAAGAUUA---A-------------------------------
+MMCAP1_0561  GUAA---CUAAAUAA---AUUUCUCUUAAC-----------CUAAUAAAG
+MMCAP1_0400  UUAA---UUU--UAA-----------------------------------
+MMCAP1_0130  UUUA---AAAAAUAA--UUU------------------------------
+MMCAP1_0414  CCAA---AAAAUUAA---AUA----------------------------A
+MMCAP1_0272  UAAA---UCAA-UCAG-AAU------------------------------
+MMCAP1_0474  AAAA---AUAAUUAA---AU------------------------------
+MMCAP1_0297  CAAA---UUAAAUAA---UU------------------------------
+MMCAP1_0481  CU----UCUAACUAA---AA------------------------------
+MMCAP1_0278  GUAA--UUAAUACAA-----------------------------------
+MMCAP1_0703  CAAA---UUAAUUAA--U-UAUUUGU------------------AAAUAU
+MMCAP1_0753  UUCA---UUAGAUAA---AU------------------------------
+MMCAP1_0274  AUUA---AAAAAUAA-----------------------------------
+MMCAP1_0309  CC--G-C-----U-------------------------------------
+MMCAP1_0344  AUAA---UUUAAUAA---ACAAA-------------------------AU
+MMCAP1_0122  AUUA---AAAAAUAAU-AAC------------------------------
+MMCAP1_0308  AAUA---GAAAAUAA-----------------------------------
+MMCAP1_0238  AUUA---AAAACUCAU-AAU------------------------------
+MMCAP1_0586  ACUA--GUAAUAUAAA-C--U----------------------------U
+MMCAP1_0187  AAUA--UUUA--UAA-----------------------------------
+MMCAP1_0114  ACAA---UUAAUUUA---AUAU--------------------------UA
+MMCAP1_0237  AGAA---GAA--UAA-----------------------------------
+MMCAP1_0716  AUAA--UUAAUCUAA---A-------------------------------
+MMCAP1_0097  AUAA---AAAUUUAA-----------------------------------
+MMCAP1_0104  AAAA---GAA--UUA-----------------------------------
+MMCAP1_0170  UU----UUAA--UAA-----------------------------------
+MMCAP1_0598  UUAA---AAAAAUAA---ACAAAU-----------------------UAC
+MMCAP1_0343  AUUA---AAAAAUAA---AUA----------------------------G
+MMCAP1_0008  UAAA---UUUAAUAA----U------------------------------
+MMCAP1_0169  CUAA---AUAAAUAAU-U-U------------------------------
+MMCAP1_0287  AAUA--GUUAAAUAA--A-AA----------------------------G
+MMCAP1_0732  AUUA--UUAAUAUAA-----------------------------------
+MMCAP1_0291  UAGAU-CUAAAAUUA-----------------------------------
+MMCAP1_0178  AAUAU-UUAAACUAA---AU------------------------------
+MMCAP1_0463  AUAA---AAAGAUAAU-A--AAAAU--------------------CUCCC
+MMCAP1_0320  UAGA---AUAAAUAA----C------------------------------
+MMCAP1_0246  AUAA----------------------------------------------
+MMCAP1_0292  AAGA---CAAAAUAA---AA------------------------------
+MMCAP1_0159  UCAAG-UUAAUAUAA---AUUA---------------------------G
+MMCAP1_0039  AUAA---UAAUAUAA---AC------------------------------
+MMCAP1_0386  CAUA--UCAAAUUAA---AUACU------------------------UAU
+MMCAP1_0701  UAAA--UUAACAUAA--AAC------------------------------
+MMCAP1_0271  UUUAU-UUAAUAUAA---AA------------------------------
+MMCAP1_0118  AGUA---GAA--UAA-----------------------------------
+MMCAP1_0310  AAAA---UAAAAUAA---AUAAUGCA-------------------UUGAA
+MMCAP1_0480  AAAA--UUAAUAUAA----U------------------------------
+MMCAP1_0469  UUAA---AUAAAUAA-----------------------------------
+MMCAP1_0324  AUAA---CAAGAU-----AU------------------------------
+MMCAP1_0748  GAUA---CAAAAUAA---ACAUACUUA----------------UAAAAAA
+MMCAP1_0076  UUAA---UUA--UUG---AC------------------------------
+MMCAP1_0861  AAAA--UUUA--UAA--UAC------------------------------
+MMCAP1_0064  AAGA---GAA--UAA-----------------------------------
+MMCAP1_0208  AAUA--G-UUAAUAA--AAU------------------------------
+MMCAP1_0787  AUAA--U-UU--UAC--UAC------------------------------
+MMCAP1_0451  AUAA--UUAAUAUAAU-AA-U----------------------------C
+MMCAP1_0652  AACAU-CUCA--UAU---UU------------------------------
+MMCAP1_0256  AUAA---GAA--CAA---AA------------------------------
+MMCAP1_0217  UUAA---UAAAUUAAGCAA-A----------------------------A
+MMCAP1_0731  UUUA---CAA--UAA----U------------------------------
+MMCAP1_0216  AUGAU-UGAAAAUGAU-AAU------------------------------
+MMCAP1_0172  AGAA---GUA--UAA---AA------------------------------
+MMCAP1_0903  GAAA---AAAAAUAA--UAU------------------------------
+MMCAP1_0779  ACAA---CAAAAUAAU-AA-UUUUUAAUUAAAGUACUCAAUUUAUCUCCC
+MMCAP1_0038  AUUA---AAAGAUUA---A-------------------------------
+MMCAP1_0296  AUAA---AAA----------------------------------------
+MMCAP1_0204  AUUA---AAA----------------------------------------
+MMCAP1_0163  GUUA---AAAAAUAA--UAUUUA------------------------AUA
+MMCAP1_0174  AGAA---GUA--UAA---AA------------------------------
+MMCAP1_0453  AAAA--UCAAGAUGAU-AAU------------------------------
+MMCAP1_0007  AUUA---AAAUAUAA--C--------------------------------
+MMCAP1_0713  UCUA---AAAAAUAA--G--------------------------------
+MMCAP1_0459  AUUA---AAAAAUAA--UAUACCAAGUAA-------------UAAUUCUU
+MMCAP1_0395  UGAA---AAA--UAA---AA------------------------------
+MMCAP1_0604  AAAA---AUAAUUAAC-UUU------------------------------
+MMCAP1_0261  UUAA---CAAAAUAAU-UAU------------------------------
+MMCAP1_0729  UUGAU-CAUAAUUAA--AA-UCU-------------------------UA
+MMCAP1_0437  UUUA---UAAA------CAU------------------------------
+MMCAP1_0637  UCAA---AACGUUAAU-C--U-----------------------------
+MMCAP1_0175  UUGA--UUAA--UAA---UC------------------------------
+MMCAP1_0188  AUUA--UUAAAAGAAU-AAU------------------------------
+MMCAP1_0715  AAGA---AAAAAUA-----U------------------------------
+MMCAP1_0085  UCUA---UUAAUCAA--AAC------------------------------
+MMCAP1_0230  UAUA---AUAGUUAA-----------------------------------
+MMCAP1_0125  GU----UUAA--UAA---UU------------------------------
+MMCAP1_0277  AUUAG-UAAAGCUUA-----------------------------------
+MMCAP1_0882  AUAA---AAAAUUAA-----------------------------------
+MMCAP1_0030  ACUA---UUGAAUGAU-CAU------------------------------
+MMCAP1_0222  GUAA---AUAAAUAAU-AGU------------------------------
+MMCAP1_0035  UAAAU-C-----UAA---AU------------------------------
+MMCAP1_0827  AGAA---UCAAAUGA---UUA----------------------------G
+MMCAP1_0179  AAAA--UUUA--U-----GC------------------------------
+MMCAP1_0767  UUAA---UAACAUAC---AU------------------------------
+MMCAP1_0601  ACGAU-UUAAGAUAA---AUCAAU----------------------UAAU
+MMCAP1_0606  AUUA---AUAGAUUA-----------------------------------
+MMCAP1_0418  AAAAG-CCA--ACAA---AC------------------------------
+MMCAP1_0209  GAAA---AAAUAUAA---UA------------------------------
+MMCAP1_0257  CUAA----------------------------------------------
+MMCAP1_0687  UUUA---UAA--UAA-----------------------------------
+MMCAP1_0886  AAAA---UUAAUUAAU-AAC------------------------------
+MMCAP1_0415  CUAA--UUUA--UAA--AAU------------------------------
+MMCAP1_0305  AAUA---AUAAAUAA---UU------------------------------
+MMCAP1_0413  AUGA---UAAAACAU----U------------------------------
+MMCAP1_0171  GAUA--U-----U------U------------------------------
+MMCAP1_0700  AUUA---UAA--UAA---UUA-----------------------------
+MMCAP1_0613  UUAA---UAAAAU-------------------------------------
+MMCAP1_0806  UUUU---GAA--UAA--UUU------------------------------
+MMCAP1_0134  AUAA---UUAAAUAAU-C--G-----------------------------
+MMCAP1_0756  UU----UUAA--UAA---AU------------------------------
+MMCAP1_0706  UAAA---UAA--UAA---GU------------------------------
+MMCAP1_0743  UCAAGCU-----UAA----A------------------------------
+MMCAP1_0822  AAUA---UUC--UAAUUGAU------------------------------
+MMCAP1_0101  AGCA---UUGAAUUC---AU------------------------------
+MMCAP1_0673  AUAA---AUAAAUAA--UAU------------------------------
+MMCAP1_0012  AGAA---UUAAAGAA----U------------------------------
+MMCAP1_0542  AGAA---AAAUAU-----AU------------------------------
+MMCAP1_0345  UUAAU-CAUAGAUACA-AAU------------------------------
+MMCAP1_0482  AUAA--UUUA--UAA---UU------------------------------
+MMCAP1_0093  AUUA---CAAAAUAA---AUUUUU-----------------------AAU
+MMCAP1_0335  AUUA---GAAUAUGU---GU------------------------------
+MMCAP1_0133  UUGA---AUAGCUGA----U------------------------------
+MMCAP1_0065  UUGA--U-----UAA--UGC------------------------------
+MMCAP1_0538  CAUA---GAA--U-------------------------------------
+MMCAP1_0080  AAAA---UAA--UAA---AU------------------------------
+MMCAP1_0852  CAGAG-U-----UAAA-GUU------------------------------
+MMCAP1_0332  UUUA---AUAGUU-----UU------------------------------
+MMCAP1_0033  UUGA---UUA----------------------------------------
+MMCAP1_0866  AAUAU-C-----UAA---AC------------------------------
+MMCAP1_0117  CU----GUUAGAUAA-----------------------------------
+MMCAP1_0850  UAUA--UUAA--UAA----U------------------------------
+MMCAP1_0454  AUUAG-UGUAAAUAA-----------------------------------
+MMCAP1_0245  AUAA--UUAAAGUAA---AU------------------------------
+MMCAP1_0025  AAGA---UAAUAUAA--AGC------------------------------
+MMCAP1_0151  AUAA---UUAAAUAA--UUU------------------------------
+MMCAP1_0176  UUUA--UUAAAAUAAC-U--CAUAUC-------------------UAUUA
+MMCAP1_0129  UUUA---AUAGUUAA---AU------------------------------
+MMCAP1_0173  UAAA--UCAA--UAA---UC------------------------------
+MMCAP1_0146  AAGA---AAAAAUAA-----------------------------------
+MMCAP1_0726  CUAA--U-----U------U------------------------------
+MMCAP1_0683  UUAA---AAAAAUAA---UU------------------------------
+MMCAP1_0812  CUGAU-UAAAAAUAA-----------------------------------
+MMCAP1_0241  AAUA--UUAAAAUAACAAAA------------------------------
+MMCAP1_0877  ACUA---UUAAUUUA-----------------------------------
+MMCAP1_0060  UAUA--UCAA--UAA--UAU------------------------------
+MMCAP1_0904  AAUA---AAAAAUAAU-AA-UUC-------------------------AU
+MMCAP1_0634  UAUA---GUAAUUGA---GU------------------------------
+MMCAP1_0499  AUUC---CUAACUAA---UU------------------------------
+MMCAP1_0156  AAUA---AAAAUUAA---ACUUAA-----------------------AAU
+MMCAP1_0314  CAAA---UUAGUU-----UU------------------------------
+MMCAP1_0034  AAUA---AAAGAU-------------------------------------
+MMCAP1_0789  AUAA---UAAAAU-------------------------------------
+#=GC SS_cons ::::...::::::::...::..............................
+#=GC RF      AuaA...uAAAAUAA...AU..............................
+
+MMCAP1_0490  UAAAAAGC--GU-UACUUUUU--------------------------UA-
+MMCAP1_0607  -AUCUAGA--CU-----UUUAUUAUGUU------------UUAAUAAA--
+MMCAP1_0764  -AGUAAGG--UU-CUUAAAUG-------------------------UUU-
+MMCAP1_0783  UAUAAAGU--AG---U-UAAU--------------------------A--
+MMCAP1_0382  -AAUAAAU--UA-AAAAACUU---------------------------U-
+MMCAP1_0154  -AUAAGAC--AA-CUU-UUAC-----------------------------
+MMCAP1_0900  UAAAGUCU--CU-AGUGAUUAUGUUUU--------------UUAUAAAU-
+MMCAP1_0119  -AAAAAAC--GA-GAAUUUAA--------------------------AU-
+MMCAP1_0784  -AUAAGUU--CA-AAUGUUAUU------------------------AUC-
+MMCAP1_0629  -ACAAAUG--AU-CUUAAUCAAAA-------------------AUGAUA-
+MMCAP1_0712  -AAAAUGC--AG-AUCAUUAA---------------------------A-
+MMCAP1_0588  GAAAAAUC--CU-UUAGUUAG-------------------------UUC-
+MMCAP1_0574  AAAAAAGC--AA-GAC-UUUA--------------------------A--
+MMCAP1_0195  GAAAAAAC--CU-UGGAAAAU---------------------------U-
+MMCAP1_0584  -AAUAUCC--UU-UAGAUUAU--------------------------AU-
+MMCAP1_0505  --UAAAUG--AA---CUUUUA---------------------------A-
+MMCAP1_0551  U-ACAAGA--UC-UUAAAUAA--------------------------UU-
+MMCAP1_0037  --GAAAGU--GA-AGUUAUAA--------------------------AG-
+MMCAP1_0491  UAAAAAGC--GU-UACUAAAA--------------------------AA-
+MMCAP1_0881  -AAAAUUC--CU-AACGAUCUAA---------------------AAGAU-
+MMCAP1_0870  AAAAAAGA--CU-UACAAAAA-------------------------AAU-
+MMCAP1_0901  -AUUAAUC--UC-CAAAUCUUAUUCUC--------------UAAAUAAG-
+MMCAP1_0160  -AAAAAGC--UC-UUAGUUUU--------------------------UU-
+MMCAP1_0632  --AAAAGA--GA-AGAUAUAA--------------------------AA-
+MMCAP1_0113  --AAAAGC--AA-GUAACAUU-------------------------UAU-
+MMCAP1_0059  -AAAAAUC--UA---GCAAUU---------------------------G-
+MMCAP1_0438  AAAAAAAU--AG-AAGCUUUA---------------------------G-
+MMCAP1_0885  -AAGAAUU--GC-----UAUA-----------------------------
+MMCAP1_0393  -UUAAACU--AU---CCUUCA--------------------------UG-
+MMCAP1_0396  --AAUAGU--UA-GUAAUUGUCA----------------------CUAU-
+MMCAP1_0488  --ACCAGU--UA---UUAGCUAAUUUUUUUUAAAUCUUUAGCUUUUAAA-
+MMCAP1_0859  GAAAGAAU--CC-UUC-GCAA-----------------------------
+MMCAP1_0788  -AAAAACC--UA-UACUAUUUUUCUAUUA---------AUUUAGAACUA-
+MMCAP1_0136  U-AAAAUA--AU-AGCAAAUU---------------------------U-
+MMCAP1_0617  --AAAAAC--UG---GACUAA---------------------------U-
+MMCAP1_0311  AAUAAAAA--UA-GACCUAUU---------------------------G-
+MMCAP1_0575  --AAAAGC--AA-GAC-UUAA--------------------------A--
+MMCAP1_0368  CAAAGAUU--CU-AGUUUUUU---------------------------A-
+MMCAP1_0361  UAAGGUGU--UA-AGUAUAAU---------------------------U-
+MMCAP1_0141  --UAACAU--CA-GUCUGAAU--------------------------AA-
+MMCAP1_0898  U-AAAAAG--AC-UGA-AAUU-----------------------------
+MMCAP1_0394  -AAUUAAC--UC-ACAAUUAA--------------------------AU-
+MMCAP1_0478  -AAAAAUC--GU-AACUAAUUU------------------------AAA-
+MMCAP1_0561  CAAAUACC--AA-CUUAUUUAACA--------------------AAAAU-
+MMCAP1_0400  --AAAAUC--AC-CUCUAAUACAU-------------------AUAUGA-
+MMCAP1_0130  --UUGAAC--CU-AGU-AAAU-----------------------------
+MMCAP1_0414  UAAAAAAU--CC-GGG--AUC-----------------------------
+MMCAP1_0272  -AAAAACA--AG-AUGAAAAA--------------------------AU-
+MMCAP1_0474  -AAAAAAU--GC-AGGUGUAGAGGA------------------GGAAAA-
+MMCAP1_0297  -AAAAAGA--CA-GACUUUUC--------------------------UA-
+MMCAP1_0481  -ACAAAGG--CU-UGGAUAAU---------------------------U-
+MMCAP1_0278  -AAAAAGA--CU-UUC--UAA-----------------------------
+MMCAP1_0703  U-UAUAGC--AA-UAGCUAAU--------------------------GG-
+MMCAP1_0753  -AAAAAGU--UC-UUGG-UAC---------------------------C-
+MMCAP1_0274  --GAAGAC--UU---C-AAUAAA---------------------AUAA--
+MMCAP1_0309  -AAAAAGG--GC-UUAAUUUU--------------------------UU-
+MMCAP1_0344  UAAAAAAU--GG-AUUAUCAA--------------------------CU-
+MMCAP1_0122  -AAAAAUC--AG-CACAACUA---------------------------A-
+MMCAP1_0308  -AAAAGGG--CU-UAA-AAAA--------------------------A--
+MMCAP1_0238  --AAAAAU--CA-AGC-UUAA-----------------------------
+MMCAP1_0586  AAUAUCCU--UU-AGA-UUUU-------------------------UA--
+MMCAP1_0187  -AAAAAUC--UC---GGUAUC---------------------------C-
+MMCAP1_0114  AAAAAAGC--AA-GUAAUAAA-------------------------UGU-
+MMCAP1_0237  -A-AAAAU--CA-AGC-UUAA-----------------------------
+MMCAP1_0716  -ACUAAAU--UA-AAGAUUUAUAAUU---------------UUAAAUGU-
+MMCAP1_0097  -AAAAAUA--GU-GAGUCUAC--------------------------AG-
+MMCAP1_0104  -AAAAAAU--AG-GUUAGAUC-------------------------AAU-
+MMCAP1_0170  --AAAAAA--CA--GC-UUUA--------------------------A--
+MMCAP1_0598  UAAAAAAG--AG---CUAUGA---------------------------A-
+MMCAP1_0343  AAAAAAAU--GG-AUUAGUUG--------------------------AU-
+MMCAP1_0008  -AAAAAAU--CG---GGAUUU---------------------------C-
+MMCAP1_0169  -UAUAAGC--AA-UACCUCAA---------------------------G-
+MMCAP1_0287  U-AAAAGU--AG-GGU-CUAA--------------------------A--
+MMCAP1_0732  -AAUAAGC--CC-CUUAUUAUUUGAUUA-----------AAAAUCAAAA-
+MMCAP1_0291  -AAAUAGU--AC-ACACUUAUA-----------------------AAAG-
+MMCAP1_0178  --UAAGCA--UC------UUA-----------------------------
+MMCAP1_0463  G-AACCCC--AUAUUCCGGACUAAA------------------AUCCAG-
+MMCAP1_0320  -AAAAACU--UG-AAUGUCUU---------------------------A-
+MMCAP1_0246  --AAAAAA--UC-AAGGGUAA---------------------------C-
+MMCAP1_0292  --AAUAGU--AC-AUACUUUUA-----------------------UAAG-
+MMCAP1_0159  UAAAAAGC--UC-UUAAAAAA--------------------------AC-
+MMCAP1_0039  -AAAAAAC--CA-AGAUUUAU--------------------------AAC
+MMCAP1_0386  U-U-AAAC--UC-CUAAAUAU---------------------------U-
+MMCAP1_0701  --UAAAAC--AG-AUC-UUAU-----------------------------
+MMCAP1_0271  --AAAACA--AG-AUGAUUUU--------------------------UU-
+MMCAP1_0118  --AAAAAC--GA-GAAAUUUA--------------------------AA-
+MMCAP1_0310  U-UAAAAA--UA-GACCAAUA---------------------------G-
+MMCAP1_0480  -AAAAGGC--UU-GGA-AUUA-----------------------------
+MMCAP1_0469  -AAAAAGA--UG-AUUUCUAACUUAGU--------------UAGAUUUA-
+MMCAP1_0324  --AAAAGC--AG---UC-UUA---------------------------G-
+MMCAP1_0748  U-UAGACC--UU-AGC-AAGCAA----------------------ACA--
+MMCAP1_0076  -AAACAAA--UG-CAAUACAAAAUUA----------------AAUGCUA-
+MMCAP1_0861  AAAAAAAC--AG-CUU-UUAA--------------------------A--
+MMCAP1_0064  --UUGAGU--AG-AACUUACA---------------------------U-
+MMCAP1_0208  -AAAAAAC--UG-AAUUAACAAAAAUAA------------AGAUUUGUU-
+MMCAP1_0787  -AAAAGUU--CA-AAUACAAAAU----------------------UUGU-
+MMCAP1_0451  AAAAAAUC--CA-AGCAAAAU--------------------------AA-
+MMCAP1_0652  G-AUAAAA--AA-GGC-AAUA--------------------------U--
+MMCAP1_0256  -AAAUAGC--UA-AUUCUUUAA-----------------------AUAGU
+MMCAP1_0217  G-AAAAGC--UC-A-UCAAUU---------------------------G-
+MMCAP1_0731  --AAAAGC--CC-CUUUUUUGAUUUUUA-----------AUCAAAUAAU-
+MMCAP1_0216  -AAAAAAG--CU-CAUCAAUU---------------------------G-
+MMCAP1_0172  -AAACAAG--AG-AUC-AUAU-----------------------------
+MMCAP1_0903  --UGAAUC--UC-UAGGUUAU---------------------------G-
+MMCAP1_0779  G-AACCCC--AUAUUCCGGACUAAA------------------AUCCAG-
+MMCAP1_0038  -AAAAACC--AA-GAGUUAUA---------------------------A-
+MMCAP1_0296  -AAAGACA--GA---CUAGAA--------------------------AA-
+MMCAP1_0204  -AAACAAC--ACUAGAAACUAGUAUU----------------UAUCGUU-
+MMCAP1_0163  AAUCAAGA--CU-UAAUUAAUUGUUUU--------------UAACAAUA-
+MMCAP1_0174  -AAACAAG--AG-AUC-AUAU-----------------------------
+MMCAP1_0453  --UAAAGU--UC-AAA--UUA-----------------------------
+MMCAP1_0007  -AAAAAAA--UC-GGG-AAAU-----------------------------
+MMCAP1_0713  -AAAAAUG--CA-GACCUUUA-------------------------AUG-
+MMCAP1_0459  UAAAAAGU--UA-GUUAUAUA---------------------------A-
+MMCAP1_0395  -AAUAGUU--AG-UAAUAGUGA------------------------CAA-
+MMCAP1_0604  -AAAAACU--AA-GUCUACAA--------------------------UU-
+MMCAP1_0261  --UUACAU--UG-CCUCACUA---------------------------G-
+MMCAP1_0729  AAAUAACU--AG-CACUACCA-------------------------AGG-
+MMCAP1_0437  -AAAAAAU--AG-AAGCUAAA---------------------------G-
+MMCAP1_0637  C-CAGAGC--AA-CAC-AUUU--------------------------U--
+MMCAP1_0175  -AAAACAA--GA-GACCAUAU---------------------------G-
+MMCAP1_0188  -AAAAAAU--CU-CGG-GAUA-----------------------------
+MMCAP1_0715  -AAUGCAGAAUU-GUCUAAUU--------------------------AA-
+MMCAP1_0085  --AAAAGC--AA-GAA-UAUU-----------------------------
+MMCAP1_0230  -A-AAACU--UA-G-CUUAAA--------------------------AA-
+MMCAP1_0125  -AUAAAGU--UC-AGA-UUAA--------------------------A--
+MMCAP1_0277  -AAAAAAG--AC-UUUC-UUA---------------------------G-
+MMCAP1_0882  --UUUAGC--AA---CCAUAU---------------------------G-
+MMCAP1_0030  -AAAAAAA--UG-CACCACUU---------------------------G-
+MMCAP1_0222  --AGAACU--UG-CAAAUAAU---------------------------U-
+MMCAP1_0035  --AAAAAU--AC-AGG-AUUU-----------------------------
+MMCAP1_0827  UAAAAAAU--CU-CUAUAUAUGAUCUUAACUUU-UAAGUUUGUAUAAAA-
+MMCAP1_0179  -AAAAAUU--CA-A-GUAAAA--------------------------AA-
+MMCAP1_0767  -UUAGCCA--AA-UACUAAAUU------------------------UAA-
+MMCAP1_0601  U-UAUCCC--UG-AAC-UUUU-----------------------------
+MMCAP1_0606  -AAAAACU--CA---CUUUAU---------------------------A-
+MMCAP1_0418  -AAUUAAA--AG-AAC-AUAA-----------------------------
+MMCAP1_0209  -A-AAAAA--CU-GAAUAACAAAUCUUUA----------UUUUUGUUAA-
+MMCAP1_0257  -AAAAGAU--AA-AUCAUAAU--------------------------CU-
+MMCAP1_0687  --AAAAAA--UG-GGC--ACU-----------------------------
+MMCAP1_0886  --CUGAGU--UC-AACACAAA---------------------------U-
+MMCAP1_0415  --AAAAUC--CG-GG---GAU-----------------------------
+MMCAP1_0305  -ACAAAAU--GA-C-CUAAAA---------------------------U-
+MMCAP1_0413  --AAAAAU--AA-AGACUUUU--------------------------UG-
+MMCAP1_0171  --AAAAGA--UA---GGUAAA--------------------------UC-
+MMCAP1_0700  G-AAAAAC--AA-AUCUAUUA---------------------------A-
+MMCAP1_0613  -AAAAAUC--UA-AGUUGUUU-------------------------AAA-
+MMCAP1_0806  -UUAAACU--CA--CC-AUAA-------------------------UG--
+MMCAP1_0134  CAAUUGAC--UC---ACUUAU---------------------------G-
+MMCAP1_0756  --AAAAGG--AG---CUUUUA---------------------------A-
+MMCAP1_0706  --UAAAUU--CC-CUUAGAUAA-----------------------AAUC-
+MMCAP1_0743  -ACACAUC--CU---CUUUUU---------------------------A-
+MMCAP1_0822  -AAAAAGU--GC---U-AGCA-----------------------------
+MMCAP1_0101  --AGAACU--AC-----AUUU--------------------------G--
+MMCAP1_0673  -UAAAAUU--AC-AUCAAUUU---------------------------U-
+MMCAP1_0012  -AAAAAUC--UC-AGA-CUUU--------------------------U--
+MMCAP1_0542  --AAAAAC--UA---ACAUUA---------------------------G-
+MMCAP1_0345  -AAAAAUG--CC------GUU-----------------------------
+MMCAP1_0482  --AAGAGU--CU-----UUAA-----------------------------
+MMCAP1_0093  UAAAAAGCUUAA-CAAACUAAAAGUACGAU--------GUGUACUAGGU-
+MMCAP1_0335  -AGAAAGA--AG-AAUUUAAA--------------------------AA-
+MMCAP1_0133  --UUAAAU--GG-AUUAUUAA--------------------------AC-
+MMCAP1_0065  --AUAACC--GA-CUUUUAUA--------------------------AU-
+MMCAP1_0538  -AAAAAGU--AU-GAU-UAUA--------------------------A--
+MMCAP1_0080  -AUAAGAU--UA-CUCAACCAUCUAAAA------------AACUAUUGU-
+MMCAP1_0852  --AAACUC--AA-UUCUUUUA--------------------------UA-
+MMCAP1_0332  --AAAUCU--UA-UUAUUUAUGCUU-----------------UAUUAAA-
+MMCAP1_0033  --CAAAAC--AG---C-UUAA--------------------------A--
+MMCAP1_0866  -AAAUAGC--CU------UAU-----------------------------
+MMCAP1_0117  -AAGAAUU--AA---C-AACA--------------------------A--
+MMCAP1_0850  -AAAAGAG--UG---C-UUAU-----------------------------
+MMCAP1_0454  -AAAAGUC--AU-AAGUUAGA---------------------------C-
+MMCAP1_0245  -AAAAAAU--CA-AGG-UUAC-----------------------------
+MMCAP1_0025  -AAAAAGC--UG---CCAUAA--------------------------AG-
+MMCAP1_0151  -AUAAAAG--AA-CUAGUUAU--------------------------UC-
+MMCAP1_0176  GAAAAACU--CU-AGU-UUUU--------------------------A--
+MMCAP1_0129  --UAAACU--CA-CAA-UUUA--------------------------A--
+MMCAP1_0173  -AAAACAA--GA-GACCAUAU---------------------------G-
+MMCAP1_0146  --UGAAAA--AG-CUGAUUAU--------------------------UA-
+MMCAP1_0726  --AAAAGC--UA---A-UUAG--------------------------A--
+MMCAP1_0683  -AGACAAA--AU-AAGCAAUU---------------------------G-
+MMCAP1_0812  -AAAAAAC--UA-AA--ACUAU------------------------UA--
+MMCAP1_0241  -AUUAACC--UU-AGUAAGAA--------------------------AU-
+MMCAP1_0877  --UUAGAC--UU---C-UUUA--------------------------A--
+MMCAP1_0060  -C-AAAAC--AA-G-C-CACG-----------------------------
+MMCAP1_0904  U-AGUCUC--UA-AUUCUUAUUA----------------------AAAG-
+MMCAP1_0634  -AAAAAGG--UA-----GAAA--------------------------A--
+MMCAP1_0499  --UAAAGA--AC---UCAUAU---------------------------G-
+MMCAP1_0156  UAGAAAAC--AG---CCAUAU--------------------------GA-
+MMCAP1_0314  --AAAACA--CU-UUA-AUAA-------------------------AA--
+MMCAP1_0034  --UAAACC--AA-AUAC-AUU---------------------------G-
+MMCAP1_0789  -AAAAACC--UA-UACUAGUUCUAAAUUA---------AUAGAAAAAUA-
+#=GC SS_cons .:<<<<<<..<<.<<<<____.........................._>.
+#=GC RF      .AAAAAgc..ua.aacuauua..........................Aa.
+
+MMCAP1_0490  GUAAC-GCUUUU-UAAAUAGUACUUAUUUUGUUUU-UUAUUAAGUA--AU
+MMCAP1_0607  ---GG-UUUAGA-UU--------------UUGUUU--UUUAAUGA----A
+MMCAP1_0764  AAGAA-CCUUUU-UUA------------UUAUCUU-AUUACAAGU----U
+MMCAP1_0783  A--CU-ACUUU--UU----------------------UUAUUAUU----U
+MMCAP1_0382  UUUUA-GUUUAU-UU----------------------UAGU-AGA----U
+MMCAP1_0154  AAGUU-GUCUU--UU--------------UAUUUA--UUAAAGGU---AU
+MMCAP1_0900  CCUAG-AGAUUU-UU----------------------UUAUUAAU----A
+MMCAP1_0119  UUCUC-GUUUUU-UU-------------A---UUC--UACUAGAU----C
+MMCAP1_0784  AUUUG-AACUU--UU--------------UUAUUA--UAUUAAUUU--GU
+MMCAP1_0629  AAGAU-CAUUU--UU--------------UAUUUU--GUUUUCUU----U
+MMCAP1_0712  GGUCU-GCAUUU-UU-------------CUUAUUU-UUUAGACUUA--AU
+MMCAP1_0588  UAAAG-GAUUUU-UU--------------------------AAUUU-AGA
+MMCAP1_0574  GUCUU-GCUUUUAUU----------------------AUCUAAAA----U
+MMCAP1_0195  CCAAG-GUUUUU-UU-------------AUACACU-UUUUUUGAU----A
+MMCAP1_0584  CUAAA-GGAUUU-UU--------------UAACU---------AU----A
+MMCAP1_0505  G--UU-CAUUU--UU----------------------UUUAUGUA---AA
+MMCAP1_0551  UAAGA-UCUUGU-UU----------------------UUUUUAUU----A
+MMCAP1_0037  ACUUC-ACUUUU-UU-------------AUUGUUU--UAAAAUGU---GU
+MMCAP1_0491  GUAAC-GCUUUU-UA--------------UGUCU-------AAGU----A
+MMCAP1_0881  CUUAG-GAAUUU-UU--------------UAUUUU--GUUUAAAU----G
+MMCAP1_0870  GUAAG-UCUUUU-UU----------------------------GU----U
+MMCAP1_0901  UUGGA-GAUUU--UU-------------AUUUUUA--UAAAAAAU----A
+MMCAP1_0160  UAAGA-GCUUUU-UA-------------CUAAUUU-AUAUUAACU----U
+MMCAP1_0632  UCUUC-UCUUUU-UUAUAAU---GGUAAGUCUUUU-CUAGUAAAA---CU
+MMCAP1_0113  UACUU-GCUUUU-UU----------------------UAAUAUUA----A
+MMCAP1_0059  C--UA-GAUUUU-UUAU---------AUCUAUUUU--UAAAUCUU----A
+MMCAP1_0438  CUUCU-AUUUUU-UA--------------UGUUUA--UAA-AACA----U
+MMCAP1_0885  ---GC-AGUUCU-UU--------------------------UUUU----G
+MMCAP1_0393  G--AU-AGUUU--UU-------------AUUAAUU-U----AGCA----C
+MMCAP1_0396  UACUA-ACUAUU-UU--------------UUAUUU-UUCAUUCUA----U
+MMCAP1_0488  A--UA-ACUGGU-UU----------------------UUUAAAUU----U
+MMCAP1_0859  GAAGG-AUUUUUAUU--------------UGGUCUAGUAUUAAUA---AA
+MMCAP1_0788  GUAUA-GGUUUU-UA----------------------UUUUAUUA----U
+MMCAP1_0136  GCUAU-UAUUUU-UU-------------A--------UUUUAAUA---UU
+MMCAP1_0617  C--CA-GUUUUU-UU--------------------------AGUU----U
+MMCAP1_0311  GUCUA-UUUUUAAUUCAA-------UGCAUUAUUU-AUUUUAUUU----U
+MMCAP1_0575  GUCUU-GCUUUU-UUACU--------AACUAAUUU-UUAUUAAUU----U
+MMCAP1_0368  ACUAG-UUUCUU-UG-------------CUUAUUU--UUUUAAUU---GG
+MMCAP1_0361  ACUUG-ACACCU-UU--------------U-------UUUAAAAU----U
+MMCAP1_0141  GGCUG-AUGUU--UA--------------U-----------CAUA----U
+MMCAP1_0898  UCAGU-CUUUUU-UU-------------GUUAUUU--GCUUUGUU---AU
+MMCAP1_0394  UGUGA-GUUUUUAUU-------------UUUAACU-AUAAGAUUU----G
+MMCAP1_0478  GUUAC-GAUUUU-UU-------------CUUUUUU-CUUAUUUUUA--AU
+MMCAP1_0561  AGGUU-GGUUUU-UU-------------G--------------UU----U
+MMCAP1_0400  GAGGU-GAUUUU-UA-----------------------UUAAACU----G
+MMCAP1_0130  ACUAG-GUUUU--UU--------------UAUGUU--UUUUACUG----U
+MMCAP1_0414  CCCGG-AUUUUA-UU--------------U-------UAUAAAUU---AG
+MMCAP1_0272  CAUCU-UGUUUU-UU----------------------------UU---AU
+MMCAP1_0474  CCUGC-AUUUUU-UU-------------AUUAUUG-UUAUUAUCU----U
+MMCAP1_0297  GUCUG-UCUUUU-UU----------------------------UU----A
+MMCAP1_0481  CCAAG-CCUUU--UA--------------UUA-----UAUUAAUUU--UU
+MMCAP1_0278  GAAAG-UCUUUU-UU--------------UAAGCU-UUACUAAUUU--CU
+MMCAP1_0703  CUAUU-GCU----UU--------------UUAUUU--UAUUAAGA---UU
+MMCAP1_0753  CAAGA-ACUUUU-UU--------------------------AAUA---CA
+MMCAP1_0274  G--AA-GUCUUU-UU--------------UAAUCA--AUUUUAGU----U
+MMCAP1_0309  UAAGC-CCUUUU-UU-------------AUUUUCU-AUUAUAAUUU-AAU
+MMCAP1_0344  AAUCC-AUUUUU-UU-------------C--------UAUUUAUU----U
+MMCAP1_0122  GUGCU-GAUUUU-UU-------------AUUAUC---UAUUAAAU----U
+MMCAP1_0308  UUAAG-CCCUUU-UU--------------------------AGCGG-AGA
+MMCAP1_0238  GCUUG-AUUUUU-UUA------------UUCUUCU-AUUUUAUUUA--AU
+MMCAP1_0586  UCUAA-AGGAU--UU--------------UUUUAU--AUUAAAUU----A
+MMCAP1_0187  C--GA-GAUUUU-UUAU----------UAUUCUUU--UAAUAAUU---CU
+MMCAP1_0114  UACUU-GCUUUU-UU--------------------------AGUU-----
+MMCAP1_0237  GCUUG-AUUUU--UA--------------UUAUGA-GUUUUUAAU----U
+MMCAP1_0716  CUUUA-GUUUAG-UU-------------UUAAUUU-UUUAUAGAUU-UAU
+MMCAP1_0097  CUCAC-UAUUUU-UA-------------GUUAUUU--UAAACUUUA--GU
+MMCAP1_0104  AACCU-AUUUUU-UU-------------GUAUAU-------AAAA----C
+MMCAP1_0170  GC-UG-UUUUUUGUU--------------UAUUCA--UCUAAUGU----U
+MMCAP1_0598  G--CU-CUUUUU-UUA------------AUGAAUC-------CUU---AU
+MMCAP1_0343  AAUCC-AUUUUU-UAA------------UUUUGUU--UAUUAAAU----U
+MMCAP1_0008  C--CG-AUUUUU-UUG------------UUAUAUU--UUAAUCUU----C
+MMCAP1_0169  GUAUU-GCUUUU-UU-------------A--------UAAAAAUACAAAU
+MMCAP1_0287  ACCCU-ACUUUU-UU--------------U-----------CCCA----U
+MMCAP1_0732  AAGGG-GCUUUUAUU-------------A--------UUGUAAAU----U
+MMCAP1_0291  UAUGU-ACUAUU-UU-------------UUAUUUU-GUCUUCUUUU-UUU
+MMCAP1_0178  ---GA-UGCUU--UU----------------------UUUUAGUU----G
+MMCAP1_0463  GAAAU-GGGGUU-UU--------------UAUAU------GUCUA----A
+MMCAP1_0320  AUUCA-AGUUUU-UU---------------AUUUU--UUAUUAGA----A
+MMCAP1_0246  CUUGA-UUUUUUAUUU-----------ACUUUAAU--UAUUAAGA----U
+MMCAP1_0292  UGUGU-ACUAUU-UU--------------------------AAUU----U
+MMCAP1_0159  UAAGA-GCUUUU-UA--------------ACUUUU-CUAAAAGCU---UA
+MMCAP1_0039  UCUUG-GUUUUU-UU--------------------------AAUC----U
+MMCAP1_0386  UAGGA-GCUU---UU----------------------UUGUAAGU---AU
+MMCAP1_0701  GAUCU-GUUUU--UU--------------UGUUCU-AUAUCAAAA---UA
+MMCAP1_0271  CAUCU-UGUUUU-UA--------------------------UUCU---GA
+MMCAP1_0118  UUCUC-GUUUUU-UUAA----------UAUGAUCU--UAAAAAUAA-UCU
+MMCAP1_0310  GUCUA-UUUUUA-UU--------------------------AAAU----A
+MMCAP1_0480  UCCAA-GCCUUUGUU-------------UUUAGUU-AGAAGAGAU---AG
+MMCAP1_0469  AAUCA-UCUUUU-UU--------------UUAGUU-UUAAAAAUAAAUCU
+MMCAP1_0324  A--CU-GCUUUU-UUUGUU-----AAAUGUUUUUU-UUAAAAAAU----A
+MMCAP1_0748  GCUAA-GGUUU--UU--------------AAUUUG-CAAAUAGUU---UU
+MMCAP1_0076  UUGCA-UUUGUU-UU--------------UAUUCU-C----UAAU----U
+MMCAP1_0861  AAGCU-GUUUUUGUU--------------UUAGUU-GUUCUAGGU---AG
+MMCAP1_0064  GUUCU-ACUUU--UU----------------------UAUUACAA----A
+MMCAP1_0208  AUUCA-GUUUUU-UUAUU--------AUAUUUUUU-CUUCUAAUA---AU
+MMCAP1_0787  GUUUG-AACUUU-UU----------------------------CU----U
+MMCAP1_0451  GCUUG-GAUUUUCUU--------------UUAUU----UA-AAAU---CU
+MMCAP1_0652  GCCUU-UUUUAU-UU-------------G--------UAUUAAUU---AA
+MMCAP1_0256  AAUUA-GCUAUU-UU----------------------UUAUAAUU---UA
+MMCAP1_0217  A-UGA-GCUUUU-UU-------------AUUAUCA-UUUUCAAUC----A
+MMCAP1_0731  AAGGG-GCUUAU-UU--------------UAUAU---UAAUAAUUA--CU
+MMCAP1_0216  AUGAG-CUUUUC-UU--------------UUGCUU------AAUU----U
+MMCAP1_0172  GGUCU-CUUGUU-UUG------------AUUAUUG--AUUUAAUU----U
+MMCAP1_0903  CUAGA-GAUUU--UU--------------UGUUUU--UAUUAACU---GU
+MMCAP1_0779  GAAAU-GGGGUU-UU-----------------------------U----A
+MMCAP1_0038  AUCUU-GGUUUU-UU-------------GUUUAUA-UUAUUAUUUG--UC
+MMCAP1_0296  G--UC-UGUCUU-UU--------------UAAUUA--UUUAAUUU---GU
+MMCAP1_0204  UCUGU-GUUGUU-UU--------------UGUUCU-GCUUGAGUU----A
+MMCAP1_0163  UUAGG-UCUUG--UU--------------UUUUUU--UUUUUUUU----U
+MMCAP1_0174  GGUCU-CUUGUU-UUGAU--------UAUUAAUCA-AUUUUAGUU---GU
+MMCAP1_0453  UUUGA-ACUUU--UU--------------UUAUUU------AAUUA--GU
+MMCAP1_0007  CCCGA-UUUUUU-AU----------------------UAUUAAAU----U
+MMCAP1_0713  AUCUG-CAUUUU-UU-------------AUUAUUU-AUCUAAACAA-CAA
+MMCAP1_0459  AGCUA-ACUUUU-UU--------------------------UAUU----U
+MMCAP1_0395  UUACU-AACUAU-UU--------------UAUUUU-AUUUCUACU----U
+MMCAP1_0604  GAUUU-AGUUUU-UUA------------UUAUUUU-UUUAUUAGU----U
+MMCAP1_0261  AGGCA-UU-----UU-------------CUAACUU--UAUAGCUU----U
+MMCAP1_0729  GUGCU-AGUUUU-UA--------------UUUUUU-------CUA----A
+MMCAP1_0437  CUUCU-AUUUUU-UUGU----------AAUUUAUU-AUUUAACUA----U
+MMCAP1_0637  GUGUU-GCUUU--UUA-----------UUUGUUUA-GUAUAAAAU----U
+MMCAP1_0175  AUCUC-UUGUUU-UU-------------UUAUACU--UCUUUUCC----A
+MMCAP1_0188  CCGAG-AUUUUU-UU-------------A--------UAAAUAUU----U
+MMCAP1_0715  GGCAACCUGCCU-UU--------------U-----------UGUA----U
+MMCAP1_0085  UUCUU-GCUUUU-UU--------------UAAUCU-UUAACUACA---UA
+MMCAP1_0230  G-CUA-AGUUU--UU--------------------------AAUA---UU
+MMCAP1_0125  UCUGA-ACUUU--UA--------------UUUUGU--UUUUAGUG----A
+MMCAP1_0277  AAAGU-CUUUUU-UU-------------G--------UAUUAAUU---AC
+MMCAP1_0882  G--UU-GCUUU--UU--------------UUAUUU------UGCU----A
+MMCAP1_0030  GUGCA-UUUUGU-UU--------------UUUAUU-AUUAAAAAG----U
+MMCAP1_0222  UUGCA-AGUUUU-UU-------------AUUUGUA-AUAAAUAUU----A
+MMCAP1_0035  CCUGU-AUUUUU-UU-------------GUCUUCU------AGAU----U
+MMCAP1_0827  UAGAG-AUUUUUAUU----------------------UUGUUAUU----U
+MMCAP1_0179  C-UUG-AAUUUU-UU--------------UAUUUC--UUU--UUU---CU
+MMCAP1_0767  GUAUU-UGGUU--UU----------------------UUAUUGAA----A
+MMCAP1_0601  GUUCA-GGGUU--UU--------------UCUUUU--UAAUAAAU---AU
+MMCAP1_0606  G--UG-AGUUUU-UU-------------AUUGCUU--GAUAUAUU----C
+MMCAP1_0418  GUUCU-UUUUUU-UG--------------UUUUUU-GUAAAUGUU---UU
+MMCAP1_0209  UUCAG-UUUUU--UA--------------UUU-----UAUUAACU---AU
+MMCAP1_0257  GGUUU-AUCUUU-UU--------------UUA-----UAAAAAUU---AA
+MMCAP1_0687  GCCCA-UUUUUUAUUG------------UUCUUCAGUUAAAAGGU----U
+MMCAP1_0886  GUUGA-ACUUUU-UUU------------AUUUUCU-AUUUUAGUG---GA
+MMCAP1_0415  -CCCG-GAUUUU-UU-------------AUUAUUU------AAUU----U
+MMCAP1_0305  G-GUC-AUUUU--UUA------------AUGUUUU-UUAAUAAAU----U
+MMCAP1_0413  UCUUU-AUUUUU-UU-------------A--------UAAUUAUU---CU
+MMCAP1_0171  C--UA-UCUUUU-UA----------------------UUUAAUAU----U
+MMCAP1_0700  GAUUU-GUUUUU-UA--------------UUAUUU--UAAUUAAA----G
+MMCAP1_0613  ACUUA-GAUUUU-UU--------------UGUUU-------AUAU----U
+MMCAP1_0806  GG-UG-AGUUU--UU-------------GUGUGUU--UAAUUGCU----U
+MMCAP1_0134  U--GA-GUCUUU-UU-------------A--------UUAAAAAA----A
+MMCAP1_0756  A--CU-CCUUUU-UU--------------UGU-----UAUAAAAA----U
+MMCAP1_0706  AAGGG-AAUUU--UU--------------UAUUUA--UUU---A----AG
+MMCAP1_0743  G--AG-GAUUU--UU----------------------UAAUUAAA----A
+MMCAP1_0822  A--GC-ACUUUU-UU--------------UAUGU---UUAAACAU----U
+MMCAP1_0101  ---GU-AGUUCU-UU----------------------------UU---AA
+MMCAP1_0673  GAUGU-AAUUUU-UU--------------UUGCUU--UUUAAUUA----C
+MMCAP1_0012  UCUGA-GAUUUU-UU--------------UGAUCU-UUUAAAACU---UA
+MMCAP1_0542  U--UA-GUUUUUGUU----------------------UUUAUAGA----A
+MMCAP1_0345  ---GG-CAUUUU-UUA------------UUA------UGUUUGUU----U
+MMCAP1_0482  ---UG-ACUCUU-UU--------------U-------UUAUACUU----U
+MMCAP1_0093  UUGUUUGCUUUU-UU----------------------UUUUUUUU----U
+MMCAP1_0335  GUUCU-UCUUUU-UUA------------UUUAUCU-CAUUUAAGU----G
+MMCAP1_0133  AAUCC-AUUUU--UU--------------UUUUUU--UUUUAAUA---AA
+MMCAP1_0065  AAGUU-GGUUUU-UU----------------------UAUUACUAA--AU
+MMCAP1_0538  AUCAU-ACUUUU-UU----------------------UAUAAACA----A
+MMCAP1_0080  GGGUA-UUCUU--UU--------------UUUAUU-AUUUAUUUU----U
+MMCAP1_0852  GGAUU-GAGUUU-UU--------------UUAUUU-GUAAAAAAAU--CG
+MMCAP1_0332  UAAUA-AGAUUU-UU--------------UAUUUU-AUAAAAAUG----U
+MMCAP1_0033  G--CU-GUUUU--UU--------------UAUAAA-CUUUUAAAA----A
+MMCAP1_0866  ---AG-GCUAUU-UU--------------UUAUUA--UUCAAACC---CC
+MMCAP1_0117  G--UU-AUUUCU-UU--------------UAUCUU--UCU-UAAU----U
+MMCAP1_0850  G--CA-CUCUUU-UU--------------------------AACA----U
+MMCAP1_0454  CUUAU-GACUUU-UU-------------AUUAGUU-CUUAAUUUUG--CU
+MMCAP1_0245  CCUUG-AUUUUU-UU--------------UAUCUU-CUCUAAGUU----U
+MMCAP1_0025  G--CA-GCUUUU-UU-------------GCAUGUU--UAAUAAAUCAGAC
+MMCAP1_0151  UAGUU-CUUUU--UU-------------UUGUUUU--UAAAAUCU---AG
+MMCAP1_0176  ACUAG-AGUUUU-UU-------------AUAUAUU-G----AUAU----A
+MMCAP1_0129  UUGUG-AGUUU--UU-------------AUUU-----UUUUAGGU---AU
+MMCAP1_0173  AUCUC-UUGUUU-UU--------------UUA-----UACUUCUU----U
+MMCAP1_0146  CAGUU-UUAUC--UU--------------UAAUUU--UUAUGUUU---GG
+MMCAP1_0726  U--UA-GCUUUU-UU----------------------UAUUUGCU---UA
+MMCAP1_0683  CUUAU-UUUUUUAUU--------------UAAUUU-UUUAAAAAA---AU
+MMCAP1_0812  -UUUA-GUAUUU-UUA------------G--------UAUUGCUU----U
+MMCAP1_0241  ACUAA-GGUUU--UU--------------UUAUUU-UUUUUAAAA----A
+MMCAP1_0877  G--AA-GUCUU--UU-------------UUUUAUU--UAAUAGCA----A
+MMCAP1_0060  G-CUU-GUUUU--UU--------------UGUUU---UAAGAAUU----A
+MMCAP1_0904  AUUUA-GAGAUU-UU--------------UUAUUU--ACUUACCU----U
+MMCAP1_0634  ---UA-CCUUUU-UU---------------AUUUU--GCAAAAUU----A
+MMCAP1_0499  A--GU-UCUUU--UU--------------UU-------AUUAAAU---AA
+MMCAP1_0156  G--CU-GUUUU--UU----------------------UCUAAAAU----A
+MMCAP1_0314  UAAAG-UGUUUU-UU--------------UAUAUU--UACUAAGA----U
+MMCAP1_0034  UGUUU-GGUUU--UU--------------U-------UAUUUACU----A
+MMCAP1_0789  GUAUA-GGUUUU-UUUA----------UGUUUGUU--UUAAACUU----A
+#=GC SS_cons >>>>>.>>>>>>.::..............::::::..::::::::....:
+#=GC RF      guuua.gcUUUU.UU..............UuuUUU..UauUAAuU....u
+
+MMCAP1_0490  UUUA
+MMCAP1_0607  UUUA
+MMCAP1_0764  UGUA
+MMCAP1_0783  AACA
+MMCAP1_0382  CUUA
+MMCAP1_0154  AAUA
+MMCAP1_0900  UUUA
+MMCAP1_0119  UUCA
+MMCAP1_0784  UUUU
+MMCAP1_0629  UUUA
+MMCAP1_0712  UUUA
+MMCAP1_0588  UUUA
+MMCAP1_0574  UAUA
+MMCAP1_0195  AAUA
+MMCAP1_0584  UUUA
+MMCAP1_0505  AAUA
+MMCAP1_0551  UUUA
+MMCAP1_0037  UUUA
+MMCAP1_0491  UUUA
+MMCAP1_0881  CUUA
+MMCAP1_0870  CUUA
+MMCAP1_0901  UAUA
+MMCAP1_0160  GAUG
+MMCAP1_0632  AAUA
+MMCAP1_0113  AUUA
+MMCAP1_0059  ACUA
+MMCAP1_0438  UUUA
+MMCAP1_0885  UAUA
+MMCAP1_0393  UUUA
+MMCAP1_0396  UAUA
+MMCAP1_0488  UUUA
+MMCAP1_0859  AUUA
+MMCAP1_0788  GCUA
+MMCAP1_0136  UAUA
+MMCAP1_0617  UCUA
+MMCAP1_0311  UUCA
+MMCAP1_0575  UUUG
+MMCAP1_0368  UUUA
+MMCAP1_0361  GAUA
+MMCAP1_0141  UUUA
+MMCAP1_0898  UUUA
+MMCAP1_0394  AUUA
+MMCAP1_0478  UUUA
+MMCAP1_0561  UUCA
+MMCAP1_0400  AUUA
+MMCAP1_0130  CUUA
+MMCAP1_0414  UGUA
+MMCAP1_0272  AUUA
+MMCAP1_0474  UUUA
+MMCAP1_0297  UACA
+MMCAP1_0481  UCUA
+MMCAP1_0278  UGUA
+MMCAP1_0703  UCUA
+MMCAP1_0753  AAUA
+MMCAP1_0274  UAUA
+MMCAP1_0309  CCCA
+MMCAP1_0344  UUUA
+MMCAP1_0122  UAUA
+MMCAP1_0308  AAUA
+MMCAP1_0238  UUUA
+MMCAP1_0586  UUUA
+MMCAP1_0187  UCUA
+MMCAP1_0114  ----
+MMCAP1_0237  UUUA
+MMCAP1_0716  UUUA
+MMCAP1_0097  UUUA
+MMCAP1_0104  UCUA
+MMCAP1_0170  UUUA
+MMCAP1_0598  UUUA
+MMCAP1_0343  AUUA
+MMCAP1_0008  UUCA
+MMCAP1_0169  UUUA
+MMCAP1_0287  CAUA
+MMCAP1_0732  UUUA
+MMCAP1_0291  AAUA
+MMCAP1_0178  UAUG
+MMCAP1_0463  AUUA
+MMCAP1_0320  AUUA
+MMCAP1_0246  UCUA
+MMCAP1_0292  UAGA
+MMCAP1_0159  AUUA
+MMCAP1_0039  UUUA
+MMCAP1_0386  AACA
+MMCAP1_0701  AAUA
+MMCAP1_0271  UUGA
+MMCAP1_0118  UUCA
+MMCAP1_0310  UUUA
+MMCAP1_0480  AUUA
+MMCAP1_0469  UUUA
+MMCAP1_0324  AUCA
+MMCAP1_0748  UCUA
+MMCAP1_0076  UUUA
+MMCAP1_0861  GAUA
+MMCAP1_0064  ACUA
+MMCAP1_0208  UUUG
+MMCAP1_0787  UUUA
+MMCAP1_0451  UAUA
+MMCAP1_0652  UUGA
+MMCAP1_0256  AUUA
+MMCAP1_0217  UCUA
+MMCAP1_0731  UUUA
+MMCAP1_0216  AUUA
+MMCAP1_0172  CACA
+MMCAP1_0903  AAUA
+MMCAP1_0779  UAUG
+MMCAP1_0038  UUUA
+MMCAP1_0296  UCUA
+MMCAP1_0204  AUCA
+MMCAP1_0163  AUUA
+MMCAP1_0174  UUGA
+MMCAP1_0453  UUUA
+MMCAP1_0007  UAUA
+MMCAP1_0713  UUUG
+MMCAP1_0459  UUUA
+MMCAP1_0395  UUGA
+MMCAP1_0604  UUUA
+MMCAP1_0261  UUUA
+MMCAP1_0729  UUUA
+MMCAP1_0437  UUUA
+MMCAP1_0637  AAUA
+MMCAP1_0175  UCUA
+MMCAP1_0188  AAUA
+MMCAP1_0715  UUCA
+MMCAP1_0085  ACCA
+MMCAP1_0230  AAUA
+MMCAP1_0125  UAUA
+MMCAP1_0277  UAUA
+MMCAP1_0882  UGUA
+MMCAP1_0030  UCUA
+MMCAP1_0222  GUUA
+MMCAP1_0035  AUUA
+MMCAP1_0827  UUUA
+MMCAP1_0179  UUUA
+MMCAP1_0767  AACA
+MMCAP1_0601  UUCA
+MMCAP1_0606  UUUA
+MMCAP1_0418  CUUA
+MMCAP1_0209  UUGA
+MMCAP1_0257  AUUA
+MMCAP1_0687  UGGA
+MMCAP1_0886  AUUA
+MMCAP1_0415  UUUG
+MMCAP1_0305  AUUA
+MMCAP1_0413  AAUA
+MMCAP1_0171  UAUA
+MMCAP1_0700  UUUA
+MMCAP1_0613  UUCA
+MMCAP1_0806  UUUA
+MMCAP1_0134  AAAA
+MMCAP1_0756  ACUA
+MMCAP1_0706  UUUA
+MMCAP1_0743  AGUA
+MMCAP1_0822  AAUA
+MMCAP1_0101  UAUA
+MMCAP1_0673  UUUA
+MMCAP1_0012  UUUA
+MMCAP1_0542  AAGA
+MMCAP1_0345  AUUA
+MMCAP1_0482  UUUA
+MMCAP1_0093  UUUA
+MMCAP1_0335  AUUA
+MMCAP1_0133  AAGA
+MMCAP1_0065  UUUA
+MMCAP1_0538  CUUA
+MMCAP1_0080  UUUA
+MMCAP1_0852  AUGA
+MMCAP1_0332  AUUA
+MMCAP1_0033  AUUA
+MMCAP1_0866  UGUA
+MMCAP1_0117  UUUA
+MMCAP1_0850  CCUA
+MMCAP1_0454  UUCA
+MMCAP1_0245  UUCU
+MMCAP1_0025  UUUA
+MMCAP1_0151  UUUU
+MMCAP1_0176  CUUA
+MMCAP1_0129  UGUA
+MMCAP1_0173  UCCA
+MMCAP1_0146  UUUA
+MMCAP1_0726  UUUA
+MMCAP1_0683  ACUA
+MMCAP1_0812  UUUA
+MMCAP1_0241  AAUA
+MMCAP1_0877  AAUA
+MMCAP1_0060  CUUA
+MMCAP1_0904  UAUA
+MMCAP1_0634  UAUA
+MMCAP1_0499  AUCA
+MMCAP1_0156  UAUA
+MMCAP1_0314  AUUA
+MMCAP1_0034  UUGA
+MMCAP1_0789  UUUA
+#=GC SS_cons ::::
+#=GC RF      UUUA
+//

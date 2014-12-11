@@ -1,0 +1,851 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CJE1048 WT 1.05
+#=GS CJE0525 WT 0.91
+#=GS CJE0048 WT 0.96
+#=GS CJE0943 WT 1.00
+#=GS CJE0033 WT 0.70
+#=GS CJE1094 WT 1.06
+#=GS CJE0163 WT 1.34
+#=GS CJE0214 WT 0.96
+#=GS CJE0977 WT 0.99
+#=GS CJE0439 WT 0.67
+#=GS CJE1828 WT 0.98
+#=GS CJE1391 WT 1.02
+#=GS CJE0952 WT 0.93
+#=GS CJE1093 WT 1.06
+#=GS CJE0267 WT 0.95
+#=GS CJE0978 WT 0.90
+#=GS CJE0741 WT 1.21
+#=GS CJE0788 WT 1.27
+#=GS CJE0142 WT 0.90
+#=GS CJE0440 WT 0.67
+#=GS CJE0616 WT 1.11
+#=GS CJE1318 WT 1.08
+#=GS CJE0946 WT 1.02
+#=GS CJE1855 WT 0.96
+#=GS CJE1726 WT 0.89
+#=GS CJE0491 WT 0.90
+#=GS CJE0529 WT 0.91
+#=GS CJE1436 WT 1.02
+#=GS CJE1481 WT 1.07
+#=GS CJE0090 WT 1.02
+#=GS CJE1412 WT 1.03
+#=GS CJE0490 WT 0.90
+#=GS CJE1065 WT 1.08
+#=GS CJE0889 WT 0.68
+#=GS CJE0853 WT 0.77
+#=GS CJE0486 WT 1.21
+#=GS CJE0063 WT 0.88
+#=GS CJE1309 WT 0.95
+#=GS CJE0615 WT 1.02
+#=GS CJE1290 WT 0.85
+#=GS CJE0441 WT 0.90
+#=GS CJE0069 WT 1.20
+#=GS CJE0854 WT 1.28
+#=GS CJE1418 WT 1.18
+#=GS CJE0797 WT 1.14
+#=GS CJE0036 WT 0.99
+#=GS CJE1155 WT 1.06
+#=GS CJE1378 WT 1.08
+#=GS CJE1385 WT 1.02
+#=GS CJE0756 WT 1.21
+#=GS CJE0997 WT 0.87
+#=GS CJE0193 WT 1.09
+#=GS CJE1831 WT 1.21
+#=GS CJE1239 WT 1.04
+#=GS CJE1439 WT 0.74
+#=GS CJE0478 WT 0.89
+#=GS CJE0972 WT 0.79
+#=GS CJE1419 WT 0.94
+#=GS CJE0344 WT 0.91
+#=GS CJE0220 WT 0.87
+#=GS CJE0500 WT 0.98
+#=GS CJE0246 WT 0.92
+#=GS CJE0017 WT 0.95
+#=GS CJE0270 WT 0.82
+#=GS CJE0407 WT 0.46
+#=GS CJE0906 WT 0.99
+#=GS CJE1593 WT 0.68
+#=GS CJE1640 WT 1.21
+#=GS CJE0143 WT 1.07
+#=GS CJE0944 WT 0.80
+#=GS CJE0469 WT 1.03
+#=GS CJE0264 WT 1.12
+#=GS CJE0882 WT 0.91
+#=GS CJE1719 WT 1.28
+#=GS CJE0337 WT 1.04
+#=GS CJE1024 WT 0.71
+#=GS CJE0498 WT 1.14
+#=GS CJE0164 WT 1.05
+#=GS CJE1635 WT 0.74
+#=GS CJE1493 WT 0.94
+#=GS CJE1894 WT 1.23
+#=GS CJE0083 WT 1.11
+#=GS CJE1315 WT 1.13
+#=GS CJE0993 WT 0.83
+#=GS CJE0298 WT 1.01
+#=GS CJE1369 WT 0.79
+#=GS CJE0981 WT 1.13
+#=GS CJE0004 WT 1.30
+#=GS CJE0035 WT 1.18
+#=GS CJE1796 WT 1.13
+#=GS CJE0679 WT 1.63
+#=GS CJE0477 WT 0.89
+#=GS CJE1682 WT 1.24
+#=GS CJE0527 WT 1.01
+#=GS CJE0634 WT 0.96
+#=GS CJE1837 WT 0.98
+#=GS CJE0367 WT 1.13
+#=GS CJE1025 WT 0.71
+#=GS CJE1298 WT 0.87
+#=GS CJE0072 WT 1.08
+#=GS CJE0032 WT 0.70
+#=GS CJE0818 WT 0.99
+#=GS CJE0340 WT 0.83
+#=GS CJE1356 WT 0.86
+#=GS CJE1583 WT 1.12
+#=GS CJE1302 WT 0.94
+#=GS CJE1120 WT 1.25
+#=GS CJE0820 WT 0.74
+#=GS CJE0280 WT 1.14
+#=GS CJE0079 WT 0.57
+#=GS CJE0287 WT 0.94
+#=GS CJE0642 WT 0.90
+#=GS CJE0464 WT 0.89
+#=GS CJE0700 WT 0.87
+#=GS CJE1178 WT 0.78
+#=GS CJE1009 WT 1.33
+#=GS CJE0140 WT 0.95
+#=GS CJE0834 WT 0.85
+#=GS CJE0600 WT 1.06
+#=GS CJE1360 WT 1.08
+#=GS CJE0341 WT 0.83
+#=GS CJE0377 WT 0.91
+#=GS CJE1572 WT 1.20
+#=GS CJE1822 WT 1.27
+#=GS CJE1044 WT 0.98
+#=GS CJE1546 WT 1.15
+#=GS CJE0419 WT 0.88
+#=GS CJE1020 WT 1.31
+#=GS CJE1700 WT 0.87
+#=GS CJE0954 WT 0.99
+#=GS CJE0809 WT 0.96
+#=GS CJE1679 WT 0.57
+#=GS CJE1571 WT 1.05
+#=GS CJE0724 WT 0.85
+#=GS CJE0296 WT 1.17
+#=GS CJE0907 WT 1.22
+#=GS CJE0785 WT 0.80
+#=GS CJE0852 WT 0.77
+#=GS CJE1736 WT 0.88
+#=GS CJE1363 WT 0.91
+#=GS CJE1891 WT 1.05
+#=GS CJE1568 WT 1.09
+#=GS CJE0273 WT 0.92
+#=GS CJE1344 WT 1.04
+#=GS CJE1643 WT 1.60
+#=GS CJE1401 WT 0.94
+#=GS CJE0019 WT 0.96
+#=GS CJE0655 WT 1.04
+#=GS CJE0043 WT 0.67
+#=GS CJE0994 WT 0.88
+#=GS CJE1570 WT 0.99
+#=GS CJE1045 WT 0.98
+#=GS CJE1577 WT 0.96
+#=GS CJE0833 WT 0.76
+#=GS CJE1555 WT 0.99
+#=GS CJE1326 WT 1.22
+#=GS CJE1705 WT 1.21
+#=GS CJE0786 WT 0.80
+#=GS CJE0200 WT 1.01
+#=GS CJE0212 WT 1.02
+#=GS CJE0542 WT 0.61
+#=GS CJE0613 WT 1.10
+#=GS CJE1856 WT 0.99
+#=GS CJE0102 WT 1.04
+#=GS CJE0510 WT 0.80
+#=GS CJE0462 WT 0.82
+#=GS CJE0497 WT 1.46
+#=GS CJE0789 WT 0.99
+#=GS CJE0414 WT 0.90
+#=GS CJE1209 WT 1.04
+#=GS CJE0024 WT 0.97
+#=GS CJE0991 WT 1.09
+#=GS CJE1252 WT 0.76
+#=GS CJE0666 WT 1.23
+#=GS CJE0305 WT 1.07
+#=GS CJE0982 WT 1.17
+#=GS CJE1470 WT 1.78
+#=GS CJE0010 WT 0.91
+#=GS CJE0255 WT 1.04
+#=GS CJE1735 WT 0.88
+#=GS CJE1791 WT 1.26
+#=GS CJE1573 WT 1.03
+#=GS CJE1890 WT 0.73
+#=GS CJE1215 WT 0.83
+#=GS CJE1727 WT 0.79
+#=GS CJE1008 WT 1.23
+#=GS CJE0029 WT 1.22
+#=GS CJE1305 WT 1.15
+#=GS CJE1711 WT 0.73
+#=GS CJE0515 WT 1.04
+#=GS CJE0038 WT 1.06
+#=GS CJE1534 WT 1.29
+#=GS CJE1357 WT 0.86
+#=GS CJE1548 WT 1.33
+#=GS CJE1028 WT 1.15
+#=GS CJE0256 WT 0.72
+#=GS CJE0295 WT 1.20
+#=GS CJE0311 WT 1.14
+#=GS CJE0310 WT 1.33
+#=GS CJE1793 WT 0.78
+#=GS CJE0996 WT 1.15
+#=GS CJE1556 WT 0.74
+#=GS CJE1576 WT 1.22
+#=GS CJE1195 WT 1.26
+#=GS CJE0474 WT 1.11
+#=GS CJE0066 WT 1.05
+#=GS CJE1599 WT 1.12
+#=GS CJE0870 WT 0.66
+#=GS CJE1173 WT 1.01
+#=GS CJE0898 WT 0.92
+#=GS CJE0850 WT 0.88
+#=GS CJE1429 WT 1.36
+#=GS CJE1105 WT 1.11
+#=GS CJE1442 WT 1.10
+#=GS CJE0306 WT 0.46
+#=GS CJE0073 WT 0.91
+#=GS CJE1592 WT 0.81
+#=GS CJE1658 WT 1.04
+#=GS CJE1104 WT 1.16
+#=GS CJE0146 WT 1.21
+#=GS CJE1033 WT 1.04
+#=GS CJE1023 WT 0.84
+#=GS CJE0248 WT 0.83
+#=GS CJE1675 WT 0.79
+#=GS CJE0162 WT 1.20
+#=GS CJE0141 WT 0.90
+#=GS CJE0284 WT 1.23
+#=GS CJE0454 WT 1.08
+#=GS CJE0798 WT 0.74
+#=GS CJE1747 WT 0.88
+#=GS CJE0257 WT 0.72
+#=GS CJE0995 WT 0.98
+#=GS CJE0847 WT 0.98
+#=GS CJE1666 WT 0.84
+#=GS CJE1798 WT 0.96
+#=GS CJE0503 WT 1.30
+#=GS CJE0806 WT 0.91
+#=GS CJE0148 WT 1.21
+#=GS CJE0413 WT 1.02
+#=GS CJE0511 WT 0.99
+#=GS CJE0917 WT 1.12
+#=GS CJE0110 WT 1.33
+#=GS CJE0185 WT 1.14
+#=GS CJE0025 WT 0.91
+#=GS CJE0704 WT 1.36
+#=GS CJE0924 WT 0.95
+#=GS CJE1445 WT 1.34
+#=GS CJE1851 WT 0.94
+#=GS CJE0044 WT 1.12
+#=GS CJE1237 WT 0.81
+#=GS CJE0549 WT 1.01
+#=GS CJE1289 WT 0.85
+#=GS CJE1054 WT 1.17
+#=GS CJE1652 WT 0.61
+#=GS CJE0325 WT 0.66
+#=GS CJE1420 WT 1.78
+#=GS CJE0088 WT 0.93
+#=GS CJE1545 WT 1.05
+#=GS CJE0042 WT 0.67
+#=GS CJE0630 WT 0.99
+#=GS CJE1212 WT 1.00
+#=GS CJE0111 WT 1.51
+#=GS CJE1528 WT 0.82
+#=GS CJE1627 WT 0.92
+#=GS CJE0885 WT 1.29
+#=GS CJE1768 WT 0.95
+#=GS CJE0080 WT 0.99
+#=GS CJE1014 WT 0.82
+#=GS CJE1761 WT 1.01
+#=GS CJE1350 WT 1.00
+#=GS CJE0863 WT 1.01
+#=GS CJE0219 WT 0.79
+#=GS CJE1896 WT 1.06
+#=GS CJE1303 WT 0.88
+#=GS CJE1323 WT 0.95
+#=GS CJE0963 WT 1.17
+#=GS CJE1674 WT 0.79
+#=GS CJE0369 WT 1.04
+#=GS CJE0302 WT 1.01
+#=GS CJE1606 WT 1.01
+
+CJE1048      CAUU-CCU-AUC---UUU--------------------A-AGAU-AG-G-
+CJE0525      AAGA-GUU-GCU---UU-U------------------U---UGC-AA-C-
+CJE0048      AUUU-CUA-GGAA--UUA--------------------A-UUCC-UA-G-
+CJE0943      AAAA-GCG-UGA---UU-U-----------------CA---UCA-CC-U-
+CJE0033      CAAG-CUA-AGC---UU-U------------------AA-GGCU-UA-G-
+CJE1094      CAUA-GAC-UUC---UU-U-----------------UU---GAA-GU-C-
+CJE0163      UAUA-AGU-CUAU----A-------------------A---UAG-AC-U-
+CJE0214      AAUU-CUU-UGAA-GUUA-------------------AA-AUCA-AA-G-
+CJE0977      UAAA-UGG-UAGA----A-------------------AA-ACUA-CC-A-
+CJE0439      CUAA-AAA-UGC---UU-AGAAA----------UUUCUA-AGCA-UU-U-
+CJE1828      CUUA-AGA-ACU---UU-U------------------U---GGUAUC-U-
+CJE1391      ------GC-UAG---UUAA------------------UA-UCUA-GC---
+CJE0952      AAUA-CGC-AACAAAUU--AU-------------UUUU---GUU-GC-G-
+CJE1093      CAUA-GAC-UUCA----A-------------------AA-AGAA-GU-C-
+CJE0267      UUAA-GUC-UUU---UU-U------------------UA-AGAA-GA-C-
+CJE0978      UAAA-UGG-UAG---UU-U-----------------UU---CUA-CC-A-
+CJE0741      UCUU-AGC-CCU---UUC--------------------A-AAGG-GC-U-
+CJE0788      CUAU-AUA-AAUC--UU-U------------------C---AUU-UA-U-
+CJE0142      AUAA-AGU-UGCU----A-------------------AA-AGCA-AC-U-
+CJE0440      CUAA-AAA-UGC---UU-AGAAA----------UUUCUA-AGCA-UU-U-
+CJE0616      GAAA--GU-AGA---UC-U------------------U---UCU-AC---
+CJE1318      UUUU-GCC-ACUA--UU-UUA-------------UAUC---UGU-GG-C-
+CJE0946      UUAA-GAA-UGCU----AUA---------------AUGA-UGCA-UU-U-
+CJE1855      AUUA-GCA-AGAA----A--------------------A-AUCU-UG-C-
+CJE1726      CAUA-AAA-GUU---UU-U-----------------AUA-AAAU-UU-U-
+CJE0491      AAAC-AUG-GGC---UU-U-----------------UU---GCC-CA-U-
+CJE0529      AUAG-CCC-------UU-C------------------G-------GG-G-
+CJE1436      ------GA-GGCGGCUUA-------------------AA-AGCC-UC---
+CJE1481      AAAU-UUC-CCU---UUA--------------------A-UAGG-GA-A-
+CJE0090      UUUA-GGA-CGC---UU-U-----------------UU--AGCG-UC-U-
+CJE1412      AAAG-AUG-AGAA----AAA----------------AUA-UUCU-UA-U-
+CJE0490      AAAC-AUG-GGCA----A-------------------AA-AGCC-CA-U-
+CJE1065      UAAA-AGC-AAGA--UU-AAA--------------UUC---UUU-GC-U-
+CJE0889      AAUA-CGC-UAAA--UUAUACA------------UAAAA-UUUA-GC-G-
+CJE0853      UAAU-UCU-AGG---UUA-------------------AA-GCCU-AG-A-
+CJE0486      AAUU-AAG-AUAA----A-------------------UA-UUAU-CU-U-
+CJE0063      AAAA-CAC-UUUG----A--------------------A-AAAA-GUCG-
+CJE1309      UUAA-AAC-CGCA--UU-U------------------U---GCU-GU-U-
+CJE0615      UUGA-AAG-UAGA----AA------------------GA-UCUA-CU-U-
+CJE1290      AAAG-GCU-UUC---UU-GA----------------AAA-GGAA-AG-C-
+CJE0441      UAAA-UUC-CUU---UGAA------------------AA-UAAG-GA-A-
+CJE0069      UACU-GAU-UCUA----UA-----------------CU---AGA-AU-C-
+CJE0854      GUAU-UAA-UUU---UU-CC----------------UAA-AAAA-UU-A-
+CJE1418      UGCA-GGG-GAU---UU-U------------------UA-AAUCACC-U-
+CJE0797      UUUA-AUG-GCGU-GUUA--------------------A-ACGC-CA-U-
+CJE0036      UAAU-UUU-GGGC--UUA-------------------G---CCC-AA-A-
+CJE1155      AAAAAGUA-UAUG--UUA--------------------A-AGUA-UA-UG
+CJE1378      ACGA-GAA-------UU-CC---------------AAUA-A----UU-C-
+CJE1385      ------AA-UGGG----AA-----------------UGA-UCCA-UU---
+CJE0756      CCUUG-UA-UUAAACUUA-UAAU----------UUAUU---UAA-UA--C
+CJE0997      AAAA-GCU-UAUA--UU-U-----------------UUA-UAUA-AG-C-
+CJE0193      UAUA-AAU-CCC---UUAA------------------CA-AGGG-AU-U-
+CJE1831      CACU-CGG----A--UU-U------------------U-------CC-G-
+CJE1239      UAUA--CA-AGC---UU-AA---------------ACAA-GGCU-UG---
+CJE1439      ------GG-CGUA----A-------------------U---ACG-CC---
+CJE0478      CAAA-AGC-UCCA----A-------------------AA-UGGA-GC-U-
+CJE0972      ------GA-GUA---UU-U------------------UA-UUAC-UC---
+CJE1419      UUGCAAGG-UGA---UU-UA----------------AAA-AUCC-CC-U-
+CJE0344      UUAAUUGU-AUGA--UU-U------------------G---CGU-AC-AC
+CJE0220      AAGA--GA-GUAA----A--------------------A-AUAC-UC---
+CJE0500      UUGA-GGA-------UUU--------------------A-U----UC-C-
+CJE0246      UUUA-GCU-------UUA--------------------A-A----GG-C-
+CJE0017      AAGU-CCU-AGUG----A--------------------A-AACU-AG-G-
+CJE0270      UAAA-GCU-UGA---UUA--------------------A-UUCA-AG-U-
+CJE0407      AACA-AGC-UCUA--UU-U-----------------UU---AGA-GC-U-
+CJE0906      CUAA--GA-AGGA--UU-U------------------U---CCU-UC---
+CJE1593      AAAA-GGC-UAA---UUA-------------------AA-UUUA-GC-C-
+CJE1640      ACUAGGGC-UUAA----AU-----------------CU---UAA-GC-UC
+CJE0143      AAGG--CU-AGUA----U-------------------A---ACU-AG---
+CJE0944      AAUG-UUU-GUG---UU-U-----------------UU---CAC-AA-A-
+CJE0469      GUCU-AAG-AGUC----U-------------------U---GCU-CU-U-
+CJE0264      CAAG--UC-CGCU----A--------------------A-GGCG-GA---
+CJE0882      CAAA-AGC---CA----AA-----------------UCA-AGU--GC-U-
+CJE1719      ACAU-CGC-UAA---UG-UCAAAUCC---CCUUUUUGC---UUA-GC-G-
+CJE0337      AUAC--AC-GCU---UU-U------------------U---AGC-GU---
+CJE1024      GAUU-UAU-UGA---UUU--------------------A-AUCA-AU-A-
+CJE0498      UAGGUUGA-ACC---UU-U-----------------UUA-AGGU-UU-AA
+CJE0164      AAAG--GC-AUCA----A-------------------AA-CGAU-GC---
+CJE1635      AA----GC-------UU-U------------------UA-C----GC---
+CJE1493      GAUU-AAA-ACC---UUU--------------------A-AGGU-UU-U-
+CJE1894      ------GC-ACAC----CU-----------------UU---UGU-GC---
+CJE0083      AACC-CUA-GGU---UU-U-----------------UC---UCC-UA-G-
+CJE1315      AAGA-GCG-GAAA-AU---UUAAGCCAUAGUUUUGAUU---AUC-CG-C-
+CJE0993      ------GC-------UU-UU---------------UAAA-U----GC---
+CJE0298      AUUAAAGA-GCC---UU-U-----------------UUA-AGGC-UC-U-
+CJE1369      AAAG--CC-------UUA-------------------U-------GG---
+CJE0981      UUCA-UAA-GCCA----C-------------------UA-AGGC-UU-A-
+CJE0004      CAUU-GAA-GAAA----U-------------------CA-UUUC-UU-C-
+CJE0035      AAUU-UUG-GGCU----A-------------------A---GCC-CA-A-
+CJE1796      CUAA--AG-UGU---UU-U------------------U---ACA-CU---
+CJE0679      ------AU-CGCC----AUAAG-----------AGUAAA-AGCG-AU---
+CJE0477      CAAA-AGC-UCCA--UU-U------------------U---GGA-GC-U-
+CJE1682      ACCG-CUA-UGUU----AU------------------U---GCA-UA-G-
+CJE0527      GAAG-AUU-UGCC----A--------------------A-GGCA-AG-U-
+CJE0634      UUAA-AGU-UUG---UU-UGAAA----------ACUAAA-ACAA-AC-U-
+CJE1837      UAAA--AA-GCUA----AGAAUU---------UACUUUA-AAGC-UU---
+CJE0367      AAAA-UAA-CCCA----UAUA-------------UUUUA-AGGG-UU-A-
+CJE1025      GAUU-UAU-UGA---UUA--------------------A-AUCA-AU-A-
+CJE1298      ------CU-------UU-U------------------U-------AG---
+CJE0072      ACAA-AUA-UUCG--UU-U-----------------UU--AGAA-UA-U-
+CJE0032      CAAG-CUA-AGCC--UUA--------------------A-AGCU-UA-G-
+CJE0818      CUUA-AGU-AAGA--UU-G------------------U---UUU-AC-U-
+CJE0340      UCUU-AGA-UAAA--UGA--------------------A-UUUA-UC-U-
+CJE1356      AUCA-GCA-AGGA--UU-U------------------U---CCU-UG-C-
+CJE1583      UAUC-CUU-CUU---UUU--------------------A-CAAG-AA-G-
+CJE1302      UUGA-------A---UU-U------------------UA-AU--------
+CJE1120      AAUAU-AU-AAAA----AAUA--------------UUU---UUU-AU--A
+CJE0820      AAUA-AGC-CCUA----UU------------------U---AGG-GC-U-
+CJE0280      UUGA-AGU-------UU-AGGCGA-------GAGUUUU-------AC-U-
+CJE0079      ------GC-CCA---UU-U------------------U---UGG-GC---
+CJE0287      UUUU-GUG-GGA---UU-U------------------U---UCU-CA-C-
+CJE0642      UAAA-UUC-CGCA----U-------------------CA-UGCG-GA-A-
+CJE0464      CUUG-AGA-GUU---UU-U------------------GA-AAAC-UC-U-
+CJE0700      AAAA-CUA-AGCA--UU-UU----------------AAA-AGCU-UA-G-
+CJE1178      UAAA-UUA-AUCA--UU-U------------------U---GGU-UA-A-
+CJE1009      UGUU-UAG-GCUA----UU------------------U---UGC-CU-A-
+CJE0140      UAUA-CCU-AGUA----A-------------------AA-AACU-AG-G-
+CJE0834      AUAA-GCG-UGAA----UU------------------U---UCA-CG-C-
+CJE0600      GCUU-AUG-AGAA----AU------------------UA-UACU-CU-U-
+CJE1360      CUUU-AUC-ACAA--UU-UU----------------UU---UGU-GA-U-
+CJE0341      UCUU-AGA-UAAA--UUC--------------------A-UUUA-UC-U-
+CJE0377      ------AA-AGGA----A-------------------UA-UCCU-UU---
+CJE1572      AAUC-AAG-AGUA----UA------------------AA-AACU-CU-U-
+CJE1822      CUCU-UUA-AGCA----AAUAUAAU------AUAUUUU--AGCU-UA-A-
+CJE1044      UUGA-AGA-AUUA----A-------------------AA-UAAU-UC-U-
+CJE1546      ------GC-CCUA----UAA---------------AUUA-UGGG-GC---
+CJE0419      AAAG-CCC----G----A--------------------A-A----GG-G-
+CJE1020      UUGA-UAA-AGAA----C-------------------AA-CCCU-UU-A-
+CJE1700      AAAA-UAA-AGCG--UC-------------------AUA-CGCU-UU-A-
+CJE0954      UUAA-GGC-AAUA----A--------------------A-AAUU-GC-C-
+CJE0809      UAUA-AAU-ACU---UU-U------------------UA-UAGU-AU-C-
+CJE1679      AAAA--GC-UCA---UU-U------------------U---UGA-GC---
+CJE1571      -----GCA-CUC---UUU--------------------A-UGAG-UG-C-
+CJE0724      UCAA-GGG-GUGG-GUU-U------------------U---CGC-CC-C-
+CJE0296      GAAUU-UC-AAGA----AAUC-------------AAAAA-UCUU-GA--A
+CJE0907      CUAA-GAA-GGAA----A-------------------A---UCC-UU-C-
+CJE0785      AAAA-GCA-AGG---UUU--------------------A-ACCU-UG-C-
+CJE0852      UAAU-UCU-AGGC--UU--------------------UA-ACCU-AG-A-
+CJE1736      GAUA-ACU-AGC---UU-UU----------------UG---GCU-AG-U-
+CJE1363      UAAC-GGA-AGGA--UU-U------------------U---CCU-UU-C-
+CJE1891      UAAU-GCA-AGU---UU-UU----------------AU--AACU-UG-C-
+CJE1568      GGCA-AAA-UUAG----AU-----------------CU---UAA-UU-U-
+CJE0273      AAAA-UUU-CCAC--UU-U------------------U--AUGG-AA-G-
+CJE1344      AUGG-AAU-UCU---UU-UUCUUA-------CUCUUUUA-AAGA-AU-U-
+CJE1643      AGCU-ACU-------UU-AA----------------UAA-U----AG-U-
+CJE1401      GAUG--AA-GGC---UUA-------------------G---GCG-UU---
+CJE0019      UUCA-CGU-UAA---UU-U------------------AA-CUUA-AC-G-
+CJE0655      AAGCUUUU-GGAC----U--------------------A-UUCC-AA-G-
+CJE0043      AAGA-UAA-UUCC----U--------------------A-AGAA-UU-A-
+CJE0994      ------GC-------UUU--------------------A-A----GC---
+CJE1570      CAUA-AUU-UAU---UU-AAAG-----------GAUUU---AUA-AA-C-
+CJE1045      UUGA-AGA-AUUA--UU-U------------------U---AAU-UC-U-
+CJE1577      AAAA-AAU-------UU-UA---------------GUU-------AU-U-
+CJE0833      AUAA-GCG-UGAA----A--------------------A-UUCA-CG-C-
+CJE1555      AACU-UGC-CUUA----A--------------------A-AAAG-GC-A-
+CJE1326      CUUU-GGA-GGAA----AUCAUAUC-----GAUUAACC---UCC-UC-U-
+CJE1705      UAA---GG-GGC---UUU--------------------A-UGCC-CC-A-
+CJE0786      AAAA-GCA-AGG---UUA--------------------A-ACCU-UG-C-
+CJE0200      GCUUAAUC-CAC---UU-U------------------U---GUG-GA-UA
+CJE0212      UUUA--GA-UAUA--UU-U------------------A---UUA-UC---
+CJE0542      ------GC-GGGA--UU-U-----------------UU---CCC-GC---
+CJE0613      GUUAAUUC-UUGC--UU-CAAGUU--------CCAUUU---CAA-GA-GC
+CJE1856      AUUA-GCA-AGA---UU-U------------------U---UCU-UG-C-
+CJE0102      UUAC-GCC-------UU-U------------------G-------GG-U-
+CJE0510      AAUA-UUU-GUGA-AUU-U------------------U---CAC-AA-A-
+CJE0462      UAGA-GCU-------UUAU-----------------UAA-A----AG-U-
+CJE0497      GUUA-AAC-CUUA----A-------------------A---AAG-GU-U-
+CJE0789      AACU-AUA-UAAA--UG--A---------------AAGA-UUUA-UA-U-
+CJE0414      UAGA-GAA-UAG---UU-UG----------------UU---CUA-UU-C-
+CJE1209      UAAA-UUU-UGC---UU-U------------------UA-AGCA-AA-A-
+CJE0024      AAAA-CCC-AAUG----AA-----------------AAA-UAUU-GG-G-
+CJE0991      GGCU-AGA-------UAA--------------------A-U----UC-U-
+CJE1252      AUAA-GCG-UGAA----A-------------------A---UCA-CG-C-
+CJE0666      GAUC--UA-UCUC----CU-----------------AUA-AAGA-UA---
+CJE0305      UAAU-AUC-CCAA----A--------------------A-AUGG-GA-U-
+CJE0982      AUUC-AUA-AGCC--UU-AG----------------UG---GCU-UA-U-
+CJE1470      ------CC-CGCA----CA-----------------UG---GCG-GG---
+CJE0010      AAAA--GG-GCA---UU-U------------------U---UGC-CC---
+CJE0255      AAGC-UUG-GUCA--UU-AAA--------------ACUA-UGACUCA-C-
+CJE1735      GAUA-ACU-AGCC----AA------------------AA-AGCU-AG-U-
+CJE1791      GAAA-GUG-CCGA----AAG----------------UG---CGG-UA-C-
+CJE1573      CAAG-AGU-------UU-U------------------UA-U----AC-U-
+CJE1890      UUAA-UGC-AAG---UUAUA----------------AAA-ACUU-GC-A-
+CJE1215      AAGC-AAA-CUUG----U-------------------AA-AAAG-UU-U-
+CJE1727      AAAA--AC-------UU-U------------------UA-U----GU---
+CJE1008      GUUU--AG-GCAA----A--------------------A-UAGC-CU---
+CJE0029      CUUA-GGG-AAC---UUA-------------------U---CUU-CC-C-
+CJE1305      AAUU-UUA-AAAC----U-------------------U---UUU-UA-A-
+CJE1711      UUAA--GC-AGG---UU-U------------------UA-ACCU-GC---
+CJE0515      AUUU--GG-CAU---UU-U-----------------UU---UUG-CC---
+CJE0038      GCUU-AGG-AAUC--UUA--------------------A-AAUU-CC-U-
+CJE1534      AUGA--UA-GUUC----U--------------------A-UAGC-UA---
+CJE1357      AUCA-GCA-AGGA----A-------------------AA-UCCU-UG-C-
+CJE1548      UUAG-GGU-------UU-U-----------------UU-------AC-U-
+CJE1028      ------CC-UCGA----AA------------------UA-UCGA-GG---
+CJE0256      GAAU-UAG-AGCA----U-------------------U---ACU-CU-A-
+CJE0295      AUUU-CAA-GAU---UU-U-----------------UGA-UUUC-UU-G-
+CJE0311      UAGC-UAG-------UUA-------------------U--A----CU-A-
+CJE0310      UUAG--CU-AGUA----U-------------------A---ACU-AG---
+CJE1793      CAAA-AUA-AACUCCUU-U------------------UA-AGUU-UA-U-
+CJE0996      AAGC-UUA-AAGA--UU---------------------A-UUUU-UA-A-
+CJE1556      AACU-UGC-CUU---UU-U------------------U---AAG-GC-A-
+CJE1576      UUGC-CAC-------UU-U-----------------UG-------GU-G-
+CJE1195      UCGC-UAA-ACU---UU-GUAAA---------UUUUAUA-AGGU-UU-A-
+CJE0474      GACA-AUG-AAA---UU-U------------------UA-UUUU-CA-U-
+CJE0066      AAUG-UCC-AUU---UUAUUA-------------UUGCA-AAAU-GG-A-
+CJE1599      ACGCUUUU-AAC---UU-UU----------------UU---GUU-AA-A-
+CJE0870      UUAA--GC-CCA---UU-C-----------------UU---AGG-GC---
+CJE1173      GCGG-AGC-------UU-U------------------U-------GC-U-
+CJE0898      AAGA-AAA-AUCA----AU------------------G---GAU-UU-U-
+CJE0850      UUCA-AGC-CUU---UUU--------------------A-AAAG-GC-U-
+CJE1429      GUGG-AUU-AACG----A--------------------A-AAUU-AA-U-
+CJE1105      AAGU-CUA-GCU---UU-U------------------U---AGU-UA-G-
+CJE1442      UAAA-UGA-GGAU----C--------------------A-UUCC-UC-A-
+CJE0306      ------GC-------UU-U-----------------UU-------GC---
+CJE0073      UAGA-AUA-AGA---UU-U-----------------UU--AUCU-UG-U-
+CJE1592      AAAA-GGC-UAAA--UU--------------------UA-AUUA-GC-C-
+CJE1658      AAGA-UGG-CUU---UU-U-----------------UU---UAG-CU-A-
+CJE1104      UAAGCCUA-ACUA----A--------------------A-AAGC-UA-GA
+CJE0146      ------GC-ACUG--UU-G-----------------GA---AGU-GC---
+CJE1033      UUAC-ACA-UAA---UU-CAAUAAAA----AUUAAAUAA-AUUA-UG-U-
+CJE1023      AAAA-AAA-UAU---UU-U------------------UA-AGUG-UU-U-
+CJE0248      ------AA-CUCG----A-------------------U---GAG-UU---
+CJE1675      CAAA-AGC-CUU---UU-U------------------U---AAG-GC-U-
+CJE0162      AAUU-CCA-AGGC--UU-U------------------A---CUU-UG-A-
+CJE0141      AUAA-AGU-UGC---UU-U------------------U--AGCA-AC-U-
+CJE0284      AAU---UA-GCUC----UA------------------GA-UGGC-UA-A-
+CJE0454      GUGA--GA-AAG---UUU--------------------A-AUUU-UC---
+CJE0798      UUAA-UGG-CGU---UUA--------------------A-CACG-CC-A-
+CJE1747      AAAA-AGC----A----AA--------------------GA----GC-U-
+CJE0257      GAAU-UAG-AGUA----A-------------------U---GCU-CU-A-
+CJE0995      GAAA--AA-GCUG----A--------------------A-AGGU-UU---
+CJE0847      CCAA-AGA-GCU---UG-U------------------AA-AGGCUUC-U-
+CJE1666      AAA---GA-UUU---UU-U------------------UA-AAGA-UC-A-
+CJE1798      AUUU-GGA-AGCA----U--------------------A-GUCU-UC-C-
+CJE0503      GAGA--GU-AAGA--UC-UAUA-----------GAGAUA-CCUU-GC---
+CJE0806      GACG--GC-AUU---UU-UA---------------UUU---UGU-GC---
+CJE0148      AAGA-AUG-GUAA----AAA----------------AAA-UUAU-UA-U-
+CJE0413      UAGA-GAA-UAGA----AC------------------AA-ACUA-UU-C-
+CJE0511      AUAU-UUG-UGAA----A--------------------A-UUCA-CA-A-
+CJE0917      AAUA-CUC-CGCA--UU-CA----------------AGA-UGUG-GA-G-
+CJE0110      GUCA--AG-GCUC----U-------------------CA-AAGU-CU---
+CJE0185      AAAU-GAU-UUC---UU-U------------------G---GAG-AU-C-
+CJE0025      AAAA-CCC-AAUA--UU-UU----------------UC---AUU-GG-G-
+CJE0704      GUGG-AAU-------UU-CC----------------UAA-A----AU-U-
+CJE0924      ------CC-UUCA--UU-U------------------U---CAA-GC---
+CJE1445      CCCC--GC-------UU-U------------------U-------GC---
+CJE1851      UUUU-GUG-GAAA--UUAA------------------AA-AUUC-CA-C-
+CJE0044      AAAC-UUU-CAA---UC-C-----------------UU---UUG-AA-A-
+CJE1237      -----GGA-GUGG-CUU-U-----------------UU---CAC-UC-C-
+CJE0549      AUUU-UUC-UCA---UU-U------------------U---UGA-GA-A-
+CJE1289      AAAG-GCU-UUCC--UU-U-----------------UCA-AGAA-AG-C-
+CJE1054      AAA-------UUA----A-------------------UA-AAAC-AA-A-
+CJE1652      -----GGU-GGGA--UU-U------------------U---CCC-AC-C-
+CJE0325      ------CC-------UU-U-----------------UU-------GG---
+CJE1420      UAGC-GGA-GUA---UC-UGG-------------GAUU---UAC-UC-C-
+CJE0088      UAGA-GUU-UGA---UU-UU----------------UC---UCA-AA-C-
+CJE1545      CCUA-GC--------UU-U-----------------UUA-A-----G-C-
+CJE0042      AAGA-UAA-UUC---UUA-------------------G---GAA-UU-A-
+CJE0630      CAAA-AGUUGCC---UU-UGCCU----------ACUGCA-UGGC-AC-U-
+CJE1212      -----GCU-CAUA----A--------------------A-AAUG-GG-C-
+CJE0111      ------GA-GUGA----AG-----------------AAA-UCAC-UC---
+CJE1528      AAGC--CU-AGU---UUA--------------------A-UGCU-AG---
+CJE1627      UUUA-GCC-CUU---UUA-------------------AA-AAAG-GG-U-
+CJE0885      AUGACAUU-UGCA----AAUA--------------CUUA-UGCA-AA-UC
+CJE1768      AAUC--CU-AGC---UU-U------------------U---GCU-AG---
+CJE0080      ------GC-CCAA----A--------------------A-AUGG-GC---
+CJE1014      AAGC--CC-------UU-UU----------------UU-------GG---
+CJE1761      AGUA-AAA-AUU---UUA--------------------A-UAAU-UU-U-
+CJE1350      AGAA-GAG-------UU-G-----------------CAA-G----CU-C-
+CJE0863      ------GU-CCC---UU-AC----------------CU--AGGG-AC---
+CJE0219      AAGA--GA-GUA---UU-U------------------U---UAC-UC---
+CJE1896      UUUG--CU-CCC---UU---------------------A-AGGG-AG---
+CJE1303      AAAA-AGC-GGUA----U-------------------AA-AACC-GC-U-
+CJE1323      GACU-UAA-AACG----AGU----------------UU---GUU-UU-A-
+CJE0963      ------GG-GGCC--UU-UA---------------AUC---GCU-CC---
+CJE1674      CAAA-AGC-CUUA----A--------------------A-AAAG-GC-U-
+CJE0369      ------AA-AGCA----A--------------------A-GGCU-UU---
+CJE0302      ------UC-CUAC--UU-U------------------U---UGG-GA---
+CJE1606      ACCA-AGA-AUUG----UG------------------UA-AAAU-UU-U-
+#=GC SS_cons <<<<.<<<.<<<_..____..................__._>>>.>>.>.
+#=GC RF      aAaa.aga.agcA..UUAU..................UA.Agcu.uc.u.
+
+CJE1048      AAUGA---------------UUUAUU----UGUA
+CJE0525      UCUUU------------UGUUUUAAA----AUAA
+CJE0048      AAAUU-----------AUUAAUAAAA----UCCU
+CJE0943      UUUUUUA-------AUUUGCUUAUAU---UUUCU
+CJE0033      CUUGGCACU----AUGGAAUUUUU-------UCG
+CJE1094      UAUGCUG-------UGAAUCUU---------UCU
+CJE0163      UAUAU-----------C----AAA------AGCU
+CJE0214      GAUUU-----------------AAAA----UGCA
+CJE0977      UUUAAA----------CUAUUUUG-------UCA
+CJE0439      UUAGUU----------AAGCUUGAAG----AUCU
+CJE1828      UGGGC-----------UUGUUUUU-------UUA
+CJE1391      --------------------UUUU-------GCG
+CJE0952      UAUUA---------------UUAAAA----UUUU
+CJE1093      UAUGUA---------AAUAAUUAA-------UUU
+CJE0267      UUAAA-----------AAGGGUAAAA----CCCU
+CJE0978      UUUAAA---------CUAAAAUAAA------GCU
+CJE0741      AAGAUU----------AAGG--AAAA----CUCG
+CJE0788      AUAGU---------------UUUUA------GCA
+CJE0142      UUAUU-----------UUUAUUUA-------GCU
+CJE0440      UUAGUU----------GUUAUUAAU-----AUCA
+CJE0616      UUUCA-----------AAAUAUAA-------UCU
+CJE1318      AAAAA---------------UUCUA------UCU
+CJE0946      UUAAA---------------CUUUU------UCA
+CJE1855      UAAUU-----------UUAUUUAUUAC-AAACCU
+CJE1726      UAUGUU----------UUAUUUACAA----AUUU
+CJE0491      GUUUUUA-------UGCAAUUUUACU----UGCA
+CJE0529      CUAUA---------------UUAAU------ACA
+CJE1436      ----A---------------UUAA-------GCA
+CJE1481      AUUUUA----------AUGUCUUGCA----AGAU
+CJE0090      UGAAA------------ACUUUAAA-----UUUA
+CJE1412      CUUUUU----------UUGUUUUU-------UUU
+CJE0490      GUUUA-----------AAGAUUUAAU----UCCA
+CJE1065      CUUAA------------UGUUU---------UCA
+CJE0889      UAUUUUA-------GGAAGA--AAAA----UGCU
+CJE0853      AUUAU---------------UUAG-------GCA
+CJE0486      AAUUA------------AUAUUAACU----UUUU
+CJE0063      UUUUU---------------UU---------CCU
+CJE1309      UUAAU-------------AAUUUA-------GCA
+CJE0615      UCAAA-----------AUGAUUAA-------GCU
+CJE1290      CUUUU---------------UUAGAA----AUUA
+CJE0441      UUUAAU----------GUCCUUAUAA----AUUU
+CJE0069      AGUAA-------------GUCUUAAU----UUUU
+CJE0854      AUACA------------AAUUU---------UCA
+CJE1418      UGCAA-------------GUUU---------GCA
+CJE0797      UAAAU---------------UUUUA------GCA
+CJE0036      AUUAAUC-------CUCAUCUUUU-------GCU
+CJE1155      UUUUUUGUA----UUAUUAAUUUU-------UCA
+CJE1378      UCGUA------------AAAUU---------UCU
+CJE1385      --------------------UUUUCU----AGCA
+CJE0756      AAGGU---------------UUUUAA----ACCA
+CJE0997      UUUUU------------AAAUUUAC-----AGCA
+CJE0193      UAUAA-----------------AAA------UCA
+CJE1831      AGUGU---------------UUAAAU----AUUU
+CJE1239      UAUAA---------------UUAUAA----AGAA
+CJE1439      --------------------UUAA-------UCA
+CJE0478      UUUGA---------------UUAAAU----UGCG
+CJE0972      ----A---------------UUUU-------GCU
+CJE1419      GCAAG---------------UUUU-------UCG
+CJE0344      UUAAA-----------------GUA-----CUCA
+CJE0220      UCUUU------------UAUUUUA-------GCA
+CJE0500      UCAAU---------------UUUAAA----AUUU
+CJE0246      AAAAA-----------AUGCUUUUAA----AGCU
+CJE0017      ACUUA------------UAUUUAA-------UCU
+CJE0270      UUUAAA----------GAGUUUUUA-----CUCA
+CJE0407      UGUUUAA--------AUUUCUUUA-------UCU
+CJE0906      UUAGG---------------UUACAA----AGCU
+CJE1593      UUUUU-----------------AAA------CCC
+CJE1640      UAGUA-----------------AUA------UCA
+CJE0143      CCUUC------------UUCUUAAAA----AUUU
+CJE0944      CAUUAG---------CUUAAUUUA-------UCC
+CJE0469      AGACU---------------UUGUAA----AUUU
+CJE0264      UUUGAU---------UAAGUUUUUAA----AACU
+CJE0882      UUUGA-----------AAG---AAC-----AUCU
+CJE1719      AUGUU-----------------UAAA----AGCU
+CJE0337      GUAUU---------------CU---------UCC
+CJE1024      AAUCUU----------UUAGUUAAAU---CUGCA
+CJE0498      CCUAAA---------UAAUCUUUAAU---UUUCC
+CJE0164      CUUUU---------------UUAC-------UCU
+CJE1635      --UUC---------------UUAACU----UACU
+CJE1493      AAUCU---------------UUUA-------UCA
+CJE1894      ----UUU--------GAUGAUUUAAA----CUCU
+CJE0083      GGUUA-----------AAUUUUUU-------UCA
+CJE1315      UUUUUG---------AGGGUUUAAA------UCU
+CJE0993      --------------------UUAAA------GCU
+CJE0298      AAAUUGUAGUGAUGAAAAGUUUAA-------UCU
+CJE1369      CUUUU---------------UUUAA------GCC
+CJE0981      UGAAU---------------UUUAAU----CCCA
+CJE0004      AAUGA-----------UAAAUUUACA---CAUCC
+CJE0035      AAUUA-----------------AUCA----UUCU
+CJE1796      UUGGUG----------U-AUUUUUUC---AUUCU
+CJE0679      ----A---------------UUUU-------UCU
+CJE0477      UUUGUA---------UUUACUU---------GCA
+CJE1682      CGGUA-------------GUUUUAA------GCU
+CJE0527      CUUCU---------------UUUU-------UUA
+CJE0634      UUAAA---------------CUUAC------UCU
+CJE1837      UUUAU---------------CU---------CCU
+CJE0367      UUUUA-----------AUGAUUUAU------GAA
+CJE1025      AAUCUU---------AUUUGUUUU-------GUA
+CJE1298      --------------------CUUAAU----AUCU
+CJE0072      UUGUUA----------GAAAUUUUACU--UUGCU
+CJE0032      CUUGA------------AAUUUUA-------UCA
+CJE0818      UAAGA------------UUUUUAAAUAAAAUGCU
+CJE0340      AAGAUA----------GAAA--A--A----AUUA
+CJE1356      UGAUUACCA----AUUUAAUUUAAA-----AACA
+CJE1583      GAUAA---------------UU---------UCA
+CJE1302      UCAAA------------AACCUUU-------UCU
+CJE1120      UAUUA---------------UUAUAU----AUUA
+CJE0820      UAUUU---------------UUUA-------UCA
+CJE0280      UCAAA---------------UU---------UCA
+CJE0079      ----A--------------------------UCU
+CJE0287      AAAAA---------------CUUU-------UCA
+CJE0642      UUUAA---------------CU---------UCU
+CJE0464      CAAGA---------------UUAUAA----AUUU
+CJE0700      UUUUAU---------UUUGUUUUAAA---AAUUU
+CJE1178      UUUAA---------------UUUU-------UCU
+CJE1009      AACAUU----------GAAUCUAAAA----UGCA
+CJE0140      UAUAA-------------AUUUUU-------CCU
+CJE0834      UUAUA-------------GCUUAAAA----AGUU
+CJE0600      AAGCC------------UGCUUAUCU----AUCA
+CJE1360      AAAGA---------------CUUA-------UUA
+CJE0341      AAGAUA---------AAUAUUUAAAU----UUCA
+CJE0377      ----U-----------AAACUUAA-------UCU
+CJE1572      GAUUUUAA------GAAUUAUUAA-------GCA
+CJE1822      AGAGA---------------UUUU-------CCA
+CJE1044      UCAAA-----------GAGCUUUU-------UUA
+CJE1546      --------------------UUUU-------UCU
+CJE0419      CUUUU---------------UUAUA------UCU
+CJE1020      UCAAU-----------CUUUCUAU-------GCU
+CJE1700      UUUUU-----------UUAUUUUAAG----UUCU
+CJE0954      UUAAAA---------AUUAUUUUUUG----AUCA
+CJE0809      UAUAAAU-------AAAAUUUUUAA-----UUUU
+CJE1679      UUUUA------------AAUUUUU-------UCU
+CJE1571      --------------------UU---------GCA
+CJE0724      UUAGUUUAU---GAACUAGCUUUGAA----AUCA
+CJE0296      AUUCU-----------UACACUAAAA---AAUCA
+CJE0907      UUAGAA---------AA--------AG-AAUUCU
+CJE0785      UUUUAG---------AAUGGCCAUAU----CGCU
+CJE0852      AUUAU---------------UUAUA------GUU
+CJE1736      UAUCU-----------AAGGUUAAAA---CCUCU
+CJE1363      GUUAU-----------AAAUUUUA-------GUU
+CJE1891      AUUAA---------------UGAAA------UCA
+CJE1568      UGCCU---------------UCUAA-----UUCU
+CJE0273      UUUUA---------------UU---------UUU
+CJE1344      UCAUUA---------UUUAUUUUU------CUCU
+CJE1643      AGCUC---------------CUACAA----CGAU
+CJE1401      CAUCU---------------UU---------GCA
+CJE0019      UGAAA---------------UU---------UCA
+CJE0655      GCUUU---------------UUUAAA----UUUA
+CJE0043      UCUUU--------------------------UCA
+CJE0994      ----A---------------UUUAAA---AAGCC
+CJE1570      UAUGAAAA-----AAUUAAGUUUAA-----UUCU
+CJE1045      UCAAAG---------CUUGCUU---------GCU
+CJE1577      UUUUA------------------AAU----UUCU
+CJE0833      UUAUU---------------CUAAU------UCA
+CJE1555      AGUUU-----------UAUGUUCUA-----GGCU
+CJE1326      AAAGUA---------UUAUCUUUUU-----UUCU
+CJE1705      AUUAUACA-----AACUAGGUUAUAA---UAUCC
+CJE0786      UUUUA------------GGCUUUUA-----UUCU
+CJE0200      AGGCU---------------UUUAAA----GGUU
+CJE0212      AAAAUG----------AAAU--AAA-----UGCA
+CJE0542      --------------------UU---------UCU
+CJE0613      UAACU------------UGCUUAAAA---CCGCA
+CJE1856      UAAUUUAU-----UCUA-GGUUUUU------GCU
+CJE0102      GUAAU---------------CUA--------UCA
+CJE0510      UAUUU---------------UUUA-------UAA
+CJE0462      UCUAU---------------UU---------UCA
+CJE0497      CAACCU---------AGGAUUUUAA-----UGAU
+CJE0789      AGUUU---------------UUAAAA----UUUA
+CJE0414      UCUAAA----------UAAAUUAAAA----AUCU
+CJE1209      UUUAA---------------AUAAAA----AUAA
+CJE0024      UUUUAA----------GAGAUUAA-------GAA
+CJE0991      AGCCU---------------UCUU-------UCU
+CJE1252      UUAUGAC--------AUCGCUUUA-------GCA
+CJE0666      GAUCU---------------UUAAAA---AUUCU
+CJE0305      AUUAU---------------UUUU-------UAA
+CJE0982      GAAUUA----------AUGAUUCAAA----ACCU
+CJE1470      --------------------GUAACU----CGUA
+CJE0010      UUCUU---------------UUUA-------GAA
+CJE0255      GCUUUU----------AAUACUAAA-----UUCA
+CJE1735      UAUCU---------------CUAAA------UUU
+CJE1791      UUUCUAACUC-UUUUAA-GGUUUUAA---AUUCA
+CJE1573      CUUGA-----------UUGUCUUU-------UCU
+CJE1890      UUAGA---------------UUAAAA----UUUA
+CJE1215      GCUUUCU-------UAUACAUUUAUU----CUCA
+CJE1727      UUUUUUG-------GAGUAUUUUAAA----UGCU
+CJE1008      AAACA-----------AUAUUUAUAA----AUUU
+CJE0029      UAAGUC----------AAGCCUUUCA----AUCC
+CJE1305      AACUAC---------AAUAUUUACAA----AGCU
+CJE1711      UUAAA-----------------AUA------UCA
+CJE0515      AAAUC-----------UUUUUUUA-------CCU
+CJE0038      AAGCA---------------UUAUC------GAA
+CJE1534      UCAUUGAUA---AAAAUACAUUAGAA----UGUA
+CJE1357      UGAUAA----------GAGGUUAGA------GCA
+CJE1548      CUAAAG---------ACUUAUUUACU----UGUU
+CJE1028      ----------------------UAA------UCU
+CJE0256      AUUCU---------------UU---------GCA
+CJE0295      AAAUU---------------CUUAAU----UUUU
+CJE0311      GCUAAGAU------UGAUUUUUGAAA---UUUCA
+CJE0310      CUAAUGAU-----UAAAAGUUUUA-------UCU
+CJE1793      UUUGCU----------AUACUUUUA------UCU
+CJE0996      GCUUUU---------CAUUUUUAU-------GCU
+CJE1556      AGUUA-------------AAUUAAA-----UUCU
+CJE1576      GCAAA---------------CUAAA------GAU
+CJE1195      GCGAU-----------------GAAA----AACA
+CJE0474      UGUCUAUA------UAAAAUUUAUA-----CUUA
+CJE0066      CAUUC---------------UUUU-------UCU
+CJE1599      GCGUA-----------------GA-------UCU
+CJE0870      UUAAU---------------UUUUAU----AUCU
+CJE1173      CUGCU---------------UU---------GCU
+CJE0898      UCUUAAA--------AAUGUUUUUCA----AUCA
+CJE0850      UGAAAA----------UUUUUUAAA-----AUUU
+CJE1429      CCACAAA-------GUAAAUUUAAAU----UACU
+CJE1105      GCUUAG---------UGAUCUCGUAU----AGCA
+CJE1442      UUUAA-----------CUCCUUAA-------UCU
+CJE0306      --------------------UUUA-------UUU
+CJE0073      UCUAU---------------UUUUAU----AUUU
+CJE1592      UUUUA-------------AUUUUUAG----AGAU
+CJE1658      UCUUCUU-------CUUUGUUUUAU-----UGCC
+CJE1104      CUUAU---------------UUUUU------GCU
+CJE0146      ----G-----------GUGGUUAAAU----UUCU
+CJE1033      GUAAA------------AUAUU---------UCC
+CJE1023      UUUUGGUU------UUGAGUUUAAA-----UGCU
+CJE0248      --------------------UUUAAU----CUCA
+CJE1675      UUUGU-----------A---UUAAAA----AUCU
+CJE0162      AAUUU---------------UUUA-------UUA
+CJE0141      UUAUA-----------AAAUCUUAA-----UGCA
+CJE0284      GAUUUA----------GAGCUUU--------GCU
+CJE0454      CCACA------------AGUUUUA-------UCA
+CJE0798      UUAAACAA-----AAAAGAAUUAAAA----AUUA
+CJE1747      UUUUG-----------AAGAUUUA-------GCA
+CJE0257      AUUCU---------------UUUU-------UCU
+CJE0995      UUUCA--------------------------UCC
+CJE0847      UUGGUUU--------UUUGUUUAUA------GCA
+CJE1666      GUUUU---------------UUAAA------GCU
+CJE1798      AAAUU---------------UUUA-------UUU
+CJE0503      UCUCC------------UGCUUUAA------GAU
+CJE0806      UGUCU---------------UUAU-------UCU
+CJE0148      UCUUACUUU---UUGGGUUAAU---A---UAUCU
+CJE0413      UCUAAAAG------ACAUAUCUAAAU----UUUU
+CJE0511      AUAUU---------------UUAAAU----UUUA
+CJE0917      UAUUGA----------CAAAUUGA-------UCA
+CJE0110      UGGCAUGGGA--AAAGAUUUUUA-------UGAA
+CJE0185      AUUUAAAA------CAAAGGUUUU-------UUA
+CJE0025      UUUUA-----------GUAUUUAUU-----GGCA
+CJE0704      CCACCUU--------GAUGUAUAUAA----AGCA
+CJE0924      ----A-----------------AAA-----AUCU
+CJE1445      GGGGC-----------AAGGCUAAUA----AGCC
+CJE1851      AAAAU---------------CU---------UCU
+CJE0044      GUUUA-----------------AA-------UCA
+CJE1237      --------------------CU---------UCU
+CJE0549      AAAUA-----------CAUUUUAUUA----CUUU
+CJE1289      CUUUU---------------UUUA-------UCC
+CJE1054      AUUUA-----------AAGAUUAAAA----AUCA
+CJE1652      --------------------UU---------UCU
+CJE0325      ----U---------------UUUUAU----AUCU
+CJE1420      GCUAA--------------------------AAA
+CJE0088      UCUAAAC-------UCUUUCUUAAA-----UUCA
+CJE1545      UAGGUA----------UUAUUUAU-------UUU
+CJE0042      UCUUUU---------UCUAAUUUU-------UCA
+CJE0630      UUUGU---------------UUAU-------GAU
+CJE1212      --------------------UUUAAU----AUCC
+CJE0111      ----CU----------UUACUUGAAA----CACU
+CJE1528      GCUUUU----------UUAUUUUAAA----CUCU
+CJE1627      AAAAA---------------UUUACU----CGCU
+CJE0885      ACAUA-----------------AA-------GCU
+CJE1768      GAUUA-----------AUACUUCAA------UUA
+CJE0080      -----------------AAAUU---------GCA
+CJE1014      GCUUU---------------UU---------UCU
+CJE1761      UGCUA------------AAAUUAUA------GCC
+CJE1350      UUCUU-----------UUUCUUUU-------UCA
+CJE0863      ----U---------------UUUU-------UCU
+CJE0219      UCUUA-----------GCUUUUAAAA---AUUCA
+CJE1896      CAAGCC----------UUGCUUUACA----AGCC
+CJE1303      UUUUA-----------CUGUUUAA-------UCU
+CJE1323      AGUCUAA--------GUA--UUAUAU---AAUCU
+CJE0963      -----------------UGUUUUAAA----AGCU
+CJE1674      UUUGU-------------UCUCAAA------GCU
+CJE0369      ----A---------------UUAGAA---ACACA
+CJE0302      --------------------UUAUAA----GGUG
+CJE1606      UGGUAA----------UAUCUUGGA-----UGCA
+#=GC SS_cons >>>>:............::::::::......:::
+#=GC RF      uuUuu............uguUUuAA......UCu
+//

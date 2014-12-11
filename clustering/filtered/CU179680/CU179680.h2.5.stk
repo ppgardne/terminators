@@ -1,0 +1,630 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS MAG0110  WT 0.87
+#=GS MAG7420  WT 1.04
+#=GS MAG4770  WT 0.86
+#=GS MAG4870  WT 1.24
+#=GS MAG3710  WT 1.08
+#=GS MAG4380  WT 1.13
+#=GS MAG4740  WT 0.90
+#=GS MAG4730  WT 1.06
+#=GS MAG1110  WT 0.89
+#=GS MAG6900  WT 1.09
+#=GS MAG2630  WT 1.00
+#=GS MAG1540  WT 0.97
+#=GS MAG1230  WT 0.95
+#=GS MAG5020  WT 0.70
+#=GS MAG4370  WT 1.27
+#=GS MAG6300  WT 0.92
+#=GS MAG6290  WT 0.86
+#=GS MAG5890  WT 0.75
+#=GS MAG1900  WT 1.05
+#=GS MAG7290  WT 0.90
+#=GS MAG6040  WT 0.98
+#=GS MAG4880  WT 1.12
+#=GS MAG0500  WT 1.32
+#=GS MAG2440  WT 1.02
+#=GS MAG1310  WT 1.09
+#=GS MAG4230  WT 0.89
+#=GS MAG0250  WT 0.95
+#=GS MAG1450  WT 0.78
+#=GS MAG7050  WT 1.35
+#=GS MAG05025 WT 0.70
+#=GS MAG6180  WT 0.82
+#=GS MAG0940  WT 1.05
+#=GS MAG0450  WT 1.02
+#=GS MAG2220  WT 0.81
+#=GS MAG5130  WT 0.89
+#=GS MAG2170  WT 1.45
+#=GS MAG1940  WT 1.03
+#=GS MAG5140  WT 0.95
+#=GS MAG0340  WT 0.81
+#=GS MAG6200  WT 0.98
+#=GS MAG4130  WT 0.97
+#=GS MAG5030  WT 1.08
+#=GS MAG0960  WT 1.26
+#=GS MAG2470  WT 0.74
+#=GS MAG7320  WT 0.90
+#=GS MAG5150  WT 0.92
+#=GS MAG5570  WT 0.94
+#=GS MAG6270  WT 0.81
+#=GS MAG2400  WT 0.90
+#=GS MAG1880  WT 0.96
+#=GS MAG0590  WT 1.13
+#=GS MAG3960  WT 1.09
+#=GS MAG4490  WT 0.81
+#=GS MAG4830  WT 0.90
+#=GS MAG2430  WT 1.01
+#=GS MAG7280  WT 0.79
+#=GS MAG3250  WT 1.09
+#=GS MAG1100  WT 0.85
+#=GS MAG4890  WT 1.27
+#=GS MAG2010  WT 0.94
+#=GS MAG0120  WT 0.88
+#=GS MAG0160  WT 1.05
+#=GS MAG7160  WT 1.01
+#=GS MAG6520  WT 0.90
+#=GS MAG5160  WT 0.92
+#=GS MAG7150  WT 1.04
+#=GS MAG1460  WT 0.96
+#=GS MAG1240  WT 0.85
+#=GS MAG2030  WT 1.08
+#=GS MAG2420  WT 0.95
+#=GS MAG1440  WT 0.78
+#=GS MAG1830  WT 1.18
+#=GS MAG6800  WT 0.56
+#=GS MAG4180  WT 1.01
+#=GS MAG2800  WT 0.84
+#=GS MAG6510  WT 0.90
+#=GS MAG7400  WT 1.09
+#=GS MAG3320  WT 1.36
+#=GS MAG5540  WT 0.74
+#=GS MAG2410  WT 1.32
+#=GS MAG2740  WT 1.08
+#=GS MAG0780  WT 1.10
+#=GS MAG1430  WT 0.78
+#=GS MAG2950  WT 0.74
+#=GS MAG4790  WT 1.17
+#=GS MAG3100  WT 0.90
+#=GS MAG7090  WT 1.00
+#=GS MAG6240  WT 0.92
+#=GS MAG5990  WT 0.96
+#=GS MAG6210  WT 1.00
+#=GS MAG4650  WT 0.86
+#=GS MAG5690  WT 1.18
+#=GS MAG7360  WT 1.08
+#=GS MAG4330  WT 0.87
+#=GS MAG0270  WT 0.92
+#=GS MAG1470  WT 0.96
+#=GS MAG2020  WT 0.90
+#=GS MAG0560  WT 1.04
+#=GS MAG4340  WT 1.00
+#=GS MAG1810  WT 0.79
+#=GS MAG0650  WT 1.23
+#=GS MAG3080  WT 1.49
+#=GS MAG2340  WT 1.17
+#=GS MAG7430  WT 0.78
+#=GS MAG7380  WT 0.84
+#=GS MAG0170  WT 1.52
+#=GS MAG4450  WT 1.01
+#=GS MAG3450  WT 0.88
+#=GS MAG1860  WT 1.08
+#=GS MAG6230  WT 1.08
+#=GS MAG3640  WT 1.49
+#=GS MAG1040  WT 1.09
+#=GS MAG6810  WT 0.56
+#=GS MAG1990  WT 1.22
+#=GS MAG5290  WT 1.03
+#=GS MAG2970  WT 1.27
+#=GS MAG4190  WT 1.12
+#=GS MAG5530  WT 0.83
+#=GS MAG1950  WT 1.01
+#=GS MAG1930  WT 1.10
+#=GS MAG6570  WT 0.94
+#=GS MAG6010  WT 0.97
+#=GS MAG5960  WT 1.11
+#=GS MAG4670  WT 0.76
+#=GS MAG4310  WT 0.94
+#=GS MAG1780  WT 0.89
+#=GS MAG2490  WT 1.08
+#=GS MAG2000  WT 0.83
+#=GS MAG4430  WT 1.12
+#=GS MAG4850  WT 1.05
+#=GS MAG5610  WT 1.07
+#=GS MAG5910  WT 0.74
+#=GS MAG2600  WT 0.87
+#=GS MAG6140  WT 0.87
+#=GS MAG6380  WT 1.19
+#=GS MAG1560  WT 0.97
+#=GS MAG7240  WT 1.24
+#=GS MAG6930  WT 0.82
+#=GS MAG3240  WT 1.09
+#=GS MAG5090  WT 1.08
+#=GS MAG7450  WT 1.00
+#=GS MAG5880  WT 0.75
+#=GS MAG4910  WT 0.90
+#=GS MAG3190  WT 1.09
+#=GS MAG7020  WT 0.89
+#=GS MAG4140  WT 1.09
+#=GS MAG6410  WT 0.86
+#=GS MAG0810  WT 1.04
+#=GS MAG7330  WT 1.07
+#=GS MAG5670  WT 1.50
+#=GS MAG6460  WT 1.14
+#=GS MAG4970  WT 0.99
+#=GS MAG6090  WT 1.24
+#=GS MAG3510  WT 1.41
+
+MAG0110      UAAGAUUA------GCUAAA-AAU--UAAUA-------------------
+MAG7420      --------------GAUA--UAA---------------------------
+MAG4770      UUAAUUUAU----G--UAAC-AA---------------------------
+MAG4870      GUGCACAA------------CAA----AAA--------------------
+MAG3710      UAGAAAAA------GCUAGU-AA---------------------------
+MAG4380      CAGCUAAA------GCACAA-AA---UUAGAGCAU---------------
+MAG4740      UUAAUCAAG----GCAUAAAUAAUCUAAA---------------------
+MAG4730      AUGAAUUA------------U-----AAA---------------------
+MAG1110      UUGAUAAA-----UUUUAAAUAA----AA---------------------
+MAG6900      AAGCACAA------GAAAAAUAA---UUACAA------------------
+MAG2630      UUGACUAC------AAAUACUAA---UAAUAGUAAUUG---------ACA
+MAG1540      AAGAAGAA------AAUAAAUAA---CAAAAU------------------
+MAG1230      CCAUAUAA------AUAAAUUAA---------------------------
+MAG5020      AAGGACUA------UGAG--UAA----AA---------------------
+MAG4370      --------------GAAGAGUAA----AA---------------------
+MAG6300      UUACUUAA------AGUAAGU-----GAAUUUAG----------------
+MAG6290      CUGUUUUAU---AGGCAUAU-AAG-UGAAAAUAC----------------
+MAG5890      CUGUUUUAU---AGGAUAAUUAA---------------------------
+MAG1900      AAGUAUAAA---AUGAUUAUUAAA--AA----------------------
+MAG7290      UUAAAAAA-----UGAAGAAUAAA--AA----------------------
+MAG6040      AAAUAGAA------GCUAAUUAA----AAAAGUC----------------
+MAG4880      AUGAUAUA------------UAA----AA---------------------
+MAG0500      GAGUAUAA-----U------UAA---UUAUGAAC----------------
+MAG2440      UUUAAUUA------ACUGAU-AA----AA---------------------
+MAG1310      CUAUACAA-----U------U-----GAA---------------------
+MAG4230      CAACUAAAG----UAGAAAAUAA---------------------------
+MAG0250      AUGCUAAA------CAAAAGUAA----AAUUGCACAGUA------AUUUA
+MAG1450      UUGCCUAA------------UAA----AAGAGG-----------------
+MAG7050      UUUUACAA------ACAAGUCAA---------------------------
+MAG05025     --------------------UAA----AA---------------------
+MAG6180      UUGAAUUA------AAAUAAUAA----AAACAAG----------------
+MAG0940      AUUCAUUA------GCUAAACUA----UA---------------------
+MAG0450      UUUUAUUA-----GCCUA--UAA----AACAGACAUUUUGGUAAAACUAU
+MAG2220      CUAAAUAA------GCUACC-AA----AAAUA------------------
+MAG5130      CUACUAAA------ACAAACUAA----AAUA-------------------
+MAG2170      UAGAUUGAA----U------UAA----AAA--------------------
+MAG1940      CAUUUUAA------AAAAAU-AA---------------------------
+MAG5140      CGGCAUAAU----GCCUAAAUAAA--GAAUA-------------------
+MAG0340      --------------------UAA----CA---------------------
+MAG6200      CACUUUUA-----G------UAA---------------------------
+MAG4130      AACCCUAA-----UAGUAAAUAA------U--------------------
+MAG5030      AAACUUUA------GCUACACAA---------------------------
+MAG0960      --------------AGAGAA-AA----AACAGCUAA------------UC
+MAG2470      CUAUAAAA------CAGGACUAA---------------------------
+MAG7320      UUAAUUAA-----G------UAA---------------------------
+MAG5150      CUGCUUAAAGCUAGGUUAAA-AA---UAA---------------------
+MAG5570      CAAUUAAA------GUAGAA-AA---AUAUUU------------------
+MAG6270      GAAAUUAA------GAGA--UAA---------------------------
+MAG2400      UUAAUUAA------GAAA--UAA---------------------------
+MAG1880      CUGACUAAG---CAACACCAUAA----AAAUGUCAC-------------U
+MAG0590      AAGCACAA-----AGCUUAA-AA---CAA---------------------
+MAG3960      GAGAAAAA------GAAUCAUAA----AA---------------------
+MAG4490      AAGAAUAAA----GCAAAACUAA----AACACCAAA------------AA
+MAG4830      UUGCAAAA-----GUAACAAUAA----AAUAAAAC---------------
+MAG2430      AAAACGAA------CAAAAAUAA---------------------------
+MAG7280      GUUCAAAAA----AGCAAAAUAG---CAA---------------------
+MAG3250      CAGCUUUA------------UAA---ACA---------------------
+MAG1100      CUAUAAAAC----AGACAAAUAA---------------------------
+MAG4890      GGUCAUAA------ACACAAUAA----AA---------------------
+MAG2010      UAACUCUAC---AUUUUCAUUAA---AAA---------------------
+MAG0120      AACCUUAA------UCAACAUAA---------------------------
+MAG0160      AAGUCUAAG----AGAUAAUUAACCGCAAAU-------------------
+MAG7160      AUGAAAAAU----U------UAA---AUA---------------------
+MAG6520      UUACUAAA------ACAA--UAA----UA---------------------
+MAG5160      AUUCUAAA------AACAAAUAA---------------------------
+MAG7150      UAAUUUAA------CAAUAACAA----UA---------------------
+MAG1460      UUCGAAUA------AAAAAGUCA----AA---------------------
+MAG1240      CUAUAAAA------CAGGCAUAA---------------------------
+MAG2030      AAGCUAAAA---CUAGUGAAUAA---------------------------
+MAG2420      UUGGAUAAU----UUUUGAA-AAC--AAA---------------------
+MAG1440      UAGCCAAAAA--AGCCUA--UAA----AACAG------------------
+MAG1830      UUUAAUAA------AAUUACUAA----AACAA------------------
+MAG6800      --------------------CAAA--GAA---------------------
+MAG4180      UAAGCAUAU----UGAGAAAUAA---UAAUCCUUUU------------CA
+MAG2800      UAGUUUAA------------UAAA--CAA---------------------
+MAG6510      CAAUUAAA------GGUGACUAC----UAGAU------------------
+MAG7400      AAGCCUUA------GAAACCUAU----AAAACAAUUGUC-------UACG
+MAG3320      GGAUUGAAA----GUAUAAA-AA---UAA---------------------
+MAG5540      CAGCACAAG----UGCUGAAUAAU--UAAUUAAAUU------------GA
+MAG2410      GAGUUUUA------AUAUACUAA---UUACA-------------------
+MAG2740      AUUUUUAA------GCUAAUUAA----AAGGUUA----------------
+MAG0780      CUAAUCAA------------UAA---------------------------
+MAG1430      AUUCUUAA------------UAU---------------------------
+MAG2950      --------------------UGA---------------------------
+MAG4790      CAACACUA------UGAAACUAA----UAUAAA-----------------
+MAG3100      UAGUGGAAU----UGAAGAAUAA---------------------------
+MAG7090      UUACUUUA------GAAAAGUAA----AAACAAAU--------------G
+MAG6240      UUUCAAAA------GCAAAAUAA---UUAGAA------------------
+MAG5990      CUGAUUUA-----AAAGCAAUCA----AA---------------------
+MAG6210      --------------AGCGAAUAA----AA---------------------
+MAG4650      CUAUUCUAU----AGGAAAAUAA---------------------------
+MAG5690      UUACCCAC-----G------UAA---------------------------
+MAG7360      --------------AAAGAUUAAA--GCA---------------------
+MAG4330      --------------GCAAAACAA----AA---------------------
+MAG0270      UUUCUUAA------AUAAAC-AA---------------------------
+MAG1470      UUGUUUUAU---AGCAUUAUUAG----AA---------------------
+MAG2020      UUAAAUAA-----GGCACAGCAGU--CAA---------------------
+MAG0560      CGACAAAAU----UGCUUAUUAAU--UUA---------------------
+MAG4340      UGACUUUA------GAAAAU-AAU--UAAAUUACC---------------
+MAG1810      --------------------UGA---------------------------
+MAG0650      CUGUUUUAA----C------CAA---UAAGCC------------------
+MAG3080      --------------UGGAACUAA---------------------------
+MAG2340      AAAUCCAAA----UCGUUAGUAA----AA---------------------
+MAG7430      UUAUUUAA-----AGGCGAAUAA---GUA---------------------
+MAG7380      UGAUUCAA------------UAA---------------------------
+MAG0170      CGGCAUAA------GCGGAAU-----------------------------
+MAG4450      AAGACCAA------GUUAAAUAA---------------------------
+MAG3450      GACUAUUA------AGCAAAUAA---------------------------
+MAG1860      AUAUUUAA------AGAAAAUAA----AA---------------------
+MAG6230      GUGUUUUA-----GACAAAUU-----UAACUACA----------------
+MAG3640      --------------UGUAAUUAAA--UAAU--------------------
+MAG1040      GAGCAUAA-----UGAUGAAUAA----AA---------------------
+MAG6810      AAUCAAAAG----AGCUA--UAA----AAAAG------------------
+MAG1990      AAAGCAAA------GACAACUAA---UAAAUUA-----------------
+MAG5290      CAUUUUAA------------UAAU-UCAAUUAACU--------------U
+MAG2970      AUGACCUA------------UAA----AAU--------------------
+MAG4190      AAAAUUAA-----G------CAA---------------------------
+MAG5530      CAGCAUAA------AAAAAC-AA---------------------------
+MAG1950      UUCUAUAA------UUUCAC-AA----AAAUUA-----------------
+MAG1930      CACAAAAA------UCAAAAUAC----AA---------------------
+MAG6570      CAAGCAAAC----U-UUAAA-AA----AAU--------------------
+MAG6010      AUACAAAA-----G------UAA---------------------------
+MAG5960      --------------AAAAAAUAAU--GAAUUA------------------
+MAG4670      AAAGCAAA------GAAAAAUAA----AAAA-------------------
+MAG4310      AUUUUUUA------UAUAAAUAA---UUA---------------------
+MAG1780      UUAGUUUA------UAUGACUAAU--AUA---------------------
+MAG2490      AGGCUUAAGG-UAGAAAGACUAA----GA---------------------
+MAG2000      CAACACAA------AGAACAUAA---------------------------
+MAG4430      AAAUUUAA------CAAA--UAAG-CC--UA-------------------
+MAG4850      CAUUUUUA------GAUAAAUAA---------------------------
+MAG5610      CUGUUGAA-----G------CAA---------------------------
+MAG5910      CACACCAAG----UAAUAAA-AA---UAA---------------------
+MAG2600      CAAGUCAA------UGUAAUUAA---UAAAAUA-----------------
+MAG6140      GUUUUCAA------------UAA---------------------------
+MAG6380      CAACACAAAA--UGCUUAAUUAA----AAAU-------------------
+MAG1560      AAGCUAAA------------CAA---------------------------
+MAG7240      CGAAUGAA------UUUGAAUAAC-ACAAUUU------------------
+MAG6930      CUGUUUUA------UGGUAAU-----------------------------
+MAG3240      UUUAAUAA------GAGUCA-AA----UA---------------------
+MAG5090      UUGUUUUAU---AGGCAUAA-AA---G--A--------------------
+MAG7450      --------------------AAA----AAG--------------------
+MAG5880      UUGUUUUA-----GUAUGUA-AA---------------------------
+MAG4910      UAAUUUUA-----GUUAGAA-AA---UCA---------------------
+MAG3190      UAACAUAA----------AAUAAU--GCA---------------------
+MAG7020      UUACUUUA-----GAAUAAUUAA----AA---------------------
+MAG4140      AUUUACAA------------UAA----AAUC-------------------
+MAG6410      UUAGUUAAU----U------U-----------------------------
+MAG0810      AUAAUUAA------ACGCAG-AA---------------------------
+MAG7330      UAGUUCAAC----GGCAGAACAA---------------------------
+MAG5670      AUAUACUAA---UG-GAAAC-AA----AAAAUA-----------------
+MAG6460      AAAGUAAA-----GGCAACA-AA----AA---------------------
+MAG4970      UUACUAUA------------UAAC--UAA---------------------
+MAG6090      AUGAACAAG----C------UAAC--ACA---------------------
+MAG3510      AUGUUUAA-----U------UAA----UAUGAACUUAUUUU---ACAAUU
+#=GC SS_cons ::::::::......:::::::::....::.....................
+#=GC RF      uuauuUAA......gaaAAaUAA....AA.....................
+
+MAG0110      ---UACAAAAACC--AG-GC----------------------AGCAA---
+MAG7420      ------AGAAAUA--UU-GUAG-----------------ACGAGCCU---
+MAG4770      ------AAAAAGC--AA-G-----------------------AUUUUAUU
+MAG4870      ----UAAGUAAGC--UG-UUAUGCU-----------UAAUACAAAAU---
+MAG3710      ------AAAAUGC--AU-CUUUAUGGC-------CGUAAAACAGC--C-A
+MAG4380      UUAAAAAACUUAC--AA-GGCUA----------------UAAAACA----
+MAG4740      ------AACCAAU--AG-CGCUA----------------UAAAACAA---
+MAG4730      ------AACCAAU--AG-CCUUG---------------UUUUAUAGC---
+MAG1110      ------AAACACA--UG-AC----------------------AACUA---
+MAG6900      --ACUUUACAAUC--GA-CCAUUUAGGCUGUUUUAUAGGGUUAAAUG---
+MAG2630      ACUAUAAAGAAGCAUCA-UCA-------------------CUAUCUU---
+MAG1540      --ACCGAAACGUC--UG-CU----------------------AAUUA---
+MAG1230      ------AAAAAUA-UUG-G-----------------------ACAAC---
+MAG5020      ------GAACAAU--AGUGC-----------------------UUAU---
+MAG4370      ------AAACUUA--CA-AGACUG--------------UUUUAUAGC---
+MAG6300      AGACUUAAAAAUG--AA-GC----------------------AGGAC---
+MAG6290      AUAAUUAAAAAUG--AA-GU-----------------------GUCC---
+MAG5890      ------AAAAUGA--AU-GU-----------------------CUGG---
+MAG1900      -----ACAAGAGC--AC-ACA-------------------AAAAUUU---
+MAG7290      -----AUAAUAGC--GA-AU-----------------------ACUC---
+MAG6040      -AAACAAAAAUAU--GG-GU-----------------------UAUUC--
+MAG4880      ------AAUAAGU--AA-GCUGUCAUUUU----GUAUUAAGCAUAAC---
+MAG0500      -UUUUAAGGGAAA--AA-C-----------------------AAGCC---
+MAG2440      ------AAAUAUG--GA-CU----------------------AUUGCU--
+MAG1310      -----UAAAAAAC--AG-GCUUA----------------AUCAGACA---
+MAG4230      ------AAACUCC-A---------------------------AUGGC---
+MAG0250      CAUAUAAAAAUGA--AA-GUU-------------------UUAUAUG---
+MAG1450      -CAAAUAAAAAGC--AA-AC-----------------------ACAC---
+MAG7050      ------AUAUAGG--UC-AU----------------------AACAA---
+MAG05025     ------GAACAAU--AG-G-----------------------AUAAG---
+MAG6180      -UACUUAAAAAUC-UAG-CC-----------------------UCGU---
+MAG0940      ------AGACAAA--AA-GU---------------------GAUUGC---
+MAG0450      CAUUUGAAAAAUA--UU-------------------------AUUGCU-A
+MAG2220      --AACAAAAAAGU--AA-GCAAAACA---------AAUGUUUAAACU---
+MAG5130      ---AAAAAACUGA-GAGAGC-----------------------UUGC---
+MAG2170      ----AUAAAGGCC--UC-AUUUACACCG------CUUUGUGUAGAUU---
+MAG1940      ------AAAAUGG-GCU-UU----------------------AAAUG---
+MAG5140      ---CAAAAAAACU--GA-GUAGCAG------------CAGCAAGCUC---
+MAG0340      ------AAAGAGA--GA-CC-----------------------CUA----
+MAG6200      ------AAAAUAA-ACG-GC-----------------------UCUU---
+MAG4130      -----UAAGAAUG--UG-CU-----------------------AUAA---
+MAG5030      ------AAUAAAC--CA-GU-----------------------UCAA---
+MAG0960      UGUUUUAAGCACU--AA-G-----------------------AUAUG---
+MAG2470      ------AAAAAAC--AA-GUGAGU-------------UAUUAAAAAC---
+MAG7320      ------AUUAAUA--AG-CU-----------------------UAUA---
+MAG5150      ------AAACAUC-GGC-AC-----------------------UUAA---
+MAG5570      --GGAAAAAAGUU--GG-G-----------------------AUUUU---
+MAG6270      ------AAAAAGC-C---------------------------AAACC---
+MAG2400      ------AAAAUAU--AG-------------------------AGAAA---
+MAG1880      AUCUCUAAAAACA--CU-GU-----------------------UUUA---
+MAG0590      ------AAAUUCC--UU-GC-----------------------AUGC---
+MAG3960      ------------A--AG-AGU-------------------UGAUUAA---
+MAG4490      AAUACAAAAAAGU--GA-CUUA-----------------UGAAUCGA---
+MAG4830      UCCUAAUAAUAGC--UA-UU-----------------------UCUU---
+MAG2430      ------AAAAUAU--GG-ACAG-----------------AGCAA---U--
+MAG7280      ------AAACACA--AG-C-----------------------AAAUU---
+MAG3250      ------AAAAACU--UG-U-----------------------AACACA-A
+MAG1100      ------AAAAACA--CACGCAA------------------CUAGUUG---
+MAG4890      ------AAGGAAAAUAC-UU----------------------AUUUGA-G
+MAG2010      ------UAAAAUG--CC-GC-----------------------UUUU---
+MAG0120      ------AAAAACC--AG-GC-----------------------UUGC---
+MAG0160      ---UAUUAUCAGC-U-C-AGAG------------------AAAAAA----
+MAG7160      ------AUAAAUC--UG-GU-----------------------UGU----
+MAG6520      ------AAACAGA--CU-U-----------------------AUUCG---
+MAG5160      ------AAACAUC-AGC-A-----------------------AAUUA---
+MAG7150      ------AAAGAGC--AG-CC---------------------UAUUUUU--
+MAG1460      ------AAAUAGC--AC-UC-----------------------CCAA---
+MAG1240      ------AAAAAUA-UUG-GG-----------------------GUUG---
+MAG2030      ------AAAAUGA--AC-CU-----------------------GCUC---
+MAG2420      ------AUAAAGU--GA-AU-----------------------GUUU---
+MAG1440      --AUUUAAAAAGC--AA-AC-----------------------UGUG---
+MAG1830      --UUGUUUUAUAG--GG-CU-----------------------ACAA---
+MAG6800      ------AAAAAGC--GA-------------------------AUAAU---
+MAG4180      UGAUUUAAAGUUC--AG-GU-----------------------UUGU---
+MAG2800      ------AAAAAGC--AA-AAGUAAUUU--------UAUGCAAAAUUC---
+MAG6510      --UAAAAAACAGA--CU-UG-----------------------UCGA---
+MAG7400      UAUAAAAAAGUCA--AG-AGAUUAU------------AAGUAAUUGC---
+MAG3320      ------AAACUUG--UU-GU-----------------------GGUUUGG
+MAG5540      GCGCAUAAAAAGC--AG-GU----------------------AUUUU---
+MAG2410      ---UAUAUAGAGA--AG-G-----------------------ACAAA---
+MAG2740      -UUCAAAAACUCA--CA-GG-----------------------CCUU---
+MAG0780      ------AAAAAU---GG-GAAAAAC-----------GGCUUGAUUUU---
+MAG1430      ------UGAAGGC--AC-------------------------AAAU----
+MAG2950      ------AAAAAGC-AAA-GU----------------------AAUCA---
+MAG4790      --AUAAAGAAACA--AA-AC-----------------------UCAG---
+MAG3100      ------AAAAUCA--AG-G-----------------------AGUUG---
+MAG7090      AUAAGCAAAAAAC--GG-GG-----------------------CUU----
+MAG6240      ---AAUAAAAUGC--AG-GCAAAA--------------UUCAACUUUU-U
+MAG5990      ------AAAAACA-A-G-CU-----------------------UUUU---
+MAG6210      ------AAUAAAC--GG-------------------------AAAGA---
+MAG4650      ------AAAAAUU--AA-GG-----------------------GCUG---
+MAG5690      ------UUGAUGC--UG-C-----------------------AUUU----
+MAG7360      ------AAAAAUC--AGAGCA-------------------AAAUUAU---
+MAG4330      ------UAAAACA-----GC-----------------------CAAA---
+MAG0270      ------UAAAAUU--UA-GU--------------------------C---
+MAG1470      ------AAAUAGC--AC-UU-----------------------UGGG---
+MAG2020      ------AAAAAUG--AA-CC----------------------AGAGC---
+MAG0560      ------UAAAACA--GU-GUUAA---------------AAGCAU---A--
+MAG4340      UUUUUAAGAAACA--UC-CUGAUU-------------AUUUAAAUUC---
+MAG1810      ------AGAUACA--AG-C-----------------------AACUA---
+MAG0650      ---UAUAAAAUAG--GG-ACA--------------------UAAG--U--
+MAG3080      ------CGAAAGA--GU-UUCU-----------------AUUACUGAA--
+MAG2340      ------AAAUACU-GAA-AC-----------------------UCUU---
+MAG7430      ------AAAAAGC--AC-------------------------ACACC---
+MAG7380      ------GAUAAGC-C----C-----------------------UUGC---
+MAG0170      ------GAUAAGU-AGU-GG-----------------------CAAG---
+MAG4450      ------AAUAAAG--UG-G-----------------------ACUGU---
+MAG3450      ------AAACACC--AG-G-----------------------AUUUU---
+MAG1860      ------------A--AA-GC----------------------AGCUC---
+MAG6230      -UAGCAAAAAUUC--AA-GAAG------------------GCAAAAU---
+MAG3640      ----UUUUUUAGC--AC-UCG--------------------CAUUGU---
+MAG1040      ------------A--AG-CC-----------------------AAAU---
+MAG6810      ---ACAAAAAAGC--GA-------------------------AUUAU---
+MAG1990      --AGCAAAUAAUU--CU-UC-----------------------AGGC---
+MAG5290      UUAAACUAAAUGU--GU-UUCUUGCCU-------UUUUGUGCAACAU---
+MAG2970      ----AGGUCAAUA--AC-UC-----------------------UUUC---
+MAG4190      ------AAGUAAA--AA-UC----------------------ACUGUU--
+MAG5530      ------GAAAAGC--AG-GC----------------------AAAAU---
+MAG1950      --UAUUUAAAAUC--AG-GU-----------------------UGCA---
+MAG1930      ------AAAAUGG--AC-UUA--------------------CAUUUA---
+MAG6570      -----AAAGGGUU--AG-G-----------------------AUUUA---
+MAG6010      ------GAAAUAC--CU-GCAU-----------------UUGAAUAU---
+MAG5960      ---UUAAAGAUAU--CG-UU-----------------------GUUU---
+MAG4670      ---UUAAAAAAGC-UAA-GU-----------------------UUUUG--
+MAG4310      ------AAAAAUG--CA-GC-----------------------UUUAG-U
+MAG1780      ------UAGAAUA--UG-G-----------------------ACUUU---
+MAG2490      ------UAAAAAC--UC-A-----------------------AAUUG---
+MAG2000      ------AAAAUGC--CG-------------------------AAAAG---
+MAG4430      ----UAAAACAGC-C-AUUUUG-----------------UGCAAUGU---
+MAG4850      ------AUUUAAA--AG-CU--------------------------U---
+MAG5610      ------------C--AU-GC-----------------------UCAA---
+MAG5910      ------AAAAAGC--AG-GG-----------------------CGC----
+MAG2600      --AAAAAAAUAGCCAAG-GC-----------------------UUUU---
+MAG6140      ------UUUAAGC--CC-UC-----------------------AAUA---
+MAG6380      ---CGAACUAAUA--AA-GG-----------------------UCUC---
+MAG1560      ------GAAAUAA--UC-------------------------AAUAA---
+MAG7240      --UUUCUAAUUUG--CC-U-----------------------AUAAA---
+MAG6930      ------AAAAAUC--AG-C-----------------------AUAGC---
+MAG3240      ------AAAAACU--UG-UU-----------------------GUUGU-G
+MAG5090      ----AAAAGCAAC--AA-G-----------------------AAUUAA--
+MAG7450      -----GAGAAACG--AU-GU-----------------------AGAC---
+MAG5880      ------AAAAUGA--AU-GC-----------------------CCAG---
+MAG4910      -----UAAAUUCA--AGAGC-----------------------UAUG---
+MAG3190      ------GAAAAGU--CG-C-----------------------ACAG----
+MAG7020      ------AAGAAUC-AUU-GU-----------------------UUUAA--
+MAG4140      ---AUAAAAUAGU-UUG-AC-----------------------CAGU---
+MAG6410      ------GCAAAGC--AA-GG-----------------------GAGA---
+MAG0810      ------AAAAUUC--CG-CC-----------------------ACACA--
+MAG7330      ------------C--GG-GC-----------------------UUCA---
+MAG5670      --AAAUGACCAAC--UA-AC-----------------------UUGU---
+MAG6460      -----UAGAAUCA--GC-ACUACA--------------GAAAACUAU---
+MAG4970      -----CAAAUAGU--CU-U-----------------------AUUCA---
+MAG6090      ------AUUAAGC--GU-CUAA------------------AAAA---C--
+MAG3510      UGUCAUUAAAAGC-U---------------------------AAUAC---
+#=GC SS_cons ......<<<<<<<..<<.<_......................_____...
+#=GC RF      ......AAAAAgc..ag.gc......................Auuuu...
+
+MAG0110      -GC--CU--GGUUUU-UU
+MAG7420      -AC--GA--UAUUUU-UU
+MAG4770      CUC--UU--GCUUUU-UU
+MAG4870      -GA--CA--GCUUAC-UU
+MAG3710      CAG--AU--GCAUUU-UU
+MAG4380      GUC--UU--GUAAGU-UU
+MAG4740      -GG--CU--AUUGGU-UU
+MAG4730      --G--CU--AUUGGU-UU
+MAG1110      -GUUGCG--UGUGUU-UU
+MAG6900      --G--UC--GAUUUU-UU
+MAG2630      -GA--UG-AGCUUCU-UU
+MAG1540      -UG--CA--GAUGUU-UU
+MAG1230      -CC--CA-AUAUUUU-UU
+MAG5020      --C--CU--AUUGUU-CU
+MAG4370      -CU--UG--UAAGUU-UU
+MAG6300      -AC--UU--CAUUUU-UA
+MAG6290      UGC--UU--CAUUUU-UA
+MAG5890      -GC--AU--UCAUUU-UU
+MAG1900      -GU--GU--GCUUUUUGU
+MAG7290      --U--UC--GCUAUU-UU
+MAG6040      AUC--CC--AUAUUU-UU
+MAG4880      AGC--UU--ACUUAU-UU
+MAG0500      --G--UU--UUUCCC-UU
+MAG2440      CUG--UC--CAUAUU-UU
+MAG1310      -GC--CU--GUUUUU-UG
+MAG4230      ---------GGAGUU-UU
+MAG0250      -AC--UU--UCAUUU-UU
+MAG1450      AGU--UU--GCUUUU-UA
+MAG7050      -GU--GG--CCUAUA-UU
+MAG05025     --C-ACU--AUUGUU-CU
+MAG6180      -GG--UU-AGAUUUU-UU
+MAG0940      -GC--UU--UUUGUU-UU
+MAG0450      UG---AU--UAUUUU-UU
+MAG2220      -GC--UU--ACUUUU-UU
+MAG5130      UGCUGCUACUCAGUU-UU
+MAG2170      --U--GA--GGUUUU-UA
+MAG1940      -UA--AG-UCCAUUU-UU
+MAG5140      -UC--UC--AGUUUU-UU
+MAG0340      --G--UC--UCUUUU-UU
+MAG6200      -UC--CG-UUUAUUU-UU
+MAG4130      --G--CA--CAUUUU-UA
+MAG5030      --C--UG--GUUUAU-UU
+MAG0960      --C--UU--AGUGCU-UU
+MAG2470      -GC--UU--GUUUUU-UU
+MAG7320      AGG--CU--UAUUUU-UU
+MAG5150      UUU--GC-UGAUGUU-UU
+MAG5570      --C--CC--AAUUUU-UU
+MAG6270      -G-------GCUUUU-UA
+MAG2400      -U---CU--AUAUUU-UU
+MAG1880      --U--AG--UGUUUU-UA
+MAG0590      -GC--UU--GGAAUU-UU
+MAG3960      -GU--CU--U--------
+MAG4490      AAG--UC--ACUUUU-UG
+MAG4830      -AA--UA--GCUAUU-AU
+MAG2430      AGU--CC--AUAUUU-UU
+MAG7280      -GG--CU--UGUGUU-UU
+MAG3250      CAA--CA--AGUUUU-UU
+MAG1100      -UC-AUG--UGUUUU-UU
+MAG4890      CAA--GU-AUUUCCU-UU
+MAG2010      --C--GG--CAUUUU-UU
+MAG0120      UGC--CU--GGUUUU-UG
+MAG0160      -CU--G--AGCUGAU-UU
+MAG7160      --C--CA--GAUUUU-UA
+MAG6520      ACA--AG--UCUGUU-UU
+MAG5160      AGU--GC-CGAUGUU-UU
+MAG7150      UGG--UU--GCUCUU-UC
+MAG1460      --A--GU--GCUAUU-UU
+MAG1240      -UC--CA-AUAUUUU-UU
+MAG2030      -UG--GU--UCAUUU-UU
+MAG2420      -GU--UC--ACUUUU-UU
+MAG1440      UGU--UU--GCUUUU-UA
+MAG1830      --G--CU--CUAUUU-UU
+MAG6800      -----UC--GCUUUU-UU
+MAG4180      -AC--CU--GAAUUU-UU
+MAG2800      -UU--UU--GCUUUU-UU
+MAG6510      AUA--AG--UCUGUU-UU
+MAG7400      --U--CU--UGACUU-UU
+MAG3320      UGU--AA--CAAGUU-UU
+MAG5540      -GC--CU--GCUUUUCUU
+MAG2410      -GC--UU--UCUCUA-UA
+MAG2740      AUC--UG--UGGGUU-UU
+MAG0780      --C--CC--AAUUUU-UU
+MAG1430      -----GU--GCUUUU-UU
+MAG2950      -GC--UU-UGCUUUU-UU
+MAG4790      -GU--UU--UGUUUU-UA
+MAG3100      --C--CU--UGAUUU-UU
+MAG7090      --C--CC--GUUUUUGUU
+MAG6240      CGC--UU--GCAUUU-UU
+MAG5990      AAG--C--CUGUUUUAUA
+MAG6210      -G---CC--GUUUAU-UU
+MAG4650      -CC--UU--AAUUUU-UA
+MAG5690      --G--CA--GCAUUU-UU
+MAG7360      UGC--CU--GAUUUU-UU
+MAG4330      AGC--AU--UGUUUU-AU
+MAG0270      -GC--UA--AAUUUU-AA
+MAG1470      --A--GU--GCUAUU-UU
+MAG2020      AGG--UU--CAUUUU-UU
+MAG0560      UGC--AC--UGUUUU-AU
+MAG4340      -AG--GG--UGUUUU-UU
+MAG1810      --G--CU--UGUAUU-UU
+MAG0650      CAU--CC--CUAUUU-UU
+MAG3080      AAA--GC--UCUUUU-GA
+MAG2340      GCU--UU-CAGUAUU-UU
+MAG7430      -C---GU--GCUUUU-UU
+MAG7380      -G-------GCUUUU-UU
+MAG0170      AGC--AC--ACUUGU-UA
+MAG4450      -UC--CA--CUUUUU-UU
+MAG3450      --C-ACU--GGUGUU-UU
+MAG1860      -CCUAUU--U--------
+MAG6230      -UC--UU--GAAUUU-UU
+MAG3640      AGA--GU--GCUAAA-AU
+MAG1040      -UG--UU--U--------
+MAG6810      -----UC--GCUUUU-UU
+MAG1990      -GA--AG--AAUUAU-UU
+MAG5290      -AA--AC--ACAUUU-UU
+MAG2970      AGA--GU--UAUUUU-UU
+MAG4190      UAA-UUU--UUUAUU-UU
+MAG5530      -AC--CU--GCUUUU-UA
+MAG1950      GGC--CU--GAUUUU-UG
+MAG1930      -AA--GC--CCAUUU-UU
+MAG6570      -UC--UU--AAUCUU-UU
+MAG6010      --C--AG--GUAUUU-UU
+MAG5960      -GA--CG--AUAUUU-UU
+MAG4670      CUC--UU-AGCUUUU-UU
+MAG4310      UUC--UG--CAUUUU-UU
+MAG1780      -GC--CA--UAUUUU-UU
+MAG2490      -CU--GA--GUUUUU-AU
+MAG2000      -----CG--GCAUUU-UA
+MAG4430      -UA-GU--GGCUGUU-UU
+MAG4850      -GG--CU--UUUAUU-UU
+MAG5610      --C--AU--G--------
+MAG5910      --C--CU--GCUUUU-UG
+MAG2600      -UC--CU-GGCUAUU-UU
+MAG6140      --A--GG--GCUUUU-UU
+MAG6380      --C--UU--UAUUAG-UU
+MAG1560      -----GG--UUAUUU-UC
+MAG7240      ACA--GG--CAAAUU-AU
+MAG6930      --G--CU--GAUUUUAUU
+MAG3240      UUA--CA--AGUUUU-UU
+MAG5090      UGC--UU--GUUGCU-UU
+MAG7450      --C--GU--CGUUUU-UU
+MAG5880      -AC--AU--UCAUUU-UU
+MAG4910      -CC--CU--UGAAUU-UU
+MAG3190      --G--CG--ACUUUUAUU
+MAG7020      GGC--CA-AGAUUCU-UU
+MAG4140      -GU--CG-GACUAUU-UU
+MAG6410      -CC--UU--GCUUUU-UU
+MAG0810      AAG--CG--GAAUUUAUU
+MAG7330      ACC--CC--G--------
+MAG5670      CUU--UA--GUUGGC-UU
+MAG6460      -UU--GC--UGAUUC-UU
+MAG4970      CUA--GG--ACUAUU-UU
+MAG6090      AAG--GC--GCUUUU-UU
+MAG3510      ---------GCUUUU-AA
+#=GC SS_cons ._>..>>..>>>>>>.>:
+#=GC RF      .gc..cu..gcUUUU.UU
+//

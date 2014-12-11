@@ -1,0 +1,1862 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.4-1
+#=GF AU Infernal 1.0.2
+
+#=GS BAV1660  WT 0.89
+#=GS BAV1223  WT 0.90
+#=GS BAV0787  WT 0.87
+#=GS BAV2459  WT 0.75
+#=GS BAV2791  WT 0.57
+#=GS BAV1536  WT 0.73
+#=GS BAV3145  WT 1.28
+#=GS BAV0865  WT 1.05
+#=GS BAV2969  WT 0.90
+#=GS BAV2509  WT 0.94
+#=GS BAV2228  WT 0.77
+#=GS BAV2569  WT 1.26
+#=GS BAV0115  WT 0.89
+#=GS BAV1027  WT 0.99
+#=GS BAV0139  WT 0.82
+#=GS BAV0140  WT 0.82
+#=GS BAV1506  WT 0.78
+#=GS BAV0471  WT 0.72
+#=GS BAV2510  WT 0.75
+#=GS BAV1028  WT 0.99
+#=GS BAV1495  WT 1.00
+#=GS BAV2669  WT 0.86
+#=GS BAV3208  WT 1.24
+#=GS BAV1494  WT 0.84
+#=GS BAV0196  WT 1.04
+#=GS BAV0195  WT 1.05
+#=GS BAV1097  WT 0.90
+#=GS BAV2670  WT 0.86
+#=GS BAV0249  WT 0.71
+#=GS BAV0900  WT 1.09
+#=GS BAV0899  WT 1.17
+#=GS BAV1728  WT 1.01
+#=GS BAV1889  WT 0.88
+#=GS BAV1665  WT 0.84
+#=GS BAV1724  WT 1.30
+#=GS BAV1072  WT 0.84
+#=GS BAV3262  WT 1.06
+#=GS BAV2242  WT 1.05
+#=GS BAV3411  WT 1.20
+#=GS BAV3347  WT 0.90
+#=GS BAV2169  WT 0.82
+#=GS BAV0167  WT 0.94
+#=GS BAV2938  WT 1.09
+#=GS BAV1150  WT 0.85
+#=GS BAV0788  WT 0.90
+#=GS BAV0448  WT 0.89
+#=GS BAV1903  WT 0.84
+#=GS BAV2604  WT 1.16
+#=GS BAV1836  WT 1.01
+#=GS BAV2096  WT 0.78
+#=GS BAV1668  WT 0.94
+#=GS BAV0553  WT 1.36
+#=GS BAV2566  WT 0.84
+#=GS BAV0447  WT 0.95
+#=GS BAV2714  WT 1.03
+#=GS BAV2984  WT 0.90
+#=GS BAV2229  WT 0.77
+#=GS BAV1151  WT 0.85
+#=GS BAV2489  WT 0.82
+#=GS BAV2113  WT 0.83
+#=GS BAV2986  WT 0.87
+#=GS BAV0555  WT 0.99
+#=GS BAV2593  WT 0.86
+#=GS BAV2365  WT 0.85
+#=GS BAV1041  WT 1.12
+#=GS BAV2515  WT 1.29
+#=GS BAV2037  WT 1.09
+#=GS BAV2836  WT 1.10
+#=GS BAV0121  WT 1.12
+#=GS BAV3179  WT 0.85
+#=GS BAV1417  WT 1.05
+#=GS BAV1346  WT 0.88
+#=GS BAV0556  WT 0.86
+#=GS BAV1195  WT 1.05
+#=GS BAV1492  WT 1.10
+#=GS BAV1194  WT 0.91
+#=GS BAV2512  WT 0.92
+#=GS BAV2156  WT 0.82
+#=GS BAV0006  WT 1.14
+#=GS BAV1605  WT 0.90
+#=GS BAV1004  WT 1.08
+#=GS BAV2140  WT 0.86
+#=GS BAV2355  WT 0.76
+#=GS BAV3346  WT 0.98
+#=GS BAV1205  WT 0.93
+#=GS BAV0192  WT 1.08
+#=GS BAV0745  WT 0.91
+#=GS BAV2919  WT 1.00
+#=GS BAV3424  WT 0.99
+#=GS BAV3192  WT 0.82
+#=GS BAV0348  WT 0.93
+#=GS BAV1703  WT 1.03
+#=GS BAV2112  WT 1.07
+#=GS BAV1635  WT 1.01
+#=GS BAV3269  WT 1.26
+#=GS BAV2267  WT 0.90
+#=GS BAV1145  WT 1.04
+#=GS BAV2408  WT 0.68
+#=GS BAV0466  WT 1.10
+#=GS BAV0135  WT 1.24
+#=GS BAV2685  WT 1.03
+#=GS BAV1819  WT 1.10
+#=GS BAV1164  WT 1.01
+#=GS BAV2155  WT 0.97
+#=GS BAV1165  WT 0.84
+#=GS BAV2074  WT 0.80
+#=GS BAV2114  WT 0.83
+#=GS BAV2480  WT 1.05
+#=GS BAV1155  WT 0.90
+#=GS BAV0480  WT 1.08
+#=GS BAV0437  WT 0.89
+#=GS BAV2895  WT 0.95
+#=GS BAV0558  WT 0.72
+#=GS BAV0024  WT 1.01
+#=GS BAV2319  WT 0.97
+#=GS BAV1108  WT 0.99
+#=GS BAV2486  WT 0.94
+#=GS BAV2141  WT 1.06
+#=GS BAV2172  WT 0.85
+#=GS BAV2723  WT 0.99
+#=GS BAV2966  WT 1.09
+#=GS BAV2511  WT 0.92
+#=GS BAV3417  WT 1.01
+#=GS BAV1418  WT 1.02
+#=GS BAV0014  WT 0.87
+#=GS BAV0766  WT 0.99
+#=GS BAV2855  WT 1.08
+#=GS BAV1972  WT 1.03
+#=GS BAV2282  WT 1.24
+#=GS BAV3202  WT 0.83
+#=GS BAV2327  WT 1.12
+#=GS BAV2380  WT 0.78
+#=GS BAV3247  WT 1.12
+#=GS BAV1936  WT 0.98
+#=GS BAV1490  WT 1.00
+#=GS BAV0034  WT 1.29
+#=GS BAV1073  WT 0.84
+#=GS BAV3325  WT 0.88
+#=GS BAV2110  WT 0.88
+#=GS BAV2469  WT 1.03
+#=GS BAV0061  WT 0.97
+#=GS BAV1200  WT 0.85
+#=GS BAV2354  WT 0.76
+#=GS BAV2184  WT 0.94
+#=GS BAV1055  WT 1.06
+#=GS BAV2348  WT 1.12
+#=GS BAV2514  WT 1.12
+#=GS BAV0827  WT 0.89
+#=GS BAV1701  WT 1.28
+#=GS BAV0671  WT 0.71
+#=GS BAV1398  WT 0.97
+#=GS BAV2153  WT 0.80
+#=GS BAV2381  WT 0.78
+#=GS BAV1062  WT 0.95
+#=GS BAV3416  WT 0.92
+#=GS BAV1535  WT 0.73
+#=GS BAV3213  WT 0.87
+#=GS BAV0684  WT 0.98
+#=GS BAV2716  WT 1.27
+#=GS BAV3042  WT 1.10
+#=GS BAV2715  WT 0.89
+#=GS BAV1860  WT 0.72
+#=GS BAV1166  WT 1.04
+#=GS BAV3373  WT 1.04
+#=GS BAV3292  WT 0.98
+#=GS BAV2985  WT 0.90
+#=GS BAV2992  WT 0.95
+#=GS BAV1598  WT 1.04
+#=GS BAV2574  WT 1.04
+#=GS BAV0983  WT 1.00
+#=GS BAV0408  WT 1.05
+#=GS BAV1734  WT 0.95
+#=GS BAV1104  WT 1.09
+#=GS BAV2388  WT 1.17
+#=GS BAV0929  WT 1.04
+#=GS BAV0217  WT 1.20
+#=GS BAV1355  WT 0.97
+#=GS BAV1399  WT 1.11
+#=GS BAV0672  WT 1.11
+#=GS BAV3403  WT 1.18
+#=GS BAV0665  WT 0.92
+#=GS BAV2128  WT 1.20
+#=GS BAV2916  WT 1.05
+#=GS BAV2195  WT 1.08
+#=GS BAV0939  WT 0.94
+#=GS BAV0012  WT 1.00
+#=GS BAV2316  WT 1.15
+#=GS BAV2390  WT 0.88
+#=GS BAV0566  WT 0.97
+#=GS BAV0496  WT 1.06
+#=GS BAV1122  WT 1.06
+#=GS BAV2260  WT 0.84
+#=GS BAV1821  WT 0.92
+#=GS BAV1976  WT 1.15
+#=GS BAV0832  WT 0.99
+#=GS BAV0293  WT 1.04
+#=GS BAV2321  WT 1.34
+#=GS BAV2621  WT 1.15
+#=GS BAV1504  WT 1.07
+#=GS BAV0495  WT 1.12
+#=GS BAV1233  WT 1.18
+#=GS BAV0072  WT 1.21
+#=GS BAV3055  WT 0.89
+#=GS BAV3350  WT 1.11
+#=GS BAV1791  WT 0.99
+#=GS BAV0689  WT 1.21
+#=GS BAV0906  WT 1.18
+#=GS BAV1969  WT 0.92
+#=GS BAV3058  WT 1.17
+#=GS BAV2892  WT 0.75
+#=GS BAV2170  WT 0.82
+#=GS BAV0966  WT 1.08
+#=GS BAV2352  WT 1.03
+#=GS BAV3016  WT 1.00
+#=GS BAV2810  WT 1.05
+#=GS BAV0356  WT 0.88
+#=GS BAV2894  WT 0.95
+#=GS BAV1902  WT 0.84
+#=GS BAV2415  WT 1.08
+#=GS BAV3285  WT 1.08
+#=GS BAV0064  WT 0.83
+#=GS BAV1204  WT 0.87
+#=GS BAV2538  WT 0.86
+#=GS BAV3066  WT 0.86
+#=GS BAV2683  WT 0.99
+#=GS BAV2064  WT 0.91
+#=GS BAV2539  WT 0.86
+#=GS BAV2050  WT 1.40
+#=GS BAV3349  WT 0.90
+#=GS BAV1435  WT 1.04
+#=GS BAV2917  WT 0.83
+#=GS BAV2807  WT 0.84
+#=GS BAV0144  WT 0.88
+#=GS BAV3184  WT 1.15
+#=GS BAV0071  WT 1.13
+#=GS BAV0070  WT 1.10
+#=GS BAV1270  WT 1.01
+#=GS BAV0023  WT 1.18
+#=GS BAV3297  WT 1.08
+#=GS BAV0758  WT 0.95
+#=GS BAV2548  WT 1.06
+#=GS BAV3003  WT 1.11
+#=GS BAV0062  WT 1.04
+#=GS BAV3303  WT 1.00
+#=GS BAV2129  WT 1.06
+#=GS BAV2218  WT 0.78
+#=GS BAV2804  WT 1.01
+#=GS BAV1604  WT 0.90
+#=GS BAV3002  WT 1.04
+#=GS BAV0320  WT 1.09
+#=GS BAV1567  WT 1.08
+#=GS BAV2596  WT 1.14
+#=GS BAV0388  WT 0.92
+#=GS BAV2476  WT 0.92
+#=GS BAV0106  WT 1.05
+#=GS BAV0607  WT 1.13
+#=GS BAV1737  WT 1.12
+#=GS BAV2675  WT 0.90
+#=GS BAV2668  WT 1.15
+#=GS BAV1996  WT 1.24
+#=GS BAV1634  WT 1.01
+#=GS BAV2192  WT 0.92
+#=GS BAV3062  WT 1.01
+#=GS BAV3040  WT 1.04
+#=GS BAV2391  WT 0.88
+#=GS BAV0069  WT 0.84
+#=GS BAV0108  WT 0.95
+#=GS BAV2843  WT 1.05
+#=GS BAV3193  WT 0.82
+#=GS BAV1401  WT 1.15
+#=GS BAV1337A WT 0.92
+#=GS BAV1128  WT 1.07
+#=GS BAV3348  WT 0.90
+#=GS BAV0258  WT 0.97
+#=GS BAV1080  WT 1.04
+#=GS BAV1484  WT 0.85
+#=GS BAV2193  WT 0.92
+#=GS BAV0317  WT 1.08
+#=GS BAV1132  WT 0.87
+#=GS BAV1394  WT 0.92
+#=GS BAV2240  WT 1.01
+#=GS BAV3408  WT 1.13
+#=GS BAV2176  WT 0.96
+#=GS BAV2928  WT 0.85
+#=GS BAV2204  WT 0.87
+#=GS BAV2313  WT 0.80
+#=GS BAV2481  WT 1.10
+#=GS BAV0118  WT 0.87
+#=GS BAV1063  WT 0.98
+#=GS BAV1240  WT 1.02
+#=GS BAV2600  WT 1.08
+#=GS BAV1161  WT 1.09
+#=GS BAV2118  WT 1.06
+#=GS BAV2671  WT 0.75
+#=GS BAV2051  WT 1.12
+#=GS BAV3008  WT 1.00
+#=GS BAV2406  WT 1.16
+#=GS BAV2205  WT 1.05
+#=GS BAV2092  WT 1.05
+#=GS BAV2180  WT 1.02
+#=GS BAV2977  WT 1.25
+#=GS BAV2306  WT 0.90
+#=GS BAV0744  WT 0.86
+#=GS BAV3374  WT 1.04
+#=GS BAV1462  WT 1.06
+#=GS BAV1373  WT 1.00
+#=GS BAV2918  WT 1.05
+#=GS BAV2660  WT 1.25
+#=GS BAV0923  WT 1.11
+#=GS BAV0109  WT 0.92
+#=GS BAV0723  WT 1.28
+#=GS BAV0780  WT 1.00
+#=GS BAV3259  WT 0.97
+#=GS BAV1397  WT 0.97
+#=GS BAV0935  WT 1.20
+#=GS BAV0458  WT 1.03
+#=GS BAV1932  WT 1.12
+#=GS BAV2868  WT 1.09
+#=GS BAV1213  WT 1.06
+#=GS BAV0142  WT 1.08
+#=GS BAV3157  WT 1.30
+#=GS BAV2658  WT 0.84
+#=GS BAV3171  WT 1.00
+#=GS BAV0352  WT 1.03
+#=GS BAV2727  WT 0.99
+#=GS BAV1562  WT 1.17
+#=GS BAV2846  WT 0.94
+#=GS BAV2733  WT 0.99
+#=GS BAV1485  WT 0.82
+#=GS BAV2268  WT 1.12
+#=GS BAV2832  WT 0.98
+#=GS BAV1578  WT 1.00
+#=GS BAV2950  WT 1.20
+#=GS BAV2942  WT 1.26
+#=GS BAV1498  WT 0.87
+#=GS BAV1454  WT 1.05
+#=GS BAV0735  WT 1.12
+#=GS BAV1852  WT 1.04
+#=GS BAV1180  WT 0.83
+#=GS BAV2177  WT 1.30
+#=GS BAV1777  WT 1.30
+#=GS BAV1481  WT 1.08
+#=GS BAV2680  WT 1.06
+#=GS BAV1839  WT 1.36
+#=GS BAV1497  WT 1.20
+#=GS BAV3422  WT 0.88
+#=GS BAV2965  WT 1.06
+#=GS BAV2014  WT 1.09
+#=GS BAV2402  WT 1.15
+#=GS BAV2331  WT 1.01
+#=GS BAV3386  WT 0.98
+#=GS BAV2785  WT 1.05
+#=GS BAV2525  WT 1.30
+#=GS BAV2185  WT 0.85
+#=GS BAV3410  WT 1.02
+#=GS BAV0010  WT 0.89
+#=GS BAV2601  WT 0.94
+#=GS BAV2338  WT 0.98
+#=GS BAV3074  WT 1.01
+#=GS BAV2607  WT 0.99
+#=GS BAV3118  WT 0.88
+#=GS BAV0137  WT 1.22
+#=GS BAV0158  WT 1.04
+#=GS BAV2446  WT 1.07
+#=GS BAV0438B WT 1.13
+#=GS BAV2796  WT 1.07
+#=GS BAV3351  WT 0.99
+#=GS BAV0493  WT 1.01
+#=GS BAV2265  WT 1.00
+#=GS BAV1056  WT 1.02
+#=GS BAV0890  WT 1.14
+#=GS BAV2996  WT 0.84
+#=GS BAV2379  WT 0.83
+#=GS BAV1178  WT 1.04
+#=GS BAV1123  WT 1.01
+#=GS BAV3182  WT 1.29
+#=GS BAV2182  WT 1.01
+#=GS BAV2875  WT 1.06
+#=GS BAV1532  WT 1.12
+#=GS BAV1152  WT 0.98
+#=GS BAV1545  WT 0.92
+#=GS BAV3254  WT 1.13
+#=GS BAV0103  WT 0.94
+#=GS BAV2033  WT 1.07
+#=GS BAV1476  WT 0.99
+#=GS BAV1792  WT 1.05
+#=GS BAV2981  WT 1.02
+#=GS BAV0060  WT 0.92
+#=GS BAV0731  WT 0.91
+#=GS BAV1931  WT 0.99
+#=GS BAV0178  WT 1.11
+#=GS BAV2335  WT 0.84
+#=GS BAV3200  WT 0.96
+#=GS BAV1897  WT 1.08
+#=GS BAV0629  WT 1.13
+#=GS BAV3060  WT 1.12
+#=GS BAV1960  WT 1.12
+#=GS BAV2620  WT 1.05
+#=GS BAV0853  WT 0.68
+#=GS BAV1116  WT 1.06
+#=GS BAV3061  WT 1.06
+#=GS BAV1409  WT 1.13
+#=GS BAV2068  WT 0.84
+#=GS BAV1290  WT 0.91
+#=GS BAV0565  WT 0.97
+#=GS BAV0538  WT 0.90
+#=GS BAV2159  WT 1.03
+#=GS BAV2109  WT 0.88
+#=GS BAV2903  WT 0.92
+#=GS BAV2565  WT 0.78
+#=GS BAV1316  WT 1.25
+#=GS BAV0696  WT 0.99
+#=GS BAV2644  WT 1.05
+#=GS BAV1434  WT 1.07
+#=GS BAV3172  WT 0.93
+#=GS BAV1086  WT 1.02
+#=GS BAV2724  WT 0.99
+#=GS BAV2575  WT 1.00
+#=GS BAV0970  WT 1.17
+#=GS BAV0453  WT 1.18
+#=GS BAV1699  WT 1.05
+#=GS BAV3294  WT 1.17
+#=GS BAV0933  WT 1.09
+#=GS BAV0054  WT 1.03
+#=GS BAV0446  WT 0.88
+#=GS BAV0445  WT 0.97
+#=GS BAV3102  WT 1.17
+#=GS BAV1310  WT 0.97
+#=GS BAV2349  WT 1.11
+#=GS BAV2667  WT 1.09
+#=GS BAV3195  WT 0.95
+#=GS BAV0726  WT 1.10
+#=GS BAV1626  WT 0.74
+#=GS BAV2609  WT 1.20
+#=GS BAV3088  WT 0.96
+#=GS BAV2409  WT 1.11
+#=GS BAV2518  WT 1.02
+#=GS BAV0924  WT 1.18
+#=GS BAV2261  WT 1.04
+#=GS BAV0688  WT 1.00
+#=GS BAV0852  WT 0.76
+#=GS BAV0748  WT 0.83
+#=GS BAV0908  WT 1.04
+#=GS BAV2094  WT 1.08
+#=GS BAV0887  WT 1.02
+#=GS BAV0503  WT 1.05
+#=GS BAV2755  WT 1.16
+#=GS BAV0537  WT 0.87
+#=GS BAV0901  WT 1.17
+#=GS BAV2420  WT 1.09
+#=GS BAV3017  WT 1.22
+#=GS BAV1702  WT 1.10
+#=GS BAV2941  WT 1.08
+#=GS BAV3151  WT 1.15
+#=GS BAV2623  WT 1.10
+#=GS BAV0201  WT 1.28
+#=GS BAV2194  WT 0.93
+#=GS BAV1890  WT 0.91
+#=GS BAV2790  WT 0.57
+#=GS BAV0472  WT 0.72
+#=GS BAV2293  WT 0.85
+#=GS BAV1891  WT 0.91
+
+BAV1660      UGCC---CGACA---AG---------------------ACG---CCU---
+BAV1223      UGAC-CUUGUCC---GGCAA--------------UAAGCAG---AAC---
+BAV0787      UGAUA--CGGCAU--UGCUGU-------------AAACAAC---AAC---
+BAV2459      AGCG-GUUGCCGC-CAGA--------------------GAA---AAG---
+BAV2791      AUCC-GCUGAAA---UGC--------------------AAA---ACG---
+BAV1536      AGCG------------------------------------A---CGA---
+BAV3145      GGCG---AACCCC-------------------------CAC---GGC---
+BAV0865      GGCU-GCGGGUA---UG---------------------AUC---GGG---
+BAV2969      AGCG---UUAAU---CGCUG--------------UAUGCAA---AAA---
+BAV2509      GUCU---CGCAAA--AGCA-----------------AAAAG---CCC---
+BAV2228      UGCC---CCCCAA--AG---------------------CAA---AAC---
+BAV2569      UGCU---UAAAA--------------------------AUA---UAC---
+BAV0115      UGAA-GUAAGCUA--AG---------------------ACA---CAG---
+BAV1027      UGCGCGCCGCGAA--UGC-------------------AGAA---CCC---
+BAV0139      GGCGACCAUGAAA-------------------------AAU---CCG---
+BAV0140      GGCG-CCUGAGAA--CGCCAGA-----------UAGAAAAU---CCG---
+BAV1506      GGCG-GCUGCCAU--GGU------------------UGAAA---AAA---
+BAV0471      UUAC---CGGUAA--AGC--------------------AAA---GGG---
+BAV2510      UGCC-GCGGCAC---AAC--------------------AAA---AAG---
+BAV1028      GGAU---UGUCCG--GGAU----------------GCAGAA---CCC---
+BAV1495      AGCC---CGUUAA--UGC----------------------A---AAA---
+BAV2669      UGAU-GCCCCCAC--CGCCA---------------AUGAAU---AAG---
+BAV3208      ACCCCGACGCCCC--CGAAAA-------------AACC--G---CUC---
+BAV1494      GGUC---UGAUAA--UGC--------------------AAA---AGC---
+BAV0196      AGCC-GCCGACCA--CGAAA---------------AAACAC---CCU---
+BAV0195      UGCCGCCUUGCA--------------------------CCC---UGG---
+BAV1097      GUCCACCCGGUU---UG-----------------------A---GCG---
+BAV2670      GGAACGCCG------CGCUCAC----------UAAAUGAAU---AAG---
+BAV0249      CGCA-----------GGA----------------------G---CAG---
+BAV0900      UGACG--CGCAAA--GGCAGG------------AAACAACA---UGG---
+BAV0899      UUCC---AUUCAG--AA---------------------AAA---GAC---
+BAV1728      GGCA---AGCGA---CGCCUA------------AAGGCCGU---UCC---
+BAV1889      UGCC---UGUCC--------------------------GUG---CUG---
+BAV1665      AGCC---UAAAA---AGC--------------------AAG---AAA---
+BAV1724      GGCU---UAACC----GCUA--------------UCUG--U---AUU---
+BAV1072      UGAG-CCAGUAAA-CGGUCAUCU--------AGCAAAAAAA---ACG---
+BAV3262      UGAUGCAUGGACA--AGCAC--------------AAUGCCC---CGC---
+BAV2242      AGCU-GUAAAGCA--AGCAGAC----------AAACCCAAU---AGA---
+BAV3411      UCCG-CCUUACUU-GGGUAU---------------AGA--C---CGC---
+BAV3347      UGAG-UCUUCCUC--AUCCA--------------UAAAACA---ACA---
+BAV2169      UGCU-GCAAACG--------------------------AAA---AAC---
+BAV0167      UGCC---UGCAC---GGUUUG-------------CCAC--G---CGG---
+BAV2938      UGAU---AGACCG-UU--U----------------CAUAAA---AAA---
+BAV1150      AGCC---UGCUCC--GGUGA--------------UGUCAAU---CAG---
+BAV0788      AGCC---CUCAUC--GGCCCAC-----------AAAACAAC---AAC---
+BAV0448      GGCCAGUAUCCAA--AA---------------------ACA---AAG---
+BAV1903      AGCG---UGUUCA--AGUAAGC-----------CAAAUCAC---AAA---
+BAV2604      AGCCGCCCGAAC---AACA----------------AAAAAG---GCA---
+BAV1836      GGCCGGUUGUUCC-AGG---------------------AAA---ACC---
+BAV2096      UUCG---CGCCA---AGCAC--------------GAUCGAA---CAG---
+BAV1668      GGCCUCCAGUCG---GGC------------------GAAAA---AAG---
+BAV0553      AGAC-GCAUAAA----GCCG---------------GGUGAU---GCC---
+BAV2566      UGCGGCACAAGC--------------------------AAC---AAG---
+BAV0447      UGAG-GCUGCAUG-------------------------ACA---AAG---
+BAV2714      GGCGCCUUGAAC---CGCG-----------------U-CGG---CAU---
+BAV2984      UGCC---AGCGUA-AGGUAGG-------------UAUCAAA---CCG---
+BAV2229      UGAUUGUUUUCC---GGCCC--------------AAAGCAA---AAC---
+BAV1151      UGCGGCAUGAUU---UGAU----------------GUCAAU---CAG---
+BAV2489      UGCG-GUCAAACC--GG---------------------GAA---GAG---
+BAV2113      AGCU---AGGCC--------------------------AAA---CUG---
+BAV2986      AGCCUCUCGGCC----------------------------C---UGC---
+BAV0555      UACGCGCUGAAAC--CGC--------------------CCG---AUG---
+BAV2593      UGCU---CUCCA--------------------------AAG---CAA---
+BAV2365      GGCG---UGUUG--------------------------ACA---AGC---
+BAV1041      GCAC---UUAAAG--CGU--------------------AAA---CAG---
+BAV2515      GCACU--UGAAAA--CGC--------------------UCC---GGA---
+BAV2037      GGAC---AGACU---UG-----------------------A---CAU---
+BAV2836      AGCU-CCCUCAUA--CGA------------------GC--C---GGC---
+BAV0121      UGCG-CUAGAUUG-UUGUAG--------------UCCGAGC---AGC---
+BAV3179      AGCUGUCAGCCUG--AGCCCAC-----------CCAUGAAA---AAA---
+BAV1417      AGCUGGACAUCAU--CGCUUGA-----------UGCGGUCU---GGC---
+BAV1346      UGCUGCACGAGUC--GGUAC---------------AAUAAA---AGG---
+BAV0556      AGCG-GCAGCGC--------------------------CCG---AUG---
+BAV1195      GGCC-CAUGCCUC-------------------------GAU---GAG---
+BAV1492      UGAG-UUUUGGU---CGC--------------------AAA---AAG---
+BAV1194      GGCG-GCAGUACU-AGGCUAA------------AGCUUGAU---GAG---
+BAV2512      AGAG---UUCUAA--GGCUG--------------AAUGGCG---CGG---
+BAV2156      UGCGUCCCUAAAU--AG---------------------AAA---AAG---
+BAV0006      UCCU-CAAGUAA---UACCGA------------GUGCAAGG---AAA---
+BAV1605      UGCG---UGAAA---CGCGG---------------GCGGCU---CCC---
+BAV1004      UGAC-GCACACC--------------------------AGC---GCG---
+BAV2140      UGAUC--CGAAAC--CGCCAG-------------CCCAAAG---CAA---
+BAV2355      GGCC---AAUGAG-------------------------AAA---GCC---
+BAV3346      AUAG-GCAUUCCA--CGCUCAC-----------AAACAACA---GGC---
+BAV1205      UGAC---UUAUCG--CG---------------------ACG---CCG---
+BAV0192      UGAG---CGACA--------------------------CAU---UGC---
+BAV0745      AGACUGCUGAACC--UACCACCC---------CCCAGAAAA---AAC---
+BAV2919      GGCU---UGACC---GG---------------------GCG---GGG---
+BAV3424      GUCU-GCAUCCU---GGC------------------UCAAC---GCC---
+BAV3192      ACCC-GCUGACUU--GGCUC--------------CAUGAAU---AAU---
+BAV0348      UGAG-GCAGGGCC-UAGA--------------------ACA---UGC---
+BAV1703      UGCU---CGUAUG--AGU-------------------C--G---CCG---
+BAV2112      GGCG---AGGGAA--AGC------------------AA--A---CGC---
+BAV1635      UGCCU--AGGGUU--UGCCU---------------GCAACA---GCC---
+BAV3269      GUAG-UCCGCAAU--GGUU----------------AAA--A---AUA---
+BAV2267      AGCU---UUGCC---GGCA----------------AUGAAC--AAGG---
+BAV1145      UGAU---AGCCUU--CGCCUCA----------UCAGCCUAA---AAC---
+BAV2408      GGCG---CGGA---------------------------AAA---AAA---
+BAV0466      GGCU---AGCAU---GGACGAU-----------GGAUGAAA---CAC---
+BAV0135      UUCGCACUGAAC---UGUCC---------------UCCAAA---AAU---
+BAV2685      UGAU-UUUUAUCA--AUCAC---------------CACAGA---AAA---
+BAV1819      UGCGGGCCAUAAG--GGUGU--------------UAUGUCU---GUG---
+BAV1164      AGCU---UGAUA--------------------------AAA---GCC---
+BAV2155      UGAU---AAUGU---GGCA----------------AAAAAA---AAG---
+BAV1165      GGCU---UGAUU----------------------------C---CAA---
+BAV2074      UGAUCGCUUUCC---CGUC----------------GACACA---AAC---
+BAV2114      GGCG---AAAAAA---------------------------A---CUG---
+BAV2480      UGCU-CAUGCCUC-ACGCAU--------------GAUC--U---GGC---
+BAV1155      AGCU---UGCCG---CGAU----------------UUCAAA---CCC---
+BAV0480      UGCU-UCAGCAA--------------------------CGA---UGG---
+BAV0437      AGAUU--UGAAA---GAC--------------------GAA---GGC---
+BAV2895      GUCG---UUUGA---AGUCA--------------UAAAAAA---UGC---
+BAV0558      UGAU-----------CGC----------------------U---GCC---
+BAV0024      UUCU-CCUUCGC---CGAAA--------------CCUGUAA---AGC---
+BAV2319      UGCC-CCCGCAAC--CAAAU--------------UUAAAAA---ACC---
+BAV1108      UGUU---CGAUUA--CGCA-----------------CAAAG---CCC---
+BAV2486      GGAU---UGCCC---UGC--------------------AAA---CCC---
+BAV2141      GUCC-GUUUCUA--------------------------AGC---AAA---
+BAV2172      AGCC-GCUACAUG-------------------------AAA---AAA---
+BAV2723      UGCCAGCUAACAA--UA-A----------------AAA--A---CCC---
+BAV2966      UGAU-CUCGCGC---AGU------------------CAGAA---AGA---
+BAV2511      CGCG-GCUGAAAA--CGCC-----------------AGGCG---CGG---
+BAV3417      AUCU-GAAGUAAG-UGGCC-----------------GUCAU---CGC---
+BAV1418      GGCA-GUUGAUCU--CGC--------------------CGC---CAC---
+BAV0014      UGCUGCAAGUCA--------------------------AAA---ACU---
+BAV0766      AGCCACAUGAGA----------------------------C---AAU---
+BAV2855      UGACU--UGAGC---CG---------------------GCC---CCG---
+BAV1972      GGCC-GCUGCCUG--AGUCCG-------------GUCA--G---GCC---
+BAV2282      ACCU-GAAGCACC-CUAC----------------------C---AUC---
+BAV3202      GGAU-GCUGACC---CGC------------------CCAGG---GGC---
+BAV2327      GGCGG--UUUUA---CGCCAA-------------AGCU--A---GGG---
+BAV2380      GGCU-UACUCCUA--UG---------------------AAA---ACG---
+BAV3247      GGCG-AUAGGGAG--GG-----------------------C---GGG---
+BAV1936      GGCC---UGCGC---GG-----------------------G---CCU---
+BAV1490      GGCC-CCUGGCA---UU---------------------AAG---CAG---
+BAV0034      AGCC---UGGAA---UGCCCCGA---------AGUGAA--A---CGG---
+BAV1073      AGCG-CUUGGCAG--CA--------------------AAAA---ACG---
+BAV3325      AGCC-CCAUCCA----GC--------------------ACG---CCC---
+BAV2110      UGAG-UCCGGGUG--CG---------------------CAG---GCA---
+BAV2469      UGUU-GCUGGGU---UGAU-----------------GAGCA---AGG---
+BAV0061      UGCU-GAAUAAAG--CACUGCCU--------UAAGCGGCAA---AAG---
+BAV1200      GGCCGGUUUUCU---CG---------------------ACA---AGC---
+BAV2354      GGCU-AAAGAAAA--CG---------------------AAA---GCC---
+BAV2184      UGAUCCCAGACCA--GGCCCGCC---------ACCCCAAAA---GAA---
+BAV1055      UGAG-UCAGUCUC-UCGCCGUCUG------GUUGUUGA--U---CGC---
+BAV2348      AGCC---UAAUUA--AGCAC--------------AGAG--C---GCC---
+BAV2514      UGCG-CCCGAGC---UGCGA---------------UCAACG---CCC---
+BAV0827      GGCG-UUUUUUCC--UG-----------------------A---UCG---
+BAV1701      AGAA---AAACCA--AGCAG--------------ACAG-------AC---
+BAV0671      UGUUG-----------------------------------G---CAG---
+BAV1398      GGAU-GCCGCCUG--AG---------------------ACC---GGC---
+BAV2153      GGCU---UGCAA--------------------------GGA---AAC---
+BAV2381      UUCUGCAUGCCCA--U--------------------UAAAA---ACG---
+BAV1062      UGAG-CCGGCCAC--AGAUA--------------AAAAAAG---CAA---
+BAV3416      GGCUA--AUCACC--UGCUC--------------AAGAAAA---AUG---
+BAV1535      UGAU---CGCUA---GUCUUUCA---------UGAGGGCGA---CGA---
+BAV3213      UGAU-GCAGUCA--------------------------GAC---AAG---
+BAV0684      GGCCGGCAGGCUU--GG---------------------CGG---CCA---
+BAV2716      UUCG---UUCUA---UGAUGUA----------AGGCUUCGC---CCG---
+BAV3042      UGAU-UCUGUCAG--CGCCC--------------UUUA--U---CGUC--
+BAV2715      GGCC---UUUACC--GGCCAA------------GCUUAAAC---CCG---
+BAV1860      UGAU---CGCUU---CGCACAU-----------CACGGCAA---GCG---
+BAV1166      UGCGC--UGAUAC--GGC--------------------AGC---CGG---
+BAV3373      GGCU---CGGCCA--UUU--------------------GAU---GGA---
+BAV3292      UGCC-GCGUUAAG--CGCUAGGCC-------UAGGUUCACG---CCC---
+BAV2985      AGCGG--CGACA---AGAAA--------------UAAAAAA---CCG---
+BAV2992      UGCC---CUCCU---GGC--------------------AAG---CCA---
+BAV1598      AGCG-CCUGCGCU--UGCAC--------------GACUCGC---CCG---
+BAV2574      GGCU-CAAAUACU-GAGCCCG------------GCGCCUCA---GGC---
+BAV0983      UGAC---CACCA----------------------------G---CUG---
+BAV0408      GGCU-GCACAGAA--AA-------------------CACAA---AGC---
+BAV1734      GGCGU--CGAUCA--UGC--------------------CGA---GGC---
+BAV1104      AGCCG--AGUCA--------------------------ACG---GGC---
+BAV2388      AGCG---AGCCG---UGCGCACC---------AUCAGC--G---CAC---
+BAV0929      GGCG-CCUGUGC---UU---------------------CAA---GGA---
+BAV0217      GGAC---UGAAAC--CGCU----------------GAA--U---CGA---
+BAV1355      UGAU-GUCGUAG---UGCCCG-------------ACG-CAA---AGC---
+BAV1399      UGAU---UGGCA---UGAUGCA-----------CUGAGACA---GAC---
+BAV0672      UGCCCGCAGCAGC-CCGC------------------UGGCA---GGC---
+BAV3403      UGCGG--UGACG--------------------------GCA---CCC---
+BAV0665      UGCG-CAUAAAA----------------------------A---ACG---
+BAV2128      AGAC---AGGCAG--GGCUAUAC--------AGCCCUCCAG---CGA---
+BAV2916      UGCC-CCACCUC--------------------------GCG---UCG---
+BAV2195      UGCCG--CGACA---GGC----------------------C---GGA---
+BAV0939      UGCC---UGGAG---UGU----------------------G---GCC---
+BAV0012      UUCG---CGUUAU-CUG---------------------CCC---GGG---
+BAV2316      GGCG-CUGGAGU----------------------------A---GGG---
+BAV2390      AGCC-CCUGAGC---CGCUCUCC---------GAAAAGCAA---AAC---
+BAV0566      UGCCGUCAGAGC---CGCCAG------------GAAAAGAU---CAA---
+BAV0496      UGAUCGCGGACU---CGC--------------------GCG---CAU---
+BAV1122      AGCC---AUCUA----------------------------U---CCC---
+BAV2260      GGCUU--AGCCA--------------------------UAG---GGC---
+BAV1821      AGAC-GCACUAAG--GGCA-----------------AA--C---CGG---
+BAV1976      GGCGA--UGAUGG--GGCA-----------------GU--C---UGG---
+BAV0832      GGCU-GAUGCGC---CGCCU--------------CGCG--G---CCG---
+BAV0293      UGAU-CAAGCCCG---------------------------A---UGC---
+BAV2321      UGAC-UUUGAUA--------------------------AAG---ACU---
+BAV2621      CGCG-GCAUCAA---AGCACGG----------CGAAUCGCC---ACG---
+BAV1504      GGCG---UUUGCG--CGCCAG------------CCCUGACA---AAC---
+BAV0495      AGAU---CUACA---GGCAA--------------UCCUCAA---CCC---
+BAV1233      AGAC-CCACAAAC--AA-UAU-------------GCUG-------GC---
+BAV0072      GUCCAGAAGCUC--------------------------ACA---GGC---
+BAV3055      GGAUU--UGAAU--------------------------CAA---GGC---
+BAV3350      GGCGG--CGACCG-CUGAACCA-----------UCGCGCAC---AUA---
+BAV1791      UGCC---CGCAUU-----UU---------------UCA--U---GCG---
+BAV0689      GGCC-CUAAGAA---AGACCG-------------AACU--G---UCG---
+BAV0906      UGAG---UCAGG--------------------------GCG---CGC---
+BAV1969      UGAU---AGCAAG--GGCU----------------GAA-------GG---
+BAV3058      GGCUGGCCGAUC---CGCUAAGCAA----GGGGUAGUU--G---GCC---
+BAV2892      UGCCU--AGCAUC-AAGC--------------------AAA---AAA---
+BAV2170      AGCG---UUACCU--CA---------------------AAA---AAC---
+BAV0966      ACCCG--AGCCU--------------------------GCG---GCG---
+BAV2352      UGAU---UGCCC---GGC----------------------U---UGA---
+BAV3016      AGCCGCUUGCGA--------------------------UUG---CCC---
+BAV2810      AUCG-CCUGCAC---CGCUU---------------CAU--U---GGC---
+BAV0356      GGCU---AAACAC--CG-----------------------G---CCC---
+BAV2894      GUCG-ACUGAGUC-CCGCCCA------------CAGUGAAA---UGC---
+BAV1902      GGCG-CCAGAAAC-------------------------CAC---AAA---
+BAV2415      GGCUUACUGGCC--------------------------GCC---CGA---
+BAV3285      AGCGGCCUGAUU---CGCUGUUG--------UUCGCCGACG---CCG---
+BAV0064      GGCG---GGUAU--------------------------GAA---AAU---
+BAV1204      AUCUGUAAGUCCA--CGC--------------------AGG---CGC---
+BAV2538      ACCC-AUUGAACG--GGC------------------CCCAU---CCC---
+BAV3066      GGCG-GUUGAGC--------------------------------------
+BAV2683      AGCCGCCCAAAAA--AGC------------------AAAAA---ACC---
+BAV2064      GGCC-GCAGCCA---UG---------------------GAU---GAC---
+BAV2539      UGAUCGCCGCCA---AGC--------------------CAU---CCC---
+BAV2050      ACCCGGCGGGCA--------------------------UGC---CUG---
+BAV3349      GGCU-GAAGAACA-------------------------AAA---GCC---
+BAV1435      AGCG---AGGAUU--AGC----------------------A---UGA---
+BAV2917      GCCG-CCUGCAAC--UGCUCU------------AAGUGAAA---AAC---
+BAV2807      AGCA-GUUG-----------------------------GAA---AAA---
+BAV0144      AGCG-CACUCACC--CGCGCCG----------UAGGACAAA---AGG---
+BAV3184      AGCC---UUCACG--CUC----------------------G---AGC---
+BAV0071      UGUG---AGCUUC--UG-----------------------G---ACU---
+BAV0070      UGAG---UGAAU----------------------------A---CGG---
+BAV1270      ACCU---UGUAA---GG---------------------CAU---CGG---
+BAV0023      UCCU-CAAGUAAU--AUCCC---------------AGCACG---AGG---
+BAV3297      AUCU-CUUGAUU---GG---------------------CCG---GCA---
+BAV0758      GGCG-CCAAACU----------------------------C---UGA---
+BAV2548      AGCUC--AUCGA---UGCAA---------------AUC--G---CGG---
+BAV3003      UGCGG--CGCUA---UGC--------------------CGU---GAU---
+BAV0062      GGCU---UGAAUU--CAUA-----------------AAGCA---AAA---
+BAV3303      UGAA-GCAGACA---AGCCAAG-----------GCAGGAAC---GGG---
+BAV2129      GGCG-CUUGAGUA-GGGAUA--------------GCUCAGC---GAA---
+BAV2218      GGCCGGAUGCCAG--UG---------------------AAA---AGA---
+BAV2804      UUCU---UGAUU---UAC----------------------G---CGC---
+BAV1604      AUCC-GCUGGUA---CG---------------------GCU---CCC---
+BAV3002      AGCG-GCAACUC---GG---------------------GGG---CCU---
+BAV0320      UGAU---UUUAAA--UG-----------------------U---CCC---
+BAV1567      AUCC---CGCAA---UGCA-----------------AC--G---CGC---
+BAV2596      GGCU-GAUAUCUC--AAAUUC-------------CUUCGAG---GCA---
+BAV0388      AGCU-CCAAAAC--------------------------GAA---AGG---
+BAV2476      GUCG---UUCAG----------------------------C---GGC---
+BAV0106      GGCG-CCCGCGA--------------------------AGC---CCG---
+BAV0607      AGCGG--UUCUU--------------------------AAC---CCG---
+BAV1737      UGAC---CGUCUA-AAGAA----------------GAACCG---CCG---
+BAV2675      UGAU-GCGGUCUU--UGCU-----------------CUGAA---GGC---
+BAV2668      GGCUCCCCAUGA---CGC--------------------AAC---CGU---
+BAV1996      GGCC---UGGCA---CGCCAGCA--------GCCUGCU--U---GCA---
+BAV1634      GGCG-CCUAAAAA--AA---------------------ACA---GCC---
+BAV2192      GGCG---CCCAC---UGAA----------------AAACGG---CGC---
+BAV3062      GCCG-CCUGAUCC--GG-----------------------G---CGC---
+BAV3040      AUAC---UGAAU---CGA--------------------AAA---AUU---
+BAV2391      GGCA-GCAGGUCG-------------------------CAA---AAC---
+BAV0069      GGCG---AGCUA---UGAC-----------------AACAC---GGC---
+BAV0108      GGCU---CGGUCA--UGCGCUA-----------UAGUCGGG---CGC---
+BAV2843      AGCGGCCAGGCCG--AGU------------------GAAAG---GCU---
+BAV3193      AGUUUUCCGAUA---UG---------------------AAU---AAU---
+BAV1401      UGCG-CUAAUUU--------------------------CCC---GGG---
+BAV1337A     UGCUG--UUUCC--------------------------GAG---CCC---
+BAV1128      GGCU---AAAAU---GGCUGGU----------UGCCGCGAG---AGG---
+BAV3348      AGCC---CCAAG--------------------------AAA---GCC---
+BAV0258      GGCG-CUUCCACC--AG---------------------AAGGCGAGG---
+BAV1080      UGAC-GUAGUAU---CGCUGCU-----------UCAUC--A---UGC---
+BAV1484      UGAU---UGUGUG--AGC--------------------UGA---CCC---
+BAV2193      GUCU---UGUGA---UG---------------------CGG---CGC---
+BAV0317      AGCG-CCAUCACC--CAU------------------CCCAA---AAA---
+BAV1132      UGCCUAUAUGCU----------------------------C---CAC---
+BAV1394      GUCG-GUUGACUC--CGUAA---------------UCC--C---GGC---
+BAV2240      AGCG---CUCCCC--AGC------------------GAGAA---CAG---
+BAV3408      UGUGUGAAGGGA---U--------------------GAAAG---GGU---
+BAV2176      UGAU---UGCUAG--CG---------------------AGA---CGG---
+BAV2928      GGUC---AGCGAC--GGU--------------------GCG---CUG---
+BAV2204      AGCUGUAAGACCA--UGC--------------------AGG---CCA---
+BAV2313      UGAC-CUUUUCA---AG-----------------------A---ACC---
+BAV2481      UGCU---UACGU---UGCCA--------------UCUGGAA---AGC---
+BAV0118      AGCG-GCCGGUCA-GGGCUA---------------CACCGA---CGC---
+BAV1063      GGCC-CAAUCAA---GGCCUUC----------ACGCUCAAG---CAA---
+BAV1240      AGCGGGCAUCAAG--CGCGC--------------AUCU--C---GGC---
+BAV2600      GCCU---CGCGC----------------------------C---GGU---
+BAV1161      UGCG-GAUACCG--------------------------AGA---GGG---
+BAV2118      AGCC---AGCCC---CGCUCCGUG-------AUGUUCCCGU---CGG---
+BAV2671      UUCUUGCUGCAU---CG---------------------GAA---AAA---
+BAV2051      UGAU---UGCCC----------------------------G---CCU---
+BAV3008      AGCU---UUAAA---AGCUAUUCGGAUAGCGGGUCCUGGAA---CUG---
+BAV2406      AGCC---CUCCUC-------------------------ACC---CCG---
+BAV2205      UUAU---UGAGAG-CAGCUA--------------AAAACAG---GCC---
+BAV2092      ACCC-GCUAUUA---UGC----------------------A---GGC---
+BAV2180      UGAC-CCCACGCU--CG---------------------AAA---CCC---
+BAV2977      UUAGACCUGGGCA--CGCCG--------------CCUG--A---GGG---
+BAV2306      GGCUUGACGGUUU--UGC--------------------AUG---GCC---
+BAV0744      AGCG---CCUCA--------------------------AAA---AAA---
+BAV3374      AGCU-UCUUAUC---GGC------------------GCCAG---GAC---
+BAV1462      AGAC-CUUGAAA---UGC----------------------G---CAC---
+BAV1373      GGAU---UGACU--------------------------------------
+BAV2918      GGCC---UGACCA-AAG-----------------------C---GGG---
+BAV2660      UCAU-CCUGACCG--UGUAACG----------CGGAAA-------GG---
+BAV0923      UGCUCGCGGCCU----------------------------G---AGC---
+BAV0109      UGCGCGUUGACA---AGCU-----------------GC--G---CAU---
+BAV0723      UGAG-GUUUGUUG--GGCA----------------GGA------GGC---
+BAV0780      GGAC---UGCGC---CGCCA--------------UCUAAGG---CCG---
+BAV3259      GUCC-UUUUCAA--------------------------GCA---CGG---
+BAV1397      UCAU-GCAGCGGG--CGCC-----------------AUGCA---AGC---
+BAV0935      UGCG---UGAACA-CUGAGCCG-----------AGGAGCGC---GUC---
+BAV0458      GUCG-CCUGACAGUUUGCACA------------AGGGG--C---CGC---
+BAV1932      AUCUUUCUGUAAU--GGUUUG-------------GCACCAC---GAU---
+BAV2868      GGCC-UUUGACAU--CGAU----------------GCGGCG---GCC---
+BAV1213      AGCAG--AGACCC--UGCCA--------------AGCGGGA---AAG---
+BAV0142      UGCU-CUAGACUA-CGGAGAU-------------GCAAACG---GGG---
+BAV3157      UUUU-GCAGAGC---AGCAAAUAGU-----CAGCGUGGCCC---UAU---
+BAV2658      UCCC-GCUGAAAA--CAAGUAAGC-------AGAUCACAAA---ACG---
+BAV3171      GGCG-GCUUAAGC--CGCCA--------------GGACCGG---GCG---
+BAV0352      AGCUUGCUGCUC---GG---------------------CCA---AGA---
+BAV2727      AGCCGGUUUUGCA--GGCC----------------UAGAGU---CCA---
+BAV1562      GGAG-CCGGCUA---CGCUG---------------GAA--G---UCC---
+BAV2846      GGAU---AGGAAA-AAG-----------------------G---CCA---
+BAV2733      UGCCG--CGCAA---CGCCUUC----------UGAAGCGCG---CGC---
+BAV1485      GGCGUGCAGGCC----------------------------G---CUG---
+BAV2268      GGCG---CGACA---AGC-------------------C--G---CUG---
+BAV2832      UGCG---GGGAAG-CUGA--------------------ACG---CCU---
+BAV1578      UGAU---UGACCG-CAGCAGA------------GAACUCAA---GUG---
+BAV2950      GUCU-AAAGCCCC--AGC----------------------G---GCG---
+BAV2942      GGCU---UGACAA--UG---------------------AUU---UAU---
+BAV1498      GGCG-GCAGCAUC--CAC------------------GC--A---AAA---
+BAV1454      GGCG-CUAUACUC--AA-----------------------A---UGU---
+BAV0735      GGAC---UGAUCC-CGGCAUG------------AUGUCCAA---GGC---
+BAV1852      UGCU---UGAUCC--CGAGA---------------UCC--G---GGC---
+BAV1180      UGCU-GAAGUAAU--CGCAUG------------UUCCAGAU---UGG---
+BAV2177      UGCGUCUUUGCUG--GGCUGAA----------UGCUUUCCC---GGA---
+BAV1777      UCAC---CUACU---CGUAA--------------ACCGCGA---GGG---
+BAV1481      GGCG-CUAGCCC---GACCAA-------------AAUAAUA---AAG---
+BAV2680      UUUU-UCAGGUUC--UG---------------------AAU---CGA---
+BAV1839      AGCU-GUAGAGG--------------------------GUU---GCC---
+BAV1497      GCACGUCUGAUA---AGCGU---------------UAAGUG---CUU---
+BAV3422      AGCC---UUCAA---CGCCUU-------------CCUCAAA---CCG---
+BAV2965      GCCG-CCUGAUCC--AGCAGA-------------AUACGAA---AAA---
+BAV2014      GGCC---CGGCCC--UG---------------------ACA---GCU---
+BAV2402      UGCG-GAAUAAAC--GGC---------------------------GC---
+BAV2331      UGCU---CGCCCG--AG-----------------------U---CGA---
+BAV3386      GGAC-GCUGCGU----------------------------G---UAA---
+BAV2785      GGCCU--UGCCGC--CGC--------------------CCU---GAU---
+BAV2525      AGAU-UUAAAAAA--AGCCUAUU---------CGAUGG--G---CGU---
+BAV2185      AGCU----------------------------------AAA---AGA---
+BAV3410      AGCCG--AGACAU--UG-----------------------A---GCC---
+BAV0010      UGCU-GCUGUCA---AA-----------------------G---ACC---
+BAV2601      UGACG--UGCAU--------------------------------------
+BAV2338      GGCU-CCAGCAG---UACCU--------------UUUGUUG---CCC---
+BAV3074      GGCG-UCUGAGCA--GGCUU--------------UUCGAGA---CA----
+BAV2607      GGCG-CCAACCU---AGAAA--------------CCUCAAA---UCC---
+BAV3118      AGCC-----CAA----------------------------G---CUG---
+BAV0137      AGCG-GCUUACGC--CGAUG--------------UCUG--G---GAA---
+BAV0158      AGCGGUCUGAUCG--CGAACGGUC------AGCGUCCGAAC---CCU---
+BAV2446      UGAC-UCUGACUC-UGGUCUAAG---------GGGUUC--A---GCG---
+BAV0438B     GGCG-GAUGAAC--------------------------CGC---CAC---
+BAV2796      GGCGA--AGUAAG--UGUC----------------CCC--C---CCA---
+BAV3351      UUCG---UUUAC---CGUCAA-------------CAAAAAA---CCG---
+BAV0493      UGAU---CGGCA---CGUCA---------------AAAAAA---CCG---
+BAV2265      GGCC---UGAUUU-CUG---------------------CCC---UGG---
+BAV1056      GGCU---UGAGG----GCAAAAU---------CAUGUAAAC---CCC---
+BAV0890      UGAU-CUCGGGA--------------------------CGG---AGA---
+BAV2996      UGAU---GGCGA----------------------------C---AGG---
+BAV2379      GCCUAGCGGACA----------------------------G---CGC---
+BAV1178      AGACC--UAUGC----------------------------G---GAC---
+BAV1123      GGCC---AGGCUU--GGCAAU-------------UUGAGGU---GCC---
+BAV3182      AGCA---AGGUC---UGUACUAAA------AGUCUGCC--U---GAG---
+BAV2182      UGAUGGCAGCGCU--UGA----------------------A---CCAAUG
+BAV2875      GGUU-CAUGAAU---UGAU----------------UUCAGG---GAU---
+BAV1532      UGAUGGCUGUCU----------------------------G---CCA---
+BAV1152      GUAU-GUAAUCC--------------------------UCA---GGG---
+BAV1545      UGCC-GCAGCAAU--AGA-------------------AACG---GGC---
+BAV3254      UGCG---CGAAU---CGCAA--------------GAAA-------AG---
+BAV0103      GGCG-CUUCCCCA--UU-----------------------A---ACC---
+BAV2033      GUCC---UGAGCC--GGCU----------------AGAAAG---CGC---
+BAV1476      UGCU-GACGAAUG-UGGUU----------------CCU--A---GCC---
+BAV1792      AGCC---GGCUAA--GG---------------------CCU---UAA---
+BAV2981      AGCG---AUCAC---UUC------------------UG--C---GGG---
+BAV0060      UGCG-GCUGCCA---AACU-----------------GA------------
+BAV0731      GUCU-GCGGCCU--------------------------GGA---CAU---
+BAV1931      AGCC---UGUAA---UGCUCUAAG------GCUGAAGG--C---CCC---
+BAV0178      UGCC---CGCUA---UGC----------------------C---AGA---
+BAV2335      GUCU---UGAUA--------------------------AAA---CCG---
+BAV3200      AGCU---UUACA--------------------------ACA---AA----
+BAV1897      UGCC-GCAAACC---CGUUGAC----------CAACGG-------CG---
+BAV0629      GGAGA--CGACG--------------------------GCC---AGG---
+BAV3060      UGUUCCCAGGAA---AG---------------------AAA---CCG---
+BAV1960      GGAC---AGGGU--------------------------GGC---CGCA--
+BAV2620      GUCC-GCAAAUA---AGCUU--------------GUUG--A---CGC---
+BAV0853      AUAG---AGUAAA--CGC------------------CAAAA---AAA---
+BAV1116      AGCG-CAAGAAU---UGAAAU-------------CACC--U---CGG---
+BAV3061      AGAGUCCUGAAA--------------------------CGC---GGG---
+BAV1409      GGCC---CGCAUG-------------------------CCG---GCU---
+BAV2068      GGCUGCCUGAUCG--CGUUCAUUCUC---GCGGAUCGCUGC---AAA---
+BAV1290      AUCG---AGAGCU--GGC----------------------C---GAG---
+BAV0565      UGCUGGCAGACU--------------------------GAU---CAAC--
+BAV0538      UGCG---CCCCU---GGCC-----------------UCGAA---CCC---
+BAV2159      UGAG-UCAGGAC---AGC----------------------G---CAU---
+BAV2109      UGCU-CUGGGCGC--AGCA----------------CGACAG---GCA---
+BAV2903      UGCG---CAACUA--AGCAA---------------GCC--C---GGC---
+BAV2565      ACAG-GCAGCCA---AGCA-----------------AC--A---AGG---
+BAV1316      AGAC---AUAAAC--GGCU----------------UUU--U---GCU---
+BAV0696      UGCC---AGACAC-------------------------AAC---CCU---
+BAV2644      UGAG-CAGGCGC--------------------------AGC---CAG---
+BAV1434      UGAGAUCGGAAAA-UAGAAG---------------ACCAAC---GCC---
+BAV3172      GGCC---UAGGCG--GGC----------------------G---CCG---
+BAV1086      UGCC-GCUUCGCC--AGA--------------------AAA---CCC---
+BAV2724      UGAUUGCAUCCU--------------------------UGA---CCC---
+BAV2575      GGCG-CCUGAGGC---------------------------G---CCG---
+BAV0970      AGCC---AGGCUA--AG---------------------------------
+BAV0453      UCCU-CAAACCCU-UCGCAA--------------AAACGAU---AAA---
+BAV1699      AGCC---GGUUUU-------------------------CCU---UGA---
+BAV3294      UGAUUCACGCUA----------------------------G---GGC---
+BAV0933      GGCUG--AGCCAU-UU--UCAAUAA----ACCUGGAUUGCA---ACG---
+BAV0054      AUCCAGAUGCAA----------------------------G---GAG---
+BAV0446      AGCCGCCUGAAC---CGC-------------------C--C---CCG---
+BAV0445      AGCUCGCCGACUG--AGCCCGG-----------CCCAC--C---GCC---
+BAV3102      ACCU-GCCGCCCU--CGAU----------------AAAAAG---GGC---
+BAV1310      GGCU-UCUGCGCC-CUGAAGA-------------AACGCAG---CCC---
+BAV2349      UGCU---UUCCA---AGUCGAU----------UCGAUG------------
+BAV2667      UGCGG--UAAGU---AG---------------------AAA---CGG---
+BAV3195      GGCG-CUUUAACU---------------------------U---UGU---
+BAV0726      GGCC---AGCUCG--GGA------------------CAGAU---AAC---
+BAV1626      UGCGG--GGGGU---UGC----------------------G---CCG---
+BAV2609      AGCG-GUAAAAAA--AGU----------------------G---CCC---
+BAV3088      UGAU---UGGCUC--CGUAGUAC---------CUCUUGAAA---UGC---
+BAV2409      UGCGGCCCGCGCC--GGCA-----------------UCGGC---GCG---
+BAV2518      AGCCGGUUGCCC--------------------------AAA---AGC---
+BAV0924      GGAC---UGAACC-AUGAAAAAAA------UCAGCGUC--G---AGU---
+BAV2261      UGAGG--AGAUC----------------------------------G---
+BAV0688      GGCC---CAAUCC--CGCAC--------------CCUG--A---GCG---
+BAV0852      UCAU---AGCUUC--GGCAAG------------UCACAAAA---AAU---
+BAV0748      AGCU---UUAAUU--CGC-------------------A--------G---
+BAV0908      GGCG-CUUGAAUC-AGGCAU---------------GAA--C---CGG---
+BAV2094      UCAGGGCAGACA----------------------------A---GCG---
+BAV0887      UGAU-GUAGGCCG--AG---------------------GGG---CG-A--
+BAV0503      UGCCGGUCGCCAA-AUGAG----------------CGG--U---GGG---
+BAV2755      UGCG-GACAAAC---CGCGGUC-----------UCACC--U---GGC---
+BAV0537      GGCG-CAUGGAUA---------------------------A---CGC---
+BAV0901      GGCCCCCCCAGUC-AUGCC-----------------CG--G---CAG---
+BAV2420      UGACAGCAGCACC--C----------------------GCG---CAG---
+BAV3017      GUCG---AGAUC---CGCUA--------------GCCA--A---CGG---
+BAV1702      GGCC---UGACAGGGGGCCCAUC---------AACCCGGAC---CCG---
+BAV2941      UGCC-CUCGACGG--CG---------------------UCA---GGA---
+BAV3151      AGCC---UGAUCA--GGCCAC------------CAGAC--G---AGC---
+BAV2623      AGCG---GGUGA---AG---------------------CCA---CGG---
+BAV0201      GGAG---UUAGU---AGAAA--------------ACUA--U---UAG---
+BAV2194      UGAU-GCAGGGC---AG-----------------------------G---
+BAV1890      AGCG-CCUGAACA--CGCA----------------CAGACC---CAG---
+BAV2790      GGCC---UGAAA---UGC--------------------AAA---ACG---
+BAV0472      ACCC---AGGUCC--AGC--------------------AAA---GGG---
+BAV2293      UCCU-GAAGCGAC--GGCAAA-------------CACAGGC---CUG---
+BAV1891      UGCU---UGAUAC--AG---------------------ACC---CAG---
+#=GC SS_cons ::::.::::::::..:::...................:<<<...<<<...
+#=GC RF      uGCu.gCuGacac..cGC...................aaAa...cgc...
+
+BAV1660      -G-C-UU-----CGC-AUCGUCU-----------CAUGCG------AA-G
+BAV1223      -G-G-C-G----UCC--UAAA---------------UGGA----C--G-C
+BAV0787      -G-G-C-G----CCC--UUG------------------GG----C--G-C
+BAV2459      -G-C-C-G----CCU-AUCG-----------------AGG----C--G-G
+BAV2791      -C-C-C-U----GCU--UGC------------------GC----A--G-G
+BAV1536      -A-C-C-G----GCU--UGA-----------------UGC----C--G-G
+BAV3145      -U-G-C-GAUGC--------GCCUUU----UGGCGUAA------C--G-C
+BAV0865      -G-C-C-U----GGA--CCGCGUG---------AGCGGCC----A--G-G
+BAV2969      -G-G-C-C----GC--GCAA------------------GC----G--G-U
+BAV2509      -G-C-C-A----GUC--UGU-----------------GAC----U--G-G
+BAV2228      -G-C-C-A----CCC-GCAG-----------------AGG----U--G-G
+BAV2569      -C-C-G-G----GUA-A-AAUUGAUAA--AUUAAUUUUAC----C--C-G
+BAV0115      -C-G-G-C----GCC--UGU-----------------UGC----G--C-C
+BAV1027      -U-G-G-C----GCU--UAC-----------------UGC----G--C-C
+BAV0139      -G-A-C-A----CCA--CAU------------------GG----U--G-U
+BAV0140      -G-A-C-A----CCA--UGU------------------GG----U--G-U
+BAV1506      -C-C-G-C----GC--C-AA-----------------GGC----G--C-G
+BAV0471      -G-C-G-C----CCA--UCUCG------------CGAUGG----G--C-G
+BAV2510      -C-C-C-G----CCA-GUCACA------------GACUGG----C--G-G
+BAV1028      -U-G-G-C----GCA-GUAA------------------GC----G--C-C
+BAV1495      -G-C-C-C----CAU--CAC------------------UG----G--G-G
+BAV2669      -C-C-G-C----UC--G-AA-----------------AGA----G--C-G
+BAV3208      -A-C-CCA----CCA--UGUCA------------UCACGG----U-CG-G
+BAV1494      -C-C-C--------A-GUGA-----------------U---------G-G
+BAV0196      -G-G-U-G----AC--G-GAA--------------UCCGU----C--A-C
+BAV0195      -U-G-A-C----GGA--U-------------------UCC----G--U-C
+BAV1097      -G-A-C-G----CC--GCGC-----------------AGG----C--G-U
+BAV2670      -C-C-G-C----UCU--UUC------------------GA----G--C-G
+BAV0249      -G-C-C-G----GCU-A-AA------------------AC----C--G-G
+BAV0900      -C-C-U-GGAUGCGC--UAG------------------CGCAUUC--A-G
+BAV0899      -C-G-U-G----UCC--UUGCG------------UGAGGG----C--A-C
+BAV1728      -C-C-U-G---UGCC--UUC-----------------CGC---GC--A-G
+BAV1889      -G-C-C-G----GCC--CCG-----------------UGC----U--G-G
+BAV1665      -G-C-C-G----CCC-AC-------------------GGG----C--G-G
+BAV1724      -U-G-C-A----CCA-AUUU------------------GG----U--G-C
+BAV1072      -C-C-A-G----UC--GUGA------------------GA----C--U-G
+BAV3262      -G---G-C----GCU--UUG------------------GC----G--C--
+BAV2242      -C-C-C-U----GCA--CAA-----------------CGC----A--G-G
+BAV3411      -U-G-G-C----G-C--CAG-----------------G-C----G--C-C
+BAV3347      -G-G-C-C----CCU--UCCGUUC---------AAGAAGG----G--G-C
+BAV2169      -C-C-A-G----GC--U-AG------------------GC----C--U-G
+BAV0167      -U-C-CAG----GGC-GUAAU---------------CGCC----C--G-G
+BAV2938      -A-G-G-C----GCU-AC-------------------GGC----G--C-C
+BAV1150      -G-G-C-G----GCC-CUUG-----------------CGC----C--G-C
+BAV0788      -G-G-C-G----CC--C-AA-----------------GGG----C--G-C
+BAV0448      -C-G-G-A----CCC-G-AUC---------------AGGG----U--C-C
+BAV1903      -G-C-C-G----CCC-G-AUGA-------------CAGGG----C--G-G
+BAV2604      -C-U-UGG----GCU--UUC------------------GC----C-UA-A
+BAV1836      -G-C-A-G----GGC--UUG------------------CC----C--U-G
+BAV2096      -C-C-C-G----GCA--UUC------------------GC----C--G-G
+BAV1668      -C-A-U-G----CCC--CUCG---------------CGGG----C--A-U
+BAV0553      -A-C-C-A----CCA-A-GAGU-------------AGCGG----U--G-G
+BAV2566      -G-C-CCG----GC--G-AA-----------------UGC----C-GG-G
+BAV0447      -C-G-G-A----CCC--UGAU---------------CGGG----U--C-C
+BAV2714      -C-C-C-G----CC--GUAC----------------GCGG----C--G-G
+BAV2984      -C-C-U-G----GCU--CAC------------------GC----C--A-G
+BAV2229      -G-C-C-A----CCU-CUGC-----------------GGG----U--G-G
+BAV1151      -G-G-C-G----GC--GCAA----------------GGGC----C--G-C
+BAV2489      -C-C-C-G----CC--A-AA-----------------UGG----C--G-G
+BAV2113      -G-C-U-G----CCU--UGA----------------CGGG----C--A-G
+BAV2986      -G-C-C-G----CUC-ACAG------------------GG----C--G-G
+BAV0555      -A-C-C-G----GCA-G-GCC---------------AGGC----C--G-G
+BAV2593      -A-C-G-G----CCC--UGA----------------CGGG----C--C-G
+BAV2365      -C-C-C-A----GGU--UUUG--------------CGACC----U--G-G
+BAV1041      -A-C-A-G---UCCU--U--------------------CGC--CC--U-G
+BAV2515      -C-G----------C--UGGUAU-----------CCAG-----------C
+BAV2037      -G-G-C-G----GGC--UCG------------------CC----C--G-C
+BAV2836      -A-G-G-C----GGA--UCAC---------------AACC----G--C-C
+BAV0121      -C-C-U-G----GUU-AUGA------------------AC----C--G-G
+BAV3179      -G-C-G-G----CCU-AC-------------------GGG----C--C-G
+BAV1417      -U-C-C-U----GCC--CAC----------------GGGC----A--G-G
+BAV1346      -G-C-C-U----CGC--UUA-----------------GCG----A--G-G
+BAV0556      -A-C-C-G----GCC--UGGC---------------CUGC----C--G-G
+BAV1195      -U-C-C-U----CCU--UGU------------------CG----A--G-G
+BAV1492      -C-C-C--------C-GCAA-----------------G---------G-G
+BAV1194      -C-C-C-U----CGA--CAA------------------GG----A--G-G
+BAV2512      -C-G-A-U----GGU--CGA----------------AGCC----A--U-C
+BAV2156      -C-G-C-G----CCU--UUC-----------------AGG----U--G-C
+BAV0006      -C-G-G-G----GCC-GUCA-----------------GGC----C--C-C
+BAV1605      -C-C-U-G----CCA-G-AA-----------------ACG----C--A-G
+BAV1004      -G-C-C-G----GCA--UCUGAA----------CGAUUGC----C--G-G
+BAV2140      -A-C-G-C----CCC-UUUC-----------------GGG----G--C-G
+BAV2355      -C-C-C-G----GAU--UGAU--------------GAAUC----C--G-G
+BAV3346      -C-C-C-U----UCU--UGAA---------------CGGA----A--G-G
+BAV1205      -U-C-A-G----CCC-GUCA-----------------GGG----U--U-G
+BAV0192      -G-C-C--------C--C-----------------------------G-G
+BAV0745      -G-G-A-G----CCC-G-CA------------------GG----C--U-C
+BAV2919      -C-C-AUG---CGCU--U--------------------GC---AC-AU-G
+BAV3424      -C-C-AAG----ACC--UAA-----------------AGU----C--U-G
+BAV3192      -C-C-C-G----GCC-GUCG------------------GC----C--G-G
+BAV0348      -C-C-G-G----CCA-GUCUG--------------ACUGG----C--C-G
+BAV1703      -U-C-U-G----CCC--CAGCAGCCUAG-GGCUGUUUGGG----C--A-G
+BAV2112      -G-C-U--------A-A-AA-----------------U---------A-G
+BAV1635      -U-C-U-G----ACC--UGA------------------GU----C--A-G
+BAV3269      -G-A-C-C----GCC-AUCA------------------GC----G--G-U
+BAV2267      -G-G-C-G----CC--GCAA------------------GG----C--G-C
+BAV1145      -G-C-C-G----GCU--UUA-----------------CGC----C--G-G
+BAV2408      -G-C-A-G----CCU--UCG------------------GG----C--U-G
+BAV0466      -C-U-G-A----UGA--CAU-----------------UCA----U--C-G
+BAV0135      -G-G-G--------U-CCAA-----------------G---------C-C
+BAV2685      -A-C-C-G----GCC-G-ACA---------------UGGC----C--G-G
+BAV1819      -G-CCC-G----UCA-ACCU-----------------CGA----C--GCG
+BAV1164      -G-G-G-G----UGU--UGGCGGC--------AAGCCACA----C--C-C
+BAV2155      -C-G-C-A----CCU-G-AA-----------------AGG----C--G-C
+BAV1165      -C-G-G-G----GUC--UGAA---------------AGAC----C--C-C
+BAV2074      -G-G-C-G----CC--GCAA------------------GG----C--G-C
+BAV2114      -G-C-U-G----CCC-GUCA-----------------AGG----C--A-G
+BAV2480      ---G-C-G----GC--G-GG------------------GC----C--G-C
+BAV1155      -U-G-G-G----CGC-G-AA----------------CAUG----C--C-C
+BAV0480      -G-C-C----------GCAA---------------------------G-G
+BAV0437      -C-C-C-G---ACCU--UGGG--------------AGAGGU--GC--G-G
+BAV2895      -C-C-C-U----CUC--UGGCCGCUG-----UCGCCAGGG----A--G-G
+BAV0558      -G-G-C--------U--U-----------------------------G-C
+BAV0024      -G-G-C-C----GCU--CUUCGAA--------AGAAGCGC----G--G-U
+BAV2319      -C-C-C-G----GCU--UCCAU-------------GAAGC----U--G-G
+BAV1108      -C-C-C-UU-GCGCU--UUA-----------------AGCA-CAA--G-G
+BAV2486      -U-C-CCG----CAU-C-CA----------------GGUG----C-CG-G
+BAV2141      -C-G-C-C----CC--G-AA-----------------AGG----G--G-C
+BAV2172      -G-C-C-G----GCC--UGCU---------------GUGC----C--G-G
+BAV2723      -C-C-G-G----CC--GCCA------------------GG----C--C-G
+BAV2966      -A-G-C-C----CCU-GC-------------------GGG----G--G-C
+BAV2511      -C-G-A-U----GGC-UUCG-----------------ACC----A--U-C
+BAV3417      -C-C-U-C----GGU--CAAA---------------UGCC----G--G-G
+BAV1418      -C-G-CAA----GC--GCCC------------------GC----U-UG-C
+BAV0014      -G-C-C-G----GCC--CUG-----------------UGC----C--G-G
+BAV0766      -G-C-C-G----GCC--UGAA---------------CAGC----C--G-G
+BAV2855      -G-A-C-U----GAC-A-GG-----------------AUC----A--G-U
+BAV1972      -G-G-G-U----UCU--CGACGUAUU-----GCAGCGAGA----A--G-C
+BAV2282      -G-C-G-G----CCA-AUAAA--------------CCAGG----C--C-G
+BAV3202      -G-C-C-G----CC--G-AU------------------GG----C--G-G
+BAV2327      -C-U-G-A----CCU--UGGGUUG---------UAUCGGG----U--C-A
+BAV2380      -G-C-C-GC--GUCC-G-AC-----------------GGAA-AGC--G-G
+BAV3247      -A-U-A-A----GCU--UUG-----------------UGC----U--U-A
+BAV1936      -G-C-U-G----CGU--UUCAAUA---------AGAAGCG----C--G-G
+BAV1490      -A-G-C-G----CC--G-CC------------------GG----C--G-C
+BAV0034      -C-A-G-G----GAU--UGC-----------------AUC----C--C-U
+BAV1073      -C-C-A-G----UCU--CAC------------------GA----C--U-G
+BAV3325      -U-U-CGC----GGU-CUUAUU------------GCGGCC----G-GG-A
+BAV2110      -U-C-U-G----CCC--CCUGU-------------GCGGG----C--G-G
+BAV2469      -G-C-C-G----UGC--UGC------------------UA----C--G-G
+BAV0061      -C-G-G-A----CCU--UCG------------------GG----U--C-C
+BAV1200      -C-C-C-U----GGU--UUU-----------------GCC----A--G-G
+BAV2354      -C-C-C-G----GAU--UCAU--------------CAAUC----C--G-G
+BAV2184      -C-C-C-G----CC--GCUC-----------------AGG----C--G-G
+BAV1055      -G-C-U-G----GCU-GU-------------------UGU----C--A-G
+BAV2348      -C-C-U-G----GA--GCAA------------------UC----C--U-G
+BAV2514      -C-G-G-A----CGC--UGGAUA-----------CCAGCG----U--C-C
+BAV0827      -G-A-C----------GCAA---------------------------G-U
+BAV1701      -C-G-CAA---AGGU--CAG------------------CC---AU-CG-C
+BAV0671      -G-CAC-G----GCU--UGA----------------GGGC----C--GCG
+BAV1398      -C-G-G-C----GC--A-AA-----------------GGC----G--C-C
+BAV2153      -C-C-G-G----UCA--UCA-----------------UGG----C--C-G
+BAV2381      -G-C-C-GC-UUUCC-GUCG------------------GAC--GC--G-G
+BAV1062      -G-C-G-G----CGU-AU--------------------CG----C--C-G
+BAV3416      -C-C-G-U----GCU--UCA-----------------UGC----A--C-G
+BAV1535      -A-C-C-G----GCA--UCA-----------------AGC----C--G-G
+BAV3213      -G-C-G-G----CCU--UCG------------------GG----C--C-G
+BAV0684      -G-G-U-G----GCU--UGGC---------------UGGC----C--G-C
+BAV2716      -A-U-A-A----CC--GCCAG--------------UUUGG----U--U-A
+BAV3042      AG-G-C--------C--UGU-----------------C---------G-C
+BAV2715      -G-ACC-G----GGC-GUCA----------------UGCC----C--GAU
+BAV1860      -G-C-C--------U--UCG---------------------------G-G
+BAV1166      -G-G-C----------GUAA---------------------------G-C
+BAV3373      -C-C-C-G----UCU--U--------------------GA----U--G-G
+BAV3292      -G-G-C-U----GGC-GCUAC--------------GCGCC----A--G-C
+BAV2985      -C-C-U-G----GC--GUGA------------------GC----C--A-G
+BAV2992      -U-C-A-G----GCU--CUG-----------------UCC----G--G-G
+BAV1598      -U-C-U-U----GCC-CUGAG--------------GAGGC----A--G-G
+BAV2574      -G-C-C-G----UCC--UUGG---------------ACGG----C--G-G
+BAV0983      -C-G-C-G----CCC-GCAG----------------AGGG----C--G-C
+BAV0408      -C-C-C--------A--UCA-----------------A---------G-G
+BAV1734      -G-G-G--------C--U-----------------------------C-C
+BAV1104      -G-C-UAA----UC--GCAU------------------GA----U-UA-G
+BAV2388      AC-C-G----------G-AA---------------------------C-G
+BAV0929      -G-C-C--------U--UAG---------------------------G-G
+BAV0217      -G-A-C-A----GGC-G-GC-----------------CCC----U--G-U
+BAV1355      -C-C-C-U----UGA-G-GUCAGUU-------CCCUCUCA----A--G-G
+BAV1399      -C-G-G-C----GCC--UUU------------------GC----G--C-C
+BAV0672      -G-C-G-G----CCC--UCA------------------AG----C--C-G
+BAV3403      -C-A-G-A----UCU-G-GCUAAU--------UGUCCGGA----U--C-U
+BAV0665      -G-C-C-U----UCC--UUG------------------GA----A--G-G
+BAV2128      -G-G-C-C----GGA--CACU--------------AUCCC----G--G-C
+BAV2916      -G-G-A-C----GGU--CUAC--------------CGGCC----G--U-C
+BAV2195      -A-C-C-G----CCU--UAU------------------GG----C--G-G
+BAV0939      -U-C-U-G----CCA-G--C-----------------GGG----C--A-G
+BAV0012      -G-A-CAG----CGC--UAU-----------------UUG----C-AG-U
+BAV2316      -C-G-GGG----CCA--UGGUAAGUUGU-GUCGAGAAUGG----C-GC-C
+BAV2390      -G-C-C-C----CG--A-AA------------------CG----G--G-G
+BAV0566      -C-C-C-G----GC--GCAA------------------GC----C--G-G
+BAV0496      -C-C-C-U----CG--GC-------------------GCG----A--G-G
+BAV1122      -G-U-C-G----UCU--CCG------------------GA----C--G-U
+BAV2260      -G-C-U-U----CCC-GUCA----------------AGGG----A--A-G
+BAV1821      -C-C-C-G----GCA--U--------------------GC----C--G-G
+BAV1976      -C-C-U-G----CCA--UCGCCAU--------GACAAUGG----C--G-G
+BAV0832      -C-A-C-G----CCC-GCUC-----------------AGG----C--G-U
+BAV0293      -G-C-A-U----GCC--UCUACAC---------UAGCGAC----A--U-G
+BAV2321      -U-A-U-C----CAC--UGCUU-------------UUGUG----G--A-U
+BAV2621      -G-A-A-A----UCC--C--------------------GG----U--U-U
+BAV1504      -C-U-U-C----CGC--CAA----------------CACG----G--A-A
+BAV0495      -C-A-A-G----CGC--UGGCAU----------UCCCGCG----U--U-U
+BAV1233      -G-C-C-G----CCU-AUAA------------------GG----C--G-G
+BAV0072      -G-U-A-C----CGU--CAG------------------CG----G--U-A
+BAV3055      -C-C-U--------U-GC-------------------G---------A-G
+BAV3350      -U-C-G-G----CGC--UUGCGGAUUU---GCACGCCGCG----C--C-G
+BAV1791      -G-G-C--------C--UCA-----------------G---------G-C
+BAV0689      -U-G-G-G----GCU--UAA-----------------AGC----C--C-C
+BAV0906      -C-G-G-C---C----GCACUU-------------GCC------G--C-C
+BAV1969      -C-C-CGG----CCA--UACAUUGUUC--AACAAUGCGGG----C-UG-G
+BAV3058      -G-G-G-C----GC--G-AU------------------CC----G--C-C
+BAV2892      -C-C-G-G----CCA--U--------------------GG----C--C-G
+BAV2170      -C-C-A-G----GCC--U-------------------AGC----C--U-G
+BAV0966      -C-C-G-U----UCA--UUG-----------------CGA----A--U-G
+BAV2352      ---C-U-G----GCC--UGC----------------UGGC----C--A-G
+BAV3016      -C-C-A-C----GGU--UUAU---------------CGCC----G--U-G
+BAV2810      -C-G-C-C----GCC-AUACCC-------------AUGGC----G--G-C
+BAV0356      -U-C-G--------U--UUG---------------------------C-G
+BAV2894      -C-C-C-U----CCC--UGGCGACAG-----CGGCCAGAG----A--G-G
+BAV1902      -G-C-C-G----CCC--UGUCA-------------UCGGG----C--G-G
+BAV2415      -G-G-C-G----GAU-GCGGAGCCAGAC-UCCGUUUGGUC----C--G-U
+BAV3285      -G-U-G-C----UCU-GUGU-----------------GGA----G--C-A
+BAV0064      -G-G-C-G----GCU--CGA-----------------GGC----C--G-C
+BAV1204      -A-GCC-G----GGC-UUAG-----------------GCC----C--GCC
+BAV2538      -A-C-G-C----AGC-GC-------------------GCU----G--C-G
+BAV3066      ---C-C-G----GCU--CAG------------------GC----C--G-G
+BAV2683      -G-C-C--------A--U-------------------U---------G-G
+BAV2064      -C-C-C-G----CCC-ACAC-----------------CGG----C--G-G
+BAV2539      -A-C-G-C----AGC-GC-------------------GCU----G--C-G
+BAV2050      -C-C-U-G----CG--GCGGA---------------UGCG----C--A-G
+BAV3349      -C-G-C-A----GGC--CUA-----------------GCC----U--G-C
+BAV1435      -C-G-C-A----GCC--CAA------------------AC----U--G-C
+BAV2917      -G-G-C-G----GCU--CAA------------------CC----C--G-C
+BAV2807      -G-C-U-C----CCU--C-------------------UGG----G--A-G
+BAV0144      -G-C-U-A----UGC--CGACC-------------AUGCA----U--G-G
+BAV3184      -G-A-C--------U--CGA-----------------U---------A-U
+BAV0071      -U-A-G-A----ACU-G-GA-----------------UGU----U--C-U
+BAV0070      -C-G-C-U----GCC--CAGAU------------CAAGGC----A--G-C
+BAV1270      -C-C-G--------C-G-AAUG-------------UAU---------C-G
+BAV0023      -G-C-G-G----UCA-G-GCU--------------GUUGG----C--C-G
+BAV3297      -G-G-G--------U-GUUC-----------------U---------C-C
+BAV0758      -G-C-G--------U--CUG---------------------------C-G
+BAV2548      -G-A-U-G----GCU-GU-------------------CGC----C--A-U
+BAV3003      -C-G-G----------C-AA-----------------U---------C-C
+BAV0062      -G-C-G-G----ACC--CGA----------------AGGU----C--C-G
+BAV3303      -G-C-C--------U--UUC---------------------------G-G
+BAV2129      -G-C-C-G----GGA--UAG----------------UGUC----C--G-G
+BAV2218      -C-C-G-G----GCA--UAG-----------------CGC----C--C-G
+BAV2804      -G-G-C-G----GCU--CGCCC------------AUGGGC----C--G-C
+BAV1604      -C-C-U-G----CGU--UUC-----------------UGG----C--A-G
+BAV3002      -GCG-C-C----GGU--UCA-----------------CCC----G--G-C
+BAV0320      -G-G-U-C----UCA-A-GA-----------------CGA----G--A-U
+BAV1567      -A-C-C-G----GCA-G-AAUCCGCA----AUGUUCUGGC----C--G-G
+BAV2596      -G-G-U-C----GUU--UCAUG-------------ACGGC----G--G-C
+BAV0388      -C-C-U-U----UCA--UUAAU------------GAGUGA----A--G-G
+BAV2476      -G-C-U-G----G-U-GUUC----------------CG-C----C--A-G
+BAV0106      -C-CU-CG----AGU-GCAA-----------------GCU----CGC-AG
+BAV0607      -G-C-A-U---ACGC--CAAG---------------CGCG---CA--U-G
+BAV1737      -C-ACG-C----GCA--UUU------------------GC----G--C-U
+BAV2675      -G-G-C----------G-AA-----------------A---------G-C
+BAV2668      -G-G-U-C----GCU-GCGACGAU--------GUCGCGAC----G--G-C
+BAV1996      -G-C-G--------U--CCC-----------------U---------C-G
+BAV1634      -U-C-U-G----ACU--CAG------------------GU----C--A-G
+BAV2192      -G-C-CCG----CCC--UGAC---------------CGGG----U-AG-G
+BAV3062      -G-G-G-G----GC--GCUA-----------------AGC----C--C-C
+BAV3040      -------G----AC--GUAA------------------GU----C--A-C
+BAV2391      -G-C-C-C----CGU--U-------------------UCG----G--G-G
+BAV0069      -G-C-U-G----CCU--UGAU--------------CUGGG----C--A-G
+BAV0108      -G-G-C-G----GCA--CAU------------------GC----C--G-C
+BAV2843      -U-G-C-A----UGC-CUUG-----------------GUA----U--G-C
+BAV3193      -C-C-C-G----GCC-G-AC-----------------GGC----C--G-G
+BAV1401      -G-G-C-A----GGC-ACUA-----------------UCC----U--G-C
+BAV1337A     -G-C-C--------C--UAG---------------------------A-G
+BAV1128      -G-G-G-C----GCA--U-------------------CGC----G--C-C
+BAV3348      -C-G-C-A----GGC--UAG-----------------GCC----U--G-C
+BAV0258      -C-C-C-U----GCC-G-AUA---------------UGGC----A--G-G
+BAV1080      -A-C-C-G----GCC-AUUG----------------CGGC----C--G-G
+BAV1484      -G-C-C--------U-GUUC-----------------U---------G-G
+BAV2193      -G-C-CUA----CCC-G-GUC---------------AGGG----C-GG-G
+BAV0317      -C-C-G-C----CGU-A-GC-----------------CCG----G--C-G
+BAV1132      -G-C-C--------A--C-----------------------------G-G
+BAV1394      -C-C-G-G---GUCU--UCCGAAC---------AGGAAGAU--UC--C-G
+BAV2240      -G-G-C-C----CGC-AUCG------------------CG----G--G-C
+BAV3408      -G-A-G-G----GCU--UCA-----------------UGC----U--C-U
+BAV2176      -C-C-GUA----GCA--CCU------------------GC----U-GC-G
+BAV2928      -G-C-C-G----GCU--UGGCU-------------GGUGC----U--G-G
+BAV2204      -U-G-C-G----GCU--U-------------------GCC----C--G-C
+BAV2313      -A-G-C-G----CC--G-CC------------------GG----C--G-C
+BAV2481      ---C-U-G----CCC--UAC-----------------GGG----C--U-G
+BAV0118      -G-C-A-G----GGC--CGUA--------------UAGGC----C--A-G
+BAV1063      -G-C-G-G----CGA--U-------------------ACG----C--C-G
+BAV1240      -C-G-C-A---UCGC-ACAC-----------------UCGA--UU--G-C
+BAV2600      -U-G-A-G----CC--G-GU-----------------AGG----C--U-C
+BAV1161      -C-G-C-G----GC--GCAA------------------GC----C--G-U
+BAV2118      -G-C-C-U----GC-GA--U----------------AAGC----A--G-G
+BAV2671      -A-C-C-G----CCU--UCG------------------GG----C--G-G
+BAV2051      -G-C-C-U----GCC--UGCGCAU---------CCGCCGC----A--G-G
+BAV3008      -GCU-G-C----ACU--UGA-----------------UGU----G--C-A
+BAV2406      -C-C-U-GC--CGCC-CCUG-----------------CGCC--GC--A-G
+BAV2205      -A-U-G-C----GG--GCAA-----------------GCC----G--C-A
+BAV2092      -G-G-A-G----CCC--C-------------------AGG----C--U-C
+BAV2180      -G-G-C--------C--UAG---------------------------G-C
+BAV2977      -C-C-U-G----GCC-G-AA-----------------AGC----C--A-G
+BAV2306      -C-A-C-G----CC--G-GA-----------------CGG----C--G-U
+BAV0744      -C-G-G-A----GCC--UGC----------------GGGC----U--C-C
+BAV3374      -A-G-C-C----GCU--UCA-----------------AGC----G--G-C
+BAV1462      ---G-C-U----GG--GCAA------------------CC----A--G-C
+BAV1373      -U-C-A-G----GCU-GU-------------------GGC----U--U-G
+BAV2918      -G-C-C-A----UGU-GCAAG---------------CGCA----U--G-G
+BAV2660      -G-G-C-G----GC--G-AA-----------------AAC----C--G-C
+BAV0923      -A-A-G--------C-CUAC-----------------A---------C-U
+BAV0109      -C-G-C-C----GC--GUAGA--------------UUUGC----G--G-C
+BAV0723      -G-G-C-A----GCC--CGC----------------UGCU----U--G-C
+BAV0780      -G-C-G-CA--UCCU-GUGC-----------------CGGC--GG--C-G
+BAV3259      -G-C-U-G----CCU-G-AC------------------GG----C--A-G
+BAV1397      -G-C-C----------GC-------------------U---------G-G
+BAV0935      -G-C-CGG----AUU--CGAA---------------UGAU----C-AG-G
+BAV0458      -G-C-G-G----CCA--UCAC---------------GAGG----C--C-G
+BAV1932      -A-G-G-G----CGU--UUA------------------UG----C--C-C
+BAV2868      -C-U-C-A----GGC--UUU-----------------GUC----U--G-A
+BAV1213      -C-C-A--------U-G-A-U--------------GAG---------U-G
+BAV0142      -C-C-A-U----UCU-GUCU-----------------GGA----A--U-G
+BAV3157      -C-G-C-U----GGC--C-------------------GUC----A--G-C
+BAV2658      -G-C-G-C----UUU--UCG------------------AA----G--C-G
+BAV3171      -G-G-C-G----UCU-G-GC------------------GG----C--G-C
+BAV0352      ---C-A-G----GGU-GUUCU---------------UAGC----C--U-G
+BAV2727      -G-C-C--------C--UUUC---------------CG---------G-G
+BAV1562      -G-C-A--------A--U-------------------C---------U-G
+BAV2846      -A-C-C--------U-AUGA-----------------A---------G-G
+BAV2733      -G-G-G-C----GCC--UCU-----------------UGC----G--C-C
+BAV1485      -G-C-CUG----GCU-A-GC----------------CUGC----C-CA-G
+BAV2268      -C-A-U-A----GCC--UGG----------------UUGC----A--A-U
+BAV2832      -U-G-C-G----GGU--UACAA-------------AUGCC----C--G-C
+BAV1578      -C-C-C-G----GAU--CUC-----------------UUC----C--G-G
+BAV2950      -C-C-U-G----AGA--UAC------------------CU----C--A-G
+BAV2942      -G-C-U--------C-A-GGA---------------UU---------A-G
+BAV1498      -C-C-C-G----UCU--U-------------------UGA----C--G-G
+BAV1454      -C-C-C-A----GAU--UUAUU------------GGAAUC----U--G-G
+BAV0735      -G-C-C-G----UA--GCAA------------------UA----C--G-G
+BAV1852      -G-G-C-G----CUU--UAC-----------------UAG----G--G-C
+BAV1180      -G-C-C-C----GCA--UGA-----------------UGC----G--G-G
+BAV2177      -U-G-GAA----CGA--U-------------------CUG----U-CC-C
+BAV1777      -G-A-U-G----GGC--UGU----------------UCUC----C--A-U
+BAV1481      -C-C-C-C----GCA--CAA-----------------GGC----G--G-G
+BAV2680      -G-G-U--------A--U-----------------------------A-C
+BAV1839      -G-U-C-A----CCC--CCGCUUGA------GACGCAGCG----U--G-A
+BAV1497      -C-C-C-C----UG--G-GU-----------------CCA----G--G-G
+BAV3422      -C-C-C----------GCAA---------------------------G-G
+BAV2965      -A-G-C-C----CCC-G-CA------------------GG----G--G-C
+BAV2014      -G-C-C-G----GCA--CGA------------------CC----C--G-G
+BAV2402      -G-C-A-A----GCA--UAAAA-------------GCCGC----U--U-G
+BAV2331      -C-G-U--------A-GUCG---------------------------A-C
+BAV3386      -G-G-C----------C-GC---------------------------G-C
+BAV2785      -U-G-C--------C--U-------------------G---------G-C
+BAV2525      -U-C-U--------A--CGU-----------------A---------A-G
+BAV2185      -A-C-C-C----GCC--UGAG---------------CGGC----G--G-G
+BAV3410      -C-C-A-UC--AGCU-GCGA-----------------AGC---GA--U-G
+BAV0010      -G-C-U----------G--------------------G---------A-G
+BAV2601      ---C-C-C----GCC--UGA------------------CC----G--G-G
+BAV2338      -G-C-C-GC--GCGU--UUU-----------------GCG---CC--G-G
+BAV3074      -G-G-C-G----GC--GCUAC--------------AAUCC----C--G-C
+BAV2607      -C-A-A-G----CCU--UGCUUCCAA----GUCUUAAGGG----C--U-U
+BAV3118      -G-C-G--------C--CAA----------------CG---------C-G
+BAV0137      -G-C-C--------A--UGA-----------------A---------G-G
+BAV0158      -U-C-CCU----GC--GCUA----------------AGGC----A-UG-G
+BAV2446      -G-G-U-G----CCU--UGG------------------GG----C--A-C
+BAV0438B     -A-A-A----------A-GU---------------------------U-U
+BAV2796      -G-G-C-G----GCC--UGC----------------GAGC----C--G-U
+BAV3351      -G-U-C-A----GCU--CAA------------------AC----U--G-A
+BAV0493      -G-C-C-G----CGC-UUGG-----------------GCG----C--G-G
+BAV2265      -A-G-C--------C--C-----------------------------G-C
+BAV1056      -C-G-A-A---CGCC-GUCC----------------UGGC---UU--U-C
+BAV0890      -C-G-G-U----UCC--CGG-----------------AGA----A--C-C
+BAV2996      -G-C-C-C----GC--G-AU----------------GUGC----G--G-G
+BAV2379      -G-C-A-G----CC--C-AC------------------GG----C--A-G
+BAV1178      -A-G-G-G----CCA--UCC-----------------GGG----C--C-C
+BAV1123      -CAC-C-G----GCU--U--------------------GC----C--G-G
+BAV3182      -C-C-C-A----GAU--CAC----------------GGUC----U--G-G
+BAV2182      GC-G-G-C----CCA--CAG------------------GG----G--C-C
+BAV2875      -G-G-G--------U-GCGG-----------------G---------C-C
+BAV1532      -G-C-C-G----GGU--UUUUAUGGGCUUGCUCACAAGUC----U--G-G
+BAV1152      -C-G-C--------U--UCG---------------------------G-C
+BAV1545      -G-C-U-G----GUU--UGU-----------------GAC----C--A-G
+BAV3254      -G-G-C--------U--C-------------------U---------G-C
+BAV0103      -G-C-C----------GUCA---------------------------G-G
+BAV2033      ---C-G-C----CAA-ACAAAUC-----------AGGCUG----G--C-G
+BAV1476      -C-G-C--------U--UCG---------------------------G-C
+BAV1792      -A-G-C-G----CGA--CGC------------------CG----C--G-C
+BAV2981      -C-G-C-G----CCU--UGA----------------UCGG----U--G-C
+BAV0060      -G-G-C-A----UCU--UCG------------------GA----U--G-C
+BAV0731      -C-C-A-C----CCC--UCA-----------------GGG----G--U-G
+BAV1931      -G-G-CCC----GCC-UUGG-----------------UGC----G--G-C
+BAV0178      -C-C-G--------A--UGGC---------------GG---------C-G
+BAV2335      -G-C-G-C----CCU-GUAA------------------AG----G--C-G
+BAV3200      -C-U-A-G----GGU--UUU------------------CC----C--U-A
+BAV1897      -C-C-C-G----GCU--CUC------------------GC----C--G-G
+BAV0629      -GGA-U-C----GC--A-GG-----------------GGC----G--A-U
+BAV3060      -C-C-C-G----UUU--UUGGCUACA-----GUGGCCUAA----U--A-G
+BAV1960      GC-G-C-G----GGU--UGA------------------CU----C--G-C
+BAV2620      -G-G-G-G----CAC--UCA-----------------GUG----C--C-C
+BAV0853      -G-C-A-G----CCC--UGA------------------GG----C--U-G
+BAV1116      -G-C-C-G----CAU--UCGCGU-----------ACAAUG----C--G-G
+BAV3061      -G----------GCU--UAG-----------------CGC----------
+BAV1409      -U-G-A-C----GGU--CGCAC-------------UGGCC----G--U-C
+BAV2068      -C-G-G-G----GCU--CGAU---------------GGGC----C--C-C
+BAV1290      -C-G-C--------C--U-----------------------------G-C
+BAV0565      AC-C-C-G----GCU--UGC------------------GC----C--G-G
+BAV0538      -U-G-C-G----CCU-GCGAGU------------UGCACG----C--G-C
+BAV2159      -G-A-C-C----CCA-G-AA----------------UCGG----G--G-U
+BAV2109      -U-C-C-G----CCC-GCACA--------------GGGGG----C--A-G
+BAV2903      -G-C-G-G---U--U--UCG-----------------C------C--C-G
+BAV2565      -C-C-C-G----GCA--UUC------------------GC----C--G-G
+BAV1316      -G-G-U-UC--GGGA--UAA------------------CC---CA--A-U
+BAV0696      -G-C-U-G----UG--GC-------------------GCA----C--A-G
+BAV2644      -C-G-U--------U--UGU-----------------G---------A-C
+BAV1434      -A-C-C--------U--CCG---------------------------G-G
+BAV3172      -C-C-A-GA-CGCCC-GCCC------------------GGU--CC--U-G
+BAV1086      -G-GAC-A----AG--GCGAUA-------------GGGCU----U--G-C
+BAV2724      -C-C-G-G----CCU-G-GC------------------GG----C--C-G
+BAV2575      -G-G-C-U----CA--GUAU-----------------UUG----A--G-C
+BAV0970      -----C-G----CCU-GUAUGC-------------CCGGG----C--G-A
+BAV0453      -G-G-G-A----CC--G-GC------------------GG----C--C-C
+BAV1699      -CUG-C-G----GCC--UUG-----------------UGC----C--G-C
+BAV3294      -C-U-G--------U--UGAGC-------------UAA---------C-A
+BAV0933      -G-C-C-C----GCU--UUG-----------------CGC----G--G-G
+BAV0054      -A-G-G-U----UCU--CGA------------------GA----A--C-C
+BAV0446      -C-C-C--------A--UCA---------------------------G-G
+BAV0445      -C-G-C-C----GC--GCCA-----------------AAC----G--G-C
+BAV3102      -C-U-C-C------C-G-AAU---------------CG------G--G-A
+BAV1310      -G-CCA-G----CC--G-AA-----------------AGG----U--UCG
+BAV2349      -C-G-U-C----GCU--UAU-----------------CGC----G--A-C
+BAV2667      -C-G-C-C----UC--GCUU------------------GA----G--G-C
+BAV3195      -G-C-G----------GCAG-----------------A---------C-G
+BAV0726      -G-C-G-A----UCC--UCUC--------------GAGGA----U--C-G
+BAV1626      -G-C-C-G----GCU--UUC-----------------AGC----C--G-G
+BAV2609      -U-G-AAA----G-C--CAG----------------GG-C----U-UU-C
+BAV3088      -C-C-G-C----GCU--U-------------------UGC----G--C-G
+BAV2409      AC-G-A-U----GC--G-AA------------------GC----A--U-C
+BAV2518      -C-C-G-C----CGA--UAG----------------CUCG----G--C-G
+BAV0924      -G-C-C-GC--A----AUAU-----------------------CC--G-G
+BAV2261      -U-C-A-U----GCC--CCU------------------GU----A--U-G
+BAV0688      -U-C-A-G----CCA-G-C------------------CGG----C--U-G
+BAV0852      -G-C-A-G----CCU--CAG------------------GG----C--U-G
+BAV0748      -G-C-U-C----GCU--UGA------------------GC----G--A-G
+BAV0908      -G-U-C--------A--UAGA--------------GAU---------G-G
+BAV2094      CU-C-C--------U--CGA----------------UG---------G-G
+BAV0887      GG-G-C-G----GG--C-AA-----------------GCC----C--G-C
+BAV0503      -G-C-G-G----GCC--U-------------------GGC----C--C-G
+BAV2755      -C-U-C-U----CCA--UGG-----------------CGG----A--G-A
+BAV0537      -G-C-CAG----GCA--UGU-----------------UGC----C-CG-G
+BAV0901      -C-C-C-A----UCU--UAA----------------UAGA----U--G-G
+BAV2420      -C-G-G--------C--CAG-----------------A---------C-C
+BAV3017      -C-C-G----------GCAC----------------GA---------C-G
+BAV1702      -G-C-C--------U--UGU---------------------------G-G
+BAV2941      -U-G-A-G----CGU--CGGGG-------------UAGCG----C--U-C
+BAV3151      -C-A-G--------U--UCGG--------------CCC---------C-U
+BAV2623      -A-A-A--------C--CGG----------------GA---------U-U
+BAV0201      -A-A-A--------U--CAU-----------------G---------U-U
+BAV2194      -C-G-C-G----CCA--CGU-----------------GGG----C--G-C
+BAV1890      -C-C-C-C----GGC--UGCUGGAA------ACGGCAGCC----G--G-G
+BAV2790      -C-C-C-U----GC--GCAA------------------GC----A--G-G
+BAV0472      -G-C-G-C----CCA--UCGCG------------AGAUGG----G--C-G
+BAV2293      -G-C-C-U----GCU--UCGAU------------UGAAGC----A--G-G
+BAV1891      -C-C-C-C----GGC--UGCCGUUU------CCAGCAGCC----G--G-G
+#=GC SS_cons .<.<.<.<....<<_..___................._>>....>..>.>
+#=GC RF      .g.C.c.g....gCu..Uaa.................gGc....c..g.G
+
+BAV1660      -C-A--GG-CGUC-------UUGCAUUC---CGGC
+BAV1223      -C-G--UU-CUGC------UUUUGUG-------CC
+BAV0787      -C-G--UU-GUUG------UUUUGUG------GGC
+BAV2459      -C-C--UU-UUCU-------CUGGCG------GGC
+BAV2791      -G-C--GU-UUUGC-----AUUUCAG-------GC
+BAV1536      -U-U--CG-U------------------------C
+BAV3145      -A-G--CC-GUGUU-----GUUUCU---------C
+BAV0865      -C-C--CC-GGU---------UU-----------C
+BAV2969      -C-U--UU-UUGU------UUUUCGG-------CC
+BAV2509      -C-G--GG-CUUUU-----UG---UUG----UGCC
+BAV2228      -C-G--UU-UUGC-------UUUGG--------GC
+BAV2569      -G-G--UA-UAUU------UC---UGCU---UCCC
+BAV0115      -G-C--UG-UGU----------------------C
+BAV1027      -A-G--GG-UUC---------UGCAU------CCC
+BAV0139      -C-C--GG-AUU---------UUCUAUC---UGGC
+BAV0140      -C-C--GG-AUU--------UUUCAUG-----GUC
+BAV1506      -G-U--UU-UUU----------------------C
+BAV0471      -C-C--CC-UUUG-------CUGGA---------C
+BAV2510      -G-C--UU-UUUGC----UUUUGCG---------A
+BAV1028      -A-G--GG-UUCUG-----CAUUCG---------C
+BAV1495      -C-U--UU-U--G------CAUUAU---------C
+BAV2669      -G-C--UU-AUUC------AUUUAGUG-----AGC
+BAV3208      -U-G--AG-C------------------------A
+BAV1494      -G-G--CU-UUUG------CAUUAA---------C
+BAV0196      -C-A--GG-GUG----------------------C
+BAV0195      -A-C--CA-GGGUG-----UUUUU---------UC
+BAV1097      -U-C--GC-U------------------------C
+BAV2670      -G-C--UU-AUU----------------------C
+BAV0249      -C-C--UG-C------------------------C
+BAV0900      -G-C--CA-UGU--------GUU-----------C
+BAV0899      -G-G--UC-UUU--------UUUAUG-------CA
+BAV1728      -G-G--GA-ACG----------------------C
+BAV1889      -C-C--AG-CAUU------UUUU--U-------GC
+BAV1665      -C-U--UU-CUUGC-----UUUUGG---------C
+BAV1724      -A-A--AU-A------------------------C
+BAV1072      -G-C--GU-UUU--------UUGCUG-------CC
+BAV3262      -U-G--CG-GGGACC---CGCUUGUG-------GC
+BAV2242      -G-U--CU-AUU---------GGGU---------C
+BAV3411      -A-G--CG-G-----------AUCGG-------CC
+BAV3347      -C-U--GU-UGUU-------U--GUG------AGC
+BAV2169      -G-G--UU-UUU---------UGAGG-------UA
+BAV0167      -A-C--CG-C------------------------A
+BAV2938      -U-U--UU-UUU---------AUGA---------A
+BAV1150      -C-C--UG-AUUG------ACAUCA---------A
+BAV0788      -C-G--UU-GUUG-------U-UUACA----GCAA
+BAV0448      -G-C--UU-UGUC-------AUGCAG-------CC
+BAV1903      -C-U--UU-GUGG-------UUUCUGG----CGCC
+BAV2604      -G-U--GC-CUUU-------UUUAA---------A
+BAV1836      -C-G--GU-UUU--------UUU-----------C
+BAV2096      -G-C--UG-UUU--------UUUGU---------C
+BAV1668      -G-C--UU-UUU---------UU-----------C
+BAV0553      -U-G--GC-AUC----------------------A
+BAV2566      -C-C--UU-GUUG-------CUUGG---------C
+BAV0447      -G-C--UU-UGUU-------UUUGGAUA--CUGGC
+BAV2714      -G-A--UG-CUGG-------UUU-----------C
+BAV2984      -G-C--GG-UUU--------UUUAUU-------UC
+BAV2229      -C-G--UU-UUGC-------UUUGGGG-----GGC
+BAV1151      -C-C--UG-AUUG------ACAUCA---------C
+BAV2489      -G-C--UC-UUUU-------UUUGG---------C
+BAV2113      -C-C--AG-UUUU-------UUUCG---------C
+BAV2986      -C-G--UA-G-----------AUGU---------C
+BAV0555      -U-C--AU-CGG-----------------------
+BAV2593      -U-U--UG-CUU---------UUAG---------C
+BAV2365      -G-G--CU-UGUUGU---UUUUG--CU-----GCC
+BAV1041      -U-C--UG-UUU----------------------A
+BAV2515      -G-U--CC-GGGG------CGUUGA--------UC
+BAV2037      -C-A--UG-U-----------UUGGUUA---CGGA
+BAV2836      -U-G--CC-G-----------UGCU---------C
+BAV0121      -G-G--CU-GUUUU-----UUUUCG---------A
+BAV3179      -C-U--UU-UUU----------------------C
+BAV1417      -A-G--CU-AGA----------------------C
+BAV1346      -C-C--CU-UUU---------UU-----------C
+BAV0556      -U-C--AU-CGGGC----GGUUUCAG------CGC
+BAV1195      -G-C--UC-AUCAA----GCUUUAG--------CC
+BAV1492      -G-C--UU-UUUU-------GUUGUCUUU-UUGCC
+BAV1194      -A-C--UC-AUCGAG---GCAUGGG--------CC
+BAV2512      -G-C--CG-CGC----------------------C
+BAV2156      -G-C--UU-UUUU-------UUUGC---------C
+BAV0006      -A-U--UU-CCU---------UGUG---------C
+BAV1605      -G-G--GG-AGC----------------------C
+BAV1004      -C-C--GC-GCU---------UGCCG-------UC
+BAV2140      -U-U--UG-CUU----------------------A
+BAV2355      -G-G--GC-UUUCG-----UUUUCUUU----AGCC
+BAV3346      -G-G--CC-UGUUG-----UUUUAUG-------GA
+BAV1205      -G-C--GG-CGU--------UUGCA---------C
+BAV0192      -C-G--CA-GUGUAU---CGGUUCAG-------CC
+BAV0745      -C-G--UU-UUU---------UUGAG-------GC
+BAV2919      -G-C--CC-CGC--------UUUGG--------UC
+BAV3424      -G-G--GC-GUUG-------U-------------C
+BAV3192      -G-A--UU-AUU----------------------C
+BAV0348      -G-G--CA-UGU----------------------C
+BAV1703      -A-C--GG-C------------------------C
+BAV2112      -C-G--UG-U-----------UGAAG-------UC
+BAV1635      -A-G--GC-UGUUU----UUUUU--A------GGC
+BAV3269      -C-U--AU-U------------------------C
+BAV2267      -C-U--UUCGUU----------------------C
+BAV1145      -C-G--UU-UUG----------------------C
+BAV2408      -C-U--UU-UUU-----------------------
+BAV0466      -G-G--UG-UUU----------------------C
+BAV0135      -C-A--CU-UUU--------UUGGG--------GA
+BAV2685      -U-U--UU-UUUA------UAUGU---------GC
+BAV1819      -C-C--AC-AGA----------------------C
+BAV1164      -C-G--GU-UUU--------UUUGUAA----GAUC
+BAV2155      -G-C--UU-UUUCU-----AUUUAGG-------GA
+BAV1165      -U-C--UG-G----------UUU-----------C
+BAV2074      -C-G--UU-UGU----------------------C
+BAV2114      -C-C--AG-U-----------UUGG---------C
+BAV2480      -A-G--UC-U-----------UUCU---------C
+BAV1155      -A-G--GG-UUUUU-----AUUUGU---------C
+BAV0480      -C-C--CA-UCUU------UUUUCAG-------GA
+BAV0437      -G-G--CC-UUCUU-----GUUUAA---------C
+BAV2895      -G-G--CA-UUUCA----CUGUGGG---------C
+BAV0558      -C-G--GC-G-----------UUCU---------C
+BAV0024      -C-G--UU-UUU--------UUUGU--------UC
+BAV2319      -G-G--GU-UUU-----------------------
+BAV1108      -G-G--GG-CUU---------UGCUU------UCC
+BAV2486      -A-G--GG-UUU-----------------------
+BAV2141      -G-U--UU-GCU--------UUGGG---------C
+BAV2172      -C-U--UU-UUUCUUU-AAGAUUCGG-------CC
+BAV2723      -G-G--GG-U------------------------C
+BAV2966      -U-U--UU-UUCG------UAUUCUGC----UGGA
+BAV2511      -G-C--CG-CGCC-------AUUCAG-------CC
+BAV3417      -G-G--CG-GUG--------U-------------C
+BAV1418      -G-G--UG-GCGC-------CUUGA---------C
+BAV0014      -C-A--GU-UUUU-------UUGCU---------C
+BAV0766      -C-A--UU-U--C-------UUUCUUCA---UGUC
+BAV2855      -C-C--GG-GGC--------AUGC----------C
+BAV1972      -C-G--GC-C------------------------C
+BAV2282      -C-G--AU-G-----------GGGU---------A
+BAV3202      -C-G--CC-CUUGU----UCCUUCC---------C
+BAV2327      -G-C--CC-U-----------UU-----------C
+BAV2380      -C-C--GU-UUUU------AAUGGG---------C
+BAV3247      -U-C--CC-G----------UUUAU---------C
+BAV1936      -C-A--GG-C-----------------------UC
+BAV1490      -U-C--UG-CUU--------UUUAUA-------UC
+BAV0034      -G-C--UG-U------------------------C
+BAV1073      -G-C--GU-UUUU------UUUGCU---------A
+BAV3325      -A-G--GG-CGU--------GUGCC---------C
+BAV2110      -A-U--GC-CUG--------U-------------C
+BAV2469      -C-C--CU-UGUU-------UUUGA---------C
+BAV0061      -G-C--UU-UUGC-------UUUAUG-------AA
+BAV1200      -G-G--CU-UGUU-------UUUAU---------C
+BAV2354      -G-G--GC-UUU----------------------C
+BAV2184      -G-U--UC-UUU--------UAGCU---------C
+BAV1055      -C-G--CG-A-----------AUCUG-------CC
+BAV2348      -G-G--GC-G------------------------C
+BAV2514      -G-G--AG-CGU--------UUU-----------C
+BAV0827      -C-C--GA-U------------------------C
+BAV1701      -G-G--UA-A-----------UUAAG-------CC
+BAV0671      -C-C--UG-C------------------------C
+BAV1398      -G-G--UC-UGU----------------------C
+BAV2153      -G-G--UU-UUU---------UUGC---------A
+BAV2381      -C-C--GU-UUU----------------------C
+BAV1062      -C-U--UG-CUUGA----GCGUGAAG-------GC
+BAV3416      -G-C--AU-UUU--------UUU-----------C
+BAV1535      -U-U--CG-UCGC------UUUGCAG-------CA
+BAV3213      -C-C--UU-GUUCG-----UUUUGGG-------GA
+BAV0684      -C-U--GG-CCGG-------UUUCAUC----GGGC
+BAV2716      -U-C--GG-GCG----------------------C
+BAV3042      -C-A--CG-A--C------UUUGCUG-------GC
+BAV2715      -C-C--GG-GUUUUU---AUUUG--C-------AC
+BAV1860      -C-C--GC-UUUU------UUUUGUGC----GGGC
+BAV1166      -C-C--CG-GCU--------UUUGUAA-----GCC
+BAV3373      -G-U--CC-GUC--------UUGCUU------ACC
+BAV3292      -C-G--GG-CGUUUU---GCU----UUG---UGGA
+BAV2985      -G-C--GG-UUU--------GAU-----------A
+BAV2992      -A-G--GG-CUUUU----UAUUUGG---------C
+BAV1598      -A-C--GG-GCG----------------------C
+BAV2574      -C-G--CC-UGAA-------UUU-----------C
+BAV0983      -G-C--AG-C------------------------C
+BAV0408      -G-G--AU-UUG---------UUGA---------C
+BAV1734      -C-G--CC-UCU---------UGCC---------C
+BAV1104      -C-G--CC-CGUUU----UACUUAG---------C
+BAV2388      -G-G--UG-C-----------UUAG---------C
+BAV0929      -C-U--CC-UUU---------UUCAUU-----UGC
+BAV0217      -C-U--CG-A---------------GC----GGCC
+BAV1355      -G-G--CU-UUGU------CUUUCC---------C
+BAV1399      -G-G--CC-GGU----------------------C
+BAV0672      -U-G--CC-UGC----------------------C
+BAV3403      -G-G--GG-UGUU-------UUGCAUG----GGGC
+BAV0665      -C-C--GU-U--AC----ACUUUCG--------CC
+BAV2128      -U-U--CG-CUG---------AGCU---------A
+BAV2916      -C-C--GA-CGUU-------UUUUG---------C
+BAV2195      -U-U--CC-G--GG-----CCUUAU---------C
+BAV0939      -A-G--GC-C-----------GGCAG-------GC
+BAV0012      -C-C--CC-GGGC-------UUUUG---------C
+BAV2316      -G-C--UU-U--G-------CUGCUG-------GC
+BAV2390      -C-G--UU-UUG----------------------C
+BAV0566      -G-UGUUG-AUC----------------------A
+BAV0496      -G-A--UG-CGCG-------CUUGA--------UC
+BAV1122      -C-G--GG-A-----------GUCAG------GGC
+BAV2260      -C-G--CC-CUA---------UUUG---------C
+BAV1821      -G-C--CG-G-----------UGUU---------C
+BAV1976      -G-C--CA-G------------------------A
+BAV0832      -G-C--GG-C------------------------C
+BAV0293      -C-G--CA-U------------------------C
+BAV2321      -A-A--GU-CUUG------GGAUAG---------C
+BAV2621      -C-C--GU-GGC---------UUCA---------C
+BAV1504      -G-G--UU-UGUUC-----GUUUCGG-------GC
+BAV0495      -G-G--GG-UUU--------UUUCUCAU--CUGCA
+BAV1233      -C-G--CA-C-----------UUCG---------A
+BAV0072      -C-G--CC-UGC---------GGCGG-------CC
+BAV3055      -G-G--CC-UUUUU-----CAUUGG---------C
+BAV3350      -A-A--AU-GUG--------UUUGACUA--CGGUC
+BAV1791      -C-C--GC-U------------------------C
+BAV0689      -A-C--GA-C------------------------C
+BAV0906      -G-G--CG-CGCG------CUUGCU---------C
+BAV1969      -G-C--CA-U-----------UU-----------C
+BAV3058      -C-G--GC-C------------------------C
+BAV2892      -G-U--UU-UUU--------UGUCU---------C
+BAV2170      -G-G--UU-UUUCG-----UUUGCAG-------CA
+BAV0966      -G-C--GC-CGC----------------------A
+BAV2352      -A-U--CA-A--A------CCUGCG---------C
+BAV3016      -G-G--GG-CAUU-------UUUCUG-------UC
+BAV2810      -A-G--UC-A------------------------C
+BAV0356      -A-G--GG-C------------------------C
+BAV2894      -G-G--CA-UUU--------UUUAUG-------AC
+BAV1902      -C-U--UU-GUG----------------------A
+BAV2415      -C-U--CG-GGC---------AGGG---------C
+BAV3285      -C-C--GG-CGUUU----UUAU---UG----GGCA
+BAV0064      -C-A--UU-UUUU------GGUUUA---------C
+BAV1204      -U-G--CG-CCU---------UU-----------C
+BAV2538      -U-G--GG-AUGG-------CUUGGC------GGC
+BAV3066      -C----------U------UGUUCA---------C
+BAV2683      -C-G--GU-UUUU-------UUGCGG-------GC
+BAV2064      -G-G--UU-UUUU-------CUUGU---------C
+BAV2539      -U-G--GG-AUGG-------G------------GC
+BAV2050      -G-C--AG-GCA---------GGCGG-------GC
+BAV3349      -G-G--GC-UUU--------CUUGGG-------GC
+BAV1435      -U-U--CA-U------------------------C
+BAV2917      -C-G--UU-UUCCU-----GUUGCAG-------CC
+BAV2807      -C-U--UU-UUUAC-----GUUUGG---------C
+BAV0144      -C-C--CU-UUUU------CUUUCG---------C
+BAV3184      -C-G--CU-C----------UUGCG---------C
+BAV0071      -G-A--GU-C------------------------C
+BAV0070      -G-C--CG-U----------GUUGUCA----UAGC
+BAV1270      -G-C--CG-AUA----------------------C
+BAV0023      -C-C--UU-CGUUUU---UCG----UUCUUUAGGA
+BAV3297      -C-U--GC-CGGA------UUUUCC---------C
+BAV0758      -C-U--CA-G------------------------C
+BAV2548      -C-C--CG-C------------------------C
+BAV3003      -G-A--UC-ACG----------------------C
+BAV0062      -C-U--UU-UGCC------GCUUAAG-------GC
+BAV3303      -C-C--CC-GUUUU-----ACUUCU---------C
+BAV2129      -C-C--UC-GCUG-------GAGGG---------C
+BAV2218      -G-U--UU-UUU--------UUGG-G------GGC
+BAV2804      -C-G--UG-C-----------------------UC
+BAV1604      -G-G--GG-AGC----------------------C
+BAV3002      -C-A--GG-CUC--------U-------------A
+BAV0320      -C-G--GG-A------------------------C
+BAV1567      -U-G--CG-C--U-------UUUAUU-------UC
+BAV2596      -C-U--GC-CUCUA----CAAUGGUG-------UC
+BAV0388      -G-C--CU-UUUC-------UUUGGC-------UC
+BAV2476      -C-G--CC-G----------UAUCG---------C
+BAV0106      -G-C--GG-GCUU-------UUUCAUG-----GAC
+BAV0607      -C-C--GG-GUU--------UUU------------
+BAV1737      -G-C--GG-CGGC------UUUUCA---------A
+BAV2675      -C-G--CC-UUU--------UUUAUG-------GC
+BAV2668      -C-A--CG-GUU--------UUUCAUU-----UGC
+BAV1996      -C-C--GC-A-----------UUCAG-------GC
+BAV1634      -A-G--GC-UGU---------UGCAG-------GC
+BAV2192      -C-G--CG-CCG----------------------C
+BAV3062      -C-G--CG-U-----------UUCAG-------GA
+BAV3040      -C-A--GU-UUU----------------------C
+BAV2391      -C-G--UU-UUG--------CUUUU---------C
+BAV0069      -C-G--CC-GUA---------UUCA---------C
+BAV0108      -C-G--CG-CCCCC-----UUUUCUU------GAC
+BAV2843      -A-A--GC-CUUU-------UUGCAG-------GC
+BAV3193      -G-A--UU-AUU----------------------C
+BAV1401      -C-C--CU-UGUU-------CUUGG--------CA
+BAV1337A     -C-G--GG-CUU--------UUUUAC------GCC
+BAV1128      -C-C--CU-CUUA------UUUUGG---------C
+BAV3348      -G-G--GC-UUUU-------GUUCUUC----AGCC
+BAV0258      -G-C--CUUCUUU------UUUGCUG-------GC
+BAV1080      -U-G--CA-U------------------------C
+BAV1484      -C-G--GG-UUUU-------UUUAUG------AGA
+BAV2193      -C-G--CG-CCGU------UUUUCAGU----GGGC
+BAV0317      -G-U--UU-UUU--------UUUCG---------A
+BAV1132      -C-G--UG-G------------------------C
+BAV1394      -G-G--CC-G--C------UUUGCG--------UC
+BAV2240      -C-C--UG-UUU----------------------C
+BAV3408      -C-A--CC-CUC----------------------C
+BAV2176      -G-C--CG-UUUU------AUUUGG---------C
+BAV2928      -C-C--GG-UGU----------------------C
+BAV2204      -A-U--GG-CCUGU-----UUUUAG---------C
+BAV2313      -U-G--GU-U------------------------C
+BAV2481      -C-G--CU-UUC---------UUCU---------A
+BAV0118      -C-G--CG-UCG---------AGCAG-------CC
+BAV1063      -C-U--UG-CUUU------UUUUAU---------C
+BAV1240      -G-G--CC-G------------------------C
+BAV2600      -A-A--CC-G------------------------C
+BAV1161      -G-C--CC-UUUUU----UCC----UGA---UGGA
+BAV2118      -C-C--CG-UUGUC-----UAUGGG--------GC
+BAV2671      -U-U--UU-UUC---------UUGC---------C
+BAV2051      -C-A--GG-C-----------AUGC---------C
+BAV3008      -C-C--AG-UUU----------------------C
+BAV2406      -G-C--GG-GGU----------------------A
+BAV2205      -U-G--GC-CUG----------------------C
+BAV2092      -C-G--CC-U----------UUUCAUU----UGCC
+BAV2180      -C-G--GG-UUUUU----UGC---UUG----AGCC
+BAV2977      -G-C--CC-A------------------------A
+BAV2306      -G-G--GC-CAU---------UGCCG-------CC
+BAV0744      -G-U--UU-UUU----------------------C
+BAV3374      -U-G--UC-CUGC-------UUU-----------C
+BAV1462      -C-G--UG-C--GA-----GCUUCG---------C
+BAV1373      -A-A--UG-C----------UAUCUG-------CC
+BAV2918      -C-C--CC-G------------------------C
+BAV2660      -C-C--CA-A------------------------C
+BAV0923      -U-G--CU-C------------------------C
+BAV0109      -G-A--UG-C--C-------UUUCUUUU---UUUC
+BAV0723      -C-G--CC-------------UUCGC-------UC
+BAV0780      -C-C--GG-UUUG-------CUUCG---------C
+BAV3259      -C-C--CGCUGUU-------CUGGUGA----AUGC
+BAV1397      -C-G--CU-UGC----------------------C
+BAV0935      -C-G--AC-GCG---------AGCGG-------UA
+BAV0458      -C-G-CCG-G-----------GGCG---------C
+BAV1932      -U-A--UC-UUU---------UGCA---------C
+BAV2868      -G-G--GC-CGUUU----GGU----UUG--GGGGC
+BAV1213      -G-C--UU-UUUC-------CUGCGG-------CA
+BAV0142      -G-U--CC-CGU----------------------C
+BAV3157      -A-A--UA-GGG----------------------C
+BAV2658      -C-C--GU-UUU--------UUUGUCUG--UCGCC
+BAV3171      -C-C--GC-CUAGG-----CCUUGA---------C
+BAV0352      -A-U--CU-UGG----------------------C
+BAV2727      -C-U--GG-UCUU-------GUUCAG-------GC
+BAV1562      -C-G--GA-C------------------------C
+BAV2846      -U-U--GG-C------------------------C
+BAV2733      -C-G--CG-CGC----------------------C
+BAV1485      -C-C--AG-C------------------------C
+BAV2268      -G-C--AG-C-----------AUCG---------C
+BAV2832      -A-A--GG-CGCUUU--UGAU----UU----GGGA
+BAV1578      -G-U--GC-UUUUUU---UAUUG--C-------AC
+BAV2950      -G-C--GC-C-----------UGGC---------C
+BAV2942      -C-A--UA-AAUU-------GUGGU---------C
+BAV1498      -G-U--UU-U-----------UUUA---------C
+BAV1454      -G-A--CA-U------------------------A
+BAV0735      -C-G--CU-UUUUU-----UG---UUU-----AUC
+BAV1852      -C-G--CC-C-----------UUCGG-------UC
+BAV1180      -C-C--CA-AUU--------U-------------C
+BAV2177      -A-U--CC-GGG---------UGGC---------A
+BAV1777      -C-C--CC-UCU--------AUU-----------C
+BAV1481      -G-C--U---------------------------C
+BAV2680      -C-A--CG-AUU----------------------C
+BAV1839      -C-G--GC-AAU----------------------C
+BAV1497      -G-A--AG-CAU----------------------C
+BAV3422      -G-C--GG-UUUU------UUUUGAG-------CC
+BAV2965      -U-U--CU-UUCUG-----ACUGCG---------C
+BAV2014      -C-UGGGC-UGU----------------------C
+BAV2402      -C-G--UA-C------------------------C
+BAV2331      -G-U--CG-U------------------------C
+BAV3386      -C-U--UA-C-----------------------UC
+BAV2785      -G-A--UC-AGG----------------------C
+BAV2525      -A-A--CG-C------------------------C
+BAV2185      -U-U--CU-UUUG------GGGUGG---------C
+BAV3410      -G-G--GC-U------------------------C
+BAV0010      -C-G--GU-C------------------------C
+BAV2601      -A-A--UA-C------------------------C
+BAV2338      -C-G--GG-CAU--------UUUCG---------C
+BAV3074      -C-A--UG-UCU----------------------C
+BAV2607      -G-G--GA-UUU--------UUU-----------C
+BAV3118      -C-C--AG-C------------------------C
+BAV0137      -C-U--UU-C------------------------A
+BAV0158      -A-A--GG-GUU---------UUGU---------C
+BAV2446      -C-C--GC-U----------UUGCG---------C
+BAV0438B     -U-G--UG-GCUAU----UUUUUCG--------UC
+BAV2796      -C-U--GG-G----------UUUGA--------UC
+BAV3351      -C-C--GG-UUU--------GUGCUU------ACA
+BAV0493      -C-C--GG-UUUUU-----UAU---G------GGC
+BAV2265      -U-C--CA-GGGA-------AUU-----------C
+BAV1056      -G-G--GG-GUUUUUA-CAUAUUGG---------C
+BAV0890      -G-U--CU-CCG----------------------C
+BAV2996      -C-C--UU-G------------------------C
+BAV2379      -C-G--CG-C------------------------C
+BAV1178      -U-G--UC-C------------------------C
+BAV1123      CG-G--GC-ACC----------------------C
+BAV3182      -G-C--UC-G------------------------C
+BAV2182      -G-U--GG-U------------------------C
+BAV2875      -C-A--UC-CCU----------------------C
+BAV1532      -C-U--GG-C-----------GGCA---------C
+BAV1152      -G-C--CC-UGU---------UUGAU-------GC
+BAV1545      -C-G--CC-CGCA------GUUUGG--------AA
+BAV3254      -C-C--UA-A--AG-----GAUGCU---------C
+BAV0103      -C-G--GU-U--U-------UUUGU----------
+BAV2033      -C-G--CG-CUU---------UGAG---------C
+BAV1476      -G-G--GC-U-----------UUUU--------AC
+BAV1792      -U-U--UA-AGG----------------------C
+BAV2981      -G-C--CC-G------------------------C
+BAV0060      -C-A--UG-U-----------UUCA---------C
+BAV0731      -G-A--UU-UUUUU----UGCUUGU---------C
+BAV1931      -C-G--GG-U------------------------C
+BAV0178      -A-A--CU-G-----------AUCUG-------GC
+BAV2335      -C-C--GG-UUUU------UUUUGU---------C
+BAV3200      -G-AUUUU-UGU---------UGCA---------C
+BAV1897      -G-C--GA-U--UAU---CCCUUCCG-------CC
+BAV0629      GC-C--CU-GGC----------------------C
+BAV3060      -G-C--GG-UUU---------UUCCG-------CC
+BAV1960      -GGG--CG-GCCAU----CUUUUG---------CC
+BAV2620      -C-G--CG-U--GC----UUUUU--G-------CA
+BAV0853      -C-A--UU-UUU---------UGUG---------A
+BAV1116      -C-C--CG-U---------------C-------UC
+BAV3061      -C-C--CC-GCG----------------------C
+BAV1409      -A-A--GC-CGGG------CG-------------C
+BAV2068      -G-U--UU-GCGU-------UUUGAA------GGC
+BAV1290      -G-C--UC-G----------AUGGG--------CC
+BAV0565      -G-U--UG-AUCU-------UUUCCUGG---CGGC
+BAV0538      -A-G--GG-UUUUUU---AUGUUCU---------A
+BAV2159      -C-A--UG-C----------UUGCGG-------UC
+BAV2109      -A-U--GC-CUG----------------------C
+BAV2903      -C-G--CC-U------------------------C
+BAV2565      -G-C--CU-U-------------------------
+BAV1316      -C-A--GC-A-----------AGGU---------C
+BAV0696      -C-A--GG-GUUU-------UUUAUCGU--AGGGC
+BAV2644      -G-C--UG-GUU----------------------C
+BAV1434      -U-G--GC-UUU--------UUUGUUGC---CGCC
+BAV3172      -G-C--GG-C-----------UUAAG-------CC
+BAV1086      -C-G--GG-UUU----------------------C
+BAV2724      -G-G--GG-UUUUU-----UAUUGU--------UA
+BAV2575      -C-U--GG-C------------------------C
+BAV0970      -A-A--AA-A-----------UGAAG-------GC
+BAV0453      -C-U--UU-AUC----------------------C
+BAV1699      -G-U--CA-AGG----------------------C
+BAV3294      -G-G--CC-C------------------------C
+BAV0933      -C-C--GU-UGU---------GUAA---------C
+BAV0054      -U-C--CC-C------------------------A
+BAV0446      -G-C--GG-G--U------CCUUCAG-------GC
+BAV0445      -G-G--GC-G------------------------C
+BAV3102      -G-G--CC-CUU-----------------------
+BAV1310      -C-G--GG-CUUU------UUUGCGUC----UGGA
+BAV2349      -G-A--UA-G------------------------C
+BAV2667      -G-C--CU-UUUUUUU-ACGCUGGU---------C
+BAV3195      -C-A--CA-A------------------------C
+BAV0726      -C-G--UU-UUU-----------------------
+BAV1626      -C-C--AG-C------------------------C
+BAV2609      -A-G--GG-C------------------------C
+BAV3088      -G-G--CA-UUUUU----UAUUUCUG-------GC
+BAV2409      -G-C--GC-GCC----------------------A
+BAV2518      -G-G--CU-UUUUUU--AUGUUGC---------GC
+BAV0924      -C-U--CU-C-----------UUAUG-------GC
+BAV2261      -A-C--UA-C------------------------C
+BAV0688      -G-C--GCGU------------------------C
+BAV0852      -C-U--UU-UUUUG----GCGUUUA---------C
+BAV0748      -C-C--GA-U------------------------C
+BAV0908      -C-C--CG-G------------------------C
+BAV2094      -A-C--GC-U-----------GUCAG-------GC
+BAV0887      -C----CG-CUUG------CUUUAAG-------CC
+BAV0503      -C-C--CC-A------------------------C
+BAV2755      -G-G--CC-U--U-------U--UUU------UAC
+BAV0537      -C-G--CG-U------------------------C
+BAV0901      -A-C--UG-C-----------------------UC
+BAV2420      -G-C--UG-CGCA-------CUGCG---------C
+BAV3017      -G-C--CG-U--G------ACUUCA---------A
+BAV1702      -C-C--GG-GUU---------AGGU---------C
+BAV2941      -A-U--CC-UGG----------------------C
+BAV3151      -G-G--CU-C-----------UU-----------C
+BAV2623      -U-C--CG-UGGC------GAUUCG---------C
+BAV0201      -U-C--UA-A-----------UGAA---------C
+BAV2194      -G-C--UA-C------------------------C
+BAV1890      -G-C--UG-GGUCU-----GUAUCA---------A
+BAV2790      -G-C--GU-UUUGC-----AUUU-----------C
+BAV0472      -C-C--CC-UUUG-------CUUUA---------C
+BAV2293      -C-C--AG-GCC---------UGACG-------AC
+BAV1891      -G-C--UG-GGUCUGUGCGUGUUCAG-------GC
+#=GC SS_cons .>.>..>>.>>>.........::::.........:
+#=GC RF      .c.g..cg.uUu.........UUcu.........C
+//

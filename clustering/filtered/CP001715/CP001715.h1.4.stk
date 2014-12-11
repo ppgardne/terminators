@@ -1,0 +1,998 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS CAP2UW1_3501 WT 1.39
+#=GS CAP2UW1_1914 WT 0.24
+#=GS CAP2UW1_1346 WT 0.24
+#=GS CAP2UW1_1800 WT 1.30
+#=GS CAP2UW1_3385 WT 0.24
+#=GS CAP2UW1_2547 WT 1.21
+#=GS CAP2UW1_0652 WT 1.34
+#=GS CAP2UW1_0078 WT 0.36
+#=GS CAP2UW1_2948 WT 1.32
+#=GS CAP2UW1_3382 WT 1.11
+#=GS CAP2UW1_1773 WT 1.32
+#=GS CAP2UW1_3554 WT 1.20
+#=GS CAP2UW1_1804 WT 0.19
+#=GS CAP2UW1_0087 WT 0.19
+#=GS CAP2UW1_1445 WT 0.19
+#=GS CAP2UW1_1656 WT 1.23
+#=GS CAP2UW1_0974 WT 1.20
+#=GS CAP2UW1_0026 WT 1.40
+#=GS CAP2UW1_3105 WT 0.94
+#=GS CAP2UW1_0868 WT 0.19
+#=GS CAP2UW1_0527 WT 0.19
+#=GS CAP2UW1_0384 WT 1.11
+#=GS CAP2UW1_4410 WT 0.19
+#=GS CAP2UW1_1893 WT 1.20
+#=GS CAP2UW1_2666 WT 0.96
+#=GS CAP2UW1_2834 WT 1.13
+#=GS CAP2UW1_1840 WT 0.83
+#=GS CAP2UW1_2389 WT 1.08
+#=GS CAP2UW1_1860 WT 1.20
+#=GS CAP2UW1_3464 WT 1.27
+#=GS CAP2UW1_0030 WT 1.24
+#=GS CAP2UW1_3612 WT 1.10
+#=GS CAP2UW1_0663 WT 1.21
+#=GS CAP2UW1_2923 WT 1.53
+#=GS CAP2UW1_0643 WT 1.41
+#=GS CAP2UW1_1961 WT 1.05
+#=GS CAP2UW1_3917 WT 1.13
+#=GS CAP2UW1_1879 WT 1.20
+#=GS CAP2UW1_1349 WT 0.24
+#=GS CAP2UW1_1219 WT 1.19
+#=GS CAP2UW1_0612 WT 1.36
+#=GS CAP2UW1_2662 WT 1.46
+#=GS CAP2UW1_3548 WT 1.46
+#=GS CAP2UW1_2310 WT 0.91
+#=GS CAP2UW1_3856 WT 1.47
+#=GS CAP2UW1_3388 WT 0.24
+#=GS CAP2UW1_2466 WT 1.20
+#=GS CAP2UW1_2766 WT 0.75
+#=GS CAP2UW1_0463 WT 1.31
+#=GS CAP2UW1_2819 WT 1.08
+#=GS CAP2UW1_3354 WT 1.47
+#=GS CAP2UW1_1296 WT 1.14
+#=GS CAP2UW1_2409 WT 1.23
+#=GS CAP2UW1_3617 WT 1.40
+#=GS CAP2UW1_2106 WT 1.54
+#=GS CAP2UW1_1911 WT 0.24
+#=GS CAP2UW1_3788 WT 1.23
+#=GS CAP2UW1_2693 WT 0.77
+#=GS CAP2UW1_3507 WT 1.32
+#=GS CAP2UW1_2672 WT 1.44
+#=GS CAP2UW1_4180 WT 1.20
+#=GS CAP2UW1_2692 WT 0.77
+#=GS CAP2UW1_1025 WT 1.30
+#=GS CAP2UW1_3695 WT 1.19
+#=GS CAP2UW1_3073 WT 1.25
+#=GS CAP2UW1_3171 WT 1.05
+#=GS CAP2UW1_0248 WT 1.10
+#=GS CAP2UW1_0124 WT 1.08
+#=GS CAP2UW1_3919 WT 1.34
+#=GS CAP2UW1_1668 WT 0.05
+#=GS CAP2UW1_0700 WT 1.60
+#=GS CAP2UW1_2727 WT 1.39
+#=GS CAP2UW1_1615 WT 0.97
+#=GS CAP2UW1_3353 WT 1.26
+#=GS CAP2UW1_3196 WT 1.07
+#=GS CAP2UW1_3170 WT 1.28
+#=GS CAP2UW1_2214 WT 1.13
+#=GS CAP2UW1_0919 WT 0.05
+#=GS CAP2UW1_2291 WT 0.05
+#=GS CAP2UW1_0877 WT 0.05
+#=GS CAP2UW1_4282 WT 0.05
+#=GS CAP2UW1_1038 WT 1.08
+#=GS CAP2UW1_0408 WT 0.72
+#=GS CAP2UW1_0810 WT 1.30
+#=GS CAP2UW1_0085 WT 0.05
+#=GS CAP2UW1_1776 WT 0.05
+#=GS CAP2UW1_4086 WT 0.05
+#=GS CAP2UW1_4416 WT 0.76
+#=GS CAP2UW1_2743 WT 0.05
+#=GS CAP2UW1_1310 WT 1.32
+#=GS CAP2UW1_0172 WT 0.05
+#=GS CAP2UW1_1444 WT 0.05
+#=GS CAP2UW1_3010 WT 1.44
+#=GS CAP2UW1_1812 WT 0.05
+#=GS CAP2UW1_0979 WT 1.13
+#=GS CAP2UW1_1152 WT 0.82
+#=GS CAP2UW1_2820 WT 1.01
+#=GS CAP2UW1_4177 WT 1.13
+#=GS CAP2UW1_1790 WT 1.27
+#=GS CAP2UW1_3134 WT 1.14
+#=GS CAP2UW1_1292 WT 0.05
+#=GS CAP2UW1_4158 WT 1.22
+#=GS CAP2UW1_1082 WT 0.92
+#=GS CAP2UW1_0459 WT 1.18
+#=GS CAP2UW1_2387 WT 1.10
+#=GS CAP2UW1_4406 WT 0.05
+#=GS CAP2UW1_1063 WT 0.72
+#=GS CAP2UW1_0197 WT 1.17
+#=GS CAP2UW1_2150 WT 1.27
+#=GS CAP2UW1_1694 WT 1.26
+#=GS CAP2UW1_3536 WT 1.43
+#=GS CAP2UW1_1356 WT 1.46
+#=GS CAP2UW1_1921 WT 1.15
+#=GS CAP2UW1_2805 WT 1.71
+#=GS CAP2UW1_0951 WT 1.22
+#=GS CAP2UW1_4404 WT 1.01
+#=GS CAP2UW1_4400 WT 1.20
+#=GS CAP2UW1_2088 WT 0.05
+#=GS CAP2UW1_0123 WT 1.33
+#=GS CAP2UW1_3161 WT 1.05
+#=GS CAP2UW1_3335 WT 1.10
+#=GS CAP2UW1_1053 WT 1.20
+#=GS CAP2UW1_2390 WT 1.24
+#=GS CAP2UW1_0763 WT 1.23
+#=GS CAP2UW1_2533 WT 1.24
+#=GS CAP2UW1_4107 WT 1.31
+#=GS CAP2UW1_0184 WT 0.76
+#=GS CAP2UW1_1820 WT 1.36
+#=GS CAP2UW1_0624 WT 1.30
+#=GS CAP2UW1_2144 WT 1.32
+#=GS CAP2UW1_4472 WT 1.10
+#=GS CAP2UW1_0879 WT 1.17
+#=GS CAP2UW1_2273 WT 0.99
+#=GS CAP2UW1_0866 WT 1.52
+#=GS CAP2UW1_2265 WT 1.20
+#=GS CAP2UW1_2274 WT 0.98
+#=GS CAP2UW1_4187 WT 1.44
+#=GS CAP2UW1_4056 WT 1.08
+#=GS CAP2UW1_0334 WT 1.26
+#=GS CAP2UW1_0571 WT 1.47
+#=GS CAP2UW1_0662 WT 1.30
+#=GS CAP2UW1_3835 WT 1.45
+#=GS CAP2UW1_1284 WT 1.08
+#=GS CAP2UW1_0904 WT 1.22
+#=GS CAP2UW1_2566 WT 1.11
+#=GS CAP2UW1_1932 WT 1.18
+#=GS CAP2UW1_1374 WT 1.47
+#=GS CAP2UW1_3693 WT 1.21
+#=GS CAP2UW1_0462 WT 1.07
+#=GS CAP2UW1_4048 WT 1.37
+#=GS CAP2UW1_2503 WT 1.39
+#=GS CAP2UW1_2781 WT 1.06
+#=GS CAP2UW1_2220 WT 1.06
+#=GS CAP2UW1_2765 WT 0.75
+#=GS CAP2UW1_0674 WT 0.82
+#=GS CAP2UW1_4449 WT 1.01
+#=GS CAP2UW1_3999 WT 1.20
+#=GS CAP2UW1_1584 WT 1.27
+#=GS CAP2UW1_0716 WT 1.19
+#=GS CAP2UW1_2309 WT 0.91
+#=GS CAP2UW1_0771 WT 1.37
+#=GS CAP2UW1_1062 WT 1.44
+#=GS CAP2UW1_1986 WT 1.86
+#=GS CAP2UW1_3602 WT 1.14
+#=GS CAP2UW1_0960 WT 1.01
+#=GS CAP2UW1_3093 WT 1.54
+#=GS CAP2UW1_0492 WT 1.46
+#=GS CAP2UW1_2356 WT 1.12
+#=GS CAP2UW1_3567 WT 1.36
+#=GS CAP2UW1_2072 WT 1.42
+#=GS CAP2UW1_2667 WT 0.96
+#=GS CAP2UW1_3787 WT 1.19
+#=GS CAP2UW1_3719 WT 1.06
+#=GS CAP2UW1_1805 WT 0.71
+#=GS CAP2UW1_4401 WT 0.71
+#=GS CAP2UW1_0542 WT 0.98
+#=GS CAP2UW1_1190 WT 1.20
+#=GS CAP2UW1_4212 WT 0.92
+#=GS CAP2UW1_0783 WT 1.12
+#=GS CAP2UW1_4068 WT 0.83
+#=GS CAP2UW1_1515 WT 1.15
+#=GS CAP2UW1_3843 WT 1.12
+#=GS CAP2UW1_1111 WT 1.02
+#=GS CAP2UW1_3458 WT 1.34
+#=GS CAP2UW1_2864 WT 1.43
+#=GS CAP2UW1_1362 WT 1.19
+#=GS CAP2UW1_0635 WT 1.02
+#=GS CAP2UW1_3686 WT 1.21
+#=GS CAP2UW1_2448 WT 1.20
+#=GS CAP2UW1_3519 WT 1.27
+#=GS CAP2UW1_1044 WT 1.30
+#=GS CAP2UW1_0188 WT 1.39
+#=GS CAP2UW1_0994 WT 1.27
+#=GS CAP2UW1_3973 WT 1.54
+#=GS CAP2UW1_0636 WT 1.02
+#=GS CAP2UW1_2439 WT 1.34
+#=GS CAP2UW1_0177 WT 1.27
+#=GS CAP2UW1_4320 WT 0.76
+#=GS CAP2UW1_1555 WT 0.98
+#=GS CAP2UW1_1095 WT 1.10
+#=GS CAP2UW1_3270 WT 1.55
+#=GS CAP2UW1_0540 WT 0.82
+#=GS CAP2UW1_3912 WT 1.89
+#=GS CAP2UW1_3558 WT 1.10
+#=GS CAP2UW1_0888 WT 1.07
+#=GS CAP2UW1_4091 WT 1.54
+#=GS CAP2UW1_1151 WT 0.82
+#=GS CAP2UW1_0261 WT 1.30
+#=GS CAP2UW1_1260 WT 1.17
+#=GS CAP2UW1_0959 WT 1.01
+#=GS CAP2UW1_1979 WT 1.85
+#=GS CAP2UW1_0339 WT 1.13
+#=GS CAP2UW1_3351 WT 1.33
+#=GS CAP2UW1_2405 WT 1.35
+#=GS CAP2UW1_0275 WT 1.56
+#=GS CAP2UW1_3543 WT 0.76
+#=GS CAP2UW1_4457 WT 1.12
+#=GS CAP2UW1_1857 WT 1.26
+#=GS CAP2UW1_4192 WT 1.02
+#=GS CAP2UW1_0139 WT 1.51
+#=GS CAP2UW1_1067 WT 1.05
+#=GS CAP2UW1_1534 WT 1.30
+#=GS CAP2UW1_2008 WT 1.25
+#=GS CAP2UW1_0603 WT 1.21
+#=GS CAP2UW1_3025 WT 1.05
+#=GS CAP2UW1_3452 WT 1.27
+#=GS CAP2UW1_0260 WT 1.21
+#=GS CAP2UW1_0486 WT 1.05
+#=GS CAP2UW1_3460 WT 0.98
+#=GS CAP2UW1_4409 WT 0.03
+#=GS CAP2UW1_1289 WT 0.03
+#=GS CAP2UW1_2091 WT 0.03
+#=GS CAP2UW1_0874 WT 0.03
+#=GS CAP2UW1_1816 WT 0.31
+#=GS CAP2UW1_0175 WT 0.03
+#=GS CAP2UW1_2746 WT 0.03
+#=GS CAP2UW1_2288 WT 0.03
+#=GS CAP2UW1_1815 WT 0.03
+#=GS CAP2UW1_4089 WT 0.03
+#=GS CAP2UW1_1671 WT 0.03
+#=GS CAP2UW1_0916 WT 0.03
+#=GS CAP2UW1_1247 WT 1.20
+#=GS CAP2UW1_4275 WT 0.03
+#=GS CAP2UW1_1441 WT 0.03
+#=GS CAP2UW1_1779 WT 0.03
+#=GS CAP2UW1_0873 WT 0.31
+
+CAP2UW1_3501 CA-C---AAGC----------UGGGC--UGA-C--AGCC--UUU------
+CAP2UW1_1914 UC-C---CAC-----------C-CUG--UCG-C--CGGAGCCAG------
+CAP2UW1_1346 UC-C---CAC-----------C-CUG--UCG-C--CGGAGCCAG------
+CAP2UW1_1800 GA-C---CGU------------GCGA--GCG-G--CG----CUG------
+CAP2UW1_3385 UC-C---CAC-----------C-CUG--UCG-C--CGGAGCCAG------
+CAP2UW1_2547 GU-C---G--C----------CGGGC--ACA-C--CGGGCGGCAGG----
+CAP2UW1_0652 AG-A---G--------------GGGC--GGC-C--UGCAAGCUGC-----
+CAP2UW1_0078 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_2948 AG-G---UGA------------GUGC--CGG-G--UCGCGCUUC------
+CAP2UW1_3382 GC-U---UCC-----------UGCCG--UUC-C--CGG---GCAA-----
+CAP2UW1_1773 AU-C---AUG------------GCUG--UUG-G--CGCG--AAAU-----
+CAP2UW1_3554 GC-A---CAA------------CGGC--AAG-G--CC----UGG------
+CAP2UW1_1804 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_0087 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_1445 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_1656 UC-C---GGC------------CACG--GUG-G--CG----AAGCG----
+CAP2UW1_0974 UC-G---UGA------------GCAG--ACG-C--CCC---ACG------
+CAP2UW1_0026 CC-U---GAG------------GCUA--CCG-C--UGACGGAUG------
+CAP2UW1_3105 AC-----GAC------------GGCC--CCG-C--CGAACGCCA------
+CAP2UW1_0868 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_0527 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_0384 AA-A---GGC------------AAAC--GGG-C--CGC---AGC------
+CAP2UW1_4410 GC-C---GGA------------GGG--UAGG-C-GCCGCCGCGG------
+CAP2UW1_1893 GC--------A---------UUCCAG--GGG-C--CGGGUUGUGU-----
+CAP2UW1_2666 AC-A---GAA-----------G--AA--AGG-C--AUCGC-CCU------
+CAP2UW1_2834 AC-A---GGC-----------AGGCC--CCC-G--CUGACGGUCA-----
+CAP2UW1_1840 GC-----GA------------UGACG--CCG-C--CGCACGUCA------
+CAP2UW1_2389 GG-G---CAC------------GGAG--ACA-C--AGAGA-CUU------
+CAP2UW1_1860 AC-C---UGG------------CCUG--ACG-C--CGUGCCGCU------
+CAP2UW1_3464 GC-G-----------------GACAG--AGG-C--ACGGA-UCU------
+CAP2UW1_0030 GU-G---AGCA----------AGGAC--UGG-C--CGGGCGGCUU-----
+CAP2UW1_3612 GC--------------------GAGG--GGA-U--GGCAGUUCG------
+CAP2UW1_0663 GCCC---GA-C----------CGACA--AGG-C--CCC-C-GCA------
+CAP2UW1_2923 GG-A---CGC------------CCUC--UCC-A--CU----CAC------
+CAP2UW1_0643 AG-U---GAU------------CUUC--AGG-C--GCG---CGA------
+CAP2UW1_1961 GC-A---AGA------------GAAA--CGG-C--GGC---GUU------
+CAP2UW1_3917 UU-C---GGC------------ACGG--CCU-G-UCCGGCGCAC------
+CAP2UW1_1879 GC-U---C--C---------AC-GGG--ACG-C--UGCGCGAUAAG----
+CAP2UW1_1349 GC-A---GA-C----------AGUGG--GGG-C--CCCGC-CCG------
+CAP2UW1_1219 AG-CA-GCAA------------GCGG--CCC-G--GCAGCGACA------
+CAP2UW1_0612 GC--------CC-------ACGAAUC--AGG-C--UGGCG-CCU------
+CAP2UW1_2662 UC-A---CCC------------GGCA--AGG-U--GC----GCA------
+CAP2UW1_3548 GG-G---ACC------------GCCA--ACC-G--GCGGCGCUU------
+CAP2UW1_2310 GG--------CAG------CAAACAA--GGG-G--CGC---CAG------
+CAP2UW1_3856 AC-G---AAU-----------GGGGA--UUU-C--UUCCCACAAU-----
+CAP2UW1_3388 GC-A---GA-C----------AGUGG--GGG-C--CCCGC-CCG------
+CAP2UW1_2466 GG--------------------CGGG--CCG-G--CGG---GCU------
+CAP2UW1_2766 GC-A---AGCG----------GGAAC--GGG-C--AGGUGUCUG------
+CAP2UW1_0463 GG-C---CAGCAAGCAGCGGUUGAAA--GGG-G--GCA------------
+CAP2UW1_2819 GU-G---G--C----------CGCCC--ACG-G--CGAGCGCCGAC----
+CAP2UW1_3354 AU-A---AGA------------AAAA--GGA-C--GCC------------
+CAP2UW1_1296 GC-U---GCA-----------GGGGG--AAC-G--CGGCCUGAA------
+CAP2UW1_2409 GU-C---GGG------------GCAG--C---C--GUGGCGGUC------
+CAP2UW1_3617 CG-C---AAUCC-------CCCGAAA--CAC-C--GCGUCGCGCUUU---
+CAP2UW1_2106 CU-G---AGC------------GCGC--GUA-C--GGG---GGA------
+CAP2UW1_1911 GC-A---GA-C----------AGUGG--GGG-C--CCCGC-CCG------
+CAP2UW1_3788 GC-U---UGC------------CUCA--CUG-G--CGCCC-CGGAG----
+CAP2UW1_2693 UC-G---CCA------------CCCC--UGA-C--CGC---CAG------
+CAP2UW1_3507 AG-G---C--U---------UCGUGG--UGG-C--UCCG--UUC------
+CAP2UW1_2672 GU-U---CA-------------UCGA--UGA-U--CGGGGUACUACCA--
+CAP2UW1_4180 UC-U---GAACCA-----CCUCGCAC--AAC-G--CCCGC-UCU------
+CAP2UW1_2692 UC-G---CCA------------CCCC--UGA-C--CGC---GCC------
+CAP2UW1_1025 GC-G------------------GGGG--CCU-G-CCCGGCAUGC------
+CAP2UW1_3695 AG-C------------------GCGG--CGC-C--CC----GAC------
+CAP2UW1_3073 AC-G---A--AC--------AUGAAA--AAG-C--GGGGC-UCU------
+CAP2UW1_3171 UA-A---AAA------------AAAG--CGG-C--CC----CGA------
+CAP2UW1_0248 GC-G---G--C---------GCGAAG--AGG-A--CGGG--CUU------
+CAP2UW1_0124 GCCG---GACCC--------CCAGAA--ACC-C--AGGUCGCGGAGA---
+CAP2UW1_3919 GC-A---GGGUG-------UGCAGAA--CAG-G--CUC-C-GAA------
+CAP2UW1_1668 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_0700 AU-A---UGCA----------A--UA--AUA-G--UGC---UUGACAA--
+CAP2UW1_2727 GC--------------------GAUC--UCG-C--CC----CCGAG----
+CAP2UW1_1615 GCGG---GUCCC--------CUGUCG--GCA-C--UCC-CGCUG------
+CAP2UW1_3353 AU-G---AGA------------AAGG--ACG-C--------CUU------
+CAP2UW1_3196 GC-A---UGA-----------C-AAC--GGG-C--CGGCC-CAGGU----
+CAP2UW1_3170 AC-C---GCC------------GGAU--G------CGG------------
+CAP2UW1_2214 UC-A---G-------------GGUGA--ACA-G--CGUCCCGUCA-----
+CAP2UW1_0919 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_2291 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_0877 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_4282 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_1038 GC--------C----------AGGCG--ACG-G--CGG-CGCUCA-----
+CAP2UW1_0408 GC-G---GCC------------ACGG--GGG-U--CG----GCG------
+CAP2UW1_0810 GA-C---CGCUU--------AG--GC--GUG-C--CGU---UCGG-----
+CAP2UW1_0085 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_1776 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_4086 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_4416 AC-G---AAUAA--------GGAUAG--AUC-G--UG----CGAA-----
+CAP2UW1_2743 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_1310 AA--------------------GCGG--GCG-G--CUC---GAA------
+CAP2UW1_0172 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_1444 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_3010 GU-G---C-------------CGCUG--C---U--GGCGCACGC------
+CAP2UW1_1812 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_0979 GU-C---GGC--------------AA--CGU-G--UCGUCGCAC------
+CAP2UW1_1152 GA-------------------CACGG--GCG-C--------UUC------
+CAP2UW1_2820 GC-C---CAC------------GGCG--AGCCC--CGG------------
+CAP2UW1_4177 UC--------------------AUGA--AAC-G--CGC---CUC------
+CAP2UW1_1790 GC-C---UGCC---------UCAAUC--GGG-C--CUG---GAG------
+CAP2UW1_3134 GC-U------------------GCG--CACG-C--CGGCC-GAA------
+CAP2UW1_1292 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_4158 UC-------------------AGGCA--UGA-C--CGC---CAGC-----
+CAP2UW1_1082 UG--------C---------CC-AAA--AAA-C--CCCGC-UUC------
+CAP2UW1_0459 GC-C---G--G----------GACAG--CCG-C--CUGUC-UGA------
+CAP2UW1_2387 GC-G---GA-CU--------CC--AA--AGG-G--CGGCAGACA------
+CAP2UW1_4406 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_1063 GC--------------------AGGG--GGG----------ACG------
+CAP2UW1_0197 GC--------------------AUCG--GGG-C-ACCGUCAUGG------
+CAP2UW1_2150 UC-G---G--G---------UCGCU--GUAG-C-----------------
+CAP2UW1_1694 UU--------------------GCGG--AGC-G--CGGCGGAGCC-----
+CAP2UW1_3536 GC-U---GGUC----------AACCG------------GAACUGU-----
+CAP2UW1_1356 GC-C-----------------GGUCA--AGG-G--GCGGACCCGCAC---
+CAP2UW1_1921 GC-C---GACAU-------CCGCCUG--CCA-C--CC----GCG------
+CAP2UW1_2805 UC-U---AUC------------AUUG-------------AAUUG------
+CAP2UW1_0951 GC-C---A--------------GGC--UCGU-C-GCCGUCCGCUA-----
+CAP2UW1_4404 AC-C---G--------------GCGC--UGC-G--CGA---AAA------
+CAP2UW1_4400 UU-C--CACC------------GGA--CCUG-C--GCG---AAAA-----
+CAP2UW1_2088 GC-G---GAC-----------GGUGG--GGA-C--CCCGC-CCG------
+CAP2UW1_0123 AG-A---AAC------------CCAG--G---C-CCGG---CUC------
+CAP2UW1_3161 GA-G---AAA------------AAAC--CGG-C-ACC----GCA------
+CAP2UW1_3335 GA-U---AGA------------GAAG--GCA-G--CC----CCG------
+CAP2UW1_1053 GU--------U----------CGAGG--GGA-C-CUGCGCAAAAA-----
+CAP2UW1_2390 AG-A---AGC------------GAGG--UGC----------UCC------
+CAP2UW1_0763 GC-A---G--CCAC----CCCUGGA--CAAA-G--CCCUAUCCUUG----
+CAP2UW1_2533 AA-C---AAC------------GGAG--CGG-C--------GCGC-----
+CAP2UW1_4107 GU-------------------GGCGG--AGU-C--------GCG------
+CAP2UW1_0184 AC-G---CAC-----------GGCCG--AUGGC-CACGCGGCGGC-----
+CAP2UW1_1820 GC-C---C--U---------CC-AGC--AAG-C--------UUC------
+CAP2UW1_0624 GC--------------------CAAG--CGA-C--UGG-CGACC------
+CAP2UW1_2144 AG-A---AGC------------CCGA--CCG----------UUU------
+CAP2UW1_4472 GC-C---GCC------------AUCG--CGA-C--CG----CUC------
+CAP2UW1_0879 GC-C---GGA------------GU-C--GGC-C-GCUGGC-CGU------
+CAP2UW1_2273 AC-A------------------AAAA--AAA-C--CCCGC-CGU------
+CAP2UW1_0866 GG-U---G--------------GCUU--CGA-G--CGC---UUUGCUGA-
+CAP2UW1_2265 UC-G---G--------------GCCG--UGU-C--------UUC------
+CAP2UW1_2274 GC-A---CA------------C-AAA--ACC-C--CGC---UAC------
+CAP2UW1_4187 GC-A---GUUUC--------GUUCUG--GUC-G-GCUG---UGC------
+CAP2UW1_4056 GC-A---A-------------CAGGG--ACC-C--GC----CUC------
+CAP2UW1_0334 AC-U---GAAA----------UGCGG--AGU-G-GGUGCCUCGCC-----
+CAP2UW1_0571 CG-C---GAA------------GUGA--A---------ACACAA------
+CAP2UW1_0662 GCGC---AAU-----------GACAA--AGC-C--CCC---UUG------
+CAP2UW1_3835 AC-C---CAGCU-------ACC-CAG--GGA-G--CCG------------
+CAP2UW1_1284 AG--------------------GGUG--ACG-CGGAG----CUU------
+CAP2UW1_0904 UC--------------------GGGC--AGG-C--CGCCAGAUU------
+CAP2UW1_2566 CC-U---GAC------------GCG-GAGCG-C--CGG---AUGUC----
+CAP2UW1_1932 GC-C---U--CUU-----CUCC-CAG--CAG-C-GCUG---CUG------
+CAP2UW1_1374 GU-CU-GAGCA----------CAAAA--AAA-G--CCGGC-GCA------
+CAP2UW1_3693 AC--------G---------CUGCCC--AGG-G--CG----CAAC-----
+CAP2UW1_0462 GA--------CC--------AAAAAA--AGG-G--GGC---AUU------
+CAP2UW1_4048 UC-A---GGC------------UGG--UCUG----------AGA------
+CAP2UW1_2503 AC-G---GGCCGG------GCAGCCG--AGC-C--------CGU------
+CAP2UW1_2781 AC-C---G--------------GCC-------C--CCG---CUUUU----
+CAP2UW1_2220 AG--------C---------CUGCGG--CAG-C--------CAG------
+CAP2UW1_2765 AA--------------------AAAC--GGG-C--AGGUGUCAG------
+CAP2UW1_0674 GC--------------------GCC--CUGG-C--CG----CUU------
+CAP2UW1_4449 ACCU---GGU------------GCGC--UGA-G--CG-------------
+CAP2UW1_3999 UG-C---C-------------C--GG--CAG-C--------UCCU-----
+CAP2UW1_1584 GA-U------------------GCGA--GGA----------UAC------
+CAP2UW1_0716 AG-G---A--C----------AACGG--GCA-G--CGU---UUC------
+CAP2UW1_2309 GG-U------------------ACAA--GGG-G--CGC---CAC------
+CAP2UW1_0771 UC-A---UC-CG--------UGGAGG--CCG-C--CUG------------
+CAP2UW1_1062 GC--------------------GCGC--GGC-G-CGCCU--GAC------
+CAP2UW1_1986 UU-C---U-------------CGCA-------G--CGCAG-CAGGAGA--
+CAP2UW1_3602 AC-A---AGC-------------UGC--CGU-G--CGG---CAC------
+CAP2UW1_0960 AC-A---AGC-------------GGG--CGG-C--CAAGCUGAC------
+CAP2UW1_3093 UA-A---CCC------------AACA--U----------C-CCG------
+CAP2UW1_0492 CC-G---G-------------C-GGC--UGU-C--ACGG--CAAU-----
+CAP2UW1_2356 AA-C---U--C---------UAACGC--CCC-C--GGGGAGUCU------
+CAP2UW1_3567 GU-C---GGC-----------UGAG--CAGC-G--CG----AAA------
+CAP2UW1_2072 GC-G---G--C----------U-GCG--AGGAU--AAUGAACUU------
+CAP2UW1_2667 AC-G---AAA-----------A--AA--AGG-C--ACCGC-CAG------
+CAP2UW1_3787 AA-A---CGG------------GCGC--CCC-G--------AAG------
+CAP2UW1_3719 AC-C------------------GCGC--UGG-C--GCUG--CUUUU----
+CAP2UW1_1805 AC-C---ACC------------CGG--CAUG-C--GGG------------
+CAP2UW1_4401 AC-C---ACC------------CGG--CAUG-C--GGG------------
+CAP2UW1_0542 UC-CCUGGCC------------GCGG--CAG-C--CGGCG-CUGCCU---
+CAP2UW1_1190 UC-U---GC------------GGGUG--CCG-G--CGG---UCA------
+CAP2UW1_4212 UC-A------CCUGG-ACCACC-GAC--AAA-C--CCCGC-CCC------
+CAP2UW1_0783 UC--------GG-------CGC-CGC--AGC-C--CGG-CUCCG------
+CAP2UW1_4068 GC--------------------AUUG--CCG-C--CG----CUG------
+CAP2UW1_1515 GC-C---GGUGA-------GCG--CG--GCG-C--CGGGGACUA------
+CAP2UW1_3843 GC-C---GGUUG--------ACGCGA--UGC-C--CGGUCGCCC------
+CAP2UW1_1111 GC-C------G----------U-CGG--CCA-C--CGGG--CACC-----
+CAP2UW1_3458 GA-------------------UCCUC--GUC-C--GG----UUU------
+CAP2UW1_2864 UC-U---GGUC----------UGCG--GGAU-C--GACGAAGCC------
+CAP2UW1_1362 AA-C---A--U---------CGGGGG--CGC-G--A----ACGCGGCU--
+CAP2UW1_0635 AA-C-----------------AAAGA--AGC-C--CGC---GCC------
+CAP2UW1_3686 GC-G---GAA---------------G--GCA-G-CCUC----AUCCUC--
+CAP2UW1_2448 AG--------GC--------GC-CAA--GGG-C--GGG---GAG------
+CAP2UW1_3519 GC-U---AGC------------AAUG--CCG-G--------AGG------
+CAP2UW1_1044 AC-A------GGC-----UGAAAGGC--UGG-C--AGGUC-AGU------
+CAP2UW1_0188 AG-A---AGCAG--------CA------UGA-A--------GCU------
+CAP2UW1_0994 GA--------U---------CA-CAG--GGG-C--ACGGCGCGUA-----
+CAP2UW1_3973 CG-A---GGUCU--------UU-CGC--CGG-C--------ACG------
+CAP2UW1_0636 AA-A---C--G----------GAAGA--AGC-C--CGC---AGG------
+CAP2UW1_2439 GC-U---GGACAA-----UUCUCCGG--GGC-C--------CUU------
+CAP2UW1_0177 GG-U---AAG------------GCGG--GGGGU--CC----UGG------
+CAP2UW1_4320 AC-A------------------GCCG--ACG-C-----------------
+CAP2UW1_1555 GC-G---GAC------------GCGG--CAGAC--CG----CUGCG----
+CAP2UW1_1095 GC--------------------AAA--GGCG-G--CC----CCC------
+CAP2UW1_3270 GC-A---G--ACCUG--ACACGGGCG--UUC-U--CGG---CAAG-----
+CAP2UW1_0540 GC-U---AAG-----------CGCCG--CGG-C-CCGC-CAACCAGGG--
+CAP2UW1_3912 GG-A---GA-G----------CGACC--AGU-G--------ACC------
+CAP2UW1_3558 GC-A---GG-A---------CUGAGC--GGA-U-GCGU---CCG------
+CAP2UW1_0888 GA-A---CAA------------AAAA--AGG-C--GGC---CGC------
+CAP2UW1_4091 UC-G---CCC-----------CAAAG--GGU-GACCGCCAGCUAG-----
+CAP2UW1_1151 GC-A---GAAU---------CGACGG--GCG-C--------UUC------
+CAP2UW1_0261 GC-A---U--G---------GUCGUG--AGG-C--GGGUC-GCC------
+CAP2UW1_1260 GC-C---G--------------GUAC--AGG-C--------CUCG-----
+CAP2UW1_0959 AC-A---AGCA----------A--GG--CGG-C--CCGG--UCA------
+CAP2UW1_1979 UG--------C----------G--GA--CCG-U--CCUGACCAU------
+CAP2UW1_0339 AC-U---GGC------------GGC-GAACUGG--CCGCC-UGA------
+CAP2UW1_3351 GC-A---A--U----------UGCGG--A----------CGCGGG-----
+CAP2UW1_2405 AG-U---G--CGC------AUUGCGG--CGU-G--GG---UCUGA-----
+CAP2UW1_0275 GG--------C---------UA-CCG--CAU-C--AGCG--AAG------
+CAP2UW1_3543 AC-G---AAUAA--------GGAUAG--AUC-G--UG----CGAA-----
+CAP2UW1_4457 UC--------------------GCG--CCGC-C--GGG-AGCUU------
+CAP2UW1_1857 GC-C------------------GGGG--AAG-C-GCU----CUGUCG---
+CAP2UW1_4192 GC--------G----------CGCCG--CCA----------GAA------
+CAP2UW1_0139 UC-U---GAU-------------UA--AUUG-------------------
+CAP2UW1_1067 GC-C---G--------------GUGG--CGCG----------CGC-----
+CAP2UW1_1534 GG-A---G-------------CAGGC--AGG-C--AGGUUCCCGCGC---
+CAP2UW1_2008 AC-U---GAC------------GCC-------G-ACGC-CCGUU------
+CAP2UW1_0603 GC-------------------C-AUG--GCAUG--CUA------------
+CAP2UW1_3025 GC-A---G--------------GAGC--CGC-C--------UCU------
+CAP2UW1_3452 UC-A---G--------------GCU--CUGA-G--------CAG------
+CAP2UW1_0260 GC-C------U----------G-----AACG-C--AGCAC-AAA------
+CAP2UW1_0486 GC-C---GGC------------AGGG--GCG-C--------CAU------
+CAP2UW1_3460 GC-A---AAA-------------AAA--GCC-C--CGG---UUU------
+CAP2UW1_4409 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1289 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_2091 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_0874 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1816 UC-C---CAC------------GCUG--ACG-C--CGGAAGAAGA-----
+CAP2UW1_0175 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_2746 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_2288 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1815 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_4089 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1671 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_0916 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1247 GU-C---AGC------------GGCG--CCG-G--GCGACGAAUGCCAUG
+CAP2UW1_4275 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1441 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_1779 UC-C---CAC------------GCUG--ACG-C--CGGAACCUCU-----
+CAP2UW1_0873 UC-C---CAC------------GCUG--ACG-C--CGGAAGAAGA-----
+#=GC SS_cons <<.<...<<<............<<<<..<<<.<..<<<<<.___......
+#=GC RF      gC.c...gaC............Gcgg..agg.C..CGggC.ccg......
+
+CAP2UW1_3501 ---------------C-G--G-CU--G-UC---AGC-CC--------UU-
+CAP2UW1_1914 --------------UCCU-CC-CG--G-CG---ACA-G---------CG-
+CAP2UW1_1346 --------------UCCU-CC-CG--G-CG---ACA-G---------CG-
+CAP2UW1_1800 --------------CG------CG--C-CG---CUC-GC---------A-
+CAP2UW1_3385 --------------UCCU-CC-CG--G-CG---ACA-G---------CG-
+CAP2UW1_2547 ------------CGUCGC--C-CG--G-UG---UGC-CC--------A--
+CAP2UW1_0652 --------------GCUU--G-CA--G-GC---CGU-CC-----------
+CAP2UW1_0078 --------------UCUU--C-CG--G-CC---UCA-GC---------G-
+CAP2UW1_2948 ---------------GCG--C-GA--C-CC---GGC-AC---------U-
+CAP2UW1_3382 --------------AG----C-CG--G-GA---ACG-GC--------AG-
+CAP2UW1_1773 --------------GC-C--G-CA--C-CA---ACA-GC---------C-
+CAP2UW1_3554 ---------------C------GG--C-CU---UGC-CG---------U-
+CAP2UW1_1804 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_0087 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_1445 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_1656 -------------GCG------CG--C-CA---CC-------------G-
+CAP2UW1_0974 --------------GC----G-GG--G-CA---UCU-GC---------U-
+CAP2UW1_0026 --------------CUCG--U-CA--G-CG---GUA-GC---------C-
+CAP2UW1_3105 ---------------CGU--U-CG--G-CG---GGG-CC---------G-
+CAP2UW1_0868 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_0527 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_0384 ---------------A----G-CG--G-CC---UGU-U----------G-
+CAP2UW1_4410 ---------------UGG--U-GG-GG-CC---U-C-CU---------U-
+CAP2UW1_1893 --------------AGAC--C-CG--G-CC---CCU-GG--------U--
+CAP2UW1_2666 ---------------GGC--G-GU--G-CC---UUU-----------UU-
+CAP2UW1_2834 --------------UCGU--C-GG--C-GG---GGG-CCUU-----CUG-
+CAP2UW1_1840 ---------------AGU--G-CG--G-CG---GCG-UC--------A--
+CAP2UW1_2389 ---------------GUC--U-CU--G-UGCGAUCU-CU---------G-
+CAP2UW1_1860 ---------------GGC--A-GG--G-CA---UCA-GG---------C-
+CAP2UW1_3464 ----------------UC--C-GU--G-CC---UCU-GUC------UU--
+CAP2UW1_0030 --------------CCGC--C-CG--G-CC---AGUGCC---------G-
+CAP2UW1_3612 ---------------ACU--G-CC--A-UC---CCC-UC-----------
+CAP2UW1_0663 ---------------AG---G-GG--G-CU---UUG-UC--------A--
+CAP2UW1_2923 ---------------C------AG--U-GC---AGA-GG---------G-
+CAP2UW1_0643 --------------UG----C-GC--G-CC---UG-------------A-
+CAP2UW1_1961 ---------------G----G-CC--G-CC---GUU-UU---------U-
+CAP2UW1_3917 --------------GCGC--U-GG--C-GG---GCC-GUU------UUG-
+CAP2UW1_1879 -------------ACCGC--G-CA--G-CG---UCC-C---------U--
+CAP2UW1_1349 ---------------GGC--G-GG--G-CC---CCC-AC--------A-C
+CAP2UW1_1219 ---------------AGC--U-GC--C-GG---GCC-GC--------UU-
+CAP2UW1_0612 ---------------GCG--U-UA--G-CC---UGA-UU--------C--
+CAP2UW1_2662 ---------------A------GC--A-CC---UUG-CC---------G-
+CAP2UW1_3548 ---------------CGCUUC-GC--U-GG---UUG-GC---------G-
+CAP2UW1_2310 --------------UG----G-CG--C-CC---CUU-GU--------A--
+CAP2UW1_3856 --------------GCGG--G-AA--G-AA---AUC-CCCA----ACUA-
+CAP2UW1_3388 ---------------GGC--G-GG--G-CC---CCC-AC--------A-C
+CAP2UW1_2466 --------------GA----U-CG--C-CG---GCC-CG-----------
+CAP2UW1_2766 ---------------ACA--C-CU--G-CC---CGU-UUU------UCG-
+CAP2UW1_0463 ----------------AA--U-GC--C-CC---CUU-UU--------UU-
+CAP2UW1_2819 ------------CGGGGC--U-CG--C-CG---UGG-GC--------C--
+CAP2UW1_3354 ----------------AA--G-GC--G-UC---CUU------------U-
+CAP2UW1_1296 --------------GUGG--C-CG--C-GU---UCC-UC--------AU-
+CAP2UW1_2409 ---------------AGC--C-GC--G-G----GCU-GU---------U-
+CAP2UW1_3617 -----------UCGCCGA--U-GC--G-GU---GUU-UU--------UG-
+CAP2UW1_2106 ---------------A----C-CC--G-UA---CGC-GC---------G-
+CAP2UW1_1911 ---------------GGC--G-GG--G-CC---CCC-AC--------A-C
+CAP2UW1_3788 -------------ACAGG--G-CG--U-CA---GUG-AG--------UG-
+CAP2UW1_2693 --------------GC----G-CG--G-UC---AGG-GG---------U-
+CAP2UW1_3507 ---------------G-C--G-GA--G-CC---ACC-AC--------A--
+CAP2UW1_2672 -----------AGAAACC--C-CG--A-UC---AUC-GG----------C
+CAP2UW1_4180 ---------------CGC--G-GG--C-GU---UGU-GC--------CU-
+CAP2UW1_2692 --------------UG----G-CG--G-UC---AGG-GG---------U-
+CAP2UW1_1025 ---------------UGC--C-GG--C-GG---GCC-CU-----------
+CAP2UW1_3695 ---------------G------GG--G-GC---GCU-GC-----------
+CAP2UW1_3073 ----------------GC--C-CC--G-CU---UUU-UC--------A--
+CAP2UW1_3171 ---------------G------GG--G-CC---GCU-UC---------U-
+CAP2UW1_0248 ---------------G-C--C-CG--U-CC---UUU-UU--------U--
+CAP2UW1_0124 ------------GCCGGG--C-CU--G-GG---UUU-CUUG-----UUG-
+CAP2UW1_3919 ---------------AG---G-GG--C-CU---GUU-UU--------UU-
+CAP2UW1_1668 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_0700 -----------ACAAU----G-CG--C-UA---UUA-----------GG-
+CAP2UW1_2727 -------------UGA------GG--G-UG---AGA-UC-----------
+CAP2UW1_1615 --------------CUG---G-GA--G-UG---CCG-AC--------AG-
+CAP2UW1_3353 ---------------G----------G-CG---UCC-UUU-------UU-
+CAP2UW1_3196 -------------CUGGG--C-CG--G-CC---CGU-U---------UU-
+CAP2UW1_3170 ----------------AA--C-CG--C-A----CGU-CC---------G-
+CAP2UW1_2214 -------------CCCGG-UG-CG--C-UG---UCC-AC--------C--
+CAP2UW1_0919 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_2291 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_0877 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_4282 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_1038 -------------GCCGA--U-CG--C-CG---UCG-CC--------U--
+CAP2UW1_0408 ---------------C------CG--A-CC---CCC-GU---------G-
+CAP2UW1_0810 -------------CAU----G-CG--G-CA---CGC-----------AG-
+CAP2UW1_0085 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_1776 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_4086 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_4416 --------------GC------CA--C-GA---UCUGAUC-------CG-
+CAP2UW1_2743 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_1310 ---------------A----G-GG--C-CG---UCC-GU-----------
+CAP2UW1_0172 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_1444 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_3010 --------------CGGC--G-C----------GCA-GC--------A--
+CAP2UW1_1812 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_0979 --------------ACGC--C-GA--C-GC---GUU-----------UG-
+CAP2UW1_1152 ---------------G----------G-CG---CCC-GU--------U--
+CAP2UW1_2820 --------------------U-CG--GCGC---UCG-CC---------G-
+CAP2UW1_4177 ---------------G----G-CG--C-GU---UUC-AU-----------
+CAP2UW1_1790 --------------UA----C-AG--G-CU---CGA-UUC------AAG-
+CAP2UW1_3134 ---------------AGG--C-CG--G-CG---C-U-GC-----------
+CAP2UW1_1292 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_4158 --------------GA----G-CG--G-UC---GUG-CCG------CC--
+CAP2UW1_1082 ---------------UGC--G-GG--G-UU---UUU-U---------U--
+CAP2UW1_0459 ---------------AGA--U-GG--G-CG---GCU-GU-----------
+CAP2UW1_2387 --------------GGUG--C-CG--C-CC---UUU-----------U-U
+CAP2UW1_4406 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_1063 ---------------C------------CC---CCC-UU-----------
+CAP2UW1_0197 --------------UUGA--C-GG-CG-CC---CC---------------
+CAP2UW1_2150 --------------------------G-UU---A-A-GC--------A--
+CAP2UW1_1694 -------------CGCCG--C-CG--C-GC---UCC-GC-----------
+CAP2UW1_3536 --------------CGUC--G-AC--A-GA---CCG-GU--------UA-
+CAP2UW1_1356 ------------GGGUUC--U-GC--C-CC---CUG-AC--------U--
+CAP2UW1_1921 ---------------A------GG--G-UG---GCA-GGUUUUUUUUCG-
+CAP2UW1_2805 ---------------GUA--U-AU--A-UA---ACA-AU---------G-
+CAP2UW1_0951 -------------CAUGC--U-GG-CG-AC---G-G-CC-----------
+CAP2UW1_4404 ---------------G----U-CG--C-GC---AGC-GC-----------
+CAP2UW1_4400 --------------GC----C-GC--G-CA---G-U-CC---------G-
+CAP2UW1_2088 ---------------GGC--G-GG--G-UC---CCC-ACA------CAG-
+CAP2UW1_0123 ---------------U----C-CG-CG-A----CCU-GG---------G-
+CAP2UW1_3161 ---------------A------GG-AG-CC---GG-------------U-
+CAP2UW1_3335 ---------------C------GG--C-UG---CCU-UU---------U-
+CAP2UW1_1053 -------------GCCGC--G-CA--G-CC---CCC-UC--------A--
+CAP2UW1_2390 ----------------------------GC---ACC-UC---------G-
+CAP2UW1_0763 ------------CCGGUA--G-GG--C-UU---U-U-UC--------U--
+CAP2UW1_2533 -------------CUC----------G-CC---GCU-CC---------G-
+CAP2UW1_4107 ---------------A----------G-AC---UUC-GC--------C--
+CAP2UW1_0184 -------------GGCCG-UC-GUUCGUCA---UCG-GC--------AG-
+CAP2UW1_1820 --------------------------G-CU---UGC-U-U------CC--
+CAP2UW1_0624 --------------CCGA--C-CA--G-UC---GU---------------
+CAP2UW1_2144 --------------UC------------CG---GUC-GG---------G-
+CAP2UW1_4472 ---------------C------CG--G-UC---GC-------------G-
+CAP2UW1_0879 ---------------CGC--C-AA-AG-GC---CGG-AC---------U-
+CAP2UW1_2273 ---------------AGC--G-GG--G-UU---UU---------------
+CAP2UW1_0866 ----------UGGGUU----G-CG--C-UC---GAA-GC-----------
+CAP2UW1_2265 ---------------U----------G-AC---ACG-GC-----------
+CAP2UW1_2274 ---------------G----G-CG--G-GG---UUU-U---------U-U
+CAP2UW1_4187 --------------CA----C-GG-GC-GA---CCA-GGA------GGA-
+CAP2UW1_4056 --------------CG------GC--G-GG---UUU-UU--------U--
+CAP2UW1_0334 -------------GGAGG--U-AC-AC-AC---UCC-GC---------U-
+CAP2UW1_0571 ---------------AGU--C-AA--G-AAC-AUCC-AC---------U-
+CAP2UW1_0662 ---------------C----G-GG--G-GC---CUU-GUC-------GG-
+CAP2UW1_3835 --------------------C-GG--C-UC---CCU-G-UU----UUUU-
+CAP2UW1_1284 ---------------G------CUUGG-CG---UCA-CC-----------
+CAP2UW1_0904 --------------GAUG--GUCG--G-UC---UGC-CC-----------
+CAP2UW1_2566 -------------AGC----C-CG--G-CG---C-G-GC---------G-
+CAP2UW1_1932 ---------------G----C-AG-UG-CU---GCU-G---------G--
+CAP2UW1_1374 ---------------AGC--C-GG--C-UU---UU------------CG-
+CAP2UW1_3693 --------------AA------CG--C-CC---CGG-GC--------A--
+CAP2UW1_0462 ---------------U----G-CC--C-CC---UU---------------
+CAP2UW1_4048 ---------------G------------CA---G-C-CG---------G-
+CAP2UW1_2503 ---------------C----------G-GU---UUG-GUCU-----CUG-
+CAP2UW1_2781 -------------CUU----C-GG--G-U------G-GC-----------
+CAP2UW1_2220 --------------UG----------G-CU---GCC-GU--------U--
+CAP2UW1_2765 ---------------ACA--C-CU--G-CC---CG---------------
+CAP2UW1_0674 ---------------G------CG--G-CC---G-G-GC-----------
+CAP2UW1_4449 ----------------------CG--C-UC---AGU-GC---------G-
+CAP2UW1_3999 --------------UU----------G-CU---GCC-----------U--
+CAP2UW1_1584 --------------UC------------UC---CUC-GC-----------
+CAP2UW1_0716 ---------------G----G-CG--C-UG---CCC-GU--------U--
+CAP2UW1_2309 --------------UG----G-CG--C-CC---CUU-GU-----------
+CAP2UW1_0771 --------------------C-GG--G-CG---GCC-UU--------U-U
+CAP2UW1_1062 --------------CA-A--G-GC--C-GC---CGC-GC-----------
+CAP2UW1_1986 ----------ACAGCCCU--G-CG--C-G------U-GC--------U--
+CAP2UW1_3602 --------------------U-CG--C-AC---GGC-A---------UG-
+CAP2UW1_0960 ---------------CG------G--G-CC---GCC-U---------UG-
+CAP2UW1_3093 ---------------CGG--C-AG--A-A----ACG-UU---------G-
+CAP2UW1_0492 -------------ACC-C--C-GU--G-GC---AGC-C---------A--
+CAP2UW1_2356 --------------CUUU--C-CC--G-GG---GGC-GU--------U--
+CAP2UW1_3567 ---------------G------CG--C-GU---U-C-UCAC----CCGG-
+CAP2UW1_2072 ---------------GU----------ACC---UCG-C---------A--
+CAP2UW1_2667 ---------------GGC--G-AU--G-CC---UUU-----------CU-
+CAP2UW1_3787 ---------------U----------C-GG---GGC-GU--------UU-
+CAP2UW1_3719 -------------CCU-C--G-GC--G-CC---AGC-GC-----------
+CAP2UW1_1805 --------------------U-CC--G-CA-----C-CG---------G-
+CAP2UW1_4401 --------------------U-CC--G-CA-----C-CG---------G-
+CAP2UW1_0542 ------------CGCUCG--C-CG--G-CU---GCC-GC---------G-
+CAP2UW1_1190 ---------------G----C-CG--C-CG---GCA-CCC-------G-A
+CAP2UW1_4212 ---------------GGC--G-GG--G-UU---UGU-C---------G--
+CAP2UW1_0783 --------------GCG---U-CG--G-GC---UGC-G---------U--
+CAP2UW1_4068 ---------------A------CG--G-CG---GC---------------
+CAP2UW1_1515 ---------------ACC--C-CG--G-CG---CUG---A------GAA-
+CAP2UW1_3843 ---------------CGG--C-CG--G-GC---AUC-GU--------UG-
+CAP2UW1_1111 -------------CGA-C--U-GG--G-UG---GCC-G---------A--
+CAP2UW1_3458 ----------------------CC--G-GA---CGA-GG--------U--
+CAP2UW1_2864 --------------GGUC--G--C--G-GU---C-C-GCU-------GG-
+CAP2UW1_1362 ----------AAGCGG-------U--C-GC---GCC-CCG-------G--
+CAP2UW1_0635 ---------------U----G-CG--G-GC---UUC-UU--------C--
+CAP2UW1_3686 -----------CUUCU----G-GGCUU-UG---CC------------UU-
+CAP2UW1_2448 ---------------A----C-CC--G-CC---CUU-G---------U--
+CAP2UW1_3519 ---------------A----------C-CG---GCA-UU---------G-
+CAP2UW1_1044 ----------------GA--C-CU--G-AC---AGC-CU-----------
+CAP2UW1_0188 ---------------C----------U-UC---A-----A------CUG-
+CAP2UW1_0994 --------------CGGC--C-UU--G-CC---CCU-G---------A--
+CAP2UW1_3973 ---------------G----------G-CC---GGC-G---------UA-
+CAP2UW1_0636 ---------------C----G-CG--G-GC---UUC-U-U-------U--
+CAP2UW1_2439 --------------GU----------G-GC---CCC-GGU-------UU-
+CAP2UW1_0177 ---------------C------GG--AGCC---CCC-GC---------U-
+CAP2UW1_4320 --------------------------G-CG---UCG-GC-----------
+CAP2UW1_1555 ------------GCUC------CG--G-CU---GUC-GC--------UG-
+CAP2UW1_1095 ---------------G------GG--C-CG---C-U-UU-----------
+CAP2UW1_3270 --------------CA----U-CG--A-GA---ACG-CC--------C--
+CAP2UW1_0540 ----------UAACAGG---G-CG--G-CC---GCG-GCU------UCC-
+CAP2UW1_3912 ---------------G----------C-GC---UGG-UC--------A-G
+CAP2UW1_3558 ---------------C----G-CG--A-UC--UCGC-UC--------U-C
+CAP2UW1_0888 ---------------A----G-CC--G-CC---UU-------------U-
+CAP2UW1_4091 --------------CCUG--G-CG--C-AC---CC-------------G-
+CAP2UW1_1151 ---------------A----------G-CG---CCC-GU--------UU-
+CAP2UW1_0261 ---------------UGG--C-CC--G-AC---UCA-CG--------A--
+CAP2UW1_1260 -------------GCA----------G-CC---UGU-AC-----------
+CAP2UW1_0959 ---------------G-C--U-UG--G-CC---GCC-----------CG-
+CAP2UW1_1979 --------------GCUC--G-GG--A-UG---GUC-----------A--
+CAP2UW1_0339 ---------------UGG--C-GG--CAGG---U-G-UC---------G-
+CAP2UW1_3351 --------------AGGA--A-UU--C-U----UCC-GC-----------
+CAP2UW1_2405 -------------CGG------CC--C-GC---GCC-GC-----------
+CAP2UW1_0275 ---------------U-C--G-CU--G-GU---GCG-G---------A--
+CAP2UW1_3543 --------------GC------CA--C-GA---UCUGAUC-------CG-
+CAP2UW1_4457 ---------------UU---C-CC--G-GC---G-C-GC-----------
+CAP2UW1_1857 ------------GGUC------AG-UG-AU---UCC-CC-----------
+CAP2UW1_4192 ---------------G------------UG---GCG-GC--------A--
+CAP2UW1_0139 ----------------------------CA---A-U-A---------AA-
+CAP2UW1_1067 -------------AAG------------GC---GCC-AC-----------
+CAP2UW1_1534 ------------UGGUGA--U-CU--G-CC---UGC-CU--------U--
+CAP2UW1_2008 ---------------CG---G-CGGCC-A------G-GC--------UG-
+CAP2UW1_0603 --------------------U-AG--C-UG---CCA-U---------U--
+CAP2UW1_3025 ---------------G----------G-GC---GGC-UU-----------
+CAP2UW1_3452 ---------------C----------C-UC---A-G-GC-----------
+CAP2UW1_0260 ----------------GU--G-GU--G-CG---U-------------A--
+CAP2UW1_0486 --------------GC----------G-CA---CCC-C----------G-
+CAP2UW1_3460 --------------------C-CG--G-GG---CUU-U-U-------UU-
+CAP2UW1_4409 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1289 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_2091 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_0874 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1816 --------------GGUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_0175 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_2746 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_2288 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1815 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_4089 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1671 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_0916 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1247 AAUCCAAUGAACCUCCGU--C-AC--C-CG---GCG-CC---------G-
+CAP2UW1_4275 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1441 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_1779 --------------UCUU--C-CG--G-CG---UCA-GC---------G-
+CAP2UW1_0873 --------------GGUU--C-CG--G-CG---UCA-GC---------G-
+#=GC SS_cons ..............._>>..>.>>..>.>>...>>>.>>.........>.
+#=GC RF      ...............cGc..c.CG..G.cc...ucc.gC.........G.
+
+CAP2UW1_3501 ----------UU---G-UG
+CAP2UW1_1914 ----------UG---G-GA
+CAP2UW1_1346 ----------UG---G-GA
+CAP2UW1_1800 ----------CG---G-UC
+CAP2UW1_3385 ----------UG---G-GA
+CAP2UW1_2547 -----------C---G-AC
+CAP2UW1_0652 -----------C---U-CU
+CAP2UW1_0078 ----------UG---G-GA
+CAP2UW1_2948 ----------CA---C-CU
+CAP2UW1_3382 ----------GA---A-GC
+CAP2UW1_1773 ----------AU---G-AU
+CAP2UW1_3554 ----------UG---U-GC
+CAP2UW1_1804 ----------CC---G-GU
+CAP2UW1_0087 ----------CC---G-GU
+CAP2UW1_1445 ----------CC---G-GU
+CAP2UW1_1656 ----------CC---G-GG
+CAP2UW1_0974 ----------CA---C-GA
+CAP2UW1_0026 ----------UU---U-GG
+CAP2UW1_3105 ----------UC-----GU
+CAP2UW1_0868 ----------CC---G-GU
+CAP2UW1_0527 ----------CC---G-GU
+CAP2UW1_0384 ----------CU---U-UU
+CAP2UW1_4410 ----------CC---G-GU
+CAP2UW1_1893 -----------------GU
+CAP2UW1_2666 ----------UU---C-GU
+CAP2UW1_2834 ----------CU--UU-GU
+CAP2UW1_1840 ----------UC-----GU
+CAP2UW1_2389 ----------UG---C-CU
+CAP2UW1_1860 ----------CA---G-GU
+CAP2UW1_3464 --------------UC-GC
+CAP2UW1_0030 ----------UU---U-AC
+CAP2UW1_3612 -----------------GU
+CAP2UW1_0663 ----------UU---GCGC
+CAP2UW1_2923 ----------CG---U-UU
+CAP2UW1_0643 ----------UC---G-CU
+CAP2UW1_1961 ----------UU---U-GU
+CAP2UW1_3917 ----------UC---G-AA
+CAP2UW1_1879 -----------G---A-GC
+CAP2UW1_1349 --------ACUU---U-GC
+CAP2UW1_1219 ----------UG---G-UU
+CAP2UW1_0612 -----------------GC
+CAP2UW1_2662 ----------GG---U-GG
+CAP2UW1_3548 ----------GU---C-CC
+CAP2UW1_2310 -----------------CC
+CAP2UW1_3856 ----------UC---U-GU
+CAP2UW1_3388 --------ACUU---U-GC
+CAP2UW1_2466 -----------------CC
+CAP2UW1_2766 ----------UC---U-GU
+CAP2UW1_0463 ----------UG---G-UC
+CAP2UW1_2819 -----------C---U-AC
+CAP2UW1_3354 ----------CU---C-AU
+CAP2UW1_1296 ----------GU--CU-GU
+CAP2UW1_2409 ----------CC---G-AC
+CAP2UW1_3617 ----------UU---G-CG
+CAP2UW1_2106 ----------CU---C-AG
+CAP2UW1_1911 --------ACUU---U-GC
+CAP2UW1_3788 ----------CC---G-GC
+CAP2UW1_2693 ----------GG---C-GA
+CAP2UW1_3507 -----------G---U-CU
+CAP2UW1_2672 --------ACUG---A-AC
+CAP2UW1_4180 ----------UC---U-GA
+CAP2UW1_2692 ----------GG---C-GA
+CAP2UW1_1025 --------------GC-GC
+CAP2UW1_3695 --------------GG-UU
+CAP2UW1_3073 -----------U---U-GU
+CAP2UW1_3171 ----------UC---U-UG
+CAP2UW1_0248 -----------U---U-GU
+CAP2UW1_0124 ----------UC---CAGC
+CAP2UW1_3919 ----------UU---U-GC
+CAP2UW1_1668 ----------UU---U-GC
+CAP2UW1_0700 ----------CU--UU-AU
+CAP2UW1_2727 -----------------GC
+CAP2UW1_1615 ----------CU---UAGC
+CAP2UW1_3353 ----------CU---U-AU
+CAP2UW1_3196 ----------UU---U-GU
+CAP2UW1_3170 ----------GU---G-GU
+CAP2UW1_2214 -----------U---U-GA
+CAP2UW1_0919 ----------UU---U-GC
+CAP2UW1_2291 ----------UU---U-GC
+CAP2UW1_0877 ----------UU---U-GC
+CAP2UW1_4282 ----------UU---U-GC
+CAP2UW1_1038 -----------------GC
+CAP2UW1_0408 ----------GC---C-GC
+CAP2UW1_0810 ----------CG--AG-UC
+CAP2UW1_0085 ----------UU---U-GC
+CAP2UW1_1776 ----------UU---U-GC
+CAP2UW1_4086 ----------UU---U-GC
+CAP2UW1_4416 ----------UU---U-GU
+CAP2UW1_2743 ----------UU---U-GC
+CAP2UW1_1310 -----------------UU
+CAP2UW1_0172 ----------UU---U-GC
+CAP2UW1_1444 ----------UU---U-GC
+CAP2UW1_3010 -----------G---U-AU
+CAP2UW1_1812 ----------UU---U-GC
+CAP2UW1_0979 ----------CC---G-GC
+CAP2UW1_1152 -----------------UU
+CAP2UW1_2820 ----------UG---G-GC
+CAP2UW1_4177 -----------------GA
+CAP2UW1_1790 ----------CA---G-GC
+CAP2UW1_3134 --------------CA-GU
+CAP2UW1_1292 ----------UU---U-GC
+CAP2UW1_4158 -----------------GA
+CAP2UW1_1082 -----------------UA
+CAP2UW1_0459 -----------U---G-GC
+CAP2UW1_2387 U------CAUUC---U-GU
+CAP2UW1_4406 ----------UU---U-GC
+CAP2UW1_1063 -----------------GC
+CAP2UW1_0197 -----------------GU
+CAP2UW1_2150 -----------U---U-GA
+CAP2UW1_1694 -----------------AA
+CAP2UW1_3536 ----------CC---A-GC
+CAP2UW1_1356 --------------UG-GC
+CAP2UW1_1921 ----------UC---G-GC
+CAP2UW1_2805 ----------AU---G-GA
+CAP2UW1_0951 -----------U---G-GC
+CAP2UW1_4404 -----------C---G-GU
+CAP2UW1_4400 ----------GU---G-AA
+CAP2UW1_2088 ----------UU---U-GC
+CAP2UW1_0123 ----------UU---U-CU
+CAP2UW1_3161 ----------UU---U-UU
+CAP2UW1_3335 ----------UC---G-UU
+CAP2UW1_1053 -----------------AC
+CAP2UW1_2390 ----------UU---U-UU
+CAP2UW1_0763 -----------U---U-GC
+CAP2UW1_2533 ----------UU---G-UU
+CAP2UW1_4107 -----------------AC
+CAP2UW1_0184 ----------UG---U-GU
+CAP2UW1_1820 -----------G---G-GC
+CAP2UW1_0624 -----------------GC
+CAP2UW1_2144 ----------CU---U-UU
+CAP2UW1_4472 ----------GU---G-GC
+CAP2UW1_0879 ----------CC---G-GC
+CAP2UW1_2273 --------------GU-GU
+CAP2UW1_0866 -----------C---U-CC
+CAP2UW1_2265 -----------C---C-GG
+CAP2UW1_2274 U------UGUUG---U-GC
+CAP2UW1_4187 ----------AU---U-GC
+CAP2UW1_4056 -----------U---U-GC
+CAP2UW1_0334 ----------UC---G-GU
+CAP2UW1_0571 ----------UC---G-UG
+CAP2UW1_0662 ----------UC---GGGC
+CAP2UW1_3835 ----------UG---G-GU
+CAP2UW1_1284 -----------------CU
+CAP2UW1_0904 -----------------GA
+CAP2UW1_2566 ----------UC---A-GG
+CAP2UW1_1932 -----------U---G-GC
+CAP2UW1_1374 ----------CU---G-AU
+CAP2UW1_3693 -----------------GU
+CAP2UW1_0462 -----------------UC
+CAP2UW1_4048 ----------UC---U-GA
+CAP2UW1_2503 ----------UU---U-GU
+CAP2UW1_2781 -----------C---G-GU
+CAP2UW1_2220 -----------------UU
+CAP2UW1_2765 -----------------UU
+CAP2UW1_0674 -----------------GC
+CAP2UW1_4449 ----------CC---GAGU
+CAP2UW1_3999 -----------G---G-CA
+CAP2UW1_1584 --------------UA-UC
+CAP2UW1_0716 -----------U---U-CU
+CAP2UW1_2309 ------------U-UG-CU
+CAP2UW1_0771 UUUUCGCAUGGU---U-GA
+CAP2UW1_1062 -----------------GC
+CAP2UW1_1986 -----------A---G-AA
+CAP2UW1_3602 ----------CU---U-GA
+CAP2UW1_0960 ----------CU---U-GU
+CAP2UW1_3093 ----------GG---U-UA
+CAP2UW1_0492 -----------C---C-GG
+CAP2UW1_2356 -----------U---G-UU
+CAP2UW1_3567 ----------CU--UG-AC
+CAP2UW1_2072 -----------U---C-GC
+CAP2UW1_2667 ----------UC---U-GU
+CAP2UW1_3787 ----------CG---U-UU
+CAP2UW1_3719 --------------CG-GU
+CAP2UW1_1805 ----------GC---G-GU
+CAP2UW1_4401 ----------GC---G-GU
+CAP2UW1_0542 ----------GC---G-GA
+CAP2UW1_1190 --------UCGU---G-GA
+CAP2UW1_4212 --------------CU-GA
+CAP2UW1_0783 -----------------GA
+CAP2UW1_4068 -----------------GU
+CAP2UW1_1515 ----------CUGACG-GU
+CAP2UW1_3843 ----------CC--AG-GC
+CAP2UW1_1111 --------------GG-GC
+CAP2UW1_3458 -----------------UU
+CAP2UW1_2864 ----------CC---G-GA
+CAP2UW1_1362 -----------U--GG-UU
+CAP2UW1_0635 --------------CG-UU
+CAP2UW1_3686 ----------UC---U-GC
+CAP2UW1_2448 -----------------CU
+CAP2UW1_3519 ----------CC---U-GC
+CAP2UW1_1044 --------------AU-GU
+CAP2UW1_0188 ----------CU---U-CU
+CAP2UW1_0994 -----------------UC
+CAP2UW1_3973 ----------CC---U-CG
+CAP2UW1_0636 -----------G---U-UU
+CAP2UW1_2439 ----------UU---U-GC
+CAP2UW1_0177 ----------UC---G-UU
+CAP2UW1_4320 --------------GU-GU
+CAP2UW1_1555 ----------UC---U-GU
+CAP2UW1_1095 -----------------GC
+CAP2UW1_3270 -----------C---U-GC
+CAP2UW1_0540 ----------UC---G-GC
+CAP2UW1_3912 CCGA-CGCAAUU---U-CC
+CAP2UW1_3558 --------GCCU---U-GC
+CAP2UW1_0888 ----------UC---C-UC
+CAP2UW1_4091 ----------GG---C-GA
+CAP2UW1_1151 ----------UC--UU-GU
+CAP2UW1_0261 -----------A---C-GC
+CAP2UW1_1260 -----------C---G-GA
+CAP2UW1_0959 ----------CU---U-GU
+CAP2UW1_1979 -----------------UA
+CAP2UW1_0339 ----------CC---U-GU
+CAP2UW1_3351 -----------U---U-GC
+CAP2UW1_2405 -----------U---U-CU
+CAP2UW1_0275 -----------------UC
+CAP2UW1_3543 ----------UU---U-GU
+CAP2UW1_4457 -----------------GA
+CAP2UW1_1857 --------------CG-GC
+CAP2UW1_4192 -----------------GC
+CAP2UW1_0139 ----------UC---A-GA
+CAP2UW1_1067 -----------C---G-GC
+CAP2UW1_1534 -----------U---U-CU
+CAP2UW1_2008 ----------UC---G-GU
+CAP2UW1_0603 -----------------GC
+CAP2UW1_3025 -----------U---U-GU
+CAP2UW1_3452 -----------U--CU-GA
+CAP2UW1_0260 --------------UG-GC
+CAP2UW1_0486 ----------CC---G-GC
+CAP2UW1_3460 ----------UU---U-GC
+CAP2UW1_4409 ----------UG---G-GA
+CAP2UW1_1289 ----------UG---G-GA
+CAP2UW1_2091 ----------UG---G-GA
+CAP2UW1_0874 ----------UG---G-GA
+CAP2UW1_1816 ----------UG---G-GA
+CAP2UW1_0175 ----------UG---G-GA
+CAP2UW1_2746 ----------UG---G-GA
+CAP2UW1_2288 ----------UG---G-GA
+CAP2UW1_1815 ----------UG---G-GA
+CAP2UW1_4089 ----------UG---G-GA
+CAP2UW1_1671 ----------UG---G-GA
+CAP2UW1_0916 ----------UG---G-GA
+CAP2UW1_1247 ----------CU---G-AC
+CAP2UW1_4275 ----------UG---G-GA
+CAP2UW1_1441 ----------UG---G-GA
+CAP2UW1_1779 ----------UG---G-GA
+CAP2UW1_0873 ----------UG---G-GA
+#=GC SS_cons ..........>>...>.>>
+#=GC RF      ..........uc...g.Gc
+//

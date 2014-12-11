@@ -1,0 +1,830 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS RSc2933 WT 1.10
+#=GS RSc0491 WT 1.22
+#=GS RSc0672 WT 0.96
+#=GS RSc3349 WT 0.88
+#=GS RSc1538 WT 0.87
+#=GS RSc0320 WT 1.06
+#=GS RSc1610 WT 0.66
+#=GS RSc1149 WT 0.96
+#=GS RSc2446 WT 0.83
+#=GS RSc3156 WT 1.17
+#=GS RSc2003 WT 1.17
+#=GS RSc1537 WT 0.98
+#=GS RSc1129 WT 1.21
+#=GS RSc1008 WT 0.48
+#=GS RSc2662 WT 0.92
+#=GS RSc2914 WT 0.92
+#=GS RSc1744 WT 1.02
+#=GS RSc3086 WT 0.98
+#=GS RSc0374 WT 0.68
+#=GS RSc2720 WT 0.92
+#=GS RSc1578 WT 1.07
+#=GS RSc0494 WT 0.82
+#=GS RSc0900 WT 0.94
+#=GS RSc2269 WT 1.60
+#=GS RSc0971 WT 1.13
+#=GS RSc2177 WT 1.04
+#=GS RSc0926 WT 0.84
+#=GS RSc2490 WT 1.31
+#=GS RSc2437 WT 0.48
+#=GS RSc0392 WT 0.98
+#=GS RSc1580 WT 1.18
+#=GS RSc2748 WT 0.82
+#=GS RSc0373 WT 0.68
+#=GS RSc2349 WT 1.81
+#=GS RSc1536 WT 0.91
+#=GS RSc0025 WT 1.31
+#=GS RSc3271 WT 1.13
+#=GS RSc1633 WT 1.41
+#=GS RSc0126 WT 1.09
+#=GS RSc0189 WT 0.95
+#=GS RSc0925 WT 0.91
+#=GS RSc2491 WT 1.21
+#=GS RSc0775 WT 0.99
+#=GS RSc1209 WT 0.76
+#=GS RSc2555 WT 0.87
+#=GS RSc1609 WT 0.66
+#=GS RSc0992 WT 1.12
+#=GS RSc0797 WT 1.18
+#=GS RSc1553 WT 1.17
+#=GS RSc2747 WT 0.82
+#=GS RSc0350 WT 0.91
+#=GS RSc1310 WT 1.28
+#=GS RSc2804 WT 0.96
+#=GS RSc1314 WT 1.00
+#=GS RSc2864 WT 0.91
+#=GS RSc2436 WT 0.64
+#=GS RSc2190 WT 1.00
+#=GS RSc3339 WT 0.99
+#=GS RSc2920 WT 1.22
+#=GS RSc3264 WT 1.00
+#=GS RSc2663 WT 0.96
+#=GS RSc2238 WT 0.72
+#=GS RSc1526 WT 1.11
+#=GS RSc0967 WT 1.09
+#=GS RSc3035 WT 1.02
+#=GS RSc0945 WT 0.96
+#=GS RSc2813 WT 0.98
+#=GS RSc3010 WT 1.43
+#=GS RSc1716 WT 0.79
+#=GS RSc1567 WT 0.72
+#=GS RSc3020 WT 1.02
+#=GS RSc0484 WT 0.81
+#=GS RSc0580 WT 1.14
+#=GS RSc0612 WT 1.25
+#=GS RSc2553 WT 0.82
+#=GS RSc0042 WT 1.14
+#=GS RSc1622 WT 0.63
+#=GS RSc2939 WT 0.69
+#=GS RSc0485 WT 0.71
+#=GS RSc0952 WT 0.82
+#=GS RSc2855 WT 0.82
+#=GS RSc2921 WT 1.33
+#=GS RSc2067 WT 1.02
+#=GS RSc0333 WT 0.87
+#=GS RSc2008 WT 1.29
+#=GS RSc3103 WT 0.96
+#=GS RSc0296 WT 0.72
+#=GS RSc1169 WT 1.30
+#=GS RSc1508 WT 1.16
+#=GS RSc1552 WT 1.07
+#=GS RSc0343 WT 1.08
+#=GS RSc0924 WT 1.11
+#=GS RSc1363 WT 1.08
+#=GS RSc0991 WT 1.12
+#=GS RSc2837 WT 0.69
+#=GS RSc1713 WT 1.07
+#=GS RSc0293 WT 1.10
+#=GS RSc0391 WT 0.72
+#=GS RSc2623 WT 0.72
+#=GS RSc2976 WT 0.72
+#=GS RSc1956 WT 1.16
+#=GS RSc1535 WT 1.11
+#=GS RSc1627 WT 0.85
+#=GS RSc2977 WT 0.68
+#=GS RSc1203 WT 0.97
+#=GS RSc1164 WT 1.08
+#=GS RSc3412 WT 0.99
+#=GS RSc3350 WT 0.88
+#=GS RSc2574 WT 1.09
+#=GS RSc0559 WT 0.80
+#=GS RSc1645 WT 0.96
+#=GS RSc1291 WT 1.06
+#=GS RSc1975 WT 0.87
+#=GS RSc0004 WT 0.83
+#=GS RSc2007 WT 1.42
+#=GS RSc3316 WT 0.68
+#=GS RSc0551 WT 1.19
+#=GS RSc3329 WT 1.11
+#=GS RSc2237 WT 0.83
+#=GS RSc1028 WT 1.00
+#=GS RSc2466 WT 0.68
+#=GS RSc2518 WT 0.86
+#=GS RSc2342 WT 0.99
+#=GS RSc1621 WT 0.63
+#=GS RSc0495 WT 0.82
+#=GS RSc1961 WT 1.35
+#=GS RSc1313 WT 0.77
+#=GS RSc2660 WT 1.11
+#=GS RSc2239 WT 1.14
+#=GS RSc0356 WT 1.09
+#=GS RSc0910 WT 0.78
+#=GS RSc0996 WT 0.72
+#=GS RSc0816 WT 0.72
+#=GS RSc2279 WT 1.08
+#=GS RSc2226 WT 0.79
+#=GS RSc0394 WT 1.06
+#=GS RSc1283 WT 1.24
+#=GS RSc2857 WT 0.72
+#=GS RSc1182 WT 0.83
+#=GS RSc0710 WT 1.02
+#=GS RSc2224 WT 1.16
+#=GS RSc2188 WT 0.98
+#=GS RSc1000 WT 0.81
+#=GS RSc0815 WT 1.00
+#=GS RSc2932 WT 1.08
+#=GS RSc3345 WT 1.25
+#=GS RSc0190 WT 0.95
+#=GS RSc1007 WT 0.55
+#=GS RSc0895 WT 1.41
+#=GS RSc2069 WT 1.02
+#=GS RSc1566 WT 0.88
+#=GS RSc0557 WT 0.93
+#=GS RSc1001 WT 0.71
+#=GS RSc1715 WT 0.79
+#=GS RSc1572 WT 1.28
+#=GS RSc2365 WT 0.85
+#=GS RSc0322 WT 1.06
+#=GS RSc2189 WT 1.10
+#=GS RSc0026 WT 0.99
+#=GS RSc0134 WT 0.82
+#=GS RSc1515 WT 0.89
+#=GS RSc0648 WT 1.10
+#=GS RSc3300 WT 0.82
+#=GS RSc2717 WT 0.54
+#=GS RSc2368 WT 0.96
+#=GS RSc1234 WT 0.88
+#=GS RSc1202 WT 0.85
+#=GS RSc2767 WT 1.28
+#=GS RSc0080 WT 0.96
+#=GS RSc2441 WT 1.20
+#=GS RSc1626 WT 1.25
+#=GS RSc0332 WT 0.87
+#=GS RSc2153 WT 1.02
+#=GS RSc2902 WT 1.33
+#=GS RSc2702 WT 0.91
+#=GS RSc2792 WT 1.36
+#=GS RSc1035 WT 1.25
+#=GS RSc0755 WT 1.07
+#=GS RSc2940 WT 0.82
+#=GS RSc2934 WT 1.17
+#=GS RSc2971 WT 0.74
+#=GS RSc0922 WT 1.42
+#=GS RSc2716 WT 0.54
+#=GS RSc2178 WT 1.04
+#=GS RSc1069 WT 0.69
+#=GS RSc0917 WT 1.02
+#=GS RSc1737 WT 1.00
+#=GS RSc2075 WT 1.09
+#=GS RSc1605 WT 1.03
+#=GS RSc0448 WT 1.03
+#=GS RSc0555 WT 1.11
+#=GS RSc0774 WT 1.02
+#=GS RSc1967 WT 0.76
+#=GS RSc2812 WT 0.98
+#=GS RSc1210 WT 1.00
+#=GS RSc0325 WT 0.72
+#=GS RSc1036 WT 1.10
+#=GS RSc0586 WT 1.24
+#=GS RSc1640 WT 1.18
+#=GS RSc0400 WT 0.86
+#=GS RSc0899 WT 1.30
+#=GS RSc1993 WT 1.19
+#=GS RSc0009 WT 0.68
+#=GS RSc1523 WT 0.93
+#=GS RSc2979 WT 0.79
+#=GS RSc2654 WT 1.16
+#=GS RSc2358 WT 1.21
+#=GS RSc0176 WT 1.12
+#=GS RSc0018 WT 1.25
+#=GS RSc1232 WT 0.88
+#=GS RSc0541 WT 1.15
+#=GS RSc0560 WT 1.16
+#=GS RSc2836 WT 0.69
+#=GS RSc1150 WT 1.00
+#=GS RSc0023 WT 1.32
+#=GS RSc2687 WT 1.08
+#=GS RSc2420 WT 1.16
+#=GS RSc1722 WT 1.19
+#=GS RSc0951 WT 0.87
+#=GS RSc0851 WT 1.55
+#=GS RSc2228 WT 1.07
+#=GS RSc0573 WT 1.02
+#=GS RSc0904 WT 1.02
+#=GS RSc0751 WT 1.07
+#=GS RSc0145 WT 0.93
+#=GS RSc0964 WT 1.12
+#=GS RSc3122 WT 1.15
+#=GS RSc1699 WT 0.87
+#=GS RSc2821 WT 0.67
+#=GS RSc1270 WT 1.19
+#=GS RSc1269 WT 1.32
+#=GS RSc2280 WT 1.00
+#=GS RSc1603 WT 1.01
+#=GS RSc0404 WT 1.10
+#=GS RSc0737 WT 1.22
+#=GS RSc1595 WT 1.13
+#=GS RSc2464 WT 0.55
+#=GS RSc0257 WT 1.19
+#=GS RSc0038 WT 1.21
+#=GS RSc3190 WT 1.48
+#=GS RSc1528 WT 0.97
+#=GS RSc3295 WT 1.10
+#=GS RSc1950 WT 0.96
+#=GS RSc2898 WT 0.67
+#=GS RSc0787 WT 1.00
+#=GS RSc2764 WT 0.79
+#=GS RSc2964 WT 0.92
+#=GS RSc2856 WT 0.72
+#=GS RSc0424 WT 1.16
+#=GS RSc2042 WT 1.35
+#=GS RSc2148 WT 0.93
+#=GS RSc1969 WT 0.94
+#=GS RSc1364 WT 1.25
+#=GS RSc1524 WT 0.93
+#=GS RSc2560 WT 1.16
+#=GS RSc2122 WT 0.92
+#=GS RSc0351 WT 0.84
+#=GS RSc1335 WT 0.74
+#=GS RSc2463 WT 0.55
+#=GS RSc0504 WT 1.18
+#=GS RSc2547 WT 0.82
+#=GS RSc1305 WT 1.08
+#=GS RSc0459 WT 1.25
+#=GS RSc2359 WT 1.24
+#=GS RSc2005 WT 0.89
+#=GS RSc1861 WT 1.29
+#=GS RSc2655 WT 1.25
+#=GS RSc2617 WT 1.02
+#=GS RSc0736 WT 1.24
+#=GS RSc2958 WT 1.25
+#=GS RSc0897 WT 1.18
+#=GS RSc0981 WT 0.75
+#=GS RSc1738 WT 1.07
+
+RSc2933      C---G-AAUG-------------AACGG-----CGAA-------ACGCCG
+RSc0491      UGC-U-UCAG------C------AA----------AA-------AACCAC
+RSc0672      CGC-G-CA-G------C----A-AUGA-------CAA-------CGGGCC
+RSc3349      CGG-G-CCA--------------AUAA-------AAA-------AAGGCG
+RSc1538      CCC-G-CCUG-----AC-G-GC-AAAA-------CAG-------AACGGC
+RSc0320      GGC-A-AA--------C-G-C--A-----------AA-------AGGGCC
+RSc1610      CGC-G-CGU-------C-G-CCCAACA--------AA-------AAAGCG
+RSc1149      G---G-UAA-------C-G-CA-AU----------GG-------AACGGG
+RSc2446      C---G-CC-G--------G-C--ACCG--------AG-------AAACCC
+RSc3156      C---G-CAAG-----UC----G-AAUA--------AA-------AAAGCU
+RSc2003      CGC-U-GUUG------C-A-G--AUCGG------CAA-------GGCCGG
+RSc1537      CGU-G-AU-G------C------AAGC--------AG-------AACGGC
+RSc1129      CGC-A-GUU-------C-G-CC-AGAC-------CAU-------GCGACC
+RSc1008      CGU-G-CCUG------C-A-CG-AA----------AA-------AAGCCU
+RSc2662      CGC-G-GCAG------C-G-C--AGCA--------AA-------ACGGCC
+RSc2914      CGA-G-CC-G------C------AAGA--------GA-------GAGGCG
+RSc1744      CGC---CAUG------C-G-C--C-----------GG-------AUGCCG
+RSc3086      CGC-G-CG-G------C------AAGC-------GAC-------AACGGA
+RSc0374      CGC-C-CA--------C-G-C--AACG--------AA-------AAGCCC
+RSc2720      G---G-CCUG-----------G-A-----------AA-------ACAGCC
+RSc1578      C---G-CAAG------U----G-AUACG-----GGCA-------GCGGCC
+RSc0494      G---G-CAU-------C-G-AC-AAAA-------GAA-------AAAGCG
+RSc0900      GGC-A-CCUG------C-C--G-AUGA--------AG-------AAGCCC
+RSc2269      CGU-G-AA--------CUG-C--ACCC-------CAA-------AAGUUG
+RSc0971      C-----CCUG-----UC-C-CG-A-----------AC-------AUGCCG
+RSc2177      UCC-G-CC--------C-G-G--ACCA-------CAA-------GCCGGC
+RSc0926      GGC-G-CG-G------C-G-CC-AAUG--------AG-------AAGGGA
+RSc2490      GGC-U-GA--------C-G-C--A-----------CA-------GAACCC
+RSc2437      C-----CCUG-----------G-A-----------AA-------AAGCCU
+RSc0392      GGC-G-CAUC------C-A-CG-AAAA--------AA-------AAGAGA
+RSc1580      GGC-C-GAU-------C------ACCC--------UG-------ACGGGG
+RSc2748      CGC-U-CCU-------C----C-AACG--------AA-------AACGGC
+RSc0373      CGC-G-CC--------C----A-AAGA--------AA-------AAGCCC
+RSc2349      U-----CAU-------C-U-CG-AUC---------AU-------CCCGGC
+RSc1536      CCC-G-AC-C------C-G-CC-AACA--------AA-------AAACGC
+RSc0025      GGC-U-GA-G------U-G-C--AUUU--------GA-------AAGGCC
+RSc3271      GGC---CC--------C-G-CC-AAAGA-----UGAA-------CGGCCU
+RSc1633      C---G-CC--------C-G-C--A------------C-------CCAUGC
+RSc0126      CGU-G-CA-G------U-G-AC-A-----------GG-------GACCCC
+RSc0189      CGC-G-CCA-------U----G-AUGA-------CAA-------ACACGC
+RSc0925      U---G-CC-G--------G-C--AUGA-------AAA-------AAGGGA
+RSc2491      G---G-CUAG------C-G-C--AGGA--------AA-------AGCAGA
+RSc0775      CGU-G-CA-G------C----C-ACGG-------GAA-------CGGCCG
+RSc1209      CGU-U-CC-G--------G-CA-AAGA--------AA-------AACCGG
+RSc2555      GGC-G-CA--------C-G-CA-AAAGC------AAA-------AAGCCU
+RSc1609      UGC-G-CCUGUUUCGGC-C-CC-AACA--------AA-------AAAGCG
+RSc0992      CGC-G-CA--------C-G-AA-AAG--------AAA-------ACGCCG
+RSc0797      G---G-GUUG------C-G-CC-A------------G-------ACGGCG
+RSc1553      CGC-G-GUAG------U----G-AU----------GA------UUGGCCC
+RSc2747      GCC-G-CCU-------C-A-UC-AAAA--------AA-------AACGGC
+RSc0350      CCC-G-GC-G------C-G-CA-AACA--------AG-------AAAGGA
+RSc1310      CGC-G-AGU-------C------AA----------GA-------AGGCAG
+RSc2804      CGC-G-CUUG--------A-C--ACGG--------AA-------AUAGGC
+RSc1314      GCC-U-GCUG------C-A-CC-AAAC-------AAA-------ACGCCC
+RSc2864      C---G-CUUG------C-A-CC-AGCA--------AG-------AAACCG
+RSc2436      G---G-CCUG-----AC-G-CCCAAAG-------AAA-------AAGCCU
+RSc2190      CGC-G-CA--------C------A-----------CA-------ACGGCG
+RSc3339      GGC-G-CCA-------C----C-AAAAC------GAA-------AAGCCC
+RSc2920      CGC-U-GC--------C-G-CA--AAAGC----AGAC-------GGGCCG
+RSc3264      CGC-U-CCA-------C------A-----------GA-------AAACGC
+RSc2663      CCC-G-CUA-------C------AAGC--------AA-------AACGGC
+RSc2238      CCU-G-CAUG--------G-CC-AACA--------AA-------AAACCC
+RSc1526      CGA-G-GA--------C-G-GC-AUAG--------GA-------GAGCCG
+RSc0967      UGC---CC-G--------G-CC-A------------A-------GGCCCC
+RSc3035      CGC-G-GCA-------C-G-CG-A-----------CG-------GAGGCU
+RSc0945      CGC-G-UC-G------C-C-CC-AACG-------AAA-------AACGCG
+RSc2813      CGC-G-GC--------C----A-AUGA--------AA-------AAGGGC
+RSc3010      UGC-U-GUUG-------------U------------A-------AGACCG
+RSc1716      CUC-G-ACUGA----GC-G-CCGAUAA-------CAA-------AAAGCC
+RSc1567      GGC-G-CC--------C------AACA--------AA-------AAAGAC
+RSc3020      G---G-CAU-------C----G-AGUG--------AA-------ACGGCG
+RSc0484      GGU-U-CC-G------C-G-C--AAAA-------GAA-------AAGCCG
+RSc0580      UCC-G-GUCG------C-G-CC-AUGC--------AG-------AAUGCC
+RSc0612      CGC-G-GC--------CGG-GC-A------------G-------GACCGG
+RSc2553      C---G-CUU-------C------AAAAC------GAA-------AAAGGC
+RSc0042      CGC-G-UCA-------C-G-C--A-----------CA-------ACGGGC
+RSc1622      CGC-G-CC-G------C----C-AAGC-------AAA-------ACGGCC
+RSc2939      UCC-G-CCA-------C-G-C--AGCA--------AA-------AAAGGC
+RSc0485      UCC-G-CAU-------C-G-CA-AACG-------AAA-------AAGCCG
+RSc0952      CGC-G-CAUCG----CC-G-CC-AUGA--------AG-------AAAGGC
+RSc2855      GGC-G-GA--------C-G-C--A------------G-------GAAGGC
+RSc2921      CGC-G-CCUG------C------AUCGGGCCGGGCGG-------ACGGGC
+RSc2067      CGG-G-AAUCU----CC-G-CC-ACGG--------AA-------ACGGCU
+RSc0333      CCC-G-CC-G-----------A-AACA-------GAA-------ACGCCC
+RSc2008      CGCGG-CCUGGG--GCC----G-AUGC-------GGA-------GCCGAU
+RSc3103      C-----ACU-------C-C-C--AUGA--------AA-------AACGCG
+RSc0296      GCC-G-CCUGC----CC-G-CA-AAGG--------AA-------AAAACG
+RSc1169      UGC-U-GCUGG----UC----G-A-----------CA-------AGGUCG
+RSc1508      CGC-G-CC-G-------------A------------C-------GCGCCG
+RSc1552      CGU-G-CA-G------C-A-CC-AACA-------CAU-------AAGGGC
+RSc0343      CGU-U-AC--------C-G-C--A-----------AA-------GGACCC
+RSc0924      CGC-G-ACAG------C-G-CC-ACCAU-----GCCAUGCCGCCGAAGCC
+RSc1363      U---G-CCUG-----GC-G-C--A-----------CG-------GAACGC
+RSc0991      U-----UCUC------C-G-G--AACG-------CUG-------ACGCCG
+RSc2837      UGU-G-CC--------C------AUG---------AA-------AAAGCG
+RSc1713      CGG-G-CUAG------C-C-CG-A-----------GG-------AGGGCC
+RSc0293      GGC-G-CU-G------C-G-GC-AUC---------CA-------CGGGGC
+RSc0391      GGC-G-CA--------C-G-C--AAAA--------AA-------AGAGAC
+RSc2623      CGC-G-CCUC-----GC-G-CCCAACG--------AA-------AAGCCG
+RSc2976      CGC-G-CC-G--------A-CA-A-----------AA-------AAGCCG
+RSc1956      C-----AAUC------C-G-CA-AUAA-------AAA-------CGGGCC
+RSc1535      CGC-C-CUU-------C------AAGC-------AAA-------AACGCA
+RSc1627      CGC---CAUC-----GC-G-CA-AUCA--------GG-------AAGCCC
+RSc2977      CGC-G-CCAC------C-G-C--AAAA--------GA-------AAAGCC
+RSc1203      C---G-UUUG--------G-C--AAGA--------AA-------AAGCCG
+RSc1164      GGC-G-UC--------C-G-C--ACU---------GA-------AGACAC
+RSc3412      CGC-G-CC-G------CAG-GC-AACA--------AG-------AAGAGC
+RSc3350      GGC-G-CC-G------C-G-CCCACAA--------AA-------AAGGCG
+RSc2574      GGC-G-GC--------C------AUCCC-----CCGA-------ACGCGC
+RSc0559      UGC-G-UCU-------C------AAAA--------AG-------AAAGCG
+RSc1645      CCC-G-CC--------C----G-AGAG--------AC-------AACGGC
+RSc1291      CGC-G-GU-G-----CC-G-GA-AUCA--------AA-------AAAGCG
+RSc1975      CGCUG-CAUG----------------A-------AAA-------AAGCCC
+RSc0004      C---G-GC--------C-G-C--AGCA--------GG-------AAGGGC
+RSc2007      GGCUG-ACAG------C-U-C--AAG---------CC-------GAUGCC
+RSc3316      G---G-CC--------C----C-AAA---------AG-------AAAGCA
+RSc0551      GCC-G-UAU-------C-G-AG-AUUG--------AC-------GCGCCU
+RSc3329      UGC-U-GUUC------C-A-C--ACGA--------AA-------AACGCA
+RSc2237      GGC-U-CC-G-----CC-G-C--AAA---------AA-------AAACCC
+RSc1028      G---G-CC--------C-G-C--AAAG-------CGA-------AACGCC
+RSc2466      C---G-AC-C------C-G-C--A-----------GA-------AAGCCC
+RSc2518      GGU-G-CCUG-----UC-C-C--AAGC-------AAA-------AAAGCC
+RSc2342      GGC-G-CCUG------C-G-CC-ACGGG------CAA-------CGGCCG
+RSc1621      CGUCG-CUUC------C-G-GC-AAGAA------CAA-------ACGGCC
+RSc0495      GGC---AAUG--------G-GC-AACA--------AA-------AAAGCG
+RSc1961      CGC-G-AC-G--------G-C--ACGU--------GAC----UGCCCGCG
+RSc1313      CGCAG-CC-GU----UC----A-AACA-------GAA-------ACGCCC
+RSc2660      CGC-G-CA--------CUG-GC-ACCG--------AC-------GAGCCG
+RSc2239      C-----CAU-------C-GGCC-AUAU-------CAG-------AGACCG
+RSc0356      CGC---AUUG------C-G-CC-U-----------GA-------UGCCCG
+RSc0910      G---G-UUU-------C------AA----------GA-------ACGCCC
+RSc0996      UCC-G-CU--------C-G-GC-A-----------AA-------ACGCCC
+RSc0816      CGU---CCAG--------G-C--AACA--------AA-------AAACCC
+RSc2279      CGG-G-CA--------C------AUCC--------GA-------GGCGCC
+RSc2226      GGC-C-CC-G-----GC-G-CG-ACCAG------CAA-------AAAGCC
+RSc0394      CGC-G-AU--------C-G-GA-A-----------GG-------AAAGCC
+RSc1283      GGC-U-GAU-------C-G-CCUACCA-------CGG-------CAUCCG
+RSc2857      CGC-G-UCA-------C----C-AGAC--------AA-------AAGCGC
+RSc1182      CCC-G-CU-G--------G-UC-AAAG--------AA-------GAAGGC
+RSc0710      C---U-CC--------C----A-AAGA--------AA-------AAGGCC
+RSc2224      C-----AAUG------C----A-A-----------AC-------GGUGCA
+RSc2188      CGC-G-CA-G--------A-C--A-----------GA-------AACAGC
+RSc1000      UGC-C-CAU-------C------AAA---------GA-------AAACCG
+RSc0815      GCC-G-CCUG-----CC-G-C--AACA--------AA-------AACCCG
+RSc2932      UCC-U-CAA-------C-G-C--AGA---------AA-------AAUGGC
+RSc3345      CGG-G-UUU-------C----G-A------------C-------ACGGCC
+RSc0190      CGC-G-AAU---------A-CG-AUGC--------AA-------ACACGC
+RSc1007      GGC-G-CCAG------C-C-CA-AAGA--------AA-------AAGCCU
+RSc0895      UGA-G-CCUC-----UC-U-C--A-----------GG-------CAUCGC
+RSc2069      UGC-G-CGUG--------A-CG-AA----------CA-------AGUGCC
+RSc1566      CGC-G-CA-G--------G-CC-ACA---------AA-------AAAGAC
+RSc0557      G---G-UCUG-----GC-A-CC-AAAA-------AAC-------AAAAGC
+RSc1001      C-----CAU-------C-G-CCCAACA--------AA-------AAACCG
+RSc1715      C---G-GCAGG---UAC------AAGA--------AA-------AAAGCC
+RSc1572      C---G-CCU-------C-G-UC-AUCGGC----GAA-------CAGGCCU
+RSc2365      CGA-G-CA-G-------------AUGA--------GC-------AAGCCC
+RSc0322      CGC---CC--------C-G-G--ACAG--------CA-------AGGGCC
+RSc2189      G---G-CAUGA----GC-G-GC-A-----------AA-------ACAGCC
+RSc0026      CGC---CAUG-----GC-G-GA-AGCA--------AA-------AAGGGG
+RSc0134      GCC-G-CA--------C-G-G--A-----------AG-------AAACCG
+RSc1515      GCC-G-GC-G------C-G-CC-A-----------AA-------AGG---
+RSc0648      GCA-G-CC----------G-CC-A------------C-------ACGGCC
+RSc3300      CGC-G-UA-GU----CC-G-C--AGCAU------GGA-------AGACCG
+RSc2717      GGC-G-CA-G------C-G-CCCAAUG--------AA-------AAGCCC
+RSc2368      GCC-G-CAUG------C------A-----------GG-------AAUGCG
+RSc1234      CGC-G-CC--------C----A-AAGA--------AA-------AAGCCG
+RSc1202      UCC-G-CCA-------C-G-CC-AAUG-------AAA-------AAGCCG
+RSc2767      CGC-U-GAAGCA-GGGC-G-CC-AUGA-------GGA-------GGGGAG
+RSc0080      GGC-G-GAUAU----CC-G-G--AUCA-------GAG-------GACGGA
+RSc2441      CGC---CCUG-----------G-A-----------AA-------ACGGCA
+RSc1626      CGC-G-CG-G--------G-CG-AAAA--------AA-------AGCCCG
+RSc0332      UCC-G-AAUG-----------A-A-----------AA-------ACGCCC
+RSc2153      GCC-G-CC-G-----AC-G-GAGAUGAG------GAA-------AGGCGA
+RSc2902      CGC-U-GCAG------C-C-CG-A------------C-------ACGGGC
+RSc2702      CUC-A-CCUG------C----C-AACA--------AG-------AAACCC
+RSc2792      G---G-UAU-------C------AGCA-------AGA-------CCGCAU
+RSc1035      GGCGG-AUUGA----AC----C-AAAA-------CGA-------AAGGGG
+RSc0755      GGC-G-AAAG--------A-C--A-----------AA-------CCGGCC
+RSc2940      CGU---CAU-------C----C-AAAA--------GA-------AAAGGC
+RSc2934      C---G-CUAG-------------A-----------AA-------AGUGAU
+RSc2971      CGC-G-GGUGU----C-----C-AGACC------CGA-------AGGCCC
+RSc0922      GGC-U-CUA-------C----C-AAGC--------CG-------AUUGCC
+RSc2716      CGC-A-GA--------C-A-C--AAA---------AA-------AAGCCC
+RSc2178      CGA-GAACUG-----A----CG-AAAAA------AAA-------GCCGGC
+RSc1069      GGC-G-UU--------CUG-CA-AACA--------AA-------AAAGGC
+RSc0917      C---G-CAU-------C-G-GC-AUGA-------AAA-------AAGCGC
+RSc1737      CCC-G-GCA-------C------AACG-------ACA-------ACGGGC
+RSc2075      CGC-GCCUUG------U-G-CG-A-----------CG-------GAGCCA
+RSc1605      GCC-G-CUUG-------------A------------G-------CGGGCC
+RSc0448      GCC-G-CA--------C-G-C--A-----------GA------CCAGGGC
+RSc0555      UGA-G-GUUG------U-G-CG-A-----------GA-------ACGGGA
+RSc0774      C---G-GC--------C-G-G--AAAAU-----GGGA-------ACGGCC
+RSc1967      C---U-CC-G--------G-C--AAG---------GA-------AAAGGG
+RSc2812      UGC-G-GU--------C-G-GC-AACA-------AAA-------AAGGGC
+RSc1210      CGCAG-CA-G--------A-CG-AAAA-------AAA-------AACCGG
+RSc0325      CGC-G-GCU-------C-G-CG-AUAAA------AAA-------ACGCCC
+RSc1036      C---A-CAU-------C----G-AAA---------AA-------AGGGGC
+RSc0586      UGCGG-CAAGA---CC-UG-CCGAUCC--------GC-------ACGCCG
+RSc1640      GCC-G-UAAG------C-G-CC-ACGG-------CAAC----GCCCUGCG
+RSc0400      G---G-CAUG-----UC----G-ACG---------AA-------AAAGGC
+RSc0899      GGA-G-GAUC-----------C-AAACG------UCA-------GAGGGC
+RSc1993      GGU-G-UAAG-----CC-G-CC-AGCC-------CAG-------CGUCGC
+RSc0009      CGC-G-CCAG------C-G-C--AGCC--------GAGU--ACCAAGCCC
+RSc1523      CGC---CC--------C----G-AAAA--------AA-------AAGACC
+RSc2979      CCC-C-CC--------C-C-CC-AAA---------AA-------AAAGCC
+RSc2654      CGC-G-CUUGA----GC-G-C--AG----------GG-------CGGGCA
+RSc2358      GGC-G-CAUC------C-G-CCGAGGA--------AA-------GCCUCC
+RSc0176      CGC-G-CCAGCC--UU----CC-AAAAC------AGG-------GCAGCG
+RSc0018      C---G-UAU-------C----G-A-----------CA-------ACGCCC
+RSc1232      GGC-G-CCAC-----CC-G-CG-A-----------AG-------AUGCCG
+RSc0541      CGC-G-UC--------C-G-CC-AGAA-------AAA-------AACCGC
+RSc0560      CCC-G-UUUC------C-G-C--AAAAG------GAAG-----CGGGCGC
+RSc2836      GCC-G-CCU-------C----G-AUG---------AA-------AAAGCG
+RSc1150      GCC-G-CA-G------C------AAUG--------AA-------AACGGG
+RSc0023      CCCAG-AGAG------C------AGGA--------CG-------ACCGCC
+RSc2687      GGC-U-UU-C------C-G-G--AAGGA-----CUAG-------AAUGGC
+RSc2420      GGCGG-CCUGA---GCC-G-C--AUCGG-----UCACCU--UCAGGGGCC
+RSc1722      G---G-CAAG------C-G-CC-A------------G-------GCGCGC
+RSc0951      GGC-G-CC-G----------G--AAAA-------CAG-------AAAGGC
+RSc0851      CGC-U-GAA-------U------ACGG--------UG-------GAGCCA
+RSc2228      U-----CAU-------C-C-C--ACAC--------GA-------AAGGCC
+RSc0573      UCC-G-CC--------C-G-CA-A-----------GA-------ACGGCU
+RSc0904      G---G-AUU-------C-A-G--AAAG--------AA-------GCGCCC
+RSc0751      CGC-G-GA--------C------AAAA--------CA-------AAGGCC
+RSc0145      UCC-G-GCUA------C------A------------G-------GAACGC
+RSc0964      GCC-G-UCUGA---CGC-G-GC-A-----------AC-------GCCCGC
+RSc3122      U-----GAUG------C------AAUA--------AG-------AACCGG
+RSc1699      C-----CAUC------C-A-CC-AACA-------CCA-------ACGGCC
+RSc2821      CCU-U-GCAG-----UC------A-----------GA-------AGGCCC
+RSc1270      CGU-U-GAUG-----AC-C-CG-A-----------GA-------CGCCGC
+RSc1269      GGC-C-AAUG------C-A-CC-A------------G-------GGCGGC
+RSc2280      GGC-G-CG--------C-G-CG-AGG---------GA-------AAACGC
+RSc1603      CCU-G-GCUG--------A-CA-AAGA--------AA-------GAGCCG
+RSc0404      CGC---AAUG------C----C-A-----------GA-------AAGGUG
+RSc0737      UCC-G-GUUG-----CC-G-C---------------G-------ACGCCC
+RSc1595      C---G-CC-G------C-A-C--A-----------GC-------ACGCCG
+RSc2464      C-----CAAG------C------A-----------AA-------ACGGCC
+RSc0257      CGU-G-GC--------C-G-GC-AGGC-------CGA-------AGCGGC
+RSc0038      GGC-G-AA--------C-A-CC-AACAC-----UGAU-------GACCCG
+RSc3190      G---G-CAUC------C----G-AAUG--------GAU-----CAGUGGC
+RSc1528      CGU-G-CC--------C------AACC--------AA-------UAAGCG
+RSc3295      UGC-G-CC-G------C-GUCC-AC----------CG-------ACGGCC
+RSc1950      CGC-G-CA-G-------------AUAGC------CGA-------CCAGCC
+RSc2898      CCC-G-CC--------C------A------------C-------GAGCCC
+RSc0787      CGC-A-CUAGC----CC-G-CA-AUGG--------AA-------ACGGCG
+RSc2764      GGC-G-CC-G------C----A-AACA--------GA-------AAAGCC
+RSc2964      C---G-CCUG-------------A-----------CC-------CGGGCC
+RSc2856      CGC-G-CC--------C----G-AAAG-------CAA-------AAGCGC
+RSc0424      G---G-AAUG-------------AAAG--------AC-------CGGCCC
+RSc2042      CGCUG-CC-G------C-G-C--C-----------GG-------AAAGCU
+RSc2148      GCC-G-GAUG------U-G-GA-AAGGA------CAA-------AAGCCA
+RSc1969      GGC-G-GCUG------C------AUCAG------GAA-------AGAGGC
+RSc1364      GGC-U-GAU-------C-G-GC-AUCC-------CGC-------CCGGCC
+RSc1524      C---G-GAUA------C------AAAA--------AA-------ACGACC
+RSc2560      CGU-G-AC-G----------C--A-----------AA-------CCGGCG
+RSc2122      CGA-U-CCA-------C-G-GC-AAAAG------AAA-------ACGGCG
+RSc0351      C-----CG-G------C-G-C--AAAA--------GA-------AAAGGA
+RSc1335      C-----CUUG-------------A------------A-------CAGCCC
+RSc2463      C-----CAUG------C-A-U--AAAA--------AA-------ACGGCC
+RSc0504      CGC-G-GCU-------C----C-ACCGC-----GCAA-------CGGGGC
+RSc2547      GGC-C-GGUG------C-G-CC-AAAAA-----GCAA-------ACGCCC
+RSc1305      U---G-CUUG------C----C-AAC---------AG-------GACGCC
+RSc0459      U---G-CC--------C-G-U--AAAA-------UAG-------GGCCCG
+RSc2359      GGU-G-CA---------------AUUC--------AG-------CCUCCG
+RSc2005      CGC-G-CC-G------C------A-----------AG-------CCAGCC
+RSc1861      CCC-G-CA-G------C-G-C--AAGG--------AG-------A----C
+RSc2655      GGC-G-GU--------C-G-G--A-----------UG-------GGCGGG
+RSc2617      C-----CGUG------C------AAAAG------CAA-------GCGCCC
+RSc0736      GGG-G-CAAG------U-G-G--A-----------UG-------CGCCGG
+RSc2958      GGUAG-AAU-------C----C-A-----------CA-------CAGCGG
+RSc0897      C---G-CAU-------C-G-C--AGCG--------CGC----CUGAGCGU
+RSc0981      CGC-G-CC-G------C------AACG--------AA-------AAAGCC
+RSc1738      GGC----ACG------C-A-CC-AUGA-------AAA-------ACGGGC
+#=GC SS_cons :::.:.::::......:.:.::.::::........:<.......<<<<<<
+#=GC RF      CGC.G.CcUG......C.G.CC.AAcA........AA.......AaGGCC
+
+RSc2933      A---UCC-CG--AA-------------AGGGGUCGGCGUU-U
+RSc0491      A----CC-UU--CG---------------GG-UGUGGUUU-U
+RSc0672      G----GUUUG--AU---------------AC-CGGCCCGU-U
+RSc3349      U----GC-CG--CCA------------UGGC-ACGCCUUU-U
+RSc1538      C----CGGAU--CGAA---------AGACCG-GGCCGUUC-U
+RSc0320      C----UG-GG--UUUG----------ACCCA-GGGCCCUU-U
+RSc1610      C----GU-CC--AU--------------GAC-GCGCUUUU-U
+RSc1149      A----GC-UU--CG---------------GC-UCCCGUUU-U
+RSc2446      G----CC-UC--AU---------------GG-CGGGUUUU-U
+RSc3156      C----CG-CA--AU--------------GCG-GAGCUUUU-U
+RSc2003      C----UC-UU--CG---------------GA-GCCGGCUU-U
+RSc1537      C----CG-GU--CUUUC--------GAUCCG-GGCCGUUC-U
+RSc1129      G----CC-GA--UG--------------AGG-CGGUCGCG-U
+RSc1008      C----GC-UU--AU--------------CGC-GAGGCUUU-U
+RSc2662      C----GG-CG--GGAG---------ACUGCC-GGGCCGUU-U
+RSc2914      C----CCGGC--AU---------------GG-GCGCCUUU-U
+RSc1744      U----UCAGU--CGAG----------ACUGA-ACGGCAUU-U
+RSc3086      C----CC-UG--CG---------------GG-GUCCGUUG-U
+RSc0374      G----CC-AA--CU---------------GG-CGGGCUUU-U
+RSc2720      C----GC-UC--CGGAAU-----GCCGGGGC-GGGCUGUU-U
+RSc1578      G----GA-GG--CA--------------CUC-CGGCCGCU--
+RSc0494      C----AC-UU--CG---------------GU-GCGCUUUU-U
+RSc0900      A----GC-GA--AA---------------GC-UGGGCUUU-U
+RSc2269      G----AC-AU--CU---------------GU-UCAACCUU-U
+RSc0971      C----AU-GG--CGCGCUGA--CUGUGCCAU-GCGGCAUG-U
+RSc2177      C----GCUCG--CGA------------GGGC-GGCCGGCU-U
+RSc0926      G----GC-CG--AA---------------GC-CUCCCUUU-U
+RSc2490      C----GGUAG--AUCAAC-----GGUCUGCC-GGGGUUUU-U
+RSc2437      C----GCGAC--AA---------------GC-GAGGCUUU-U
+RSc0392      C----GG-CC--GG-------------AACC-GUCUCUUU-U
+RSc1580      C----UC-UC--AC--------------CGA-GCCCCGUU-U
+RSc2748      C----GC-AG--UGG------------AUGC-GGCCGUUU-U
+RSc0373      G----CC-AG--UU---------------GG-CGGGCUUU-U
+RSc2349      A---UUC-CU--UU-------------CGGAUUGCCGGGA-U
+RSc1536      A----CG-CC--CGAA----------CGGCG-UGCGUUUU-U
+RSc0025      G----CG-AC--AUCCCC-----CGAUGCCG-CGGCCUUU--
+RSc3271      G----CC-GG--CUUC---------CGCCGGACAGGCCGU-U
+RSc1633      U----GC-GG--CGAU----------GCUGC-AGCAUGGG-U
+RSc0126      G----CC-GG--UU---------------GG-CGGGGUUU-U
+RSc0189      C----ACCCG--CGA------------GAGU-GGCGUGUU-U
+RSc0925      G----GC-UU--CG---------------GC-CUCCCUUC-U
+RSc2491      U----GC-UC--AU---------------GC-AUCUGCUU-U
+RSc0775      G----UC-GC--AG---------------GA-UCGGCCGU-U
+RSc1209      C----GC-AU--CG--------------GGC-GCCGGUUU-U
+RSc2555      G----UC-CG--AA---------------GA-CAGGCUUU-U
+RSc1609      C----GU-CA--UG--------------GAC-GCGCUUUU-U
+RSc0992      G----CC-CU--CGCGCUU----GGCGAGGG-CCGGCGUC--
+RSc0797      C----GC-GC--UUCCGGCA--ACGGGGCGC-GCGCCGUU-U
+RSc1553      C----GC-UU--CG---------------GC-GGGGUCUU-U
+RSc2747      C----GC-AU--CCA------------CUGC-GGCCGUUU-U
+RSc0350      G----GC-UA--CG---------------GC-CUCCUUUU--
+RSc1310      G----GA-CG--AA-------------AGUC-UCUGCCUU-U
+RSc2804      G----AC-GC--UGGC----------UGCGU-CGCCUAUU-U
+RSc1314      A----CC-GG--AU---------------GG-UGGGCGUU-U
+RSc2864      G----GC-CA--UG--------------CGC-CCGGUUUU-U
+RSc2436      C----GC-UU--GU--------------CGC-GAGGCUUU-U
+RSc2190      A----UC-GG--ACC-----------CACGA-UCGCCGUU-U
+RSc3339      U----GC-CG--GGGAUC------ACCCGGC-AGGGCCUC-U
+RSc2920      U----GC-GC--AG--------------UGC-ACGGCCCG-U
+RSc3264      A----GCCGC--CG--------------CGC-UGCGUUUU-U
+RSc2663      C----CG-GC--AGUCU-------CCCGCCG-GGCCGUUU-U
+RSc2238      G----CGCAG--CGCAA-------GCUGUCG-CGGGUUUU-U
+RSc1526      G----UG-CG--UG-------------CGCA-CCGGCUUU-U
+RSc0967      C----GC-AA--UA--------------CGC-GGGGGCCU-U
+RSc3035      G----GC-AA--AGGGAAUC-UACCCGGCGC-CAGCCUUU-U
+RSc0945      C----UC-AC--CG-------------AUGA-GCGCGUUU-U
+RSc2813      G----ACCAG--AA--------------UGU-CGCCCUUU-U
+RSc3010      A----GA-UU--AUGUGU------UAUAGUC-UCGGUCUU-U
+RSc1716      C----CC-UC--AUC------------GAGG-GGGCUUUU-U
+RSc1567      G----GC-UU--CG--------------CGC-CGUCUUUU-U
+RSc3020      G----GC-CA--UG--------------UGC-CCGCCGUU-U
+RSc0484      C----UCUUU--CG--------------GGA-GCGGCUUU-U
+RSc0580      C----GC-UU--GGA------------UCGC-GGGCAUUU-U
+RSc0612      CA-AAGC-GG--CG-------------AUGCCGCCGGUCC-U
+RSc2553      C----GC-UC--CGACAUC---AAUCGGAGC-GGCCUUUU-U
+RSc0042      C----GC-AU--CGGUG-------ACGAUGC-GGCCCGUU--
+RSc1622      C----GU-GC--AUUCG--------AUGCAC-GGGCCGUU-U
+RSc2939      A----GC-CU--CG---------------GC-UGCCUUUU--
+RSc0485      C----UCCCG--AA--------------AGA-GCGGCUUU-U
+RSc0952      C----CC-AU--CC---------------GG-GGCCUUUC-U
+RSc2855      A----CC-UC--CG---------------GG-UGCCUUUU-U
+RSc2921      C----GUGCA--CUG-----------CGCAC-GGCCCGUC-U
+RSc2067      G----GACAG--UG---------------UC-CAGCCGUU-U
+RSc0333      G----GU-CG--AU---------------GC-CGGGCGUU-U
+RSc2008      G----CC-GC--CGCGGU-----UCCGGCGG-CAUCGGCU-U
+RSc3103      A----CC-CU--CG---------------GG-UCGCGUUU-U
+RSc0296      C----CC-GC--AGCCGCC---AAGGCCCGG-GCGUUUUU-U
+RSc1169      C----AC-AA--CGCGUCG----UCGCGUGU-GCGGCCUU-U
+RSc1508      G----GCGAC--CA--------------CGC-CCGGCGCG--
+RSc1552      U---GGCUAC--AU---------------GCUGGCCCUUG-U
+RSc0343      G----GC-CU--UG--------------UGC-CGGGUUUU-U
+RSc0924      G----UU-UC--CGACCCG----UUUGGAAA-CGGCUUUU-U
+RSc1363      C----GG-CC--GGGGUGA----CCCGGACC-GGCGUUUU-U
+RSc0991      G----CC-CU--CGCCAAG----CGCGAGGG-CCGGCGUU-U
+RSc2837      C----CC-GA--AA---------------GG-GCGCUUUU-U
+RSc1713      C----GA-CU--UG--------------UUC-GGGCCCUU-U
+RSc0293      G----GA-AC--CA---------------UC-CGCCCCGU-U
+RSc0391      G----GU-UC--CG---------------GC-CGUCUCUU-U
+RSc2623      C----CG-GA--CUG------------CCCG-GCGGCUUU-U
+RSc2976      C----CC-GA--UC---------------GG-GCGGCUUU-U
+RSc1956      C----GC-AG--AAA-----------CCUGC-GGGCCCGU--
+RSc1535      C----GC-CG--UUC------------GGGC-GUGCGUUU-U
+RSc1627      G----GU-CG--AU-------------UGAC-CGGGCUUU-U
+RSc2977      G----CC-CG--AU-------------CGGG-CGGCUUUU-U
+RSc1203      C----GCGGG--CAGCA-------GGCCGGC-GCGGCUUU-U
+RSc1164      C----GG-UC--CGGGUU-----UCCGGGCC-GGUGUUUU-U
+RSc3412      C----GG-CC--AG---------------CC-GGCUCGCU-U
+RSc3350      U----GC-CA--UGG------------CGGC-ACGCCUUU-U
+RSc2574      A----GC-CC--AA--------------GGC-UGCGCGUU--
+RSc0559      C----CU-CG--UU-------------GAAG-GCGCUUUU-U
+RSc1645      C----UC-GC--CGGAGCGA--UCCCGGCGG-GGCCGUUU-U
+RSc1291      C----CA-CG--CGGCA-------AUGCGUG-GCGCUUUU-U
+RSc1975      G----UCACC--AG---------------GA-CGGGCUUU-U
+RSc0004      A----CC-CU--CG---------------GG-UGCCCUUU-U
+RSc2007      G----CC-GG--AAC-----------CGCGG-CGGCAUCG--
+RSc3316      G----CC-CG--AU-------------CGGG-CUGCUUUU-U
+RSc0551      G----CC-GU--UUCG---------CGACGG-UAGGCGUU-U
+RSc3329      C----GG-UU--CG-------------CGCC-GUGCGUUU-U
+RSc2237      G----CG-AC--AGCUUG------CGCUGCG-CGGGUUUU-U
+RSc1028      C----CA-GC--AA---------------UG-GGGCGUUU-U
+RSc2466      G----GC-AC--CG--------------CGC-CGGGCUUU-U
+RSc2518      G----AC-GG--AUG------------ACGU-CGGCUUUU-U
+RSc2342      A---U-G-GG--AAG------------CCC-AUCGGCCGU-U
+RSc1621      C----GU-GC--AUCGA--------AUGCAC-GGGCCGUU-U
+RSc0495      C----AC-CG--AA---------------GU-GCGCUUUU-U
+RSc1961      CAUUCCC-AC--AG---------------GGUGCGCGGGU-U
+RSc1313      A----CC-AU--CC---------------GG-UGGGCGUU-U
+RSc2660      A----CG-CC--AACCUCC---GGGUUGGCG-UCGGCUUU-U
+RSc2239      CG--AGACAC--CG---------------UCCGCGGUUUU-U
+RSc0356      C----GC-CGGCC-GAC-------CGCUCGC-GCGGGCAU-U
+RSc0910      C----GG-UU--UU--------------CCC-GGGGCGUU-U
+RSc0996      C----GG-AC--AG---------------CC-GGGGCGUU-U
+RSc0816      G----CG-AU--CGCCAGG----CGGCUUCG-CGGGUUUU-U
+RSc2279      G----GC-CC--UUGCG-------AGGGGGC-CGGCGCCU-U
+RSc2226      C----GG-CA--AU--------------GCC-GGGCUUUU-U
+RSc0394      C----GC-CG--AGCCU-------GUCUCGCCGGGCUUUU-U
+RSc1283      C----UC-AG--AU---------------GA-GCGGAUGU-U
+RSc2857      C----GCGAG--AGA------------UCGC-GGCGCUUU-U
+RSc1182      A----GC-UG--CG---------------GC-UGCCUUUU-U
+RSc0710      G----UC-GU--AG--------------CGA-CGGCCUUU--
+RSc2224      C----GCGCG--CG---------------GC-GUGCACCG-U
+RSc2188      U----GG-UC--AU--------------GCC-GGCUGUUU-U
+RSc1000      C----UC-UC--CG---------------GA-GCGGUUUU-U
+RSc0815      C----GAAGC--CGCCU-------GGCGAUC-GCGGGUUU-U
+RSc2932      G----GC-UG--AC-------------AUGC-CGCCAUUU-U
+RSc3345      G----UG-AC--AU---------------GA-CGGCCGUG-U
+RSc0190      C----ACUCU--CGC------------GGGU-GGCGUGUU-U
+RSc1007      C----GCGAU--AA---------------GC-GAGGCUUU-U
+RSc0895      U----GG-UG--CGUUA--------CCAGCC-AGCGAUGC-U
+RSc2069      U----GC-GU--CAGCAU-----GCUGAUGC-AGGCAUUU-U
+RSc1566      G----GCGCG--AA---------------GC-CGUCUUUU-U
+RSc0557      G----CC-UU--CG---------------GG-CGCUUUUG-U
+RSc1001      C----UC-CG--GA---------------GA-GCGGUUUU--
+RSc1715      C----CCUCG--AU-------------GAGG-GGGCUUUU-U
+RSc1572      C----GC-GG--UU---------------GC-GAGGCCU-UU
+RSc2365      G----GC-CA--AG--------------UGC-CGGGCUUU-U
+RSc0322      U----UG-GG--AUCA---------AACCCA-AGGCCCUU-U
+RSc2189      G----GC-----AU--------------GAC-CAGCUGUU-U
+RSc0026      C----GC-UC--AG---------------GC-GCCUCUUU-U
+RSc0134      C----CC-AC--CG---------------GG-GCGGUUUC-U
+RSc1515      U----GCGCU--AG---------------GC-GACGCUUU-U
+RSc0648      G----GC-AA--GGUCCCC---CCGACGGGC-CGGCCGUG-U
+RSc3300      C----CC-UC--CG---------------GG-GCGGUUUU-U
+RSc2717      C----GCGAU--AU--------------CGC-GGGGCUUU-U
+RSc2368      C----AC-GC--UG-------------CCGU-GCGCAUUU-U
+RSc1234      U----UC-AG--CGCA---------AACUGA-ACGGCUUU-U
+RSc1202      C----GC-CGGC-CUGC-------UGCCCGC-GCGGCUUU-U
+RSc2767      C----GCACG--AUG------------CUGC-GCUCCCUU-U
+RSc0080      G----GC-UU--CG---------------GC-CUCCGUUU-U
+RSc2441      C----CGCGC--CUUAC-------CCUAGCG-GUGCCGUU-U
+RSc1626      G----UC-AA--UC---------------GA-CCGGGCUU--
+RSc0332      G----GC-AU--CG---------------AC-CGGGCGUU-U
+RSc2153      A----GC-UG--CG---------------GC-UUCGCCUU-U
+RSc2902      C----CGUGC--CGAUA--------UGGCCG-GGCCCGUG-U
+RSc2702      C----GC-CA--C----------------GC-GGGGUUUU-U
+RSc2792      C----GG-CC--UG-------------UGCC-GGUGCGGU-U
+RSc1035      C----GG-AA--AU-------------UUCC-GCCCCUUU-U
+RSc0755      AG--ACC-CG--CG-------------AGGGCUGGCCGGC-U
+RSc2940      A----GC-CG--AG---------------GC-UGCCUUUU-U
+RSc2934      U-------CA--UU------------------AAUCAUUU-U
+RSc2971      G----GCCUC--CGGAU-------GGAGUGC-CGGGCUUU-U
+RSc0922      G----GG-CG--AGCCUA------UGGUGUC-CGGCAAUU-U
+RSc2716      C----GCGAU--AU--------------CGC-GGGGCUUU-U
+RSc2178      C----GCCCU--CGC------------GAGC-GGCCGGCU-U
+RSc1069      A----GC-CU--GG--------------CGC-UGCCUUUU-U
+RSc0917      A----GC-CA--GG---------------GC-UGCGCUUU-U
+RSc1737      A----CC-CG--AA---------------GG-UGCCCGUU-U
+RSc2075      G----CC-CU--CG---------------GG-CUGGCUUU-U
+RSc1605      U----CC-UU--CG---------------GG-AGGCCCGU-U
+RSc0448      G----CC-UU--CG---------------GG-CGCCCUUU-U
+RSc0555      G----GC-----CU--------------GGC-CUCCCGUU-U
+RSc0774      G---AUC-CU--GC---------------GACCGGCCGUU--
+RSc1967      C----GC-AU--CG-------------UGGC-GCCCUUUU-U
+RSc2812      G----ACAUU--CU--------------GGU-CGCCCUUU-U
+RSc1210      C----GCCCG--AU---------------GC-GCCGGUUU-U
+RSc0325      C----GG-UC--AU--------------GCC-GGGGCGUU-U
+RSc1036      G----GA-AA--UU---------------UC-CGCCCCUU-U
+RSc0586      A----UGUAC--CGCCA--------GGUGCA-UCGGCGUU-U
+RSc1640      G----GC-CG--CUCA---------GGCCGC-CCGCAGGU--
+RSc0400      G----CC-UG--CG---------------GG-CGCCUUUU-U
+RSc0899      G---AUGACG--CGAAA--------ACGUCACCGCCCUUU-U
+RSc1993      C----GG-AG--CGAU---------UGUUCC-GGCGACGC--
+RSc0009      G----CC-GC--CC---------------GG-CGGGCUUU-U
+RSc1523      G----GCUGG--AU-------------UGGC-CGGUCGUU-U
+RSc2979      G----CG-CA--CG--------------UCG-CGGCUUUU-U
+RSc2654      C----GC-CG--CACA----------CCGGC-GUGCCCGC--
+RSc2358      G----CC-CC--UG---------------GG-CGGAGGCU--
+RSc0176      U----GC-CC--GGCCCCA---CGACCCGGC-ACGCUGUC--
+RSc0018      U----UC-GC--CUCGCAGGCCGCGAGAUGA-AGGGCGUU--
+RSc1232      U----UCCAG--CGCAG--------GGCUGA-ACGGCAUU-U
+RSc0541      C----GC-CU--GGUGCU-----ACCAGAGC-GGCGGUUC--
+RSc0560      A----UC------G---------------GA-UGCGCUCU-U
+RSc2836      C----CC-UU--UC---------------GG-GCGCUUUU-U
+RSc1150      A----GC-CG--AA---------------GC-UCCCGUUC--
+RSc0023      GC--GGC-AU--GGCG---------ACAUGCCCGGCGGUU-U
+RSc2687      G----CCUUG-C-CUCG--------UGCAGG-CGCCAUUU-U
+RSc2420      G----GC-AG--GGA------------AUGC-CGGCCCUG-U
+RSc1722      C----GGGGG--AAA------------CUCC-GGCGCGCU-U
+RSc0951      C----CC-GG--AU---------------GG-GGCCUUUC-U
+RSc0851      A----GC-AG--AUC------------GCGC-UUGGCUUC-U
+RSc2228      C-------CA--CG--------------C---GGGCCUUU-U
+RSc0573      G----GC-CC--CG--------------CGC-CAGCCGUU-U
+RSc0904      C----GC-AC--GG---------------GC-GGGGCGCC--
+RSc0751      G----GA-GC--GA---------------UC-CGGCCUGU-U
+RSc0145      G----CC-UU--CG---------------GG-CGCGUUUU-U
+RSc0964      C----GC-GU--CG---------------GC-GGCGGGCG--
+RSc3122      A----GG-UU--CU-------------AGCC-UCCGGUUU-U
+RSc1699      C----GC-CU--UG--------------UGC-GGGCCGUU-U
+RSc2821      C----GC-AC--CU---------------GC-GGGGCUUU-U
+RSc1270      C----GC-CC--ACCG----------CGCGC-GGCGGCGU--
+RSc1269      G----GC-UU--CG---------------AC-CGUCGCCU-U
+RSc2280      C----GG-GA--AGC------------CCCC-GGCGUUUU-U
+RSc1603      C----UC-CC--AU---------------GG-GCGGCUCU-U
+RSc0404      A----CCGCC--CA---------------GG-UCGCCUUU-U
+RSc0737      G----CC-CG--UGUCU-------GCACCGG-CGGGCGUU-U
+RSc1595      C----UU-CG--CGCCCC-----GCGCCGAA-GCGGCGUU-U
+RSc2464      C----GG-AA--AU--------------CCC-GGGCCGUU-U
+RSc0257      C----GC-CG--GU--------------CGC-GGCCGCGU--
+RSc0038      C---GGCGGG--UG-------------UCGCUGCGGGCCA-U
+RSc3190      C----GG-UC--CA--------------CCC-GGCCACAU-U
+RSc1528      G----CG-GA--AA---------------CG-CCGCUUUU-U
+RSc3295      G----CC-UC--GUACC--------CCGGGG-CGGCCGUU-U
+RSc1950      G----GU-CC--AC--------------CAC-CGGCCGGU-U
+RSc2898      C----GC-AC--C----------------GC-GGGGCUUU-U
+RSc0787      C----UC-GU--CA--------------CG--GCGCCGUU-U
+RSc2764      C----GC-AA--UU--------------UGC-GGGCUUUU-U
+RSc2964      C----GC-UU--CG---------------GC-GGGCCUUU-U
+RSc2856      C----GCGAU--CUC------------UCGC-GGCGCUUU-U
+RSc0424      C----GCACG--AU--------------GGC-GGGGCCGG-U
+RSc2042      G----AU-GU--UUCCGUG----AGGGGCGU-CAGCUUUU-U
+RSc2148      G----GCGGA--CU---------------GC-CUGGCUUU-U
+RSc1969      U----UC-UU--CG---------------GG-AGCCUUUU-U
+RSc1364      G----GCGCG--CGGAG-------GCCGCGC-CGGCCGGG-U
+RSc1524      G----GC-CA--AUC------------CAGC-CGGUCUUU-U
+RSc2560      U----GC-GG--CGAA---------CACAGC-ACGCCGGC-U
+RSc2122      C----CC-GA--AUCG---------CUUCAG-GCGCCGUU-U
+RSc0351      G----GC-CG--UA---------------GC-CUCCUUUC-U
+RSc1335      G----GC-AG--CC---------------GC-CGGGCUUU-U
+RSc2463      C----GG-GA--UU--------------UCC-GGGCCGUU-U
+RSc0504      AA--GGC-GU--AGAC---------UGUCGCCUGCCCCGU-U
+RSc2547      C----GC-GC--GU---------------GC-GGGGCGUU-U
+RSc1305      G----GC-CC--UU-------------GCGC-CGGCGUUU-U
+RSc0459      A----CC-GU--CC---------------GGUUCGGGCCU--
+RSc2359      C----CC-----AG---------------GG-GCGGAGGC-U
+RSc2005      A----CC-UC--CG---------------GG-UGGCUUUC-U
+RSc1861      A----UC-CC--AC---------------GA-UGUACAUC-U
+RSc2655      C----AC-GC--CGGUGU------GCGGCGU-GCCCGCCC-U
+RSc2617      C----GGCCU--CG--------------ACC-GGGGCGCU-U
+RSc0736      C---UGCGUU--CG--------------CGCGGCCGGCGU-U
+RSc2958      U----CG-AU--UG---------------CG-GCCGCUGU-U
+RSc0897      G----CC-GA--CGA-----------ACCGG-CACGCUCU-U
+RSc0981      G----CUCAU--CG---------------AG-CGGCUUUU-U
+RSc1738      A----CC-UU--CG---------------GG-UGCCCGUU--
+#=GC SS_cons <....<<.__..__.............._>>.>>>>>>>>.:
+#=GC RF      c....GC.cg..cG..............cGC.gGGCCuUU.U
+//

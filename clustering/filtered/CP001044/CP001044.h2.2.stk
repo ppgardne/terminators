@@ -1,0 +1,858 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS Bphy_4102 WT 1.15
+#=GS Bphy_4366 WT 0.98
+#=GS Bphy_4509 WT 1.29
+#=GS Bphy_3460 WT 0.82
+#=GS Bphy_5112 WT 1.00
+#=GS Bphy_5373 WT 0.91
+#=GS Bphy_5113 WT 1.00
+#=GS Bphy_4134 WT 0.93
+#=GS Bphy_5372 WT 0.68
+#=GS Bphy_3459 WT 0.82
+#=GS Bphy_4827 WT 1.04
+#=GS Bphy_4692 WT 0.63
+#=GS Bphy_5433 WT 0.74
+#=GS Bphy_4135 WT 1.03
+#=GS Bphy_3211 WT 1.28
+#=GS Bphy_4662 WT 0.90
+#=GS Bphy_4306 WT 0.62
+#=GS Bphy_5214 WT 0.90
+#=GS Bphy_5305 WT 0.77
+#=GS Bphy_3359 WT 0.98
+#=GS Bphy_3789 WT 0.94
+#=GS Bphy_3147 WT 1.14
+#=GS Bphy_4031 WT 1.12
+#=GS Bphy_5037 WT 0.79
+#=GS Bphy_3292 WT 0.88
+#=GS Bphy_4369 WT 1.19
+#=GS Bphy_3559 WT 0.85
+#=GS Bphy_4215 WT 1.13
+#=GS Bphy_3452 WT 0.95
+#=GS Bphy_4853 WT 1.20
+#=GS Bphy_5495 WT 0.85
+#=GS Bphy_5149 WT 0.87
+#=GS Bphy_4132 WT 0.68
+#=GS Bphy_4808 WT 1.08
+#=GS Bphy_4691 WT 0.63
+#=GS Bphy_3790 WT 0.71
+#=GS Bphy_4265 WT 1.01
+#=GS Bphy_4230 WT 1.25
+#=GS Bphy_3578 WT 0.81
+#=GS Bphy_4219 WT 1.29
+#=GS Bphy_3887 WT 0.99
+#=GS Bphy_3655 WT 0.78
+#=GS Bphy_5011 WT 1.00
+#=GS Bphy_4632 WT 1.19
+#=GS Bphy_3951 WT 0.95
+#=GS Bphy_4131 WT 0.68
+#=GS Bphy_3336 WT 1.09
+#=GS Bphy_4663 WT 0.90
+#=GS Bphy_3341 WT 0.70
+#=GS Bphy_3656 WT 0.78
+#=GS Bphy_4851 WT 1.03
+#=GS Bphy_4420 WT 1.17
+#=GS Bphy_5476 WT 1.19
+#=GS Bphy_5261 WT 1.15
+#=GS Bphy_4730 WT 0.80
+#=GS Bphy_4140 WT 0.78
+#=GS Bphy_3886 WT 1.37
+#=GS Bphy_4352 WT 0.94
+#=GS Bphy_3815 WT 1.05
+#=GS Bphy_3306 WT 1.19
+#=GS Bphy_4252 WT 0.80
+#=GS Bphy_4267 WT 1.01
+#=GS Bphy_4682 WT 1.06
+#=GS Bphy_3736 WT 0.84
+#=GS Bphy_3855 WT 0.78
+#=GS Bphy_5033 WT 0.99
+#=GS Bphy_5524 WT 1.06
+#=GS Bphy_3691 WT 0.85
+#=GS Bphy_3780 WT 0.99
+#=GS Bphy_3617 WT 0.99
+#=GS Bphy_4950 WT 1.24
+#=GS Bphy_4700 WT 0.56
+#=GS Bphy_5022 WT 0.98
+#=GS Bphy_3151 WT 0.93
+#=GS Bphy_3471 WT 1.00
+#=GS Bphy_4638 WT 0.90
+#=GS Bphy_5145 WT 1.21
+#=GS Bphy_4204 WT 1.03
+#=GS Bphy_3735 WT 0.84
+#=GS Bphy_3941 WT 1.27
+#=GS Bphy_4305 WT 0.68
+#=GS Bphy_4664 WT 1.03
+#=GS Bphy_3798 WT 1.12
+#=GS Bphy_3971 WT 1.01
+#=GS Bphy_4338 WT 1.05
+#=GS Bphy_4358 WT 0.78
+#=GS Bphy_3854 WT 0.80
+#=GS Bphy_3228 WT 1.02
+#=GS Bphy_4195 WT 1.11
+#=GS Bphy_3293 WT 0.94
+#=GS Bphy_4626 WT 1.13
+#=GS Bphy_4640 WT 1.28
+#=GS Bphy_5012 WT 1.15
+#=GS Bphy_4285 WT 0.99
+#=GS Bphy_3973 WT 0.99
+#=GS Bphy_5098 WT 0.72
+#=GS Bphy_4938 WT 1.28
+#=GS Bphy_4325 WT 0.95
+#=GS Bphy_3288 WT 1.18
+#=GS Bphy_3244 WT 1.23
+#=GS Bphy_3669 WT 1.13
+#=GS Bphy_3287 WT 1.18
+#=GS Bphy_4826 WT 1.05
+#=GS Bphy_4458 WT 1.00
+#=GS Bphy_4268 WT 0.97
+#=GS Bphy_3918 WT 1.02
+#=GS Bphy_3705 WT 1.16
+#=GS Bphy_5432 WT 0.74
+#=GS Bphy_4381 WT 0.86
+#=GS Bphy_5097 WT 0.72
+#=GS Bphy_5183 WT 1.36
+#=GS Bphy_3961 WT 0.90
+#=GS Bphy_3110 WT 0.82
+#=GS Bphy_5223 WT 1.16
+#=GS Bphy_3337 WT 0.70
+#=GS Bphy_5040 WT 0.99
+#=GS Bphy_3722 WT 1.14
+#=GS Bphy_4833 WT 1.31
+#=GS Bphy_4837 WT 1.16
+#=GS Bphy_4145 WT 0.85
+#=GS Bphy_4141 WT 1.21
+#=GS Bphy_3109 WT 0.82
+#=GS Bphy_4001 WT 1.31
+#=GS Bphy_3126 WT 0.93
+#=GS Bphy_4873 WT 1.10
+#=GS Bphy_5520 WT 1.12
+#=GS Bphy_3670 WT 1.05
+#=GS Bphy_4122 WT 1.04
+#=GS Bphy_4364 WT 1.01
+#=GS Bphy_4147 WT 0.71
+#=GS Bphy_4607 WT 0.90
+#=GS Bphy_4277 WT 0.93
+#=GS Bphy_3436 WT 0.85
+#=GS Bphy_4695 WT 1.14
+#=GS Bphy_5222 WT 1.06
+#=GS Bphy_4636 WT 0.85
+#=GS Bphy_4418 WT 0.87
+#=GS Bphy_3342 WT 0.85
+#=GS Bphy_4688 WT 0.71
+#=GS Bphy_4148 WT 0.71
+#=GS Bphy_3294 WT 1.09
+#=GS Bphy_3782 WT 1.00
+#=GS Bphy_3525 WT 1.08
+#=GS Bphy_4385 WT 1.12
+#=GS Bphy_4251 WT 0.78
+#=GS Bphy_4322 WT 1.15
+#=GS Bphy_5449 WT 1.06
+#=GS Bphy_3424 WT 1.31
+#=GS Bphy_5055 WT 1.10
+#=GS Bphy_4696 WT 1.03
+#=GS Bphy_3311 WT 1.17
+#=GS Bphy_4183 WT 0.94
+#=GS Bphy_4480 WT 1.06
+#=GS Bphy_4908 WT 1.09
+#=GS Bphy_4225 WT 1.29
+#=GS Bphy_4628 WT 1.11
+#=GS Bphy_5297 WT 1.16
+#=GS Bphy_3183 WT 1.00
+#=GS Bphy_4293 WT 1.07
+#=GS Bphy_4432 WT 0.88
+#=GS Bphy_3607 WT 0.85
+#=GS Bphy_4376 WT 0.81
+#=GS Bphy_4370 WT 0.90
+#=GS Bphy_4278 WT 0.85
+#=GS Bphy_5342 WT 1.11
+#=GS Bphy_3586 WT 1.25
+#=GS Bphy_3606 WT 0.76
+#=GS Bphy_3858 WT 0.99
+#=GS Bphy_3600 WT 1.15
+#=GS Bphy_3683 WT 1.00
+#=GS Bphy_4554 WT 1.33
+#=GS Bphy_3441 WT 1.01
+#=GS Bphy_3706 WT 1.33
+#=GS Bphy_3657 WT 1.22
+#=GS Bphy_3795 WT 1.16
+#=GS Bphy_4462 WT 1.09
+#=GS Bphy_4937 WT 1.31
+#=GS Bphy_4648 WT 0.79
+#=GS Bphy_3370 WT 1.40
+#=GS Bphy_4735 WT 1.20
+#=GS Bphy_3891 WT 0.71
+#=GS Bphy_4229 WT 0.91
+#=GS Bphy_3988 WT 1.12
+#=GS Bphy_5366 WT 1.13
+#=GS Bphy_3693 WT 1.31
+#=GS Bphy_5100 WT 1.21
+#=GS Bphy_4637 WT 0.90
+#=GS Bphy_4701 WT 0.56
+#=GS Bphy_5002 WT 1.07
+#=GS Bphy_4520 WT 1.01
+#=GS Bphy_3816 WT 1.28
+#=GS Bphy_4021 WT 1.20
+#=GS Bphy_3991 WT 1.10
+#=GS Bphy_4166 WT 1.06
+#=GS Bphy_3485 WT 1.00
+#=GS Bphy_4413 WT 0.99
+#=GS Bphy_5382 WT 0.97
+#=GS Bphy_4057 WT 0.96
+#=GS Bphy_4027 WT 1.28
+#=GS Bphy_4009 WT 0.95
+#=GS Bphy_3964 WT 1.04
+#=GS Bphy_3149 WT 0.76
+#=GS Bphy_4916 WT 1.00
+#=GS Bphy_3904 WT 1.12
+#=GS Bphy_5499 WT 0.79
+#=GS Bphy_3913 WT 1.07
+#=GS Bphy_3603 WT 0.62
+#=GS Bphy_3781 WT 0.90
+#=GS Bphy_5374 WT 1.01
+#=GS Bphy_3432 WT 1.26
+#=GS Bphy_4515 WT 1.03
+
+Bphy_4102    G-CG-UUAUC-A---------------AUGG------------------A
+Bphy_4366    G-C---GUUAAA---CGC------AUCGAG--------------------
+Bphy_4509    ---G-UCUUGAG---------------GUAAUU--------------UCU
+Bphy_3460    G-CU---U---G---------------AUG-------------------C
+Bphy_5112    G-CU--GAUC-G---CAG-------GCGUG--------------------
+Bphy_5373    G-C---AUGAAG---C----------GAUAGCC-------------ACCG
+Bphy_5113    G-CG-CA--------CU--------GAAAGCGG-------------CGAC
+Bphy_4134    G-CG-ACGCAAG---CG---------CAAA--------------------
+Bphy_5372    G-C-----CG-G--------------------------------------
+Bphy_3459    G-CU-UGACGUG--------------------------------------
+Bphy_4827    ---G--AUUC-A--------------------------------------
+Bphy_4692    GACG-AGGUGAA---------------AUG--------------------
+Bphy_5433    G-CU----UCAG---------------AAA--------------------
+Bphy_4135    G-CU-GCUUGAG--GCU--------GCAUG--------------------
+Bphy_3211    GCCG--UUUC-U---------------AAA--------------------
+Bphy_4662    G-C-----GCAG---CGC-------AG-U-AC---------------AGC
+Bphy_4306    G-CG-CAACCAG---CGCG-----CAGAACG------------------A
+Bphy_5214    G-C-----UGAU---------------CUC--------------------
+Bphy_5305    G-CG-CAGUCAA---------------AAG-------------------C
+Bphy_3359    G-C---CACCAG---------------AAG--------------------
+Bphy_3789    GUCG-GCAUCAU---CGGCC--CCAGACAG--------------------
+Bphy_3147    GUC---AAUG-G---------------AAA--------------------
+Bphy_4031    GCC-----UGAA---CA---------AAU-C-----------------UU
+Bphy_5037    G-CG----CC-----CGC-------UUGUG--------------------
+Bphy_3292    G-CU-GUAACAG---C-----------AUG--------------------
+Bphy_4369    G-C---AUUUAG---------------AAGCAAAC----------GUGCG
+Bphy_3559    G-C-----CG-G--ACG--------UCAUG--------------------
+Bphy_4215    G-CG-CUUCAAG---CA---------U--CA------------------C
+Bphy_3452    G-CU--CUGC-G---CU---------GAUGUC----------------GA
+Bphy_4853    GACU--UUGAAG------------------G------------------U
+Bphy_5495    G-C-----UC-G---CGC------CGGAAG--------------------
+Bphy_5149    G-C---GUGC-G---C----------------------------------
+Bphy_4132    G-CG----CCAA---------------AAC--------------------
+Bphy_4808    G-CA--GAUC-G---C-----------AUC--------------------
+Bphy_4691    ---G-AUUGAAG---------------AAC--------------------
+Bphy_3790    GACG--UUGAAA--GCG---------AAAA--------------------
+Bphy_4265    ---G-AUUCC-G--UCU---------CGAG--------------------
+Bphy_4230    ---G-GUUGAAG--------------------------------------
+Bphy_3578    G-CG-GCAUGUG---CAC-------GC-----------------------
+Bphy_4219    ---G-GUUUC-U--------------------------------------
+Bphy_3887    G-CG--CUCG-G--CCG---------CAUA--------------------
+Bphy_3655    GCCG--AAUAAG---CACGC--AGCAC---C-----------------AA
+Bphy_5011    G-C-----GG-G---CC--------GA-----------------------
+Bphy_4632    G-C---UUUA-G--GCG---------A-----------------------
+Bphy_3951    G-C---UAUGAA---CG---------A-----------------------
+Bphy_4131    G-C---AUCGA----CGC------CGCAUG--------------------
+Bphy_3336    G-C---AUCGAG--------------GAAC--------------------
+Bphy_4663    G-C---UUUG-G--ACGA------ACAA--A-----------------GC
+Bphy_3341    GCCG-UUAGCAA--------------------------------------
+Bphy_3656    G-CG-CUGUAAA--------------------------------------
+Bphy_4851    G-CG----CCA----C----------------------------------
+Bphy_4420    ---G-AUUUC-G---------------AUGC-----------------UU
+Bphy_5476    G-C-----UCAG--GCC--------UA-----------------------
+Bphy_5261    GCCG----CCAG---CU---------GAAGG------------------G
+Bphy_4730    G-C---AGCCAG---CU---------UCAG--------------------
+Bphy_4140    GCC-----UCAG---------------AUG--------------------
+Bphy_3886    ---G-AAAUAAG---C----------GAAGUAAC-----------ACCAU
+Bphy_4352    G-CG---AGGA----CGC------AGUAACU-----------------UU
+Bphy_3815    G-CG--AUUC-U---CGC-------GC-----------------------
+Bphy_3306    GCCA--UAUAAA---------------AAA--------------------
+Bphy_4252    G-CUUGAUUCAGG-ACU---------UAAA--------------------
+Bphy_4267    G-CGGUCAUCAA--UCGC------AUCAUGC------------------A
+Bphy_4682    G-C---UGUCA----CG---------C-----------------------
+Bphy_3736    G-C---AUUC-----C-----------AAA--------------------
+Bphy_3855    G-CGGUUUUCAG--GCUG------ACGAAGGU---------------UGA
+Bphy_5033    G-CU-UCUUC-----CC--------GC-----------------------
+Bphy_5524    G-CG-AAAGG-----CGC------CCAAUGG------------------A
+Bphy_3691    G-CU-GAAUCAG---CUC-------GCAUGAGCGAAUCGCAGGAAUGAAA
+Bphy_3780    G-CG-GUACA-U--------------------------------------
+Bphy_3617    G-C-----GCAG--UCCC-------GC-----------------------
+Bphy_4950    GAC---AUUA-G--------------------------------------
+Bphy_4700    G-CG----UC-G---C----------CAUG--------------------
+Bphy_5022    G-CG--UAGAA----C----------AAAC--------------------
+Bphy_3151    GCC---AUCG-G---------------AAGG-----------------GC
+Bphy_3471    G-CU----UC-A--------------------------------------
+Bphy_4638    G-C---AACGAAU-U-G---------CAUU--------------------
+Bphy_5145    GAC---UUCGAA--ACCU------UCAA--UC----------------UU
+Bphy_4204    G-CG-UUGU------CG---------AGUG--------------------
+Bphy_3735    G-CG-GAAGCAG----AGG----UGUG---AU----------------GU
+Bphy_3941    G-CUACAUCGAG--GC----------------------------------
+Bphy_4305    G-CG--AACCAA---CGC-------AUAUG--------------------
+Bphy_4664    G-CG-GUAAC-G---CUG-------CU-----------------------
+Bphy_3798    ---G-AAACAAG---C-----------AACGCG--------------UCU
+Bphy_3971    G-C---GUUAAG---CG--------CCAUC--------------------
+Bphy_4338    GCC-----UCUG--------------------------------------
+Bphy_4358    G-CU--AAUC-G--C-C--------GCAUGCA---------------GAC
+Bphy_3854    G-C---GUCCAA---CG---------A-----------------------
+Bphy_3228    G-CU-GUAUAAG---CGC-------GC-----------------------
+Bphy_4195    ---G-AGAGGAG---------------AAA--------------------
+Bphy_3293    ---G-UGAGCAU---CGC------CUGAUG--------------------
+Bphy_4626    G-CG--GGCGAG---CU--------UCGAC--------------------
+Bphy_4640    G-C-----CGAG--GC----------------------------------
+Bphy_5012    G-CG----CC-G---CGC------GCC-----------------------
+Bphy_4285    G-CG-AGUGAAG---CUC------GAC-----------------------
+Bphy_3973    G-CU-CAACC-G--ACCG------CAU-----------------------
+Bphy_5098    G-C----ACCAG---------------AUA--------------------
+Bphy_4938    G-C---UUCCAG---CGCAG---UCACAUAGUCAUCU------CCCAAUC
+Bphy_4325    G-CA-UAAUCAG---CGGC-----UCGAAA--------------------
+Bphy_3288    ---G-AAUCGAGU-ACGUC-----CUC-----------------------
+Bphy_3244    G-CG---AUA-G--UCG--------GACAA--------------------
+Bphy_3669    G-CG-CCGUCAG--GCUC-------GC-----------------------
+Bphy_3287    ---U-UCUCAAG---------------AUGGUU-------------CUUU
+Bphy_4826    GUCG-GCUGC-----CG--------UC-----------------------
+Bphy_4458    G-CG-UGACC-U---CG---------C-----------------------
+Bphy_4268    G-CG-CGACGAA---C----------CAAA--------------------
+Bphy_3918    G-C---UGUCA----CG---------C-----------------------
+Bphy_3705    G-CU-UUA-CAG--------------------------------------
+Bphy_5432    G-C---AAGCAU---CUU-------CAAUG--------------------
+Bphy_4381    G-C-----UC-A--------------------------------------
+Bphy_5097    G-C---CACAAG--------------------------------------
+Bphy_5183    G-C-----UCAG---UG---------AAAGAGGGCC--------AAAUUU
+Bphy_3961    ---G-UAGUU-G--------------------------------------
+Bphy_3110    G-C---AAGCA----CGA-------GAAAG--------------------
+Bphy_5223    G-CU-CUUCC-----CG---------C-----------------------
+Bphy_3337    GUC-----UGAA---------------AAC-------------------A
+Bphy_5040    G-C-----GCAG--------------------------------------
+Bphy_3722    G-CA-CCUGAAG--------------------------------------
+Bphy_4833    G-C-----UC-G--------------------------------------
+Bphy_4837    G-CG-UAAUA-G---------------AUAGGC-------------CUCG
+Bphy_4145    G-C-----UG-G---C----------------------------------
+Bphy_4141    G-C-----UCAG---------------GAC--------------------
+Bphy_3109    ---G--UAGC-G--GC-----------AUU--------------------
+Bphy_4001    GCCG--AAUC-G---CGCG----CUGU--GA-----------------GU
+Bphy_3126    GCCG--GUCG-G--C-CG-------UCAACG-----------------AU
+Bphy_4873    GCCG--AAUAAG----GG-------UA-AACUA--------------AGG
+Bphy_5520    G-CG--UUUCAG---------------GUGGA----------------GU
+Bphy_3670    G-CU-CAUUCAG---------------AAGCCACA----------UCGAA
+Bphy_4122    ---G-AAUUCAG---------------AAG--------------------
+Bphy_4364    G-CG-AUACA-----CC--------GCAUCAGUCCG-------ACCCCCU
+Bphy_4147    G-C-----UGAG---C-----------AUGCGG-------------UCUG
+Bphy_4607    G-CG----UGAA---CAC------CAG-----------------------
+Bphy_4277    G-C-----UCA----CG---------CAAA--------------------
+Bphy_3436    G-C---UUGCAU---C----------------------------------
+Bphy_4695    G-C-----UGAG--UCGCCACUGAGGA---AAAC------------CCAU
+Bphy_5222    GACG----UCAG---------------AUGA------------------A
+Bphy_4636    GACU-GAAUCUG--GC----------GAUGA------------------G
+Bphy_4418    GUCU-GAUGCA----C----------------------------------
+Bphy_3342    ---G--GAUGAG--------------GAUG--------------------
+Bphy_4688    G-CGCAGUG------------------AAG--------------------
+Bphy_4148    G-CU-AGA-------CG---------A-----------------------
+Bphy_3294    G-CG-UUCUGAU---------------AAGGGUU-----------UUGAU
+Bphy_3782    G-CU-GUUCC-G---C----------------------------------
+Bphy_3525    G-C-----CU-G--------------------------------------
+Bphy_4385    G-CG----UGAG---CGCA-----CACAUA-------------------G
+Bphy_4251    G-CG--CAUGAA---CUG------CUGAUGGU---------------CGA
+Bphy_4322    G-C---GUUGAA--------------------------------------
+Bphy_5449    GACG-CGUGCAG---CA---------U-----------------------
+Bphy_3424    G-CA-GCAUAAG----A--------GAAUG--------------------
+Bphy_5055    GCCG-GUAGAAAU-GCC--------GCAAG--------------------
+Bphy_4696    GACU--UUUCA----CU---------C-----------------------
+Bphy_3311    ---U--UUCCAG---------------UUG--------------------
+Bphy_4183    G-CG-CUUUG-----CGC-------GUAAGCGCC-----------GGGCU
+Bphy_4480    G-CG----UAAG--------------------------------------
+Bphy_4908    GACU-CAACAAG--------------------------------------
+Bphy_4225    ---G-UAAUC-G---CGC------GCC-----------------------
+Bphy_4628    G-C-----UCA----CG---------G-----------------------
+Bphy_5297    GCC-----UGA----C----------AAUG--------------------
+Bphy_3183    G-C---AAUGAG----G---------GAAA--------------------
+Bphy_4293    G-CG-CAUUGAG---------------AUG--------------------
+Bphy_4432    G-C---AAUCAG--ACG---------AAAGUC----------------CU
+Bphy_3607    ---G--AUGCAG---CG--------CC-----------------------
+Bphy_4376    G-CG--GUUA-G---C----------------------------------
+Bphy_4370    G-CG---UUCAA---------------AACU------------------U
+Bphy_4278    GUCG--UUCGAU---------------GAA--------------------
+Bphy_5342    G-CA-CGUGCAG---CGG------CUCAUC--------------------
+Bphy_3586    ---G-AUUCAAA--------------------------------------
+Bphy_3606    G-CG--UUCG-A--------------------------------------
+Bphy_3858    ---G--AAUAAG---CG---------AAUG--------------------
+Bphy_3600    G-C-----UGAA---------------AACCGCG-----------UGAUU
+Bphy_3683    G-CG-ACGCAAG--CCGC-------UAAAGGA----------------CA
+Bphy_4554    ---G--AACGAG---C----------------------------------
+Bphy_3441    ---G--AUUCA----CG---------CAUC--------------------
+Bphy_3706    G-CG----CC-G---------------AAA--------------------
+Bphy_3657    GAC---CUGCUG--UCU--------CCAAA--------------------
+Bphy_3795    ---G--AUUC-U--------------------------------------
+Bphy_4462    G-CG----UG-A---------------AAG--------------------
+Bphy_4937    ---G--AAGGAG--ACG---------C-----------------------
+Bphy_4648    GUCU-CAAGCAG---------------AUA-------------------A
+Bphy_3370    G-CU-ACACC-----CG---------AAAG--------------------
+Bphy_4735    G-C-----CC-G--GCG---------C-----------------------
+Bphy_3891    G-C-----GAAA---------------AAA--------------------
+Bphy_4229    G-CG----UG-----C----------AAAGC------------------G
+Bphy_3988    G-C---AUCAAG--U------------AACCC---------------UUU
+Bphy_5366    ---G--AUCGAG--------------------------------------
+Bphy_3693    ---U-CCAUUAG---------------AAG--------------------
+Bphy_5100    GCCU-GUUCGAA---C----------------------------------
+Bphy_4637    G-CG--CAGGAA---------------AAGCGGA-----------CGAAA
+Bphy_4701    GCCG----UAUG---------------AAA--------------------
+Bphy_5002    ---G--AACGAA---CG---------CAUG--------------------
+Bphy_4520    G-C---AUCAAGUGAC-----------AUG-------------------A
+Bphy_3816    G-CG-CGUGCAAU-UCG---------C-----------------------
+Bphy_4021    G-CU-AAAG------C----------A-----------------------
+Bphy_3991    G-CG----UC-G--UC-----------AUG--------------------
+Bphy_4166    GUCG----UC-G---------------AUA--------------------
+Bphy_3485    G-CU----UC-A--------------------------------------
+Bphy_4413    ---G--AUCCAA---C----------C-----------------------
+Bphy_5382    G-CG--UAUC-G---------------AAG--------------------
+Bphy_4057    G-C-----GCAGC-AC----------C-----------------------
+Bphy_4027    G-C-----CCAG---------------AUAA-----------------AA
+Bphy_4009    GACG----CCAG--CCGU------AGAGUG--------------------
+Bphy_3964    G-CG-CGUUGAG---CG---------AAAGG-----------------UC
+Bphy_3149    ---G-GUUCUAA--ACGC-------GUG--A------------------C
+Bphy_4916    ---G-UAAUG-G--GC----------GAAA--------------------
+Bphy_3904    G-CG-CCUCCA----CAUU-----GCA---GU----------------GC
+Bphy_5499    G-CG-CUGGCAU--------------------------------------
+Bphy_3913    G-CG-CAUCAAGG-ACU---------GAUGUG----------------CG
+Bphy_3603    G-CG----CC-A--------------------------------------
+Bphy_3781    ---G-AAUGAAG--------------------------------------
+Bphy_5374    G-CG-AUA-------CU---------UAAG-------------------C
+Bphy_3432    G-CG-CUGGC------UUCU--CCCCUAUG--------------------
+Bphy_4515    GCCG--UACC-----C----------------------------------
+#=GC SS_cons :.::..::::::...:...........:::....................
+#=GC RF      G.CG..auucAG...C...........AAg....................
+
+Bphy_4102    CGAC-GCCCC-U----A--CG-U-UC-UGA-----------------A--
+Bphy_4366    UGAA-ACACC-C----C--AA-C-GG-UUC-----------------G--
+Bphy_4509    CGCA-AUCCC-C----G--CA-C-AC-GUU-----------------A--
+Bphy_3460    AAAG-AGGGC-U----G--CU-C-GC-GGG-----------------CU-
+Bphy_5112    AGUU-CGUCA-U----G--AA-U-GC-CGC-----------------A--
+Bphy_5373    ACAU-GCCGC-A----U--GC-U-UC-CCGCACGAAGCGAUUCAUGCAG-
+Bphy_5113    AGUU-CGUCA-U----G--AA-U-GC-UGC-----------------G--
+Bphy_4134    UAAA-AAGCC-C----C--GG-C-UG-GUCUCGCGU-----CUCGCGAC-
+Bphy_5372    -AAA-AGGCG-G----C--GU----C-GAA-----------------A--
+Bphy_3459    -AAA-AGGGC-U----G--CU-C-GC-AGC-----------------CC-
+Bphy_4827    -UAC-ACCGG-G----C--G--A-GU-UAU-----------------AU-
+Bphy_4692    AAAA-AGGCC-G----G--CG-G-AC-UGC-----------------GCC
+Bphy_5433    A-AC-AAACG-G----C--G-----C-CUU-----------------GA-
+Bphy_4135    AAAA-AGCCC-C----G--GC-U-G--GUCGCGAGA-----CGCGAGAC-
+Bphy_3211    CGCC-AGAAG-A----C--G-----C-GAU-----------------AA-
+Bphy_4662    ACGA-CACCC-A----C--GA-U-GC-CAC-----------------CU-
+Bphy_4306    CAAA-AGCCC-G----C--GA-A-GC-AUU-----------------UC-
+Bphy_5214    ACGC-AGCC--G----C-----------GC-----------------GA-
+Bphy_5305    AGAA-UGGCC-G----C--------C-AU-------------------C-
+Bphy_3359    A-AA-GCGCC-A----C--GG-C-GC-GCG-----------------AU-
+Bphy_3789    AAAG-CCGCC-GC--CC--GA-U-GC-AA-------------------C-
+Bphy_3147    A-AC-GGCCU-G----G--UC-A-UC-CA-------------------C-
+Bphy_4031    AAGC-GCCAU-G----G--G-----C-GGC-----------------AAA
+Bphy_5037    AUGA-AGGCC-G----C--U-----C-AGC-----------------A--
+Bphy_3292    A-GC-CGCC--G----C--GC-C-GC-AU-------------------C-
+Bphy_4369    UGAA-UCGGC-C----C--U-------GUU-----------------UG-
+Bphy_3559    C-GA-GGCGC-G----C--GU-A-G---UU-----------------GG-
+Bphy_4215    GUCG-UGCCG-A----U--GC-C-G--AGAAU------------CGUAU-
+Bphy_3452    AGGA-GGAAG-G----C--G---GAC-AUU-----------------GC-
+Bphy_4853    ACGG-ACUCG-G----U--UA-C-GC-AUC-----------------CC-
+Bphy_5495    CCGU-GGCGC-C----C--GU-C-G---UCGAAGCAG---GCGUGCUGG-
+Bphy_5149    -GCG-CGGUA-A----C--GG-U-GC-AUC----------------CAC-
+Bphy_4132    AAAA-AGAGC-G----C--AA-C-GG-CUA-----------------AA-
+Bphy_4808    AGGA-ACGCG-G----C--GG-G----AACC---------------AUC-
+Bphy_4691    A-AA-AGGCC-G----G--CG-G-AC-GGC-----------------GCA
+Bphy_3790    AGCC-GCCGC-G----C--GA-U-GC-GU-------------------U-
+Bphy_4265    UAAC-GGCCC-G----C--GU-C-A--UGC-----------------G--
+Bphy_4230    -CGA-ACGGG-C----G--G-----CUCGA-----------------AC-
+Bphy_3578    -GAG-GCCGC-G----C--GC----C-AUC-----------------G--
+Bphy_4219    -CCU-CGAUA-G----A--GC-C-G---UU-----------------GU-
+Bphy_3887    AGAA-AAAGG-C----C--U-----G-AAU-----------------U--
+Bphy_3655    CGAA-AAACG-G----G--CU-A-GC-AAA-----------------A--
+Bphy_5011    -CGC-GGCGC-G----C--GG-C-GC-UAA-----------------G--
+Bphy_4632    -GAG-AACGA-U----C--GC-G-GC-ACC-----------------GC-
+Bphy_3951    -GGA-AAGAC-G----G--G-----C-UUC-----------------G--
+Bphy_4131    A-AA-AGAGC-G----C--AA-C-GG-UUU-----------------AG-
+Bphy_3336    UCGU-AUUGA-G----C--GC-C-G-----------------------A-
+Bphy_4663    ACGA-CACCC-A----C--GA-C-GC-AGG-----------------UG-
+Bphy_3341    -AAA-AGGCG-A----A--GA-G-G---CG-----------------AC-
+Bphy_3656    -GAC-AAACG-G----G--CU-A-GC-UUU-----------------U--
+Bphy_4851    -UAC-AUACA-G----C--C-----C-UGUU--------------UUUC-
+Bphy_4420    CUGC-AACAG-G----A--UG-C-GC-UUU-----------------GC-
+Bphy_5476    -UGC-UGGAU-U----U--GC-C-G--AU---------------------
+Bphy_5261    UGGA-UGCGG-A----G--CG-C-GG-GCU-----------------AC-
+Bphy_4730    GUAA-AACGC-G----C--GU-C-G--AGC-----------------UU-
+Bphy_4140    A---ACGCAA-C----C--G--------A-------------------C-
+Bphy_3886    UGAA-GAAAA-A----G--GC-C-UG-AAU-----------------U--
+Bphy_4352    UAGA-AGCCC-G----G---U----C-AU---------------------
+Bphy_3815    -CGC-CUUG--C----C--GA-C-GC-GCG-----------------AU-
+Bphy_3306    AUGC-UGCG-------U--GC-C-UC-GUG-----------------A--
+Bphy_4252    UGAA-AAAAC-G----C--AC-G-GC-UCG-----------------CU-
+Bphy_4267    GAGC-GCGCG-G----C--GC-A-GG-UUC----------------CAU-
+Bphy_4682    -GGG-CGCCC-C---GG--CG-U-UC-AU-------------------C-
+Bphy_3736    GCGC-AGGCC-C----G--CC-C-GC-AU-------------------C-
+Bphy_3855    AUGA-AAGAA-G----C--GC-G-GC-AAC-----------------U--
+Bphy_5033    -GCC-ACUGC-G----C--------C-GUC-----------------GA-
+Bphy_5524    ACAA-AGGGG-A----G--UA-C-G---AA-----------------AU-
+Bphy_3691    AAAA-AGCGC-G----G--CA-G-CC-CUU-----------------GA-
+Bphy_3780    -GAA-CGGGC-U----C--C--------CU-----------------GC-
+Bphy_3617    -UGA-ACAGC-G----C--------C-CGC-----------------GU-
+Bphy_4950    -GGU-UGCCU-C----C--G-----C-AUCCCGU--------AUCAAUU-
+Bphy_4700    A-AA-AAAGC-G----G--AU-C-GC------------------------
+Bphy_5022    AACA-GCCGG-G----C--G--C-GA-ACC-----------------CA-
+Bphy_3151    GCGA-CCGC--G----C--G-----C-ACA-----------------AU-
+Bphy_3471    -AAU-GCCAU-G----C--GC-U-GC-UUC-----------------GAU
+Bphy_4638    UGAA-GCCGG-U----C--U-----C-UC---------------------
+Bphy_5145    GGCC-GCGUC-G----C--AC-U-G--CAA-----------------UC-
+Bphy_4204    UUCG-GCCGC-A----U--G-----C-UUUCA------------AGGGG-
+Bphy_3735    GCGC-AGGCC-C----G--CU-C-GC-GA-------------------U-
+Bphy_3941    -UUC-GGAUC-G----U--UU-U-GC-UC-------------------A-
+Bphy_4305    AAAA-AGCCC-G----C--GA-A-GC-GAA-----------------AU-
+Bphy_4664    -GCA-GCGGC-G----U--G-----C-GC-------------------G-
+Bphy_3798    UGUG-CGCCC-A----C--GA-U--C-GUC-----------------GA-
+Bphy_3971    CUCG-UGCCG-G----U--UG-C-AC-AUGCC------------GUAUC-
+Bphy_4338    -ACC-GGGCU-G----C--GC-G-GCCCGC-----------------AA-
+Bphy_4358    CAGC-CGGGA-CU--CC--GU-U-GC-GA-------------------C-
+Bphy_3854    -AAA-AAAGC-G----C--G----GC-AGU-----------------U--
+Bphy_3228    -GAC-GGGCG-G----G--AU-A-UC-UGCUU------------UAGAU-
+Bphy_4195    AAAA-UCCGC-G----U--U-----C--GC-----------------GA-
+Bphy_3293    CUCG-CCGCC-G----C--GUCC-GC-GA-------------------U-
+Bphy_4626    UCAA-CGCGC-C----G--UC-G-UC-GUG-----------------AU-
+Bphy_4640    -AGU-UACAA-A----U--------C-CCU-----------------ACC
+Bphy_5012    -GCG-UCGGC-C----C--GC-C-CC-GAC-----------------GG-
+Bphy_4285    -GCC-UGCGC-C----C--GU-C-G--AUC-----------------GG-
+Bphy_3973    UCGA-CGGGC-G----U--C-----C-AC-------------------U-
+Bphy_5098    CGAC-ACGGC-G----C--GC----C-CAA-----------------AA-
+Bphy_4938    CCGU-UAACG-G----G--C-----U-AUC-----------------AU-
+Bphy_4325    AGGG-AAACC-C----G--G-----C-UUC-----------------G--
+Bphy_3288    -CAU-CUGCU-U----U--GC-C--C-GCA-----------------AU-
+Bphy_3244    CGCA-CCGCU-C----C--U-----C-GUC-----------------GU-
+Bphy_3669    -CAA-C-CGG-C----A--AC-G-UC-AAUUGCG--------CGACUUC-
+Bphy_3287    AGAU-CUGCU-U----U--GC-C--C-AUU-----------------GC-
+Bphy_4826    -UGC-CCGGC-C----U--GU----C-UU-------------------U-
+Bphy_4458    -CGC-GGCGU-U----C--G----GC-GACAA-------------UGGA-
+Bphy_4268    AAAU-AGCCC-G----U--C-----C-AAA-----------------GU-
+Bphy_3918    -GGC-GGGGUUG----C--A--U-GA-AGC-----------------G--
+Bphy_3705    -GCC-GCUGC-U----C--G-----U-CUC-----------------AU-
+Bphy_5432    A-AC-AAACG-G----C--G-----C-UCA-----------------AG-
+Bphy_4381    -CGA-AGCCC-G----C--UUAU-GCCGA-------------------C-
+Bphy_5097    -CAC-ACGGC-G----C--GC----C-UUU-----------------UG-
+Bphy_5183    CGAA-GGCGC-C----A--U-------GCA-----------------AU-
+Bphy_3961    -CAC-AGCGC-C----C--------C-UGU-----------------AU-
+Bphy_3110    AAGC-GGACG-G----C-----------GC-----------------GA-
+Bphy_5223    -UUU-UGCCC-G----G--UUCC-G--CGA-----------------UC-
+Bphy_3337    AAAA-AGGCG-A----A--GA-G-G---CC-----------------AC-
+Bphy_5040    -CGG-CGUUC-G----C---U-U-GC-GUC-----------------UC-
+Bphy_3722    -CCG-GCCGC-GGUGUC--CG-C-GC-GCA-----------------AU-
+Bphy_4833    -GGG-GUAUA-U----C--G--A-GA-AGUGG-------------CCUG-
+Bphy_4837    UACU-GCCUC-G----U--UU-U-CC-UUU-----------------UC-
+Bphy_4145    -GAG-GCGGC-G----C--C--U-GA-CAU-----------------GG-
+Bphy_4141    A---UUGGAC-G----C--GU-U-GC-CGU-----------------ACG
+Bphy_3109    -UGC-GGACG-G----C-----------UC-----------------GC-
+Bphy_4001    UGCU-GUGAC-G----G--------C-AUA-----------------U--
+Bphy_3126    UGAA-CGCCG-G---GC--GU-C-GCGAGA-----------------UU-
+Bphy_4873    CGAA-AGUGC-G----C--GA-U-U--UU-------------------C-
+Bphy_5520    UGUC-GGGCG-C----C--U-------GCG-----------------AA-
+Bphy_3670    GGAA-GCGCA-U----C--GC-G-GC-AU-------------------C-
+Bphy_4122    CGAU-GCCGG-G----U--GA-C-GC-GAUGCGCGG----CAUCGACAU-
+Bphy_4364    UCGC-CGCGC-G----C--GC-C-U---AC-----------------GC-
+Bphy_4147    CGAC-AAAGG-G----C--G-----C-UUG-----------------AU-
+Bphy_4607    -CGA-AGGCA-G----C--G----GC-GUC-----------------GAU
+Bphy_4277    AACA-AAGGG-G----C--G-----C-AU-------------------U-
+Bphy_3436    -CCG-CGCCU-G----C--G-----CACGA-----------------UU-
+Bphy_4695    AUGA-CGUCC-G----C--GC-U-UU-GAU-----------------U--
+Bphy_5222    CGAA-GGCCC-C----GCCGA-C-UC-AU-------------------C-
+Bphy_4636    AGGA-AGCGG-A----C--C-----C--UU-----------------GC-
+Bphy_4418    -GGU-CGGCG-A---AC--GG-U-GC--AC-----------------GC-
+Bphy_3342    GGAA-AGGCG-A----A--GA-G-G--GUC-----------------G--
+Bphy_4688    -AAA-AGGCC-G----G--G-----C-AU---------------------
+Bphy_4148    -GAC-AAAGG-G----C--G-----C-AUC-----------------AA-
+Bphy_3294    GGCG-AUGCG-A----A--UG-C-GC-UGC-----------------GC-
+Bphy_3782    -AAG-GCGAA-G----C--G-----C-UUC----------------CGG-
+Bphy_3525    -GGC-CGGCG-G----C--A--G-AA-GGU-----------------GC-
+Bphy_4385    AAGC-GCGCG-U----GGCCU-G-GC-CGC-----------------AUG
+Bphy_4251    AUAA-AAAAC-G----C--AC-G-GC-AGC-----------------GA-
+Bphy_4322    -CGA-UGCGG-CC--UU--CUUC-GC-GGA-----------------A--
+Bphy_5449    -GAC-AGGGC-G----A--UC-C-GC-AGU-----------------U--
+Bphy_3424    AGGU-CCUUC-G----C--A-----G-AUC-----------------U--
+Bphy_5055    ACGG-GGCA--U----C--G-----C-AGCCU-------------GAUU-
+Bphy_4696    -CGA-CGUCC-A----C--GCUU-GA-AUC-----------------AA-
+Bphy_3311    CUGU-AACAC-G----C--UU-U--CCCGC-----------------GU-
+Bphy_4183    UCGC-AAGCC-G----C--------C-UUC-----------------G--
+Bphy_4480    -CGA-GUGCG-G----C--GUGC-GC-GA-------------------U-
+Bphy_4908    -AGA-AGAC-----------C-A-GU-AUC-----------------GC-
+Bphy_4225    -CGA-CGCUG-G----U--CC-C-GA-UGCAC------------AUCGG-
+Bphy_4628    -ACC-CGCGA-A----U--GG-U-GC-AAAU---------------GAU-
+Bphy_5297    C-GU-GGCCG-C----U---C-U-AC-UCU-----------------UC-
+Bphy_3183    UAGC-CGCGC-G----U--G--------AG-----------------AC-
+Bphy_4293    UGAU-AGCGG-G----C--A-------GGC-----------------GA-
+Bphy_4432    ACGA-AGCGU-U----C--GC-C-GC-AUGCGG-----------CCCAG-
+Bphy_3607    -ACG-CGCCC-G----C-----------C-------------------U-
+Bphy_4376    -AAG-GCGGC-G----C--G-----U-AUC-----------------UG-
+Bphy_4370    CCAA-AAAGC-G----U--CG-C-G---AU-----------------UU-
+Bphy_4278    AAAA-GGGGC-G----C--A----------------------------A-
+Bphy_5342    A-AC-GGCGA-G----U--G-----CCACU-----------------GC-
+Bphy_3586    -UGA-GAGCC-G----GGUGC-U-GC-CGC-----------------GU-
+Bphy_3606    -AGC-CCGCC-G----C--A-----C-UC---------------------
+Bphy_3858    A-AU-ACGGC-C----C--UA-U-GC-AUC-----------------AA-
+Bphy_3600    UUCA-GCAGU-G----C--G-----C-UAUCGGUGG----GUGUGUGGC-
+Bphy_3683    UCAC-GUCGA-U----C--GA-C-GC-AGACGUU--------UGCGAUA-
+Bphy_4554    -AAU-CCUGA-AA-CCC--GG-C-GC-UCG-----------------AC-
+Bphy_3441    C-CG-CAGCA-G----C--G-------UUC-----------------G--
+Bphy_3706    GCGG-GCGGU-G----A--AG-G-AC-GGU-----------------UC-
+Bphy_3657    G-------CG-G----C--GC-C-GC-CAC-----------------GC-
+Bphy_3795    -GCU-GACCG-G----G--U--U-GA-CGA-----------------UC-
+Bphy_4462    C-------CG-U----C--GA-C-GA-UGU-----------------G--
+Bphy_4937    -AUG-UUAAC-G----G--G-----C-GAUG---------------AUA-
+Bphy_4648    AAAA-ACGGA-G----C--A-----C-GCG-----------------G--
+Bphy_3370    GAGU-CGGUG-G----U--CU-U-UC------------------------
+Bphy_4735    -CCG-ACUCG-U---CC--G---GGC-UUU-----------------GCA
+Bphy_3891    A-------GC-C----C--G-----C-GUC-----------------GAA
+Bphy_4229    AAAA-CAGGC-G----G--------CGUUC-----------------GA-
+Bphy_3988    UAGC-AAUCC-G----G--U-----C-AUCC---------------CGU-
+Bphy_5366    -GGG-UUCGG-A----C--G-------UUG-----------------UU-
+Bphy_3693    AAGA-CGUUU-G----C--G-------AACCGCAUU----AUCGUCCUU-
+Bphy_5100    -GAC-CUGUU-G----C--GA-U-GC----------------------U-
+Bphy_4637    AAAA-GCCGG-U----C--U-----C-GA---------------------
+Bphy_4701    AGAA-AAAGC-G----G--AU-C-GC------------------------
+Bphy_5002    C-GC-CGUCC-G----CCAUU-C-AC-AACG---------------AGC-
+Bphy_4520    GAGC-UGCGC-G----C--GC-C-G--GGC-----------------GG-
+Bphy_3816    -GCG-UCUCG-G----G--C-----C-AG-------------------A-
+Bphy_4021    -GAG-CGGAG-A----C--GCGG-UCCAU-------------------C-
+Bphy_3991    CACG-CAUCC-A----U--C------------------------------
+Bphy_4166    UCGA-GUGAU-G----C-----------CG-----------------GC-
+Bphy_3485    -CGC-GUCGC-C----C--------C-UGU-----------------GC-
+Bphy_4413    -GGG-CCGGC-G----C--GCCG-UC-GCA-----------------G--
+Bphy_5382    GAGG-CGGGA-G----C--G--A-GA-CUU-----------------GC-
+Bphy_4057    -GGA-AGCC--G----C--AU-C-G--AUUCG-------------ACGC-
+Bphy_4027    AAGG-AAGAG-A----C---C-A-GA-ACA-----------------UC-
+Bphy_4009    AAAA-AGCGC-A----G--C-----CCCGA-----------------GC-
+Bphy_3964    A-------GC-A----C--G-------AAA-----------------CG-
+Bphy_3149    CAGC-CCGCC-G----C--G-----C-GAC-----------------GA-
+Bphy_4916    G-------GC-G----G--G-----C-AAA-----------------AC-
+Bphy_3904    UCAA-GGGCG-G----C--C--------UC-----------------AU-
+Bphy_5499    -GCA-ACGGA-G----C--A-----C-UCA-----------------G--
+Bphy_3913    CGUU-CGCCU-G----C--CG-C-GCCGAU-----------------GC-
+Bphy_3603    -GAA-AGCCC-G----C--U-------CUU-----------------UC-
+Bphy_3781    -GAA-AUCGC-C----C--G-----C-CGC-----------------GU-
+Bphy_5374    AAAA-CGCCC-G----C--A--------CC-----------------AA-
+Bphy_3432    GGCG-AGCGC-G----U--G--------GC-----------------GA-
+Bphy_4515    -UGA-AGCCA-G----C--C--A-GA-GGCGCAA---------GCCGAA-
+#=GC SS_cons ::<<.<<<<<.<....<..<<.<.<<.___.................__.
+#=GC RF      agaa.agccc.G....C..gc.c.GC.auc.................gc.
+
+Bphy_4102    GA-AC--G--U----AGGGGCGU
+Bphy_4366    CC-GU--U--G----GGGUGUUU
+Bphy_4509    GU-GU--G--C----GGGGAUUG
+Bphy_3460    GC-GA--G--C----AGCCCUUU
+Bphy_5112    GC-AU--U--C----AUGACGAA
+Bphy_5373    GA-AG--C--G----CGCGGCGU
+Bphy_5113    GC-AU--U--C----AUGACGAA
+Bphy_4134    CA-GC--C--G----GGGCUUUU
+Bphy_5372    G---A--C--G----CCGCCUUU
+Bphy_3459    GC-GA--G--C----AGCCCUCU
+Bphy_4827    -------C--G----CCUGGUGU
+Bphy_4692    GU-CC--G--C----CGGCCUUU
+Bphy_5433    G------C--G----CCGUUUGU
+Bphy_4135    -C-AG--C--C----GGGGCUUU
+Bphy_3211    G------C--G----UUUUCUGG
+Bphy_4662    GC-GU--C--G----UGGGUGUC
+Bphy_4306    GC-UU--C--G----CGGGCUUU
+Bphy_5214    ----------G----C-GGCUGC
+Bphy_5305    G---------G----CGGCCAUU
+Bphy_3359    GC-GU--C--G----UGGCGUUU
+Bphy_3789    GC-AU--C--GC--GCGGCGGCU
+Bphy_3147    GA-UG--A--C----CGGGCCGU
+Bphy_4031    G------C--C----CUUGGCGC
+Bphy_5037    G------A--G----CGGCCUUU
+Bphy_3292    GC-GG-AC--G----C-GGCGGC
+Bphy_4369    -------A--G----GGCUGAUU
+Bphy_3559    -C-UA--U--G----CGCGCCUC
+Bphy_4215    -C-GG--C--G----UCGGCACG
+Bphy_3452    GUG----C--G----CCUUCCUC
+Bphy_4853    GC-GU--A--A----CCGAGUCC
+Bphy_5495    -C-GA--C--G----GGCGCCUC
+Bphy_5149    GC-AC--C--G----UUACCGCG
+Bphy_4132    CC-GU--U--G----CGCUCUUU
+Bphy_4808    ---CC--C--G----CCGCGUUU
+Bphy_4691    GU-CC--G--C----CGGCCUUU
+Bphy_3790    GC-AU--C--G----GGCGGCGG
+Bphy_4265    -U-GA--C--G----CGGGCCGU
+Bphy_4230    G------C--C----GCCUGUUU
+Bphy_3578    G---G--U--G----CGCGGCUU
+Bphy_4219    -C-GG--C--U----CUAUCGAU
+Bphy_3887    C------A--G----GCCUUUUU
+Bphy_3655    GC-UA--G--C----CCGUUUGU
+Bphy_5011    UC-AU--U--G----CGCGCUGU
+Bphy_4632    AC-CG--C--G----AUUGUUCU
+Bphy_3951    G------C--C----CGUCUUUU
+Bphy_4131    CC-GU--U--G----CGCUCUUU
+Bphy_3336    -C-GGCCC--G----CUCGAUAC
+Bphy_4663    GC-AU--C--G----UGGGUGUC
+Bphy_3341    -C-CU--C--U----UCGCCUUU
+Bphy_3656    GC-UA--G--C----CCGUUUUU
+Bphy_4851    G------G--G----CUGUAUGU
+Bphy_4420    GC-GU--A--U----CCUGUUGC
+Bphy_5476    -C-AG--U--A----AGUCCAGC
+Bphy_5261    CC-GC--G--C----UCCGCAUC
+Bphy_4730    -C-GA--C--G----CGCGUUUU
+Bphy_4140    -------C--G----GUUGCG--
+Bphy_3886    CA-GG--C--C----UUUUUCUU
+Bphy_4352    G---------C----CGGGCUUU
+Bphy_3815    GC-AU--C--G----G-CAAGGC
+Bphy_3306    GA-GG--C--A----A-CGCAGC
+Bphy_4252    GC-CG--U--G----CGUUUUUU
+Bphy_4267    CC-GG--U--G----CCGCGCCU
+Bphy_4682    GG-AC--G--C---GGGGGCGUU
+Bphy_3736    GC-GA--G--C----GGGCCUGC
+Bphy_3855    GC-CG--C--G----CUUUUUUU
+Bphy_5033    G---------G----CGCAGUGG
+Bphy_5524    -C-GU--A--C----UCCCCUUU
+Bphy_3691    GG-CU--G--C----CGCGCUUU
+Bphy_3780    -------G--G----AGCCCGUU
+Bphy_3617    G---------G----CGCUGUUU
+Bphy_4950    G------C--G----GGGGCAGC
+Bphy_4700    GC-GA--U--C----CGCUUUUU
+Bphy_5022    -------C--G----CCCGGCUG
+Bphy_3151    G------C--G----CAGCGGUU
+Bphy_3471    GC-CG--U--G----CAUGGCGU
+Bphy_4638    G------A--G----ACCGGCUU
+Bphy_5145    -C-GG--U--G----CGACGCUG
+Bphy_4204    G------C--A----UGCGGCUU
+Bphy_3735    GC-GG--G--C----GGGCCUGC
+Bphy_3941    GC-GA--A--G----CGAUCCCA
+Bphy_4305    GC-UU--C--G----CGGGCUUU
+Bphy_4664    G------C--A----CGCCGCUU
+Bphy_3798    G--AU--C--G----UGGGCGCG
+Bphy_3971    GU-GU--A--G----CCGGCACG
+Bphy_4338    GC-CG--C--G----CAGCCCUU
+Bphy_4358    GC-GA--C--G---GGUUCCGGU
+Bphy_3854    GC-----C--G----CGCUUCUU
+Bphy_3228    GU-UA--C--C----CCGCCCGC
+Bphy_4195    G------A--A----CGCGGAUU
+Bphy_3293    GC-GG--C--G----CGGCGGCU
+Bphy_4626    GA-CG--A--C----GGCGCGUU
+Bphy_4640    G---------G----UUUGUAAC
+Bphy_5012    GC-GA-CC--G----GGCCGACG
+Bphy_4285    -C-GA--U--G----GGCGCGUU
+Bphy_3973    G------G--G----CGCCCGUU
+Bphy_5098    G---G--C--G----CGCCGUGU
+Bphy_4938    C------G--C----CCGUUAAC
+Bphy_4325    G------C--C----GGGUUUGC
+Bphy_3288    G--GG--C--A----AAGCAGAU
+Bphy_3244    G------A--G----GAGCGGUG
+Bphy_3669    GA-CG--U--U----GCCGAGUU
+Bphy_3287    G--GG--C--A----AAGCAGAU
+Bphy_4826    G---A--C--G----GUCCGGGC
+Bphy_4458    GC-----C--G----AACGCCGC
+Bphy_4268    G------G--G----CGGGCUAC
+Bphy_3918    -------U--G----CACCCCGC
+Bphy_3705    A------C--G----AGCAGCGA
+Bphy_5432    G------C--G----CCGUUUGU
+Bphy_4381    GC-AG--A--G----CGGGCUUU
+Bphy_5097    G---G--C--G----CGCCGUGU
+Bphy_5183    -------A--U----GGCGCCUC
+Bphy_3961    G---------G----GGCGCUUU
+Bphy_3110    ----------G----CCGUCCGC
+Bphy_5223    -C-GA-UA--C----CGGGCAAA
+Bphy_3337    -C-CU--C--U----UCGCCUUU
+Bphy_5040    GC-AA-----G----CGAACGCC
+Bphy_3722    GC-GC--G--GGUCUCGCGGCCG
+Bphy_4833    -------C--G----AUAUACCU
+Bphy_4837    GG-AA--G--G----CGGGGCAG
+Bphy_4145    -------G--G----CGCCGCUU
+Bphy_4141    GC-AA--U--G----CGUCCA--
+Bphy_3109    ----------G----CCGUCCGC
+Bphy_4001    G---------C----CGUCACAU
+Bphy_3126    GC-GA--C--GG--CCUGGCGUU
+Bphy_4873    -G-AU--C--G----CUCACUUU
+Bphy_5520    -------A--G----GCGCCCUG
+Bphy_3670    GC-CG--G--G----AUGCGCUU
+Bphy_4122    GC-GU-CG--G----CCCGGCUU
+Bphy_4364    -U-GG--C--G----UGCGCGGC
+Bphy_4147    G------C--G----CCCUUUGU
+Bphy_4607    GC-----G--G----CUGCCUUC
+Bphy_4277    G------C--G----CCCCUUUU
+Bphy_3436    G------U--G----CGGGCGCG
+Bphy_4695    CA-AG--C--G----UGGACGUC
+Bphy_5222    GA-GU--C-CC----GGGGCCUU
+Bphy_4636    G------G--G----UCCGCUUU
+Bphy_4418    GC-AU--C--G---UUUGCCGCC
+Bphy_3342    -C-CU--C--U----UCGCCUUU
+Bphy_4688    G------C--C----CGGCCUUU
+Bphy_4148    G------C--G----CCCUUUGU
+Bphy_3294    GC-GC--A--U----UCGCAUCG
+Bphy_3782    G------C--G----CUUCGCCU
+Bphy_3525    -------U--G----CCGCUGGC
+Bphy_4385    GC-CA--GUUC----AUGUGCGC
+Bphy_4251    GC-CG--U--G----CGUUUUUU
+Bphy_4322    GC-GG--G--A---AGCCGCAUC
+Bphy_5449    UC-GA--A--U----CGCCCUUU
+Bphy_3424    C------U--G----CGGAGGGC
+Bphy_5055    G------C--G----A-UGCCCC
+Bphy_4696    ---AG--C--G----CGGACGUC
+Bphy_3311    G--CA--A--G----CGUGUUAC
+Bphy_4183    G---------G----CGGUUUUU
+Bphy_4480    GC-GAGUC--G----CCGCACUC
+Bphy_4908    -----------------GUCAUU
+Bphy_4225    UC-GG--G--G----CCAGCGUC
+Bphy_4628    GC-AU--C--G----CUCGCGGG
+Bphy_5297    GU-A------G----GCGGCCAU
+Bphy_3183    -------C--G----CGCGUGGC
+Bphy_4293    -------U--G----CCCGCCCU
+Bphy_4432    GC-GG--C--G----AACGCUUC
+Bphy_3607    ----------G----CGGGCGCG
+Bphy_4376    C------U--G----CGCCGCCU
+Bphy_4370    -C-GC--G--G----CGCUUUUU
+Bphy_4278    -------U--G----CGCCCCUU
+Bphy_5342    G------C--A----CUCGCCGU
+Bphy_3586    GC-GG--C-CC----CGGCUCUU
+Bphy_3606    G------U--G----CGGCGGGC
+Bphy_3858    GC-AU--U--G----GGCCGUUU
+Bphy_3600    G------G--G----CGCUGCUU
+Bphy_3683    GC-GU--U--G----AUCGAUGU
+Bphy_4554    GC-GC--C--GC-GAUUCAGGGU
+Bphy_3441    -------C--G----CUGCCGCG
+Bphy_3706    GU-CU--U--U----CGCCGCCU
+Bphy_3657    GC-GG--C--G----CCG-----
+Bphy_3795    -------A--C----CUGGUCAG
+Bphy_4462    UC-GU-UC--G----ACG-----
+Bphy_4937    G------C--C----CGUUAACG
+Bphy_4648    G------U--G----CUCCGUUU
+Bphy_3370    GA-AA--G--A----CCACCGAC
+Bphy_4735    GCG----C--G---AACGAGUCG
+Bphy_3891    G------C--G----GGC-----
+Bphy_4229    G---------C----CGCCCGUU
+Bphy_3988    G------G--C----CGGAUUGC
+Bphy_5366    -------U--G----UCCGUACC
+Bphy_3693    -------C--G----CAAACGUU
+Bphy_5100    GC-AU--C--G----GAACAGGU
+Bphy_4637    G------A--G----ACCGGCUU
+Bphy_4701    GC-GA--U--C----CGCUUUUU
+Bphy_5002    GU-GA--A-AG----CGGACGGC
+Bphy_4520    -C-AG--C--G----CGCGCAGC
+Bphy_3816    G------G--C----GUGAGACG
+Bphy_4021    GA-CG--U--G----UCUUCGCU
+Bphy_3991    -------G--G----CGGAUGCG
+Bphy_4166    ----------G----CGUCACUC
+Bphy_3485    G---------G----GGCGGCGC
+Bphy_4413    GA-CG--C--G----CGCCGGCU
+Bphy_5382    -------C--G----CUCCCGCU
+Bphy_4057    -C-GA--U--G----C-GGCUUC
+Bphy_4027    ----------G----UCUCUUCC
+Bphy_4009    G------G--C----CGCGCAUU
+Bphy_3964    -------C--G----UGC-----
+Bphy_3149    G------C--G----CGGCGGGC
+Bphy_4916    G------C--C----CGC-----
+Bphy_3904    -------G--G----CCGCCCUU
+Bphy_5499    G------U--G----CUCCGUUU
+Bphy_3913    GC-AC--A--G----CAGGCGUG
+Bphy_3603    -------A--G----CGGGUUUU
+Bphy_3781    G------C--G----GGCGAUUU
+Bphy_5374    -------U--G----CGGGCGUU
+Bphy_3432    -------C--A----CGCGCUCG
+Bphy_4515    -------G--G----CUGGCUUU
+#=GC SS_cons >>.>>..>..>....>>>>>>>>
+#=GC RF      GC.gg..c..G....Cgggcuuu
+//

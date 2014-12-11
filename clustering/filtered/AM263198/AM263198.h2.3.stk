@@ -1,0 +1,4002 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS lwe1191 WT 1.35
+#=GS lwe1887 WT 0.91
+#=GS lwe2774 WT 1.20
+#=GS lwe1494 WT 0.91
+#=GS lwe0141 WT 0.94
+#=GS lwe0567 WT 0.96
+#=GS lwe2672 WT 0.92
+#=GS lwe2305 WT 1.08
+#=GS lwe1010 WT 1.02
+#=GS lwe2730 WT 1.11
+#=GS lwe1765 WT 1.04
+#=GS lwe2722 WT 1.14
+#=GS lwe2270 WT 0.85
+#=GS lwe0437 WT 1.14
+#=GS lwe2448 WT 1.06
+#=GS lwe0697 WT 0.97
+#=GS lwe1912 WT 0.81
+#=GS lwe2167 WT 0.92
+#=GS lwe1439 WT 0.74
+#=GS lwe0604 WT 1.01
+#=GS lwe1058 WT 1.07
+#=GS lwe0373 WT 1.04
+#=GS lwe0693 WT 0.91
+#=GS lwe2705 WT 0.94
+#=GS lwe0378 WT 1.11
+#=GS lwe1059 WT 0.95
+#=GS lwe0544 WT 1.33
+#=GS lwe0865 WT 0.93
+#=GS lwe1987 WT 0.88
+#=GS lwe0746 WT 1.02
+#=GS lwe1585 WT 1.09
+#=GS lwe0996 WT 0.93
+#=GS lwe0756 WT 1.05
+#=GS lwe0640 WT 1.07
+#=GS lwe0038 WT 0.96
+#=GS lwe1054 WT 0.74
+#=GS lwe0738 WT 1.05
+#=GS lwe2683 WT 0.89
+#=GS lwe2165 WT 1.05
+#=GS lwe2775 WT 1.50
+#=GS lwe0953 WT 1.04
+#=GS lwe1365 WT 0.68
+#=GS lwe0694 WT 0.91
+#=GS lwe2756 WT 1.36
+#=GS lwe2093 WT 0.87
+#=GS lwe2278 WT 1.03
+#=GS lwe1592 WT 0.98
+#=GS lwe0486 WT 1.05
+#=GS lwe2652 WT 0.91
+#=GS lwe1682 WT 0.99
+#=GS lwe1190 WT 1.34
+#=GS lwe2063 WT 0.98
+#=GS lwe2185 WT 1.07
+#=GS lwe0293 WT 1.09
+#=GS lwe2095 WT 0.94
+#=GS lwe0959 WT 0.81
+#=GS lwe2113 WT 0.92
+#=GS lwe0579 WT 1.09
+#=GS lwe0178 WT 0.90
+#=GS lwe1366 WT 0.68
+#=GS lwe1483 WT 1.18
+#=GS lwe0945 WT 0.95
+#=GS lwe0997 WT 0.93
+#=GS lwe2712 WT 0.92
+#=GS lwe0572 WT 1.11
+#=GS lwe1089 WT 0.94
+#=GS lwe2403 WT 1.07
+#=GS lwe0702 WT 0.87
+#=GS lwe1849 WT 1.01
+#=GS lwe0580 WT 1.04
+#=GS lwe0113 WT 0.94
+#=GS lwe1007 WT 1.09
+#=GS lwe0140 WT 0.94
+#=GS lwe1810 WT 1.14
+#=GS lwe1663 WT 0.86
+#=GS lwe0114 WT 1.13
+#=GS lwe0080 WT 1.07
+#=GS lwe0610 WT 0.91
+#=GS lwe1535 WT 0.94
+#=GS lwe1177 WT 0.85
+#=GS lwe2191 WT 1.00
+#=GS lwe2752 WT 1.09
+#=GS lwe2410 WT 1.04
+#=GS lwe1455 WT 1.01
+#=GS lwe1708 WT 0.66
+#=GS lwe0563 WT 0.92
+#=GS lwe2646 WT 0.89
+#=GS lwe1862 WT 0.97
+#=GS lwe2194 WT 0.85
+#=GS lwe2012 WT 0.98
+#=GS lwe0897 WT 0.99
+#=GS lwe1886 WT 0.91
+#=GS lwe0295 WT 1.34
+#=GS lwe2466 WT 1.12
+#=GS lwe0382 WT 0.93
+#=GS lwe1039 WT 0.95
+#=GS lwe0433 WT 1.11
+#=GS lwe2593 WT 1.06
+#=GS lwe1414 WT 1.01
+#=GS lwe1820 WT 0.98
+#=GS lwe1681 WT 1.08
+#=GS lwe2539 WT 1.02
+#=GS lwe0560 WT 1.08
+#=GS lwe1440 WT 0.74
+#=GS lwe0240 WT 0.93
+#=GS lwe2222 WT 0.92
+#=GS lwe1970 WT 1.01
+#=GS lwe1723 WT 1.14
+#=GS lwe1704 WT 0.86
+#=GS lwe1243 WT 1.06
+#=GS lwe0022 WT 1.03
+#=GS lwe0261 WT 1.12
+#=GS lwe0331 WT 0.84
+#=GS lwe0921 WT 1.01
+#=GS lwe2530 WT 1.00
+#=GS lwe1053 WT 0.74
+#=GS lwe2061 WT 1.18
+#=GS lwe2168 WT 0.91
+#=GS lwe0151 WT 1.24
+#=GS lwe0458 WT 0.88
+#=GS lwe2667 WT 1.01
+#=GS lwe0173 WT 1.05
+#=GS lwe1594 WT 0.75
+#=GS lwe1766 WT 1.07
+#=GS lwe0313 WT 1.15
+#=GS lwe0566 WT 0.85
+#=GS lwe2197 WT 0.99
+#=GS lwe0332 WT 0.84
+#=GS lwe2035 WT 1.05
+#=GS lwe0541 WT 1.00
+#=GS lwe0311 WT 0.87
+#=GS lwe0523 WT 0.84
+#=GS lwe0543 WT 1.07
+#=GS lwe1735 WT 1.09
+#=GS lwe0850 WT 1.09
+#=GS lwe1593 WT 0.75
+#=GS lwe0468 WT 0.96
+#=GS lwe2237 WT 1.04
+#=GS lwe0551 WT 1.09
+#=GS lwe0310 WT 1.00
+#=GS lwe2592 WT 0.90
+#=GS lwe2450 WT 1.21
+#=GS lwe1314 WT 1.01
+#=GS lwe1188 WT 0.88
+#=GS lwe0298 WT 0.96
+#=GS lwe2011 WT 0.89
+#=GS lwe2161 WT 1.05
+#=GS lwe2096 WT 1.05
+#=GS lwe0611 WT 1.03
+#=GS lwe0928 WT 0.81
+#=GS lwe2078 WT 1.02
+#=GS lwe1477 WT 0.84
+#=GS lwe2085 WT 1.04
+#=GS lwe1943 WT 0.93
+#=GS lwe0931 WT 0.97
+#=GS lwe1514 WT 0.89
+#=GS lwe0760 WT 1.06
+#=GS lwe1036 WT 1.35
+#=GS lwe2080 WT 1.01
+#=GS lwe1947 WT 1.15
+#=GS lwe0548 WT 0.82
+#=GS lwe2497 WT 1.11
+#=GS lwe0901 WT 1.02
+#=GS lwe2594 WT 1.07
+#=GS lwe0524 WT 0.84
+#=GS lwe0641 WT 1.09
+#=GS lwe2635 WT 0.82
+#=GS lwe2323 WT 0.81
+#=GS lwe1869 WT 0.96
+#=GS lwe0511 WT 1.16
+#=GS lwe1046 WT 0.95
+#=GS lwe2268 WT 0.76
+#=GS lwe0733 WT 0.87
+#=GS lwe2114 WT 0.92
+#=GS lwe2013 WT 1.03
+#=GS lwe2731 WT 0.85
+#=GS lwe1031 WT 0.98
+#=GS lwe0594 WT 1.04
+#=GS lwe2070 WT 0.79
+#=GS lwe2324 WT 0.81
+#=GS lwe2553 WT 0.94
+#=GS lwe1066 WT 1.29
+#=GS lwe0980 WT 0.85
+#=GS lwe0499 WT 0.83
+#=GS lwe2364 WT 1.00
+#=GS lwe2717 WT 0.99
+#=GS lwe1850 WT 0.89
+#=GS lwe1758 WT 1.06
+#=GS lwe0119 WT 0.98
+#=GS lwe0593 WT 1.01
+#=GS lwe0032 WT 1.22
+#=GS lwe0007 WT 1.00
+#=GS lwe2418 WT 0.87
+#=GS lwe2509 WT 1.13
+#=GS lwe1911 WT 0.81
+#=GS lwe0573 WT 0.97
+#=GS lwe0689 WT 0.91
+#=GS lwe2339 WT 0.87
+#=GS lwe2092 WT 0.87
+#=GS lwe0500 WT 0.92
+#=GS lwe2166 WT 0.96
+#=GS lwe2207 WT 1.01
+#=GS lwe1709 WT 0.66
+#=GS lwe2353 WT 1.06
+#=GS lwe1705 WT 0.86
+#=GS lwe1047 WT 0.95
+#=GS lwe1025 WT 1.05
+#=GS lwe1803 WT 0.83
+#=GS lwe0915 WT 1.00
+#=GS lwe2537 WT 1.07
+#=GS lwe0755 WT 0.89
+#=GS lwe2077 WT 1.09
+#=GS lwe1540 WT 0.93
+#=GS lwe2169 WT 0.85
+#=GS lwe1988 WT 0.88
+#=GS lwe2389 WT 1.00
+#=GS lwe0250 WT 0.97
+#=GS lwe1354 WT 0.99
+#=GS lwe1179 WT 1.02
+#=GS lwe0247 WT 0.96
+#=GS lwe1459 WT 1.17
+#=GS lwe1944 WT 0.93
+#=GS lwe0730 WT 0.94
+#=GS lwe2254 WT 1.25
+#=GS lwe1449 WT 0.80
+#=GS lwe0690 WT 0.88
+#=GS lwe0747 WT 0.74
+#=GS lwe2276 WT 1.10
+#=GS lwe1684 WT 0.90
+#=GS lwe1009 WT 0.97
+#=GS lwe1290 WT 0.82
+#=GS lwe2255 WT 0.88
+#=GS lwe1297 WT 0.90
+#=GS lwe1549 WT 0.94
+#=GS lwe0658 WT 1.05
+#=GS lwe1476 WT 0.84
+#=GS lwe1507 WT 0.89
+#=GS lwe2700 WT 0.71
+#=GS lwe2129 WT 1.07
+#=GS lwe1174 WT 1.06
+#=GS lwe2651 WT 1.03
+#=GS lwe0813 WT 1.05
+#=GS lwe0168 WT 1.02
+#=GS lwe0431 WT 0.97
+#=GS lwe2205 WT 1.13
+#=GS lwe0460 WT 1.21
+#=GS lwe0613 WT 0.97
+#=GS lwe0907 WT 0.88
+#=GS lwe2417 WT 1.01
+#=GS lwe0248 WT 1.32
+#=GS lwe1678 WT 0.96
+#=GS lwe0491 WT 1.08
+#=GS lwe0228 WT 1.00
+#=GS lwe0520 WT 0.97
+#=GS lwe1347 WT 0.90
+#=GS lwe1878 WT 1.29
+#=GS lwe0908 WT 0.88
+#=GS lwe2706 WT 0.97
+#=GS lwe2174 WT 1.06
+#=GS lwe0815 WT 0.92
+#=GS lwe2137 WT 0.94
+#=GS lwe1900 WT 1.23
+#=GS lwe2319 WT 0.95
+#=GS lwe1971 WT 1.04
+#=GS lwe0893 WT 1.00
+#=GS lwe2138 WT 1.10
+#=GS lwe2408 WT 1.25
+#=GS lwe2751 WT 0.97
+#=GS lwe1394 WT 0.88
+#=GS lwe2363 WT 1.00
+#=GS lwe1392 WT 0.94
+#=GS lwe2435 WT 1.04
+#=GS lwe1108 WT 1.00
+#=GS lwe0139 WT 0.99
+#=GS lwe2508 WT 1.04
+#=GS lwe2748 WT 0.94
+#=GS lwe2152 WT 1.09
+#=GS lwe0561 WT 0.94
+#=GS lwe2472 WT 1.04
+#=GS lwe2321 WT 0.96
+#=GS lwe0235 WT 1.06
+#=GS lwe0294 WT 1.03
+#=GS lwe1600 WT 0.95
+#=GS lwe2037 WT 1.11
+#=GS lwe1312 WT 0.95
+#=GS lwe2639 WT 0.92
+#=GS lwe2506 WT 1.22
+#=GS lwe0810 WT 0.90
+#=GS lwe2141 WT 0.99
+#=GS lwe2215 WT 0.96
+#=GS lwe2147 WT 1.00
+#=GS lwe0912 WT 0.91
+#=GS lwe0773 WT 0.96
+#=GS lwe2193 WT 0.85
+#=GS lwe0922 WT 1.05
+#=GS lwe0045 WT 0.94
+#=GS lwe1883 WT 0.83
+#=GS lwe0355 WT 1.21
+#=GS lwe0565 WT 0.90
+#=GS lwe0885 WT 0.97
+#=GS lwe1671 WT 0.75
+#=GS lwe1716 WT 1.00
+#=GS lwe1534 WT 0.98
+#=GS lwe2411 WT 1.05
+#=GS lwe0249 WT 0.99
+#=GS lwe0392 WT 1.13
+#=GS lwe0432 WT 0.99
+#=GS lwe1278 WT 0.87
+#=GS lwe1001 WT 1.07
+#=GS lwe0834 WT 1.01
+#=GS lwe2334 WT 0.96
+#=GS lwe2005 WT 1.15
+#=GS lwe1277 WT 0.87
+#=GS lwe2265 WT 0.88
+#=GS lwe2134 WT 1.20
+#=GS lwe0017 WT 1.03
+#=GS lwe2419 WT 0.84
+#=GS lwe2053 WT 1.20
+#=GS lwe2036 WT 1.29
+#=GS lwe1967 WT 1.03
+#=GS lwe0266 WT 0.95
+#=GS lwe1431 WT 1.05
+#=GS lwe1131 WT 1.06
+#=GS lwe0481 WT 0.86
+#=GS lwe2714 WT 0.94
+#=GS lwe2256 WT 1.20
+#=GS lwe2246 WT 0.91
+#=GS lwe0472 WT 0.91
+#=GS lwe2202 WT 1.10
+#=GS lwe0620 WT 1.01
+#=GS lwe1346 WT 0.88
+#=GS lwe2602 WT 1.00
+#=GS lwe2527 WT 0.93
+#=GS lwe1993 WT 0.87
+#=GS lwe0076 WT 0.99
+#=GS lwe2269 WT 0.76
+#=GS lwe0485 WT 1.06
+#=GS lwe2587 WT 0.96
+#=GS lwe1804 WT 0.93
+#=GS lwe0117 WT 1.25
+#=GS lwe1771 WT 1.05
+#=GS lwe1401 WT 1.10
+#=GS lwe0255 WT 0.98
+#=GS lwe1949 WT 1.10
+#=GS lwe0634 WT 1.00
+#=GS lwe0578 WT 1.10
+#=GS lwe0564 WT 0.92
+#=GS lwe0547 WT 0.82
+#=GS lwe0009 WT 1.11
+#=GS lwe0911 WT 0.91
+#=GS lwe2736 WT 1.04
+#=GS lwe0484 WT 1.09
+#=GS lwe0630 WT 1.03
+#=GS lwe0852 WT 1.13
+#=GS lwe0574 WT 1.06
+#=GS lwe1166 WT 1.06
+#=GS lwe0946 WT 0.95
+#=GS lwe0820 WT 1.05
+#=GS lwe1695 WT 1.00
+#=GS lwe0927 WT 0.81
+#=GS lwe2352 WT 0.99
+#=GS lwe1000 WT 1.01
+#=GS lwe2135 WT 1.02
+#=GS lwe2447 WT 1.20
+#=GS lwe1750 WT 1.03
+#=GS lwe2647 WT 1.40
+#=GS lwe1633 WT 1.01
+#=GS lwe0992 WT 0.74
+#=GS lwe1712 WT 0.91
+#=GS lwe0718 WT 0.91
+#=GS lwe0457 WT 1.03
+#=GS lwe0581 WT 1.00
+#=GS lwe2693 WT 1.15
+#=GS lwe2345 WT 0.92
+#=GS lwe1069 WT 1.00
+#=GS lwe2694 WT 0.94
+#=GS lwe1513 WT 0.89
+#=GS lwe2230 WT 1.04
+#=GS lwe0096 WT 1.09
+#=GS lwe2236 WT 0.96
+#=GS lwe1306 WT 0.94
+#=GS lwe0940 WT 0.90
+#=GS lwe2415 WT 0.95
+#=GS lwe1097 WT 1.08
+#=GS lwe2713 WT 0.92
+#=GS lwe2106 WT 1.12
+#=GS lwe0987 WT 1.02
+#=GS lwe2228 WT 1.06
+#=GS lwe2149 WT 1.02
+#=GS lwe1522 WT 1.00
+#=GS lwe0842 WT 0.89
+#=GS lwe1170 WT 1.10
+#=GS lwe0466 WT 0.92
+#=GS lwe2017 WT 1.03
+#=GS lwe0823 WT 0.97
+#=GS lwe1432 WT 1.04
+#=GS lwe2208 WT 1.00
+#=GS lwe2272 WT 0.90
+#=GS lwe1732 WT 0.95
+#=GS lwe1551 WT 1.04
+#=GS lwe1275 WT 0.99
+#=GS lwe1733 WT 1.14
+#=GS lwe0525 WT 0.83
+#=GS lwe1493 WT 0.93
+#=GS lwe2426 WT 1.12
+#=GS lwe2456 WT 1.01
+#=GS lwe0618 WT 0.96
+#=GS lwe2071 WT 0.79
+#=GS lwe0046 WT 1.02
+#=GS lwe1762 WT 1.08
+#=GS lwe0465 WT 0.94
+#=GS lwe0896 WT 0.88
+#=GS lwe0961 WT 0.98
+#=GS lwe1713 WT 0.91
+#=GS lwe1268 WT 0.93
+#=GS lwe2701 WT 0.71
+#=GS lwe0216 WT 0.89
+#=GS lwe2399 WT 1.08
+#=GS lwe1800 WT 0.93
+#=GS lwe2132 WT 1.40
+#=GS lwe1715 WT 0.92
+#=GS lwe1753 WT 1.03
+#=GS lwe0966 WT 1.15
+#=GS lwe2476 WT 1.15
+#=GS lwe0226 WT 0.93
+#=GS lwe0731 WT 0.99
+#=GS lwe2779 WT 1.04
+#=GS lwe2402 WT 1.05
+#=GS lwe1739 WT 1.08
+#=GS lwe1315 WT 0.78
+#=GS lwe1532 WT 0.89
+#=GS lwe1146 WT 0.92
+#=GS lwe1245 WT 0.91
+#=GS lwe1175 WT 1.06
+#=GS lwe2231 WT 1.10
+#=GS lwe1653 WT 0.88
+#=GS lwe0734 WT 0.87
+#=GS lwe0958 WT 0.81
+#=GS lwe0848 WT 0.99
+#=GS lwe2216 WT 0.96
+#=GS lwe0033 WT 0.92
+#=GS lwe1512 WT 1.14
+#=GS lwe1620 WT 0.75
+#=GS lwe2381 WT 0.98
+#=GS lwe0106 WT 0.93
+#=GS lwe1537 WT 0.85
+#=GS lwe0169 WT 1.01
+#=GS lwe1679 WT 0.88
+#=GS lwe2148 WT 1.02
+#=GS lwe0892 WT 1.00
+#=GS lwe2442 WT 1.05
+#=GS lwe1774 WT 1.37
+#=GS lwe1071 WT 1.09
+#=GS lwe1599 WT 0.95
+#=GS lwe2340 WT 0.87
+#=GS lwe0701 WT 1.09
+#=GS lwe2718 WT 1.01
+#=GS lwe2343 WT 0.96
+#=GS lwe0148 WT 1.10
+#=GS lwe0554 WT 0.87
+#=GS lwe2333 WT 1.16
+#=GS lwe1015 WT 1.00
+#=GS lwe0494 WT 0.84
+#=GS lwe2316 WT 0.99
+#=GS lwe0246 WT 1.03
+#=GS lwe0887 WT 1.02
+#=GS lwe1654 WT 1.01
+#=GS lwe1915 WT 0.97
+#=GS lwe2390 WT 0.88
+#=GS lwe2284 WT 1.00
+#=GS lwe0316 WT 1.14
+#=GS lwe2459 WT 1.13
+#=GS lwe0252 WT 1.01
+#=GS lwe0264 WT 1.02
+#=GS lwe2318 WT 1.28
+#=GS lwe0983 WT 0.89
+#=GS lwe0384 WT 0.92
+#=GS lwe2462 WT 0.83
+#=GS lwe2491 WT 1.04
+#=GS lwe0526 WT 0.83
+#=GS lwe0341 WT 0.98
+#=GS lwe1379 WT 0.96
+#=GS lwe1424 WT 0.92
+#=GS lwe2027 WT 0.95
+#=GS lwe0398 WT 0.91
+#=GS lwe0881 WT 1.21
+#=GS lwe2619 WT 1.09
+#=GS lwe2436 WT 1.05
+#=GS lwe1719 WT 1.15
+#=GS lwe2725 WT 1.00
+#=GS lwe1782 WT 1.08
+#=GS lwe1798 WT 1.09
+#=GS lwe0019 WT 1.01
+#=GS lwe0622 WT 1.18
+#=GS lwe1506 WT 1.01
+#=GS lwe0112 WT 0.96
+#=GS lwe1264 WT 0.82
+#=GS lwe1024 WT 0.96
+#=GS lwe0982 WT 0.89
+#=GS lwe0859 WT 0.85
+#=GS lwe2634 WT 0.82
+#=GS lwe0937 WT 1.01
+#=GS lwe0063 WT 0.97
+#=GS lwe2532 WT 1.31
+#=GS lwe2391 WT 0.88
+#=GS lwe2677 WT 1.17
+#=GS lwe0428 WT 1.16
+#=GS lwe2546 WT 1.13
+#=GS lwe0737 WT 1.09
+#=GS lwe0740 WT 1.18
+#=GS lwe0752 WT 1.08
+#=GS lwe1446 WT 1.01
+#=GS lwe0075 WT 1.03
+#=GS lwe1609 WT 1.04
+#=GS lwe0030 WT 1.00
+#=GS lwe1423 WT 1.13
+#=GS lwe0366 WT 1.02
+#=GS lwe2640 WT 0.92
+#=GS lwe0858 WT 0.84
+#=GS lwe2772 WT 0.96
+#=GS lwe1403 WT 0.99
+#=GS lwe2337 WT 1.11
+#=GS lwe1891 WT 0.84
+#=GS lwe2754 WT 1.23
+#=GS lwe0659 WT 0.97
+#=GS lwe1226 WT 1.16
+#=GS lwe0383 WT 0.96
+#=GS lwe0806 WT 1.43
+#=GS lwe2649 WT 0.94
+#=GS lwe1181 WT 1.02
+#=GS lwe0596 WT 1.12
+#=GS lwe2654 WT 1.04
+#=GS lwe1689 WT 1.08
+#=GS lwe1809 WT 0.90
+#=GS lwe1836 WT 1.06
+#=GS lwe2039 WT 1.15
+#=GS lwe1395 WT 0.88
+#=GS lwe0002 WT 1.14
+#=GS lwe0930 WT 0.88
+#=GS lwe0586 WT 0.95
+#=GS lwe1304 WT 0.92
+#=GS lwe2180 WT 1.11
+#=GS lwe1621 WT 0.96
+#=GS lwe1374 WT 1.15
+#=GS lwe2173 WT 1.03
+#=GS lwe2025 WT 1.09
+#=GS lwe1305 WT 1.08
+#=GS lwe0758 WT 1.05
+#=GS lwe0979 WT 0.85
+#=GS lwe1818 WT 1.25
+#=GS lwe1676 WT 1.01
+#=GS lwe1605 WT 0.91
+#=GS lwe0608 WT 1.13
+#=GS lwe1390 WT 1.02
+#=GS lwe1084 WT 1.00
+#=GS lwe0817 WT 1.06
+#=GS lwe2759 WT 0.97
+#=GS lwe1962 WT 0.95
+#=GS lwe0787 WT 0.91
+#=GS lwe2760 WT 1.05
+#=GS lwe1169 WT 1.01
+#=GS lwe2535 WT 1.28
+#=GS lwe2213 WT 1.12
+#=GS lwe1273 WT 0.97
+#=GS lwe1690 WT 0.87
+#=GS lwe1464 WT 1.03
+#=GS lwe2084 WT 1.01
+#=GS lwe2606 WT 0.95
+#=GS lwe0086 WT 1.02
+#=GS lwe0602 WT 1.00
+#=GS lwe0833 WT 0.75
+#=GS lwe2380 WT 0.94
+#=GS lwe1725 WT 0.82
+#=GS lwe0441 WT 1.13
+#=GS lwe0991 WT 1.03
+#=GS lwe1011 WT 1.08
+#=GS lwe0091 WT 0.98
+#=GS lwe0496 WT 0.95
+#=GS lwe0919 WT 1.05
+#=GS lwe1548 WT 1.02
+#=GS lwe2285 WT 0.97
+#=GS lwe1284 WT 1.12
+#=GS lwe1864 WT 1.20
+#=GS lwe1791 WT 1.06
+#=GS lwe1749 WT 0.86
+#=GS lwe2586 WT 0.94
+#=GS lwe1145 WT 0.92
+#=GS lwe0308 WT 1.06
+#=GS lwe0587 WT 0.95
+#=GS lwe2100 WT 1.00
+#=GS lwe2322 WT 0.96
+#=GS lwe2292 WT 0.85
+#=GS lwe0793 WT 1.50
+#=GS lwe1997 WT 1.04
+#=GS lwe0390 WT 0.98
+#=GS lwe1924 WT 1.06
+#=GS lwe2010 WT 1.01
+#=GS lwe1448 WT 0.80
+#=GS lwe1098 WT 1.01
+#=GS lwe2747 WT 0.94
+#=GS lwe2249 WT 1.00
+#=GS lwe1318 WT 0.88
+#=GS lwe0782 WT 1.03
+#=GS lwe1276 WT 1.10
+#=GS lwe0811 WT 0.99
+#=GS lwe1492 WT 1.00
+#=GS lwe2108 WT 0.97
+#=GS lwe0963 WT 1.05
+#=GS lwe0832 WT 0.91
+#=GS lwe1731 WT 1.09
+#=GS lwe0761 WT 0.99
+#=GS lwe0469 WT 0.91
+#=GS lwe0805 WT 1.03
+#=GS lwe1125 WT 0.94
+#=GS lwe1259 WT 1.02
+#=GS lwe1285 WT 1.12
+#=GS lwe1630 WT 0.86
+#=GS lwe1183 WT 1.00
+#=GS lwe0706 WT 1.07
+#=GS lwe2150 WT 1.14
+#=GS lwe1767 WT 0.98
+#=GS lwe1696 WT 0.96
+#=GS lwe2344 WT 0.99
+#=GS lwe2488 WT 0.84
+#=GS lwe0539 WT 0.94
+#=GS lwe0273 WT 1.18
+#=GS lwe0744 WT 0.95
+#=GS lwe1837 WT 1.08
+#=GS lwe2726 WT 0.85
+#=GS lwe1685 WT 1.24
+#=GS lwe0196 WT 0.90
+#=GS lwe2296 WT 0.87
+#=GS lwe0475 WT 0.86
+#=GS lwe1919 WT 1.00
+#=GS lwe2470 WT 1.08
+#=GS lwe1607 WT 0.95
+#=GS lwe1539 WT 0.90
+#=GS lwe2089 WT 0.97
+#=GS lwe0816 WT 0.92
+#=GS lwe2204 WT 0.74
+#=GS lwe0342 WT 0.93
+#=GS lwe2423 WT 1.18
+#=GS lwe1531 WT 0.84
+#=GS lwe1779 WT 1.04
+#=GS lwe1488 WT 1.00
+#=GS lwe0801 WT 1.10
+#=GS lwe0971 WT 1.02
+#=GS lwe2732 WT 0.98
+#=GS lwe1612 WT 1.00
+#=GS lwe0736 WT 0.92
+#=GS lwe0361 WT 1.00
+#=GS lwe0018 WT 1.01
+#=GS lwe1866 WT 0.86
+#=GS lwe1890 WT 1.03
+#=GS lwe0209 WT 1.11
+#=GS lwe1355 WT 1.02
+#=GS lwe1619 WT 0.75
+#=GS lwe1320 WT 0.91
+#=GS lwe1874 WT 1.01
+#=GS lwe0451 WT 1.03
+#=GS lwe0552 WT 1.00
+#=GS lwe2218 WT 1.01
+#=GS lwe2286 WT 0.92
+#=GS lwe0092 WT 1.05
+#=GS lwe0093 WT 1.08
+#=GS lwe1650 WT 0.92
+#=GS lwe1074 WT 0.94
+#=GS lwe1056 WT 0.87
+#=GS lwe1411 WT 1.03
+#=GS lwe2079 WT 1.01
+#=GS lwe1242 WT 1.06
+#=GS lwe1467 WT 1.00
+#=GS lwe1334 WT 1.01
+#=GS lwe2452 WT 1.05
+#=GS lwe1048 WT 0.99
+#=GS lwe0155 WT 1.06
+#=GS lwe0862 WT 0.97
+#=GS lwe2074 WT 1.06
+#=GS lwe0438 WT 0.95
+#=GS lwe0230 WT 1.02
+#=GS lwe0990 WT 0.95
+#=GS lwe2026 WT 0.99
+#=GS lwe0898 WT 1.12
+#=GS lwe1861 WT 0.88
+#=GS lwe1584 WT 1.08
+#=GS lwe1822 WT 0.93
+#=GS lwe0435 WT 1.03
+#=GS lwe1768 WT 1.00
+#=GS lwe1499 WT 1.03
+#=GS lwe0181 WT 1.25
+#=GS lwe1639 WT 0.98
+#=GS lwe0476 WT 0.89
+#=GS lwe0445 WT 1.04
+#=GS lwe2123 WT 1.14
+#=GS lwe0434 WT 1.07
+#=GS lwe1451 WT 0.98
+#=GS lwe0621 WT 1.08
+#=GS lwe2259 WT 1.01
+#=GS lwe0172 WT 0.98
+#=GS lwe1815 WT 0.97
+#=GS lwe0238 WT 1.04
+#=GS lwe0459 WT 0.99
+#=GS lwe1668 WT 1.03
+#=GS lwe2294 WT 0.94
+#=GS lwe2538 WT 1.18
+#=GS lwe0495 WT 0.84
+#=GS lwe1182 WT 0.94
+#=GS lwe1521 WT 0.95
+#=GS lwe0105 WT 0.93
+#=GS lwe2690 WT 0.97
+#=GS lwe0588 WT 1.08
+#=GS lwe1013 WT 1.09
+#=GS lwe2209 WT 1.13
+#=GS lwe0271 WT 1.03
+#=GS lwe2151 WT 0.96
+#=GS lwe2758 WT 0.95
+#=GS lwe0462 WT 0.89
+#=GS lwe1718 WT 0.97
+#=GS lwe1614 WT 0.94
+#=GS lwe2303 WT 0.89
+#=GS lwe2518 WT 1.05
+#=GS lwe0748 WT 0.74
+#=GS lwe2181 WT 0.92
+#=GS lwe0191 WT 1.15
+#=GS lwe1994 WT 0.87
+#=GS lwe1409 WT 1.02
+#=GS lwe2510 WT 1.18
+#=GS lwe1865 WT 0.96
+#=GS lwe2562 WT 1.31
+#=GS lwe0474 WT 0.89
+#=GS lwe2585 WT 1.36
+#=GS lwe1442 WT 0.94
+#=GS lwe1819 WT 0.99
+#=GS lwe0934 WT 0.95
+#=GS lwe1726 WT 0.82
+#=GS lwe0368 WT 0.99
+#=GS lwe2618 WT 0.98
+#=GS lwe0111 WT 0.96
+#=GS lwe1049 WT 1.06
+#=GS lwe2227 WT 1.01
+#=GS lwe0517 WT 0.90
+#=GS lwe0183 WT 0.88
+#=GS lwe0480 WT 0.86
+#=GS lwe1571 WT 0.91
+#=GS lwe1101 WT 1.18
+#=GS lwe2554 WT 0.89
+#=GS lwe0753 WT 1.34
+#=GS lwe1280 WT 0.85
+#=GS lwe1641 WT 0.94
+#=GS lwe2392 WT 1.11
+#=GS lwe2224 WT 1.00
+#=GS lwe2680 WT 1.08
+#=GS lwe0074 WT 1.06
+#=GS lwe0878 WT 1.06
+#=GS lwe2374 WT 1.10
+#=GS lwe2136 WT 1.00
+#=GS lwe0087 WT 1.00
+#=GS lwe2515 WT 0.94
+#=GS lwe0186 WT 0.88
+#=GS lwe0452 WT 0.96
+#=GS lwe0642 WT 1.00
+#=GS lwe1657 WT 1.02
+#=GS lwe1623 WT 0.90
+#=GS lwe0192 WT 1.02
+#=GS lwe1316 WT 0.78
+#=GS lwe0037 WT 0.88
+#=GS lwe0981 WT 0.96
+#=GS lwe0269 WT 0.94
+#=GS lwe2659 WT 1.22
+#=GS lwe2336 WT 0.96
+#=GS lwe0170 WT 1.07
+#=GS lwe1631 WT 0.95
+#=GS lwe0575 WT 1.11
+#=GS lwe1780 WT 1.00
+#=GS lwe0607 WT 1.01
+#=GS lwe0964 WT 0.97
+#=GS lwe0483 WT 1.04
+#=GS lwe1658 WT 0.93
+#=GS lwe0705 WT 1.03
+#=GS lwe2250 WT 0.94
+#=GS lwe1955 WT 1.12
+#=GS lwe0013 WT 0.95
+#=GS lwe1356 WT 1.15
+#=GS lwe0153 WT 1.12
+#=GS lwe1909 WT 1.03
+#=GS lwe1070 WT 1.07
+#=GS lwe1542 WT 0.98
+#=GS lwe0279 WT 1.11
+#=GS lwe1835 WT 0.97
+#=GS lwe0538 WT 1.03
+#=GS lwe1626 WT 0.97
+#=GS lwe1964 WT 1.03
+#=GS lwe1588 WT 1.01
+#=GS lwe2432 WT 1.07
+#=GS lwe0601 WT 0.93
+#=GS lwe0984 WT 1.08
+#=GS lwe0838 WT 0.99
+#=GS lwe1902 WT 0.97
+#=GS lwe0839 WT 0.98
+#=GS lwe0449 WT 1.07
+#=GS lwe2300 WT 1.38
+#=GS lwe0781 WT 1.03
+#=GS lwe0941 WT 0.96
+#=GS lwe2124 WT 0.99
+#=GS lwe1487 WT 1.20
+#=GS lwe1427 WT 0.93
+#=GS lwe1528 WT 0.91
+#=GS lwe2219 WT 1.13
+#=GS lwe1261 WT 0.95
+#=GS lwe0185 WT 1.01
+#=GS lwe2660 WT 0.99
+#=GS lwe1636 WT 1.03
+#=GS lwe2591 WT 1.04
+#=GS lwe1747 WT 1.17
+#=GS lwe1896 WT 0.97
+#=GS lwe0974 WT 0.92
+#=GS lwe1260 WT 0.95
+#=GS lwe0430 WT 0.98
+#=GS lwe2128 WT 0.99
+#=GS lwe2601 WT 0.94
+#=GS lwe1683 WT 1.03
+#=GS lwe1256 WT 0.99
+#=GS lwe1232 WT 0.98
+#=GS lwe0629 WT 0.94
+#=GS lwe0754 WT 1.11
+#=GS lwe1381 WT 1.04
+#=GS lwe1550 WT 0.94
+#=GS lwe1099 WT 0.94
+#=GS lwe1553 WT 0.88
+#=GS lwe0128 WT 0.99
+#=GS lwe1616 WT 0.49
+#=GS lwe1738 WT 0.97
+#=GS lwe1743 WT 0.86
+#=GS lwe1415 WT 1.01
+#=GS lwe1407 WT 0.99
+#=GS lwe2686 WT 0.91
+#=GS lwe0571 WT 1.07
+#=GS lwe0381 WT 0.91
+#=GS lwe2252 WT 1.40
+#=GS lwe1310 WT 1.02
+#=GS lwe1565 WT 1.06
+#=GS lwe1635 WT 0.90
+#=GS lwe0450 WT 1.09
+#=GS lwe2637 WT 1.07
+#=GS lwe1308 WT 0.92
+#=GS lwe1674 WT 1.00
+#=GS lwe0351 WT 1.11
+#=GS lwe1797 WT 0.90
+#=GS lwe1617 WT 0.98
+#=GS lwe2765 WT 0.91
+#=GS lwe0844 WT 0.98
+#=GS lwe0583 WT 0.99
+#=GS lwe0220 WT 1.15
+#=GS lwe2206 WT 0.96
+#=GS lwe1675 WT 1.10
+#=GS lwe2004 WT 1.14
+#=GS lwe2387 WT 1.67
+#=GS lwe1572 WT 0.97
+#=GS lwe1525 WT 1.07
+#=GS lwe2541 WT 0.94
+#=GS lwe2107 WT 1.02
+#=GS lwe0605 WT 1.16
+#=GS lwe2544 WT 0.87
+#=GS lwe1461 WT 0.91
+#=GS lwe1265 WT 0.82
+#=GS lwe0116 WT 1.04
+#=GS lwe2650 WT 0.94
+#=GS lwe0687 WT 0.98
+#=GS lwe0749 WT 1.02
+#=GS lwe2271 WT 0.90
+#=GS lwe0725 WT 0.97
+#=GS lwe2372 WT 1.14
+#=GS lwe0518 WT 1.06
+#=GS lwe1418 WT 1.16
+#=GS lwe1794 WT 0.85
+#=GS lwe2225 WT 1.01
+#=GS lwe1302 WT 1.00
+#=GS lwe0145 WT 1.04
+#=GS lwe0149 WT 1.10
+#=GS lwe0559 WT 1.02
+#=GS lwe1582 WT 1.02
+#=GS lwe1267 WT 0.98
+#=GS lwe2287 WT 1.01
+#=GS lwe2542 WT 0.94
+#=GS lwe0831 WT 1.07
+#=GS lwe0389 WT 0.98
+#=GS lwe2661 WT 0.99
+#=GS lwe0164 WT 1.01
+#=GS lwe0221 WT 1.04
+#=GS lwe0272 WT 0.99
+#=GS lwe1893 WT 0.99
+#=GS lwe2735 WT 0.83
+#=GS lwe0337 WT 1.18
+#=GS lwe0759 WT 0.96
+#=GS lwe1167 WT 1.03
+#=GS lwe2335 WT 0.97
+#=GS lwe0889 WT 0.94
+#=GS lwe0549 WT 0.99
+#=GS lwe0090 WT 1.08
+#=GS lwe0830 WT 1.13
+#=GS lwe2525 WT 0.83
+#=GS lwe0797 WT 0.97
+#=GS lwe0808 WT 1.10
+#=GS lwe0933 WT 1.03
+#=GS lwe0995 WT 1.13
+#=GS lwe2431 WT 1.25
+#=GS lwe0989 WT 0.91
+#=GS lwe1249 WT 0.97
+#=GS lwe2162 WT 0.97
+#=GS lwe2740 WT 1.40
+#=GS lwe2486 WT 0.99
+#=GS lwe1845 WT 1.03
+#=GS lwe2396 WT 1.07
+#=GS lwe1402 WT 0.97
+#=GS lwe1032 WT 0.98
+#=GS lwe0354 WT 1.08
+#=GS lwe2474 WT 0.94
+#=GS lwe1638 WT 0.96
+#=GS lwe2112 WT 1.13
+#=GS lwe2608 WT 1.20
+#=GS lwe1552 WT 1.14
+#=GS lwe2453 WT 0.91
+#=GS lwe1370 WT 0.98
+#=GS lwe0158 WT 1.10
+#=GS lwe0214 WT 1.00
+#=GS lwe2776 WT 1.25
+#=GS lwe2121 WT 1.03
+#=GS lwe1730 WT 0.88
+#=GS lwe0254 WT 1.06
+#=GS lwe2326 WT 0.96
+#=GS lwe1557 WT 1.03
+#=GS lwe2439 WT 1.14
+#=GS lwe1422 WT 1.07
+#=GS lwe2514 WT 0.99
+#=GS lwe2502 WT 1.60
+#=GS lwe2295 WT 0.96
+#=GS lwe0695 WT 0.92
+#=GS lwe0218 WT 0.95
+#=GS lwe0751 WT 1.02
+#=GS lwe1995 WT 1.08
+#=GS lwe1457 WT 0.97
+#=GS lwe1241 WT 1.01
+#=GS lwe1469 WT 1.04
+#=GS lwe0954 WT 1.13
+#=GS lwe2187 WT 0.49
+#=GS lwe0467 WT 0.95
+#=GS lwe2665 WT 0.87
+#=GS lwe1430 WT 1.10
+#=GS lwe1632 WT 1.10
+#=GS lwe0624 WT 1.08
+#=GS lwe2127 WT 1.01
+#=GS lwe0750 WT 0.93
+#=GS lwe2494 WT 0.92
+#=GS lwe0863 WT 0.95
+#=GS lwe0085 WT 0.97
+#=GS lwe0028 WT 0.95
+#=GS lwe1014 WT 1.12
+#=GS lwe0330 WT 1.03
+#=GS lwe1860 WT 1.13
+#=GS lwe1498 WT 1.02
+#=GS lwe2273 WT 0.99
+#=GS lwe1858 WT 1.10
+#=GS lwe0372 WT 0.96
+#=GS lwe1042 WT 0.92
+#=GS lwe0628 WT 0.70
+#=GS lwe0124 WT 1.02
+#=GS lwe2529 WT 1.02
+#=GS lwe1041 WT 0.92
+#=GS lwe1300 WT 0.84
+#=GS lwe1628 WT 0.85
+#=GS lwe2703 WT 1.10
+#=GS lwe0501 WT 1.13
+#=GS lwe0627 WT 0.70
+#=GS lwe1965 WT 1.03
+#=GS lwe1301 WT 0.84
+#=GS lwe1591 WT 1.18
+#=GS lwe0436 WT 1.12
+#=GS lwe2673 WT 1.01
+#=GS lwe0916 WT 1.00
+#=GS lwe0084 WT 1.00
+#=GS lwe1322 WT 1.00
+#=GS lwe0976 WT 0.97
+#=GS lwe2467 WT 1.05
+#=GS lwe0904 WT 0.90
+#=GS lwe0703 WT 1.02
+#=GS lwe1045 WT 1.04
+#=GS lwe1629 WT 1.05
+#=GS lwe1664 WT 0.86
+#=GS lwe0739 WT 1.20
+#=GS lwe2240 WT 1.03
+#=GS lwe1258 WT 1.10
+#=GS lwe0952 WT 1.10
+#=GS lwe0905 WT 0.90
+#=GS lwe2279 WT 1.43
+#=GS lwe2682 WT 0.99
+#=GS lwe0977 WT 1.10
+#=GS lwe1321 WT 0.95
+
+lwe1191      AUAAGC-----U-UGAG----------------------------GUAAC
+lwe1887      AUCCAG-----A-UGGC-AGUCU------------------UACCGAUUG
+lwe2774      AGAGUA-----C-GGAG-AUAUAUCCUUGA-----UUGGGAAUGUAUAUC
+lwe1494      AUAGCU-----U-UGUC-AC-------------------------UAAAG
+lwe0141      UGGAAC-----A-GUAA-ACGAU-------------------AAAUCGUC
+lwe0567      GAAGUG-----U-AUUU-ACU-----------------------AAAAAA
+lwe2672      AAUAGA-----A-GUUC-UCA-----------------------UUGGAG
+lwe2305      GCGGGA-----G-UUCU-U--------------------------UAAAG
+lwe1010      GAAGAC----CG-GAGC-CAA-----------------------UAUCAG
+lwe2730      CCCGUU-----A-GACU-UUUUU-------------------AAAGAAAA
+lwe1765      UCAUUU-----U-UCUG-UACG---------------------UUAAAAC
+lwe2722      ACAGGA-----A-ACUU-U--------------------------UUAUA
+lwe2270      GCGUCU-----A-CCUG----------------------------AAUUC
+lwe0437      ACUGUA-----A-ACAA-AAAU--------------------AAUGUCUU
+lwe2448      AUCCUG-----U-AGGA-AUGAAU-----------------GUAAUCUUU
+lwe0697      UAGACU-----G-UAAC-AAGAUGAG------------AAAUCAUUUUGG
+lwe1912      AAGAGA-----A-GACG-A--------------------------AACUC
+lwe2167      ACUGCU-----U-UAUC-CA------------------------UUUAUG
+lwe1439      GAAGCU-----A-GGUG-GUGU---------------------AUAAACC
+lwe0604      AAGAGA-----G-UAGG-UGU-----------------------UUAAUC
+lwe1058      AAGGAU-----A-UACA-CUUAGCUG-------------UUAAGCUAAAU
+lwe0373      AAACCC-----A-GCAA-UUUCUU-----------------AAAUGAAAU
+lwe0693      CGUUGG-----A-AAGC-AUU----------------------AUCUGUG
+lwe2705      GCAGGA-----A-UCUC-UUC-----------------------CAAAAG
+lwe0378      AAGUGG-----U-AGUU-GAAAUGAG-------------CAAUCAUUUUG
+lwe1059      AGGAUA-----U-ACAU-UUAGCUU---------------AACAGCUAAG
+lwe0544      CGUACC----AA-AAUC-UAU-----------------------UGAGAG
+lwe0865      AAAAAC-----U-GCGC-AC-------------------------GUUAG
+lwe1987      AGGAUU-----U-GGGC-UC-------------------------ACUCG
+lwe0746      GGCAAU-----C-AUUC-GCUAAAGCA----------AGCAGUUUUAACG
+lwe1585      GAUGCU-----U-UCCU-UA------------------------AUCUUG
+lwe0996      GACGUA-----A-AUUC-GUUCUC----------------AAAAUGAGCG
+lwe0756      CAUCUC-----U-UGUU-CAUU--------------------CAUUUUU-
+lwe0640      ACACUU-----G-GAGU-GCUAG-------------------ACUUUAU-
+lwe0038      GCAACC-----U-GUGA-UUA-----------------------UUCUUU
+lwe1054      GCUUCU-----U-ACUA-A--------------------------UAAAU
+lwe0738      ACGCCA-----U-GCUC-CGUUUUCCUA--------AAAAUAGGAAAGUG
+lwe2683      CCCGCU-----A-ACCU-UA-------------------------AAUCA
+lwe2165      CGUUUG-----U-AUUU-UAGAAAAAA-----------UUACUUUUCUUA
+lwe2775      ACGGAG-----A-UAUA-CAUUCCC---------------AAUCAAGGAU
+lwe0953      UCCAAA-----A-GUAG-UUU-----------------------UAAGAC
+lwe1365      AAAUCC-----U-UGUC-AUGAA-------------------UUUUCAUG
+lwe0694      CGUUGG-----A-GAGC-ACA----------------------GAUAAUG
+lwe2756      GUGUGA-----G-AAUU-GC------------------------UUUAA-
+lwe2093      ACCUGU-----A-GAAG-GUAAGCG---------------UAAACUUACU
+lwe2278      AAAAGU-----U-AG------------------------------AAUUU
+lwe1592      CAGCGA-----A-CUUC-CC-------------------------AGAGG
+lwe0486      UCCGCG-----A-UUUC-CAU-----------------------CUAAAG
+lwe2652      AAAAUC-----U-ACUA-AACCA------------------UUUCGGAAU
+lwe1682      GAAAAC-----C-UAGA-CUGGCUAUU-----------AAUUAGCUUUGU
+lwe1190      AAAAUA-----A-GCUU-G--------------------------AAGUA
+lwe2063      ACCAGA-----A-GCAA-AAAUCGAUU-----------UGUACGAUUUUU
+lwe2185      CGAAAG-----U-UAGA-CC------------------------AAAAAU
+lwe0293      CCCAGGU---UU-GCCC-UUU----------------------UAGAGAG
+lwe2095      GCGUGC-----G-GGAA-A--------------------------UGAAC
+lwe0959      UAGUUA-----U-UUCU-UUUAUCU--------------UUUAUAUAGAA
+lwe2113      GGGAUG-----G-AAAU-CUAA---------------------AAUUAGA
+lwe0579      AGUCGU-----G-ACUU-GA------------------------AUAUUA
+lwe0178      AACGUU-----U-GAAA-UCGCGCA--------------CCUUAGCCGAU
+lwe1366      AAAUCC-----U-UGUC-AUGAA-------------------AAUUCAUG
+lwe1483      CAGGGU----UC-CUUC-GUA----------------------UUAUAUG
+lwe0945      AGUAGC-----A-ACCU-AG-------------------------GAAUG
+lwe0997      GACGUA-----A-AUUC-GCUCAU----------------UUUGAGAACG
+lwe2712      GCGUGU-----A-GGUC-A--------------------------CGAAA
+lwe0572      AAUGUC-----U-AUUC-UAGUUGAA-------------AAAUCAAUUAG
+lwe1089      AGCUUG-----U-GAUA-GAG-----------------------AUGCCU
+lwe2403      GCUCCG-----C-GAAA-AGU-----------------------AAUAUU
+lwe0702      CUAAGG-----C-GCUC-UUCCAUG---------------AAAAAGAAAG
+lwe1849      GAGAAG-----U-UCAC-CUCC--------------------AAAAAUGG
+lwe0580      GAAGUC-----G-UGAC-UUAA--------------------UAUUCAAG
+lwe0113      AUUGGU-----U-GGU-GUGAGAAUGGCA------AUUUACCAAAUUCA-
+lwe1007      CCUCAU-----A-AAUA-UAAAAGAUAGC------AUGAAACAUCUUUAU
+lwe0140      UGGAAC-----A-GCAG-ACGAU-------------------UUAUCGUU
+lwe1810      ACUAGA-----A-AACC-AA------------------------UAGCUG
+lwe1663      GACAGC-----U-UCC-----------------------------GCUCG
+lwe0114      AUUGGU-----U-GGUG-UG-------------------------AAUU-
+lwe0080      GAUAGG-----A-UAUG-UUGCA-------------------CUUGUGAC
+lwe0610      GGAAGU-----U-UCCA-UC------------------------GAUUUU
+lwe1535      GCAAUC-----A-UUCA-GAUG---------------------GAAAAAU
+lwe1177      GAACUA-----A-UCUA-UUUGGAAA------------ACAUUUCUAUAU
+lwe2191      AACCUA-----A-UCAG-UA-------------------------AUUAU
+lwe2752      AGGCAA-----A-CAGC-U--------------------------AUAUG
+lwe2410      ACGUUU-----U-UUGC-CC------------------------CACAAG
+lwe1455      CCCACA-----U-UCUU----------------------------UCAUA
+lwe1708      GAAGAC-----C-CGGA----------------------------AUUUU
+lwe0563      GCGAAA-----U-CAGC-GGU-----------------------UGAUGG
+lwe2646      ACCCUU-----G-AACU-U--------------------------UCACA
+lwe1862      GCAAGU-----A-ACGA-AAC----------------------UAAAACU
+lwe2194      UCCGUU-----A-UCCU-GAA-----------------------AAUUUA
+lwe2012      AACUCC-----U-CUA-----------------------------UUUUU
+lwe0897      AACCUC-----C-AAAA-UUAGAUCU------------AAAAAUCUAAUU
+lwe1886      AUCCAG-----A-UGGC-AAUCG------------------GUAAGACUG
+lwe0295      UAGGCU-----G-UUUG-AUUUC-------------------CAGGAAAC
+lwe2466      CUCCCA-----A-CAAC-UUG----------------------UUAAUAG
+lwe0382      GCUAAG-----U-CAGC-AAAA---------------------UUUUUCG
+lwe1039      ACAGAU-----A-GAGU-UCA-----------------------UAUGAA
+lwe0433      GCAACC-----U-AGUU----------------------------UUGGA
+lwe2593      AACCCU-----U-GUGA-ACUU--------------------UUCAUGCU
+lwe1414      UACGCA-----G-UAGG-AAUU---------------------UUACUUC
+lwe1820      AGCCAA-----A-ACCG-A--------------------------AGUUC
+lwe1681      AAACCU-----A-GACA-AAG-----------------------CUAAUU
+lwe2539      ACUAAC-----U-AGUC-AUUU---------------------UUUAUUG
+lwe0560      AAGUUA-----C-CUCG-GAU-----------------------AUUUUC
+lwe1440      GAAGCU-----A-AGUG-GUUU---------------------AUACACC
+lwe0240      GAUAAG-----G-AAAC-UU------------------------UUAUCG
+lwe2222      AGCCUC-----U-UUCC-AG------------------------ACAAUG
+lwe1970      AUCCGU-----G-CGCU-UAUG---------------------UUUUAAA
+lwe1723      ACAGCC-----A-UGCA-U--------------------------UCUUU
+lwe1704      ACGAGC----UU-GGAG-A--------------------------UAAAC
+lwe1243      CCCCCU-----A-ACC-----------------------------UCAAC
+lwe0022      AAGCAG-----A-AGUC----------------------------UUAUG
+lwe0261      AUGGUC----GC-UAAG-GUG-----------------------AAAACU
+lwe0331      UGGCUC-----U-GCUA-AU-------------------------UAUUU
+lwe0921      ACUGUG-----U-GGAA-U--------------------------UUCGU
+lwe2530      ACCAAG-----C-UAUC-UUUGU-------------------UUGAAAAG
+lwe1053      GCUUCU-----U-ACUA-U--------------------------UUAUU
+lwe2061      CUCGAA-----A-GACG-C--------------------------CAUGG
+lwe2168      ACUGCU-----U-UAUC-AU------------------------AAAUGG
+lwe0151      GCUAAG-----U-AUGC-AGAUACUCUU--------AUUCAAGGUAUACG
+lwe0458      GAGCAA-----A-AUCG-CA------------------------AACGCG
+lwe2667      AUGACU-----U-GCUA-AC------------------------CUCAUU
+lwe0173      AAUUGG-----G-AGAU-ACG-----------------------CAUUUA
+lwe1594      AGCUCC-----U-UCUU-U--------------------------UAAAA
+lwe1766      AAACAG-----C-GCUA-AA-------------------------UUAAU
+lwe0313      GUGUCC-----G-UGAG-AG-------------------------CAAUC
+lwe0566      GAAGCU-----A-UCUA-AUU-----------------------UGAUUU
+lwe2197      CAGCUA-----A-AAUC-GUUAUA----------------UUUUUUAAUG
+lwe0332      UGGCUC-----U-GCUA-AA-------------------------UAAUU
+lwe2035      CGCAGCA---GA-ACUU-CUC----------------------CCUAAGA
+lwe0541      GACUAU-----A-AGCA-AAAUGAG---------------AAAUCGUUUU
+lwe0311      AUAAGC-----C-AUCU-AUC-----------------------AACAUA
+lwe0523      UCCAGA-----A-UGGU-CU-------------------------AAAAG
+lwe0543      CCAAAA-----U-CUC-----------------------------UCAAU
+lwe1735      CACCUG-----C-AAUC-CAUUGU----------------AUAAAUGUUG
+lwe0850      ACCGAU-----U-CAGC-UCU-----------------------CACUCG
+lwe1593      AGCUCC-----U-UCUU-U--------------------------UUAAA
+lwe0468      AACCAU-----C-UGAC-U--------------------------AAAAA
+lwe2237      GCGUUG-----U-UCGG-UAUA---------------------AAUUAAU
+lwe0551      GCUCUA-----U-UCGA-UAGAAAAUG-----------AUUCAUUUCUAU
+lwe0310      AAGCCG-----U-CUAU----------------------------GUUGA
+lwe2592      CAACCC-----U-UGUG-AGCAU------------------GAAAAGUUC
+lwe2450      CACCAG-----U-GUUG-UUU-----------------------GAAAGC
+lwe1314      UCUCGU-----U-UCCU-A--------------------------UUAUU
+lwe1188      AGAAGC-----U-UAGG-ACU-----------------------AACAUU
+lwe0298      UCUAGU-----U-UUGU-GUA----------------------AUUUAUA
+lwe2011      GAACUC-----C-UCUA-A--------------------------AAAAU
+lwe2161      CCUCGU-----G-CGAC-GA-------------------------UUUCG
+lwe2096      AGCGUG-----C-GGGA-GU------------------------UCAUUU
+lwe0611      GGAAGU-----U-UCCA-AA------------------------AUCGAU
+lwe0928      AGUAGA-----U-UAAG-A--------------------------UGCUC
+lwe2078      GGCUGG-----U-AAC-----------------------------UUUUG
+lwe1477      AAGCAU-----C-UGGC----------------------------AAACG
+lwe2085      GACAGG-----A-ACUU-UUAGU-------------------CAAAAAU-
+lwe1943      AACCAA-----A-UCUG-CGA-----------------------AAAAAC
+lwe0931      AGCAGU-----U-UGUA-CCUU---------------------GGAUUAU
+lwe1514      CAUGUC-----U-UGAC-GA------------------------AUAUGG
+lwe0760      GCUUUA-----U-UUC-UAUGUAAACC----------AAGUGUUUGCAA-
+lwe1036      AGAAUC-----A-UGUA-GA------------------------UGAAAU
+lwe2080      AGUGAU-----A-GCA-----------------------------UCAUU
+lwe1947      AAAUGA-----A-GUGG----------------------------GAUAU
+lwe0548      AAAGUG-----U-GUCA-AUUUGCU---------------CUCGCUCAUU
+lwe2497      GCAGAC-----U-CCAU-U--------------------------UUAAA
+lwe0901      CCGAAU-----G-CAGA-UAGAAGG---------------AAACUUCUUG
+lwe2594      UAAAAA-----A-AGUC-UAGC---------------------UGUCUAG
+lwe0524      UCCAGA-----A-UGGC-UU-------------------------UUAGA
+lwe0641      AUGAGC-----U-AGGA-GA------------------------AGUUUU
+lwe2635      AACCAG-----C-UGUC-A--------------------------UGACG
+lwe2323      ACAAGU-----U-UUUC-AUGUU-------------------GGUUCAUG
+lwe1869      UCCCGU-----A-GUUU----------------------------UAAAA
+lwe0511      GUUAUC-----C-AAAG-UAUUCCUA-------------UCUGGGAAAAC
+lwe1046      AAAAAC-----G-CCCA-UA-------------------------ACGUU
+lwe2268      GAGCAA-----A-CUCG-CUA----------------------AAUCAGC
+lwe0733      GAGCAU-----U-GCCA-A--------------------------CAUCU
+lwe2114      GGGAUG-----G-AAAU-CUAA---------------------UUUUAGA
+lwe2013      CCGCAA-----A-AAUU-CUUUAAA--------------AAUCUAAAAGA
+lwe2731      ACGAAA-----A-UCCU-UUGC--------------------UGAUUAAA
+lwe1031      GCGGAG-----A-UAUC-CU------------------------UUAUGG
+lwe0594      AACGGC-----G-UGAA-UUC----------------------CUUUAUU
+lwe2070      GCUGUU-----U-UGUC-UAG----------------------ACUUAAG
+lwe2324      ACAAGU-----U-UUUC-AUGAA-------------------CCAACAUG
+lwe2553      GCCAGA-----U-UGCA-CU-------------------------UUGAU
+lwe1066      UAGCAC-----A-AAAC-GGGCGG----------------ACUGGUAAUG
+lwe0980      AGGCUU-----G-AGUU-AA-------------------------UCAAA
+lwe0499      CAGCGA-----C-CAAC-UAAG--------------------CAAUAUAG
+lwe2364      CCCCUU-----U-UACC-A--------------------------UUUCG
+lwe2717      AAUCCC-----A-GCUA-CUU----------------------CAUUAGU
+lwe1850      AGAAGU-----U-CACC-AUU----------------------UUUGGAG
+lwe1758      AUGGUG-----A-GCGG-AUCUC-------------------AAAUGAUU
+lwe0119      AACACU-----U-UGAC-UU------------------------UCUCCG
+lwe0593      ACGGUG-----U-GAAA-UCC----------------------UUAAAAU
+lwe0032      ACUGUC-----U-AGUG-UAG----------------------UGAUUAC
+lwe0007      AGCUGG-----A-AAAC-UUUCU-------------------AAUUUACG
+lwe2418      AGUGGG-----U-UUGC----------------------------AAUUG
+lwe2509      ACCGCU-----U-AGCC-AA------------------------UCUUGG
+lwe1911      AAGAGA-----A-GACG-A--------------------------GUUUC
+lwe0573      AAAUGU-----C-UAUC-CU-------------------------AAUUG
+lwe0689      GAAAGC-----C-UCUC-AAACU-------------------AUGUAAUG
+lwe2339      AAGCGA-----U-GAGC-CAGA---------------------UUACGCG
+lwe2092      ACCUGU-----A-GAAA-GUAAGUU---------------UACGCUUACC
+lwe0500      CAGCGA-----C-CAAC-UAUA--------------------UUGCUUAG
+lwe2166      ACGUUU-----G-UAUU----------------------------UAAGA
+lwe2207      AACCCG-----U-UUG-UGCUGA------------------AAAAUAAG-
+lwe1709      GAAGAC-----C-CGGA----------------------------AAAUU
+lwe2353      GAUGGC-----G-CG------------------------------UAGGU
+lwe1705      ACGAGCU---UU-GGAG-U--------------------------UUAUC
+lwe1047      AAAAAC-----G-CCCA-AC-------------------------GUUAU
+lwe1025      ACAUCC-----G-GCCG-AA-------------------------AUUUG
+lwe1803      AACCCU-----C-ACUC----------------------------AAAAG
+lwe0915      CGGUUA-----C-GCGC-AUUC--------------------AUUAAAAG
+lwe2537      AGGGUC-----A-AAUA-UCUA--------------------UAUUGGAU
+lwe0755      AACAUC-----U-CCUG-UA-------------------------UCAUU
+lwe2077      CAAUUA-----U-GAAG-AAGCGUAUU-----------UUACCUCGUUUC
+lwe1540      AGCCGA-----A-UUUC-AC------------------------AAAAUG
+lwe2169      GAGCAG-----U-AAGU-UUC-----------------------CUAGUA
+lwe1988      AGGAUU-----U-GGGC-GA-------------------------GUGAG
+lwe2389      AAGCAC-----U-GU------------------------------UUAGA
+lwe0250      AAAGCC-----A-AAGA-UGAGAGC--------------GAAAACUCUUU
+lwe1354      AAGCUA-----C-AAUA-ACU----------------------UUCCAUU
+lwe1179      AGAACU-----U-GCU-----------------------------UUUAA
+lwe0247      CAGUAA-----U-UCCU-UA-------------------------AAAAA
+lwe1459      AGCCCU-----U-UACU-G--------------------------GAGUG
+lwe1944      AACCAA-----A-UCUG-UUU-----------------------UUUCGC
+lwe0730      AGCACC-----U-CC------------------------------UACUU
+lwe2254      CUCAAC-----U-GAGC-UUC-----------------------UAUUUG
+lwe1449      AACAAU-----A-UCCC-GC-------------------------UAAUG
+lwe0690      GAAAGU-----C-UCUC-AUUAC-------------------AUAGUUUG
+lwe0747      ACAAGC-----C-GCCU-AUU----------------------AUUUAUG
+lwe2276      AGGUAG-----A-GCAC-AU-------------------------UUUUG
+lwe1684      AGCUAG-----C-UAAG-UAGAGCAUG-----------AAUUGCUUUAAC
+lwe1009      GACUGG-----A-GCUG----------------------------AUAUU
+lwe1290      AGUGUA-----U-UUUC-UA-------------------------AAGAG
+lwe2255      AGGCAA-----G-AAGC-GA------------------------UUUCUG
+lwe1297      AGCUUU-----C-UCUG-AAA-----------------------ACAUCC
+lwe1549      AGUUAC-----C-GCAU----------------------------UUUUU
+lwe0658      AGUGUU-----U-GGAC-AAGU---------------------UUUUCAG
+lwe1476      AAGCAU-----C-UGGC----------------------------GUUUG
+lwe1507      AAUGCC-----U-GGAG-UU------------------------UUAAGC
+lwe2700      AGUCGA-----U-UUCC-AA------------------------AUUUAG
+lwe2129      GAGAUU-----C-UACU-AUU-----------------------UUAAUG
+lwe1174      AGUGGU-----U-GAUA-AGUCGG-----------------AAUGGAUUU
+lwe2651      AAAAUC-----U-ACUA-UUCCG------------------AAAUGGUUU
+lwe0813      UGCUAU-----U-UGGA-GAAA---------------------AUUAUUC
+lwe0168      AUCCCU-----G-UUGA-ACU-----------------------AUUAUU
+lwe0431      AACGCC-----U-AUCU-AGC----------------------AAUUUAA
+lwe2205      UCUCGA-----A-GUCU-A--------------------------UAAAG
+lwe0460      UGGCAG-----A-GCG-----------------------------GAUUC
+lwe0613      ACUGUU-----U-AAGC-GAA----------------------AAGUGAG
+lwe0907      AAUCUC-----A-UAGC-AG------------------------CAAAUG
+lwe2417      AGUGGG-----U-UUGC----------------------------AAUUG
+lwe0248      CCAGUU-----C-UCAA-GCAAUAGUUC---------AAAAUCUAUUAUU
+lwe1678      AGGUAU-----U-CGCU-AUA-----------------------UUUUGA
+lwe0491      UAGUUA-----C-CUUC-UA------------------------UAAUUG
+lwe0228      GCCAAG-----U-GUAC-CA------------------------UUCGCG
+lwe0520      AACACU-----U-UCUC-GAU-----------------------AUUUGG
+lwe1347      AAGCAA-----G-UAGC----------------------------CGAAG
+lwe1878      UGCCAG-----A-AAAU-G--------------------------AAAUG
+lwe0908      AAUCUC-----A-CAGC-AU------------------------UUGCUG
+lwe2706      GUCGUU-----U-AAGA-G--------------------------AUAAU
+lwe2174      AGAUAG-----G-CUUG-AG------------------------CGAUUC
+lwe0815      GAGUGA-----A-UCAG-UUA----------------------GCUAAGC
+lwe2137      AUCCUG-----A-UGA-----------------------------UCAUU
+lwe1900      ACAGAA-----G-CAAU-CUGG---------------------UUAAUU-
+lwe2319      AGAAAC-----U-AAGU-AG------------------------CAAAUA
+lwe1971      UCCGUG-----C-GCUU-UAA-----------------------AACAUA
+lwe0893      CGAGCU-----U-UGGG-AAA----------------------UUGCUUC
+lwe2138      AGGAGU-----G-UGGG-AUA----------------------UUUCAUC
+lwe2408      UUACUG-----A-GGUG-C--------------------------UCGUC
+lwe2751      GAGGCA-----A-ACAA-CA------------------------UAUAGC
+lwe1394      AACCGC-----A-ACCU-UG------------------------UGAAGA
+lwe2363      CCCCUU-----U-UACC-G--------------------------AAAUG
+lwe1392      GCAUUC-----A-CUU-----------------------------UUUCG
+lwe2435      AAUCUA-----G-CGCA-UC------------------------AAAAGC
+lwe1108      GUCAUA-----U-UCAU-GU-------------------------AAUAG
+lwe0139      ACAGCC-----A-AAUA-U--------------------------UCUUU
+lwe2508      GACCGC----AU-AGCC-CA------------------------AGAUUG
+lwe2748      AAGAAC-----U-UCUC-CG-------------------------UCAAA
+lwe2152      AGGUAU-----U-CUCU-GGGU--------------------UUUACAUA
+lwe0561      AGUUAC-----C-UCGA-AA-------------------------AUAUC
+lwe2472      GGCACU-----A-GAAC-CUA----------------------AAGAAGG
+lwe2321      ACCUGC-----G-UGGC-G--------------------------CACAG
+lwe0235      ACCAAU-----U-UGAU-U--------------------------UUGUG
+lwe0294      GCUGUU-----U-GUUU-CC-------------------------UGGAA
+lwe1600      AGAGUC-----U-GGCA----------------------------GCUAC
+lwe2037      CCCUGU-----U-GUAA-GAA-----------------------UGAACU
+lwe1312      ACUACG-----G-UG------------------------------AUUUU
+lwe2639      ACGCCU-----U-CUUU-ACGA---------------------GUAUAUA
+lwe2506      ACUGGUU--AGA-AUCA-C--------------------------UCGCU
+lwe0810      AGUUGU-----G-UCAG-AAA-----------------------UCUUAC
+lwe2141      ACUCGU-----A-UCAG-A--------------------------UAGCC
+lwe2215      GGGAUU-----A-CCUG-GU-------------------------UAUCC
+lwe2147      AGCGCU-----A-GGAA-UG-------------------------AAGAU
+lwe0912      ACGGAA-----A-GCAC-AAG----------------------UAAGUCG
+lwe0773      GAAGUU-----C-UGCU----------------------------GAAAA
+lwe2193      UCCGUU-----A-UCCU-AAA-----------------------UUUUCA
+lwe0922      CCGCGU-----GUAAUC-G--------------------------UUAUG
+lwe0045      AACCUU-----G-UGAA-UUU-----------------------CUAAUU
+lwe1883      AAACCU-----U-CUCA----------------------------UUAUU
+lwe0355      AAGAGU-----A-UUUC-AAC----------------------CUUAAAG
+lwe0565      GAAGCU-----A-UCUA-AAU-----------------------CAAAUU
+lwe0885      AGACUU-----U-CAUC-A--------------------------ACGUG
+lwe1671      AUAAUC-----U-CACU-A--------------------------AAAUA
+lwe1716      GCCAAG-----U-GUCG-CA-------------------------UUUCG
+lwe1534      GCAAUC-----A-UUCA-GAC----------------------GAUUUU-
+lwe2411      AAUCCA-----A-GCAC-AA------------------------AACAAG
+lwe0249      AAAAGC-----C-AAAG-AAAGAGUU------------UUCGCUCUCAUC
+lwe0392      ACCUUG-----A-AUUG-AUU-----------------------AUUAUC
+lwe0432      ACGCCU-----A-UCUU-AA------------------------AUUGCU
+lwe1278      CAAGGU-----A-GCC-----------------------------UAAUA
+lwe1001      UCCAUG-----AUAAGA-GU------------------------AAUUUU
+lwe0834      GAAAUC-----C-CUUU----------------------------UUAAA
+lwe2334      AAGCAU-----G-GCAG-AGAUCAGA-------------UGAUGAACUCU
+lwe2005      GCUAGG-----U-GA------------------------------AAUUC
+lwe1277      CAAGGU-----A-ACC-----------------------------UAUUA
+lwe2265      AGAGCC-----U-UGC-----------------------------UUAUG
+lwe2134      CAGCCC-----U-CUAA-UU-------------------------AAGUU
+lwe0017      CGAGUA-----U-AGAA-UU-------------------------AAUUU
+lwe2419      AGCUGA-----A-AACC-AUU-----------------------AAAUUG
+lwe2053      AGAAGU-----A-UGUC-AGCUC------------------AAAAAAGUG
+lwe2036      ACACGC-----A-GCGA-AC-------------------------UUCUU
+lwe1967      GGGUCU-----G-GGAA----------------------------ACGCU
+lwe0266      AGUCAU-----U-CUCU-UA------------------------UAAAAA
+lwe1431      GCUAAA-----A-UCAG-UU------------------------AUUCUC
+lwe1131      AAGCUU-----A-AAGC-CAA-----------------------GUAACG
+lwe0481      UCCCCC-----A-UCUG-GU------------------------UUUAAU
+lwe2714      ACAGGU-----G-ACC-UAAAUUGCA-------------UAUUGCGAGA-
+lwe2256      GGCAAG-----G-AGCA-G--------------------------AAAUC
+lwe2246      GCACAU-----U-UUAC-UUUU--------------------AAUUAGAG
+lwe0472      GUAGCU-----A-UCUU-CUU----------------------UUUAGGA
+lwe2202      GCGAGU-----U-AGGU-CAGGGU-----------------UAUCCUUUG
+lwe0620      AGCAGA-----A-ACCU-U--------------------------GUAUA
+lwe1346      AAGCAA-----G-UAGC----------------------------UUCGG
+lwe2602      CCGACA-----A-AGUC----------------------------AUUUG
+lwe2527      AACUUC-----C-ACUU-GA------------------------AUAUUU
+lwe1993      AGGCUG-----G-CGCC-A--------------------------AAUGG
+lwe0076      AUAGCC-----A-UAGC-A--------------------------AGAAG
+lwe2269      GAGCAA-----A-CUUG-CUG----------------------AUUUAGC
+lwe0485      ACGCUU-----A-GCCG-GGUC--------------------AAAAACUC
+lwe2587      CGGCUG-----G-CCCU-A--------------------------UUUUG
+lwe1804      AACCCU-----C-ACUC----------------------------UUUUG
+lwe0117      CUGGCC-----U-GCCA-UGCU---------------------UGUUUUU
+lwe1771      AGUAGU-----G-AAGC-AU-------------------------UUUUG
+lwe1401      CCAUAU-----G-UCUC-UU-------------------------ACUGG
+lwe0255      AAUCCG-----C-UCUU----------------------------UUCGA
+lwe1949      CAGUGC----UA-UGUG-A--------------------------AAACU
+lwe0634      AAAUAA-----U-CGUC-UUUUUGCGCUC-------AUUUAAGUGGAAA-
+lwe0578      GACAAU-----G-UGGU-GU------------------------AAAAAG
+lwe0564      GCGAAA-----C-CAGC-CAU-----------------------CAACCG
+lwe0547      AAAGUG-----U-GCCA-AUGAGCG---------------AGAGCAAAUU
+lwe0009      GUGAUU-----G-GCGC-AGGA---------------------AAAGUUG
+lwe0911      ACGGAA-----A-GCAC-GAC----------------------UUACUUG
+lwe2736      AAACCC-----G-UUA-----------------------------AUAGA
+lwe0484      ACGCUU-----A-GUC-GAGUU--------------------UUUGACC-
+lwe0630      AGCGUA-----A-UAUA-CGAAAG----------------AUUUCUCUCU
+lwe0852      UUGGGC-----U-GGU-----------------------------CAUUU
+lwe0574      AACUUC-----C-UAAU-UUAUG-------------------CUAUAAU-
+lwe1166      ACCUCU-----C-CAGA-CAA-----------------------UAAAUU
+lwe0946      AGUAGC-----A-ACCC-AU-------------------------UCCUA
+lwe0820      AGGGUC-----C-AGAA-A--------------------------AAUUU
+lwe1695      AACUGG-----U-UGUC-A--------------------------CAAUG
+lwe0927      AGUAGA-----U-UAAG-A--------------------------GCAUC
+lwe2352      AAGAUG-----G-CGCA-A--------------------------CCUAC
+lwe1000      GGCAUG-----A-AAAA-GUUCAAGUU----------AAUCUUGAUACUU
+lwe2135      CAGCCC-----U-CUAA-AC-------------------------UUAAU
+lwe2447      CGUCUA-----U-CCUA-GU------------------------AAUAUC
+lwe1750      GAGCUU-----A-UCCU-AA-------------------------AAAAA
+lwe2647      CCCCUG-----A-AAAG-UUAGACCU-------------AAAAAUCUAAC
+lwe1633      GCCCAU-----U-CCUU----------------------------UCAUC
+lwe0992      AAGCUG-----U-GGAU----------------------------AUUUA
+lwe1712      ACCAGA-----U-UCUG-UU------------------------UUACUC
+lwe0718      AAAGAG-----C-GCU-----------------------------UAUUG
+lwe0457      GGAUUU-----G-UUCC-AG------------------------CAAUUG
+lwe0581      AGCGAU-----U-AAUG-AGUUG-------------------GUUUACUC
+lwe2693      ACCGAC-----G-AUGC-UU------------------------UUCUUG
+lwe2345      ACCAGU-----A-AAAC-A--------------------------AAGAG
+lwe1069      UGAUUC-----U-GGG-----------------------------AAAUU
+lwe2694      ACCGAC-----G-AUGC-AA------------------------GAAAAG
+lwe1513      CACGUC-----U-UGAC-CA------------------------UAUUCG
+lwe2230      AAGAGA-----U-UUGG-ACC-----------------------GACAUC
+lwe0096      GUAGCG-----A-GUU-----------------------------UUUAU
+lwe2236      ACACGU-----U-UGGA----------------------------AUUUU
+lwe1306      AAACUC-----A-ACCA-UU-------------------------AAAUC
+lwe0940      AAGCUU-----G-AGGC-GGG----------------------UUCUAUG
+lwe2415      AACAUC-----U-UACA-AACAAGCU-------------AAAUGCUGAUU
+lwe1097      AGGUUC-----A-CUUA-CA-------------------------UCAUG
+lwe2713      GCGUGU-----A-GGUU-U--------------------------UCGUG
+lwe2106      GCGUUU-----A-GGUU-AG------------------------UUUUUA
+lwe0987      GACCUA-----G-ACGA-AU-------------------------UUAUU
+lwe2228      AAUGUG-----C-UGGU-UUAU--------------------UCGUUAUU
+lwe2149      AGCAUU-----U-UCGC-AU------------------------UUUUAG
+lwe1522      AAAACA-----C-CCAC-UC-------------------------GCAAG
+lwe0842      AAAAGG-----C-UGAA----------------------------AUUUU
+lwe1170      AACGCA-----U-CC------------------------------GUAAA
+lwe0466      ACAGCA-----A-CUG-----------------------------AGUAA
+lwe2017      AAAGGC-----A-GCCG--------------------------------C
+lwe0823      AUCCAC-----C-CAUA-AUC-----------------------AUGAUU
+lwe1432      ACCGACU---AA-GCU-----------------------------AAAUC
+lwe2208      GUCAAG-----A-AUUC-CAU----------------------UCAAUUG
+lwe2272      GAGGCA-----U-UCC-----------------------------CAGUG
+lwe1732      ACGGCU-----A-UCU-----------------------------AUUUU
+lwe1551      UGCGCC-----A-AAUG-UGUA---------------------AAAAAUC
+lwe1275      UCCCGC-----G-AAAU----------------------------UUAAG
+lwe1733      AGCAGU-----U-GGCA-GGCUG------------------AAACGCGGC
+lwe0525      GCUCUU-----C-UUUC----------------------------CAGCG
+lwe1493      AAACAU-----C-ACA-----------------------------CCUUG
+lwe2426      UGGGUC-----U-GAGA-UU------------------------AUCUGU
+lwe2456      GUACCA-----U-UUGC-AGACUAU---------------UAACAGAUUG
+lwe0618      AAGUUG-----G-UGCC-A--------------------------UAAAG
+lwe2071      GCUGUU-----U-UGUC-UUA----------------------AGUCUAG
+lwe0046      GCUUCU-----U-GAGG-UA-------------------------UUUUU
+lwe1762      GGAAGA-----UAGCGC-CA-------------------------AAAAA
+lwe0465      AGGUUG-----A-AAGA-GCGA--------------------AAUUAGCU
+lwe0896      GCUAGU-----U-GCA-----------------------------UUUAU
+lwe0961      AACCGU-----C-CG------------------------------UUCAG
+lwe1713      ACCAGA-----U-UCUG-AG------------------------UAAAAC
+lwe1268      AGGCAC-----U-GCAA-UU------------------------UGAUUU
+lwe2701      AGUCGA-----U-UUCC-UA------------------------AAUUUG
+lwe0216      AACUUC-----U-CUCG-U--------------------------UAAUU
+lwe2399      ACCACC-----U-GAAU----------------------------GAAAA
+lwe1800      AACGAG-----U-UUGC-U--------------------------UCGUG
+lwe2132      UGGAAU-----U-UCUU-U--------------------------UAACA
+lwe1715      AAGCCA-----A-GUGC-GC------------------------GAAAUG
+lwe1753      CGGAACA---AA-UUCU-CA-------------------------GAAGG
+lwe0966      ACUCGG-----U-AAUG-AAA----------------------AUGAAUC
+lwe2476      AAUUCC-----U-GGCA----------------------------CUUCU
+lwe0226      ACACGA-----A-UGAG----------------------------GUCUC
+lwe0731      AAGCAC-----C-CCC-----------------------------AAGUA
+lwe2779      AGACCA-----C-UGAA-A--------------------------ACGAC
+lwe2402      CGCUUG-----A-UUCU-AGU----------------------AUAAAUA
+lwe1739      GAAUGC-----U-UUUC-UCUCUU-----------------AAUAGAUUG
+lwe1315      ACACCC-----U-GUAC-A--------------------------UAAUG
+lwe1532      AGAAGC-----U-GAGC-AU-------------------------UCGCG
+lwe1146      ACGAUU-----U-CAGC-UU------------------------UAAGAG
+lwe1245      AAGAUU-----U-CGAC-GU-------------------------GAUUG
+lwe1175      AUAAUC-----U-CUCC-UAA----------------------UAAUAUG
+lwe2231      GAGAUU-----U-GGAU----------------------------GUCGG
+lwe1653      AGAGGC-----U-GUCC-A--------------------------UUACG
+lwe0734      GAGCAU-----U-GCCA-G--------------------------AUGUU
+lwe0958      UAGUUA-----U-UUCU-UCUAUAU--------------AAAAGAUAAAA
+lwe0848      AAGCAG-----U-UUUC-AU-------------------------AUGCG
+lwe2216      GGGAUU-----A-CUUG-GA-------------------------UAACC
+lwe0033      AAGCGC-----A-GAA-----------------------------UAAUU
+lwe1512      CACUUG-----U-CAGA-AGCAUGU--------------UAAUCAUGUUU
+lwe1620      AGACGC-----U-UAGG-AU------------------------CAGAUC
+lwe2381      GAAGAC-----U-UGGG-UG------------------------GUAUGU
+lwe0106      GGACAC-----U-CUGA----------------------------AAAUC
+lwe1537      AACUAC-----U-CCUA-AA-------------------------CUUUU
+lwe0169      AAAGUA-----U-CCAA-CA------------------------CCAAGU
+lwe1679      AAACUG-----U-CAGC-AU-------------------------UUUUG
+lwe2148      AAACGC-----U-AGGA-AUC-----------------------UUCAUU
+lwe0892      GAGCUU-----U-AGGA-AG------------------------CAAUUU
+lwe2442      GUCCGA-----U-UUUC-CUUU--------------------UUGUAAGG
+lwe1774      AUUGUU-----C-UUU-CCUGUUGUA------------UAAUUAUGCAG-
+lwe1071      GCCCUA-----A-AACC-UCA-----------------------GUAUUG
+lwe1599      AGAGUC-----U-GGCG----------------------------UAGCU
+lwe2340      AAGCGA-----U-GAGC-GCGU---------------------AAUCUGG
+lwe0701      UCUUAA-----A-AAGU-UAGAGU----------------UCGCAUCUAA
+lwe2718      UCCCAA-----C-UACU-A--------------------------AUGAA
+lwe2343      AACCCC-----C-UCUC-GUCG--------------------UUCAGAUA
+lwe0148      UCAUGCG---CG-AGGU-UCUU---------------------UUUCAGA
+lwe0554      AAUCUG-----U-UAGC-G--------------------------AAAAG
+lwe2333      AAGCAU-----G-GCA-AGAGUUCAU-------------CAUCUGAUCU-
+lwe1015      AACCUU-----U-UCUU-GAGCU------------------UUUCUUUA-
+lwe0494      AAGGUU-----U-CCUC-CAA----------------------AUUUGCG
+lwe2316      AACCUU-----G-GAGC-C--------------------------GAUUG
+lwe0246      CGCAGA-----U-UCC-----------------------------UUUUC
+lwe0887      AAAGUC-----A-GCGU-GUC----------------------UGUAAA-
+lwe1654      AGAGGC-----U-GCCC-G--------------------------UAAUG
+lwe1915      AAAGUG-----A-GGCC-AA------------------------UUACUG
+lwe2390      GGAAGC-----U-GGAA-UUC----------------------ACUUGAU
+lwe2284      ACUAAG-----A-UAGU----------------------------AAGAG
+lwe0316      AGGGUA-----G-AAGC-GCGAG-------------------UUAUAGUG
+lwe2459      AUGGGG-----G-CCAA----------------------------CAAUU
+lwe0252      AAAACC-----G-CCA-----------------------------AAUUU
+lwe0264      CCAACC-----U-AAUU-GA------------------------AACAAA
+lwe2318      UAUCAG-----C-CUGU-UA-------------------------UUAU-
+lwe0983      CCCAAG-----U-AAUC-AGU-----------------------AAAUCG
+lwe0384      AGCCAA-----A-GACC-AU------------------------AUCAAG
+lwe2462      AAACCU-----C-AGU-----------------------------UAACA
+lwe2491      AGGCGU-----U-UCU-----------------------------UUCAA
+lwe0526      GCUCUU-----C-UUUC----------------------------GCUGG
+lwe0341      GACCCA-----A-GAC-----------------------------CUCAA
+lwe1379      AAGCAA-----A-UCAU----------------------------UUCGG
+lwe1424      ACCGGC-----G-AAU-----------------------------UUAGG
+lwe2027      GAAAGA-----A-CUUA-GU------------------------UUAUCU
+lwe0398      UAAGCC-----C-UCCA-CU------------------------UUUAUA
+lwe0881      UGCAGC-----G-ACAC-AUG----------------------GAAGAAG
+lwe2619      GAACUU-----U-UUGA-CUU----------------------AUGUAGU
+lwe2436      CAUCCC-----G-CUUA-UAU----------------------CUUUAUU
+lwe1719      AAGAUC-----C-CACC-UAA-----------------------CAACAG
+lwe2725      ACAAUC-----U-UUUG-ACACGC-----------------AUAAUUGUC
+lwe1782      AAGUAC-----U-AUCU-UGGAAU----------------AAAAUUCUCA
+lwe1798      GUGAGC-----C-UAG-----------------------------UUAAU
+lwe0019      CCCCCA-----C-CUUC-AU-------------------------CGCCG
+lwe0622      ACGUCC-----U-UUUG-CUAAUG----------------UCAUUUUAGC
+lwe1506      AAUGCC-----U-GGAG-CU------------------------UAAAAC
+lwe0112      AGGAGC-----G-ACC-----------------------------AAAUU
+lwe1264      GAAGCA-----U-UGCG-UU-------------------------UAUUU
+lwe1024      AACAUC-----C-GGCG-CAA-----------------------AUUUCG
+lwe0982      CCCAAG-----U-AAUC-GAU-----------------------UUACUG
+lwe0859      AACGGC-----U-AUCU----------------------------AGAGA
+lwe2634      AACCAG-----C-CGUC-G--------------------------UCAUG
+lwe0937      GUUACG-----A-GCUU-CC------------------------AUGAUG
+lwe0063      AUAAUC-----U-GAGA-GAACG-------------------GAAGGUUU
+lwe2532      ACUCCUAUAAAC-UAAG-UGU-----------------------AAGAUC
+lwe2391      GGAAGC-----U-GGAA-UCA----------------------AGUGAAU
+lwe2677      CAGUGG-----A-CCAA-GAUUG------------------CUAAUAUCC
+lwe0428      AAAUUU-----A-UCUG-AUAUC-------------------CGUUAACU
+lwe2546      GCAUUU-----C-CCUU----------------------------UUUGG
+lwe0737      GAAGCU----GG-GCAC-UU------------------------UUUUUG
+lwe0740      GGAGAA-----U-CGGG-AU-------------------------UAAAA
+lwe0752      GUCGAA-----G-GAGC-AA------------------------AUAAUG
+lwe1446      GGUCCA-----G-AAGC----------------------------AAUUG
+lwe0075      AGAUGG-----U-UCCA-AGU-----------------------UACUUC
+lwe1609      ACCUUA-----C-AAUU-CAUGAC----------------UUCGGUUGUG
+lwe0030      CAGCUU-----G-GGCA-A--------------------------AAUUU
+lwe1423      AAACCG-----G-CGAA-UC------------------------CUAAAU
+lwe0366      AGGCUG-----C-AUCU-AUU----------------------UUUUAAA
+lwe2640      ACGCCU-----U-CUUU-AUAU---------------------ACUCGUA
+lwe0858      AGCUGG-----A-AAUC-AUU----------------------UUGAAUG
+lwe2772      AAAAGC-----A-UUCC-UUUU--------------------CGUUAAAA
+lwe1403      AAAGGU-----U-GCGC-A--------------------------UAAAG
+lwe2337      GUGCCA-----U-AUCU-AUU-----------------------UUGACA
+lwe1891      AGAAGC-----U-GAU-----------------------------GAAUU
+lwe2754      AGAGCA-----U-GAAA-CUUUA-------------------UGGUAAU-
+lwe0659      AGCCUC-----U-CGUC-AC-------------------------CCCGG
+lwe1226      GGUAUU-----U-CUAG-C--------------------------AAUGU
+lwe0383      AGCCAG-----A-GACC-UU------------------------GAUAUG
+lwe0806      AAGCCUU---G---CUC-GA------------------------AUCUUG
+lwe2649      AAAAAG-----G-CUG-----------------------------AAAAU
+lwe1181      CCGCAU-----U-CCU-----------------------------ACAUA
+lwe0596      GCAAAA-----G-ACAG-GG------------------------UUUUG-
+lwe2654      GAGACU-----C-UUGG-AU------------------------UAUAUA
+lwe1689      GAAAGG-----C-GCUC-UUUU---------------------UACUUAG
+lwe1809      AAACCC-----U-UGA-----------------------------GAAAU
+lwe1836      GGAUAC-----A-GGUG-G--------------------------UUUUU
+lwe2039      GCUUGG-----G-GAA-AAUCCUAGUCA---------UCUAAAAGGAGG-
+lwe1395      AACCGC-----A-ACCU-CU------------------------UCACAA
+lwe0002      AUCCGU-----C-UUG-----------------------------GUUUC
+lwe0930      GCAAGU-----U-UGA-----------------------------AUUAU
+lwe0586      UCCGCA-----A-ACA-----------------------------AUGAC
+lwe1304      GAAUCU-----U-UGCA-UUG----------------------AAAAUAU
+lwe2180      ACCUCU-----A-GUAG-UUUUGUAUGAU-------GUAACUAUCAAAAC
+lwe1621      AAGCAU-----G-CCAA----------------------------AUAGG
+lwe1374      GAGUGC-----G-AGG-----------------------------AUAUU
+lwe2173      AACGUU-----U-UGUU-UAGCCAUUU----------UAAAUGGGCUAUA
+lwe2025      GUAUGA-----A-UUAG-UUA-----------------------UAAAUC
+lwe1305      AAAACU-----C-AACC-GAU-----------------------UUAAUG
+lwe0758      AAGCUU-----G-CAGA-UAU-----------------------AAUAGU
+lwe0979      AGGCUU-----G-AGUU-UU-------------------------GAUUA
+lwe1818      CCCUGU-----C-GCUA-AGU----------------------ACCUAUU
+lwe1676      AGCGCA-----U-UAAA-AUGAA------------------UUUAUUAUU
+lwe1605      CCGUUU-----A-UCCU-U--------------------------UUAUA
+lwe0608      CUGUUC-----A-UCUA-UUCCUA-----------------GUCUAAGAU
+lwe1390      GUCUGA-----G-CC------------------------------AAUAU
+lwe1084      AGACAG-----A-AGG-----------------------------CGUUU
+lwe0817      UCCCUU-----C-CAAC-GU------------------------UUCAUA
+lwe2759      AAUUCC-----G-CGAC-CAU-----------------------UAAAUG
+lwe1962      GGGUCA-----A-GAUG-AG------------------------CUAUUC
+lwe0787      AGACGU-----U-UCUU-U--------------------------CAACG
+lwe2760      AAAUUC-----C-GCGA-AACCA------------------UUUAAUGGU
+lwe1169      AACGGG-----A---------------------------------CAAUU
+lwe2535      CGAAAC-----A-GCGG-GACUA-------------------AGAGGUGU
+lwe2213      GAGAGA-----G-UAUA-UU-------------------------UCGAU
+lwe1273      AAAGCU-----C-GAGA-UU-------------------------UGUAU
+lwe1690      GAAAGG-----C-ACUC-UAAG---------------------UAAAAAG
+lwe1464      ACCUGG-----A-AAGG-UCG-----------------------AACCAC
+lwe2084      AAGACA-----G-AAAC-UCUAGUCAGCU------AUUUUUGACUAAAAG
+lwe2606      ACACCU-----U-GACA-UC-------------------------UAAAC
+lwe0086      AAGCCU-----C-CCGA----------------------------GAAAU
+lwe0602      ACCUUU-----U-CUUA-U--------------------------UCUUU
+lwe0833      ACAACC-----U-CACU----------------------------UUUUA
+lwe2380      GAAGAC-----U-UGGA-CA------------------------UACCAC
+lwe1725      ACGCUA-----A-AACA-GCA-----------------------CGUACU
+lwe0441      AAGUAA-----G-CAGU-GA-------------------------GAGUA
+lwe0991      AGACUA-----U-AAAA-AUGUGU-----------------AAAAACUUU
+lwe1011      ACGAUA-----A-AUGG-UUA-----------------------UAAAAU
+lwe0091      UAGUAU-----G-GAC-----------------------------UAAGU
+lwe0496      AAGCAG-----C-UCCC-G--------------------------UAACG
+lwe0919      CAUAGC-----U-AGAA----------------------------UAAUU
+lwe1548      CACCCCU--UUU-UCGA-A--------------------------UCAUU
+lwe2285      ACCAGA-----U-AUAC----------------------------ACUCG
+lwe1284      GGACAU-----G-AG------------------------------UUAUA
+lwe1864      AUGCGC-----U-CUUG-CU------------------------GUAUUU
+lwe1791      AACCUC-----U-UUGA-UAUU--------------------UAUUUUUU
+lwe1749      AGAGCU-----U-ACCC-UUU-----------------------UUUUAG
+lwe2586      GAGCAG-----A-UUUC-U--------------------------UAUAG
+lwe1145      ACGAUU-----U-CGGC-UC------------------------UUAAAG
+lwe0308      ACUCUU-----U-GGGC----------------------------GCUCG
+lwe0587      UCCGCA-----A-ACA-----------------------------GUCAU
+lwe2100      AACGUA-----G-CGGC-UU------------------------AUGAUG
+lwe2322      ACCUGU-----G-UGGC-U--------------------------GUGCG
+lwe2292      AGCUGU-----U-GCCU-A--------------------------UAAAU
+lwe0793      CUCCAC-----C-UUGA----------------------------ACUUU
+lwe1997      CCAGAAAU-AUG-GCU-----------------------------AAGUU
+lwe0390      ACUUGC-----U-CAAA-AUA-----------------------AAAGCU
+lwe1924      GCGUUA----UU-UAC-----------------------------AGAAA
+lwe2010      AGAGUU-----C-UCGC-A--------------------------GGACG
+lwe1448      AACAAU-----A-UCCC-AU-------------------------UAGCG
+lwe1098      GAAAAC-----G-CUC-----------------------------UAAUC
+lwe2747      AAGAAC-----U-UCUU-UU-------------------------GACGG
+lwe2249      GCGGCU-----A-UCU-----------------------------CAAAA
+lwe1318      GAAAGU-----A-GCG-----------------------------UUUAU
+lwe0782      CAAUAU-----U-CGGC-UUGAU-------------------UUUUACAG
+lwe1276      AUCCCG-----C-GAAA-CU-------------------------UAAAU
+lwe0811      AGUUGU-----G-UCAG-UAA-----------------------GAUUUC
+lwe1492      AAGUUG-----U-GCGG-AGAUUU-----------------UAUAUUUUC
+lwe2108      AAGCGG-----A-GAUA-U--------------------------AUUUU
+lwe0963      AAGAUU-----G-ACUC----------------------------CGAGG
+lwe0832      AAAGGA-----U-UCC-----------------------------ACAUU
+lwe1731      CCCUUG----UA-GC------------------------------UUAUU
+lwe0761      AGCCAC-----C-AAGA-UCAU--------------------CAUUUAUU
+lwe0469      ACCAUC-----U-GAU-----------------------------UUUUA
+lwe0805      GAGGUU-----U-AGUA-UU------------------------UUUACU
+lwe1125      GGAGUA-----A-ACAA-UGA-----------------------UUAGAU
+lwe1259      AGAAUC-----U-GGGU----------------------------UAAAA
+lwe1285      AUGCGC-----G-UCG-----------------------------UUAUU
+lwe1630      AAGAAG-----U-GA------------------------------UAUU-
+lwe1183      AGCGCC-----C-CGUC-AA------------------------CUAAAG
+lwe0706      AUAGAU-----G-AACC-U--------------------------AACUG
+lwe2150      AACGGA-----A-GAG-----------------------------UGCUU
+lwe1767      ACAGCG-----C-UAU-----------------------------UAAUU
+lwe1696      ACUGGU-----U-GUC-----------------------------AUUGU
+lwe2344      AGCGAC-----C---------------------------------AAAUG
+lwe2488      CCGGUU-----U-UUUC-UAA-----------------------AUAUAG
+lwe0539      AACCGG-----G-GAU-----------------------------UCCGC
+lwe0273      UAGAGAU---UG-GGAC-AAAA---------------------AAACUCG
+lwe0744      AAGACA-----U-UCU-UAAUUUC-----------------AAAUUGGA-
+lwe1837      AGACUG-----G-GACA-GAU-----------------------UUUUUC
+lwe2726      ACGAAA-----A-UCCU-UUGC--------------------UGAUUAAA
+lwe1685      GCUAGC-----U-AAG-UUAAAGCAA-------------UUCAUGCUCU-
+lwe0196      AACCUU-----C-CUUA-AUA-----------------------AUUUUU
+lwe2296      AAGAAG-----U-GGA-----------------------------GAAAU
+lwe0475      AGAACU-----U-CUC-----------------------------GUAAU
+lwe1919      AGCUUG-----A-GCGG----------------------------AUUUC
+lwe2470      GGGCUGU---AA-UAGC-G--------------------------UAAUG
+lwe1607      AGGAUU-----U-CUAU-UA------------------------GUACAA
+lwe1539      GAUGCU-----A-GCU-----------------------------UAAUC
+lwe2089      AGGACU-----U-UGAA----------------------------UUUUU
+lwe0816      GAGUGA-----A-UCAG-CUU----------------------AGCUAAC
+lwe2204      AAGCUA-----U-GGAG-AAAA--------------------GUCAUUUU
+lwe0342      AAGCGU-----C-ACU-----------------------------UCAUU
+lwe2423      AAUCCC-----G-GAA-ACUCUAU----------------UUAGAGACU-
+lwe1531      AGAAGC-----U-GAGC-GC-------------------------GAAUG
+lwe1779      AGCAAUC---A--CGCU-AAA-----------------------UAAUAA
+lwe1488      GUCAAA-----G-UCU-----------------------------ACUGU
+lwe0801      UAAUCC-----U-AAGA-AUGUUGGU-------------AUUCAGAUAUU
+lwe0971      CAACCU-----A-UUUG-UAC-----------------------UUUCGC
+lwe2732      AAAACA-----G-GCGA-UUA-----------------------UUUUCU
+lwe1612      AAGCAC-----U-CGUU-UU-------------------------UAAAG
+lwe0736      GAAGCU-----G-GCGC-AA------------------------AAAAAG
+lwe0361      AGCUAU-----A-AAUG-AAGCGG----------------CAAUGGCUUU
+lwe0018      CCCCCA-----C-UUUC-GG-------------------------CGAUG
+lwe1866      AAGCAG-----A-GAUU-AG------------------------CUCGAA
+lwe1890      GAAUUU-----G-GUGU-A--------------------------UUUUA
+lwe0209      CAACCU-----C-UACA-U--------------------------UAUUU
+lwe1355      CAACGA-----A-UUCC-GAA----------------------CUAUUUG
+lwe1619      AGACGC-----U-UAGG-AU------------------------CUGAUC
+lwe1320      ACAGAC-----C-GCUA-CU-------------------------UAUUU
+lwe1874      GUCAUA-----A-ACAA----------------------------UCCUU
+lwe0451      GAACAA-----A-UUUC-AUG----------------------GAUUGUG
+lwe0552      GCGUUU-----A-GAAA-G--------------------------UUUAU
+lwe2218      AACCUU-----A-CUUC-UA------------------------AAAUAG
+lwe2286      ACCAGA-----U-AUAC----------------------------GAGUG
+lwe0092      AUAGUA-----U-GAGC-C--------------------------AAGUG
+lwe0093      AACAGA-----G-AUCC-G--------------------------AAAUG
+lwe1650      AGCGCA-----A-GUCC-AU-------------------------CCCAG
+lwe1074      GUAAUA-----A-CCAA-AUCA---------------------AUUAAAC
+lwe1056      AAGAAG-----U-AGAG-UAUCUAU--------------UUAUAGGUAUU
+lwe1411      GGCGAA-----A-UCUA-A--------------------------UAAGU
+lwe2079      AGUGAU-----A-GCA-----------------------------AAUGA
+lwe1242      AAAAGG-----A-GCCA-AA------------------------UAAUAA
+lwe1467      CCGACA-----A-UUCU-UUUA---------------------AAAAUGA
+lwe1334      ACUCGU-----U---------------------------------CCAUA
+lwe2452      ACCAUU-----G-GCU-----------------------------ACAAC
+lwe1048      AAGAUG-----G-CUGA-U--------------------------UUUUU
+lwe0155      AAACGA-----G-GCUG-AC------------------------UCAUAG
+lwe0862      AAGAAG-----C-GCUU-CUU-----------------------UUCUUG
+lwe2074      CGGCGA-----G-ACUA-AA------------------------UCAACU
+lwe0438      AGCGCU-----A-UCCU----------------------------UCAAA
+lwe0230      CAGUCC-----C-AC------------------------------UUAG-
+lwe0990      ACAACC-----A-CUAU-U--------------------------UUUUG
+lwe2026      AAUCUC-----U-UGGG-A--------------------------AAUUU
+lwe0898      GACAGC-----A-AUUU----------------------------ACCUA
+lwe1861      GCAAGU-----A-ACGA-GUU----------------------UUAGUUU
+lwe1584      GGCUGC-----C-AUGA----------------------------CAAAG
+lwe1822      AGCCGA-----A-UGAU----------------------------GCUUG
+lwe0435      ACACGG-----A-AAUC-AUU----------------------UCUAUGG
+lwe1768      CAAAAA-----C-CGCC-AUAAUG-----------------GGAUAAAUG
+lwe1499      ACAGGC-----G-GGA-----------------------------ACAAU
+lwe0181      GCACCG-----U-AUUG-GA-------------------------UCAUU
+lwe1639      AAUCCU-----C-CCUU-U--------------------------UUAAC
+lwe0476      AAAAUG-----C-UCUA-GA-------------------------UUUUU
+lwe0445      AAUCUA-----A-CUCA-AU------------------------GCCAUU
+lwe2123      AGCAGU-----A-GACA----------------------------CAUGC
+lwe0434      CCCCCU----CU-AAAA-AA------------------------UCUAAU
+lwe1451      AACUGC-----U-GCAC----------------------------AUUUG
+lwe0621      GCGGAC-----U-GG------------------------------AAUUU
+lwe2259      UCAAUU-----U-UCUU----------------------------UAAGA
+lwe0172      AAAGCA-----U-GCG-----------------------------AUUUU
+lwe1815      AAAAAC-----U-CGUC-A--------------------------AUUUG
+lwe0238      GGGCAU-----A-UCUC----------------------------AUUUG
+lwe0459      AGAGCA-----A-AAUC-CGC----------------------GUUUGCG
+lwe1668      AACAUA-----A-CGAU-AUU----------------------UCAAAUA
+lwe2294      ACGAAA-----A-UUUC-UUC----------------------CUAAAAG
+lwe2538      CAGGGU-----C-AAAC-AUCC---------------------AAUAUAG
+lwe0495      AAGGUU-----U-CCUC-GCA----------------------AAUUUGG
+lwe1182      AGCGCC-----U-CGUC-UU------------------------UAGUUG
+lwe1521      ACACCC-----A-CUUG--------------------------------C
+lwe0105      GGACAC-----U-CUGG----------------------------AUUUU
+lwe2690      AAGCGA-----A-GGGU-UU------------------------AGUUUU
+lwe0588      AGUCCU-----A-UGC-----------------------------CCGUU
+lwe1013      AGCGAG-----G-CCAC-UAU----------------------UUUAGUG
+lwe2209      CAUCAA-----U-CAGA-CU-------------------------AUAAU
+lwe0271      ACCCUA-----G-AUUU----------------------------UCAGG
+lwe2151      AAAGCU----AU-CCUU-A--------------------------AAUUA
+lwe2758      AAGCAG-----U-CGU-----------------------------UUAUU
+lwe0462      AACCUU-----A-AAUU-UAGAUU----------------UAUUCUCUAA
+lwe1718      GACCCC-----A-CCUG----------------------------UUGUU
+lwe1614      AAACCU-----U-GG------------------------------UACG-
+lwe2303      ACAAGA-----U-UUCC-UG------------------------AAAAUG
+lwe2518      CCUGAC-----U-UCU-----------------------------UUUAC
+lwe0748      ACAAGC-----C-GCCC-AUA----------------------AAUAAUA
+lwe2181      GAAGAU-----A-GUC-----------------------------UAACG
+lwe0191      UUGCCU-----C-GA------------------------------GAUU-
+lwe1994      AGGCUA-----G-CGCC-C--------------------------AUUUG
+lwe1409      GCCAUU-----U-UUUC-UUU-----------------------UUUUAG
+lwe2510      UCAGAU-----A-AAUG-CACCUAUU------------UUGUAGGAAUGU
+lwe1865      AAGCAG-----A-GAUU-UC------------------------GAGCUA
+lwe2562      GUUCUU-----G-UUAG-GG-------------------------AUUCC
+lwe0474      AAGGCU-----U-GGAU----------------------------UUUGG
+lwe2585      GGGGCU-----U-CUUU-GA------------------------AUGAU-
+lwe1442      AAACAC-----A-ACCA-AUUAUC----------------UUCACAAAAU
+lwe1819      GUAGCC-----C-UC------------------------------UGAAG
+lwe0934      AGGAUG-----A-GGGU----------------------------AUAUG
+lwe1726      ACGCUA-----A-AACA-GUA-----------------------CGUGCU
+lwe0368      AAGAAU-----C-UGCU-ACCUA-------------------AUAUAGGG
+lwe2618      GACACA-----A-AUGG-UAU----------------------UUUUUAU
+lwe0111      AAGAGC-----G-ACC-----------------------------AAUUU
+lwe1049      AGAAAA-----A-GCUG-UU-------------------------UAUAC
+lwe2227      AAGCUU-----G-GGAC-A--------------------------AUUAG
+lwe0517      AAGCUC-----U-CUCC-CA-------------------------CAAUG
+lwe0183      AGAGGC-----U-GG------------------------------GCUUC
+lwe0480      UCCCCC-----A-UCUA-UU------------------------AAAACC
+lwe1571      AAGAGU-----U-GGAA-UG-------------------------AAAUG
+lwe1101      AAGGCG-----C-GCAC-U--------------------------GAAAG
+lwe2554      GCCAGA-----U-UGCA-UC-------------------------AAAGU
+lwe0753      GGAAUA----AU-UCUU-CUA----------------------UCAAGCG
+lwe1280      GAGUUC-----U-AAGU----------------------------AAUUG
+lwe1641      AAGAGC-----A-AGCC-GAUAA-------------------UUAUUUUG
+lwe2392      GUCUCC-----U-CUG-----------------------------UAAAA
+lwe2224      AAGAUC-----U-GCCA-AUCU---------------------AAAAAUU
+lwe2680      AACAGC-----C-AUGA-AUAAA-------------------AUUUCCAU
+lwe0074      GAUGGC-----U-CCGA-AG-------------------------UAACU
+lwe0878      ACCUUU-----U-AAAC-GAA----------------------GCAACUG
+lwe2374      AUACAA-----A-AGUC-GA------------------------AAAUAG
+lwe2136      AAUCCU-----G-AUGA-A--------------------------AUGAU
+lwe0087      AAGCCA-----C-CUGA----------------------------UUUCU
+lwe2515      AGAAGC-----A-AGAC-AA-------------------------UUAAA
+lwe0186      AGGACC-----U-AG------------------------------UUUUU
+lwe0452      ACAAGC-----C-GUUU-CG-------------------------AGGUA
+lwe0642      UGAGCU-----A-GGAA-A--------------------------ACUUC
+lwe1657      AAAGGC-----G-GAU-----------------------------AAAAA
+lwe1623      AGCGCC-----U-GAU-----------------------------GCUAU
+lwe0192      UCCAGA-----G-CUGU-U--------------------------UUUUA
+lwe1316      ACACCC-----U-GCAC-A--------------------------UUAUG
+lwe0037      ACAGUC-----U-AGAA-U--------------------------UCAUU
+lwe0981      AAACAU-----U-CCU-----------------------------UUUUA
+lwe0269      ACACUA-----U-UCUU----------------------------UAACG
+lwe2659      GGCUAG-----GAGCAG-C--------------------------UAAUU
+lwe2336      AAAAGC-----C-GACG-CA-------------------------UAUUA
+lwe0170      AGUAUC-----C-AAC-----------------------------UUGGU
+lwe1631      ACCAGG-----U-GCA-----------------------------AUUGC
+lwe0575      ACGUCU-----C-UUUG-AU-------------------------UUCUC
+lwe1780      GCAAUC-----C-GCUU-AU-------------------------UAUUU
+lwe0607      ACACUU-----G-GGC-----------------------------AUGUU
+lwe0964      AAGAUU-----G-GCUC----------------------------CUCGG
+lwe0483      GUUUUG-----C-UUGG----------------------------AUUUC
+lwe1658      AUGAAU-----G-GCAG----------------------------GCUGU
+lwe0705      UAGAUC-----A-ACC-----------------------------AGUUA
+lwe2250      GCAGCU-----A-UCC-----------------------------UUUUG
+lwe1955      GAGAGU-----U-UAGG----------------------------GAAAC
+lwe0013      AGCAGC-----A-AACU-AAG----------------------AUAAAUU
+lwe1356      ACGAAU-----A-CCAA-A--------------------------UAGUU
+lwe0153      GAGCCC-----UAAUUC----------------------------ACUUG
+lwe1909      AAAAAU-----U-UUG-----------------------------AACUU
+lwe1070      AAAAGG-----A-CAA-----------------------------GUGAU
+lwe1542      AUGCCA-----U-UUCC-CUU-----------------------UAAACG
+lwe0279      AAUACU-----C-UUAG-A--------------------------AAUUC
+lwe1835      AGUGCA-----G-CGAC-AA-------------------------UUAUG
+lwe0538      AACCGA-----G-GAU-----------------------------GCGGA
+lwe1626      AAGUUU-----G-GCUC-UU------------------------CAAUGG
+lwe1964      GAGCCU----AG-GGAG----------------------------ACUGU
+lwe1588      UAAAGC-----U-GGAU-A--------------------------CGCUA
+lwe2432      CCAGCU-----A-CAUU-UUAAGGCUUA--------AAACAGGCUUUUAG
+lwe0601      GAGUCU-----A-GGC-----------------------------AAAGU
+lwe0984      UAAAGC-----A-UUUC-CU-------------------------AAUGA
+lwe0838      GAAGAA-----C-UAGC-CAGAG-------------------UUUUUGCG
+lwe1902      AACCGA-----U-ACCU-GGC-----------------------UUAGAG
+lwe0839      GAAGCU-----A-GCUU----------------------------UCAUU
+lwe0449      AGUAGC-----U-AUUU-GU-------------------------GACAG
+lwe2300      GCGUUU-----U-UAAG-AA-------------------------UAAAU
+lwe0781      CAAUAU-----U-CAGC-UGUAA-------------------AAAUCAAG
+lwe0941      AGAGAU-----U-AGUU-G--------------------------CUUAA
+lwe2124      AAGCAG-----U-AGAC-GC-------------------------AUGUG
+lwe1487      GGUCGA-----U-AGUU-GUGC--------------------GAGAAGCA
+lwe1427      AUCGUG-----U-UAGA-UUG----------------------GUUAAUU
+lwe1528      AAAGCC-----U-AUU-----------------------------UUAAA
+lwe2219      GUUGCU-----U-UAAC-GAUU---------------------AUUUUAG
+lwe1261      AAAAAG-----C-ACUC-AU-------------------------UGAUG
+lwe0185      AAGGAG-----U-GCCU----------------------------AACUG
+lwe2660      AAAGAA-----C-AGCU-AC-------------------------UCUGG
+lwe1636      ACUGCU-----G-CAAA-GC------------------------UUAGUU
+lwe2591      GAACAA-----U-GCUC-CUUA---------------------CUUCUUG
+lwe1747      AAGGGC-----A-AAUG-AUCC--------------------ACUUUGCC
+lwe1896      GUUCCA-----A-AAGU-GGA-----------------------UUCGCG
+lwe0974      ACCAGA-----A-GUGC-A--------------------------UAGUG
+lwe1260      AAAAGC-----A-CCCA----------------------------UCAAU
+lwe0430      AAAUCC-----A-AUCC-UU------------------------UUAAAG
+lwe2128      AAAGAG-----C-CUC-----------------------------GAGAU
+lwe2601      GCCAGU-----GGGGCA-CU-------------------------AAGUU
+lwe1683      CCGAGC-----A-UUUC-AU-------------------------CUUAG
+lwe1256      AAACGC-----C-AAUC----------------------------AAAUA
+lwe1232      AAAUGC-----C-AGCGAUGAA--------------------CCGUUGA-
+lwe0629      AACCGU-----C-CA------------------------------GUGUU
+lwe0754      ACUACG-----A-AUAG-C--------------------------AAGCC
+lwe1381      CCGGAA-----A-GCA-----------------------------AGGAU
+lwe1550      GC-UGC-----G-CCAA----------------------------UCAUU
+lwe1099      AAAACC-----U-GCUA----------------------------AUUUU
+lwe1553      AAACCG-----U-CA------------------------------UUCG-
+lwe0128      GCCAGC-----A-AUU-----------------------------UUUAA
+lwe1616      UAGAGU-----G-GA------------------------------AAAAA
+lwe1738      CCAAGU-----G-UGUA-UU-------------------------GUUUU
+lwe1743      AAGCUA-----G-GAAG-AGGCUA-----------------CCACGCUGC
+lwe1415      AGGUAC-----A-UCGC-GAAU--------------------UUAUUUUG
+lwe1407      AGCAGU-----C-UAGA-UA-------------------------UAAUU
+lwe2686      AAAAGU-----G-CGGU-AUGAG-------------------AAAUCUGU
+lwe0571      AUGCGC-----U-AAUU----------------------------AUUUA
+lwe0381      AACAUG-----C-AACG----------------------------AAAAA
+lwe2252      AUACUC-----G-CUGU----------------------------UUCGG
+lwe1310      AGACAA-----G-AAAC-UCGUUU-----------------UUGGCGAUG
+lwe1565      GACCUU-----A-UCAU-GAA-----------------------AACGAA
+lwe1635      AGCCUU-----C-CU------------------------------UUUUU
+lwe0450      CUAUCUG---GU-UUCC----------------------------AUUUG
+lwe2637      AUGCGU----GC-GGGC-AAA-----------------------GUACUG
+lwe1308      AGCGCU-----U-AUCU----------------------------UUUGA
+lwe1674      ACCCUG-----U-AUUU-UC------------------------UUAGGA
+lwe0351      AAGUAC-----C-UUAG-AA------------------------AGUUGU
+lwe1797      AGUGAG-----G-CUAG-A--------------------------UUAAC
+lwe1617      UAGAGU-----G-GA------------------------------UUUUU
+lwe2765      AAAUCC-----G-UCCC-AA------------------------UUAAAG
+lwe0844      AAAAUC-----A-AACU-UUUU---------------------CCUUUAC
+lwe0583      AAAGCU-----A-GAUG----------------------------CUAUC
+lwe0220      GAAGAA-----G-UGGC-AGAUAU-----------------UGUGCAAUG
+lwe2206      AAGCAAU---UA-UAA-----------------------------UCUUC
+lwe1675      AGGUGA-----U-AAGG-CA-------------------------CUAUU
+lwe2004      ACUACA-----A-AGCA-AU-------------------------UCGUU
+lwe2387      AGUUGGA---GG-UGCG-GUAAU-------------------UGGAUAGC
+lwe1572      AAUACU-----G-UCUC-C--------------------------AAGUG
+lwe1525      CCGGAGA---AU-CUUG-UU------------------------UUCUAC
+lwe2541      AGAGGGC---CC-AGA-----------------------------UAAUU
+lwe2107      AACAGA-----A-AGUU----------------------------CUAGA
+lwe0605      CAUUUU-----A-AUUG----------------------------UACGC
+lwe2544      AAACUC-----U-CUC-----------------------------AUUUG
+lwe1461      AAAGGU-----C-CA------------------------------UAAUA
+lwe1265      GAAGCA-----U-UGCA-AA-------------------------UAAAC
+lwe0116      UAGACU-----A-GGU-----------------------------UUUAA
+lwe2650      AAAAAG-----G-CUG-----------------------------AUUUU
+lwe0687      AUCCUG-----U-UCCC-AG-------------------------UAAAG
+lwe0749      ACACCA-----G-CAAC-UU-------------------------UCGGG
+lwe2271      GAAGCA-----U-UCC-----------------------------CACUG
+lwe0725      AAACUC-----U-GAGA-UA------------------------UAGAUU
+lwe2372      GGCCGG-----C-UUGG-GA-------------------------UAACC
+lwe0518      ACAGCU-----U-GAGC----------------------------UGAGG
+lwe1418      AAAACU-----G-CUGA----------------------------AACAC
+lwe1794      GAACUU-----A-CCU-----------------------------AUAAU
+lwe2225      AAGAAG-----U-GC------------------------------CUCUU
+lwe1302      AGCAGG-----U-UCUU----------------------------AUAGC
+lwe0145      GCCUUU-----C-UCG-----------------------------AUUUA
+lwe0149      UCAUGCA---AG-AGGU-CUGA---------------------AAAAGAA
+lwe0559      GAGGAC-----A-GA------------------------------GUAA-
+lwe1582      ACCUCU-----A-UGGG-AAA-----------------------GACUUU
+lwe1267      AAGCAC-----U-GCAA-AA------------------------UCAAAU
+lwe2287      GAAAUC-----G-UCUU-UUGA--------------------AUGAAAAA
+lwe2542      AGAGGG----UC-AGA-----------------------------AAUUA
+lwe0831      AAAGGG-----G-UUCC-A--------------------------AUGUG
+lwe0389      ACUUGC-----U-CAAA-GCU-----------------------UUUAUU
+lwe2661      AAAGAG-----C-AGCC-CA-------------------------GAGUA
+lwe0164      GAAAUC-----C-AGAA-UU------------------------UUGUUC
+lwe0221      AAGGGA-----A-ACUA-CC------------------------AAAUAA
+lwe0272      AACCCU-----A-GAUU-CC-------------------------UGAAA
+lwe1893      AAACGU-----U-GCCU-AU-------------------------UUGCG
+lwe2735      AAGUAA-----U-CAGC----------------------------UUAGG
+lwe0337      AAAGGU-----G-GGC-----------------------------AUAUC
+lwe0759      GCCUAG-----G-AUAA----------------------------AUUCG
+lwe1167      AACCUC-----U-CCGG-AAUU---------------------UAUUGUC
+lwe2335      AAAAAG-----C-CGAC-UAA-----------------------UAUGCG
+lwe0889      GUAGCC-----A-GAUA-AA-------------------------UUUUU
+lwe0549      ACCUGU-----G-GAGC-AGG----------------------AAGUUCG
+lwe0090      CAAGGA-----A-AUA-----------------------------GCUUA
+lwe0830      UACCAA-----U-CAGA----------------------------GAAUU
+lwe2525      AAGCCU-----U-CUCU-GC------------------------GAAAUC
+lwe0797      AACUCC-----C-UAUU----------------------------AAUUA
+lwe0808      AACAGC-----U-CUA-----------------------------GUUAA
+lwe0933      AAGCAA-----A-AAUC-AUU----------------------UCAGUAG
+lwe0995      ACUGUU-----U-CGUC----------------------------UUUUG
+lwe2431      CUCCGU-----A-GCCU-AGC----------------------AAACAU-
+lwe0989      AAACAA-----C-CACU-ACA----------------------AAAAAUA
+lwe1249      AAAAAG-----A-GCC-----------------------------UCCGG
+lwe2162      AAAGUA-----G-GGCU----------------------------UUCUA
+lwe2740      AGCUCGA--UAA-UUGU-UAAAC-------------------AAUCUACA
+lwe2486      GGAAAC-----U-AGGC-UU-------------------------UAUUG
+lwe1845      ACUGCU-----C-CGCU----------------------------UCAUU
+lwe2396      CUAAAC-----C-UAGU-UAUGUAACAC---------UUAGUUAGAUAAA
+lwe1402      AAAGGU-----U-GCGA-CU-------------------------UUAUG
+lwe1032      GCGGAA-----A-UACC-CA------------------------UAAAGG
+lwe0354      UAGGGU-----U-AAG-----------------------------GCUAA
+lwe2474      AACCGU-----A-UC------------------------------UUUUA
+lwe1638      AAAAUC-----C-UCCC-CGU----------------------UAAAAAG
+lwe2112      GCUGGA-----G-CGCU----------------------------UAUGA
+lwe2608      AAAACU-----A-GGU-UGCCU---------------------AAAAAG-
+lwe1552      AACGAG-----A-GUC-----------------------------UUCGG
+lwe2453      GCACCU-----U-UGUC-GAU----------------------UUUAAAA
+lwe1370      ACAGCU-----G-GAGU-U--------------------------UAAAU
+lwe0158      CCGAAC-----C-GU------------------------------AUAGU
+lwe0214      GACCUU-----A-GAUA-C--------------------------UAGCU
+lwe2776      AGACUG-----A-GGUU-UU-------------------------UAGGA
+lwe2121      AACGUG-----U-GAGG-AGG-----------------------UUUAG-
+lwe1730      GCAAGC----A--UCC-----------------------------GUUUU
+lwe0254      AGAAGU-----C-CUCU-UG-------------------------UGAUA
+lwe2326      UAAACC-----U-AAGU-U--------------------------UUUUU
+lwe1557      ACCCUU-----U-AUC-----------------------------UUUUG
+lwe2439      GGAAAG-----U-AAGA-UGGAU-------------------CAAAUAA-
+lwe1422      CAAGGA-----U-UGCU-CA------------------------CCAGUA
+lwe2514      AGAAGC-----A-AGAU-UU-------------------------AAUUG
+lwe2502      GGCUGA----GC-GAA-----------------------------UGGAC
+lwe2295      AGCUAG-----G-CUAA----------------------------UUUUU
+lwe0695      AGACCU-----U-UUCG-A--------------------------AAAUG
+lwe0218      UAGAAU-----U-UCUU----------------------------UGGCU
+lwe0751      AAAAAC-----A-GAGA-UU------------------------GCUCUU
+lwe1995      AAAUAC-----C-UUG-----------------------------UAACU
+lwe1457      AACCAC-----U-UGUA-C--------------------------UCUUU
+lwe1241      AAAGGA-----G-CCUU-A--------------------------UUAUU
+lwe1469      GGCAGG-----A-GGAC-A--------------------------AAUCG
+lwe0954      AGCUGU-----G-GAUG----------------------------ACAUU
+lwe2187      UAGAGU-----G-GA------------------------------AAAAA
+lwe0467      AGCAUC-----U-GUGA----------------------------UUUUU
+lwe2665      AAGCUA-----G-AG------------------------------AUUU-
+lwe1430      ACCUUA-----A-UUAC-A--------------------------UUUGG
+lwe1632      AUCGCU----UG-GAA-----------------------------GAAUU
+lwe0624      AAAGCA-----U-CAAA-UGC----------------------GCGCUUU
+lwe2127      AAAAGA-----G-CCUA----------------------------UCUCG
+lwe0750      AAAAAC-----A-GAGA-AG------------------------AGCAAU
+lwe2494      AAGCUA-----U-GUCC----------------------------ACUCG
+lwe0863      AAGAAG-----C-GCUC-AAG-----------------------AAAAGA
+lwe0085      GUUUCA-----A-UGGA-UG-------------------------UCUGU
+lwe0028      GCGCGA-----A-AAUA-A--------------------------UAUUU
+lwe1014      CGAGGCU---AC-ACU-----------------------------AAAAU
+lwe0330      GGAGUG-----U-GGC-----------------------------UUAUA
+lwe1860      AAGGGA-----U-AGCC-UU-------------------------UGGAA
+lwe1498      AGAAAG-----U-AAUU-UU-------------------------UCAUG
+lwe2273      AAAGGA-----G-CCU-----------------------------UGAAC
+lwe1858      AAACCU-----C-UGCA-GACA--------------------AAAAAAUC
+lwe0372      CCCAGU-----A-AUUU-CAU-----------------------UUAAGA
+lwe1042      GAAUGU-----A-UGGC-CCAUG-------------------AUUUUAGG
+lwe0628      AAAAUA-----G-CGGC-AUG----------------------AAAAUUG
+lwe0124      CAGAGG-----G-AACC-UUUAUA----------------UAUUCUAAAG
+lwe2529      CCAAGC-----U-AUCU-UUUC---------------------AAACAAA
+lwe1041      GAAUGU-----A-UGGC-CUAAA-------------------AUCAUGGG
+lwe1300      GCCAGA-----A-GAGC-UA-------------------------AACUG
+lwe1628      AACGAC-----U-CCUA----------------------------AUUUU
+lwe2703      GCGACC-----C-ACUC-A--------------------------AUAUG
+lwe0501      GCAACG-----U-UAGG----------------------------CUAUC
+lwe0627      AAAAUA-----G-CGGC-AAU----------------------UUUCAUG
+lwe1965      AGUGCU-----A-CAUU-UUCUGAA---------------CUAAAUGAAA
+lwe1301      GCCAGA-----A-GAGC-AG-------------------------UUUAG
+lwe1591      AGCGAA-----C-UUCC----------------------------UCUGG
+lwe0436      CUGUAA-----A-CAAA-GAC----------------------AUUAUUU
+lwe2673      UAGAAG-----U-CCUC----------------------------CAAUG
+lwe0916      ACGGUU----GC-GCGC-UUUU--------------------AAUGAAUG
+lwe0084      AGAGGC-----U-GGGG-CA------------------------AAAUUC
+lwe1322      CCAUGU-----A-GAAU-UAGUUAA---------------GCUUAACUAA
+lwe0976      AAUCUU-----U-CCGC-G--------------------------AAAUG
+lwe2467      ACUCCC-----A-ACAA-CUAU--------------------UAACAAGU
+lwe0904      GCGAGU-----C-CAGA-A--------------------------UUUUU
+lwe0703      GGCGCU-----C-UUUC-UUU-----------------------UUCAUG
+lwe1045      AAGCCA-----A-GUUA-UUUUAGAGUGGAUUUGUUCUACUACUUAAAAU
+lwe1629      GCGCCA-----A-AAUA-UGAU--------------------UAAGUCUU
+lwe1664      GACAGC-----U-UCC-----------------------------CGAGC
+lwe0739      CGCCAC-----G-CUCA-CUUU---------------------CCUAUUU
+lwe2240      GCUUUA-----U-UAUU----------------------------UGUUA
+lwe1258      GAGGCA-----C-AAUC-CAU-----------------------UCAAAG
+lwe0952      AUCCAA-----A-AGUA-GUCU---------------------UAAAACU
+lwe0905      GCGAGU-----C-CAGA-A--------------------------AAAUU
+lwe2279      AAGCUG-----C-AAGG-UAAU--------------------GGCUAAAC
+lwe2682      ACCCGC-----U-AGCC-UGA-----------------------UUUAAG
+lwe0977      ACCUCC-----U-AAUC-A--------------------------AAUUG
+lwe1321      ACCAUG-----U-AGAA-UUAGUUAA-------------GCUUAACUAAU
+#=GC SS_cons <<<<<<.....<.<<<<.__.........................____>
+#=GC RF      Aaaagc.....u.ucuc.au.........................uaaug
+
+lwe1191      AGAUGUACAUCCUAAUUU-----AGGAGUAGUCGCGUUACUUCA-A----
+lwe1887      -----------------------------------------CCA-U----
+lwe2774      -----------------------------------------UCC-G----
+lwe1494      -----------------------------------------ACA-A----
+lwe0141      -----------------------------------------UGC-U----
+lwe0567      -----------------------------------------AAU-A----
+lwe2672      -----------------------------------------GAC-U----
+lwe2305      -----------------------------------------GAA-C----
+lwe1010      -----------------------------------------CUC-C---A
+lwe2730      -----------------------------------------GUU-U----
+lwe1765      -----------------------------------------AGA-A----
+lwe2722      GCCAUUUGCGAAAA------------AAGAUGGCUUAAGAGAGU-U----
+lwe2270      -----------------------------------------AGG-U----
+lwe0437      -----------------------------------------UGU-U----
+lwe2448      -----------------------------------------CCU-A----
+lwe0697      -----------------------------------------UUA-C----
+lwe1912      -----------------------------------------GUC-U----
+lwe2167      -----------------------------------------AUA-A----
+lwe1439      -----------------------------------------ACU-U----
+lwe0604      -----------------------------------------CUG-C----
+lwe1058      -----------------------------------------GUA-U----
+lwe0373      -----------------------------------------UAC-U----
+lwe0693      -----------------------------------------CUC-U----
+lwe2705      -----------------------------------------AGG-U----
+lwe0378      -----------------------------------------GCU-A----
+lwe1059      -----------------------------------------UGU-A----
+lwe0544      -----------------------------------------AUU-UU--G
+lwe0865      -----------------------------------------CAU-G----
+lwe1987      -----------------------------------------CCC-A----
+lwe0746      -----------------------------------------AAU-G----
+lwe1585      -----------------------------------------GGA-A----
+lwe0996      -----------------------------------------AAU-U----
+lwe0756      ACUUG------------------------------AAUGAUACA-G----
+lwe0640      GUCU---------------------------------GGCUUUC-C----
+lwe0038      -----------------------------------------CAC-A----
+lwe1054      -----------------------------------------AGU-A----
+lwe0738      -----------------------------------------AGC-G----
+lwe2683      -----------------------------------------GGC-U----
+lwe2165      -----------------------------------------AAU-A----
+lwe2775      -----------------------------------------AUA-U----
+lwe0953      -----------------------------------------UAC-U----
+lwe1365      -----------------------------------------ACA-A----
+lwe0694      -----------------------------------------CUU-U----
+lwe2756      AUA----------------------------------GCGGAUU-C----
+lwe2093      -----------------------------------------UUC-U----
+lwe2278      ------------------------------------------CU-A----
+lwe1592      -----------------------------------------AAG-U----
+lwe0486      -----------------------------------------AAA-U----
+lwe2652      -----------------------------------------AGU-A----
+lwe1682      -----------------------------------------CUA-G----
+lwe1190      ACGCGACUACUCCUAAAUUAGGAUGUACAUCUGUUACCUCAAGC-U----
+lwe2063      -----------------------------------------UGC-U----
+lwe2185      -----------------------------------------CUA-A----
+lwe0293      -----------------------------------------GGU-A---A
+lwe2095      -----------------------------------------UCC-C----
+lwe0959      -----------------------------------------GAA-A----
+lwe2113      -----------------------------------------UUU-C----
+lwe0579      -----------------------------------------AGU-C----
+lwe0178      -----------------------------------------UUC-A----
+lwe1366      -----------------------------------------ACA-A----
+lwe1483      -----------------------------------------AAG-GA--U
+lwe0945      -----------------------------------------GGU-U----
+lwe0997      -----------------------------------------AAU-U----
+lwe2712      -----------------------------------------ACC-U----
+lwe0572      -----------------------------------------GAU-A----
+lwe1089      -----------------------------------------AUU-A----
+lwe2403      -----------------------------------------UUC-G----
+lwe0702      -----------------------------------------AGC-G----
+lwe1849      -----------------------------------------UGA-A----
+lwe0580      -----------------------------------------UCA-C----
+lwe0113      ----------------------------------------CACC-A----
+lwe1007      -----------------------------------------AUU-U----
+lwe0140      -----------------------------------------UAC-U----
+lwe1810      -----------------------------------------GUU-U----
+lwe1663      -----------------------------------------GGA-A----
+lwe0114      UGGUAAAUUG---------------------CCAUUCUCACACC-A----
+lwe0080      -----------------------------------------AUA-U----
+lwe0610      -----------------------------------------GGA-A----
+lwe1535      CG------------------------------------UCUGAA-U----
+lwe1177      -----------------------------------------AGG-U----
+lwe2191      -----------------------------------------UGA-U----
+lwe2752      -----------------------------------------UUG-U----
+lwe2410      UAGGAU-----------------------------GUGGGACAA-A----
+lwe1455      -----------------------------------------AGA-A----
+lwe1708      -----------------------------------------CCG-G----
+lwe0563      -----------------------------------------CUG-G----
+lwe2646      -----------------------------------------GUU-U----
+lwe1862      -----------------------------------------CGU-U----
+lwe2194      -----------------------------------------GGA-U----
+lwe2012      -----------------------------------------UAG-A----
+lwe0897      -----------------------------------------UUU-G----
+lwe1886      -----------------------------------------CCA-U----
+lwe0295      -----------------------------------------AAA-C----
+lwe2466      -----------------------------------------UUG-U----
+lwe0382      -----------------------------------------UUG-A----
+lwe1039      -----------------------------------------CUC-U----
+lwe0433      -----------------------------------------ACU-A----
+lwe2593      -----------------------------------------CAC-A----
+lwe1414      -----------------------------------------CUA-C----
+lwe1820      -----------------------------------------GGU-U----
+lwe1681      AAUA---------------------------------GCCAGUC-U----
+lwe2539      -----------------------------------------ACU-U----
+lwe0560      -----------------------------------------GAG-G----
+lwe1440      -----------------------------------------ACC-U----
+lwe0240      -----------------------------------------UUU-C----
+lwe2222      -----------------------------------------GAA-A----
+lwe1970      -----------------------------------------GCG-C----
+lwe1723      UGUAGAU---------------------------AAAGGAUGCA-U----
+lwe1704      -----------------------------------------UCC-AA--A
+lwe1243      ------------------------------------------GU-U----
+lwe0022      UAUGCCAUUUUUUGG----------AUGGUGUUACACAAUGAUU-U----
+lwe0261      -----------------------------------------UUG-G---A
+lwe0331      -----------------------------------------AGC-A----
+lwe0921      -----------------------------------------UCC-G----
+lwe2530      -----------------------------------------AUA-G----
+lwe1053      -----------------------------------------AGU-A----
+lwe2061      -----------------------------------------GUC-U----
+lwe2168      -----------------------------------------AUA-A----
+lwe0151      -----------------------------------------CAU-A----
+lwe0458      -----------------------------------------GAU-U----
+lwe2667      -----------------------------------------AGC-A----
+lwe0173      UUUG--------------------------------CGAUAUCU-C----
+lwe1594      -----------------------------------------AGA-A----
+lwe1766      -----------------------------------------AGC-G----
+lwe0313      -----------------------------------------UUG-C----
+lwe0566      -----------------------------------------AGA-U----
+lwe2197      -----------------------------------------AUU-U----
+lwe0332      -----------------------------------------AGC-A----
+lwe2035      -----------------------------------------AGU-U---C
+lwe0541      -----------------------------------------GUU-U----
+lwe0311      -----------------------------------------GAC-G----
+lwe0523      -----------------------------------------CCA-U----
+lwe0543      ------------------------------------------AG-A----
+lwe1735      -----------------------------------------AUU-G----
+lwe0850      -----------------------------------------CUG-A----
+lwe1593      -----------------------------------------AGA-A----
+lwe0468      -----------------------------------------UCA-G----
+lwe2237      -----------------------------------------CGA-G----
+lwe0551      -----------------------------------------CGA-A----
+lwe0310      -----------------------------------------UAG-A----
+lwe2592      -----------------------------------------ACA-A----
+lwe2450      -----------------------------------------AGC-A----
+lwe1314      -----------------------------------------GGA-A----
+lwe1188      -----------------------------------------CUA-A----
+lwe0298      -----------------------------------------CAA-A----
+lwe2011      -----------------------------------------AGA-G----
+lwe2161      -----------------------------------------UCA-C----
+lwe2096      -----------------------------------------CCC-G----
+lwe0611      -----------------------------------------GGA-A----
+lwe0928      -----------------------------------------UUA-A----
+lwe2078      ------------------------------------------UU-G----
+lwe1477      -----------------------------------------CCA-G----
+lwe2085      AGCUG-------------------------------ACUAGAGU-U----
+lwe1943      -----------------------------------------AGA-U----
+lwe0931      CCA----------------------------------AGGAGCA-A----
+lwe1514      -----------------------------------------UCA-A----
+lwe0760      ----------------------------------------AGAA-A----
+lwe1036      CAAAUGUAGCCA----------------UUUUGUUUCAUUCGCA-U----
+lwe2080      -----------------------------------------UGC-U----
+lwe1947      -----------------------------------------AGC-U----
+lwe0548      -----------------------------------------GGC-A----
+lwe2497      -----------------------------------------UGG-A----
+lwe0901      -----------------------------------------AUG-C----
+lwe2594      -----------------------------------------ACU-U----
+lwe0524      -----------------------------------------CCA-U----
+lwe0641      -----------------------------------------CCU-A----
+lwe2635      -----------------------------------------ACG-G----
+lwe2323      -----------------------------------------AAA-A----
+lwe1869      -----------------------------------------GAC-U----
+lwe0511      -----------------------------------------UUU-G----
+lwe1046      -----------------------------------------GGG-C----
+lwe2268      -----------------------------------------AAG-U----
+lwe0733      -----------------------------------------GGC-A----
+lwe2114      -----------------------------------------UUU-C----
+lwe2013      -----------------------------------------AUU-U----
+lwe2731      -----------------------------------------GGG-U----
+lwe1031      -----------------------------------------GUA-U----
+lwe0594      UUAA--------------------------------GGAUUUCA-C----
+lwe2070      -----------------------------------------ACA-A----
+lwe2324      -----------------------------------------AAA-A----
+lwe2553      -----------------------------------------GCA-A----
+lwe1066      UUUAAUUAUUAG-----------------GUGGUGGGCUUGUUU-U----
+lwe0980      -----------------------------------------ACU-C----
+lwe0499      -----------------------------------------UUG-G----
+lwe2364      -----------------------------------------GUA-A----
+lwe2717      -----------------------------------------AGU-U----
+lwe1850      -----------------------------------------GUG-A----
+lwe1758      -----------------------------------------CAC-U----
+lwe0119      -----------------------------------------UCA-A----
+lwe0593      AAA----------------------------------GGAAUUC-A----
+lwe0032      CAAAGUCUGAUU-----------------UUUGGUCACUUCAUU-G----
+lwe0007      AAUUA------------------------------GAAUGAUUU-U----
+lwe2418      -----------------------------------------CAA-A----
+lwe2509      -----------------------------------------GCU-A----
+lwe1911      -----------------------------------------GUC-U----
+lwe0573      AUUUUUC---------------------------AACUAGAAUA-G----
+lwe0689      -----------------------------------------AGA-G----
+lwe2339      -----------------------------------------CUC-A----
+lwe2092      -----------------------------------------UUC-U----
+lwe0500      -----------------------------------------UUG-G----
+lwe2166      AAAGUAAUU-----------------------UUUUCUAAAAUA-C----
+lwe2207      ----------------------------------------CCAA-A----
+lwe1709      -----------------------------------------CCG-G----
+lwe2353      ------------------------------------------UG-C----
+lwe1705      -----------------------------------------UCC-A---A
+lwe1047      -----------------------------------------GGG-C----
+lwe1025      -----------------------------------------CGC-C----
+lwe1803      -----------------------------------------AGU-G----
+lwe0915      -----------------------------------------CGC-G----
+lwe2537      -----------------------------------------GUU-U----
+lwe0755      CAAGUAAAA----------------------AUGAAUGAACAAG-A----
+lwe2077      -----------------------------------------UUU-G----
+lwe1540      -----------------------------------------GAA-U----
+lwe2169      AAUA--------------------------------GGCGGCUU-A----
+lwe1988      -----------------------------------------CCC-A----
+lwe2389      ------------------------------------------GC-A----
+lwe0250      -----------------------------------------CUU-U----
+lwe1354      -----------------------------------------AUU-G----
+lwe1179      -----------------------------------------AGU-A----
+lwe0247      -----------------------------------------GGA-A----
+lwe1459      UGUUUUUGACGG-----------------GAAUCAAAACCAGUA-A----
+lwe1944      -----------------------------------------AGA-U----
+lwe0730      ------------------------------------------GG-G----
+lwe2254      -----------------------------------------CUC-A----
+lwe1449      -----------------------------------------GGA-U----
+lwe0690      -----------------------------------------AGA-G----
+lwe0747      -----------------------------------------GGC-G----
+lwe2276      -----------------------------------------UGU-U----
+lwe1684      -----------------------------------------UUA-G----
+lwe1009      -----------------------------------------GGC-U----
+lwe1290      -----------------------------------------AAA-A----
+lwe2255      -----------------------------------------CUC-C----
+lwe1297      -----------------------------------------AGA-G----
+lwe1549      -----------------------------------------UGC-G----
+lwe0658      -----------------------------------------UCC-A----
+lwe1476      -----------------------------------------CCA-G----
+lwe1507      -----------------------------------------UCC-A----
+lwe2700      -----------------------------------------GAA-A----
+lwe2129      -----------------------------------------GUG-G----
+lwe1174      -----------------------------------------AUC-A----
+lwe2651      -----------------------------------------AGU-A----
+lwe0813      -----------------------------------------CUA-A----
+lwe0168      -----------------------------------------CGA-C----
+lwe0431      -----------------------------------------GAU-A----
+lwe2205      -----------------------------------------GAU-U----
+lwe0460      -----------------------------------------CGC-U----
+lwe0613      -----------------------------------------CUU-A----
+lwe0907      -----------------------------------------CUG-U----
+lwe2417      -----------------------------------------CAA-A----
+lwe0248      -----------------------------------------UGA-G----
+lwe1678      -----------------------------------------GCG-G----
+lwe0491      -----------------------------------------GAG-G----
+lwe0228      -----------------------------------------UAC-A----
+lwe0520      -----------------------------------------AGG-A----
+lwe1347      -----------------------------------------CUA-C----
+lwe1878      CGUAGAAUAAU------------------AUCGCGAAAUCAUUC-U----
+lwe0908      -----------------------------------------CUA-U----
+lwe2706      -----------------------------------------CUU-A----
+lwe2174      -----------------------------------------AAG-C----
+lwe0815      -----------------------------------------UGA-U----
+lwe2137      -----------------------------------------UCA-U----
+lwe1900      GAUG--------------------------------CCAGUUUG-C----
+lwe2319      -----------------------------------------CUU-G----
+lwe1971      -----------------------------------------AGC-G----
+lwe0893      -----------------------------------------CUA-A----
+lwe2138      -----------------------------------------UCA-U----
+lwe2408      -----------------------------------------ACU-U----
+lwe2751      -----------------------------------------UGU-U----
+lwe1394      -----------------------------------------GGU-U----
+lwe2363      -----------------------------------------GUA-A----
+lwe1392      -----------------------------------------GAG-U----
+lwe2435      -----------------------------------------GCG-C----
+lwe1108      -----------------------------------------UGA-A----
+lwe0139      GUCUCUAC-------------------------AAAGAACAUUU-U----
+lwe2508      -----------------------------------------GCU-A---A
+lwe2748      -----------------------------------------AGA-A----
+lwe2152      -----------------------------------------GAG-A----
+lwe0561      -----------------------------------------CGA-G----
+lwe2472      -----------------------------------------UUU-U----
+lwe2321      -----------------------------------------CCA-C----
+lwe0235      -----------------------------------------UCA-A----
+lwe0294      -----------------------------------------AUC-A----
+lwe1600      -----------------------------------------GCC-A----
+lwe2037      -----------------------------------------UAU-A----
+lwe1312      ------------------------------------------CA-U----
+lwe2639      -----------------------------------------AAG-A----
+lwe2506      -----------------------------------------GAU-UU--U
+lwe0810      -----------------------------------------UGA-C----
+lwe2141      -----------------------------------------UGA-U----
+lwe2215      -----------------------------------------AAG-U----
+lwe2147      -----------------------------------------UCC-U----
+lwe0912      -----------------------------------------UGC-U----
+lwe0773      -----------------------------------------GUA-G----
+lwe2193      -----------------------------------------GGA-U----
+lwe0922      -----------------------------------------AUUCC----
+lwe0045      UGAUU------------------------------UAGAGUUCA-C----
+lwe1883      -----------------------------------------GAG-A----
+lwe0355      U---------------------------------------UAGG-U----
+lwe0565      -----------------------------------------AGA-U----
+lwe0885      -----------------------------------------AUG-A----
+lwe1671      -----------------------------------------GUG-A----
+lwe1716      -----------------------------------------CGC-A----
+lwe1534      UCC----------------------------------AUCUGAA-U----
+lwe2411      -----------------------------------------UGC-U----
+lwe0249      -----------------------------------------UUU-G----
+lwe0392      -----------------------------------------GAU-U----
+lwe0432      -----------------------------------------AGA-U----
+lwe1278      -----------------------------------------GGU-U----
+lwe1001      -----------------------------------------CUUUU----
+lwe0834      -----------------------------------------AAG-G----
+lwe2334      -----------------------------------------UGC-C----
+lwe2005      ------------------------------------------UC-A----
+lwe1277      -----------------------------------------GGC-U----
+lwe2265      ------------------------------------------CA-A----
+lwe2134      -----------------------------------------UAG-A----
+lwe0017      -----------------------------------------UCU-A----
+lwe2419      -----------------------------------------GUU-U----
+lwe2053      -----------------------------------------GCA-U----
+lwe2036      AGGGAG-----------------------------AAGUUCUGC-U----
+lwe1967      -----------------------------------------UCC-G----
+lwe0266      -----------------------------------------GAG-A----
+lwe1431      -----------------------------------------UGA-U----
+lwe1131      AAACUGU---------------------------UAUUUGUCUU-U----
+lwe0481      -----------------------------------------AGA-U----
+lwe2714      ----------------------------------------AGGU-C----
+lwe2256      -----------------------------------------GCU-U----
+lwe2246      -----------------------------------------UGA-A----
+lwe0472      -----------------------------------------AGG-U----
+lwe2202      -----------------------------------------CUU-A----
+lwe0620      UUCCAUUAUCCAAA-------------AUGGCUUAUGCAAUGGU-U----
+lwe1346      -----------------------------------------CUA-C----
+lwe2602      -----------------------------------------GCU-U----
+lwe2527      -----------------------------------------GGU-G----
+lwe1993      -----------------------------------------GCG-C----
+lwe0076      -----------------------------------------CUA-U----
+lwe2269      -----------------------------------------GAG-U----
+lwe0485      -----------------------------------------GAC-U----
+lwe2587      -----------------------------------------GGG-C----
+lwe1804      -----------------------------------------AGU-G----
+lwe0117      -----------------------------------------GGC-A----
+lwe1771      -----------------------------------------CUU-C----
+lwe1401      -----------------------------------------AGA-U----
+lwe0255      -----------------------------------------AGG-G----
+lwe1949      -----------------------------------------ACA-UU--A
+lwe0634      ----------------------------------------GACG-A----
+lwe0578      -----------------------------------------CCA-C----
+lwe0564      -----------------------------------------CUG-A----
+lwe0547      -----------------------------------------GAC-A----
+lwe0009      -----------------------------------------CGC-C----
+lwe0911      -----------------------------------------UGC-U----
+lwe2736      ------------------------------------------AA-C----
+lwe0484      ----------------------------------------CGGC-U----
+lwe0630      -----------------------------------------AUA-U----
+lwe0852      -----------------------------------------ACC-A----
+lwe0574      AUAGC------------------------------AUAAGUUUA-G----
+lwe1166      -----------------------------------------CCG-G----
+lwe0946      -----------------------------------------GGU-U----
+lwe0820      -----------------------------------------UCU-G----
+lwe1695      -----------------------------------------ACA-A----
+lwe0927      -----------------------------------------UUA-A----
+lwe2352      -----------------------------------------GCG-C----
+lwe1000      -----------------------------------------UCU-U----
+lwe2135      -----------------------------------------UAG-A----
+lwe2447      -----------------------------------------AGG-A----
+lwe1750      -----------------------------------------GGG-U----
+lwe2647      -----------------------------------------UUU-U----
+lwe1633      -----------------------------------------GAG-A----
+lwe0992      -----------------------------------------UUC-A----
+lwe1712      -----------------------------------------AGA-A----
+lwe0718      ------------------------------------------GC-G----
+lwe0457      -----------------------------------------GAA-C----
+lwe0581      -----------------------------------------AUU-A----
+lwe2693      -----------------------------------------CAU-C----
+lwe2345      GUUAGU----------------------------CCUCCAAUUU-U----
+lwe1069      -----------------------------------------CCU-A----
+lwe2694      -----------------------------------------CAU-C----
+lwe1513      -----------------------------------------UCA-A----
+lwe2230      -----------------------------------------CAA-A----
+lwe0096      -----------------------------------------UAC-U----
+lwe2236      -----------------------------------------CCA-A----
+lwe1306      -----------------------------------------GGU-U----
+lwe0940      -----------------------------------------CUU-C----
+lwe2415      -----------------------------------------GUG-A----
+lwe1097      -----------------------------------------AAG-U----
+lwe2713      -----------------------------------------ACC-U----
+lwe2106      -----------------------------------------ACC-U----
+lwe0987      -----------------------------------------CGU-C----
+lwe2228      -----------------------------------------CCA-G----
+lwe2149      -----------------------------------------UGA-G----
+lwe1522      -----------------------------------------UGG-G----
+lwe0842      -----------------------------------------UCA-G----
+lwe1170      ------------------------------------------GG-G----
+lwe0466      ------------------------------------------AG-U----
+lwe2017      -----------------------------------------GGC-U----
+lwe0823      -----------------------------------------AUG-G----
+lwe1432      -----------------------------------------AGC-U---A
+lwe2208      -----------------------------------------GAU-U----
+lwe2272      -----------------------------------------GGA-A----
+lwe1732      ------------------------------------------GA-U----
+lwe1551      -----------------------------------------AUU-U----
+lwe1275      -----------------------------------------UUU-C----
+lwe1733      -----------------------------------------GCC-A----
+lwe0525      -----------------------------------------AAA-G----
+lwe1493      -----------------------------------------UGU-G----
+lwe2426      -----------------------------------------CUU-A----
+lwe2456      -----------------------------------------CAA-A----
+lwe0618      -----------------------------------------GUA-C----
+lwe2071      -----------------------------------------ACA-A----
+lwe0046      -----------------------------------------CUC-A----
+lwe1762      -----------------------------------------CGCGA----
+lwe0465      -----------------------------------------UUU-U----
+lwe0896      -----------------------------------------UGC-A----
+lwe0961      ------------------------------------------CG-G----
+lwe1713      -----------------------------------------AGA-A----
+lwe1268      -----------------------------------------UGC-A----
+lwe2701      -----------------------------------------GAA-A----
+lwe0216      -----------------------------------------GAG-G----
+lwe2399      -----------------------------------------UUU-A----
+lwe1800      -----------------------------------------CAA-A----
+lwe2132      AGUCUGCUUUUUU---------------AAUGAUUUGGUUAGGG-A----
+lwe1715      C--------------------------------------GACAC-U----
+lwe1753      -----------------------------------------GGA-UA--G
+lwe0966      -----------------------------------------AUU-A----
+lwe2476      -----------------------------------------GCC-A----
+lwe0226      -----------------------------------------UCG-U----
+lwe0731      -----------------------------------------GGA-G----
+lwe2779      -----------------------------------------UCA-G----
+lwe2402      -----------------------------------------GAA-U----
+lwe1739      -----------------------------------------GAA-A----
+lwe1315      -----------------------------------------UGC-A----
+lwe1532      -----------------------------------------CUC-A----
+lwe1146      -----------------------------------------CCG-A----
+lwe1245      -----------------------------------------UCG-A----
+lwe1175      -----------------------------------------GAG-A----
+lwe2231      -----------------------------------------UCC-A----
+lwe1653      -----------------------------------------GGC-A----
+lwe0734      -----------------------------------------GGC-A----
+lwe0958      -----------------------------------------GAA-A----
+lwe0848      -----------------------------------------GAA-G----
+lwe2216      -----------------------------------------AGG-U----
+lwe0033      ------------------------------------------UC-U----
+lwe1512      -----------------------------------------UUG-G----
+lwe1620      -----------------------------------------CUA-A----
+lwe2381      -----------------------------------------CCA-A----
+lwe0106      -----------------------------------------CAG-A----
+lwe1537      -----------------------------------------AGG-G----
+lwe0169      -----------------------------------------UGG-A----
+lwe1679      -----------------------------------------UUG-G----
+lwe2148      -----------------------------------------CCU-A----
+lwe0892      -----------------------------------------CCC-A----
+lwe2442      -----------------------------------------UAA-A----
+lwe1774      ----------------------------------------GAGA-G----
+lwe1071      AU------------------------------------GAAGUU-U----
+lwe1599      -----------------------------------------GCC-A----
+lwe2340      -----------------------------------------CUC-A----
+lwe0701      -----------------------------------------CUU-U----
+lwe2718      -----------------------------------------GUA-G----
+lwe2343      -----------------------------------------AGA-G----
+lwe0148      -----------------------------------------CCU-CU--U
+lwe0554      -----------------------------------------UUA-A----
+lwe2333      ----------------------------------------CUGC-C----
+lwe1015      GUAUUUUUUGGUAAA-----------CUAGAGAAAAUCACGAGA-A----
+lwe0494      -----------------------------------------AGG-A----
+lwe2316      -----------------------------------------CUC-C----
+lwe0246      ------------------------------------------GA-A----
+lwe0887      GC-------------------------------------AUUGC-U----
+lwe1654      -----------------------------------------GAC-A----
+lwe1915      -----------------------------------------GCU-U----
+lwe2390      -----------------------------------------UCC-A----
+lwe2284      -----------------------------------------CUA-U----
+lwe0316      -----------------------------------------CUU-U----
+lwe2459      -----------------------------------------UGG-U----
+lwe0252      ------------------------------------------GG-C----
+lwe0264      -----------------------------------------AUU-A----
+lwe2318      GCCCUUUUUUG-------------------GGUUGAAUAGCUAG-G----
+lwe0983      -----------------------------------------AUU-A----
+lwe0384      -----------------------------------------GUC-U----
+lwe2462      -----------------------------------------GCU-G----
+lwe2491      -----------------------------------------AGA-G----
+lwe0526      -----------------------------------------AAA-G----
+lwe0341      ------------------------------------------UC-U----
+lwe1379      -----------------------------------------UGA-U----
+lwe1424      -----------------------------------------AUU-C----
+lwe2027      -----------------------------------------AAG-U----
+lwe0398      -----------------------------------------GGA-G----
+lwe0881      -----------------------------------------UGU-C----
+lwe2619      -----------------------------------------UGA-A----
+lwe2436      -----------------------------------------AAG-C----
+lwe1719      -----------------------------------------GUG-G----
+lwe2725      -----------------------------------------AGG-A----
+lwe1782      -----------------------------------------GAU-A----
+lwe1798      -----------------------------------------CUA-G----
+lwe0019      -----------------------------------------AAA-G----
+lwe0622      -----------------------------------------GGA-A----
+lwe1506      -----------------------------------------UCC-A----
+lwe0112      -----------------------------------------GGU-C----
+lwe1264      -----------------------------------------GCA-A----
+lwe1024      -----------------------------------------GCC-G----
+lwe0982      -----------------------------------------AUU-A----
+lwe0859      -----------------------------------------GGU-A----
+lwe2634      -----------------------------------------ACA-G----
+lwe0937      -----------------------------------------AGC-U----
+lwe0063      -----------------------------------------CUC-A----
+lwe2532      -----------------------------------------UUA-G---A
+lwe2391      -----------------------------------------UCC-A----
+lwe2677      -----------------------------------------UGG-U----
+lwe0428      -----------------------------------------AGA-U----
+lwe2546      -----------------------------------------AGG-G----
+lwe0737      -----------------------------------------CGC-C----
+lwe0740      -----------------------------------------CCG-G----
+lwe0752      -----------------------------------------CCC-C----
+lwe1446      -----------------------------------------CUU-U----
+lwe0075      -----------------------------------------GGA-G----
+lwe1609      -----------------------------------------AUU-G----
+lwe0030      -----------------------------------------GCU-C----
+lwe1423      -----------------------------------------UCG-C----
+lwe0366      -----------------------------------------GAU-G----
+lwe2640      -----------------------------------------AAG-A----
+lwe0858      -----------------------------------------GUU-U----
+lwe2772      -----------------------------------------GGA-U----
+lwe1403      ----------------------------------------UCGC-A----
+lwe2337      -----------------------------------------GAU-A----
+lwe1891      ------------------------------------------UC-A----
+lwe2754      UGCCA------------------------------GAUGAGUUC-A----
+lwe0659      -----------------------------------------ACG-A----
+lwe1226      -----------------------------------------UAG-A----
+lwe0383      -----------------------------------------GUC-U----
+lwe0806      UAUAGUAUAGA-------------------CAUAGAUUCUGAG---U-GG
+lwe2649      -----------------------------------------CAG-C----
+lwe1181      -----------------------------------------GGG-A----
+lwe0596      CUCCUUUUUCUC----------------GGGGAACAAAUCCCGU-C----
+lwe2654      -----------------------------------------CAA-G----
+lwe1689      -----------------------------------------AGU-G----
+lwe1809      ------------------------------------------CA-A----
+lwe1836      -----------------------------------------GCC-U----
+lwe2039      ----------------------------------------UUUC-C----
+lwe1395      -----------------------------------------GGU-U----
+lwe0002      ------------------------------------------AA-G----
+lwe0930      -----------------------------------------UCA-A----
+lwe0586      -----------------------------------------UGU-U----
+lwe1304      -----------------------------------------GCA-A----
+lwe2180      -----------------------------------------UAU-U----
+lwe1621      -----------------------------------------UGG-C----
+lwe1374      -----------------------------------------CCU-U----
+lwe2173      -----------------------------------------ACA-A----
+lwe2025      -----------------------------------------UAA-U----
+lwe1305      -----------------------------------------GUU-G----
+lwe0758      -----------------------------------------CUG-U----
+lwe0979      -----------------------------------------ACU-C----
+lwe1818      -----------------------------------------AGC-G----
+lwe1676      -----------------------------------------UUA-A----
+lwe1605      -----------------------------------------GGG-U----
+lwe0608      -----------------------------------------AGA-U----
+lwe1390      ------------------------------------------GG-U----
+lwe1084      ------------------------------------------CU-U----
+lwe0817      -----------------------------------------UUG-G----
+lwe2759      G--------------------------------------UUUCG-C----
+lwe1962      GC-------------------------------------UUAUU-U----
+lwe0787      -----------------------------------------GGA-A----
+lwe2760      -----------------------------------------CGC-G----
+lwe1169      -----------------------------------------AAA-U----
+lwe2535      -----------------------------------------CGC-U----
+lwe2213      -----------------------------------------AUG-C----
+lwe1273      -----------------------------------------CUC-G----
+lwe1690      -----------------------------------------AGC-G----
+lwe1464      -----------------------------------------UUU-U----
+lwe2084      -----------------------------------------UUC-C----
+lwe2606      -----------------------------------------GUC-A----
+lwe0086      -----------------------------------------CAG-G----
+lwe0602      -----------------------------------------AGG-G----
+lwe0833      -----------------------------------------GUC-A----
+lwe2380      -----------------------------------------CCA-A----
+lwe1725      -----------------------------------------GUU-U----
+lwe0441      -----------------------------------------CUG-C----
+lwe0991      -----------------------------------------UUU-A----
+lwe1011      -----------------------------------------CAU-U----
+lwe0091      -----------------------------------------GUU-C----
+lwe0496      U---------------------------------------UGGA-G----
+lwe0919      -----------------------------------------UCU-A----
+lwe1548      -----------------------------------------UGA-AU--G
+lwe2285      -----------------------------------------UAU-A----
+lwe1284      ------------------------------------------CU-C----
+lwe1864      AC-------------------------------------GGGAG-A----
+lwe1791      -----------------------------------------CAA-A----
+lwe1749      -----------------------------------------GAU-A----
+lwe2586      -----------------------------------------AGG-U----
+lwe1145      -----------------------------------------CUG-A----
+lwe0308      CU-------------------------------------GCUUC-A----
+lwe0587      -----------------------------------------UGU-U----
+lwe2100      -----------------------------------------CCG-U----
+lwe2322      -----------------------------------------CCA-C----
+lwe2292      -----------------------------------------GGU-A----
+lwe0793      UCAAUCCCUU--------------------AAAUUAAAAGUUAA-G----
+lwe1997      -----------------------------------------AGC-CU-GU
+lwe0390      -----------------------------------------UUG-A----
+lwe1924      -----------------------------------------GUG-A----
+lwe2010      -----------------------------------------CGG-G----
+lwe1448      -----------------------------------------GGA-U----
+lwe1098      ------------------------------------------AG-C----
+lwe2747      -----------------------------------------AGA-A----
+lwe2249      -----------------------------------------GGA-U----
+lwe1318      ------------------------------------------GC-U----
+lwe0782      -----------------------------------------CUG-A----
+lwe1276      -----------------------------------------UUC-G----
+lwe0811      -----------------------------------------UGA-C----
+lwe1492      -----------------------------------------AGC-A----
+lwe2108      -----------------------------------------AUC-U----
+lwe0963      -----------------------------------------AGC-C----
+lwe0832      -----------------------------------------GGA-A----
+lwe1731      ------------------------------------------GC-UU--U
+lwe0761      -----------------------------------------CUU-G----
+lwe0469      -----------------------------------------GUC-A----
+lwe0805      -----------------------------------------GCU-A----
+lwe1125      -----------------------------------------UGU-U----
+lwe1259      -----------------------------------------CUC-A----
+lwe1285      ------------------------------------------GG-C----
+lwe1630      ------------------------------------------UC-A----
+lwe1183      -----------------------------------------ACG-A----
+lwe0706      -----------------------------------------GUU-G----
+lwe2150      CGGGGGAA------------------------GUGGGGGAACUC-U----
+lwe1767      ------------------------------------------UA-G----
+lwe1696      -----------------------------------------GAC-A----
+lwe2344      -----------------------------------------AAC-G----
+lwe2488      -----------------------------------------AGA-A----
+lwe0539      -----------------------------------------AUC-C----
+lwe0273      -----------------------------------------UCU-CU--U
+lwe0744      ----------------------------------------GAGA-A----
+lwe1837      -----------------------------------------GUU-C----
+lwe2726      -----------------------------------------GGG-U----
+lwe1685      ----------------------------------------ACUU-A----
+lwe0196      -----------------------------------------AAG-G----
+lwe2296      ------------------------------------------CC-U----
+lwe0475      -----------------------------------------GAG-A----
+lwe1919      -----------------------------------------UGC-U----
+lwe2470      -----------------------------------------CUA-UA-UA
+lwe1607      -----------------------------------------UAG-A----
+lwe1539      -----------------------------------------AGC-U----
+lwe2089      -----------------------------------------UCA-A----
+lwe0816      -----------------------------------------UGA-U----
+lwe2204      -----------------------------------------UCC-A----
+lwe0342      ------------------------------------------GU-G----
+lwe2423      ----------------------------------------UUUC-U----
+lwe1531      -----------------------------------------CUC-A----
+lwe1779      -----------------------------------------GCG-----G
+lwe1488      ------------------------------------------GG-C----
+lwe0801      -----------------------------------------CUU-A----
+lwe0971      -----------------------------------------AAA-U----
+lwe2732      -----------------------------------------CGC-C----
+lwe1612      -----------------------------------------GCG-A----
+lwe0736      -----------------------------------------UGC-C---C
+lwe0361      -----------------------------------------GUU-U----
+lwe0018      -----------------------------------------AAG-G----
+lwe1866      -----------------------------------------AUC-U----
+lwe1890      -----------------------------------------CAU-C----
+lwe0209      -----------------------------------------GUG-G----
+lwe1355      -----------------------------------------GUA-U----
+lwe1619      -----------------------------------------CUA-A----
+lwe1320      UUA----------------------------------UUAGGGC-G----
+lwe1874      -----------------------------------------UGU-U----
+lwe0451      -----------------------------------------AAA-U----
+lwe0552      -----------------------------------------UUC-U----
+lwe2218      -----------------------------------------GAG-U----
+lwe2286      -----------------------------------------UAU-A----
+lwe0092      -----------------------------------------CUC-G----
+lwe0093      -----------------------------------------GGU-C----
+lwe1650      -----------------------------------------GGC-U----
+lwe1074      -----------------------------------------UGG-U----
+lwe1056      -----------------------------------------UCU-A----
+lwe1411      -----------------------------------------AGA-U----
+lwe2079      -----------------------------------------UGC-U----
+lwe1242      -----------------------------------------GGC-U----
+lwe1467      -----------------------------------------GGA-U----
+lwe1334      -----------------------------------------AAA-A----
+lwe2452      ------------------------------------------GU-C----
+lwe1048      -----------------------------------------CAG-G----
+lwe0155      -----------------------------------------GGC-C----
+lwe0862      -----------------------------------------AGC-G----
+lwe2074      -----------------------------------------AGU-C----
+lwe0438      -----------------------------------------AGA-U----
+lwe0230      ------------------------------------------GU-G----
+lwe0990      -----------------------------------------UAG-U----
+lwe2026      -----------------------------------------CCA-A----
+lwe0898      -----------------------------------------AAU-U----
+lwe1861      -----------------------------------------CGU-U----
+lwe1584      -----------------------------------------CAU-G----
+lwe1822      -----------------------------------------UCA-U----
+lwe0435      -----------------------------------------AUU-U----
+lwe1768      -----------------------------------------GCG-G----
+lwe1499      ------------------------------------------CU-C----
+lwe0181      -----------------------------------------AAU-A----
+lwe1639      -----------------------------------------GGG-G----
+lwe0476      -----------------------------------------AGA-G----
+lwe0445      -----------------------------------------GAG-U----
+lwe2123      -----------------------------------------GUC-U----
+lwe0434      -----------------------------------------UUU-AC-AG
+lwe1451      -----------------------------------------UGU-G----
+lwe0621      ------------------------------------------CU-A----
+lwe2259      -----------------------------------------AGA-A----
+lwe0172      ------------------------------------------GC-A----
+lwe1815      -----------------------------------------GCG-A----
+lwe0238      -----------------------------------------GGG-U----
+lwe0459      -----------------------------------------AUU-U----
+lwe1668      -----------------------------------------CCG-U----
+lwe2294      AA-------------------------------------GCAGA-U----
+lwe2538      A--------------------------------------UAUUU-G----
+lwe0495      -----------------------------------------AGG-A----
+lwe1182      -----------------------------------------ACG-G----
+lwe1521      -----------------------------------------GAG-U----
+lwe0105      -----------------------------------------CAG-A----
+lwe2690      -----------------------------------------ACU-U----
+lwe0588      -----------------------------------------GCA-U----
+lwe1013      -----------------------------------------UAG-C----
+lwe2209      -----------------------------------------CUG-G----
+lwe0271      -----------------------------------------AAU-C----
+lwe2151      -----------------------------------------AGG-A----
+lwe2758      ------------------------------------------CG-G----
+lwe0462      -----------------------------------------GUU-U----
+lwe1718      -----------------------------------------AGG-U----
+lwe1614      ------------------------------------------CC-A----
+lwe2303      -----------------------------------------GAA-A----
+lwe2518      -----------------------------------------GGA-A----
+lwe0748      -----------------------------------------GGC-G----
+lwe2181      ------------------------------------------GC-U----
+lwe0191      ------------------------------------------UC-G----
+lwe1994      -----------------------------------------GCG-C----
+lwe1409      U--------------------------------------AUAAA-A----
+lwe2510      -----------------------------------------GUC-U----
+lwe1865      -----------------------------------------AUC-U----
+lwe2562      -----------------------------------------UAG-C----
+lwe0474      -----------------------------------------UUC-A----
+lwe2585      AGAAAAGCUAAUAUU----------AGGCCGUUUUGUUCCAGGG-G----
+lwe1442      -----------------------------------------GGU-U----
+lwe1819      ------------------------------------------AA-G----
+lwe0934      -----------------------------------------CUC-U----
+lwe1726      -----------------------------------------GUU-U----
+lwe0368      -----------------------------------------GCA-G----
+lwe2618      -----------------------------------------CAU-U----
+lwe0111      -----------------------------------------GGU-C----
+lwe1049      -----------------------------------------GGC-U----
+lwe2227      -----------------------------------------UCC-U----
+lwe0517      -----------------------------------------GAA-U----
+lwe0183      ------------------------------------------CC-A----
+lwe0480      -----------------------------------------AGA-U----
+lwe1571      -----------------------------------------UCC-A----
+lwe1101      GA-------------------------------------GUUGC-G----
+lwe2554      -----------------------------------------GCA-A----
+lwe0753      -----------------------------------------AGA-AU--C
+lwe1280      -----------------------------------------CUU-A----
+lwe1641      -----------------------------------------GUU-U----
+lwe2392      -----------------------------------------UCG-A----
+lwe2224      -----------------------------------------GGU-A----
+lwe2680      -----------------------------------------CAU-G----
+lwe0074      -----------------------------------------UGG-A----
+lwe0878      -----------------------------------------UUU-A----
+lwe2374      -----------------------------------------GCU-U----
+lwe2136      -----------------------------------------CAU-C----
+lwe0087      -----------------------------------------CGG-G----
+lwe2515      -----------------------------------------UCU-U----
+lwe0186      ------------------------------------------CU-A----
+lwe0452      -----------------------------------------GAU-G----
+lwe0642      -----------------------------------------UCC-U----
+lwe1657      -----------------------------------------UUC-C----
+lwe1623      -----------------------------------------UUC-A----
+lwe0192      -----------------------------------------CAG-U----
+lwe1316      -----------------------------------------UAC-A----
+lwe0037      -----------------------------------------UCU-A----
+lwe0981      ------------------------------------------GG-A----
+lwe0269      -----------------------------------------AGG-A----
+lwe2659      -----------------------------------------UGUGC----
+lwe2336      -----------------------------------------GUC-G----
+lwe0170      -----------------------------------------GUU-G----
+lwe1631      -----------------------------------------UGC-A----
+lwe0575      -----------------------------------------GAA-G----
+lwe1780      -----------------------------------------AGC-G---U
+lwe0607      -----------------------------------------GCU-C----
+lwe0964      -----------------------------------------AGU-C----
+lwe0483      -----------------------------------------CGA-G----
+lwe1658      -----------------------------------------UGU-C----
+lwe0705      -----------------------------------------GGU-U----
+lwe2250      -----------------------------------------AGA-U----
+lwe1955      -----------------------------------------CUA-G----
+lwe0013      -----------------------------------------GUU-U----
+lwe1356      -----------------------------------------CGG-A----
+lwe0153      -----------------------------------------AAUGU----
+lwe1909      ------------------------------------------GG-A----
+lwe1070      -----------------------------------------UUG-U----
+lwe1542      G---------------------------------------UGGA-G----
+lwe0279      -----------------------------------------UAG-G----
+lwe1835      -----------------------------------------UCG-G----
+lwe0538      -----------------------------------------AUC-C----
+lwe1626      -----------------------------------------AGC-C----
+lwe1964      -----------------------------------------UCC-CG--C
+lwe1588      -----------------------------------------UCU-G----
+lwe2432      -----------------------------------------AUG-U----
+lwe0601      -----------------------------------------GCU-U----
+lwe0984      -----------------------------------------GAA-U----
+lwe0838      -----------------------------------------CUA-G----
+lwe1902      -----------------------------------------GGU-A----
+lwe0839      -----------------------------------------GAU-U----
+lwe0449      -----------------------------------------AAU-A----
+lwe2300      GUAAAUA--------------------------AAUUAACGUUA-G----
+lwe0781      -----------------------------------------CCG-A----
+lwe0941      -----------------------------------------GCU-A----
+lwe2124      -----------------------------------------UCU-A----
+lwe1487      -----------------------------------------ACC-A----
+lwe1427      -----------------------------------------CUA-G----
+lwe1528      -----------------------------------------AGU-A----
+lwe2219      -----------------------------------------UUA-G----
+lwe1261      -----------------------------------------GGU-G----
+lwe0185      -----------------------------------------GGU-G----
+lwe2660      -----------------------------------------GCU-G----
+lwe1636      -----------------------------------------UUG-U----
+lwe2591      -----------------------------------------AGU-U----
+lwe1747      -----------------------------------------AUU-U----
+lwe1896      -----------------------------------------CUU-U----
+lwe0974      -----------------------------------------UAC-U----
+lwe1260      -----------------------------------------GAG-U----
+lwe0430      -----------------------------------------GGU-U----
+lwe2128      ------------------------------------------AG-G----
+lwe2601      -----------------------------------------GCCGC----
+lwe1683      -----------------------------------------GAA-U----
+lwe1256      -----------------------------------------UUU-G----
+lwe1232      C---------------------------------------AGCU-GA--G
+lwe0629      ------------------------------------------UG-G----
+lwe0754      -----------------------------------------UAU-U----
+lwe1381      ------------------------------------------GU-U----
+lwe1550      -----------------------------------------UGG-U----
+lwe1099      -----------------------------------------AGU-A----
+lwe1553      ------------------------------------------UG-G----
+lwe0128      -----------------------------------------AAU-U----
+lwe1616      ------------------------------------------UC-C----
+lwe1738      -----------------------------------------ACA-C----
+lwe1743      -----------------------------------------UUC-C----
+lwe1415      -----------------------------------------CGG-U----
+lwe1407      -----------------------------------------CUA-G----
+lwe2686      -----------------------------------------CCG-C----
+lwe0571      -----------------------------------------AUU-A----
+lwe0381      -----------------------------------------GUU-G----
+lwe2252      -----------------------------------------CAG-C----
+lwe1310      -----------------------------------------UUU-C----
+lwe1565      -----------------------------------------UGG-U----
+lwe1635      ------------------------------------------AG-G----
+lwe0450      -----------------------------------------GAG-AU--U
+lwe2637      -----------------------------------------UUU-GU--A
+lwe1308      -----------------------------------------GAU-U----
+lwe1674      -----------------------------------------UAU-A----
+lwe0351      -----------------------------------------UAA-G----
+lwe1797      -----------------------------------------UAG-G----
+lwe1617      ------------------------------------------UC-C----
+lwe2765      ----------------------------------------CGGA-C----
+lwe0844      -----------------------------------------GUU-U----
+lwe0583      -----------------------------------------AUC-U----
+lwe0220      -----------------------------------------CCG-C----
+lwe2206      ------------------------------------------UG-U---U
+lwe1675      -----------------------------------------CUU-A----
+lwe2004      -----------------------------------------GCU-U----
+lwe2387      -----------------------------------------GCA-CACAG
+lwe1572      -----------------------------------------AGG-C----
+lwe1525      -----------------------------------------GAG-A----
+lwe2541      -----------------------------------------UCU-G---A
+lwe2107      -----------------------------------------GCU-U----
+lwe0605      -----------------------------------------AGU-U----
+lwe2544      -----------------------------------------CAG-A----
+lwe1461      ------------------------------------------UG-G----
+lwe1265      -----------------------------------------GCA-A----
+lwe0116      -----------------------------------------ACC-U----
+lwe2650      -----------------------------------------CAG-C----
+lwe0687      -----------------------------------------GGA-G----
+lwe0749      -----------------------------------------UUG-U----
+lwe2271      -----------------------------------------GGA-A----
+lwe0725      -----------------------------------------CUC-A----
+lwe2372      -----------------------------------------GAA-G----
+lwe0518      GAGAAG-----------------------------UCCUUUUUC-A----
+lwe1418      -----------------------------------------UAG-C----
+lwe1794      ------------------------------------------GG-U----
+lwe2225      ------------------------------------------GC-G----
+lwe1302      -----------------------------------------AGA-A----
+lwe0145      -----------------------------------------AGA-G----
+lwe0149      -----------------------------------------CCU-CG--C
+lwe0559      ------------------------------------------UC-U----
+lwe1582      -----------------------------------------CUA-U----
+lwe1267      -----------------------------------------UGC-A----
+lwe2287      -----------------------------------------AGG-C----
+lwe2542      -----------------------------------------UCU-GG--G
+lwe0831      -----------------------------------------GAA-U----
+lwe0389      -----------------------------------------UUG-A----
+lwe2661      -----------------------------------------GCU-G----
+lwe0164      -----------------------------------------UCU-G----
+lwe0221      -----------------------------------------AGU-U----
+lwe0272      -----------------------------------------AUC-U----
+lwe1893      -----------------------------------------GGC-A----
+lwe2735      -----------------------------------------UUG-G----
+lwe0337      -----------------------------------------GCU-C----
+lwe0759      -----------------------------------------UAU-U----
+lwe1167      -----------------------------------------UGG-A----
+lwe2335      -----------------------------------------UCG-G----
+lwe0889      -----------------------------------------AUU-U----
+lwe0549      -----------------------------------------CUU-C----
+lwe0090      -----------------------------------------UAU-U----
+lwe0830      -----------------------------------------CUG-G----
+lwe2525      -----------------------------------------GAG-A----
+lwe0797      -----------------------------------------AUA-G----
+lwe0808      -----------------------------------------UAG-G----
+lwe0933      -----------------------------------------AUU-U----
+lwe0995      -----------------------------------------GCG-G----
+lwe2431      AAAAAAU---------------------------CUUGUUUGGU-U----
+lwe0989      -----------------------------------------GUG-G----
+lwe1249      ------------------------------------------GC-U----
+lwe2162      -----------------------------------------GCU-C----
+lwe2740      -----------------------------------------CAA-U---A
+lwe2486      -----------------------------------------UCU-A----
+lwe1845      -----------------------------------------GCG-G----
+lwe2396      -----------------------------------------CUA-G----
+lwe1402      -----------------------------------------CGC-A----
+lwe1032      -----------------------------------------AUA-U----
+lwe0354      -----------------------------------------CUU-A----
+lwe2474      ------------------------------------------GA-U----
+lwe1638      -----------------------------------------GGA-G----
+lwe2112      -----------------------------------------GUG-U----
+lwe2608      ----------------------------------------CGCC-U----
+lwe1552      ------------------------------------------GC-U----
+lwe2453      -----------------------------------------ACA-A----
+lwe1370      -----------------------------------------CUU-C----
+lwe0158      ------------------------------------------AU-G----
+lwe0214      -----------------------------------------AUC-U----
+lwe2776      -----------------------------------------ACC-U----
+lwe2121      UAAAU-------------------------------GCCAACUC-A----
+lwe1730      -----------------------------------------GGG-----A
+lwe0254      -----------------------------------------GGG-G----
+lwe2326      -----------------------------------------CUU-A----
+lwe1557      -----------------------------------------GAU-G----
+lwe2439      UAUC---------------------------------UGCGCUU-A----
+lwe1422      -----------------------------------------GCA-A----
+lwe2514      -----------------------------------------UCU-U----
+lwe2502      ------------------------------------------UC-GU--U
+lwe2295      -----------------------------------------UAG-U----
+lwe0695      -----------------------------------------GAA-A----
+lwe0218      -----------------------------------------AGA-G----
+lwe0751      -----------------------------------------CUC-U----
+lwe1995      -----------------------------------------AGG-G----
+lwe1457      -----------------------------------------GCA-A----
+lwe1241      -----------------------------------------UGG-C----
+lwe1469      -----------------------------------------UUC-U----
+lwe0954      UGGACCUUU-----------------------AUUGGUCGCAUU-C----
+lwe2187      ------------------------------------------UC-C----
+lwe0467      -----------------------------------------AGC-A----
+lwe2665      ------------------------------------------CU-C----
+lwe1430      -----------------------------------------UAG-U----
+lwe1632      ------------------------------------------UC-C----
+lwe0624      AAAAAA----------------------------GCCCCUAUUG-A----
+lwe2127      -----------------------------------------AGG-C----
+lwe0750      -----------------------------------------CUC-U----
+lwe2494      ----------------------------------------CGAC-A----
+lwe0863      -----------------------------------------AGC-G----
+lwe0085      -----------------------------------------CUG-U----
+lwe0028      -----------------------------------------AUU-U----
+lwe1014      -----------------------------------------AGU-G----
+lwe0330      -----------------------------------------GUC-A----
+lwe1860      -----------------------------------------AUC-A----
+lwe1498      -----------------------------------------AUU-A----
+lwe2273      ------------------------------------------GG-U----
+lwe1858      -----------------------------------------ACA-G----
+lwe0372      -----------------------------------------AAU-U----
+lwe1042      -----------------------------------------CCA-U----
+lwe0628      -----------------------------------------CCG-C----
+lwe0124      -----------------------------------------GUU-C----
+lwe2529      -----------------------------------------GAU-A----
+lwe1041      -----------------------------------------CCA-U----
+lwe1300      -----------------------------------------CUC-U----
+lwe1628      -----------------------------------------AGG-G----
+lwe2703      -----------------------------------------AGU-G----
+lwe0501      -----------------------------------------CUA-A----
+lwe0627      -----------------------------------------CCG-C----
+lwe1965      -----------------------------------------AUG-U----
+lwe1301      -----------------------------------------CUC-U----
+lwe1591      -----------------------------------------GAA-G----
+lwe0436      -----------------------------------------UUG-U----
+lwe2673      -----------------------------------------AGA-A----
+lwe0916      -----------------------------------------CGC-G---U
+lwe0084      ----------------------------------------ACCU-A----
+lwe1322      -----------------------------------------UUC-U----
+lwe0976      -----------------------------------------UGG-A----
+lwe2467      -----------------------------------------UGU-U----
+lwe0904      -----------------------------------------CUG-G----
+lwe0703      -----------------------------------------GAA-G----
+lwe1045      -----------------------------------------GAC-U----
+lwe1629      -----------------------------------------AUU-U----
+lwe1664      -----------------------------------------GGA-A----
+lwe0739      UUAGG------------------------------AAAACGGAG-C----
+lwe2240      UUUCCU-----------------------------UAGCAAAUA-A----
+lwe1258      -----------------------------------------AUU-G----
+lwe0952      -----------------------------------------ACU-U----
+lwe0905      -----------------------------------------CUG-G----
+lwe2279      AAAAAAUUAGAAAUUCU------AACUUUUGUAAGGCCAUACUU-G----
+lwe2682      -----------------------------------------GUU-A----
+lwe0977      -----------------------------------------AUU-A----
+lwe1321      -----------------------------------------UCU-A----
+#=GC SS_cons .........................................>>>.>....
+#=GC RF      .........................................aga.a....
+
+lwe1191      GC-UUAUUU----------UUAU-UUAUCUAA
+lwe1887      CU-GGAUUUUUUAUAGAGUAGCUA--CUAAUU
+lwe2774      UA-CUCUUU----------AUAUA--UGUUUC
+lwe1494      AG-CUAUUU----------UUA-A--AAAAUA
+lwe0141      GU-UCCAUUUUUUUAUUGUUUUC-UUCUAAAA
+lwe0567      CA-CUUCUUUUUUUCGACACAAU-UUUGUAAU
+lwe2672      UC-UAUUUCUUUAUUUAUUCGCUA--UACCAC
+lwe2305      CU-CCGC------------UAACA--AUGCUU
+lwe1010      GU-CUUCUUUUUUAAUUAUGUUU-UGCUAUCA
+lwe2730      AA-UGGGCUUUUUUUAU--UUCC-GCAUGUAA
+lwe1765      GA-AUGAUUUUUUAAAUAAAUACA--ACUAUA
+lwe2722      UC-CUGUUU----------AUUU-UAAAGUUA
+lwe2270      AG-ACGCUUUUUUAUUGGACAA-A--AACCCA
+lwe0437      UA-CAGUUUUAUAGCGGCUAAUUA--UAGUCG
+lwe2448      CA-GGAUAUUUUUAUUUUAUUU-A--CGAAAG
+lwe0697      AG-UCUAUUUUUAAACCUACAA-A--UAUUAA
+lwe1912      UC-UCUUUUUGUUAUUACUUUAU-UAAUCAGA
+lwe2167      AG-CAGUUUUUUCUAUUUCUUAG-GCCAUGUU
+lwe1439      AG-CUUCUUUUUUAUUGUCUGAU-UAAAUUUU
+lwe0604      UC-UUUU------------UGU-A--CAUCAU
+lwe1058      AU-CCUUUUAUUUUUUAUCCUUC-GAGUGAAU
+lwe0373      GG-GUUUUU----------UCU-A--AUUUGG
+lwe0693      CC-AACGUUUUUUUAUAUUUUUU-UCUUAAGA
+lwe2705      UU-CUGCUUUUUCAUUUUUACU-A--UAAAAG
+lwe0378      UC-ACUUUUUUUGUGUAAAGAUU-UCUUUACA
+lwe1059      UA-UCCUUUUUAUUUAAAUCUA-AUCAUUUCU
+lwe0544      GG-UACG------------UAUU-UUUUGUUG
+lwe0865      GU-UUUU------------AAG-A--AGCGGG
+lwe1987      AA-UCCUUUUUUUCAUCACAUAUA--CCAAAU
+lwe0746      AU-UGCCUUUUUUUGAUACUUAUA--AAUGCU
+lwe1585      AG-CAUCUU----------CAUU-GGUAUACA
+lwe0996      UA-CGUCUUUUUAAUUAUUAUUU-GGGCCGAA
+lwe0756      GA-GAUGUUUUUAUUUGCUUUUU-UUCAGUAA
+lwe0640      AA-GUGUUU----------UAAU-UUAGUUAA
+lwe0038      GG-UUGCUUUUUUUAUAAAUAAUA--UUACUA
+lwe1054      AG-AAGCUUUUUUUUAUGAUUUU-GUUUUUAA
+lwe0738      UG-GCGUUUUUAAUUAUAUUUAG-UAAAUACA
+lwe2683      AG-CGGGUUUUUCGUUAUAAUUUAUCAUAAUG
+lwe2165      CA-AACGUUUUUUUAAUCGAUAU-GGAGUUUA
+lwe2775      CU-CCGU------------ACUC-UUUUUCUA
+lwe0953      UU-UGGAUUUUUUUAAUUCUUAU-UAGAAUCC
+lwe1365      GG-AUUUUUUUAUUUUGCUUUAG-UUUUUCCU
+lwe0694      CC-AACGUUUUUUUAUGAUUUAC-UUAAAUAA
+lwe2756      UC-ACGC------------UUUU-UUAAUGUC
+lwe2093      AC-AGGUUUUUUUUACGUCUUUUA--AAUCCA
+lwe2278      AU-UUUUUGUUUAGCCAUUACCU-UGCAGCUU
+lwe1592      UC-GCUGUUUUAUUAUUUGAUU-A--CUUGUA
+lwe0486      CG-CGGACUUUUCUGGUUAUUGU-UUUUCUAA
+lwe2652      GA-UUUUUU----------AUUU-UAAAUUUC
+lwe1682      GU-UUUCUUUUUUCGAUGACAAUA--ACGAAU
+lwe1190      UA-UUUUUU----------AGU-A--ACGCUC
+lwe2063      UC-UGGUUUUUGGUUAAAAAUA-A--ACAAAG
+lwe2185      CU-UUUG------------GAGG-UCGGUAUU
+lwe0293      CC-UGGGUUUUUGAUUAAUUUAG-UUUCAUUU
+lwe2095      GC-ACGCUUUUUAUAUAUCUUCUAGCAAUAAU
+lwe0959      UA-ACUAUUUUUUUAUUACUAUU-GCUUCUCC
+lwe2113      CA-UCCCUUUUUUCAUCCUUUUU-UCUGCUUU
+lwe0579      AC-GACUUCUUUUUAGUGUUGUU-UUCUAUUG
+lwe0178      AA-CGUUUUUUUAUUACGCUUA-A--UAAAAC
+lwe1366      GG-AUUUUUUUAUACUUCUUUUU-GAUAUCUU
+lwe1483      AU-CCUG------------UUUU-UUUGUGCU
+lwe0945      GC-UACUUUUUUUAUAAUGUGCC-GAUAUAUU
+lwe0997      UA-CGUCUUUUUAUUUACUUUCUA--AAAAGU
+lwe2712      AC-ACGCUUUUCAUUAUUCUGUU-UGUUCUUG
+lwe0572      GA-CAUUUUUUUAUUUGGUAGC-AGCUUUUCC
+lwe1089      CA-AGCUUGUUUUUAUUAUAAAUA--AAUUUC
+lwe2403      CG-GAGCUUUUUCUGUUUUAAA-A--AUAACA
+lwe0702      CC-UUAGUUUUUUAUUUAAAUAGAGCCUCUUA
+lwe1849      CU-UCUCUUUUUUAUUUGCCCC-AGUUUUCUG
+lwe0580      GA-CUUCUUUGUUUAUU--UAGU-GGUAGUAC
+lwe0113      AC-CAAUUUUAUUUUUAUUUAAU-UAAAUUAU
+lwe1007      AU-GAGGUUUUUUAUUGUCUGCU-UGUUAGAA
+lwe0140      GU-UCCAUUUUUUAUGUUAAAA-A--UUCUAG
+lwe1810      UC-UAGUCUUUUUGCGUGAUAG-A--UACCCU
+lwe1663      GC-UGUCUUUUGUUUUAUCAGG-A--AGCUGU
+lwe0114      AC-CAAUUUUCUAUUCAGACGAU-GGAAUAUU
+lwe0080      CC-UAUCUUCUUUGUAAACAGA-A--AAUCAC
+lwe0610      AC-UUCCUCUUUUUUAUUUAUCU-UCAUCACG
+lwe1535      GA-UUGCUUUUUUUAAUUAGAA-A--AAUAAU
+lwe1177      UA-GUUCUUUUUUUGUAUAUUUU-UAUCUUUU
+lwe2191      UA-GGUUUUUUUUGUUGUAUUUU-UACGACAA
+lwe2752      UU-GCCUCUUUUUCAUUCUUACU-UUAAGCUA
+lwe2410      AA-ACGUCUUUUUAAAUAAAAA-A--AUAUUA
+lwe1455      UG-UGGGUUUUUGUAUUUCUAAC-UAAUAAAC
+lwe1708      GU-CUUCUUUGUUUAUC--UACC-UGUACUGC
+lwe0563      UU-UCGCUUUUUUAAAAAAUUA-A--UUCAAU
+lwe2646      GA-GGGUUU----------AUU-A--AUUAUU
+lwe1862      AC-UUGCUUCUUUUUCUUUUAU-A--AGCGCU
+lwe2194      AA-CGGAUUUUUAUUUAAAUCC-A--AAUAUC
+lwe2012      GG-AGUUCUUUUAUCAAUUUUCC-GCAGCUUC
+lwe0897      GA-GGUUUUUUUAAGGUUGAAAUA--ACACCC
+lwe1886      CU-GGAUUUUUUCAUAUUUAUUU-UUCACAAA
+lwe0295      AG-CCUA------------AUCUA--AAGUUU
+lwe2466      UG-GGAGUUUUUUCAGUUUCGUU-UUCGAUGU
+lwe0382      CU-UAGCUUAUUUAUUUUGUUAU-GGUUAUUU
+lwe1039      AU-CUGUUUUUUGUAUGCUUACUA--UAUUAA
+lwe0433      GG-UUGCUCUUUCUUUUGAAAAC-UCUAUUUC
+lwe2593      AG-GGUUGUUUUUUAAGGGCUC-A--CAUAAU
+lwe1414      UG-CGUAUUUUUUAUUAUUUUA-A--AAAAAC
+lwe1820      UU-GGCUUUUUUUUAUACAUUA-A--CAUCUU
+lwe1681      AG-GUUUUCUUUUAUUUUCCAA-AGUCGUAUU
+lwe2539      GU-UGGUCUUUUUUUAUUAUACU-UCUAUUAU
+lwe0560      UA-ACUUUUUUUAUAUGCUUUU-A--ACUGGC
+lwe1440      AG-CUUCUUCUUUAUUUAAUGAU-UCCUUGAU
+lwe0240      CU-UAUCUUUUUAAUUUAUUUC-A--UAUUUC
+lwe2222      GA-GGCUUUUUUUGAGCUGCACC-UGAAAAGU
+lwe1970      AC-GGAUUUUUUUAUUUAAUGAC-UCAUUUCU
+lwe1723      GG-UUGUUUUAUAAAAUUUUACU-UCUAAAUU
+lwe1704      GC-UCGUUUUUUUAACGGUAUUC-UUUAUACU
+lwe1243      AG-G--GCUUUUUUUAUGCAAA-A--AAACAC
+lwe0022      CU-GCUUUU----------UAUU-UUAUGUAU
+lwe0261      GG-CCAUUUUUUUAGGUAUAUCC-GCUUAUAC
+lwe0331      GA-GCCAUUUUUAGAUAUAUUUU-UCUUGGAU
+lwe0921      CA-CAGUUUUUUUAUACAAUUCU-GUUAUAGU
+lwe2530      CU-UGGUUUUUUAGUAAGAUGGU-UUUAUUCU
+lwe1053      AG-AAGCUUUUUCUUAAUUAGUU-GAUUUUCU
+lwe2061      UU-CGGG------------GUUU-UUGUUUGC
+lwe2168      AG-CAGUUUUUUAUUUAAUAGG-A--AUAAGA
+lwe0151      CU-UAGC------------UUUU-UUCUGUUU
+lwe0458      UU-GCUCUUUUUUUAUAAGAAAU-GUUUUUCA
+lwe2667      AG-UCAUUUUUUGUCGUCCAUUC-UUAAUAUU
+lwe0173      CC-AAUUUUUUUGUUAUAAUGUU-UUAAGAGG
+lwe1594      GG-AGCUUUUUUUCAUUUUAUUUA--UAAUCA
+lwe1766      CU-GUUUUUCUAUUCCGUACAAU-GUCUGCAC
+lwe0313      GG-ACGCUUUUCUGAAUUAAAAU-GACCGUUU
+lwe0566      AG-CUUCUUUUUUAUUGGAUUAUA--AAAUCU
+lwe2197      UA-GCUGUUUUUGUUAAUAAAC-A--CUUCUU
+lwe0332      GA-GCCAUU----------UGAU-GUUAAUCU
+lwe2035      GC-UGCGUGUUUUAUACGUUUA-A--CGUGAU
+lwe0541      AU-AGUCUUUUUAUGUU--AGA-A--AGUUCA
+lwe0311      GC-UUGUUUUUUUAUUCAUUUA-AUCUAUUCU
+lwe0523      UC-UGGAUUUUUUUUGUUAUUUUA--CGAAUU
+lwe0543      UU-UUGG------------UACG-UAUUUUUU
+lwe1735      CA-GGUGUUUUUACAUAUCAUUUA--UAGUUU
+lwe0850      AU-CGGUUUUUUUGUUUUCUCCGA--CAGAAU
+lwe1593      GG-AGCUUUUUUGGGUUUUAACG-GUUAUUUU
+lwe0468      AU-GGUUUUUGUUAAUAUCCAGU-UUCAACAG
+lwe2237      CA-ACGCUUUUUACAUUAAAAA-A--ACACGU
+lwe0551      UA-GAGCUUUUUUGUAUAUUAUG-GGGUUGAA
+lwe0310      UG-GCUUAUUUUUUUGCUUAUUU-UUUUAAUU
+lwe2592      GG-GUUGUUUUUAUUAACUUGA-AGCUGCUGC
+lwe2450      UU-GGUGUUUUAAGUUUUUGUA-A--AGAUAA
+lwe1314      GC-GAGUUUUUUUAUGUGUGAUU-GGAAAUUA
+lwe1188      GC-UUCUUUUUAAAUGUAUAACU-GGAGUUGA
+lwe0298      AC-UAGAUGUUUUAUUUUAAAU-AUCCUAAUG
+lwe2011      GA-GUUCUUUUUAAAUUUAUUUU-GCUGUUAA
+lwe2161      AC-GAGGUUUUUCUUUUCGGAUGAGCUUGUCU
+lwe2096      CA-CGCUUUUUACAUGGUUUUAU-UCAAGAAU
+lwe0611      AC-UUCCUCUUUUACUCAUUUAG-GUAAUGCA
+lwe0928      UC-UACUUUUUUCUUGCGUCCA-A--AUAUGG
+lwe2078      CC-GGCUUUUUUUAUUU--AUCU-GCGGCUUU
+lwe1477      AU-GCUUUU----------CAUUA--UUCUGU
+lwe2085      UC-UGUCUUUCCUUUUA--AAUU-UCUUUUUG
+lwe1943      UU-GGUUCUUUUUUUAUGCAUUC-GAUACUUC
+lwe0931      GC-UGUUUUUUGUUUAGUAAUC-A--CUCCUU
+lwe1514      GA-CGUGCUUUUUAUUUUGCGUU-UCUAGCCC
+lwe0760      UG-AAGCUGUUUUAUAUUUGCG-AGAUAGUUU
+lwe1036      GA-UUCUUU----------UUUU-GUAGAAAA
+lwe2080      AU-CACUUUUUAUAUUAUCAUC-AGCUAAUUC
+lwe1947      UC-AUUUUGUUACUCAGCUAGG-A--UUUUUU
+lwe0548      CA-CUUUUUUUAUCAGCGGAAA-A--AUCACU
+lwe2497      GU-CUGCUUUUUUGCGUCUUGAC-GAUGUUUA
+lwe0901      GU-UCGGUUUUUCCUUUACAACUA--AAAAAA
+lwe2594      UU-UUUAUUUUAUUUAGUGUAUU-UCUGAGGA
+lwe0524      UC-UGGAUUUUUUUAUGCUAAA-A--CUAAUU
+lwe0641      GC-UCAUUUUUUUAAUGGAUUCC-UUCGCUCA
+lwe2635      CU-GGUUUUUUGGUCUUAUUUAU-UCUUAUAA
+lwe2323      AC-UUGUUUUUUGUUUUAUUUA-A--UAUUAA
+lwe1869      GC-GGGAUUUUUUUGUCCAUUUUA--CUUUAC
+lwe0511      GA-UAACUUUUUUA-----UAUU-UCACCUCU
+lwe1046      GU-UUUUUCAUUUCGUGUUAGU-AUCUAUUAA
+lwe2268      UU-GCUCUUUUUUAAUUUAAAUUA--AUUUCU
+lwe0733      AU-GCUCUUUUCCUAUUUUAUUU-UCACUAAA
+lwe2114      CA-UCCCUUUUUAUUAUAGUUGU-GAACGUUG
+lwe2013      CU-GCGGUUUUUUUGUAAACAA-A--CAGAUU
+lwe2731      UU-UCGUUUUUUGUGUUUCACGU-GAAACAUU
+lwe1031      UU-CCGCUUUUCUAUAUAGAAAUA--AGUGGU
+lwe0594      AC-CGUUUUAUUUUCUUUCUACU-UUUAAAAU
+lwe2070      AA-CAGCUUUUUUUAUUGUAGUU-UUUCUAAA
+lwe2324      AC-UUGUUUUAUUUUUAAACGA-A--AACUUC
+lwe2553      UC-UGGCUUUUUUAUAC--UAAU-UCAAACAA
+lwe1066      GU-GCUAUU----------AUU-A--UGUAUA
+lwe0980      AA-GCCUUUUUCUAAUGCAAGC-A--AAUAUU
+lwe0499      UC-GCUGUUAUUAUUUAUACUAU-UGUUUUUC
+lwe2364      AA-GGGGUUUUUUAUUACUGUGC-GCUGCUUA
+lwe2717      GG-GAUUUUUUCUUUACUCCUCUA--AUCCAU
+lwe1850      AC-UUCUCUUUUUUUAUUAAUAUA--CUUUGU
+lwe1758      UA-CCAUUUUUUAUUUAAGUAA-A--AAUGUU
+lwe0119      AG-UGUUUUUUUGCGCAAAAUAU-UCCAUCAG
+lwe0593      CG-CCGUUUUUUAUAGAUAUUUU-GCCAUUGU
+lwe0032      GA-CAGUAUUUUUUUGU--UGA-A--UAAAAG
+lwe0007      CC-AGCUUUUUCUUAGUAUAAA-A--AAGCGC
+lwe2418      CC-CACUUUUUAUAGUU--AUU-AGCCCUUUA
+lwe2509      UG-CGGUCUUUUUUACUUUAUUU-GCUAGUAC
+lwe1911      UC-UCUUUUUGUUAUAUCCCUAUA--AGAUUA
+lwe0573      AC-AUUUUUUUAUUCUUCUUCA-A--AAGCAU
+lwe0689      AC-UUUCUGUUUUUUUUAUUUAC-GUUUCUUU
+lwe2339      UC-GCUUUUUUCUAUAUUAAAAU-GGAUUUUC
+lwe2092      AC-AGGUUUUUUUAUUCCGUUUU-UGCCGGAU
+lwe0500      UC-GCUGUUUUUUGGAUUAAAAU-UCAUCUUG
+lwe2166      AA-ACGUUUUUAGUUUUUGAGUGAGCUAGAAA
+lwe2207      CG-GGUUUUUUUGCGAUUUUAA-A--AAUAAA
+lwe1709      GU-CUUCUU----------UAA-A--UACUAA
+lwe2353      GC-CAUCUUUUUUAUGCCUUAAU-UCCAAUUA
+lwe1705      GC-UCGUUUUUUUAUUCUUCAUU-UACAUUAA
+lwe1047      GU-UUUUUCAUUUUACUGGAAAG-GCAACAAC
+lwe1025      GG-AUGUUUUAUUUUAUCCACC-A--AUUUGA
+lwe1803      AG-GGUUUU----------UCA-A--AUUAUU
+lwe0915      CA-ACCGUUCUUUUUUUAGUUAU-UUACGUUU
+lwe2537      GA-CCCUGUUCGUAUUUUAUUUU-GUAUAUUC
+lwe0755      GA-UGUUUUUUUAUUUUUCAUC-A--AAUUUG
+lwe2077      UA-AUUGUUUUUUUUUAUGAUUU-UUAAAGCU
+lwe1540      UC-GGCUGUUUUUAAUAAGAAGUA--AACGGG
+lwe2169      GU-GCUCAUUUUUUUAUAUAGAUA--AAGGAG
+lwe1988      AA-UCCUUUUUUUAACCAAUAA-AGCUUUCGU
+lwe2389      GU-GCUUUUUUGUUGACCAUAGUA--UGGAUU
+lwe0250      GG-CUUUUUUAAUAUGUUAAUA-A--CUAUUA
+lwe1354      UA-GCUUGUUUUUAUAAGGAUA-A--CCUUCC
+lwe1179      AG-UUCUUUUAUUUGACUUCAA-A--GUGAAG
+lwe0247      UU-GCUGUUUUGUUGUUUAUUUG-GCUUUUUU
+lwe1459      AG-GGCUUUUUAAUUAUGGAUA-A--CUCCGA
+lwe1944      UU-GGUUCUUUUUCUUAUUAACC-GAUUAAUU
+lwe0730      GG-UGCUUUUUAAUGAUUUAAUU-GAAUCUCC
+lwe2254      GU-UGAGCUUACAUAUUUUUUGU-GAAUUAAA
+lwe1449      AU-UGUUUUUUUGCUUA--UUC-AGCAACAUU
+lwe0690      GC-UUUCUGUUUUUAUUUAAUCGA--AUCGCG
+lwe0747      GC-UUGUUU----------CAUU-UAUACUUC
+lwe2276      GU-ACCUGUUAUUUUUAUAUGAG-GGAAUAGA
+lwe1684      CU-AGCUUUUUUUAUAUACAUUU-UCAACUUC
+lwe1009      CC-GGUCUUCUUUUUAUUCAUU-A--AUAUCU
+lwe1290      UA-CACUUUUUUGUGUUUAAAA-A--AGAAUU
+lwe2255      UU-GCCUAUUUUUAUUU--AAUUA--CCAGUA
+lwe1297      AG-AGCUUUUUUUUGUAUCGUUU-GGUAAAAU
+lwe1549      GU-AACUUUUUUAUUUGCGAAG-A--GUGCUU
+lwe0658      AA-CACUUCUUUAUUUUAUUUA-A--AAAAAU
+lwe1476      AU-GCUUUUCUUAAUAUUCUUCU-CUAUCGAA
+lwe1507      GG-CAUUUUCUUAUUUUACAUAU-UCUUCUGU
+lwe2700      UC-GACUUUUUUAUGUUAAUUA-A--ACCAAC
+lwe2129      AA-UCUCUUUUUGCUUU--GUAU-GGGAGAAA
+lwe1174      AC-CAUUUUUUUAAAUCUCUUCU-UGUUUUUC
+lwe2651      GA-UUUUUUAUUUAUUUCUUUA-A--UUGUCU
+lwe0813      AU-AGCAUUUUAUUUUUGCAAGU-GAGAUUGA
+lwe0168      AG-GGAUUU----------UUA-AUGAUGUGG
+lwe0431      GG-CGUUUUUUUGCACUUAUUU-A--UUUGUU
+lwe2205      UC-GAGUCUUUGUUUUAUGUUA-AGUAGGAGA
+lwe0460      UU-GCCACAUUCGCUCUUUAUAUA--AGUUCA
+lwe0613      AA-CAGUUUUUUGAUGAGAUAAUA--AGGGAA
+lwe0907      GA-GAUUUUUUUUUAUUAUUUA-A--AUGUAA
+lwe2417      CC-CACUUUUUUGUUGCCUUAUU-UUAAACGU
+lwe0248      AA-CUGGUU----------UUC-AGAUAGGAG
+lwe1678      AU-ACCUUUUUUUACUAUAAAAUA--AUAUAG
+lwe0491      UA-ACUA------------UACU-UAUUUUGA
+lwe0228      CU-UGGCUUUUUUUGUUAUACUU-UUAAAAAA
+lwe0520      AG-UGUUUUUUGUUCAU--AUUU-UUAUUUCC
+lwe1347      UU-GCUUUUUGUUAUUU--AGAU-UCUGGUUU
+lwe1878      CU-GGCAUU----------GUU-AUGAAAAGG
+lwe0908      GA-GAUUUUUUUAUUUACUAGG-A--AAAUAU
+lwe2706      GA-CGGCUUUUUAAAAUGUUUC-A--CGUGAA
+lwe2174      CU-AUCUUUUUUGUCUACGGAGU-UCAAAACU
+lwe0815      UC-ACUCUUUUGUUUAC--UUCU-UGCUCUAA
+lwe2137      CA-GGAUUUUAUUUCUUUUAAA-AGAAUGAUU
+lwe1900      UU-CUGUUUUUUGAUAGCUUGAC-GCGCAAGU
+lwe2319      GU-UUCUUUUUUUAGGA--AAUU-GCAUAUAG
+lwe1971      CA-CGGAUUUUUUAUGUAAACGG-GGUAUCAG
+lwe0893      AG-CUCGUUUUUUCUAUGCUUUU-UUAAAAUG
+lwe2138      AC-UCCUGCUUUUUAUGAAAAA-AGUAAAAUA
+lwe2408      CA-GCAA------------UAACA--AGAAUA
+lwe2751      UG-CCUCUUUUAAUUACUCUUCUA--UUUGAA
+lwe1394      GC-GGUUUCUUUUAUUUUUCUUUA--UUUUGU
+lwe2363      AA-GGGGUUUUGAUGUUUAUUU-AUCAACUGG
+lwe1392      GA-AUGCUUUUUUAUAUGAGAUU-UAAAUUAG
+lwe2435      UA-GAUUUU----------ACAUAGAAAAAAG
+lwe1108      UA-UGACUUUUUUGUUGCCUGA-A--AAACAA
+lwe0139      GG-CUGUUUUUUGUUCUCAAAA-A--UAUGGC
+lwe2508      GC-GGUCUUUUUUGUAGUUUUAU-UUAUUAUC
+lwe2748      GU-UCUUUU----------UAUU-UUAUUCCU
+lwe2152      AU-ACCUGUUUUUGGUUUCCCA-A--AACAAU
+lwe0561      GU-AACUUUUUUAUUAGUCUUU-A--UAGAUU
+lwe2472      GG-UGCCUUUUUGAUGUUAUCAGA--AUAGCA
+lwe2321      AC-AGGUUUUUUUAUUGUUUAUU-UUUGGAAC
+lwe0235      AU-UGGUUUUUUAUUAGUUUCA-A--UAAGUG
+lwe0294      AA-CAGC------------CUA-A--UUUUUU
+lwe1600      GA-CUCUUUUUAUUAUAAGAAAU-UACGCUUA
+lwe2037      GC-AGGGUUUUUAAAAAAGUAA-A--CUGAAU
+lwe1312      CG-UAGUUUUUUUGUUG--CUA-A--AUCGUU
+lwe2639      AG-GCGUUUUAUUUAACUAAAA-A--AUACUA
+lwe2506      GC-CAGUUAUUUUUUGU--GUU-A--AGCUUU
+lwe0810      AC-AACUUUUUAUAGUAUUAGU-A--CAAAAU
+lwe2141      GC-GAGUUUUUUAUAUGAUACUU-UUUCGAUA
+lwe2215      AA-UCCCUUUUUAAAAUUUUAAU-UAACCUAC
+lwe2147      AG-CGUUUUUAUUACUCUUCUUU-UCCAGUUG
+lwe0912      UU-CCGUUUUUUUAAUAAAGUA-A--AUCUAA
+lwe0773      AG-CUUCUUUUUUUUGA--AAUU-UGAGUGGU
+lwe2193      AA-CGGAUUUUUUUGUUUUAUUU-GCUCACUU
+lwe0922      AU-GCGGUUUUUAUUUUAAAAA-AGCCUUUAC
+lwe0045      AA-GGUUUUUUGUUUUAUGUAA-A--AAGGUA
+lwe1883      AG-GUUUUU----------AUAUAGUAUGACA
+lwe0355      AC-UCUUUU----------CAUUA--AUUAGA
+lwe0565      AG-CUUCUUUUUGUGUUAUGCUU-GUUUUUUA
+lwe0885      AA-GUCUUUUUGUUCGGUCUUUUA--UUUACA
+lwe1671      GG-UUGUUUUUUUAUUAUUUUAU-UCAGUUUU
+lwe1716      CU-UGGCUUUUCAUAUUCUAUCG-UCCGUCGC
+lwe1534      GA-UUGCUUUUUAUUUGCGCAUU-UCUGCGGA
+lwe2411      UG-GAUUUUUUUGGAAUAGAAC-A--AAGAGA
+lwe0249      GC-UUUUUU----------UAUUA--UCUACC
+lwe0392      CG-AGGUUUUUUGGCAU--UGC-AGGAGCUGA
+lwe0432      AG-GCGUUUUUCUUCAAAUAGUU-UACUUAUU
+lwe1278      AC-CUUGUUUUUGCAUUUAACC-A--AUCAAU
+lwe1001      CA-UGGAUUUUUUAGUAUUCAUU-UAUGUAUU
+lwe0834      GA-UUUCUGUUUUUUGUGGAAAU-GAAUAUAU
+lwe2334      AU-GCUUGUUUUAUUUCUCUGUU-UCAUCUUC
+lwe2005      CC-UAGC------------AACC-GUUUAUCC
+lwe1277      AC-CUUGUUUUUAAUUACGAAUU-UGACCAUC
+lwe2265      GG-CUCUUUUUAUACAUUUUUUU-GAAUAAAA
+lwe2134      GG-GCUG------------UCGU-UAUUUUUU
+lwe0017      UG-CUCGUUUUUUGCAUUUUUA-A--AGGGUU
+lwe2419      UC-AGCUUUUUUUAUUACAUGC-AUCAAGUAU
+lwe2053      AC-UUCU------------AACU-UUAAGCAG
+lwe2036      GC-GCGUUU----------UUUUA--UGUUAG
+lwe1967      AG-ACUCAUUUGUUUGUUCAUAU-GGAUAAAG
+lwe0266      GU-GACUUUUUUUCUGUGGAAA-A--CUUGUG
+lwe1431      UU-UAGCUUUUUUGAUUGUAUUU-UUUGUCAU
+lwe1131      AA-GCUUUU----------UCUU-UUUGUUAG
+lwe0481      GG-GGGAUUUCUUAUCACAUUA-A--CAUUGA
+lwe2714      GC-CUGUUUUUAUUUCCCGGGA-A--AUACUG
+lwe2256      CU-UGCCUAUUUUUUAAAUAUG-AUCACGAGC
+lwe2246      AU-GUGCUUUUUUAUAUUGCUUUA--UUAUUA
+lwe0472      AG-CUACUUUUUUUGUUGUUUA-A--AAUAGA
+lwe2202      AC-UCGCUUUACCGAUUUUAUUUA--UUAAAG
+lwe0620      UC-UGCUUUUUUUAUGACAGUG-A--AGAAGC
+lwe1346      UU-GCUUUUUUUAACUAUUUUUUAGACCUAGU
+lwe2602      UG-UCGGUUUUUUUAUACGCAA-A--AAUAAA
+lwe2527      GA-AGUUUUUUUAUGAGAUAGCU-UGCACUAA
+lwe1993      UA-GCCUUUUUUUAUAA--ACCU-UCUAAUCG
+lwe0076      GG-CUGUUUUUUUCUACCAAAU-A--AUGGUA
+lwe2269      UU-GCUCUUUUUGAUUAAAAGGU-UAAUUUGG
+lwe0485      AA-GCGUUUUUUAUUUUUACAA-A--AGAGCA
+lwe2587      UA-GCCGAUUUUUUUAUCAAAA-A--AGAGCG
+lwe1804      AG-GGUUUUUUUAUGAACUAAUC-UGUAACCA
+lwe0117      GGUUCAGGUUUUUACUU--GUC-A--UUUUUA
+lwe1771      AC-UACUUUAUUUAUUAGGAAUU-UAAAACGA
+lwe1401      AU-GUGGUUUUUUUGACGAAAGGA--AACAUU
+lwe0255      CG-GAUUUUUGUUUAUAGCUUAU-UUUUUCUU
+lwe1949      GC-ACUGUUUUUUUAUUUAAGAGAGGCAAUCA
+lwe0634      UU-AUUUUUUCUUAUUGGUAAAUA--AGUGCU
+lwe0578      AU-UGUCUUUUUUGAGCAUAAA-A--UUUGUU
+lwe0564      UU-UCGCUUUUUUUUCUUAAUU-A--UUUUUA
+lwe0547      CA-CUUUUU----------UUA-A--AUAUCU
+lwe0009      AG-UCAUUGUUUUGGGUCAAAA-A--AAGUUC
+lwe0911      UU-CCGUUUUUAUUUGAGAUUUU-UUCCUGAC
+lwe2736      GG-GUUUUUAUUUUUAAAACGAU-UGCCAACU
+lwe0484      AA-GCGUUUUGUUAUUUAUGUUU-GGCAUGAU
+lwe0630      UA-CGCUUUCUUUAUGCCUAAU-A--UGGUAU
+lwe0852      GC-CCGUAUCUCAUAUUCACAGC-GAUAUUUU
+lwe0574      GA-GGUUUUUUUGAUGCGUUUU-A--UUAUCG
+lwe1166      AG-AGGUUUCGUUUUUU--UAA-A--AGCGUU
+lwe0946      GC-UACUUUUUUUUUACAUAUUU-UCCAAACG
+lwe0820      GA-CCUUUUUUUGCUUUUGAUCU-GUGGGAAU
+lwe1695      CC-AGUUUUUUAUUUGGAGAUG-A--UUUCAA
+lwe0927      UC-UACUUUUUUUAUAUCCCAU-A--AAAAGG
+lwe2352      CA-UCUUUUUUAUUCUGAAAAU-A--AAUCCA
+lwe1000      CG-UGCCUUUUCUUCUUCAAAA-AGGUAGAAU
+lwe2135      GG-GCUGAUUUUUAUUUUUUACCA--AAAACG
+lwe2447      UA-GACG------------UAU-A--CCCAUG
+lwe1750      AA-GCUCUUUUUGACUAAUUAUU-UCAUUCCA
+lwe2647      CG-GGGG------------UUUU-UUAAUGCG
+lwe1633      AU-GGGCUUUUUUUAUGGAAAA-A--AGGAAU
+lwe0992      CA-GCUUUUUUUAU-----AUA-A--AAAUAU
+lwe1712      UC-UGGUUUUUUUGCUUCUUCAU-UUAGUGGG
+lwe0718      CU-CUUUUU----------UGCG-UCCGUUAA
+lwe0457      AA-AUUCUUUUUUUUAUGAUACUA--UAAUGG
+lwe0581      AU-CGCUAUUUUUUUUUGCAUUU-UUAACAUA
+lwe2693      GU-CGGUUUUUUAUAAGGAUUG-AUGAAACUU
+lwe2345      AC-UGGUUUUUCUUCGAUUGCUU-UCACUUCU
+lwe1069      GA-AUCAUUUUUUGGAGGGAUG-A--CAAAUG
+lwe2694      GU-CGGUUUUUAUUUCCCGGGA-A--AUAGUU
+lwe1513      GA-CAUGCUUUUUGUUUUAUUCU-UCGUCUUC
+lwe2230      UC-UCUUUUUUUAUUCGUACAUU-UUUUUCAU
+lwe0096      UG-CUACUUAUUUAAUAAAUUC-AUCUAAUAA
+lwe2236      AC-GUGUUUUUUUAAUGUAAAA-AGCGUUGCU
+lwe1306      GA-GUUUUUCUUUUAUUCACCA-A--ACACAU
+lwe0940      AA-GCUUUUUCUUAAUGGUUUUCA--UUGUCU
+lwe2415      GA-UGUUUUUUUAGAUCCUCUA-AUCAAUCUU
+lwe1097      GA-ACCUUUUUACUCUUUUAAAG-GAGUGUUA
+lwe2713      AC-ACGCUUUUCUUUAGCUUAUU-UUUUUAUA
+lwe2106      AG-ACGCCUUUUUAAUUGAUGCG-GCCGAGAG
+lwe0987      UA-GGUCUUUUUGUAUUGUGUA-A--AUGAGG
+lwe2228      CA-CAUUUUUUGCAAAUAAAAG-A--AAACGU
+lwe2149      AA-UGCUUUUUUUGUGG--GUU-A--AUAGUU
+lwe1522      UG-UUUUUU----------UACU-GUUCAUUA
+lwe0842      CC-UUUU------------ACU-A--UACAAU
+lwe1170      UG-CGUUUUUUGUACUUAUUAU-A--UAGAAG
+lwe0466      UG-CUGUUUUUUUGUGUAAAAU-AGCAAAUUC
+lwe2017      GC-CUUUUUUCUAUUACCUCUCGA--ACUCUU
+lwe0823      GU-GGGUUUUUUUAAUGACUUU-AGUUGUAAU
+lwe1432      GU-CGGUUUUACUUUGAGUUGUU-UGAAUUUU
+lwe2208      CU-UGGCACUUUUUUUGUAAUUUA--AGUAAU
+lwe2272      UG-CUUCUUUUAGUUUAAAAGU-A--AAAAGU
+lwe1732      AG-UCGUUUUUUGGUUUGAUUAC-GAUUUUUA
+lwe1551      GG-CGCAUUUUUUCUAUGUUAA-A--AUAAAU
+lwe1275      GC-GGGAUU----------AACU-UUAAUUAG
+lwe1733      AC-UGCUUAUUUAGCUUGCUGA-A--AACACU
+lwe0525      AA-GAGCUUUUUUUAAA--UAAU-UCCUUGUG
+lwe1493      GU-GUUUUUUAUUUUUUAAAAAUAGCUUUGUC
+lwe2426      GA-CCCAUUUUUGCGUGACUAC-A--UAGACC
+lwe2456      UG-GUACUUUUUUCUUUUUUUA-A--AAUGGU
+lwe0618      CA-ACUUUUUUUGUGUUUUACA-A--UAAUAC
+lwe2071      AA-CAGCUUUUUUUCUAUUAAAGA--UAUUGU
+lwe0046      AG-AAGCUUUUUUUGUUUCACGU-GAAACAUU
+lwe1762      AC-UUCCUGUUUUUCGUAAAUU-A--AGGAGG
+lwe0465      CA-GCCUUUUUUGUUUUGUGAA-A--CAUUUU
+lwe0896      GC-UAGCUUUUUUGAAAAAAUUUA--AUUUUU
+lwe0961      GC-GGUUUUUUAUAAUUAAAAGUA--AAAGGC
+lwe1713      UC-UGGUUUUUUUCUAAUCCACUA--AAUCAU
+lwe1268      GU-GCUUUUUUAGUUUUAAAAA-AUCACAUUU
+lwe2701      UC-GACUUUUUUUUAUUCAAUA-A--CGAAUU
+lwe0216      GA-AGUUUUUUUGUGUAAGAUAU-UGACUUUU
+lwe2399      GG-UGGUUUUUUAUUAUUGGAGU-UCUAAAGA
+lwe1800      CU-CGUUUUUUUAUGUCCUCACUA--AUUCAG
+lwe2132      AU-UCCAUU----------UUUUA--UUUCAU
+lwe1715      UG-GCUUUUUUUAGUCUUCUGG-AUUAAUGAU
+lwe1753      GU-UCCGUUUUUUGGUU--GUA-A--UAAUUC
+lwe0966      CC-GAGUUUUUUUGCAUCUUAAG-GAGGAUAA
+lwe2476      GG-AAUUUUUUUAUGCCUACAAG-UGCAUAAA
+lwe0226      UC-GUGUUU----------GUUU-GUAUUUUC
+lwe0731      GU-GCUUUUUUUAACGUUCUAAU-UUUGCAGC
+lwe2779      UG-GUUUUUUUUUUGAA--AAAU-CGCUGAGU
+lwe2402      CA-AGCGUAUUUUAAUU--AGA-AGCAUUUUU
+lwe1739      GC-AUUCGCACUUUUUUUUCACUA--AAUUUU
+lwe1315      GG-GUGUUU----------ACAU-UUUAUAAA
+lwe1532      GC-UUCUUUUUGUUUUU--AAA-A--AUCAUC
+lwe1146      AA-UCGUUUUUAUAUUUAUGACU-GCCAAUCA
+lwe1245      GG-UCUUUUUUUGUUUUAAUAAU-GCUAUAAA
+lwe1175      GA-UUAUUUUUUAGCUUGAAUCU-UUCGCAGA
+lwe2231      AA-UCUCUUUUUCUUAUUUAGC-A--UCGUGA
+lwe1653      GC-CUCUUUUUUAAUGCUUUAU-A--AUUUGA
+lwe0734      AU-GCUCUUUUUAACGAUAAGC-A--ACUAAU
+lwe0958      UA-ACUAUUUUUUAUUAAGAUUUA--UUGGCU
+lwe0848      CU-GCUUUU----------UUAU-GGAAGAGA
+lwe2216      AA-UCCCUUUUUUGUUAUUUUCU-GCGUUUGC
+lwe0033      GU-GCUUUUUUUAUUUCCCGGG-A--AAUAGC
+lwe1512      CA-GGUGCUUUGUUUGUUAAGAUA--AGGAGA
+lwe1620      GC-GUCUUUUUUAUACUAGAUUU-UCUGGAUU
+lwe2381      GU-CUUCUUUCUAUUAAAGUGG-A--AGCCAG
+lwe0106      GU-GUCCUUUUUCAAUU--GAUU-UCCCCAGU
+lwe1537      GU-AGUUUUUUUACGAA--AAAU-GCCAAAAC
+lwe0169      UA-CUUUUUUUAUCUAAUAAUCU-UGAACUUC
+lwe1679      CA-GUUUUAUUUUUAGUUAUUUU-UUUGGUAU
+lwe2148      GC-GCUUUUUUAUUUGAGUAAA-A--CAGGUA
+lwe0892      AA-GCUCGUUUUUUUAUUUUGGC-GGCGUAUU
+lwe2442      UC-GGGCUUUUUCUUCUUUAUUU-UUUUCUGG
+lwe1774      GA-CAGUUCUUCCCAUUUUUAA-A--AGGCGG
+lwe1071      UA-GGGCUUUCCCUAUGUUGAGU-UAUAACAU
+lwe1599      GA-CUCUUUUUAUUUUGCUUCC-A--AAAUAG
+lwe2340      UC-GCUUUUUAUUAGUCAAAAA-A--UUGUUU
+lwe0701      UU-AAGAUUUUUUUUUUGGAGC-A--AAAUAA
+lwe2718      CU-GGGAUUUUUUUAUUCAAAU-A--AGAAAU
+lwe2343      GG-GGUUUUUAUUAUAAUCAUUU-UUAAAUAU
+lwe0148      GC-AUGAUUUUUUAUAACGUAUC-GCCAAAGC
+lwe0554      CA-GAUUUUUUUGUGUU--AUA-AGCCCUUUG
+lwe2333      AU-GCUUAUUAUUUUCGCUUCUU-UUUAACGG
+lwe1015      GA-GGUUUU----------UUAU-GAAAUUUU
+lwe0494      AA-CCUUUU----------AUU-A--UGUCGU
+lwe2316      AA-GGUUUUUUGUUUGUUUGCG-A--UUUUCU
+lwe0246      UC-UGCGUUUUUUAACUAUCUUU-UUAAAAGA
+lwe0887      GA-CUUUGUUUAUACUAAUAAA-A--AAUGCA
+lwe1654      GC-CUCUUCUAAUCUUAACUUA-A--AGCGAC
+lwe1915      CA-CUUUUUUUGUGUCAACUAC-A--UGAUAG
+lwe2390      GC-UUCCCUUUUAAAUUUACGU-AUCUUCUUU
+lwe2284      CU-UAGUUUUUUUGAGCUGUUUUA--UAAAUU
+lwe0316      UG-CCCUUUUAAGGAGUGGAAG-A--AUAUGU
+lwe2459      CC-CUAUUUUUAUUAGGAGUGA-A--GAUUAU
+lwe0252      GG-UUUUUUCUUAUUUCCCCAA-A--AUUCAU
+lwe0264      GG-UUGGCUUUUUCAAA--CGAU-GGCACAUG
+lwe2318      CU-GAUA------------AAUU-UAAUUGAC
+lwe0983      CU-UGGGUUUUUUUGGUGUUUUC-GUCUCUUU
+lwe0384      CU-GGCUUUUUUCCAUAUAAUCU-UCUAUAAC
+lwe2462      AG-GUUUUUUUGUAUAGGGUAA-A--AUUCUU
+lwe2491      AC-GUCUUUUUUUAAUGAAAGUUAUCCACAAA
+lwe0526      AA-GAGCUUUUAUUUCAUUAAUU-UUCGUAAA
+lwe0341      UG-GGUCUUUUUUUGUGUGUUGU-GUCAUAAC
+lwe1379      UU-GCUUUUUUAUUUGCCUAAA-AUCAUUUUA
+lwe1424      GC-CGGUUUUUACUAUUUAUAAC-UACUUGUU
+lwe2027      UC-UUUCUUUUUUUAUAUAACAG-UUUUUUUA
+lwe0398      GG-CUUAUU----------AUA-A--AAGUAA
+lwe0881      GC-UGCAAUUUUUCCAAAAAGA-A--UUCCGU
+lwe2619      AA-GUUCUUAUUUCUGUUAUAAUA--AAAUAG
+lwe2436      GG-GAUGUUUUUAUGUGCCUAAGA--CCAAAC
+lwe1719      GG-UCUUUUUCAUCCAAGUUCUU-UCCAGUGC
+lwe2725      GA-UUGUUUUUUUGAUUUAAAU-A--AAGUCA
+lwe1782      GU-ACUUUUUUUGUUUAUUUAGU-GAAGAGAA
+lwe1798      CC-UCACUUUUUCUAUGCGUUCG-UUUACCCG
+lwe0019      UG-GGGGUUUGUUAGUU--AUU-A--AUCGAU
+lwe0622      GG-GCGUUUCUUUUACGACCGUU-UGGAGGAA
+lwe1506      GG-CAUUUUUUAGAUUGUUUUU-AGUAAUUCG
+lwe0112      GC-UCUUUUUAUCUCUUUCCAAUA--UUCACU
+lwe1264      UG-CUUC------------CAGU-UAAUCAAG
+lwe1024      GA-UGUUUUAUUUUUGUCGUUCU-GCUAUUAA
+lwe0982      CU-UGGGUUUUCUUUUUGCAAA-A--AUUUUC
+lwe0859      GC-CGUUUUUUUAUAUUUACAUUA--ACUUCC
+lwe2634      CU-GGUUUUUUUCUUCUAUUAA-A--UUAGCA
+lwe0937      CG-UAGCUUUUUUGGUUAUUUU-A--CUUUUU
+lwe0063      GA-UUAUUUCCUUUGGAUAAAA-A--AAUAGC
+lwe2532      AG-GAGU------------UGA-A--CGGAAU
+lwe2391      GC-UUCCUUUCUUUUAUUAUAA-AGCUGAUUC
+lwe2677      CC-ACUGCUUUGUAUAAUUUUAC-UAAAAGUU
+lwe0428      AA-AUUU------------AUA-AGGAGAACA
+lwe2546      AA-AUGCUUUUUUGUUCGGGUAC-GUUUACGA
+lwe0737      AG-CUUCUUUUUAUGCUAAUUUU-UCUGAUUC
+lwe0740      UU-CUCCCUUUUCUUUAAAUAAU-UAUGUUAC
+lwe0752      UU-CGACUUUUUUGUGCCAAAUUA--UGCUCC
+lwe1446      UG-GGCCUUUUUAAGUGUGUUAUA--AUGAAA
+lwe0075      CC-AUCUUUUCUAUUAUUACGAUA--CUUUUU
+lwe1609      UA-GGGUUUUUUUAUGCACAAA-A--AAGCAC
+lwe0030      AA-GCUGUUUUUAUGUU--AUAC-UGAGAAAA
+lwe1423      CG-GUUUUUUUAUAGUAUUUUAUA--CAUUUC
+lwe0366      UA-GCUUUUUUCGUGAAUUUUUC-GUGAAUAU
+lwe2640      AG-GCGUUUUUCUUAUU--UAAU-CGUGAUUU
+lwe0858      UC-AGCUAUUUUUAAAAAAUUCUA--ACCAUA
+lwe2772      GC-UUUUUU----------UGAUA--AAUGGU
+lwe1403      AC-CUUUUUCAUUUAUU--CAUUAUCCGGUGU
+lwe2337      UG-GCGCUUUUUUCAUGGUAUA-A--UUAGAA
+lwe1891      GC-UUCUUUUUGUAAUAUUGUU-A--AAUUUC
+lwe2754      UG-CUCUUU----------UACUA--AAAAGG
+lwe0659      GG-GGCU------------UUUC-UUUUUAUU
+lwe1226      GA-UACC------------UAUU-UGCUUGCA
+lwe0383      UU-GGCUUUUUCUAUUUCAAUA-A--ACUAAG
+lwe0806      AG-GCUU------------CUUU-UUAUGUAU
+lwe2649      CU-UUUU------------CUAU-UACAUUCA
+lwe1181      GU-GCGGUUUUUAGUUUAAUUU-A--AAAUAC
+lwe0596      UU-UCGCUUUUUUUGUGGUAUG-A--UUAAUG
+lwe2654      AG-UCUC------------AACU-GUUUUUAA
+lwe1689      CC-UUUCUUUUAAUUUAUUGCGU-UGAAUUUU
+lwe1809      GG-GUUUUUUGUUUGUU--UGA-A--AGCUGU
+lwe1836      GU-AUUUUUUUAUAUUUGGACA-A--AGAAAA
+lwe2039      CC-AAGCUUUUUUAAUUUGAGAU-GUGGUAUU
+lwe1395      GC-GGUUUUUCUAUUUGGAUUUU-GGAUCAAU
+lwe0002      GC-GGAUUCUUUUUUUGUUAUAG-UACAGUUU
+lwe0930      GC-UUGCUUUUGUUUUA--UUUC-UUCUUUUU
+lwe0586      UG-CGGAAGUUUUUUAUUUUAAU-UCAAAUGA
+lwe1304      GG-AUUCUUUUUUUUGAUAUAAU-GACUAGGA
+lwe2180      GG-AGGUUU----------UUU-A--UUAUGA
+lwe1621      AU-GCUUUUUUCUUAUUUAUAAU-UAGUAUAA
+lwe1374      GC-ACUCCCUUAUUUCGCGAUUU-UUUAAGAU
+lwe2173      AA-CGUUUUAUUUUUUACAGUUU-UGAACUCC
+lwe2025      UC-AUACUUUUUUUAUAUUAAA-A--AGCUAU
+lwe1305      AG-UUUUAUUUGUUCAUAGCAUU-UGUAAGCA
+lwe0758      AA-GCUUUUUUUGUCACCUUUUU-GUCAUACU
+lwe0979      AA-GCCUUUUUAUUAAGCAGUU-A--CUUGUU
+lwe1818      GC-AGGG------------AUAU-UAUAAAAG
+lwe1676      UG-CGCUUUUACUAAUUUACAA-A--AUAAAA
+lwe1605      AA-ACGGUUUUUUUGUAUAUUA-A--AUACAU
+lwe0608      GG-GCAGUUUCUUUUUGAAAAA-A--GAGGAU
+lwe1390      UC-AGACUUUUUUAUUUUUUUCC-UCAAAAAA
+lwe1084      CU-GUCUUUUUAAUCAUCUAUUU-UACAACUU
+lwe0817      AA-GGGAUUUUUGCUAUGCUUUUA--UGCUAC
+lwe2759      GG-AAUUUUUAUUUUGCUAAACU-UUUGAAUC
+lwe1962      UG-GCUCUUUUUUUAUGAAUUAU-GCUAAAAU
+lwe0787      AC-GUUUUUUUAUUUUCAUGUAU-UAAAUUGC
+lwe2760      GA-AUUUUUUGUUUCACGUGAA-A--CAUUUU
+lwe1169      CC-CGUU------------AAUU-UCAACCUU
+lwe2535      GU-UUCGGUUUAGAGAG--GAGU-GGAUUUUG
+lwe2213      UC-UCUCCUUUUGC-----UGAU-GAUUUUCA
+lwe1273      GG-CUUUUU----------AGCG-UCUUCUAG
+lwe1690      CC-UUUCUUUUUUUAAUAAUUA-AGACCUUCU
+lwe1464      CC-AGGUUUUUUUAUCCCAAUUU-UUAAUUCG
+lwe2084      UG-UCUUUUUUAUUGUUGUUGUU-UCUUUAAU
+lwe2606      AG-GUGU------------UACUA--UAUUCA
+lwe0086      UG-GCUUUUUUCAUAAAUUAUUU-UUUAGUGA
+lwe0602      GA-AGGUUUUUUAUUAUUAUAA-A--UUGACA
+lwe0833      GG-UUGUUUUUUUGUCAUUUUAU-UUUUGUUG
+lwe2380      GU-CUUCUUUUUUUAAUGCGUA-A--AACCGU
+lwe1725      UA-GCGUUUUUUUAAUUUAUUUC-GCCUAAUU
+lwe0441      UU-ACUUUUUUUGGAUUACUUUUA--UGUAGG
+lwe0991      UA-GUCUUUUUUUGGUACUAAAUA--UGCUUA
+lwe1011      UA-UCGUUUUUUAUUGA--UUUC-UCAGAACG
+lwe0091      AU-ACUAUUUUUAUUUGUAAGA-A--AAAAAG
+lwe0496      CU-GCUUUUUUUUAUGAAAAUUU-UAAUUAUC
+lwe0919      GU-UAUGUUCUUUUAUUUGCGCUA--UUACGC
+lwe1548      GG-GGUGUUUUAUAUAAAUAAU-AGGAGGAAA
+lwe2285      UC-UGGUUUCCAUUAUUAUUUCU-UAUCUUCA
+lwe1284      GU-GUCCUU----------CUG-A--UUGUAG
+lwe1864      GC-GCGUACUUUUUAUU--UAAC-UGAUGUGA
+lwe1791      GA-GGUU------------AAGUA--AUUUAU
+lwe1749      AG-CUCUUUUUUAUUAUGGUAA-A--AAUGUU
+lwe2586      CU-GCUC------------AUA-A--AAAGAU
+lwe1145      AA-UCGUUUUUUAUUUGAGUGA-A--UCGCGA
+lwe0308      AA-GAGUUUUUUUAUUCGCAGUU-UUAAGUGA
+lwe0587      UG-CGGAUUUUUCUAUUUAAAA-A--CCUAAU
+lwe2100      UG-CGUUUUUUUGCUUUUUAUUU-UGGUACAG
+lwe2322      GC-AGGUUUUUUAGCUUUCUUGG-GUAAGUAU
+lwe2292      GC-AGCUUUUUUAUGUUAAAAUUA--ACUUAA
+lwe0793      GU-GGAG------------UGA-A--UAUGGA
+lwe1997      UU-CUGGUUUUCUUUGUUUACUU-GCAAAAGU
+lwe0390      GC-AAGUUUUCUUUUUAUAAAUC-UAAUCUUA
+lwe1924      UG-GCGCUUAUUUAUCUGGGCA-AGAAAUUGC
+lwe2010      AU-CUCUUUUUAUAUUACAGUUU-GUCUGGCU
+lwe1448      AU-UGUUUUUUUAUUUAAGUUCGA--UUUUGC
+lwe1098      GU-UUUCUUUUUCUAUUCAAAAU-GUUUGACC
+lwe2747      GU-UCUUUUUAUAUGGUCUAAUCA--UUCACG
+lwe2249      AG-CUGCUUUUUAAAUACGUUG-A--UUUAAC
+lwe1318      AC-UUUCUU----------AUUU-UAAUAUAA
+lwe0782      AU-AUUGUU----------CAUU-UAGUAAAU
+lwe1276      CG-GGAUUUUUAUGUUCACUGGU-GGAUAUGU
+lwe0811      AC-AACUUUUUUAAUGG--UGAU-UUUAUUGU
+lwe1492      CA-ACUUUUUUAUAUAGAAUAC-AGCUUAUUU
+lwe2108      UC-GCUUUUUUUGGUAAAUUAAG-UCCGAAAU
+lwe0963      AA-UCUUUUUUUAAUUUUCACC-AGAAAUAUG
+lwe0832      CC-CCUUUUUUAUUAAAUAGUAU-UAAAUUGA
+lwe1731      CA-AGGGUUUUCGUUUG--UUAU-UUUUUAUA
+lwe0761      GC-GGCUUUUAUACUUUUUUAAU-GUGUAGAA
+lwe0469      GA-UGGUUUUUAUUUUAUUAAAUA--AUUCAG
+lwe0805      AA-CCUCUUUUUUUACUAAAUA-A--AUUGCU
+lwe1125      UG-CUCCUU----------UAA-A--AAUGAG
+lwe1259      GG-UUCUUUCUUUUAGUAUGAA-A--AUCAAA
+lwe1285      GC-GCAUUUUUUCUGUCAAACC-AGCUUGUUU
+lwe1630      CU-UCUUUUUUUGAGGGUAUUU-A--UAUUUU
+lwe1183      GG-CGCUAUUAAUUAUAUAGAAG-GAAUUUGC
+lwe0706      AU-CUAUUUUUUUAUUUCAUUGC-UGAGCUAU
+lwe2150      UC-CGUUUUUAUAAUGGAACAAC-GUAAGCAU
+lwe1767      CG-CUGUUUUUGUUCGUUAUCA-AGCAUGUCU
+lwe1696      AC-CAGUUUUUUUACAUGAAUA-A--AUUUCU
+lwe2344      GU-CGCUAUUUUUGUAUCAACAU-GUUUAGAA
+lwe2488      AA-CCGGUUUUUUUCAUGUAGAG-UAAAUUAA
+lwe0539      UC-GGUUUUUUAUUUUAAUCAU-A--AUAAAC
+lwe0273      UC-UCUAUUUGGUGUUGUAUAAUA--ACAAUA
+lwe0744      UG-UCUUUUUUAUGGUUACUUUUA--AAAUUG
+lwe1837      CA-GUCUUAUUUAUUAGGAAAG-A--AGGGAA
+lwe2726      UU-UCGUUUUUUGGUGGGUGGCU-UUUUAUUU
+lwe1685      GC-UAGCUU----------UUU-AGGCUGUUU
+lwe0196      GA-GGUUUUUCUAUGGAUAAGUC-UUAAAAUA
+lwe2296      CU-UCUUUUUUAUUUGUGUAAA-A--AAACAU
+lwe0475      GG-UUCUUUUUUGUUUUGACAA-A--UAGGUU
+lwe1919      CA-AGCU------------ACUC-GUUUGUUU
+lwe2470      CA-GCCCUUUUUUCUGGAUUAA-A--AAUAGG
+lwe1607      AA-UCCUGUUUUUUUAUGAAAAUAGUAGUUGG
+lwe1539      AG-CAUUUUUUUGUUUUGAAGAU-UCCUCUUG
+lwe2089      AG-UCCUUUUUUAG-----UAU-A--AUUUAA
+lwe0816      UC-ACUCUUUUUUAUUAUAGUC-A--UUUUUU
+lwe2204      UA-GCUUUUUUUGUGUUUAUAA-A--AGAAAG
+lwe0342      AU-GCUUUUUUUAUUUGAAUAAUA--AGGAGG
+lwe2423      GG-GAUUUUCUAGUGAGAAGUGU-GCUAAAAU
+lwe1531      GC-UUCUUUUACAUUAAUUAAGU-UCUUUUUU
+lwe1779      AU-UGCUUUUCUUAUAUUGCCAUA--AGGACG
+lwe1488      UU-UGGCUUUUUAUCUGAAAUA-A--AGUUUU
+lwe0801      GG-AUUAGUUUAAAAUAGCUAU-A--AAUUCU
+lwe0971      AG-GUUGUUUUUUUCUUGACAAU-UUUUUAAA
+lwe2732      UG-UUUUUUUGUUAAGUCUAUU-AGUUGAAGU
+lwe1612      GU-GCUUUUUUUGUGCAUAAAA-A--AACCCU
+lwe0736      AG-CUUCUUUUUUUAAGACAAAU-GAAAAGCA
+lwe0361      GU-AGCUUUUUUGUUGUUUAAAU-UAAUUUUU
+lwe0018      UG-GGGGUUUUAAGUAAUAUUAU-UUAUGGGA
+lwe1866      CU-GCUUUUUUUGCCUGUAAUG-A--AAGUUU
+lwe1890      AA-AUUCUUUUUCUUUUCACCA-A--AUUCAU
+lwe0209      AG-GUUGUUUUUGGUAAGGAGGC-GACAAAAU
+lwe1355      UC-GUUGUUUUUUCUAUAGAAAU-UAUUUUAG
+lwe1619      GC-GUCUUUUACAUUUAAACAAU-UGUUUUUU
+lwe1320      GU-CUGUUUUUUUUAUGCUUUUU-UUAGAUUG
+lwe1874      UA-UGGCUUUUUUUAUUGGUGUUAGAAAUUAA
+lwe0451      UU-GUUCUUUUUAAAUCCUACUC-UAAUCCCA
+lwe0552      AA-ACGC------------AAA-A--UUUUUA
+lwe2218      AA-GGUUUUUUUUGAGCAAAAA-A--CUAGCU
+lwe2286      UC-UGGUUUUUCUUGGAUUUUA-AGCUUUAUU
+lwe0092      UA-CUAUUUUUUUAUCUGUGUA-A--AUGGAA
+lwe0093      UC-UGUUUUUUUGAGGUUAUAAU-UUGAAGGG
+lwe1650      UG-CGCUUU----------CGCU-UUA-----
+lwe1074      CA-UUACUUCUUUU-----UAC-A--AAUUAG
+lwe1056      CU-UCUUUUUUUUCAAUGUUGA-A--AAUAAG
+lwe1411      UU-CGCC------------AAC-A--UUUUUU
+lwe2079      AU-CACUUUUUGAUUAGUUUUUC-GACUUGAU
+lwe1242      CC-UUUUUCAUUUUGACAAAAA-A--CCCGCA
+lwe1467      AG-UCGGUUUUUUAAUGAGUAU-A--AUGGAU
+lwe1334      AC-GAGU------------CAUGAGGGACAUC
+lwe2452      AG-UGGUUUUUUCAUGCUUAAA-AGCUAACUG
+lwe1048      CA-UCUUUUUUUAUUGGUAGAA-A--AAGCAC
+lwe0155      UC-GUUUUUUCUUUGCCCAAAAU-GUGGUAUG
+lwe0862      CU-UCUUUUCUAUUAUAAAAGAU-GUCCUUUU
+lwe2074      UU-GCUGUUUUUUUGUAUCUAUU-UAUGAUAA
+lwe0438      AG-UGCUUUUCAGAUUUGUAUUU-UCUAUUGA
+lwe0230      GG-GCUGUUUUUUUUGCGAAUCUA--AAAGUG
+lwe0990      GG-UUGUUUUACUUUUAGCGAU-A--AUAUUU
+lwe2026      GG-GAUUUUUUUUAGAGUUUAUU-GUUGACUU
+lwe0898      GU-UGUCUUUUUCUGCAAGCAA-A--AUAAUA
+lwe1861      AC-UUGCUUCUUUUUUA--AUCU-UCUUGUCG
+lwe1584      GU-AGCCUUUCUUUGUGAAAUUU-UUUAGUAA
+lwe1822      UCUGGCUUUUUUCUCUUUUGUUUA--ACCUUC
+lwe0435      CC-GUGUUUUUUUCAGAAAAAA-A--UGCAGC
+lwe1768      UU-UUUGUUUUCGAGUGUGUGUG-GUUGAUUA
+lwe1499      GU-CUGUUUUUUUAAGGAGAAAU-GGAUAUGA
+lwe0181      CG-GUGC------------ACUU-UUUGAUAA
+lwe1639      AG-GAUUUUUUUAAGCGUGUUCG-UCUGUUUC
+lwe0476      CA-UUUUCUUUAUUAUUCAACA-A--AAAAUU
+lwe0445      UA-GAUU------------GGU-A--UAAAUG
+lwe2123      AC-UGCUUUUACCUAUUAUUUAU-UCACUGCU
+lwe0434      GG-GGGGUUUCAAUCUUUAAAA-A--AUCUUA
+lwe1451      GC-AGUUUUUUCGUUUAAAAGU-A--AAAUAG
+lwe0621      GU-CCGCUUUGCUUUGCCAAAUGA--UCGUUC
+lwe2259      AA-UUGAUUUUUUUGUGUAUGC-A--GUGUAC
+lwe0172      UG-CUUUUUUGUUAUACUUAAAU-UAUUCGAG
+lwe1815      GU-UUUUUU----------AUA-A--CUUUUU
+lwe0238      AU-GUCC------------UAG-A--UUUAUA
+lwe0459      UG-CUCUUUUUGCUAUUAAAAAUA--AAUACU
+lwe1668      UA-UGUUUU----------AAA-A--AAGGGA
+lwe2294      UU-UCGUUUUUUAGUUUGCAAA-AGAAAGCAU
+lwe2538      AC-CCUGCUUUUUUAUACUUUUU-UUAGAGUG
+lwe0495      AA-CCUUUUUUGUUAGUUUUUA-A--AAGAAU
+lwe1182      GG-CGCUUUUUCAUUUUUUAGC-A--AUUUUC
+lwe1521      GG-GUGUUUUUCAUCCUACCAU-A--AAUUGU
+lwe0105      GU-GUCCAUUUAAAAUUUUUUAUA--CACAUC
+lwe2690      UC-GCUU------------UUUU-UGUGGAAU
+lwe0588      AG-GACUUUUGUUAUCUCCACAU-GGUCUAAU
+lwe1013      CU-CGUUUUUUGUUGUUACAGUU-GUCUUUUC
+lwe2209      UU-GAUGUUUUUUUAAGAAAAUU-GAAAUUCU
+lwe0271      UA-GGGUUUUUUGUUCGCAGAGU-UCGAUGAA
+lwe2151      GG-UUUUUU----------AUACA--AAAAAA
+lwe2758      CU-GCUUUUUCUUGUUAAAAAG-AGAAUGAAG
+lwe0462      AA-GGUUUUUUUGUUAUAAUGA-AGAAUCAAG
+lwe1718      GG-GAUCUUUUUUUUAU--ACAU-UCAAAUCU
+lwe1614      AG-GUUUUUUAUUUUGAUUAAAU-GUAUCAAU
+lwe2303      UC-UUGUUUUUUUGUAUAGAAAU-GGGGCGCC
+lwe2518      GU-UAGG------------UUUU-UUUGUGUG
+lwe0748      GC-UUGUCUUUUUUAAU--CAUUAUCUGUUUG
+lwe2181      GU-CUUCUUUUUUAUGCUAAAAU-GAAAGAAA
+lwe0191      GG-GCAAUUUUUAAAUUUACACUAGAAAAAUA
+lwe1994      CA-GCCUUUUUAUUUCAUCUCU-AGUAAACGG
+lwe1409      AA-UGGC------------AUA-A--AUUCUU
+lwe2510      AU-CUGAUUUUUUUUAGCUUCCU-UCAUGGAU
+lwe1865      CU-GCUUUUUUUUAUUUGGCUA-A--ACCAUC
+lwe2562      AG-GAGC------------UAGC-GCGUAAUA
+lwe0474      GG-UCUUUUUUAUUUCUACAAAU-UUUUCUCC
+lwe2585      AG-UCCC------------UGAU-UCAUGGUC
+lwe1442      GU-GUUUUUCAUUUGACAAAGA-A--UGUUUC
+lwe1819      GG-CUAUUUUUUUGCGUACAAAUAGAAUCGAA
+lwe0934      CA-UCUUUUUUUGCGCGGUAAU-A--UAAUUU
+lwe1726      UA-GCGUUUUAAUUUUUCAUGA-A--UAAGUU
+lwe0368      AU-UCUUUUUAUAUUAAUGCAA-A--AAGGGU
+lwe2618      UG-UGUCUUUUUUUGCGCUAUUU-UUUACAAA
+lwe0111      GC-UCCUUUUUAAUCAACCCUUU-UUACGUAA
+lwe1049      UU-UUCUUUUGAUAUUU--UACC-GCAUAUUA
+lwe2227      AA-GCUUUUUUGUGUGCGGCAA-A--AUGGAA
+lwe0517      GA-GCUUUU----------UUU-A--UUUUCU
+lwe0183      GU-CUCUUUUUUGAAGCUAUAUUA--UUCGGA
+lwe0480      GG-GGGAUU----------UGA-A--CUAUAU
+lwe1571      GC-UCUUUUUUCCGUCUAAAUAUA--UAAACG
+lwe1101      UG-CCUUUU----------AUACA--AUCUAA
+lwe2554      UC-UGGCUUCUUUUUAUAGAAAU-GGCAUUUC
+lwe0753      UA-UUCC------------ACA-A--AAAUGA
+lwe1280      GA-ACUCUUUUUUUAAUACAAA-A--AUGGAU
+lwe1641      GU-UCUUUUUUUUUAAAAGAGUUA--AUGGUA
+lwe2392      GG-AGACUUUUUAAAUGGAAAU-A--UAGACU
+lwe2224      GG-UCUUUUUCUAUAAAAAAAG-A--UGGUUU
+lwe2680      GU-UGUUAUUUUUGCUUGACUU-A--AAGUGA
+lwe0074      AC-CAUCUUUUUUCAAU--UAUU-UCACUCGU
+lwe0878      AA-AGGUGUUUUUUUCGAUUGG-AGGUGAGAA
+lwe2374      UU-GUAUUUUUAAAAUCCGAAAU-GAACGCGC
+lwe2136      AG-GAUUUUUUGAUUGUUGUUUUA--AUCGUU
+lwe0087      AG-GCUUUUUCACUUAUUUCCUUA--AUAUUU
+lwe2515      GC-UUCU------------AGU-A--AUGCUU
+lwe0186      GG-UUCUUUUUUUAUGAAAAGA-A--AUAAAU
+lwe0452      GC-UUGUUUUUUUGUGG--CGCU-UGAAUUUU
+lwe0642      AG-CUCAUUUUUUAAUUUAAAU-AUCAAAUUG
+lwe1657      GC-CUUUUUUAUUUCUACUUGC-A--AAAACA
+lwe1623      GG-CGUUUUUUUAUUGCAAUUU-A--UUAUAG
+lwe0192      UC-UGGAUUUUGCUAUUUUUUU-AGAAAAAAA
+lwe1316      GG-GUGUUUUUUUAGUUCCAUAU-GAGUAAAG
+lwe0037      GG-CUGUUUUUUUAUGAAAAAU-A--GACCUU
+lwe0981      GU-GUUUUUUCUUUUAAAAUUUU-UAAGCAAA
+lwe0269      UA-GUGUUUUUUUAUUUAGAAUUA--UAGAUU
+lwe2659      CU-AGCC------------AGU-A--UAUCAU
+lwe2336      GC-UUUU------------UGAU-UACAUAAA
+lwe0170      GA-UACUUUUUUAAACUCCAUUU-UGAUUAUC
+lwe1631      UC-UGGUUUUUAUUUUU--AACU-GGAGGCGU
+lwe0575      GG-GCGUUUUUGUAUAUGACAA-A--ACUGUC
+lwe1780      GA-UUGCUUUUUUCAUUAAAAG-A--AGAAAU
+lwe0607      AA-GUGUUUUUUUAUGUAAUCG-A--AUGAUA
+lwe0964      AA-UCUUUUUUAUUUAAAUUGUU-UUUUUAUA
+lwe0483      CA-AAACUUUUUUUGUAACAAA-A--UUGUCA
+lwe1658      AU-UCAUUUUUUGUUAUAAGAA-A--AAGUUA
+lwe0705      CA-UCUAUUUUAAAGUUAUUAA-A--UAUCUA
+lwe2250      AG-CCGCCUUUUAUUAAUCAUUC-GUUUUUUU
+lwe1955      GC-UCUUUUUUCAUAGAGAAAUUA--CCCUUU
+lwe0013      GU-UGCUUUUUUUGUUUUAAAUU-UCACAAUC
+lwe1356      AU-UCGUUGUUUAAAAAGAUUUU-GUUGGUGU
+lwe0153      GG-GCUCAUUAUAUUUAUAUAG-A--AGUAAU
+lwe1909      AU-UUUU------------AAA-A--AGGAUG
+lwe1070      CC-UUUU------------CUU-A--UAUUAU
+lwe1542      UG-GCAUUUUUUAAACAUAAAA-A--UAGAGC
+lwe0279      AG-UAUUUUUUUGCUAGUUUGAC-UAAGUUUG
+lwe1835      UG-CAUUUUUUCUUUGUCCAAAUA--UAAAAA
+lwe0538      CC-GGUUUUCUGCUGUCUAAACGA--CAAACA
+lwe1626      GG-GCUUUUUUCUUGAGCGUUAU-UCUGGACG
+lwe1964      GG-GCUCUUUUUCUUUUAUCGAU-CGAACUUU
+lwe1588      GC-UUUAUUUUUAUAUAAAAAC-A--CGAACA
+lwe2432      AG-CUGGUUUUGCUAUG--UGU-AGCCAUUUG
+lwe0601      AG-GCUCUUCCUACUUUUCCGAU-UUAAUGGU
+lwe0984      GC-UUUAUGUUUUUGCGUUUUUUA--UAUGUA
+lwe0838      UU-CUUCUUUCUUCUUUACAAA-A--AGGAUA
+lwe1902      UC-GGUUUUUUUGAAACAAUAG-A--CUUGCU
+lwe0839      AG-CUUCUUAUCUUUGUUAUAUU-GAAAAUCU
+lwe0449      GC-UACUUUUUUUGUGGCAAGC-AGGACAAAC
+lwe2300      AA-ACGC------------AAU-A--AAGGCG
+lwe0781      AU-AUUGUUUUGUGGAGUUCUU-A--AAUGAU
+lwe0941      GU-CUCUUUUUUUAUGCCAAAAU-UCUUAUUG
+lwe2124      CU-GCUUUUUUUUAUACCAUUUU-UUCGAUAA
+lwe1487      UC-GACCUUUUCUACAUAGUAA-AGGAGUGUU
+lwe1427      CA-CGAUUUUUUAUAUUUUUAAUA--AGUAAG
+lwe1528      GG-CUUUUU----------AUCU-GCCAUUUA
+lwe2219      GG-CAACUCUUCUUUAUUUAUGU-UAUAAUAG
+lwe1261      CU-UUUUAUUUGGUAUUUUCUAU-GUGAAUGC
+lwe0185      CU-CCUUUUUUUAAAAGUGGUU-A--AACUUG
+lwe2660      CU-CUUUUUUAUUUAAUAGAGA-A--AAUCAC
+lwe1636      GG-CAGUUUCUUUGUUUCAGUA-AGUUUUUAG
+lwe2591      UU-GUUC------------UAA-A--UUUCCC
+lwe1747      GC-CCUUUU----------AGA-A--UGGAAC
+lwe1896      UG-GAACUUUUUUCAUC--UUA-AGGAAUUGC
+lwe0974      UC-UGGUUU----------UAC-A--UACAAC
+lwe1260      GC-UUUUUUUCUUUAUUGAAAU-A--AGUUUU
+lwe0430      GG-GUUU------------AUUU-GGUUUUUA
+lwe2128      CU-CUUUUUUGUUAUUUAAAUAUAUGAUCUAC
+lwe2601      GC-UGGCUUUUUUAUAUGCCUAC-UAACAACG
+lwe1683      GU-UCGGUUUUUUUCUUUCUAA-A--CAGUGC
+lwe1256      GC-GUUU------------AUUU-UCUCAUGA
+lwe1232      GC-GUUUUUAUAUAUUUGCAAACA--AACUGG
+lwe0629      AC-GGUUUUUAUUAUUAAUAAU-A--AGAAAA
+lwe0754      CG-UAGUUUUUUUAUAGCUUUAU-UCUCCCUU
+lwe1381      UU-CCGGUUUUUGCUUUUACCAU-GCUAUUUA
+lwe1550      GC-ACGCUUUUUUCCUAACUACGA--UAAAAA
+lwe1099      GG-UUUUUUUAUUCUAUUAUAUU-GCUCUCUU
+lwe1553      CG-GUUUUUUUGUGUUUUCAUCU-UUGUGAAU
+lwe0128      AC-UGGCUUUUUUGUUGUAUAA-AGUUAUUAA
+lwe1616      AC-UCUA------------CAA-A--UUGUCC
+lwe1738      AC-UUGGUUUUUUUACUUGUGU-A--AGUACA
+lwe1743      UA-GCUUUUUUUGUGCUUGACA-A--AUAAGU
+lwe1415      GU-AUCUUUUUUUAAUC--GUUU-GCCUAGCU
+lwe1407      GC-UGUUUUUUUGUGCUAGAAA-A--UUGUGC
+lwe2686      GC-UUUUUUCUUAGGAAUGAGGU-UUUUAAAA
+lwe0571      GC-GCAUUUUUUUGUAAAAAAGG-GGUAAAGU
+lwe0381      GA-UGUUUUUUAUUUUGCUUAA-A--AUUCGG
+lwe2252      GG-GUAU------------AAAC-CCACUUGG
+lwe1310      AU-GUCUUUUUUUUAUGCAAAA-A--AUAUGC
+lwe1565      AA-GGUCCAUUUUUUGAGGUGAUA--AAAUAA
+lwe1635      AA-GGUUUUUUUAACACCUUCU-A--CCUAUG
+lwe0450      GG-AUAGUUUUUGUUUAUACUU-A--AGUUAU
+lwe2637      AC-GUAUUUACUUCUUUCAGUGU-GGAGUUUG
+lwe1308      UG-CGCUUUUUUUAUGAAAAAA-AGCAUUUUC
+lwe1674      CA-GGGUUUUUGCUUAUUUUAAU-UUUUGAAU
+lwe0351      GU-GCUUUUUUGUUUUCCCGAUU-GUAUUUUU
+lwe1797      CU-CACUUUUUUUAUAUUAUUCU-UUUUCUUC
+lwe1617      AC-UCUA------------UUUU-UGUGCUAU
+lwe2765      GG-AUUUUU----------CUA-A--AAGGAG
+lwe0844      GG-UUUUUU----------AUUU-GCUAGAAU
+lwe0583      AG-CUUUUUUUGUUGUU--UGCU-GGAAUAGA
+lwe0220      UU-CUUCUUUGCAUGAGAACGC-A--AUUGGG
+lwe2206      UU-GCUUUUUUAGUUAUUUUGGC-UCAUAAUA
+lwe1675      UC-ACCUUUUUUAAAGAGAAAA-A--UUGGAG
+lwe2004      UG-U--U------------AGC-AUCAGAUAA
+lwe2387      CC-AACU------------AGA-A--CAACAA
+lwe1572      AG-UAUUUUUUCAUGGUGCUUUU-UUCCUCUU
+lwe1525      CU-CCGGUUUUUUCCUGUGUAAU-GGAGUUAU
+lwe2541      CC-CUCUUUUUUUAUAU--AUUU-UCAAUUAG
+lwe2107      UC-UGUUUUCAUUUGUUUAUUUUA--GGGUAA
+lwe0605      AA-AAUGUU----------UAU-A--AGUGCU
+lwe2544      GA-GUUUUUUAUUUCCCUCAAA-A--AAUAUG
+lwe1461      GC-CUUUUUUUAUUUUCUAUAU-A--AUGUUC
+lwe1265      UG-CUUCUUUUUUUUAUAGAAAU-UGAUGACU
+lwe0116      AG-UCUAUUUUUUAUAAAAAUA-A--UUUUGG
+lwe2650      CU-UUUU------------UAAC-UCUUAAUG
+lwe0687      CG-GGAUUUUUUUUACAAAUCAG-UUGACAAC
+lwe0749      UG-GUGUUUUUUUGUUUCCAAG-A--AUAAAU
+lwe2271      UG-CCUCUUUUUUAGUCUUCUA-A--AGCAGA
+lwe0725      GA-GUUUUUUUGUGUAAAAAGA-A--AACGAU
+lwe2372      CU-GGCCUUUUUUGAUGGGAGGC-GUUUUUUU
+lwe0518      AG-CUGUUUUUUUGUGCAUCGUUA--AAUUGU
+lwe1418      AG-UUUUUUUCUUUUGA--AGUC-GCGGGGAA
+lwe1794      AG-GUUCUUUUUUUGCAUAUUU-A--GUGAAA
+lwe2225      CU-UCUUUUUUUAAAUUCCAACG-UAAGACCG
+lwe1302      CC-UGUUUUUUAUAUGAAACGA-A--UUUUGU
+lwe0145      AA-GGGCUUUUUGCUAGAAAAGG-UGAAUUAU
+lwe0149      GC-AUGAUUUUAUUUUAUUUCAU-GAUAAGCG
+lwe0559      GU-CCUCUUUUUGUUUUAAUAAG-GGUGAAUA
+lwe1582      AG-AGGUUU----------AGUU-GAAAAAAA
+lwe1267      GU-GCCUUUUUAUUCUCUUUUUU-UAAAUGAA
+lwe2287      GA-UUUCUUUUUGCGUUUUCUCGA--AUUCUU
+lwe2542      CC-CUCUUUUUAAAAUUAACGUU-GAAUGUCU
+lwe0831      CC-UUUUUU----------ACUU-GGCUAGAC
+lwe0389      GC-AAGUUUUUUGUAUU--AACC-GCAAAAAU
+lwe2661      UU-CUUUUUCUGUAUACAAACA-A--AUUAGU
+lwe0164      GA-UUUCUUUUUUUCUAAACGG-A--AAUACU
+lwe0221      UC-UCUU------------AUAG-UCUUUAUG
+lwe0272      AG-GGUUUUCUAUAUCCUCUUCUA--AUCUGG
+lwe1893      AC-GUUUUU----------CGAG-UGGAGUGA
+lwe2735      UU-GCUUUUUUUAUUUA--AAAU-UGUUUCAC
+lwe0337      AC-CUUUCCUCACUUAU--AUCU-UGAUGCCU
+lwe0759      CU-AGGCUUUUUUAUGA--AAAU-UGCAUUAG
+lwe1167      GA-GGUUUUUUGUUAUUUCUUUU-UAUUUCGG
+lwe2335      CU-UUUUUU----------AUG-A--ACAAUC
+lwe0889      GG-UUAUUUUUGUGUUUGAAACU-GCUUCUUU
+lwe0549      AC-AGGUUUUUUGAUGGACAUUU-UAUCUUAA
+lwe0090      UC-CUUGUUCUUUUUUUAUUUCU-UGGUAUAA
+lwe0830      UU-GGUA------------UUUU-UUAUGCGG
+lwe2525      AG-GCUUUUUUAUCUAA--AUGU-GCAUUAUU
+lwe0797      AG-AGUUUUUUACAUUUUAUAA-AUUAUUACC
+lwe0808      GC-UGUUUUUUGAUAUACUAAAU-UGUGAUAA
+lwe0933      UU-GCUUCU----------UUUU-UCUUUGAG
+lwe0995      AA-CAGUCCUUUUUAAAAGGAG-AGAAUUGUC
+lwe2431      GC-GGAGUU----------GUCU-UUUUUGAA
+lwe0989      UU-GUUUGUUUAUUUUGCUAAA-A--AAGUAG
+lwe1249      UU-UCUUUUUACCUAAAAAAGA-A--AGUAUG
+lwe2162      UA-CUUUUU----------AUAU-GGAGAGAG
+lwe2740      CG-AGCU------------UGCUA--AAUAGC
+lwe2486      GU-UUCCUUCUUUUUUUAUAAUGA--AAGCGC
+lwe1845      GG-C--UUUUUUGUUAGCUAUAUA--GAUUAU
+lwe2396      GU-UUAGCUCUUGCCUUUUUAAU-UCAGUAAC
+lwe1402      AC-CUUUUUUUAAGAUA--AUA-A--AUCUCG
+lwe1032      CU-CCGCUUCUAAGUUGUUUAC-A--UAUGAA
+lwe0354      AC-CCUAUUUUGUAAUUAAAGA-AGUAUAUGA
+lwe2474      GC-GGUUUUUUUAAAUUCGUUCGA--AAAAAC
+lwe1638      GA-UUUUUUCUAUGCUUUUUUA-A--AUUUUC
+lwe2112      UC-CAGUUUUUAUUUUUUCCGAG-GGAUCAAC
+lwe2608      AG-UUUUUUUAUUGAUACAUCC-A--UCGCAC
+lwe1552      UU-CGUU------------GUAC-UUAAAACU
+lwe2453      AG-GUGCUUUUUUAUAUGGAAU-A--GAGUAU
+lwe1370      AG-CUGUUUUUUCUGUUUAUGAG-CGCUUCCC
+lwe0158      GU-UCGGUUUUUGCUUUACAUA-A--CCCAGU
+lwe0214      AA-GGUCUUUAUUUAUUAAAAU-A--UAAAGA
+lwe2776      CG-GUCUUUUUUUAGGAGGAGAC-UUAAGUGA
+lwe2121      CA-CUUUUUUUAUAUUUCCCUCUA--AAUUCU
+lwe1730      GC-UUGCUUUUUUUAUUUCAUU-A--AAAAUA
+lwe0254      GC-UUCUUUAUUUUCAUUAAGA-A--AAAAUA
+lwe2326      GG-UUUAUUUUUUUCUUCUUCCUA--UUUAAC
+lwe1557      AA-GGGUUUUUAUAAAAGGUGAU-UGAAUGAA
+lwe2439      UU-UUCCCUUGUUUCCUUGUUAUA--CUCUUU
+lwe1422      UC-CUUGUU----------AUUUAGGAAAGGA
+lwe2514      GC-UUCUUUUAUUUUUCUUUUA-AUGAAUGUG
+lwe2502      UC-AGCCUUCCCUCGAUUUCACC-UCAUCUCG
+lwe2295      CU-AGCUUUUUUUGUUAAUGAG-A--AAUUCG
+lwe0695      AG-GUCUUUUUUUUAUGUAAUC-A--AUAAAU
+lwe0218      AU-UCUAUUUUUUAAUUCCUUUUAUCUUAAUU
+lwe0751      GU-UUUUUUAAUUUCGUUUAAAU-GGCGCUUU
+lwe1995      GU-AUUUUUUUCUUGUAAUUAUU-UAGGUGAG
+lwe1457      GU-GGUUUUUUUGCAUAAAUUC-A--AGUGAU
+lwe1241      UC-CUUU------------UCA-AGUAAUUGG
+lwe1469      CC-UGCCUUUUUAAUGAUAAUG-A--AAGUGG
+lwe0954      GC-GGUUUUCCUUUUCGUUCUUU-UCGGACCA
+lwe2187      AC-UCUA------------CAA-A--UUGUCC
+lwe0467      GA-UGUUUUUUUGUAGUUGCGA-A--AACUAU
+lwe2665      UA-GCUUUUUCUUUUGCCCAAA-A--AAUCUG
+lwe1430      UA-AGGUUUUUAUUUUCUAAAUG-GGAGCGAA
+lwe1632      AG-CGAUUU----------ACAU-UAAAAACC
+lwe0624      UG-CUUAUUUUUUUGCAGAAAA-A--CUUUUU
+lwe2127      UC-UUUUUUAUUUCGUUCCCGGU-UUAAUCGU
+lwe0750      GU-UUUUUCUUUAAAAAUAAUA-A--AGCCCG
+lwe2494      UA-GCUUUUUUGUUGAAGCUAA-A--AACUAU
+lwe0863      CU-UCUUUUUUUAACUUUUUCGU-GCGAAUGU
+lwe0085      UG-GAGCUUUUUUCAUACAUAAUA--AUUGAA
+lwe0028      UC-GCGCUUUUUGGAGGUUAGAU-GAUGGUAU
+lwe1014      GC-CUCGCUUUUGCUUUUAAAUUA--GUUUAA
+lwe0330      CA-CUCCUUUUUUAUCGGAUAAGA--AAGUGU
+lwe1860      UU-CCUUUUUUAAUUAUCUUUGU-GCUAUGAU
+lwe1498      CU-UUCUUUUUUUUAUAUAUUUU-UCGCUUAA
+lwe2273      UU-CCUUUUUAUUUAUAAAAACUA--UUUUAU
+lwe1858      AG-GUUUUU----------GUAUA--AAUUGA
+lwe0372      GC-UGGGUUUUUUCGAUGGCAUUAUUAAGUCG
+lwe1042      AC-AUUCGUUUUUUAUUAUUUCU-UCUCUACU
+lwe0628      UA-UUUUUU----------AUCU-GGUUAUUU
+lwe0124      CC-UCUGUUUUAUUCAAUACUUU-UUGACAUU
+lwe2529      GC-UUGGUUUUUAAUAUUCUAAU-CCUUCAAA
+lwe1041      AC-AUUCGUUUUUUAUAGAUUU-A--AAAGAA
+lwe1300      UC-UGGCUUUUAUUACAUCCAUU-UGAUUUUC
+lwe1628      GU-CGUUUCUAUUUGCGCCAAA-A--UAAGAC
+lwe2703      GG-UCGCUUUGUUUGAC--AUAG-UCCUCCGU
+lwe0501      CG-UUGCUAUUGGCUUUGUUUUU-UCGAUAUU
+lwe0627      UA-UUUUUU----------AUCU-GGUUAAAU
+lwe1965      AG-CACUUUUUUAAUUUAACCGU-GAAACACU
+lwe1301      UC-UGGCUUUUAUUCUAUCCAACAGUAAUUUU
+lwe1591      UU-CGCUGUUUUAUUAAAGUAAU-UCUUUACU
+lwe0436      UU-ACAGUUUUUUA-----UAUU-GCUUUUUU
+lwe2673      CU-UCUAUUUCUUUAUUUAUUA-A--CACUAG
+lwe0916      AA-CCGUUCUUUUUAUUUUUGAU-UUAAAUGU
+lwe0084      GU-CUCUUUUCGUUUAGAUAUAU-GACACAGA
+lwe1322      AC-AUGGUUUUACUUUGAUAAA-A--AGAUUA
+lwe0976      AA-GAUUUUUUUGUUGCAUGAA-A--AACCUC
+lwe2467      GG-GAGUUUUUUUAGUUAGAAG-A--AUUUGU
+lwe0904      AC-UCGCUUUGUUUAUU--UACUAUCUGUUGU
+lwe0703      AG-CGCCUU----------AGUUA--AUAUUU
+lwe1045      UG-GCUUUU----------UUAU-GCAUAAAA
+lwe1629      UG-GCGC------------AAAUAGAAACGAC
+lwe1664      GC-UGUCUUUUGUUUUAUUUAUU-UUUUGUUU
+lwe0739      AU-GGCGUUUUAUUAUAUACCA-A--CAUUAC
+lwe2240      UA-GAGCUUUUUUUAUU--UGA-A--AUGCUU
+lwe1258      UG-CCUCUUUUCUACUUGAUCCUAUCAAUUAA
+lwe0952      UU-GGAUUUUUUUGUGUUCUUGU-UUAGGAUG
+lwe0905      AC-UCGCUUCUUUUAUUUACCA-A--GACCGC
+lwe2279      CA-GCUU------------UUA-A--UUAUAG
+lwe2682      GC-GGGUUUUUCAUUAUUUACUUA--CAUACG
+lwe0977      GG-AGGUUUUUCAUGCAACAAA-A--AAAUCU
+lwe1321      CA-UGGUUUUUUUAUAAAUCUA-A--AUUAUU
+#=GC SS_cons >>.>>>>:::::::::::::::::::::::::
+#=GC RF      gc.uuuUUUUUUUUuUuuaaaaUAUcaauuau
+//

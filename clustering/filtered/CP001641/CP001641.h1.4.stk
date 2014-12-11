@@ -1,0 +1,846 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS CCDC5079_0669 WT 0.74
+#=GS CCDC5079_2113 WT 0.42
+#=GS CCDC5079_2381 WT 1.04
+#=GS CCDC5079_3087 WT 0.16
+#=GS CCDC5079_0998 WT 0.63
+#=GS CCDC5079_2944 WT 0.76
+#=GS CCDC5079_1121 WT 0.33
+#=GS CCDC5079_2964 WT 0.49
+#=GS CCDC5079_1537 WT 0.64
+#=GS CCDC5079_0438 WT 0.82
+#=GS CCDC5079_3088 WT 0.19
+#=GS CCDC5079_3523 WT 0.59
+#=GS CCDC5079_3338 WT 1.51
+#=GS CCDC5079_3203 WT 1.58
+#=GS CCDC5079_2031 WT 1.16
+#=GS CCDC5079_0976 WT 0.37
+#=GS CCDC5079_1764 WT 1.68
+#=GS CCDC5079_0795 WT 0.28
+#=GS CCDC5079_3134 WT 0.06
+#=GS CCDC5079_2107 WT 0.97
+#=GS CCDC5079_0359 WT 0.43
+#=GS CCDC5079_3135 WT 0.04
+#=GS CCDC5079_0937 WT 0.65
+#=GS CCDC5079_3520 WT 0.43
+#=GS CCDC5079_2085 WT 0.55
+#=GS CCDC5079_2664 WT 0.85
+#=GS CCDC5079_0181 WT 0.45
+#=GS CCDC5079_2032 WT 1.16
+#=GS CCDC5079_3163 WT 0.28
+#=GS CCDC5079_1128 WT 0.74
+#=GS CCDC5079_2742 WT 1.93
+#=GS CCDC5079_2895 WT 0.92
+#=GS CCDC5079_3308 WT 0.88
+#=GS CCDC5079_1679 WT 1.02
+#=GS CCDC5079_1461 WT 1.61
+#=GS CCDC5079_1353 WT 1.78
+#=GS CCDC5079_2644 WT 1.60
+#=GS CCDC5079_0990 WT 1.40
+#=GS CCDC5079_2501 WT 0.88
+#=GS CCDC5079_2037 WT 0.90
+#=GS CCDC5079_2741 WT 1.90
+#=GS CCDC5079_2766 WT 0.89
+#=GS CCDC5079_0683 WT 0.64
+#=GS CCDC5079_1231 WT 0.72
+#=GS CCDC5079_0607 WT 1.30
+#=GS CCDC5079_2457 WT 1.90
+#=GS CCDC5079_2325 WT 0.70
+#=GS CCDC5079_3162 WT 0.28
+#=GS CCDC5079_2036 WT 0.90
+#=GS CCDC5079_1232 WT 0.71
+#=GS CCDC5079_3259 WT 0.96
+#=GS CCDC5079_0658 WT 0.48
+#=GS CCDC5079_2276 WT 1.60
+#=GS CCDC5079_0446 WT 1.51
+#=GS CCDC5079_2756 WT 1.62
+#=GS CCDC5079_0991 WT 1.44
+#=GS CCDC5079_3257 WT 2.35
+#=GS CCDC5079_2025 WT 0.61
+#=GS CCDC5079_2382 WT 0.87
+#=GS CCDC5079_2558 WT 1.31
+#=GS CCDC5079_0197 WT 0.48
+#=GS CCDC5079_0884 WT 2.20
+#=GS CCDC5079_1304 WT 1.69
+#=GS CCDC5079_2488 WT 1.44
+#=GS CCDC5079_3258 WT 0.96
+#=GS CCDC5079_0228 WT 1.40
+#=GS CCDC5079_3438 WT 1.53
+#=GS CCDC5079_0411 WT 1.16
+#=GS CCDC5079_1362 WT 1.41
+#=GS CCDC5079_2170 WT 1.43
+#=GS CCDC5079_2182 WT 1.41
+#=GS CCDC5079_3190 WT 1.88
+#=GS CCDC5079_1505 WT 1.61
+#=GS CCDC5079_2458 WT 1.71
+#=GS CCDC5079_3384 WT 1.57
+#=GS CCDC5079_0196 WT 0.42
+#=GS CCDC5079_1152 WT 1.71
+#=GS CCDC5079_3289 WT 1.10
+#=GS CCDC5079_2971 WT 1.60
+#=GS CCDC5079_1203 WT 1.42
+#=GS CCDC5079_2402 WT 0.82
+#=GS CCDC5079_3297 WT 1.00
+#=GS CCDC5079_1174 WT 1.56
+#=GS CCDC5079_2491 WT 2.15
+#=GS CCDC5079_2512 WT 1.48
+#=GS CCDC5079_0536 WT 1.66
+#=GS CCDC5079_1213 WT 1.83
+#=GS CCDC5079_2684 WT 2.34
+#=GS CCDC5079_0234 WT 1.84
+#=GS CCDC5079_0412 WT 1.16
+#=GS CCDC5079_3447 WT 1.67
+#=GS CCDC5079_3476 WT 2.14
+#=GS CCDC5079_1757 WT 1.58
+#=GS CCDC5079_2784 WT 0.97
+#=GS CCDC5079_2639 WT 1.44
+#=GS CCDC5079_1377 WT 0.95
+#=GS CCDC5079_1137 WT 0.87
+#=GS CCDC5079_1432 WT 0.88
+#=GS CCDC5079_2557 WT 0.95
+#=GS CCDC5079_0174 WT 1.53
+#=GS CCDC5079_1695 WT 1.61
+#=GS CCDC5079_1046 WT 1.02
+#=GS CCDC5079_1674 WT 1.26
+#=GS CCDC5079_2355 WT 1.69
+#=GS CCDC5079_2893 WT 1.61
+#=GS CCDC5079_0533 WT 1.43
+#=GS CCDC5079_3288 WT 1.10
+#=GS CCDC5079_2669 WT 1.73
+#=GS CCDC5079_1539 WT 1.02
+#=GS CCDC5079_1873 WT 1.84
+#=GS CCDC5079_1077 WT 1.03
+#=GS CCDC5079_3437 WT 1.93
+#=GS CCDC5079_2174 WT 1.67
+#=GS CCDC5079_2767 WT 0.97
+#=GS CCDC5079_0115 WT 1.99
+#=GS CCDC5079_2270 WT 1.43
+#=GS CCDC5079_1145 WT 1.25
+#=GS CCDC5079_0318 WT 1.60
+#=GS CCDC5079_0731 WT 1.43
+#=GS CCDC5079_2344 WT 1.56
+#=GS CCDC5079_1363 WT 1.43
+#=GS CCDC5079_1172 WT 1.85
+#=GS CCDC5079_2235 WT 1.24
+#=GS CCDC5079_2816 WT 1.85
+#=GS CCDC5079_1045 WT 1.02
+#=GS CCDC5079_3250 WT 1.61
+#=GS CCDC5079_0500 WT 1.61
+#=GS CCDC5079_1786 WT 1.48
+#=GS CCDC5079_2099 WT 1.68
+#=GS CCDC5079_1062 WT 1.48
+#=GS CCDC5079_2668 WT 0.74
+#=GS CCDC5079_3076 WT 0.12
+#=GS CCDC5079_0512 WT 1.66
+#=GS CCDC5079_2112 WT 0.48
+#=GS CCDC5079_2597 WT 1.65
+#=GS CCDC5079_2729 WT 1.26
+#=GS CCDC5079_1688 WT 1.15
+#=GS CCDC5079_3153 WT 2.08
+#=GS CCDC5079_2882 WT 0.12
+#=GS CCDC5079_1629 WT 0.12
+#=GS CCDC5079_1049 WT 0.12
+#=GS CCDC5079_2935 WT 0.12
+#=GS CCDC5079_1270 WT 0.12
+#=GS CCDC5079_3128 WT 0.12
+#=GS CCDC5079_1217 WT 1.73
+#=GS CCDC5079_1863 WT 0.12
+#=GS CCDC5079_1371 WT 1.53
+#=GS CCDC5079_1946 WT 0.12
+#=GS CCDC5079_1949 WT 0.12
+#=GS CCDC5079_2768 WT 0.97
+#=GS CCDC5079_2620 WT 1.16
+#=GS CCDC5079_2176 WT 0.12
+#=GS CCDC5079_2581 WT 0.12
+#=GS CCDC5079_1429 WT 1.62
+#=GS CCDC5079_1658 WT 0.12
+#=GS CCDC5079_2774 WT 0.12
+#=GS CCDC5079_3538 WT 1.51
+#=GS CCDC5079_3296 WT 0.89
+#=GS CCDC5079_2722 WT 1.84
+#=GS CCDC5079_1154 WT 1.73
+#=GS CCDC5079_3548 WT 1.81
+#=GS CCDC5079_3001 WT 1.65
+#=GS CCDC5079_3279 WT 1.62
+#=GS CCDC5079_0828 WT 0.71
+#=GS CCDC5079_0598 WT 0.14
+#=GS CCDC5079_0878 WT 0.14
+#=GS CCDC5079_0599 WT 0.10
+#=GS CCDC5079_0879 WT 0.10
+#=GS CCDC5079_1227 WT 0.46
+#=GS CCDC5079_1503 WT 0.23
+#=GS CCDC5079_2566 WT 0.43
+#=GS CCDC5079_0835 WT 0.59
+#=GS CCDC5079_2221 WT 0.06
+#=GS CCDC5079_0796 WT 0.28
+#=GS CCDC5079_1907 WT 0.51
+#=GS CCDC5079_2084 WT 0.43
+#=GS CCDC5079_3068 WT 0.38
+#=GS CCDC5079_1292 WT 0.53
+#=GS CCDC5079_0218 WT 0.06
+#=GS CCDC5079_3227 WT 0.04
+#=GS CCDC5079_0620 WT 0.61
+#=GS CCDC5079_2086 WT 0.61
+#=GS CCDC5079_0615 WT 0.20
+#=GS CCDC5079_0637 WT 0.74
+#=GS CCDC5079_3319 WT 0.48
+#=GS CCDC5079_3320 WT 0.48
+#=GS CCDC5079_0535 WT 0.59
+#=GS CCDC5079_0219 WT 0.04
+#=GS CCDC5079_1011 WT 0.64
+#=GS CCDC5079_0182 WT 0.45
+#=GS CCDC5079_1370 WT 0.89
+#=GS CCDC5079_0992 WT 1.44
+#=GS CCDC5079_2536 WT 0.75
+#=GS CCDC5079_1293 WT 0.53
+#=GS CCDC5079_2747 WT 0.25
+#=GS CCDC5079_2965 WT 0.53
+#=GS CCDC5079_2522 WT 0.26
+#=GS CCDC5079_3069 WT 0.38
+#=GS CCDC5079_0936 WT 0.65
+#=GS CCDC5079_1228 WT 0.46
+#=GS CCDC5079_2521 WT 0.22
+#=GS CCDC5079_0997 WT 0.59
+#=GS CCDC5079_2998 WT 0.55
+#=GS CCDC5079_3534 WT 1.88
+#=GS CCDC5079_2624 WT 0.97
+#=GS CCDC5079_0355 WT 1.15
+#=GS CCDC5079_2222 WT 0.04
+#=GS CCDC5079_0829 WT 0.63
+
+CCDC5079_0669 CAGAC-------------G-CA--AAAUG-C-C-----C-CC-G---AA-
+CCDC5079_2113 CAGUC-------------G-CA--UAAGC-C-C-----C-CG-C---AC-
+CCDC5079_2381 CAGAC-------------A-CA--GAA-U-C-G-----C-AC-----GA-
+CCDC5079_3087 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_0998 CAGAC-------------G-CA--GAA-G-C-C-----C-CC-----AA-
+CCDC5079_2944 CAGAC-------------G-CA--GAAGU-C-G-----C-CG-A---UU-
+CCDC5079_1121 CAGAC-------------A-CA--GAA-U-C-G-----C-CC-A---UU-
+CCDC5079_2964 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-G---AA-
+CCDC5079_1537 CAGAC-------------G-CA--GAA-U-C-G-----C-ACCG---CC-
+CCDC5079_0438 CAGAC-------------G-CA--AAA-G-C-A-----C-CC-U---UU-
+CCDC5079_3088 CAGGC-------------G-CA--AAA-U-C-G-----C-CCAA---UU-
+CCDC5079_3523 CAGAC-------------G-CA--AAA-G-CAC-----C-CC-A---AA-
+CCDC5079_3338 UAC----------------------CG-G-C-G-----C-CC-A----G-
+CCDC5079_3203 CUCGG-------------G-GG--GCG-C-C-G-----C-CC-C---CC-
+CCDC5079_2031 UAGCC-------------C-GG--UUC-C-U-U-----C-CC-G---GG-
+CCDC5079_0976 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UUU
+CCDC5079_1764 CAG----------------------CA-C-C-C-----C-GC-G---AG-
+CCDC5079_0795 CAGAC-------------G-CA--AAAGC-C-C-----C-CG-C---AC-
+CCDC5079_3134 CAGAC-------------G-CA--AAA-U-C-G-----C-CCAA---UU-
+CCDC5079_2107 CAGAC-------------G-CA--AAA-G-C-C-----C-CC-G--CAC-
+CCDC5079_0359 CAGAC-------------G-CG--GAA-U-C-G-----C-AC-----GC-
+CCDC5079_3135 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_0937 CAGAC-------------G-CA--AAA-U-C-C-----C-CU-C---GCA
+CCDC5079_3520 CAGAC-------------G-CA--AAA-G-C-C-----C-CC-A--A-U-
+CCDC5079_2085 CAGAC-------------G-CA--GAG-U-C-G-----C-AC-U---GCG
+CCDC5079_2664 CAGAC-------------G-CG--AAAUC-C-C-----C-CGAC---A--
+CCDC5079_0181 CAG----------------------AA-U-C-G-----C-CC-A---UU-
+CCDC5079_2032 UUGCC-------------C-GG--UUC-C-U-U-----C-CC-G---GG-
+CCDC5079_3163 CAGAC-------------G-CA--AAAGC-C-C-----C-CGAC---AC-
+CCDC5079_1128 CAGAC-------------G-CA--AAA-U-C-G-----C-CU-----GA-
+CCDC5079_2742 GACAC-------------A-CG--GAU-A-C-C-----C-UU-U---GC-
+CCDC5079_2895 CAGAC-------------G-UC--AAA-G-C-C-----C-CC-GA-AUU-
+CCDC5079_3308 CAGAC-------------G-CA--AAA-A-C-G-----C-CC-AUUU-U-
+CCDC5079_1679 GAG-C-------------G-UA--ACG-C-C-A-----C-UG-C---GA-
+CCDC5079_1461 CAAAC-------------C-CG--CCUCC-U-G-----C-UU-CC-CGCU
+CCDC5079_1353 CAC-U-------------G-CA--ACC-A-C-G-----C-AC--AAGAC-
+CCDC5079_2644 CCG---------------G-CC--GGG-U-G-G-----C-CG-----UG-
+CCDC5079_0990 UGGCC-------------G-UU--GAU-U-C-U-----G-CG-U---CC-
+CCDC5079_2501 GAG-C-------------G-UA--ACG-C-C-A-----C-GG-C---GA-
+CCDC5079_2037 GA--C-------------G-CG--GAA-U-C-G-----C-AC-C----GU
+CCDC5079_2741 CACAC-------------G-GA--UAC-C-C-UU--CGU-CA-C--AUU-
+CCDC5079_2766 CAGAC-------------A-CA--GAC-U-C-G-----C-AU--C-C-G-
+CCDC5079_0683 CAGAC-------------G-CG--UAA-G-C-G-----C-CC-A--A-UG
+CCDC5079_1231 AAGAC-------------G-CA--AAA-G-C-U-----C-CU-A---AA-
+CCDC5079_0607 CCGAU-------------U-GU--GAA-U-C-UGGCGAC-GC-GA-CAC-
+CCDC5079_2457 CG--C-------------C-GA--GAU-U-G-A-----C-GU-U---UU-
+CCDC5079_2325 CAGAC-------------G-CA--GAA-U-C-G-----C-AUCG---AA-
+CCDC5079_3162 CAGAC-------------G-CU--AAAGC-C-C-----C-CG-C---AC-
+CCDC5079_2036 CAGAC-------------G-CG--GAA-U-C-G-----C-AU-C---GGC
+CCDC5079_1232 CAGAC-------------G-CA--AAA-G-C-C-----CACU-A---AA-
+CCDC5079_3259 CGAAC-------------G-UG--AAC-UGAGG-----G-CG-G--AAUA
+CCDC5079_0658 CAGAC-------------G-CA-AAAG-C-C-C-----C-CGAC---AC-
+CCDC5079_2276 CCGAU-------------A-GU--GAAUU-C-G-----G-CG-C--CGG-
+CCDC5079_0446 UCGAC-------------U-CC--GAG-U-C-G-----C-CC--------
+CCDC5079_2756 CG-----------------------AGAC-G-G-----C-CU-A------
+CCDC5079_0991 UUGAC-------------U-CU--GCGCC-C-A-----C-CA-C------
+CCDC5079_3257 AGCGU-------------G-AA--CUG-A-G-G-----G-CG-A--GAUU
+CCDC5079_2025 CAGAC-------------G-CA--AAA-U-C-A-----C-CCGG---AA-
+CCDC5079_2382 CAGAC-------------G-CA--GAA-U-C-G-----C-AUUGG-G---
+CCDC5079_2558 GAG-C-------------G-UA--ACCGGAC-U-----G-CG-AA-A---
+CCDC5079_0197 CAGAC-------------A-CU-AAAG-C-C-C-----U-CGAC---AC-
+CCDC5079_0884 UGGCC-------------G-CG--ACA-G-U-G-----A-AA-----UCC
+CCDC5079_1304 CUGAGGCGGGCAAUCCGGC-CU--GUG-U-C-G-----G-GU-C----G-
+CCDC5079_2488 CAG--------------------ACGGUA-U-G-----C-CC-G---CC-
+CCDC5079_3258 CGAAC-------------G-UG--AAC-UCACG-----G-CG-GA-GAU-
+CCDC5079_0228 U---C------------UG-UU--GAC-U-C-U-----G-CG-U---CC-
+CCDC5079_3438 CAG-----------------------------------C-CC-G---GU-
+CCDC5079_0411 CA--------------------GCGAG-G-A-G-----C-CC-G---GU-
+CCDC5079_1362 UCGCC-------------G-AA--CGU-G-A-A-----C-UG-A--G-G-
+CCDC5079_2170 CA--C-------------G-CG--CCA-G-C-G-----C-AC-G------
+CCDC5079_2182 C-GCC-------------G-AA--CGU-G-C-C-----C-UG-G---UG-
+CCDC5079_3190 CAGACC----------CCU-GU--GUG-G-U-C-----C-CG-A---CG-
+CCDC5079_1505 GAG-C-------------G-UG--CAUCUGG-G-----G-CG-G--GA--
+CCDC5079_2458 GAGAC-------------U-GA--CGUUU-U-G-----C-AG-U---GA-
+CCDC5079_3384 CA----------------G-CA--ACGG-CA-G-----C-UG-C--C---
+CCDC5079_0196 CAGAC-------------G-CA--UAAGC-C-C-----C-CG-C---AC-
+CCDC5079_1152 GAG--------------------GCGU-U-C-G-----G-CU-G----A-
+CCDC5079_3289 CGAGC-------------G-UG--AACUC-A-G-----G-GC-G---AG-
+CCDC5079_2971 CA---------------------ACAGUG-C-G-----G-CC-C---CG-
+CCDC5079_1203 C-GCC-------------G-AA--CGU-G-C-A-----CGCA-----CU-
+CCDC5079_2402 CAGUC-------------G-CA--AAA-G-C-A-----C-CC-G---UU-
+CCDC5079_3297 CCGAG-------------G-GU--GAA-U-C-U-----C-AC-G---AC-
+CCDC5079_1174 C----------------------CGAU-G-C-G-----G-GG-A---UC-
+CCDC5079_2491 CU--------------------GAGGGUG-C-C-----G-AG-C---GG-
+CCDC5079_2512 CG--C-------------G-AA--GAG-C-A-G-----G-CG-C---GG-
+CCDC5079_0536 CG------------------------------------C-AUCA---AA-
+CCDC5079_1213 UA-ACCC--------GCCG-AU--GAGC-GC-G-----C-CC-A----U-
+CCDC5079_2684 G---C-------------A-UC--GAG-A-U-C-----G-AC-G--UCA-
+CCDC5079_0234 G-----------------G-CA--UGA-U-C-C-----G-GCCG----G-
+CCDC5079_0412 C----------------------AGAG-G-A-G-----C-CC-G---GC-
+CCDC5079_3447 GAGAU-------------C-AA--CGU-UCU-G-----C-AG-G------
+CCDC5079_3476 CA---------------------UAAGCU-C-G-----C-------GGG-
+CCDC5079_1757 C-GAC-------------GGCG--AAA-U-C-G-----A-CA--G-C-A-
+CCDC5079_2784 CAGUC-------------G-CA--AAA-GAC-C-----C-CGAC---AC-
+CCDC5079_2639 CA------------------------------------G-CU-G--GCC-
+CCDC5079_1377 GAG-C-------------G-UA--ACCUGGC-U-----G-CG-A--U-U-
+CCDC5079_1137 CAGAC-------------G-CA--AAA-G-A-A-----C-CC-G---AU-
+CCDC5079_1432 GAG-C-------------G-UA--ACG-U-C-A-----C-GG-C--UGA-
+CCDC5079_2557 GAG-C-------------G-UA--ACGUGGC-U-----G-CG-A--UUU-
+CCDC5079_0174 C-------------------------------------C-UG-G---CC-
+CCDC5079_1695 CCGCC-------------GCAA--UGA-G-C-G-----G-CA-C---CG-
+CCDC5079_1046 CGG----------------------GC-U-A-G-----C-UG--------
+CCDC5079_1674 GCGAC-------------U-GG--GAA-U-CC---------U-G---CG-
+CCDC5079_2355 CG----------------G-CA--GUA-C-C-G-----G-CC-C--G-A-
+CCDC5079_2893 CA---------------------CCCC-U-A-U-----C-UU-A----C-
+CCDC5079_0533 CCAAC-------------G-UG--AAC-U-G-A-----G-GA-C------
+CCDC5079_3288 CGAAC-------------G-UG--AAGCC-A-G-----G-GC-G---AG-
+CCDC5079_2669 CAGAC-------------GCAA--AAG-A-A-C-----A-UG-A--UGG-
+CCDC5079_1539 GAG-C-------------G-UA--ACG-C-C-A-----C-UG-C---GC-
+CCDC5079_1873 CU---------------------AUUA-U-C-U-----G-CG-U------
+CCDC5079_1077 GAG-C-------------G-UA--ACG-C-C-A-----C-UG-C---GA-
+CCDC5079_3437 CA---------------------CCAG-C-C-C-----C-UU-U---UC-
+CCDC5079_2174 CG-----------------------AU-U-U-G-----C-UU-G------
+CCDC5079_2767 AG--C-------------G-UA--ACG-C-C-A-----C-UG-C---GA-
+CCDC5079_0115 CA---------------------GCAU-C-G-G-----C-AG-C---AG-
+CCDC5079_2270 C---C-------------G-CG--CAAAC-C-G-----C-CU-G--A---
+CCDC5079_1145 CGGAC-------------A-CA--UAA-G-C-C-----C-CCG-------
+CCDC5079_0318 CA---------------------CGAA-C-C-G-----G-UG-G---GG-
+CCDC5079_0731 CA--CCG---------ACU-GU--GAA-U-C-U-----C-AC-G---AC-
+CCDC5079_2344 CAG--------------------------------------G-G---UC-
+CCDC5079_1363 GA-AC-------------G-UG--AAC-U-C-A-----C-GG-C---GG-
+CCDC5079_1172 C------------------------GG-G-C-A-----G-CC-----AC-
+CCDC5079_2235 CAG-C-------------G-UA--ACGUCAC-G-----G-CG-A--AAU-
+CCDC5079_2816 CA-----------------------AA-G-U-A-----C-GG-A--UGA-
+CCDC5079_1045 CGG----------------------GC-U-A-G-----C-UG--------
+CCDC5079_3250 AAGCC-------------G-GU--GCCG-CC-G-----G-CG-C---CG-
+CCDC5079_0500 CGGCC-------------G-GG--CAGGC-C-G-----G-CG-G--G---
+CCDC5079_1786 CGG--------------------CGAG-C-A-G-----C--------GC-
+CCDC5079_2099 C------------------------CGAU-C-C-----C-GG-G---AA-
+CCDC5079_1062 CGAGC-------------G-UG--CAUC--C-A-----G-GG-C---GA-
+CCDC5079_2668 CAGAC-------------G-----------------------------U-
+CCDC5079_3076 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_0512 CA----------------------------C-C-----C-UG-A---AG-
+CCDC5079_2112 A------------------------AG-C-C-C-----C-CGAC---AC-
+CCDC5079_2597 C----------------------CGACAU-U-G-----C-CG-U--GAC-
+CCDC5079_2729 CCGAC-------------G-GU--GAA-U-C-U-----C-------ACG-
+CCDC5079_1688 CAGAC-------------A-CA--GAA-U-C-G-----C-ACGC--G-GC
+CCDC5079_3153 UAAGC-------------G-CA--ACGCA-A-U-----U-AU-G---UA-
+CCDC5079_2882 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1629 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1049 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_2935 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1270 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_3128 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1217 C------------------------GG-U-C-A-----C-CU-A---UG-
+CCDC5079_1863 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1371 CA--G-------------C-GA--GGACC-A-U-----C-UG-G---CG-
+CCDC5079_1946 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1949 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_2768 CGAAC-------------G-UA--ACG-G-C-A-----C-UG-C---GA-
+CCDC5079_2620 CCGAG-------------U-GU--GAA-C-U-G-----C-GC----AAC-
+CCDC5079_2176 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_2581 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_1429 CUG-C-------------G-CC--GAACG-U-G-----C-ACUC---AGG
+CCDC5079_1658 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_2774 UACCCGG---------UUC-AU--CGCCG-A-U-----C-AU-C--AGG-
+CCDC5079_3538 CUG--------------------AACG-GGC-G-----C-CA-C--GCG-
+CCDC5079_3296 CCGAG-------------A-GU--GAA-C-C-A-----C-AC-G---ACG
+CCDC5079_2722 CA---------------------CCGA-A-C-G-----G-AC-C--UAGC
+CCDC5079_1154 GUGAC-------------G-CU-GCGG-C-C-G-----C-UGCC---GG-
+CCDC5079_3548 CA---------------------UGAUGC-A-G-----U-UC-U---ACG
+CCDC5079_3001 C------------------------AAAU-U-G-----C-GU-UA-UAU-
+CCDC5079_3279 C---U-------------G-CG--GAUUU-C-G-----C-AG-A---AG-
+CCDC5079_0828 CAGAC-------------G-CA--AAA-G-C-C-----CCCU-A---A--
+CCDC5079_0598 CAGAC-------------G-CA--UAAGC-C-C-----C-CG-C---AC-
+CCDC5079_0878 CAGAC-------------G-CA--UAAGC-C-C-----C-CG-C---AC-
+CCDC5079_0599 CAGAC-------------G-CA--UAAGC-C-C-----C-CGAC---AC-
+CCDC5079_0879 CAGAC-------------G-CA--UAAGC-C-C-----C-CGAC---AC-
+CCDC5079_1227 CAGAC-------------G-CA--GAA-U-C-G-----C-CU-A---AA-
+CCDC5079_1503 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_2566 CAGAC-------------G-CA--AAA-G-C-C-----C-CC-A---UU-
+CCDC5079_0835 CAGAC-------------A-CA--GAG-U-C-G-----C-AC-A---AA-
+CCDC5079_2221 CAGAC-------------G-CA--AAA-U-C-G-----C-CCAA---UU-
+CCDC5079_0796 CAGAC-------------G-UA--AAAGC-C-C-----C-CGAC---AC-
+CCDC5079_1907 CAGAC-------------G-CA--GAA-U-C-G-----C-AU-----GC-
+CCDC5079_2084 CAGAC-------------G-CA--GAA-U-C-G-----C-AC-----GC-
+CCDC5079_3068 CAGAC-------------G-CA--AAA-U-C-G-----C-CCGA---AA-
+CCDC5079_1292 CAGAC-------------G-CA--GAA-U-C-G-----C-AC-G---CG-
+CCDC5079_0218 CAGAC-------------G-CA--AAA-U-C-G-----C-CCAA---UU-
+CCDC5079_3227 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_0620 CAGAC-------------G-CA--GAA-U-C-G-----C-AC--------
+CCDC5079_2086 CAGAC-------------G-CA--GAA-U-C-G-----C-AC-U------
+CCDC5079_0615 CAGUC-------------G-CA--UAAGC-C-C-----C-CGAC---AC-
+CCDC5079_0637 CAGAC-------------G-CA--AAA-G-A-A-----C-AU-G---AU-
+CCDC5079_3319 CAGAC-------------G-CA--GAA-U-C-G-----C-AU-G---AU-
+CCDC5079_3320 C-----------------G-CA--GAA-U-C-G-----C-AU-G---AUU
+CCDC5079_0535 CAGAC-------------G-CA--GAA-U-C-G-----C-AC-A---AA-
+CCDC5079_0219 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_1011 CAGAC-------------A-CA--GAA-U-C-G-----C-ACUG---CG-
+CCDC5079_0182 CAGAC-------------G-CA--GAA-U-C-G-----C-CC-A---UU-
+CCDC5079_1370 CUGAC-------------U-GU--GAA-U-C-U-----G-AC-G---AC-
+CCDC5079_0992 UUGAC-------------U-CU--GCGUC-C-A-----C-CA-C---GC-
+CCDC5079_2536 CAGAC-------------G-CA--GAA-U-C-G-----C-AU-U---AA-
+CCDC5079_1293 CAGAC-------------G-CA--GAA-U-C-G-----C-AC-G---CG-
+CCDC5079_2747 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_2965 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-G---AAA
+CCDC5079_2522 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_3069 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---AA-
+CCDC5079_0936 CAGAC-------------G-CA--AAA-U-C-C-----C-CU-C---GAC
+CCDC5079_1228 CAGAC-------------G-CA--GAA-U-C-G-----C-CU-A---AA-
+CCDC5079_2521 CAGAC-------------G-CA--AAA-U-C-G-----C-CUCA---UU-
+CCDC5079_0997 CAGAC-------------G-CG--AAA-G-CAC-----C-CCAA---AA-
+CCDC5079_2998 CAGAC-------------G-CA--AAA-U-C-G-----C-CCAU---UU-
+CCDC5079_3534 AACAU-------------C-UA--GCG-G-C-G-----G--------UG-
+CCDC5079_2624 UAGGC-------------G-CA--AAA-G-A-A-----C-AU-G---AU-
+CCDC5079_0355 CAGAC-------------A-CA--AAA-U-C-G-----C-AC-GA-AUC-
+CCDC5079_2222 CAGAC-------------G-CA--AAA-U-C-G-----C-CC-A---UU-
+CCDC5079_0829 CAGAC-------------G-CA--AAA-G-C-C-----C-CU-----AAU
+#=GC SS_cons  <<<<<.............<.<<..<<<.<.<.<.....<.<<.<...<<.
+#=GC RF       CAGAC.............G.cA..gAa.u.C.g.....C.cc.c...ac.
+
+CCDC5079_0669 A----UG---C--C-----------------------CA----U-U-UU-
+CCDC5079_2113 G----C-A--CG--------------------------G----C-G--U-
+CCDC5079_2381 A----AUC--AG-CCC-------------------GC----------CC-
+CCDC5079_3087 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_0998 A----CC---GG-C-----------------------GG----U-U-UU-
+CCDC5079_2944 U----C-A-CCG--------------------------G----A-A--A-
+CCDC5079_1121 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_2964 A----CCG--A--U-----------------------GG----C-U-UU-
+CCDC5079_1537 A----CG---C--C-----------------------CG----U-C-GG-
+CCDC5079_0438 U----GC---GG-C-----------------------GC----A-A--A-
+CCDC5079_3088 U----CG---UG-C-----------------------CG----A-A--A-
+CCDC5079_3523 U----C-G--GG-C------------------------G----A-U--U-
+CCDC5079_3338 G----C-G-AA--A------------------------G----C-C----
+CCDC5079_3203 G----AG---U--ACCCCCCA--------ACCCAACCCU----C-G--G-
+CCDC5079_2031 U----CGG--C--A-----------------------CG----A-C--C-
+CCDC5079_0976 U----CG---UG-U-----------------------CG----A-A--A-
+CCDC5079_1764 C----UG---A--C-----------------------CG----G-C--U-
+CCDC5079_0795 G----C-U--CG--------------------------G----C-G--U-
+CCDC5079_3134 U----CG---UG-C-----------------------CG----A-A--A-
+CCDC5079_2107 G----C-A-CGG-A------------------------G----U-G--U-
+CCDC5079_0359 G----UGA--GGUC-----------------------CG----C-G--C-
+CCDC5079_3135 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_0937 A----C-C--GG-C------------------------G----U-G-UC-
+CCDC5079_3520 U----CG---GG-C----------------------ACG----A-A----
+CCDC5079_2085 G----C----CG--------------------------G----C-G--C-
+CCDC5079_2664 ----------CG-C-----------------------CG----A-A-GU-
+CCDC5079_0181 U----GGU--AG-C-----------------------CC----A-A--A-
+CCDC5079_2032 U----CG---UG-C-----------------------CG----A-C--C-
+CCDC5079_3163 G----C----CG-A------------------------G----C-G--U-
+CCDC5079_1128 A----C-C-GUG-C------------------------G----U-U--C-
+CCDC5079_2742 A----CGG-UGG-CA---------------------AUG----U-G-AC-
+CCDC5079_2895 U----C----AG-U------------------------G----A-A--A-
+CCDC5079_3308 G----C-G--GG-C------------------------G----U-G----
+CCDC5079_1679 A----AUU--U--CGGGCA-------------GAAAA----------UC-
+CCDC5079_1461 G----C-U-CAG-C------------------------G----C-G--C-
+CCDC5079_1353 A----CGC--CG-A-----------------------CG----C-A--U-
+CCDC5079_2644 A----AG---CG-CGGA----------------AGGC----------AA-
+CCDC5079_0990 A----CCA--GG-CUGACCACGCG--CACUUUUGCGUGG----U-A--G-
+CCDC5079_2501 AU--UCGG--UG-C----------------------ACGCAAGC-U--C-
+CCDC5079_2037 G----UG---GG-CC---------------------CCG----C-C----
+CCDC5079_2741 G----C-CACCG-U------------------------G----C-A--A-
+CCDC5079_2766 G----CG---C--CC--------------------CUCG----C-C----
+CCDC5079_0683 U----CG---UG-C-----------------------CG----A-A----
+CCDC5079_1231 U----C-U--GGCC------------------------G----A-U--U-
+CCDC5079_0607 G----CCG-GUG-C-----------------------GG----C-G--U-
+CCDC5079_2457 G----CAG-ACG-CCCUCUCGC-------ACUUUCACUG----C-A--A-
+CCDC5079_2325 A----UC---CG-------------------------GA----U-U-UU-
+CCDC5079_3162 G----C-U--CG--------------------------G----C-G--U-
+CCDC5079_2036 -----GG---GG-C-----------------------CC-----AC-AC-
+CCDC5079_1232 U----C-GGCC--A------------------------G----A-U--U-
+CCDC5079_3259 U----CG---G--C-----------------------CG----A-A--UC
+CCDC5079_0658 G----C-G--CG--------------------------G----C-G--U-
+CCDC5079_2276 A----ACA--CG-CCC-------------------GGGU----U-C--U-
+CCDC5079_0446 ----------A--C------------------------------------
+CCDC5079_2756 ------GC--U--C-----------------------C------------
+CCDC5079_0991 ------G---UG-UCCUACUCG-------CACUUUUGC------------
+CCDC5079_3257 U----CG---G--C-----------------------CG----A-U--U-
+CCDC5079_2025 A----CC---GG-C-----------------------GA----U-U--U-
+CCDC5079_2382 -----CG---GG-C-----------------------UG----A-U--U-
+CCDC5079_2558 -A-UCCG---UG-C-----------------------CGA-AA-------
+CCDC5079_0197 G----C----CG-U------------------------G----C-G--U-
+CCDC5079_0884 A----CGA--CG-UGACACGCCG-----GAAACGCGUCG----U-G--A-
+CCDC5079_1304 U----CCC--AG-CACG----------------UAACGG----A-C----
+CCDC5079_2488 G----C-G-CC--A------------------------G----C-G--G-
+CCDC5079_3258 U----CG---G--C-----------------------CG----A-U-AU-
+CCDC5079_0228 A----CC---GG-ACGGGUUACUCG-CACUUUUGCGUGG----U-G--G-
+CCDC5079_3438 G----UC---C--ACC------------------CAAGG----C-A--C-
+CCDC5079_0411 C----CCU-UUG-U-----------------------GG----G-G--C-
+CCDC5079_1362 G----CGG--AG-AAUCCGGC---------AAAAUACCG----C-C----
+CCDC5079_2170 -----GGG-AU--A-----------------------CC-----------
+CCDC5079_2182 G----CGG--CG-ACACGCCG--------GGCGGAGCCG----C-C--A-
+CCDC5079_3190 G----G-G-GAG-A------------------------G----C-C--G-
+CCDC5079_1505 A---UUC---GG-C-----------------------GAU--UU----U-
+CCDC5079_2458 A----AG---UG-CGAG-----------------AGG----------GC-
+CCDC5079_3384 ------GA--U--C-----------------------C------------
+CCDC5079_0196 G----C-A--CG--------------------------G----C-G--U-
+CCDC5079_1152 G----U----U--C------------------------G----C-U----
+CCDC5079_3289 AU-UUCG---G--C-----------------------CGU-UUU-C--U-
+CCDC5079_2971 A----CG---U--A-----------------------UG----U-C--G-
+CCDC5079_1203 G----CGA--AG-AUUCGGCC---------AAUUGUUCG----C-A--G-
+CCDC5079_2402 U----C-A--GGCC------------------------G----A-A--A-
+CCDC5079_3297 G----GGU--CG-UCGGC---------------GUGUCG----C-G--U-
+CCDC5079_1174 C----CG---U--CA--------------------ACCG----G-G--A-
+CCDC5079_2491 A----U-G--UG-A------------------------A----U-C--C-
+CCDC5079_2512 G----C-A-CUG-U------------------------G----C-C--U-
+CCDC5079_0536 A----UCG--C--U-----------------------GA----U-U--U-
+CCDC5079_1213 G------A-UCG-G-----------------------------C-A----
+CCDC5079_2684 G----CG---CG-AUGCUCUCUC-----UCGCGGGGGCG----C-U--G-
+CCDC5079_0234 G----CCG-AUG-------------------------GG----U-C----
+CCDC5079_0412 C----CCA--C--AA---------------------AGG----G-A--C-
+CCDC5079_3447 ------C---CG-CUACUCG-----------CACCUUG------------
+CCDC5079_3476 U----CA---C--UUUCA---------------CCCAUG----A-C--C-
+CCDC5079_1757 G----CG---CG-ACAAAGUUCGACGAGAAGACACCGCG----C-U----
+CCDC5079_2784 G----CC---G--A-----------------------GG----C-G--U-
+CCDC5079_2639 G----CCG--U--A-----------------------GG----C-G--G-
+CCDC5079_1377 U----CCG-GCG-C-----------------------GG----A-U----
+CCDC5079_1137 U----C-U--GGUC------------------------G----A-A-AU-
+CCDC5079_1432 AAAUCCG---UG-C----------------------CCGA--CU-U--C-
+CCDC5079_2557 U----CGG--C--A-----------------------CG----G-A--U-
+CCDC5079_0174 G----GGA-CCG-C-----------------------CC----C-G--G-
+CCDC5079_1695 A----C-G--UG--------------------------G----C-C--G-
+CCDC5079_1046 -------A--CG-A------------------------------------
+CCDC5079_1674 A----CG---CG-ACACGCC----------GACAAGGCG----U-C--G-
+CCDC5079_2355 G----C-C--CGAC------------------------G----C-U----
+CCDC5079_2893 U----C----CG--------------------------G----A-G----
+CCDC5079_0533 ------G----G-CAA-------------------AUC------------
+CCDC5079_3288 AA-AACG---G--C-----------------------CGA-AAU-C--U-
+CCDC5079_2669 G----CG---C--ACC-------------------AGCG----C-C--C-
+CCDC5079_1539 U----AUU-CGG-AUCGC---------------AAUC----------UC-
+CCDC5079_1873 -------A--UG-A------------------------------------
+CCDC5079_1077 AA--UCC---AG-CC---------------------CGGC-UUU-U--C-
+CCDC5079_3437 U----UGA-CU--CG--------------------UUCA----A-G--A-
+CCDC5079_2174 ------CAUGUG-C-----------------------G------------
+CCDC5079_2767 AA-AACCG--CG-C-----------------------GGA-GAU-U--C-
+CCDC5079_0115 C----G----C--AACGG---------------CCAG-C----G-C--U-
+CCDC5079_2270 -------G--C--C------------------------------------
+CCDC5079_1145 -----CCA--CG-CCG-------------------AAGG----A-U--U-
+CCDC5079_0318 A----CGU--U--CA---------------------UGG----U-C--C-
+CCDC5079_0731 GC--C--U-CCG-CCGCG---------------UGUC-----GC-G--U-
+CCDC5079_2344 A----CC---UG-C----------------------CGG----U-G--A-
+CCDC5079_1363 U----AUU-UUG-CCGGA---------------UUCU----------CC-
+CCDC5079_1172 U----CGU--UG-CAAGA---------------ACACCG----G-G--U-
+CCDC5079_2235 U----CGU--CG-C-----------------------UG----A-U--U-
+CCDC5079_2816 G----UG---UG-UC--------------------CGCG----C-U--C-
+CCDC5079_1045 -------C-UCG-U------------------------------------
+CCDC5079_3250 G----CGU--UG-C-----------------------CG----C-C--G-
+CCDC5079_0500 G----CC---GG-C-----------------------GG----C------
+CCDC5079_1786 A----CGA-UU--U-----------------------CG----A-G--C-
+CCDC5079_2099 C----C----UG-A------------------------G----G-U-AU-
+CCDC5079_1062 G----AUU-CCG-CCCGGC------------AAACCG----------UC-
+CCDC5079_2668 G----GG---CG-CUGG----------------UGCGCC----C-A--U-
+CCDC5079_3076 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_0512 A----UC---C--U-----------------------GA----U-C--U-
+CCDC5079_2112 G----C----CG-U------------------------G----C-G--U-
+CCDC5079_2597 G---GCGG--UG-AUUGG--------------UUCAUCGA--CC-G--U-
+CCDC5079_2729 A----CG---UG-ACACGCC----------GAGGAGACG----U-C--G-
+CCDC5079_1688 A----GG---C--U-----------------------CC----U-C----
+CCDC5079_3153 G----CA---C--CAU------------------GCGUG----C-U--A-
+CCDC5079_2882 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1629 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1049 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_2935 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1270 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_3128 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1217 G----A----U--A------------------------U----C-U--A-
+CCDC5079_1863 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1371 G----C-U--CGCC------------------------G----C-C--G-
+CCDC5079_1946 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1949 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_2768 AU-CUCCG--CG-C-----------------------GGU-UUU-U--C-
+CCDC5079_2620 G----GGU-UAG-CGU-------------------GUCG----C-G--U-
+CCDC5079_2176 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_2581 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_1429 G----CG---G--AAAAAUCGCC----GGCGGAAUCUCG----C-C-AU-
+CCDC5079_1658 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_2774 G----CCA-CCG-CG--------------------AGGG----C-C--C-
+CCDC5079_3538 G----CGA--AG-U-----------------------CG----C-C--G-
+CCDC5079_3296 G----CGA-AU--CGGC----------------GUGUCG----C-G--U-
+CCDC5079_2722 ----UCCU-UUG-C-----------------------GGG--A--C--U-
+CCDC5079_1154 G----CG---CG-A-----------------------CG----C-C--C-
+CCDC5079_3548 A----CGA--CG-G-----------------------CG----UUG--U-
+CCDC5079_3001 G----UC---U--A-----------------------GA----C-A--U-
+CCDC5079_3279 U----CGA--C--A-----------------------UG----A-C-AU-
+CCDC5079_0828 A----CCG-GC--A-----------------------GG----U---AU-
+CCDC5079_0598 G----C-U--CG--------------------------G----C-G--U-
+CCDC5079_0878 G----C-U--CG--------------------------G----C-G--U-
+CCDC5079_0599 G----C----CG-A------------------------G----C-G--U-
+CCDC5079_0879 G----C----CG-A------------------------G----C-G--U-
+CCDC5079_1227 C----CCG-CA--C-----------------------GG----G-U--U-
+CCDC5079_1503 U----CGG-GU--A-----------------------CG----A-A--A-
+CCDC5079_2566 U----CG---GG-C----------------------ACG----A-A--A-
+CCDC5079_0835 A----UC---GG-C-----------------------GG----U-U--U-
+CCDC5079_2221 U----CG---UG-C-----------------------CG----A-A--A-
+CCDC5079_0796 G----C----CG-A------------------------G----C-G--U-
+CCDC5079_1907 G----CG---GG-AC--------------------CCCG----C-G--C-
+CCDC5079_2084 G----CGA--GGUC-----------------------CG----C-G--C-
+CCDC5079_3068 A----CC---AG-U-----------------------GG----U-U--U-
+CCDC5079_1292 G----AAA--GG-C-----------------------UU----C-C--G-
+CCDC5079_0218 U----CG---UG-C-----------------------CG----A-A--A-
+CCDC5079_3227 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_0620 G----CGAAAUG-CC--------------------UGCG----C------
+CCDC5079_2086 G----CGC-CGG-C-----------------------CG----C------
+CCDC5079_0615 G----C----CG-A------------------------G----C-G--U-
+CCDC5079_0637 G----GG---CG-CACC----------------AGCGCC----C-A--U-
+CCDC5079_3319 U----GA---G--C-----------------------UC----A-A-AU-
+CCDC5079_3320 U----GA---G--C-----------------------UC----A-A--U-
+CCDC5079_0535 A----UC---AG-C-----------------------GA----U-U--U-
+CCDC5079_0219 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_1011 C----CGG--C--C-----------------------CG----G-C--G-
+CCDC5079_0182 U----GGG-CU--A-----------------------CC----A-A--A-
+CCDC5079_1370 G----CGACACG-CCGC-----------------UGUCG----C-G--U-
+CCDC5079_0992 A----AAA-GUG-CGAGU--------------AGGAC----------AC-
+CCDC5079_2536 U----CG---CG-C----------------------CCG----G-U--U-
+CCDC5079_1293 G----AAG-CC--U-----------------------UU----C-C--G-
+CCDC5079_2747 U----CG---AG-A-----------------------CG----A-A--A-
+CCDC5079_2965 G----CCA--U--C-----------------------GG----U-U--U-
+CCDC5079_2522 U----CG---UG-C-----------------------CG----A-A--A-
+CCDC5079_3069 A----CCA--C--U-----------------------GG----U-U--U-
+CCDC5079_0936 A----C-G-CCG--------------------------G----U-U-GC-
+CCDC5079_1228 C----CCG--UG-C-----------------------GG----G-U--U-
+CCDC5079_2521 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_0997 C----C-G--C--C------------------------G----G-U--U-
+CCDC5079_2998 U----C-A--UGAC------------------------G----A-A--A-
+CCDC5079_3534 A----CCC-UUG-U-----------------------GG----U-C--G-
+CCDC5079_2624 G----GG---C--ACCA-----------------GCGCC----C-A--U-
+CCDC5079_0355 A----AC---CG-C--------------------------------AAA-
+CCDC5079_2222 U----CGG--C--A-----------------------CG----A-A--A-
+CCDC5079_0829 A----CC---UG-C----------------------CGG----U-U--U-
+#=GC SS_cons  <....<<_..__._.......................>>....>.>..>.
+#=GC RF       g....Cga..cG.C.......................cG....c.g..u.
+
+CCDC5079_0669 -C--G-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_2113 -G-UC-G-GG-G-G-CUUU-AG-CGACUG
+CCDC5079_2381 ---AA-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_3087 -U-UG-G-GC-G-A--UUU-UG-CGCCUG
+CCDC5079_0998 ---GG-G-GU-G-C--UUU-CG-CGUCUG
+CCDC5079_2944 -U--C-G-GG-G-A-CUUC-UG-CGUCUG
+CCDC5079_1121 -U-UG-G-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2964 -C--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_1537 -C--G-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_0438 -A--GUG-GC-G-C--UUU-UG-CGUCUG
+CCDC5079_3088 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_3523 -U-UG-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_3338 -U--G-G-GC-G-C--CG--------GUA
+CCDC5079_3203 -G--G-G-GC-G-C--CGC-CC-CCCGAG
+CCDC5079_2031 -C--G-G-GA-A-G--GAA-CC-GGGCAA
+CCDC5079_0976 -U--G-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_1764 -C--G-C-GG-G-G--UG--------CUG
+CCDC5079_0795 -G-UC-G-GG-G-G-CUUU-UA-CGUCUG
+CCDC5079_3134 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_2107 -C--G-G-GG-G-C--UUU-UG-CGUCUA
+CCDC5079_0359 ---AG-U-GC-G-A--UUC-CG-CGUCUG
+CCDC5079_3135 -U-UG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0937 -G--A-G-GG-G-A--UUU-UG-CGUCUG
+CCDC5079_3520 AU--G-G-GG-G-C--UUU-UA-CGUCUG
+CCDC5079_2085 -A--G-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2664 -G--C-G-GU-G-G-CUUU-UG-CGUCUG
+CCDC5079_0181 -U--G-G-GC-G-A--UU--------CUG
+CCDC5079_2032 -C--G-G-GA-A-G--GAA-CC-GGGCUA
+CCDC5079_3163 -G--C-G-GG-G-G-CUUU-AG-CGUCUG
+CCDC5079_1128 --CAG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_2742 -G--A-A-GG-G-U--AUC-CG-UGUGUU
+CCDC5079_2895 UC--G-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_3308 UU--G-G-GU-G-A--UUU-UG-CGUCUG
+CCDC5079_1679 -G--C-A-GU-G-G--CGU-UA-CG-CUC
+CCDC5079_1461 -G--A-A-GC-A-G-GAGG-CU-GGUUUG
+CCDC5079_1353 C--GG-U-GC-G-U--GGU-UG-CA-GUU
+CCDC5079_2644 ---CC-G-GC-C-A--CCC-GG-C--CGG
+CCDC5079_0990 -A--C-G-CA-G-G--AUC-AA-CGGCUG
+CCDC5079_2501 -G--C-C-GU-G-G--CGU-UA-CG-CUC
+CCDC5079_2037 -G--A-U-GC-G-A--UUC-CG-CG--UC
+CCDC5079_2741 ---------A-G-G--GUA-UC-CGUGUG
+CCDC5079_2766 ---CG-U-GC-G-A--UUC-UG-UGUCUG
+CCDC5079_0683 AU--G-G-GC-G-C--UUA-UG-CGUCUG
+CCDC5079_1231 -U--A-GUGG-G-C--UUU-UG-CGUCUG
+CCDC5079_0607 -C--G-C-GG-G-A--UUC-AC-ACUCGG
+CCDC5079_2457 -A--A-C-GU-C-A--GUC-UC-GG--UG
+CCDC5079_2325 -C--A-U-GC-G-A--CUC-UG-CGUCUG
+CCDC5079_3162 -G-UC-G-GG-G-G-CUUU-UG-CGUCUG
+CCDC5079_2036 -G--G-U-GC-G-A--UUC-CG-CGUCUG
+CCDC5079_1232 -U--A-G-GA-G-C--UUU-UG-CGUCUU
+CCDC5079_3259 UC--C-G-CCGUGA--GUU-CA-CGUUCG
+CCDC5079_0658 -G--C-G-GG-G-G--CUUAUG-CGACUG
+CCDC5079_2276 UG-UC-G-CC-G-A-AUUC-AC-UAUCGG
+CCDC5079_0446 ---GG-G-GC-G-A--CUC-GG-AGUCGA
+CCDC5079_2756 -U--A-G-GC-C-G-UCU---------CG
+CCDC5079_0991 -G--U-G-GU-G-G-ACGC-AG-AGUCAA
+CCDC5079_3257 UU-CC-G-CC-C-U--CAG-UU-CACGUU
+CCDC5079_2025 -U--G-G-GC-G-A--CUU-UG-CGUCUG
+CCDC5079_2382 UC--G-U-GC-G-A--UUC-UG-UGUCUG
+CCDC5079_2558 AU--C-G-CA-GCC-ACGU-UA-CG-CUC
+CCDC5079_0197 -G--C-G-GG-G-G--CUUAUG-CGUCUG
+CCDC5079_0884 ---CA-U-UC-A-C--UCU-CG-UGGCCA
+CCDC5079_1304 -G--G-C-CC-G-A--CAC-GG-GCUCGG
+CCDC5079_2488 -C--G-G-GC-A-U-ACCG-------CUG
+CCDC5079_3258 UC--C-G-CCCUCA--GUU-CA-CGUUCG
+CCDC5079_0228 -A--C-G-CA-G-A--GUC-AA-CG---A
+CCDC5079_3438 -C--G-G-G-----------------CUG
+CCDC5079_0411 -C--G-G-GC-U-C--CUC--------UG
+CCDC5079_1362 GU--G-A-GU-U-C--ACG-UU-CGGCGG
+CCDC5079_2170 -C--G-U-AC-G-C--UGG-CG-CG--UG
+CCDC5079_2182 -U--G-G-UU-G-C--ACG-UU-CGGC-G
+CCDC5079_3190 -U--C-G-GG-A-C--CAC-AC-AGUCAU
+CCDC5079_1505 UC--C-G-CC-CUG-AGUU-CA-CG-CUC
+CCDC5079_2458 -G-UC-U-GC-A-A-AACG-UC-AAUCUC
+CCDC5079_3384 -G--C-G-GC-UA--CCGU-UG-C---UU
+CCDC5079_0196 -G-UC-G-AG-G-G-CUUU-AG-UGUCUG
+CCDC5079_1152 -C--A-G-CC-G-A--ACG-------CUC
+CCDC5079_3289 -C--G-C-CC-U-G-GCUU-CA-CGUUCG
+CCDC5079_2971 -G--G-G-CC-G-C-ACUG--------UG
+CCDC5079_1203 ---CU-G-UU-G-C--ACG-UU-CGGC-G
+CCDC5079_2402 -U-UU-G-GA-G-C--UUU-UG-UGUCUG
+CCDC5079_3297 -C--G-U-GC-G-A--UUC-AC-UGUCGG
+CCDC5079_1174 -U--C-C-CC-G-C--AUUC--------G
+CCDC5079_2491 -G-UC-U-CG-G-C-GCCCA-------AG
+CCDC5079_2512 -G--C-G-CC-U-G--CUC-AC-CG--CG
+CCDC5079_0536 -U--G-U-G------------------CG
+CCDC5079_1213 -U--G-G-UC-GU--GCUC-GU-CGU-UG
+CCDC5079_2684 CC--G-U-CG-A-U--CUC-GA-CG---C
+CCDC5079_0234 -C--G-C-CG-G-A--UCA-UG-C----C
+CCDC5079_0412 -C--G-G-GC-U-C--CUC---------G
+CCDC5079_3447 -C--C-U-GC-AAA--AUG-UU-GAUCUC
+CCDC5079_3476 G-------GC-G-A-GCUU--------UA
+CCDC5079_1757 A--AU-G-UC-G-A--UUU-CGAUGAC-G
+CCDC5079_2784 -G--G-G-GG-G-C--CUU-GG-CGCCUG
+CCDC5079_2639 GU--A-G-C------------------UG
+CCDC5079_1377 UU-UC-G-CA-GUG-CGGU-UA-CG-CUC
+CCDC5079_1137 -U--G-G-GU-G-C--CGU-UG-CGUCUG
+CCDC5079_1432 -G--C-C-GU-G-G--CGU-UA-CG-CUC
+CCDC5079_2557 UU-UC-G-CA-GUC-CGGU-UA-CG-CUC
+CCDC5079_0174 -C--C-A-G-------------------G
+CCDC5079_1695 -G--A-G-CC-G-C--UC----CCGGCGG
+CCDC5079_1046 ---GC-A-GC-U-A--GC--------CCG
+CCDC5079_1674 -U--G-----AG-A--UUC-AC-AGUCGC
+CCDC5079_2355 -G--G-G-CC-G-G--CAC-UG-C---UG
+CCDC5079_2893 -U--A-A-GA-U-A--GGG--------UG
+CCDC5079_0533 -G--G-C-CU-C-A--GUU-CA-CGCUCG
+CCDC5079_3288 -C--G-C-CC-U-G-AGUU-CA-CGCUCG
+CCDC5079_2669 ----------------------ACGUCUG
+CCDC5079_1539 -G--C-A-GU-G-A--CGU-UA-CG-CUC
+CCDC5079_1873 -A--U-G-CA-G-A--UAAA-------AG
+CCDC5079_1077 -G--C-A-GC-C-G--GGU-UA-CG-CUC
+CCDC5079_3437 -A--A-A-GG-G-C--CUUC-------UG
+CCDC5079_2174 -C--G-A-GC-A-A--AU---------CG
+CCDC5079_2767 -G--C-A-GU-G-C--CGU-UA-CG--UU
+CCDC5079_0115 -G--C-U-GC-C-G--AUG--------UG
+CCDC5079_2270 AU--G-G-GC-G-G-GUGG-UG-CG---G
+CCDC5079_1145 -U--G-G-AG-C-U--UUU-UG-CGUCUG
+CCDC5079_0318 -C--C-G-CC-G-G--UUUG-------UG
+CCDC5079_0731 -C--G-U-GC-C-A--UUC-AC-AG--UG
+CCDC5079_2344 -U--C---------------------CUG
+CCDC5079_1363 -G--C-C-CU-C-A--GUU-CA-CGU-UC
+CCDC5079_1172 ---CG-G-CU-G-C--CC----------G
+CCDC5079_2235 CU--C-G-CA-GUG-GCGU-CA-CG-CUG
+CCDC5079_2816 GU--C-C-GC-A-C--CG---------UG
+CCDC5079_1045 ----C-A-GC-U-A--GC--------CCG
+CCDC5079_3250 -G--U-G-CC-GC--CGGU-GC-CGCCUU
+CCDC5079_0500 GC--C-G-CC-G-G-GCUG-AU-CGGCCA
+CCDC5079_1786 --------GC-U-G--CUC-------CCG
+CCDC5079_2099 -U--C-C-GG-G-A-GGG----------G
+CCDC5079_1062 -G--C-C-CU-G---AGUU-CA-CGUUCG
+CCDC5079_2668 -C--A-U-GU-U-C--UUU-UG-CGUCUG
+CCDC5079_3076 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_0512 -U--C-A-GU-C---------------UG
+CCDC5079_2112 -G--C-G-GG-G-G--CU----------U
+CCDC5079_2597 GG--C-G-GC-A-A-ACUC---------G
+CCDC5079_2729 C-------GC-G-G--UUC-AC-AGUCGG
+CCDC5079_1688 GG--A-U-GC-G-A--UUG-UG-UGUCUG
+CCDC5079_3153 -C--------------CGU-UG-GGCUUG
+CCDC5079_2882 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1629 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1049 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_2935 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1270 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_3128 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1217 -U--G-G-AU-G-A--CC----------G
+CCDC5079_1863 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1371 -U--C-A-GA-U-C-CUCG-AC-GG--UG
+CCDC5079_1946 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1949 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_2768 -G--C-A-GU-G-G--CGU-UA-CGCUCG
+CCDC5079_2620 A---G-U-GC-A-U--UUC-AC-AGUCGG
+CCDC5079_2176 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_2581 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_1429 -G--GUU-AC-A-C-GCUC-GG-CG-CAG
+CCDC5079_1658 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_2774 CG--A-U-GG-U-U-UGCG-GU-GGGGUG
+CCDC5079_3538 UG-AU-G-GU-GGC--CGUG------CAG
+CCDC5079_3296 -C--G-U-CA-G-A--UUC-AC-AGUCGG
+CCDC5079_2722 AG--G-U-CC-G-A--UCG--------UG
+CCDC5079_1154 -G--C-A-GC-G-G--CUG-GG-UGUCGC
+CCDC5079_3548 -A--C-A-GC-U-G-GAUCG-------UG
+CCDC5079_3001 AA-GA-C-GC-A-A-ACU----------G
+CCDC5079_3279 -U-GC-U-GC-U-AUGGUC-UG-CG---G
+CCDC5079_0828 -U--A-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_0598 -G-UC-G-GG-G-G-CUUA-UG-CGUCUG
+CCDC5079_0878 -G-UC-G-GG-G-G-CUUA-UG-CGUCUG
+CCDC5079_0599 -G--C-G-GG-G-G-CUUA-UG-CGUCUG
+CCDC5079_0879 -G--C-G-GG-G-G-CUUA-UG-CGUCUG
+CCDC5079_1227 -U--A-G-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_1503 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_2566 -U--G-G-GG-G-C--UUU-UG-CGUCUG
+CCDC5079_0835 -U-GA-U-GC-G-A--CUC-UG-UGUCUG
+CCDC5079_2221 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0796 -G--C-G-GG-G-G-CUUU-UG-CGUCUG
+CCDC5079_1907 ---AG-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2084 ---CG-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_3068 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_1292 -C--G-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_0218 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_3227 -U-UG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0620 ---GA-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2086 -A--G-U-GC-G-A--CUC-UG-CGUCUG
+CCDC5079_0615 -G--C-G-GG-G-G-CUUA-UG-CGUCUG
+CCDC5079_0637 -C--A-U-GU-U-C--UUU-UG-CGUCUG
+CCDC5079_3319 -C--A-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_3320 -C--A-U-GC-G-A--UUC-UG-C----G
+CCDC5079_0535 -U-GA-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_0219 -U-UG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_1011 -C--G-U-GC-G-A--UUC-UG-UGUCUG
+CCDC5079_0182 -U--G-G-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_1370 -C--G-U-CA-G-A--UUC-AC-AAUCGG
+CCDC5079_0992 -G--U-G-GU-G-G-GCGC-AG-AGUCAA
+CCDC5079_2536 -U--G-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_1293 -C--G-U-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2747 -U-UG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_2965 -C--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_2522 -U-GA-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_3069 -U-CG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0936 -G--A-G-GG-G-A--UUU-UG-CGUCUG
+CCDC5079_1228 -U--A-G-GC-G-A--UUC-UG-CGUCUG
+CCDC5079_2521 -U--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0997 -U--G-G-GG-G-C--UUC-UG-CGUCUG
+CCDC5079_2998 -A--G-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_3534 --------CC-G-C--CGC-UA-GAUGUU
+CCDC5079_2624 -C--A-U-GU-U-C--UUU-CG-CGUCUA
+CCDC5079_0355 CC--G-U-GC-G-A--UUU-UG-UGUCUG
+CCDC5079_2222 -U-UG-G-GC-G-A--UUU-UG-CGUCUG
+CCDC5079_0829 ---AG-G-GG-G-C--UUU-UG-CGUCUG
+#=GC SS_cons  .>..>.>.>>.>.>..>>>.>>.>>>>>>
+#=GC RF       .g..g.g.Gc.G.a..uUc.Ug.CGUCUG
+//

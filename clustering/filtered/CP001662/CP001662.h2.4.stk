@@ -1,0 +1,666 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU CMfinder 0.2.1
+
+#=GS TBSG_01712 WT 0.43
+#=GS TBSG_03633 WT 1.20
+#=GS TBSG_03255 WT 1.41
+#=GS TBSG_01401 WT 1.26
+#=GS TBSG_01532 WT 1.08
+#=GS TBSG_02347 WT 1.28
+#=GS TBSG_00728 WT 0.76
+#=GS TBSG_02776 WT 1.15
+#=GS TBSG_02923 WT 0.89
+#=GS TBSG_03460 WT 0.55
+#=GS TBSG_02946 WT 0.65
+#=GS TBSG_02993 WT 1.26
+#=GS TBSG_03712 WT 0.89
+#=GS TBSG_00474 WT 1.24
+#=GS TBSG_02094 WT 2.47
+#=GS TBSG_03490 WT 0.62
+#=GS TBSG_00384 WT 1.26
+#=GS TBSG_00388 WT 0.93
+#=GS TBSG_01719 WT 0.63
+#=GS TBSG_01074 WT 0.63
+#=GS TBSG_00768 WT 0.71
+#=GS TBSG_03461 WT 0.45
+#=GS TBSG_00200 WT 0.83
+#=GS TBSG_03861 WT 0.65
+#=GS TBSG_03205 WT 1.41
+#=GS TBSG_01790 WT 1.09
+#=GS TBSG_00965 WT 1.43
+#=GS TBSG_03489 WT 0.62
+#=GS TBSG_00755 WT 0.71
+#=GS TBSG_02664 WT 1.11
+#=GS TBSG_01791 WT 1.09
+#=GS TBSG_02663 WT 1.63
+#=GS TBSG_01460 WT 1.01
+#=GS TBSG_01400 WT 1.28
+#=GS TBSG_02767 WT 1.29
+#=GS TBSG_00215 WT 0.67
+#=GS TBSG_01804 WT 1.02
+#=GS TBSG_00444 WT 1.70
+#=GS TBSG_03774 WT 1.56
+#=GS TBSG_00214 WT 0.48
+#=GS TBSG_01377 WT 1.07
+#=GS TBSG_01272 WT 2.16
+#=GS TBSG_03010 WT 1.98
+#=GS TBSG_00445 WT 1.56
+#=GS TBSG_00582 WT 0.93
+#=GS TBSG_01901 WT 0.63
+#=GS TBSG_00946 WT 0.68
+#=GS TBSG_02766 WT 1.07
+#=GS TBSG_03203 WT 2.36
+#=GS TBSG_01068 WT 0.99
+#=GS TBSG_03773 WT 2.36
+#=GS TBSG_02757 WT 1.82
+#=GS TBSG_01069 WT 1.97
+#=GS TBSG_02175 WT 1.97
+#=GS TBSG_01403 WT 2.16
+#=GS TBSG_01713 WT 0.67
+#=GS TBSG_01118 WT 1.35
+#=GS TBSG_02667 WT 0.89
+#=GS TBSG_03149 WT 0.65
+#=GS TBSG_01743 WT 0.98
+#=GS TBSG_03056 WT 0.55
+#=GS TBSG_03645 WT 0.91
+#=GS TBSG_01237 WT 0.81
+#=GS TBSG_03319 WT 0.87
+#=GS TBSG_03644 WT 0.91
+#=GS TBSG_00657 WT 0.44
+#=GS TBSG_03281 WT 0.79
+#=GS TBSG_02379 WT 0.86
+#=GS TBSG_03557 WT 0.50
+#=GS TBSG_03105 WT 0.98
+#=GS TBSG_01187 WT 0.65
+#=GS TBSG_03410 WT 0.45
+#=GS TBSG_03057 WT 0.48
+#=GS TBSG_01933 WT 0.93
+#=GS TBSG_00985 WT 0.47
+#=GS TBSG_01581 WT 0.65
+#=GS TBSG_03391 WT 0.63
+#=GS TBSG_00702 WT 0.99
+#=GS TBSG_02600 WT 0.91
+#=GS TBSG_00237 WT 0.55
+#=GS TBSG_03150 WT 0.62
+#=GS TBSG_02601 WT 0.91
+#=GS TBSG_00383 WT 1.20
+#=GS TBSG_02905 WT 0.87
+#=GS TBSG_00769 WT 0.53
+#=GS TBSG_00676 WT 0.44
+#=GS TBSG_03280 WT 0.79
+#=GS TBSG_03392 WT 0.63
+#=GS TBSG_00684 WT 1.21
+#=GS TBSG_00581 WT 0.98
+#=GS TBSG_01220 WT 1.30
+#=GS TBSG_00201 WT 0.83
+#=GS TBSG_03111 WT 1.26
+#=GS TBSG_01741 WT 0.71
+#=GS TBSG_00238 WT 0.45
+#=GS TBSG_00741 WT 1.33
+#=GS TBSG_00656 WT 0.43
+#=GS TBSG_03411 WT 0.58
+#=GS TBSG_03112 WT 1.26
+#=GS TBSG_01582 WT 0.71
+#=GS TBSG_00912 WT 0.93
+#=GS TBSG_01742 WT 0.71
+#=GS TBSG_02994 WT 1.33
+#=GS TBSG_02924 WT 1.25
+#=GS TBSG_02380 WT 0.97
+#=GS TBSG_02668 WT 0.89
+#=GS TBSG_02783 WT 0.50
+#=GS TBSG_03864 WT 1.02
+#=GS TBSG_01238 WT 0.47
+
+#=GS TBSG_01712 DE 28.. 74	46.578232
+#=GS TBSG_03633 DE 19.. 66	44.343040
+#=GS TBSG_03255 DE 34.. 80	42.568886
+#=GS TBSG_01401 DE 27.. 81	35.850967
+#=GS TBSG_01532 DE 20.. 67	47.948105
+#=GS TBSG_02347 DE 25.. 72	34.232452
+#=GS TBSG_00728 DE 21.. 67	46.216156
+#=GS TBSG_02776 DE 20.. 66	48.307449
+#=GS TBSG_02923 DE 21.. 66	48.458782
+#=GS TBSG_03460 DE 20.. 67	56.423939
+#=GS TBSG_02946 DE 20.. 67	53.456566
+#=GS TBSG_02993 DE 23.. 69	37.547432
+#=GS TBSG_03712 DE 24.. 72	51.363464
+#=GS TBSG_00474 DE 20.. 66	44.678024
+#=GS TBSG_02094 DE 60.. 96	6.846161
+#=GS TBSG_03490 DE 22.. 68	45.477448
+#=GS TBSG_00384 DE 22.. 68	42.639412
+#=GS TBSG_00388 DE 24.. 70	36.763428
+#=GS TBSG_01719 DE 20.. 66	42.974899
+#=GS TBSG_01074 DE 24.. 70	42.894447
+#=GS TBSG_00768 DE 39.. 86	55.681046
+#=GS TBSG_03461 DE 21.. 67	58.293182
+#=GS TBSG_00200 DE 1.. 31	20.694729
+#=GS TBSG_03861 DE 21.. 67	50.607212
+#=GS TBSG_03205 DE 21.. 67	44.686909
+#=GS TBSG_01790 DE 43.. 89	29.713303
+#=GS TBSG_00965 DE 16.. 64	24.695560
+#=GS TBSG_03489 DE 20.. 67	49.457001
+#=GS TBSG_00755 DE 17.. 64	37.053303
+#=GS TBSG_02664 DE 20.. 67	37.508133
+#=GS TBSG_01791 DE 26.. 72	32.897530
+#=GS TBSG_02663 DE 2.. 37	23.741926
+#=GS TBSG_01460 DE 17.. 64	48.905430
+#=GS TBSG_01400 DE 30.. 76	29.989094
+#=GS TBSG_02767 DE 20.. 66	33.817432
+#=GS TBSG_00215 DE 20.. 67	42.429276
+#=GS TBSG_01804 DE 22.. 70	44.601204
+#=GS TBSG_00444 DE 21.. 70	17.188570
+#=GS TBSG_03774 DE 27.. 60	4.947796
+#=GS TBSG_00214 DE 16.. 63	44.526917
+#=GS TBSG_01377 DE 11.. 58	38.877510
+#=GS TBSG_01272 DE 66..100	2.957439
+#=GS TBSG_03010 DE 64.. 90	1.042852
+#=GS TBSG_00445 DE 24.. 60	5.419335
+#=GS TBSG_00582 DE 52.. 99	53.222980
+#=GS TBSG_01901 DE 48.. 94	53.564610
+#=GS TBSG_00946 DE 24.. 71	37.780655
+#=GS TBSG_02766 DE 25.. 72	46.230362
+#=GS TBSG_03203 DE 29.. 64	5.507827
+#=GS TBSG_01068 DE 17.. 67	30.027437
+#=GS TBSG_03773 DE 29.. 66	6.407145
+#=GS TBSG_02757 DE 21.. 67	14.726645
+#=GS TBSG_01069 DE 19.. 61	0.015400
+#=GS TBSG_02175 DE 29.. 76	21.204678
+#=GS TBSG_01403 DE 39.. 74	0.795557
+#=GS TBSG_01713 DE 49.. 96	44.757923
+#=GS TBSG_01118 DE 16.. 67	33.011951
+#=GS TBSG_02667 DE 24.. 71	55.939056
+#=GS TBSG_03149 DE 20.. 67	51.408630
+#=GS TBSG_01743 DE 23.. 70	45.531120
+#=GS TBSG_03056 DE 16.. 63	49.981636
+#=GS TBSG_03645 DE 1.. 33	27.322140
+#=GS TBSG_01237 DE 20.. 66	51.597618
+#=GS TBSG_03319 DE 28.. 75	53.253574
+#=GS TBSG_03644 DE 25.. 72	55.326591
+#=GS TBSG_00657 DE 21.. 67	50.907383
+#=GS TBSG_03281 DE 16.. 63	54.673267
+#=GS TBSG_02379 DE 20.. 67	55.767448
+#=GS TBSG_03557 DE 36.. 82	55.965317
+#=GS TBSG_03105 DE 29.. 76	39.221985
+#=GS TBSG_01187 DE 33.. 79	54.504883
+#=GS TBSG_03410 DE 20.. 67	60.353127
+#=GS TBSG_03057 DE 16.. 63	49.083244
+#=GS TBSG_01933 DE 21.. 68	37.876648
+#=GS TBSG_00985 DE 23.. 69	60.572479
+#=GS TBSG_01581 DE 22.. 68	56.973709
+#=GS TBSG_03391 DE 23.. 70	57.250538
+#=GS TBSG_00702 DE 24.. 76	31.240646
+#=GS TBSG_02600 DE 18.. 64	39.972404
+#=GS TBSG_00237 DE 21.. 67	57.937691
+#=GS TBSG_03150 DE 17.. 64	49.225388
+#=GS TBSG_02601 DE 25.. 72	42.945114
+#=GS TBSG_00383 DE 25.. 71	45.716740
+#=GS TBSG_02905 DE 26.. 73	45.750404
+#=GS TBSG_00769 DE 2.. 46	53.232109
+#=GS TBSG_00676 DE 24.. 71	47.097595
+#=GS TBSG_03280 DE 29.. 76	53.675819
+#=GS TBSG_03392 DE 25.. 72	56.474548
+#=GS TBSG_00684 DE 19.. 59	31.628803
+#=GS TBSG_00581 DE 31.. 78	49.496361
+#=GS TBSG_01220 DE 21.. 67	41.215515
+#=GS TBSG_00201 DE 26.. 73	50.784946
+#=GS TBSG_03111 DE 3.. 37	26.834963
+#=GS TBSG_01741 DE 17.. 64	46.289383
+#=GS TBSG_00238 DE 26.. 72	59.834953
+#=GS TBSG_00741 DE 21.. 68	43.799374
+#=GS TBSG_00656 DE 24.. 70	49.747536
+#=GS TBSG_03411 DE 16.. 63	60.856247
+#=GS TBSG_03112 DE 20.. 66	45.804501
+#=GS TBSG_01582 DE 27.. 73	53.160645
+#=GS TBSG_00912 DE 35.. 82	50.485420
+#=GS TBSG_01742 DE 22.. 68	40.688015
+#=GS TBSG_02994 DE 21.. 67	38.912819
+#=GS TBSG_02924 DE 20.. 67	45.368561
+#=GS TBSG_02380 DE 17.. 64	55.492462
+#=GS TBSG_02668 DE 25.. 71	50.066170
+#=GS TBSG_02783 DE 29.. 76	56.911392
+#=GS TBSG_03864 DE 23.. 70	52.293434
+#=GS TBSG_01238 DE 20.. 66	56.532730
+
+TBSG_01712         GUCCG--GCGAGCAGUCGCA--UAAGCC-CCCG-CACGCACG--------
+#=GR TBSG_01712 SS ...........................<.<<<<.<<<<............
+TBSG_03633         AGUGGC-GCGAGCAGACGCA--AAAUCG-CCCAUUUUGCGG---------
+#=GR TBSG_03633 SS ...........................<.<<<<-<-<<............
+TBSG_03255         UCGCG--GCGAGCAGACGCA--GAAGUC-GCCGAUUUCACC---------
+#=GR TBSG_03255 SS ...........................<.-<<<<<<<<............
+TBSG_01401         GCUCGC--CGAGCAGACACA--GAAUCG-CACGAAAUCAGCCCGCCCAAU
+#=GR TBSG_01401 SS ...........................<.<.-<.<<<<............
+TBSG_01532         ACCACC-GCGAAAAGACGCA--AAAGCU-CCCAAAUCCGGU---------
+#=GR TBSG_01532 SS ...........................<.<<<<<<<<<............
+TBSG_02347         UCUCCC-GCGAGCAGACGCA--GAAUCG-CACCGCCACGCCCGU------
+#=GR TBSG_02347 SS ...........................<.<<<.<<<..............
+TBSG_00728         GCCUG--ACGAGCAGUCGCA--AAAGCC-CCCGACACGCGCG--------
+#=GR TBSG_00728 SS ...........................<.<<<<.<<<<............
+TBSG_02776         AUUCG--GCGAGCAGACGCA--AAAUCG-CCCU-GAACCGUG--------
+#=GR TBSG_02776 SS ...........................<.<<<<.<<<<............
+TBSG_02923         GUACCC-GCGAGCAGACGCA--GAAGCC-CCC-AAACCG--G--------
+#=GR TBSG_02923 SS ...........................<.<<<.<<<<<............
+TBSG_03460         AGGCCC-GCGAGCAGACGCA--AAAUCG-CCCAAUUUCGUGC--------
+#=GR TBSG_03460 SS ...........................<.<<<<.-<<<............
+TBSG_02946         ACCCGC-GCGAGCAGACGCA--AAAUCG-CCCAUUUUCGUGU--------
+#=GR TBSG_02946 SS ...........................-.<<<<.<<<<............
+TBSG_02993         ACCCGC-GUGAGCAGACGCA--AAAUCCCCUCG-CAACCGGC--------
+#=GR TBSG_02993 SS ...........................<.<<<<.<<..............
+TBSG_03712         ACCCCC-GCGAGCAGACGCAA-AAAGCC-CCCAAAACGGUU---------
+#=GR TBSG_03712 SS ...........................<.<<<<<<<<<............
+TBSG_00474         GUCUGC--CGAGCAGACGCA--AAAGCA-CCC-UUUUGCGGC--------
+#=GR TBSG_00474 SS ...........................-.<<-.<<<<<............
+TBSG_02094         CGCCGC------------------AGCA-CCCCGCGAGCUGACCG-----
+#=GR TBSG_02094 SS ...........................<.<<<<<<<<<............
+TBSG_03490         CUCCG--GUCAGCAGACGCA--AAAGCC-CCCGACACGCCGA--------
+#=GR TBSG_03490 SS ...........................<.<<<<.<<<<............
+TBSG_00384         CCUCG--GCGAGCAGACACA--AAAUCG-CACGAAUCAACCG--------
+#=GR TBSG_00384 SS ...........................<.<<<<.-<--............
+TBSG_00388         GUCUG--ACGAGCAGACGCG--GAAUCG-CAC-GCGUGAGGU--------
+#=GR TBSG_00388 SS ...........................<.<<<.<<<<<............
+TBSG_01719         GCGCG--GCGAACAGACGCA--AAAGCC-CCCG-CACGCACG--------
+#=GR TBSG_01719 SS ...........................<.<<<<.<<<-............
+TBSG_01074         CGCUG--GCGAGCAGACGCG--AAAUCC-CCCGACACGCCGA--------
+#=GR TBSG_01074 SS ...........................<.-<<<.<<<<............
+TBSG_00768         CUGAGG-GCGAGCAGACGCA--UAAGCG-CCCAAUUUCGUGU--------
+#=GR TBSG_00768 SS ...........................<.<<<<.<<<<............
+TBSG_03461         CUGCGC--CGAGCAGACGCA--AAAUCG-CCCAA-UUCGGCA--------
+#=GR TBSG_03461 SS ...........................<.<<<<<.<<<............
+TBSG_00200         -----C-------------A--GAAUCG-CCCAUUUGGUAG---------
+#=GR TBSG_00200 SS ...........................<.<<<<<<<<<............
+TBSG_03861         GUAUGC--CGAGCAGACGCA--AAAGCC-CCCAAUUCGGGC---------
+#=GR TBSG_03861 SS ...........................<.<<<<-<<<<............
+TBSG_03205         CCUCG--GCGAGCAGACGUC--AAAGCC-CCCGAAUUUCAGU--------
+#=GR TBSG_03205 SS ...........................<.<<<<.<<<<............
+TBSG_01790         CACCGC--CGAGCAGACGCG--GAAUCG-CACCGUGUGGGCC--------
+#=GR TBSG_01790 SS ...........................<.<<-<<.<<<............
+TBSG_00965         UUUAGCGGCGAGCAGACACA--GACUCG-CAUCCGGCGCCCC--------
+#=GR TBSG_00965 SS ...........................<.<<<-.<<<<............
+TBSG_03489         AGCCGC-GCGAGCAGACGCU--AAAGCC-CCCG-CACGCUCG--------
+#=GR TBSG_03489 SS ...........................<.<<<<.<<<<............
+TBSG_00755         UUGAGG-GCGGGCAGACGCG--UAAGCG-CCCAAUGUCGUGC--------
+#=GR TBSG_00755 SS ...........................<.<<<<.<-<<............
+TBSG_02664         ACCCGC--CGAGAAGACGCA--AAAGCU-CCU-AAAUCUGGC--------
+#=GR TBSG_02664 SS ...........................<.<<<.<<<<<............
+TBSG_01791         CCUUC--GCGAGCAGACGCG--GAAUCG-CAUCG-GCGGGGC--------
+#=GR TBSG_01791 SS ...........................<.<<<<<.<-<............
+TBSG_02663         AGACGC-------------A--AAAGCC-CACUAAAUCGGCC--------
+#=GR TBSG_02663 SS ...........................-.<.<<<<<<<............
+TBSG_01460         GUGAGC-GCGAGCAGACGCA--GAAUCG-CAUCGAAAUCCG---------
+#=GR TBSG_01460 SS ...........................<.<<<-<<<<<............
+TBSG_01400         CUCCGC--CGAGCAGACGCA--GAAUCG-CAUUG----GGCGGGCU----
+#=GR TBSG_01400 SS ...........................<.<<<.<................
+TBSG_02767         GUACGC--CGAGCAGACGCA--ACGGCA-CCCAAUUUCGACC--------
+#=GR TBSG_02767 SS ...........................<.<<<-.-<<<............
+TBSG_00215         ACGAGC-GCGAGCAGACACU--AAAGCC-CUCGACACGCCGU--------
+#=GR TBSG_00215 SS ...........................<.<<<<.<<<<............
+TBSG_01804         UUCCGCCGCGAGCAGACGCA--AAAUCA-CCCGGAAACCGG---------
+#=GR TBSG_01804 SS ...........................-.<<<<<<<-<............
+TBSG_00444         CCCCG--GCGAGAAGUCGCAGCGAGGAG-CCCGGUCCCUUUG--------
+#=GR TBSG_00444 SS ...........................<.<<<<<<<<<............
+TBSG_03774         ACCAGC--------------------AG-CCCGGUGUCCACCCA------
+#=GR TBSG_03774 SS ...........................<.<<<<<<<<<............
+TBSG_00214         GUUAGG-GCGAGCAGACGCA--UAAGCC-CCCG-CACGCACG--------
+#=GR TBSG_00214 SS ...........................<.<-<<.<<<<............
+TBSG_01377         CGCGGC-GUGAGCAGUCGCA--AAAGCA-CCC-GUUUCAGGC--------
+#=GR TBSG_01377 SS ...........................-.<<-.<<<<<............
+TBSG_01272         GCCAGC-------------A--AAUUCG-CCG-CCGCCCAC---------
+#=GR TBSG_01272 SS ...........................<.<<<.<<<--............
+TBSG_03010         GACCGG--------------------CG-CACGA----GUC---------
+#=GR TBSG_03010 SS ...........................<.<<-<<................
+TBSG_00445         CCAACC-------------A--GAGGAG-CCCGG-CCCCACAA-------
+#=GR TBSG_00445 SS ...........................<.<<<<<.<<<............
+TBSG_00582         CCCUGC-GCGAGCAGACGCA--GAAUCG-CAUCAAAAUCGCU--------
+#=GR TBSG_00582 SS ...........................<.<<<.<<<<<............
+TBSG_01901         AACUG--GCGAGCAGACGCA--AAAUCC-CCCGACACGCCGG--------
+#=GR TBSG_01901 SS ...........................<.<<<<.<<<<............
+TBSG_00946         CCCUGC-GCGAGCAGUCGCA--AAAGAC-CCCGACACGCCGAG-------
+#=GR TBSG_00946 SS ...........................<.<<<..<<<<............
+TBSG_02766         GACCGC-GUGAGCAGACGCA--AAAGAA-CCCGA-UUCUGGU--------
+#=GR TBSG_02766 SS ...........................<.<<<<<.<<<............
+TBSG_03203         ACAAGC-------------A------CC-CCUAUCUUACUCCGGA-----
+#=GR TBSG_03203 SS ...........................<.<<<<<<<<<............
+TBSG_01068         AUGAGC-GCCAGCAGACGCA--AAAGAA-CAUGAUGGGCGCACCAGC---
+#=GR TBSG_01068 SS ...........................<.<..<.<<<<............
+TBSG_03773         CGCACC------------------AGCC-CCUUUUCUUGACUCGUU----
+#=GR TBSG_03773 SS ...........................<.<<<<<<<<<............
+TBSG_02757         UGGCG--GCGAGCGGACACA--UAAGCC-CCC-G-CCACGCCG-------
+#=GR TBSG_02757 SS ...........................-.<<-.<.<<-............
+TBSG_01069         AGCACC-GCGAGCAGACGUG--G----G-CGC-UGGUGCGC---------
+#=GR TBSG_01069 SS ...........................<.-<<.<<<<<............
+TBSG_02175         UCCCCC-GCGAACAGACACA--GAAUCG-CA--CGCGGCAGGC-------
+#=GR TBSG_02175 SS ...........................<.<<..<<-<<............
+TBSG_01403         GUCACC-------------G--AAAUCA-CUUGC-GCCACCG--------
+#=GR TBSG_01403 SS ...........................-.<<<<<.<<<............
+TBSG_01713         ACCUCC-GCGAGCAGUCGCU--AAAGCC-CCCGACACGCCGU--------
+#=GR TBSG_01713 SS ...........................<.<<<<.<<<<............
+TBSG_01118         UGUAGC-GCGAGUAGGCGCA--AAAGAA-CAUGAUGGGCACCAGC-----
+#=GR TBSG_01118 SS ...........................<.<<<<<<<<<............
+TBSG_02667         CCCAGC-GCGAGCAGACGCA--GAAUCG-CCUAAACCCGUG---------
+#=GR TBSG_02667 SS ...........................<.<<<<<<<<<............
+TBSG_03149         GGUUGC-GCGAGCAGACGUA--AAAGCC-CCCGACACGCCGA--------
+#=GR TBSG_03149 SS ...........................<.<<<<.<<<<............
+TBSG_01743         CUGACC-GCGAGCAGACGCA--GAAUCG-CACG-CGCGAGGU--------
+#=GR TBSG_01743 SS ...........................<.<<<<.<<<<............
+TBSG_03056         UAUAGG-GCGAGCAGACGCA--UAAGCC-CCCGACACGCCGA--------
+#=GR TBSG_03056 SS ...........................<.<<<<.<<<<............
+TBSG_03645         ---CGC-------------A--GAAUCG-CAUGAUUUGAGC---------
+#=GR TBSG_03645 SS ...........................<.<<<<<<<<<............
+TBSG_01237         GCCCGC--CGAGCAGACGCA--AAAUCG-CC-CAUUUCGUGC--------
+#=GR TBSG_01237 SS ...........................<.<<.<<<<<<............
+TBSG_03319         CCACCC-GCGAGCAGACGCA--AAAUCG-CCCAUUUUCAUGA--------
+#=GR TBSG_03319 SS ...........................<.<<<.<<<<<............
+TBSG_03644         AAGGGC-GCGAGCAGACGCA--GAAUCG-CAUGAUUUGAGC---------
+#=GR TBSG_03644 SS ...........................<.<<<<<<<<<............
+TBSG_00657         GCCCG--GCGAGCAGACGCA--UAAGCC-CCCGACACGCCGU--------
+#=GR TBSG_00657 SS ...........................<.<<<<.<<<<............
+TBSG_03281         UGUAGC-GCGAGCAGACGCA--AAAUCG-CCCGAAAGCCAU---------
+#=GR TBSG_03281 SS ...........................<.<<<<<<<-<............
+TBSG_02379         GGUUCC-GCGAGCAGACGCA--AAAUCG-CCCAUUUCGGGU---------
+#=GR TBSG_02379 SS ...........................<.<<<<<<<<<............
+TBSG_03557         CGCUC--GCGAGCAGACGCA--GAAUCG-CCC-AUUUCGGCA--------
+#=GR TBSG_03557 SS ...........................<.<<<.<<<<<............
+TBSG_03105         CACCCC-GCGAGCAGACACA--GAGUCG-CACAAAAUCG--G--------
+#=GR TBSG_03105 SS ...........................<.<<<<<<<<<............
+TBSG_01187         GUUGGC--CGAGCAGACGCA--AAAGCC-CCCAUUUCGGGC---------
+#=GR TBSG_01187 SS ...........................<.<<<<<<<<<............
+TBSG_03410         GCGGGC-GCGAGCAGACGCA--AAAUCG-CCC-AUUUCGGCA--------
+#=GR TBSG_03410 SS ...........................<.<<<.<<<<<............
+TBSG_03057         UCUAGG-GCGAGCAGACGCA--UAAGCC-CCCG-CACGCUCG--------
+#=GR TBSG_03057 SS ...........................<.<<<<.<<<<............
+TBSG_01933         GUACG--GCGAGCAGACGCA--GAAUCG-CAU-GCGCGGGACC-------
+#=GR TBSG_01933 SS ...........................<.<<<.<<<<<............
+TBSG_00985         GCCCG--GCGAGCAGACGCA--AAAUCG-CCC-AUUUCGAGA--------
+#=GR TBSG_00985 SS ...........................<.<<<.<<<<<............
+TBSG_01581         GCUUGC--CGAGCAGACGCA--AAAUCG-CCC-AUUUCGGCC--------
+#=GR TBSG_01581 SS ...........................<.<<<.<-<<<............
+TBSG_03391         GCUUGC-GCGAGCAGACGCA--AAAUCG-CCCGAAAACCAGU--------
+#=GR TBSG_03391 SS ...........................<.<<<.<<<<<............
+TBSG_00702         UACCG--GCCACCAGACGCA--AAAGAA-CAUGAUGGGCGCACCAGC---
+#=GR TBSG_00702 SS ...........................<.<<<<<<<<<............
+TBSG_02600         UAGCGC--CGAGCAGACGCA--GAAUCG-CACGCGGAAGCC---------
+#=GR TBSG_02600 SS ...........................<.<<<<<<<<<............
+TBSG_00237         GCCUG--GCGAGCAGACGCA--AAAUCG-CCCAAUUUCGUGC--------
+#=GR TBSG_00237 SS ...........................<.<<<<.-<<<............
+TBSG_03150         CUGAGC-GCGAGCAGACGUA--AAAGCC-CCCG-CACGCUCG--------
+#=GR TBSG_03150 SS ...........................<.<<<<.<<<<............
+TBSG_02601         GAGGGC-GCGAGCAGACGCA--GAAUCG-CACGCGGAAAGG---------
+#=GR TBSG_02601 SS ...........................<.<<<<<<<<<............
+TBSG_00383         GGCCG--GCGAGCAGACGCA--AAAUCG-CACGGUUUGCGG---------
+#=GR TBSG_00383 SS ...........................<.<<<<<-<<<............
+TBSG_02905         CCUCCC-GCGAGCAGACACA--GAAUCG-CACUGCGCCGGCC--------
+#=GR TBSG_02905 SS ...........................<.<<<.<<<<<............
+TBSG_00769         ---CGC-GCGAGCAGACGCA--UAAGCG-CCC-AUUUCGACA--------
+#=GR TBSG_00769 SS ...........................<.<<<.<<<<<............
+TBSG_00676         CCCCGG-GCGAGCAGUCGCA--UAAGCC-CCCGACACGCCGA--------
+#=GR TBSG_00676 SS ...........................<.<<<<.<<<<............
+TBSG_03280         GUUGGC-GCGAGCAGACGCA--AAAUCG-CCCGAAACCGAU---------
+#=GR TBSG_03280 SS ...........................<.<<<<<<<-<............
+TBSG_03392         GGCUGC-GCGAGCAGACGCA--AAAUCG-CCC-AAAACCACU--------
+#=GR TBSG_03392 SS ...........................<.<<<.<<<<<............
+TBSG_00684         AGGUGG-GCGAGCAGACGCA--GAAUCG-CACGC----------------
+#=GR TBSG_00684 SS ...........................<.<<-<<................
+TBSG_00581         CAUGGC-GCGAGCAGACGCA--GAAUCG-CACAAAAUCA--G--------
+#=GR TBSG_00581 SS ...........................<.<<<<<<<<<............
+TBSG_01220         CCCCGC--CAAGCAGACGCA--GAAUCG-CAUUAAUCGCGC---------
+#=GR TBSG_01220 SS ...........................<.<<<-<<<<<............
+TBSG_00201         GACCCC-GCGAGCAGACGCA--GAAUCG-CCCAUUUGGGCU---------
+#=GR TBSG_00201 SS ...........................<.<<<<<<<<<............
+TBSG_03111         AGACGC-------------A--AAAGCC-CCUAAUACCUGC---------
+#=GR TBSG_03111 SS ...........................<.<<<<.-<<<............
+TBSG_01741         UUGAGC-GCGAGCAGACGCA--GAGUCG-CACUGCGCCGGC---------
+#=GR TBSG_01741 SS ...........................<.<<<<<<<<<............
+TBSG_00238         CCCUG--GCGAGCAGACGCA--AAAUCG-CCCAA-UUCGGCA--------
+#=GR TBSG_00238 SS ...........................<.<<<<<.<<<............
+TBSG_00741         UUUCGG-GCGAGCAGACGCA--AAAUGC-CCCCGAAAUGCC---------
+#=GR TBSG_00741 SS ...........................<.<<<-<<<<<............
+TBSG_00656         CCCCG--GCGAGCAGACGCA--UAAGCC-CCCG-CACGCACG--------
+#=GR TBSG_00656 SS ...........................<.<<<<.<<<<............
+TBSG_03411         AUUAGG-GCGAGCAGACGCA--AAAUCG-CCCAAUUUCGUGC--------
+#=GR TBSG_03411 SS ...........................<.<<<<.<<<<............
+TBSG_03112         GGCCG--GCGAGCAGACGCA--AAAGCCCCCUAA-ACCGGC---------
+#=GR TBSG_03112 SS ...........................<.<<<<<.<<<............
+TBSG_01582         CGAUGC--CGAGCAGACGCA--AAAUCG-CCCAAAUUCGGGC--------
+#=GR TBSG_01582 SS ...........................<.<<<<.-<<<............
+TBSG_00912         GGUUGC-GCGAGCAGACGCA--GAAUCG-CCUCAAAAUCUUG--------
+#=GR TBSG_00912 SS ...........................<.<<<.<<<<<............
+TBSG_01742         CGCUG--GUGAGCAGACGCA--GAGUCG-CACUGCGCCGGC---------
+#=GR TBSG_01742 SS ...........................<.<<<<<<<<<............
+TBSG_02994         GGCCGC--CGAGCAGACGCA--AAAUCC-CCUCGACACGCC---------
+#=GR TBSG_02994 SS ...........................<.<<<<<--<<............
+TBSG_02924         ACUACC-GCGAGCAGACGCG--AAAGCA-CCCCAAAACCGCC--------
+#=GR TBSG_02924 SS ...........................-.<<<<.<<<<............
+TBSG_02380         CUGAGG-GCGAGCAGACGCA--AAAUCG-CCCAUUUCGUAC---------
+#=GR TBSG_02380 SS ...........................<.<<<<<<<<<............
+TBSG_02668         GGCUG--GCGAGCAGACGCA--GAAUCG-CCUAAACCCGCA---------
+#=GR TBSG_02668 SS ...........................<.<<<<<<<<<............
+TBSG_02783         AGCGGC-GCGAGCAGACACA--GAAUCG-CCC-AUUUCGGCA--------
+#=GR TBSG_02783 SS ...........................<.<<<.<<<<<............
+TBSG_03864         CAGUGC-GCGAGCAGACGCA--AAAGCA-CCCCAAAUCGGG---------
+#=GR TBSG_03864 SS ...........................-.<<<-<<<<<............
+TBSG_01238         GCCCG--GCGAGCAGACGCA--AAAUCG-CCUCAUUUCGGCA--------
+#=GR TBSG_01238 SS ...........................<.<<<.<<<<<............
+#=GC SS_cons       ::::::.:::::::::::::..:::::<.<<<<<<<<<____........
+#=GC RF            auucGC.GCGAGCAGACGCA..AAAUCg.CacAAUAUcggca........
+
+TBSG_01712         -GCGUGUCG-GGG
+#=GR TBSG_01712 SS ..>>>>.>>.>>>
+TBSG_03633         -GCGUGUUG-GGC
+#=GR TBSG_03633 SS ..>>->->>.>>>
+TBSG_03255         -GGAAAUCG-GGG
+#=GR TBSG_03255 SS ..>>>>>>>.>->
+TBSG_01401         GCGAUU-CU--GC
+#=GR TBSG_01401 SS ..>>>>.>-..>>
+TBSG_01532         -CGGAUUUG-GGA
+#=GR TBSG_01532 SS ..>>>>>>>.>>>
+TBSG_02347         -C--GGC-G-UGC
+#=GR TBSG_02347 SS ....>>>.>.>>>
+TBSG_00728         -GCGUG-CG-GGG
+#=GR TBSG_00728 SS ..>>>>.>>.>>>
+TBSG_02776         -CGUUCCAG-GGC
+#=GR TBSG_02776 SS ..>>>>.>>.>>>
+TBSG_02923         -CGGUUUUG-GGG
+#=GR TBSG_02923 SS ..>>>>>.>.>>>
+TBSG_03460         -CGAAU-UG-GGC
+#=GR TBSG_03460 SS ..>>>-.>>.>>>
+TBSG_02946         -CGAAA-UG-GGG
+#=GR TBSG_02946 SS ..>>>>.>>.>>-
+TBSG_02993         -G--UGUCG-AGG
+#=GR TBSG_02993 SS ....>>.>>.>>>
+TBSG_03712         -CCGUUUUG-GGG
+#=GR TBSG_03712 SS ..>>>>>>>.>>>
+TBSG_00474         -GCAAAAGU-GGC
+#=GR TBSG_00474 SS ..>>>>>.-.>>-
+TBSG_02094         -GCUCGCGG-GGU
+#=GR TBSG_02094 SS ..>>>>>>>.>>>
+TBSG_03490         -GCGUG-CG-GGG
+#=GR TBSG_03490 SS ..>>>>.>>.>>>
+TBSG_00384         -CAAAC-CG-UGC
+#=GR TBSG_00384 SS ..-->-.>>.>>>
+TBSG_00388         -CCGCGCAG-UGC
+#=GR TBSG_00388 SS ..>>>>>.>.>>>
+TBSG_01719         -GAGUGUCG-GGG
+#=GR TBSG_01719 SS ..->>>.>>.>>>
+TBSG_01074         -ACGUG-CG-GUG
+#=GR TBSG_01074 SS ..>>>>.>>.>->
+TBSG_00768         -CGAAA-UG-GGC
+#=GR TBSG_00768 SS ..>>>>.>>.>>>
+TBSG_03461         -CGAAAUUG-GGC
+#=GR TBSG_03461 SS ..>>>.>>>.>>>
+TBSG_00200         -CCCAAAUG-GGC
+#=GR TBSG_00200 SS ..>>>>>>>.>>>
+TBSG_03861         -ACGAAAUG-GGG
+#=GR TBSG_03861 SS ..>>>>->>.>>>
+TBSG_03205         -GAAAU-CG-GGG
+#=GR TBSG_03205 SS ..>>>>.>>.>>>
+TBSG_01790         -CCGC-CGA-UGC
+#=GR TBSG_01790 SS ..>>>.>>-.>>>
+TBSG_00965         -UCGCC-CG-UGC
+#=GR TBSG_00965 SS ..>>>>.->.>>>
+TBSG_03489         -GCGUGUCG-GGG
+#=GR TBSG_03489 SS ..>>>>.>>.>>>
+TBSG_00755         -CGAAA-UG-GGC
+#=GR TBSG_00755 SS ..>>->.>>.>>>
+TBSG_02664         -CGAUUUAGUGGG
+#=GR TBSG_02664 SS ..>>>>>.>.>>>
+TBSG_01791         -CCACACGG-UGC
+#=GR TBSG_01791 SS ..>->.>>>.>>>
+TBSG_02663         -AGAUUUAG--GA
+#=GR TBSG_02663 SS ..>>>>>>>..>-
+TBSG_01460         -GAUUUUCA-UGC
+#=GR TBSG_01460 SS ..>>>>>->.>>>
+TBSG_01400         -GAUUUC-G-UGC
+#=GR TBSG_01400 SS ......>.>.>>>
+TBSG_02767         -AGAAU-CG-GGU
+#=GR TBSG_02767 SS ..>>>-.->.>>>
+TBSG_00215         -GCGUG-CG-GGG
+#=GR TBSG_00215 SS ..>>>>.>>.>>>
+TBSG_01804         -CGAUUUUG-GGC
+#=GR TBSG_01804 SS ..>->>>>>.>>-
+TBSG_00444         -UGGGGCCG-GGC
+#=GR TBSG_00444 SS ..>>>>>>>.>>>
+TBSG_03774         -AGGCACCG-GGC
+#=GR TBSG_03774 SS ..>>>>>>>.>>>
+TBSG_00214         -GCGUGUCG-AGG
+#=GR TBSG_00214 SS ..>>>>.>>.->>
+TBSG_01377         -CGAAAUUU-GGA
+#=GR TBSG_01377 SS ..>>>>>.-.>>-
+TBSG_01272         -GAACGGUC-GGC
+#=GR TBSG_01272 SS ..-->>>.>.>>>
+TBSG_03010         -GAAGAUCU-UGC
+#=GR TBSG_03010 SS ......>>-.>>>
+TBSG_00445         -AGGGACCG-GGC
+#=GR TBSG_00445 SS ..>>>.>>>.>>>
+TBSG_00582         -GAUUUU-G-UGC
+#=GR TBSG_00582 SS ..>>>>>.>.>>>
+TBSG_01901         -GCGUG-CG-GGG
+#=GR TBSG_01901 SS ..>>>>.>>.>>>
+TBSG_00946         -GCGUG--G-GGG
+#=GR TBSG_00946 SS ..>>>>..>.>>>
+TBSG_02766         -CGAAAUUG-GGU
+#=GR TBSG_02766 SS ..>>>.>>>.>>>
+TBSG_03203         -GUAAGAUA-GGG
+#=GR TBSG_03203 SS ..>>>>>>>.>>>
+TBSG_01068         -GCCCA-C---GU
+#=GR TBSG_01068 SS ..>>>>.>...>>
+TBSG_03773         -CAAGAAAA-GGG
+#=GR TBSG_03773 SS ..>>>>>>>.>>>
+TBSG_02757         -AAGGAUUU-GGA
+#=GR TBSG_02757 SS ..->>.>.-.>>-
+TBSG_01069         -CCAUCAUG-UUC
+#=GR TBSG_01069 SS ..>>>>>.>.>->
+TBSG_02175         -UCCUCGGA-UGC
+#=GR TBSG_02175 SS ..>>->>...>>>
+TBSG_01403         -UGGCCGCA-GGG
+#=GR TBSG_01403 SS ..>>>.>>>.>>-
+TBSG_01713         -GCGUG-CG-GGG
+#=GR TBSG_01713 SS ..>>>>.>>.>>>
+TBSG_01118         -GCCCAUCA-UGU
+#=GR TBSG_01118 SS ..>>>>>>>.>>>
+TBSG_02667         -CGGGUUUA-GGC
+#=GR TBSG_02667 SS ..>>>>>>>.>>>
+TBSG_03149         -GCGUG-CG-GGG
+#=GR TBSG_03149 SS ..>>>>.>>.>>>
+TBSG_01743         -CCGCGCCG-UGC
+#=GR TBSG_01743 SS ..>>>>.>>.>>>
+TBSG_03056         -GCGUG-CG-GGG
+#=GR TBSG_03056 SS ..>>>>.>>.>>>
+TBSG_03645         -UCAAAUCA-UGC
+#=GR TBSG_03645 SS ..>>>>>>>.>>>
+TBSG_01237         -CGAAAUGA-GGC
+#=GR TBSG_01237 SS ..>>>>>>..>>>
+TBSG_03319         -CGAAAA-G-GGC
+#=GR TBSG_03319 SS ..>>>>>.>.>>>
+TBSG_03644         -UCAAAUCA-UGC
+#=GR TBSG_03644 SS ..>>>>>>>.>>>
+TBSG_00657         -GCGUG-CG-GGG
+#=GR TBSG_00657 SS ..>>>>.>>.>>>
+TBSG_03281         -CGGUUUCG-GGC
+#=GR TBSG_03281 SS ..>->>>>>.>>>
+TBSG_02379         -ACGAAAUG-GGC
+#=GR TBSG_02379 SS ..>>>>>>>.>>>
+TBSG_03557         -CGAAAUUG-GGC
+#=GR TBSG_03557 SS ..>>>>>.>.>>>
+TBSG_03105         -CGGUUUUGAUGC
+#=GR TBSG_03105 SS ..>>>>>>>.>>>
+TBSG_01187         -CCGAAAUG-GGG
+#=GR TBSG_01187 SS ..>>>>>>>.>>>
+TBSG_03410         -CGAAAUUG-GGC
+#=GR TBSG_03410 SS ..>>>>>.>.>>>
+TBSG_03057         -GCGUGUCG-GGG
+#=GR TBSG_03057 SS ..>>>>.>>.>>>
+TBSG_01933         -CCGCGCAG-UGC
+#=GR TBSG_01933 SS ..>>>>>.>.>>>
+TBSG_00985         -CGAAAUUG-GGC
+#=GR TBSG_00985 SS ..>>>>>.>.>>>
+TBSG_01581         -CGAAUUUG-GGC
+#=GR TBSG_01581 SS ..>>>->.>.>>>
+TBSG_03391         -GGUUUU-G-GGC
+#=GR TBSG_03391 SS ..>>>>>.>.>>>
+TBSG_00702         -GCCCAUCA-UGU
+#=GR TBSG_00702 SS ..>>>>>>>.>>>
+TBSG_02600         -UUUCCGCG-UGC
+#=GR TBSG_02600 SS ..>>>>>>>.>>>
+TBSG_00237         -CGAAU-UG-GGC
+#=GR TBSG_00237 SS ..>>>-.>>.>>>
+TBSG_03150         -GCGUGUCG-GGG
+#=GR TBSG_03150 SS ..>>>>.>>.>>>
+TBSG_02601         -CUUCCGCG-UGC
+#=GR TBSG_02601 SS ..>>>>>>>.>>>
+TBSG_00383         -UUGAUUCG-UGC
+#=GR TBSG_00383 SS ..>>>->>>.>>>
+TBSG_02905         -CGGCGC-G-UGC
+#=GR TBSG_02905 SS ..>>>>>.>.>>>
+TBSG_00769         -CGAAAUUG-GGC
+#=GR TBSG_00769 SS ..>>>>>.>.>>>
+TBSG_00676         -GCGUG-CG-GGG
+#=GR TBSG_00676 SS ..>>>>.>>.>>>
+TBSG_03280         -GGCUUUCG-GGC
+#=GR TBSG_03280 SS ..>->>>>>.>>>
+TBSG_03392         -GGUUUUCG-GGC
+#=GR TBSG_03392 SS ..>>>>>.>.>>>
+TBSG_00684         -GAAAUGCC-UGC
+#=GR TBSG_00684 SS ......>>-.>>>
+TBSG_00581         -CGAUUUUGAUGC
+#=GR TBSG_00581 SS ..>>>>>>>.>>>
+TBSG_01220         -CCGGUUUG-UGC
+#=GR TBSG_01220 SS ..>>>>>->.>>>
+TBSG_00201         -ACCAAAUG-GGC
+#=GR TBSG_00201 SS ..>>>>>>>.>>>
+TBSG_03111         -CGGUU-UA-GGG
+#=GR TBSG_03111 SS ..>>>-.>>.>>>
+TBSG_01741         -CGGCGCAG-UGC
+#=GR TBSG_01741 SS ..>>>>>>>.>>>
+TBSG_00238         -CGAAAUUG-GGC
+#=GR TBSG_00238 SS ..>>>.>>>.>>>
+TBSG_00741         -CAUUUUCG-GGG
+#=GR TBSG_00741 SS ..>>>>>->.>>>
+TBSG_00656         -GCGUGUCG-GGG
+#=GR TBSG_00656 SS ..>>>>.>>.>>>
+TBSG_03411         -CGAAA-UG-GGC
+#=GR TBSG_03411 SS ..>>>>.>>.>>>
+TBSG_03112         -AGGUAUUA-GGG
+#=GR TBSG_03112 SS ..>>>.>>>.>>>
+TBSG_01582         -CGAAA-UG-GGC
+#=GR TBSG_01582 SS ..>>>-.>>.>>>
+TBSG_00912         -GAUUUU-G-GGC
+#=GR TBSG_00912 SS ..>>>>>.>.>>>
+TBSG_01742         -CGGCGCAG-UGC
+#=GR TBSG_01742 SS ..>>>>>>>.>>>
+TBSG_02994         -GGUUGCGA-GGG
+#=GR TBSG_02994 SS ..>>-->>>.>>>
+TBSG_02924         -GGUUU-GG-GGG
+#=GR TBSG_02924 SS ..>>>>.>>.>>-
+TBSG_02380         -CCGAAAUG-GGC
+#=GR TBSG_02380 SS ..>>>>>>>.>>>
+TBSG_02668         -CGGGUUUA-GGC
+#=GR TBSG_02668 SS ..>>>>>>>.>>>
+TBSG_02783         -CGAAAUUG-GGC
+#=GR TBSG_02783 SS ..>>>>>.>.>>>
+TBSG_03864         -CGAUUUUG-GGG
+#=GR TBSG_03864 SS ..>>>>>->.>>-
+TBSG_01238         -CGAAAU-G-GGC
+#=GR TBSG_01238 SS ..>>>>>.>.>>>
+#=GC SS_cons       ._>>>>>>>.>>>
+#=GC RF            .cgAUAUUg.uGc
+//

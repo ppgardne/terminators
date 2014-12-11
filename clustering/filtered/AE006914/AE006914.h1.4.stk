@@ -1,0 +1,642 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU CMfinder 0.2.1
+
+#=GS RC0623 WT 0.35
+#=GS RC0285 WT 0.43
+#=GS RC0960 WT 1.01
+#=GS RC1266 WT 1.63
+#=GS RC0140 WT 0.56
+#=GS RC0843 WT 1.01
+#=GS RC0604 WT 0.70
+#=GS RC0404 WT 0.41
+#=GS RC0405 WT 0.44
+#=GS RC0169 WT 1.04
+#=GS RC1231 WT 0.95
+#=GS RC0909 WT 0.66
+#=GS RC0596 WT 0.43
+#=GS RC1112 WT 1.69
+#=GS RC0935 WT 1.05
+#=GS RC0164 WT 1.05
+#=GS RC1096 WT 1.05
+#=GS RC0202 WT 0.61
+#=GS RC0181 WT 0.94
+#=GS RC0141 WT 1.09
+#=GS RC0483 WT 0.93
+#=GS RC0032 WT 0.72
+#=GS RC1138 WT 1.13
+#=GS RC0560 WT 1.07
+#=GS RC1046 WT 1.51
+#=GS RC0210 WT 1.05
+#=GS RC1113 WT 1.07
+#=GS RC0447 WT 1.00
+#=GS RC0512 WT 0.56
+#=GS RC1049 WT 0.54
+#=GS RC0731 WT 0.43
+#=GS RC0621 WT 0.62
+#=GS RC0813 WT 0.86
+#=GS RC1235 WT 0.64
+#=GS RC0128 WT 0.89
+#=GS RC1196 WT 1.10
+#=GS RC1073 WT 0.78
+#=GS RC0536 WT 1.62
+#=GS RC1287 WT 1.22
+#=GS RC0811 WT 1.74
+#=GS RC0354 WT 1.05
+#=GS RC0885 WT 0.87
+#=GS RC1288 WT 1.09
+#=GS RC1147 WT 0.91
+#=GS RC0449 WT 1.19
+#=GS RC1282 WT 1.33
+#=GS RC0864 WT 0.73
+#=GS RC0335 WT 0.74
+#=GS RC1326 WT 0.79
+#=GS RC0588 WT 1.09
+#=GS RC1329 WT 1.61
+#=GS RC0506 WT 1.38
+#=GS RC0780 WT 0.64
+#=GS RC0557 WT 0.41
+#=GS RC1221 WT 1.51
+#=GS RC0908 WT 0.35
+#=GS RC0667 WT 1.05
+#=GS RC0094 WT 2.16
+#=GS RC0764 WT 1.12
+#=GS RC0455 WT 0.56
+#=GS RC1267 WT 0.85
+#=GS RC0332 WT 0.41
+#=GS RC0093 WT 1.14
+#=GS RC0170 WT 0.71
+#=GS RC0111 WT 1.20
+#=GS RC0448 WT 0.49
+#=GS RC1168 WT 1.02
+#=GS RC1212 WT 0.73
+#=GS RC0748 WT 0.65
+#=GS RC0962 WT 1.56
+#=GS RC0765 WT 1.56
+#=GS RC1347 WT 0.68
+#=GS RC0019 WT 1.05
+#=GS RC0112 WT 0.93
+#=GS RC1324 WT 1.44
+#=GS RC0353 WT 1.69
+#=GS RC0158 WT 1.05
+#=GS RC0342 WT 0.92
+#=GS RC0817 WT 0.72
+#=GS RC0879 WT 0.41
+#=GS RC0912 WT 0.76
+#=GS RC0331 WT 0.41
+#=GS RC0411 WT 1.38
+#=GS RC0226 WT 0.91
+#=GS RC0836 WT 0.72
+#=GS RC1269 WT 0.94
+#=GS RC1068 WT 0.35
+#=GS RC1217 WT 1.21
+#=GS RC0617 WT 0.70
+#=GS RC1023 WT 0.35
+#=GS RC0243 WT 0.61
+#=GS RC0029 WT 1.74
+#=GS RC0410 WT 1.36
+#=GS RC0137 WT 1.20
+#=GS RC0493 WT 1.02
+#=GS RC0390 WT 1.56
+#=GS RC0366 WT 2.39
+#=GS RC0884 WT 0.89
+#=GS RC0218 WT 1.61
+#=GS RC0168 WT 1.36
+#=GS RC1124 WT 2.99
+#=GS RC0974 WT 1.85
+#=GS RC0762 WT 1.06
+#=GS RC0286 WT 0.44
+#=GS RC0295 WT 0.85
+
+#=GS RC0623 DE 33.. 64	41.309113
+#=GS RC0285 DE 35.. 72	45.630207
+#=GS RC0960 DE 18.. 58	36.822060
+#=GS RC1266 DE 3.. 39	18.116928
+#=GS RC0140 DE 23.. 61	43.591331
+#=GS RC0843 DE 1.. 38	26.690536
+#=GS RC0604 DE 34.. 71	44.716148
+#=GS RC0404 DE 22.. 59	53.011303
+#=GS RC0405 DE 21.. 58	46.632744
+#=GS RC0169 DE 21.. 60	38.173515
+#=GS RC1231 DE 44.. 75	28.352570
+#=GS RC0909 DE 21.. 57	39.881271
+#=GS RC0596 DE 68.. 99	40.886429
+#=GS RC1112 DE 19.. 51	10.727266
+#=GS RC0935 DE 25.. 59	28.984646
+#=GS RC0164 DE 25.. 62	34.024521
+#=GS RC1096 DE 60.. 99	24.764317
+#=GS RC0202 DE 28.. 61	32.605694
+#=GS RC0181 DE 71.. 98	24.016817
+#=GS RC0141 DE 26.. 57	26.002373
+#=GS RC0483 DE 23.. 62	32.739159
+#=GS RC0032 DE 29.. 65	45.975391
+#=GS RC1138 DE 27.. 67	17.136295
+#=GS RC0560 DE 57.. 87	9.182201
+#=GS RC1046 DE 19.. 53	20.534866
+#=GS RC0210 DE 8.. 40	5.646658
+#=GS RC1113 DE 26.. 56	13.404158
+#=GS RC0447 DE 31.. 67	35.894493
+#=GS RC0512 DE 50.. 86	49.852585
+#=GS RC1049 DE 65..100	45.035408
+#=GS RC0731 DE 45.. 76	36.498268
+#=GS RC0621 DE 40.. 76	45.964935
+#=GS RC0813 DE 45.. 76	31.524982
+#=GS RC1235 DE 23.. 60	41.037716
+#=GS RC0128 DE 24.. 63	36.843803
+#=GS RC1196 DE 60.. 84	9.310978
+#=GS RC1073 DE 24.. 60	45.907829
+#=GS RC0536 DE 23.. 65	16.524914
+#=GS RC1287 DE 26.. 80	19.748604
+#=GS RC0811 DE 2.. 44	16.608917
+#=GS RC0354 DE 5.. 37	2.218154
+#=GS RC0885 DE 70.. 98	30.345314
+#=GS RC1288 DE 40.. 79	34.816238
+#=GS RC1147 DE 1.. 43	13.879517
+#=GS RC0449 DE 26.. 66	32.735126
+#=GS RC1282 DE 56.. 95	28.175739
+#=GS RC0864 DE 56.. 86	41.061852
+#=GS RC0335 DE 53.. 90	39.564171
+#=GS RC1326 DE 24.. 61	47.286633
+#=GS RC0588 DE 28.. 61	15.717827
+#=GS RC1329 DE 29.. 63	22.210875
+#=GS RC0506 DE 25.. 72	25.633104
+#=GS RC0780 DE 57.. 87	43.213295
+#=GS RC0557 DE 65..100	43.149811
+#=GS RC1221 DE 30.. 69	33.293175
+#=GS RC0908 DE 34.. 64	36.012054
+#=GS RC0667 DE 54.. 91	30.019783
+#=GS RC0094 DE 29.. 49	2.205130
+#=GS RC0764 DE 18.. 70	4.222699
+#=GS RC0455 DE 65.. 96	47.534279
+#=GS RC1267 DE 67..100	26.161261
+#=GS RC0332 DE 47.. 83	51.696457
+#=GS RC0093 DE 57.. 88	30.962196
+#=GS RC0170 DE 29.. 65	37.704773
+#=GS RC0111 DE 65.. 94	0.522155
+#=GS RC0448 DE 24.. 60	49.974529
+#=GS RC1168 DE 68.. 99	19.470455
+#=GS RC1212 DE 38.. 74	41.516960
+#=GS RC0748 DE 69.. 99	38.977448
+#=GS RC0962 DE 17.. 60	21.154613
+#=GS RC0765 DE 26.. 74	21.321516
+#=GS RC1347 DE 17.. 54	40.918442
+#=GS RC0019 DE 68..100	24.179409
+#=GS RC0112 DE 45.. 78	33.236351
+#=GS RC1324 DE 21.. 76	14.795310
+#=GS RC0353 DE 20.. 68	18.001747
+#=GS RC0158 DE 62.. 99	40.533524
+#=GS RC0342 DE 36.. 72	38.742630
+#=GS RC0817 DE 37.. 73	43.943794
+#=GS RC0879 DE 52.. 88	53.443596
+#=GS RC0912 DE 50.. 86	54.429527
+#=GS RC0331 DE 40.. 70	46.210236
+#=GS RC0411 DE 29.. 76	19.721169
+#=GS RC0226 DE 22.. 69	24.551863
+#=GS RC0836 DE 27.. 63	43.786858
+#=GS RC1269 DE 24.. 51	19.061304
+#=GS RC1068 DE 34.. 70	54.089165
+#=GS RC1217 DE 27.. 65	23.656395
+#=GS RC0617 DE 53.. 80	35.230888
+#=GS RC1023 DE 31.. 67	51.286263
+#=GS RC0243 DE 50.. 89	41.835892
+#=GS RC0029 DE 23.. 71	15.208456
+#=GS RC0410 DE 20.. 58	21.872330
+#=GS RC0137 DE 38.. 91	22.693441
+#=GS RC0493 DE 48.. 81	21.328060
+#=GS RC0390 DE 20.. 75	12.948357
+#=GS RC0366 DE 22.. 46	1.383875
+#=GS RC0884 DE 26.. 60	31.951073
+#=GS RC0218 DE 72.. 89	1.247194
+#=GS RC0168 DE 27.. 78	29.874140
+#=GS RC1124 DE 41.. 87	0.911200
+#=GS RC0974 DE 63.. 99	17.665934
+#=GS RC0762 DE 35.. 67	18.357700
+#=GS RC0286 DE 38.. 75	50.467350
+#=GS RC0295 DE 23.. 60	38.980549
+
+RC0623         UUAAU-GUCAUUCC-CGCA------------------------AAAGCGG
+#=GR RC0623 SS .........<<<<<.<<<............................>>>>
+RC0285         UUUAU-GUCAUUCC-UGCU------------------------UUCGCAG
+#=GR RC0285 SS .........<<<<<.<<<............................>>>>
+RC0960         UAGCU-GUCAUCCC-GUGGCGU---------------------GACCAUG
+#=GR RC0960 SS .........<<<<<.<<<............................>>>>
+RC1266         ----U-GUCAUUCC-GCGACUU---------------------GAUCGCG
+#=GR RC1266 SS .........<<<<<.<<<............................>>>>
+RC0140         UUUAU-GUCAUUCC-CGCCU-----------------------UACGCGG
+#=GR RC0140 SS .........<<<<<.<<<............................>>>>
+RC0843         --GAU-GUCAUCCC-UUGGCUU---------------------GACCACG
+#=GR RC0843 SS .........<<<<<.-<<............................>>->
+RC0604         UGAAU-GUCAUUUC-CGCG------------------------GAAGCGG
+#=GR RC0604 SS .........<<<<<.<<<............................>>>>
+RC0404         UUUAU-GUCAUUCC-CGCG------------------------AAAGCGG
+#=GR RC0404 SS .........<<<<<.<<<............................>>>>
+RC0405         UAUAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0405 SS .........<<<<<.<<<............................>>>>
+RC0169         AAAGU-GUCAUACC-GCGGCUU---------------------GACCGCG
+#=GR RC0169 SS .........<<<<<.<<<............................>>>>
+RC1231         CGUAU-GUCAUUCC-UGCA------------------------AAAGCUG
+#=GR RC1231 SS .........<-<<<.-<<............................>>->
+RC0909         UAAAU-GUCAUUCC-CGCU------------------------UU-GCGG
+#=GR RC0909 SS .........<<<<<.<<<............................>>>>
+RC0596         UUUAU-GUCAUUCC-CGCU------------------------UUCGCGG
+#=GR RC0596 SS .........<<<<<.<<<............................>>>>
+RC1112         AAAAC-GUCAU----UGCGAUAGUCG-----------------CUCGCA-
+#=GR RC1112 SS .........<<....<<<............................>>>.
+RC0935         UUAAU-GUCAUCUC-GUGGUCA---------------------AGCCACG
+#=GR RC0935 SS .........<<<<<.<<<............................>>>>
+RC0164         GCUAU-GUUAUUCC-CGCU------------------------UUUGCGG
+#=GR RC0164 SS .........<<<<<.<<<............................>>>>
+RC1096         UCGAU-GUUAUUUU-CACG------------------------AAAGCGG
+#=GR RC1096 SS .........<<<<<.<-<............................>->>
+RC0202         UCAUU-GUCACCCC-GUGGCUU---------------------GACCACG
+#=GR RC0202 SS .........<<<<<.<<<............................>>>>
+RC0181         CUAG-----AUUCC-CGCU------------------------UUUGCGG
+#=GR RC0181 SS .........<<<<<.<<<............................>>>>
+RC0141         UGUCU-GUCAUCCC-ACGGCUU---------------------GACCGCG
+#=GR RC0141 SS .........<<<<<.-<<............................>>->
+RC0483         UGAAU-GUCAU-CC-UGUGACUUG-------------------AUCGCGG
+#=GR RC0483 SS .........<<.<<.<<<............................>>>>
+RC0032         AUAAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0032 SS .........<<<<<.<<<............................>>>>
+RC1138         UUAUU-GUCAU-CC-CGCGACUUG-------------------ACCACGG
+#=GR RC1138 SS .........<<.-<.<<-............................->>>
+RC0560         CUGG-----AUACC-GUGGUCA---------------------AGCCACG
+#=GR RC0560 SS .........<<-<<.<<<............................>>>>
+RC1046         AGUGU-GUCAUACC-GUGGCGA---------------------GACCGCA
+#=GR RC1046 SS .........<<<<-.<<<............................>>>-
+RC0210         GGAA-----AU----UGCAUAGCAAUUGAC-------------GAAGCA-
+#=GR RC0210 SS .........<<....<<<............................>>>.
+RC1113         CUGG-----ACCCC-GUGGUCA---------------------AGCCACG
+#=GR RC1113 SS .........<<<<<.<<<............................>>>>
+RC0447         UCUAU-GUCAUUCC-CGCG------------------------AAAGUAG
+#=GR RC0447 SS .........<<<<<.-<<............................>>->
+RC0512         UCAAU-GUCAUCCC-CGCG------------------------AAAGCGG
+#=GR RC0512 SS .........<<<<<.<<<............................>>>>
+RC1049         UUGAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC1049 SS .........<<<<<.<<<............................>>>>
+RC0731         UUUAU-GUCAUUCC-CGCU------------------------UCCGCAG
+#=GR RC0731 SS .........<<<<<.-<<............................>>->
+RC0621         UUUAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0621 SS .........<<<<<.<<<............................>>>>
+RC0813         UCCAU-GUCAUUCU-UGCU------------------------UUCGCAG
+#=GR RC0813 SS .........<<<<<.<<<............................>>>>
+RC1235         UUGAU-GUCAUUCC-CGCG------------------------UAGGCGG
+#=GR RC1235 SS .........<<<<<.<<<............................>>>>
+RC0128         UCUGU-GUCAUACC-AUGGCUU---------------------GACCACG
+#=GR RC0128 SS .........<<<<<.-<<............................>>->
+RC1196         CUAG-----AUUUU-UGCU------------------------UACGCGG
+#=GR RC1196 SS .........<<<<<.<<<............................>>>>
+RC1073         GGUAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC1073 SS .........<<<<<.<<<............................>>>>
+RC0536         UGUAUCGUCAUUGU----GAGACCACAAAGUG-----------GUCGUGG
+#=GR RC0536 SS .........<<<<<...................................>
+RC1287         AAAAC-GUCAU----UGCGAGGAAAAUUACGAAGUAAUUGCC-GAAGCA-
+#=GR RC1287 SS .........<<....<<<............................>>>.
+RC0811         ----C-GUCAU----UGCGAGCGACUGAAAGGAGC--------ACGGCA-
+#=GR RC0811 SS .........<<....<<<............................>>>.
+RC0354         GAAA-----AU----UACGAAGUAAUUGAC-------------GAAGCA-
+#=GR RC0354 SS .........<<....<-<............................>->.
+RC0885         UUUAU-GUCAUUCC-CGUG------------------------GAAGUGG
+#=GR RC0885 SS .........<<<<<.<<<............................>>>>
+RC1288         ACUGU-GUCAUCCC-GUGGCUU---------------------AACCAUG
+#=GR RC1288 SS .........<<<<<.<<<............................>>>>
+RC1147         ------GUCAUUGC----GAGCAGCAGUAGGC-----------UGCGUGG
+#=GR RC1147 SS .........<<<<<...................................>
+RC0449         UUAGU-GUCAC-CC-CGUGACUUG-------------------AUCACGG
+#=GR RC0449 SS .........<<.<<.<<<............................>>>>
+RC1282         CUAAU-AUCAUACC-GUGGCUU---------------------AACCACG
+#=GR RC1282 SS .........<<<<<.<<<............................>>>>
+RC0864         GCGAU-GUCAUUCC-CGCA------------------------GAGGCGG
+#=GR RC0864 SS .........<<<<<.<<<............................>>>>
+RC0335         UUAGU-GUCAUUCC-CGCU------------------------UCCGUGG
+#=GR RC0335 SS .........<<<<<.<<<............................>>>>
+RC1326         UCCAU-GUCAUUCC-CGCG------------------------UAGGCGG
+#=GR RC1326 SS .........<<<<<.<<<............................>>>>
+RC0588         UUGUU-GUAAU-CC-CGCGACUUG-------------------AUCGCAA
+#=GR RC0588 SS .........<<.<-.-<<............................>>--
+RC1329         AUACU-AUCAUCCC----G------------------------UGAUUUG
+#=GR RC1329 SS .........<<<<<...................................>
+RC0506         ACCAC-GUCAUUGC----GAGCGACUGAAAGG-----------AGCGUGG
+#=GR RC0506 SS .........<<<<<...................................>
+RC0780         UCGAU-GUCAUUCC-CGCG------------------------UAAGCGG
+#=GR RC0780 SS .........<<<<<.<<<............................>>>>
+RC0557         CUUAU-GUCAUUCC-CGCG------------------------AAAGCGG
+#=GR RC0557 SS .........<<<<<.<<<............................>>>>
+RC1221         ACUCU-GUCAUACC-GUGGUCU---------------------UGCCACG
+#=GR RC1221 SS .........<<<<<.<<<............................>>>>
+RC0908         UUUAU-GUCAUUCC-CGCA------------------------AA-GCGG
+#=GR RC0908 SS .........<<<<<.<<<............................>>>>
+RC0667         GCAAU-GUUAUUCC-CGCU------------------------UCUGCGG
+#=GR RC0667 SS .........<<<<<.<<<............................>>>>
+RC0094         UGUGC-GUC---GC-UGCG------------------------GU-GCUG
+#=GR RC0094 SS ............<<.-<<............................>>->
+RC0764         UAAGUCGUCAUUAC----GAGCAGCCAUAGGCUGGC-------UGCGUGA
+#=GR RC0764 SS .........<<<--...................................-
+RC0455         UCAAU-GUCAUCCC-CGCG------------------------AAAGCGG
+#=GR RC0455 SS .........<<<<<.<<<............................>>>>
+RC1267         UUAAU-GCCACCCC-GUGGCUU---------------------GACCACG
+#=GR RC1267 SS .........<<<<<.<<<............................>>>>
+RC0332         UGUAU-GUCAUUCC-CGCG------------------------AAGGCGG
+#=GR RC0332 SS .........<<<<<.<<<............................>>>>
+RC0093         CCGAU-GUCAUUCC-UGCA------------------------ACAGCAG
+#=GR RC0093 SS .........<<<-<.<<<............................>>>>
+RC0170         CUUAU-GUCAUUCA-UGCG------------------------AAAGCAG
+#=GR RC0170 SS .........<<<<-.<<<............................>>>-
+RC0111         UAAGUCGUCAU----UGCGAGGAAAU-----------------UAUGUA-
+#=GR RC0111 SS .........<<....<<<............................>>>.
+RC0448         UCUAU-GUCAUUCC-CGCG------------------------AAAGCGG
+#=GR RC0448 SS .........<<<<<.<<<............................>>>>
+RC1168         UCUCU-GUCAU-UC-CGUGAUUUA-------------------UUCACGG
+#=GR RC1168 SS .........<<.<<.<<<............................>>>>
+RC1212         CCGAU-GUUAUUCC-CGCG------------------------UAGGCGG
+#=GR RC1212 SS .........<<<<<.<<<............................>>>>
+RC0748         AGUAU-GUCAUUCC-CGCG------------------------UAGGUGG
+#=GR RC0748 SS .........<<<<<.<<<............................>>>>
+RC0962         UUAAC-GUCAUU------GCAACUGCAAGG-------------AGCGUGG
+#=GR RC0962 SS .........<<<......................................
+RC0765         CAAAUCGUCAUUGCGCGCGAACGUAGAG---------------AGUGUGG
+#=GR RC0765 SS .........<<<<<.<<<............................>>>>
+RC1347         UUGAU-GUCAUUCC-CGCA------------------------GAGGCAG
+#=GR RC1347 SS .........<<<<<.-<<............................>>->
+RC0019         UUAAU-GUCAUGCC-GUGGUCAU--------------------AGCCACG
+#=GR RC0019 SS .........<<<<<.<<<............................>>>>
+RC0112         CCAUU-GUCAU-CC-CGCGACUUG-------------------AUCGCGG
+#=GR RC0112 SS .........<<.<<.<<<............................>>>>
+RC1324         GGUAUAUUCAU----UGCGAAAAGAAUUACGCAGUAAUUCGACGAAGCA-
+#=GR RC1324 SS .........<<....<<<............................>>>.
+RC0353         AAAAC-GUCAU----UGCGAGUGAACUUUAGUUCGU-------GAGGCA-
+#=GR RC0353 SS .........<<....<<<............................>>>.
+RC0158         UCGAU-UUCAUUCC-CCCG------------------------AAAGCGG
+#=GR RC0158 SS .........<<<<<.<-<............................>->>
+RC0342         AAUAU-GUUAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0342 SS .........<<<<<.<<<............................>>>>
+RC0817         UGUAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0817 SS .........<<-<<.<<<............................>>>>
+RC0879         UCUAU-GUCAUUCC-CGCG------------------------AAGGCGG
+#=GR RC0879 SS .........<<<<<.<<<............................>>>>
+RC0912         UUGAU-GUCAUCCC-CGCG------------------------GAAGCGG
+#=GR RC0912 SS .........<<<<<.<<<............................>>>>
+RC0331         CUUAU-GUCAUUCC-CGCG------------------------AAAGCGG
+#=GR RC0331 SS .........<<<<<.<<<............................>>>>
+RC0411         UAUCC-GUCAUUGC----GAGCGAACGUAGAG-----------AGCAUGG
+#=GR RC0411 SS .........<<<<<...................................>
+RC0226         AAAUU-GUCAUUGC----GAGCAGCCGUAGGC-----------UGCGUGG
+#=GR RC0226 SS .........<<<<<...................................>
+RC0836         ACUAU-GUCAUUCC-UGCG------------------------AAAGCAU
+#=GR RC0836 SS .........<<<<-.<<<............................>>>-
+RC1269         CUAG-----AUUCC-UGCU------------------------UUCGCAA
+#=GR RC1269 SS .........<<<<-.<<<............................>>>-
+RC1068         UCUAU-GUCAUUCC-CGCG------------------------UAGGCGG
+#=GR RC1068 SS .........<<<<<.<<<............................>>>>
+RC1217         ACUCU-GUCAU-CC-CGUGAUUU--------------------AUUAUGG
+#=GR RC1217 SS .........<<.<<.<<<............................>>>>
+RC0617         AGGAU-GUCAUUCC-CGCG------------------------GAAGCGG
+#=GR RC0617 SS .........<<<<<.<<<............................>>>>
+RC1023         UCUAU-GUCAUUCC-CGCG------------------------UAGGCGG
+#=GR RC1023 SS .........<<<<<.<<<............................>>>>
+RC0243         UCACU-GUCACCCC-GUGGCCU---------------------GACCACG
+#=GR RC0243 SS .........<<<<<.<<<............................>>>>
+RC0029         UAGAUCGUCAU----UGCGAGCAGUCGUAGACUGU--------GCGGCA-
+#=GR RC0029 SS .........<<....<<<............................>>>.
+RC0410         AUUGU-GUCAUUGC----GAGGAGCGAAGC-------------GACGUGG
+#=GR RC0410 SS .........<<<<<...................................>
+RC0137         CAAAUCGUCAU----UGCGAGGAAAUUGCAUAGCAAUUGAC--GAAGCA-
+#=GR RC0137 SS .........<<....<<<............................>>>.
+RC0493         CAGUU-GUCAU-CC-CGUGAUUUA-------------------UUCACGG
+#=GR RC0493 SS .........<<.<<.<<<............................>>>>
+RC0390         AAAAC-GUCAU----UGUGAGGAAAUUACGAAGUAAUUGACUAAGCACA-
+#=GR RC0390 SS .........<<....<<<............................>>>.
+RC0366         UUAA-----AAACC-GGCAAGUU--------------------UAAGCCG
+#=GR RC0366 SS ............<<.<<<............................>>>>
+RC0884         UCGCU-GUCAUACC-GUGGCUU---------------------GACCACG
+#=GR RC0884 SS .........<<<<<.<<<............................>>>>
+RC0218         UUACU-GUC---CC-----------------------------UACUUGG
+#=GR RC0218 SS ............<<...................................>
+RC0168         AAAAU-GUCAUUGC----GAGGAGAUGCGUAGCAUC-------GACGUGG
+#=GR RC0168 SS .........<<<<<...................................>
+RC1124         UAACU-GUCUAGAC-UGGGGGGGUACGUUAUGCACAAACCCU-UAACCAG
+#=GR RC1124 SS .............<.<<<............................>>>>
+RC0974         GCACC-GUCAU----UGCGAGGAGC------------------AAAGCG-
+#=GR RC0974 SS .........<<....<<<............................>>>.
+RC0762         CCUCUGUUCACCCC-GUGGCUU---------------------GACCACG
+#=GR RC0762 SS .........<<<<<.<<<............................>>>>
+RC0286         UUUAU-GUCAUUCC-UGCG------------------------AAAGCAG
+#=GR RC0286 SS .........<<<<<.<<<............................>>>>
+RC0295         UAAGU-GUCAUUCC-UGCA------------------------AAAGCAG
+#=GR RC0295 SS .........<<<<<.<<<............................>>>>
+#=GC SS_cons   :::::.:::<<<<<.<<<_........................___>>>>
+#=GC RF        uCuAU.GUCAUcCC.CGCG........................gaCGCGG
+
+RC0623         GAAUGACA--------
+#=GR RC0623 SS >>>>............
+RC0285         GAAUGACA--UAAAAC
+#=GR RC0285 SS >>>>............
+RC0960         GGAUCUCA--GAAUAC
+#=GR RC0960 SS >>>>............
+RC1266         GAAUC-UA-GUUAAAA
+#=GR RC1266 SS >>>>............
+RC0140         GAAUGACA--UAAAAA
+#=GR RC0140 SS >>>>............
+RC0843         GGAUC-CA--AAAAAU
+#=GR RC0843 SS >>>>............
+RC0604         GAAUGACA--UCAAAA
+#=GR RC0604 SS >>>>............
+RC0404         GAAUGACA--UAAAAC
+#=GR RC0404 SS >>>>............
+RC0405         GAAUGACA--UACAAC
+#=GR RC0405 SS >>>>............
+RC0169         GUAUC-CA--GAAAAC
+#=GR RC0169 SS >>>>............
+RC1231         GAUUCUCA--------
+#=GR RC1231 SS >>->............
+RC0909         GAAUGACA--UAAAAC
+#=GR RC0909 SS >>>>............
+RC0596         GAAUGACA--------
+#=GR RC0596 SS >>>>............
+RC1112         --AUGACG--------
+#=GR RC1112 SS ..>>............
+RC0935         GGAUGACA--------
+#=GR RC0935 SS >>>>............
+RC0164         GAAUGACA--UCAAGC
+#=GR RC0164 SS >>>>............
+RC1096         GAAUGACAUCGGAAAG
+#=GR RC1096 SS >>>>............
+RC0202         GGGUC-CA--------
+#=GR RC0202 SS >>>>............
+RC0181         GAAUGACA--------
+#=GR RC0181 SS >>>>............
+RC0141         GGAUC-----------
+#=GR RC0141 SS >>>>............
+RC0483         G-AUC-CA--GAAAAA
+#=GR RC0483 SS >.>>............
+RC0032         GAAUC-CA--GCAUAA
+#=GR RC0032 SS >>>>............
+RC1138         A-AUC-UA-AGAAUAC
+#=GR RC1138 SS -.>>............
+RC0560         GAGUGACA--------
+#=GR RC0560 SS >->>............
+RC1046         GUAUGACA--------
+#=GR RC1046 SS >>>>............
+RC0210         --AUCUCA--------
+#=GR RC0210 SS ..>>............
+RC1113         GGGUAACA--------
+#=GR RC1113 SS >>>>............
+RC0447         GAGUC-UA--GUAAAA
+#=GR RC0447 SS >>>>............
+RC0512         GGAUC-UA--GCAAAA
+#=GR RC0512 SS >>>>............
+RC1049         GAAUC-CA--UAAAA-
+#=GR RC1049 SS >>>>............
+RC0731         GAAUGACA--------
+#=GR RC0731 SS >>>>............
+RC0621         GAAUC-UA--GUAAAG
+#=GR RC0621 SS >>>>............
+RC0813         GAAUGACA--------
+#=GR RC0813 SS >>>>............
+RC1235         GAAUGACG--UAGUAA
+#=GR RC1235 SS >>>>............
+RC0128         GUAUC-CA--GAAAAA
+#=GR RC0128 SS >>>>............
+RC1196         GAAUG-----------
+#=GR RC1196 SS >>>>............
+RC1073         GAAUC-CA--GUCAAC
+#=GR RC1073 SS >>>>............
+RC0536         CAAUCUCA--------
+#=GR RC0536 SS >>>>............
+RC1287         --AUCUCA--GGAAUU
+#=GR RC1287 SS ..>>............
+RC0811         --AUC-CA--GAAAAU
+#=GR RC0811 SS ..>>............
+RC0354         --AUCUCA--------
+#=GR RC0354 SS ..>>............
+RC0885         GAAUG-----------
+#=GR RC0885 SS >>>>............
+RC1288         GGAUC-UA--GAAAAA
+#=GR RC1288 SS >>>>............
+RC1147         CAAUCUCA--GGAUUG
+#=GR RC1147 SS >>>>............
+RC0449         G-GUCUCA--GGACAC
+#=GR RC0449 SS >.>>............
+RC1282         GUAUC-UA--GAAAUA
+#=GR RC1282 SS >>>>............
+RC0864         GAAUC-CA--------
+#=GR RC0864 SS >>>>............
+RC0335         GAAUGACA--UAAAAU
+#=GR RC0335 SS >>>>............
+RC1326         GAAUGACA--UAAACC
+#=GR RC1326 SS >>>>............
+RC0588         G-AUC-CA--------
+#=GR RC0588 SS >.>>............
+RC1329         GGAUCUCA--GGACAC
+#=GR RC1329 SS >>>>............
+RC0506         CAAUCUCA--GGAAUG
+#=GR RC0506 SS >>>>............
+RC0780         GAAUC-CG--------
+#=GR RC0780 SS >>>>............
+RC0557         GAAUC-UA--GUAAA-
+#=GR RC0557 SS >>>>............
+RC1221         GUAUC-CA--UGAUAC
+#=GR RC1221 SS >>>>............
+RC0908         GAAUGACA--------
+#=GR RC0908 SS >>>>............
+RC0667         GGAUGACA--UAAAUU
+#=GR RC0667 SS >>>>............
+RC0094         C---------------
+#=GR RC0094 SS >...............
+RC0764         CAAUCUCG--UCAAAU
+#=GR RC0764 SS ->>>............
+RC0455         GGAUCCCA--------
+#=GR RC0455 SS >>>>............
+RC1267         GGGUC-UA--------
+#=GR RC1267 SS >>>>............
+RC0332         GAAUC-CA--GUAAAA
+#=GR RC0332 SS >>>>............
+RC0093         CAAUGACA--------
+#=GR RC0093 SS ->>>............
+RC0170         GAAUC-UA--GAAACC
+#=GR RC0170 SS >>>>............
+RC0111         --AU------------
+#=GR RC0111 SS ..>>............
+RC0448         GGAUC-CA--GUAAAA
+#=GR RC0448 SS >>>>............
+RC1168         G-AUC-----------
+#=GR RC1168 SS >.>>............
+RC1212         GAAUC-CA--GGGUAA
+#=GR RC1212 SS >>>>............
+RC0748         GAAUC-CA--------
+#=GR RC0748 SS >>>>............
+RC0962         AAAUCUCA--GGAAUU
+#=GR RC0962 SS .>>>............
+RC0765         CAAUCUCA--GGAAUU
+#=GR RC0765 SS >>>>............
+RC1347         GAAUGACA--UAGAAC
+#=GR RC1347 SS >>>>............
+RC0019         GUAUG-----------
+#=GR RC0019 SS >>>>............
+RC0112         G-AUC-CA--------
+#=GR RC0112 SS >.>>............
+RC1324         --AUC-CA--GUAAAA
+#=GR RC1324 SS ..>>............
+RC0353         --AUCUCA--GGACUU
+#=GR RC0353 SS ..>>............
+RC0158         GAAUGACA--UAAAAG
+#=GR RC0158 SS >>>>............
+RC0342         GAAUC-CA--GUACUC
+#=GR RC0342 SS >>>>............
+RC0817         GCAUC-CA--GAAUAA
+#=GR RC0817 SS >->>............
+RC0879         GAAUC-CA--GCAAAA
+#=GR RC0879 SS >>>>............
+RC0912         GGAUC-CA--GAAAAA
+#=GR RC0912 SS >>>>............
+RC0331         GAAUC-CA--------
+#=GR RC0331 SS >>>>............
+RC0411         CAAUCUCA--UGAAGU
+#=GR RC0411 SS >>>>............
+RC0226         CAAUCUCA--UGAAAU
+#=GR RC0226 SS >>>>............
+RC0836         GAAUC-CA--GAAAAA
+#=GR RC0836 SS >>>>............
+RC1269         GAAUGACA--------
+#=GR RC1269 SS >>>>............
+RC1068         GAAUC-CA--GAAAAA
+#=GR RC1068 SS >>>>............
+RC1217         G-AUC-CA--AAAAAA
+#=GR RC1217 SS >.>>............
+RC0617         GAAU------------
+#=GR RC0617 SS >>>>............
+RC1023         GAAUC-CA--GACAAA
+#=GR RC1023 SS >>>>............
+RC0243         GGGUC-CA--GAAAAA
+#=GR RC0243 SS >>>>............
+RC0029         --AUCUCG--UUAAAU
+#=GR RC0029 SS ..>>............
+RC0410         CAAUC-UA--------
+#=GR RC0410 SS >>>>............
+RC0137         --AUC-CA--GUAAAC
+#=GR RC0137 SS ..>>............
+RC0493         G-AUC-UA--------
+#=GR RC0493 SS >.>>............
+RC0390         --AUCUCA--GGCCAC
+#=GR RC0390 SS ..>>............
+RC0366         G---------------
+#=GR RC0366 SS >...............
+RC0884         GUAUGACA--------
+#=GR RC0884 SS >>>>............
+RC0218         G---------------
+#=GR RC0218 SS >...............
+RC0168         CAAUCUCA--GAAAUA
+#=GR RC0168 SS >>>>............
+RC1124         ----------------
+#=GR RC1124 SS ................
+RC0974         --AUG-CG--GCAAUC
+#=GR RC0974 SS ..>>............
+RC0762         GGGUG-----------
+#=GR RC0762 SS >>>>............
+RC0286         GAAUGACA--UAAAAC
+#=GR RC0286 SS >>>>............
+RC0295         GAAUGACA--UAAGAG
+#=GR RC0295 SS >>>>............
+#=GC SS_cons   >>>>:.::..::::::
+#=GC RF        GgAUC.CA..GaAAAC
+//

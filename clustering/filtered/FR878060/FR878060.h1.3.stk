@@ -1,0 +1,954 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS MAF_22900 WT 0.37
+#=GS MAF_09060 WT 0.56
+#=GS MAF_14960 WT 1.12
+#=GS MAF_38090 WT 0.56
+#=GS MAF_24670 WT 0.64
+#=GS MAF_34730 WT 0.89
+#=GS MAF_04700 WT 1.11
+#=GS MAF_16710 WT 0.69
+#=GS MAF_10850 WT 1.35
+#=GS MAF_36100 WT 1.59
+#=GS MAF_25990 WT 0.99
+#=GS MAF_12390 WT 0.87
+#=GS MAF_10710 WT 0.40
+#=GS MAF_10930 WT 0.62
+#=GS MAF_29100 WT 0.51
+#=GS MAF_07190 WT 0.40
+#=GS MAF_10480 WT 1.46
+#=GS MAF_31980 WT 1.11
+#=GS MAF_03860 WT 0.47
+#=GS MAF_19310 WT 1.54
+#=GS MAF_22830 WT 0.31
+#=GS MAF_36550 WT 0.85
+#=GS MAF_07610 WT 0.48
+#=GS MAF_03820 WT 0.77
+#=GS MAF_10240 WT 0.68
+#=GS MAF_34310 WT 0.31
+#=GS MAF_01980 WT 0.54
+#=GS MAF_34020 WT 0.14
+#=GS MAF_23590 WT 1.04
+#=GS MAF_31480 WT 1.42
+#=GS MAF_38060 WT 0.39
+#=GS MAF_22840 WT 0.33
+#=GS MAF_27290 WT 1.14
+#=GS MAF_15930 WT 1.41
+#=GS MAF_14790 WT 1.54
+#=GS MAF_29910 WT 1.73
+#=GS MAF_34300 WT 0.31
+#=GS MAF_07470 WT 0.59
+#=GS MAF_22120 WT 0.83
+#=GS MAF_22130 WT 0.83
+#=GS MAF_35300 WT 0.79
+#=GS MAF_13520 WT 0.56
+#=GS MAF_26780 WT 1.50
+#=GS MAF_35600 WT 0.91
+#=GS MAF_13530 WT 0.90
+#=GS MAF_18430 WT 1.21
+#=GS MAF_30170 WT 0.90
+#=GS MAF_06590 WT 0.81
+#=GS MAF_25380 WT 0.83
+#=GS MAF_35280 WT 1.04
+#=GS MAF_15580 WT 0.91
+#=GS MAF_27140 WT 1.55
+#=GS MAF_29900 WT 1.73
+#=GS MAF_10860 WT 1.25
+#=GS MAF_24830 WT 1.79
+#=GS MAF_30070 WT 1.52
+#=GS MAF_26000 WT 0.93
+#=GS MAF_04790 WT 0.98
+#=GS MAF_22000 WT 1.17
+#=GS MAF_14270 WT 1.89
+#=GS MAF_32280 WT 0.98
+#=GS MAF_09660 WT 1.31
+#=GS MAF_02130 WT 0.45
+#=GS MAF_35590 WT 0.91
+#=GS MAF_23580 WT 1.04
+#=GS MAF_35290 WT 0.75
+#=GS MAF_39050 WT 1.92
+#=GS MAF_27940 WT 1.11
+#=GS MAF_34060 WT 1.03
+#=GS MAF_02450 WT 1.35
+#=GS MAF_26790 WT 1.50
+#=GS MAF_14880 WT 0.79
+#=GS MAF_37150 WT 1.76
+#=GS MAF_36580 WT 1.50
+#=GS MAF_34590 WT 1.78
+#=GS MAF_23740 WT 0.73
+#=GS MAF_09560 WT 1.21
+#=GS MAF_16410 WT 1.06
+#=GS MAF_38900 WT 1.72
+#=GS MAF_22070 WT 1.26
+#=GS MAF_12630 WT 1.15
+#=GS MAF_12670 WT 1.73
+#=GS MAF_04420 WT 1.57
+#=GS MAF_02120 WT 0.52
+#=GS MAF_35680 WT 1.46
+#=GS MAF_26220 WT 0.84
+#=GS MAF_27170 WT 1.41
+#=GS MAF_13230 WT 1.50
+#=GS MAF_32290 WT 0.98
+#=GS MAF_18150 WT 1.34
+#=GS MAF_27410 WT 1.57
+#=GS MAF_23660 WT 1.23
+#=GS MAF_29290 WT 1.79
+#=GS MAF_05780 WT 0.59
+#=GS MAF_13130 WT 1.58
+#=GS MAF_02520 WT 1.72
+#=GS MAF_08610 WT 0.78
+#=GS MAF_12480 WT 0.75
+#=GS MAF_06670 WT 1.64
+#=GS MAF_03020 WT 1.84
+#=GS MAF_12920 WT 1.58
+#=GS MAF_19240 WT 1.68
+#=GS MAF_30350 WT 0.90
+#=GS MAF_15040 WT 0.83
+#=GS MAF_13200 WT 1.84
+#=GS MAF_25740 WT 1.40
+#=GS MAF_37240 WT 1.67
+#=GS MAF_27930 WT 0.83
+#=GS MAF_15630 WT 1.14
+#=GS MAF_02310 WT 1.09
+#=GS MAF_31900 WT 1.76
+#=GS MAF_31460 WT 1.73
+#=GS MAF_01900 WT 1.70
+#=GS MAF_21770 WT 1.10
+#=GS MAF_27270 WT 1.32
+#=GS MAF_15860 WT 1.64
+#=GS MAF_16730 WT 1.35
+#=GS MAF_18390 WT 0.81
+#=GS MAF_05740 WT 1.04
+#=GS MAF_37540 WT 1.58
+#=GS MAF_28530 WT 1.68
+#=GS MAF_29160 WT 0.60
+#=GS MAF_36190 WT 1.68
+#=GS MAF_13330 WT 1.68
+#=GS MAF_30190 WT 0.87
+#=GS MAF_08650 WT 1.32
+#=GS MAF_26440 WT 1.20
+#=GS MAF_22080 WT 1.26
+#=GS MAF_28180 WT 0.99
+#=GS MAF_11830 WT 0.91
+#=GS MAF_22050 WT 1.09
+#=GS MAF_18210 WT 1.69
+#=GS MAF_28830 WT 1.41
+#=GS MAF_38550 WT 1.70
+#=GS MAF_11460 WT 0.83
+#=GS MAF_37980 WT 0.89
+#=GS MAF_24770 WT 1.12
+#=GS MAF_14890 WT 0.75
+#=GS MAF_11480 WT 1.52
+#=GS MAF_22480 WT 0.52
+#=GS MAF_16940 WT 0.96
+#=GS MAF_25610 WT 1.66
+#=GS MAF_24320 WT 1.28
+#=GS MAF_29860 WT 0.78
+#=GS MAF_08020 WT 1.31
+#=GS MAF_03430 WT 1.60
+#=GS MAF_03090 WT 0.99
+#=GS MAF_11670 WT 0.91
+#=GS MAF_01630 WT 1.35
+#=GS MAF_19550 WT 0.82
+#=GS MAF_33990 WT 1.08
+#=GS MAF_08840 WT 1.42
+#=GS MAF_12570 WT 1.46
+#=GS MAF_15620 WT 1.10
+#=GS MAF_08520 WT 0.37
+#=GS MAF_05610 WT 1.12
+#=GS MAF_01290 WT 1.62
+#=GS MAF_31360 WT 1.40
+#=GS MAF_23190 WT 1.35
+#=GS MAF_29780 WT 0.73
+#=GS MAF_12890 WT 1.90
+#=GS MAF_18520 WT 0.78
+#=GS MAF_29850 WT 0.96
+#=GS MAF_22890 WT 1.57
+#=GS MAF_14980 WT 1.26
+#=GS MAF_05320 WT 0.60
+#=GS MAF_27180 WT 1.45
+#=GS MAF_31870 WT 1.20
+#=GS MAF_35670 WT 1.71
+#=GS MAF_30200 WT 0.87
+#=GS MAF_38330 WT 1.66
+#=GS MAF_22700 WT 1.90
+#=GS MAF_26120 WT 0.96
+#=GS MAF_30860 WT 0.64
+#=GS MAF_12700 WT 1.26
+#=GS MAF_38230 WT 1.71
+#=GS MAF_34070 WT 1.03
+#=GS MAF_15870 WT 0.99
+#=GS MAF_04690 WT 1.78
+#=GS MAF_21870 WT 0.34
+#=GS MAF_09050 WT 0.64
+#=GS MAF_13480 WT 0.52
+#=GS MAF_06510 WT 0.18
+#=GS MAF_33310 WT 0.68
+#=GS MAF_28010 WT 0.34
+#=GS MAF_35920 WT 0.49
+#=GS MAF_28660 WT 1.10
+#=GS MAF_16380 WT 0.31
+#=GS MAF_09130 WT 0.98
+#=GS MAF_22580 WT 0.47
+#=GS MAF_16390 WT 0.22
+#=GS MAF_33530 WT 0.16
+#=GS MAF_09610 WT 0.22
+#=GS MAF_20770 WT 0.57
+#=GS MAF_02330 WT 0.24
+#=GS MAF_07620 WT 0.59
+#=GS MAF_06940 WT 1.10
+#=GS MAF_14140 WT 0.69
+#=GS MAF_06770 WT 0.75
+#=GS MAF_32220 WT 0.68
+#=GS MAF_33550 WT 0.24
+#=GS MAF_06700 WT 0.22
+#=GS MAF_27520 WT 0.16
+#=GS MAF_33320 WT 0.72
+#=GS MAF_11100 WT 0.78
+#=GS MAF_35030 WT 0.23
+#=GS MAF_22600 WT 0.44
+#=GS MAF_24180 WT 0.28
+#=GS MAF_10870 WT 1.25
+#=GS MAF_06500 WT 0.22
+#=GS MAF_27700 WT 0.69
+#=GS MAF_03810 WT 0.59
+#=GS MAF_30680 WT 0.67
+#=GS MAF_29960 WT 0.35
+#=GS MAF_08690 WT 0.37
+#=GS MAF_09620 WT 0.18
+#=GS MAF_01990 WT 0.54
+#=GS MAF_10230 WT 0.68
+#=GS MAF_05770 WT 0.67
+#=GS MAF_10920 WT 0.56
+#=GS MAF_02340 WT 0.14
+#=GS MAF_38190 WT 1.60
+#=GS MAF_08700 WT 0.31
+#=GS MAF_14150 WT 0.69
+#=GS MAF_22590 WT 0.44
+#=GS MAF_35910 WT 0.49
+#=GS MAF_14970 WT 1.73
+#=GS MAF_32590 WT 0.40
+#=GS MAF_24170 WT 0.27
+#=GS MAF_32210 WT 0.72
+#=GS MAF_35800 WT 0.82
+#=GS MAF_12320 WT 0.23
+#=GS MAF_13490 WT 0.52
+#=GS MAF_27530 WT 0.31
+#=GS MAF_07320 WT 0.77
+
+MAF_22900    GUCGC---AUA---------AG-C-CCC-CG-C--------AC------G
+MAF_09060    GACGC---AAA---------AG-C-CCC-UAAU--------ACC----UG
+MAF_14960    GAAUC---UGA---------CG-A-CGC-GA-C--------A-G----CG
+MAF_38090    GACGC---AAA---------AG-CACCC-CA-A--------AUC----GG
+MAF_24670    GACGC---AAA---------AG-CUCCC-AA-A--------UCC----GG
+MAF_34730    GCCGC------------------C-CCC-CG-A--------GU------A
+MAF_04700    GACGC---AAA---------AG-CACCC-UU-U--------UG-----CG
+MAF_16710    GACGC---AGA---------AU-C-GCACCG-C-------CAC------G
+MAF_10850    GAUUC---UGC---------GU-CCACC-AG-G-------CUGA---CCA
+MAF_36100    ----U---ACC---------GG-C-GCC-CA-G--------GC------G
+MAF_25990    GACAC---AGA---------AU-C-GCACGA-A--------AUCAGCCCG
+MAF_12390    GACGC---AAA---------AU-CG-CC-CU-G-------AAC-----CG
+MAF_10710    GACGC---AAA---------AU-C-GCC-CA-U--------UUUC--GUG
+MAF_10930    GACGC---AGA---------AG-C-CCC-CA-A--------AC-----CG
+MAF_29100    GACGC---GAA---------AU-C-CCC-CGAC--------AC------G
+MAF_07190    GUCGC---AAA---------AG-C-CCC-CGAC--------AC------G
+MAF_10480    AUUAC---AAC---------GU-G-GCCGCA-C--------ACC----GG
+MAF_31980    GACGC---AGA---------AGUCGCCG-AU-U--------UC------A
+MAF_03860    GACGC---GGA---------AU-C-GCA-CG-C--------GU------G
+MAF_19310    ----C---AGC---------AC-C-CCG-CG-A--------GCU----GA
+MAF_22830    GACGC---AAA---------AG-C-CCC-CG-C--------AC------G
+MAF_36550    GACG-C-AAAA---------AG-C-CCC-UA-A--------AACG--GUU
+MAF_07610    GACGC---AUA---------AG-C-GCC-CA-A--------UUUC--GUG
+MAF_03820    GACAC---AAA---------AU-C-GCA-CG-A--------AUC----AA
+MAF_10240    GACGC---AAA---------AU-C-CCC-UC-GC------AAC-----CG
+MAF_34310    GACGC---AAA---------AG-C-CCC-CGAC--------AC------G
+MAF_01980    ----C---AGA---------AU-C-GCC-CA-U--------UUGG--UAG
+MAF_34020    GACGC---AAA---------AU-C-GCC-CA-A--------UUC----GG
+MAF_23590    --CGC---GCC---------AG-C-GUA-CG-G--------G-------U
+MAF_31480    GACGU---CAA---------AG-C-CCC-CG-A-------A-UUU--CAG
+MAF_38060    GACGC---AAA---------AG-C-CCC-CA-A--------UUC---GGG
+MAF_22840    GACGC---AAA---------AG-C-CCC-CGAC--------AC------U
+MAF_27290    AGCGU---AAC---------GC-CA-CG-GC-GAAU--UCG--G----UG
+MAF_15930    AAACC---CGC---------CU-C-CUG-CU-UC-----CCGC-----UG
+MAF_14790    ACUGC---AAC---------CA-C-GCA-CA-AG-----ACAC------G
+MAF_29910    GACAC---ACG---------GA-U-ACC-CU-U-------UGC------A
+MAF_34300    GACGC---UAA---------AG-C-CCC-CG-C--------AC------G
+MAF_07470    GACGC---GUA---------AG-C-GCC-CAAU-------G-UC---GUG
+MAF_22120    GACGC---GGA---------AU-C-GCA-UC-GGC----GGG-------G
+MAF_22130    GACGC---GGA---------AU-C-GCA-CC-GU-----GUGG------G
+MAF_35300    AACGU---GAA---------CUGAGGGC-GG-AA------UAUC----GG
+MAF_13520    GACGC---AAA---------AG-C-UCC-UA-A--------AUC---UGG
+MAF_26780    GACGU------------------U-UUG-CA-GA------CGCC----CU
+MAF_35600    AGCGU---GAAC------UCAG-G-GCG-AG-AU------UUC-----GG
+MAF_13530    GACGC---AAA---------AG-CCCAC-UA-A-------AUC-----GG
+MAF_18430    AGCGU---AAC---------GC-CACUG-CG-AAA----UUU-C----GG
+MAF_30170    GACAC---AGA---------CU-C-GCAUCC-G--------GC------G
+MAF_06590    GACGC------------------------GA-C--------AC------G
+MAF_25380    GACGC---AGA---------AU-C-GCAUCG-A--------AA------U
+MAF_35280    AGCGU---GAA---------CU-GAGGG-CG-A-------GAUUU--CGG
+MAF_15580    AGCGU---GUAA------CCAU-G-GCG-AG-A-------UUC-----CG
+MAF_27140    GCAGC---GGU---------AU-G-CCC-GC-C--------GC------G
+MAF_29900    CACAC---GGA--------UAC-C-CUU-CGUC--------ACA---UUG
+MAF_10860    GACUC---UGC---------GC-C-CAC-CA-CG------UGUC---CUA
+MAF_24830    GAUAG---UGA---------AU-U-CGG-CG-CCGG--AACAC------G
+MAF_30070    GAGAC------------------G-GCC-UA------------------G
+MAF_26000    GACGC---AGA---------AU-C-GCA-U------------U------G
+MAF_04790    GACUC---CGA---------GU-C-GCC-C-------------------A
+MAF_22000    GACGC---AAA---------AU-CACCC-GG-A-------A--------A
+MAF_14270    GUCGG------------------G-UCG-UC-C-------CA-------G
+MAF_32280    AGUGC------------------G-GCC-CC-G--------AC-----AU
+MAF_09660    ACAGU---GAAAU-----CCAC-G-ACGUGA-C--------AC------G
+MAF_02130    GACAC---UAA---------AG-C-CCU-CGAC--------AC------G
+MAF_35590    AACGU---GAAG------CCAG-G-GCG-AG-AA------AA-C----GG
+MAF_23580    CACGC---GCC---------AG-C-GCA-CG-G--------G-------G
+MAF_35290    AACGU---GAA---------CUCACGGC-GG-A-------GAUU---CGG
+MAF_39050    AAGGU---GGG---------GU-ACAUG-CG-C--------G-------G
+MAF_27940    AGCGU---AACC------GGAC-U-GCG-AA-A--------AUCC--GUG
+MAF_34060    AACGU---GAA---------CUGACGGC-GG-G-------AUU-----UU
+MAF_02450    GACUC---UGC---------GU-CCACC-GGACG------GGU-----UA
+MAF_26790    GACGU------------------U-UUG-CA-GUGA-AAGUGCG----AG
+MAF_14880    AACGU---GAA---------CUGAGGGC-GG-AG------AAUC----CG
+MAF_37150    GCAGC------------------C-CGG-UGUC-------C--------A
+MAF_36580    GACU---CAGC---------AA-C-GGC-AG-C-------UG-CC--GAU
+MAF_34590    GAC--CCCUGU---------GU-G-GUC-CC-G--------AC------G
+MAF_23740    AACGU---GCCC------UGGUGG-CGGCGA-C--------AC------G
+MAF_09560    CUCGC---------------------CA-UG-C--------CC------A
+MAF_16410    AGCGU---GCAU------CUGG-G-GCG-GG-A-------AUU-----CG
+MAF_38900    CACGG---GAU---------CG-G-GCG-AG-UU------CGAC---CUU
+MAF_22070    -----------------------CGACC-CG-G--------GUC----GG
+MAF_12630    GACGC------------------------GA-U--------GAC---ACA
+MAF_12670    GCGUU------------------C-GGC-UG-A--------G-------U
+MAF_04420    GAGGA--------------------GCC-CG-G--------UCCC-UUUG
+MAF_02120    GACGC---AUA---------AG-C-CCC-CG-C--------AC------G
+MAF_35680    GAGGG---UGA---------AU-CUCAC-GA-CG-----GGUC------G
+MAF_26220    GUCGC---AAA---------AG-C-ACC-CG-U--------UUC---AGG
+MAF_27170    GGUGC------------------C-GAG-CG-G--------AU------G
+MAF_13230    AACGU---GCACG-----CACU-G-CGA-AG-A--------UUC----GG
+MAF_32290    AGUGC------------------G-GCC-CC-G--------AC------G
+MAF_18150    GUCGC---GGC---------AG-C-ACACCA-A--------CC-----AG
+MAF_27410    GAGCA------------------G-GCG-CG-G--------GC------A
+MAF_23660    GGCGC------------------G-GGU-AA-C--------AC------G
+MAF_29290    GAGAU---CGA---------CG-U-CAG-CG-CGAU-GCUCUCU----CU
+MAF_05780    ----C---AAA---------AUC--------------------------G
+MAF_13130    GAUGU---------------------GG-GG-A--------CCC---CGG
+MAF_02520    ACGGC---AUG---------AU-C-CGGCCG-G--------GC-----CG
+MAF_08610    GGCGC---UGC---------AG-U-GAG-CG-CAUCGCUGGGCAC-UCGG
+MAF_12480    GACGC---AAA---------AG-A-ACC-CG-A--------UUC---UGG
+MAF_06670    UAUGU------------------------GA-U--------AU------G
+MAF_03020    ACCAG------------------C-GCU-GG-C--------UG------A
+MAF_12920    GAUGC------------------G-GGG-AU-C--------CC------G
+MAF_19240    AAAUC---GAC---------AGCA-GCG-CG-ACAA--AGUUC------G
+MAF_30350    GUCGC---AAA---------AGAC-CCC-GA-C--------AC------G
+MAF_15040    AGCGU---AAC---------CUGG-CUG-CG-AU------UUCC----GG
+MAF_13200    ACCGA------------------C-GCC-CG-AACU-GUGCAC-----CA
+MAF_25740    GCGGC---AGU---------AC-C-GGC-CCGA--------GCC----CG
+MAF_37240    AGAUC---AAC---------GUUCUGCA-GG-C-------CGC-----UA
+MAF_27930    AGCGU---AAC---------GU-GGCUG-CG-AU-----UUUC-----GG
+MAF_15630    AGCGU---AAC---------GU-C-ACG-GCUGAAA-AUCCGU------G
+MAF_02310    GGCAC------------------------CA-U--------AGU---GCG
+MAF_31900    GACGC---CAGCGC--CUUCGU-CAAAC-UU-C--------UC------A
+MAF_31460    ----C------------------C-CUA-UC-U-------UAC------U
+MAF_01900    GCGGC---UA---------------------------------------G
+MAF_21770    GACGC------------------------G-----------ACCG--GCG
+MAF_27270    GCCAC------------------G-ACC-GAUG--------AUCU-CUUU
+MAF_15860    GGUGU-------------------------A-U--------GUCG-CGCA
+MAF_16730    AGCGU---AAC---------GC-C-ACU-GC-GC------UAU------U
+MAF_18390    GACGC------------------------GA-C--------AC------G
+MAF_05740    AACGU---GAA---------CU-G-AGGAC-------------------G
+MAF_37540    GUCUG---UAA---------AG-C-UCGCCG-G--------UC------A
+MAF_28530    GUAAC---GGC---------AC-U-GCG-AA-A-------AGCC---GGG
+MAF_29160    GGCGC--------------------------------------------A
+MAF_36190    AACG---UGAUC------UGAC-C-GCC-GC-G--------GU------G
+MAF_13330    GAC----UAACCCGCCGAUGAG-C-GCG-CC-C--------AU------G
+MAF_30190    AGCGU---AACG------CCAC-U-GCG-AA-A-------AAC-----CG
+MAF_08650    --CGC------------------------GA-A--------AUC---GUG
+MAF_26440    GAUGC------------------------GG-G--------GU-----GA
+MAF_22080    ----C------------------U-UCC-CG-G--------GUC---GUG
+MAF_28180    GACCC------------------C-GCCGGA-C--------AU-----CU
+MAF_11830    AGCGU---AACG------CCAC-U-GCG-AA-A--------UCC----AG
+MAF_22050    GGCGC------------------------GA-U--------CAU---GAG
+MAF_18210    CAC-U---UUC---------AU-C-CGACUG-C--------GC------G
+MAF_28830    AACCC--------------------------------------------A
+MAF_38550    GCCCU---AA-------------C-GAC-AC-G-------C-------UG
+MAF_11460    GCCGC--------------------------------------------U
+MAF_37980    GACGG--------------------------------------------G
+MAF_24770    ----C------------------------GA-C--------AUG----CG
+MAF_14890    AACGU---GAA---------CUCACGGC-GG-UA-----UUUU------G
+MAF_11480    ----C------------------G-GGC-UA-G--------CU------G
+MAF_22480    GACAC-------------------------------------C------G
+MAF_16940    GACGC-------------------------C-A-------CGCC----GG
+MAF_25610    ----C---GUG---------AU-CCAGG-GU-C--------ACC----UG
+MAF_24320    AGCGU---AAC---------GU-C-ACGGCG-AA-----AUUC------G
+MAF_29860    GCCGC--------------------------------------------G
+MAF_08020    ACUGU---GAAUC-----UCAC-G-ACG-CC-U--------CC------G
+MAF_03430    --CAC---GAA---------CC-G-GUG-GG-G--------AC------G
+MAF_03090    GAUGG---UG----------AU-C-UGUGGC-C--------AG-----CG
+MAF_11670    AGCGU---GCAU------CCAG-G-GCG-AG-A--------UUC----CG
+MAF_01630    GGCGU---UAA---------GG-U-ACC-C-------------------G
+MAF_19550    GCCGC--------------------------------------------G
+MAF_33990    GCCGC------------------G-GUGGUA-CG-----UAAC------G
+MAF_08840    GCCGA--------------------CCG-CG-C--------UU-------
+MAF_12570    GACAC---AUA---------A--G-CCC-C------------C------G
+MAF_15620    GCCGC------------------------G-----------AU------G
+MAF_08520    GUCGC--------------------------------------------G
+MAF_05610    GACGA------------------------CA-C--------AGG----CG
+MAF_01290    ----C---AUC---------GG-C-AGC-AG-C--------GCAA--CGG
+MAF_31360    GAGAC-------------------------C-A--------GC-----CG
+MAF_23190    GUCGA---CAA---------AGUC-ACC-CA-U-------GU------UG
+MAF_29780    GACGU------------------------GA-C--------AC------G
+MAF_12890    GCGGG------------------C-AGC-CA-CU------C--------G
+MAF_18520    GACAC---AGA---------AU-C-GCA-CG-C--------GGC---AGG
+MAF_29850    AUCGC--------------------------------------A----AG
+MAF_22890    AAGCC---------------------CC-CGAC--------AC------G
+MAF_14980    GAC-C-------------------------G-A--------GC------G
+MAF_05320    GGCGC------------------------------------UUU----GA
+MAF_27180    GCCGC------------------------GA-A--------AGC----GG
+MAF_31870    GGUGC--------------------------------------------U
+MAF_35670    CACAC------------------------GA-C--------GGC---GAA
+MAF_30200    AACGU---AACG------GCAC-U-GCG-AA-U-------CUC-----CG
+MAF_38330    ----C---AUG---------AUGC-AGU-UC-U--------AC------G
+MAF_22700    GCCGC------------------C-AUC-GA-G-------CGC------G
+MAF_26120    AUCGC--------------------------------------------A
+MAF_30860    GACGG--------------------------------------------G
+MAF_12700    GACGC---UGC---------GG-C-CGC-UG-C-------CGG------G
+MAF_38230    GGCUG---AAC---------GGGCGCCA-CG-C--------GGCG--AAG
+MAF_34070    AACGU---GAC---------GUCAGGGC-GA-GA------AUU------U
+MAF_15870    GAUGA--------------------------------------------U
+MAF_04690    GAC----CGGA---------UC-C-GCA-GG-AC------GUCGA-UCCG
+MAF_21870    ----C---AAA---------AG-C-CCC-CA-U--------UUC----GG
+MAF_09050    GACGC---AAA---------AG-C-CCCCUA-A--------ACC----GG
+MAF_13480    GACGC---AGA---------AU-C-GCC-UA-A--------ACC----CG
+MAF_06510    GACGC---AUA---------AG-C-CCC-CGAC--------AC------G
+MAF_33310    GACGC---AAA---------AU-C-GCC-CG-A--------AAAC--CAG
+MAF_28010    GACGC---AAA---------AG-C-CCC-CA-U--------UUC---GGG
+MAF_35920    --CGC---AGA---------AU-C-GCA-UG-A--------UUU---GAG
+MAF_28660    GGCGC---AAA---------AG-A-ACA-UG-AU-----GGGC------A
+MAF_16380    GACGC---AAA---------AU-C-GCC-CA-U--------UUC---GUA
+MAF_09130    GACAC---AGA---------GU-C-GCA-CA-A--------AAU---CGG
+MAF_22580    GACGC---AGA---------AU-C-GCA-CG-C--------GC------G
+MAF_16390    GACGC---AAA---------AU-C-GCC-CA-U--------UUC---GGG
+MAF_33530    GACGC---AAA---------AU-C-GCC-CA-U--------UUC----GG
+MAF_09610    GACGC---AUA---------AG-C-CCC-CG-C--------AC------G
+MAF_20770    GACGC---AGA---------AU-C-GCA-UG-C--------GC------G
+MAF_02330    GACGC---AAA---------AU-C-GCC-CA-A--------UUUC--GUG
+MAF_07620    GACGC---AUA---------AG-C-GCC-CA-U--------UUC----GA
+MAF_06940    GACGC---AAA---------AG-A-ACA-UG-AU------G--------G
+MAF_14140    GACGC---AGA---------AU-C-GCA-CG-C--------GG------A
+MAF_06770    GACGC---AGA---------AU-C-GCA-CG-C--------GAA---AUG
+MAF_32220    GACGC---AAA---------AU-C-GCC-CG-A--------AA------G
+MAF_33550    GACGC---AAA---------AU-C-GCC-CA-A--------UUUC--GUG
+MAF_06700    GUCGC---AUA---------AG-C-CCC-CGAC--------AC------G
+MAF_27520    GACGC---AAA---------AU-C-GCCUCA-U--------UUC----GG
+MAF_33320    GACGC---AAA---------AU-C-GCC-CA-A-------AAC-----CA
+MAF_11100    GACAC---AGA---------AU-C-GCACUG-C--------GCC----GG
+MAF_35030    GACGC---AGA---------AU-C-GCC-CA-U--------UUC----GG
+MAF_22600    GACGC---AGA---------GU-CG-CA-CU-G-------CGCC----GG
+MAF_24180    GACGC---AAA---------AU-C-GCC-CA-U--------UUC----GG
+MAF_10870    GACUC---UGC---------GU-C-CAC-CA-CGCA--AAAGU------G
+MAF_06500    GACGC---AUA---------AG-C-CCC-CG-C--------AC------G
+MAF_27700    GACGC---AGA---------AU-C-GCAUUA-A--------UCG----CG
+MAF_03810    GACGC---AAA---------AU-C-GCA-CGGU--------UU------G
+MAF_30680    GACGC---AGA---------AU-C-GCCUCA-A-------AAU-----CU
+MAF_29960    GACGC---AAA---------AU-C-GCC-CA-U--------UUC---GAG
+MAF_08690    GACGU---AAA---------AG-C-CCC-CG-C--------AC------G
+MAF_09620    GACGC---AUA---------AG-C-CCC-CGAC--------AC------G
+MAF_01990    GACGC---AGA---------AU-C-GCC-CA-U--------UUGG-GCUA
+MAF_10230    GACGC---AAA---------AU-C-CCC-UC-GA------CAC------G
+MAF_05770    GACGC---AGA---------AU-C-GCA-CA-A-------AAU-----CA
+MAF_10920    GACGC---GAA---------AG-CACCC-CAAA--------AC-----CG
+MAF_02340    GACGC---AAA---------AU-C-GCC-CA-A--------UUC----GG
+MAF_38190    AACAU---CUA---------GC-G-GCG-GU-G--------ACC---CU-
+MAF_08700    GACGU---AAA---------AG-C-CCC-CGAC--------AC------G
+MAF_14150    GACGC---AGA---------AU-C-GCA-CG-CG------G--A----AG
+MAF_22590    GACGC---AGA---------GU-CG-CA-CU-G-------CGCC----GG
+MAF_35910    GACGC---AGA---------AU-C-GCA-UG-A--------UUU---GAG
+MAF_14970    GAAUC---UGA---------CGAC-GCG-AC-A-------C--------G
+MAF_32590    GACGC---AAA---------AU-C-GCC-CA-U--------UUUC--AUG
+MAF_24170    GACGC---AAA---------AU-C-GCC-CAAA--------UUC---GGG
+MAF_32210    GACGC---AAA---------AU-C-GCC-CG-A--------A-------A
+MAF_35800    GACGC---AAA---------AU-C-GCC-CA-UU-----UU--------G
+MAF_12320    GACAC---AGA---------AU-C-GCC-CA-U--------UUC----GG
+MAF_13490    GACGC---AGA---------AU-C-GCC-UA-A--------ACCC--GUG
+MAF_27530    GACGC---AAA---------AU-C-GCC-CA-U--------UUC---GUG
+MAF_07320    GACGC---AAA---------AUGCCCCC-GA-A--------AU------G
+#=GC SS_cons <<<<<...<<<.........<<.<.<<<.<<.<........<<......_
+#=GC RF      GACGC...AaA.........Au.C.gCc.cg.c........gC......G
+
+MAF_22900    CACGG--------CG--U-------------G-UCG-G-GG-G-CU----
+MAF_09060    C-CG----------G--U-------------U-UAG-G-GG-G-CU----
+MAF_14960    G-CG-------------U-------------G-U-C-G-CG-U-CG----
+MAF_38090    G-CG----------A--U-------------U-U-U-G-GGGG-CU----
+MAF_24670    U-CG----------G--A-------------U-U-U-G-GGAG-CU----
+MAF_34730    C-C-CCCCAACCCAACCC-------------U-C-G-G-GG-G-------
+MAF_04700    G-CG----------C--A-------------A-A-A-GUGGCG-CU----
+MAF_16710    C-C----------CG--UC-----------GG-C-G-U-GC-G-AU----
+MAF_10850    CUCG----------C--ACUU-------UUGC-C-U-G-GUAG-AC----
+MAF_36100    A-AA----------G--C-------------C-U-G-G-GC-G-CC----
+MAF_25990    CCCA----------A----------------------U-GC-G-AU----
+MAF_12390    UGC-----------G--UU-----------CC-A-G-G-G-CG-AU----
+MAF_10710    U-CG----------A--A-------------A-U-G-G-GG-G-CU----
+MAF_10930    G-CG----------G--U-------------U-UUG-G-GGUG-CU----
+MAF_29100    C-CGA-------ACG--U-------------G-C-G-G-UG-G-CU----
+MAF_07190    CGCGG--------CG--U-------------G-C-G-G-GG-G-CU----
+MAF_10480    U-UG----------G--U-------------G-U-GUG-GC-C-AC----
+MAF_31980    C-CG----------G--A-------------A-A-U-C-GGGGACU----
+MAF_03860    A-GGU-------CCG--C-------------G-CAG-U-GC-G-AU----
+MAF_19310    C-CG----------G--C-------------U-C-G-C-GG-G-GU----
+MAF_22830    CACGG--------AG--U-------------G-UCG-G-GG-G-CU----
+MAF_36550    C-CG----------U--U-------------U-U-G-G-GG-G-CU----
+MAF_07610    U-CG----------A--A-------------A-U-G-G-GC-G-CU----
+MAF_03820    C-CG---------CA--A-------------A-CCG-U-GC-G-AU----
+MAF_10240    G-C-----------G--UG-----------UC-G-A-G-GG-G-AU----
+MAF_34310    C-CGA-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_01980    CCC-----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_34020    CACG----------A-AA-------------U-U-G-G-GC-G-AU----
+MAF_23590    AUC--------------C-------------C-C-G-U-GC-G-CU----
+MAF_31480    U-GA----------A---------------AU-C-G-G-GG-G-CU----
+MAF_38060    CACG----------A--A-------------A-U-G-G-GG-G-CU----
+MAF_22840    C-CGU-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_27290    CACG---------C----AA--------GCUC-G-C-C-G-UG-GC----
+MAF_15930    CUCA----------G--CGC--------GCGA-A-G-C-AG-G-AG----
+MAF_14790    C-CGA--------CG--C------------AU-CGG-U-GC-G-UG----
+MAF_29910    C-GGU--------GG--CAAUG----UGACGA-A-G-G-GU-A-UC----
+MAF_34300    CUCGG--------CG--U-------------G-UCG-G-GG-G-CU----
+MAF_07470    C-CG----------A---------------AA-U-G-G-GC-G-CU----
+MAF_22120    CCCA-------------C------------AC-G-G-U-GC-G-AU----
+MAF_22130    C-C-----------C--CG-----------CC-G-A-U-GC-G-AU----
+MAF_35300    C-CG----------A-AU------------CU-C-C-G-CCGUGAG----
+MAF_13520    C-CG----------A--U-------------U-U-A-GUGG-G-CU----
+MAF_26780    CUC-----------G--CACU------UUCAC-U-G-C-AA-A-------
+MAF_35600    C-C-----------G--UU-----------UU-C-U-C-GC-C-CUG--G
+MAF_13530    C-CA----------G--A------------UU-U-A-G--GAG-CU----
+MAF_18430    G-CA---------G---AA----------AAU-C-G-C-AGUG-GC----
+MAF_30170    C-C-CC------UCG--C-------------C-C-G-U-GC-G-AU----
+MAF_06590    C-CGGU------GCG-----------------------------------
+MAF_25380    C-CGG-------AUU--U-------------U-C-A-U-GC-G-AC----
+MAF_35280    C-CG----------A--UU-----------UU-CCG-C-CCUC-AG----
+MAF_15580    C-CGG--------CG--AU-----------UU-U-U-CCGC-C-CUG--A
+MAF_27140    C-CA----------G--C-------------G-G-C-G-GG-C-AU----
+MAF_29900    C-CAC--------CG--U-------------G-C-A-A-AG-G-GU----
+MAF_10860    CUCG---------CA--CUUU-------UGCG-U-G-G-UG-G-AC----
+MAF_24830    CCCG---------GG--UUC---------UUG-UCG-C-CG-A-AU----
+MAF_30070    CUC-----------------------------CU-A-G-GC-C-------
+MAF_26000    GGCGGG-----CUGA--U-------------U-UCG-U-GC-G-AU----
+MAF_04790    C-G--------------------------------G-G-GC-G-AC----
+MAF_22000    C-CGGC------GA----------------UU-U-U-G-GGCG-AC----
+MAF_14270    CACG-------------UA----------ACG-G-A-C-GG-C-------
+MAF_32280    A-C-----------G--U-------------C-G-G-G-GC-C-------
+MAF_09660    C-CGGA-----AACG----------------------C-GU-C-GUGA-C
+MAF_02130    C-CGU-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_35590    C-CG-------------AA-----------AU-C-U-C-GC-C-CUG--A
+MAF_23580    A-UA-------------C-------------C-C-G-U-AC-G-CU----
+MAF_35290    C-CG----------A--UA-----------UU-C-C-G-CCCUCAG----
+MAF_39050    A-C--------------C-------------G-C-G-C-GUCU-GC----
+MAF_27940    C-CG----------A--A-------------A-A-U-C-GC-A-GCC--A
+MAF_34060    CCCG----------A--AA----------UUC-U-C-G-CCCUGA-----
+MAF_02450    CUCG---------CA--CUU---------UUG-CGU-G-GUGG-AC----
+MAF_26790    A-GG----------G--CG-----------UC-U-G-C-AA-A-------
+MAF_14880    G-CA----------A--AA-----------UA-C-C-G-CCGUGAG----
+MAF_37150    CCCA---------A----------------GG-C-A-C-CG-G-------
+MAF_36580    C-CG-------------C------------GG-C-U-A-CC-G-UU----
+MAF_34590    G-GGGAG---AGCCG--U-------------C-G-G-G-AC-C-AC----
+MAF_23740    C-CGGGC----GGAG----------------------C-CG-CCAUG--G
+MAF_09560    C-CG----------G-UG-------------G-C-A-U-G----------
+MAF_16410    G-CG----------A--UU-----------UU-U-C-C-GC-C-CUG--A
+MAF_38900    C-CG----------U--CG-----------GU-C-U-C-GC-C-CU----
+MAF_22070    CACG----------A--C-------------C-C-G-G-GAAG-------
+MAF_12630    C-C-----------------------------------------------
+MAF_12670    U-CG-------------C-------------U-C-A-G-CC-G-------
+MAF_04420    U-GG----------G--G-------------C-C-G-G-GC---------
+MAF_02120    CACGG--------CG--U-------------G-UCG-A-GG-G-CU----
+MAF_35680    U-CGGC------GUG--UC----------GCG-U-C-G-UGCG-AU----
+MAF_26220    C-CG----------A--A-------------A-UUU-G-GA-G-CU----
+MAF_27170    U-GA----------A--U-------------C-CGU-C-UC-G-------
+MAF_13230    C-C-----------A--A-------------U-UGU-U-CG-C-AGCU-G
+MAF_32290    UAU-----------G--U-------------C-G-G-G-GC-C-------
+MAF_18150    C-CG----------G----------------------U-GU-G-CU----
+MAF_27410    C-UG---------UG--C-------------C-U-G-C-GC-C-------
+MAF_23660    G-GGGG------UCG--U-------------G-U-U-G-CC-C-------
+MAF_29290    CGCG----------G--G------------GG-C-G-C-UG-C-CG----
+MAF_05780    C-UG----------------------------------------AU----
+MAF_13130    A-CG----------G--G-------------U-C-C-C-C----------
+MAF_02520    AUGG----------G--U-------------C-C-G-C-CG-G-AU----
+MAF_08610    CCCG----------G--CCCGG-----GUCAG-CGA-CCUC-A-CU----
+MAF_12480    U-CG----------A-AA-------------U-U-G-G-GU-G-C-----
+MAF_06670    U-C-U-------UCA-----------------------------------
+MAF_03020    U-CG---------AC-AA-------------G-U-C-G-GC-G-------
+MAF_12920    U-CAA-------CCG--G-------------G-A-U-C-CC-C-------
+MAF_19240    A-CGAG------AAG--A------------CA-CCG-C-GC-UAAU----
+MAF_30350    C-CGA--------GG--C-------------G-U-G-G-GG-GGCC----
+MAF_15040    CGCG----------G--AU----------UUU-C-G-C-AG-UGCG----
+MAF_13200    G-CG----------G--UAC--------AGGA-C-G-G-GC-G-------
+MAF_25740    A-C-----------G--C-------------U-G-G-G-CC-G-GC----
+MAF_37240    CUC-----------G--CAC--------CUUG-C-C-U-GCAAAAU----
+MAF_27930    CACG----------G--AU----------UUU-C-G-C-AGUC-CG----
+MAF_15630    CCCG----------A--CU-----------UC-G-C-C-GU-G-GC----
+MAF_02310    C-C-----------------------------------------------
+MAF_31900    C-CAC--------CG--A-------------G-ACA-G---GG-AGCU-C
+MAF_31460    C-CGG--------AG--U------------AA-G-A-U-AG-G-------
+MAF_01900    C-CG----------------------------------------CA----
+MAF_21770    CGCG----------G--U-------------U-U----------------
+MAF_27270    CAUG----------A--U-------------C-U-C-G-GU-C-------
+MAF_15860    C-CA----------A--C-------------A-U-C-G------------
+MAF_16730    C-GGAUC----GCAA--UC-----------UC-G-C-A-GU-G-AC----
+MAF_18390    C-CGAC------AAG-----------------------------------
+MAF_05740    G-CA----------A--A-------------U-CGG-C-CU-C-AG----
+MAF_37540    U-GGGUGA--AAGUG--A-------------C-CCG-C-GA-G-CU----
+MAF_28530    C-CG----------G--A------------AA-U-U-C-GC-A-GU----
+MAF_29160    C-CA----------------------------------------------
+MAF_36190    GUCGG--------CG--C-------------C-G-C-G-GC-G-GUGGGA
+MAF_13330    AUCGG--------CA--U-------------G-G-U-C-GU-G-CUCG-U
+MAF_30190    CGCG----------G--A------------GA-U-U-C-GC-A-GUG--C
+MAF_08650    A-CG----------A--U--------------------------------
+MAF_26440    U-CG----------A-----------------------------------
+MAF_22080    C-CG----------A--C-------------C-C-G-G-GU-C-------
+MAF_28180    CCC----------------------------------G-GC-G-------
+MAF_11830    CCCG----------G-CU-------------U-U-U-C-GC-A-GCC--G
+MAF_22050    C-C-----------------------------------------------
+MAF_18210    GUUGUUU---GUUAG--C-------------G-C-A-U-CG-G-AU----
+MAF_28830    UGC-----------------------------------------------
+MAF_38550    C-CG---------A----AUAU-----GACCC-G-U-G-UC-G-GA----
+MAF_11460    CGCG----------------------------------------------
+MAF_37980    C-CG----------------------------------------------
+MAF_24770    C-CG----------A-----------------------------------
+MAF_14890    C-CG---------GA--UU-----------CU-C-C-G-CCCUCAG----
+MAF_11480    CUCGU--------CA--G-------------C-U-A-G-CC-C-------
+MAF_22480    G-CGG--------CG--U--------------------------------
+MAF_16940    U-CG----------G--C------------UU-G----------------
+MAF_25610    C-CG----------G--U-------------G-A-U-C-CU-G-CC----
+MAF_24320    U-CGC--------UG--AU----------UCU-C-G-CAGU-G-GC----
+MAF_29860    CCCG----------------------------------------------
+MAF_08020    C-CG---------CG-UG-------------U-C-G-C-GU-C-GUGC-C
+MAF_03430    UUCAU--------GG--U-------------C-C-C-C-GC-C-GG----
+MAF_03090    C-CG---------------------------------A-CG-G-AU----
+MAF_11670    CCCGG-------CAA--A-------------C-CGU-C-GC-C-CUG--A
+MAF_01630    GUC--------------------------------G-G-GU-C-C-----
+MAF_19550    CUGG----------------------------------------------
+MAF_33990    CCCAA--------CG--UG----------CGG-U-G-C-GC-C-------
+MAF_08840    --------------A--A-------------G-C-G-C-GG---------
+MAF_12570    C-CACGCC--GAAGG--A-------------U-UUG-G-AG-C-UU----
+MAF_15620    U-GG----------A--U-------------U-U----------------
+MAF_08520    C-C-----------------------------------------------
+MAF_05610    CGCG----------------------------------------------
+MAF_01290    C-CA----------G--C-------------G-C-U-G-CU-G-CC----
+MAF_31360    C-CG----------G--C-------------U-G-A-G------------
+MAF_23190    U-CGAU-----GAA----AACCUGCUUCGGCU-U-G-GUGU-GGCC----
+MAF_29780    C-CGAG------GAG-----------------------------------
+MAF_12890    U-UGCAAGAACACC----G-----------GG-UCG-G-CU-G-------
+MAF_18520    CUC-----------C-UC-------------G-G-A-U-GC-G-AU----
+MAF_29850    CGCG----------------------------------------------
+MAF_22890    C-CGU-------GCG--U-------------G-C-G-G-G----------
+MAF_14980    CCCG---------UG--C-------------C-C-A-A------------
+MAF_05320    C-C-----------A--U--------------------------------
+MAF_27180    CCCA----------C-----------------------------AA----
+MAF_31870    UUCG----------------------------------------------
+MAF_35670    U-CG----------------------------------------------
+MAF_30200    CGCG----------G--U------------UU-U-U-C-GC-A-GUG--G
+MAF_38330    A-CGACGG--CGUUG--U-------------A-C-A-G-CU-GGAU----
+MAF_22700    U-CAUCAC-CCACGG--CACCU----UCGAAC-U-C-G-AU-G-------
+MAF_26120    CACG----------------------------------------------
+MAF_30860    U-CG----------------------------------------------
+MAF_12700    CGCGA-------CGC--C------------CG-C-A-G-CG-G-CU----
+MAF_38230    U-CG----------C--C-------------G-UGA-U-GGUGGCC----
+MAF_34070    C-GGG--------AA--AA-----------UC-C-C-G-CCGUCAG----
+MAF_15870    C-C-----------------------------------------------
+MAF_04690    U-GG----------G--UU-----------UA-C-C-U-GC-G-GA----
+MAF_21870    CACG----------A-AA-------------A-U-G-G-GG-G-C-----
+MAF_09050    C-AG----------G--U-------------A-UUA-G-GG-G-CU----
+MAF_13480    CACG---------GG--U-------------U-U-A-G-GC-G-AU----
+MAF_06510    C-CGU-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_33310    U-GG----------U--U-------------U-U-G-G-GC-G-AU----
+MAF_28010    CCCG----------A--A-------------A-U-G-G-GG-G-CU----
+MAF_35920    CUCA----------A--A-------------U-C-A-U-GC-G-AU----
+MAF_28660    C-CAG--------CG--CC----------CAU-C-A-U-GU-U-CU----
+MAF_16380    CCCG----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_09130    C-GG----------U--U-------------U-UGA-U-GC-G-AC----
+MAF_22580    A-GGU-------CCG--C-------------G-CCG-U-GC-G-AU----
+MAF_16390    UACG----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_33530    CACG----------A--A-------------A-UUG-G-GC-G-AU----
+MAF_09610    CUCGG--------CG--U-------------G-UCG-G-GG-G-CU----
+MAF_20770    G-GACC------CCG--C-------------G-CAG-U-GC-G-AU----
+MAF_02330    C-CG----------A--A-------------U-U-G-G-GC-G-AU----
+MAF_07620    CACG----------A--A-------------A-UUG-G-GC-G-CU----
+MAF_06940    G-CGCACCAGCGCC----C-----------AU-C-A-U-GU-U-CU----
+MAF_14140    AAGGC-------UUC--C-------------G-C-G-U-GC-G-AU----
+MAF_06770    C-C-----------U-GC-------------G-CGA-U-GC-G-AU----
+MAF_32220    C-CAUC------GGU--U-------------U-C-G-G-GC-G-AU----
+MAF_33550    C-CG----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_06700    C-CGA-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_27520    CACG----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_33320    C-UG----------G--U------------UU-UCG-G-GC-G-AU----
+MAF_11100    CCCG----------G--C-------------G-C-G-U-GC-G-AU----
+MAF_35030    CACG----------A--A-------------A-UUG-G-GC-G-AU----
+MAF_22600    C-CG----------G--C------------GC-A-G-U-G-CG-AC----
+MAF_24180    CCCG----------A--A-------------U-UUG-G-GC-G-AU----
+MAF_10870    C-GAGU-----AGGA--CA-----------CG-U-G-G-UG-G-GC----
+MAF_06500    CACGG--------CG--U-------------G-UCG-G-GG-G-CU----
+MAF_27700    CCCG----------G--U-------------U-U-G-U-GC-G-AU----
+MAF_03810    C-GGU-------UGA--U-------------U-C-G-U-GC-G-AU----
+MAF_30680    U-GG----------A--U------------UU-U-G-G-GC-G-AU----
+MAF_29960    A-CG----------A--A-------------A-UUG-G-GC-G-AU----
+MAF_08690    CUCGG--------CG--U-------------G-UCG-G-GG-G-CU----
+MAF_09620    C-CGA-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_01990    C-C-----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_10230    C-CG----------G--UU-----------GC-G-A-G-GG-G-AU----
+MAF_05770    G-CG----------A--U------------UU-UGA-U-GC-G-AU----
+MAF_10920    C-CG----------G--U-------------U-U-G-G-GG-G-CU----
+MAF_02340    CACG----------A-AA-------------U-U-G-G-GC-G-AU----
+MAF_38190    UGUG----------G--U-------------C-G-C-C-GC-C-GC----
+MAF_08700    C-CGA-------GCG--U-------------G-C-G-G-GG-G-CU----
+MAF_14150    C-C-U-------UU----C-----------CG-C-G-U-GC-G-AU----
+MAF_22590    C-CG----------G--C------------GC-A-G-U-G-CG-AC----
+MAF_35910    CUCA----------A--A-------------U-C-A-U-GC-G-AU----
+MAF_14970    C-CG--------------------------CU-G-U-C-GC-GUCG----
+MAF_32590    A-CG----------A--A-------------A-A-G-G-GC-G-AU----
+MAF_24170    C-CG----------A--A-------------A-U-G-G-GC-G-AU----
+MAF_32210    C-CGAUG----GCU---U-------------U-C-G-G-GC-G-AU----
+MAF_35800    C-GGG--------C----G----------UGU-U-G-G-GC-G-AU----
+MAF_12320    CACG----------A--A-------------A-UUG-G-GC-G-AU----
+MAF_13490    C-GG----------G--U-------------U-U-A-G-GC-G-AU----
+MAF_27530    C-CG----------A--A-------------A-UGA-G-GC-G-AU----
+MAF_07320    C-C----------CA--U-------------U-UUC-G-GG-GGCU----
+#=GC SS_cons _.__..........>..>.............>.>.>.>.>>.>.>>....
+#=GC RF      C.CG..........G..c.............g.c.g.g.Gc.G.aU....
+
+MAF_22900    -U--UAGCGAC
+MAF_09060    -U--UUGCGUC
+MAF_14960    -U--CAGAUUC
+MAF_38090    -U--UUGCGUC
+MAF_24670    -U--UUGCGUC
+MAF_34730    ------GCGCC
+MAF_04700    -U--UUGCGUC
+MAF_16710    -U--CUGCGUC
+MAF_10850    -G--CAGGAUC
+MAF_36100    -G--GUA----
+MAF_25990    -U--CUGCGUC
+MAF_12390    -U--UUGCGUC
+MAF_10710    -U--UUGCGUC
+MAF_10930    -U--UCGCGUC
+MAF_29100    -U--UUGCGUC
+MAF_07190    -U--UUGCGAC
+MAF_10480    -G--UUGUUAU
+MAF_31980    -U--CUGCGUC
+MAF_03860    -U--CCGCGUC
+MAF_19310    -G--CUG----
+MAF_22830    -U--UUGCGUC
+MAF_36550    -U--UA-CGUC
+MAF_07610    -U--AUGCGUC
+MAF_03820    -U--UUGCGUC
+MAF_10240    -U--UUGCGUC
+MAF_34310    -U--UAGCGUC
+MAF_01980    -U--CUG----
+MAF_34020    -U--UUGCGUC
+MAF_23590    -G--GCGCG--
+MAF_31480    -U--UUGCGUC
+MAF_38060    -U--UUACGUC
+MAF_22840    -U--UUGCGUC
+MAF_27290    -G--UUACGCU
+MAF_15930    -G--CUGGUUU
+MAF_14790    -G--UUGCAGU
+MAF_29910    -C--GUGUGUU
+MAF_34300    -U--UUGCGUC
+MAF_07470    -U--AUGCGUC
+MAF_22120    -U--CCGCGUC
+MAF_22130    -U--CCGCGUC
+MAF_35300    -U--UCACGUU
+MAF_13520    -U--UUGCGUC
+MAF_26780    ------ACGUC
+MAF_35600    CU--UCACGUU
+MAF_13530    -U--UUGCGUC
+MAF_18430    -G--UUACGCU
+MAF_30170    -U--CUGUGUC
+MAF_06590    ------GCGUC
+MAF_25380    -U--CUGCGUC
+MAF_35280    -U--UCACGUU
+MAF_15580    GU--GCACGUU
+MAF_27140    -A--CCGCUGC
+MAF_29900    AU--CCGUGUG
+MAF_10860    -G--CAGAGUC
+MAF_24830    -U--CACUAUC
+MAF_30070    ------GUCUC
+MAF_26000    -U--CUGUGUC
+MAF_04790    -U--CGGAGUC
+MAF_22000    -U--UUGCGUC
+MAF_14270    ------CCGAC
+MAF_32280    ------GCACU
+MAF_09660    AU--UCACUCU
+MAF_02130    -U--AUGCGUC
+MAF_35590    GU--UCACGCU
+MAF_23580    -G--GCGCGUG
+MAF_35290    -U--UCACGUU
+MAF_39050    -C--CCACCUU
+MAF_27940    CG--UUACGCU
+MAF_34060    --CGUCACGUU
+MAF_02450    -G--CAGAGUC
+MAF_26790    ------ACGUC
+MAF_14880    -U--UCACGUU
+MAF_37150    ------GCUGC
+MAF_36580    -G--CU-UGUC
+MAF_34590    -A--CA--GUC
+MAF_23740    UU--GCACGUU
+MAF_09560    ------GCGAG
+MAF_16410    GU--UCACGCU
+MAF_38900    -U--UCUCGUG
+MAF_22070    -----------
+MAF_12630    ------GCGUC
+MAF_12670    ------AACGC
+MAF_04420    ------UCCUC
+MAF_02120    -U--UAGUGUC
+MAF_35680    -U--CACUGUC
+MAF_26220    -U--UUGUGUC
+MAF_27170    ------GCGCC
+MAF_13230    UU--GCACGUU
+MAF_32290    ------GCACU
+MAF_18150    -G--CUGUGUC
+MAF_27410    ------UGCUC
+MAF_23660    ------GCGCC
+MAF_29290    -U--CGAUCUC
+MAF_05780    -U--UUG----
+MAF_13130    ------ACAUC
+MAF_02520    -C--AUGCCAU
+MAF_08610    -G--CGGCGCC
+MAF_12480    --CGUUGCGUC
+MAF_06670    ------ACAUA
+MAF_03020    ------CUGGU
+MAF_12920    ------GCAUU
+MAF_19240    -G--UCGAUUU
+MAF_30350    -U--UGGCGCC
+MAF_15040    -G--UUACGCU
+MAF_13200    ------UCGGU
+MAF_25740    -A--CUGCUGU
+MAF_37240    -G--UUGAUCU
+MAF_27930    -G--UUACGCU
+MAF_15630    -G--UUACGCU
+MAF_02310    ------GCGUC
+MAF_31900    GC--UGGCGUC
+MAF_31460    ------G----
+MAF_01900    -A-CUAGCCGC
+MAF_21770    ------GCGCC
+MAF_27270    ------GUGCC
+MAF_15860    ------ACAUC
+MAF_16730    -G--UUACGCU
+MAF_18390    ------GCGUC
+MAF_05740    -U--UCACGCU
+MAF_37540    -U--AUGAGCC
+MAF_28530    -G--GCGUUAC
+MAF_29160    ------GCGCC
+MAF_36190    UA--UC-UGUU
+MAF_13330    CG--UU--GUC
+MAF_30190    CG--UUACGUU
+MAF_08650    ------GUG--
+MAF_26440    ------GCAUC
+MAF_22080    ------G----
+MAF_28180    ------GGGUC
+MAF_11830    GG--UUACGCU
+MAF_22050    ------GCGCC
+MAF_18210    -G--AAA-GUG
+MAF_28830    ------GGGUU
+MAF_38550    -A-AUUAGGGC
+MAF_11460    ------GCGGC
+MAF_37980    ------CCGUU
+MAF_24770    ------G----
+MAF_14890    -U--UCACGUU
+MAF_11480    ------G----
+MAF_22480    ------GUGUC
+MAF_16940    ------GCGUU
+MAF_25610    -C--ACG----
+MAF_24320    -G--UCACGCU
+MAF_29860    ------GCGCU
+MAF_08020    AU--UCACAGU
+MAF_03430    -U--UUGUG--
+MAF_03090    -A-ACUCCAUC
+MAF_11670    GU--UCACGUU
+MAF_01630    -----AACGCC
+MAF_19550    ------GCGCC
+MAF_33990    ------GCGCC
+MAF_08840    ------UCGGC
+MAF_12570    -U--UUGCGUC
+MAF_15620    ------GCGGC
+MAF_08520    ------GCGGC
+MAF_05610    ------UCGUC
+MAF_01290    -G--AUG----
+MAF_31360    ------GUCUC
+MAF_23190    -U--UGUCGCC
+MAF_29780    ------ACGUC
+MAF_12890    ------CCCGC
+MAF_18520    -U--GUGUGUC
+MAF_29850    ------GCGCU
+MAF_22890    ------GGCUU
+MAF_14980    ------G-GUC
+MAF_05320    ------GCGCC
+MAF_27180    -A----ACGGC
+MAF_31870    ------GCACC
+MAF_35670    ------GCGUG
+MAF_30200    CG--UUACGCU
+MAF_38330    -C--GUG----
+MAF_22700    ------GCGGC
+MAF_26120    ------GCGGU
+MAF_30860    ------CCGUC
+MAF_12700    -G--G-GUGUC
+MAF_38230    -G--UGCAGUC
+MAF_34070    -U--UCACGUU
+MAF_15870    ------UCAUC
+MAF_04690    -U--UU--GUC
+MAF_21870    -----UG----
+MAF_09050    -U--UUGCGUC
+MAF_13480    -U--CUGCGUC
+MAF_06510    -U--AUGCGUC
+MAF_33310    -U--UUGCGUC
+MAF_28010    -U--UUGCGUC
+MAF_35920    -U--CUGCG--
+MAF_28660    -U--UCGCGUC
+MAF_16380    -U--UUGCGUC
+MAF_09130    -U--CUGUGUC
+MAF_22580    -U--CUGCGUC
+MAF_16390    -U--UUGCGUC
+MAF_33530    -U--UUGCGUC
+MAF_09610    -U--AUGCGUC
+MAF_20770    -U--CUGCGUC
+MAF_02330    -U--UUGCGUC
+MAF_07620    -U--AUGCGUC
+MAF_06940    -U--UUGCGUC
+MAF_14140    -U--CUGCGUC
+MAF_06770    -U--CUGCGUC
+MAF_32220    -U--UUGCGUC
+MAF_33550    -U--UUGCGUC
+MAF_06700    -U--AUGCGUC
+MAF_27520    -U--UUGCGUC
+MAF_33320    -U--UUGCGUC
+MAF_11100    -U--CUGUGUC
+MAF_35030    -U--CUGCGUC
+MAF_22600    -U--CUGCGUC
+MAF_24180    -U--UUGCGUC
+MAF_10870    -G--CAGAGUC
+MAF_06500    -U--AUGCGUC
+MAF_27700    -U--CUGCGUC
+MAF_03810    -U--UUGUGUC
+MAF_30680    -U--CUGCGUC
+MAF_29960    -U--UUGCGUC
+MAF_08690    -U--UUACGUC
+MAF_09620    -U--AUGCGUC
+MAF_01990    -U--CUGCGUC
+MAF_10230    -U--UUGCGUC
+MAF_05770    -U--CUGCGUC
+MAF_10920    -U--CUGCGUC
+MAF_02340    -U--UUGCGUC
+MAF_38190    -U--AGAUGUU
+MAF_08700    -U--UUACGUC
+MAF_14150    -U--CUGCGUC
+MAF_22590    -U--CUGCGUC
+MAF_35910    -U--CUGCGUC
+MAF_14970    -U--CAGAUUC
+MAF_32590    -U--UUGCGUC
+MAF_24170    -U--UUGCGUC
+MAF_32210    -U--UUGCGUC
+MAF_35800    -U--UUGCGUC
+MAF_12320    -U--CUGCGUC
+MAF_13490    -U--CUGCGUC
+MAF_27530    -U--UUGCGUC
+MAF_07320    -U--UUGCGUC
+#=GC SS_cons .>..>>>>>>>
+#=GC RF      .U..uUGCGUC
+//

@@ -1,0 +1,882 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS MAP_4265  WT 0.73
+#=GS MAP_2139  WT 0.61
+#=GS MAP_0978c WT 0.50
+#=GS MAP_2662c WT 0.54
+#=GS MAP_3995c WT 0.79
+#=GS MAP_0790  WT 0.68
+#=GS MAP_0791c WT 0.68
+#=GS MAP_1040c WT 0.66
+#=GS MAP_2536  WT 0.42
+#=GS MAP_1935  WT 0.79
+#=GS MAP_1584c WT 0.67
+#=GS MAP_2661  WT 0.48
+#=GS MAP_3060c WT 0.47
+#=GS MAP_1738  WT 0.64
+#=GS MAP_2544c WT 0.50
+#=GS MAP_1447c WT 0.81
+#=GS MAP_2373c WT 0.56
+#=GS MAP_3694c WT 1.16
+#=GS MAP_1039  WT 0.66
+#=GS MAP_0060c WT 0.88
+#=GS MAP_1633c WT 1.26
+#=GS MAP_0261c WT 1.39
+#=GS MAP_3035  WT 0.61
+#=GS MAP_2273c WT 1.59
+#=GS MAP_2338  WT 0.72
+#=GS MAP_4292  WT 0.92
+#=GS MAP_3825  WT 0.36
+#=GS MAP_2050  WT 0.50
+#=GS MAP_0354c WT 1.26
+#=GS MAP_2001c WT 0.50
+#=GS MAP_2372  WT 0.43
+#=GS MAP_1739c WT 0.93
+#=GS MAP_3994  WT 0.79
+#=GS MAP_2563  WT 0.53
+#=GS MAP_3100c WT 0.97
+#=GS MAP_2752  WT 1.42
+#=GS MAP_1502  WT 1.54
+#=GS MAP_1257  WT 0.55
+#=GS MAP_4244  WT 1.48
+#=GS MAP_0977  WT 0.58
+#=GS MAP_3684  WT 1.11
+#=GS MAP_2436c WT 1.53
+#=GS MAP_3968  WT 1.28
+#=GS MAP_0251c WT 0.79
+#=GS MAP_2339c WT 0.85
+#=GS MAP_1698c WT 1.10
+#=GS MAP_3377  WT 0.42
+#=GS MAP_3036c WT 0.61
+#=GS MAP_2564c WT 0.65
+#=GS MAP_3936  WT 1.10
+#=GS MAP_4143  WT 1.28
+#=GS MAP_1609c WT 0.96
+#=GS MAP_0901  WT 1.36
+#=GS MAP_2075c WT 1.46
+#=GS MAP_0180  WT 0.96
+#=GS MAP_0326  WT 1.52
+#=GS MAP_3760c WT 1.31
+#=GS MAP_0669  WT 0.97
+#=GS MAP_0232c WT 1.15
+#=GS MAP_2980c WT 0.50
+#=GS MAP_1925  WT 0.36
+#=GS MAP_3631c WT 0.90
+#=GS MAP_2826  WT 1.46
+#=GS MAP_2542  WT 0.47
+#=GS MAP_1668c WT 1.08
+#=GS MAP_4212  WT 0.57
+#=GS MAP_1696c WT 1.19
+#=GS MAP_1073  WT 0.50
+#=GS MAP_4126  WT 1.35
+#=GS MAP_4213c WT 0.41
+#=GS MAP_0963c WT 1.36
+#=GS MAP_1838  WT 0.75
+#=GS MAP_3773c WT 1.57
+#=GS MAP_0985  WT 0.92
+#=GS MAP_0595c WT 1.23
+#=GS MAP_2637c WT 1.17
+#=GS MAP_1246  WT 0.78
+#=GS MAP_0216  WT 1.46
+#=GS MAP_0461  WT 1.53
+#=GS MAP_0722  WT 0.58
+#=GS MAP_3673c WT 0.94
+#=GS MAP_3476c WT 0.88
+#=GS MAP_1222  WT 1.33
+#=GS MAP_1625  WT 0.46
+#=GS MAP_3024c WT 0.92
+#=GS MAP_2391  WT 1.46
+#=GS MAP_0201  WT 1.48
+#=GS MAP_3320  WT 1.33
+#=GS MAP_2950c WT 1.10
+#=GS MAP_1626c WT 0.54
+#=GS MAP_1019  WT 1.35
+#=GS MAP_4051  WT 0.95
+#=GS MAP_4131  WT 0.76
+#=GS MAP_2283  WT 1.13
+#=GS MAP_3547c WT 1.29
+#=GS MAP_2286c WT 1.19
+#=GS MAP_1667  WT 1.08
+#=GS MAP_2534c WT 1.38
+#=GS MAP_4246  WT 1.48
+#=GS MAP_2331c WT 0.53
+#=GS MAP_3378c WT 0.86
+#=GS MAP_3243  WT 1.24
+#=GS MAP_0429c WT 0.40
+#=GS MAP_0161  WT 1.26
+#=GS MAP_1247  WT 0.56
+#=GS MAP_0812  WT 0.84
+#=GS MAP_2082  WT 0.78
+#=GS MAP_2848c WT 1.29
+#=GS MAP_1157c WT 0.58
+#=GS MAP_2002c WT 1.70
+#=GS MAP_0529c WT 0.60
+#=GS MAP_1226  WT 1.01
+#=GS MAP_3354c WT 0.80
+#=GS MAP_3355c WT 1.12
+#=GS MAP_2974c WT 1.22
+#=GS MAP_0904  WT 1.21
+#=GS MAP_4288  WT 1.70
+#=GS MAP_4127c WT 1.50
+#=GS MAP_3027  WT 0.98
+#=GS MAP_0308c WT 1.13
+#=GS MAP_2384  WT 0.79
+#=GS MAP_3023  WT 0.92
+#=GS MAP_0511c WT 0.75
+#=GS MAP_0024c WT 1.21
+#=GS MAP_3966  WT 1.59
+#=GS MAP_0659c WT 1.48
+#=GS MAP_2033  WT 1.33
+#=GS MAP_3531c WT 0.99
+#=GS MAP_3116c WT 1.16
+#=GS MAP_0676  WT 0.79
+#=GS MAP_1393c WT 1.27
+#=GS MAP_3662c WT 0.71
+#=GS MAP_1936c WT 0.79
+#=GS MAP_3362c WT 0.82
+#=GS MAP_3527  WT 1.07
+#=GS MAP_0325c WT 1.53
+#=GS MAP_2639  WT 1.12
+#=GS MAP_1848c WT 1.53
+#=GS MAP_2765c WT 1.28
+#=GS MAP_0986c WT 0.81
+#=GS MAP_0527  WT 0.67
+#=GS MAP_1798  WT 1.22
+#=GS MAP_1612c WT 1.57
+#=GS MAP_3016c WT 0.40
+#=GS MAP_2245c WT 0.43
+#=GS MAP_0943c WT 0.43
+#=GS MAP_3630  WT 1.06
+#=GS MAP_3811  WT 1.30
+#=GS MAP_1483c WT 0.66
+#=GS MAP_0723  WT 0.99
+#=GS MAP_0210c WT 1.43
+#=GS MAP_2442  WT 1.25
+#=GS MAP_1454  WT 1.10
+#=GS MAP_1482  WT 0.61
+#=GS MAP_2083c WT 0.78
+#=GS MAP_3530  WT 0.99
+#=GS MAP_2626  WT 1.17
+#=GS MAP_2265c WT 0.81
+#=GS MAP_2125  WT 1.35
+#=GS MAP_0826c WT 1.32
+#=GS MAP_2357  WT 1.15
+#=GS MAP_3546  WT 0.90
+#=GS MAP_1697  WT 1.10
+#=GS MAP_1074c WT 0.38
+#=GS MAP_2051c WT 0.74
+#=GS MAP_0309c WT 1.67
+#=GS MAP_0250  WT 0.72
+#=GS MAP_4312  WT 1.36
+#=GS MAP_3716c WT 1.30
+#=GS MAP_0447  WT 0.71
+#=GS MAP_2450c WT 1.06
+#=GS MAP_2053  WT 0.90
+#=GS MAP_0827c WT 1.42
+#=GS MAP_2796c WT 1.46
+#=GS MAP_0406  WT 0.49
+#=GS MAP_1134  WT 1.43
+#=GS MAP_2858  WT 0.47
+#=GS MAP_1127c WT 0.70
+#=GS MAP_2721  WT 0.43
+#=GS MAP_4113  WT 0.59
+#=GS MAP_1822c WT 1.33
+#=GS MAP_3638  WT 1.22
+#=GS MAP_3911c WT 1.57
+#=GS MAP_0439  WT 1.32
+#=GS MAP_2981c WT 1.43
+#=GS MAP_3401  WT 1.01
+#=GS MAP_0907  WT 1.58
+#=GS MAP_2805  WT 1.09
+#=GS MAP_0470  WT 1.70
+#=GS MAP_3604  WT 1.57
+#=GS MAP_0528  WT 0.43
+#=GS MAP_2645c WT 1.30
+#=GS MAP_2402  WT 1.67
+#=GS MAP_2054c WT 1.28
+#=GS MAP_0608c WT 0.48
+#=GS MAP_1968c WT 0.71
+#=GS MAP_1227  WT 1.58
+#=GS MAP_0399c WT 1.46
+#=GS MAP_1891c WT 1.39
+#=GS MAP_1329c WT 1.28
+#=GS MAP_3672  WT 0.80
+#=GS MAP_2624c WT 0.38
+#=GS MAP_4279  WT 0.43
+#=GS MAP_0510  WT 1.04
+#=GS MAP_2917c WT 1.26
+#=GS MAP_1997  WT 1.66
+#=GS MAP_1126  WT 0.43
+#=GS MAP_2071c WT 0.88
+#=GS MAP_3340  WT 1.27
+#=GS MAP_1752c WT 1.31
+#=GS MAP_0312  WT 0.95
+#=GS MAP_1320c WT 1.22
+#=GS MAP_2176c WT 1.30
+#=GS MAP_0805c WT 1.02
+#=GS MAP_2140c WT 0.55
+#=GS MAP_2000  WT 0.53
+#=GS MAP_3626c WT 1.58
+
+MAP_4265     AGC---AGACG--CAAAAGC--C-CCCGAC--A---------CG------
+MAP_2139     AAC--GUGAAG--CUAGUUU---CA-C-GU--U---------CG------
+MAP_0978c    AGC---AGACG--CGAAAGC--ACC-C-GA--C---------AC------
+MAP_2662c    AGC--GUCACG--CCAGAGU---GA-C-GC--C---------GA------
+MAP_3995c    AGC--GUCGAG--UUGUUGG---GCCG-AA--A---------AA------
+MAP_0790     AAA---AGACG--CGAAAGU--CCCCC-AA--A---------AC------
+MAP_0791c    AGC---AGACG--CGAAAGU--CCCCC-AA--A---------AU------
+MAP_1040c    A-------ACG--CAAUCGC---CC-A-GU--C---------CC------
+MAP_2536     AGC--GUCACG--CCAGCGU---GG-C-GC--U---------CG------
+MAP_1935     AGC--GCGCCC--U---------GA-G-GC--C-----------------
+MAP_1584c    AGC--GUCACG--CCGGCGU---GG-C-UC--U---------CG------
+MAP_2661     AGC--GUCACG--CCAGCGU---GA-C-GC--U--------CGG------
+MAP_3060c    AGC---AGACG--CAAAAGC--CC-CC-GA--C---------UC------
+MAP_1738     AAA--GUGCAA--CUGCCGA---CGGU-CC--C---------AC------
+MAP_2544c    AGC---AGACG--CAAAAGC---CCCC-GA--C--------ACG------
+MAP_1447c    CGU--GUAACG--CCACGGC---GGAG-AA--A---------UC------
+MAP_2373c    AAA--GUGCAA--CUAGCGA---CG-C-GU--U---------UC------
+MAP_3694c    AGC-GC--AAU--CAAAAAC---CC-C-GC--U---------UC------
+MAP_1039     A-------ACG--CAAUCGC---CC-A-GU--C---------CC------
+MAP_0060c    GGC--GUAACG--CCACGGC---GA-U-UU--U---------CC------
+MAP_1633c    A-------------GGGUGG---GG-G-AA--C-----------------
+MAP_0261c    CGC--GUGCGG--U-----U---GC-C-AU--C-----------------
+MAP_3035     AAC--GUCACG--CCAGCGU---GA-C-AC--C---------GG------
+MAP_2273c    -------CCAA--GAAGUGC---CG-G-GC--C-----------------
+MAP_2338     AGC--GUGCAA--CCACUGC---GA-A-AA--U---------UC------
+MAP_4292     CGC--GUAACC--CCACGGC---GA---AA--U---------CU------
+MAP_3825     AGC--GUCACG--CCAGCGU---GG-C-GC--C---------GG------
+MAP_2050     AGC--GUCACG--CUAGCGU---GA-CAGU------------CG------
+MAP_0354c    AGC--G-GGCC--CUGGAUC--GGGUC-AC--G---------UC------
+MAP_2001c    AGC---AGACG--CAAAAGC---CCCU-GA--U---------GC------
+MAP_2372     AGA--GUGCAA--CUACCGA---CGGC-AC--C---------UC------
+MAP_1739c    AAA--GUGCUA--CUGCCGA---CG-C-AU--U--------UCC------
+MAP_3994     AAC--GUCGAG--UUGUUGG---GC-G-AU--U---------AA------
+MAP_2563     AGC---AGACG--CAAAACC--ACC-C-GA--C---------AC------
+MAP_3100c    AAC--GUGUAG--CUGUUGC---GA-C-UU--U---------UC------
+MAP_2752     A------------CAGCUGU---CCCG-GA--C-----------------
+MAP_1502     -------GCCG--CUGCACC---GG-G-GC--G---------GG------
+MAP_1257     AGC--GUGAAG--UUAGUUU---CA-C-GC--U---------CG------
+MAP_4244     AAC----GUCU--GUGUGGU---CC-C-GG--CG------GAGG------
+MAP_0977     AGC---AGACA--CAAAAGC--ACC-C-AA--AA-------CAU------
+MAP_3684     AGU--GUGUAC--UCAUGGC---GA-G-AU------------UC------
+MAP_2436c    C-------CCG--CCGUGAC---GA-A-GU--------------------
+MAP_3968     G-------ACG-CUCGACUC---CG-A-GU--UG------CCUU------
+MAP_0251c    AGC--GUGCAC--UGGCCGC---GA-A-AA--A---------AC------
+MAP_2339c    AGC--GUGCAG--UGGUUGC---GA-A-AA--A---------UC------
+MAP_1698c    AUC--GUCGGG--G---------GC-U-GU--U---------CC------
+MAP_3377     AGC--GUCACG--CUAGCGU---GGCC-GC------------CG------
+MAP_3036c    ACC--GUCACG--CUGGCGU---GA-C-AC--U--------CGG------
+MAP_2564c    AGC---AGACG--CAAAAAC--CCC-C-AA--U--------UCU------
+MAP_3936     A--------CG--GAAAAGC---CC-G-GU--CCCUCGAAAU-C------
+MAP_4143     A-------AAG--C---------CC-G-GA--U---------UG------
+MAP_1609c    C--------CA--CUACUGC---GCUC-GA--CG-------AUG------
+MAP_0901     C------CGCC--UCUGAGC---GA-C-AA--C---------GACGCGUC
+MAP_2075c    C------GACG--CCCGCCU---CA-C-----C-----------------
+MAP_0180     C------------CUACAGC---GA-C-GA--CG-------AUC------
+MAP_0326     A------CGAG--CGGCGGA---CG-U-GC--C-----------------
+MAP_3760c    A-------GGG--CCAUCGCG-UGA---GU--C---------UCUGUGGU
+MAP_0669     CAC-GGUGGGG--CUGGUGC---GA-U-----------------------
+MAP_0232c    A-------ACG--CUGCCCC---GC-C-UC--CG-------GCG------
+MAP_2980c    AGC---AGACG--CAAAAGC--ACG-C-GA--C---------AC------
+MAP_1925     AGC--GUCACG--CUGGCGU---GG-C-GC--C---------GG------
+MAP_3631c    AGC--GUGCCG--U---------GGG------------------------
+MAP_2826     G------CAGA--CGGUAUG---CC-C-GC--C--------GCG------
+MAP_2542     AGC--A-GACG--CAAAAGC--CCCUC-GA--C---------GC------
+MAP_1668c    GGC--GACACC--C---------CG-C-GA------------GU------
+MAP_4212     AGC--GUCACG--CCAGCGU---GACC-GU------------CG------
+MAP_1696c    AGC-GGGGUCG--CAACCGC---GGU----------------GC------
+MAP_1073     AGC--GUCACG--CUGGCGU---GA-C-GC--U---------CG------
+MAP_4126     C------GAAA--CCCCCGG---GA-U-GC--C---------UG------
+MAP_4213c    AGC--GUCACG--CUGGCGU---GG-C-AC--C---------CG------
+MAP_0963c    AGC--GCUCGG--C-----C---GG-C-GG--U---------GC------
+MAP_1838     AGA--CUGCAA--CUACGCA---CA-C-----C---------CG------
+MAP_3773c    AGC--GUUAAU-----------------GA------------AA------
+MAP_0985     GGU--GUAACG--CCACGGC---GGUC-----U---------CC------
+MAP_0595c    C------CACC--CCUUGGC---GC-C-----G-----------------
+MAP_2637c    A------------CGAAUGG---GC-C-CC--C---------GC------
+MAP_1246     AAA--GUGCAA--CUGGCGA---CG-C-AU--U---------UA------
+MAP_0216     G------------CCGGCGG---CG-G-GA--A---------CC------
+MAP_0461     AAA---ACGGG--C---------GG-U-GG--U---------CU------
+MAP_0722     AGC---AGACG--CAAAAGC--CCC-C-GA--UC-------CAU------
+MAP_3673c    AGC---AGACG-UGAAAUCC---CC-C-GA--C---------CC------
+MAP_3476c    AAC--GUGCAC--UGGCGGC---GA-A-AA--U---------UU------
+MAP_1222     A-------ACG-GUGGCCGC---CU-C-GA--A-----------------
+MAP_1625     AGC--GUCACG--CCAGUGU---GGCC-GC------------GG------
+MAP_3024c    CAC--GAAUAC--CCUUCGG--CCGG----------------CA------
+MAP_2391     C------GAGG--CGGGCCC---GGU------------------------
+MAP_0201     C------GCCC--CAAGUUU--CGU-C-----------------------
+MAP_3320     AAC--GCAAAACGGUGCGGC---CU-C-GA--------------------
+MAP_2950c    A-------------GAACUC---CC-C-GC--A---------CC------
+MAP_1626c    AGC--GUCACG--CCAGCGU---GA-C-GC--C---------GG------
+MAP_1019     CAU-CC-GAGA--AAACCGG---CG-C-GC--------------------
+MAP_4051     AAC--GUCGAC--UUG-UGC---GG-C-GAGAUC-------GCG------
+MAP_4131     C-------------------------CGGC--C---------UU------
+MAP_2283     AAC--GCGCCC--C---------GC-C-----------------------
+MAP_3547c    AGC--GUGGGG-GCUGUGUA----G-GCGA--G---------GC------
+MAP_2286c    C-------ACA--CAGCCGC---GGG----------------CC------
+MAP_1667     CAC--GACACC--C---------CG-C-GA------------GC------
+MAP_2534c    A-------GAU--CGGGCUG---GG-U-GA------------GC------
+MAP_4246     C------GGCC--ACAACUU---GG-C-AU--C-----------------
+MAP_2331c    AGC---AGACA--CAAUAGC--GCCGC-GA--C---------AC------
+MAP_3378c    CGC--GUU-CG--CUCUCGC---GUUC-GC------------UU------
+MAP_3243     ---------CG--GAGACGA---CC-C-GC--C---------AC------
+MAP_0429c    CGC-CGUCACG--CUGGCGU---GA-C-GC--U---------CG------
+MAP_0161     A-------ACG--AGGGUGG---GG-CAGA--U--------GCG------
+MAP_1247     AAA--GUGCAA--CCAGCGA---CG-U-GU--U---------UC------
+MAP_0812     AAC--GUCGAC--UUGUUGG---G--CGAA--A---------UC------
+MAP_2082     AAC--GUGGGG--UUGUUGC---G--CGGA------------UC------
+MAP_2848c    AGC---AGGCG--C----------G-G-GC--C-----------------
+MAP_1157c    GGC--GUCACG--CUGGCGU---GA-C-GC--U----------C------
+MAP_2002c    A-------UUG--AUAGUUC---CU-A-----U-----------------
+MAP_0529c    CUC--G--------------------CCGU--U---------UU------
+MAP_1226     CUC--GUAACG--CUACGGC---GA-A-GA--A---------UG------
+MAP_3354c    CGC--G------------------A-C-AC--C---------CU------
+MAP_3355c    AAC--GUCGAC-UCUAUUGC---GC-G-AU--U---------UC------
+MAP_2974c    A------------CCGCCCG---GG-U-GA--------------------
+MAP_0904     C--------CG--CGAAGGC---CG-G-GC--G---------UC------
+MAP_4288     AGC--GAGCGG--CCAAUCU---CU-A-AA--------------------
+MAP_4127c    CAC--GAAACC--CCCGGG---------GC--C---------UG------
+MAP_3027     AGC---AGACA--CAAAAGU--CCCCU-----U---------UU------
+MAP_0308c    AACCCGUGGCC--C---------GG-C-GC------------UC------
+MAP_2384     AGC--GUGCAC--CCAGCGC---GA-A-AA--A---------GU------
+MAP_3023     CAC--GAAUAC--CCUCCGG--GCGG----------------CA------
+MAP_0511c    AGA--UUGCAA--CCACGCA---CAUC--C--C---------GA------
+MAP_0024c    C-------------GAAGGU---CACG-AC--C---------UC------
+MAP_3966     A-------ACA--AGUGCUU---GCA------------------------
+MAP_0659c    G------------CGGGUUU---GC-A-----U---------CU------
+MAP_2033     C------------CAAGGUU---GC-C-AA------------UC------
+MAP_3531c    AGC---AGCGG--CAGUAGC---G------------------CA------
+MAP_3116c    A------GCCG--C---------CC-C-GC--U---------UC------
+MAP_0676     AGG--G-----------------CAUC-AC------------CG------
+MAP_1393c    C------------CAUGCGC---GA-A-GC--C-----------------
+MAP_3662c    AAC--GUGCAC--UCAGCGC---GA-A-----U---------UU------
+MAP_1936c    AGC--GCGCCC--U---------GA-G-GC--U-----------------
+MAP_3362c    CAC-AG--------------------C-GC--C---------GG------
+MAP_3527     C-------AAU--U------------C-GC--U---------UG------
+MAP_0325c    C------GGCG--UCGUCGCC-GGA-C-----U---------GC------
+MAP_2639     A--------AU-CCCGUUGC---GC-C-----------------------
+MAP_1848c    AAC---AAUCG-CUGGCCGU---GA-A-GA--C---------CU------
+MAP_2765c    G------GACG--CAGUGGC---G------------------UU------
+MAP_0986c    CUC--GUAACG--CCACGGC---GGCC-GA--A---------UC------
+MAP_0527     AGC--GUCAAG--UUAGCGU---CA-C-GC--U---------CG------
+MAP_1798     A------GCCG--CCGCCGC--GGC-U-GA--C-----------------
+MAP_1612c    A------------CCGGUGA---GC-C-GC--U---------GGGGGUGG
+MAP_3016c    CCC--GUCACG--CUGGCGU---GA-C-GC--U---------CG------
+MAP_2245c    GGC--GUCACG--CUGGCGU---GA-C-GC--U---------CG------
+MAP_0943c    AGA--GUGCAA--CUACCGA---CGGC-GC--C---------AC------
+MAP_3630     ---------CG--CGAGCGU---GCGU---------------GG------
+MAP_3811     ACA--GCGGGC--CCGCCG---------GU--U-----------------
+MAP_1483c    AGU--GUGCGA--CUAGUUU---CA-C-GC--U---------CG------
+MAP_0723     AAC--GUGUAC--UCACGGC--UGA-U-----U---------UU------
+MAP_0210c    A-------------GACGGC---AC-C-GC--A---------GA------
+MAP_2442     GGC--G-------------C---GG-C-GG--C---------UG------
+MAP_1454     C-------------GAUGGC---CC-G-GC--C---------AC------
+MAP_1482     AAC--GUGAAG--UUAGUUU---CA-C-GC--U---------CG------
+MAP_2083c    AAC--GUGGAG--UUGUUGC---GG-A-AA--A---------UC------
+MAP_3530     AGC---AGCGG--CAGUAGC---GC-U-GA--C-----------------
+MAP_2626     C--------CG--CGAACGC---GCGC-GU--C---------CC------
+MAP_2265c    AGC--GUGCAC--UCACCGC---GA-U-AA--U---------UC------
+MAP_2125     G------------CGACGGC---GG-C-GU--C---------AU------
+MAP_0826c    A-------------GGAGCC---GG-C-GU--C--------GCG------
+MAP_2357     C--------CC--CUGCCGC---GG-C-GC--G--------GCG------
+MAP_3546     AGC--GUGGGG-GCCAUGUA--CGG-A-----U---------UG------
+MAP_1697     CGC--GUCGGG--G---------GC-U-GU--C---------CC------
+MAP_1074c    AGC--GUCACG--CCAGCGU---GG-CGGC------------GG------
+MAP_2051c    ACU--GUCACG--CCAGCGU---GA-C-GC--U---------CG------
+MAP_0309c    C------------CAACCUU---GA-A-AU--U---------CG------
+MAP_0250     AAC--GUGCAU--UCAGUGC---GA-A--A--U---------CC------
+MAP_4312     A-------------CAGAUC--AGA-C-AA--U---------AA------
+MAP_3716c    G------------CCAUGCC---GG-C--C--U-----------------
+MAP_0447     AGC--GUCACG--CAGGAGU---GA-C-AC--C---------GG------
+MAP_2450c    A-------ACG-AUGAGCGC---GC-C-CA--U---------GG------
+MAP_2053     AGC--GUCGAG--UUGUUGC---G--CCGA------------AA------
+MAP_0827c    A------------UUGCCGU---CG-C-GA--U-----------------
+MAP_2796c    AGA--CUUAAA--CCAUGGC---GCCG-GU------------UU------
+MAP_0406     AAC--GUCACG--CCAGAGU---GA-C-GC--C---------GG------
+MAP_1134     A-------GGG--CGGACGC---GA-C-AC--A--------AAU------
+MAP_2858     GAC-AGUCACG--CUGGCGU---GA-C-GC------------UG------
+MAP_1127c    CUC--G--------------------C-CU--U---------GC------
+MAP_2721     AGC--GUCACG--CCAGCGU---GG-C-GA--C---------CG------
+MAP_4113     AGA--GUGCAA--CUAGCGA---CGGCCGU------------UC------
+MAP_1822c    A------------CAACUUU---CC-C-AA--C---------GC------
+MAP_3638     ACC--GUGGGC--CUUACGUC-G-GGC-----U---------UC------
+MAP_3911c    AGU--UUUAAC--U---------GGA----------------CA------
+MAP_0439     A-------------GGACGC---GG-U-GA--------------------
+MAP_2981c    C------CCAG--CAACAGC---GC-C-GC------------GA------
+MAP_3401     AAC--GUCGAG--UUGUUGGGCCGA-A-AA--C-----------------
+MAP_0907     CGC---AGCAU--CAAAAAG---GCU----------------GC------
+MAP_2805     AGC--GUGGGGCCUGGGUAC---GA-A-----C---------CU------
+MAP_0470     AGC--GGCCCG--CCGAUCC--CGC-C-----------------------
+MAP_3604     A-------------GACUCA---GC-A-UC--U---------UC------
+MAP_0528     CGC--G--------------------C-GC--C-----------------
+MAP_2645c    C------------CCGGCGC---GG---AA--C---------GC------
+MAP_2402     A------------CAGUUCU---GC-G-AC--UC-------GAA------
+MAP_2054c    A--------AG--C--------------GA--U---------UU------
+MAP_0608c    AGC--GUCACG--CCAGCGC---GG-C-GC--U---------GG------
+MAP_1968c    AAC--GUGCAC--UGGCGGC---GAGC-----U---------UC------
+MAP_1227     A--------AU--CCGGAUU--U---C-GC------------UC------
+MAP_0399c    G-------ACA--C---------GC-C-AA--UC-------GUG------
+MAP_1891c    GGC--GCGAUG--C---------CC-C-GU--C--------GGA------
+MAP_1329c    A----------------------CG-C-GU--U---------GC------
+MAP_3672     AGC---AGACG--CAAAAGC--C-CCC-AA--U--------GUC------
+MAP_2624c    AGC--GUCACG--CCAGCGU---GACC-GC------------CG------
+MAP_4279     G------------CUGGCGU---GA-CGGC------------CG------
+MAP_0510     A----------------------CA-C-GC--C---------GA------
+MAP_2917c    C------CACC-CC---------GG-C-AA------------CC------
+MAP_1997     A-------ACG--GCGGUUA---CCC----------------CA------
+MAP_1126     CGC--G--------------------CCGC--C--------GCG------
+MAP_2071c    G------------CCACGGC---G--A-GA--U---------UU------
+MAP_3340     A------------CAUUCGC--UGA-C-AC--U---------CG------
+MAP_1752c    -------------CGACCGC--UGACC-G-------------AA------
+MAP_0312     A-------ACG--C------------CAGC--U---------GC------
+MAP_1320c    AGU--GUGAAG--CCUGGGC---GAGC--C--C---------CC------
+MAP_2176c    A------------CGGGUUC---GAU----------------GC------
+MAP_0805c    A------CACG--C---------CC-C-GA--A--------AAC------
+MAP_2140c    AGC--GUGAAG--CUAGUUU---CA-C-GC--U---------CG------
+MAP_2000     AGC---AGACG--CAAAAGC--CCCGC-GA--C---------AC------
+MAP_3626c    G------CUCG--UGCGUUC---GGG----------------CG------
+#=GC SS_cons :<<..<<<<<<..<<<<<<<...<<.<.<<..-.........<<......
+#=GC RF      AgC..GUGacG..CcagcGc...Gc.C.Gc..u.........cg......
+
+MAP_4265     ---------------------------------------CC----CUGC-
+MAP_2139     ---------------------------------------CG-----GUC-
+MAP_0978c    ---------------------------------------GCC---GAUG-
+MAP_2662c    ---------------------------------------AG-----CCC-
+MAP_3995c    ---------------------------------------CG-----GCU-
+MAP_0790     ---------------------------------------CC-----GGC-
+MAP_0791c    ---------------------------------------GC----CGGG-
+MAP_1040c    ---------------------------------------GU----UGCG-
+MAP_2536     ---------------------------------------GG-----UCC-
+MAP_1935     ----------------------------------------C-----GGU-
+MAP_1584c    ---------------------------------------GC-----GCC-
+MAP_2661     ---------------------------------------GC-----UUC-
+MAP_3060c    ---------------------------------------CC----CGGC-
+MAP_1738     ---------------------------------------UC-----GGG-
+MAP_2544c    ---------------------------------------CC----GGGC-
+MAP_1447c    ---------------------------------------AC-----CCC-
+MAP_2373c    ---------------------------------------CC-----GAG-
+MAP_3694c    ---------------------------------------CGG---AUGG-
+MAP_1039     ---------------------------------------GC----AACG-
+MAP_0060c    ---------------------------------------CG-----GCC-
+MAP_1633c    ----------------------------------------C----UGCU-
+MAP_0261c    ----------------------------------------C-----GUU-
+MAP_3035     ---------------------------------------UG-----ACC-
+MAP_2273c    -----------------------------------------------UA-
+MAP_2338     ---------------------------------------GG-----CGG-
+MAP_4292     ---------------------------------------CG----UUGG-
+MAP_3825     ---------------------------------------CC-----CGC-
+MAP_2050     ---------------------------------------AC-----CUC-
+MAP_0354c    ---------------------------------------AC-----GUG-
+MAP_2001c    ---------------------------------------GC-----GGC-
+MAP_2372     ---------------------------------------UC-----GGG-
+MAP_1739c    ---------------------------------------CG----AGUG-
+MAP_3994     ---------------------------------------GC-----CGU-
+MAP_2563     ---------------------------------------GCC---GAAG-
+MAP_3100c    ---------------------------------------GG-----CUC-
+MAP_2752     -----------------------------------------------AA-
+MAP_1502     ---------------------------------------UC-----UUU-
+MAP_1257     ---------------------------------------GC-----CGC-
+MAP_4244     ---------------------------------------AG----AGCC-
+MAP_0977     ---------------------------------------CG-----GCG-
+MAP_3684     ---------------------------------------CG-----GCC-
+MAP_2436c    -----------------------------------------------GU-
+MAP_3968     ---------------------------------------CG-----GGU-
+MAP_0251c    ---------------------------------------GC-----GCC-
+MAP_2339c    ---------------------------------------CG-----CCG-
+MAP_1698c    ---------------------------------------GG-----CAG-
+MAP_3377     ---------------------------------------GC-----GCC-
+MAP_3036c    ---------------------------------------UC-----ACC-
+MAP_2564c    ---------------------------------------UC-----GGC-
+MAP_3936     ---------------------------------------UCG---AGUG-
+MAP_4143     ---------------------------------------CCCACGCGGC-
+MAP_1609c    ---------------------------------------AC-----ACC-
+MAP_0901     GGG--------------------------GGAUCGGACUUC-----GGU-
+MAP_2075c    ------------------------------------------------U-
+MAP_0180     ---------------------------------------CC-----GUC-
+MAP_0326     ----------------------------------------U-----CAC-
+MAP_3760c    GAAACGA------------------CCAAGGAUCACUACCG----AGAG-
+MAP_0669     ------------------------------------------------U-
+MAP_0232c    ---------------------------------------AC----AGCC-
+MAP_2980c    ---------------------------------------GCC---GGGG-
+MAP_1925     ---------------------------------------CG-----CGC-
+MAP_3631c    ------------------------------------------------C-
+MAP_2826     ---------------------------------------UC-----AGC-
+MAP_2542     ---------------------------------------CC-----GGC-
+MAP_1668c    ---------------------------------------CA-----CCG-
+MAP_4212     ---------------------------------------CG-----CCC-
+MAP_1696c    ---------------------------------------AG-----GUC-
+MAP_1073     ---------------------------------------AC-----CGC-
+MAP_4126     ---------------------------------------CC-----CGC-
+MAP_4213c    ---------------------------------------GG-----CGC-
+MAP_0963c    ---------------------------------------CA-----UCG-
+MAP_1838     ---------------------------------------CCA---CGGC-
+MAP_3773c    ---------------------------------------AU-----GAU-
+MAP_0985     ---------------------------------------GG-----CCG-
+MAP_0595c    ----------------------------------------G-----GAC-
+MAP_2637c    ---------------------------------------AU-----CCG-
+MAP_1246     ---------------------------------------CC----GAGU-
+MAP_0216     ---------------------------------------CUU---CGGG-
+MAP_0461     ---------------------------------------UC-----CGG-
+MAP_0722     ---------------------------------------CG-----GCG-
+MAP_3673c    ---------------------------------------GC----CGUGA
+MAP_3476c    ---------------------------------------CG-----CGU-
+MAP_1222     ------------------------------------------------U-
+MAP_1625     ---------------------------------------CG-----GCC-
+MAP_3024c    ---------------------------------------GC-----GGU-
+MAP_2391     ----------------------------------------C-----GAU-
+MAP_0201     ------------------------------------------------A-
+MAP_3320     ----------------------------------------C-----GAU-
+MAP_2950c    ---------------------------------------GC----AACG-
+MAP_1626c    ---------------------------------------GC----CGCC-
+MAP_1019     ----------------------------------------C-----CGU-
+MAP_4051     ---------------------------------------CC-----GGC-
+MAP_4131     ---------------------------------------UC----CGCC-
+MAP_2283     ------------------------------------------------G-
+MAP_3547c    ---------------------------------------GU-----CCG-
+MAP_2286c    ---------------------------------------CG-----GCG-
+MAP_1667     ---------------------------------------CG-----GUG-
+MAP_2534c    ---------------------------------------GC-----CAG-
+MAP_4246     -----------------------------------------------GU-
+MAP_2331c    ---------------------------------------GC----CGUG-
+MAP_3378c    ---------------------------------------UC-----GCC-
+MAP_3243     ---------------------------------------AAC---GCCG-
+MAP_0429c    ---------------------------------------GC-----GCC-
+MAP_0161     ---------------------------------------CC----GAGC-
+MAP_1247     ---------------------------------------CC-----GAG-
+MAP_0812     ---------------------------------------GG-----CUG-
+MAP_2082     ---------------------------------------CG-----GCC-
+MAP_2848c    -----------------------------------------------CU-
+MAP_1157c    ---------------------------------------GCU---UGCG-
+MAP_2002c    ------------------------------------------------C-
+MAP_0529c    ---------------------------------------GC----CGCC-
+MAP_1226     ---------------------------------------GC-----ACC-
+MAP_3354c    ---------------------------------------CC----GCUC-
+MAP_3355c    ---------------------------------------GG-----GCG-
+MAP_2974c    ------------------------------------------------U-
+MAP_0904     ---------------------------------------CC----CACG-
+MAP_4288     ------------------------------------------------A-
+MAP_4127c    ---------------------------------------CGC---GGGC-
+MAP_3027     ---------------------------------------CG-----GAC-
+MAP_0308c    ---------------------------------------CG-----UGC-
+MAP_2384     ---------------------------------------GC-----GCG-
+MAP_3023     ---------------------------------------CC-----GCU-
+MAP_0511c    ---------------------------------------UC-----GGC-
+MAP_0024c    ---------------------------------------UU-----UCG-
+MAP_3966     ------------------------------------------------A-
+MAP_0659c    ---------------------------------------CG-----GCC-
+MAP_2033     ---------------------------------------AG----GCCG-
+MAP_3531c    ---------------------------------------CC-----GGU-
+MAP_3116c    ---------------------------------------CC----CUCG-
+MAP_0676     ---------------------------------------CC-----GCC-
+MAP_1393c    ----------------------------------------G-----GCU-
+MAP_3662c    ---------------------------------------CC----UGCC-
+MAP_1936c    ----------------------------------------C-----ACC-
+MAP_3362c    ---------------------------------------CG----GCCC-
+MAP_3527     ---------------------------------------GC-----ACC-
+MAP_0325c    ---------------------------------------UC----GGCG-
+MAP_2639     -----------------------------------------------GC-
+MAP_1848c    ---------------------------------------UC-----GAG-
+MAP_2765c    ---------------------------------------CA----AGCG-
+MAP_0986c    ---------------------------------------CG-----GCC-
+MAP_0527     ---------------------------------------CG-----GCC-
+MAP_1798     ----------------------------------------C-----CCC-
+MAP_1612c    AAUCAGGGCUGCGGGUCCAGCGUGGGACGCGGCGCCGAAUC-----GGC-
+MAP_3016c    ---------------------------------------GC-----GCC-
+MAP_2245c    ---------------------------------------GC-----GGC-
+MAP_0943c    ---------------------------------------UC-----GGG-
+MAP_3630     ---------------------------------------UC-----GCC-
+MAP_3811     ------------------------------------------------U-
+MAP_1483c    ---------------------------------------GU-----CGC-
+MAP_0723     ---------------------------------------UG-----GCG-
+MAP_0210c    ---------------------------------------GG-----GUU-
+MAP_2442     ---------------------------------------GU----AGCC-
+MAP_1454     ---------------------------------------GC-----CUG-
+MAP_1482     ---------------------------------------CG-----ACC-
+MAP_2083c    ---------------------------------------GG-----CCG-
+MAP_3530     ------------------------------------------------C-
+MAP_2626     ---------------------------------------GG----CCCG-
+MAP_2265c    ---------------------------------------GA-----GGC-
+MAP_2125     ---------------------------------------GA-----CCG-
+MAP_0826c    ---------------------------------------GC-----GGC-
+MAP_2357     ---------------------------------------UGU---AACC-
+MAP_3546     ---------------------------------------CG-----GAC-
+MAP_1697     ---------------------------------------UG-----CCG-
+MAP_1074c    ---------------------------------------CG-----GUC-
+MAP_2051c    ---------------------------------------AG-----GUC-
+MAP_0309c    ---------------------------------------GC-----CCC-
+MAP_0250     ---------------------------------------GG-----CGC-
+MAP_4312     ---------------------------------------UC-----GUA-
+MAP_3716c    ----------------------------------------G-----ACU-
+MAP_0447     ---------------------------------------CC-----GCC-
+MAP_2450c    ---------------------------------------CC-----GGC-
+MAP_2053     ---------------------------------------UC-----GCU-
+MAP_0827c    -----------------------------------------------GA-
+MAP_2796c    ---------------------------------------CC-----GGC-
+MAP_0406     ---------------------------------------CC-----GUC-
+MAP_1134     ---------------------------------------GG-----ACC-
+MAP_2858     ---------------------------------------GC-----GCC-
+MAP_1127c    ---------------------------------------UC-----GCC-
+MAP_2721     ---------------------------------------CC-----UCC-
+MAP_4113     ---------------------------------------UC-----GGG-
+MAP_1822c    ---------------------------------------CU----UGAG-
+MAP_3638     ---------------------------------------CG-----GUC-
+MAP_3911c    ---------------------------------------GU-----UUU-
+MAP_0439     ----------------------------------------C-----GGU-
+MAP_2981c    ---------------------------------------GG-----AAA-
+MAP_3401     -----------------------------------------------CC-
+MAP_0907     ---------------------------------------GC-----GAC-
+MAP_2805     ---------------------------------------CG-----UUC-
+MAP_0470     ---------------------------------------CG-----AG--
+MAP_3604     ---------------------------------------UC----GGUG-
+MAP_0528     ----------------------------------------C-----GCC-
+MAP_2645c    ---------------------------------------GC----CGGG-
+MAP_2402     ---------------------------------------CG-----CCU-
+MAP_2054c    ---------------------------------------CG-----GCG-
+MAP_0608c    ---------------------------------------GC-----GCC-
+MAP_1968c    ---------------------------------------UC-----GCG-
+MAP_1227     ---------------------------------------CU-----GCC-
+MAP_0399c    ---------------------------------------UG----UAGC-
+MAP_1891c    ---------------------------------------CC----AGGU-
+MAP_1329c    ---------------------------------------CG-----GGG-
+MAP_3672     ---------------------------------------AC----GGCG-
+MAP_2624c    ---------------------------------------CC-----GGC-
+MAP_4279     ---------------------------------------GC-----GCC-
+MAP_0510     ---------------------------------------UCG---GGAU-
+MAP_2917c    ---------------------------------------AC-----UAG-
+MAP_1997     ---------------------------------------GC-----GUU-
+MAP_1126     ---------------------------------------UCG---UGCC-
+MAP_2071c    ---------------------------------------CG-----CCC-
+MAP_3340     ---------------------------------------UCA--UUGAC-
+MAP_1752c    ---------------------------------------CC-----GGU-
+MAP_0312     ---------------------------------------GG-----AUC-
+MAP_1320c    ---------------------------------------UC-----GGC-
+MAP_2176c    ---------------------------------------CG----CCGG-
+MAP_0805c    ---------------------------------------CC-----UCC-
+MAP_2140c    ---------------------------------------AC-----CGC-
+MAP_2000     ---------------------------------------GC----CGCG-
+MAP_3626c    ---------------------------------------CCU---CAUC-
+#=GC SS_cons .......................................__.....__>.
+#=GC RF      .......................................cC.....Gcc.
+
+MAP_4265     GU-GC----G-GG--GG-CU-UUUG--C---GUC-U--UCUCG----U
+MAP_2139     GA-GC----G--U-G-A-AA-CUAG--C---UUCAC--GCUCGG--CA
+MAP_0978c    UU-UU----G--G-GUG-CU-UUUG--U---GUC-U--GCUCG----C
+MAP_2662c    GA-GC----G--U-C-A-CG-CUGG--C---GUGAC--GCUCGG-GCU
+MAP_3995c    UA-AU----C--G-C-C-CA-ACAA--C---UCGAC--GUUCGG-CG-
+MAP_0790     AUUUU----G-GG-GGA-CU-UUCG--C---GUC-U--GCUCGC-CG-
+MAP_0791c    UU-UU----G-GG-GGA-CU-UUCG--C---GUC-U--UUUCG----C
+MAP_1040c    GG-AC----U--G-G-G-CG-AUUG--C---GU--------------U
+MAP_2536     CG-GC----G--C-C-A-CG-CUGG--C---GUGAC--GCUCGG-CGA
+MAP_1935     GA-GC----C--U-C---------A--G---GGCGC--GCU-------
+MAP_1584c    GA-AC----G--C-C-A-CG-CUGG--C---GUGAC--GCCGGG-UGU
+MAP_2661     G--GC----G--U-C-A-CU-CUGG--C---GUGAC--GCUCGG-CGC
+MAP_3060c    GUGUC----G-G--GGG-CU-UUUG--C---GUC-U--GCUGGG-CCC
+MAP_1738     AA-AU----G--C-G-U-CG-GCAG--U---AGCAC--UUUCGC-GGC
+MAP_2544c    G--UC----G-AGGG-G-CU-UUUG--C---GUC-U--GCUCG----C
+MAP_1447c    GA-AA----C--C-C-G-CC-GUGG--C---GUUAC--ACGCG----C
+MAP_2373c    AG-GU----G--CCG-U-CG-GUAG--U---UGCAC--UCUCGC-GGC
+MAP_3694c    GA-GC----G--G-G-G-UU-UUUG--A---UU-----GCGCGG-CGC
+MAP_1039     GG-AC----U--G-G-G-CG-AUUG--C---GU--------------U
+MAP_0060c    GG-AU----U--U-C-G-CC-ACGG--C---GUUAC--GCCCGC-GGU
+MAP_1633c    GG-UU----C--C-C-C-CA-CU-------------------------
+MAP_0261c    GG-GU----G--G-C-A-------A--C---CGCAC-----------C
+MAP_3035     GA-GU----G--U-C-A-CG-CCAG--C---GUGAC--GGUCGA-CGA
+MAP_2273c    GU-GC----C--C-G-G-CA-CUUC--U---UGG-------------C
+MAP_2338     AU-UU----U--U-C-G-CA-ACCA--C---UGCAC--GCUCGG-CGC
+MAP_4292     GA-UU----A--U-C-G-CC-GUGG--G---GUUAC--GCUCG----C
+MAP_3825     GA-GC----G--C-C-A-CG-CUGG--C---GUGAC--GCUCGG-CGC
+MAP_2050     GC-GC----G--U-C-A-CG-CUGG--C---GUGAC------------
+MAP_0354c    AC-GU---CG-GC-CCA-AU-CCAG--G---GUC-------------C
+MAP_2001c    GUGUC----G-CGGG-G-CU-UUUG--C---GUC-U--GCUCG----C
+MAP_2372     AA-AC----G--C-G-U-CG-CUAG--U---UGCAC--UUUCGC-GGU
+MAP_1739c    G--GA----C--C-G-U-CG-GCAG--U---UGCAC--UUUCG----C
+MAP_3994     UU-UU----C--GGC-C-CA-ACAA--C---UCGAC--GCUGGC-CG-
+MAP_2563     AA-UU----G--G-G-G-GUUUUUG--C---GUC-U--GCUCGC-GGU
+MAP_3100c    GA-AU----U--U-C-G-CAACCAG--C----GCAC--GUUCGG-CGA
+MAP_2752     GUUUC----C-CG-G-A-CA-GCUG----------------------U
+MAP_1502     CA-GC----C--C-C-A-GU-GCAG--C---GGC-------------A
+MAP_1257     GA-CC----G--U-G-A-AG-CUAA--U---UUCAC--GCUCGC-CG-
+MAP_4244     G--UC----G--G-G-A-CC-ACAC--A---GCC----GUU------U
+MAP_0977     UG-UC----G--G-GUG-CU-UUCG--C---GUC-U--GCUCGC-GGU
+MAP_3684     GAAAU----C--C-C-G-CC-GUGA--G---UACAC--ACU-------
+MAP_2436c    GA-UC----U--U-C-G-UC-AUAU--C---GG--------------C
+MAP_3968     G--AC----U--C-G-G-AG-UCGA--C---GU--------------U
+MAP_0251c    GG-AU----U--U-C-G-CA-CUGA--A---UGCAC--GUUCGG-UGA
+MAP_2339c    AA-UU----U--U-C-G-CA-GUGG--U---UGCAC--GCUCGG-CGC
+MAP_1698c    GG-AC----A--G-C---------C--C---CCGAC--GCGGG----U
+MAP_3377     GG-GC----G--U-C-A-CG-CUGG--C---GUGAC--GCCCGG-CGA
+MAP_3036c    G--GU----G--U-C-A-CG-CUGG--C---GUGAC--GUUCG----U
+MAP_2564c    GUGUC----G--G-GUG-GU-UUUG--C---GUC-U--GCUCGG-CG-
+MAP_3936     -G-GC----C--G-G-G-CU-UUUU--C---G---------------U
+MAP_4143     GA-UC----C--G-G---------G--C---UU--------------U
+MAP_1609c    G--UC----G-GG-C-G-CA-GUAG--U---G---------------C
+MAP_0901     GA-UU----G--U-C-G-CU-CAGA--G---GCG--------------
+MAP_2075c    GA-UC---GG--C-G-A-GG-CGGG--C---GUC--------------
+MAP_0180     G--UC----G--U-C-G-CU-GUAG-----------------------
+MAP_0326     UC-AC----G--C-G-U-CC-GCCG--C---UCG-------------C
+MAP_3760c    GA-AC----A--U-C-G-CG-AUGG--C---CC--------------U
+MAP_0669     GA------CU--U-C-G-CA-CCAG--C---CUCACUGGUU------U
+MAP_0232c    G--AA----G--G-C-G-GG-GCAG--C---GU--------------C
+MAP_2980c    AA-UC----G--G-GCG-CU-UUUG--U---GUC-U--GCUCGC-GGC
+MAP_1925     GA-GC----G--U-C-A-CG-CUGG--C---GUGAC--GCUCG----A
+MAP_3631c    GA----------C-C---------A--C----GCAC--GCUCG----C
+MAP_2826     G--GC----G--G-G-C-AU-ACUG--C---UUG-------------C
+MAP_2542     GUGUC----G--G-GGG-CU-UUUG--C---GUC-------------U
+MAP_1668c    GC-UC----G--C-G---------G--G---GUGUC--GUG------C
+MAP_4212     GG-GU----G--C-C-A-CG-CCAG--C---GUGAC--GCUCGG-UGC
+MAP_1696c    GG----------C-C-G-CG-GUUG--C---GACCC--GAU------C
+MAP_1073     CG-CC----G--C-C-A-CG-CUGG--C---GUGAC--GCUCG----C
+MAP_4126     GCAG-----G--C-C-C-CG-GGGG--U---UUC--------------
+MAP_4213c    GACG-----G--U-C-A-CG-CUGG--C---GUGAC--GCUCGG-CGC
+MAP_0963c    CG-CU----G--C-C-G-------G--C---CGAGC--GGCCG----C
+MAP_1838     GU-GU---CG--U-G-U-GC-GUAG--U---UGCAG--UGUCG----C
+MAP_3773c    UA-UC----A---------------------UUAAC--GCU------U
+MAP_0985     GA-UU---CG-GC-C-G-CC-GUGG--C---GUUAC--GAGCGG-CGA
+MAP_0595c    GA-AU---CG--G-C-G-CC-AAGG--G---GUG-------------C
+MAP_2637c    CG-GG----G--G-C-C-CA-UUCG-----------------------
+MAP_1246     AACG-----G--U-G-U-CG-GUAG--A---UGCAC--UUUCG----U
+MAP_0216     GC-UC----C--C-G-C-CG-CCGG----------------------U
+MAP_0461     GA-CU----G--C-C---------G--C---CCG-U--UUUCGC-UGU
+MAP_0722     UG-UC----G--G-GUG-CU-UUUG--U---GUC-U--GCUCG----C
+MAP_3673c    CA-UU----G--G-G-G-GC-UUUU-GC---GUC-U--GCUCGC-CGU
+MAP_3476c    GA-AC----G--U-C-A-CC-GUGA--G---UGCAC--GUUCGG-UG-
+MAP_1222     AC-UC----G--A-G-G-CG-GCCACCC---GU--------------C
+MAP_1625     CG-GC----G--U-C-A-CG-CUGG--C---GUGAC--GCUCGG-GGC
+MAP_3024c    GC----------C-GCC-CG-GAGG--G---UAUUC--GUG------U
+MAP_2391     GA----------C-C-G-GG-CCCG--U---UUC-------------C
+MAP_0201     UA-AU---UG--A-CAA-AA-CUUG--G---GGC--------------
+MAP_3320     UG-UC----G--G-G-G-CC-GCAC--U---CUUGC--GUGCGG-GUC
+MAP_2950c    GU-GC----G--G-G-G-AG-UU------------------------U
+MAP_1626c    GC-G-----G--C-C-A-CA-CUGG--C---GUGAC--GCUCGG-CCU
+MAP_1019     UG-GC----G--C-G-C-CG-GUUU--U---UUC----AUGCGG-CGC
+MAP_4051     GG-------G--C-C-G-CA-ACAA--C---UCCAC--GUUGGG-CGC
+MAP_4131     GA-GC----G--U-G-A-AA-UUAA--C---UUCA------------C
+MAP_2283     GG-AU---CG--G-C---------G--G---GGCGC--GUUCGG-GUU
+MAP_3547c    CA-AU----C--C-G-U-AC-AUGG-CC---CCCAC--GCUCGGGAGU
+MAP_2286c    GC----------C-C-G-CG-GCUG--U---GU--------------A
+MAP_1667     AC-UC----G--C-G---------G--G---GUGUC--GCCCGG-UGU
+MAP_2534c    GA-ACG--CG--C-C-C-AG-CUCG--A---UC--------------A
+MAP_4246     GG-AU----G--GAC-A-AG-UUGU--G---GCC--------------
+MAP_2331c    AA-------GAAG-GGG-CU-UUUG--C---GUC-U--GCUCG----C
+MAP_3378c    GG-GC----G--U-C-A-CG-CCAG--C---GUGAC--GCCCGG-CGC
+MAP_3243     UG-GC----G--G-G-U-CG-UUUU--C---G---------------C
+MAP_0429c    GACG-----G--U-C-A-CG-CUGG--C---GUGAC--GCUCGG-CGC
+MAP_0161     G--UG---UG--C-C-C-CACCUUU--C---GU--------------C
+MAP_1247     AG-GC---AG--C-G-U-CG-GUAG--A---UGCAC--UCUCGC-GGU
+MAP_0812     GG-UU----G--UGC-C-CA-ACAA--G---UCCAC--GUUGGG-CGA
+MAP_2082     GA-UU----U--UCC-G-CA-ACAA--C---UCCAC--GUUCGA-CG-
+MAP_2848c    GU-GC----C--U-----------G--C---GCC-U--GCUCAC-CGC
+MAP_1157c    -GCG-----G--U-C-A-CG-CUAG--C---GUGAC--GCUCGC-CGA
+MAP_2002c    GA-AUG--AU--A-G-A-AA-CUGU--C---AG--------------U
+MAP_0529c    GA-GC----G--U-G-A-AA-CUAG--U---UUCAC--GUUCGG-CG-
+MAP_1226     GA-UU----U--U-C-G-UC-AUGG--C---GUUAC--AGGCGG-CG-
+MAP_3354c    GA-GC----G--U-G-A-AG-UUAA--C---UUCAC--GCUCG-----
+MAP_3355c    AA-U----CC--G-C-A-CC-ACGA--G---UCGAC--GUUCGG-CGU
+MAP_2974c    GG-UC----U--C-C-C-GG-GCGG----------------------U
+MAP_0904     AU-GC----C--C-G-G-CC-UUCG--U---G---------------U
+MAP_4288     AA-U-----U--A-G-A-GA-UUGG--U---CUUCC--GCUGG----U
+MAP_4127c    AG-GC----A-------UCC-CGGG--G---GUUUC--GCGCG----A
+MAP_3027     GA-CU---UU-CGCGUG-CU-UUUG--C---GUC-U--GCUCG----C
+MAP_0308c    GA-GU----G--C-C---------G--G---GCCACCCGUUCG----U
+MAP_2384     GA-AU----U--U-C-G-CG-GCCA--G---UGCAC--GUUCGG-CGC
+MAP_3023     GC----------C-GGC-CG-AAGG--G---UAUUC--GUG------U
+MAP_0511c    GU-GU---CG--G-G-U-GC-GUAG--U---UGCAG--UGUCG----C
+MAP_0024c    AG-GC----C-GU-G-A-CC-UU------------------------U
+MAP_3966     UA----------G-C-A-AG-CACU--U---GU--------------A
+MAP_0659c    GG-AU---CG--G-C-A-AG-CCCG----------------------U
+MAP_2033     GA-AU----U--GCC-A-AC-CUCA----------------------C
+MAP_3531c    CA-----------GC-G-CU-ACUG--C---CGC-U--GCU------U
+MAP_3116c    AA-GC----G--G-G---------G--C--AGGC-------------A
+MAP_0676     GA-GC----G--U-G-G-AA-CUAA--G---UGCAC--GCUCG----C
+MAP_1393c    GACGC----U--G-C-G-CG-GAUA----------------------C
+MAP_3662c    GG-UU---UU--U-C-G-CC-GUGA--G---UGCAC--GUUCGG-CGU
+MAP_1936c    GG-GC----C--U-C---------A--G---GGCGC--GCU-------
+MAP_3362c    GG-GC----G--U-G-A-AC-UUAG--A---UUCAC--GUUCGG-CGC
+MAP_3527     GG-GC----G--U-G---------A------UU--------------C
+MAP_0325c    GU-UU---GG--U-CGA-CC-GCGA--C---GCC--------------
+MAP_2639     AA------CG--G-C-G-CA-ACGG--A---U---------------U
+MAP_1848c    GA-U-----------------------C-------U--GUUCGC-CGA
+MAP_2765c    GA-----------CU-G-CG-ACUG--C---GUC-------------C
+MAP_0986c    GG-A-----G-AC-C-G-CC-GUGG--C---GUUAC--ACCCGC-GGA
+MAP_0527     GA-GC----G--U-G-A-AA-UUAA--C---AUCAC--GCUCGA-CGA
+MAP_1798     GC-UC----A--G-CUG-CG-GUGG--U--CGGC-------------C
+MAP_1612c    CG-CC----G--G-C-U-CA-CCGG----------------------U
+MAP_3016c    GG-CC----G--U-C-A-CG-CUGG--C---GUGAC--GCUCGGCCGU
+MAP_2245c    GCCG-----G--U-C-A-CG-CCAG--C---GUGAC--GCUCGGCAGC
+MAP_0943c    AA-AC----G--C-G-U-UG-CCAG--U---UGCAC--UUUCGC-GGU
+MAP_3630     CA------CG--G-C-A-CG-CUCG--C---G---------------C
+MAP_3811     GC-AU----G-------CCG-GUGG--G---CCCGC--UUUCG----U
+MAP_1483c    GA-GC----G--U-G-A-AA-CUAA--C---UUCAC--GUUGGC-GGA
+MAP_0723     AU-UU---UU--U-C-G-CU-ACCA--G---UACAC--GUUCGG-CAA
+MAP_0210c    CU-GC----G--G-U-G-CC-GU------------------------C
+MAP_2442     GG-CC----G--C-C-G-AU-CCCG--C---UCCAC--GCCCGG-CGA
+MAP_1454     UG-GC----C--G-G-G-CC-AU------------------------C
+MAP_1482     GA-GC----G--U-G-A-AA-CUAG--U---CGCAC--ACUCGG-CGC
+MAP_2083c    GA-UC----C--G-C-G-CA-ACAA--C---CCCAC--GUUCGG-CGU
+MAP_3530     GG-------U--G-C-G-CU-ACUG--C---CGC-U--GCUGGC-CG-
+MAP_2626     GG-GC----G-CG-C-G-CC-UUCG--C---G---------------C
+MAP_2265c    AA-UU----C--U-C-G-CG-GUAG--C---UGCAC--GCUCGG-CGA
+MAP_2125     UG-AC----U--C-C-G-CU-GUCG----------------------A
+MAP_0826c    G--GC----G--C-C-G-GC-UC------------------------U
+MAP_2357     G--AC----G--C-C-G-CG-GCAG--G---G---------------U
+MAP_3546     GC-CU---CG--C-C-U-AC-ACAG-CC---CCCAC--GCUCGG-CGC
+MAP_1697     GA-AC----A--G-C---------C--C---CCGAC--GAU------U
+MAP_1074c    GA-GC----G--U-C-A-CG-CCAG--C---GUGAC--GCUCGG-CGC
+MAP_2051c    GA-CC----G--U-C-A-CG-CCAG--C---GUGAC--GCGCGA-GGU
+MAP_0309c    UA-GU----U--UUC-A-AG-GUUG----------------------A
+MAP_0250     GU-UU---UU--U-C-G-CG-GCCA--G---UGCAC--GCUCGG-CGA
+MAP_4312     UA-UU----G--U-CUG-AU-GU------------------------C
+MAP_3716c    GA-GUC-AAG--C-C-G-GC-AUGG----------------------U
+MAP_0447     GA-C-----G--G-C-AGCG-CCAG--C---GUGAC--GCUCGG-GAA
+MAP_2450c    AU-------G--GUC-G-UG-CU----C---GU--------------C
+MAP_2053     UA-UU----U--UCC-A-UC-AUAA--C---UCGAC--GCUCGG-CG-
+MAP_0827c    GU-UU----G--C-G-U-CA-CCGA----------------------C
+MAP_2796c    GU-GU----C--G-C-G-UGCGUGG--U---UUAAG--UGUCGC-GGU
+MAP_0406     GA-GC----G--U-C-A-CG-CCAG--A---GUGAC--GCCCGG-CGA
+MAP_1134     U--G-----G--C-C-G-CG-UCGG--C---CC--------------U
+MAP_2858     GGAAC----G--U-C-A-CG-CUGG--C---GUGAC--GUUCGG-CGC
+MAP_1127c    GA-GC----G--U-G-A-AG-UUAA--G---UUCAC--GCUCGG-CGC
+MAP_2721     GA-GC----G--U-C-A-CG-CCAG--C---GUGAC--GACCGC-CGC
+MAP_4113     AA-AU----G--C-G-U-CG-CCAG--U---UGCAC--UUUCGGCAGC
+MAP_1822c    GA-AU---GG--GCG-A-AG-CUAG----------------------C
+MAP_3638     GU-UUU--UG--C--UG-CG-UAGG--C---CACAC--GCUCGG-CGA
+MAP_3911c    GA-CU---G--UG-C---------A--G---UUUAG--GCUGGC-CGU
+MAP_0439     GA-AC----U--U-C-ACCG-UC------------------------U
+MAP_2981c    CC-GU----C--G-C-G-CG-GCUG--C---UGG-------------A
+MAP_3401     GA-AA----U--U-C-C-CG-ACAA--CAAGUCGAC--GUU-------
+MAP_0907     AG----------G-C-C-UU-UUCG--A---UGC-U--GCC------A
+MAP_2805     GU-UUUUCGU--C-C-A-UA-CC----C---CCCAC--GCUCGG-CGA
+MAP_0470     --------CG--G-CCG-GG-UCGG--C---GGGCC-----------A
+MAP_3604     GU-GC----U--G-C-U-GAUCU------------------------U
+MAP_0528     GA-AC----G--U-G-A-AA-CUAG--U---UUCAC--GCUCGG-CG-
+MAP_2645c    CA-AC----A---GC-G-CG-CCGG----------------------C
+MAP_2402     UG-AC----C--G-C-G-GA-GUUG----------------------A
+MAP_2054c    CA-AC----A--------------A--C---U---------------C
+MAP_0608c    GG-GC----G--U-C-A-CG-CCAG--C---GUGGC--GCUCGG-CGC
+MAP_1968c    GA-UU---UU--U-C-G-CG-CUGA--G---UGCAC--GUUCGG-CG-
+MAP_1227     GG-GU----G--U-GUA-AU-CCAA--G---U---------------A
+MAP_0399c    G--UU----G--G-C---------A--C---GU--------------U
+MAP_1891c    GAGAU----G--G-G---------G--C---AUCGC--GCCCGG-AGU
+MAP_1329c    CG-AC----G--C-G--------------------------------U
+MAP_3672     GG-UC----G-GG--GG-AU-UUCA--C---GUC-U--GCUCGG-CG-
+MAP_2624c    GA-GC----G--U-C-A-CG-CCAG--C---GUGAC-----------C
+MAP_4279     GA-GU----G--U-C-A-CG-CCAG----------------------C
+MAP_0510     GU-GC----G--U-G---------G--U---UGCA------------A
+MAP_2917c    GC-UU----G--C-C---------G--G---GUG-------------A
+MAP_1997     GU----------G-G-U-AA-CCGC--C---GU--------------C
+MAP_1126     GA-GC----G--U-G-A-AG-CUAG--C---UUCAC--GCUCGG-CG-
+MAP_2071c    GG-AU----U--UCC-G-CC-GUGG----------------------C
+MAP_3340     GA-UC----G--U-CAG-CGAAAUG----------------------C
+MAP_1752c    UA-------G--U-CGG-CG-GUCG----------------------C
+MAP_0312     GG-GC----G--U-G---------G--C---GU--------------C
+MAP_1320c    GU-GU---CG--U-C-G-CC-AACG--A---UGCAC--ACU------C
+MAP_2176c    CA----------U-C-G-AC-CCGG----------------------U
+MAP_0805c    UG-UC----G--G-G---------G--C---GUG-------------U
+MAP_2140c    GA-AC----G--U-G-A-AA-CUAG--C---UUCAC--GUUCGG-CGC
+MAP_2000     CA-UC---AG--G-G-G-CU-UUUG--C---GUC-U--GCUCG----C
+MAP_3626c    GC----------C-C-G-AA-CGCA--C---GAG-------------C
+#=GC SS_cons >-.>>....>..>.>.>.>>.>>>>..>...>>>>>..>>:::....:
+#=GC RF      ga.gC....G..g.C.g.Cg.cugG..C...guCAC..GcUCG....c
+//

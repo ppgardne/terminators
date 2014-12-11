@@ -1,0 +1,974 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS OEOE_1597 WT 1.10
+#=GS OEOE_1807 WT 1.13
+#=GS OEOE_0806 WT 1.14
+#=GS OEOE_1060 WT 1.09
+#=GS OEOE_1779 WT 1.27
+#=GS OEOE_1053 WT 1.16
+#=GS OEOE_0875 WT 1.10
+#=GS OEOE_1117 WT 0.83
+#=GS OEOE_0280 WT 0.54
+#=GS OEOE_1765 WT 0.79
+#=GS OEOE_0351 WT 1.30
+#=GS OEOE_1118 WT 1.05
+#=GS OEOE_1285 WT 0.73
+#=GS OEOE_0220 WT 1.20
+#=GS OEOE_0805 WT 1.03
+#=GS OEOE_1284 WT 0.73
+#=GS OEOE_1610 WT 0.73
+#=GS OEOE_1428 WT 0.99
+#=GS OEOE_0768 WT 0.95
+#=GS OEOE_0145 WT 0.93
+#=GS OEOE_1398 WT 1.30
+#=GS OEOE_1609 WT 0.77
+#=GS OEOE_0323 WT 0.89
+#=GS OEOE_1325 WT 0.95
+#=GS OEOE_0876 WT 1.12
+#=GS OEOE_0225 WT 1.29
+#=GS OEOE_0281 WT 0.54
+#=GS OEOE_0355 WT 1.47
+#=GS OEOE_1766 WT 0.79
+#=GS OEOE_0371 WT 1.17
+#=GS OEOE_1537 WT 1.00
+#=GS OEOE_0827 WT 0.82
+#=GS OEOE_0527 WT 0.61
+#=GS OEOE_0178 WT 1.13
+#=GS OEOE_0007 WT 0.73
+#=GS OEOE_0008 WT 0.73
+#=GS OEOE_0068 WT 1.38
+#=GS OEOE_1247 WT 0.62
+#=GS OEOE_1030 WT 0.98
+#=GS OEOE_0535 WT 1.21
+#=GS OEOE_1538 WT 1.12
+#=GS OEOE_1366 WT 0.99
+#=GS OEOE_0217 WT 0.92
+#=GS OEOE_0935 WT 1.21
+#=GS OEOE_0243 WT 0.84
+#=GS OEOE_1801 WT 0.92
+#=GS OEOE_0996 WT 1.04
+#=GS OEOE_1461 WT 1.16
+#=GS OEOE_0341 WT 1.47
+#=GS OEOE_0353 WT 1.28
+#=GS OEOE_1714 WT 0.79
+#=GS OEOE_0936 WT 1.48
+#=GS OEOE_0123 WT 0.82
+#=GS OEOE_1169 WT 1.07
+#=GS OEOE_1360 WT 0.71
+#=GS OEOE_0180 WT 0.80
+#=GS OEOE_0644 WT 1.42
+#=GS OEOE_0639 WT 0.76
+#=GS OEOE_1246 WT 0.62
+#=GS OEOE_0755 WT 0.93
+#=GS OEOE_1291 WT 1.16
+#=GS OEOE_0703 WT 0.87
+#=GS OEOE_1782 WT 1.03
+#=GS OEOE_1394 WT 0.99
+#=GS OEOE_0462 WT 0.69
+#=GS OEOE_1750 WT 1.12
+#=GS OEOE_1242 WT 0.59
+#=GS OEOE_0383 WT 1.06
+#=GS OEOE_0640 WT 0.96
+#=GS OEOE_1191 WT 0.90
+#=GS OEOE_1834 WT 1.25
+#=GS OEOE_1839 WT 0.93
+#=GS OEOE_0528 WT 0.61
+#=GS OEOE_1478 WT 1.03
+#=GS OEOE_1395 WT 0.82
+#=GS OEOE_0461 WT 0.69
+#=GS OEOE_1702 WT 0.84
+#=GS OEOE_1705 WT 0.92
+#=GS OEOE_1646 WT 0.84
+#=GS OEOE_0231 WT 1.11
+#=GS OEOE_1673 WT 1.04
+#=GS OEOE_1290 WT 1.36
+#=GS OEOE_0797 WT 0.90
+#=GS OEOE_0236 WT 0.93
+#=GS OEOE_1243 WT 0.59
+#=GS OEOE_0469 WT 0.80
+#=GS OEOE_0122 WT 0.82
+#=GS OEOE_0574 WT 0.90
+#=GS OEOE_1198 WT 1.16
+#=GS OEOE_0638 WT 0.76
+#=GS OEOE_0520 WT 0.65
+#=GS OEOE_0109 WT 0.86
+#=GS OEOE_0686 WT 1.10
+#=GS OEOE_0587 WT 1.20
+#=GS OEOE_1278 WT 0.78
+#=GS OEOE_0770 WT 0.93
+#=GS OEOE_0636 WT 0.81
+#=GS OEOE_0242 WT 0.84
+#=GS OEOE_0289 WT 0.79
+#=GS OEOE_1277 WT 0.78
+#=GS OEOE_0435 WT 1.02
+#=GS OEOE_1268 WT 1.18
+#=GS OEOE_0226 WT 0.94
+#=GS OEOE_1433 WT 0.97
+#=GS OEOE_0434 WT 0.84
+#=GS OEOE_0053 WT 1.21
+#=GS OEOE_0167 WT 0.89
+#=GS OEOE_1299 WT 1.00
+#=GS OEOE_0452 WT 1.07
+#=GS OEOE_1022 WT 0.94
+#=GS OEOE_0277 WT 1.04
+#=GS OEOE_1164 WT 1.11
+#=GS OEOE_1440 WT 1.21
+#=GS OEOE_0519 WT 0.65
+#=GS OEOE_0023 WT 0.82
+#=GS OEOE_0652 WT 0.45
+#=GS OEOE_0144 WT 0.83
+#=GS OEOE_1423 WT 1.02
+#=GS OEOE_0344 WT 0.90
+#=GS OEOE_0448 WT 1.07
+#=GS OEOE_0315 WT 0.98
+#=GS OEOE_0336 WT 1.03
+#=GS OEOE_1418 WT 1.25
+#=GS OEOE_1851 WT 1.48
+#=GS OEOE_0324 WT 1.15
+#=GS OEOE_1841 WT 1.00
+#=GS OEOE_1783 WT 1.23
+#=GS OEOE_1569 WT 1.09
+#=GS OEOE_0893 WT 0.97
+#=GS OEOE_1507 WT 1.05
+#=GS OEOE_0288 WT 0.79
+#=GS OEOE_0593 WT 1.28
+#=GS OEOE_1647 WT 0.84
+#=GS OEOE_1320 WT 0.88
+#=GS OEOE_0155 WT 1.16
+#=GS OEOE_0550 WT 1.31
+#=GS OEOE_1722 WT 1.61
+#=GS OEOE_1154 WT 1.25
+#=GS OEOE_1188 WT 1.47
+#=GS OEOE_0502 WT 1.20
+#=GS OEOE_0736 WT 1.25
+#=GS OEOE_0446 WT 0.90
+#=GS OEOE_1751 WT 1.12
+#=GS OEOE_0240 WT 1.10
+#=GS OEOE_0054 WT 1.09
+#=GS OEOE_1153 WT 0.94
+#=GS OEOE_0466 WT 0.90
+#=GS OEOE_0136 WT 0.92
+#=GS OEOE_1858 WT 1.15
+#=GS OEOE_1818 WT 1.16
+#=GS OEOE_0629 WT 1.06
+#=GS OEOE_1110 WT 1.16
+#=GS OEOE_1002 WT 0.99
+#=GS OEOE_1442 WT 1.01
+#=GS OEOE_1704 WT 0.86
+#=GS OEOE_1090 WT 1.03
+#=GS OEOE_0750 WT 1.14
+#=GS OEOE_1296 WT 1.21
+#=GS OEOE_1374 WT 0.45
+#=GS OEOE_1763 WT 1.20
+#=GS OEOE_0405 WT 1.15
+#=GS OEOE_1272 WT 1.16
+#=GS OEOE_0683 WT 1.05
+#=GS OEOE_1598 WT 0.95
+#=GS OEOE_0807 WT 1.11
+#=GS OEOE_0757 WT 0.99
+#=GS OEOE_0952 WT 1.03
+#=GS OEOE_0035 WT 1.12
+#=GS OEOE_0347 WT 1.47
+#=GS OEOE_0331 WT 1.15
+#=GS OEOE_1092 WT 1.33
+#=GS OEOE_1249 WT 1.18
+#=GS OEOE_0367 WT 1.14
+#=GS OEOE_1812 WT 1.01
+#=GS OEOE_1163 WT 1.11
+#=GS OEOE_1329 WT 0.83
+#=GS OEOE_0037 WT 0.93
+#=GS OEOE_1142 WT 1.29
+#=GS OEOE_0338 WT 1.05
+#=GS OEOE_0769 WT 0.93
+#=GS OEOE_1230 WT 0.75
+#=GS OEOE_1745 WT 1.18
+#=GS OEOE_0514 WT 1.04
+#=GS OEOE_0376 WT 0.95
+#=GS OEOE_1170 WT 1.12
+#=GS OEOE_0411 WT 0.97
+#=GS OEOE_0693 WT 0.86
+#=GS OEOE_1035 WT 0.91
+#=GS OEOE_1190 WT 1.15
+#=GS OEOE_0278 WT 0.87
+#=GS OEOE_0572 WT 1.03
+#=GS OEOE_0891 WT 0.99
+#=GS OEOE_0998 WT 1.06
+#=GS OEOE_0892 WT 0.90
+#=GS OEOE_1573 WT 0.93
+#=GS OEOE_1682 WT 0.87
+#=GS OEOE_0070 WT 0.41
+#=GS OEOE_1362 WT 1.37
+#=GS OEOE_0188 WT 1.23
+#=GS OEOE_1526 WT 0.91
+#=GS OEOE_1746 WT 1.08
+#=GS OEOE_0082 WT 1.07
+#=GS OEOE_0886 WT 1.04
+#=GS OEOE_1189 WT 1.07
+#=GS OEOE_1859 WT 1.06
+#=GS OEOE_1447 WT 0.99
+#=GS OEOE_1021 WT 0.94
+#=GS OEOE_0108 WT 0.86
+#=GS OEOE_1308 WT 1.21
+#=GS OEOE_1568 WT 1.12
+#=GS OEOE_1480 WT 1.37
+#=GS OEOE_0973 WT 0.84
+#=GS OEOE_0168 WT 0.87
+#=GS OEOE_1651 WT 1.03
+#=GS OEOE_0666 WT 0.75
+#=GS OEOE_1520 WT 0.92
+#=GS OEOE_1441 WT 1.15
+#=GS OEOE_0753 WT 1.32
+#=GS OEOE_1601 WT 1.12
+#=GS OEOE_1321 WT 0.88
+#=GS OEOE_1762 WT 0.94
+#=GS OEOE_0888 WT 1.15
+#=GS OEOE_0880 WT 0.97
+#=GS OEOE_0190 WT 1.07
+#=GS OEOE_1361 WT 0.79
+#=GS OEOE_0707 WT 0.99
+#=GS OEOE_0862 WT 1.32
+#=GS OEOE_1508 WT 1.05
+#=GS OEOE_0554 WT 1.10
+#=GS OEOE_0826 WT 0.41
+#=GS OEOE_0006 WT 0.94
+#=GS OEOE_0855 WT 0.99
+#=GS OEOE_1535 WT 1.16
+#=GS OEOE_1010 WT 0.85
+#=GS OEOE_1416 WT 0.82
+#=GS OEOE_0015 WT 0.85
+#=GS OEOE_0061 WT 1.21
+#=GS OEOE_0870 WT 0.73
+#=GS OEOE_1614 WT 0.94
+#=GS OEOE_0871 WT 0.71
+
+OEOE_1597    AAAGUAU--CG-GAA-CA-AA-----------------------------
+OEOE_1807    AAAAGGA--GC-AC-----AA-----------------------------
+OEOE_0806    AAACGAG--UU-CC-----AU-----------------------------
+OEOE_1060    AAAAAAG--UU-AC---UCGA-----------------------------
+OEOE_1779    CCGAUGA--UG-GCG-UU-UA-----------------------------
+OEOE_1053    AAACGUC--GCCGCU-ACCAA-----------------------------
+OEOE_0875    AAACGAA--CG-GAA-UA-U------------------------------
+OEOE_1117    AAAAAGA--UU-GCA-UU-AA-----------------------------
+OEOE_0280    AAAAAAG--GU-GC--UC-UA-----------------------------
+OEOE_1765    AAAAAGG--UU-UCA-AC-UAU----------------------------
+OEOE_0351    AGACGGU--GUCGCC-AA-UC-----------------------------
+OEOE_1118    AAAAGAU--UG-CAU-UU-AA-----------------------------
+OEOE_1285    AAGAAAA--AC-CCG-GU-CA-----------------------------
+OEOE_0220    AAAAAGG--UC-UUC-UA-AA-----------------------------
+OEOE_0805    AAAAACG--AG-UUU-CC-AA-----------------------------
+OEOE_1284    AAGAAAA--AC-CCG-GUUCA-----------------------------
+OEOE_1610    AAAAAAC--GA-GCU-UC-UA-----------------------------
+OEOE_1428    AAAACC----G-CC-----GA-----------------------------
+OEOE_0768    UAAAGUA--UC-UGU-AU-AC-----------------------------
+OEOE_0145    AAAAAGG--AA-AUG-UC-AA-----------------------------
+OEOE_1398    AAAAGGU--CA-GAC-UU-UG-----------------------------
+OEOE_1609    AAAAAAC--GA-GCU-UCAAU-----------------------------
+OEOE_0323    AAAAACC--UU-CGU-AA-UUAAAACAA------------------UUAU
+OEOE_1325    AAAAACC--GU-UCU-AG-UUAUCCUCACCU-------------UUAAUC
+OEOE_0876    UAAACUA--UU-AGA-GU-UA-----------------------------
+OEOE_0225    AGAAUUG--AA-GAA-AA-AG-----------------------------
+OEOE_0281    AAAAAAG--GU-GC---C-UA-----------------------------
+OEOE_0355    GGAUGAC--UA-GCG-A--AA-----------------------------
+OEOE_1766    AAAAAGG--UU-UCA-AC-UA-----------------------------
+OEOE_0371    UUAAAAU--CG-UCU-UU-UA-----------------------------
+OEOE_1537    AAAAAAG--CU-GAU-GA-AU-----------------------------
+OEOE_0827    AAAAACC--CG-GCA-U--AA-----------------------------
+OEOE_0527    AAAAAGU--UC-GC-----UU-----------------------------
+OEOE_0178    ------A--CA-UCU-G--UA-----------------------------
+OEOE_0007    AAAAAGA--GC-GC-----U------------------------------
+OEOE_0008    AAAAAGA--GC-AC-----U------------------------------
+OEOE_0068    UGGCACU--AG-UGA-UU-UAG----------------------------
+OEOE_1247    AAAAACC--CA-GGU-U--AA-----------------------------
+OEOE_1030    UAAAAGC--AC-UGG-AU-U------------------------------
+OEOE_0535    ------U--CC-UGC-UG-UU-----------------------------
+OEOE_1538    AAAAAGC--UG-AUG-AU-U------------------------------
+OEOE_1366    AAAAACA--UA-CCUAGC-AA-----------------------------
+OEOE_0217    AAAAACA--GU-UCA-CU-AG-----------------------------
+OEOE_0935    AAAGUCU--UU-GG-----UC-----------------------------
+OEOE_0243    AAAAACU--CC-GGCGGU-UA-----------------------------
+OEOE_1801    AAAACAG--GA-CCG-GU-AA-----------------------------
+OEOE_0996    AAAAAAC--UG-AAU-CA-UA-----------------------------
+OEOE_1461    AAAAAGA--AC-GUU-GAAUG-----------------------------
+OEOE_0341    AAAAAAG--CU-GAG-AC-AACGACUA---------------------AA
+OEOE_0353    AAACGUU--CU-GGA-UA-GCGAUUGU---------------------GU
+OEOE_1714    AAAAAGC--AU-UC-----AG-----------------------------
+OEOE_0936    AAAAGA----A-UCG-UA-UU-----------------------------
+OEOE_0123    AAAAAAC--UC-GCU-AA-CU-----------------------------
+OEOE_1169    AAAAAAG--CC-UUA-AU-UA-----------------------------
+OEOE_1360    AAAAACC--AG-CC-----C------------------------------
+OEOE_0180    AAAACAG--GC-GCG-G--GGAUCU-------------------------
+OEOE_0644    UCGCCUC--GU-AAU-UG-GA-----------------------------
+OEOE_0639    AAAAAAA--GC-UCG-GU-AA-----------------------------
+OEOE_1246    AAAAACC--CA-GGU-U--AA-----------------------------
+OEOE_0755    AAAAUCA--UC-ACU-UU-UGU----------------------------
+OEOE_1291    UAGAGAA--AG-GCU-GC-U------------------------------
+OEOE_0703    AAAACCG--UC-CU-----AA-----------------------------
+OEOE_1782    ACAAAGC--AU-UUU-CC-AA-----------------------------
+OEOE_1394    AAGAAUC--AC-C------UG-----------------------------
+OEOE_0462    AAAAACC--GC-UC-----AG-----------------------------
+OEOE_1750    AAAGACC--AU-AUG-GC-UA-----------------------------
+OEOE_1242    AAAAACA--GU-UCU-UA-AC-----------------------------
+OEOE_0383    AAAAAAA--GC-UGG-UC-U------------------------------
+OEOE_0640    AAAAACA--CC-GGC-UU-UAGA---------------------------
+OEOE_1191    UAAACCU--AU-GA-----AU-----------------------------
+OEOE_1834    AAAACC----C-GUU-GC-UU-----------------------------
+OEOE_1839    AGAAACG--UC-UCU-AA-U------------------------------
+OEOE_0528    AAAAAGU--UC-GC-----UU-----------------------------
+OEOE_1478    AAAAAAC--GC-CAA-AA-UA-----------------------------
+OEOE_1395    UAAGAA----G-CC-----G------------------------------
+OEOE_0461    AAAAACC--GC-UC-----UA-----------------------------
+OEOE_1702    AAAAGCC--UG-U------UU-----------------------------
+OEOE_1705    AAAACGG--AU-CA-----AA-----------------------------
+OEOE_1646    AAAAAC----C-UGC-AA-UU-----------------------------
+OEOE_0231    AAAUGCU--UU-ACA-GA-UU-----------------------------
+OEOE_1673    AAAAAAC--UC-GGU-UA-UUGUGGCUGCUGG-----------AGGCAGA
+OEOE_1290    GAGAAA----G-ACU-GC-UA-----------------------------
+OEOE_0797    UAAAAAU--AC-U------UG-----------------------------
+OEOE_0236    AAAAACG--UC-UAU-U--UA-----------------------------
+OEOE_1243    AAAAACA--GU-UCU-UA-AA-----------------------------
+OEOE_0469    AAAAGAG--AC-UC-----G------------------------------
+OEOE_0122    AAAAAAC--UC-GCU-AA-GUGCU--------------------------
+OEOE_0574    AAAAACC--GG-AU-----U------------------------------
+OEOE_1198    AAAUAUC--UU-UGU-UC-AA-----------------------------
+OEOE_0638    AAAAAAA--GC-CCG-G--AA-----------------------------
+OEOE_0520    AAAAGUC--AU-AG-----UU-----------------------------
+OEOE_0109    AAAAACA--AG-CC---C-AG-----------------------------
+OEOE_0686    AAAAAUC--GU-UAG-AA-AC-----------------------------
+OEOE_0587    AAAAACA--AG-UUU-UA-U------------------------------
+OEOE_1278    UAAAACU--CC-AGU-UC-A------------------------------
+OEOE_0770    AAAAAAC--GA-UC-----UUA----------------------------
+OEOE_0636    AAAAACC--GG-U------UA-----------------------------
+OEOE_0242    AAAAACU--CC-AGC-GU-UU-----------------------------
+OEOE_0289    AAAAUCC--CC-ACU-UC-UC-----------------------------
+OEOE_1277    AAAAACU--CC-AGU-UC-A------------------------------
+OEOE_0435    AAAACCU--GC-GUU-UC-AG-----------------------------
+OEOE_1268    UAAUUCC--GC-UA---U-AC-----------------------------
+OEOE_0226    UUAAACG--GU-UU-----U------------------------------
+OEOE_1433    GAAUAAU--UC-CCG-AA-UA-----------------------------
+OEOE_0434    AAAAACC--UG-UGU-UUCUC-----------------------------
+OEOE_0053    ------G--AA-UCA-AGCAA-----------------------------
+OEOE_0167    AAAAAC----AUUCU-AA-UU-----------------------------
+OEOE_1299    AAACACC--AC-UGG-UU-CA-----------------------------
+OEOE_0452    AAAAUGC--CC-GUCUGU-CU-----------------------------
+OEOE_1022    AAAAAAU--UC-UGU-UU-UG-----------------------------
+OEOE_0277    AAAACCG--CU-CC-----UG-----------------------------
+OEOE_1164    AUGAUGA--AG-ACU-AAUUG-----------------------------
+OEOE_1440    ------C--GC-CGC-GA-UU-----------------------------
+OEOE_0519    AAAAGUC--AU-AG-----UU-----------------------------
+OEOE_0023    AAAAAAU--UG-CCG-GU-UA-----------------------------
+OEOE_0652    ------C--CC-GCU-GA-AU-----------------------------
+OEOE_0144    AAAAAGG--AA-AUA-UC-U------------------------------
+OEOE_1423    AGAAACC--GA-GG-----GG-----------------------------
+OEOE_0344    AAGAAAU--AC-UAU-UC-UCG----------------------------
+OEOE_0448    AAAAUAG--GA-UGG-A--U------------------------------
+OEOE_0315    GUAAAG----U-CGA-AU-GU-----------------------------
+OEOE_0336    AAAAGCG--CC-UA-----GA-----------------------------
+OEOE_1418    GAACGAC--UU-GA-----GA-----------------------------
+OEOE_1851    AAAGACA--GG-U------CG-----------------------------
+OEOE_0324    AAAAACC--UC-CGU-GA-UCUAACAAUA----------------UAAUU
+OEOE_1841    AAACAGC--AA-G------UA-----------------------------
+OEOE_1783    UAAGUCG--GA-GC-----AU-----------------------------
+OEOE_1569    ------C--UG-UCG-UU-AU-----------------------------
+OEOE_0893    AAAUGCC--CU-UUG-AU-UU-----------------------------
+OEOE_1507    AAAAGCG--UA-UG---A-A------------------------------
+OEOE_0288    AAAAUCC--CC-ACU-U--UA-----------------------------
+OEOE_0593    GGAAGUC--CU-UG-----CC-----------------------------
+OEOE_1647    AAAAAC----C-CGC-AAAUA-----------------------------
+OEOE_1320    AAAAAAC--GG-AA-----AU-----------------------------
+OEOE_0155    AAAACGA--AU-GAA-UGCUG-----------------------------
+OEOE_0550    CAAAUCG--AG-CAGAGU-UU-----------------------------
+OEOE_1722    GUCGAGC--CC-UAU-UU-UG-----------------------------
+OEOE_1154    AAGCAGA--UC-UA-----U------------------------------
+OEOE_1188    AGAUAAC--UA-UUA-AU-AG-----------------------------
+OEOE_0502    AAAACAC--GG-CCU-AA-GU-----------------------------
+OEOE_0736    AAGCAAA--UC-AA-----GA-----------------------------
+OEOE_0446    ------G--CC-GC-----CC-----------------------------
+OEOE_1751    GAGAUCU--CC-U------CG-----------------------------
+OEOE_0240    AUAAAUC--UC-GAA-UUAUC-----------------------------
+OEOE_0054    AGGUCUC--UC-UAG-AU-AA-----------------------------
+OEOE_1153    UAAACCG--GU-UC-----U------------------------------
+OEOE_0466    UAAACC----U-UAU-UC-AU-----------------------------
+OEOE_0136    AAAAAGC--AU-CCU-AG-A------------------------------
+OEOE_1858    AUAUAGC--CA-UAG-UU-AA-----------------------------
+OEOE_1818    UACAAAA--CG-GGU-UC-U------------------------------
+OEOE_0629    AAGAGCU--CG-GU-----UG-----------------------------
+OEOE_1110    CAAAAAG--GA-GGA-AU-AA-----------------------------
+OEOE_1002    UAAAUAA--CC-AC-----U------------------------------
+OEOE_1442    AAAAAAG--UC-UGG-UUAUA-----------------------------
+OEOE_1704    AAAAACG--GA-CCG----UU-----------------------------
+OEOE_1090    AAAAACA--CU-UGU-AA-UUCGA--------------------------
+OEOE_0750    UUAACAG--UU-CC-----UU-----------------------------
+OEOE_1296    ------A--CC-AUU-UC-UU-----------------------------
+OEOE_1374    ------C--CC-GCU-GA-AU-----------------------------
+OEOE_1763    AAGCAUA--AA-GUG-UA-U------------------------------
+OEOE_0405    AAAACCU--AU-AGG-AC-UGAGAUG----------------------AA
+OEOE_1272    ------G--CA-UCG-GC-AA-----------------------------
+OEOE_0683    AAAAGUU--AG-GA-----UA-----------------------------
+OEOE_1598    AAAAGUA--UC-GAA-AC-AG-----------------------------
+OEOE_0807    AAAACCU--UG-GAAUGUGAU-----------------------------
+OEOE_0757    ------C--GC-UCA-AU-AG-----------------------------
+OEOE_0952    AUAAACG--UC-UA-----GC-----------------------------
+OEOE_0035    GAAAAGC--UU-CCG-AC-AA-----------------------------
+OEOE_0347    AGGCAUGACUC-CCU-GC-GA-----------------------------
+OEOE_0331    AUAACCA--GG-U------UU-----------------------------
+OEOE_1092    ------C--GA-UCC-U--UA-----------------------------
+OEOE_1249    ------C--CG-CC-----AA-----------------------------
+OEOE_0367    AAAAGUC--UC-AU-----A------------------------------
+OEOE_1812    AAAACCA--CG-GA-----CU-----------------------------
+OEOE_1163    UUGAUGA--AG-ACU-AA-AA-----------------------------
+OEOE_1329    AAAAAGG--GA-CU-----UU-----------------------------
+OEOE_0037    AAAAAAA--UU-UA-----AUUUGUUUCGCCACUAAUCCAAAAAACAAAA
+OEOE_1142    AUAAUUC--ACUGGG-UA-AU-----------------------------
+OEOE_0338    AAAAAGG--GC-GC-----AU-----------------------------
+OEOE_0769    AAAAAAC--GA-UC-----AA-----------------------------
+OEOE_1230    AAAAGCG--AA-GA-----UU-----------------------------
+OEOE_1745    ------U--CG-UCAGGU-AA-----------------------------
+OEOE_0514    AAAAGCU--UU-CAG-UCUUA-----------------------------
+OEOE_0376    AAAAAAG--AA-UCC-AU-UU-----------------------------
+OEOE_1170    UAAAGCC--AC-UAA-G--U------------------------------
+OEOE_0411    AAAAGCC--GG-UC---C-GA-----------------------------
+OEOE_0693    AAAAAAG--GA-CCA-CUUUU-----------------------------
+OEOE_1035    AAAAACA--AC-UG---U-AU-----------------------------
+OEOE_1190    UAAUGUC--AG-AU-----UUU----------------------------
+OEOE_0278    AAAACCG--CUGCC-----AA-----------------------------
+OEOE_0572    AAAAAUC--CC-UAA-AA-A------------------------------
+OEOE_0891    UAAGGCA--UC-GCG----AU-----------------------------
+OEOE_0998    AAAAAGU--UC-CGG-AA-UC-----------------------------
+OEOE_0892    AAAAAUC--GG-UU-----UU-----------------------------
+OEOE_1573    AAAAGAA--UU-CU-----AA-----------------------------
+OEOE_1682    UUAAAUG--AU-UGA-AC-UU-----------------------------
+OEOE_0070    AUAAACC--CA-GCA-U--UU-----------------------------
+OEOE_1362    UAAAGGC--GC-UC-----G------------------------------
+OEOE_0188    AAAAACG--CG-AC-----UUU----------------------------
+OEOE_1526    AAAAACA--CC-UG-----UUU----------------------------
+OEOE_1746    UGGAGCA--GC-GAU-U--AA-----------------------------
+OEOE_0082    AAAAUAA--CU-GUC-AU-U------------------------------
+OEOE_0886    UAAAACA--UU-UUC-UU-UU-----------------------------
+OEOE_1189    AUAGAAC--UU-CGA-AA-AGUUU--------------------------
+OEOE_1859    AAAAAGA--AC-UGA-AA-CA-----------------------------
+OEOE_1447    UUAAGCA--UU-CCG----AA-----------------------------
+OEOE_1021    AAAAAAU--UC-UGU-UU-GUG----------------------------
+OEOE_0108    AAAAACA--AG-CC-----GUU----------------------------
+OEOE_1308    AAGGGGA--CU-GUU-UG-GC-----------------------------
+OEOE_1568    AAAAAUC--UG-CCG-UU-UC-----------------------------
+OEOE_1480    AAAAGGC--GU-CG-----GUUAA--------------------------
+OEOE_0973    AAAAACA--GA-UC-----AU-----------------------------
+OEOE_0168    GAAAACG--AU-U------UU-----------------------------
+OEOE_1651    AAACACA--GU-CUA-UU-U------------------------------
+OEOE_0666    AAAAGCA--CA-G------U------------------------------
+OEOE_1520    AAAAACA--AU-UAG-GC-UG-----------------------------
+OEOE_1441    AAAAAGU--CU-GG---U-AA-----------------------------
+OEOE_0753    AAUGAAC--GA-UAA-UU-UU-----------------------------
+OEOE_1601    AAGCAGU--UG-UU-----UA-----------------------------
+OEOE_1321    AAAAAAC--GG-AA-----UU-----------------------------
+OEOE_1762    AAAAGAC--CU-GU-----UU-----------------------------
+OEOE_0888    AAAGGCG--CU-UCC-GACAAG----------------------------
+OEOE_0880    AAAAGCC--GU-UC------------------------------------
+OEOE_0190    UAAAAAC--UU-GC-----U------------------------------
+OEOE_1361    AAAAACC--AG-UC-----G------------------------------
+OEOE_0707    AAAAAAC--AC-CU-----UA-----------------------------
+OEOE_0862    ------C--UU-CAA-UC-U------------------------------
+OEOE_1508    AAAAGCG--UA-UGA----AC-----------------------------
+OEOE_0554    AUCAGUC--CC-AU-----UA-----------------------------
+OEOE_0826    AUAAACC--CA-GCA-U--UU-----------------------------
+OEOE_0006    AAAAGGC--UU-GA-----U------------------------------
+OEOE_0855    ------C--GA-UAA-AU-UG-----------------------------
+OEOE_1535    ------A--CC-UCC-ACGAA-----------------------------
+OEOE_1010    ACAAACC--AG-UC-----AA-----------------------------
+OEOE_1416    UAAAAC----C-GC-----U------------------------------
+OEOE_0015    AAAAACA--CC-GA-----UU-----------------------------
+OEOE_0061    AUAAAUG--UG-AUA-AU-UAAAUGAACACA-------------AUGAGU
+OEOE_0870    AAAAAAC--CA-GC-----GA-----------------------------
+OEOE_1614    AAAAACU--CC-CGA-UU-AA-----------------------------
+OEOE_0871    AAAAACC--AG-CC-----UU-----------------------------
+#=GC SS_cons <<<<<<<..<<.<<<.<<.__.............................
+#=GC RF      AAAAAcc..uc.ucu.ua.Ua.............................
+
+OEOE_1597    ----U-UA------CUG-UUU-CG-AUACUUU------------------
+OEOE_1807    ----A-A------------GU-GC-UCCUUUUU-----------------
+OEOE_0806    ----U-UG-----------GA-AA-CUCGUUU------------------
+OEOE_1060    ----A-AA-------UA--GU-AA-CUUUUUUA-----------------
+OEOE_1779    ----A-AA-------AG-CGG-CA-UCAUCGGAA----------------
+OEOE_1053    ----U-CA-------GU-AGUUGC-GACGUUU------------------
+OEOE_0875    ----U-UGC-----GUA-UUU-CG-UUCGUUU------------------
+OEOE_1117    ----U-AAU----UAAA-UGC-AA-UCUUUUUAAA---------------
+OEOE_0280    ----A-UA-------G---GC-AC-CUUUUUUA-----------------
+OEOE_1765    ---UU-UA-------GU-UGA-AA-CCUUUUUU-----------------
+OEOE_0351    ----U-CA------GUU-GGUUAU-ACCGUCUU-----------------
+OEOE_1118    ----U-UA------UUA-AUG-CA-AUCUUUUU-----------------
+OEOE_1285    ----U-UG------AAC-CGG-GU-UUUUCUUA-----------------
+OEOE_0220    ----U-U--------UG-GAA-GG-CCUUUUUAU----------------
+OEOE_0805    ----A-U--------GG-A-A-CU-CGUUUUUA-----------------
+OEOE_1284    ----A-UG-------AC-CGG-GU-UUUUCUUU-----------------
+OEOE_1610    ----A-A-U-----UGA-AGC-UC-GUUUUUUUAUU--------------
+OEOE_1428    ----A-A------------GG-C---GGUUUUA-----------------
+OEOE_0768    ----C-AA-------UU-GCA-GA-UACUUUUU-----------------
+OEOE_0145    ----A-CAA-----AGA-UAU-UU-CCUUUUUUAUUUCG--------UAA
+OEOE_1398    ----U-CAA-----AAA-GUU-UG-ACCUUUU------------------
+OEOE_1609    ----U-UA-------GA-AGC-UC-GUUUUUUA-----------------
+OEOE_0323    AUUGU-UAG-----AUC-ACG-GA-GGUUUUUAA----------------
+OEOE_1325    AGGAU-AG-------CC-AGA-GC-GGUUUUAA-----------------
+OEOE_0876    ----U-CA-------GC-UCC-GA-UAGUUUU------------------
+OEOE_0225    ----U-AAGUU-GCUUU-UUC-UU-CAAUUCUU-----------------
+OEOE_0281    ----U-UA-------GA--GC-AC-CUUUUUUA-----------------
+OEOE_0355    ----U-CA--------C-UGU-UA-GUCAUCCA-----------------
+OEOE_1766    ----A-AAU-----AGU-UGA-AA-CCUUUUUU-----------------
+OEOE_0371    ----C-U--------GA-AGA-CG-AUUUUUUUAUUGUUU------CUGU
+OEOE_1537    ----U-AA-------UC-AUC-AG-CUUUUUGU-----------------
+OEOE_0827    ----A-A---------A-UGC-UG-GGUUUAU------------------
+OEOE_0527    ----A-AA-----------GC-GA-ACUUUUUU-----------------
+OEOE_0178    ----U-UA--------C-AGG-UG-U------UA----------------
+OEOE_0007    ----U-AA-----------GU-GC-UCUUUUUUAAUAC---------CAC
+OEOE_0008    ----U-AA-----------GC-GC-UCUUUUUU-----------------
+OEOE_0068    ---UU-U--------CA-UUA-CU-AGUGCUU------------------
+OEOE_1247    ----U-U---------A-ACC-UG-GGUUUUU------------------
+OEOE_1030    ----U-UGU-----UUU-UCA-GU-GCUUUUA-G----------------
+OEOE_0535    ----U-AACAC-UUCCA-GCA-GG-A------U-----------------
+OEOE_1538    ----A-A--------UU-CAU-CA-GCUUUUUUA----------------
+OEOE_1366    ----A-AAGAA-UUGGCCAGG-UA-UGUUUUUUAAU--------------
+OEOE_0217    ----C-UAU-----CUG-UGA-GC-UGUUUUU------------------
+OEOE_0935    ----ACUG-----------CC-AA-AGACUUUU-----------------
+OEOE_0243    ----A-AA-------AC-GCU-GG-AGUUUUUU-----------------
+OEOE_1801    ----A-AA------UAC-CGA-UU-CUGUUUUUU----------------
+OEOE_0996    ----A-A--------UG-AUU-CA-GUUUUUUA-----------------
+OEOE_1461    ----A-U--------UC-AAC-GU-UCUUUUCU-----------------
+OEOE_0341    UCACU-U--------GU-CUC-GG-CUUUUUUAUCGCU----------AG
+OEOE_0353    GGGCA-AA------CUA-UCC-AG-GGCGUUU------------------
+OEOE_1714    ----A-UA-------GA--GA-AU-GCUUUUUU-----------------
+OEOE_0936    ----U-AAA-----UUA-UGG-U---UCUUUUUAUUUAG--------UUA
+OEOE_0123    ----ACUAAG--CACUU-AGC-GA-GUUUUUUU-----------------
+OEOE_1169    ----C-CA-------AU-UAA-GG-CUUUUUUUGAUG------------A
+OEOE_1360    ----U-C------------GA-CU-GGUUUUUU-----------------
+OEOE_0180    CGAAU-AA--------C-CGC-GU-CUGUUUUU-----------------
+OEOE_0644    ----A-AGA-----CCA-AUU-AU-GAGGUGUU-----------------
+OEOE_0639    ----A-U--------UC-CGG-GC-UUUUUUUA-----------------
+OEOE_1246    ----U-U---------A-ACC-UG-GGUUUUUAAUUA------------U
+OEOE_0755    ---UU-UA-------UG-AGU-GA-UGAUUUUUA----------------
+OEOE_1291    ----U-UA-------GC-AGU-CU-UUCUCUAU-----------------
+OEOE_0703    ----UUCA-----------GA-GA-CGGUUUUA-----------------
+OEOE_1782    ----A-U--------UG-AAA-AU-GCUUUUU------------------
+OEOE_1394    ----A-U-------------G-GU-GGUUCUUU-----------------
+OEOE_0462    ----U-A------------GA-GC-GGUUUUUA-----------------
+OEOE_1750    ----U-AAACGAGUAGC-AAU-AU-GGUCUUUU-----------------
+OEOE_1242    ----U-U--------UA-AGA-AC-UGUUUUUUA----------------
+OEOE_0383    ----U-AA------CGA-ACG-GC-UUUUUUU------------------
+OEOE_0640    --UUA-AA-------AA-GUC-AG-UGUUUUUU-----------------
+OEOE_1191    ----U-U------------UC-AU-AGGUUUUU-----------------
+OEOE_1834    ----A-UG------GGC-AAC-G---GGUUUU------------------
+OEOE_1839    ----U-UG------UUU-AGG-GA-CGUUUUUUA----------------
+OEOE_0528    ----U-AA-----------GC-GA-ACUUUUUUAA---------------
+OEOE_1478    ----U-CA-------GU-UUG-GC-GUUUUUUAA----------------
+OEOE_1395    ----A-AG-----------GG-C---UUCUUUU-----------------
+OEOE_0461    ----C-U------------GA-GC-GGUUUUUAAAUUG----------AU
+OEOE_1702    ----A-AA------------G-CA-GGCUUUUU-----------------
+OEOE_1705    ----U-AA-----------CG-GU-CCGUUUUUA----------------
+OEOE_1646    ----U-UA------UUU-GCG-G---GUUUUUAAUU--------------
+OEOE_0231    ----A-CG------AUC-UGU-AA-AGCUUUU------------------
+OEOE_1673    AAGCU-AA-------UA-AUC-GA-GUCUUUUU-----------------
+OEOE_1290    ----A-A--------GC-AGC-C---UUUCUCUAUC-------------U
+OEOE_0797    ----A-CA------------A-GU-AUUUUUAU-----------------
+OEOE_0236    ----A-A---------A-AUG-GA-CGUUUUUU-----------------
+OEOE_1243    ----G-U--------UA-AGA-AC-UGUUUUUUAAU--------------
+OEOE_0469    ----U-AA-----------GA-GU-CUCUUUUU-----------------
+OEOE_0122    -UAGU-AG-------UU-AGC-GA-GUUUUUUU-----------------
+OEOE_0574    ----U-AA-----------AU-CC-GGUUUUU-CUUAUGG------AAAC
+OEOE_1198    ----A-C--------GA-ACA-GA-GAUAUUU------------------
+OEOE_0638    ----UUUA--------C-CGA-GC-UUUUUUUAUG---------------
+OEOE_0520    ----C-AA-----------CU-AU-GACUUUUU-----------------
+OEOE_0109    ----U-UA-------AC--GG-CU-UGUUUUUU-----------------
+OEOE_0686    ----A-A--------UC-CUG-AC-GAUUUUUUUAAA-----------AC
+OEOE_0587    ----C-A--------UA-AAA-CU-UGUUUUUA-----------------
+OEOE_1278    ----U-U--------GA-ACU-GG-AGUUUUUUAUC--------------
+OEOE_0770    ---AU-U------------GA-UC-GUUUUUUUA----------------
+OEOE_0636    ----A-A-------------A-CC-GGUUUUUAAAUUA----------GG
+OEOE_0242    ----U-UA------ACC-GCC-GG-AGUUUUUUA----------------
+OEOE_0289    ----U-U--------AA-AGU-GG-GGAUUUUU-----------------
+OEOE_1277    ----A-U--------GA-ACU-GG-AGUUUUAA-----------------
+OEOE_0435    ----U-GA-------GA-AAC-AC-AGGUUUUUAUU--------------
+OEOE_1268    ----U-UA-------A---UA-GC-GGAAUUUU-----------------
+OEOE_0226    ----A-U------------UA-AC-CGUUUUUUA----------------
+OEOE_1433    ----U-U--------UU-UGG-GA-AUUAUUUU-----------------
+OEOE_0434    ----ACUG-------AA-ACG-CA-GGUUUUUUGUUUA----------CC
+OEOE_0053    ----A-U--------CU-UGA-UU-C------UU----------------
+OEOE_0167    ----U-UA------UUC-AGGUG---GUUUUUA-----------------
+OEOE_1299    ----C-AA-------AA-CCG-AU-GGUGUUUUU----------------
+OEOE_0452    ----U-UG-------UCUGAU-GG-GCAUUUU------------------
+OEOE_1022    ----U-U-CC---ACAA-ACA-GA-AUUUUUUUA----------------
+OEOE_0277    ----AUUG-----------GC-AG-CGGUUUUUAU---------------
+OEOE_1164    ----U-U--------UU-AGU-CU-UCAUCAA------------------
+OEOE_1440    ----U-AAU----UAUC-GCG-GC-G------U-----------------
+OEOE_0519    ----G-AA-----------CU-AU-GACUUUUU-----------------
+OEOE_0023    ----AAUAUU---UCUU-UGG-CA-AUUUUUUUC----------------
+OEOE_0652    ----C-U--------UC-AGC-GG-G------U-----------------
+OEOE_0144    ----U-UGU----UUGA-CAU-UU-CCUUUUUU-----------------
+OEOE_1423    ----G-A------------CC-GC-GGUUUUUA-----------------
+OEOE_0344    ---GA-U--------GA-AUA-GU-AUUUUUUU-----------------
+OEOE_0448    ----U-U---------U-UCA-UC-CUAUUUUA-----------------
+OEOE_0315    ----U-U--------UU-UCG-G---CUUUUCU-----------------
+OEOE_0336    ----A-A------------UA-GG-CGUUUUUUCA---------------
+OEOE_1418    ----A-A------------UC-GA-GUCGUUUUG----------------
+OEOE_1851    ----C-A-------------G-CC-UGUCUUA-CGAAAUCA----AAAGA
+OEOE_0324    GUUUU-AA-------UU-ACG-AA-GGUUUUU------------------
+OEOE_1841    ----U-U-------------G-UU-GCUGUUU-C----------------
+OEOE_1783    ----C-U------------GC-UU-CGAUUUUU-----------------
+OEOE_1569    ----U-UG------AAA-CGG-CA-G------A-----------------
+OEOE_0893    ----U-UAAUCGUUUUU-AUA-AA-GGCUUUUU-----------------
+OEOE_1507    ----U-UG------UU---CA-UA-CGCUUUUAA----------------
+OEOE_0288    ----AGAG--------A-AGU-GG-GGAUUUU------------------
+OEOE_0593    ----C-CA-----------CA-AG-GGCUUUU------------------
+OEOE_1647    ----A-AA-------UU-GCA-G---GUUUUUA-----------------
+OEOE_1320    ----U-AA-----------UU-CC-GUUUUUUU-----------------
+OEOE_0155    ----A-U--------UA-UUU-AU-UCGUUUU------------------
+OEOE_0550    ----A-UA------GUC-UUG-CU-CGAUUUG------------------
+OEOE_1722    ----U-UGU----AGAA-AUG-GG-GCUUGUC-GAA-------------A
+OEOE_1154    ----U-UA-----------CG-GA-UCUGCUUUU----------------
+OEOE_1188    ----C-U--------AU-UAG-UA-GUUAUCUUC----------------
+OEOE_0502    ----A-AA------CUU-AGA-UC-GUGUUUUUA----------------
+OEOE_0736    ----U-AA-----------UU-AA-UUUGCUU-CG---------------
+OEOE_0446    ----U-GA-----------GC-GG-C------U-----------------
+OEOE_1751    ----UGU-------------G-GG-AGAUCUU------------------
+OEOE_0240    ----A-AA-------AG-UUC-GG-GAUUUUUU-----------------
+OEOE_0054    ----A-UG------AAU-CUA-AA-GAGGCUUA-----------------
+OEOE_1153    ----A-AG-----------GA-AC-CGGUUUUU-----------------
+OEOE_0466    ----U-U--------GA-AUA-A---GGUUUUUAUU-------------A
+OEOE_0136    ----U-UA-------UU-AGG-GU-GCUUUUUAAUUG-----------AA
+OEOE_1858    ----A-UA------AAA-CUA-UG-GCUUUUU------------------
+OEOE_1818    ----U-CG------GGA-ACU-CG-UUUUUUAU-----------------
+OEOE_0629    ----U-U------------AC-CG-AGUUUUUU-----------------
+OEOE_1110    ----U-CG-------G---CC-UC-CUUUUUGU-----------------
+OEOE_1002    ----U-UG-----------GU-GG-UUAUUUUU-----------------
+OEOE_1442    ----U-U--------UA-CCA-GA-CUUUUUCUG----------------
+OEOE_1704    ----AUU-----------UGA-UC-CGUUUUUUA----------------
+OEOE_1090    GGGUU-CGG-----CUU-ACA-UG-UGUUUUUA-----------------
+OEOE_0750    ----U-UA-----------GG-AA-CUGUUUUU-----------------
+OEOE_1296    ----A-AA------UGA-AAU-GG-U------U-----------------
+OEOE_1374    ----C-U--------UC-AGC-GG-G------U-----------------
+OEOE_1763    ----C-AG-------UA-CAU-UU-UAUGCUUA-----------------
+OEOE_0405    AGAUU-CG-------CU-UCU-AU-AGGUUUUU-----------------
+OEOE_1272    ----U-AA------AGU-CGA-UG-C------U-----------------
+OEOE_0683    ----A-U------------UC-CU-AGCUUUUUU----------------
+OEOE_1598    ----U-AAU----UUGU-UCC-GA-UACUUUUU-----------------
+OEOE_0807    ----A-UA-------AC-UUU-CA-AGGUUUUU-----------------
+OEOE_0757    ----A-U--------AU-UGA-GC-G------U-----------------
+OEOE_0952    ----A-A------------UA-GA-CGUUUUU------------------
+OEOE_0035    ----A-A--------AU-CGA-AA-GCUUUUCU-----------------
+OEOE_0347    ----A-U--------AC-AGG-GAACAUGCCUU-----------------
+OEOE_0331    ----U-UA------------A-CC-UGGUUUUU-----------------
+OEOE_1092    ----C-C---------A-GGG-UC-G------U-----------------
+OEOE_1249    ---CU-U------------GG-CG-G------U-----------------
+OEOE_0367    ----U-AA-----------AC-GA-GACUUUUUAUUUG----------GA
+OEOE_1812    ----UUAA-----------UC-CG-UGGUUUUU-----------------
+OEOE_1163    ----C-AA-------UU-AGU-CU-UCAUCAUU-----------------
+OEOE_1329    ----U-U------------UG-UC-UCUUUUUU-----------------
+OEOE_0037    UAUUA-AG-----------UA-AA-UUUUUUUAA----------------
+OEOE_1142    ----U-AGUC---UUUA-UUC-GU-GGAUUAUU-----------------
+OEOE_0338    ---GU-UA-----------GC-AC-CCUUUUC-G----------------
+OEOE_0769    ----UUAA-----------GA-UC-GUUUUUUUAUA-------------A
+OEOE_1230    ----AAU------------UC-UU-CGCUUUUU-----------------
+OEOE_1745    ----U-U-------CGC-UGA-CG-A------UC----------------
+OEOE_0514    ----U-U--------GA-CGG-AA-AGUUUUUUUG---------------
+OEOE_0376    ----A-C--------UU-GGG-UU-CUUUUUUU-----------------
+OEOE_1170    ----U-AA--------C-UUA-GU-GGCUUUUU-----------------
+OEOE_0411    ----U-UA-------AA--GG-CC-GACUUUUA-----------------
+OEOE_0693    ----A-UA-------GG-UGA-UU-CUUUUUUU-----------------
+OEOE_1035    ----U-UG-------AA--CA-GU-UGUUUUU------------------
+OEOE_1190    --AUU-CG-----------GU-CU-GGCUUUUUU----------------
+OEOE_0278    ----U-CA-----------GG-AG-CGGUUUUA-----------------
+OEOE_0572    ----U-UA------UUU-UUG-GG-GAUUUUUU-----------------
+OEOE_0891    ----U-AA----------AGC-GG-UGUUUUUU-----------------
+OEOE_0998    ----A-A-------UUU-CCA-GA-ACUUUUUUUA---------------
+OEOE_0892    ----U-AA------C----GG-CC-GGUUUUUUGUUUGC--------AAA
+OEOE_1573    ----A-AG-----------AG-AA-UUCUUUUA-----------------
+OEOE_1682    ----U-AAA----CGGU-UCA-AU-CAUUUUUUA----------------
+OEOE_0070    ----U-U---------A-UGC-CG-GGUUUUU------------------
+OEOE_1362    ----U-U------------GA-GC-GCCUUUCAACU-------------A
+OEOE_0188    --AGC-UG-----------GU-CG-CGUUUUUAUA---------------
+OEOE_1526    --UUU-UG-----------CG-GG-UGUUUUUUU----------------
+OEOE_1746    ----U-U---------A-AUC-AC-UGCUUUUUG----------------
+OEOE_0082    ----U-AG-------UU-GAU-GG-UUAUUUU------------------
+OEOE_0886    ----U-U--------UA-GAA-AA-UGUUUUUU-----------------
+OEOE_1189    UCAAU-AA------UUU-UCG-AA-GUUCUUUUAAU-------------A
+OEOE_1859    ----U-AA-------U---CA-GU-UCUUUUU------------------
+OEOE_1447    ----A-AA----------UGG-AA-UGCUUUUUA----------------
+OEOE_1021    --GAA-CA-------AA-ACA-GA-AUUUUUU-GUA--------------
+OEOE_0108    --AAC-UG-----------GG-CU-UGUUUUU------------------
+OEOE_1308    ----U-AA-------CA-AAU-AG-UCUUUUU------------------
+OEOE_1568    ----A-AA------UAA-CGA-CA-GAUUUUUA-----------------
+OEOE_1480    -UAGC-UG-----------CG-GC-GCCUUUU------------------
+OEOE_0973    ----U-C------------GA-UC-UGUUUUUUU----------------
+OEOE_0168    ----U-AA------------U-AU-CGUUUUUU-----------------
+OEOE_1651    ----U-UA-------AA-UUG-AU-UGUGUUUU-----------------
+OEOE_0666    ----U-UA------------C-UG-UGCUUUU------------------
+OEOE_1520    ----U-UG-------GC-UUG-AU-UGUUUUUU-----------------
+OEOE_1441    ----A-UA------UAA--CC-AG-ACUUUUUUAUUGGCGA----UGAAG
+OEOE_0753    ----A-AAU----UGUA-UUA-UU-GUUCUUU------------------
+OEOE_1601    ----A-U------------AG-CA-GCUGUUU------------------
+OEOE_1321    ----AAU------------UU-CC-GUUUUUUU-----------------
+OEOE_1762    ----U-AA-----------AC-AG-GUCUUUUUC----------------
+OEOE_0888    ---AA-UA-------UC-GGG-GG-CGUUUUU-C----------------
+OEOE_0880    ----C-UA-------GC--GA-AC-GGCUUUU-G----------------
+OEOE_0190    ----U-AG-----------GC-AA-GUUUUUUUAA---------------
+OEOE_1361    ----A-G------------GG-CU-GGUUUUUU-----------------
+OEOE_0707    ----AUAG-----------UG-GU-GUUUUUUU-----------------
+OEOE_0862    ----U-AA-------GA-UUG-AA-G------A-----------------
+OEOE_1508    ----A-A-------U---UCA-UA-CGCUUUUU-----------------
+OEOE_0554    ----A-U------------UU-GG-GGCUUUUU-----------------
+OEOE_0826    ----U-U---------A-UGC-CG-GGUUUUU------------------
+OEOE_0006    ----U-C------------UC-AA-GCCUUUUU-----------------
+OEOE_0855    ----U-U--------A---UA-UC-G------UAUUUGAAUUAUCAAACU
+OEOE_1535    ----A-AA-------GU-GAA-GG-U------U-----------------
+OEOE_1010    ----A-UC-----------GA-CU-GGUUUUUUAUU--------------
+OEOE_1416    ----U-AA-----------GC-G---GUUUUUU-----------------
+OEOE_0015    ----U-U------------UC-GG-UGUUUUUUA----------------
+OEOE_0061    GCAUU-UA-------AU-UAU-CA-CAUUUAU------------------
+OEOE_0870    ----AAAG-----------GC-UG-GUUUUUU------------------
+OEOE_1614    ----U-U--------AA-UCG-GG-AGUUUUUAGG---------------
+OEOE_0871    ----U-U------------CG-CU-GGUUUUUU-----------------
+#=GC SS_cons ...._.__.......>>.>>>.>>.>>>>>>>:.................
+#=GC RF      ....U.uA.......ua.aga.ga.ggUUUUUU.................
+
+OEOE_1597    ----U-UU---GU---------------UU
+OEOE_1807    --AA-GUU-A-AUAG----------GGACU
+OEOE_0806    ----U-UU-A-AUGU-----------GGCU
+OEOE_1060    ----U-UG---CU-U-----------AAUU
+OEOE_1779    -UUUU-UU-A-UU---------------AU
+OEOE_1053    ----U-UU-A-UUUG----------UCGUU
+OEOE_0875    ----U-UU-A-UGCA----------AAAAU
+OEOE_1117    UAC-U-UU-A-UUUU----------UCAAU
+OEOE_0280    ----U-AU-A-AUC------------CAAU
+OEOE_1765    ---A---UAA-UU---------------CU
+OEOE_0351    ----U-UU-A-GUGC-----------CAGU
+OEOE_1118    --AA-AUU-A-AUUG----------UCAUU
+OEOE_1285    ---AU-UU-A-UAA-------------CAU
+OEOE_0220    -UA------A-AUUA----------UCAAU
+OEOE_0805    ---AU-UU-----GCC---------AAUAU
+OEOE_1284    --UA--UCUA-UU---------------UU
+OEOE_1610    CCGAU-UU-A-AUGU-----------AAUU
+OEOE_1428    ---AU-UU-A-AACGU---------UAACU
+OEOE_0768    ----UGUU-A-UU---------------CU
+OEOE_0145    GAGU-AUU-A-UUCU-----------UAAU
+OEOE_1398    ----U-UG-A----C-----------CAAU
+OEOE_1609    ----U-UU-A-CUUA-----------AGAU
+OEOE_0323    --A---UU-A-UCAAU---------UAAUU
+OEOE_1325    ---UU-UU-A-UU---------------UU
+OEOE_0876    ----U-UU-A-UGCA----------AAAAU
+OEOE_0225    ----U-UU-A-AACC-----------CAUU
+OEOE_0281    ----UA-U-A-AC---------------AU
+OEOE_0355    --G----------G------------GGCU
+OEOE_1766    ---AU-UU----UC------------CUUU
+OEOE_0371    GAGA--UU-A-UUUU-----------CCUU
+OEOE_1537    ------UU---GUUC-----------CAAU
+OEOE_0827    ----U-UU-A-CUA------------GGAU
+OEOE_0527    ----UAUU---UG---------------AU
+OEOE_0178    -UUAU-UUAA-AU---------------CU
+OEOE_0007    CAA---GU-A-UC-G----------UAAAU
+OEOE_0008    ---A--UU-A-UCAA----------AUGAU
+OEOE_0068    ----U-UU-AGUU---------------AU
+OEOE_1247    ----G-UU-A-UUU------------AGCU
+OEOE_1030    --U---UU-A-UUU-------------UUU
+OEOE_0535    --UUU-UU-A-UU---------------UU
+OEOE_1538    -UAUU-UU------------------UGUU
+OEOE_1366    AAUAU-UUG-----A-----------AACU
+OEOE_0217    ----U-----------------------AU
+OEOE_0935    ---A--UU---CUUC-----------CUAU
+OEOE_0243    ------U--A-AAAC-----------AAAU
+OEOE_1801    --AAU-UU-----U------------UAAU
+OEOE_0996    ---A--UU-A-GA---------------AU
+OEOE_1461    ----UA-U-A-U--------------UCCU
+OEOE_0341    AAAA-------U--G----------UAACU
+OEOE_0353    ----U-UG---CU---------------AU
+OEOE_1714    ---AU-UU-A-UCCAAG------UUUCAAU
+OEOE_0936    CAG-----------AUUU----UUGUAAAU
+OEOE_0123    ---A-AUU-A-CUUGG---------AAAGU
+OEOE_1169    UCAAU-UU---U-U------------GGAU
+OEOE_1360    ---A-AUU-A-CUUU-----------AAAU
+OEOE_0180    ---A--UUGA-AAUA-----------AACU
+OEOE_0644    ----U-UU-A-AUUC-----------AACU
+OEOE_0639    ----U-UU-A-CUU------------CACU
+OEOE_1246    CGUA--UUGA-UUC-------------AAU
+OEOE_0755    -UUUU-UU-A-UU---------------UU
+OEOE_1291    ---A-GUUCA-AGGA----------UCAAU
+OEOE_0703    ---A--UU---UU---------------CU
+OEOE_1782    ----UCUC-A----C-----------GAAU
+OEOE_1394    --UUU-UU-A-C--A----------AAAAU
+OEOE_0462    ---A--U--A-U-C------------GGAU
+OEOE_1750    ----UCUU-A-GAA-------------GCU
+OEOE_1242    --UGU-UU---CU---------------GU
+OEOE_0383    ----G-UU-A-AA---------------CU
+OEOE_0640    ---AU-UU-A-GCUGU---------CCGGU
+OEOE_1191    --UA--UU---U--G----------UCUAU
+OEOE_1834    ----A-UU-A-UAAA----------AGACU
+OEOE_1839    -UU----U---UUCUU--------UUGAAU
+OEOE_0528    AUGA--UUAA-AU---------------AU
+OEOE_1478    --U------A-UCGU-----------UAAU
+OEOE_1395    ----U-UU---GU---------------AU
+OEOE_0461    AAAA-AUU-A-UA---------------AU
+OEOE_1702    --GUUGUC-A-AUGA-----------AAAU
+OEOE_1705    -UUAU-UU-A-UU---------------CU
+OEOE_1646    UGCUU-UU-A-AG-G----------UCAUU
+OEOE_0231    ----U-UU-A-UU---------------UU
+OEOE_1673    ---A---U-A-AA---------------CU
+OEOE_1290    ACC-----------A----------ACUAU
+OEOE_0797    --AA-----A-GU---------------AU
+OEOE_0236    ---A---U---AU---------------GU
+OEOE_1243    UAGAU-UUAA-CUU------------GAAU
+OEOE_0469    ---A-AUU-A-UUU-------------AAU
+OEOE_0122    ---AU-UU---GUUU-----------AAGU
+OEOE_0574    AACU-AUU-A-AA---------------AU
+OEOE_1198    ----U-UU-ACUC---------------AU
+OEOE_0638    CACAU-UU-----U------------CAAU
+OEOE_0520    ---AUAUU-A-CUGU-----------CAAU
+OEOE_0109    ------U--A-AUG-------------GCU
+OEOE_0686    AUU------A-UUUU-----------AUAU
+OEOE_0587    ----U-UU---UG-UC--------UUUGAU
+OEOE_1278    AGCA-AUUAA-UU---------------AU
+OEOE_0770    --CU-CUUAA-AUU------------AGUU
+OEOE_0636    GGGAU-UU-A-UG---------------AU
+OEOE_0242    --AA-AUU-----CCC---------GAAAU
+OEOE_0289    ----UAGU-----AA-----------AAAU
+OEOE_1277    ----U-UU-----GC-----------UUAU
+OEOE_0435    UGCU--UUCA-UG---------------AU
+OEOE_1268    ---UU-UU-A-UGAC-----------AAAU
+OEOE_0226    --UUU-UU-A-C--AA---------AAAAU
+OEOE_1433    --AUU-UU-A-AA---------------CU
+OEOE_0434    CAAAU-UU-A-UUGU----------UAAAU
+OEOE_0053    --UUU-UU-A-UAAA-----------AAAU
+OEOE_0167    ----U-UG------C----------UUGAU
+OEOE_1299    --UAU-UU-A-A--UG---------CAAUU
+OEOE_0452    --GA---U-A-UA---------------AU
+OEOE_1022    -CU---UU---GU-U----------UCAUU
+OEOE_0277    UUU--GU-------UU---------AAGUU
+OEOE_1164    ----G-UC---CU---------------UU
+OEOE_1440    ----U-UU---UA---------------UU
+OEOE_0519    ---AU-UU---UUC------------UUAU
+OEOE_0023    --UUU-UU-A-UU---------------AU
+OEOE_0652    ----U-UU---UU---------------AU
+OEOE_0144    ---A---U-A-CUG-------------CGU
+OEOE_1423    ----U-UU---U-G------------AACU
+OEOE_0344    ---A---U-A-GGGAG---------AAAGU
+OEOE_0448    ----U-UU---U-G------------UGCU
+OEOE_0315    ----U-UU-A-UC---------------UU
+OEOE_0336    -UGUU-UUG-----A-----------CGUU
+OEOE_1418    -UGU-AUC-A-UC---------------AU
+OEOE_1851    AGAAU-UU-A-UAUC-----------UGAU
+OEOE_0324    ----A-U---------------------UU
+OEOE_1841    --AA-----A-A---------------ACU
+OEOE_1783    ------UU---GUU------------GCCU
+OEOE_1569    ----U-UU---UU---------------UU
+OEOE_0893    ---AU-UU---CU-CG--------AUAAAU
+OEOE_1507    --AA---U-A-G--C----------UCAAU
+OEOE_0288    ----A-UU---UU---------------AU
+OEOE_0593    --GCU-GU-A-AC---------------AU
+OEOE_1647    ----U-UU---U-G------------UGAU
+OEOE_1320    --AA--UGC-----A-----------AAUU
+OEOE_0155    ----U-UU-A-UU---------------AU
+OEOE_0550    ----U-UU-A-AUA-------------AAU
+OEOE_1722    AAA---GU-A-U--C-----------CCAU
+OEOE_1154    -AUUU-UUAA-UU---------------AU
+OEOE_1188    -UUUU-UU-A----AG--------GAGUAU
+OEOE_0502    -AUA--UU-----UG----------UGCAU
+OEOE_0736    -ACA-AUC-A-CU---------------AU
+OEOE_0446    ----U-UU---UU---------------AU
+OEOE_1751    ----U-UU---UG---------------UU
+OEOE_0240    --A---UUAA-AUU------------UUAU
+OEOE_0054    ---UU-UU---UU---------------AU
+OEOE_1153    ----UAUU---GC---------------UU
+OEOE_0466    UAU-UAUU-A----AUU------CGUUGAU
+OEOE_0136    AAAA-AUU-A-UU---------------CU
+OEOE_1858    ----C-UU-A-UA---------------AU
+OEOE_1818    ---AUAUUCA----------------GAAU
+OEOE_0629    ----U-GU---GC---------------CU
+OEOE_1110    --A---UU-A-UUAA----------GCUAU
+OEOE_1002    ---UU-GU-A-C--AC--------UUAAAU
+OEOE_1442    --U------A-UCGU----------UCCAU
+OEOE_1704    --AA-----ACUU---------------AU
+OEOE_1090    ----UGUU---CC---------------UU
+OEOE_0750    ---A-AUU-A-AAAACAGAGCAAAAAAGAU
+OEOE_1296    ------UU-A-UUUU-----------AAAU
+OEOE_1374    ----U-UU---UU---------------AU
+OEOE_1763    ----UAUU---CU---------------AU
+OEOE_0405    ---AU-UU-A-CA-------------AAUU
+OEOE_1272    ----U-UU---UG---------------UU
+OEOE_0683    -AC----UAA-CU---------------UU
+OEOE_1598    ----UGUU-A-GUGA-----------GGAU
+OEOE_0807    ---AU-UU-A-UCU-------------UCU
+OEOE_0757    ----U-UU---UU---------------AU
+OEOE_0952    ----C-UU---U-GCA---------AAAAU
+OEOE_0035    ----UAUU-----GCC--------CUAGAU
+OEOE_0347    --A---GC-A-GU---------------UU
+OEOE_0331    --C-U-UU-A-GUGAAA-------UUAGUU
+OEOE_1092    ----U--U---UU---------------CU
+OEOE_1249    ---UU-UU---CU-U-----------UGCU
+OEOE_0367    AUAA-AUU-A-UAGG-----------AUAU
+OEOE_1812    ---C--UU---U-GCCC-------AAAAAU
+OEOE_1163    ----U-UU-A-UC---------------AU
+OEOE_1329    ---A---U-A-AU---------------AU
+OEOE_0037    --UUU-GU-A-UU---------------CU
+OEOE_1142    --UUU-UU-A-UGGG-----------CAAU
+OEOE_0338    -UUUU-UU-A----A-----------AGAU
+OEOE_0769    UCACU-UU------------------UGCU
+OEOE_1230    ---UUGUU---UU---------------AU
+OEOE_1745    -ACUU-UU---C---------------CAU
+OEOE_0514    -UUUU-UU-A----CA--------CAAAUU
+OEOE_0376    --GA--UG-A-UG---------------AU
+OEOE_1170    ------UU---GUU------------GGGU
+OEOE_0411    ----U-UU-A-UAU-------------AGU
+OEOE_0693    ---A--UU---G--GU--------CCGAAU
+OEOE_1035    ----U-U--A-GA---------------CU
+OEOE_1190    --AA--UU---C--UU---------CAAAU
+OEOE_0278    --AAUAUU-A-AA---------------AU
+OEOE_0572    ----U-UUAA-CUUU----------UAAAU
+OEOE_0891    ------U--A-UGGG----------UAAAU
+OEOE_0998    -AU------A-UUUC----------CAACU
+OEOE_0892    AAA---UUAA-AUUAAAG-----CGCCAAU
+OEOE_1573    ---UU-UU-A-UU---------------AU
+OEOE_1682    --UAU-UUAA-UUU------------AUAU
+OEOE_0070    ----A-UU-A-CCAA-----------AGAU
+OEOE_1362    CAUA--UU---U-U------------CAUU
+OEOE_0188    AUAA-AUU-A-U--------------GGAU
+OEOE_1526    -GU------A-UAUU----------UGGAU
+OEOE_1746    --UUU-UUG-----A-----------AAAU
+OEOE_0082    ----A-UU-A-CU---------------GU
+OEOE_0886    --AUU-UU-A-GG---------------UU
+OEOE_1189    UCGAU-UU------U-----------AAUU
+OEOE_1859    ----U-GC-A-GU---------------GU
+OEOE_1447    --UUU-UU-A-CUU------------AAUU
+OEOE_1021    AAUAU-UU---C--U----------UAGCU
+OEOE_0108    ----A-UU-A-CU---------------GU
+OEOE_1308    ----A-UU-A-UGAAG--------AAAAAU
+OEOE_1568    ---A--U--A-GA-------------AGAU
+OEOE_1480    ----U-----------------------GU
+OEOE_0973    --A---AUAA-UU---------------CU
+OEOE_0168    --GUU-UU---GU-U-----------GAAU
+OEOE_1651    --UAU-UU-A-CAUU----------UAGAU
+OEOE_0666    ----U-UU---GU---------------AU
+OEOE_1520    --A---UU-A-UUUA-----------AAAU
+OEOE_1441    AAU-U-UU---UU-U-----------AAAU
+OEOE_0753    ----C-UU---U-GG----------AAAUU
+OEOE_1601    ----U-UU-A-AAU-------------CCU
+OEOE_1321    -----GUUGA-CUU------------GAAU
+OEOE_1762    -AUA-AUU-A-GU---------------UU
+OEOE_0888    --AAU-UCCA-UG---------------AU
+OEOE_0880    --UUU-UU-A-AA-------------UCAU
+OEOE_0190    UUGCU-UU-A-GA---------------AU
+OEOE_1361    ---A--UU-A-UCAC----------UCACU
+OEOE_0707    --AA--UUCA-AUUA----------GCGAU
+OEOE_0862    ----U-UU---UUGU-----------UAAU
+OEOE_1508    ---UUGUU-A-AGA------------AGUU
+OEOE_0554    ----UAUG---UU---------------AU
+OEOE_0826    ----A-UU-A-CCAA-----------AGAU
+OEOE_0006    ---AU-UU----UG------------CUGU
+OEOE_0855    AGA-UAUU-A-UUCU-----------AGAU
+OEOE_1535    ----U-UU-A-UA---------------AU
+OEOE_1010    AGAA--UUGAUUU---------------AU
+OEOE_1416    ----U-GU---CU-C----------UUAAU
+OEOE_0015    --CU-GUCGA-UU---------------AU
+OEOE_0061    ----C-UU-A-UAAG----------UGCAU
+OEOE_0870    ----A-UU-A-CU---------------GU
+OEOE_1614    CUAA-CUU-A-UA--------------AAU
+OEOE_0871    ---A--UU-A-CUGU-----------UAUU
+#=GC SS_cons ...::.::.:.:::.............:::
+#=GC RF      ...aU.UU.A.UUu.............AAU
+//

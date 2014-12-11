@@ -1,0 +1,958 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Rv2402  WT 0.42
+#=GS Rv3212  WT 0.80
+#=GS Rv3804c WT 1.86
+#=GS Rv2450c WT 0.87
+#=GS Rv3794  WT 0.76
+#=GS Rv1213  WT 0.24
+#=GS Rv3567c WT 0.90
+#=GS Rv3193c WT 0.99
+#=GS Rv2282c WT 0.48
+#=GS Rv1220c WT 0.80
+#=GS Rv0723  WT 0.89
+#=GS Rv1473A WT 0.71
+#=GS Rv1658  WT 0.65
+#=GS Rv3597c WT 1.39
+#=GS Rv3648c WT 0.87
+#=GS Rv1080c WT 0.76
+#=GS Rv1037c WT 1.68
+#=GS Rv0710  WT 0.59
+#=GS Rv0467  WT 0.89
+#=GS Rv1058  WT 0.46
+#=GS Rv0380c WT 0.96
+#=GS Rv0198c WT 0.80
+#=GS Rv3388  WT 0.22
+#=GS Rv1014c WT 0.65
+#=GS Rv2273  WT 0.34
+#=GS Rv2906c WT 0.55
+#=GS Rv3389c WT 0.28
+#=GS Rv3417c WT 0.32
+#=GS Rv3791  WT 0.59
+#=GS Rv1908c WT 1.68
+#=GS Rv2346c WT 1.16
+#=GS Rv2248  WT 0.48
+#=GS Rv1457c WT 1.71
+#=GS Rv3140  WT 0.99
+#=GS Rv0750  WT 0.72
+#=GS Rv1072  WT 2.07
+#=GS Rv2274c WT 0.32
+#=GS Rv3416  WT 0.34
+#=GS Rv2202c WT 0.80
+#=GS Rv1821  WT 0.70
+#=GS Rv0384c WT 1.11
+#=GS Rv0737  WT 0.58
+#=GS Rv1566c WT 1.77
+#=GS Rv2674  WT 2.09
+#=GS Rv2985  WT 1.49
+#=GS Rv3548c WT 0.95
+#=GS Rv2986c WT 1.49
+#=GS Rv1328  WT 0.76
+#=GS Rv3516  WT 1.32
+#=GS Rv2523c WT 1.13
+#=GS Rv3001c WT 1.22
+#=GS Rv0650  WT 0.80
+#=GS Rv2201  WT 0.80
+#=GS Rv3518c WT 1.07
+#=GS Rv1073  WT 0.96
+#=GS Rv1329c WT 0.76
+#=GS Rv3011c WT 0.79
+#=GS Rv2725c WT 0.95
+#=GS Rv0475  WT 0.91
+#=GS Rv2466c WT 1.61
+#=GS Rv2789c WT 0.85
+#=GS Rv2189c WT 0.68
+#=GS Rv3219  WT 0.95
+#=GS Rv0212c WT 0.41
+#=GS Rv0957  WT 1.03
+#=GS Rv2710  WT 1.27
+#=GS Rv2583c WT 1.01
+#=GS Rv3517  WT 1.07
+#=GS Rv3393  WT 1.67
+#=GS Rv3547  WT 0.95
+#=GS Rv3890c WT 1.96
+#=GS Rv0244c WT 0.96
+#=GS Rv3706c WT 1.83
+#=GS Rv2675c WT 1.85
+#=GS Rv3444c WT 1.80
+#=GS Rv1466  WT 1.32
+#=GS Rv0211  WT 0.48
+#=GS Rv0440  WT 1.67
+#=GS Rv1248c WT 1.22
+#=GS Rv2763c WT 1.73
+#=GS Rv1629  WT 1.06
+#=GS Rv2345  WT 1.16
+#=GS Rv3220c WT 0.95
+#=GS Rv2196  WT 1.80
+#=GS Rv0571c WT 1.35
+#=GS Rv3651  WT 1.50
+#=GS Rv1793  WT 1.31
+#=GS Rv1244  WT 1.27
+#=GS Rv1301  WT 1.67
+#=GS Rv3556c WT 0.78
+#=GS Rv1271c WT 1.59
+#=GS Rv1310  WT 1.68
+#=GS Rv2604c WT 1.35
+#=GS Rv0567  WT 1.11
+#=GS Rv1291c WT 1.80
+#=GS Rv1311  WT 1.52
+#=GS Rv2924c WT 1.86
+#=GS Rv0441c WT 1.52
+#=GS Rv3715c WT 1.85
+#=GS Rv0272c WT 1.69
+#=GS Rv2737c WT 1.13
+#=GS Rv0300  WT 1.63
+#=GS Rv0257  WT 1.78
+#=GS Rv0251c WT 1.46
+#=GS Rv3744  WT 1.43
+#=GS Rv1901  WT 1.40
+#=GS Rv1536  WT 1.27
+#=GS Rv3028c WT 1.39
+#=GS Rv3181c WT 1.42
+#=GS Rv0852  WT 1.60
+#=GS Rv2788  WT 0.58
+#=GS Rv1298  WT 1.64
+#=GS Rv1817  WT 0.88
+#=GS Rv3138  WT 1.99
+#=GS Rv1229c WT 1.31
+#=GS Rv2557  WT 1.57
+#=GS Rv1573  WT 1.47
+#=GS Rv1481  WT 0.58
+#=GS Rv2207  WT 1.59
+#=GS Rv2879c WT 1.73
+#=GS Rv2848c WT 0.70
+#=GS Rv1799  WT 1.68
+#=GS Rv2351c WT 1.60
+#=GS Rv1764  WT 1.67
+#=GS Rv1660  WT 0.95
+#=GS Rv3013  WT 1.50
+#=GS Rv1467c WT 1.44
+#=GS Rv2813  WT 1.43
+#=GS Rv1677  WT 1.39
+#=GS Rv0790c WT 0.85
+#=GS Rv2723  WT 1.80
+#=GS Rv2544  WT 1.67
+#=GS Rv2625c WT 1.81
+#=GS Rv0847  WT 0.95
+#=GS Rv1238  WT 1.57
+#=GS Rv2237  WT 1.46
+#=GS Rv3745c WT 1.56
+#=GS Rv1165  WT 0.87
+#=GS Rv0129c WT 1.31
+#=GS Rv1932  WT 1.31
+#=GS Rv1150  WT 0.97
+#=GS Rv2417c WT 1.39
+#=GS Rv2836c WT 1.86
+#=GS Rv2930  WT 1.56
+#=GS Rv2327  WT 1.63
+#=GS Rv0341  WT 1.78
+#=GS Rv2911  WT 1.60
+#=GS Rv1370c WT 0.10
+#=GS Rv0875c WT 1.42
+#=GS Rv1923  WT 1.42
+#=GS Rv1535  WT 1.07
+#=GS Rv0905  WT 1.47
+#=GS Rv2168c WT 0.10
+#=GS Rv3184  WT 0.10
+#=GS Rv1886c WT 1.40
+#=GS Rv2972c WT 0.88
+#=GS Rv1830  WT 1.11
+#=GS Rv0554  WT 0.61
+#=GS Rv2354  WT 0.10
+#=GS Rv3381c WT 0.10
+#=GS Rv2281  WT 0.41
+#=GS Rv2980  WT 1.55
+#=GS Rv1757c WT 0.10
+#=GS Rv2857c WT 1.01
+#=GS Rv3697c WT 1.27
+#=GS Rv2884  WT 1.55
+#=GS Rv3186  WT 0.10
+#=GS Rv2105  WT 0.10
+#=GS Rv2815c WT 0.10
+#=GS Rv2648  WT 0.10
+#=GS Rv1475c WT 1.31
+#=GS Rv3406  WT 2.11
+#=GS Rv3474  WT 0.10
+#=GS Rv2255c WT 2.07
+#=GS Rv3325  WT 0.10
+#=GS Rv0795  WT 0.10
+#=GS Rv2965c WT 1.77
+#=GS Rv1763  WT 0.10
+#=GS Rv2686c WT 1.67
+#=GS Rv3555c WT 0.78
+#=GS Rv2971  WT 0.82
+#=GS Rv2480c WT 0.10
+#=GS Rv2278  WT 0.10
+#=GS Rv2932  WT 0.29
+#=GS Rv3014c WT 0.79
+#=GS Rv3818  WT 1.61
+#=GS Rv1730c WT 1.63
+#=GS Rv1393c WT 0.51
+#=GS Rv2861c WT 0.88
+#=GS Rv0642c WT 0.19
+#=GS Rv2747  WT 0.22
+#=GS Rv3338  WT 0.22
+#=GS Rv0904c WT 0.58
+#=GS Rv3319  WT 0.68
+#=GS Rv3578  WT 0.74
+#=GS Rv3579c WT 0.74
+#=GS Rv0952  WT 0.24
+#=GS Rv2247  WT 0.72
+#=GS Rv0641  WT 0.24
+#=GS Rv1627c WT 0.34
+#=GS Rv2796c WT 0.59
+#=GS Rv2249c WT 0.48
+#=GS Rv0953c WT 0.19
+#=GS Rv0751c WT 0.58
+#=GS Rv3490  WT 0.24
+#=GS Rv1392  WT 0.51
+#=GS Rv3213c WT 0.69
+#=GS Rv0233  WT 0.22
+#=GS Rv0668  WT 0.76
+#=GS Rv2991  WT 0.38
+#=GS Rv0860  WT 0.36
+#=GS Rv0661c WT 0.23
+#=GS Rv2403c WT 0.60
+#=GS Rv0897c WT 0.64
+#=GS Rv3320c WT 0.69
+#=GS Rv0570  WT 0.29
+#=GS Rv0379  WT 0.96
+#=GS Rv1474c WT 0.71
+#=GS Rv3339c WT 0.34
+#=GS Rv2765  WT 0.99
+#=GS Rv1095  WT 0.69
+#=GS Rv1626  WT 0.46
+#=GS Rv1013  WT 0.65
+#=GS Rv0861c WT 0.34
+#=GS Rv1324  WT 1.14
+#=GS Rv1074c WT 1.40
+#=GS Rv2062c WT 0.95
+#=GS Rv3248c WT 0.46
+#=GS Rv1079  WT 0.83
+#=GS Rv0234c WT 0.28
+#=GS Rv0896  WT 0.64
+#=GS Rv0685  WT 0.88
+#=GS Rv3458c WT 1.58
+#=GS Rv1325c WT 0.85
+#=GS Rv2748c WT 0.34
+#=GS Rv2582  WT 1.23
+
+Rv2402       GACG-CAAAA-UCGCC--CAA-----AUUC---------GGGCCGA----
+Rv3212       GACG-CAAAA-UCGCC--CG-------AAACC------GAUGGC-U----
+Rv3804c      AACA-UCUAG-CGGCG--GU-------GACC-------CUUGUG-G----
+Rv2450c      GACG-CAAAA-GCUCC--CA-------AA-------------UC-CGGU-
+Rv3794       GACG-CAAAA-GCACC-CCA-------AAUC--------GGGCG-A----
+Rv1213       GACA-CAGAA-UCGCC--CA-------UU-------------UC-GGCA-
+Rv3567c      GACG-CAAAA-UCGCC--CAUU---UUGCG----------GGCG-U----
+Rv3193c      GACG-CAGAA-GUCGC--CG-------AUUUC------ACCGGA-A----
+Rv2282c      GUCG-CAUAA-GCCCC--CG------CACGC-------ACGGCG-U----
+Rv1220c      GACG-CAAAA-UCGCC--CU-------GAAC-------CGUGCG-U----
+Rv0723       GACG-CAAAAUGCCCC--CG-------AA-------------AU-GCCC-
+Rv1473A      GAUU-GUGAA-UCUGA--CG-------AC------------GCG-ACAGC
+Rv1658       GACG-CAGAA-UCGCA-CCG-------CC-------------AC-GCCC-
+Rv3597c      GGCG-CCCAG-GC----------------------------GAA-A----
+Rv3648c      GACGCAAAAA-GCCCC--CA-------AA-------------AC-GGUU-
+Rv1080c      GACG-CAGAA-GCCCC--CA-------AAC---------CGGCG-G----
+Rv1037c      AACG-UGGC---CGCA--CA-------CC------------GGU-U----
+Rv0710       GUCG-CAAAA-GCCCC--CG-------ACAC--------GCGCGGC----
+Rv0467       GACG-CAAAA-GCACC--CU-------UUUG--------CGGCGCA----
+Rv1058       GACG-CAAAA-UCGCC--CA-------UUUU-------CGUGUCGA----
+Rv0380c      GACA-CAAAA-UCGCA--CG------AAUCA-------ACCGCA-A----
+Rv0198c      CAGG-CAGAA-UCGCC--CA-------UU-------------UG-GGAU-
+Rv3388       GACG-CAAAA-UCGCC--CA-------AUUU-------CGUGCCGA----
+Rv1014c      GACG-CAAAA-UCCCC-UCGC-----AACC----------GGCG-U----
+Rv2273       GACG-CAAAA-GCCCC--CG------CACGC-------ACGGAG-U----
+Rv2906c      GACG-CGAAA-UCCCC--CG-------ACAC-------GCCGAA-C----
+Rv3389c      GACG-CAAAA-UCGCC--CA-------AU-------------UC-GGCA-
+Rv3417c      GACG-CAAAA-GCCCC--CG-------ACAC-------GCCGAG-C----
+Rv3791       GACG-CAAAA-GCCCC--CA------AUU-------------CG-GGCA-
+Rv1908c      CA-G-CACC---CCGC--GA-------GC-------------UG-AC---
+Rv2346c      C--G-CGCCA-GCGUA--CG-------GG-------------UA-U----
+Rv2248       GACG-CAGAG-UCGCA--CU-------GC------------GGC-CG---
+Rv1457c      GACA-CUGCA-AC-CA--CG-------CA-------------CA-AGACA
+Rv3140       GACG-UCAAA-GCCCC--CG------AAUUU--------CAGUGAA----
+Rv0750       GACG-CAUAA-GCGCC--CAA-----U-UUC--------GUGUCGA----
+Rv1072       GCCG-UUGA--UUCUG--CG-------UC-------------CA-CCAGG
+Rv2274c      GACG-CAAAA-GCCCC--CG-------ACAC-------UCCGUG-C----
+Rv3416       GACG-CUAAA-GCCCC--CG------CACGC-------UCGGCG-U----
+Rv2202c      GACG-CGGAA-UCGCA-CCG-------UGU---------GGGCC-C----
+Rv1821       GA-G-CGUAA-CGCCA--CU-------GC------------GAA-AUUUC
+Rv0384c      GACG-CGGAA-UCGCA-C---------GC------------GUG-AGGU-
+Rv0737       GACG-CGUAA-GCGCC--CA-------AU------------GUC-GUGC-
+Rv1566c      AAAC-CCGCC-UCCUG--CU-------UCCCGCUGCUCAGCGCG-C----
+Rv2674       GAGA-UUGA---CGUU--UU-------GC-------------AG-ACGCC
+Rv2985       CACA-CGGA---UACC--CU-------UC------------GUC-ACAUU
+Rv3548c      GA-G-CGUGA-ACUCA--GG-------GC------------GAG-AUUUC
+Rv2986c      CACA-CGGA---UACC--CU-------UU------------GCA-CGGUG
+Rv1328       GACG-CAAAA-GCUC---CU-------AA-------------AU-CUGGC
+Rv3516       AGCG-UGAA---CUGA--GG-------GC------------GAG-AUUUC
+Rv2523c      GACG-CAGAA-UCGCAUCGA-------AAU---------CCGGA-U----
+Rv3001c      GA----------CGGC--CU-------AG-------------CU-C----
+Rv0650       GAUU-GUGAA-UCUGG--CG-------AC------------GCG-ACACG
+Rv2201       GACG-CGGAA-UCGCA-UCG-------GCG---------GGGCC-C----
+Rv3518c      AACG-UGAAC-UGAGG-GCG-------GA-------------AU-AUCGG
+Rv1073       GACU-CUGCG-CC-CA--CC-------AC------------GUG-UCCUA
+Rv1329c      GACG-CAAAA-GC-CC-ACU-------AA-------------AU-CGGCC
+Rv3011c      GACA-CAGAC-UCGCAUCCG-------GC------------GCC-CC---
+Rv2725c      GA-G-CGUAA-CGCCA--CG-------GC------------GAA-UUCGG
+Rv0475       GACU-CCGAG-UCGCC--C-----------------------AC-G----
+Rv2466c      GAUA-GUGAA-UUCGG--CGCCGGAACAC------------GCC-CGGGU
+Rv2789c      GA-G-CGUAA-CCGGA--CU-------GC------------GAA-AAUCC
+Rv2189c      GACG-CAAAA-UCACC--CG------G-AAA-------CCGGCG-A----
+Rv3219       CACA-GUGCG-GC-CC--CG-------AC-------------AU-A----
+Rv0212c      GACA-CUAAA-GCCCU--CG-------ACAC-------GCCGUG-C----
+Rv0957       GACA-GUGAA-AUCCA--CG-------AC------------GUG-ACACG
+Rv2710       CA-GACGGUA-UGCCC-GCC-------GC------------GCC-A----
+Rv2583c      GACG-CAGAA-UCGCAUUGG---------------------GCG-GGCU-
+Rv3517       AACG-UGAAC-UCACG-GCG-------GA------------GAU-UCGGC
+Rv3393       G-----------CGCC--GA-------AC------------GUG-AACUG
+Rv3547       GA-A-CGUGA-AGCCA--GG-------GC------------GAG-AAAAC
+Rv3890c      GAAG-GUGGG-GUACA-UGC-------GC-----------GGAC-C----
+Rv0244c      GACU-CUGCG-UC-CA--CCG-----GAC------------GGG-UUACU
+Rv3706c      G----------CAGCC--CG-------GU------------GUC-CACCC
+Rv2675c      GAGACUGACG-UUUUG--CA-------GU------------GAA-AGUGC
+Rv3444c      CU-G-UGUGG-UCCCG--AC-------GG------------GGG-AG---
+Rv1466       AACG-UGAA---CUGA-GGG-------CG------------GAG-AAUCC
+Rv0211       GACG-CAUAA-GC-CC-CCG------CACGC-------ACGGCG-U----
+Rv0440       CA-GCGAGGA-GC-CC--GG-------UCCC-------UUUGUG-G----
+Rv1248c      GA-GGCGUU---CGGC--UG-------AG-------------UU-C----
+Rv2763c      CGCU-CAUGA-GCGC---CG-------CU-------------UC-UCCUC
+Rv1629       GA-G-CGUGC-AUCUG--GG-------GC------------GGG-AAUUC
+Rv2345       CACG-CGCCA-GCGCA--CG-------GG------------GAU-A----
+Rv3220c      AACA-GUGCG-GC-CC--CG-------AC------------GUA-U----
+Rv2196       GA----------CCCG--GG-------UC------------GGC-ACGAC
+Rv0571c      CGCAUCAAAA-UC-----------------------------GC-U----
+Rv3651       CA-G-CAAC---GGCA-GCU-------GC-------------CG-AU---
+Rv1793       GUCG-CGGCA-GCACA--C----------CAA------CCAGCC-G----
+Rv1244       GACG-CGAU---G-----------------------------AC-A----
+Rv1301       G--C-CGAAC-GUGCACGCA-------CU------------GCG-AAGAU
+Rv3556c      GAGG-GUGAA-UCUCA--CG-------AC------------GGG-UCGUC
+Rv1271c      GAUG-CGGG--GAUCC--CG----------------------UC-A----
+Rv1310       GA---GAUCG-UCGCC--GUC-----GAC-------------CG-GAACA
+Rv2604c      GUCG-CAAAA-GCACCCGUU-------UC-----------AGGC-C----
+Rv0567       AACG-UGAAC-UGAGG-ACG---------------------GCA-A----
+Rv1291c      GAUG-UGGGG-ACCC---------------------------CG-G----
+Rv1311       GA-U-GAGC--GCGCC--CA-------UG-------------AU-CG---
+Rv2924c      GAGA-UCGA--CGUCA--GC-------GC------------GAU-GCUCU
+Rv0441c      GA-G-GAGCC-CGGCC--CC----------------------AC-A----
+Rv3715c      GA-U-CAACG-UUCUG--CA-------GG-------------CC-GCUAC
+Rv0272c      AACG-UUAA---UAAC--CG----------------------ACCC----
+Rv2737c      GA-G-CAGG---CGCG--GG-------CA-------------CU-G----
+Rv0300       GACU-GACCA-GCGCU--GG-------CUGA--------UCGAC-A----
+Rv0257       GG----------CACA-GCG-------AC-------------CA-UCGCC
+Rv0251c      G--G-CAUGA-UCCGG-CCG-------GG-------------CC-GAU--
+Rv3744       GGCU-CAUAA-GCUCG--CG-------GG-------------UC-ACUUU
+Rv1901       GACGGCGAAA-UCGA---CA---------------------GCA-GCGCG
+Rv1536       GA-G-CGUAA-CGUCA--CG-------GC-------------UG-AAAAU
+Rv3028c      GUCG-CAAAA-GACCC--CG-------AC-------------AC-GCCG-
+Rv3181c      GACG-CCAG---CGC---CU-------UC------------GUC-AAACU
+Rv0852       GGCG-CUGCA-GUGA----GCG---CAUC------------GCU-GGGCA
+Rv2788       GA-G-CGUAA-CGUGG--CU-------GC------------GAU-UUUCG
+Rv1298       GAC--------GCCCGAACU-------GU------------GCA-CCAG-
+Rv1817       GACU-GGGAA-UCCUG--CG-------AC------------GCG-ACACG
+Rv3138       CACCCCUAU---CUUA--CU----------------------CC-G----
+Rv1229c      GACG-CAAAA-GAACC--CG-------AU-------------UC-UGGU-
+Rv2557       G--G-CGGCA-GUACC--GG-------CC-------------CG-AGCCC
+Rv1573       G-----------CUUC--CG-------GC-------------CC-AU---
+Rv1481       GA-G-CGUAA-CCUGG--CU-------GC------------GAU-UUCCG
+Rv2207       GAUG-CGUUC-GCUG--------------------------GCA-A----
+Rv2879c      AGCG-CAGG---C----------------------------GAA-UC---
+Rv2848c      GA-G-CGUAA-CGGCA--CU-------GC------------GAA-AAGCC
+Rv1799       CACU-UUCA--UCCGACUGC-------GCGGUU----GUUUGUU-A----
+Rv2351c      GA---------UUUGC--UU-------GCA----------UGUG-C----
+Rv1764       GU---------GUGCC--CG------GUG------------GUG-A----
+Rv1660       GA-G-CGUAA-CGCCA--CU-------GC------------GCU-AUUCG
+Rv3013       AGCG-UAAC--GC-CA--CU-------GC------------GAA-AAACC
+Rv1467c      AACG-UGAAC-UCACG--GC-------GG-------------UA-UUUUG
+Rv2813       GAC---------CCCG--CC-------GG-------------AC-AUC--
+Rv1677       GACG-CCACG-CC----------------------------GGU-C----
+Rv0790c      GACU-GUGAA-UCUCA--CG-------AC------------GCC-UCCGC
+Rv2723       GA----------CCGA-UGA-------UC-------------UC-UUU--
+Rv2544       CA-G-GGUCA-CC-----------------------------UGCC----
+Rv2625c      GA---------GC-CG-ACG-------AU------------GAA-AACAA
+Rv0847       GUCG-CUGA--------------------------------GGG-G----
+Rv1238       GACA-CAUAA-GCCCC--C----------------------GCC-ACGCC
+Rv2237       GA-G-UGUGA-GCCUG-ACA-------GC-------------CC-GACAC
+Rv3745c      GUCU-GUAAA-GCUCG-CCGGU--CAUGGGUG------AAAGUG-A----
+Rv1165       GA-G-CGUAA-CGCCA--CU-------GC------------GAA-AUCCA
+Rv0129c      G--G-CAGCA-GC--------------GCAA--------CGGCC-A----
+Rv1932       GA-G-CAGC--GCACG--------------------------AU-U----
+Rv1150       GA-G-CGUGC-AUCCA--GG-------GC------------GAG-AUUCC
+Rv2417c      AACG-UCACG-GCGA----A-------AUUC-------GUCGCU-G----
+Rv2836c      GACA-UUGCC-GU-GA--CG-------GC------------GGU-GAUUG
+Rv2930       GU-G-GUGAA-GC-----------------------------CG-A----
+Rv2327       GACG-CGGCA-AU-A---GG-------CAU----------CGAG-A----
+Rv0341       CACG-AACCG-GU-GG--GG-------AC------------GUU-CA---
+Rv2911       G----------UCGGC--UC-------GCUC--------UAGCACC----
+Rv1370c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv0875c      GACGGCCGA--CCGCG--C-----------------------UU-A----
+Rv1923       GGUG-CAUAA-CU----------------------------GCUCC----
+Rv1535       G-----------CGCC-GCG-------AU------------GUG-G----
+Rv0905       G----------GCGGC--CG-------GCA---------CCGCCUC----
+Rv2168c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv3184       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv1886c      GACG-GG--A-UCAAC--C----------------------GAA-G----
+Rv2972c      GACG-GUGAA-UCUCA--CG-------AC------------GUG-ACACG
+Rv1830       GACA-CAGAA-UCGCACGCGG-----CAG------------GCU-C----
+Rv0554       GA----------C------G-------ACACA------GGCGCG-C----
+Rv2354       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv3381c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2281       AA---------GCCCC--CG-------ACAC-------GCCGUG-C----
+Rv2980       AUCG-CAAG---C----------------------------GCGGC----
+Rv1757c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2857c      GAGU-GUGAA-CUGCG--CA-------AC------------GGG-UUAGC
+Rv3697c      GA----------C-CC--CU-------UCU---------CCGGC-U----
+Rv2884       GUUG-CAAG---U-GA--GU-------GAUCU------UUAGUG-G----
+Rv3186       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2105       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2815c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2648       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv1475c      GA-G-GACCA-UCUGG--CG-------GC-------------UC-GC---
+Rv3406       AACGCAAUUA-UG-UA--GC-------AC-------------CA-UG---
+Rv3474       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2255c      CA----------CCGA--CG-------AU-------------CA-ACGUG
+Rv3325       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv0795       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2965c      GA-A-CGGA---CCUA---G------CUCCU--------UUGCG-G----
+Rv1763       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2686c      G-----------CGCU--AA-------GCAC--------GCGUG-A----
+Rv3555c      GAGA-GUGAA-CCACA--CG-------AC------------GGC-GAAUC
+Rv2971       GACU-GUGAA-CCGCG--CG-------AC------------GUC-UCCUC
+Rv2480c      GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2278       GA-U-CAUCA-GGGCCACC----------------------GCG-A----
+Rv2932       GA---------UCGC---------------------------CG-A----
+Rv3014c      GA-A-CGUAA-CGGCA--CU-------GC------------GAA-UCUCC
+Rv3818       GAUG-CAGU--UC-UA--CG-------AC------------GAC-GG---
+Rv1730c      GACG-CCAAU-AGCA---CA-------GCAC--------CAGCC-G----
+Rv1393c      GACG-CAGAA-UCGCA--CG-------CG------------GAA-GCCU-
+Rv2861c      GGCG-CAAAA-GAACA--UG-------AUGGGCA--CCAGCGCC-C----
+Rv0642c      GACG-CAUAA-GCCCC--CG-------ACAC-------GCCGUG-C----
+Rv2747       GACG-CAAAA-UCGCC-UCA-------UU-------------UC-GGCA-
+Rv3338       GACG-CAAAA-UCGCC--CA-------UU-------------UC-GGCA-
+Rv0904c      GACA-CAGAG-UCGCA--CA-------AAAU--------CGGCG-G----
+Rv3319       GACG-CAAAA-UCGCC--CG-------AAAA-------CCAGUG-G----
+Rv3578       GACG-CAGAA-UCGCA-U-G-------AU-------------UU-GAGC-
+Rv3579c      C--G-CAGAA-UCGCA-U-G-------AU-------------UU-GAGC-
+Rv0952       GACG-CAUAA-GCCCC--CG------CACGC-------UCGGCG-U----
+Rv2247       GACG-CAGAA-UCGCA--CG------CGC------------GAG-GUC--
+Rv0641       GACG-CAUAA-GCCCC--CG------CACGC-------ACGGCG-U----
+Rv1627c      GACG-CAAAA-UCGCC--CA-------UU-------------UC-GGGU-
+Rv2796c      GACG-CAAAA-GCCCC--CA-------UU-------------UC-GGGC-
+Rv2249c      GACG-CAGAG-UCGCA--CU-------GC------------GCC-GG---
+Rv0953c      GACG-CAUAA-GCCCC--CG-------ACAC-------GCCGAG-C----
+Rv0751c      GACG-CAUAA-GCGCC--CA-------UU-------------UC-GACA-
+Rv3490       GACG-CAGAA-UCGCC--CA-------UU-------------UC-GGCA-
+Rv1392       GACG-CAGAA-UCGCA--CG-------CG------------GAA-AGGC-
+Rv3213c      GACG-CAAAA-UCGCC--CG-------AA-------------AG-CCAU-
+Rv0233       GACG-CAAAA-UCGCC--CA-------AUUU-------CGUGCCGA----
+Rv0668       GACG-CAGAA-UCGCA--CG-------CGAA--------AUGCCUG----
+Rv2991       GACG-CAAAA-UCGCC--CA-------UUUC--------GAGACGA----
+Rv0860       GACG-UAAAA-GCCCC--CG------CACGC-------UCGGCG-U----
+Rv0661c      GUCG-CAUAA-GCCCC--CG-------ACAC-------GCCGAG-C----
+Rv2403c      GACG-CAAAA-UCGCC--CA-------UUU---------CGGCCCG----
+Rv0897c      GACG-CAAAA-GCCCC-UAA------UACC----------UGCC-G----
+Rv3320c      GACG-CAAAA-UCGCC--CA-------AA-------------AC-CACU-
+Rv0570       GACG-CAGAA-UCGCA--CA-------AAAU--------CAGCG-A----
+Rv0379       GACG-CAAAA-UCGCA--CG-------GUUU-------GCGGUU-G----
+Rv1474c      GACU-GUGAA-UCUGA--CG-------AC------------GCG-ACACG
+Rv3339c      GACG-CAAAA-UCGCC--CAA-----U-UUC--------GUGCCGA----
+Rv2765       GACG-CAGAA-UCGCAUUAA-------UCG----------CGCC-C----
+Rv1095       GACA-CAGAA-UCGCA--CU-------GC------------GCC-GGC--
+Rv1626       GACG-CAAAA-UCGCC--CA-------UU-------------UC-GUAC-
+Rv1013       GACG-CAAAA-UCCCC-UCG-------ACA----------CGCC-G----
+Rv0861c      GACG-UAAAA-GCCCC--CG-------ACAC-------GCCGAG-C----
+Rv1324       GACG-CAGAA-UCGCC--UA-------AA-------------CC-CGCA-
+Rv1074c      GACU-CUGC--GUCCA--CC-------AC------------GCA-AAAGU
+Rv2062c      GACG-CAGAA-UCGCA-UGC-------GC------------GGG-ACC--
+Rv3248c      GACG-CAAAA-UCGCC--CA-------UUUU-------CAUGACGA----
+Rv1079       GACG-CGAAA-GCACC-CCA-------AAA---------CCGCCGG----
+Rv0234c      GACG-CAAAA-UCGCC--CA-------AU-------------UC-GGCA-
+Rv0896       GACG-CAAAA-GCCCCCUAA-------ACC----------GGCA-G----
+Rv0685       GACG-CAAAA-GAACA--UG-------AUGGGCGCACCAGCGCC-C----
+Rv3458c      GGCG-CCGC---CCCC--CG-------AG-------------UA-CCCCC
+Rv1325c      GACG-CAGAA-UCGCC-UAA-------ACCC--------GUGCG-G----
+Rv2748c      GACG-CAAAA-UCGCC--CA-------UUUC--------GUGCCGA----
+Rv2582       GACA-CAGAA-UCGCA-C-----------------------GAA-AUCAG
+#=GC SS_cons <<<<.<<<<<.<<<<<..<<.......<<............___._....
+#=GC RF      GACG.CagAA.uCgCc..Cg.......gc............Gcg.a....
+
+Rv2402       -----------------------------------------------A-A
+Rv3212       -----------------------------------------------U-U
+Rv3804c      -----------------------------------------------U-C
+Rv2450c      -------------------------------------------CGGAU-U
+Rv3794       -----------------------------------------------U-U
+Rv1213       --------------------------------------------CGAA-A
+Rv3567c      -----------------------------------------------G-U
+Rv3193c      -----------------------------------------------A-U
+Rv2282c      -----------------------------------------------G-U
+Rv1220c      -----------------------------------------------U-C
+Rv0723       --------------------------------------------AUUU-U
+Rv1473A      GGC-------------------------------------GUGUCGCG-U
+Rv1658       --------------------------------------------GUCG-G
+Rv3597c      --------------------------------------------------
+Rv3648c      -------------------------------------------CCGUU-U
+Rv1080c      -----------------------------------------------U-U
+Rv1037c      -----------------------------------------------G-G
+Rv0710       -----------------------------------------------G-U
+Rv0467       -----------------------------------------------A-A
+Rv1058       -----------------------------------------------A-A
+Rv0380c      -----------------------------------------------A-C
+Rv0198c      -------------------------------------------ACCAA-A
+Rv3388       -----------------------------------------------A-U
+Rv1014c      -----------------------------------------------G-U
+Rv2273       -----------------------------------------------G-U
+Rv2906c      -----------------------------------------------G-U
+Rv3389c      -------------------------------------------CGAAA-U
+Rv3417c      -----------------------------------------------G-U
+Rv3791       --------------------------------------------CGAA-A
+Rv1908c      ---------------------------------------------CGG-C
+Rv2346c      ----------------------------------------------CC-C
+Rv2248       ---------------------------------------------GCG-C
+Rv1457c      CGCCG---------------------------------ACGCAUCGGU-G
+Rv3140       -----------------------------------------------A-U
+Rv0750       -----------------------------------------------A--
+Rv1072       CUGACCACUCG---------------------CACUUUUGCGUGGUAG-A
+Rv2274c      -----------------------------------------------G-U
+Rv3416       -----------------------------------------------G-U
+Rv2202c      -----------------------------------------------C-G
+Rv1821       GGGC-----------------------------------AGAAAAUCG-C
+Rv0384c      -------------------------------------------CCGCG-C
+Rv0737       --------------------------------------------CGAA-A
+Rv1566c      -----------------------------------------------G-A
+Rv2674       CUCUCG-------------------------------CACUUUCACUG-C
+Rv2985       GCC-------------------------------------ACCGUGCA-A
+Rv3548c      GGCC-----------------------------------GUUUUCUCG-C
+Rv2986c      GCA-------------------------------------AUGUGACG-A
+Rv1328       -------------------------------------------CGAUU-U
+Rv3516       GGCC-----------------------------------GAUUUUCCG-C
+Rv2523c      -----------------------------------------------U-U
+Rv3001c      -----------------------------------------------C-U
+Rv0650       CCG-------------------------------------GUGCGGCG-U
+Rv2201       -----------------------------------------------A-C
+Rv3518c      C----------------------------------------CGAAUCU-C
+Rv1073       CUCG----------------------------------CACUUUUGCG-U
+Rv1329c      -------------------------------------------AGAUU-U
+Rv3011c      ---------------------------------------------UCG-C
+Rv2725c      UGCA----------------------------------CGCAAGCUCG-C
+Rv0475       --------------------------------------------------
+Rv2466c      -------------------------------------------UCUUG-U
+Rv2789c      GUGC-----------------------------------CGAAAAUCG-C
+Rv2189c      -----------------------------------------------UU-
+Rv3219       ----------------------------------------------CG-U
+Rv0212c      -----------------------------------------------G-U
+Rv0957       CCG-------------------------------------GAAACGCG-U
+Rv2710       -----------------------------------------------G-C
+Rv2583c      --------------------------------------------GAU---
+Rv3517       C-----------------------------------------GAUAUU-C
+Rv3393       ACGGCGGGAUUUUCCCG---------AAAUUCUCGCCCUGACGUCACG-U
+Rv3547       GGCC-----------------------------------GAAAUCUCG-C
+Rv3890c      -----------------------------------------------G-C
+Rv0244c      CGC------------------------------------ACUUUUGCG-U
+Rv3706c      ------------------------------------------AAGGCA-C
+Rv2675c      GA--------------------------------------GAGGGCGU-C
+Rv3444c      ---------------------------------------------AGC-C
+Rv1466       GGC-------------------------------------AAAAUACC-G
+Rv0211       -----------------------------------------------G-U
+Rv0440       -----------------------------------------------G-G
+Rv1248c      ----------------------------------------------GC-U
+Rv2763c      AUCGCUUCGUCCCCCGCAAGCGGGUGGUACCCCCACUGCAUCGUCGCG-G
+Rv1629       GGCG-----------------------------------AUUUUUCCG-C
+Rv2345       -----------------------------------------------C-C
+Rv3220c      -----------------------------------------------G-U
+Rv2196       CCGGGAAGGAACCGGGC--------AAAUCAAGCACAGCCCGGCGACG-A
+Rv0571c      --------------------------------------------------
+Rv3651       ---------------------------------------------CCG-C
+Rv1793       --------------------------------------------------
+Rv1244       --------------------------------------------------
+Rv1301       UCGGCC-------------------------------AAUUGUUCGCA-G
+Rv3556c      GGC-------------------------------------GUGUCGCG-U
+Rv1271c      -----------------------------------------------A-C
+Rv1310       UC--------------------------------------UGGUCGGG-U
+Rv2604c      -----------------------------------------------G-A
+Rv0567       -----------------------------------------------A-U
+Rv1291c      -----------------------------------------------A-C
+Rv1311       ----------------------------------------------GC-A
+Rv2924c      CUC------------------------------------UCGCGGGGG-C
+Rv0441c      -----------------------------------------------A-A
+Rv3715c      UCG-------------------------------------CACCUUGC-C
+Rv0272c      -----------------------------------------------A-C
+Rv2737c      -----------------------------------------------U-G
+Rv0300       -----------------------------------------------A-G
+Rv0257       GACGGC-------------------------------GGAGCUCGGCG-U
+Rv0251c      --------------------------------------------GGGU-C
+Rv3744       CA--------------------------------------CCCAUGAC-C
+Rv1901       ACAAAGUUCGAC------------------GAGAAGACACCGCGCUA---
+Rv1536       CCGUG---------------------------------CCCGACUUCG-C
+Rv3028c      -------------------------------------------AGGCG-U
+Rv3181c      UCUCAC------------------------------CACCGAGACAGG-G
+Rv0852       CUCGGCCC--------------------------GGCCCGGGUCAGCG-A
+Rv2788       GCAC-----------------------------------GGAUUUUCG-C
+Rv1298       -------------------------------------------CGGUA-C
+Rv1817       CCG-------------------------------------ACAAGGCG-U
+Rv3138       --------------------------------------------------
+Rv1229c      -------------------------------------------CGAAA-U
+Rv2557       G----------------------------------------ACGCUGG-G
+Rv1573       ---------------------------------------------GGG-C
+Rv1481       GCGC-----------------------------------GGAUUUUCG-C
+Rv2207       --------------------------------------------------
+Rv2879c      ----------------------------------------------A---
+Rv2848c      GGGC----------------------------------CGGAAAUUCG-C
+Rv1799       -----------------------------------------------G-C
+Rv2351c      -----------------------------------------------G-C
+Rv1764       -----------------------------------------------U-A
+Rv1660       GAUC-----------------------------------GCAAUCUCG-C
+Rv3013       GCGC-----------------------------------GGAGAUUCG-C
+Rv1467c      CC--------------------------------------GGAUUCUC-C
+Rv2813       ---------------------------------------------UCC-C
+Rv1677       --------------------------------------------------
+Rv0790c      CGC-------------------------------------GUGUCGCG-U
+Rv2723       --------------------------------------------CAUG-A
+Rv2544       --------------------------------------------------
+Rv2625c      UCA------------------------------------UUGUUGGUA-U
+Rv0847       --------------------------------------------------
+Rv1238       GA--------------------------------------AGGAUUU---
+Rv2237       CGGCGG-------------------------------CGUGUGUCGCG-U
+Rv3745c      -----------------------------------------------C-C
+Rv1165       GCCC-----------------------------------GGCUUUUCG-C
+Rv0129c      -----------------------------------------------G-C
+Rv1932       --------------------------------------------------
+Rv1150       GCCCG--------------------------------GCAAACCGUCG-C
+Rv2417c      -----------------------------------------------A-U
+Rv2836c      GU---------------------------------------UCAUCGA-C
+Rv2930       --------------------------------------------------
+Rv2327       -----------------------------------------------U-G
+Rv0341       ---------------------------------------------UGG-U
+Rv2911       -----------------------------------------------G-C
+Rv1370c      --------------------------------------------------
+Rv0875c      --------------------------------------------------
+Rv1923       --------------------------------------------------
+Rv1535       -----------------------------------------------A-U
+Rv0905       -----------------------------------------------G-C
+Rv2168c      --------------------------------------------------
+Rv3184       --------------------------------------------------
+Rv1886c      --------------------------------------------------
+Rv2972c      CCG-------------------------------------AGGAGACG-U
+Rv1830       -----------------------------------------------C-U
+Rv0554       -----------------------------------------------G-U
+Rv2354       --------------------------------------------------
+Rv3381c      --------------------------------------------------
+Rv2281       -----------------------------------------------G-U
+Rv2980       --------------------------------------------------
+Rv1757c      --------------------------------------------------
+Rv2857c      G----------------------------------------UGUCGCG-U
+Rv3697c      -----------------------------------------------G-A
+Rv2884       -----------------------------------------------U-C
+Rv3186       --------------------------------------------------
+Rv2105       --------------------------------------------------
+Rv2815c      --------------------------------------------------
+Rv2648       --------------------------------------------------
+Rv1475c      ----------------------------------------------CG-C
+Rv3406       ----------------------------------------------CG-U
+Rv3474       --------------------------------------------------
+Rv2255c      UUGAGGG-----------------------------UUUGGCCCGAAA-U
+Rv3325       --------------------------------------------------
+Rv0795       --------------------------------------------------
+Rv2965c      -----------------------------------------------G-A
+Rv1763       --------------------------------------------------
+Rv2686c      -----------------------------------------------G-C
+Rv3555c      GGC-------------------------------------GUGUCGCG-U
+Rv2971       GGC-------------------------------------GUGUCACG-U
+Rv2480c      --------------------------------------------------
+Rv2278       --------------------------------------------------
+Rv2932       --------------------------------------------------
+Rv3014c      GCGC-----------------------------------GGUUUUUCG-C
+Rv3818       ----------------------------------------------CG-U
+Rv1730c      -----------------------------------------------G-C
+Rv1393c      --------------------------------------------UUCC-G
+Rv2861c      -----------------------------------------------A-U
+Rv0642c      -----------------------------------------------G-U
+Rv2747       --------------------------------------------CGAA-A
+Rv3338       --------------------------------------------CGAA-A
+Rv0904c      -----------------------------------------------U-U
+Rv3319       -----------------------------------------------U-U
+Rv3578       -------------------------------------------UCAAA-U
+Rv3579c      -------------------------------------------UCAAA-U
+Rv0952       -----------------------------------------------G-U
+Rv2247       --------------------------------------------CGCG-C
+Rv0641       -----------------------------------------------G-U
+Rv1627c      -------------------------------------------ACGAA-A
+Rv2796c      -------------------------------------------CCGAA-A
+Rv2249c      ---------------------------------------------CCG-C
+Rv0953c      -----------------------------------------------G-U
+Rv0751c      --------------------------------------------CGAA-A
+Rv3490       --------------------------------------------CGAA-A
+Rv1392       --------------------------------------------UUCC-G
+Rv3213c      -------------------------------------------CGGUU-U
+Rv0233       -----------------------------------------------A-U
+Rv0668       -----------------------------------------------C-G
+Rv2991       -----------------------------------------------A-A
+Rv0860       -----------------------------------------------G-U
+Rv0661c      -----------------------------------------------G-U
+Rv2403c      -----------------------------------------------A-A
+Rv0897c      -----------------------------------------------G-U
+Rv3320c      -------------------------------------------GGUUU-U
+Rv0570       -----------------------------------------------U-U
+Rv0379       -----------------------------------------------A-U
+Rv1474c      CCG-------------------------------------CUGUCGCG-U
+Rv3339c      -----------------------------------------------A--
+Rv2765       -----------------------------------------------G-G
+Rv1095       --------------------------------------------CCGG-C
+Rv1626       -------------------------------------------CCGAA-A
+Rv1013       -----------------------------------------------G-U
+Rv0861c      -----------------------------------------------G-U
+Rv1324       -------------------------------------------CGGGU-U
+Rv1074c      GCGA----------------------------------GUAGGACACG-U
+Rv2062c      ---------------------------------------------CCG-C
+Rv3248c      -----------------------------------------------A-A
+Rv1079       -----------------------------------------------U-U
+Rv0234c      -------------------------------------------CGAAA-U
+Rv0896       -----------------------------------------------G-U
+Rv0685       -----------------------------------------------A-U
+Rv3458c      CAA-------------------------------------CCCAACCC-U
+Rv1325c      -----------------------------------------------G-U
+Rv2748c      -----------------------------------------------A-A
+Rv2582       CC---------------------------------------CGCCCA---
+#=GC SS_cons ...............................................>.>
+#=GC RF      ...............................................g.c
+
+Rv2402       --UG---GGCGAUUUUG-CGUC
+Rv3212       --CG---GGCGAUUUUG-CGUC
+Rv3804c      --GC---CGCCGCUAGA-UGUU
+Rv2450c      --UG---GGAGCUUUUG-CGUC
+Rv3794       -UUG---GGGGCUUUUG-CGUC
+Rv1213       -UUG---GGCGAUUCUG-CGUC
+Rv3567c      --UG---GGCGAUUUUG-CGUC
+Rv3193c      --CG---GGGACUUCUG-CGUC
+Rv2282c      --CG---GGGGCUUUAG-CGAC
+Rv1220c      -CAG---GGCGAUUUUG-CGUC
+Rv0723       --CG---GGGGCUUUUG-CGUC
+Rv1473A      --CG---UCAGAUUCAC-AGUC
+Rv1658       --CG---UGCGAUUCUG-CGUC
+Rv3597c      ----------GCCUGGG-CGCC
+Rv3648c      --UG---GGGGCUUUA--CGUC
+Rv1080c      -UUG--GGGUGCUUUCG-CGUC
+Rv1037c      --UG---UGUG--GCCA-CGUU
+Rv0710       -GCG---GGGGCUUUUG-CGAC
+Rv0467       --AG--UGGCGCUUUUG-CGUC
+Rv1058       --UG---GGGGCUUUUG-CGUC
+Rv0380c      --CG---UGCGAUUUUG-CGUC
+Rv0198c      --UG---GGCGAUUCUG-CGUC
+Rv3388       --UG---GGCGAUUUUG-CGUC
+Rv1014c      --CG--AGGGGAUUUUG-CGUC
+Rv2273       --CG---GGGGCUUUUG-CGUC
+Rv2906c      -GCG---GUGGCUUUUG-CGUC
+Rv3389c      --UG---GGCGAUUUUG-CGUC
+Rv3417c      -GCG---GGGGCUUUAG-CGUC
+Rv3791       --UG---GGGGCUUUUA-CGUC
+Rv1908c      --UC---GCGG--GGUG-C-UG
+Rv2346c      --CG---UGCGCUGGCG-C--G
+Rv2248       --AG---UGCGACUCUG-CGUC
+Rv1457c      --CG---UG-GUUGCAG-UUUC
+Rv3140       --CG---GGGGCUUUUG-CGUC
+Rv0750       -AUG---GGCGCUUAUG-CGUC
+Rv1072       --CG---CAGGA-UCAA-CGGC
+Rv2274c      -GCG---GGGGCUUUUG-CGUC
+Rv3416       --CG---GGGGCUUUUG-CGUC
+Rv2202c      -CCG--AUGCGAUUCCG-CGUC
+Rv1821       --AG---UGGCGUUACG-C-UC
+Rv0384c      -A----GUGCGAUUCCU-CGUC
+Rv0737       --UG---GGCGCUUAUG-CGUC
+Rv1566c      --AG---CAGGAGGCUG-GUUU
+Rv2674       --AA---AACG--UCAG-UCUC
+Rv2985       --AG---GGUA--UCCG-UGUG
+Rv3548c      --CC---UGGCUUCACG-U-UC
+Rv2986c      --AG---GGUA--UCCG-UGUG
+Rv1328       --AG---UGGGCUUUUG-CGUC
+Rv3516       --CC---UCAG--UUCA-CGUU
+Rv2523c      --UC--AUGCGACUCUG-CGUC
+Rv3001c      --AG---GCCG---------UC
+Rv0650       --CG---CGGGAUUCAC-ACUC
+Rv2201       -ACG--GUGCGAUUCCG-CGUC
+Rv3518c      --CG--CCGUGAGUUCA-CGUU
+Rv1073       --GG---UG-GACGCAG-AGUC
+Rv1329c      --AG---GA-GCUUUUG-CGUC
+Rv3011c      -CCG---UGCGAUUCUG-UGUC
+Rv2725c      --CG---UGGCGUUACG-C-UC
+Rv0475       ---G---GGCGACUCGG-AGUC
+Rv2466c      --CG---CCGAAUUCAC-UAUC
+Rv2789c      --AG---CCACGUUACG-C-UC
+Rv2189c      -UUG---GGCGACUUUG-CGUC
+Rv3219       --CG---GG-GCCGCAC-UGUU
+Rv0212c      -GCG---GGGGCUUAUG-CGUC
+Rv0957       --CG---UGACAUUCAC-UCUC
+Rv2710       --GG--CGGGCAUACCG-C-UG
+Rv2583c      -UUC--GUGCGAUUCUG-UGUC
+Rv3517       --CG--CCCUCAGUUCA-CGUU
+Rv3393       --UC---GGCG----------C
+Rv3547       --CC---UGAGUUCACG-C-UC
+Rv3890c      --GC--GUCUGCCCCAC-CUUC
+Rv0244c      --GG---UG-GACGCAG-AGUC
+Rv3706c      --CG---GGCUG---------C
+Rv2675c      --UG---CAAAACGUCAAUCUC
+Rv3444c      --GU---CGGGACCACA-C-AG
+Rv1466       --CC--GUGAG--UUCA-CGUU
+Rv0211       --CG--AGG-GCUUUAG-UGUC
+Rv0440       --CC---GG-GCUCCU--C-UG
+Rv1248c      --CA---GCCG--AACG-C-UC
+Rv2763c      --CG---CGCGCUCAUG-AGCG
+Rv1629       --CC---UGAGUUCACG-C-UC
+Rv2345       --CG---UACGCUGGCG-CGUG
+Rv3220c      --CG---GG-GCCGCAC-UGUG
+Rv2196       --CC---CGGG---------UC
+Rv0571c      ----------GAUUUUG-UGCG
+Rv3651       --GG--CUACC--GUUG-C-UU
+Rv1793       ---G---UGUGCUGCUG-UGUC
+Rv1244       ----------C--ACCG-CGUC
+Rv1301       -CUG--UUGCACGUUCG-G--C
+Rv3556c      --CG---UGCGAUUCAC-UGUC
+Rv1271c      --CG---GGAUC-CCCG-CAUU
+Rv1310       --AC---GGCGAAGUU----UC
+Rv2604c      --AAUUUGGAGCUUUUG-UGUC
+Rv0567       --CG--GCCUCAGUUCA-CGCU
+Rv1291c      --------GGGUCCCCA-CAUC
+Rv1311       --UG---GUCGU-GCUC-G-UC
+Rv2924c      --GC---UGCCG-UCGA-UCUC
+Rv0441c      --GG---GACCGGGCUC-C-UC
+Rv3715c      --UG---CAAAAUGUUG-A-UC
+Rv0272c      --CG---GUUG--UUAG-CUUG
+Rv2737c      --CC---UGCG--CCUG-C-UC
+Rv0300       --UC---GGCGCUGGUG-CGGC
+Rv0257       --CG--GUGAG---------UC
+Rv0251c      --CG---CCGGAUCAUG-C--C
+Rv3744       --GG---CGAGCUUUAC-AGAC
+Rv1901       -AUG---U-CGAUUUCGAUGAC
+Rv1536       --CG---UGGCGUUACG-C-UC
+Rv3028c      --GG---GGGGCCUUGG-CGCC
+Rv3181c      --AG---CUCG--CUGG-CGUC
+Rv0852       --CC---U-CACUGCGG-CGCC
+Rv2788       --AG---UCCGGUUACG-C-UC
+Rv1298       --AGG-ACGGGC-------GUC
+Rv1817       --CG---UGAGAUUCAC-AGUC
+Rv3138       -GAG---UAAG--AUAG-GGUG
+Rv1229c      --UG---GGUGCCGUUG-CGUC
+Rv2557       --CC---GGCACUGCUG-U--C
+Rv1573       --CG---GAAG----------C
+Rv1481       --AG---UGCGGUUACG-C-UC
+Rv2207       --------CAGCUUUCG-CAUU
+Rv2879c      ----------G--CCAG-CGCU
+Rv2848c      --AG---UGGCGUUACA-U-UC
+Rv1799       --GC--AUCGGA-UGAA-AGUG
+Rv2351c      --GA---GCAAA--------UC
+Rv1764       --CG---GGCAC--------AC
+Rv1660       --AG---UGACGUUACG-C-UC
+Rv3013       --AG---UG-CC-GUUA-CGUU
+Rv1467c      --GC---CCUCAGUUCA-CGUU
+Rv2813       --GG---CGGG--------GUC
+Rv1677       ----------GGCUUGG-CGUU
+Rv0790c      --CG---UGCCAUUCAC-AGUG
+Rv2723       --UC---UCGG---------UC
+Rv2544       ----------GGUGAUC-C-UG
+Rv2625c      --CG--AUG-GU--------UC
+Rv0847       -------------UCAG-CGCC
+Rv1238       ---G---GAGCUUUUUG-CGUC
+Rv2237       --CG--CCAGGUUCACG-C-UC
+Rv3745c      --CG---CGAGCUUAUG-AGCC
+Rv1165       --AG---CCGGGUUACG-C-UC
+Rv0129c      ----------GCUGCUG-C--C
+Rv1932       ------UCGAGC-GCUG-C-UC
+Rv1150       --CC---UGAGUUCACG-U-UC
+Rv2417c      --UC---U-CGCAGUGG-CGUC
+Rv2836c      --CG---UG-GCGGCAA-ACUC
+Rv2930       ----------CCUUCGC-C-AC
+Rv2327       --UC---G--AACGCCG-CGCC
+Rv0341       --CC---CC-GCCGGUU-UGUG
+Rv2911       --GA---GCAGA---------C
+Rv1370c      ---G---GGCCCCGAUG-G-UU
+Rv0875c      -A-G---CGCGG-UCGG-CGCC
+Rv1923       ----------CGUUAUG-CCGC
+Rv1535       -UUG--CGGCG----------C
+Rv0905       --UG---GCCGC---------C
+Rv2168c      ---G---GGCCCCGAUG-G-UU
+Rv3184       ---G---GGCCCCGAUG-G-UU
+Rv1886c      ---G---GUUGCUUACC-CGUC
+Rv2972c      --CG---CGCGGUUCAC-AGUC
+Rv1830       --CGG-AUGCGAUUGUG-UGUC
+Rv0554       --C-------G---------UC
+Rv2354       ---G---GGCCCCGAUG-G-UU
+Rv3381c      ---G---GGCCCCGAUG-G-UU
+Rv2281       -GCG---GGGGC--------UU
+Rv2980       ----------G--CUUG-CGCC
+Rv1757c      ---G---GGCCCCGAUG-G-UU
+Rv2857c      --AG---UGCAUUUCAC-AGUC
+Rv3697c      --CG---GC-G---------UC
+Rv2884       --AC--UUG-A--CUUG-CACC
+Rv3186       ---G---GGCCCCGAUG-G-UU
+Rv2105       ---G---GGCCCCGAUG-G-UU
+Rv2815c      ---G---GGCCCCGAUG-G-UU
+Rv2648       ---G---GGCCCCGAUG-G-UU
+Rv1475c      --CG---UCAGAU---C-C-UC
+Rv3406       --GC---UA-C-------CGUU
+Rv3474       ---G---GGCCCCGAUG-G-UU
+Rv2255c      --CG---UCGG---------UG
+Rv3325       ---G---GGCCCCGAUG-G-UU
+Rv0795       ---G---GGCCCCGAUG-G-UU
+Rv2965c      --C----UAGG--UCCG-A-UC
+Rv1763       ---G---GGCCCCGAUG-G-UU
+Rv2686c      -GUU---GGCG----------C
+Rv3555c      --CG---UCAGAUUCAC-AGUC
+Rv2971       --CG---UGAGAUUCAC-CGUC
+Rv2480c      ---G---GGCCCCGAUG-G-UU
+Rv2278       ---G---GGCCCCGAUG-G-UU
+Rv2932       --------GCGA--------UC
+Rv3014c      --AG---UGGCGUUACG-C-UC
+Rv3818       --UG---UA-CA-GCUG-GAUC
+Rv1730c      -UUG---G-----UUUG-CGGC
+Rv1393c      --CG---UGCGAUUCUG-CGUC
+Rv2861c      --CA---UGUUCUUUCG-CGUC
+Rv0642c      -GCG---GGGGCUUAUG-CGUC
+Rv2747       --UG---GGCGAUUUUG-CGUC
+Rv3338       -UUG---GGCGAUUUUG-CGUC
+Rv0904c      -UUG--AUGCGACUCUG-UGUC
+Rv3319       -UUG---GGCGAUUUUG-CGUC
+Rv3578       --C---AUGCGAUUCUG-CGUC
+Rv3579c      --C---AUGCGAUUCUG-C--G
+Rv0952       --CG---GGGGCUUAUG-CGUC
+Rv2247       --CG---UGCGAUUCUG-CGUC
+Rv0641       --CG---GGGGCUUAUG-CGUC
+Rv1627c      --UG---GGCGAUUUUG-CGUC
+Rv2796c      --UG---GGGGCUUUUG-CGUC
+Rv2249c      --AG---UGCGACUCUG-CGUC
+Rv0953c      -GCG---GGGGCUUAUG-CGUC
+Rv0751c      -UUG---GGCGCUUAUG-CGUC
+Rv3490       -UUG---GGCGAUUCUG-CGUC
+Rv1392       --CG---UGCGAUUCUG-CGUC
+Rv3213c      --CG---GGCGAUUUUG-CGUC
+Rv0233       --UG---GGCGAUUUUG-CGUC
+Rv0668       --CG--AUGCGAUUCUG-CGUC
+Rv2991       -UUG---GGCGAUUUUG-CGUC
+Rv0860       --CG---GGGGCUUUUA-CGUC
+Rv0661c      -GCG---GGGGCUUAUG-CGUC
+Rv2403c      UUUG---GGCGAUUUUG-CGUC
+Rv0897c      --UUA-GGGGGCUUUUG-CGUC
+Rv3320c      --CG---GGCGAUUUUG-CGUC
+Rv0570       -UUG--AUGCGAUUCUG-CGUC
+Rv0379       -UCG---UGCGAUUUUG-UGUC
+Rv1474c      --CG---UCAGAUUCAC-AAUC
+Rv3339c      -AUG---GGCGAUUUUG-CGUC
+Rv2765       --UUU-GUGCGAUUCUG-CGUC
+Rv1095       -GCG---UGCGAUUCUG-UGUC
+Rv1626       --UG---GGCGAUUUUG-CGUC
+Rv1013       UGCG--AGGGGAUUUUG-CGUC
+Rv0861c      -GCG---GGGGCUUUUA-CGUC
+Rv1324       --UA---GGCGAUUCUG-CGUC
+Rv1074c      --GG---UGGGC-GCAG-AGUC
+Rv2062c      --GCA-GUGCGAUUCUG-CGUC
+Rv3248c      --AG---GGCGAUUUUG-CGUC
+Rv1079       --UG---GGGGCUUCUG-CGUC
+Rv0234c      --UG---GGCGAUUUUG-CGUC
+Rv0896       -AUU--AGGGGCUUUUG-CGUC
+Rv0685       --CA---UGUUCUUUUG-CGUC
+Rv3458c      --CG---GGGG--GCGC-CGCC
+Rv1325c      --UU--AGGCGAUUCUG-CGUC
+Rv2748c      --UG--AGGCGAUUUUG-CGUC
+Rv2582       ------AUGCGAUUCUG-CGUC
+#=GC SS_cons ..>>...>>>>>>>>>>.>>>>
+#=GC RF      ..cG...gGcGaUUcuG.CGUC
+//

@@ -1,0 +1,874 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS CCDC5180_3482 WT 2.04
+#=GS CCDC5180_2085 WT 0.49
+#=GS CCDC5180_0660 WT 0.79
+#=GS CCDC5180_0990 WT 0.62
+#=GS CCDC5180_2233 WT 0.63
+#=GS CCDC5180_3260 WT 0.58
+#=GS CCDC5180_1522 WT 0.70
+#=GS CCDC5180_2351 WT 0.93
+#=GS CCDC5180_1113 WT 0.24
+#=GS CCDC5180_0431 WT 0.78
+#=GS CCDC5180_3290 WT 1.64
+#=GS CCDC5180_2079 WT 0.82
+#=GS CCDC5180_1120 WT 0.71
+#=GS CCDC5180_0649 WT 0.58
+#=GS CCDC5180_0968 WT 0.49
+#=GS CCDC5180_3086 WT 0.14
+#=GS CCDC5180_0355 WT 0.46
+#=GS CCDC5180_1741 WT 1.32
+#=GS CCDC5180_3087 WT 0.14
+#=GS CCDC5180_0929 WT 0.77
+#=GS CCDC5180_0351 WT 0.86
+#=GS CCDC5180_3115 WT 0.35
+#=GS CCDC5180_2632 WT 0.87
+#=GS CCDC5180_0180 WT 0.46
+#=GS CCDC5180_3469 WT 0.37
+#=GS CCDC5180_2856 WT 1.08
+#=GS CCDC5180_1343 WT 1.81
+#=GS CCDC5180_1449 WT 1.99
+#=GS CCDC5180_2471 WT 1.02
+#=GS CCDC5180_2427 WT 1.87
+#=GS CCDC5180_0982 WT 1.48
+#=GS CCDC5180_3114 WT 0.41
+#=GS CCDC5180_2707 WT 2.04
+#=GS CCDC5180_2706 WT 1.81
+#=GS CCDC5180_3209 WT 1.07
+#=GS CCDC5180_2009 WT 0.93
+#=GS CCDC5180_2247 WT 1.27
+#=GS CCDC5180_1658 WT 1.06
+#=GS CCDC5180_0600 WT 1.33
+#=GS CCDC5180_1222 WT 0.63
+#=GS CCDC5180_0674 WT 0.53
+#=GS CCDC5180_2721 WT 1.61
+#=GS CCDC5180_1223 WT 0.74
+#=GS CCDC5180_2731 WT 1.13
+#=GS CCDC5180_2010 WT 1.09
+#=GS CCDC5180_2612 WT 1.68
+#=GS CCDC5180_1416 WT 1.09
+#=GS CCDC5180_0983 WT 1.32
+#=GS CCDC5180_2297 WT 0.75
+#=GS CCDC5180_2352 WT 0.95
+#=GS CCDC5180_3211 WT 0.75
+#=GS CCDC5180_2458 WT 1.61
+#=GS CCDC5180_0195 WT 0.49
+#=GS CCDC5180_1998 WT 0.58
+#=GS CCDC5180_2528 WT 0.79
+#=GS CCDC5180_0058 WT 1.76
+#=GS CCDC5180_0439 WT 1.44
+#=GS CCDC5180_0874 WT 1.80
+#=GS CCDC5180_1293 WT 1.77
+#=GS CCDC5180_0226 WT 1.32
+#=GS CCDC5180_3210 WT 0.75
+#=GS CCDC5180_0194 WT 0.74
+#=GS CCDC5180_3117 WT 1.80
+#=GS CCDC5180_3389 WT 1.38
+#=GS CCDC5180_0406 WT 1.18
+#=GS CCDC5180_1352 WT 1.11
+#=GS CCDC5180_3334 WT 1.89
+#=GS CCDC5180_2428 WT 1.87
+#=GS CCDC5180_1144 WT 1.35
+#=GS CCDC5180_2933 WT 1.52
+#=GS CCDC5180_3143 WT 1.66
+#=GS CCDC5180_2141 WT 1.58
+#=GS CCDC5180_3241 WT 0.97
+#=GS CCDC5180_1494 WT 1.35
+#=GS CCDC5180_2461 WT 1.99
+#=GS CCDC5180_3249 WT 0.98
+#=GS CCDC5180_2373 WT 0.78
+#=GS CCDC5180_1186 WT 1.55
+#=GS CCDC5180_1204 WT 2.01
+#=GS CCDC5180_1166 WT 1.55
+#=GS CCDC5180_0528 WT 0.86
+#=GS CCDC5180_1038 WT 1.08
+#=GS CCDC5180_1195 WT 1.71
+#=GS CCDC5180_0407 WT 1.18
+#=GS CCDC5180_2482 WT 1.59
+#=GS CCDC5180_1734 WT 1.58
+#=GS CCDC5180_2649 WT 1.70
+#=GS CCDC5180_3398 WT 2.36
+#=GS CCDC5180_0232 WT 1.23
+#=GS CCDC5180_0763 WT 1.20
+#=GS CCDC5180_1369 WT 0.83
+#=GS CCDC5180_1129 WT 0.91
+#=GS CCDC5180_2854 WT 1.83
+#=GS CCDC5180_2749 WT 1.10
+#=GS CCDC5180_1420 WT 1.02
+#=GS CCDC5180_0257 WT 1.20
+#=GS CCDC5180_3240 WT 0.97
+#=GS CCDC5180_2327 WT 1.52
+#=GS CCDC5180_0525 WT 1.07
+#=GS CCDC5180_2527 WT 0.83
+#=GS CCDC5180_1654 WT 1.03
+#=GS CCDC5180_2005 WT 1.36
+#=GS CCDC5180_1524 WT 1.06
+#=GS CCDC5180_2637 WT 0.47
+#=GS CCDC5180_2732 WT 1.08
+#=GS CCDC5180_3154 WT 1.68
+#=GS CCDC5180_1070 WT 1.23
+#=GS CCDC5180_1322 WT 1.27
+#=GS CCDC5180_1996 WT 1.95
+#=GS CCDC5180_2205 WT 1.21
+#=GS CCDC5180_1353 WT 1.19
+#=GS CCDC5180_2046 WT 1.69
+#=GS CCDC5180_2548 WT 1.56
+#=GS CCDC5180_3388 WT 1.83
+#=GS CCDC5180_1164 WT 1.59
+#=GS CCDC5180_1037 WT 1.08
+#=GS CCDC5180_0801 WT 1.32
+#=GS CCDC5180_1137 WT 1.23
+#=GS CCDC5180_2241 WT 1.25
+#=GS CCDC5180_2654 WT 1.66
+#=GS CCDC5180_2969 WT 1.59
+#=GS CCDC5180_0914 WT 1.80
+#=GS CCDC5180_0723 WT 1.11
+#=GS CCDC5180_0113 WT 2.10
+#=GS CCDC5180_2419 WT 2.09
+#=GS CCDC5180_0315 WT 1.80
+#=GS CCDC5180_1055 WT 1.32
+#=GS CCDC5180_2316 WT 1.48
+#=GS CCDC5180_2636 WT 1.10
+#=GS CCDC5180_2694 WT 1.03
+#=GS CCDC5180_1762 WT 1.99
+#=GS CCDC5180_1922 WT 0.16
+#=GS CCDC5180_2739 WT 0.16
+#=GS CCDC5180_0793 WT 1.58
+#=GS CCDC5180_2071 WT 1.23
+#=GS CCDC5180_2147 WT 0.16
+#=GS CCDC5180_2084 WT 0.92
+#=GS CCDC5180_0504 WT 1.79
+#=GS CCDC5180_1667 WT 0.86
+#=GS CCDC5180_2588 WT 1.06
+#=GS CCDC5180_1261 WT 0.16
+#=GS CCDC5180_2898 WT 0.16
+#=GS CCDC5180_2549 WT 0.16
+#=GS CCDC5180_1356 WT 0.16
+#=GS CCDC5180_2410 WT 1.79
+#=GS CCDC5180_2105 WT 1.64
+#=GS CCDC5180_1838 WT 0.16
+#=GS CCDC5180_0002 WT 0.16
+#=GS CCDC5180_1610 WT 0.16
+#=GS CCDC5180_3105 WT 2.15
+#=GS CCDC5180_2894 WT 0.16
+#=GS CCDC5180_2383 WT 1.80
+#=GS CCDC5180_3092 WT 0.96
+#=GS CCDC5180_2701 WT 1.33
+#=GS CCDC5180_3231 WT 1.58
+#=GS CCDC5180_2733 WT 1.08
+#=GS CCDC5180_1146 WT 1.59
+#=GS CCDC5180_2687 WT 1.36
+#=GS CCDC5180_0430 WT 1.56
+#=GS CCDC5180_2693 WT 1.11
+#=GS CCDC5180_3248 WT 0.93
+#=GS CCDC5180_1370 WT 0.79
+#=GS CCDC5180_1363 WT 1.80
+#=GS CCDC5180_0789 WT 0.35
+#=GS CCDC5180_0591 WT 0.49
+#=GS CCDC5180_0827 WT 0.62
+#=GS CCDC5180_2056 WT 0.46
+#=GS CCDC5180_2491 WT 0.21
+#=GS CCDC5180_1883 WT 0.50
+#=GS CCDC5180_3046 WT 0.21
+#=GS CCDC5180_3029 WT 0.39
+#=GS CCDC5180_2535 WT 0.37
+#=GS CCDC5180_3272 WT 0.48
+#=GS CCDC5180_0628 WT 0.47
+#=GS CCDC5180_0686 WT 0.53
+#=GS CCDC5180_1492 WT 0.23
+#=GS CCDC5180_3181 WT 0.24
+#=GS CCDC5180_0870 WT 0.20
+#=GS CCDC5180_2193 WT 0.32
+#=GS CCDC5180_2592 WT 0.94
+#=GS CCDC5180_0611 WT 0.68
+#=GS CCDC5180_0607 WT 0.24
+#=GS CCDC5180_0216 WT 0.14
+#=GS CCDC5180_0869 WT 0.41
+#=GS CCDC5180_2712 WT 0.29
+#=GS CCDC5180_0527 WT 0.62
+#=GS CCDC5180_2927 WT 0.47
+#=GS CCDC5180_0788 WT 0.45
+#=GS CCDC5180_2058 WT 0.25
+#=GS CCDC5180_2057 WT 0.25
+#=GS CCDC5180_1281 WT 0.51
+#=GS CCDC5180_2926 WT 0.47
+#=GS CCDC5180_1362 WT 0.93
+#=GS CCDC5180_1003 WT 0.70
+#=GS CCDC5180_2192 WT 0.24
+#=GS CCDC5180_0984 WT 1.72
+#=GS CCDC5180_0928 WT 0.77
+#=GS CCDC5180_2492 WT 0.16
+#=GS CCDC5180_3047 WT 0.16
+#=GS CCDC5180_1491 WT 0.28
+#=GS CCDC5180_3030 WT 0.39
+#=GS CCDC5180_0217 WT 0.14
+#=GS CCDC5180_1219 WT 0.50
+#=GS CCDC5180_0822 WT 0.56
+#=GS CCDC5180_1282 WT 0.51
+#=GS CCDC5180_0989 WT 0.79
+#=GS CCDC5180_0592 WT 0.20
+#=GS CCDC5180_0181 WT 0.46
+#=GS CCDC5180_2506 WT 0.74
+#=GS CCDC5180_0821 WT 0.56
+#=GS CCDC5180_2961 WT 0.61
+#=GS CCDC5180_3472 WT 0.54
+#=GS CCDC5180_3157 WT 1.88
+#=GS CCDC5180_1218 WT 0.50
+#=GS CCDC5180_3271 WT 0.48
+
+CCDC5180_3482 AAC-AU-----CUA--GCG-G-C-G----G-----U-------G------
+CCDC5180_2085 CAG-UC-----GCA--UAAG--C-C----CC-C--G------CA------
+CCDC5180_0660 CAG-AC-----GCA--AAAUG-C-C----CC-C--G-------A------
+CCDC5180_0990 CAG-AC-----GCA--GAA-G-C-C----CC-C----------A------
+CCDC5180_2233 AAG-AC-----GCA--AAA-G-C-U----CC-C--A-------A------
+CCDC5180_3260 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_1522 CAG-AC-----GCA--GAA-U-C-G----CA-C-CG-------C------
+CCDC5180_2351 CAG-AC-----ACA--GAA-U-C-G----CA-C--G-------A------
+CCDC5180_1113 CAG-AC-----ACA--GAA-U-C-G----CC-C--A-------U------
+CCDC5180_0431 CAG-AC-----GCA--AAA-G-C-A----CC-C--U-------U------
+CCDC5180_3290 UAC--------------CG-G-C-G----CC-C--A-------G------
+CCDC5180_2079 CAG-AC-----GCA--AAA-G-C-C----CC-C--G------CA------
+CCDC5180_1120 CAG-AC-----GCA--AAA-U-C-G----CC-C--U-------G------
+CCDC5180_0649 CAG-UC-----GCA--AAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_0968 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_3086 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------A------
+CCDC5180_0355 CAG-AC-----GCG--GAA-U-C-G----CA-C----------G------
+CCDC5180_1741 CAG--------------CA-C-C-C----CG-C--G-------A------
+CCDC5180_3087 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------A------
+CCDC5180_0929 CAG-AC-----GCA--AAA-U-C-C----CC-U--C-------G------
+CCDC5180_0351 CAG-AC-----ACA--AAA-U-C-G----CA-C--G------AA------
+CCDC5180_3115 CAG-AC-----GCA--AAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_2632 CAG-AC-----GCG--AAAUC-C-C----CC-G-AC-------A------
+CCDC5180_0180 CAG--------------AA-U-C-G----CC-C--A-------U------
+CCDC5180_3469 CAG-AC-----GCA--AAA-G-C-C----CC-C--A-------A------
+CCDC5180_2856 CAG-AC-----GUC--AAA-G-C-C----CC-C--G------AA------
+CCDC5180_1343 CAC--U-----GCA--ACC-A-C-G----CA-C--AA-----GA------
+CCDC5180_1449 C----C-----AAA--CCC-G-C-C----UC-C--U-------G------
+CCDC5180_2471 GAG--C-----GUA--ACG-C-C-A----CG-G--C-------G------
+CCDC5180_2427 C---GC-----CGA--GAU-U-G-A----CG-U--U-------U------
+CCDC5180_0982 UGG-CC-----GUU--GAU-U-C-U----GC-G--U-------C------
+CCDC5180_3114 CAG-AC-----GCU--AAAGC-C-C----CC-G---------CA------
+CCDC5180_2707 GAC-AC-----ACG--GAU-A-C-C----CU-U--U-------G------
+CCDC5180_2706 CAC-AC-----GGA--UAC-C-C-UUCGUCA-C--A-------U------
+CCDC5180_3209 CGA-GC-----GUG--AACU-GA-G----GG-C---G-----AG------
+CCDC5180_2009 CAG-AC-----GCG--GAA-U-C-G----CA-U--C-------G------
+CCDC5180_2247 CCG-AU-----AGU--GAAUU-C-G----GC-G--CC-----GG------
+CCDC5180_1658 GAG--C-----GUA--ACG-C-C-A----CU-G--CG----AAA------
+CCDC5180_0600 CCG-AU-----UGU--GAA-U-C-UGGCGAC-G--CG----ACA------
+CCDC5180_1222 AAG-AC-----GCA--AAA-G-C-U----CC-U--A-------A------
+CCDC5180_0674 CAG-AC-----GCG--UAA-G-C-G----CC-C--A-------A------
+CCDC5180_2721 GAG---------------A-C-G-G----CC-U--A--------------
+CCDC5180_1223 CAG-AC-----GCA--AAA-G-C-C----C-AC--U-------A------
+CCDC5180_2731 CAG-AC-----ACA--GAC-U-C-G----CA-U--C-------C------
+CCDC5180_2010 G---AC-----GCG--GAA-U-C-G----CA-C--CG-----U-------
+CCDC5180_2612 CGG--------------------------CC-G--G-------G------
+CCDC5180_1416 CGA-GC-----GUG--UAACC-AUG----GC-G--A------G-------
+CCDC5180_0983 UUG-AC-----UCU--GCGC--C-C----AC-C--A--------------
+CCDC5180_2297 CAG-AC-----GCA--GAA-U-C-G----CA-U-CG-------A------
+CCDC5180_2352 CAG-AC-----GCA--GAA-U-C-G----CA-------------------
+CCDC5180_3211 CGA-AC-----GUG--AAC-UGAGG----GC-G--G------AA------
+CCDC5180_2458 CAGACG-----GUA--UG-CC-C-G----CC-G--C--------------
+CCDC5180_0195 CAG-AC-----ACU--AAA-G-C-C----CU-C--GA-----CA------
+CCDC5180_1998 CAG-AC-----GCA--AAA-U-C-A----CC-C-GG-------A------
+CCDC5180_2528 GAG--C-----GUA--ACCGGAC-U----GC-G--AA-----AA------
+CCDC5180_0058 C----------------------------GC-U--A-------A------
+CCDC5180_0439 UCG-AC-----UCC--GAG-U-C-G----CC-C-----------------
+CCDC5180_0874 CGA-CA-----GUG--AAAUC-C-A----C-----G-------A------
+CCDC5180_1293 CUG--------------UG-U-C-G----GG-U--C-------G------
+CCDC5180_0226 UUG-AC-----UCU--GCG-U-C-C----AC-C--G--------GACGGG
+CCDC5180_3210 CGA-AC-----GUG--AAC-UCACG----GC-G--GA-----GA------
+CCDC5180_0194 CAG-AC-----GCA--UAAGC-C-C----CC-G--C-------A------
+CCDC5180_3117 CCG--C-----CCC--GGC-G-A-U----CC-C--C-------G------
+CCDC5180_3389 CAG--------------------------CC-C--G-------G------
+CCDC5180_0406 CAG-----------CG-AG-G-A-G----CC-C--G-------G------
+CCDC5180_1352 CGA-AC-----GUG--AAC-UGAGG----GC-G--GA----GA-------
+CCDC5180_3334 GAC------------UCAG-C-A-A----CG-G--C-------A------
+CCDC5180_2428 GAG--------------AC-U-G-A----CG-U--U-------U------
+CCDC5180_1144 GAG------------GCGU-U-C-G----GC-U--G--------------
+CCDC5180_2933 CAG---------------U-G-C-G----GC-C--C-------C------
+CCDC5180_3143 CUG--------------UG-U-G-G----UC-C--C-------G------
+CCDC5180_2141 C---AC-----GCG--CCA-G-C-G----CA-C--G--------------
+CCDC5180_3241 CGA-GC-----GUG--AACUC-AGG----GC-G--A-------G------
+CCDC5180_1494 GAG--C-----GUG--CAUCUGG-G----GC-G--G------GA------
+CCDC5180_2461 GGG---------------U-G-C-C----GA-G--C-------G------
+CCDC5180_3249 CCG-AG-----GGU--GAA-U-C-U----CA-C--G-------A------
+CCDC5180_2373 CAG-UC-----GCA--AAA-G-C-A----CC-C--G-------U------
+CCDC5180_1186 GUG-----------------------------G--G-------G------
+CCDC5180_1204 UAA--CCCGCCGAU--GAGC-GC-G----CC-C--A--------------
+CCDC5180_1166 AUG--------------------------CG-G--G-------G------
+CCDC5180_0528 CAG--------------AA-U-C-G----CA-U--C-------A------
+CCDC5180_1038 CGG--------------------------GC-U--A-------G------
+CCDC5180_1195 CGA-AC-----GUG--CAC-G-C-A----CU-G--C-------G------
+CCDC5180_0407 C--------------AGAG-G-A-G----CC-C--G-------G------
+CCDC5180_2482 GCG--C-----GAA--GAG-C-A-G----GC-G--C-------G------
+CCDC5180_1734 CGA-AA-----UCG--ACAGC-A-G----CG-C--GAC---AAA------
+CCDC5180_2649 GAG---------------A-U-C-G----AC-G--U-------C------
+CCDC5180_3398 GAG-AU-----CAA--CGU-UCU-G----CA-G--GC-----C-------
+CCDC5180_0232 C----------------AU-G-A-U----CC-G--GC-----CG------
+CCDC5180_0763 CGG--------------AG-C-C-GC--CAC-C--G-------A------
+CCDC5180_1369 GAG--C-----GUA--ACCUGGC-U----GC-G--AU-----U-------
+CCDC5180_1129 CAG-AC-----GCA--AAA-G-A-A----CC-C--G-------A------
+CCDC5180_2854 CAC------------C----C-C-U----AU-C--U-------U------
+CCDC5180_2749 CAG-UC-----GCA--AAA-G-A-C----CC-CGAC-------A------
+CCDC5180_1420 GAG--C-----GUA--ACG-U-C-A----CG-G--CU-----GA------
+CCDC5180_0257 CGC-----------------------------C-CG-------G------
+CCDC5180_3240 CGA-AC-----GUG--AAGCC-AGG----GC-G--A-------G------
+CCDC5180_2327 CAG--------------UA-C-C-G----GC-C--C------G-------
+CCDC5180_0525 CCA-AC-----GUG--AACU-GA-GG--ACG-G--C-------A------
+CCDC5180_2527 GAG--C-----GUA--ACGUGGC-U----GC-G--AU-----U-------
+CCDC5180_1654 GCG-AC-----UGG--GAA-U-C-C----UG-C--G-------A------
+CCDC5180_2005 C-------------------------------C--G-------G------
+CCDC5180_1524 GAG--C-----GUA--ACG-C-C-A----CU-G--CGCUAUUCG------
+CCDC5180_2637 CAG-AC-----GCA--AAA-G-A-A----CA-U--G-------A------
+CCDC5180_2732 A---GC-----GUA--ACG-C-C-A----CU-G--C------GA------
+CCDC5180_3154 U-------------------------------G--C-------U------
+CCDC5180_1070 GAG--C-----GUA--ACG-C-C-A----CU-G--C-------G------
+CCDC5180_1322 C-------------------------------G--C-------G------
+CCDC5180_1996 UCG--------------CC-G-C-G----CA-G--A-------A------
+CCDC5180_2205 CAG--C-----GUA--ACGUCAC-G----GC-G--AA----AU-------
+CCDC5180_1353 GAA--C-----GUG--AAC-UCACG----GC-G--GU-----A-------
+CCDC5180_2046 GAG--U-----GUG--AGCCU-G-A----CA-G--CC----CGA------
+CCDC5180_2548 GAC---------------C-C-C-G----CC-G--G-------A------
+CCDC5180_3388 CAG------------C------C-C----CU-U--U-------U------
+CCDC5180_1164 CGG---------------G-C-A-G----CC------------A------
+CCDC5180_1037 CGG--------------------------GC-U--A-------G------
+CCDC5180_0801 CCG---------------A-C-C-G----CG-C--U--------------
+CCDC5180_1137 CGG-AC-----ACA--UAA-G-C-C----CC-C-G---------------
+CCDC5180_2241 C----C-----GCG--CAAAC-C-G----CC-U-GA--------------
+CCDC5180_2654 CAG--------------------------UG-G--U-------G------
+CCDC5180_2969 CGG--------------------------------C-------C------
+CCDC5180_0914 CGG--------------C-UG-A-U----CA-C--C-------G------
+CCDC5180_0723 CGA--C-----UGU--GAA-U-C-U----CA-C--G-------A------
+CCDC5180_0113 C----------------AU-C-G-G----CA-G--C-------A------
+CCDC5180_2419 CAU-----------------G-A-C----GU-C--A-------A------
+CCDC5180_0315 CAC------------G-AA-C-C-G----GU-G--G-------G------
+CCDC5180_1055 CGA-GC-----GUG--CAUCC-A-G----GG-C--G-------A------
+CCDC5180_2316 CAG-----------------------------G--G-------U------
+CCDC5180_2636 CAG-AC-----G--------------------------------------
+CCDC5180_2694 CCG-AC-----GGU--GAA-U-C-U----CA-C--G-------A------
+CCDC5180_1762 CGG------------C-GA-G-C-A----GC-G--C-------A------
+CCDC5180_1922 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2739 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_0793 CAG--------------------------CC------------C------
+CCDC5180_2071 C----------------------------CC-G--G-------G------
+CCDC5180_2147 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2084 A----------------AG-C-C-C----CC-G-AC-------A------
+CCDC5180_0504 CUG--------------------------------A-------A------
+CCDC5180_1667 CAG-AC-----ACA--GAA-U-C-G----CA-C-GC-------G------
+CCDC5180_2588 CCG-AG-----UGU--GAA-C-U-G----CG-C--A-------A------
+CCDC5180_1261 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2898 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2549 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_1356 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2410 CAG--------------CA-G-C-C----GC----A-------U------
+CCDC5180_2105 GAC--------------AAAGUC-A----CC-C--A-------U------
+CCDC5180_1838 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_0002 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_1610 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_3105 AAG--C-----GCA--ACGCA-A-U----UA-U--G-------U------
+CCDC5180_2894 UAC-CCGG-UUCAU--CGCCG-A-U----CA-U--C------AG------
+CCDC5180_2383 CGG--------------------------------A-------A------
+CCDC5180_3092 CGA-AC-----GUG--ACG-UCAGG----GC-G-AG------AA------
+CCDC5180_2701 C-------------------------------G--C-------A------
+CCDC5180_3231 CGG--------------AUUU-C-G----CA-G--A-------A------
+CCDC5180_2733 CGA-AC-----GUA--ACG-G-C-A----CU-G--C------GA------
+CCDC5180_1146 GUG-AC-----GCU-GCGG-C-C-G----CU-G-CC-------G------
+CCDC5180_2687 CAC------------CGAA-C-G-G----AC-C--U-------A------
+CCDC5180_0430 CGG--------------AU-C-C-G----CA-G--GACG-UCG-------
+CCDC5180_2693 CCG-AC-----UGU--GAA-C-C-G----CG-C--G-------A------
+CCDC5180_3248 CCG-AG-----AGU--GAA-C-C-A----CA-C--G-------A------
+CCDC5180_1370 GAG--C-----GUA--ACCGCAC-U----GC-G--AA-----AA------
+CCDC5180_1363 GAG--------------GACC-A-U----CU-G--G-------C------
+CCDC5180_0789 CAG-AC-----GUA--AAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_0591 CAG-AC-----GCA--UAAG--C-C----CC-C--G------CA------
+CCDC5180_0827 CAG-AC-----ACA--GAG-U-C-G----CA-C--A-------A------
+CCDC5180_2056 CAG-AC-----GCA--GAA-U-C-G----CA-C----------G------
+CCDC5180_2491 CAG-AC-----GCA--AAA-U-C-G----CC-U-CA-------U------
+CCDC5180_1883 CAG-AC-----GCA--GAA-U-C-G----CA----U-------G------
+CCDC5180_3046 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_3029 CAG-AC-----GCA--AAA-U-C-G----CC-C-GA-------A------
+CCDC5180_2535 CAG-AC-----GCA--AAA-G-C-C----CC-C--A-------U------
+CCDC5180_3272 CAG--------------AA-U-C-G----CA-U--G-------A------
+CCDC5180_0628 CAG-AC-----GCA--AAA-G-A-A----CA-U--G-------A------
+CCDC5180_0686 CAG-AC-----GCA--UAA-G-C-G----CC-C--A-------U------
+CCDC5180_1492 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_3181 CAG-AC-----GCA--GAA-U-C-G----CC-C--A-------U------
+CCDC5180_0870 CAG-AC-----GCA--UAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_2193 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_2592 UAG-GC-----GCA--AAA-G-A-A----CA-U--G-------A------
+CCDC5180_0611 CAG-AC-----GCA--GAA-U-C-G----CA----C-------G------
+CCDC5180_0607 CAG-UC-----GCA--UAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_0216 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------A------
+CCDC5180_0869 CAG-AC-----GCA--UAAGC-C-C----CC-G---------CA------
+CCDC5180_2712 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_0527 CAG-AC-----GCA--GAA-U-C-G----CA-C--A-------A------
+CCDC5180_2927 CAG-AC-----GCA--AAA-U-C-G----CC-C--G-------A------
+CCDC5180_0788 CAG-AC-----GUA--AAAGC-C-C----CC-G---------CA------
+CCDC5180_2058 CAG-AC-----GCA--GAA-U-C-G----CA-C--U-------G------
+CCDC5180_2057 CAG-AC-----GCA--GAA-U-C-G----CA-C--U-------G------
+CCDC5180_1281 CAG-AC-----GCA--GAA-U-C-G----CA-C--G-------C------
+CCDC5180_2926 CAG-AC-----GCA--AAA-U-C-G----CC-C--G-------A------
+CCDC5180_1362 CUG-AC-----UGU--GAA-U-C-U----GA-C--G-------A------
+CCDC5180_1003 CAG-AC-----ACA--GAA-U-C-G----CA-C-UG-------C------
+CCDC5180_2192 CAG-AC-----GCA--AAA-U-C-G----CC-C-AA-------A------
+CCDC5180_0984 UUG-AC-----UCU--GCGUC-C-A----CC-A--CGC--AAAA------
+CCDC5180_0928 CAG-AC-----GCA--AAA-U-C-C----CC-U--C-------G------
+CCDC5180_2492 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_3047 CAG-AC-----GCA--AAA-U-C-G----CC-C-AA-------U------
+CCDC5180_1491 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------U------
+CCDC5180_3030 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------A------
+CCDC5180_0217 CAG-AC-----GCA--AAA-U-C-G----CC-C--A-------A------
+CCDC5180_1219 CAG-AC-----GCA--GAA-U-C-G----CC-U--A-------A------
+CCDC5180_0822 CAG-AC-----GCA--AAA-G-C-C----CC----U-------A------
+CCDC5180_1282 CAG-AC-----GCA--GAA-U-C-G----CA-C--G-------C------
+CCDC5180_0989 CAG-AC-----GCG--AAA-G-CAC----CC-C-AA-------A------
+CCDC5180_0592 CAG-AC-----GCA--UAA-G-C-C----CC-C--GA-----CA------
+CCDC5180_0181 CAG-AC-----GCA--GAA-U-C-G----CC-C--A-------U------
+CCDC5180_2506 CAG-AC-----GCA--GAA-U-C-G----CA-U--U-------A------
+CCDC5180_0821 CAG-AC-----GCA--AAA-G-CCC----CC-U----------A------
+CCDC5180_2961 CAG-AC-----GCA--AAA-U-C-G----CC-C-AU-------U------
+CCDC5180_3472 CAG-AC-----GCA--AAA-G-CAC----CC-C--A-------A------
+CCDC5180_3157 CUC-GG-----GGG--GCG-C-C-G----CC-C--C-------C------
+CCDC5180_1218 CAG-AC-----GCA--GAA-U-C-G----CC-U--A-------A------
+CCDC5180_3271 CAG-AC-----GCA--GAA-U-C-G----CA-U--G-------A------
+#=GC SS_cons  <<<.<<.....<<<..<<<.<.<.<....<<.<..<.......<......
+#=GC RF       CAG.AC.....GcA..gAa.u.C.g....CC.c..g.......a......
+
+CCDC5180_3482 -----A-C-C-C--UUGU-----------------------G----G--U
+CCDC5180_2085 -----C-G-C----ACG------------------------G----C--G
+CCDC5180_0660 -----A-A-UG----C-C----------------------CA----U-UU
+CCDC5180_0990 -----A-A-CC----GGC----------------------GG----U--U
+CCDC5180_2233 -----A-U-CC----GGU--------------------C-GG----A--U
+CCDC5180_3260 -----U-U-UG----CGG--------------------G-CG----U--G
+CCDC5180_1522 -----C-A-CG----C-C----------------------CG----U-CG
+CCDC5180_2351 -----A-A-UC----AGCCCG-------------CCCAA-----------
+CCDC5180_1113 -----U-U-CG----G-C--------------------A-CG----A--A
+CCDC5180_0431 -----U-U-GC----GGC----------------------GC----A--A
+CCDC5180_3290 -----G-C--------GA----------------------AA----G--C
+CCDC5180_2079 -----CGC-AC----GGA-------------------------------G
+CCDC5180_1120 -----A-A-C-C--GUGC-----------------------G----U--U
+CCDC5180_0649 -----C-G-------CGC-------------------GG-------C--G
+CCDC5180_0968 -----UUU-CG----UGU----------------------CG----A--A
+CCDC5180_3086 -----UUU-CG----UGC----------------------CG----A--A
+CCDC5180_0355 -----C-G-UG---AGGU--------------------C-CG----C--G
+CCDC5180_1741 -----G-C-UG----A-C----------------------CG----G--C
+CCDC5180_3087 -----U-U-CG----G-C--------------------A-CG----A-AA
+CCDC5180_0929 -----CAA-C----CGGC-----------------------G----U--G
+CCDC5180_0351 -----UCA-AC----CGC--------------------A----------A
+CCDC5180_3115 -----C-G-C-----CGA-----------------------G----C--G
+CCDC5180_2632 -----C-----G--CCGA--------------------A----------G
+CCDC5180_0180 -----U-U-GG---UAGC----------------------CC----A--A
+CCDC5180_3469 -----U-U-CG----GGC--------------------A-CG----A--A
+CCDC5180_2856 -----U-U-UC----AGU----------------------GA----A--A
+CCDC5180_1343 -----C--ACG---CCGA----------------------CG---C---A
+CCDC5180_1449 -----C-U-UC---CCGCUGCUC---------AGCGCGC-GA----A--G
+CCDC5180_2471 -----AAU-UC----GGUGCAC-----------GCAAGC----------U
+CCDC5180_2427 -----U-G-CAG--ACGCCCUCUCG-----CACUUUCAC-UG----C--A
+CCDC5180_0982 -----C-A-CC---AGGCUGACCACGCGCACUUUUGCGU-GG----U--A
+CCDC5180_3114 -----C-G-C----UCG------------------------G----C--G
+CCDC5180_2707 -----C-A-CGG--UGGC-------------------AA-UG----U--G
+CCDC5180_2706 -----U-G-C-C-ACCGU-----------------------G----C--A
+CCDC5180_3209 -----AUU-UC----GGCCG---------------AUUU----------U
+CCDC5180_2009 -----G-C-GG----GGC----------------------CC----A--C
+CCDC5180_2247 -----A-A-C----ACGCC-----------------CGG--G----U--U
+CCDC5180_1658 -----U-U-UC---GGGC--------------------A-GA----A-AA
+CCDC5180_0600 -----C-G-CCG--GUGC----------------------GG----C--G
+CCDC5180_1222 -----A-U-C----UGGC--------------------C--G----A--U
+CCDC5180_0674 -----UGU-CG----UGC----------------------CG----A--A
+CCDC5180_2721 ----------------GC--------------------U-CC--------
+CCDC5180_1223 -----A-A-UC----GGC-------------------CA-GA----U--U
+CCDC5180_2731 -----G-G-CGC--C---C------------------CU-CG----C--C
+CCDC5180_2010 -------G-UG----GGC-------------------CC-CG----C---
+CCDC5180_2612 -----U-G-GC----CGUGAAGCGCGG--AAGGGAACCG-GC----C--A
+CCDC5180_1416 -----A-U-UC----CGCC-----------------GGC-GA----U--U
+CCDC5180_0983 -----C-G-UG---UC-CUACUC---------GCACUUU-UG----C--G
+CCDC5180_2297 -----A-A-UC----CG-----------------------GA----U-UU
+CCDC5180_2352 -------U-UG----GGCG-----------------GGC-UG----A--U
+CCDC5180_3211 -----UAU-CG----G-C----------------------CG----A--A
+CCDC5180_2458 ----------------GC----------------------CA--------
+CCDC5180_0195 -----C-G-C-----CGU-----------------------G----C--G
+CCDC5180_1998 -----A-A-CC----GGC----------------------GA----U--U
+CCDC5180_2528 -----U-C-CG----UGC----------------------CG----A--A
+CCDC5180_0058 -----U-C-UG---ACGC----------------------UA----G--A
+CCDC5180_0439 --------------ACG---------------------------------
+CCDC5180_0874 -----C-G-UGA-CACGCCG---------------GAAA-CG----C--G
+CCDC5180_1293 -----U-C-C----CAGCACG--------------UAAC--G----G--A
+CCDC5180_0226 UUACUC-G-CA---CU---------------------UU-UG----C--G
+CCDC5180_3210 -----U-U-CG----G-C----------------------CG----A-UA
+CCDC5180_0194 -----C-G-C----ACG------------------------G----C--G
+CCDC5180_3117 -----UGC-UC----A-C--------------------C----------A
+CCDC5180_3389 -----U-G-UCC--A--CC-----------------CAA-GG----C--A
+CCDC5180_0406 -----U-C-CCU--UUGU----------------------GG----G--G
+CCDC5180_1352 -------A-UC----CGGCA----------------AAA-----------
+CCDC5180_3334 -----G-C-UG---CCGAU-----------------CCG-CG----G--C
+CCDC5180_2428 -----U-G-CA---GUGAAAGUGCGA----GAGGGCGUC-UG----C--A
+CCDC5180_1144 -----AGU-UC-----GC-------------------------------U
+CCDC5180_2933 -----G-A-CG----U-A----------------------UG----U--C
+CCDC5180_3143 -----A-C-GG---GGGAG------------------AG-CC----G--U
+CCDC5180_2141 -----G-G--------GA----------------------UA----C--C
+CCDC5180_3241 -----AUU-UC----GGCCG----------------UUU----------U
+CCDC5180_1494 -----A-U-UC----GGC----------------------GA----U--U
+CCDC5180_2461 -----G-A-U----GUGA-----------------------A----U--C
+CCDC5180_3249 -----C-G-GG---UCGUCGG-------------CGUGU-CG----C--G
+CCDC5180_2373 -----U-U-C----AGGC--------------------C--G----A--A
+CCDC5180_1186 -----A-C-CC---CGGA--------------------C-GG----G--U
+CCDC5180_1204 -----UGA-UC----GGC-------------------------------A
+CCDC5180_1166 -----A-U-CC----CGUCA---------------ACCG-GG----A--U
+CCDC5180_0528 -----A-A-AU----CGC--------------------------------
+CCDC5180_1038 -----C-U-G----ACGA--------------------G--C----A--G
+CCDC5180_1195 -----A-A-GAU-UCGGCC-----------------AAU-UG----U--U
+CCDC5180_0407 -----C-C-CC---AC-A-------------------AA-GG----G--A
+CCDC5180_2482 -----G-G-CA---CUG-----------------------UG----C--C
+CCDC5180_1734 -----G-U-UCG--ACGA----------------------GA----AGAC
+CCDC5180_2649 -----A-G-CG----CGAUGCUCUCU---CUCGCGGGGG-CG----C--U
+CCDC5180_3398 ----------------GCUACUC---------GCACCUU-----------
+CCDC5180_0232 -----G-G-CCG--AUG-----------------------GG----U--C
+CCDC5180_0763 -----C-G-CC----GGC----------------------GG----C--A
+CCDC5180_1369 -------U-CCG--GCGC----------------------GG----A--U
+CCDC5180_1129 -----U-U-C----UGGU--------------------C--G----A-AA
+CCDC5180_2854 -----A-C-UC----CG-----------------------GA----G--U
+CCDC5180_2749 -----C-G-CC----G-A----------------------GG----C--G
+CCDC5180_1420 -----AAA-UC----CGUGCC--------------CGAC----------U
+CCDC5180_0257 -----U-G-CC----GGC----------------------GG----C--A
+CCDC5180_3240 -----AAA-AC----GGCCG----------------AAA----------U
+CCDC5180_2327 -----A-G-C----CCGA--------------------C--G----C--U
+CCDC5180_0525 -----A-A-UC----GGC--------------------------------
+CCDC5180_2527 -------U-UC----GGC-------------------AC-GG----A--U
+CCDC5180_1654 -----C-G-C-GACACGCCGA--------------CAAG--G----C--G
+CCDC5180_2005 -----G-U-CG----UGC----------------------CG----A--C
+CCDC5180_1524 -----G-A-U-----CGC--------------------A--A----U--C
+CCDC5180_2637 -----U-G-GG----CGCACC--------------AGCG-CC----C--A
+CCDC5180_2732 -----AAA-AC----CGCGCG--------------GAGA----------U
+CCDC5180_3154 -----U-G-UC----CGU--------------------G-GA----C--A
+CCDC5180_1070 -----AAAUCC----AGC-------------------CC-GGCUUU---U
+CCDC5180_1322 -----U-A-CG----CGC----------------------CG----UCGA
+CCDC5180_1996 -----A-A-UC----UGC--------------------U-----------
+CCDC5180_2205 -------U-CG---UCGC----------------------UG----A--U
+CCDC5180_1353 -------U-UU----UGC--------------------C-GG----A--U
+CCDC5180_2046 -----C-A-C----CGGCGG----------------CGU--G----U--G
+CCDC5180_2548 -----C-A-UC----U-C--------------------------------
+CCDC5180_3388 -----C-U-UGA-CUCGU--------------------U-CA----A--G
+CCDC5180_1164 -----C-U-CG---UUGCAAG-------------AACAC-CG----G--G
+CCDC5180_1037 -----C-U-G-C--UCGU-----------------------C----A--G
+CCDC5180_0801 ---------------U-A--------------------------------
+CCDC5180_1137 ---------CC---ACGCC-----------------GAA-GG----A--U
+CCDC5180_2241 ----------------GC----------------------CA--------
+CCDC5180_2654 -----A-A-G----CCGA--------------------C--C----U--U
+CCDC5180_2969 -----C-G-CG---UCGU--------------------U-CG----C--G
+CCDC5180_0914 -----A-C-CC----C------------------------GG----G--U
+CCDC5180_0723 -----C-G-C-C-UCCGCCGC-------------GUGUC--G----C--G
+CCDC5180_0113 -----G-C-GCA-ACGGC-------------------CA-GC----G--C
+CCDC5180_2419 -----CCU-AC----U---------------------------------G
+CCDC5180_0315 -----G-A-C-G--U---UC----------------AUG--G----U--C
+CCDC5180_1055 -----GAU-UC----CGCCCGG------------CAAAC----------C
+CCDC5180_2316 -----C-A-CC----UGC--------------------C-GG----U--G
+CCDC5180_2636 -----U-G-GG----CGCUGG--------------UGCG-CC----C--A
+CCDC5180_2694 -----C-G-U-GACACGCCGA--------------GGAG--A----C--G
+CCDC5180_1762 -----CGA-UU----U-C-------------------------------G
+CCDC5180_1922 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2739 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_0793 -----G-U-CAG--CCGA----------------------UG----A--C
+CCDC5180_2071 -----A-A-CC----UGA----------------------GG----U-AU
+CCDC5180_2147 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2084 -----C-G-C-----CGU-----------------------G----C--G
+CCDC5180_0504 -----G-A-UC----C-U----------------------GA----U--C
+CCDC5180_1667 -------G-C----AGGC---------------------U-C----C--U
+CCDC5180_2588 -----C-G-GGU--UAGCG-----------------UGU-CG----C--G
+CCDC5180_1261 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2898 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2549 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_1356 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2410 -----G-G-UG----AGU----------------------CG----C--C
+CCDC5180_2105 -----G-U-UG---UCGAUGAAAA--------CCUGCUU-CG----G--C
+CCDC5180_1838 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_0002 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_1610 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_3105 -----A-G-CAC-CAUGC--------------------G-UG----C--U
+CCDC5180_2894 -----G-G-CCA--CCGCG------------------AG-GG----C--C
+CCDC5180_2383 -----A-U-CC----AGAC------------------CU-GG----A--U
+CCDC5180_3092 -----U-U-U-C--GGGA-----------------------A----A--A
+CCDC5180_2701 -----A-G-CG----CGG----------------------CG----C--U
+CCDC5180_3231 -----G-U-CG---AC-A----------------------UG----A--C
+CCDC5180_2733 -----AUC-UC----CGCGCG--------------GUUU----------U
+CCDC5180_1146 -----G-G-CG----CGA----------------------CG----C--C
+CCDC5180_2687 -----GCU-CCU--UUGC--------------------G-GG----A--C
+CCDC5180_0430 -------A-UC----CGU--------------------G-GG----U--U
+CCDC5180_2693 -----C-G-U-C--U--CCUCGG----------CGUGUC--A----C--G
+CCDC5180_3248 -----CGG-CGAAUCGGCG-----------------UGU-CG----C--G
+CCDC5180_1370 -----U-C-CG----CGC----------------------CG----G--A
+CCDC5180_1363 -----G-G-C----UCGC--------------------C--G----C--C
+CCDC5180_0789 -----C-G-C-----CGA-----------------------G----C--G
+CCDC5180_0591 -----C-G-C----ACG------------------------G----C--G
+CCDC5180_0827 -----A-A-UC----GGC----------------------GG----U--U
+CCDC5180_2056 -----C-G-CG---AGGU--------------------C-CG----C--G
+CCDC5180_2491 -----U-U-CG----G-C--------------------A-CG----A--A
+CCDC5180_1883 -----C-G-CG----GGAC------------------CC-CG----C--G
+CCDC5180_3046 -----U-U-CG----G-C--------------------A-CG----A--A
+CCDC5180_3029 -----A-A-CC----AGU----------------------GG----U--U
+CCDC5180_2535 -----U-U-CG----GGC--------------------C-CG----A--A
+CCDC5180_3272 -----U-U-UG----AGC--------------------U-CA----A--A
+CCDC5180_0628 -----U-G-GG----CGCACC--------------AGCG-CC----C--A
+CCDC5180_0686 -----U-U-CG---AC-A----------------------CG----A--A
+CCDC5180_1492 -----U-U-CG----GGU--------------------A-CG----A--A
+CCDC5180_3181 -----U-U-CG----G-C--------------------A-CG----A--A
+CCDC5180_0870 -----C-G-C-----CGA-----------------------G----C--G
+CCDC5180_2193 -----U-U-CG---GC-C----------------------CG----A--A
+CCDC5180_2592 -----U-G-GGCACC---A-----------------GCG-CC----C--A
+CCDC5180_0611 -----C-G-AA---AUGC--------------------C-UG----C--G
+CCDC5180_0607 -----C-G-C-----CGA-----------------------G----C--G
+CCDC5180_0216 -----UUU-CG----UGC----------------------CG----A--A
+CCDC5180_0869 -----C-G-C----UCG------------------------G----C--G
+CCDC5180_2712 -----U-U-CG----AGA----------------------CG----A--A
+CCDC5180_0527 -----A-A-UC----AGC----------------------GA----U--U
+CCDC5180_2927 -----A-A-GCC--AU-C----------------------GG----U--U
+CCDC5180_0788 -----C-G-C----UCG------------------------G----C--G
+CCDC5180_2058 -----C-G-CC----GGC--------------------C-GG----C--G
+CCDC5180_2057 -----C-G-CC----GGC--------------------C-GG----C--G
+CCDC5180_1281 -----G-G-AA---AGGC----------------------UU----C--C
+CCDC5180_2926 -----A-A-CC----G-A--------------------U-GG---CU--U
+CCDC5180_1362 -----C-G-CGA-CACGCCG---------------CUGU-CG----C--G
+CCDC5180_1003 -----G-C-CG---GC-C----------------------CG----G--C
+CCDC5180_2192 -----U-U-CG----GGC----------------------CG----A--A
+CCDC5180_0984 -----G-U-GC---GAGU--------------------A-GG----A--C
+CCDC5180_0928 -------A-C----ACGC-------------------CG--G----U--U
+CCDC5180_2492 -----U-U-CG----UGC----------------------CG----A--A
+CCDC5180_3047 -----U-U-CG----UGC----------------------CG----A--A
+CCDC5180_1491 -----U-U-CGU--A--C--------------------C-CG----A--A
+CCDC5180_3030 -----A-A-CC---AC-U----------------------GG----U--U
+CCDC5180_0217 -----U-U-CG----G-C--------------------A-CG----A-AA
+CCDC5180_1219 -----A-C-CC---GUGC----------------------GG----G--U
+CCDC5180_0822 -----AUA-CC----UGC--------------------C-GG----U--U
+CCDC5180_1282 -----G-G-AA---GC-C--------------------U-UU----C--C
+CCDC5180_0989 -----A-C-C------GC--------------------C--G----G--U
+CCDC5180_0592 -----C-G-C-----CGU-----------------------G----C--G
+CCDC5180_0181 -----U-U-GG---GC-U--------------------A-CC----A--A
+CCDC5180_2506 -----A-U-CG----CGC--------------------C-CG----G--U
+CCDC5180_0821 -----A-A-CC----GGC--------------------A-GG----U-AU
+CCDC5180_2961 -----U-U-C----AUGA--------------------C--G----A--A
+CCDC5180_3472 -----A-U-CG----GG-----------------------CG----A--U
+CCDC5180_3157 -----C-G-AGU--A--CCCCCCA-------ACCCAACC-CU----C--G
+CCDC5180_1218 -----A-C-CC---GC-A--------------------C-GG----G--U
+CCDC5180_3271 -----U-U-UG----AGC--------------------U-CA----A--A
+#=GC SS_cons  .....<.<.<<....___...................._.>>....>..>
+#=GC RF       .....c.g.Cg....cGC....................c.cG....c..g
+
+CCDC5180_3482 -C--G------CC-G-C--CGCUAGAUGUU
+CCDC5180_2085 -UGUC--G-G-GG-G---CUUUAGCGACUG
+CCDC5180_0660 -U--C--G-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_0990 -U---UGG-G-GU-G-C--UUUCGCGUCUG
+CCDC5180_2233 -U--U--G-G-GA-G-C--UUUUGCGUCUG
+CCDC5180_3260 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_1522 -G--C--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_2351 ----------UGC-G-A--UUCUGCGUCUG
+CCDC5180_1113 -A--U-UG-G-GC-G-A--UUCUGCGUCUG
+CCDC5180_0431 -A--A--GUG-GC-G-C--UUUUGCGUCUG
+CCDC5180_3290 -C--U--G-G-GC-G-C--CG------GUA
+CCDC5180_2079 -UGUC--G-G-GG-G-C--UUUUGCGUCUA
+CCDC5180_1120 CC--A--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0649 -U-GC--G-G-GG-G-C--UUUUGCGACUG
+CCDC5180_0968 -A--U--G-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_3086 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0355 -C----AG-U-GC-G-A--UUCCGCGUCUG
+CCDC5180_1741 -U--C--G-C-GG-G-G--UG------CUG
+CCDC5180_3087 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0929 UC--G--A-G-GG-G-A--UUUUGCGUCUG
+CCDC5180_0351 -A-CC--G-U-GC-G-A--UUUUGCGUCUG
+CCDC5180_3115 -U-GC--G-G-GG-G-C--UUUAGCGUCUG
+CCDC5180_2632 -U--G--C-G-GU-G-G-CUUUUGCGUCUG
+CCDC5180_0180 -A--U--G-G-GC-G-A--UU------CUG
+CCDC5180_3469 -A--U--G-G-GG-G-C--UUUUACGUCUG
+CCDC5180_2856 -U--C--G-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_1343 -U-CG--G-U-GC-G-U--GGUUGCA-GUU
+CCDC5180_1449 -C--A--G-G-AG-G-C--UGGUUUG---G
+CCDC5180_2471 -C--G--C-C-GU-G-G--CGUUACG-CUC
+CCDC5180_2427 -A--A--A-C-GU-C-A--GUCUCGGU--G
+CCDC5180_0982 -G--A--C-G-CA-G-G--AUCAACGGCUG
+CCDC5180_3114 -UGU---C-G-GG-G-G-CUUUUGCGUCUG
+CCDC5180_2707 AC--G--A-A-GG-G-U--AUCCGUGUGUU
+CCDC5180_2706 -A----------A-G-G--GUAUCCGUGUG
+CCDC5180_3209 -C-C---G-C-CC-UC--AGUUCACGUUGG
+CCDC5180_2009 AC--G--G-U-GC-G-A--UUCCGCGUCUG
+CCDC5180_2247 -CUUG-UC-G-CC-G-A-AUUCACUAUCGG
+CCDC5180_1658 -U-CG--C-A-GU-G-G--CGUUACG-CUC
+CCDC5180_0600 -U-CG--C-G--G-G-A--UUCACACUCGG
+CCDC5180_1222 -U--U--A-GUGG-G-C--UUUUGCGUCUG
+CCDC5180_0674 -A--U--G-G-GC-G-C--UUAUGCGUCUG
+CCDC5180_2721 ----U--A-G-GC-C-G--U-------CUC
+CCDC5180_1223 -U--A--G---GA-G-C--UUUUGCGUCUU
+CCDC5180_2731 CG--------UGC-G-A--UUCUGUGUCUG
+CCDC5180_2010 ---CG--A-U-GC-G-A--UUCCGCGU--C
+CCDC5180_2612 -C--C--C-G-G---------------CCG
+CCDC5180_1416 -U-UU-CC-G-CCCU-G-AGUGCACGUUCG
+CCDC5180_0983 ----U--G-G-UG-G---ACGCAGAGUCAA
+CCDC5180_2297 -U--C--A-U-GC-G-A--CUCUGCGUCUG
+CCDC5180_2352 -U--U--CGU-GC-G-A--UUCUGUGUCUG
+CCDC5180_3211 -UCUC--C-G-CCGUGA--GUUCACGUUCG
+CCDC5180_2458 ----G--C-G-GC-G-G-G-CAUACCGCUG
+CCDC5180_0195 -U-GC--G-G-GG-G-C--UUAUGCGUCUG
+CCDC5180_1998 -U--U--G-G-GC-G-A--CUUUGCGUCUG
+CCDC5180_2528 -A-AU--C-G-CA-GCC-ACGUUACG-CUC
+CCDC5180_0058 -A--U--A-G-C-----------------G
+CCDC5180_0439 -------G-G-GC-G-A--CUCGGAGUCGA
+CCDC5180_0874 -U--C------GU-G-A-CAUUCACUCUCG
+CCDC5180_1293 -C--G--G-C-CC-G-A--CA------CGG
+CCDC5180_0226 ----U--G-G-UG-G-A--CGCAGAGUCAA
+CCDC5180_3210 -U-UC--C-G-CCCUCA--GUUCACGUUCG
+CCDC5180_0194 -U--G-UC-G-AG-G-G-CUUUAGUGUCUG
+CCDC5180_3117 -C--G--G-GUGA-U-U--UCCGGGG-CGG
+CCDC5180_3389 -C--C--G-G-G---------------CUG
+CCDC5180_0406 -C--C--G-G-GC-U-C--CU------CUG
+CCDC5180_1352 -U-AC--C-G-CCGUGA--GUUCACGUUCG
+CCDC5180_3334 -U--A--C-C-GU-U-G--CUU-----GUC
+CCDC5180_2428 -A--A--A-C-GU-C-A--AU------CUC
+CCDC5180_1144 ----C--A-G-CC-G-A--ACG-----CUC
+CCDC5180_2933 -G--G--G-G-CC-G-C--A-------CUG
+CCDC5180_3143 -C--G--G-G-AC-C-A--CA------CAG
+CCDC5180_2141 ----C--G-U-AC-G-C--UGGCGCGU--G
+CCDC5180_3241 -C--U--C-G-CCCU-G-GCUUCACGUUCG
+CCDC5180_1494 -UUUC--C-G-CC-CUG-AGUUCACG-CUC
+CCDC5180_2461 -C--G-UC-U-CG-G-C--G-------CCC
+CCDC5180_3249 -U--C--G-U-GC-G-A--UUCACUGUCGG
+CCDC5180_2373 -A--U-U-UG-GA-G-C--UUUUGUGUCUG
+CCDC5180_1186 -C--C--C-------------------CAC
+CCDC5180_1204 ----U--G-G-UC-GU--GCUCGUCG-UUG
+CCDC5180_1166 -C--C--C-C-G---------------CAU
+CCDC5180_0528 ------------U-G-A--UU------UUG
+CCDC5180_1038 -C--U--A-G-C---------------CCG
+CCDC5180_1195 -C--G--C-A-GC-U-G--UUGCACGUUCG
+CCDC5180_0407 -C--C--G-G-GC-U-C--CUC-------G
+CCDC5180_2482 -U--G--C-G-CC-U-G--CUCACCG-CGC
+CCDC5180_1734 -A-CC--G-C-GC-U-A-AUGUCGAUUUCG
+CCDC5180_2649 -G--C--C-G-UC-G-A--U-------CUC
+CCDC5180_3398 ---GC--C-U-GC-AAA--AUGUUGAUCUC
+CCDC5180_0232 -C-GC--C-G-GA-U-C--AU--------G
+CCDC5180_0763 -A--C--G-G--C-G-G--CG------CCG
+CCDC5180_1369 -U-UU--C-G-CA-GUG-CGGUUACG-CUC
+CCDC5180_1129 -U--U--G-G-GU-G-C--CGUUGCGUCUG
+CCDC5180_2854 -A--A--G-A-UA-G-G----------GUG
+CCDC5180_2749 -U--G--G-G-GG-G-C--CUUGGCGCCUG
+CCDC5180_1420 -U-CG--C-C-GU-G-G--CGUUACG-CUC
+CCDC5180_0257 -C--C--G-------------------GCG
+CCDC5180_3240 -C--U--C-G-CCCU-G-AGUUCACGCUCG
+CCDC5180_2327 ----G--G-G-CC-G-G--CA------CUG
+CCDC5180_0525 ------------C-UC--AGUUCACGCUCG
+CCDC5180_2527 -U-UU--C-G-CA-GUC-CGGUUACG-CUC
+CCDC5180_1654 -U--C--G-U-GA-G-A--UUCACAGUCGC
+CCDC5180_2005 -C--C--G---------------------G
+CCDC5180_1524 -U-CG--C-A-GU-G-A--CGUUACG-CUC
+CCDC5180_2637 ------------------------CGUCUG
+CCDC5180_2732 -U-CG--C-A-GU-G-C--CGUUACGU--U
+CCDC5180_3154 -A--G--C---------------------A
+CCDC5180_1070 -C--G--C-A-GC-C-G--GGUUACG-CUC
+CCDC5180_1322 -C--G--C---------------------G
+CCDC5180_1996 ----------AGC-U-U--GG------CGG
+CCDC5180_2205 -U-CU--C-G-CA-GUG-GCGUCACG-CUG
+CCDC5180_1353 -UCUC--C-G-CCCUCA--GUUCACG-UUC
+CCDC5180_2046 -U-CG--CGUCGC-C-A-GGUUCACG-CUC
+CCDC5180_2548 ----C--C-G-GC-G-G--G-------GUC
+CCDC5180_3388 -A--A--A-A-GG-G-C--CUU-----CUG
+CCDC5180_1164 -U------CG-GC-U-G--C-------CCG
+CCDC5180_1037 -C--U--A-G-C---------------CCG
+CCDC5180_0801 ----A--G-C-GC-G-G--U-------CGG
+CCDC5180_1137 -U--U--G-G-AG-C-U--UUUUGCGUCUG
+CCDC5180_2241 ----U--G-G-GC-G-G-GUGGUGCG---G
+CCDC5180_2654 -C--G--C-C-A---------------CUG
+CCDC5180_2969 -G--G----------------------CCG
+CCDC5180_0914 -C--G--G-U-GCGU-C-C-G------CCG
+CCDC5180_0723 -U--C--G-U-GC-C-A--UUCACAG-UGG
+CCDC5180_0113 -U--G--C-U-GC-C-G--AU--------G
+CCDC5180_2419 -U--U--G-A-CG-U-C----------AUG
+CCDC5180_0315 -C--C--C-G-CC-G-G--UUU-----GUG
+CCDC5180_1055 GU--C--G-C-CC-U-G-AGUUCACGUUCG
+CCDC5180_2316 -A--U--C-------------------CUG
+CCDC5180_2636 -U--C--A-U-GU-U-C--UUUUGCGUCUG
+CCDC5180_2694 -U--C--G--CGC-G-G--UUCACAGUCGG
+CCDC5180_1762 -A--G--C-G-CU-G-C--UC------CCG
+CCDC5180_1922 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2739 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_0793 -G--U--ACG-G---------------CUG
+CCDC5180_2071 -U--C--C-G-G-----------------G
+CCDC5180_2147 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2084 -U--G--C-G-GG-G-G--CU--------U
+CCDC5180_0504 -U--U----------------------CAG
+CCDC5180_1667 -C--G--GAU-GC-G-A--UUGUGUGUCUG
+CCDC5180_2588 -U--A--G-U-GC-A-U--UUCACAGUCGG
+CCDC5180_1261 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2898 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2549 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_1356 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2410 -C--U---GG-CG-U-U--UG------CUG
+CCDC5180_2105 -U--U--G-GUGU-GGC-CUU------GUC
+CCDC5180_1838 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_0002 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_1610 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_3105 -A----------------CCGUUGGG-CUU
+CCDC5180_2894 -C-CG--A-U-GG-U-U-UGCGGUGGGGUG
+CCDC5180_2383 -U--U----------------------GCG
+CCDC5180_3092 -U-CC--C-G-CCGUCA--GUUCACGUUCG
+CCDC5180_2701 -U--G--C---------------------G
+CCDC5180_3231 AU--U-GC-U-GC-U-AUGGU------CUG
+CCDC5180_2733 -U-CG--C-A-GU-G-G--CGUUACGCUCG
+CCDC5180_1146 -C--G--C-A-GC-G-G--CUGGGUGUCGC
+CCDC5180_2687 -U--A--G-G-UC-C-G--AUC-----GUG
+CCDC5180_0430 -U-AC--C-U-GC-G-G--AU------UUG
+CCDC5180_2693 -U--C--G-U-GA-G-A--UUCACCGUCGG
+CCDC5180_3248 -U--C--G-U-CA-G-A--UUCACAGUCGG
+CCDC5180_1370 -A-AU--C-G-CA-GCC-AGGUUACG-CUC
+CCDC5180_1363 -G--U--C-A-G------AUC------CUC
+CCDC5180_0789 -U-GC--G-G-GG-G-C--UUUUACGUCUG
+CCDC5180_0591 -UGUC--G-G-GG-G---CUUAUGCGUCUG
+CCDC5180_0827 -U--U--GAU-GC-G-A--CUCUGUGUCUG
+CCDC5180_2056 -C----CG-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_2491 -A--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_1883 -C--A---GU-GC-G-A--UUCUGCGUCUG
+CCDC5180_3046 -A--U-UG-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_3029 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_2535 -A--U--G-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_3272 -U--C--A-U-GC-G-A--UU------CUG
+CCDC5180_0628 -U--C--A-U-GU-U-C--UUUUGCGUCUG
+CCDC5180_0686 -A--U-UG-G-GC-G-C--UUAUGCGUCUG
+CCDC5180_1492 -A--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_3181 -A--U-UG-G-GC-G-A--UUCUGCGUCUG
+CCDC5180_0870 -U-GC--G-G-GG-G-C--UUAUGCGUCUG
+CCDC5180_2193 -U--U-UG-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_2592 -U--C--A-U-GU-U-C--UUUGGCGUCUA
+CCDC5180_0611 -C--G---AU-GC-G-A--UUCUGCGUCUG
+CCDC5180_0607 -U-GC--G-G-GG-G-C--UUAUGCGUCUG
+CCDC5180_0216 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0869 -UGU---C-G-GG-G-G-CUUAUGCGUCUG
+CCDC5180_2712 -A--U-UG-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0527 -U--U--GAU-GC-G-A--UUCUGCGUCUG
+CCDC5180_2927 -U--C--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0788 -UGU---C-G-GG-G-G-CUUUUACGUCUG
+CCDC5180_2058 -C--A--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_2057 -C--A--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_1281 -G--C--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_2926 -U--C--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_1362 -U--C--G-U-CA-G-A--UUCACAAUCGG
+CCDC5180_1003 -G--C--G-U-GC-G-A--UUCUGUGUCUG
+CCDC5180_2192 -A--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0984 -A-CG--U-G-GU-G-G-GCGCAGAGUCAA
+CCDC5180_0928 GC--G--A-G-GG-G-A--UUUUGCGUCUG
+CCDC5180_2492 -A--U--GAG-GC-G-A--UUUUGCGUCUG
+CCDC5180_3047 -A--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_1491 -A--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_3030 -U--U-CG-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_0217 -U--U--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_1219 -U--U--A-G-GC-G-A--UUCUGCGUCUG
+CCDC5180_0822 -U--A---GG-GG-G-C--UUUUGCGUCUG
+CCDC5180_1282 -G--C--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_0989 -U--U--G-G-GG-G-C--UUCUGCGUCUG
+CCDC5180_0592 -U-GC--G-G-GG-G-C--UUAUGCGUCUG
+CCDC5180_0181 -A--U--G-G-GC-G-A--UUCUGCGUCUG
+CCDC5180_2506 -U--U--G-U-GC-G-A--UUCUGCGUCUG
+CCDC5180_0821 -U-----A-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_2961 -A--A--G-G-GC-G-A--UUUUGCGUCUG
+CCDC5180_3472 UU--U--G-G-GG-G-C--UUUUGCGUCUG
+CCDC5180_3157 -G--G--G-G-GC-G-C--CGCCCCCCGAG
+CCDC5180_1218 -U--U--A-G-GC-G-A--UUCUGCGUCUG
+CCDC5180_3271 -U--C--A-U-GC-G-A--UUCUGCGUCUG
+#=GC SS_cons  .>..>..>.>.>>.>.>..>>>>>>>>>>>
+#=GC RF       .u..c..g.G.Gc.G.a..uUcUgCGUCUG
+//

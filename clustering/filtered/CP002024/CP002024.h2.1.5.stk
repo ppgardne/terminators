@@ -1,0 +1,734 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.1-1
+#=GF AU Infernal 1.0.2
+
+#=GS CTL2C_824 WT 1.01
+#=GS CTL2C_479 WT 0.98
+#=GS CTL2C_672 WT 0.90
+#=GS CTL2C_605 WT 1.11
+#=GS CTL2C_773 WT 1.27
+#=GS CTL2C_830 WT 1.03
+#=GS CTL2C_358 WT 0.77
+#=GS CTL2C_443 WT 1.01
+#=GS CTL2C_57  WT 0.93
+#=GS CTL2C_131 WT 0.85
+#=GS CTL2C_620 WT 0.88
+#=GS CTL2C_386 WT 0.96
+#=GS CTL2C_642 WT 1.28
+#=GS CTL2C_43  WT 0.95
+#=GS CTL2C_407 WT 0.85
+#=GS CTL2C_371 WT 1.23
+#=GS CTL2C_482 WT 0.90
+#=GS CTL2C_49  WT 0.96
+#=GS CTL2C_877 WT 0.98
+#=GS CTL2C_684 WT 1.28
+#=GS CTL2C_858 WT 1.20
+#=GS CTL2C_587 WT 1.07
+#=GS CTL2C_869 WT 1.07
+#=GS CTL2C_920 WT 1.06
+#=GS CTL2C_505 WT 0.89
+#=GS CTL2C_916 WT 1.06
+#=GS CTL2C_168 WT 1.11
+#=GS CTL2C_63  WT 0.95
+#=GS CTL2C_541 WT 0.99
+#=GS CTL2C_180 WT 0.68
+#=GS CTL2C_491 WT 1.22
+#=GS CTL2C_694 WT 0.90
+#=GS CTL2C_299 WT 1.04
+#=GS CTL2C_455 WT 0.93
+#=GS CTL2C_707 WT 1.14
+#=GS CTL2C_900 WT 0.96
+#=GS CTL2C_563 WT 1.05
+#=GS CTL2C_852 WT 0.99
+#=GS CTL2C_238 WT 0.96
+#=GS CTL2C_863 WT 1.00
+#=GS CTL2C_538 WT 0.98
+#=GS CTL2C_474 WT 1.26
+#=GS CTL2C_609 WT 1.00
+#=GS CTL2C_907 WT 0.94
+#=GS CTL2C_113 WT 0.88
+#=GS CTL2C_89  WT 1.24
+#=GS CTL2C_673 WT 0.89
+#=GS CTL2C_939 WT 1.26
+#=GS CTL2C_915 WT 1.27
+#=GS CTL2C_945 WT 1.03
+#=GS CTL2C_911 WT 0.83
+#=GS CTL2C_721 WT 1.19
+#=GS CTL2C_570 WT 0.90
+#=GS CTL2C_951 WT 1.06
+#=GS CTL2C_906 WT 0.87
+#=GS CTL2C_51  WT 0.87
+#=GS CTL2C_516 WT 0.98
+#=GS CTL2C_828 WT 0.70
+#=GS CTL2C_586 WT 0.98
+#=GS CTL2C_521 WT 0.96
+#=GS CTL2C_749 WT 0.95
+#=GS CTL2C_265 WT 1.14
+#=GS CTL2C_416 WT 1.07
+#=GS CTL2C_236 WT 1.06
+#=GS CTL2C_547 WT 0.83
+#=GS CTL2C_363 WT 0.98
+#=GS CTL2C_178 WT 1.04
+#=GS CTL2C_177 WT 0.98
+#=GS CTL2C_552 WT 0.95
+#=GS CTL2C_164 WT 1.06
+#=GS CTL2C_62  WT 1.07
+#=GS CTL2C_364 WT 0.87
+#=GS CTL2C_279 WT 1.02
+#=GS CTL2C_556 WT 1.06
+#=GS CTL2C_870 WT 1.07
+#=GS CTL2C_740 WT 0.86
+#=GS CTL2C_13  WT 0.93
+#=GS CTL2C_711 WT 0.94
+#=GS CTL2C_597 WT 1.17
+#=GS CTL2C_260 WT 0.87
+#=GS CTL2C_150 WT 1.03
+#=GS CTL2C_902 WT 1.05
+#=GS CTL2C_357 WT 0.92
+#=GS CTL2C_835 WT 1.06
+#=GS CTL2C_717 WT 0.95
+#=GS CTL2C_493 WT 1.08
+#=GS CTL2C_184 WT 0.99
+#=GS CTL2C_484 WT 1.00
+#=GS CTL2C_849 WT 1.06
+#=GS CTL2C_212 WT 0.99
+#=GS CTL2C_72  WT 0.87
+#=GS CTL2C_670 WT 0.99
+#=GS CTL2C_819 WT 0.90
+#=GS CTL2C_787 WT 0.94
+#=GS CTL2C_583 WT 1.07
+#=GS CTL2C_155 WT 0.94
+#=GS CTL2C_739 WT 0.89
+#=GS CTL2C_588 WT 1.01
+#=GS CTL2C_71  WT 0.87
+#=GS CTL2C_420 WT 1.04
+#=GS CTL2C_249 WT 0.98
+#=GS CTL2C_629 WT 0.98
+#=GS CTL2C_524 WT 0.98
+#=GS CTL2C_338 WT 1.06
+#=GS CTL2C_138 WT 0.93
+#=GS CTL2C_518 WT 0.88
+#=GS CTL2C_696 WT 1.09
+#=GS CTL2C_566 WT 0.88
+#=GS CTL2C_320 WT 1.30
+#=GS CTL2C_878 WT 0.92
+#=GS CTL2C_125 WT 1.00
+#=GS CTL2C_495 WT 0.96
+#=GS CTL2C_352 WT 0.87
+#=GS CTL2C_263 WT 1.02
+#=GS CTL2C_175 WT 1.12
+#=GS CTL2C_329 WT 0.99
+#=GS CTL2C_714 WT 1.19
+#=GS CTL2C_561 WT 0.87
+#=GS CTL2C_856 WT 0.90
+#=GS CTL2C_762 WT 1.00
+#=GS CTL2C_564 WT 0.98
+#=GS CTL2C_27  WT 1.03
+#=GS CTL2C_656 WT 0.94
+#=GS CTL2C_894 WT 0.88
+#=GS CTL2C_797 WT 0.99
+#=GS CTL2C_453 WT 1.14
+#=GS CTL2C_603 WT 0.77
+#=GS CTL2C_859 WT 0.93
+#=GS CTL2C_832 WT 0.82
+#=GS CTL2C_298 WT 1.06
+#=GS CTL2C_938 WT 0.93
+#=GS CTL2C_157 WT 1.09
+#=GS CTL2C_864 WT 1.16
+#=GS CTL2C_644 WT 1.10
+#=GS CTL2C_927 WT 1.06
+#=GS CTL2C_691 WT 0.97
+#=GS CTL2C_903 WT 1.00
+#=GS CTL2C_882 WT 1.24
+#=GS CTL2C_682 WT 1.15
+#=GS CTL2C_539 WT 0.93
+#=GS CTL2C_221 WT 1.07
+#=GS CTL2C_599 WT 1.04
+#=GS CTL2C_540 WT 1.05
+#=GS CTL2C_306 WT 0.97
+#=GS CTL2C_208 WT 0.98
+#=GS CTL2C_665 WT 0.85
+#=GS CTL2C_229 WT 1.08
+#=GS CTL2C_596 WT 0.98
+#=GS CTL2C_904 WT 0.95
+#=GS CTL2C_85  WT 0.94
+#=GS CTL2C_833 WT 1.00
+#=GS CTL2C_93  WT 0.88
+#=GS CTL2C_535 WT 0.97
+#=GS CTL2C_655 WT 0.96
+#=GS CTL2C_499 WT 1.16
+#=GS CTL2C_590 WT 0.93
+#=GS CTL2C_546 WT 1.09
+#=GS CTL2C_356 WT 1.08
+#=GS CTL2C_522 WT 1.00
+#=GS CTL2C_498 WT 0.87
+#=GS CTL2C_802 WT 1.09
+#=GS CTL2C_810 WT 0.97
+#=GS CTL2C_40  WT 0.89
+#=GS CTL2C_227 WT 1.03
+#=GS CTL2C_312 WT 0.92
+#=GS CTL2C_29  WT 0.87
+#=GS CTL2C_146 WT 1.07
+#=GS CTL2C_793 WT 0.99
+#=GS CTL2C_875 WT 1.07
+#=GS CTL2C_839 WT 1.08
+#=GS CTL2C_942 WT 0.99
+#=GS CTL2C_24  WT 1.09
+#=GS CTL2C_530 WT 1.09
+#=GS CTL2C_890 WT 1.03
+#=GS CTL2C_502 WT 0.70
+#=GS CTL2C_826 WT 1.27
+#=GS CTL2C_224 WT 1.07
+#=GS CTL2C_53  WT 1.03
+#=GS CTL2C_196 WT 1.08
+#=GS CTL2C_41  WT 0.68
+
+CTL2C_824    ACUAA----UU-G----------CA-GU---------AGGGUACA-AGGC
+CTL2C_479    UCUAA-------AAA-------AAA--------------GCGCUC-C---
+CTL2C_672    U-----UUCAUU------------U-UAAA-----AAUAAAAAAU-UAAU
+CTL2C_605    U-----UCUGUC-------------A-------------GCCCAG-AA--
+CTL2C_773    CAGAGG---CU-CGU-------AUC-G-----------CUAGAAG-ACUC
+CTL2C_830    ACGAG-------AACA----AGUAU-G-----------UCGCCCG-CCCC
+CTL2C_358    C-----GUUUUU-------------CA-----------CAAGACC-UG--
+CTL2C_443    AGGAAU---AUUUA--------GAG-A----------AAAAGGAG-----
+CTL2C_57     GACAA-------AA--------AGA--------------AAAAGG-AG--
+CTL2C_131    AAGAGG---CUU------------C-GAUAA--GAAAAAAAACCA-AACU
+CTL2C_620    GAUAG-UCUUUU---------------------------AAGAGC-CCAC
+CTL2C_386    C-----UUCCU-AGU-------AAA-------------U--UAGG-CA--
+CTL2C_642    U-----UAUUUUCU---------AA-AUU-------CAAAGCUCA-GUGG
+CTL2C_43     U-----UCUCU-A----------AA--------------AAGAAG-CCCC
+CTL2C_407    GAUAA-------CA--------AAA-------------AAAACCA-AACU
+CTL2C_371    AAGAU----GUC---------------------------CUAAGA-GACU
+CTL2C_482    UGUAG----UUUG-----------C-CG--------AGCAAAAGC-CUCU
+CTL2C_49     GGCAU-------AAA------AGAG-------------AAGAACC-CUCU
+CTL2C_877    GAGAG----CUU---------------------------GGGCCU-CCUC
+CTL2C_684    C-----UGGCU-CGAA-----AAAC-CU--------AAUGAGAUA-GCCA
+CTL2C_858    A-----UUUAU-AAACAA-UAAACU-UC--------CCUAUGACU-CGCC
+CTL2C_587    GUGAG-------AAA-------AAG--------------AAGAAC-GCCU
+CTL2C_869    UCUAGU---AUU-------------CC-----------UCCCCAU-UCCA
+CTL2C_920    UCGAU----GU-G----------UA-G-----------GUGCCGU-CC--
+CTL2C_505    C--------UUG-------------A-------------AGAAGG-----
+CTL2C_916    GAUAA-UUUAU-GA--------AUA-UG--------AAUAUGAAG-CCCA
+CTL2C_168    C-----UUCCUU------------A-UAGA----AGGCCGGGCUU-GCAU
+CTL2C_63     C-----UUUAU-AA--------AAA-------------AAAGGCC-UUCU
+CTL2C_541    GCGAU----AUUA----------AA-UAAUA---UGUGUGGUUAG-UUUU
+CTL2C_180    A-----------------------U--------------AGAAAA-GCCU
+CTL2C_491    A-----GGCAUU-------------C-------------ACGAGC-AGAA
+CTL2C_694    GUUAG-UAUUUU-------------G-------------CAAAGC-GUCG
+CTL2C_299    U-----GUCAUG---------------------------ACUCGG-AA--
+CTL2C_455    A-----GUCUU-G----------AG-AA---------GAAAAAGA-CCUG
+CTL2C_707    CGCAA-UGUUU-G-----------A-------------AGCCAUC-CCUU
+CTL2C_900    UAGAG----CUU-------------G------------AGAAAAG-UCUU
+CTL2C_563    AAGAG-------CAAA-----CAUA-------------AGAGCAG-----
+CTL2C_852    ACGAUG---AU-A----------AA--------------GCUCUU-UGUU
+CTL2C_238    UCCAG----CU-CAA------UAAA-AU---------CUGGGAGG-----
+CTL2C_863    UGUAU----GUU-------------UA-----------AGGGAAGACU--
+CTL2C_538    UACAU-UUUCU-C----------GG-A----------UGAAGAGG-UUCU
+CTL2C_474    U-----UUCAUC---------------------------CCGGUU-UUGC
+CTL2C_609    UAGAGC---AU-AA---------AA-------------CAAGAAG-GCCC
+CTL2C_907    U-----UUUGU-GAU------ACAA-AA--------AAAAAGAAC-UCCC
+CTL2C_113    C-----AUCAUU-------------A-------------AACGUU-CUCU
+CTL2C_89     AACAG----AUG-------------U-------------AGUUAG-UAAG
+CTL2C_673    UUCAG-UUUGUU-------------C-------------AAGCUCUGUUU
+CTL2C_939    A-----UUUCUU-------------A-------------ACGGUU-CGGA
+CTL2C_915    CACAA-AUCCU-AUAA-----AAAA-A----------AACACCCC-CCUC
+CTL2C_945    CUGAU----CUU---------------------------CUCCCG-CCCC
+CTL2C_911    U-----UUUGUU-------------CGAA-------AAGAGAAGC-----
+CTL2C_721    CGUAGG---AU-AAAAAGCAAAGGA-GAA-------CAGACGAGC-AG--
+CTL2C_570    U-----UUACUU-------------CUCAA-----UUAAAGAAGG-----
+CTL2C_951    GACAU----UU-C----------CA-AC---------AAAAAGCG-CUCC
+CTL2C_906    UCCAA-------AAA-------AAA-------------UAGCCUG-GUCU
+CTL2C_51     AUCAU----GUU-------------A-------------AGGCCG-----
+CTL2C_516    AAGAG----UUU-------------A-------------GGCCCA-CAGU
+CTL2C_828    CAUAA-------A-----------A--------------AAGAGG-UAUU
+CTL2C_586    AAUAG-AUUCUU-------------C-------------GAGCCU-CGUU
+CTL2C_521    AUCAA----AU-CGAA----AUCUA-AG--------CCAAAAAGC-CCUU
+CTL2C_749    UGGAAU---CU-AGA-------UAA-------------AAAAAGA-CCCA
+CTL2C_265    G-----UUCAU-AGU-------AAG-------------AGGGGGC-UUUG
+CTL2C_416    GUGAG-------AAAA-----AUUC-------------C----GU-CAGA
+CTL2C_236    CUGAU----AU-CA--------AAA-UA---------GGAGAAAG-CCUC
+CTL2C_547    U-----UUGAUUAA---------AA-AAAUAAAGAAAUAAAAAGC-CCUU
+CTL2C_363    U-----UGUAU-CAA------AAAA-CU---------AAGCCCAC-CAAG
+CTL2C_178    UGGAG----GUU-------------U-------------AGGAGA-GAGC
+CTL2C_177    C-----UUUAUGA-----------A-AA---------AAAAGCCU-----
+CTL2C_552    C-----UUGGU-AG--------CAA-------------AAAGACC-CAUC
+CTL2C_164    C-----UUCCUU-------------A-------------AGCAAG-AGCC
+CTL2C_62     UAGAA----AUU------------G-AC---------UCACGUGU-UCCU
+CTL2C_364    A-----UUUCUU-------------AAG---------AAAAAGGC-UGUU
+CTL2C_279    UCGAG----AU-CAA-------UAA-AA---------AAACCCAC-AGUU
+CTL2C_556    A-----CUUCUU-------------C-------------CCAUCGCCU--
+CTL2C_870    AGGAG-------UAA------AAAC-------------AAGUAGU-CAAA
+CTL2C_740    U-----UUUAUU---------------------------GAGACG-GGCU
+CTL2C_13     AAGAA-------AAA------AGAA-------------GAAGAGU-CUUG
+CTL2C_711    A-----UCGAUU-------------CU----------AAUCAAGG-AAAA
+CTL2C_597    U-----CCUGUU---------------------------CAGCUC-CUUC
+CTL2C_260    GACAA-------AAA-------GAA--------------AGCCUU-CUCU
+CTL2C_150    UCUAA----AU-AG--------AAA--------------AGGCAA-UC--
+CTL2C_902    AGUAA-----UUA----------AA-U----------AUAACAAA-AACA
+CTL2C_357    A-----UUCGU-A-----------A--------------AAAAAG-----
+CTL2C_835    AUGAU-AUUCU-AAA------UAAA-UAU------CCUGGAAAGG-CAGC
+CTL2C_717    C-----UCUAUC-------------U-------------AAGAAA-----
+CTL2C_493    U-----UCCCUU---------------------------AGGAUU-UUUU
+CTL2C_184    GGUAAU---CUU------------C-ACGG----AGAGAAAGAGG-GGUU
+CTL2C_484    UUUAA----UUU------------C-AUA-------UAAAAGCCGAUUUU
+CTL2C_849    A-----AUAUUU-------------A-------------AGGGAA-G---
+CTL2C_212    AAGAA-------------------UA-------------GGGCCA-CGCU
+CTL2C_72     ACUAG----CU-AAUA-----AAAA-------------AAAUCCC-UAAU
+CTL2C_670    U-----UGCUUU-------------CGAU------CGUAGAGUCA-GGCU
+CTL2C_819    GAUAG-UUUUUU-------------C------------UAAAAGA-GAGU
+CTL2C_787    ACCAA-CUUCUU-------------AGA--------AGAAAGAAG-----
+CTL2C_583    G-----UCUGUU-------------U-------------ACGGCG-----
+CTL2C_155    U-----GGUGUG---------------------------AAGAAC-UCCC
+CTL2C_739    UUGAG-AUUGUG-------------C-------------AAGCCC-CCCU
+CTL2C_588    GACAG----AU-GAUAA--CAAAUA-AAA-------GAUCAUAGG-CGGC
+CTL2C_71     A-----ACCAUU-------------C-------------UAUCCC-UAAU
+CTL2C_420    AGGAG----CUU-------------C-------------UCUCGG-AA--
+CTL2C_249    UAGAG-------AAA-------GAG--------------AGGGGG-U---
+CTL2C_629    AAGAGG---CUU------------G-UCA------AACUAGGCAA-UCUC
+CTL2C_524    U-----UUACUC------------A-G----------AAAAACCG-AG--
+CTL2C_338    A-----UCCUUG-------------A-------------AGCUCG-CA--
+CTL2C_138    AUCAAA---AU-AA--------AAA-U-----------UAGAAGG-----
+CTL2C_518    G-----UUCUUU-------------G-------------AAGCCU-----
+CTL2C_696    GUGAA-UUUAU-AAAC-----AAUU-U----------UUAAAGGG-AGGU
+CTL2C_566    GAUAU----GUU---------------------------GGCGAG-----
+CTL2C_320    A-----UCUUUU------------C-AA--------AAGGAACUG-GUUC
+CTL2C_878    CUCAG-UUUAUA-------------C-------------AAGCGC-U---
+CTL2C_125    UCUAA----UU-AA---------AA-A-----------AAAGCUC-GC--
+CTL2C_495    GUGAG-------AAA------AAAA-------------UGAAAAG-UCUU
+CTL2C_352    U-----CGCGU-AG--------GAA-------------AAAGAGG-----
+CTL2C_263    UCUAA-UUCUUU-------------U-------------UGGCCA-GCCU
+CTL2C_175    CAGAG-UUUCUU-------------UA-----------AAAAUUC-----
+CTL2C_329    UGGAU-------AGAG----AAUAA-------------AACGCCUUCCUU
+CTL2C_714    GAGAA-------AAGAA---ACUAC-C-----------AAGGAAA-AG--
+CTL2C_561    U-----UAUCU-AG--------AGA-------------AAAGCGG-----
+CTL2C_856    U-----UAUCUU---------------------------GAAAAA-----
+CTL2C_762    U-----UCUAUU-------------U-------------ACACCG-CUUA
+CTL2C_564    UAGAG-------UA--------AUA-------------GAGGGGG-----
+CTL2C_27     UCGAU-UCAGU-AU--------AAA-A-----------UGUUAAG-GG--
+CTL2C_656    AGGAGU---AUU------------C-UAGAA---UCCGAAAGGAG-AA--
+CTL2C_894    G--------AUG-------------G-------------GAGAAC-C---
+CTL2C_797    G-----UUCUUU-------------C-------------CUGGGC-CUCU
+CTL2C_453    UUUAA----AUC---------------------------GUGUUC-UCUG
+CTL2C_603    U-----AUUAUU---------------------------AAGACC-UG--
+CTL2C_859    C-----UUCCUC---------------------------AAACCA-----
+CTL2C_832    AAGAG-------CAA-------AAA-------------AAAGAGA-UCUU
+CTL2C_298    CCUAGG---AU-GAAAA--AAACUU-GGU------UAGGAAGGGC-CGUU
+CTL2C_938    AGCAA----GUU-------------CA----------AUAGGAGU-CUUG
+CTL2C_157    U-----AUUUUU-------------CAAAUA--GUGGGUGAGUCC-GAAG
+CTL2C_864    UUUAGU---CU-C-----------C-UA---------UGUGCAUG-CUGA
+CTL2C_644    CAGAA-GACUUU-------------G-------------GAAGAG-GAGC
+CTL2C_927    U-----UUCCUU-------------CCCU-------AGUAUAAAG-CCCU
+CTL2C_691    GCUAG----UU-AGA------CAAA-U-----------AAAGCAG-CUUA
+CTL2C_903    U-----UCACUU-------------CAAG------UCUCAAGCUC-GCAU
+CTL2C_882    AAUAU----CUU-------------G-------------GGGUGC-AC--
+CTL2C_682    C--------CUC-------------U-------------ACAAAA-AGCU
+CTL2C_539    AUUAA----UUU-------------G------------UAAAAAA-----
+CTL2C_221    U-----UUCAU-GGAC----AAAGA-CC--------UAAGGGAGG-AUCU
+CTL2C_599    AAUAG-UUUGUU-------------UUC--------GUAGAGAGG-----
+CTL2C_540    UGUAA-UCUAUU---------------------------CCUAACAAUCA
+CTL2C_306    U-----CUUCU-CU---------AG-A----------AAAGGCCG-----
+CTL2C_208    UUCAAA---CU-GA---------AG-A----------AUAAAAGG-CUCU
+CTL2C_665    U--------CUU---------------------------AGAAAG-GCUU
+CTL2C_229    G-----UUUGUU-------------G-------------GGGGAA-G---
+CTL2C_596    A-----UUCUUU-------------UGC--------ACAGAAAAG-GGCU
+CTL2C_904    UGGAA-------GAG-------AAA-------------AGAGAGG-----
+CTL2C_85     A-----UUCGUU-------------GAA---------AAACAAGG-CUAA
+CTL2C_833    G-----UUUUUU-------------UAA--------UAGAAGCCU-GGCC
+CTL2C_93     GGGAAA---CUU------------C-GAAAAA-AUAGCUGGGAAG-GGAU
+CTL2C_535    ACGAG-------UA--------AAA-------------AAAGCCC-CU--
+CTL2C_655    C-----CUUUU-AA--------AAA-------------GAGAACC-CUCU
+CTL2C_499    CAGAA-------AAA-------GAA-------------AAGGCUG-UUGU
+CTL2C_590    U-----AUCAUU-------------GAG---------CAAAAAAA-GAGG
+CTL2C_546    G-----UCUAU----------------------------CCUAAG-AAAC
+CTL2C_356    U-----GUUAU-G----------GG-A-----------AAGAGAAUGCUU
+CTL2C_522    U-----CUUGUU---------------------------GCUCCG-----
+CTL2C_498    AUGAU-UUUCU-A-----------A-------------GUAGCCG-GGAA
+CTL2C_802    A-----UCUAUU-------------GAA---------GG----CG-----
+CTL2C_810    U-----GCUAU-CAU-------ACA-AC--------AAAAGGAAG-----
+CTL2C_40     CCGAA-------CGGU-----GUAC-------------AAGGAGG-C---
+CTL2C_227    UAGAA-AUCCU-AA---------AA-A-----------AAACCAU-UCCA
+CTL2C_312    A-----AUCGUGA-----------G-G----------GAAAGCAG-CUUA
+CTL2C_29     G-----UUUCUG-------------U-------------CCUGAC-AGAU
+CTL2C_146    G-----GCCAUU-------------CUA---------AAGGCCCC-CUUU
+CTL2C_793    C-----UCCGUU-------------A-------------CCUUUC-CUUU
+CTL2C_875    U-----UUUAUU-------------UGA--------UUAAGAGAU-GUUC
+CTL2C_839    ACGAG-CUCCUU-------------UC-----------AGCAAAG-CCCA
+CTL2C_942    CGGAG-UACAUU---------------------------GUAGAG-UAAU
+CTL2C_24     GAUAA-------GAAA----GAAUA-A-----------AAAAAGGAGG--
+CTL2C_530    U-----GUUAUU-------------CUAAG-----UGGUGGGCAG-----
+CTL2C_890    A-----GUUAUC---------------------------UGUAUG-UU--
+CTL2C_502    UAGAU-UUUCU-AGG------AAAA-A-----------AAAGAGG-UAUU
+CTL2C_826    C-----GUCGU-AAAAA--AUAAUU-AA---------AG----ACUCCUC
+CTL2C_224    CCCAA-GGCUU-C----------AU-A----------AAUGGCGG-----
+CTL2C_53     C-----GUUAUG---------------------------UGUUGUGUGGA
+CTL2C_196    AGUAA----CUU-------------CUA---------AGGGGAUU-CUUU
+CTL2C_41     U-----GCGUUU-------------C-------------AGAAAA-GCCU
+#=GC SS_cons :::::.::::::.............:.............<<<<<<.<<<<
+#=GC RF      uagAg.UUUaUU.............c.............Aagaag.cccu
+
+CTL2C_824    -U-CUU-------------------GA-AA--AG-GA--GCCU--UGUAU
+CTL2C_479    ---UGU-------------------U-UAUC-AC-U-----AG--GAGCG
+CTL2C_672    -C-GAUAUUAAA-------ACCAAUAA-AAA-AU-CG--AUUA--AUUUU
+CTL2C_605    ---CAA-------------------CUUCUC-UU-G-----UU--CUGGG
+CTL2C_773    -C-ACG-------------------CA-AAA-----G--GAGU--CUUCU
+CTL2C_830    -A-AGU-------------------AAUUCA-AC-AC--GGGG--CGGG-
+CTL2C_358    ---GGC-------------------AC-AAC-GC-C-----CA--GGUCU
+CTL2C_443    ---AGCAC--------------AGCAA-CA--GC-U---------CUCCU
+CTL2C_57     ---AGCUG--------------UUG-CUGU--GC-U-----CU--CCUUU
+CTL2C_131    -G-GUU-------------------GG-ACA-AA-CU--AGUU--UGGUU
+CTL2C_620    -A-CCCA-----------------AAAUAAC-GG-GU--GUGG--GCUUU
+CTL2C_386    ---AGG-------------------AAU--A-CC-U-----UG--CCUA-
+CTL2C_642    -A-UGU-------------------UUU--U-AC-AU--UCAC-GUGAGC
+CTL2C_43     -G-UUC-------------------UAUCUC-GG-AC--GGGG--CUUUU
+CTL2C_407    -A-GUU-------------------UGUCC--AA-CC--AGUU--UGGUU
+CTL2C_371    -A-GCU-------------------UA---C-AG-CU--AGUU--UCUUA
+CTL2C_482    -U-C-----------------------UUAU----GA--AGAG--GCUUU
+CTL2C_49     -U-CAU-------------------AA-AACUAU-GG--AGAG--GGUUC
+CTL2C_877    -C-GGA-------------------A-U----UC-CG--GAGG--GGGCU
+CTL2C_684    -A-UGA-------------------U-U--C-UC-AU--UGGC--UAUCU
+CTL2C_858    -A-------------------------U--C-----C--GGCG--AGUCA
+CTL2C_587    -G-A-----------------------UCA--AA-UC--GGGC--GUUUU
+CTL2C_869    -U-GCC-------------------UCUAU--AG-CG--UGGA--AUGG-
+CTL2C_920    ---AGG-------------------GAU--U-CC-U-----GG--GCGGC
+CTL2C_505    ---GGC-------------------G-UAAU-GC-C---------CCUUC
+CTL2C_916    -G-GCA-------------------UC-GA--UA-UC--UGGG--CUUCA
+CTL2C_168    -A-GAU-------------------UCU----GC-CU--AUGC--AAGCC
+CTL2C_63     -C-UUU-------------------G-UGA--AA-AG--AGAA--GGCUU
+CTL2C_541    -U-AAU-------------------AA-AAA-GU-UA--AAAA--CUAAC
+CTL2C_180    -U-CUU-------------------U-UGA--AA-GA--AGGC--UUUUC
+CTL2C_491    -C-U-----------------------UAUC----UG--UUCU--GCUCG
+CTL2C_694    -A-C-----------------------U-------GU--AGAU--GCUUU
+CTL2C_299    ---UAA-------------------GA-GGA-UU-A-----UU--CCGAG
+CTL2C_455    -G-AGU-------------------A-UAGU-AU-UC--CAGG--UCUUU
+CTL2C_707    -A-C---------------------UG-AAU-AA-GU--AAGG--GAUGU
+CTL2C_900    -A-GAG-------------------GCCCUU-CU-CU--AAGA--CUUUU
+CTL2C_563    ---AGC-------------------UCUAGG-GC-U---------CUGCU
+CTL2C_852    -A-GAC-------------------C-UAAAGGU-CU--AGCA--AAGAG
+CTL2C_238    ---AGG-------------------ACUCUUUCC-U---------CCUCC
+CTL2C_863    ---C-----------------------GAA-----G-----AG--CUUCC
+CTL2C_538    -U-C---------------------A-UCC--GA-GA--AAAA--CCUCU
+CTL2C_474    -C-AUC-------------------U-U--C-AA-UG--GCAA--AACC-
+CTL2C_609    -A-GUA-------------------AA---C-UA-CU--GGGU--CUUUU
+CTL2C_907    -U-C---------------------CA-AAA-AA-GA--GGGA--GUUCU
+CTL2C_113    -U-CUC-------------------U-UCAA-GA-GA--AGAG--GGCGU
+CTL2C_89     -G-AAG-------------------U-UGG--CU-UC--CUUA--CUAAC
+CTL2C_673    -U-UGC------------------CUA-CGC-GU-AA--AAAU-AGGGCU
+CTL2C_939    -A-GGUU-----------------GAAUAAA-AU-CUUUUCCG--AACCG
+CTL2C_915    -U-GCA-------------------CG---G-UG-CA--GAGG--GGGG-
+CTL2C_945    -G-UGU-------------------UG-AAUUAC-UU--GGGG--CGGGC
+CTL2C_911    ---CUC-------------------G-UAA--GG-G---------GCUUU
+CTL2C_721    ---AAC------------------AGAUAA--GU-U-----CU--GCUCG
+CTL2C_570    ---GAA-------------------UGU----UU-C---------CCUUC
+CTL2C_951    -U-AGU-------------------GAUAA--AC--A--GGAG--CGCUU
+CTL2C_906    -U-A-----------------------UUAC----UA-CAGGC--CAGGC
+CTL2C_51     ---AGA-------------------A-U--U-UC-U---------CGGCC
+CTL2C_516    -U-CCCA----------------UC-C-AAA-GG-UA--ACUG--UGGGU
+CTL2C_828    -U-AG--------------------GA-ACU--C-UA--AAUA--CCUCU
+CTL2C_586    -U-C---------------------CC-AA--AA-GG--AACG--AGGCU
+CTL2C_521    -U-CCU-------------------U-UAUG-AG-GA--AAGG--GCUUU
+CTL2C_749    -G-CUC-------------------A-UUA--GA-GA--UGGG--UCUUU
+CTL2C_265    CG-GAU-------------------U-UAUA-GU-CC--CAAA--GCCCU
+CTL2C_416    -U-GAG-------------------A-UAAA-CU-CA--UCUG--AC---
+CTL2C_236    -A-ACC-------------------A-UAG--AG-UU--GAGG--CUUUU
+CTL2C_547    -U-CCU-------------------CAUAA--AG-GA--AAGG--GCUUU
+CTL2C_363    -A-AGA-------------------AAU----UC-UC--UUUG--GUGGG
+CTL2C_178    -C-CUU-------------------U-UAU--UA-GG--GCUC--UCUUU
+CTL2C_177    ---CGC-------------------AA-AA--GC-G---------AGGCU
+CTL2C_552    -U-C-----------------------UAAU----GA--GCUG--GGUCU
+CTL2C_164    -U-CUU-------------------GA-AA--AA-GG--GGCU--CUUGC
+CTL2C_62     -C-GUC-------------------UUUAA--GA-UG--AGGA--ACUAG
+CTL2C_364    -U-C-----------------------UAAA-AA-GA--AACA--GCCUU
+CTL2C_279    -A-CCU-------------------U-UGGA-UG-GG--AACU--GUGGG
+CTL2C_556    ---GGU-------------------GA-AA--GC-C-----GG--CGAU-
+CTL2C_870    -A-GGU-------------------GA-AGA-GC-CU--UUUG--GCUAU
+CTL2C_740    -U-GGCGGAUAUCU--UCUUGAAUGGC-AAG-GA-CA--AGCU--CGUCU
+CTL2C_13     -U-UAC-------------------C-UAA--GU-AA--CAAG--ACUCC
+CTL2C_711    -G-AAG-------------------U-UUUU-CU-UC--UUUU--CCUUG
+CTL2C_597    -A-AGA-------------------ACUAC--UC-UU--GAAG--GGG--
+CTL2C_260    -U-U-----------------------UCAC----AA--AGAG--AAGGC
+CTL2C_150    ---UCC-------------------AAUUAA-GG-A-----GA--UUGCC
+CTL2C_902    -U-C-----------------------U--U----GA-UUAUU--UUUGU
+CTL2C_357    ----AA-------------------A-UGA--UU-GA--C-----CUUUU
+CTL2C_835    -U-C-----------------------UCGC-AA-GG--GCUG--CCUUC
+CTL2C_717    ---UCU-------------------U-UAGC-GG-A---------CUUUU
+CTL2C_493    -U-CCU-------------------G-UAG--UG-GA--GGAA--GAUUC
+CTL2C_184    -U-CAU-------------------U-U----AU-AG--AACC--CCUCU
+CTL2C_484    -U-UUGUU--------------UUUU-UAA--CA-AA--AAAA--CGGCU
+CTL2C_849    ---CUC-------------------U-U--C-GA-G-----UC--UUCCC
+CTL2C_212    -U-------------------------UACA-----G--AGCA--UGGCC
+CTL2C_72     -C-UCU-------------------GAU--G-GG-AG--AUUA--GGGAU
+CTL2C_670    -UCAGC-------------------G-UAA--GC--A--AGCU--UGACU
+CTL2C_819    -U-GAA-------------------U-U----UU-CA--ACUC--UCUUU
+CTL2C_787    ---GGA-------------------AA-CAU-UC-C---------CUUCU
+CTL2C_583    ---C---------------------AG-GUA-AA-G---------CGCCG
+CTL2C_155    -U-CUU-------------------U-U--U-UG-GA--GGGA--GUUCU
+CTL2C_739    -C-UGC-------------------AC-CGU-GC-AG--AGGG--GGGUG
+CTL2C_588    -U-CUU------------------CAA-AAA-GA-GG--GCCU--UCUAU
+CTL2C_71     -C-UCC-------------------CAU--C-AG-AG--AUUA--GGGAU
+CTL2C_420    ---UAA-------------------UC-CUC-UU-A-----UU--CCGAG
+CTL2C_249    ---AUG-------------------AGU----CA-U-----AA--CCCCC
+CTL2C_629    -C-U-----------------------UAAU----UG--GAGA--UUGCC
+CTL2C_524    ---C-----------------------U-------G-----CUUACGGUU
+CTL2C_338    ---GGU-------------------AC-AU--AU-C-----UG--CGAGC
+CTL2C_138    ---GGC-------------------A-UUAC-GC-C---------CCUUC
+CTL2C_518    ---CGC-------------------UUU--U-GC-G---------AGGCU
+CTL2C_696    -U-UCU-------------------CC-AU--GG-AG--ACCU--UCCUU
+CTL2C_566    ---GCU-------------------GA-AA--AG-C---------CUUGC
+CTL2C_320    -U-UUU-------------------UC---A-AA-GA--GAAU--CAGUU
+CTL2C_878    -------------------------U-U--C-UA--------A--GCGUU
+CTL2C_125    ---AGA-------------------UAUGUA-CC-U-----GC--GAGCU
+CTL2C_495    -A-GAG-------------------AAGGGC-CU-CU--AAGA--CUUUU
+CTL2C_352    ---AGG-------------------GA-GA--CC-U---------CCUCU
+CTL2C_263    -C-U-----------------------UCA-----AA--AGGC--UGGCC
+CTL2C_175    ---UUU-------------------UA-AUA-AA-A---------GGGUU
+CTL2C_329    -U-CAGAUUAUACAUCCCAUCUUGGUAUAAU-CU-UG--AAGA--GGGCU
+CTL2C_714    ---AAG-------------------AA-AAA-CU-U-----CU--UUUCC
+CTL2C_561    ---GGC-------------------GA-AC--AC-C---------CCGCU
+CTL2C_856    ---U-----------------------UAA-----G---------UUUUU
+CTL2C_762    -G-CUU-------------------GCU--U-UA-GU--UAAG--CGGUU
+CTL2C_564    ---C-----------------------UCCG----G---------CCCCC
+CTL2C_27     ---AGA-------------------U-U--C-UC-U-----CC--CUUAA
+CTL2C_656    ---GGA-------------------GA-GCA-UC-C-----UU--CUCCU
+CTL2C_894    ---CCC-------------------GCUAAU-GG-G-----AG--GUUCU
+CTL2C_797    -U-U-----------------------UAGA----AG--AGA--------
+CTL2C_453    -A-GCU-------------------G-UAA--GG-CU--CAGA--GAACC
+CTL2C_603    ---GGC-------------------G-UUGU-GC-C-----CA--GGUCU
+CTL2C_859    ---A-----------------------UAAC-UU-U---------UGGUU
+CTL2C_832    -U-------------------------UAA------U--AAGA--CCUCU
+CTL2C_298    -G-UGG-------------------AAUCUC-CC-AC--AACA--GCCUU
+CTL2C_938    -U-UAC-------------------U-UAG--GU-AA--CAAG--ACUCU
+CTL2C_157    -A-CAA-------------------AG---G-UU-UU--CUUC--GGGCU
+CTL2C_864    -G-AAA-------------------GAU----UU-UCCCUCAG--CAUGC
+CTL2C_644    -C-CAC-------------------AG-AAC-GU-GG--GCGU--CUCUU
+CTL2C_927    -U-UCU-------------------AAU--C-AGCGG--AGGG--CUUUA
+CTL2C_691    -A-AAA-------------------UUUUUG-UU-UU--UAAG--CUGCU
+CTL2C_903    -U-CAG-------------------GAUUUC-CU-UU--AUGC--GAGCU
+CTL2C_882    ---AGG-------------------UUU--U-CC-U-----AU--GCACC
+CTL2C_682    -C-CUA-------------------G-UCU--UA-GG--AGCU--UUUUG
+CTL2C_539    ---A-----------------------UAAA-AA-U---------CUUUU
+CTL2C_221    -G-------------------------U--A-----C--AGAU--CCUCC
+CTL2C_599    ---CUG-------------------GGU--U-CA-G---------CCUCU
+CTL2C_540    -U-CUU-------------------UCU--A-AA-GA--UGAU--GUU--
+CTL2C_306    ---AGA-------------------AAU----UC-U---------CGGCC
+CTL2C_208    -G-------------------------U--A-----U--AGAG--CCUUU
+CTL2C_665    -U-CUU-------------------AA-AAC-AA-GA--AAGC--CUUAU
+CTL2C_229    ---AGA-------------------U-UCU--UU-U------C--UUCCC
+CTL2C_596    -U-U---------------------G-U--A-AA-GA--AGCU--CUUUU
+CTL2C_904    ---CUG-------------------AA-CC--CA-G---------CCUCU
+CTL2C_85     -G-AAA-------------------GGU--U-UU-UC--UUAG--CCUUU
+CTL2C_833    -U-GUA-------------------G-UAA--UA--A--GACC--AGGCU
+CTL2C_93     -U-GCU-------------------UAUAA------G--AUCC--CUUCC
+CTL2C_535    ---U-----------------------U--C----A-----AG--GGGCU
+CTL2C_655    -C-CAU-------------------AGUUUU-AU-GA--AGAG--GGUUC
+CTL2C_499    -G-GGA-------------------GA-----UU-CC--ACAA--CGGCC
+CTL2C_590    -U-CUU-------------------AUUAA--AA-GA--UCUC--UUUUU
+CTL2C_546    -U-AGC-------------------UGUAA--GC-UA--GUCU--CUUAG
+CTL2C_356    -U-GGG-------------------GGUUA--CU-UG-CAAGC--UUCUC
+CTL2C_522    ---A---------------------G-U--U-AA-A---------CGGAG
+CTL2C_498    UA-AGA-------------------AUU--C-UC-UU--UUCC--CGGUU
+CTL2C_802    ---GGC-------------------G-UAAU-GC-C---------CG---
+CTL2C_810    ---AGG-------------------G-U--C-UC-U---------CUUCC
+CTL2C_40     ---GGC-------------------GC-AAUUGC-C-----UG--CCUCC
+CTL2C_227    -C-GCU-------------------A-UAGA-GG-CA--UGGA--AUGGG
+CTL2C_312    -A-AAA------------------CAA-AAA-UU-UU--UAAG--CUGCU
+CTL2C_29     -U-C-----------------------UAUU-AA-GA--AUC--------
+CTL2C_146    -C-CCC-------------------GG-AUA-GG-AG--AAGG--GGGGC
+CTL2C_793    -C-U---------------------GA-GA--AA-AA--AAAG-------
+CTL2C_875    -U-UAU-------------------AG-AA--GU-AA--GAGC--GUCUU
+CTL2C_839    -G-G-----------------------U--C----CU--UGGG--CUUUG
+CTL2C_942    -A-GAU-------------------GA-AAAGAU-CG--AUUG--UUCUA
+CTL2C_24     ---GCU-------------------GCUAA--AG-C-----CC--CCUUU
+CTL2C_530    ---CGG-------------------CGU----UC-U---------CUGCU
+CTL2C_890    ---GAA-------------------ACGAAC-UU-C-----AA--CGUAC
+CTL2C_502    -U-AGA-------------------G-U--U-CC-UA--AAUA--CCUCU
+CTL2C_826    -A-GAU-------------------A-UUGC-AU-CU--GAGA--GU---
+CTL2C_224    ---U-----------------------UAA--UA-G---------CCGCC
+CTL2C_53     -U-GGA-------------------UCUAAU-UC-CA--UCCA--ACAAC
+CTL2C_196    -U-UCUCUCAUCUU---GAAUGUAAGCU----AG-UA--AGGG--AGUCC
+CTL2C_41     -U-CUU-------------------UC-AA--AA-GA--AGGC--UUUUC
+#=GC SS_cons .<.<<<...................______.>>.>>..>>>>..>>>>>
+#=GC RF      .u.cgu...................aaUAAc.ac.ga..aggg..cuucu
+
+CTL2C_824    C--------------UUGUGC-A-AACA
+CTL2C_479    C--------------UUUUUGU-UGGAA
+CTL2C_672    UA--------------------AUUGAA
+CTL2C_605    C--------------UUUUUAU-UUCCA
+CTL2C_773    AG--------------------AUCAGA
+CTL2C_830    ----------------------AGAAGA
+CTL2C_358    UA--------------------AUAAUA
+CTL2C_443    U--------------UUUCUUU-UUGUC
+CTL2C_57     U--------------UCUCU--A-AAUA
+CTL2C_131    U--------------UUUUUGU-UAUCC
+CTL2C_620    UUU----------UAUUGCCUU-UUAUA
+CTL2C_386    ----------------------A-UUUA
+CTL2C_642    U--------------UUGUUCU-U----
+CTL2C_43     CU-------------UUUGUGU-UCAAA
+CTL2C_407    U--------------UUUUUCU-UAUCG
+CTL2C_371    GG--------------------A-UAGA
+CTL2C_482    UU-------------UUUCUCU-CUUAA
+CTL2C_49     UC-------------UUUUU--A-AAAG
+CTL2C_877    C--------------UUUUUUU-U----
+CTL2C_684    C--------------CUCCUGC-UCACA
+CTL2C_858    UU-------------UUUCUGUA-AUAA
+CTL2C_587    U--------------UUUUGAU-UAUAA
+CTL2C_869    ---------------UUUUUUU-UAGGA
+CTL2C_920    UU-------------UUUUUGU-UAUCU
+CTL2C_505    UA------------AUUUUUAU-UUUGA
+CTL2C_916    UA-------------GUUGUCU-GUAUA
+CTL2C_168    CAU----------UAUUUCUUU-UCACA
+CTL2C_63     UC-------------UUUUUGU-CUGGA
+CTL2C_541    CA-------------UUUUUU-AUUAAA
+CTL2C_180    UG--------------------A-AACG
+CTL2C_491    UCU-----------GUUCUCCU-UUGCU
+CTL2C_694    GU--------------------A-AAAU
+CTL2C_299    AG--------------------A-AGCU
+CTL2C_455    UAA-----------UUUUUUAU-UUAAA
+CTL2C_707    U--------------CUUUUGU-CCGGA
+CTL2C_900    C--------------AUUUUUU-UCUCA
+CTL2C_563    CC------------------GU-UAGCA
+CTL2C_852    C--------------UUUUUUU-U----
+CTL2C_238    C--------------UUUCC--A-UACA
+CTL2C_863    C--------------UU-----A-AAUA
+CTL2C_538    UGC-----------UUCUUUAU-GUGCA
+CTL2C_474    ---------------UCGGG--AUAAGA
+CTL2C_609    UU--------------------A-UGAA
+CTL2C_907    UC--------------------A-CACC
+CTL2C_113    U--------------UUUUUC-AUUGAA
+CTL2C_89     UA-------------UUUCGGC-UAACA
+CTL2C_673    U--------------UUUUUGU-UUGUU
+CTL2C_939    U---------------------AUCAUA
+CTL2C_915    ---------------CUUGC--A-CAAU
+CTL2C_945    G---------------------A-CAUA
+CTL2C_911    UU--------------------AUAAAA
+CTL2C_721    UG--------------------A-AUGC
+CTL2C_570    U--------------UUCUUCUA-AGAA
+CTL2C_951    U--------------UUUUU--AGAACA
+CTL2C_906    U--------------UCUAUU-A-AAAA
+CTL2C_51     U--------------UUUCU--A-GAGA
+CTL2C_516    U--------------UUUUUAU-UGAUC
+CTL2C_828    UU-------------UUUUUCC-UAGAA
+CTL2C_586    UU-------------UUUUU--A-GAUU
+CTL2C_521    U--------------UAUUUCU-UUAUU
+CTL2C_749    UUGCUAC---CAAGCUUCUU--A-GGAU
+CTL2C_265    U--------------GUUGUGU-UUAAA
+CTL2C_416    -U-------------UCUCU--A-AUUA
+CTL2C_236    U--------------UUUGUC-A-UACG
+CTL2C_547    UUGGCU-----UAGAUUUCGAU-UUGAU
+CTL2C_363    C--------------UUCUUUU-UUUAU
+CTL2C_178    UU-------------UUUGUGU-GUGAG
+CTL2C_177    UC--------------------A-AAGA
+CTL2C_552    U--------------UUUUUAU-CUAGA
+CTL2C_164    AG------------CUUUUUUU-UAAAA
+CTL2C_62     UUCA--------UUCUUUUUGU-UCGUU
+CTL2C_364    U--------------UUUAUCUA-CAAA
+CTL2C_279    CCUA--------AACUCUUUGU-UGCAG
+CTL2C_556    ----------------------A-CACU
+CTL2C_870    UU-------------UUUUU--A-AAUU
+CTL2C_740    UU--------------------AGAAGA
+CTL2C_13     U---------------------AUUGAA
+CTL2C_711    GUA-----------GUUUCUUU-UCUCC
+CTL2C_597    ---------------UCCGU--AUGACA
+CTL2C_260    C--------------UUUUUUU-UAUAA
+CTL2C_150    U---------------------AG----
+CTL2C_902    UA--------------------A-AAGA
+CTL2C_357    A--------------UUCUUCU-UUUUA
+CTL2C_835    U---------------------A-GGAA
+CTL2C_717    UUUC--------UGCUUUUUUC-UAAGA
+CTL2C_493    UG--------------------A-GGGA
+CTL2C_184    UU-------------UUUUUGU-GCAAA
+CTL2C_484    U--------------UUCUUAU-UUUCU
+CTL2C_849    UU--------------------A-AACA
+CTL2C_212    CU--------------------A-AAUA
+CTL2C_72     AGAA--------UGGUUGCUGU-UAGCU
+CTL2C_670    CU--------------------A-AAUU
+CTL2C_819    U--------------UUUUUCU-UAAAA
+CTL2C_787    UU--------------------A-AUUG
+CTL2C_583    UC-------------UUUGC--A-GGCU
+CTL2C_155    U--------------UUUUUUU-GUAUC
+CTL2C_739    UU-------------UUUUUUUAUAGGA
+CTL2C_588    GAA-----------AUUUUUCU-GUAAA
+CTL2C_71     UU-------------UUUUUAU-UAGCU
+CTL2C_420    UC--------------------AUGACA
+CTL2C_249    UUGAAUA--GUAUCGUUUUUUU-UGGUA
+CTL2C_629    U--------------UUUCUAU-UUAGA
+CTL2C_524    U--------------UUUGU--A-ACAA
+CTL2C_338    U--------------UUUUUUUA-AUUA
+CTL2C_138    U--------------UC-----A-AGAA
+CTL2C_518    UU-------------UUUUUC-A-UAAA
+CTL2C_696    U---------------------A-AAUU
+CTL2C_566    C--------------UUUGGGU-GUGUA
+CTL2C_320    CU---------------------U----
+CTL2C_878    UA--------------------AUAGAA
+CTL2C_125    UC--------------------A-AGGA
+CTL2C_495    C--------------UC-----A-AGCU
+CTL2C_352    U--------------UUUUUUUA-UUUU
+CTL2C_263    U--------------UU-----A-CGAU
+CTL2C_175    C--------------UCUGCCUA-UUCU
+CTL2C_329    U--------------UCUUUUU-UGAAU
+CTL2C_714    UUG-----------AUU-----A-GAAU
+CTL2C_561    U--------------UUUUUGU-UUUAA
+CTL2C_856    UC--------------------AUGGUA
+CTL2C_762    CC-------------UUUUU--AUCAAA
+CTL2C_564    UU--------------------A-UCCU
+CTL2C_27     C--------------UC-----A-AAUA
+CTL2C_656    UUCACCUAUUGGUAUUUUUU--AUAGGA
+CTL2C_894    C--------------UUUUCGU-UGAUU
+CTL2C_797    ---------------UUUCUUU-UCAGU
+CTL2C_453    U--------------UCUCUCU-UAUUC
+CTL2C_603    U---------------------G-UGAA
+CTL2C_859    UU--------------------AUUUAA
+CTL2C_832    U--------------UUUUUGC-UCAAU
+CTL2C_298    UU------------CUUUUUCU-GUCGA
+CTL2C_938    U--------------CUUCUUU-UUUCU
+CTL2C_157    U--------------UUUUC--A-CUAU
+CTL2C_864    GUGUA------UCUAUCCCUG-A-CACA
+CTL2C_644    U--------------UUUUU--A-UGCU
+CTL2C_927    U---------------------A-UAAU
+CTL2C_691    U--------------UCCCUC-A-CGAU
+CTL2C_903    U--------------UCUGU--A-AACA
+CTL2C_882    CA--------------------A-AUAA
+CTL2C_682    CA--------------------A-UGCA
+CTL2C_539    A--------------UU-----A-GAAA
+CTL2C_221    C--------------UCCCUAU-UAGAA
+CTL2C_599    CU-------------UUUCUCU-UCCAU
+CTL2C_540    ----------------------A-CACA
+CTL2C_306    UU--------------------A-ACAU
+CTL2C_208    U--------------UUUUGGU-UAGGA
+CTL2C_665    UCCUAA----UGCUGUUCCUUC-UGGAA
+CTL2C_229    CACC---------UCUUUUUUU-UAUUU
+CTL2C_596    C--------------UUUCU--A-AGAC
+CTL2C_904    CU--------------------A-CGAA
+CTL2C_85     UU------------UAUUGUCU-UGUAA
+CTL2C_833    A--------------UUUUUUU-UGGAU
+CTL2C_93     CCCC--------CCCUUUGCUU-GAGGA
+CTL2C_535    CA--------------------A-CACA
+CTL2C_655    U--------------UCUCUUU-UAUGC
+CTL2C_499    C--------------UUCCU--A-ACCA
+CTL2C_590    U--------------UUGCUCU-UAAGG
+CTL2C_546    GACA---------UCUUUUUCU-UCCAA
+CTL2C_356    U--------------UUUCGUU-UAGCU
+CTL2C_522    C--------------CUUCU--A-GCUA
+CTL2C_498    U--------------UUUGUAU-UUAUU
+CTL2C_802    -UA-----------AUUCUUUU-UCUGU
+CTL2C_810    U--------------UUUGUGU-UUAAG
+CTL2C_40     UACCUC-----UAGUCUUCU--AUAAAA
+CTL2C_227    G---------------------A-GGAA
+CTL2C_312    UU------------AUUUGUCUA-ACUA
+CTL2C_29     ---------------UUUU---A-GAAA
+CTL2C_146    U--------------UUUGUAU-UUUCC
+CTL2C_793    ---------------UUUUUUU-UCAGA
+CTL2C_875    U--------------UUUGCGCA-GGAU
+CTL2C_839    CU-------------UCCUUGUA-AUAA
+CTL2C_942    C---------------------A-AAAA
+CTL2C_24     UU--------------------A-GUUA
+CTL2C_530    C--------------UGUGUUUA-GGAG
+CTL2C_890    U--------------UUUUUC-A-GCAA
+CTL2C_502    U--------------UUUU---AUGGGU
+CTL2C_826    -U--------------------A-GGGG
+CTL2C_224    U--------------UUGCU--A-GGGU
+CTL2C_53     GAAU--------GCGUUUUUGU-GAGUA
+CTL2C_196    CU-------------UUAGUGU-UUAAA
+CTL2C_41     UA-------------UUUUU--A-GGAA
+#=GC SS_cons >:.............:::::::::::::
+#=GC RF      UU.............UUUUUuUAUaaaA
+//

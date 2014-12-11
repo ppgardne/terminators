@@ -1,0 +1,480 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU CMfinder 0.2.1
+
+#=GS RBE_1101 WT 0.85
+#=GS RBE_0310 WT 0.43
+#=GS RBE_1015 WT 0.57
+#=GS RBE_0120 WT 1.17
+#=GS RBE_1135 WT 1.17
+#=GS RBE_0739 WT 0.97
+#=GS RBE_0394 WT 0.72
+#=GS RBE_0096 WT 0.49
+#=GS RBE_0165 WT 0.86
+#=GS RBE_0258 WT 1.46
+#=GS RBE_0852 WT 1.38
+#=GS RBE_0861 WT 1.07
+#=GS RBE_0063 WT 2.05
+#=GS RBE_1234 WT 0.32
+#=GS RBE_1108 WT 1.28
+#=GS RBE_0731 WT 2.54
+#=GS RBE_0267 WT 0.38
+#=GS RBE_0320 WT 0.94
+#=GS RBE_1170 WT 0.42
+#=GS RBE_1109 WT 1.28
+#=GS RBE_1325 WT 1.46
+#=GS RBE_0092 WT 0.85
+#=GS RBE_1011 WT 0.38
+#=GS RBE_1022 WT 0.45
+#=GS RBE_0730 WT 1.80
+#=GS RBE_1324 WT 1.22
+#=GS RBE_0135 WT 0.64
+#=GS RBE_0710 WT 1.46
+#=GS RBE_0467 WT 0.32
+#=GS RBE_0580 WT 1.11
+#=GS RBE_0788 WT 0.57
+#=GS RBE_0532 WT 0.66
+#=GS RBE_1423 WT 0.72
+#=GS RBE_0344 WT 0.69
+#=GS RBE_0773 WT 1.06
+#=GS RBE_0393 WT 0.66
+#=GS RBE_1184 WT 0.43
+#=GS RBE_0542 WT 0.88
+#=GS RBE_0027 WT 1.41
+#=GS RBE_0964 WT 0.94
+#=GS RBE_0642 WT 1.47
+#=GS RBE_0721 WT 1.07
+#=GS RBE_0176 WT 0.85
+#=GS RBE_0996 WT 0.74
+#=GS RBE_0715 WT 1.07
+#=GS RBE_0179 WT 1.46
+#=GS RBE_0171 WT 1.81
+#=GS RBE_0311 WT 1.17
+#=GS RBE_1261 WT 0.47
+#=GS RBE_0342 WT 2.16
+#=GS RBE_0015 WT 0.55
+#=GS RBE_1424 WT 0.90
+#=GS RBE_0871 WT 0.79
+#=GS RBE_0229 WT 1.02
+#=GS RBE_1304 WT 1.87
+#=GS RBE_0807 WT 2.54
+#=GS RBE_0641 WT 1.47
+#=GS RBE_1228 WT 0.42
+#=GS RBE_1172 WT 0.69
+#=GS RBE_0948 WT 0.74
+#=GS RBE_0531 WT 0.76
+#=GS RBE_0276 WT 0.43
+#=GS RBE_1024 WT 0.77
+#=GS RBE_1333 WT 0.52
+#=GS RBE_0178 WT 1.13
+#=GS RBE_1407 WT 2.54
+#=GS RBE_1305 WT 0.43
+#=GS RBE_0161 WT 0.66
+#=GS RBE_0535 WT 0.79
+#=GS RBE_0056 WT 1.41
+#=GS RBE_0822 WT 1.47
+#=GS RBE_1405 WT 0.47
+#=GS RBE_0101 WT 1.50
+#=GS RBE_1307 WT 0.45
+#=GS RBE_0090 WT 1.17
+#=GS RBE_0306 WT 0.77
+#=GS RBE_1012 WT 0.42
+#=GS RBE_0062 WT 1.02
+
+#=GS RBE_1101 DE 1.. 40	45.390167
+#=GS RBE_0310 DE 30.. 74	53.755386
+#=GS RBE_1015 DE 13.. 57	58.191383
+#=GS RBE_0120 DE 71.. 96	24.299263
+#=GS RBE_1135 DE 25.. 67	21.765141
+#=GS RBE_0739 DE 34.. 71	47.274925
+#=GS RBE_0394 DE 47.. 85	40.038391
+#=GS RBE_0096 DE 43.. 84	63.444107
+#=GS RBE_0165 DE 20.. 62	48.292770
+#=GS RBE_0258 DE 43.. 74	26.782204
+#=GS RBE_0852 DE 25.. 63	41.527706
+#=GS RBE_0861 DE 26.. 57	41.056927
+#=GS RBE_0063 DE 23.. 60	1.399267
+#=GS RBE_1234 DE 54.. 93	59.144951
+#=GS RBE_1108 DE 24.. 53	15.509071
+#=GS RBE_0731 DE 36.. 63	6.520264
+#=GS RBE_0267 DE 16.. 59	51.811878
+#=GS RBE_0320 DE 37.. 75	37.131344
+#=GS RBE_1170 DE 44.. 86	63.724785
+#=GS RBE_1109 DE 30.. 60	18.316965
+#=GS RBE_1325 DE 58.. 88	29.076538
+#=GS RBE_0092 DE 1.. 39	45.762215
+#=GS RBE_1011 DE 44.. 85	52.373859
+#=GS RBE_1022 DE 21.. 64	60.547928
+#=GS RBE_0730 DE 74..100	3.111046
+#=GS RBE_1324 DE 23.. 61	35.169975
+#=GS RBE_0135 DE 52.. 93	54.380527
+#=GS RBE_0710 DE 19.. 61	44.106018
+#=GS RBE_0467 DE 20.. 58	58.837646
+#=GS RBE_0580 DE 71..100	23.495186
+#=GS RBE_0788 DE 64.. 96	49.738800
+#=GS RBE_0532 DE 25.. 67	58.630501
+#=GS RBE_1423 DE 35.. 73	37.419502
+#=GS RBE_0344 DE 25.. 64	44.119656
+#=GS RBE_0773 DE 69..100	38.302578
+#=GS RBE_0393 DE 55.. 94	41.314629
+#=GS RBE_1184 DE 29.. 67	60.016907
+#=GS RBE_0542 DE 55.. 94	42.090569
+#=GS RBE_0027 DE 51.. 92	40.261585
+#=GS RBE_0964 DE 31.. 70	42.079079
+#=GS RBE_0642 DE 22.. 47	22.594284
+#=GS RBE_0721 DE 49.. 93	36.100067
+#=GS RBE_0176 DE 61..100	53.683899
+#=GS RBE_0996 DE 41.. 80	31.646793
+#=GS RBE_0715 DE 21.. 59	42.699558
+#=GS RBE_0179 DE 31.. 62	28.733765
+#=GS RBE_0171 DE 25.. 56	38.076820
+#=GS RBE_0311 DE 37.. 78	36.206589
+#=GS RBE_1261 DE 61.. 99	46.183643
+#=GS RBE_0342 DE 14.. 56	31.182819
+#=GS RBE_0015 DE 54.. 95	62.461552
+#=GS RBE_1424 DE 21.. 59	47.542439
+#=GS RBE_0871 DE 68..100	45.981594
+#=GS RBE_0229 DE 35.. 77	52.022495
+#=GS RBE_1304 DE 54.. 75	19.768494
+#=GS RBE_0807 DE 21.. 48	1.688127
+#=GS RBE_0641 DE 26.. 56	20.650595
+#=GS RBE_1228 DE 20.. 64	58.870934
+#=GS RBE_1172 DE 14.. 53	46.639874
+#=GS RBE_0948 DE 3.. 27	19.540903
+#=GS RBE_0531 DE 38.. 79	53.866508
+#=GS RBE_0276 DE 20.. 58	58.613903
+#=GS RBE_1024 DE 67.. 97	41.961346
+#=GS RBE_1333 DE 31.. 71	59.752220
+#=GS RBE_0178 DE 40.. 78	44.125317
+#=GS RBE_1407 DE 49.. 83	14.069487
+#=GS RBE_1305 DE 70..100	36.877281
+#=GS RBE_0161 DE 64.. 99	35.133183
+#=GS RBE_0535 DE 16.. 57	51.226688
+#=GS RBE_0056 DE 22.. 64	21.174465
+#=GS RBE_0822 DE 42.. 84	19.663765
+#=GS RBE_1405 DE 55.. 97	57.365913
+#=GS RBE_0101 DE 65.. 95	22.450155
+#=GS RBE_1307 DE 1.. 38	52.136913
+#=GS RBE_0090 DE 1.. 30	35.831146
+#=GS RBE_0306 DE 1.. 38	41.201500
+#=GS RBE_1012 DE 21.. 56	51.256683
+#=GS RBE_0062 DE 25.. 68	34.377647
+
+RBE_1101         UU-------UG-UCAUCCC-GUGGCUU-GACC-ACGGGAUGACAA-AGAG
+#=GR RBE_1101 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0310         CCCA-CUCCUG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG-UUAA
+#=GR RBE_0310 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1015         GGUA-CUAGUG-UCAUCCC-GUGGCUU-GACC-ACGGGAUCUCAG--GAA
+#=GR RBE_1015 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0120         UUU-----------AUCCC-GUAAUUU-AAUU-ACGGGAU----------
+#=GR RBE_0120 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1135         CCUU-----UG-UCAUCCUAGCUAACUUGAUC-GCGGGAUCUCAG--UAU
+#=GR RBE_1135 SS ..............<<<<<.<<-<......>-.>>>>>>>..........
+RBE_0739         GU-------UG-UCACCCC-GUGAUUU-AUUC-ACGGGGUU-CAG--GAA
+#=GR RBE_0739 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0394         UUU--UU-AUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAG--UAA
+#=GR RBE_0394 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0096         UUU--CG-GUG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG--AAA
+#=GR RBE_0096 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0165         AGU--AU-AUG-UCAUUCC-GUGAUUU-AUUC-ACGGAAUC-CAG-UUAA
+#=GR RBE_0165 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0258         UUUAACUGG-----ACCCC-GUGAUCA-AGUC-ACGGGGU----------
+#=GR RBE_0258 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0852         UC-------UG-UCAUACU-GCGGCUU-GACC-GCAGUAUCUCAG--GAC
+#=GR RBE_0852 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0861         GCU--CC--UG-UCAUCCC-GUGGUCA-AGCC-ACGGGAU----------
+#=GR RBE_0861 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0063         UGC--CA-C-----AUGCC-GUGGCUU-GGGA-ACUAGAUC-CAG--AAA
+#=GR RBE_0063 SS ..............<<---.<<--......--.>>--->>..........
+RBE_1234         GCC------UG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG-UAAU
+#=GR RBE_1234 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1108         UAU--CA-AUA-UCAUUCC--UGUGAA-A-AC-A-GGAAU----------
+#=GR RBE_1108 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0731         AUUA-CUAG-----AUUUU--UGCCUA-C-GC-A-AGAAU----------
+#=GR RBE_0731 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0267         UGUA-AC-CUG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG-UUAA
+#=GR RBE_0267 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0320         UCU--AU-AUG-UCAUUCC--UGCGGA-A-GC-A-GGAAUC-UAG--GAA
+#=GR RBE_0320 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_1170         GUUA-CA-GUG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG--AAA
+#=GR RBE_1170 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1109         GUU--CAUAUA-UCAUUCC--UGUUUU-C-AC-A-GGAAU----------
+#=GR RBE_1109 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_1325         UGU--CCAAUG-UCAUUCC--UGCUUU-C-GC-A-GGAAU----------
+#=GR RBE_1325 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0092         AU-------UG-UCAUCCC-GUGGCUU-GACC-ACGGGAUGACAU--CGA
+#=GR RBE_0092 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1011         UGU--AU--UG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG-UUAA
+#=GR RBE_1011 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1022         UAUA-CA-CUG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG-UAAA
+#=GR RBE_1022 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0730         GCUC-CU-AUA-UCAUUCU--UGCGUA-G-GC-A-A--------------
+#=GR RBE_0730 SS ..................<..<<<......>>.>.>..............
+RBE_1324         CGC--CA-AUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAG--CAU
+#=GR RBE_1324 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0135         CUC--CC-CUG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG--CUA
+#=GR RBE_0135 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0710         GAU--GU-GUG-UCAUCCC-GUGGCCC-CGCC-ACGGGAUCUUAG--GAU
+#=GR RBE_0710 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0467         GC-------UG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG-UAAU
+#=GR RBE_0467 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0580         UCUU-CC--UG-UCAUCCU-GUGAUUU-AUUC-ACAG-------------
+#=GR RBE_0580 SS .................<<.<<<<......>>.>>>>.............
+RBE_0788         CGU--CU-CUG-UCAUCCC-GUGGCUU-GACC-ACGGGAU----------
+#=GR RBE_0788 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0532         CUU--CU-AUC-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG-UAAA
+#=GR RBE_0532 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1423         UUU--UU-GUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAU--CAU
+#=GR RBE_1423 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0344         GCU--UUAAUG-UCAUUCC--CGCAUA-G-GC-G-GGAAUC-CAG--CAU
+#=GR RBE_0344 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0773         UUUA-GU--UG-UCAUGCC-GUGGCUU-GACC-ACGGCA-----------
+#=GR RBE_0773 SS ...............<<<<.<<<<......>>.>>>>>>...........
+RBE_0393         GCUU-UU-AUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAG--CAU
+#=GR RBE_0393 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_1184         ACU------UG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG--CAU
+#=GR RBE_1184 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0542         AUUA-CG-AUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAG--AAA
+#=GR RBE_0542 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0027         UCU--CG-GUG-UCAUCUA-GUUGCUU-GUCU-ACGGGAUC-UAG--AAA
+#=GR RBE_0027 SS ..............<<<<-.<<-<......>-.>>->>>>..........
+RBE_0964         UCUU-GU-AUG-UCAUUCC--CGCAAA-A-GC-G-GGAAUC-CAG--GAA
+#=GR RBE_0964 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0642         GUU-----------AUGCC-AUGACUU-AAUC-AUGGCAU----------
+#=GR RBE_0642 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0721         GCUU-CG-AUG-UCAUCCC-GUGGACA-AGUC-GCGGGAUGACAA-UAAU
+#=GR RBE_0721 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0176         CCU------UG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG-UCGU
+#=GR RBE_0176 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0996         AAU--AU-AUG-UCAUUCC--CGCAAA-A-GC-G-GGAAUC-CAG-UCAA
+#=GR RBE_0996 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0715         UGU--AG-GUG-UCAUUCC--CGCAUA-G-GC-G-GGGAUC-CAG--CAU
+#=GR RBE_0715 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0179         GUUAGCUAG-----ACCCC-GUGAAUA-AAUC-ACGGGGU----------
+#=GR RBE_0179 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0171         GUUG-----UG-UCACCCC-GCAGCUU-GACU-GCGGGGUC---------
+#=GR RBE_0171 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0311         ACU--CC--UG-UCAUCCC-GUAACUU-GAUC-ACGGGAUGACAU--CUU
+#=GR RBE_0311 SS ..............<<<<<.<<-<......>-.>>>>>>>..........
+RBE_1261         UUUC-CU-UUG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG-U---
+#=GR RBE_1261 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0342         CCU--UUAAUG-UCAUACC-GCAAGCU-UGUA-GCGGUAUC-CAA--AAA
+#=GR RBE_0342 SS ..............<<<<<.<<-<......>-.>>>>>>>..........
+RBE_0015         UCU--CA-AUG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG--AAA
+#=GR RBE_0015 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1424         GUC--CU-AUG-UCAUUCC--CGCAUA-G-GC-G-GGAAUC-CAG--AAA
+#=GR RBE_1424 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0871         UCUU-CG-GUG-UCAUCCC-GUGGCUU-GUCC-ACGGGA-----------
+#=GR RBE_0871 SS ...............<<<<.<<<<......>>.>>>>>>...........
+RBE_0229         CAC--CU-AUG-UCACCCC-GUGACUU-GACC-ACGGGGUC-CAG-UUAA
+#=GR RBE_0229 SS ..............<<<<<.<<<-......->.>>>>>>>..........
+RBE_1304         GG------------AUCCC--CGCUUU-U-GC-G-GGGAU----------
+#=GR RBE_1304 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0807         GUU--CG--AG-UCUUCUA--GGGCUU-G-CC-C-UAGA-----------
+#=GR RBE_0807 SS ...............<<<<..<<<......>>.>.>>>>...........
+RBE_0641         UGUA-CUAA-----AUGCC-AUGAUUA-AGUC-AUGGCAU----------
+#=GR RBE_0641 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1228         GGUA-AUAAUG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG-UAAU
+#=GR RBE_1228 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1172         GCC--UUAAUG-UCAUCCC--CGCAUA-G-GC-G-GGGAUC-CAG--CAU
+#=GR RBE_1172 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0948         AA-------UG-UCAUUCC--CGCAUA-G-GC-G-GGAA-----------
+#=GR RBE_0948 SS ...............<<<<..<<<......>>.>.>>>>...........
+RBE_0531         UUUAA----CG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG-UGAA
+#=GR RBE_0531 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0276         ACU------UG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-CAG--UAA
+#=GR RBE_0276 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1024         UAU------UG-UCAUCCC-GUGACUU-GAUC-ACGGGAUC---------
+#=GR RBE_1024 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1333         UUU--CA--UG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG--UAU
+#=GR RBE_1333 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0178         UAU------UG-UCACCCC-GUGAUUU-AUUC-ACGGGGUC-UAG--CUA
+#=GR RBE_0178 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1407         GGUA-CU-CGGAUCCUCAC-GUAGGUU-UACU-ACGUGAG----------
+#=GR RBE_1407 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1305         ACC--CU--UG-UCAUCCC-GUGAUUU-AUUC-ACGGGA-----------
+#=GR RBE_1305 SS ...............<<<<.<<<<......>>.>>>>>>...........
+RBE_0161         GCU--CUGAUG-UCAUUCC--UGCGAA-A-GC-A-GGAAUC-CAG-U---
+#=GR RBE_0161 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_0535         UUU--AG-CUG-UCAUCCC-GUGGCUU-GUCC-ACGGGAUC-UAG--UAA
+#=GR RBE_0535 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0056         UCUA-AA-CUG-UUAUCUA-GUUGCUU-GACC-AUGAUAUC-CAG--AAA
+#=GR RBE_0056 SS ..............<<-<-.<<-<......>-.>>->->>..........
+RBE_0822         ACUA-AU-AUG-UCAUUCC--UGCCAU-U-GCUG-GGAAUGACAU-UAAA
+#=GR RBE_0822 SS ..............<<<<<..<<<......>>.>.>>>>>..........
+RBE_1405         UUU--CU-CUG-UCAUCCC-GUGAUUU-AUUC-ACGGGAUC-CAG-UUAA
+#=GR RBE_1405 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0101         AGUA-CUGG-----AUCCC-GUGGACA-AGCC-ACGAGAU----------
+#=GR RBE_0101 SS ..............<<<-<.<<<<......>>.>>>->>>..........
+RBE_1307         UA-------UG-UCAUACC-GUGGCUU-GACC-ACGGUAUC-CAG--AAA
+#=GR RBE_1307 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0090         UG-------UG-UCAUCCU-GCGACUU-GAUC-GCGGGAUC---------
+#=GR RBE_0090 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0306         UA-------UG-UCAUGCC-GUGACUU-GAUC-ACGGCAUC-UAA--UAA
+#=GR RBE_0306 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_1012         GUUC-----UG-UCAUCCC-GUGGCUU-GACC-ACGGGAUC-CAG-U---
+#=GR RBE_1012 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+RBE_0062         CCUA-CU--UG-UCAUUCC-GUGAUUU-AUUC-AUGGGAUU-CAGCUAGA
+#=GR RBE_0062 SS ..............<<<<<.<<<<......>>.>>>>>>>..........
+#=GC SS_cons     :::..::.:::.::<<<<<.<<<<___.__>>.>>>>>>>:.:::..:::
+#=GC RF          gcU..Cu.gUG.UCAuCCC.GcGGCUU.GaCC.gCGGGaUC.CAG..cAa
+
+RBE_1101         AA
+#=GR RBE_1101 SS ..
+RBE_0310         AA
+#=GR RBE_0310 SS ..
+RBE_1015         CA
+#=GR RBE_1015 SS ..
+RBE_0120         --
+#=GR RBE_0120 SS ..
+RBE_1135         AC
+#=GR RBE_1135 SS ..
+RBE_0739         AA
+#=GR RBE_0739 SS ..
+RBE_0394         AA
+#=GR RBE_0394 SS ..
+RBE_0096         AU
+#=GR RBE_0096 SS ..
+RBE_0165         AA
+#=GR RBE_0165 SS ..
+RBE_0258         --
+#=GR RBE_0258 SS ..
+RBE_0852         AC
+#=GR RBE_0852 SS ..
+RBE_0861         --
+#=GR RBE_0861 SS ..
+RBE_0063         AC
+#=GR RBE_0063 SS ..
+RBE_1234         AA
+#=GR RBE_1234 SS ..
+RBE_1108         --
+#=GR RBE_1108 SS ..
+RBE_0731         --
+#=GR RBE_0731 SS ..
+RBE_0267         AA
+#=GR RBE_0267 SS ..
+RBE_0320         AA
+#=GR RBE_0320 SS ..
+RBE_1170         AA
+#=GR RBE_1170 SS ..
+RBE_1109         --
+#=GR RBE_1109 SS ..
+RBE_1325         --
+#=GR RBE_1325 SS ..
+RBE_0092         AA
+#=GR RBE_0092 SS ..
+RBE_1011         AA
+#=GR RBE_1011 SS ..
+RBE_1022         AA
+#=GR RBE_1022 SS ..
+RBE_0730         --
+#=GR RBE_0730 SS ..
+RBE_1324         UU
+#=GR RBE_1324 SS ..
+RBE_0135         AA
+#=GR RBE_0135 SS ..
+RBE_0710         AC
+#=GR RBE_0710 SS ..
+RBE_0467         AA
+#=GR RBE_0467 SS ..
+RBE_0580         --
+#=GR RBE_0580 SS ..
+RBE_0788         --
+#=GR RBE_0788 SS ..
+RBE_0532         AA
+#=GR RBE_0532 SS ..
+RBE_1423         AA
+#=GR RBE_1423 SS ..
+RBE_0344         AA
+#=GR RBE_0344 SS ..
+RBE_0773         --
+#=GR RBE_0773 SS ..
+RBE_0393         AA
+#=GR RBE_0393 SS ..
+RBE_1184         AA
+#=GR RBE_1184 SS ..
+RBE_0542         AA
+#=GR RBE_0542 SS ..
+RBE_0027         AA
+#=GR RBE_0027 SS ..
+RBE_0964         AA
+#=GR RBE_0964 SS ..
+RBE_0642         --
+#=GR RBE_0642 SS ..
+RBE_0721         AA
+#=GR RBE_0721 SS ..
+RBE_0176         UA
+#=GR RBE_0176 SS ..
+RBE_0996         UU
+#=GR RBE_0996 SS ..
+RBE_0715         AA
+#=GR RBE_0715 SS ..
+RBE_0179         --
+#=GR RBE_0179 SS ..
+RBE_0171         --
+#=GR RBE_0171 SS ..
+RBE_0311         AU
+#=GR RBE_0311 SS ..
+RBE_1261         --
+#=GR RBE_1261 SS ..
+RBE_0342         AA
+#=GR RBE_0342 SS ..
+RBE_0015         AU
+#=GR RBE_0015 SS ..
+RBE_1424         AA
+#=GR RBE_1424 SS ..
+RBE_0871         --
+#=GR RBE_0871 SS ..
+RBE_0229         AA
+#=GR RBE_0229 SS ..
+RBE_1304         --
+#=GR RBE_1304 SS ..
+RBE_0807         --
+#=GR RBE_0807 SS ..
+RBE_0641         --
+#=GR RBE_0641 SS ..
+RBE_1228         AA
+#=GR RBE_1228 SS ..
+RBE_1172         AA
+#=GR RBE_1172 SS ..
+RBE_0948         --
+#=GR RBE_0948 SS ..
+RBE_0531         AA
+#=GR RBE_0531 SS ..
+RBE_0276         AA
+#=GR RBE_0276 SS ..
+RBE_1024         --
+#=GR RBE_1024 SS ..
+RBE_1333         AA
+#=GR RBE_1333 SS ..
+RBE_0178         AC
+#=GR RBE_0178 SS ..
+RBE_1407         --
+#=GR RBE_1407 SS ..
+RBE_1305         --
+#=GR RBE_1305 SS ..
+RBE_0161         --
+#=GR RBE_0161 SS ..
+RBE_0535         UC
+#=GR RBE_0535 SS ..
+RBE_0056         AA
+#=GR RBE_0056 SS ..
+RBE_0822         AA
+#=GR RBE_0822 SS ..
+RBE_1405         AA
+#=GR RBE_1405 SS ..
+RBE_0101         --
+#=GR RBE_0101 SS ..
+RBE_1307         AA
+#=GR RBE_1307 SS ..
+RBE_0090         --
+#=GR RBE_0090 SS ..
+RBE_0306         AA
+#=GR RBE_0306 SS ..
+RBE_1012         --
+#=GR RBE_1012 SS ..
+RBE_0062         AA
+#=GR RBE_0062 SS ..
+#=GC SS_cons     ::
+#=GC RF          AA
+//

@@ -1,0 +1,1602 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS stu1551 WT 1.09
+#=GS stu1947 WT 1.13
+#=GS stu0202 WT 0.93
+#=GS stu0312 WT 0.78
+#=GS stu2021 WT 1.07
+#=GS stu1961 WT 0.85
+#=GS stu0869 WT 1.19
+#=GS stu1261 WT 0.93
+#=GS stu1663 WT 1.14
+#=GS stu1174 WT 1.08
+#=GS stu1281 WT 0.88
+#=GS stu1553 WT 1.07
+#=GS stu1819 WT 0.80
+#=GS stu1271 WT 0.94
+#=GS stu1885 WT 1.17
+#=GS stu0515 WT 1.10
+#=GS stu0670 WT 0.86
+#=GS stu1196 WT 1.06
+#=GS stu1438 WT 1.07
+#=GS stu1893 WT 1.01
+#=GS stu1519 WT 0.94
+#=GS stu1123 WT 1.25
+#=GS stu0334 WT 0.91
+#=GS stu0915 WT 1.10
+#=GS stu2018 WT 0.76
+#=GS stu0110 WT 1.13
+#=GS stu0855 WT 0.90
+#=GS stu0840 WT 1.03
+#=GS stu1164 WT 0.95
+#=GS stu0674 WT 0.78
+#=GS stu0264 WT 0.83
+#=GS stu1756 WT 0.99
+#=GS stu1208 WT 0.84
+#=GS stu2016 WT 1.01
+#=GS stu1894 WT 1.36
+#=GS stu0154 WT 0.97
+#=GS stu1165 WT 0.91
+#=GS stu1958 WT 0.78
+#=GS stu0356 WT 0.96
+#=GS stu1583 WT 1.02
+#=GS stu2017 WT 0.76
+#=GS stu1766 WT 1.05
+#=GS stu0838 WT 1.06
+#=GS stu0665 WT 0.89
+#=GS stu1503 WT 0.90
+#=GS stu1406 WT 0.91
+#=GS stu1729 WT 1.26
+#=GS stu1437 WT 1.05
+#=GS stu1384 WT 0.82
+#=GS stu1921 WT 1.42
+#=GS stu0397 WT 0.91
+#=GS stu0335 WT 0.91
+#=GS stu0094 WT 0.82
+#=GS stu1852 WT 0.97
+#=GS stu1535 WT 0.68
+#=GS stu1573 WT 1.14
+#=GS stu1808 WT 0.96
+#=GS stu0253 WT 1.00
+#=GS stu1604 WT 1.10
+#=GS stu1598 WT 0.94
+#=GS stu1804 WT 0.88
+#=GS stu0263 WT 0.94
+#=GS stu1637 WT 0.96
+#=GS stu1878 WT 0.97
+#=GS stu1445 WT 0.47
+#=GS stu1089 WT 0.95
+#=GS stu1853 WT 0.89
+#=GS stu0158 WT 0.97
+#=GS stu0080 WT 0.99
+#=GS stu0374 WT 0.86
+#=GS stu1899 WT 0.82
+#=GS stu0290 WT 1.08
+#=GS stu0508 WT 1.02
+#=GS stu0390 WT 0.91
+#=GS stu1700 WT 0.90
+#=GS stu1797 WT 1.19
+#=GS stu1504 WT 1.36
+#=GS stu1571 WT 1.08
+#=GS stu1128 WT 0.91
+#=GS stu1455 WT 1.50
+#=GS stu0074 WT 0.96
+#=GS stu0355 WT 1.03
+#=GS stu1155 WT 0.99
+#=GS stu0669 WT 0.93
+#=GS stu1511 WT 1.08
+#=GS stu1993 WT 0.94
+#=GS stu1464 WT 1.05
+#=GS stu1794 WT 1.08
+#=GS stu0592 WT 0.82
+#=GS stu1611 WT 1.27
+#=GS stu2022 WT 1.08
+#=GS stu1970 WT 1.24
+#=GS stu1962 WT 1.12
+#=GS stu1673 WT 0.91
+#=GS stu1569 WT 1.09
+#=GS stu1191 WT 0.88
+#=GS stu0701 WT 1.01
+#=GS stu1605 WT 1.11
+#=GS stu0604 WT 0.91
+#=GS stu0228 WT 1.17
+#=GS stu1462 WT 1.11
+#=GS stu1199 WT 0.94
+#=GS stu0788 WT 1.17
+#=GS stu1788 WT 1.02
+#=GS stu1432 WT 1.17
+#=GS stu0997 WT 1.14
+#=GS stu0187 WT 0.84
+#=GS stu0097 WT 1.10
+#=GS stu0679 WT 1.06
+#=GS stu0649 WT 1.08
+#=GS stu1654 WT 0.98
+#=GS stu1264 WT 0.96
+#=GS stu1502 WT 0.88
+#=GS stu1820 WT 1.06
+#=GS stu0064 WT 1.04
+#=GS stu1113 WT 0.91
+#=GS stu1229 WT 1.02
+#=GS stu1239 WT 0.91
+#=GS stu1699 WT 0.68
+#=GS stu0678 WT 1.08
+#=GS stu0344 WT 1.07
+#=GS stu0047 WT 0.83
+#=GS stu1774 WT 0.92
+#=GS stu1012 WT 0.89
+#=GS stu0022 WT 0.56
+#=GS stu1552 WT 0.85
+#=GS stu0393 WT 0.73
+#=GS stu0125 WT 0.47
+#=GS stu1400 WT 1.10
+#=GS stu0983 WT 0.78
+#=GS stu1232 WT 1.26
+#=GS stu1936 WT 1.02
+#=GS stu0442 WT 0.56
+#=GS stu1857 WT 0.80
+#=GS stu0677 WT 1.04
+#=GS stu0045 WT 1.00
+#=GS stu1647 WT 1.27
+#=GS stu1695 WT 1.05
+#=GS stu0283 WT 1.11
+#=GS stu1360 WT 1.02
+#=GS stu0582 WT 0.93
+#=GS stu0073 WT 1.05
+#=GS stu0157 WT 0.92
+#=GS stu0891 WT 0.89
+#=GS stu1087 WT 1.12
+#=GS stu1007 WT 1.02
+#=GS stu1975 WT 0.91
+#=GS stu0377 WT 0.93
+#=GS stu1132 WT 1.00
+#=GS stu0050 WT 1.00
+#=GS stu1045 WT 0.71
+#=GS stu0134 WT 0.94
+#=GS stu0477 WT 0.95
+#=GS stu1668 WT 1.28
+#=GS stu1179 WT 1.11
+#=GS stu1848 WT 0.81
+#=GS stu0407 WT 0.83
+#=GS stu0613 WT 0.95
+#=GS stu0366 WT 1.17
+#=GS stu0373 WT 0.86
+#=GS stu0868 WT 0.96
+#=GS stu0062 WT 0.95
+#=GS stu1916 WT 1.06
+#=GS stu0812 WT 1.10
+#=GS stu0488 WT 0.91
+#=GS stu2024 WT 1.02
+#=GS stu0394 WT 0.73
+#=GS stu0718 WT 1.02
+#=GS stu0178 WT 0.89
+#=GS stu0457 WT 0.85
+#=GS stu0697 WT 0.81
+#=GS stu0329 WT 1.08
+#=GS stu1465 WT 1.33
+#=GS stu0467 WT 1.00
+#=GS stu1750 WT 0.97
+#=GS stu0889 WT 1.02
+#=GS stu2004 WT 0.99
+#=GS stu0487 WT 1.08
+#=GS stu0468 WT 0.98
+#=GS stu0600 WT 1.02
+#=GS stu0023 WT 0.80
+#=GS stu1275 WT 0.94
+#=GS stu1726 WT 1.06
+#=GS stu0711 WT 1.17
+#=GS stu0370 WT 1.02
+#=GS stu0877 WT 0.82
+#=GS stu1995 WT 0.99
+#=GS stu1615 WT 1.06
+#=GS stu1684 WT 1.17
+#=GS stu1430 WT 1.38
+#=GS stu1150 WT 1.00
+#=GS stu0692 WT 1.16
+#=GS stu2007 WT 0.86
+#=GS stu1799 WT 1.12
+#=GS stu1802 WT 0.92
+#=GS stu0586 WT 1.00
+#=GS stu0463 WT 1.09
+#=GS stu1520 WT 1.25
+#=GS stu0408 WT 1.12
+#=GS stu1517 WT 0.82
+#=GS stu2002 WT 0.91
+#=GS stu1940 WT 0.90
+#=GS stu0077 WT 1.11
+#=GS stu1025 WT 1.09
+#=GS stu1260 WT 1.04
+#=GS stu0550 WT 0.91
+#=GS stu1574 WT 1.25
+#=GS stu0540 WT 1.32
+#=GS stu0012 WT 0.80
+#=GS stu0589 WT 1.10
+#=GS stu1867 WT 0.93
+#=GS stu1250 WT 1.11
+#=GS stu1207 WT 0.94
+#=GS stu1317 WT 1.09
+#=GS stu1292 WT 0.91
+#=GS stu0981 WT 0.94
+#=GS stu1296 WT 1.16
+#=GS stu1866 WT 1.00
+#=GS stu0192 WT 0.91
+#=GS stu1603 WT 0.89
+#=GS stu1330 WT 0.92
+#=GS stu1188 WT 1.07
+#=GS stu1242 WT 1.09
+#=GS stu0938 WT 0.96
+#=GS stu0160 WT 0.95
+#=GS stu0656 WT 0.97
+#=GS stu0916 WT 0.93
+#=GS stu0587 WT 1.03
+#=GS stu0363 WT 1.02
+#=GS stu1568 WT 0.99
+#=GS stu0229 WT 0.78
+#=GS stu0895 WT 1.00
+#=GS stu0861 WT 1.15
+#=GS stu0249 WT 0.91
+#=GS stu0181 WT 1.34
+#=GS stu0713 WT 1.07
+#=GS stu1222 WT 1.18
+#=GS stu1263 WT 1.02
+#=GS stu0903 WT 0.94
+#=GS stu0027 WT 0.91
+#=GS stu0345 WT 1.07
+#=GS stu0195 WT 1.02
+#=GS stu0472 WT 1.25
+#=GS stu0636 WT 0.91
+#=GS stu1308 WT 1.46
+#=GS stu1367 WT 1.09
+#=GS stu1886 WT 1.12
+#=GS stu1383 WT 0.82
+#=GS stu0150 WT 0.78
+#=GS stu1575 WT 0.96
+#=GS stu0409 WT 0.91
+#=GS stu0420 WT 1.25
+#=GS stu0660 WT 0.99
+#=GS stu1340 WT 1.07
+#=GS stu1614 WT 1.09
+#=GS stu0539 WT 1.09
+#=GS stu1149 WT 1.02
+#=GS stu1734 WT 0.82
+#=GS stu0434 WT 0.96
+#=GS stu1992 WT 1.11
+#=GS stu1659 WT 1.03
+#=GS stu1556 WT 0.89
+#=GS stu1182 WT 1.17
+#=GS stu1204 WT 0.80
+#=GS stu0270 WT 0.98
+#=GS stu1737 WT 1.06
+#=GS stu0392 WT 1.14
+#=GS stu1366 WT 1.02
+#=GS stu1672 WT 0.91
+#=GS stu1059 WT 0.97
+#=GS stu0509 WT 0.80
+#=GS stu0675 WT 1.03
+#=GS stu0194 WT 1.06
+#=GS stu1809 WT 0.94
+#=GS stu0269 WT 1.07
+#=GS stu1532 WT 0.92
+#=GS stu0599 WT 0.91
+#=GS stu1767 WT 0.83
+#=GS stu1643 WT 0.97
+#=GS stu0724 WT 0.82
+#=GS stu1817 WT 0.91
+#=GS stu0121 WT 0.99
+#=GS stu1060 WT 0.97
+#=GS stu0117 WT 0.97
+#=GS stu1009 WT 1.09
+#=GS stu1657 WT 0.99
+#=GS stu0596 WT 1.25
+#=GS stu0132 WT 0.86
+#=GS stu0230 WT 0.94
+#=GS stu0497 WT 1.17
+#=GS stu0719 WT 1.25
+#=GS stu0354 WT 0.90
+#=GS stu1518 WT 0.90
+#=GS stu1762 WT 0.91
+#=GS stu0654 WT 1.34
+#=GS stu0510 WT 0.91
+#=GS stu1966 WT 0.88
+#=GS stu1997 WT 0.80
+#=GS stu0486 WT 1.03
+#=GS stu0811 WT 0.98
+#=GS stu0696 WT 1.06
+#=GS stu0635 WT 0.97
+#=GS stu1996 WT 1.12
+#=GS stu0495 WT 1.03
+#=GS stu0746 WT 0.92
+#=GS stu0485 WT 0.88
+#=GS stu0196 WT 1.18
+#=GS stu1288 WT 0.96
+#=GS stu0860 WT 0.82
+#=GS stu1256 WT 1.03
+#=GS stu1361 WT 1.05
+#=GS stu0090 WT 0.88
+#=GS stu0929 WT 0.86
+#=GS stu1914 WT 1.09
+#=GS stu0241 WT 1.13
+#=GS stu2005 WT 1.00
+#=GS stu1277 WT 0.89
+#=GS stu0471 WT 1.13
+#=GS stu0798 WT 0.82
+#=GS stu1768 WT 0.91
+#=GS stu0986 WT 0.82
+#=GS stu2020 WT 1.11
+#=GS stu1358 WT 0.84
+#=GS stu0454 WT 0.74
+#=GS stu0538 WT 1.12
+#=GS stu0680 WT 0.94
+#=GS stu0977 WT 1.00
+#=GS stu0200 WT 0.95
+#=GS stu1127 WT 0.95
+#=GS stu1068 WT 0.83
+#=GS stu0358 WT 1.08
+#=GS stu0522 WT 1.31
+#=GS stu1935 WT 1.07
+#=GS stu0155 WT 1.20
+#=GS stu1054 WT 1.16
+#=GS stu1543 WT 0.93
+#=GS stu1587 WT 0.91
+#=GS stu0021 WT 1.13
+#=GS stu0786 WT 1.08
+#=GS stu1789 WT 0.93
+#=GS stu1839 WT 1.09
+#=GS stu1584 WT 0.93
+#=GS stu1560 WT 1.03
+#=GS stu1875 WT 1.01
+#=GS stu1295 WT 1.05
+#=GS stu1967 WT 0.88
+#=GS stu0460 WT 0.85
+#=GS stu0519 WT 1.02
+#=GS stu0024 WT 1.03
+#=GS stu1733 WT 1.14
+#=GS stu1955 WT 0.71
+#=GS stu1008 WT 1.30
+#=GS stu1567 WT 1.02
+#=GS stu0699 WT 1.00
+#=GS stu1752 WT 1.11
+#=GS stu0626 WT 1.12
+#=GS stu1280 WT 0.93
+#=GS stu1628 WT 1.13
+#=GS stu1014 WT 1.19
+#=GS stu0557 WT 0.84
+#=GS stu1147 WT 0.99
+#=GS stu0425 WT 0.97
+#=GS stu1063 WT 1.50
+#=GS stu1378 WT 1.50
+#=GS stu2013 WT 1.12
+#=GS stu1488 WT 1.26
+#=GS stu1158 WT 0.94
+#=GS stu1968 WT 0.96
+#=GS stu1172 WT 1.03
+#=GS stu1778 WT 0.85
+#=GS stu1563 WT 1.08
+#=GS stu1496 WT 0.96
+#=GS stu0919 WT 1.17
+#=GS stu1289 WT 0.94
+#=GS stu0932 WT 1.08
+#=GS stu1200 WT 1.42
+#=GS stu0990 WT 0.85
+#=GS stu0602 WT 1.00
+#=GS stu1740 WT 1.16
+#=GS stu0787 WT 1.17
+#=GS stu0829 WT 1.42
+#=GS stu0552 WT 0.92
+#=GS stu1738 WT 0.96
+#=GS stu0426 WT 1.05
+#=GS stu1269 WT 1.24
+#=GS stu1712 WT 1.05
+#=GS stu0955 WT 1.05
+#=GS stu0661 WT 0.80
+#=GS stu1212 WT 0.97
+#=GS stu1140 WT 1.00
+#=GS stu0348 WT 0.77
+#=GS stu1671 WT 0.91
+#=GS stu0969 WT 0.72
+#=GS stu0848 WT 1.05
+#=GS stu1625 WT 0.97
+#=GS stu0349 WT 0.77
+#=GS stu0970 WT 0.72
+
+stu1551      AAAG--ACAAA-C-A-UCAA------------------------------
+stu1947      AAAA--UACUG-C-U-GUU-ACACUAG-----------------------
+stu0202      AAAA--CUAUC-C-A-AAGU------------------------------
+stu0312      AAAA--ACAUU-G-G-UU-A------------------------------
+stu2021      AAAA--GGUCU-A-G-AACA------------------------------
+stu1961      AAGA--GACUG-A-A-AU-A------------------------------
+stu0869      GCAC--CCCAA-A-A-GUU-AGACAG------------------------
+stu1261      AAAA--GCACU-U-C-AGAA------------------------------
+stu1663      ACAG--CUAUA-G-U-UACA------------------------------
+stu1174      AAAA--AGGUC--------C------------------------------
+stu1281      AAAC--AGCUA-A-U-UC-A------------------------------
+stu1553      AAGC--AACCU--------A------------------------------
+stu1819      AAAC--UCAGC-A-U-AU-U------------------------------
+stu1271      AAAA--GCCAG-C-C-----------------------------------
+stu1885      GAAA--UCUGU-C-C----A------------------------------
+stu0515      AAAU--AAAUC-C-G-AGAA------------------------------
+stu0670      AAAG--AACGU-U-G-ACUA------------------------------
+stu1196      AUAA--AGAAG-G-U-CC-G------------------------------
+stu1438      AAAA--AUCGU-G-U-UCCA------------------------------
+stu1893      AAAA--GUAUC-G-G-ACAC------------------------------
+stu1519      AGAG--UCCUU-U-G-GA-U------------------------------
+stu1123      ACAU--AGGUG-A-C-AA-A------------------------------
+stu0334      AAAG--ACACC-G-A-AG-A------------------------------
+stu0915      AAAC--UGGAU-U-C-----------------------------------
+stu2018      AAUA--GGGGU-C-C-AG-A------------------------------
+stu0110      UAAG--AUAUC-G-C-UA-A------------------------------
+stu0855      AAAA--AGCUG-U-C-AG-U------------------------------
+stu0840      AAAA--UAGAA-G-A-GC-C------------------------------
+stu1164      AAAA--CGACU-C-C----A------------------------------
+stu0674      AAAA--AGAUU-G-A-AGA-CUUUGUUCC---------------------
+stu0264      AAAG--CUCCC-U-U-GGAU------------------------------
+stu1756      AAAA--GCUCA-U-U-CUUA------------------------------
+stu1208      AAAA--AGAGU-U-U-GGAA------------------------------
+stu2016      AGAA--GUACU-U-G-CC-A------------------------------
+stu1894      AAAG--UAUCG-G-A-CGUU------------------------------
+stu0154      AAAC--UGCUC-C-A-----------------------------------
+stu1165      AAAA--CGACU-C-C----G------------------------------
+stu1958      UAAG--AGAGA-U-G-AC-A------------------------------
+stu0356      UAAA--AGUCA-G-A-UGC-UAAUCGGUUUA-------------------
+stu1583      AGAC--AUCUU-A-G-UCU-CGGAGA------------------------
+stu2017      AAUA--GGGGU-C-C-AG-A------------------------------
+stu1766      AUAA--GGUUG-G-G----G------------------------------
+stu0838      AAGC--UGGAG-U-C-----------------------------------
+stu0665      GAAA--AGAUC-U-A-UGA-UUGACC------------------------
+stu1503      AAAC--AGAGC-A-A-GUGU------------------------------
+stu1406      AAAA--AGUUA-G-A-CAGA------------------------------
+stu1729      UUGA--GCCGUUU-U-GGGA------------------------------
+stu1437      AAAA--UCGUG-U-U-CC-U------------------------------
+stu1384      AAAA--GCAAC-A-A-CCUA------------------------------
+stu1921      UCAU--UCAAG-U-U-AGAU------------------------------
+stu0397      UAGC--GAGAA-C-A----A------------------------------
+stu0335      AAAA--GACAC-C-G-AAAA------------------------------
+stu0094      AAGA--CAUUC-A-A-GAUU------------------------------
+stu1852      AAAG--CUCGG-A-A-----------------------------------
+stu1535      AAGA--GGCUG-A-A-ACGC------------------------------
+stu1573      AUAU--AGGAC-U-A-UCUG------------------------------
+stu1808      GAAA--GCAAC-A-G-UGCU------------------------------
+stu0253      AAUA--AGCUA-G-A-CC-U------------------------------
+stu1604      AAAU--CACAU-C-G-UAUA------------------------------
+stu1598      AAAA--AGGAA-U-C----U------------------------------
+stu1804      AAAA--AAGAA-A-A-UC-A------------------------------
+stu0263      AAAC--UCCCU-U-G-GACA------------------------------
+stu1637      ACAA--GCACC---------------------------------------
+stu1878      AAAA--AUAGGAG-C-UGAG------------------------------
+stu1445      GAGA--GGACC--------G------------------------------
+stu1089      GAGA--GGACG--------A------------------------------
+stu1853      AAAU--AAAGC-U-C-GGAA------------------------------
+stu0158      AAAA--AAGUU-A-A-GGUU------------------------------
+stu0080      AAAA--CUAUC-U-U-UUAA------------------------------
+stu0374      AAAA--AAGAC-U-A-GUAA------------------------------
+stu1899      AAAA--ACAAG-A-U-CC-A------------------------------
+stu0290      UAAG--UAGGA-A-A-UCGU------------------------------
+stu0508      AAUA--GGGGC-U-U-GAAU------------------------------
+stu0390      AAAA--UCCUU-C-U-GGCG------------------------------
+stu1700      AAAA--AGAGC-A------G------------------------------
+stu1797      UGUC--GGUGG-U-G-AGCU------------------------------
+stu1504      AGAC--UAUCA-A-G-UGCU------------------------------
+stu1571      GAAA--CCAUA-G-G-ACA-GUCUU-------------------------
+stu1128      GAAG--CAGUCAC-A----U------------------------------
+stu1455      CCCA--AAAGU-U-A-GACA------------------------------
+stu0074      AAAA--GAAGU-U-A-CGUG------------------------------
+stu0355      AAAA--GGGAA---------------------------------------
+stu1155      AAAA--UGAGA-C-U-UCCU------------------------------
+stu0669      AAAG--AACGU-U-G-ACUC------------------------------
+stu1511      AAGU--AGCUG-A-A-CAAU------------------------------
+stu1993      AAAA--GCCGG-C-U-----A-----------------------------
+stu1464      AAAA--GCAAC-U-G-AUAC------------------------------
+stu1794      AAGU--GAACA-U-U-UA-A------------------------------
+stu0592      AAAG--AGACA-U-G----G------------------------------
+stu1611      AAAG--GUAAG-U-A-GCCU------------------------------
+stu2022      AAAA--CGCAA-C-U-AG-A------------------------------
+stu1970      GAAA--GUCUA-U-U-AAA-AUUCGAGCCUG-------------------
+stu1962      GAAA--AUCAA-U-A-UAU-AGUGGUUGAGA-------------------
+stu1673      AAAA--UCCCA-U-G-GGA-GU----------------------------
+stu1569      GAAA--CCGUC-U-U-CUCA------------------------------
+stu1191      AAAA--AACCA-G-A-AG-C------------------------------
+stu0701      AAAC--UGAGC-U-C-C--A------------------------------
+stu1605      AAAG--UGUCC-C-U-UCUA------------------------------
+stu0604      AAAU--GCCUG-G-G-ACUC------------------------------
+stu0228      UCGU--ACCCC-U-A-GG-U------------------------------
+stu1462      UAAA--UAACC-U-A-UCCU------------------------------
+stu1199      AAGC--AGAAC--------C------------------------------
+stu0788      AGGA--AAAAA-C-A-UGGU------------------------------
+stu1788      AAGA--AGAGU--------U------------------------------
+stu1432      AAAG--AGUGA-G-U-ACU-GG----------------------------
+stu0997      AUGG--AGCAC-U-GAGGAA------------------------------
+stu0187      AAAA--GGAGC-U-U-GA-G------------------------------
+stu0097      AUAA--GGCAG-G-U-AU-A------------------------------
+stu0679      AUAA--GAGCA-U-C-AC-U------------------------------
+stu0649      AAGC--AGGUU-C-A-----------------------------------
+stu1654      GAAA--AGUUG-A-G-AC-U------------------------------
+stu1264      AAAA--AGUGG-A-G-GC-U------------------------------
+stu1502      AAAC--AGUUA-C-U-UC-U------------------------------
+stu1820      UAGC--AGGCA--------U------------------------------
+stu0064      AAAG--AGUUC-U-G-AGA-UAUUG-------------------------
+stu1113      AAAA--GGACG-C-C----A------------------------------
+stu1229      AGAA--GCAAG-U-U-GG-A------------------------------
+stu1239      AAGA--GUCUA-U-C-AUUC------------------------------
+stu1699      AAGA--GGUUG-A-A-ACUA------------------------------
+stu0678      AAAU--GUUUC-U-C-UCGA------------------------------
+stu0344      AAAG--CUGGG-U-C----A------------------------------
+stu0047      AAAA--CGCCU---------------------------------------
+stu1774      AAAA--AAUGG-U-A-GCCU------------------------------
+stu1012      GAAA--ACAAG-A-U-CA-G------------------------------
+stu0022      AAAA--GCGAU-U-C-GGCU------------------------------
+stu1552      ACAA--ACAUC-G------U------------------------------
+stu0393      AAAA--ACAUU-G-G-GAAU------------------------------
+stu0125      GAGA--GGACC--------G------------------------------
+stu1400      ACAA--AGAGU-A-U-AUAU------------------------------
+stu0983      AAAA--AGAUA-G------A------------------------------
+stu1232      AGAC--AGCUU-C-A-----------------------------------
+stu1936      UAAA--GAAUU-C-A-UCUA------------------------------
+stu0442      AAAA--GCGAU-U-C-GGAU------------------------------
+stu1857      AAAA--GUUGG-C-U-GA-G------------------------------
+stu0677      AAAC--AAGGC-U-A-GC-A------------------------------
+stu0045      AAAA--GCAGG--------A------------------------------
+stu1647      GAGA--GUAGG-A-C-AGA-CAGAAAUCU---------------------
+stu1695      AAAA--ACCUA-G-G-ACAC------------------------------
+stu0283      CAUG--AGGCU-G-G-AUUU------------------------------
+stu1360      AAAA--GAAGU-U-U-UCA-AGCC--------------------------
+stu0582      AAGA--AAAGC-U-C-GGUG------------------------------
+stu0073      AAGG--GGCGG-G-G----C------------------------------
+stu0157      AAAA--AACGG-C-A-----------------------------------
+stu0891      AAAA--GUAGU-U-G-AUU-UC----------------------------
+stu1087      AGAG--AGGAC-G-A-----------------------------------
+stu1007      AAAC--AAGCU-U-U-CC-A------------------------------
+stu1975      GAAA--AACGC-U-G----A------------------------------
+stu0377      AAAG--AGUAC-U-A-AC-G------------------------------
+stu1132      AAAA--CCACU-A-G----U------------------------------
+stu0050      AAAG--AAGCU-U-G-UC-G------------------------------
+stu1045      AAAA--AGCCU-U-G----A------------------------------
+stu0134      GAAC--AGAGU-G-G----A------------------------------
+stu0477      AAAG--AGACA-C-G-GUGA------------------------------
+stu1668      CAAG--GCUGA-C-A-UCUU------------------------------
+stu1179      GAAA--AAAUC-U-G-UCCU------------------------------
+stu1848      AAGA--AGCGG-U------A------------------------------
+stu0407      AAAC--AAUCU-C-G-U--U------------------------------
+stu0613      AAAA--UCUCU-U-G-UG-C------------------------------
+stu0366      AAAA--ACAGA-A-G-CUG-ACAUU-------------------------
+stu0373      AAAA--AAGAC-U-A-GUUU------------------------------
+stu0868      AAAC--UCACA-A-A-CU-U------------------------------
+stu0062      GAGA--GAAUG-G-A-G--U------------------------------
+stu1916      UUAA--GUCGU-G-A-GG-G------------------------------
+stu0812      AAAA--GCCCA-U-C-----ACUGCUGUUC--------------------
+stu0488      AAAA--AGUUC-G-A-GA-A------------------------------
+stu2024      AAAA--GACCU-U-U-ACAA------------------------------
+stu0394      AAAA--ACAUU-G-G-GAUA------------------------------
+stu0718      AAGU--UCAUC-G-C----U------------------------------
+stu0178      AAAA--GGUGG-U-G-AUUC------------------------------
+stu0457      UAAA--AGGUA-G-G-AU-G------------------------------
+stu0697      AAUA--AGCGG-U-C-CU-U------------------------------
+stu0329      AAUG--AGGUU-G-A-GACA------------------------------
+stu1465      GAAA--AGCAA-C-U-GAGU------------------------------
+stu0467      GAAA--UCACU-U-G-AUUU------------------------------
+stu1750      CAAG--CACCC--------A------------------------------
+stu0889      AAAG--GACUA-G-A-GC-U------------------------------
+stu2004      AAAA--GGUUA-C-C----A------------------------------
+stu0487      AGAG--AGUCG-A-G----U------------------------------
+stu0468      AGAA--AUCAC-U-U-GACU------------------------------
+stu0600      AAGA--AGCCG-U-C-GCCA------------------------------
+stu0023      UAGA--GAGGA-U-C----A------------------------------
+stu1275      AAAG--AGCUA-U-C-C--A------------------------------
+stu1726      AAAU--CCAGU--------U------------------------------
+stu0711      UAGA--AGUAG-A-G-GG-A------------------------------
+stu0370      AAUA--AUAAG-U-A-GGGU------------------------------
+stu0877      UAUA--ACAAC-A-U-UCUA------------------------------
+stu1995      AAAA--AAGCU-A-C-----AAAGUAUC----------------------
+stu1615      UAAA--AG-GU-C-U-AC-C------------------------------
+stu1684      AAGU--AGUGA-C-A----U------------------------------
+stu1430      GAGC--UGAGG-C-A-----------------------------------
+stu1150      AUAA--AGUCA-G-A-GACA------------------------------
+stu0692      GAUA--UCCCA-U-U-AG-U------------------------------
+stu2007      GAAG--AACGU-C-U----A------------------------------
+stu1799      AAAA--AUCCC-A-C-UG-A------------------------------
+stu1802      AAGA--UGAGU-G-A-GCU-------------------------------
+stu0586      AAAA--GAUCC-G-A-GGUA------------------------------
+stu0463      AAAA--CAAGU-A-G-UUAA------------------------------
+stu1520      GAAA--GAUUC-U-G-GGCC------------------------------
+stu0408      UGAA--GUCUG-U-C-UACU------------------------------
+stu1517      UAAA--ACUCU-U-G-GAAA------------------------------
+stu2002      UAAA--AGCCU-U-U----U------------------------------
+stu1940      AAAA--AGAAU-C-U-AG-G------------------------------
+stu0077      AAAG--ACAGA-U-U-AU-A------------------------------
+stu1025      AAAA--ACCAA-G-G-AGUA------------------------------
+stu1260      AAGA--AAGCCUA-A-GC-A------------------------------
+stu0550      AGAA--UCAGA-C-C-AU-U------------------------------
+stu1574      AAAA--GAUGA-C-G-AU-U------------------------------
+stu0540      GAGA--CUUCU-C-U----U------------------------------
+stu0012      UGGA--GAGGA-C-C----A------------------------------
+stu0589      AAGC--UUUGU-U-C-UCUU------------------------------
+stu1867      AAAG--AACUC-A-C----A------------------------------
+stu1250      AAAA--AGGAA-G-U-UGU-UAGGAAAUGUGU------------------
+stu1207      AAAA--GAGCU-U-G-GAUU------------------------------
+stu1317      AAAG--GCAAA-C-A-UCUA------------------------------
+stu1292      AAAA--UCCAU-C-U----G------------------------------
+stu0981      AAUA--AGAGU-U-A-AC-U------------------------------
+stu1296      AAGU--CCUUU-G-C-----G-----------------------------
+stu1866      UAGA--AGCUC-G-A-A--U------------------------------
+stu0192      AGAC--AGCCC---------------------------------------
+stu1603      AAAA--CCGAU-U-G-GA-C------------------------------
+stu1330      AAAA--GCUGA-C-C-----------------------------------
+stu1188      AAAA--GUUGU-A-U-ACUU------------------------------
+stu1242      GAAA--AUCUA-U-C-ACUU------------------------------
+stu0938      AAAA--UCUAG-U-A-GA-G------------------------------
+stu0160      GAAA--GGAUU-U-C----G------------------------------
+stu0656      AAAA--CCAAG-U-C-----U-----------------------------
+stu0916      AAAA--GCUCU-A-U-A--A------------------------------
+stu0587      UUGA--CCACU-A-G----C------------------------------
+stu0363      AAAA--AGCGC-C-C-----------------------------------
+stu1568      AAAA--CGCUC-U-A----A------------------------------
+stu0229      AAAA--ACACU-G-G-AU-A------------------------------
+stu0895      CAAA--AAAAG-U-U-CC-A------------------------------
+stu0861      AAAAUUGCCGU-U-A-G--A------------------------------
+stu0249      AAAA--UCAGC-C-G-----------------------------------
+stu0181      GAGC--CCUGU-U-A-GUAU------------------------------
+stu0713      AAAA--GCUGG-A-C----A------------------------------
+stu1222      CAAA--AGACU-U-A-UGUU------------------------------
+stu1263      AAAG--AGGGC-C-U-UA-G------------------------------
+stu0903      AAAA--AGCCC-U-C-AC-A------------------------------
+stu0027      AAGA--AGAUA-A-U-GCUG------------------------------
+stu0345      AAAA--CUCCU-G-U-CA-G------------------------------
+stu0195      AAAC--AUUUU-C-U-G--U------------------------------
+stu0472      AAAG--UUCUC-C-U-UA-U------------------------------
+stu0636      AAAA--AGACU-G-U-UC-U------------------------------
+stu1308      AUAC--CACUC-A-G-UCU-GAAGGUAUUUCG------------------
+stu1367      AAUA--GACUA-U-A-AUAC------------------------------
+stu1886      AAAC--UUUCCUC-A-GUA-AA----------------------------
+stu1383      AAAA--GCAAC-A-A-CCA-CA----------------------------
+stu0150      AAAA--AGAAC-U-G-AU-A------------------------------
+stu1575      AACA--CGCCA-U-C-AG-A------------------------------
+stu0409      AAAA--AGGCC--------U------------------------------
+stu0420      UAAG--GGCUC-U-U-UUCU------------------------------
+stu0660      AAAA--UCUCA-A-A----A------------------------------
+stu1340      AGAA--CACCU-G-A-GUCG------------------------------
+stu1614      AAGC--AGAGA-U-G-UU-A------------------------------
+stu0539      AUAA--UCCAU-C-A-GU-U------------------------------
+stu1149      AAAC--GACUC--------U------------------------------
+stu1734      AAAA--GUCGA-A-G-----------------------------------
+stu0434      AAAA--CGUAU-G-A-UUG-------------------------------
+stu1992      AAAA--AGCCA-G-C-UC-A------------------------------
+stu1659      AAAA--AGCUU-A-A-GCA-GUAGA-------------------------
+stu1556      AAAG--AGAGC-U-U-GGCU------------------------------
+stu1182      AAUG--GCUUG-A-G-GCUC------------------------------
+stu1204      AAAA--GUUGA-C-U-----------------------------------
+stu0270      AAAU--GGUGG-U-G-ACAU------------------------------
+stu1737      AAAA--GUCGC-A-A-GAAA------------------------------
+stu0392      UCAA--GGCCG--------U------------------------------
+stu1366      AUAA--GAAAU-C-G-AA-A------------------------------
+stu1672      AAAA--UCCCA-U-A-GGAU------------------------------
+stu1059      AAAA--CGUGC-U-C----A------------------------------
+stu0509      UAAC--UCACC--------U------------------------------
+stu0675      AA----CGAGG-U-U-AAGU------------------------------
+stu0194      AUAG--GAUCA-G-C----U------------------------------
+stu1809      AAAA--ACUAG-U-C-UU-A------------------------------
+stu0269      AAUA--UGCAG-U-U-----------------------------------
+stu1532      AAAA--GAAGU-C-A-GAUU------------------------------
+stu0599      AAGA--AGCUG-U-G-GC-G------------------------------
+stu1767      AAAA--AGACU-U-G-----GAGUCGCUCU--------------------
+stu1643      AAGA--AGCUA-A-G-U--U------------------------------
+stu0724      AAGA--GUCUA-A-G-UC-A------------------------------
+stu1817      AAAA--ACCUA-U-C----U------------------------------
+stu0121      AAGG--ACGCU---------------------------------------
+stu1060      AAAA--CGUGC-U-U----U------------------------------
+stu0117      AGAA--CACCC--------C------------------------------
+stu1009      GAAA--CAAUC-U-G-GC-A------------------------------
+stu1657      AUAA--AGAGC-U-C-GC-A------------------------------
+stu0596      GGAG--GGCUU-C-U-----------------------------------
+stu0132      AAAA--UCAAG-U-U-UC-U------------------------------
+stu0230      GAAA--AGAGU-U-A-UCCA------------------------------
+stu0497      AAAG--ACCUU-U-A-GCUU------------------------------
+stu0719      AAGA--UUUUG--------U------------------------------
+stu0354      AAAA--ACGUU-U-G-CA-A------------------------------
+stu1518      AAAA--ACUCU-U-G-GAGG------------------------------
+stu1762      AGAG--AGACU-GAG-AC-A------------------------------
+stu0654      GUGC--ACUCU-G-GUGA-A------------------------------
+stu0510      AAAC--UCACC--------A------------------------------
+stu1966      AAAA--AGUCU-G-A-GU-U------------------------------
+stu1997      GAAA--AGCCC-G-U----U------------------------------
+stu0486      GAGA--AGAAG-U-C-GUUA------------------------------
+stu0811      AGAA--GACCC---------------------------------------
+stu0696      AAAA--ACGGC-C-U----A------------------------------
+stu0635      AAAG--AGGUU-C-C----U------------------------------
+stu1996      AAAA--AAGCU-A-C-----UUUAUCUA----------------------
+stu0495      UAGG--GCUUA-A-A-CC-A------------------------------
+stu0746      GUUA--AGCCA-U-U-UC-A------------------------------
+stu0485      AAAA--AAACG-G-G-AC-C------------------------------
+stu0196      UAGG--CUAGG-U-U-----------------------------------
+stu1288      AAAA--AGCCA-U-C----A------------------------------
+stu0860      AAAU--CACUC--------A------------------------------
+stu1256      AAAA--AAGUG-A-C-CC-U------------------------------
+stu1361      AGAA--UGGUA-GAG-CCCU------------------------------
+stu0090      AAAA--GAGUA-G-U----A------------------------------
+stu0929      AAGC--UCAAG-U-U-UUCA------------------------------
+stu1914      AGAG--GGAAA-G-A-AAGG------------------------------
+stu0241      AAAA--UUCAG-UCA----C------------------------------
+stu2005      UAGA--AGUUG-G-G-AG-G------------------------------
+stu1277      GAAA--AGACC--------G------------------------------
+stu0471      UAGA--AGUUC-C-U-GAUA------------------------------
+stu0798      GAAA--ACUCC--------A------------------------------
+stu1768      GAAA--AGACU-U-G-----AAAAGUGGCU--------------------
+stu0986      AAAG--GGACC--------G------------------------------
+stu2020      AAGAUGCAGGU-U-G-GG-A------------------------------
+stu1358      AAAC--GAGAC-G-A-GAUG------------------------------
+stu0454      GAGA--GAAUC-A-U-UCUG------------------------------
+stu0538      AAGG--AGGUC-A-A-AAU-GAAGGAUAAUAAAAAG-----------AAA
+stu0680      AAGA--GCACC-A-C----A------------------------------
+stu0977      AAAC--AGACC-G-A-GAAA------------------------------
+stu0200      AAAA--UCUUU-U-C-UUGC------------------------------
+stu1127      AAAA--AGAGA-C-A-----------------------------------
+stu1068      AAAC--AGACU---------------------------------------
+stu0358      AAAA--ACUUU-U-C-UCUU------------------------------
+stu0522      ACGG--AUGUU-C-U-UUCU------------------------------
+stu1935      AAUC--AAACU-U-U----A------------------------------
+stu0155      AAAG--CCUCC-A-G-AACU------------------------------
+stu1054      GAGC--AGGGGGC-A-AGGA------------------------------
+stu1543      AAAA--AAAGC-U-C----A------------------------------
+stu1587      GAUA--CUCUC-C-A-----------------------------------
+stu0021      AUAU--UGGCG-U-A-AU-A------------------------------
+stu0786      AAAA--CCACC-U-A-UAUA------------------------------
+stu1789      UUAA--GGUGC-U-U-AU-G------------------------------
+stu1839      UAGU--AGAGG-C-C----C------------------------------
+stu1584      AAAC--AGCUC---------------------------------------
+stu1560      UAAG--GUUUA-A-C-CGC-------------------------------
+stu1875      UGGA--AGUCU---------------------------------------
+stu1295      AAAG--AUAGUUG-A-UA-G------------------------------
+stu1967      AAAA--AGUCU-G-A-GU-U------------------------------
+stu0460      AAAA--AGAUU-G-C-UAUU------------------------------
+stu0519      AAGC--UCAGG--------G------------------------------
+stu0024      GAGA--AGACC--------U------------------------------
+stu1733      AAUC--GCUUU-A-A-GACA------------------------------
+stu1955      AAAA--AGCCU-U-G----G------------------------------
+stu1008      UAUA--AUUAA-C-C-----AAUCAAAA----------------------
+stu1567      AAGA--ACACA-C-G-GAAA------------------------------
+stu0699      AAAA--CCAGU-G-U----U------------------------------
+stu1752      AAAU--AACGC-C-C-UC-A------------------------------
+stu0626      UAUC--AUCUA-A-G-ACUG------------------------------
+stu1280      AAAA--GCCUC-C-A-----------------------------------
+stu1628      AAAC--UGUAG-U-G-ACAA------------------------------
+stu1014      UUUG--GUUGG-U-A-AC-U------------------------------
+stu0557      AAAA--GAGCC--------G------------------------------
+stu1147      AGAA--CGACU-C-U-----------------------------------
+stu0425      ACAC--CGCUA-C-A-GAA-CAU---------------------------
+stu1063      AAGG--GGACU-A-A-----AAUGGCAAGUAAACGAUUGAGACAUGUGUU
+stu1378      GGAG--UGGCU-U-A-GCC-CUCUGUUUGAUACCUUU---------AACU
+stu2013      AAAG-AUUGCU-G-A-AGAA------------------------------
+stu1488      AAGG--GGCCU-G-A-----------------------------------
+stu1158      AAGA--GCUGC-A-C-UAAU------------------------------
+stu1968      GAAG--GGAGU-U-G-AC-G------------------------------
+stu1172      CAAC--AGAAU-U-U-AA-U------------------------------
+stu1778      UAAA--AGAGU-U-C----U------------------------------
+stu1563      UAAC--UCUGU-C-A-GACA------------------------------
+stu1496      GAAC--UAUUU-A-U-UC-A------------------------------
+stu0919      AGGA--UUAGA-G------U------------------------------
+stu1289      AAAA--AGCCA-U-U----G------------------------------
+stu0932      AAAC--UCUUA-G-A-G--U------------------------------
+stu1200      UAUU--UUCGA--------A------------------------------
+stu0990      UAAG--AGACU---------------------------------------
+stu0602      AAAA--AACCA-A-G-UC-G------------------------------
+stu1740      AAGU--CUUUC-G-A-AC-C------------------------------
+stu0787      UGAC--UUAGA-G-C-----------------------------------
+stu0829      AGCA-GUCGCU-U-G-CG-U------------------------------
+stu0552      AUGA--GUCUA-C-C----U------------------------------
+stu1738      AAAA--AGAAG-U-U-GAUU------------------------------
+stu0426      AAAA--GCCCU-G-C----A------------------------------
+stu1269      UAUC--AAGUU-U-U-UAUA------------------------------
+stu1712      UAAA--GAGUC-U-C-UCUG------------------------------
+stu0955      AAAU-CGAAGU-C-C-UA-U------------------------------
+stu0661      AAAA--AGCCAAG-U-UC-A------------------------------
+stu1212      UAGA--AGCUU---------------------------------------
+stu1140      AAAA--GCUGG-A-A-ACU-UA----------------------------
+stu0348      AAAG--CCAAU-U-G-AGA-UGAA--------------------------
+stu1671      AAAA--AUCUG-A-A-GC-A------------------------------
+stu0969      AAAA--AGCGC-U-C-AU-A------------------------------
+stu0848      AAAC--ACCUU-G-A-UGA-AAAGAGUUGCC-------------------
+stu1625      AAAG--AACCA-G-C-C--G------------------------------
+stu0349      AAAG--CCAAU-U-G-AGA-UGAU--------------------------
+stu0970      AAAA--AGCGC-U-C-AU-A------------------------------
+#=GC SS_cons <<<<..<<<<<.<.<.<<._..............................
+#=GC RF      AAAA..agacc.u.a.gc.a..............................
+
+stu1551      -------------AAAC------G-A-UG-UUUGUCUCUUUU--------
+stu1947      -----UUAUAUAGUUAU------A-C-AG-CAGUAUUUU-----------
+stu0202      -------------UUAGA----UU-U-UG-GAUAGUUUUUUCUUGA---C
+stu0312      -------------UAAG------G-A-CC-AAUGUUUUUUU---------
+stu2021      -------------AAUG------U-U-AU-AGACCUUUU-----------
+stu1961      -------------GUUU------A-U-UU-CAGUCUCUU-----------
+stu0869      -------AAAAAAUCUA------A-C-UU-UUGGGGUGUUUUU-------
+stu1261      -------------UCAA------C-U-GA-AGUGCUUUU-----------
+stu1663      -------------CCUG------U-A-AU-UGUAGUUGU-----------
+stu1174      -------------AGUG-------------GACCUUUUU-----------
+stu1281      -------------UAU-------G-A-AU-UAGCUGUUUUUC--------
+stu1553      -------------GGUC-------------AGGUUGCUUCA---------
+stu1819      -------------UUA-------G-U-AA-GCUGAGUUUUUUA-------
+stu1271      --------------UA-----------GG-CUAGCUUUA-----------
+stu1885      -------------AAAU----------GG-ACGGAUUUCUUUAU------
+stu0515      -------------UCAGC---UUC-U-CG-GAUUUAUUUUU---------
+stu0670      -------------AGGA------G-U-CA-ACGUUCUUUUUAAUU-----
+stu1196      -------------UGA-------G-G-AU-CUUCUUUUUUUAGU------
+stu1438      -------------AAAG------G-A-AC-ACGAUUUUUCUU--------
+stu1893      -------------AUAAA----CG-U-CC-GAUACUUUUUAG--------
+stu1519      -------------GAU-------U-C-CA-AGGGACUCUUUG--------
+stu1123      -------------UUUG------U-U-GU-CACCUAUGAUA---------
+stu0334      -------------AAU-------U-U-UC-GGUGUCUUUUCU--------
+stu0915      --------------UCG----------CA-AUCCAGUUUUAA--------
+stu2018      -------------UAAU------C-U-GG-ACCCCUAUUUUUGU------
+stu0110      -------------AAUU------U-G-GC-GAUAUUUUUCUUUA------
+stu0855      -------------AAA-------C-U-GA-CGGCUUUUUUU---------
+stu0840      -------------UAU-------G-C-UC-UUCUAUUUUUUUCAUA---C
+stu1164      -------------CUC-----------GG-AGUCGUUUU-----------
+stu0674      ----UGUGAACAGAAU-------C-U-UC-AAUCUUUUU-----------
+stu0264      -------------UCAAUU--GUC-C-AA-GGGAGUUUUUUUAC------
+stu1756      -------------CACAC----UA-G-AA-UGAGCUUUU---AA------
+stu1208      -------------AAAAA----UC-C-AA-GCUCUUUUU---GG------
+stu2016      -------------AGA-------G-G-CA-AGUACUUUU-----------
+stu1894      -------------UAUG------U-G-UC-CGAUACUUUUUAUGUU---G
+stu0154      --------------UGA----------UG-GAGCAGUUUUU---------
+stu1165      -------------AGU-----------GG-AGUCGUUUUU----------
+stu1958      -------------UCA-------G-U-CA-UCUCUUUUA-----------
+stu0356      --UAUAAGAACCGUUU-------C-A-UC-UGACUUUUU-----------
+stu1583      -------AAUCUCUGA-------G-A-UU-GAGAUGUUUUUUUC------
+stu2017      -------------UUAU------C-U-GG-ACCCCUAUUUUU--------
+stu1766      -------------AGA-----------CC-CAGCCUUAUUAUGUAU---C
+stu0838      --------------AU-----------GA-CUUCAGUUUUUUUAU----A
+stu0665      ------UUAGUGUUAGU------C-A-UA-GGUCUUUUUUUUG-------
+stu1503      -------------AGU-------A-C-UU-GCCCUGUUUUUUUAU-----
+stu1406      -------------GAA-------G-G-UC-UAACUUUUG-----------
+stu1729      -------------UCUU------C-C-AA-ACGGCUCGACUC--------
+stu1437      -------------UUU-------G-G-AA-CACGAUUUUUUUG-------
+stu1384      -------------UAUUAU--GUG-G-UU-GUUGCUUUUUA---------
+stu1921      -------------UUUU------C-U-AA-GUUGAAUGU-----------
+stu0397      -------------AUGA----------UG-UUCUCGCUU-----------
+stu0335      -------------UUUC------U-U-CG-GUGUCUUUUCUUCU------
+stu0094      -------------UUUA------U-C-UU-GGAUGUCUUUUUUU------
+stu1852      --------------AA-----------UU-CCGAGCUUU-----------
+stu1535      -------------UAGU------G-U-UU-CAGCCUCUU-----------
+stu1573      -------------AUUA------G-A-UA-GUCCUAUAUUUU--------
+stu1808      -------------CGA-------G-A-CU-GUUGCUUUUUUGUU------
+stu0253      -------------CCUA------G-G-UC-UAGCCUUUUUUGU-------
+stu1604      -------------UUUG------U-G-CG-AUGUGAUUUUUAUGA-----
+stu1598      -------------CAC-----------GA-UUCCUUUUUCUAUAU----A
+stu1804      -------------AAAU------G-A-UU-UUCUUUUUU-----------
+stu0263      -------------AUUGA----AU-C-CA-AGGGAGCUUUU---------
+stu1637      --------------UAC-------------GGUGCUUUUCU---------
+stu1878      -------------AAAU------C-A-GU-CCUAUUUUU-----------
+stu1445      -------------GAUA-------------GGUCCUCUUUUU--------
+stu1089      -------------ACUU-------------CGUCCUCUCUAUCU------
+stu1853      -------------UUUU------C-C-GA-GCUUUAUUUUUACUAU---A
+stu0158      -------------UCGG------C-C-UU-AACUUUUUUUUAGA------
+stu0080      -------------UAUC------A-A-AA-GAUAGUUUUUAUUU------
+stu0374      -------------UAAA------A-C-UA-GUCUUUUUU-----------
+stu1899      -------------GAAA------G-G-AU-CUUGUUUUUUCAUAUC--UU
+stu0290      -------------UCUA------G-G-UU-UCCUACUUUUUU--------
+stu0508      -------------UUAG------UCC-GA-GCUCCUAUUUUU--------
+stu0390      -------------ACAG------U-C-GGAAAGGAUUUUUC---------
+stu1700      -------------AAA------------U-GCUCUUUUUCUGU-------
+stu1797      -------------AGAUU---GGU-U-CA-CUACCGAUUUUGAU------
+stu1504      -------------UCAG------C-A-CU-UGAUAGUCU---A-------
+stu1571      --------AAGUGGAA-------G-U-CC-UAUGGUUUUUCAUG------
+stu1128      -------------CUA-----------UG-GGCUGCUUUUUG--------
+stu1455      -------------GAAAA---AAU-C-UA-ACUUUUGGG-----------
+stu0074      -------------AAUCA---AUC-G-UA-ACUUCUUUUUUUGUU-----
+stu0355      --------------AUU-------------UUCCCUUUUUUGCU------
+stu1155      -------------UUUG------G-A-AG-CCUCAUUUUUUAUC------
+stu0669      -------------CUUA------G-U-CA-ACGUUCUUUUGCUUUA---A
+stu1511      -------------CUCU------U-G-CU-CAGCUACUUUUUAAU----C
+stu1993      ------------AUUUG----------AG-CUGGCUUUUUUAUG------
+stu1464      -------------UGCA------C-U-CA-GUUGCUUUUCUUGUG----U
+stu1794      -------------UGAA------A-A-AA-UGUUCGCUUUUUAUU-----
+stu0592      -------------AAA-----------CA-UGUCUUUUUUUAUAUU--AU
+stu1611      -------------CGU-------G-C-UA-CUUACCUUU-----------
+stu2022      -------------GAUU------C-U-AGAUUGCGUUUUUUC--------
+stu1970      --AAAUGGGUGGGGUU-------U-U-GA-UGGGCUUUU-----------
+stu1962      -UAAAAAUAUACCACAA------U-A-UA-UUGAUUUUUUUUUG------
+stu1673      -----------UCUCAU------C-C-UA-UGGGAUUUUUUG--------
+stu1569      -------------AAU-------U-G-GA-GGCGGUUUU-----------
+stu1191      -------------UAU-------C-U-UC-UGGUUUUUUUCUU-------
+stu0701      -------------AAA---------G-GA-ACUCAGUUUUUC--------
+stu1605      -------------UGCU-----GG-A-AG-GGACACUUU---GU------
+stu0604      -------------AAUA------G-U-UU-CAGGUGUUU-----------
+stu0228      -------------UUAA------C-C-UA-GGGGUAUUUUUA--------
+stu1462      -------------AGU-------G-A-UA-GGUUAUUUAUAU--------
+stu1199      -------------CUUG-------------GUUCUGCUUUUA--------
+stu0788      -------------AAUUA----GC-A-UGAUUUUUUCCUUU---------
+stu1788      -------------UAG--------------GCUCUUCUUUUU--------
+stu1432      -----------GAAAAG------G-U-AU-UCACUCUUUUUAAUAG--UG
+stu0997      -------------AUUA------C-CACA-GUGCUUCAUUUU--------
+stu0187      -------------AAA-------U-C-GA-GCUCUUUUU-----------
+stu0097      -------------CGAG------G-U-AC-UUGCCUUUUUUUAC------
+stu0679      -------------UAU-------G-U-GG-UGCUCUUAUUU---------
+stu0649      --------------CAC----------CG-AACCUGCUU---G-------
+stu1654      -------------CUU-------G-U-CU-CUGCUUUUU---G-------
+stu1264      -------------UGA-------G-C-UU-UCACUUUUUU----------
+stu1502      -------------AAU-------G-A-GG-UAACUGUUUUUG--------
+stu1820      -------------GAU--------------UGCCUGCUUUUUUAUA---A
+stu0064      --------GUUAGAUAU------C-U-CA-GAAUUCUCUUUUUCU----U
+stu1113      -------------UUU-----------GGUCGUCCUUUU---GU------
+stu1229      -------------CAAU------C-C-AA-CUUGUUUUU-----------
+stu1239      -------------CUGUGG--GAG-U-GA-UAGGCUUUUUUGGUUA---A
+stu1699      -------------UAAA------G-U-UU-CGGCCUCUUU----------
+stu0678      -------------GAU-------G-A-GA-GAAACAUUUUU---------
+stu0344      -------------UCU-----------GG-CCUGGCUUUUGUUC------
+stu0047      --------------AA--------------GGGCGUUUUUU---------
+stu1774      -------------GACA------G-C-UA-CCAUUUUUU-----------
+stu1012      -------------AAA-------U-G-GU-CUUGUUUUUUUGC-------
+stu0022      -------------AUUC------C-C-GA-AUCGUUUUU-----------
+stu1552      -------------UUU------------U-GAUGUUUGU-----------
+stu0393      -------------UAUA------U-C-CC-AAUGUUUUUUAGA-------
+stu0125      -------------GGUA-------------GGUCCUUUUUUU--------
+stu1400      -------------AAUU-----GU-U-GU-ACUCUUUGUUUUUU------
+stu0983      -------------UUG------------C-UAUCUUUUU-----------
+stu1232      --------------GU-----------UG-AGGCUGUCUUUUCUU----A
+stu1936      -------------GAAA------G-G-UG-GAUUCUUUAUUU--------
+stu0442      -------------AUUC------U-C-GA-AUCGCUUUU-----------
+stu1857      -------------CAA-------U-U-GG-CCAGCUUUUUUGAA------
+stu0677      -------------CCAU------G-C-UG-ACCUUGUUUUAG--------
+stu0045      -------------CCGC-------------CCUGCUUUUUUA--------
+stu1647      ----AUGAUUUUGUCU-------C-U-GU-CUUACUCUCUUU--------
+stu1695      -------------UUUG-----CG-U-CC-CAGGUUUCACUUAUU-----
+stu0283      -------------UUUC------C-U-CC-AACCUCUUUUGUAU------
+stu1360      --------AUUUGGCAA------G-G-GA-ACUUCUUUUUUAUU------
+stu0582      -------------AAAU------C-C-GA-GUUUUUUUC-----------
+stu0073      -------------UCAG----------CC-CAGCCCUUU-----------
+stu0157      --------------GU-----------UG-CCGUUUCUU-----------
+stu0891      ----------ACUUGAA------G-U-CA-ACUGCUUUUUUUGAU----A
+stu1087      --------------AGU----------UC-GUCCUCUCU-----------
+stu1007      -------------UGAA------G-G-AG-AGUUUGUUUUUAUU------
+stu1975      -------------UUU-----------CAAGCGUUUUUUCU---------
+stu0377      -------------AAA-------G-U-UA-GUGCUUUUU-----------
+stu1132      -------------ACAG----------CU-AAUGGUUUUCG---------
+stu0050      -------------AUU-------G-A-CA-GGCUUCUUGUCUUU------
+stu1045      -------------CUAC----------CA-AGACUUUUU---A-------
+stu0134      -------------AUAG----------CCUACUCUGUUUUUUAUUGGCUU
+stu0477      -------------AAU-------G-C-CG-UGUCUUUUAUU---------
+stu1668      -------------CCCG------G-G-UG-CCAGCCUUG-----------
+stu1179      -------------CGU-------G-G-CA-GAUUUUUUA-----------
+stu1848      -------------AUAA-----------U-CCGCUUUUUUU---------
+stu0407      -------------GUG---------A-CG-GGAUUGUUUUUU--------
+stu0613      -------------CUUG------C-A-UG-AGAGAUUUUUC---------
+stu0366      -------UAAUGUUCU-------A-G-CU-UCUGUUUUU-----------
+stu0373      -------------UAUU------A-C-UA-GUCUUUUUU-----------
+stu0868      -------------ACUU------A-G-UU-UGUGAGUUUUUU--------
+stu0062      -------------CAGU--------C-UC-CGUUCUCUUUUUGUUU---G
+stu1916      -------------UUA-------C-C-UU-ACGACUUAA-----------
+stu0812      ---UCAUUUUGGCAAA-----------GU-UGGGCUUUUUG---------
+stu0488      -------------CUGU------U-C-UC-GAACUUUUUU----------
+stu2024      -------------UAAU------G-U-AA-AGGUCUUUUUUGG-------
+stu0394      -------------UAAU------U-C-CC-AAUGUUUUUUAA--------
+stu0718      -------------UCG-----------GU-GGUGAGCUUUUUGU------
+stu0178      -------------UCUA------G-U-CA-CCUCCUUUUU----------
+stu0457      -------------AAA-------A-U-CC-UAUCUUUUU-----------
+stu0697      -------------AAC-------A-G-GA-UCGCUUUUUUU---------
+stu0329      -------------AUUG------U-U-CC-GACCUCGUUUUUAU------
+stu1465      -------------GCAGU----AU-C-AG-UUGCUUUUA-----------
+stu0467      -------------ACA-------G-U-CA-AGUGAUUUCUUUUA------
+stu1750      -------------UAA--------------GGGUGCUUUUUU--------
+stu0889      -------------UAUG------G-C-UC-UAGUUUUUUUAUGG------
+stu2004      -------------CUA-----------GG-UAACCUUUUUGCAU------
+stu0487      -------------UUA-----------CU-CGGCUCUUUUUG--------
+stu0468      -------------GUAA-----AU-C-AA-GUGAUUUCUUCUUG------
+stu0600      -------------ACC-------G-C-CA-CAGCUUCUUUUU--------
+stu0023      -------------GAUA----------GG-UCUUCUCUU-----------
+stu1275      -------------UUU---------G-GA-UGGCUUUUCCUAUUUUUUGG
+stu1726      -------------UGAU-------------ACUGGAUUUUUUGA------
+stu0711      -------------CCAA------C-C-CU-CUAUUUUUUCUU--------
+stu0370      -------------AUAA-----AC-C-UG-CUUAUUAUU-----------
+stu0877      -------------GAAA------G-A-AU-GUUGUUAUUUU---------
+stu1995      -----UCGGUAGAUAAA----------GU-AGCUUUUUUCUCU-------
+stu1615      -------------UCUG------G-U-AG-GCUCUUUUACU---------
+stu1684      -------------UUA-----------UG-UCACUACUUUUUUA------
+stu1430      --------------UAG----------UG-UCUCAGCUUCCUUC------
+stu1150      -------------AUGG------U-C-UU-UGGCUUUUUCUU--------
+stu0692      -------------CAA-------A-U-AA-UGGGAUAUUUUUAUA----U
+stu2007      -------------CGU-----------AG-GCGUUCUUUUUC--------
+stu1799      -------------AUGU------C-A-GU-GGGAUUUUU---GCUA---U
+stu1802      --------------AA-------G-C-UC-GCUCCUUUU-----------
+stu0586      -------------GAGA------C-U-UU-GGAUCUUUAUU---------
+stu0463      -------------AAAA------U-A-CU-GCUUGUUUUUUUCA------
+stu1520      -------------UAGG------U-C-CA-GAAUCUUUUUUGAA------
+stu0408      -------------UAAA------U-G-GA-UAGACUUUU-----------
+stu1517      -------------UUUAU---CCU-C-CA-AGAGUUUUU-----------
+stu2002      -------------AAU-----------UA-AGGCUUUUUUAUGU------
+stu1940      -------------AAA-------C-U-AG-GUGCUUUUUUCUU-------
+stu0077      -------------CCC-------A-U-AA-UCUGUCUUUUU---------
+stu1025      -------------AGAA------U-U-CC-UUGGUUUUUUCU--------
+stu1260      -------------GGA-------G-C-UU-GGCUUUUUU---GG------
+stu0550      -------------CUUU------U-U-GG-UCUGAUUUUUUUGUGUU-AU
+stu1574      -------------UUAA------A-U-CGUUCAUCUUUU---GACG---C
+stu0540      -------------ACA-----------GG-GGAAGUCUCUCUUA------
+stu0012      -------------AUU-----------GG-UUCUCUCCU-----------
+stu0589      -------------ACUA------G-A-GG-GCAGAGUUUUUUCU------
+stu1867      -------------AAU-----------GU-GGGUUCUUUUUGUA------
+stu1250      -UAAAAGCGUUUCUUAC------C-G-AC-CUCCUUUUUUGAUAUA---A
+stu1207      -------------UUUU------U-C-CA-AACUCUUUUUAUCU------
+stu1317      -------------CUAUU---AAG-A-UG-UUUGCUUUC-----------
+stu1292      -------------AUA-----------AG-AUGGAUUUUUAAG-------
+stu0981      -------------AUUG------G-U-UA-ACUCUUAUU-----------
+stu1296      -----------GAUAAG----------AC-GAAGGUCGU-----------
+stu1866      -------------UUU---------U-UC-GGGCUUCUUUUC--------
+stu0192      --------------AG--------------GGGCUGUCUU----------
+stu1603      -------------AUU-------U-C-CA-AUCGGUUUUUU---------
+stu1330      --------------UUA----------GG-UUGGCUUUUUUUAC------
+stu1188      -------------AAAG-----AG-U-AU-GCAACUUUUUUG--------
+stu1242      -------------AUAAAC--UAG-U-GA-UAGAUUUUUCU---------
+stu0938      -------------GCUG------U-C-UA-CUAGAUUUUUUU--------
+stu0160      -------------AUU-----------GA-AGUCCUUUUU----------
+stu0656      -----------AAGCU-----------GA-CUUGGUUUUUU---------
+stu0916      -------------UCUC--------U-AU-AGUGGUUUU-----------
+stu0587      -------------CAAG----------CU-AGUGGUUUUCUU--------
+stu0363      --------------AA-----------GG-GCGUUUUUUCUAUA------
+stu1568      -------------AAAA----------UA-GAGCGUUUUCCUAU------
+stu0229      -------------GAA-------U-U-CC-AGUGUUUUU-----------
+stu0895      -------------UAAA------G-G-GA-CUUUUUUUGUUUCUU----C
+stu0861      -------------UUG---------C-UA-ACGGCUUUU---GA------
+stu0249      --------------UU-----------CG-GCUGAUUUUUUUGUGU--UU
+stu0181      -------------GUAC------U-C-UA-ACAGGGCUC-----------
+stu0713      -------------UCUU----------GU-CCAGUUUUUUGU--------
+stu1222      -------------AAAA------C-A-UAAAAUUUUUUG-----------
+stu1263      -------------UUA-------U-A-AG-GCUCUUUUUCUGUA------
+stu0903      -------------AGA-------G-U-GA-AGGCUUUUC-----------
+stu0027      -------------AUUA-----AG-C-AU-UGUCUUCUUUUGUU------
+stu0345      -------------UUA-------U-G-GC-AGGAAUUUUUGCGU------
+stu0195      -------------CUUG--------U-AG-AAAGUGUUUUUCUG------
+stu0472      -------------UUAU------U-A-AG-GAGAAUCCUUGCAAU-----
+stu0636      -------------AAUC------G-G-GC-UGUCUUUUU-----------
+stu1308      -UAAAGAAACGGUUCA-------G-G-UU-GGGUGGUUUUUUCUU----G
+stu1367      -------------UAUG-----UA-U-UAUUAGUCUAGUUACU-------
+stu1886      ----------UGUUUUU------G-C-UG-GGAAAUUUU---GU------
+stu1383      ----------UAAUAUA------G-G-UU-GUUGCUUUUUUUAG------
+stu0150      -------------UUA-------G-U-CA-GUUCUUUUCU----------
+stu1575      -------------AAG-------C-U-GA-UAGCAUGUUUUUGUCA---U
+stu0409      -------------AAA--------------GGCCUUUUUUCGUU------
+stu0420      -------------GGU-------G-A-AG-GAGCUCUGUUUU--------
+stu0660      -------------AUCA----------UU-UGAGGUUUUUGUA-------
+stu1340      -------------CUUU------A-C-UU-AGGUGUUUU-----------
+stu1614      -------------GUA-------G-A-CA-UCCCUGUUUUUUU-------
+stu0539      -------------CAUA------A-C-UG-GUGGAUUUUUUCUGAA---U
+stu1149      -------------CAAA-------------GAGUCGUUCUAU--------
+stu1734      --------------CUG----------UU-UCGGCUUUUUU---------
+stu0434      --------------UA-------A-G-UC-AUGCGUUUU-----------
+stu1992      -------------AAU-------U-A-GC-CGGCUUUUA---GUUU---A
+stu1659      --------UCAACUCU-------G-C-UU-AAGCUUCUUCUU--------
+stu1556      -------------AAGC------C-C-AG-GCUCUUUUG-----------
+stu1182      -------------UUUU------GUC-CU-CAGGUCAUUUUUGUU----A
+stu1204      --------------UU-----------GG-UCAGCUUUUUUGU-------
+stu0270      -------------AAAU------G-U-CA-CUACUUUUUUUAGGGU--UA
+stu1737      -------------UCUG-----UA-C-UU-GCGACUUUU-----------
+stu0392      -------------UUAA-------------CGGCCUUGG---A-------
+stu1366      -------------AUUA------U-U-CG-GUUUCUUUUUUUGAU----U
+stu1672      -------------GAGAA---CUC-C-CA-UGGGAUUUUUUUA-------
+stu1059      -------------GAA-----------AA-GCACGUUUUUAGU-------
+stu0509      -------------UUCU-------------GGUGAGUUUUU---------
+stu0675      -------------AUAUU---AGU-U-AA-CCUC---UUUUUAUU----U
+stu0194      -------------UUG-----------GC-UGGUCUUUUUUCUG------
+stu1809      -------------UUUU------A-A-GG-CUAGUUUUU-----------
+stu0269      --------------CUG----------AA-CUGCAUAUUUUUG-------
+stu1532      -------------AUCUCA--ACU-C-UG-GCUCCUUUUUUAUU------
+stu0599      -------------GUUG------G-C-GA-CGGCUUCUUUUU--------
+stu1767      --GAAUGAGCCACUUUU----------CA-AGUCUUUUC-----------
+stu1643      -------------AUUA--------A-UU-UGGCUUCUUUUAAUGU---U
+stu0724      -------------AAUA------G-A-CU-UGGGCUUUUUGUC-------
+stu1817      -------------UCG-----------GA-UAGGUUUUUUU---------
+stu0121      --------------AAA-------------AGCGUCUUUUUCUU------
+stu1060      -------------UCU-----------GA-GCACGUUUUUCUUA------
+stu0117      -------------UAA--------------GGAUGUUUUUUAAUGU---U
+stu1009      -------------AAC-------U-C-CA-GGUUGUUUUUGU--------
+stu1657      -------------AUA-------G-C-GA-GUUCUUUUCUUUUUGU--AA
+stu0596      --------------AU-----------GG-GAGUCCUCUUUCAU------
+stu0132      -------------GUU-------G-A-GA-CUUGAUUUUUU---------
+stu0230      -------------UUA-------G-A-UA-GCUCUUUUU-----------
+stu0497      -------------UUAAU----UG-C-UA-AAGGUCUUUCGAUU------
+stu0719      -------------AAG--------------CAAAAUUUUUGAAAG-----
+stu0354      -------------GUAA------A-G-CA-AGCGUUUUU---C-------
+stu1518      -------------AUAAA---UUU-C-CA-AGAGUUUUA-----------
+stu1762      -------------CUAU------G-U-CC-AGUCUUUUUCA---------
+stu0654      -------------UAAU------U-CCCU-AGAGUGCCUUUU--------
+stu0510      -------------GAAA-------------GGUGAGUUA-----------
+stu1966      -------------UGUA------A-C-UC-AGACUUUUUUAACUU-----
+stu1997      -------------AUU-----------AU-GGGCUUUUU-----------
+stu0486      -------------GCAU------A-C-GA-CUUCUUUUU---G-------
+stu0811      --------------UC--------------GGGUCUUCUUUUU-------
+stu0696      -------------ACG-----------AG-GCCGUUUUAUUGUC------
+stu0635      -------------UGG-----------GG-AAUCUCUUUUUUGUC-----
+stu1996      ----CCGAGAUACUUU-----------GU-AGCUUUUUUUGUGC------
+stu0495      -------------GUU-------G-G-UU-UGUGUCUUUUUUAGU-----
+stu0746      -------------AUU-------G-G-AA-UGGCUUUUUCUGUGUU---C
+stu0485      -------------UAA-------G-U-CU-CGUUUUUUU-----------
+stu0196      --------------AA-----------AU-CCUGGUCUUUUUG-------
+stu1288      -------------AAGC----------AA-UGGCUUUUUA--UUA----U
+stu0860      -------------UUU--------------GAGUGUUUUUUUAU------
+stu1256      -------------CCA-------G-G-GUUCACUUUUUU-----------
+stu1361      -------------UUU-------G-G-CC-UACCAUUUUUGA--------
+stu0090      -------------AAAU----------GC-UGCUCUUUU-----------
+stu0929      -------------UUAA-----UA-A-AA-CUUGAUCUUUUCUUAU--AC
+stu1914      -------------UAAG------U-U-UC-UGUCCCUUCUCUUU------
+stu0241      -------------UGAC----------UA-CUGAGUUUG-----------
+stu2005      -------------UAU-------C-U-CU-CAGCUUUUU-----------
+stu1277      -------------UAA--------------GGUCUUUUUCUA--------
+stu0471      -------------GCUA------U-C-GG-GAACUUUUU-----------
+stu0798      -------------GUA--------------GGAGUUUUU-----------
+stu1768      --CAUUCAGAGCGACUC----------CA-AGUCUUUUUUUCCU------
+stu0986      -------------AAA--------------GGUCCUUUUU----------
+stu2020      -------------UAU-------C-C-CA-ACCUGUCUU-----------
+stu1358      -------------AGAA------U-C-UU-GUCUCGUUUUUUCG------
+stu0454      -------------GAAA-----AG-A-GU-GGUUCUUUUUU---------
+stu0538      ACAACUCAUUCCUCAAG------U-U-UU-GGCCGCCUU-----------
+stu0680      -------------UAA-----------GU-GAUGCUCUU-----------
+stu0977      -------------AGUA------U-C-CU-GGUCUGUUU-----------
+stu0200      -------------AGAGG----CG-G-GA-AGAGAUUUUUCUUU------
+stu1127      --------------UUU----------UG-UCUCUUUUUUU---------
+stu1068      --------------UC--------------GGUCUGUUUUU---------
+stu0358      -------------UAGCU---AGG-A-GA-AAAGUUUUUUUC--------
+stu0522      -------------UGUG------A-G-AG-AGUGUCCGUUUU--------
+stu1935      -------------AUUU----------AA-AGAUUGAUU-----------
+stu0155      -------------UAA-------A-U-CU-GGAGGUUUC-----------
+stu1054      -------------GAUUUUUGGUC-U-UG-CACCUGCUUUUUUA------
+stu1543      -------------AAUC----------GA-GCUUUUUUCUUAGUCU---U
+stu1587      --------------GAA----------UG-GGGAGUAUUUU---------
+stu0021      -------------AAG-------U-U-UG-CGCCAUUUUUUG--------
+stu0786      -------------UUUAA---UCU-A-UA-GGUGGUUUCUUGGU------
+stu1789      -------------AAA-------G-U-AA-GUGCCUUUUUCUAUUG--CA
+stu1839      -------------GUAA----------GG-CCUCUAUUUCUAGA------
+stu1584      --------------UU--------------GGGCUGUUUUUUU-------
+stu1560      --------------UAG------U-G-GU-UGAGCCUUUUUC--------
+stu1875      --------------UA--------------GGGCUUCCUUUU--------
+stu1295      -------------CUU-------U-A-UC-ACUAUCUUUUUUUA------
+stu1967      -------------ACAA------A-C-UC-AGACUUUUUCUUAU------
+stu0460      -------------UGUU------U-A-GU-AAUCUUUUU-----------
+stu0519      -------------UUG--------------CCUGGGCUUUUUA-------
+stu0024      -------------AUCU-------------GAUCCUCUCU----------
+stu1733      -------------UGA-------U-C-UU-AAGGCGUUUUGCU-------
+stu1955      -------------UUAU----------CA-AGGCUUUUA-----------
+stu1008      ----CCAUUCCGAUUUA----------GG-UUGAUUAUUUUU--------
+stu1567      -------------AAUA------A-C-CG-UGUGUUUUUUGGUCU----U
+stu0699      -------------UCAG----------AC-ACUGGUUUUCU---------
+stu1752      -------------UCU-------G-A-GG-GUGUUUUUUUC---------
+stu0626      -------------ACCU-----GG-U-AU-UAGAUGAUUUUUUUG-----
+stu1280      --------------GU-----------UG-GAGGUUUUUUAG--------
+stu1628      -------------AAAA------G-U-UG-CUACAGUUUUUUUAUU---C
+stu1014      -------------UAA-------G-U-UA-GCAACCAUUUUU--------
+stu0557      -------------UGA--------------GGCUCUUUUUUA--------
+stu1147      --------------UUG----------AG-AGUCGUUUUUUAG-------
+stu0425      ---------GCGUAGGA------U-C-CG-UAGCGGUGUU----------
+stu1063      GAAGGUUUUCUCGUCAG----------UU-GGUCUCCUU-----------
+stu1378      CAUUUUUUCAUAAUAAU------G-C-UA-GGCCACCCC-----------
+stu2013      -------------GUUU------A-U-UU-AGCAACUUU-----------
+stu1488      --------------UUG----------UU-AGGCCCUGAUUUUG------
+stu1158      -------------AGUU------U-A-GU-GUGGCUUUUUAAAAGGAUAG
+stu1968      -------------ACU-------G-U-UU-GCUUCCUUUUUU--------
+stu1172      -------------UUUU------U-U-GA-AUUCUGUUUUU---------
+stu1778      -------------CUU-----------GA-GCUCUUUUUUUAUG------
+stu1563      -------------UAGA------U-C-UG-AUGGAGUUUUUUU-------
+stu1496      -------------AAU-------G-A-AU-GAAUAGUUUUUUUA------
+stu0919      -------------CUAU-----------U-UCUAAUCCUUUGGU------
+stu1289      -------------CUUU----------GA-UGGCUUUUUUGUAU------
+stu0932      -------------CUAC--------C-UU-UAAGAGUUA-----------
+stu1200      -------------UAUU-------------CCGAAAAUU---AC------
+stu0990      --------------UA--------------GGUCUCUUU-----------
+stu0602      -------------AAU-------G-A-CU-UGUUUUUUU-----------
+stu1740      -------------ACUG------G-U-UU-GAAAGCUUU-----------
+stu0787      --------------UAA----------GC-UCUAGGUCUUUUUU------
+stu0829      -------------UGU-------C-G-CU-GGUGAUGCU-----------
+stu0552      -------------UUUA----------GG-UAGGCUUUUUUUGUCU--AC
+stu1738      -------------GCUGU----UU-C-AA-CUUCUUUUUUUG--------
+stu0426      -------------UAU-----------GC-AAGGCUUUUUU---------
+stu1269      -------------UAGA------A-A-GG-AACUUGUUU---GC------
+stu1712      -------------AUUG------G-A-GG-GAUUCUUUUUUGA-------
+stu0955      -------------CGU-------U-A-GG-GCUUCAUUUUUUA-------
+stu0661      -------------AUU-------G-A-AC-UGGCUUUUU-----------
+stu1212      --------------UGC-------------AGGCUUCUUCUUGC------
+stu1140      -----------UCAAAA------G-U-CU-CCAGCUUUUUUAGUGG---U
+stu0348      --------AAUCAUCAU------C-U-CA-AUUGGCUUUUUGAG------
+stu1671      -------------AAU-------G-C-UU-CAGAUUUUUUAUGCUU---A
+stu0969      -------------AUAU------A-U-GA-GCGCUUUUU-----------
+stu0848      --AGUUGGCAAAAAUAU------C-A-UC-AAGGUGUUUUUCG-------
+stu1625      -------------AAA---------G-GU-UGGUUCUUU-----------
+stu0349      --------GAUUUUCAU------C-U-CA-AUUGGCUUUUUUA-------
+stu0970      -------------UAUU------A-U-GA-GCGCUUUUUUUAUGCU--UA
+#=GC SS_cons .............____......>.>.>>.>>>>>>>>>:::........
+#=GC RF      .............uuaa......g.c.ua.ggucuUUUUUUU........
+
+stu1551      --UAUAU--------
+stu1947      ---AUUU-UUAAUAG
+stu0202      UAUUUUU-GACUAAG
+stu0312      ---ACGU-GUCUAAU
+stu2021      ---AGAU--------
+stu1961      ---UUUU--------
+stu0869      --AUUAU-GAAAUUG
+stu1261      ---AACA-UAUACAA
+stu1663      ---AAUU-AAAAUUU
+stu1174      ---AGGU-CCGAGCC
+stu1281      --UUUUU-AAAAUAC
+stu1553      ---GAUU-GAAGACA
+stu1819      --C-AUU-GAAUUAU
+stu1271      ---AUG--GCUCUAU
+stu1885      -UUUUAU-CCAUGUA
+stu0515      ---AUUU-AACAGCA
+stu0670      UUAUUCU-GCUACUU
+stu1196      UUUAUAU-UCUAUUU
+stu1438      --UAGUC-CAAAUUU
+stu1893      --UUUUU-ACGAAUA
+stu1519      --UGUAU-AAAAAAA
+stu1123      ---AUUU-GAAUCAG
+stu0334      --UGUUU-AUAAAAG
+stu0915      --GGGCU-GAAAAAG
+stu2018      -UUGGAA-CCCAAAU
+stu0110      UCGACAA-GUUACCA
+stu0855      ---GUGA-GUUAAUU
+stu0840      UAAUUAU-GAAACUC
+stu1164      ---UCUU-CAAUUCA
+stu0674      ---AUUU-UUCAAAA
+stu0264      GUU-UUAGGCUAAAA
+stu1756      -GAUUUU-UCAAUUG
+stu1208      -UUAUCU-GUCAAUA
+stu2016      ---GUGC-AUCAAUA
+stu1894      GUC-----GAGUCUU
+stu0154      ---AUUU-UUGAUUA
+stu1165      ---AGUA-UCUAGAC
+stu1958      ---AUGU--------
+stu0356      ---GUGU-UAUAAUA
+stu1583      -UUUAUA-GAAAUCC
+stu2017      ---AUUU-CUUAGAA
+stu1766      UAG-----GAAAAAA
+stu0838      UUCAGUU-GCAAUUA
+stu0665      --C-UUU-GCGAACC
+stu1503      UUAAAUU-GGUAAUC
+stu1406      ---GGGU--------
+stu1729      --UUUAU-CCAAAAU
+stu1437      --C-AUU-GAAAAGA
+stu1384      ---ACUA-GAUUAAC
+stu1921      ---AUUA-AACACAA
+stu0397      ---UUUU-GCUGUUC
+stu0335      -GAUUAA-GGUAAAA
+stu0094      -UUUGUU-GAAAUUU
+stu1852      ---AUUU-GAUAUAG
+stu1535      ---------------
+stu1573      --G-UGU--------
+stu1808      GUC-UUU-CGAAAAC
+stu0253      -UAAAUU-UCAAAAU
+stu1604      UUC-UAA-GUUUUAG
+stu1598      CUCAUUU-AGCAACU
+stu1804      ---AUUC-UAAAGUU
+stu0263      ---UUAU-GCUUAAA
+stu1637      --CAUAU-AAUAAAU
+stu1878      ---AUC--GAUAUAA
+stu1445      ---AUGU--------
+stu1089      -UUAUCU-CUUUUUU
+stu1853      GUUUUUU-GGCUUUG
+stu0158      UUC-UCU-GAUAUAA
+stu0080      -GC-UUU-GAAAAUC
+stu0374      ---UGCA-CAAAAAA
+stu1899      GAAUUGU-CAAAUUA
+stu0290      --C-UUU-GUCAAAC
+stu0508      --UAAAU-UAAAAUA
+stu0390      ---UUUA-GACAUUG
+stu1700      -UAUAAU-GAUAAGG
+stu1797      -UAUUUU-GUUGGAG
+stu1504      -CG-----GCGGCCG
+stu1571      UUUUUAU-GAGAUAU
+stu1128      ---AUAU-AAAAAAU
+stu1455      ---GUGU--------
+stu0074      GUAAUUA-GAAAACA
+stu0355      -UAUUUA-GCACUCU
+stu1155      -UUUUAU-CCGUCUU
+stu0669      GAUAUUC-GAUUAGG
+stu1511      UUC-UUU-UCCAACU
+stu1993      -UUAUUC-GACAGUU
+stu1464      CUUUAUA-GACUCUA
+stu1794      GUAUUAU-GGUAUAA
+stu0592      AUAGUAU-GCUAUAA
+stu1611      ---AUU--GCUGAUU
+stu2022      ---AUCU-GAUCCCA
+stu1970      ---UGCU-AUAAUAG
+stu1962      -CCUAGU-GCUAUAA
+stu1673      --C-----GAUAAAG
+stu1569      ---AAAA-CAUUAUU
+stu1191      --C-UUU-AAAAGUU
+stu0701      --UAUUU-CAAUAAU
+stu1605      -CUAUUU-CUGAAUU
+stu0604      ---UUUU--------
+stu0228      ---AAUU-GAAUUUU
+stu1462      --C-----GCAUCAU
+stu1199      ---AUAU-GCUUAAA
+stu0788      ---AGUU-GUGAUAC
+stu1788      --U-UUU-CUCACGA
+stu1432      UCC-UCA-CCUUGAA
+stu0997      --U-UGA-GUCAGGU
+stu0187      ---GUGA-UAUACUA
+stu0097      -AA-----GAGAAUU
+stu0679      ---AUUA-GUUAUGU
+stu0649      -UUUUUUGGUAUUAA
+stu1654      -AC-GUU-AAUAAAG
+stu1264      ---AUAU-CUAAGCA
+stu1502      ---AUUA-CCAAUUU
+stu1820      UUC-AAU-GUAAAAA
+stu0064      AUUUUUU-CAUUUUU
+stu1113      -GUUGUA-GCUAAUA
+stu1229      ---CUUU-AUAAAAA
+stu1239      AAG-----GACCUAU
+stu1699      ---ACUU--------
+stu0678      ---AAAU-AACAAAU
+stu0344      -CAUUAU-AAAAAAG
+stu0047      ---AGUA-ACCAAAA
+stu1774      --AGUAU-GCUACAA
+stu1012      -AC-----GAAAAAA
+stu0022      ---AUUU-UAUGUAA
+stu1552      ---CUUU--------
+stu0393      --C-----GGUAUGA
+stu0125      ---AUGU--------
+stu1400      GAG-----GAAAUAA
+stu0983      ---AUUU-UAAAUUA
+stu1232      AGG-----GAAACUU
+stu1936      ---AGUU-UAAAAAU
+stu0442      ---AUUU-UAUAUAA
+stu1857      UGC-UUU-GAAAGAA
+stu0677      --UUUUU-GAAGGCG
+stu0045      --U-GGU-GAUAUCU
+stu1647      --U-UUA-GACUAAA
+stu1695      UUC-UCU-CAUACAA
+stu0283      -UUUACA-GCCAUAA
+stu1360      -UUUUUC-UAAACUG
+stu0582      ---UUGU-GAUAGUU
+stu0073      ---------------
+stu0157      ---AUAU-CAGAGAA
+stu0891      CACUUAU-GUUAGUU
+stu1087      ---AGGU-GUUAGCU
+stu1007      UAC-AAU-GAUUUAC
+stu1975      ---UUUU-GUCAAAU
+stu0377      --GAUUU-GGAAUAA
+stu1132      ---AAAA-GCUUUUA
+stu0050      UAUAGGU-GUUUCAA
+stu1045      --C-UAU-GGCUUCA
+stu0134      CUUUUAU-GCUAAAA
+stu0477      ---GAAA-GUAAACG
+stu1668      ---CACU--------
+stu1179      ---AUAA-GUCCUCU
+stu1848      ---GUUU-GCCAUAA
+stu0407      --U-UGU-GUCGUAG
+stu0613      ----UGU-GAUAUAG
+stu0366      ---AUU--GUUAAAA
+stu0373      ---AUGA-CAACUUU
+stu0868      --UGGCU-CUAUAAU
+stu0062      GAUAUCU-GUAUGUG
+stu1916      ---ACU--GAAUUUC
+stu0812      ---AGUA-CAAAAAA
+stu0488      ---GUUU-GUAAACA
+stu2024      --G-AAA-GGAAUAC
+stu0394      --UAUUU-UCUAAAA
+stu0718      -UAUAAU-GAAAAUU
+stu0178      ---AUUA-GUAAGCG
+stu0457      ---UCUU-AAAAAAA
+stu0697      ---GCAU-GAAAAAA
+stu0329      UUUACUU-UAUACCA
+stu1465      ---AAGU-UCAUCUA
+stu0467      -CUUAUU-GUCAGUA
+stu1750      --G-CGU-CAGAAAU
+stu0889      -CAUAUU-GACAUAU
+stu2004      -UAUUCU-UUAAUCA
+stu0487      --G-UCU--------
+stu0468      -UCUAGU-CAAAUAU
+stu0600      --UAUAA-GACUUUA
+stu0023      ---UUUU--------
+stu1275      CUC-UUU-GUCAACU
+stu1726      UUU--UAGGGAAGAU
+stu0711      --AAGGA-GAGGUAA
+stu0370      ---UUUU-UAAAAAC
+stu0877      ---UUGU-GAAAAAC
+stu1995      -UAUAAU-UAAAUUC
+stu1615      ---UUUC-GUAAACU
+stu1684      UCG-----GCUUCCA
+stu1430      UUUAUGA-UGCAUAU
+stu1150      ---AUCA-CAUCUUG
+stu0692      GAG-----GUAUAAA
+stu2007      --G-UCU--------
+stu1799      GCG-----GAGAAAG
+stu1802      ---UGUU-AUAAUAG
+stu0586      ---AUUU-GUUUUGA
+stu0463      -UAUUUU-UGCAUUU
+stu1520      -GA-----ACCUUAU
+stu0408      ---UUGU-GGCUAAA
+stu1517      ---UGCU-GUCAAUC
+stu2002      UAUAAUU-GUUAGAU
+stu1940      -UAGUCA-GUAAACA
+stu0077      ---GUGU-CGAUAAG
+stu1025      --UAUCU-AGAAUCA
+stu1260      -UAUAAU-UAAAGCG
+stu0550      AAUGGUU-CCUAAAA
+stu1574      UAG-----CCCCUAU
+stu0540      CUG-----CACAUCA
+stu0012      ---UUUU--------
+stu0589      -UUGGCU-GACAAAA
+stu1867      UUUAUAU-CAUCAAA
+stu1250      UUGAAGA-GACUUAA
+stu1207      -UUAUUU-GAGGAUG
+stu1317      ---AUUC--------
+stu1292      -AUAGUA-GAUAUAA
+stu0981      ---AUUU--------
+stu1296      ---AUUU-GACAAAG
+stu1866      ---AUUU-UCUUAAA
+stu0192      ---GUUU-GUAAAAG
+stu1603      ---AUUA-AGAAGAC
+stu1330      GUCACAU-GACAAAU
+stu1188      --U-UGU-GGCCUGU
+stu1242      ---AUUA-AGAAUUG
+stu0938      --A-AUA-CAAUGAU
+stu0160      ---AUCU-GGUUUAG
+stu0656      ---ACAU-GAGCAAA
+stu0916      ---ACCU-ACUACAG
+stu0587      --GUUCU-GCUAACC
+stu0363      GUC-UCA-GACUGAU
+stu1568      ACC-UUU-AAUAUAC
+stu0229      ---AGUU-GACUUCA
+stu0895      UUG-----CGAAUAA
+stu0861      -UAUGUC-AAGAAAU
+stu0249      AAC-----GUUUUUU
+stu0181      ---AUAU-AUAAUAA
+stu0713      --AAAAU-GACUUAC
+stu1222      ---AAUU-GACCUAU
+stu1263      AGAAUCU-GGUAUAG
+stu0903      ---GUUU-UAGAGAG
+stu0027      -UCACGU-GAAACAG
+stu0345      -UAUAAU-AGAAUAA
+stu0195      -UGGUCU-GGUUAAG
+stu0472      UUC-UCU-GAAAUGU
+stu0636      ---AGAU-UAAAUCA
+stu1308      UCCAUUU--------
+stu1367      -UAUUUU-CAAAUAC
+stu1886      -UAUAAU-AAAAACA
+stu1383      UAUAUGU-GAUUUUC
+stu0150      ---AUGU-GUAAACU
+stu1575      UUUAUUU-GUUUUAU
+stu0409      AAGACAA-GCCAAAG
+stu0420      --A-GUA-GCUUGAC
+stu0660      --C-UCU--------
+stu1340      --AUCAU-GCAAUAA
+stu1614      --C-UUU-UUUAUUU
+stu0539      GUGAUGU-GCAGUAA
+stu1149      --AAAUC-GAAUAAU
+stu1734      ---AGUU-GAAUGUU
+stu0434      ---GUGU-UAUACUG
+stu1992      UAC-AUU-CUCAGUU
+stu1659      --UUGUU-GAAAAUA
+stu1556      ---AUG--GAUUAGU
+stu1182      UAAUGGA-GAGAAAA
+stu1204      -UUUUCU-GAAAAAA
+stu0270      AAUAUGU-ACUAUAG
+stu1737      ---UCUU-GAGCUUA
+stu0392      --C-UUU-GCUAAAG
+stu1366      CUAGGUU-GUAAUAA
+stu1672      -UUGUGU-GAAAAUA
+stu1059      --UAUCU-CCAAGAA
+stu0509      ---UAUU-GCAAAAA
+stu0675      UUGAGUU-GACUAAU
+stu0194      -UUAUUAGCACUUCG
+stu1809      ---UUUU-GACAAUG
+stu0269      -UUGGAU-AAUCAAG
+stu1532      -UAUUUU-UUAUUAU
+stu0599      --GAAUU-UAUACAG
+stu1767      ---AUUU-ACUAAAA
+stu1643      UGCUUUU-UUCAUUA
+stu0724      -UAGGUU-GAAAGUU
+stu1817      ---AAUU-GAGCUAG
+stu0121      -UAUUUU-GGAAGCU
+stu1060      -GUUAUU-CAUUUAU
+stu0117      UCUAGGU-CUCUAGA
+stu1009      ---AUGA-GUAAAUU
+stu1657      AACACUU-GCUUUUC
+stu0596      UAUAGUU-GUGUUUA
+stu0132      ---AUUC-UAUAAAU
+stu0230      ---ACAA-CCAUAAA
+stu0497      UCG-----GAUAAUG
+stu0719      CUC-UAU-CACUUUA
+stu0354      --U------------
+stu1518      ---AUUU-UUAUUAG
+stu1762      --UAUAU-CUCAAAU
+stu0654      --UAUCA-CUCAAAA
+stu0510      ---GGUU-GGUUUAU
+stu1966      UUC-UUA-CAAAAAA
+stu1997      ---GCUU-GUUUUAA
+stu0486      -UCUUUUGGAGUGUA
+stu0811      -UGUACU-CAAAAAG
+stu0696      -UAGAAU-GUGAUAA
+stu0635      UUC-UCA-CAAAUAA
+stu1996      UUCUGGU-GUUAUUU
+stu0495      GAAUUUU-GAUAUAC
+stu0746      UCG-----GCUAUAA
+stu0485      ---AUUU--------
+stu0196      -CAUAUU-CUAAUCU
+stu1288      UUAGUCU-GUUCAAA
+stu0860      -UUUUUU-GAAAAUU
+stu1256      ---GUUU-AAAAGAA
+stu1361      --UAUUU-GAAGUAG
+stu0090      ---AUU--GUAAAAU
+stu0929      AAGAGUU-AAUAAAA
+stu1914      -UGUUUU-UAAAUAA
+stu0241      ---AUUU-CAAACCA
+stu2005      ---AUUU-CGGUUAU
+stu1277      --U-GGA-GGGAAAA
+stu0471      ---AUAA--------
+stu0798      ---UCUU-GUCAAAA
+stu1768      AGUUGUU-GUUAAAA
+stu0986      ---AUAA-GCCCUCC
+stu2020      ---AUUA-UCAUUAU
+stu1358      UAC-AAU-GAUACAG
+stu0454      ---AGGU-UUAAGAG
+stu0538      ---UGGU-CAUACUU
+stu0680      --AUUUU-GAUAACA
+stu0977      ---AUCA-CAAUAUU
+stu0200      UUA-AAC-GACAAAG
+stu1127      ---UGGA-GGAAAAU
+stu1068      ---UCGU-GUUAUAG
+stu0358      ---UUAA-CUUAAAC
+stu0522      --U-UUU-UUUUUUU
+stu1935      ---CAUU-GAGCAUA
+stu0155      ---GUUA-GGGCACU
+stu1054      GCC-----AUUAAAG
+stu1543      GAAUUGU-CCAAACG
+stu1587      ---UCAU-CAAAAAU
+stu0021      ---AUAU-AAUUAAG
+stu0786      -GUAGCA-GCGAAAG
+stu1789      UUUUCUU-GAAAAAA
+stu1839      UUC-UCU-AUAAAAU
+stu1584      --C-UGU-CCAUAAU
+stu1560      --CAUUU-CUAAAAC
+stu1875      --UUGUU-UAAAUAG
+stu1295      -UAGUUU-CAAAAAA
+stu1967      AUCAUGU-CUUUACG
+stu0460      ---ACUU-UUGAUUU
+stu0519      --C-UAU-CAACAAA
+stu0024      ---AGAU-GUUAGCU
+stu1733      --C-UAU-ACAGGAG
+stu1955      ---CUGU--------
+stu1008      ---AUUA-UACAUAA
+stu1567      GAAUUAU-CAAAUUA
+stu0699      ---UCUU-GCCCAAA
+stu1752      ----UGU-CUUAAUU
+stu0626      CUUUUUA-GCUUUAA
+stu1280      --UAUUU-UAAAAAG
+stu1628      UCC-----CAGUAAA
+stu1014      --UAUUA-CCUAGAC
+stu0557      ---AUAU--------
+stu1147      -UC-GAU-GAAAAAU
+stu0425      ---AUUU-GUAAAAA
+stu1063      ---UUUU--------
+stu1378      ---UUUU--------
+stu2013      ---AGAU--------
+stu1488      GAG-----GAAAAGC
+stu1158      UAUAUGU-GAAAAUA
+stu1968      --A-CUA-GAGAGAA
+stu1172      ---UGUU--------
+stu1778      -UUUUUU-AAAAUAA
+stu1563      -CUUUUU-GAUAUAU
+stu1496      GUC-UUU-GAAAUGA
+stu0919      -UUUUAU-AUUAAUA
+stu1289      -GUUUGA-GUUUUUA
+stu0932      ---UUUU-GAUACCA
+stu1200      -UUGUCU-GAUAGCU
+stu0990      ---UUUU-GCCUUUA
+stu0602      ---AUAC-UUUUACA
+stu1740      ---AUUU-UCCAAAC
+stu0787      GAUACAU-GAUAAUA
+stu0829      ---ACUU-ACUACUG
+stu0552      UAGACCA-GACUUAU
+stu1738      ---AUAA-CUAAGCU
+stu0426      ---AUAU-UAUUACG
+stu1269      -UUAGUU-UAAUAUG
+stu1712      -UG-----GAUAAUA
+stu0955      --GAUAA-GACAUUA
+stu0661      --AUGUU-GAAUCAA
+stu1212      UUUUUCU-AUUAUUU
+stu1140      AUU----GGUUUUAG
+stu0348      -UUAUUU-GUUUACA
+stu1671      AAAUUUU-GAAAGUA
+stu0969      ---UUAU-GCAAUUU
+stu0848      --UAUUU-AACUAUU
+stu1625      ---AUUU-GCAAUAU
+stu0349      --C-UAU-CGAAACA
+stu0970      AUUAUUU-CACAUCG
+#=GC SS_cons ...::::.:::::::
+#=GC RF      ...aUuU.GaaAaAa
+//

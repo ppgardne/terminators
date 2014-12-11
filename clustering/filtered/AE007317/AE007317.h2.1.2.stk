@@ -1,0 +1,1997 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.1-1
+#=GF AU Infernal 1.0.2
+
+#=GS spr1688 WT 0.60
+#=GS spr0030 WT 1.00
+#=GS spr0092 WT 0.84
+#=GS spr1776 WT 1.03
+#=GS spr1700 WT 1.14
+#=GS spr1022 WT 1.02
+#=GS spr1018 WT 0.85
+#=GS spr0326 WT 0.96
+#=GS spr1713 WT 1.08
+#=GS spr0298 WT 1.06
+#=GS spr1105 WT 0.97
+#=GS spr0390 WT 0.98
+#=GS spr1519 WT 1.03
+#=GS spr0272 WT 0.98
+#=GS spr1020 WT 0.99
+#=GS spr0750 WT 1.34
+#=GS spr1165 WT 0.96
+#=GS spr1342 WT 1.03
+#=GS spr0584 WT 0.95
+#=GS spr1404 WT 0.97
+#=GS spr1495 WT 1.01
+#=GS spr0327 WT 0.89
+#=GS spr0056 WT 0.75
+#=GS spr0638 WT 0.95
+#=GS spr1565 WT 0.83
+#=GS spr1791 WT 0.86
+#=GS spr1045 WT 1.33
+#=GS spr1641 WT 0.93
+#=GS spr0510 WT 1.36
+#=GS spr1352 WT 1.18
+#=GS spr0057 WT 0.75
+#=GS spr1046 WT 0.78
+#=GS spr1666 WT 0.83
+#=GS spr1983 WT 1.01
+#=GS spr1867 WT 0.89
+#=GS spr1485 WT 0.92
+#=GS spr1803 WT 1.03
+#=GS spr1345 WT 1.24
+#=GS spr0287 WT 1.03
+#=GS spr0980 WT 1.06
+#=GS spr0679 WT 0.90
+#=GS spr1794 WT 0.95
+#=GS spr0396 WT 1.01
+#=GS spr1369 WT 1.13
+#=GS spr1491 WT 0.60
+#=GS spr0663 WT 0.95
+#=GS spr0972 WT 1.00
+#=GS spr1975 WT 1.03
+#=GS spr0782 WT 0.91
+#=GS spr1061 WT 0.97
+#=GS spr1394 WT 1.05
+#=GS spr0659 WT 1.05
+#=GS spr1992 WT 1.02
+#=GS spr1945 WT 0.90
+#=GS spr0465 WT 1.02
+#=GS spr1444 WT 1.09
+#=GS spr0706 WT 0.93
+#=GS spr0182 WT 0.98
+#=GS spr0975 WT 0.94
+#=GS spr0307 WT 0.82
+#=GS spr1903 WT 0.92
+#=GS spr0362 WT 0.96
+#=GS spr0992 WT 0.95
+#=GS spr1112 WT 1.01
+#=GS spr1036 WT 1.28
+#=GS spr1838 WT 0.95
+#=GS spr1221 WT 1.21
+#=GS spr0311 WT 0.98
+#=GS spr0614 WT 1.12
+#=GS spr1669 WT 1.03
+#=GS spr0447 WT 1.00
+#=GS spr0285 WT 0.95
+#=GS spr0692 WT 0.92
+#=GS spr1878 WT 0.71
+#=GS spr0269 WT 0.85
+#=GS spr0033 WT 1.06
+#=GS spr1763 WT 1.08
+#=GS spr0860 WT 1.10
+#=GS spr0426 WT 0.98
+#=GS spr1376 WT 0.93
+#=GS spr1430 WT 0.92
+#=GS spr2033 WT 0.97
+#=GS spr1754 WT 0.84
+#=GS spr0868 WT 1.03
+#=GS spr0897 WT 0.95
+#=GS spr1622 WT 1.25
+#=GS spr0912 WT 0.94
+#=GS spr1170 WT 1.06
+#=GS spr0855 WT 0.90
+#=GS spr1824 WT 0.89
+#=GS spr1785 WT 1.03
+#=GS spr0619 WT 1.01
+#=GS spr0592 WT 1.25
+#=GS spr1942 WT 1.12
+#=GS spr1314 WT 0.86
+#=GS spr1476 WT 0.98
+#=GS spr1358 WT 0.92
+#=GS spr1240 WT 0.98
+#=GS spr0920 WT 1.13
+#=GS spr0537 WT 0.71
+#=GS spr1681 WT 0.94
+#=GS spr0250 WT 0.97
+#=GS spr0556 WT 0.90
+#=GS spr2002 WT 0.86
+#=GS spr0220 WT 0.92
+#=GS spr1440 WT 0.82
+#=GS spr1406 WT 1.01
+#=GS spr1486 WT 0.92
+#=GS spr1171 WT 1.06
+#=GS spr1442 WT 1.10
+#=GS spr1384 WT 1.03
+#=GS spr1569 WT 0.96
+#=GS spr1047 WT 0.88
+#=GS spr0398 WT 0.82
+#=GS spr1530 WT 1.02
+#=GS spr1813 WT 1.02
+#=GS spr1518 WT 1.15
+#=GS spr0209 WT 1.20
+#=GS spr1551 WT 0.96
+#=GS spr0696 WT 1.02
+#=GS spr0509 WT 1.11
+#=GS spr2015 WT 0.96
+#=GS spr1570 WT 0.97
+#=GS spr1670 WT 1.01
+#=GS spr1617 WT 0.99
+#=GS spr2020 WT 1.04
+#=GS spr0710 WT 1.21
+#=GS spr0747 WT 0.88
+#=GS spr0695 WT 1.12
+#=GS spr1708 WT 0.99
+#=GS spr1536 WT 0.95
+#=GS spr1041 WT 1.01
+#=GS spr0784 WT 0.89
+#=GS spr1028 WT 1.02
+#=GS spr1356 WT 0.96
+#=GS spr1050 WT 1.13
+#=GS spr0781 WT 0.91
+#=GS spr0708 WT 0.85
+#=GS spr1409 WT 0.99
+#=GS spr0413 WT 1.06
+#=GS spr0482 WT 1.00
+#=GS spr1848 WT 1.24
+#=GS spr0244 WT 1.08
+#=GS spr0999 WT 1.06
+#=GS spr1951 WT 0.89
+#=GS spr0649 WT 0.90
+#=GS spr2035 WT 1.03
+#=GS spr1868 WT 0.92
+#=GS spr0155 WT 1.01
+#=GS spr1312 WT 0.83
+#=GS spr2036 WT 1.08
+#=GS spr0678 WT 0.90
+#=GS spr1716 WT 0.97
+#=GS spr0464 WT 0.97
+#=GS spr1604 WT 1.02
+#=GS spr0270 WT 0.85
+#=GS spr0583 WT 1.21
+#=GS spr1954 WT 1.00
+#=GS spr0305 WT 1.21
+#=GS spr2046 WT 0.96
+#=GS spr1100 WT 0.95
+#=GS spr1333 WT 1.02
+#=GS spr0780 WT 1.01
+#=GS spr0600 WT 1.01
+#=GS spr1865 WT 1.05
+#=GS spr1645 WT 0.93
+#=GS spr1062 WT 1.12
+#=GS spr0085 WT 0.84
+#=GS spr1515 WT 0.92
+#=GS spr0415 WT 1.03
+#=GS spr0207 WT 1.12
+#=GS spr0078 WT 1.08
+#=GS spr1571 WT 1.14
+#=GS spr0615 WT 1.28
+#=GS spr1320 WT 0.86
+#=GS spr1323 WT 1.01
+#=GS spr1311 WT 0.83
+#=GS spr0586 WT 0.99
+#=GS spr1719 WT 0.94
+#=GS spr0146 WT 1.19
+#=GS spr0804 WT 0.90
+#=GS spr0729 WT 1.07
+#=GS spr0058 WT 0.96
+#=GS spr0393 WT 1.04
+#=GS spr1631 WT 1.06
+#=GS spr1566 WT 1.07
+#=GS spr1336 WT 1.07
+#=GS spr1953 WT 0.98
+#=GS spr1790 WT 0.94
+#=GS spr1984 WT 1.39
+#=GS spr0725 WT 0.84
+#=GS spr0531 WT 0.96
+#=GS spr0274 WT 0.75
+#=GS spr0831 WT 0.93
+#=GS spr1697 WT 0.88
+#=GS spr1757 WT 1.03
+#=GS spr0947 WT 0.98
+#=GS spr0913 WT 1.04
+#=GS spr1040 WT 1.02
+#=GS spr2006 WT 0.93
+#=GS spr1383 WT 0.99
+#=GS spr1707 WT 1.00
+#=GS spr0538 WT 0.96
+#=GS spr1475 WT 0.86
+#=GS spr1359 WT 0.88
+#=GS spr1516 WT 0.85
+#=GS spr1686 WT 1.11
+#=GS spr0647 WT 0.92
+#=GS spr0581 WT 1.02
+#=GS spr0824 WT 0.91
+#=GS spr0691 WT 0.98
+#=GS spr1251 WT 0.89
+#=GS spr1842 WT 1.10
+#=GS spr1098 WT 0.92
+#=GS spr1577 WT 0.96
+#=GS spr0276 WT 0.93
+#=GS spr0705 WT 0.98
+#=GS spr1343 WT 0.95
+#=GS spr0593 WT 0.99
+#=GS spr0474 WT 1.02
+#=GS spr0880 WT 1.07
+#=GS spr0065 WT 0.55
+#=GS spr0086 WT 0.99
+#=GS spr0650 WT 0.90
+#=GS spr0337 WT 1.06
+#=GS spr1882 WT 1.08
+#=GS spr0688 WT 1.16
+#=GS spr0646 WT 0.88
+#=GS spr1370 WT 0.98
+#=GS spr1326 WT 0.91
+#=GS spr0225 WT 1.23
+#=GS spr1385 WT 0.97
+#=GS spr0372 WT 0.85
+#=GS spr1145 WT 1.19
+#=GS spr1738 WT 0.98
+#=GS spr0243 WT 1.07
+#=GS spr0867 WT 1.00
+#=GS spr0439 WT 1.07
+#=GS spr0797 WT 1.05
+#=GS spr0363 WT 1.03
+#=GS spr1911 WT 0.97
+#=GS spr0954 WT 1.18
+#=GS spr0904 WT 0.90
+#=GS spr1421 WT 1.04
+#=GS spr1411 WT 0.89
+#=GS spr1825 WT 0.88
+#=GS spr0713 WT 0.99
+#=GS spr0846 WT 0.86
+#=GS spr1119 WT 1.08
+#=GS spr0627 WT 0.97
+#=GS spr0051 WT 0.89
+#=GS spr0919 WT 1.00
+#=GS spr1957 WT 1.30
+#=GS spr0177 WT 1.52
+#=GS spr0905 WT 0.90
+#=GS spr0247 WT 1.36
+#=GS spr0492 WT 0.88
+#=GS spr1467 WT 0.92
+#=GS spr1271 WT 0.92
+#=GS spr0124 WT 1.01
+#=GS spr1250 WT 1.02
+#=GS spr1989 WT 0.85
+#=GS spr1472 WT 1.01
+#=GS spr0579 WT 1.04
+#=GS spr0131 WT 1.09
+#=GS spr1453 WT 0.99
+#=GS spr0726 WT 0.98
+#=GS spr1766 WT 0.99
+#=GS spr0179 WT 0.83
+#=GS spr1866 WT 0.96
+#=GS spr0924 WT 1.06
+#=GS spr0810 WT 0.94
+#=GS spr0441 WT 0.95
+#=GS spr0596 WT 1.01
+#=GS spr1131 WT 1.05
+#=GS spr1267 WT 1.19
+#=GS spr2040 WT 1.01
+#=GS spr0169 WT 1.03
+#=GS spr0718 WT 1.00
+#=GS spr0709 WT 0.85
+#=GS spr1465 WT 0.98
+#=GS spr0045 WT 1.25
+#=GS spr0789 WT 1.08
+#=GS spr0348 WT 1.33
+#=GS spr1553 WT 0.88
+#=GS spr0191 WT 1.10
+#=GS spr1933 WT 1.30
+#=GS spr1875 WT 1.18
+#=GS spr1544 WT 1.12
+#=GS spr0914 WT 0.99
+#=GS spr0309 WT 0.99
+#=GS spr0002 WT 0.99
+#=GS spr1973 WT 1.40
+#=GS spr0739 WT 1.09
+#=GS spr1405 WT 0.96
+#=GS spr1899 WT 1.12
+#=GS spr1351 WT 0.88
+#=GS spr1967 WT 1.03
+#=GS spr1780 WT 0.78
+#=GS spr0669 WT 0.95
+#=GS spr2019 WT 0.88
+#=GS spr1561 WT 0.87
+#=GS spr2034 WT 0.95
+#=GS spr0228 WT 1.08
+#=GS spr0400 WT 0.92
+#=GS spr1252 WT 1.02
+#=GS spr1287 WT 0.93
+#=GS spr1885 WT 1.07
+#=GS spr0329 WT 1.03
+#=GS spr1115 WT 1.15
+#=GS spr1327 WT 0.99
+#=GS spr0407 WT 1.02
+#=GS spr0438 WT 0.93
+#=GS spr1129 WT 1.02
+#=GS spr1321 WT 0.86
+#=GS spr1549 WT 0.98
+#=GS spr1109 WT 0.93
+#=GS spr0915 WT 0.98
+#=GS spr0364 WT 0.95
+#=GS spr2011 WT 0.98
+#=GS spr1032 WT 1.16
+#=GS spr1175 WT 0.96
+#=GS spr0934 WT 1.10
+#=GS spr1200 WT 1.02
+#=GS spr1091 WT 0.94
+#=GS spr0673 WT 1.18
+#=GS spr1456 WT 0.93
+#=GS spr1830 WT 1.20
+#=GS spr0602 WT 1.07
+#=GS spr1499 WT 0.99
+#=GS spr0168 WT 1.06
+#=GS spr0568 WT 1.17
+#=GS spr0235 WT 1.28
+#=GS spr0259 WT 0.92
+#=GS spr1181 WT 0.99
+#=GS spr0585 WT 0.84
+#=GS spr1646 WT 1.06
+#=GS spr0371 WT 0.85
+#=GS spr0448 WT 1.10
+#=GS spr1402 WT 1.04
+#=GS spr1944 WT 1.02
+#=GS spr0813 WT 0.95
+#=GS spr1435 WT 1.04
+#=GS spr1097 WT 0.86
+#=GS spr0096 WT 0.92
+#=GS spr1052 WT 0.97
+#=GS spr1925 WT 1.00
+#=GS spr0670 WT 0.99
+#=GS spr0405 WT 0.90
+#=GS spr1844 WT 1.09
+#=GS spr1220 WT 1.07
+#=GS spr1464 WT 0.93
+#=GS spr0452 WT 1.28
+#=GS spr0620 WT 0.99
+#=GS spr0100 WT 1.33
+#=GS spr1027 WT 1.02
+#=GS spr1488 WT 1.11
+#=GS spr0917 WT 0.93
+#=GS spr0258 WT 0.82
+#=GS spr0457 WT 0.75
+#=GS spr1724 WT 0.90
+#=GS spr0550 WT 1.11
+#=GS spr0652 WT 1.02
+#=GS spr1725 WT 1.05
+#=GS spr1811 WT 0.86
+#=GS spr0654 WT 0.82
+#=GS spr1243 WT 0.96
+#=GS spr1445 WT 1.12
+#=GS spr1122 WT 1.07
+#=GS spr1620 WT 0.97
+#=GS spr0234 WT 1.08
+#=GS spr0459 WT 0.99
+#=GS spr0890 WT 1.02
+#=GS spr1787 WT 1.09
+#=GS spr0028 WT 1.17
+#=GS spr0071 WT 1.02
+#=GS spr1302 WT 1.01
+#=GS spr0266 WT 1.20
+#=GS spr1460 WT 1.00
+#=GS spr0931 WT 1.24
+#=GS spr0204 WT 1.08
+#=GS spr1506 WT 1.08
+#=GS spr1397 WT 1.02
+#=GS spr1934 WT 0.87
+#=GS spr1800 WT 0.95
+#=GS spr0814 WT 0.86
+#=GS spr1177 WT 0.82
+#=GS spr0838 WT 0.96
+#=GS spr0674 WT 1.00
+#=GS spr0566 WT 1.32
+#=GS spr1918 WT 1.21
+#=GS spr1955 WT 1.33
+#=GS spr1162 WT 0.51
+#=GS spr0574 WT 1.05
+#=GS spr1922 WT 0.51
+#=GS spr1986 WT 1.06
+
+spr1688      AGAUUUCAAAAUGAU-----------AA-AAAC-GCAUCCU----AU-CA
+spr0030      UGUUGUAAAAUGGCU-----------CC-AUAA-UAUCCAU----AG-UG
+spr0092      CAUUGAAUAAAAAAG-----------AA-AAAC-GCAUAUU----AC-CA
+spr1776      AAACAGUAGAAUA--------------A-GAGA-GAAUGAG----AG-AA
+spr1700      AAACGCAAGAAAU--------------A-AAAG-A----CU----GA-GA
+spr1022      AAGGGAAAAAAUA--------------A-AAAG-CUCCUUU----CG-G-
+spr1018      CCUUUGAAAAAGAAU------------A-AAAA-G--AGGUA--AUG-UC
+spr0326      AAAGUGCAAAUAA--------------G-AAAU-CUCCAGA----UU-AG
+spr1713      UACUG----------------------A-CCCC-AAAAGUU----AG-AU
+spr0298      UCUCUGUUAAGAAAUA----------AA-AUAA-UCCCACC----UA-G-
+spr1105      CAUUGACAGAGAUAU------------A-GAAA-GAACGCU---------
+spr0390      UAACAGAAGAACAAUA---------AAA-AGAA-AAAGUGU----UU-GA
+spr1519      AAGAC-----AA---------------A-ACAA-UCCUAGU----UU-GG
+spr0272      AUUCGAAAGAAUUACUAU------ACUU-AUAC-AGAGCAC---------
+spr1020      CGCUGUUAAAUAAUCAG--------UCU-UUAA-AAAGCCU----AU-UG
+spr0750      AACUG----------------------C-CCCC-CAAAAGU----UA-GA
+spr1165      GAGUC-----UAAAUA----------CA-CCUA-AUCCACU----CA-G-
+spr1342      CAAUUCAAGAAGACAAG--------UGA-ACUG-CACCCCA----AA-AG
+spr0584      AUUGCAAUAA-----------------G-AUAA-UGAGAGA----GG-AA
+spr1404      AAGUU----------------------A-UCAA-AAAAGUC----AG-CA
+spr1495      AGCUGCUAAAGCCCUAU--------AGA-AAAA-A--UCCU----CU-GU
+spr0327      UGUUGCAAAAUAU--------------A-AGAA-AGGAUUU----AG-UA
+spr0056      AGGUGAUUAAUUA--------------A-AAAA-UAAACAG----CG-AG
+spr0638      CUUUUAAAGAUUAAG------------A-AAAA-AACUCUC----UA-GU
+spr1565      AGUUUCAAAAUAAAG-----------CA-CAAA-AUCCGCU----UG-G-
+spr1791      CUUGC----------------------A-AAAA-G--ACUU----AG-C-
+spr1045      AGUAU----------------------G-AUCA-U--UUAC----AU-AA
+spr1641      AAUUAGCUGAAAUUU------------A-GUAA-ACAAAGG----GA-CA
+spr0510      UUUUAUAUAAAAU--------------C-A-----CCCCUC----UA-GU
+spr1352      AGUCUUAAAAUCA--------------C-AAAA-ACGCAUA----AU-GU
+spr0057      AGUCU-----UUUCGA---------UAA-AAAA-UAAACAG----CG-AG
+spr1046      AUUAUGUAAAUAAAUAU-------CAAA-AAAA-G--AAGU----UG-GU
+spr1666      AAGUAUAUAAA----------------G-AAAG-GUGAGUG----GG-AU
+spr1983      AAUCAGAAAAGC---------------G-CAUA-G--UAUC----AG-GU
+spr1867      AAGCAUAAGAG----------------A-GAAA-GCAGAAG----UU-A-
+spr1485      UAUUUUAUGAUCGAU-----------GA-GAAA-G--ACCA----AG-CC
+spr1803      CCUCG-----UAU--------------C-AAAA-CAGUUCU----AA-AG
+spr1345      AAUCU----------------------A-GGAA-CCAGGAA----AA-G-
+spr0287      UACACUCAGAUAAAA------------U-CAUA-ACCACCC----GU-C-
+spr0980      ACUGU----------------------U-GGAA-A--AGUG----AG-G-
+spr0679      AAUCUUAAAAACC--------------A-AAAA-AAAUACA----GU-AU
+spr1794      CAGAUUUAGAUUAAUAAU-----UUAAG-AAAA-AUGAGCA----UU-UU
+spr0396      AGUAC----------------------C-AACA-A----UU----GG-AA
+spr1369      ACAGCCUAAAAAC--------------A-GAAA-AAGGAGU----GG-G-
+spr1491      AGUCAUCAGAA----------------A-AAAG-GCAUCCA----AU-CA
+spr0663      AGGUG----------------------G-CUAA-AACAAUC---------
+spr0972      AAUUC-----GCUUU-----------AG-AAAA-UAAUCUC----CU-CA
+spr1975      CAUUG-----AU---------------G-AGAA-AUCGACU----AG-UU
+spr0782      AAUAGCCAGA-----------------A-AAAU-AGCUUCC----CU-CC
+spr1061      UAAGGAAAAAAUAAACU-------AAUG-AAAA-AUGAAAG----UC-UC
+spr1394      CUUUCGUAAACGAAGAU--------UAA-AGAA-AAGACCC---------
+spr0659      AAUAGAAAAAUGUU-------------G-AAAU-AGGGAAU----GA-GC
+spr1992      UAUUC----------------------A-CUUA-AAAGGCU----UG-G-
+spr1945      AUUCU-----GAACU------------A-AAAA-AUCUUCU----UA-C-
+spr0465      AUUCA-----GCUAU------------A-AAAA-CAAGACC----GA-GA
+spr1444      AGGAAAAUGAUAU--------------C-AAAG-AACUCCG---------
+spr0706      AAGCCUAAAAUAAAA-----------AG-AAAA-CUCAGCU----AU-CU
+spr0182      AGUCUAUAAAAUUAAAU-------AACC-AAAU-CAAUAUC----UU-GU
+spr0975      CAUCGAAUAAAUA--------------A-GGUA-G--GGAG----GA-G-
+spr0307      UUUUG-----AGGAUA---------AAA-AAGA-AGGAGCC----AG-CU
+spr1903      AAGGAAUAAAA----------------U-AAAA-A--GAUA----AG-GU
+spr0362      AUAAUCUUAAUAAAC------------A-GAAA-A----CC----CA-CC
+spr0992      AACUUAUUAAUAAAAA---------GUG-AAAA-GACUACU----GG-A-
+spr1112      CCUUGAAAAAAUAAA-----------AA-CAAU-CUCCGCU----UU-C-
+spr1036      CAACCUUAAAA----------------A-AUAA-AAUAGUU---------
+spr1838      UUUUUCAACAAAA--------------A-UAAA-G--CCUC----CU-U-
+spr1221      AGUAUUCUGAUGUAUA----------AG-GUCU-UCAAAGU----CG-GC
+spr0311      AAGAC-----AAAAGAGC------CUCA-UAAA-A--GGUA----UU-GC
+spr0614      GUCAGUAAGAUAAAG-----------AG-AGAC-G--AGGC---------
+spr1669      AUAGG-----AUAACA---------UA---AAA-AACGAAU----AGAGU
+spr0447      AAUUGGUAAAA----------------A-AUAA-C--AGGU----GG-UC
+spr0285      ACUCU-----ACUAUA---------AUU-CACA-AUCUCAC----UA-U-
+spr0692      CAUGCGUUAAUCGAA------------A-CAAA-AGAAGCU----GA-UA
+spr1878      GACUUUAAGAUAGAGG----------GA-GUAA-ACUCGGU----UG-G-
+spr0269      GCUUUGAAAAAAUAG------------A-AAAA-CUCUAGU----UU-UC
+spr0033      GCUUGAUUGAGGAAGC---------AUA-AGAA-A--AAGG----UA-GC
+spr1763      AAACGUUAAAUAACC------------U-GUAA-GGCUGAU----AG-U-
+spr0860      AAGCUAAAGAAAAACU---------AAC-AUAG-GGAGAGA----AU-C-
+spr0426      AAGAGAUAAAAUAC-------------A-AAAU-CCCUCUU----UU-UA
+spr1376      AAAUGUUAAAA----------------A-UCCA-GCCUUCU----AG-GA
+spr1430      AAGGA-----AACAU-----------AG-AUAA-AUCUGUA----GG-A-
+spr2033      UAUGUAAAAAACAAU------------G-AAAA-G--AACU----CC-AG
+spr1754      CUUUC-----AAAUCA---------GAA-CAGC-GCAUAUU----AU-UA
+spr0868      CAUCC-----AUG----------------AAAA-AAUCCUG----AU-UU
+spr0897      CUCCC-----AU---------------G-AUAG-GUAAGUA----UU-C-
+spr1622      UAACCAAAAAUAACA-----------AA-A-----AAACGC---------
+spr0912      AACCAGUAGAAUAAA-----------AA-GAAA-GGCGAAG----UA-G-
+spr1170      AAAGGAAAGAAUAG-------------A-CUAA-AACCGCU----CA-G-
+spr0855      AUUUUGCAAAUA---------------A-AUAA-GCAGUUG----AA-AA
+spr1824      AAUUA-----AAA--------------A-AGAA-UGGAUGA---------
+spr1785      CUUACGAAAAUAUU-------------U-UGUA-GAGAAUC----GA-AC
+spr0619      UAUAGGUAAAAUCUU------------A-AAAA-G--GGAU----UG-GA
+spr0592      AAGUA-----AAAAG------------A-ACCA-AUGUGCA----GG-UU
+spr1942      AUUUA----------------------A-CACC-UUCUCCU----GU-CU
+spr1314      AUAUAAUAGAUAAA-------------G-GAAA-ACUCAGU----UA-G-
+spr1476      AUUUA----------------------A-AAAG-ACUUAGA----AU-GC
+spr1358      GCUCCUUAAAACACCA----------UA-AAAA-AUGAACU----UG-G-
+spr1240      AAUUG-----UAAUC-----------AA-GUAA-A--GAUC----UA-UC
+spr0920      UUUAGGAAAAUAA--------------G-AAAA-A--UCCA----UG-AU
+spr0537      AAGUU----------------------A-GGAA-A--GAGU----UG-G-
+spr1681      CUCUU----------------------U-AAAA-UGCUUUG----AU-UC
+spr0250      CACUC----------------------U-AGAA-GGAAGUC----AC-U-
+spr0556      AAUGU----------------------A-AAAA-A--GUUG---AAG-AC
+spr2002      UAGGCUUAGAUAAGUA---------GAA-AAAU-AGGGAGU----UG-GU
+spr0220      GUUUUCCACAU----------------C-AAAA-ACAGCCGA--AAG-G-
+spr1440      AAGGCGAUAAAUAAG------------A-AAAA-GCGGUUC---------
+spr1406      AUGGCCCAAAUAAAU------------A-GAAA-A--ACCU----CG-G-
+spr1486      AGAUACUAAAAAGAGA---------UAA-GAAA-G--ACCA----AG-CC
+spr1171      AAUUC----------------------G-ACUA-AAAAACU----CU-GC
+spr1442      CAUCU-----U----------------A-ACUG-ACAGCCC---------
+spr1384      AUUUAUAAGAA----------------U-AGAA-AAAAUCA----AG-GG
+spr1569      AUUUA-----AACAC------------A-AGAA-A--ACUC----AG-AC
+spr1047      AGUUGGAUAAA----------------U-CAAA-AAGAAGU----UG-GC
+spr0398      CGUUUAAUAAUAAAAG----------CA-AAGG-A--GACC---------
+spr1530      GGUCG----------------------A-CUUG-CUCCUCU---GAA-A-
+spr1813      AAACG-----UAAAUA----------GA-AAAA-AUCAGGG----AA-UC
+spr1518      AACGU-----GUAAG------------A-AAAU-CCUAGUU----UG-G-
+spr0209      CAUGGACAGAACAGAA---------UAA-AAGU-A----UU----UA-CU
+spr1551      AGGUGUAGGAACU--------------A-AAAA-AUGACUG----UA-UC
+spr0696      AUUGGGUAAAA----------------G-UAGA-CAGGACU----AG-U-
+spr0509      GAUAGUAUGAUACA-------------A-AUUC-CCCCUCU----AG-UU
+spr2015      AAGUC-----UAUUG-----------AA-AAAU-CUCCAGA----CU-AG
+spr1570      AAAUUUAAGA-----------------U-CAUA-AAAACUC----AG-AC
+spr1670      AAUCG-----AAU--------------A-AAAA-ACGAAUA---GGA-GU
+spr1617      UUCUCCUAAA-----------------G-AAAA-AGUUCUC----UU-UC
+spr2020      AAUAG-----UAAUU------------A-CCUA-GGAGGGC----GG-GG
+spr0710      GGUUAGAUAAAAUACA----------UG-AUUC-GUUGAGA----GA-AG
+spr0747      AUUUC-----UU---------------A-GGAA-G--CGGC---------
+spr0695      AAUGA----------------------G-AUCA-ACAAGAU----GG-A-
+spr1708      AAGUUUUAUAAGU--------------U-UGAA-A--UCUU----CU-AC
+spr1536      AUUUUGUAAAAAUA-------------G-AAGG-AGAUAGC----AG-GU
+spr1041      UAGUG-----AUAUG-----------AG-UAAC-ACCUACC----GU-G-
+spr0784      AUAGCGAAAAUCAGU-----------AA-AAAA-A---------------
+spr1028      UGAUGUGAAAUAA--------------C-GUGU-AAAAUCA----GG-AA
+spr1356      AUGUU-----UAAACA---------UAU-AGAA-CUGUAGU---UUA-UC
+spr1050      AAUAAAAUAAAGCUG-----------AC-GAGA-AACUUUG----UA-UC
+spr0781      AAGUGUUACAACAAUA---------AAA-AAAU-AGCUUCU----UU-CC
+spr0708      CAUCUAAAAAGAAAAAA--------UAA-AAAU-AUCGCUC----CA-A-
+spr1409      AAUUA-----AAUAGC----------AA-AAAA-G----UC----AU-C-
+spr0413      AUUUGUAUAAG----------------A-AAAA-CCUUGAA----GG-G-
+spr0482      AUCUGGAUAAGAACU-----------AA-AGAA-GAGGGGU---------
+spr1848      AAGGU-----UGGAGG----------GG-GCUG-G--ACAG----AA-AC
+spr0244      AUUUU-----AAA--------------A-AGGA-CUCUGAC----UG-AU
+spr0999      AUUUUUUACAU----------------C-AAAA-C----UA----AG-A-
+spr1951      AAAGUAAACAUCAAA-----------AG-AAAG-GAGGGGC----GA-A-
+spr0649      UUCAGACAAAUGCAG------------A-AUAA-AUAGGCU----AG-G-
+spr2035      AAAGACUAAAUAAAA-----------CU-UCAA-AACUCAG----UU-GG
+spr1868      UUGUAUUAAAAAA--------------G-AGAA-G--AGUU----GG-A-
+spr0155      AAGUA-----UUGACA----------AA-AAAG-AACUAUC----AA-GA
+spr1312      AGUUA-----AUCAU-----------AA-AAAA-G--UUUC----CA-AU
+spr2036      AGUCAUCUAAGGCAU------------A-AAAA-AUCGACC---------
+spr0678      UAACUUAAGAAUGAGA---------GUA-AAAG-AAAUACA----GU-AC
+spr1716      AAGAGCCAAAA----------------A-AGAA-A--GGAC----GA-A-
+spr0464      UACAUGCAGAAUGAU-----------AA-AAAA-CAAGACC----GA-GA
+spr1604      AAUUG-----AAACU-----------CA-AAAA-GCCUUGC----UC-CU
+spr0270      AUUUU----------------------A-AAAA-CUCUAGC----CU-UC
+spr0583      AGGCGAAAAAAAUUCCU-------UAUA-AUUC-ACUUACG----CA-A-
+spr1954      AGUUUCAUAA-----------------A-AGAA-GAACCUU----UG-C-
+spr0305      AUUUG-----AUGUAA----------GA-AUGG-C--ACCC----UG-A-
+spr2046      ---------------------------U-AUCA-ACAGCCU---------
+spr1100      AAUUU-----AACUA------------U-AGAC-AACUCCU----UG-A-
+spr1333      UGAUGAAUAAGCAAG------------A-AAAA-AUAGGUC----UG-UU
+spr0780      AAGCAUAAAAAAUAGA---------AAA-AUGA-AAAGAUU----GG-AC
+spr0600      UUUUC-----UUA--------------G-AUAA-UUCCCCU----UG-UA
+spr1865      AUGAAAUUAAA----------------A-UAGA-GAAAAGU----AA-CU
+spr1645      AAUACGUAAAAUAAGA----------AA-UAAG-A---------------
+spr1062      UUUUGAUUAA-----------------U-CGAA-AAGUCCC----UG-CA
+spr0085      UAGCACAAGAAAAGUAA--------AGC-AGAA-GCAGGUC---------
+spr1515      AUUUGAUAUAAAAUGA----------AA-GAGA-G--GGUA----GA-AG
+spr0415      AAGUUUUUGAAUAAUG---------AAA-AGGA-A--CCCU----CG-GU
+spr0207      CAGUUGAAGAAGUAAACU-----AAUGA-AGUU-UUAGGGG----AU-GU
+spr0078      AGGCC-----UUGAU------------A-UUAA-GCACUUU----GG-GA
+spr1571      AUUUUCUAAAAAAUCAU-------ACCA-AGAG-C--GCCU---CGA-GC
+spr0615      AGCCU-----UAAAGAUG------GUUG-AUUG-UGGGUGU----AG-CA
+spr1320      UGUUU-----AUUACA---------UGU-AAAA-A--AGUU----GA-GA
+spr1323      CGGCUGAAAAAUAAAA---------AUG-AAUG-AGCUAUC----UG-GC
+spr1311      AAUAG-----ACUAU-----------AA-AAAA-G--UUUC----CA-GU
+spr0586      CACGUUAAGAAA---------------C-AAAA-G--AAGU----UG-GG
+spr1719      AAUCGGUAAAGUU--------------G-UCAA-A--GGUC----AG-GA
+spr0146      AUUUC----------------------U-UGAA-AUCAUCC----AU-UC
+spr0804      CUUUUUAAGAAAAUCAA--------GAU-AAAA-ACGAACA----AG-UU
+spr0729      AUUGGAUAGAAAAUA-----------AG-AGAA-GCAUUCG----AU-U-
+spr0058      ACCGUGAUCACUAAG------------A-AGAA-A--GCCU----GA-GC
+spr0393      AGUUGAAAGAAAACUAGA-----CAGAA-CAAA-ACCAGCC---------
+spr1631      UAAUCCCACAAGCAG-----------CA-AGUA-AGAGGAA----AG-GC
+spr1566      AAUCC-----UCUCUA---------AUG-UGAA-AACGAAC----AA-AU
+spr1336      CUAUAUCAAAUAAAGC---------CCC-AUUG-CUCUAUA----CA-C-
+spr1953      AAAUCACUAAUAA--------------C-CAAA-AGAACCU----UU-GC
+spr1790      ACGUUCGAGAUAAGA-----------AG-AAAA-A--GGCU----UA-GC
+spr1984      AUGCGUUAAAAGUU-------------A-GUUGAACCGCCG----UA-UG
+spr0725      AAAAGAAAAAUAAAUCC--------UAU-AGAA-AAGGAGU----AG-AA
+spr0531      CAAGUUCAAAUAAGUA----------AU-CAUA-CUCUCCU----GG-A-
+spr0274      AAACGUUAGAUAAUUAGU-----UCAUA-AAAA-ACAAGUU----UA-GA
+spr0831      AAUCAGAACAGUAGU-----------AG-AAAA-GAAGGUU---------
+spr1697      AAAGAAAAAAUAAAUA----------AG-GAAA-A--GUCU----GG-GA
+spr1757      AAAUUGAAGAAUAAG-----------CU-GUUA-A--AGCA----GU-GG
+spr0947      AUUAG-----UAUAU-----------AG-AGAA-A--GCCU---------
+spr0913      AGCUUAUAAAAGCU-------------A-AAAA-GACGAGG----UA-G-
+spr1040      AAGUU----------------------G-UAAA-A--GUAU---------
+spr2006      CGAGUAUAGAAAA--------------U-UGGA------GU----AG-GA
+spr1383      CAUUUAUAAAU----------------A-AAAG-G--AAUA----AG-UU
+spr1707      AUUUC----------------------U-AAUA-GAACUUU----CU-CU
+spr0538      AUCGUUGAAAUAAACA----------GA-GAGA-A--AGUC----GA-G-
+spr1475      AAUGUAUACAAAA--------------C-AAAA-G--ACCU----AG-AA
+spr1359      AAUAG-----ACUAUA---------AGA-AAAA-AUGAACU----UG-A-
+spr1516      CAUUUAUAAAAAA--------------U-CAAA-G--AGGC----UG-A-
+spr1686      AAGUUAGAGAAC---------------C-UUCA-GUCUCUU----AG-UC
+spr0647      CAUCCAUAAAA----------------A-AGAA-AGGACCU----GA-GU
+spr0581      AUAGGGAUGAAUAAAA---------UCG-UAAA-A--AGGU----AG-AU
+spr0824      UAUUCUAUAAAAA--------------A-GAAA-AGCAAAU----AGACA
+spr0691      AACUA----------------------A-AAAA-GGAUACC----GA-GU
+spr1251      AAGUUGAAGAAUAAG------------A-AAAA-GCAGAGU----UG-GA
+spr1842      UAAUAUAAAAAUAUUC---------UUU-GGAG-GUUAUCC----GU-AU
+spr1098      AAUUU-----UAUUA-----------AU-ACAA-AUCAGUG----AA-AU
+spr1577      AUAAUCAAAAUGAGUA----------AU-CAAU-CUUUGUC----AU-G-
+spr0276      AAUCAGUAGAAUAGU------------A-UAAA-CAAACUG----AG-A-
+spr0705      AGACU-----AUUAGA----------AG-GAAG-AAAGUUU----UG-GA
+spr1343      AAUUAUUUAAGUUAGA----------CA-CUAA-AAGAAUC----UU-G-
+spr0593      AGUUGAGAAAU----------------G-AUAA-G--AACC----AA-U-
+spr0474      UAUUUAUAAAAAU--------------U-AUGA-AAAGGUA----AG-CA
+spr0880      AAGUA-----AACAC------------A-CAUG-AAGAUUA----GG-A-
+spr0065      AGUCUUUAAAAUUAA-----------AA-UAAC-GCAUAUU----GU-CA
+spr0086      CUUUCUUUAA-----------------A-AUUC-A--AUCC----UG-UC
+spr0650      UAUGAUUUGAAAU--------------A-AAAA-AUAGGCU----AG-G-
+spr0337      AAUGGGUUCAAUAAU------------G-AAAG-AA-GCGA----UU-GC
+spr1882      CGUCU-----AUAAUA----------GA-AGAA-A--AGAG----UG-G-
+spr0688      AAUUCGCUAAGA---------------A-AAAA-GAGUGGG----AU-G-
+spr0646      CUUUAUAAGAUGUAA------------A-AAAG-A--GUUC---------
+spr1370      AAACUAAACAA----------------A-CUAA-AAUUAUG----UG-A-
+spr1326      UAGCG----------------------A-AAAA-A--GACU----AG-CA
+spr0225      ---------------------------C-GGAA-GAAUAGU---------
+spr1385      UUUUUACUAAAUAAUA----------GG-AAAA-A--AUCA----AG-GG
+spr0372      AGUCAUCAAACCAUA-----------AA-AAAU-AAGGUUU----AG-CU
+spr1145      AAAACGAAAAUUAAA------------G-AUUC-CAACAUC----UG-AC
+spr1738      AACCUAUAGAA----------------C-AUGA-UCCUAAG----UG-A-
+spr0243      UAUAAUCAGAA----------------G-AAAA-ACAAGGA----AA-AA
+spr0867      AUUUGAGUGAAUAGUAA-------GUUA-AAAA-U--CCUG----AU-UU
+spr0439      UUGCAGAACAAAUCUA---------AUA-ACCA-AGAAGCU----AU-CC
+spr0797      UACGUUAAGAAAAAU-----------AU-AAAA-ACCUAUC----AU-AU
+spr0363      UUUUGGAAAAUAGUG------------C-AUCA-GAAAACC----CA-CC
+spr1911      AGUUA-----UUAACA----------GC-AAAA-AGGAGUU----AC-CU
+spr0954      AGUCA----------------------G-AAAA-AGUAGGU----UA-G-
+spr0904      AAUCG-----AU------------------AAA-AUCUGAU----UA-C-
+spr1421      AGUUUAUAAAA----------------A-AGAA-C--CACG----AG-UC
+spr1411      AAACCAAAAAAGAAU-----------AG-AGAA-A----UC----CU-UU
+spr1825      AGUUG----------------------A-UAGA-A--AGCA----AG-GC
+spr0713      CUUUGGUAAAAAU--------------C-AGUA-A--AACG----GG-AG
+spr0846      AGUCUAAAAAUAAAC-----------AG-AAAA-ACUCAGU----UG-G-
+spr1119      AAGAA----------------------A-AUGA-AAGGAUG---UGA-C-
+spr0627      UAUUGAUAAAACA--------------G-AUUG-C----CU----CC-AC
+spr0051      AUUUUAGACAUUAAGA----------AG-AUAA-AAGGGAA----GA-A-
+spr0919      AGAUUACUAAUAAAGA----------CA-AUAA-AAUCCAU----GA-CC
+spr1957      CUACC-----AACAG------------C-UAUG-AGGGCUG---CGA-CU
+spr0177      UAUGG----------------------A-GGAG-UGAUACA----GU-C-
+spr0905      CUACCAUAGAAGAAUA---------AAG-UGAA-AGUCUAU----UG-AG
+spr0247      CUCCUAUAGA-----------------A-A--A-AUCCCCC----AA-GC
+spr0492      AAGUUGGUGAAAUAAA---------CAC-AGAA-ACACGGU---------
+spr1467      CAUAUCUUGAUA---------------A-UGAA-G----CU----AC-UC
+spr1271      AAUUG-----AA---------------A-UGAA-A--GGCU----AG-A-
+spr0124      CUUCU-----UACGAA----------UG-AGUU-CAAAGCU---------
+spr1250      ---------------------------U-AAAA-GCAGAAU----UG-GA
+spr1989      AAUUAAAAAAUUAAGAAA------AAAU-AAAA-GAGGUGG----AG-GG
+spr1472      AAGAG-----UCUAG------------CAUAAA-AGCCUCC---------
+spr0579      AAUAG-----AAACU-----------AG-CUAA-C--UCCC----AG-U-
+spr0131      UAGGCGAAAAGCUAC-----------AA-UCUG-G--AGAG----UA-CG
+spr1453      UACUU----------------------C-AGAA-GAGAGCU----UA-GG
+spr0726      AUGUC-----UAA--------------G-UAAA-AUCCUUU----UU-G-
+spr1766      AAUUUUAAAAAUAAAAGUUGCUCUUUAU-UUUC-CUCUCUC----GU-AA
+spr0179      AAGUA----------------------G-AAAG-G----GC----UG-G-
+spr1866      UUUUUGUACAUAAGUA---------AAU-AGAA-AUUCAGU----CA-UC
+spr0924      AGUUG-----AUAAG-----------AC-AAGG-A--GAGG---------
+spr0810      AUUUGGAAUAA---------------GC-AAAA-AGCUUUA----AA-UC
+spr0441      AUUUUAUAAACAAA-------------U-CAAA-GAAGAGA----GG-GA
+spr0596      UUUCGGUAAAUAA--------------A-AGAA-AAAAGCU----UU-A-
+spr1131      UUAGGAUAGAG----------------A-AGAA-GUCUAGU----GU-UA
+spr1267      UAACAGAAGAAUAAA-----------CC-AUCA-CCAUCUC----CG-GA
+spr2040      AAUUGAUACA-----------------A-AAAG-AGGAACA----CA-G-
+spr0169      AAGAAUAAGAAAACG------------A-UAAA-AGCAACU----GC-A-
+spr0718      AAGCAGAUGAGUAUAA----------AA-AGAA-AGUCCUC----AU-UU
+spr0709      ACGUAGAAGAUAAAUC----------CA-AAAU-AUCGCCC----CA-A-
+spr1465      CUUGCAUAGAAGAA-------------A-UGAA-C----CU----UG-GC
+spr0045      AACUA-----AAAGGAC--------UCA-GGCU-G--AAAA----GG-UC
+spr0789      AACGUCAAGAAUAAGA----------AC-UAUC-GGAUUAA----GG-AA
+spr0348      ACUACCAAAAGCAAUC----------AG-AAGU-A--UUAU----CG-GU
+spr1553      AAAACGCAAAUAAAA-----------AA-GUAG-A--AUCU----GG-AA
+spr0191      CAACGAGAAAUAA--------------U-AUUA-AACUAGU----CG-C-
+spr1933      CUAAGAAAAAAUUUGA----------AG-CGAU-AGAACUG----UU-GC
+spr1875      CUUGGUAACAUCAU---------------UUUG-ACGAAUG----AG-A-
+spr1544      AGUUU-----A----------------G-AGGC-GGAUAUC----UU-GU
+spr0914      UACCCAAAGAGUAAA-----------GA-AAAA-AG-GAUU----UA-GC
+spr0309      CGUAAGUAAAG----------------A-UUUC-A--ACCU----CU-CC
+spr0002      AGUUCGUACAAAUUA-----------AG-UGAA-A--GAGG---UUG-AG
+spr1973      AGUUUGUAAAUUU--------------G-CCUC-CCUCCCC----CU-UC
+spr0739      AAGUCCUACAAUU--------------C-AUAA-A----GG---------
+spr1405      AGAAAUCAGAUAA--------------G-AGAA-A--AGUC----AG-CA
+spr1899      AAUCCUUAAAA----------------G-AGAA-GAGUACG---------
+spr1351      AUUUGUAAAAUAAAGAC--------CUA-UAAA-A--GAUG----AG-AC
+spr1967      AAGUAGUAGAA----------------A-GUGU-GGAGGUG----GU-AU
+spr1780      AAUUU-----ACAGG-----------AA-AUUA-G----GC----UG-G-
+spr0669      AAACUGGAAAUAAUAA---------CUG-AAAA-GAGGUUG----GA-AC
+spr2019      CCUUGAAUAACUAAU-----------AA-UAGA-A--AGGA----AG-C-
+spr1561      AUCUUAUAAAUAG--------------A-AGAG-C----CU----UG-C-
+spr2034      AGUUU-----AUUUUA----------CA-AGAA-ACUAUCA----UU-UC
+spr0228      AGGUG----------------------A-GUGA-AAAUGAU----AG-AC
+spr0400      AGAUU----------------------A-AUGA-A--GGAC----UG-A-
+spr1252      AAUUC-----UGUA-------------U-AAAA-AGGAGCUUGAA-----
+spr1287      AUUAUUUACAGAAAGA----------AC-AAAA-AAUGCUC----UG-AA
+spr1885      UUUUCGAAUAA----------------G-AAAG-A--AGUU----GU-CC
+spr0329      AACCAGCACAACCAUA----------AC-AUUU-AUCAUCC----AG-A-
+spr1115      CUUUUACUAAAUAACCUA------GCUG-AUCC-AAGGCCU----CC-UC
+spr1327      AGAUG-----AAACGAU--------AAC-AAAG-A--GACU----AG-CA
+spr0407      AAUUUGAAGAUUAAUCUU------UGGA-UAAC-GGCGGAU----UC-UU
+spr0438      AAUUAGCAAAA----------------U-CAGA-ACCUUUG----AG-A-
+spr1129      ---------------------------A-AGAA-G--UGGG----GA-GA
+spr1321      UGUGU-----AAA--------------G-AAAA-A--AGUU----GA-GA
+spr1549      CUUUU----------------------G-CAAG-GCAUAAA---------
+spr1109      AGUGGAUUGAAAUUGA----------CU-UUAA-GUGAGUU----UG-GA
+spr0915      UUGAGAAAAAAUAAUC----------GA-UUAA-AAGGAUC----UA-GC
+spr0364      CAUUUUAAGAAA---------------C-CUAA-GAGGCCG----AG-A-
+spr2011      AUUUC-----AAUAUG----------UG-UAAA-GGUAGGU----UU-AC
+spr1032      GUUUAGUUAAUUAAUA----------GA-UAAA-A--UCGU----AU-GA
+spr1175      AGUAGGAUAAACA--------------U-AAAA-GUGCGCU----GA-U-
+spr0934      AAAUGCGAAAUAAAAAA--------CAA-AUAA-ACCUAGG----CA-UA
+spr1200      UUUUG-----AUAUC------------A-AAAA-AAUGCAC----AG-G-
+spr1091      UUUCGUUAAAACU--------------G-UCGA-A--CAUC----AG-AG
+spr0673      CAUUUGUUGAAAC--------------U-ACAA-CCCGCGU----CA-GG
+spr1456      AAUGU-----AAAUG------------U-AGAA-A--AGCC----GA-UA
+spr1830      GCUUC----------------------C-UUAA-G----UU----AG-AU
+spr0602      UUCAGUUAGAA----------------G-AAAG-A--GUCA----CA-AA
+spr1499      CCUUGGAAAAUAAAA------------A-AUUG-UAAGCCU----AG-GA
+spr0168      CUUUG-----ACUAU-----------AA-CAAA-UAAAGCU----GG-GA
+spr0568      UUCUUAAUGAAAUAG------------U-CGAA-U---CCC----UA-AG
+spr0235      UAUUUGCUGAUUUCCA----------AC-CUCA-AACAGUU---------
+spr0259      CAUCAUGUAAUCAAGCA--------ACU-AAAA-AGGAACC----AG-GU
+spr1181      AUUUG----------------------C-UUAA-U--CCUC----AA-UC
+spr0585      AUUUAAAAGAAUA--------------G-AAAA-AAGAAGU----UG-AG
+spr1646      AAUAAAAUAAUAAAAA---------AGG-AGAA-C----UU---AUC-AU
+spr0371      GUUAC----------------------G-AAAA-AAGGUCU----AG-CU
+spr0448      GUGCG----------------------G-UGGA-A--UUUC----UA-UC
+spr1402      AGUCU-----AAAUCA----------AU-UAUA-GCCACCU---------
+spr1944      AAUCAAUACAG----------------A-AGAA-AAACGCU---------
+spr0813      AUUGUCCAAAUGUAA--------------AAAA-AGAUACC----UC-GA
+spr1435      CAUUA-----UUAAU------------G-AAAA-C--AGUC---------
+spr1097      CUUAUGUAGAUUAAGA----------AA-AUGA-G----CA----CG-A-
+spr0096      AUAUG-----U------------------AAAG-A--GUCG----AG-G-
+spr1052      UUGUGAAAAAAUAUUC---------UUG-ACAA-GAAAAUC----CC-UU
+spr1925      AAUUC-----AAAAU-----------AA-AAGA-GUCCGGU----G----
+spr0670      AUUUU-----AAUAG------------A-AAUU-G--UUGG----AG-U-
+spr0405      UUUUCGGAGAUGAAUAA--------CUA-AAAA-ACAGUCA---------
+spr1844      AUGGUCAAAAGUAAGAA--------CGA-UGAA-GGAGGAG---------
+spr1220      UAUUUUCAGAU----------------U-UUAA-GAAGAGC----GA-AU
+spr1464      AGCUAGAAAAUAAAG------------A-AAGA-C--UGCA----AU-C-
+spr0452      AGGUC-----UUCAGA---------UUG-AUUU-UUAGCAC----UC-UU
+spr0620      AACUC----------------------U-UAAA-AGGGACU----GG-AU
+spr0100      CGAGGGAAAAU----------------G-AGUU-C--AUUC----AG-CU
+spr1027      AAAAUAAAAAAACUG------------A-ACAA-UUUGGUU----GG-G-
+spr1488      ACGGG----------------------C-CAAU-A--AUUC----AG-AA
+spr0917      AAAUAGAAGAA----------------G-AUAA-G----CU----AG-GU
+spr0258      CCUUGGCUGAAUAAAAGC-----AUAGA-AAAA-AGGAAUC----AG-AU
+spr0457      GAACUGAAGAUAAGU------------A-AAAA-G--AGCC---------
+spr1724      CAUUUUAAGAA----------------U-UAAA-A--AGUC----UG-AG
+spr0550      AACUUUAAAAUUUUG------------C-AUUU-CUCCUAC----UU-GG
+spr0652      AAUUG-----CAU--------------U-CUUG-ACAAGAG----GU-G-
+spr1725      AAAAAUAAGAAAUUU-----------CC-UCGA-A--AAGU----UA-CA
+spr1811      AAUCG-----UAAAC------------A-AAAA-G--GAGC---------
+spr0654      AAUGUAAAAAUUAUCA---------AAA-AUAA-AUGGUUU----AG-A-
+spr1243      AAGUAGGAGAUAAACG----------UA-AGAA-GACGAAU----CA-G-
+spr1445      UUUUGAUUAAAC---------------U-AUAU-AGCCCCU----AU---
+spr1122      GUCGCUUAGAAUAAA-----------AA-AAUU-UCCUGCA----AG-U-
+spr1620      AAUCUGUAAAA----------------A-AGAA-G--GUGG----AA-GG
+spr0234      AAAUUCAAAAUAAAC-----------AA-UAAG-GACUACU----GU-U-
+spr0459      AUCUA----------------------U-GAAA-GACUUGU----UU-UU
+spr0890      CUUUUUUUAAAA---------------C-CUUA-AAAGCAU----UU-G-
+spr1787      AAUGACUAAAAGGUC-----------UA-UGAA-A--UCAG----UG-UU
+spr0028      UUGAGAAAAAAAUUUAA--------UGA-CCAA-G----CC----UG-AG
+spr0071      AAUUC----------------------G-UAAA-GAGGGAU---------
+spr1302      UAUUCUUAGAAAAAU-----------AA-AAAA-GACUCUU----UG-UC
+spr0266      AGAUGAAAGAAAUUG-----------AA-AACA-A----UC---------
+spr1460      CCUUGUUUAA-----------------A-CGAA-G--AGGA----AG-U-
+spr0931      AUUUC-----AUGGU-----------AU-AAUG-G--AUGG----UA-AC
+spr0204      AACAGGUAAAUAA--------------U-GUUG-AGUGGUU----GA-U-
+spr1506      CAUCAUUAGAAAUAAA---------GGA-CAAG-A--CUUU----UG-GA
+spr1397      AACCAUAAGAA----------------C-AGGA-AAACGCC---------
+spr1934      CUUUUAAAGAUGA--------------A-AAAA-G----CA----AG-CC
+spr1800      CUUUUAAAGAUUU--------------C-CAAG-ACUAUCU----UU-CU
+spr0814      AGCAUUUAGAAAA--------------C-AAGA-AAUACCU----CG-AU
+spr1177      CGGUCUCAAAUAAUG------------A-UAAG-A--GAAC----AG-U-
+spr0838      ACUGGGAAGAAAAACAA--------UAA-AGGG-A--GACA----GG-AU
+spr0674      AGCUGCUAAAUAAUGAU--------AGU-UGGA-GGGAAGA---------
+spr0566      UUUGGGCAGAUAAAG------------G-CUUG-UUUGGGU----UA-CA
+spr1918      AAUUUGGUGAAUAAAA----------AA-UUUG-UUCAAGG----GG-GG
+spr1955      CUAUCGAAAAACUUU------------C-UUGA-AGCCAAC----AU-CU
+spr1162      AGUCUUUAAAAUCUG-----------AA-AAAC-GCAUAAU----AU-CA
+spr0574      UAUCC-----AUU--------------A-CAAA-AGCGCAU----AG-UA
+spr1922      AGUCGUUAAAAGCA-------------A-AAAC-GCAUAGU----AU-CA
+spr1986      AUUUC-----U----------------A-AAAU-AUAAACC----CU-GC
+#=GC SS_cons :::::::::::::::............<.<<<<.<<<<<<<....<<.<<
+#=GC RF      AaUUuaaAAAAaAAu............a.AaAA.Aaaaacu....ag.gc
+
+spr1688      GGUUUGAGU------------------------------GAACUUG--AU
+spr0030      AGUAAA------------------------------------UCCC--CU
+spr0092      AGUUAAAC-------------------------------AACCUUG--GU
+spr1776      CCCGAG------------------------------------GGUU--CU
+spr1700      CACCA-------------------------------------GAUC--UC
+spr1022      -UUUUGAUACAAUA--------------------GUUUCAAAAU-U--UG
+spr1018      GUGACCUCAAAAGUUAGACUAAAUCAUCUAUCUUUUGGGUUACAGA--CA
+spr0326      GAACUAUCCGU--------------------------GAGUUCUCU--AG
+spr1713      UUAUU-------------------------------------CUGU--CU
+spr0298      -AACA-------------------------------------AG-C--UA
+spr1105      -GAGA--------------------------------------A------
+spr0390      UAUCU--------------------------------------AUC--AA
+spr1519      CUCAG---------------------------------------CC--AA
+spr0272      -CUUUC-----------------------------------GGG------
+spr1020      UAUCAAGCUUUC-----------------------UAGCUUGGUCA--GU
+spr0750      CAGAAA-----------------------------------AAAUC--UA
+spr1165      -ACAG----------------------------------------C--UG
+spr1342      UUAGACAGAAA-------------------------AAAUCUAACU--UU
+spr0584      AAUGCUAACCUAGA--------------------GUUAGUAAUGUU--CC
+spr1404      UAAUC--------------------------------------GUG--CU
+spr1495      CACAAAGAGUUCCC-------------------UGCUCUUUGAAAC--GG
+spr0327      UUUCUCU---------------------------------UGAAUG--CU
+spr0056      CUUCA-------------------------------------AUCU--CG
+spr0638      UCCCACUUU-----------------------------AAGGGAAU--UA
+spr1565      -GAAA----------------------------------------C--CA
+spr1791      -AAAU-------------------------------------CA-G--CU
+spr1045      UUUAU--------------------------------------GUU--AU
+spr1641      GAUGUU------------------------------------UUUG--UC
+spr0510      GUUCAU------------------------------------AAAC--UA
+spr1352      AAGGUGCAAA---------------------------AACCUUGAU--AU
+spr0057      AUUGA-------------------------------------AGCU--CG
+spr1046      UAGUU--------------------------------------GGC--CA
+spr1666      AAAUU--------------------------------------UAU--CU
+spr1983      GUUGAA-----------------------------------AAAAC--UU
+spr1867      -GAGA--------------------------------------C-U--AA
+spr1485      GACUG---------------------------------------GG--CU
+spr1803      UUCGU---------------------------------------CU--UU
+spr1345      -CUCACAGAU---------------------------GUGGGCU-U--UU
+spr0287      -------------------------------------------A-A--AC
+spr0980      -AAAU-------------------------------------UU-C--CC
+spr0679      CCACAU-----------------------------------UCGGU--AC
+spr1794      UUAGGA------------------------------------UAAG--AA
+spr0396      CUAAA--------------------------------------GUU--CC
+spr1369      -GAGGCGAUG---------------------------UGCUUCA-C--UC
+spr1491      CGUGUGAA-------------------------------AACCUUG--AU
+spr0663      -CAGU--------------------------------------G------
+spr0972      AUUUCAUAGAG-------------------------UGUGAAAAUG--AG
+spr1975      CAUAA--------------------------------------GAG--CU
+spr0782      AAACU--------------------------------------UGG--AA
+spr1061      GAUAA--------------------------------------AGA--GG
+spr1394      -GGUU---------------------------------------------
+spr0659      CUUUG---------------------------------------AC--UC
+spr1992      -UUAA--------------------------------------U-C--CA
+spr1945      -AUAU----------------------------------------G--UA
+spr0465      AACAAG-----------------------------------AACUC--UC
+spr1444      -UUAUCU----------------------------------UGU------
+spr0706      CAUGUAAA--------------------------------AUGCAG--AG
+spr0182      GUAUUUUUAAAAAUUU---------------UAGGAUUUUUAACAC--AA
+spr0975      -GAGA----------------------------------------C--UC
+spr0307      GAAAA--------------------------------------AAA--CU
+spr1903      UCAAAA-----------------------------------AAUGC--CU
+spr0362      UGAAU--------------------------------------UGG--UG
+spr0992      -AGUUUAUUUUG------------------------AUAAAAAA-U--CC
+spr1112      -AAAC-------------------------------------CU-G--AA
+spr1036      -CAGU--------------------------------------G------
+spr1838      -AUCA----------------------------------------A--AG
+spr1221      UAAGA---------------------------------------GC--CG
+spr0311      AACUU--------------------------------------GGU--AA
+spr0614      -UACC-------------------------------------GA------
+spr1669      UCUAA--------------------------------------AACUCCU
+spr0447      AAACU---------------------------------------GA--CU
+spr0285      -GAUUAGGUUUCCUU------------------UAACCUGAUGA-A--UA
+spr0692      UAAAU--------------------------------------AUG--UC
+spr1878      -GAAA----------------------------------------C--CA
+spr0269      AGUUACUUG------------------------------CAACUGA--AG
+spr0033      UGAUG--------------------------------------GGC--UA
+spr1763      -UAGAUU----------------------------------AAU-A--CU
+spr0860      -AACU--------------------------------------U-G--AU
+spr0426      CAAUU--------------------------------------GUA--AA
+spr1376      GAAAAG-----------------------------------UCUUC--CU
+spr1430      -AAUU----------------------------------------U--CU
+spr2033      UGAAA--------------------------------------ACA--GG
+spr1754      GGUCUUGAA-----------------------------AAAGCUUA--AU
+spr0868      UACUU--------------------------------------GAA--AU
+spr0897      -UUGU----------------------------------------G--AA
+spr1622      -UAUU-------------------------------------UC------
+spr0912      -CUGA--------------------------------------G-C--UA
+spr1170      ---------------------------------------------C--UG
+spr0855      GAAAU---------------------------------------UU--UU
+spr1824      -UCGU--------------------------------------G------
+spr1785      CGCAA--------------------------------------GGU--UC
+spr0619      GCUUAA------------------------------------AAUC--CA
+spr0592      GUUGC--------------------------------------UAG--CC
+spr1942      GCCGUG------------------------------------UCGG--AU
+spr1314      -UUGG--------------------------------------A-C--UA
+spr1476      ACAUGAAA--------------------------------GUAUGU--AU
+spr1358      -UAUU--------------------------------------U-U--CA
+spr1240      CAUUU--------------------------------------GGG--UA
+spr0920      CCUUCAU----------------------------------UCGGU--CA
+spr0537      -GAAA----------------------------------------U--CA
+spr1681      CAUUG--------------------------------------UGG--AU
+spr0250      -------------------------------------------U-A--GU
+spr0556      ACUAU---------------------------------------GU--CU
+spr2002      GAAGAUUAU------------------------------CCUUUAC--CA
+spr0220      -AGUA--------------------------------------C-C--CU
+spr1440      -AAAA--------------------------------------U------
+spr1406      -UCAA--------------------------------------A-C--CG
+spr1486      CAGUC---------------------------------------GG--CU
+spr1171      UUUUC--------------------------------------AGC--AG
+spr1442      -UCUU--------------------------------------U------
+spr1384      AAAAUG-----------------------------------AAACC--CU
+spr1569      CGAUU--------------------------------------CGU--CU
+spr1047      CAACU--------------------------------------AAC--CA
+spr0398      -UUAG---------------------------------------------
+spr1530      -GUAC--------------------------------------U-U--UU
+spr1813      GAGAA---------------------------------------GA--UU
+spr1518      -CUGA--------------------------------------G-C--CA
+spr0209      GAAUC---------------------------------------AG--UA
+spr1551      UAUGAUUUGUUUA---------------------UGGAGCUAUAGA--UA
+spr0696      -UCAG----------------------------------------G--CU
+spr0509      UAUGA--------------------------------------ACA--CU
+spr2015      AGAACUCACGG--------------------------AUAGUUCCU--AA
+spr1570      GAAUC--------------------------------------GGU--CU
+spr1670      UUUAG--------------------------------------AAC--UC
+spr1617      UAAAAUA----------------------------------GUGGA--AA
+spr2020      CUUAG---------------------------------------CC--CG
+spr0710      GAAGAUGCAA----------------------------ACAUUUCU--UC
+spr0747      -CAAG--------------------------------------G------
+spr0695      -CACU-------------------------------------CG-U--CU
+spr1708      CUUGG---------------------------------------GU--AG
+spr1536      UUUCA--------------------------------------AGC--CU
+spr1041      -UAAAU------------------------------------UU-C--AU
+spr0784      -GUUA-------------------------------------GU------
+spr1028      AUUGU--------------------------------------UUU--CC
+spr1356      UCUUU--------------------------------------UGA--UA
+spr1050      UUUUA---------------------------------------GG--UG
+spr0781      AAGUU--------------------------------------UGG--AG
+spr0708      ---------------------------------------------U--UG
+spr1409      -UUCG----------------------------------------G--AU
+spr0413      -GCAA----------------------------------------C--UC
+spr0482      -------------------------------------------U------
+spr1848      UGAGAGU---------------------------------UAUCGU--UU
+spr0244      UAUCC-------------------------------------CAAU--CG
+spr0999      -UUUU----------------------------------------U--CU
+spr1951      -AAAGUAAGGACU----------------------AACUGCUGA-U--UC
+spr0649      -AAUU--------------------------------------U-C--CU
+spr2035      GUUAA---------------------------------------CC--AA
+spr1868      -GAAA----------------------------------------U--CC
+spr0155      UACAA---------------------------------------UC--UU
+spr1312      CAGAU--------------------------------------GAC--UG
+spr2036      -AGUUA-----------------------------------AUC------
+spr0678      CGAAUG-----------------------------------UGGAU--AC
+spr1716      -------------------------------------------A-U--UU
+spr0464      GUUCUU-----------------------------------GUUUC--UC
+spr1604      CAUCU-------------------------------------UGAG--GA
+spr0270      AGUUGCAAG------------------------------UAACUGA--AA
+spr0583      -ACCU----------------------------------------U--UG
+spr1954      -GCGA--------------------------------------U-G--CA
+spr0305      -UGUU----------------------------------------U--CA
+spr2046      -GAAA-------------------------------------UA------
+spr1100      -AUCA----------------------------------------U--CA
+spr1333      AGAUAU------------------------------------UUGA--CA
+spr0780      CGUUU--------------------------------------GGU--GC
+spr0600      AGAAA--------------------------------------UUA--CA
+spr1865      UUUUU-------------------------------------GGAG--UU
+spr1645      -GUU--------------------------------------AU------
+spr1062      ACUCA-------------------------------------GUUA--CA
+spr0085      -AAUC---------------------------------------------
+spr1515      CCAGAACCAUCACUGCAAGG-------UGACUAGAGUUCUCGGACU--UC
+spr0415      CAAUC--------------------------------------GAC--UG
+spr0207      GCACUG------------------------------------UACC--AU
+spr0078      CGUUC---------------------------------------UC--CC
+spr1571      UGCUAA------------------------------------AAGC--UC
+spr0615      UGAAAAA---------------------------------AGAAUG--CU
+spr1320      AAUUC-------------------------------------AAUC--UC
+spr1323      CUUAAGU---------------------------------UAAGGU--CA
+spr1311      CAUCU--------------------------------------GAU--UG
+spr0586      AUUAU--------------------------------------UCU--CA
+spr1719      ACAAA--------------------------------------AUC--CU
+spr0146      UGAGU--------------------------------------AAG--GU
+spr0804      CUCUUCUGAAUAA----------------------CAGAAAAAGAG--CC
+spr0729      ---------------------------------------------A--AU
+spr0058      CUAAU--------------------------------------CGC--UC
+spr0393      -CUAA---------------------------------------------
+spr1631      ACGAAAG----------------------------------GAAGU--CU
+spr1566      GACAU---------------------------------------GU--UU
+spr1336      -AUCC--------------------------------------A-G--UG
+spr1953      AUCGC---------------------------------------GC--AA
+spr1790      UGAUU--------------------------------------UGC--UA
+spr1984      CCGAACG----------------------------------GCACG--UA
+spr0725      AAUGAAA----------------------------------UUUUU--CU
+spr0531      -AUUU----------------------------------------C--CC
+spr0274      UCCUC--------------------------------------AUC--UA
+spr0831      -UUAG---------------------------------------------
+spr1697      UGAAA--------------------------------------GUU--CC
+spr1757      AGAAA--------------------------------------UCC--GC
+spr0947      -UUUU-------------------------------------UA------
+spr0913      -CUCA--------------------------------------G-C--UA
+spr1040      -AACU--------------------------------------U------
+spr2006      GAAAU--------------------------------------UUC--CU
+spr1383      GAACAAUCUUUUAG--------------------GAGAACUUGAAA--CU
+spr1707      CCAUG--------------------------------------AGG--AG
+spr0538      -------------------------------------------U-U--UC
+spr1475      UACAUACUUUC--------------------------AUGUGCAUU--CU
+spr1359      -AAAU--------------------------------------A-C--CA
+spr1516      -AAAUCGU-------------------------------UCCUA-U--CG
+spr1686      AAUAA---------------------------------------GA--UU
+spr0647      UCAUU---------------------------------------AC--UC
+spr0581      CAGCUUUG-------------------------------UCUGUAU--CU
+spr0824      GAAGUU------------------------------------ACUG--CU
+spr0691      UAUCA-------------------------------------UGAC--UC
+spr1251      UGUCA--------------------------------------UUC--CA
+spr1842      GUUGCA------------------------------------UGAU--AC
+spr1098      CAUGG---------------------------------------AU--UU
+spr1577      -AUUU----------------------------------------C--AU
+spr0276      -UUAU----------------------------------------U--CU
+spr0705      AAUCGC------------------------------------UGUC--CA
+spr1343      -CUUG--------------------------------------G-C--AA
+spr0593      -AUGUAGGCUAGCA-------------------ACAACCUGCAC-A--UU
+spr0474      GAAGAC------------------------------------GGUG--CU
+spr0880      -AUUU----------------------------------------U--CC
+spr0065      GGUGAUGAA------------------------------AAGUUUG--AU
+spr0086      AUCCU--------------------------------------UGG--CA
+spr0650      -AAAU--------------------------------------U-C--CU
+spr0337      GAAUGG------------------------------------AAAC--AA
+spr1882      -UUUG--------------------------------------C-C--CA
+spr0688      -AAGCAA----------------------------------CUA-C--AU
+spr0646      -AAAU--------------------------------------G------
+spr1370      -UACU----------------------------------------U--CA
+spr1326      AACACA-----------------------------------AACUG--CU
+spr0225      -AAAAU------------------------------------AG------
+spr1385      UUUCAU-----------------------------------UUUCC--CU
+spr0372      AUUUC--------------------------------------UAG--CU
+spr1145      AAAAU--------------------------------------AGU--CG
+spr1738      -GAAA--------------------------------------A-U--CA
+spr0243      AUGUAAC---------------------------------UAGUUU--UU
+spr0867      CAAGU--------------------------------------AAA--AU
+spr0439      AUCAUA-----------------------------------AUUGG--AU
+spr0797      CCAGCUUUC-----------------------------UAGCCUGU--AU
+spr0363      AAUUC--------------------------------------AGG--UG
+spr1911      UUCUC-------------------------------------GAGG--UU
+spr0954      -AAAU----------------------------------------U--UA
+spr0904      -AAGA--------------------------------------U-G--UA
+spr1421      ACAUA--------------------------------------GGA--UU
+spr1411      CAUGA--------------------------------------GAC--GG
+spr1825      UUUGU--------------------------------------GGU--CU
+spr0713      UUAUU---------------------------------------CU--CU
+spr0846      -CAUU--------------------------------------G-C--UG
+spr1119      -UUCG----------------------------------------G--UC
+spr0627      UGAAU---------------------------------------GU--GG
+spr0051      -AACA-------------------------------------GU-U--UC
+spr0919      GAAUGA------------------------------------AGGA--UC
+spr1957      AAUAGC-----------------------------------UUUAG--UC
+spr0177      -UGGG--------------------------------------A-G--AC
+spr0905      UUGUUG-----------------------------------ACACU--CA
+spr0247      AUUAU--------------------------------------AGC--UC
+spr0492      -GAUG--------------------------------------A------
+spr1467      UAAAU--------------------------------------UGG--GU
+spr1271      -GAAA----------------------------------------U--CU
+spr0124      -------------------------------------------U------
+spr1250      AUGAC--------------------------------------AUC--CA
+spr1989      CAGCAUUCC-----------------------------UUGUCGCC--CG
+spr1472      -AAUC--------------------------------------U------
+spr0579      -CAAU----------------------------------------U--CU
+spr0131      AAAUU---------------------------------------CG--UA
+spr1453      AUUGA-------------------------------------UUCC--UA
+spr0726      -UCUC--------------------------------------A-C--AA
+spr1766      CUAAU-------------------------------------AAUU--UU
+spr0179      -AUUU--------------------------------------U-U--CA
+spr1866      CAUCA---------------------------------------GA--UG
+spr0924      -AAGCGG---------------------------------AAAG------
+spr0810      AAUAGUCUAA---------------------------ACUGCUUGA--UU
+spr0441      UGAGA--------------------------------------GUU--CC
+spr0596      -GUUU----------------------------------------U--AA
+spr1131      UGAGAUAUUA---------------------------AAGCUCCUA--AC
+spr1267      CGGACUA---------------------------------UGUAUC--UG
+spr2040      ---------------------------------------------C--UG
+spr0169      -G-----------------------------------------G-U--GC
+spr0718      CAAUA--------------------------------------GAA--AU
+spr0709      ---------------------------------------------U--UG
+spr1465      CAAAC--------------------------------------AGC--UA
+spr0045      CCCCA---------------------------------------GA--CC
+spr0789      AUUAA--------------------------------------CUC--CC
+spr0348      AAUGAUGAUUU--------------------------GAUUAAAAU--UG
+spr1553      UGACA--------------------------------------GUU--CC
+spr0191      -UUAA----------------------------------------G--CA
+spr1933      CCUUUCUCAG----------------------------GUCAUUAC--AA
+spr1875      -UCUAGCUUUCGUGA------------------UAGGAAGCGAU-U--CU
+spr1544      GAAAAGUAA-----------------------------AUUUUUAC--UG
+spr0914      UUUGC---------------------------------------GC--UA
+spr0309      AGCCU--------------------------------------CGG--AG
+spr0002      CCUGG---------------------------------------CU--CG
+spr1973      UUAGCUUUU-----------------------------GUGCAGGA--AG
+spr0739      -GCUU---------------------------------------------
+spr1405      CGAUU--------------------------------------AUG--CU
+spr1899      -AUUA---------------------------------------------
+spr1351      CAACC--------------------------------------AAC--CU
+spr1967      UUGGG---------------------------------------AU--AU
+spr1780      -AGAA----------------------------------------C--CA
+spr0669      UAUAA--------------------------------------AAU--UC
+spr2019      -AAUU--------------------------------------U-G--CU
+spr1561      -GAAA----------------------------------------G--CG
+spr2034      UAUCUC-----------------------------------GAAGA--AA
+spr0228      UGAUU-------------------------------------CAGU--UU
+spr0400      -GAAA----------------------------------------U--CA
+spr1252      -----AUCA-----------------------------ACUGAU------
+spr1287      ACACUG------------------------------------AUUU--CA
+spr1885      UAUGU---------------------------------------GG--GC
+spr0329      -UUUU----------------------------------------U--CU
+spr1115      GAUAU--------------------------------------AGU--GG
+spr1327      GUUUGU-----------------------------------GUUUG--CU
+spr0407      GACCUUCAAGUA-----------------------GUAGAGAUAGA--GA
+spr0438      -AAAA----------------------------------------U--CU
+spr1129      AAAUA--------------------------------------AUU--UC
+spr1321      UUGAA-------------------------------------UUUC--UC
+spr1549      -UUUG---------------------------------------------
+spr1109      AAUAA-------------------------------------UAUC--CA
+spr0915      GCAAA---------------------------------------GC--UA
+spr0364      -AUCAC-----------------------------------CAA-U--CU
+spr2011      UGAAU--------------------------------------UGU--AA
+spr1032      UGACU---------------------------------------UC--AU
+spr1175      -GUAAU------------------------------------CA-A--UC
+spr0934      AUUUUUG----------------------------------UAAUC--UG
+spr1200      -AUAA----------------------------------------C--CU
+spr1091      GGAAG--------------------------------------ACU--CU
+spr0673      ACUAU---------------------------------------CU--UG
+spr1456      GAUUG--------------------------------------AUA--UC
+spr1830      UCAUU---------------------------------------AU--CU
+spr0602      CACAC---------------------------------------UU--UG
+spr1499      UUGAU---------------------------------------UU--CU
+spr0168      AAAGU--------------------------------------UUC--UC
+spr0568      CAUUU---------------------------------------UC--UA
+spr0235      -UCCC--------------------------------------A------
+spr0259      UCUAA--------------------------------------AAU--CU
+spr1181      ACUAC---------------------------------------GA--UU
+spr0585      AAUAA--------------------------------------UCC--CA
+spr1646      GAAAA-------------------------------------AAAU--GA
+spr0371      AGAAA--------------------------------------UAG--CU
+spr0448      AAACAU------------------------------------AAGA--UA
+spr1402      -AAUA---------------------------------------------
+spr1944      -UGAU--------------------------------------C------
+spr0813      CUUCAA------------------------------------AAUC--GA
+spr1435      -CCUA--------------------------------------G------
+spr1097      -UUGA--------------------------------------G-U--CG
+spr0096      -AAAU--------------------------------------C-C--CU
+spr1052      GUUUU--------------------------------------CAC--GG
+spr1925      -AAGU--------------------------------------U-----C
+spr0670      -ACUG--------------------------------------A-G--CU
+spr0405      -UUAG---------------------------------------------
+spr1844      -AAAAAGAUA---------------------------AAUUUAG------
+spr1220      CGUCU--------------------------------------GAU--UC
+spr1464      -UGUG----------------------------------------G--AU
+spr0452      UAUAA---------------------------------------AA--GA
+spr0620      UUUAA--------------------------------------GCU--CC
+spr0100      CCUUU--------------------------------------UGA--CU
+spr1027      -GACA--------------------------------------G-C--CA
+spr1488      UUAUCAA---------------------------------GCAAUU--UU
+spr0917      AGUUC-------------------------------------UUAC--CU
+spr0258      UUUAG--------------------------------------AAC--CU
+spr0457      -CCCC---------------------------------------------
+spr1724      UUGGU---------------------------------------CU--CA
+spr0550      UGUGG--------------------------------------ACU--GG
+spr0652      -ACCA--------------------------------------U-C--AU
+spr1725      AAUUU--------------------------------------CUG--UA
+spr1811      -UAGG--------------------------------------G------
+spr0654      -AAGA-------------------------------------UU-U--UU
+spr1243      -UCAA--------------------------------------G-C--UG
+spr1445      GCUUUCCUUUC--------------------------AAAAUAU----CU
+spr1122      -UUAU--------------------------------------G-C--CU
+spr1620      AAAAUGUUUG----------------------------GAACUACC--UU
+spr0234      -UUCC--------------------------------------A-A--AU
+spr0459      AAAGA---------------------------------------GA--AA
+spr0890      -UUUA--------------------------------------U-C--AU
+spr1787      UUGAG--------------------------------------UGA--CA
+spr0028      AUGAU--------------------------------------UCU--CA
+spr0071      -------------------------------------------G------
+spr1302      CG-----------------------------------------UGA--CA
+spr0266      -AAUG---------------------------------------------
+spr1460      ---------------------------------------------A--CU
+spr0931      CGUAA--------------------------------------CGU--UG
+spr0204      -------------------------------------------C-A--UC
+spr1506      ACUCG--------------------------------------AUU--CA
+spr1397      -CAUG--------------------------------------U------
+spr1934      GAAAA--------------------------------------UGG--CU
+spr1800      UCAUG--------------------------------------AGG--AA
+spr0814      UUUGA--------------------------------------AGU--CG
+spr1177      -UUCG----------------------------------------G--CU
+spr0838      GUAAU--------------------------------------AAU--UC
+spr0674      -AUUG--------------------------------------U------
+spr0566      AGAGA---------------------------------------UG--UA
+spr1918      UGGAAAUC--------------------------------AAAUCC--CC
+spr1955      UCAAG-------------------------------------AAAA--AU
+spr1162      GGUGUGAA--------------------------------AACUUG--AU
+spr0574      UCAAGGCUUUAUA----------------------GAAUCUUGAUA--CU
+spr1922      GGUAUUGAA-----------------------------AAAACUUG--AU
+spr1986      CUAGAUAU--------------------------------AAAGGC--AG
+#=GC SS_cons _____......................................_>>..>>
+#=GC RF      uaaau......................................agc..cu
+
+spr1688      A-GGAUGCGUUU-U----------------------AGA-----------
+spr0030      A-UGGAUAUUAU-GGAGC------------------CUAUUUUGUGU---
+spr0092      A-AUAUGCGUUU-UAUUAUGUAG-------AGACUU--AUACUCUUC---
+spr1776      C-UCAUUCUCUC-UUCUG------------------AAA-----------
+spr1700      A-G----CCUUU-UUCG-GCU------------CUAUAA-----------
+spr1022      A-GAGGAGCUUU-A----------------------AUA-----------
+spr1018      A-CCU--CUUUU-UUGUU------------------UUA-----------
+spr0326      U-CUGGAGAUUU-U----------------------UCA-----------
+spr1713      A-ACUUUUGGGG-U----GCAG---------UUCAAUAA-----------
+spr0298      G-GUGGGAUUAU-U----------------------UGC-----------
+spr1105      G-GUGUUCUUUU-U----------------------AUA-----------
+spr0390      A-CACUUUUUCU-U----UGCCUC-----CCACUAUCUA-----------
+spr1519      A-CUAGGAUUUU-C----------------------UUA-----------
+spr0272      G-UGUUCUUUUU-UUAUACUUU---------CUUACUAA-----------
+spr1020      A-GGUUUUUUAA-UUAUG------------------AAA-----------
+spr0750      A-CUUUUGGGGU-G----------------------UUU-----------
+spr1165      A-GUGGAUUUUU-C----------------------GUA-----------
+spr1342      U-GGGGUGUUUU-UAUUA------------------UGA-----------
+spr0584      U-CUUUUAUUUU-UUAUGCUAU---------ACUAGUUA-----------
+spr1404      G-ACUUUUCUCU-U-AUC------------------UGAUUUCUAUAC--
+spr1495      A-GGA--UUUUU-GAAUA------------------UUA-----------
+spr0327      G-AAUCCUUUUU-U----------------------ACA-----------
+spr0056      C-UGUUUAUUUU-UUAUC------------------GAA-----------
+spr0638      G-AGAGUUUUUA-UACUCUU-------------CGAAAA-----------
+spr1565      A-ACGGAUUUUG-UGGUU------------------GAA-----------
+spr1791      A-AGC--CUUUU-UCUUC------------------UUA-----------
+spr1045      G-UAA--AUGAU-CAGUU------------------UGAUUUAUUUAG--
+spr1641      C-UUUUGUUUUU-U----AGAU----------GUUUUAA-----------
+spr0510      G-AGGGGGAAUU-U----------------------GUAUCAUACUAUCG
+spr1352      U-AUGCGUUUUA-U----------------------UGU-----------
+spr0057      C-UGUUUAUUUU-U----------------------UAA-----------
+spr1046      A-CUU--CUUUU-UGAU-------------------UUA-----------
+spr1666      C-ACUCAUUUUU-AAUUUAUGAGA-----UAUGUUAGAA-----------
+spr1983      G-AUA--UUGUG-UGUU-------------------UUA-----------
+spr1867      C-UUCUGCUUUU-UUAU-------------------GCA-----------
+spr1485      U-GGU--CUUUC-UUAUCUCUU----------UUUA---GUAUCUAGGAU
+spr1803      A-GAACUGUUUU-U----------------------UUA-----------
+spr1345      U-UCCUGGUUUU-G----------------------AGAACGA-------
+spr0287      G-GGUGGUUUAU-C----------------------CCA-----------
+spr0980      C-UCU--UUUCC-U----------------------CUAGUCUCUCC---
+spr0679      U-GUAUUUCUUU-UACUC------------------UCAUUCUUAAG---
+spr1794      U-GUUCGUUUUU-UUAUG------------------UAA-----------
+spr0396      AAA----UUGUU-GGACG------------------CUA-----------
+spr1369      A-CUCCUUUUUC-CA------------------------UUUUGCUAU--
+spr1491      A-GGAUGCCUUU-U----------------------AUA-----------
+spr0663      G-AUUGUUUUAG-UCGGC------------------AGA-----------
+spr0972      G-AGAUUAUUUU-AUUUGGUUC---------UUUGACAA-----------
+spr1975      A-GUCGGUUUUU-UGAUAC---------------UA---GAUGGCUAACU
+spr0782      A-GAAGCUAUUU-UUUUAUUG------------UUGUAACACUUUUCGAG
+spr1061      C-UUUCAUUUUU-A----------------------UUA-----------
+spr1394      G-GGUCUCUUUU-UCAUGAGCU---------UGAAAACA-----------
+spr0659      A-CUCCCUGUUU-CGAUAUUUAAU-----ACUCUUCGAA-----------
+spr1992      G-GUCUUUUUUG-U----------------------GAAAUUCACACA--
+spr1945      G-GAAGAUUUUU-U----GGAU----------UCUCAAA-----------
+spr0465      G-GUCUUGUUUU-UUAUC-----------------A---UUCUGCAU---
+spr1444      C-GGAGUUUUUU-GUCUUUU-------------CUUUUACCCUUCUCCCU
+spr0706      A-GUUGAGUUUU-U--UU------------------UAA-----------
+spr0182      G-AUAUUGAUUU-UUCUUUUUA---------GAGUGGUA-----------
+spr0975      U-UCC--CAUUU-U----------------------UUA-----------
+spr0307      G-GUUCCUUUUU-AGGUA------------------CGA-----------
+spr1903      U-AUC--UUUUU-UCAUU------------------ACA-----------
+spr0362      G-G----UUUUC-UGAUGC---------------AC-UAUUUUCC-----
+spr0992      A-GUAGAUCUUU-UCAUA------------------AUA-----------
+spr1112      G-GUGGAGAUUU-UGCU-------------------CUA-----------
+spr1036      A-ACUAUUUUAU-C----CCGAA-------CCAUGA---AAUUCAAAAG-
+spr1838      G-AGG--UAUUA-U--UA------------------GAA-----------
+spr1221      A-UUUUGAAGGC-UUUUU------------------CUA-----------
+spr0311      U-ACC--UUUUU-G----AGGUG--------CUUUUUGA-----------
+spr0614      G-CCU--CUUUU-A----------------------CCAUUUUGUUU---
+spr1669      A-UUCGUUUUU---UAUUCGA------------UUACAA-----------
+spr0447      A-CCU--GCUAU-UUUUG------------------UGAUUAUGGCU---
+spr0285      G-UGAGAUUUUU-UGAUUGGCU---------UUGACUUA-----------
+spr0692      U-GCUUCUUUUU-UAAUGAUUU---------UCGAAUCA-----------
+spr1878      A-CUGAGUUUCU-UUUCA------------------UCA-----------
+spr0269      G-CUAGAGUUUU-U----------------------AAA-----------
+spr0033      C-CUU--UUGUG-UUAUACUCA----------AUGAAAA-----------
+spr1763      A-UCAGCCUU--------------------------AUA-----------
+spr0860      U-CUCUCUUUUU-GAUUC------------------GAA-----------
+spr0426      A-AGAGGGAUUC-UUAUA------------------UUA-----------
+spr1376      A-GAAGGCUAUU-U----------------------UCA-----------
+spr1430      U-ACAGAUUUUU-U-CUAUU-------------UUGUAA-----------
+spr2033      A-GUU--CUUUU-A----CAAU----------GUUGUCA-----------
+spr1754      A-GUAUGCGUUU-UCUUG-----------------UGGA-----------
+spr0868      C-AGGAUUUUUA--ACUUACUA---------UUCACUCA-----------
+spr0897      U-GCUUGCUUUU-UUGUG------------------GUU-----------
+spr1622      G-CGUUUGAACU-G----UACCU-------CAAAAGUUA-----------
+spr0912      C-CUCGUCUUUU-U----AGCU----------UUUAUAA-----------
+spr1170      A-GCGGUUUUUG-AUGUC------------------UAAUUACUGCCC--
+spr0855      C-GACUGUUUUU-UCUUCCUCUUA-----CGAAUAA---UCUAAGAG---
+spr1824      U-CAUCCAUUUU-U----------------------CCA-----------
+spr1785      G-GUUUUCUUUC-UCUUUUU--------------GUCUA-----------
+spr0619      G-UCC--CUUUU-A----------------------AGA-----------
+spr0592      U-ACAUAUUGGU-UCUUA------------------UCAUUUCUCAAC--
+spr1942      A-GGAGAAUUUU-U----------------------UCAUCUUUUUU---
+spr1314      G-CUGAGUUUAC-UCUUUAA-------------AAAAGA-----------
+spr1476      U-CUAGGUCUUU-UGUUUUG-------------UAUACA-----------
+spr1358      A-GUUCAUUUUU-UCUUAUA--------------GUCUA-----------
+spr1240      G-GUC--UUUUU-G----------------------UGA-----------
+spr0920      U-GGA--UUUUA-UUGUCUU--------------UA---UUAGUAAUCUG
+spr0537      A-CUC--UUUUU-U----------------------GAA-----------
+spr1681      C-AAAGCAUUUU-UUGUA------------------AGA-----------
+spr0250      G-GCUUCCUUUU-GUCU-------------------UUA-----------
+spr0556      C-AAC--UUUUU-U----------------------UGAUGUACGAC---
+spr2002      G-CGCCCUUUUU-CUUUUAA-------------AAAUGA-----------
+spr0220      C-GGCUGUUUUU-UCUUAUCUUGAU----AUUCUUAUCA-----------
+spr1440      G-AAUCGCUUUU-UUAUA------------------UAA-----------
+spr1406      A-GGU--UUUUC-AAAU-------------------GAAUUUCUUGG---
+spr1486      U-GGU--CUUUC-UCAUCGAUC---------AUAAAAUA-----------
+spr1171      A-GUUUUUAUCU-AGCUCCCUU----------AGUUCAA-----------
+spr1442      G-GGCUGUUUUU-ACUUCU---------------ACGAA-----------
+spr1384      U-GAUUUUUUCC-UAUUAUU-------------UAGUAA-----------
+spr1569      G-AGU--UUUUA-UGAUC------------------UUAAAUUUUCGAG-
+spr1047      A-CUUCUUUUUU-UGAUAUUUA---------UUUACAUA-----------
+spr0398      G-GUC--UUUUU-UCUU-------------------UUA-----------
+spr1530      A-GAGGAGCUGU-U----------------------UGA-----------
+spr1813      U-CCUGAUUUUG-UGCUC------------------UUA-----------
+spr1518      A-ACUAGGAUUG-UUUUGUCUU----------AAAAUGA-----------
+spr0209      A-A----UACUG-AGGGAGUGG---------AGGUUUAA-----------
+spr1551      C-AGUCAUUUUU-AUUU-------------------UGA-----------
+spr0696      A-GUUCUGUUUU-U----------------------UUAUUUAUACU---
+spr0509      A-GAGGG----G-UGAUU------------------UUA-----------
+spr2015      U-CUGGAGAUUU-C----------------------UUA-----------
+spr1570      G-AGUUUUCUUG-UGUUU------------------AAA-----------
+spr1670      U-AUUCGUUUUU-U-AUG------------------UUAUCCUAUUC---
+spr1617      G-AGGACUUUUU-GUGUUUU--------------GGGUA-----------
+spr2020      G-CUCUCCUAUU-U----------------------UCA-----------
+spr0710      U-CUCAA----U-UUUUC------------------GUA-----------
+spr0747      G-CCG--CUUUU-U----------------------UAA-----------
+spr0695      A-UCUUGUUUUU-GUAUGGAUU----------UCCCUA-U----------
+spr1708      G-AGA--UUUUU-UUAUA------------------CGA-----------
+spr1536      G-CUAUCUUUUU-U----------------------UGA-----------
+spr1041      G-GUAGGUGUUA-UUGUACCCC----------CAAAUAA-----------
+spr0784      -------UUUUU-CUCUAA---------------AAACA-----------
+spr1028      U-GGUUUUAUUU-UUUUG------------------CUA-----------
+spr1356      G-CUACGGUUUU-UAUUU------------------GUA-----------
+spr1050      C-AGAGCUCUUC-G----------------------UCA-----------
+spr0781      G-GAAGCUAUUU-UUCUGGC-------------UAUUGA-----------
+spr0708      G-GGCGAUAUUU-U----------------------GGA-----------
+spr1409      G-G----CUUUU-UGCUACAGU---------UGAGGGAA-----------
+spr0413      U-UCAAGGUUUU-AUA--CUCUUAGA--AAAUCUCUUCA-----------
+spr0482      G-CCCCUCUUUU-UUGGU------------------GGA-----------
+spr1848      C-UGU--CCUUC-U----CCCUC-------UUUAAAUAA-----------
+spr0244      G-UCAGAGUUUU-U----UGCU----------UACAGGA-----------
+spr0999      U-A----GUUUU-UUCUUAUUUUUGU--UGAUUUUUUCA-----------
+spr1951      G-CCCCUUUUUA-UGGUA------------------AAA-----------
+spr0649      A-GCCUAUUUUU-UAUUU------------------CAA-----------
+spr2035      C-UGAGUUUUCU-A----------------------UCAUUCUACGAG--
+spr1868      A-GCU--CUUUU-A----------------------AAA-----------
+spr0155      G-GUAGUUGUUU-UUUGA------------------UUA-----------
+spr1312      G-AAA--CUUUU-UUAUAGUCU---------AUUUCGGA-----------
+spr2036      G-GUCGAUUUUU-U----------------------UAAUCUUCUUC---
+spr0678      U-GUAUUUUUUU-UGGUUUUUA----------AGAUUUA-----------
+spr1716      G-UCC--UUUCU-CGAGC------------------UUA-----------
+spr0464      G-GUCUUGUUUU-U----------------------AUA-----------
+spr1604      A-CAGGGCUUUU-UCGUA------------------UGAUACUCUUC---
+spr0270      A-CUAGAGUUUU-U-CUAUU-------------UUUUCA-----------
+spr0583      C-AUAAG----U-GAAU-------------------GAA-----------
+spr1954      A-AGGUUCUUUU-GGUUA------------------UUA-----------
+spr0305      G-GGU--GUUUU-UGUGUU---------------UA---AAUACACA---
+spr2046      A-GGCUGUUCUU-UUAUUUUUU----------UAUCUCA-----------
+spr1100      G-GGAGUUGUUU-U----------------------UUA-----------
+spr1333      G-ACUUAUUUUU-U----------------------ACAGAAUAUAGUAC
+spr0780      A-GUCUUUUUCU-CUUCC------------------CGA-----------
+spr0600      G-GGGGAAUUUU-GUUUA------------------CAA-----------
+spr1865      G-CUUUUUUUAU-UUUUC------------------UAA-----------
+spr1645      -------UUUUU-AUGUC------------------CAA-----------
+spr1062      G-GGACUUUUUU-UGAUAUUU------------UAA---AAAGAAUUUUC
+spr0085      G-ACUUGCUUUU-U----------------------UGA-----------
+spr1515      A-GCC--CUUUU-U----------------------AAA-----------
+spr0415      A-GGG--UUUUG-UGCUUGGGA---------UAGUGUGA-----------
+spr0207      C-CCCUAAAACU-AGAU-------------------AUA-----------
+spr0078      U-UAGUGCUUUU-U----------------------UGA-----------
+spr1571      A-GGC--GCUCC-U----------------------UAG-----------
+spr0615      A-CACCC----U-AUUU-------------------UUA-----------
+spr1320      A-ACU--UUUUU-CUUUACACA---------UAUUGAUA-----------
+spr1323      G-AUAGUUUUUA-G----------------------CUA-----------
+spr1311      G-AAA--CUUUU-UUAUGA----------------U-UAACUAU------
+spr0586      A-CUU--CUUUU-UUCUAUUCU---------UUUAAAUA-----------
+spr1719      G-ACC--UUUUU-UGGUAGUAUAAAA-UAAAUUGUGUAA-----------
+spr0146      G-GGUGGUUUCU-CAGUUUUUAGG------GAUAUA---GUUUUAAAC--
+spr0804      U-GUUCGUUUUU-UUGUU------------------AUA-----------
+spr0729      A-GAGUGUAUUU-U----------------------CUA-----------
+spr0058      G-GGC--UUUUU-CUAUGCUUA---------UUAUACCA-----------
+spr0393      G-GUUGGUUUUU-UCUUCUC-------------UACCAA-----------
+spr1631      U-UCCUUUUUCU-UUU--GCA-----------GGAGAAA-----------
+spr1566      G-UUCGUUUUUA-UUAGAUAGU---------AAGAUUUA-----------
+spr1336      U-AUGGAGCUUU-U----------------------UUA-----------
+spr1953      A-GGUUCUUCUU-UUAUG------------------AAA-----------
+spr1790      A-GUC--UUUUU-G----------------------CAA-----------
+spr1984      C-GGUGGU-------GU-GA--------------GA---GGGGCUAGAGA
+spr0725      G-CUUCUUUUUU-UACUA------------------AAA-----------
+spr0531      A-GGAGAGUUUU-UUAUAGCCA----------AAUGAAA-----------
+spr0274      A-ACUUGUUUUU-U----------------------UAA-----------
+spr0831      G-GCCUUCUUUU-UCCUA------------------UCA-----------
+spr1697      A-GAC--UUCUC-A----------------------CUA-----------
+spr1757      U-ACU--UUUUC-GAUUUUUGAUU-----CAAGUUUUUAG----------
+spr0947      A-GGC--UUUUU-GUAUACUUU---------AAAAGAUA-----------
+spr0913      C-UUCGCCUUUC-UUUUU-----------------A---UUCUACUGG--
+spr1040      A-UAC--UCUUU-G----------------------AAAAUCUCUUCA--
+spr2006      G-C-----UCUU-UUCUG------------------UAA-----------
+spr1383      U-AUU--CCUUU-U----------------------UUA-----------
+spr1707      A-AGGUUCUUUU-G----GGAU----------UUUUAAA-----------
+spr0538      G-GCU--UUUUC-UUAUA------------------GAA-----------
+spr1475      A-AGU--CUUUU-U----------------------AAA-----------
+spr1359      A-GUUCAUUUUU-U-AU-GGUGU--------UUUAAGGA-----------
+spr1516      G-CCU--CUUUU-U----------------------GUA-----------
+spr1686      A-AGAGACUCCC-U----------------------AAA-----------
+spr0647      A-AGUCCUUUUG-A----------------------UUA-----------
+spr0581      G-CCU--UUUUA-UGCUAUACU----------UAAGGUA-----------
+spr0824      A-UUUGCUUUUU-UGCUAAUAU----------UUUAAAA-----------
+spr0691      A-AUAUCCUUUU-U-UU-AUU------------UUGAAA-----------
+spr1251      A-UUCUGCUUUU-AAAUAGU-------------UUA---AAACAUUUUCC
+spr1842      G-GAUAAUUUUC-AUAUA------------------AUA-----------
+spr1098      C-ACUGAUUUUU-UAAGAUUUUCAUA-AAAAUAUAGUAA-----------
+spr1577      G-GCAAAGAUUU-UUUU-------------------UGA-----------
+spr0276      C-AGUUUGUUUA-GCAUAUUGA----------GGUGACA-----------
+spr0705      A-UCCUUUUUUC-U----------------------CAA-----------
+spr1343      G-GUUCUUUUUU-U----------------------AGA-----------
+spr0593      G-GUU--CUUUU-UACUU------------------AUAAUUAAAAGUUU
+spr0474      U-ACCUUUUUCA-AGCUA------------------UAA-----------
+spr0880      U-GAUCUUUUUU-CUUUUUUA-----------CGAAUGA-----------
+spr0065      A-AUAUGCGUUU-U----------------------AUU-----------
+spr0086      G-GAU--UUUUU-CUAUG------------------UCA-----------
+spr0650      A-GCCUAUUUAU-U----CUGCA-------UUUGUCUGA-----------
+spr0337      U-CGC-UUUUUU-UGUGAAA-------------AUAUAA-----------
+spr1882      C-UCU--UUUUA-CUCUCUUUA---------UCCAUAGA-----------
+spr0688      C-UCACUCUUUC-U----------------------UAA-----------
+spr0646      G-AAC--UCUUU-U----------------------U-------------
+spr1370      C-AUAAUUUUCU-UUAGAAAAU----------AUUAUCA-----------
+spr1326      A-GUC--UCUUU-G----------------------UUA-----------
+spr0225      G-CUAUUCUUCU-UUUUGUAG------------AGA---AUUUUACUCU-
+spr1385      U-GAU--UUUUU-CUAUUCU--------------UA---UAAAUAAUUUU
+spr0372      A-GACCUUUUUU-C----------------------GUA-----------
+spr1145      G-AUGUU----U-UUUGAUU--------------UUUUAC----------
+spr1738      C-UUGGGAUUUU-U----------------------UUA-----------
+spr0243      A-CCUUGUUUUU-U----CU-------------GUAUAA-----------
+spr0867      C-AGG--AUUUU-U----------------------UCA-----------
+spr0439      G-GCUUCUUACU-UUUUC------------------CUA-----------
+spr0797      G-AUGGGCUCUU-UUUUUGUCC---------AGGGGGCA-----------
+spr0363      G-GUUUUCUGUU-UAUUA------------------AGAUUAUUUUAC--
+spr1911      A-ACUCCUUUGU-UUAUAGAUA---------AAUGUUGA-----------
+spr0954      G-CCUACUUUUU-UCUUUGUCCGAC----AGGCAUA---GUGUAC-----
+spr0904      G-UCAGAUUUU---GGUAACU-----------UCUAAAA-----------
+spr1421      C-GUG--GUUUU-A----------------------UAAUUCAUCCG---
+spr1411      G-A----UUUUU-CUAUUCGUU---------UAUACUCA-----------
+spr1825      U-GCU--UUUUU-AUAUG------------------GAA-----------
+spr0713      C-GUU--UUUUA-UGUG-GAA------------AACUCA-----------
+spr0846      G-CUGAGUUUUA-UUCGAAA-------------GAAGGA-----------
+spr1119      C-GUCCUUUUCU-UCGUGAAAA---------UACUAUAA-----------
+spr0627      A-G----GUUUU-UCUUCGUGU----------AUUGGAA-----------
+spr0051      U-UUCCUUUUUU-GGCUU------------------AAA-----------
+spr0919      A-UGGAUUUUUC-UUAUUUUCC---------UAAACAGA-----------
+spr1957      C-GGUCCUCUUU-U----------------------AUA-----------
+spr0177      U-GUAUCAGCCC-AACUC------------------CCA-----------
+spr0905      G-CAGAUUUUUA-U-AUG------------------UGA-----------
+spr0247      G-GGGGAUU--A-AUUUUCG--------------UA---CAAUAUUUGUU
+spr0492      G-CCGUGUUUUU-UGGUA------------------UAA-----------
+spr1467      A-G----CUUUU-U----------------------UG------------
+spr1271      A-GUC--CUUUU-UCUUUU---------------AA---AUAAAUACUCC
+spr0124      G-GCUUUGAUUC-AUCUC------------------CAA-----------
+spr1250      A-CUCUGCUUUU-UCUUAUU-------------CUU-CAACUUC------
+spr1989      U-CCCUUCUUUU-UAAU-------------------GGA-----------
+spr1472      G-GAGGCUUUUUCUCAUCUAUU---------UUUACUCA-----------
+spr0579      G-GGA--GUUUU-AUGCG------------------UAA-----------
+spr0131      C-UCU--CUUUU-U----------------------UGA-----------
+spr1453      A-GUUUUUCUUU-UGAUACUCA----------AUGAAAA-----------
+spr0726      A-UAGGAUUUUU-UUAUA------------------GUC-----------
+spr1766      G-AGAGAGGUUU-UUUUU------------------UUA-----------
+spr0179      G-C----CUUUU-UACUU------------------UUA-----------
+spr1866      G-CUGGAUUUUU-U----AUCA---------AAAAAUUA-----------
+spr0924      C-CUC--UCUUU-U----------------------GUC-----------
+spr0810      U-AAAGCUUUUU-U----------------------ACU-----------
+spr0441      U-CUUUUCUUUU-GCUUA------------------AAA-----------
+spr0596      A-GCUUUUUUUG-UUUUAUCGACU-----CAUCUCUAAA-----------
+spr1131      A-CUGGGCUUUU-GUUUA------------------GAAUUUCUUUUC--
+spr1267      G-GGAUGGUGAU-UUUUAUCU-----------GGAA---UCUAGUCU---
+spr2040      U-GUUCCCUUUU-AUCU-------------------AUACUCCGCCAG--
+spr0169      G-GUUGCUUUUU-CACUUACU-----------UUUUUGAG----------
+spr0718      C-ACGACUUUCU-G----------------------AUA-----------
+spr0709      G-AGCGAUAUUU-UUAUUUUUU----------CUUUUUAGAUGGUGUCU-
+spr1465      A-G----GUUUU-CAUUU------------------AUA-----------
+spr0045      U-UUU--CACUC-U----------------------GUA-----------
+spr0789      U-UAAUCCUUUU-GUUUUGUCU---------GAUAAAAA-----------
+spr0348      A-UAA--UACUU-U----------------------ACA-----------
+spr1553      G-GAU--UUUUU-UGAUA------------------UAA-----------
+spr0191      A-CUAGU-----------------------------AAAUCCGCCAG---
+spr1933      A-AGUUCUAUCG-U----------------------UUU-----------
+spr1875      C-GUUCGUUUUU--UCUU------------------UGU-----------
+spr1544      G-GUAUCCGUUU-GCUUUA---------------UA---AGGA-------
+spr0914      G-AUC-CUUUUA-AUCGA------------------UUAUUUUUUCU---
+spr0309      A-GGU--UUUCU-CUCUGUCUC---------AGGAGCAA-----------
+spr0002      C-CUC--UUUUA-UGAUA------------------UAA-----------
+spr1973      G-GGG------G-A----------------------UAA-----------
+spr0739      C-C----UUUUU-GGCUA------------------UAAUUAUUCUGC--
+spr1405      G-ACU--UUUUU-G----------------------AUA-----------
+spr1899      A-GUGCUCUUUU-UUAUGGUU-----------GUAA---AAAAGUUCAUU
+spr1351      C-AUC--UUUUU-UCGUA------------------UCA-----------
+spr1967      C-ACCUCCAUUU-U----------------------GGA-----------
+spr1780      G-C----CUUUU-U----------------------CUA-----------
+spr0669      C-AGCCUUUUCU-UACUAGAG------------AAGCUA-----------
+spr2019      U-CCU--UUUUU-GUAUAGG--------------GCUUA-----------
+spr1561      A-G----GUUUU-U----------------------AAA-----------
+spr2034      A-GAUAGUUUUU-U-AU-------------------UUA-----------
+spr0228      A-UCGUUUUUCU-UUUUAGUUG---------AUUGCACA-----------
+spr0400      G-UUC--UUUUU-UCUUUUU-------------UAGUAA-----------
+spr1252      G-GCUCCUUUUU-U----------------------UGA-----------
+spr1287      A-GGCAUUUUUU-G----------------------UUA-----------
+spr1885      A-GCU--UUUUC-UUGUCCAU------------AAAAAA-----------
+spr0329      G-GGUGAUUUUU-UCAUA------------------GCA-----------
+spr1115      A-GGUCUUGUUG-UGUUUCGGC---------UUCGACUA-----------
+spr1327      A-GUC--UUUUU-U----------------------CGC-----------
+spr0407      A-UCUGCCUUUU-CAUUU------------------UGA-----------
+spr0438      C-AGAGGUUUUU-U----------------------GCA-----------
+spr1129      C-CCU--CUUUC-UUUUAUU--------------UU-UAAC---------
+spr1321      A-ACU--UUUUU-ACAUG------------------UAA-----------
+spr1549      U-UUAUGUCUUG-C----------------------UUA-----------
+spr1109      A-GCUCAUUUUU-U-CUC------------------AGA-----------
+spr0915      A-AUCCUUUUUU-CUUUACUCU---------UUGGGUAA-----------
+spr0364      C-AGCCUCUUCU-U----------------------CUA-----------
+spr2011      A--CUACCUUUU-UCUUA------------------UAA-----------
+spr1032      A-CGA--UUUUU-A----GGCUGU-----UUAGAGAGGA-----------
+spr1175      A-GUGCAUUUUU-C----------------------UUA-----------
+spr0934      C-CUAGGUCUUC-UUAUU------------------ACA-----------
+spr1200      GAUGCAUUUUUU-U----AG-------------CGA-CAAUGCUUGCU--
+spr1091      G-GUG--UUUUU-UGCUGAUGAGACUAUAAAUUUUGUAA-----------
+spr0673      U-CGUGGGUUUC-U----UGCUGAU----UUGCUUA---UUUUAUUAG--
+spr1456      G-GUU--UUUUU-C----------------------UAA-----------
+spr1830      A-A----CUUAA-GGGUGGACU---------UGGUAUAA-----------
+spr0602      U-GGC--UUUUU-UAUUU------------------CCA-----------
+spr1499      A-GGCUU----U-UUAUG------------------UUA-----------
+spr0168      A-GCUUUUUUCU-CGGUA------------------UUAUUACUGGCA--
+spr0568      G-GG---AUUUU-UGCUUUCUCU--------ACAAAAUA-----------
+spr0235      A-ACUGUUUGAG-C----------------------CAA-----------
+spr0259      G-AUUCCUUUUU-U-CUAUGCU---------UUUAUUCA-----------
+spr1181      G-GGG--AUUUU-UAGU-------------------UGA-----------
+spr0585      A-CUUCUUUUGU-UUCU-------------------UAA-----------
+spr1646      A-A----GUUUG-GUCUACUGU---------ACUUGCAA-----------
+spr0371      A-AACCUUAUUU-U----------------------UUA-----------
+spr0448      G-GAG--UUUUA-CGUUG------------------AAA-----------
+spr1402      G-GGUGGCUUUU-UAUUUCUCA----------AUCAAGA-----------
+spr1944      A-GCGUUUUUUC-UUUUUGU--------------UA---AUUUCACUAU-
+spr0813      G-GUAUUUCUUG--UUUUCUAAA--------UGCUGAAA-----------
+spr1435      G-GCU--GUUUU-CUCUACACU---------AGGAUAUA-----------
+spr1097      U-G----CUUUU-U----------------------UCA-----------
+spr0096      C-GGC--UUUUU--UAUC------------------UUUCCUUCG-----
+spr1052      G-GUUUUCUUUU-UUAUUUU-------------GUGAAA-----------
+spr1925      A-UCGGAUUUUU-GUAUUAU--------------ACUCA-----------
+spr0670      C-CAA--CUUUU-UGCUUUA-------------UGAGAA-----------
+spr0405      U-GACUGUUUUU-U----------------------AUA-----------
+spr1844      C-UCCUCUUUUU-ACAUU------------------UGA-----------
+spr1220      G-UUUUUUCUUU-UUAUACUGA---------AAUAGUGA-----------
+spr1464      U-GCA--GUUUU-U----------------------UUA-----------
+spr0452      G-UGCUAAUUUU-U----------------------UGA-----------
+spr0620      A-AUCCCUUUUU-A----------------------AGAUUUUACCU---
+spr0100      G-GCU--GAAUA-C----------------------UCAUGUUUUCC---
+spr1027      A-ACCAAUUUCU-C----------------------ACAAUGUUUUAG--
+spr1488      G-AAU--UAUUU-UUUUC------------------UUA-----------
+spr0917      G-G----CUUUU-UCCUAUGGAA-------AAUUUCUAAG----------
+spr0258      G-GUUCCUUUUU-AGUUGCU-------------UGAUUA-----------
+spr0457      G-GCU--CUUUU-U----------------------UAA-----------
+spr1724      G-GCU--UUUUA-UCUUG------------------AGA-----------
+spr0550      G-UAGGAGAGUU-UUAUUUUU------------AGAUAA-----------
+spr0652      C-UCUUGUUUUU-UUGUG------------------GUA-----------
+spr1725      A-CUU--UUUUU-GAUUUCCU-----------ACGAAUA-----------
+spr1811      G-CUC--CUUUU-CUUUG------------------UGA-----------
+spr0654      A-AACCGUUUUU-UGGUA------------------UAA-----------
+spr1243      G-UUCGUUUUUA-A----------------------GGA-----------
+spr1445      A-GGGGCUAUUU-UAUUG------------------UCAUUUUUCUGC--
+spr1122      U-GCAGGAUUUU-UGCUUCUGA---------UUAGAUUA-----------
+spr1620      C-CCC--UUUCU-UGUUA------------------AUA-----------
+spr0234      G-GUAGUCUUUU-AUUGAUCUCCG------UAUUGA---AUUCUAUAG--
+spr0459      G-CAGGCCUUUC-G----------------------UAA-----------
+spr0890      U-UGCUUUUUCU-UUUUGUG--------------UCUGA-----------
+spr1787      C-UGA--UUUUU-U----------------------UUAAAUUUUCUCU-
+spr0028      G-G----UUUUU-C----GUCUUUU----UUCCGAAUAA-----------
+spr0071      A-CCCCUCUUUU-U----------------------UGAUGCCUAAG---
+spr1302      G-AGAGUUUUUG-CGUGG------------------UAAUCUAAUUAUUU
+spr0266      G-A----UUGCU-AACUACCGG---------ACGGAUCA-----------
+spr1460      U-CCU--CUUUU-U--UA------------------UCAGGCUCUGG---
+spr0931      C-CGU--CUUUU-UUGUCGGCC---------AAUAGAAA-----------
+spr0204      A-ACCAC-----------------------------CAA-----------
+spr1506      G-AGG--UUUUG-AUCCA------------------GAA-----------
+spr1397      G-GCGUUUUUUC-GAAUU------------------CUAGUG--------
+spr1934      U-G----CUUUU-UGAUACUCA----------AUGAAAA-----------
+spr1800      A-GAUAGUUUUU-UGGUA------------------UGAUUUUCAUU---
+spr0814      A-GGUAUCUUUU-U----------------------UUA-----------
+spr1177      G-UUC--UUUUU-UGUUUCUU-----------GAAAUCA-----------
+spr0838      U-GUC--UGUUU-CUGUU------------------UAA-----------
+spr0674      U-CUUCUCUUUU-UUAGG------------------UUA-----------
+spr0566      A-UCUGA----G-A----GGGAAG-----CGUCAAGUGA-----------
+spr1918      C-UUUGAAUUUA-U----------------------CAA-----------
+spr1955      G-UUGGCUUCAA-G----------------------AAAGUUUUGGCC--
+spr1162      A-UUAUGCGUUU-U----------------------ACU-----------
+spr0574      A-UGCGCUUUUG-UGCUU------------------UGA-----------
+spr1922      A-CUAUGCGUUU-U----------------------AAU-----------
+spr1986      G-GUUUAUAUUU-UAGU-------------------UAAUUGCUCAAG--
+#=GC SS_cons >.>>>>>>>>>>.>::::..................:::...........
+#=GC RF      a.guuuuUUUuU.uuaUa..................uuA...........
+
+spr1688      -----------
+spr0030      -----------
+spr0092      -----------
+spr1776      -----------
+spr1700      -----------
+spr1022      -----------
+spr1018      -----------
+spr0326      -----------
+spr1713      -----------
+spr0298      -----------
+spr1105      -----------
+spr0390      -----------
+spr1519      -----------
+spr0272      -----------
+spr1020      -----------
+spr0750      -----------
+spr1165      -----------
+spr1342      -----------
+spr0584      -----------
+spr1404      -----------
+spr1495      -----------
+spr0327      -----------
+spr0056      -----------
+spr0638      -----------
+spr1565      -----------
+spr1791      -----------
+spr1045      -----------
+spr1641      -----------
+spr0510      -----------
+spr1352      -----------
+spr0057      -----------
+spr1046      -----------
+spr1666      -----------
+spr1983      -----------
+spr1867      -----------
+spr1485      -----------
+spr1803      -----------
+spr1345      -----------
+spr0287      -----------
+spr0980      -----------
+spr0679      -----------
+spr1794      -----------
+spr0396      -----------
+spr1369      -----------
+spr1491      -----------
+spr0663      -----------
+spr0972      -----------
+spr1975      UCAUUAU----
+spr0782      -----------
+spr1061      -----------
+spr1394      -----------
+spr0659      -----------
+spr1992      -----------
+spr1945      -----------
+spr0465      -----------
+spr1444      -----------
+spr0706      -----------
+spr0182      -----------
+spr0975      -----------
+spr0307      -----------
+spr1903      -----------
+spr0362      -----------
+spr0992      -----------
+spr1112      -----------
+spr1036      -----------
+spr1838      -----------
+spr1221      -----------
+spr0311      -----------
+spr0614      -----------
+spr1669      -----------
+spr0447      -----------
+spr0285      -----------
+spr0692      -----------
+spr1878      -----------
+spr0269      -----------
+spr0033      -----------
+spr1763      -----------
+spr0860      -----------
+spr0426      -----------
+spr1376      -----------
+spr1430      -----------
+spr2033      -----------
+spr1754      -----------
+spr0868      -----------
+spr0897      -----------
+spr1622      -----------
+spr0912      -----------
+spr1170      -----------
+spr0855      -----------
+spr1824      -----------
+spr1785      -----------
+spr0619      -----------
+spr0592      -----------
+spr1942      -----------
+spr1314      -----------
+spr1476      -----------
+spr1358      -----------
+spr1240      -----------
+spr0920      GUCU-------
+spr0537      -----------
+spr1681      -----------
+spr0250      -----------
+spr0556      -----------
+spr2002      -----------
+spr0220      -----------
+spr1440      -----------
+spr1406      -----------
+spr1486      -----------
+spr1171      -----------
+spr1442      -----------
+spr1384      -----------
+spr1569      -----------
+spr1047      -----------
+spr0398      -----------
+spr1530      -----------
+spr1813      -----------
+spr1518      -----------
+spr0209      -----------
+spr1551      -----------
+spr0696      -----------
+spr0509      -----------
+spr2015      -----------
+spr1570      -----------
+spr1670      -----------
+spr1617      -----------
+spr2020      -----------
+spr0710      -----------
+spr0747      -----------
+spr0695      -----------
+spr1708      -----------
+spr1536      -----------
+spr1041      -----------
+spr0784      -----------
+spr1028      -----------
+spr1356      -----------
+spr1050      -----------
+spr0781      -----------
+spr0708      -----------
+spr1409      -----------
+spr0413      -----------
+spr0482      -----------
+spr1848      -----------
+spr0244      -----------
+spr0999      -----------
+spr1951      -----------
+spr0649      -----------
+spr2035      -----------
+spr1868      -----------
+spr0155      -----------
+spr1312      -----------
+spr2036      -----------
+spr0678      -----------
+spr1716      -----------
+spr0464      -----------
+spr1604      -----------
+spr0270      -----------
+spr0583      -----------
+spr1954      -----------
+spr0305      -----------
+spr2046      -----------
+spr1100      -----------
+spr1333      -----------
+spr0780      -----------
+spr0600      -----------
+spr1865      -----------
+spr1645      -----------
+spr1062      AAG--------
+spr0085      -----------
+spr1515      -----------
+spr0415      -----------
+spr0207      -----------
+spr0078      -----------
+spr1571      -----------
+spr0615      -----------
+spr1320      -----------
+spr1323      -----------
+spr1311      -----------
+spr0586      -----------
+spr1719      -----------
+spr0146      -----------
+spr0804      -----------
+spr0729      -----------
+spr0058      -----------
+spr0393      -----------
+spr1631      -----------
+spr1566      -----------
+spr1336      -----------
+spr1953      -----------
+spr1790      -----------
+spr1984      UUAUCCCCUAC
+spr0725      -----------
+spr0531      -----------
+spr0274      -----------
+spr0831      -----------
+spr1697      -----------
+spr1757      -----------
+spr0947      -----------
+spr0913      -----------
+spr1040      -----------
+spr2006      -----------
+spr1383      -----------
+spr1707      -----------
+spr0538      -----------
+spr1475      -----------
+spr1359      -----------
+spr1516      -----------
+spr1686      -----------
+spr0647      -----------
+spr0581      -----------
+spr0824      -----------
+spr0691      -----------
+spr1251      AG---------
+spr1842      -----------
+spr1098      -----------
+spr1577      -----------
+spr0276      -----------
+spr0705      -----------
+spr1343      -----------
+spr0593      CCCC-------
+spr0474      -----------
+spr0880      -----------
+spr0065      -----------
+spr0086      -----------
+spr0650      -----------
+spr0337      -----------
+spr1882      -----------
+spr0688      -----------
+spr0646      -----------
+spr1370      -----------
+spr1326      -----------
+spr0225      -----------
+spr1385      CUGC-------
+spr0372      -----------
+spr1145      -----------
+spr1738      -----------
+spr0243      -----------
+spr0867      -----------
+spr0439      -----------
+spr0797      -----------
+spr0363      -----------
+spr1911      -----------
+spr0954      -----------
+spr0904      -----------
+spr1421      -----------
+spr1411      -----------
+spr1825      -----------
+spr0713      -----------
+spr0846      -----------
+spr1119      -----------
+spr0627      -----------
+spr0051      -----------
+spr0919      -----------
+spr1957      -----------
+spr0177      -----------
+spr0905      -----------
+spr0247      GUCC-------
+spr0492      -----------
+spr1467      -----------
+spr1271      AA---------
+spr0124      -----------
+spr1250      -----------
+spr1989      -----------
+spr1472      -----------
+spr0579      -----------
+spr0131      -----------
+spr1453      -----------
+spr0726      -----------
+spr1766      -----------
+spr0179      -----------
+spr1866      -----------
+spr0924      -----------
+spr0810      -----------
+spr0441      -----------
+spr0596      -----------
+spr1131      -----------
+spr1267      -----------
+spr2040      -----------
+spr0169      -----------
+spr0718      -----------
+spr0709      -----------
+spr1465      -----------
+spr0045      -----------
+spr0789      -----------
+spr0348      -----------
+spr1553      -----------
+spr0191      -----------
+spr1933      -----------
+spr1875      -----------
+spr1544      -----------
+spr0914      -----------
+spr0309      -----------
+spr0002      -----------
+spr1973      -----------
+spr0739      -----------
+spr1405      -----------
+spr1899      UG---------
+spr1351      -----------
+spr1967      -----------
+spr1780      -----------
+spr0669      -----------
+spr2019      -----------
+spr1561      -----------
+spr2034      -----------
+spr0228      -----------
+spr0400      -----------
+spr1252      -----------
+spr1287      -----------
+spr1885      -----------
+spr0329      -----------
+spr1115      -----------
+spr1327      -----------
+spr0407      -----------
+spr0438      -----------
+spr1129      -----------
+spr1321      -----------
+spr1549      -----------
+spr1109      -----------
+spr0915      -----------
+spr0364      -----------
+spr2011      -----------
+spr1032      -----------
+spr1175      -----------
+spr0934      -----------
+spr1200      -----------
+spr1091      -----------
+spr0673      -----------
+spr1456      -----------
+spr1830      -----------
+spr0602      -----------
+spr1499      -----------
+spr0168      -----------
+spr0568      -----------
+spr0235      -----------
+spr0259      -----------
+spr1181      -----------
+spr0585      -----------
+spr1646      -----------
+spr0371      -----------
+spr0448      -----------
+spr1402      -----------
+spr1944      -----------
+spr0813      -----------
+spr1435      -----------
+spr1097      -----------
+spr0096      -----------
+spr1052      -----------
+spr1925      -----------
+spr0670      -----------
+spr0405      -----------
+spr1844      -----------
+spr1220      -----------
+spr1464      -----------
+spr0452      -----------
+spr0620      -----------
+spr0100      -----------
+spr1027      -----------
+spr1488      -----------
+spr0917      -----------
+spr0258      -----------
+spr0457      -----------
+spr1724      -----------
+spr0550      -----------
+spr0652      -----------
+spr1725      -----------
+spr1811      -----------
+spr0654      -----------
+spr1243      -----------
+spr1445      -----------
+spr1122      -----------
+spr1620      -----------
+spr0234      -----------
+spr0459      -----------
+spr0890      -----------
+spr1787      -----------
+spr0028      -----------
+spr0071      -----------
+spr1302      UCAAG------
+spr0266      -----------
+spr1460      -----------
+spr0931      -----------
+spr0204      -----------
+spr1506      -----------
+spr1397      -----------
+spr1934      -----------
+spr1800      -----------
+spr0814      -----------
+spr1177      -----------
+spr0838      -----------
+spr0674      -----------
+spr0566      -----------
+spr1918      -----------
+spr1955      -----------
+spr1162      -----------
+spr0574      -----------
+spr1922      -----------
+spr1986      -----------
+#=GC SS_cons ...........
+#=GC RF      ...........
+//

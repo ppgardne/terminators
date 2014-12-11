@@ -1,0 +1,9 @@
+find /warehouse/pfam01/rfam/Users/lb14/BACKUP101/lb14/terminators/clustering.12.11.11 -name '*.scores' | xargs cut -f 1,2,5 > term_score_mat
+~/local/bin/mcxload -abc term_score_mat -write-tab term.dict -o term.mci --stream-mirror
+~/local/bin/mcx query -imx term.mci -o test -vary-knn 50,1000,10,1
+~/local/bin/mcl term.mci -tf '#knn(500)' -I 1.2;~/local/bin/mcl term.mci -tf '#knn(500)' -I 2; ~/local/bin/mcl term.mci -tf '#knn(500)' -I 4; ~/local/bin/mcl term.mci -tf '#knn(500)' -I 7
+~/local/bin/mcl term.mci -pi 2 -tf '#knn(500)' -I 1.2;~/local/bin/mcl term.mci -pi 2 -tf '#knn(500)' -I 2; ~/local/bin/mcl term.mci -pi 2 -tf '#knn(500)' -I 4; ~/local/bin/mcl term.mci -pi 2 -tf '#knn(500)' -I 7
+~/local/bin/mcxdump -icl out.term.mci.I12 -o dump.term.mci.I12 -tabr term.dict;mcxdump -icl out.term.mci.I20 -o dump.term.mci.I20 -tabr term.dict;mcxdump -icl out.term.mci.I40 -o dump.term.mci.I40 -tabr term.dict;mcxdump -icl out.term.mci.I70 -o dump.term.mci.I70 -tabr term.dict;
+~/local/bin/mcxdump -icl out.term.mci.I12.pi20 -o dump.term.mci.I12.pi20 -tabr term.dict;mcxdump -icl out.term.mci.I20.pi20 -o dump.term.mci.I20.pi20 -tabr term.dict;mcxdump -icl out.term.mci.I40.pi20 -o dump.term.mci.I40.pi20 -tabr term.dict;mcxdump -icl out.term.mci.I70.pi20 -o dump.term.mci.I70.pi20 -tabr term.dict;
+~/local/bin/clm order -prefix P out.term.mci.I{12,20,40,70}
+~/local/bin/clm close -imx term.mci --write-cc -o term.base

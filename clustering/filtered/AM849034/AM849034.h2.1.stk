@@ -1,0 +1,1806 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CMS2771  WT 1.08
+#=GS CMS1432  WT 1.35
+#=GS CMS1502  WT 1.07
+#=GS CMS0684  WT 0.93
+#=GS CMS1912  WT 0.95
+#=GS CMS2982  WT 0.81
+#=GS CMS1095  WT 0.87
+#=GS CMS1501  WT 0.78
+#=GS CMS2432  WT 0.84
+#=GS CMS1599  WT 0.99
+#=GS CMS1632  WT 0.51
+#=GS CMS0692  WT 1.74
+#=GS CMS1820  WT 0.64
+#=GS CMS2221  WT 0.71
+#=GS CMS1976  WT 1.07
+#=GS CMS1431  WT 1.00
+#=GS CMS2004  WT 0.97
+#=GS CMS2441  WT 1.19
+#=GS CMS1186  WT 0.95
+#=GS CMS2468  WT 0.99
+#=GS CMS2636  WT 0.97
+#=GS CMS0674  WT 0.59
+#=GS CMS0995  WT 0.88
+#=GS CMS1700  WT 0.81
+#=GS CMS2068  WT 0.61
+#=GS CMS2772  WT 1.06
+#=GS CMS2375  WT 0.97
+#=GS CMS2234  WT 1.25
+#=GS CMS1819  WT 0.64
+#=GS CMS3104  WT 1.01
+#=GS CMS2740  WT 0.71
+#=GS CMS1887  WT 1.33
+#=GS CMS2591  WT 1.21
+#=GS CMS1378  WT 1.02
+#=GS CMS1283  WT 1.22
+#=GS CMS2469  WT 0.99
+#=GS CMS1540  WT 0.89
+#=GS CMS2739  WT 0.71
+#=GS CMS2235  WT 0.91
+#=GS CMS0540  WT 0.63
+#=GS CMS2217  WT 1.37
+#=GS CMS1152  WT 1.30
+#=GS CMS1592  WT 1.28
+#=GS CMS0784  WT 0.60
+#=GS CMS2981  WT 0.81
+#=GS CMS2870  WT 1.15
+#=GS CMS3000  WT 0.02
+#=GS CMS0785  WT 0.60
+#=GS CMS2222  WT 0.71
+#=GS CMS0597  WT 0.94
+#=GS CMS0565  WT 1.08
+#=GS CMS3056  WT 1.10
+#=GS CMS0393  WT 0.02
+#=GS CMS0574  WT 1.28
+#=GS CMS1779  WT 0.84
+#=GS CMS1800  WT 1.01
+#=GS CMS2614  WT 1.01
+#=GS CMS1701  WT 0.81
+#=GS CMS1799  WT 0.85
+#=GS CMS0541  WT 0.63
+#=GS CMS2452  WT 0.72
+#=GS CMS2512  WT 0.70
+#=GS CMS0087  WT 0.02
+#=GS CMS0761  WT 1.13
+#=GS CMS1199  WT 1.55
+#=GS CMS2807  WT 0.97
+#=GS CMS0112  WT 0.96
+#=GS CMS2122  WT 1.19
+#=GS CMS2343  WT 1.15
+#=GS CMS1179  WT 0.81
+#=GS CMS1778  WT 0.73
+#=GS CMS0573  WT 1.28
+#=GS CMS2440  WT 0.98
+#=GS CMS0926  WT 1.10
+#=GS CMS2747  WT 0.90
+#=GS CMS0176  WT 1.24
+#=GS CMS1755  WT 0.93
+#=GS CMS1818  WT 0.79
+#=GS CMS2727  WT 1.30
+#=GS CMS0528  WT 0.98
+#=GS CMS1497  WT 1.12
+#=GS CMS2433  WT 0.84
+#=GS CMS2414  WT 0.86
+#=GS CMS2069  WT 0.61
+#=GS CMS1033  WT 1.22
+#=GS CMS2555  WT 1.36
+#=GS CMS1817  WT 0.79
+#=GS CMS0971  WT 1.01
+#=GS CMS0452  WT 0.02
+#=GS CMS2820  WT 0.70
+#=GS CMS1128  WT 1.02
+#=GS CMS1035  WT 1.29
+#=GS CMS0002  WT 0.42
+#=GS CMS1984  WT 1.34
+#=GS CMS0558  WT 1.26
+#=GS CMS0727  WT 0.98
+#=GS CMS1558  WT 1.43
+#=GS CMS0935  WT 1.39
+#=GS CMS2595  WT 0.84
+#=GS CMS1871  WT 0.97
+#=GS CMS1983  WT 0.77
+#=GS CMS0045  WT 0.88
+#=GS CMS1897  WT 0.84
+#=GS CMS2767  WT 1.16
+#=GS CMS1614  WT 0.98
+#=GS CMS1748  WT 0.98
+#=GS CMS2819  WT 0.70
+#=GS CMS1749  WT 0.98
+#=GS CMS0396  WT 0.65
+#=GS CMS0695  WT 1.23
+#=GS CMS0613  WT 0.02
+#=GS CMS0693  WT 0.87
+#=GS CMS1004  WT 1.26
+#=GS CMS2911  WT 0.79
+#=GS CMS0034  WT 1.18
+#=GS CMS0241  WT 0.88
+#=GS CMS1499  WT 0.81
+#=GS CMS2586  WT 1.11
+#=GS CMS0262  WT 1.45
+#=GS CMS1645  WT 0.98
+#=GS CMS2674  WT 1.36
+#=GS CMS3040  WT 1.01
+#=GS CMS2974  WT 0.65
+#=GS CMS1183  WT 1.51
+#=GS CMS0139  WT 0.76
+#=GS CMS0301  WT 1.45
+#=GS CMS0821  WT 0.78
+#=GS CMS0037  WT 0.02
+#=GS CMS1178  WT 0.75
+#=GS CMS2804  WT 1.20
+#=GS CMS2225  WT 0.81
+#=GS CMS2129  WT 0.02
+#=GS CMS0010  WT 1.01
+#=GS CMS0751  WT 0.76
+#=GS CMS1479  WT 0.02
+#=GS CMS0609  WT 0.87
+#=GS CMS0719  WT 1.23
+#=GS CMS1634  WT 0.78
+#=GS CMS2773  WT 1.32
+#=GS CMS3111  WT 1.17
+#=GS CMS2456  WT 1.06
+#=GS CMS0566  WT 1.08
+#=GS CMS2282  WT 0.78
+#=GS CMS1500  WT 0.81
+#=GS CMS2869  WT 1.15
+#=GS CMS0315  WT 1.43
+#=GS CMS0140  WT 0.76
+#=GS CMS0013  WT 1.35
+#=GS CMS2589  WT 0.02
+#=GS CMS1631  WT 0.51
+#=GS CMS1354  WT 0.62
+#=GS CMS1653  WT 0.78
+#=GS CMS3042  WT 0.75
+#=GS CMS0772  WT 1.34
+#=GS CMS1258  WT 0.02
+#=GS CMS0071  WT 0.96
+#=GS CMS2800  WT 1.00
+#=GS CMS1503  WT 0.78
+#=GS CMS1774A WT 0.94
+#=GS CMS0366  WT 1.16
+#=GS CMS0584  WT 0.97
+#=GS CMS2117  WT 1.26
+#=GS CMS1580  WT 0.87
+#=GS CMS1539  WT 0.89
+#=GS CMS2213  WT 0.87
+#=GS CMS1504  WT 0.78
+#=GS CMS1158  WT 0.02
+#=GS CMS2374  WT 0.97
+#=GS CMS3011  WT 1.62
+#=GS CMS1396  WT 1.30
+#=GS CMS2592  WT 0.87
+#=GS CMS2072  WT 1.06
+#=GS CMS2764  WT 0.84
+#=GS CMS1113  WT 1.16
+#=GS CMS2018  WT 0.99
+#=GS CMS2680  WT 0.75
+#=GS CMS0180  WT 1.15
+#=GS CMS2948  WT 0.93
+#=GS CMS1843  WT 1.16
+#=GS CMS0114  WT 1.32
+#=GS CMS0171  WT 1.21
+#=GS CMS1960  WT 0.88
+#=GS CMS1041  WT 1.45
+#=GS CMS1845  WT 1.08
+#=GS CMS1215  WT 1.03
+#=GS CMS2748  WT 0.90
+#=GS CMS0096  WT 0.91
+#=GS CMS2613  WT 1.01
+#=GS CMS1141  WT 1.40
+#=GS CMS0001  WT 0.75
+#=GS CMS0210  WT 0.02
+#=GS CMS3010  WT 0.88
+#=GS CMS2159  WT 0.02
+#=GS CMS2001  WT 0.02
+#=GS CMS1904  WT 1.56
+#=GS CMS0771  WT 1.02
+#=GS CMS0890  WT 1.39
+#=GS CMS2340  WT 0.02
+#=GS CMS1045  WT 1.07
+#=GS CMS1135  WT 0.91
+#=GS CMS1301  WT 1.07
+#=GS CMS0644  WT 0.02
+#=GS CMS0240  WT 0.88
+#=GS CMS0258  WT 1.02
+#=GS CMS3009  WT 1.59
+#=GS CMS2511  WT 0.70
+#=GS CMS1692  WT 1.19
+#=GS CMS0907  WT 1.28
+#=GS CMS1262  WT 1.56
+#=GS CMS1747  WT 1.62
+#=GS CMS1986  WT 1.06
+#=GS CMS1164  WT 0.94
+#=GS CMS0600  WT 0.02
+#=GS CMS1903  WT 1.30
+#=GS CMS0270  WT 0.97
+#=GS CMS2211  WT 1.19
+#=GS CMS2401  WT 1.19
+#=GS CMS1260  WT 1.11
+#=GS CMS2834  WT 1.03
+#=GS CMS2226  WT 0.02
+#=GS CMS0725  WT 0.62
+#=GS CMS2683  WT 1.18
+#=GS CMS1208  WT 1.29
+#=GS CMS0264  WT 0.87
+#=GS CMS1324  WT 1.16
+#=GS CMS3024  WT 0.97
+#=GS CMS1644  WT 0.98
+#=GS CMS2649  WT 1.07
+#=GS CMS1637  WT 0.02
+#=GS CMS1173  WT 1.47
+#=GS CMS0988  WT 1.08
+#=GS CMS1727  WT 0.64
+#=GS CMS0170  WT 1.37
+#=GS CMS0246  WT 1.22
+#=GS CMS2714  WT 0.95
+#=GS CMS1350  WT 1.21
+#=GS CMS3069  WT 1.43
+#=GS CMS0542  WT 0.02
+#=GS CMS1007  WT 1.17
+#=GS CMS0070  WT 0.96
+#=GS CMS0899  WT 1.02
+#=GS CMS0526  WT 1.16
+#=GS CMS0280  WT 1.15
+#=GS CMS1380  WT 1.19
+#=GS CMS1226  WT 1.35
+#=GS CMS1815  WT 0.97
+#=GS CMS2255  WT 0.74
+#=GS CMS0155  WT 0.98
+#=GS CMS0136  WT 1.09
+#=GS CMS1495  WT 1.15
+#=GS CMS1996  WT 1.04
+#=GS CMS0563  WT 1.33
+#=GS CMS1206  WT 1.00
+#=GS CMS2536  WT 1.36
+#=GS CMS1457  WT 0.74
+#=GS CMS2757  WT 0.98
+#=GS CMS0598  WT 1.23
+#=GS CMS1680  WT 0.90
+#=GS CMS1687  WT 1.00
+#=GS CMS1435  WT 0.70
+#=GS CMS1907  WT 1.02
+#=GS CMS1296  WT 1.10
+#=GS CMS0497  WT 0.90
+#=GS CMS1769  WT 0.99
+#=GS CMS2571  WT 1.44
+#=GS CMS1376  WT 1.11
+#=GS CMS1420  WT 0.98
+#=GS CMS0655  WT 1.12
+#=GS CMS0678  WT 1.12
+#=GS CMS2568  WT 0.97
+#=GS CMS1446  WT 1.36
+#=GS CMS1872  WT 0.97
+#=GS CMS3044  WT 0.75
+#=GS CMS0608  WT 0.65
+#=GS CMS2509  WT 0.95
+#=GS CMS2914  WT 1.49
+#=GS CMS1889  WT 1.14
+#=GS CMS1598  WT 1.06
+#=GS CMS3096  WT 1.24
+#=GS CMS2862  WT 1.26
+#=GS CMS1389  WT 1.34
+#=GS CMS1153  WT 0.92
+#=GS CMS2190  WT 0.02
+#=GS CMS0679  WT 1.21
+#=GS CMS2856  WT 0.97
+#=GS CMS0552  WT 0.93
+#=GS CMS0688  WT 1.39
+#=GS CMS0932  WT 0.02
+#=GS CMS1901  WT 0.89
+#=GS CMS1722  WT 0.96
+#=GS CMS0174  WT 0.87
+#=GS CMS2577  WT 0.56
+#=GS CMS0572  WT 1.27
+#=GS CMS1593  WT 0.64
+#=GS CMS1619  WT 0.99
+#=GS CMS2813  WT 1.91
+#=GS CMS0116  WT 0.92
+#=GS CMS0651  WT 0.86
+#=GS CMS0577  WT 1.02
+#=GS CMS1214  WT 1.03
+#=GS CMS2799  WT 0.99
+#=GS CMS0467  WT 2.01
+#=GS CMS0549  WT 1.36
+#=GS CMS0423  WT 0.96
+#=GS CMS0855  WT 1.34
+#=GS CMS0154  WT 1.37
+#=GS CMS1119  WT 1.81
+#=GS CMS0500  WT 0.84
+#=GS CMS0738  WT 0.21
+#=GS CMS1923  WT 0.98
+#=GS CMS1285  WT 1.44
+#=GS CMS2886  WT 0.42
+#=GS CMS1223  WT 0.74
+#=GS CMS2167  WT 1.07
+#=GS CMS1643  WT 1.36
+#=GS CMS0987  WT 1.59
+#=GS CMS1086  WT 1.25
+#=GS CMS0975  WT 1.04
+#=GS CMS0162  WT 0.77
+#=GS CMS0439  WT 1.13
+#=GS CMS2564  WT 1.29
+#=GS CMS0654  WT 1.13
+#=GS CMS1291  WT 1.10
+#=GS CMS2973  WT 0.74
+#=GS CMS0009  WT 1.55
+#=GS CMS1442  WT 1.21
+#=GS CMS0920  WT 1.43
+#=GS CMS0445  WT 0.02
+#=GS CMS1171  WT 0.82
+#=GS CMS1400  WT 1.22
+#=GS CMS0585  WT 1.26
+#=GS CMS2857  WT 1.02
+#=GS CMS0505  WT 0.95
+#=GS CMS0326  WT 1.15
+#=GS CMS1236  WT 1.34
+#=GS CMS1600  WT 1.26
+#=GS CMS1456  WT 1.07
+#=GS CMS1721  WT 0.96
+#=GS CMS2737  WT 1.50
+#=GS CMS2082  WT 0.98
+#=GS CMS2290  WT 1.34
+#=GS CMS2422  WT 1.04
+#=GS CMS0450  WT 1.00
+#=GS CMS2765  WT 1.01
+#=GS CMS2466  WT 0.92
+#=GS CMS2624  WT 1.18
+#=GS CMS1169  WT 1.36
+#=GS CMS0498  WT 1.09
+#=GS CMS2749  WT 1.12
+#=GS CMS2759  WT 1.23
+#=GS CMS2635  WT 0.85
+#=GS CMS0134  WT 1.02
+#=GS CMS3048  WT 1.15
+#=GS CMS1491  WT 1.01
+#=GS CMS2576  WT 0.56
+#=GS CMS1230  WT 1.09
+#=GS CMS0941  WT 1.12
+#=GS CMS1898  WT 0.64
+#=GS CMS2425  WT 0.97
+#=GS CMS1295  WT 1.10
+#=GS CMS1353  WT 0.72
+#=GS CMS0181  WT 1.15
+#=GS CMS0397  WT 1.18
+#=GS CMS1443  WT 1.07
+#=GS CMS1679  WT 0.90
+#=GS CMS2171  WT 0.89
+#=GS CMS2625  WT 0.97
+#=GS CMS1020  WT 0.21
+#=GS CMS2798  WT 0.99
+#=GS CMS1338  WT 1.07
+#=GS CMS1297  WT 0.97
+#=GS CMS2823  WT 1.44
+#=GS CMS1136  WT 0.91
+#=GS CMS2612  WT 1.51
+#=GS CMS0529  WT 1.04
+#=GS CMS1993  WT 1.42
+#=GS CMS2662  WT 1.14
+#=GS CMS2170  WT 0.89
+#=GS CMS1880  WT 0.78
+#=GS CMS1466  WT 1.06
+#=GS CMS1425  WT 1.43
+#=GS CMS1267  WT 1.91
+#=GS CMS1702  WT 1.19
+#=GS CMS1434  WT 0.70
+#=GS CMS2313  WT 1.39
+#=GS CMS1482  WT 1.23
+#=GS CMS1971  WT 0.79
+#=GS CMS2535  WT 1.48
+#=GS CMS1111  WT 1.39
+#=GS CMS0596  WT 0.85
+#=GS CMS0415  WT 1.16
+#=GS CMS2676  WT 0.84
+#=GS CMS0448  WT 1.28
+#=GS CMS1989  WT 0.90
+#=GS CMS0640  WT 1.19
+#=GS CMS1185  WT 0.96
+#=GS CMS1279  WT 1.08
+#=GS CMS2203  WT 1.19
+#=GS CMS1242  WT 0.87
+#=GS CMS1430  WT 2.29
+#=GS CMS1939  WT 0.96
+#=GS CMS0946  WT 1.31
+#=GS CMS1127  WT 1.02
+#=GS CMS2311  WT 1.44
+#=GS CMS1525  WT 1.28
+#=GS CMS0940  WT 1.30
+#=GS CMS0997  WT 0.96
+#=GS CMS0208  WT 0.97
+#=GS CMS0606  WT 1.36
+#=GS CMS1900  WT 0.89
+#=GS CMS2776  WT 1.21
+#=GS CMS2058  WT 1.19
+#=GS CMS2828  WT 0.77
+#=GS CMS2431  WT 1.74
+#=GS CMS1677  WT 0.92
+#=GS CMS0901  WT 1.70
+#=GS CMS0835  WT 0.84
+#=GS CMS0317  WT 1.15
+#=GS CMS1507  WT 1.30
+#=GS CMS0633  WT 1.22
+#=GS CMS0576  WT 0.95
+#=GS CMS0701  WT 1.50
+#=GS CMS2566  WT 1.11
+#=GS CMS1176  WT 1.23
+#=GS CMS1278  WT 1.08
+#=GS CMS0125  WT 0.87
+#=GS CMS0184  WT 1.25
+#=GS CMS0506  WT 0.76
+#=GS CMS0398  WT 1.26
+#=GS CMS2113  WT 1.01
+#=GS CMS1016  WT 1.26
+#=GS CMS0399  WT 1.19
+#=GS CMS0132  WT 1.24
+#=GS CMS1633  WT 0.65
+#=GS CMS0473  WT 0.73
+#=GS CMS0667  WT 1.13
+#=GS CMS0129  WT 1.20
+#=GS CMS1726  WT 0.64
+#=GS CMS1788  WT 0.84
+#=GS CMS2719  WT 1.78
+#=GS CMS1401  WT 0.46
+#=GS CMS0152  WT 1.09
+#=GS CMS0078  WT 0.96
+#=GS CMS1363  WT 1.18
+#=GS CMS0365  WT 1.16
+#=GS CMS2413  WT 0.86
+#=GS CMS1187  WT 1.01
+#=GS CMS1402  WT 0.46
+
+CMS2771      UC-GCA-U----------GACGA-------A-G---A--GCC--CG---A
+CMS1432      AC-G-AC-----------GA----------C-G---G--CCC-CGC---U
+CMS1502      AC-GC-CA----------UACGAC-----GA-G---A--GCG-CCG---C
+CMS0684      CC-G-U------------CACCG------CC-G---A--CGG-GCG---G
+CMS1912      AC--CA------------CACGA-------C-A---C--CGC-CCG---C
+CMS2982      A--GCGCGAG-----GAGCACGA-------C-G---A--GAG-GGC---C
+CMS1095      CC-G-GCUC-------UACACGA-------C-G---A--UGC-CCG---G
+CMS1501      CC-GCA-GC-------CGCACGA-------C-G---A-GAGC-GCC---G
+CMS2432      AC-G-ACGUC------AUCACGAC-----GA-G---A-GGGG-ACG---C
+CMS1599      AC-GCAC-----------GA----------C-G---A--GAG-GCC---C
+CMS1632      CC-G-UCG----------CACGA-------C-G---A--AGG-GCG---C
+CMS0692      AC-GCU-G---------GGGCGGAU---AGC-G---A--AGA-CCU---C
+CMS1820      CC-GCAC-----------GACG--------A-G---A--GGG-GCC---G
+CMS2221      A--G-A------------CACCG-------AUG---A--GGG-CGG---C
+CMS1976      UC--C-C-----------GUCGA-------C-G---A--CGC-CCG---C
+CMS1431      C--GC-CU----------CGUGA-------C-G---A--CGG-CCC---C
+CMS2004      U--G-A------------CACGA------UA-G---A--GGG-CGG---G
+CMS2441      U--GCA-G----------CA----------G-G---G--GCG-CCG---C
+CMS1186      AC--C-CG----------CACGAA----ACG-G---A--UGC-CCG---U
+CMS2468      A--GCA-UC--------CGAUGC-------A-G---A--UGG-GUC---G
+CMS2636      U--G-A-GG-------GA--CAG------AG-G---A--GGG-GCG---G
+CMS0674      CC-G-A------------CACGA-------C-G---A--AGG-GCG---C
+CMS0995      CC-G-ACA---------UCGCGG------CC-G---A--CGG-GCG---C
+CMS1700      CC-G-G-G----------CAUGA-------C-G---A--CGG-GCU---C
+CMS2068      CC--C-CG----------CACGA-------C-G---A--CGG-CCC---G
+CMS2772      A--GCACG----------UGCGA-------A-G---A--GGG-CCG---A
+CMS2375      AC-GCGC-----------CA----------C-G------GCC-CCG---G
+CMS2234      CC--CUC-----------CAUGC------GC-G---A-CGAU-GCC---C
+CMS1819      CC-GC-CG---------GGACGAC-----GA-G---A--GGG-GCC---G
+CMS3104      AC-G-A-G----------CAUCAC-----CG-G---A--GGG-CCC---G
+CMS2740      CC-GCA-G---------CGAUGA-------C-G---A--GAG-CCC---G
+CMS1887      UC---AC-----------GAUCA-------C-G---G--CCC-CGG---C
+CMS2591      CC-GCGCGAA-----CCGCACG--------A-G---C--CCG-GCC---C
+CMS1378      CC-G-A------------GAUGG-------C-G------GGC-GCC---G
+CMS1283      CC-G-UCG----------GCCGA------UC-G---A--GGC-CGG---G
+CMS2469      AC-G-UUGU-------UGCAUGC-------A-G---A--UGG-GUC---G
+CMS1540      CC--CACAGG------CACAUGA-------C-G---A--CGC-CCC---G
+CMS2739      CC-GAACG----------GACGA-------C-G---A--GAG-CCC---G
+CMS2235      U--G-A------------CGCGA-------C-G---A--UGC-CCG---C
+CMS0540      U--G-A------------CACGA-------C-G---A--AGG-CCG---C
+CMS2217      AC-G-G-GA--------GGGUGC-------G-A---G--GGU-GCC---G
+CMS1152      CC--C-CG---------GGACGA-------C-G---A-C-AG-CGC---G
+CMS1592      A--GCACGCU-----GAGCUUCC------GA-G---A--ACG-GCU---C
+CMS0784      CC--CACG----------GACGA-------C-G---A--CGG-CGC---C
+CMS2981      UC-G-GC-----------AACGA-------C-G---A--GAG-GGC---C
+CMS2870      C--GCA------------GACG--------C-A---C--GGC-CCC---G
+CMS3000      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0785      AC--C-C-----------GACGA-------C-G---A--CGG-CGC---C
+CMS2222      AC-GCACG----------CACCG-------ACG---A--GGG-CGG---C
+CMS0597      AC--C-CGGA------GUGACCG------CC-G---A-GGGG-GCG---G
+CMS0565      CC-GCCCG----------CACGG-------A-G---A--AGG-CCC---C
+CMS3056      C--GCACU---------CCACGA------CC-G---A--GGG-CCC---G
+CMS0393      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0574      U--G-ACU----------CGUCG-------A-C---A--CCG-CCG---C
+CMS1779      U--GCAC-----------GACGA-------C-G---A--AGG-GCC---C
+CMS1800      CC--C-C-----------CGCGA-------C-G---A--GGG-GCC---C
+CMS2614      A--GCA-GCGG----AAUCGCGA-------C-G---A--GGG-CCC---C
+CMS1701      A--G-ACG---------GUGCGA-------C-G---A--CGG-GCU---C
+CMS1799      U--G-A------------CACGA-------C-G---A--GAG-GCC---C
+CMS0541      CCGGCA-G----------CACGA-------U-G---A--AGG-CCG---C
+CMS2452      CC-GCAC-----------CACCG------AC-G---A--CGG-CCC---G
+CMS2512      CC--CGCGU--------GCACGA-------C-G---A--CGG-CCC---C
+CMS0087      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0761      AC--CU-G---------UCAUCCC-----ACUG---G--GCU-CCC---G
+CMS1199      A--GCG------------GAUC--------C-A---G--GAG-GGG---G
+CMS2807      U--GCACC----------CACCC-------C-G---G-UCCG-GGC---G
+CMS0112      AC-G-AC-----------CACCA-------C-G---G--CCC-GUC---G
+CMS2122      UC-G-ACGCGGGCGGGAGGGCGC-------C-G---U--CGG-GCG---C
+CMS2343      UC--CU-G----------CAUCG------CG-G---A--GCC-CCC---G
+CMS1179      CC-GCA------------CGCGA-------G-G---A--GGG-CCG---G
+CMS1778      AC-GC-CGAC-----CGGCACGA-------C-G---A--AGG-GCC---C
+CMS0573      A--G-A------------AG----------A-C---A--CCG-CCG---C
+CMS2440      CC-GCA-U----------GACGA------CA-G---G--GGC-GCC---G
+CMS0926      AC-GCAC-----------GACG--------C-G---A--GGG-GCC---C
+CMS2747      UC-GCACG----------CA----------CAA---A--GGA-GCC---G
+CMS0176      UC-GCACGGCG---UCCGAACGA-------CGA---A--GGG-CCG---C
+CMS1755      CC--CU-G---------GUGUGA------UC-G---A--CGG-GCC---C
+CMS1818      CC-GCAC-----------GA----------C-G---G--AGG-GCC---C
+CMS2727      A--GCACUC-------CCCG---U-----CC-G---C--CCC-CUG---A
+CMS0528      AC--CACG----------CACGG-------CUG---A--GGG-CCC---G
+CMS1497      UC-G-ACGG-------GCGGCGAC-----UC-G---A--GGG-CCC---G
+CMS2433      CC-GCA-GG-------AGAACGA------GA-G---A-GGGG-ACG---C
+CMS2414      U--G-ACG----------CACGA-------C-G---G--CGG-GGC---C
+CMS2069      CC-GCACG----------CGUGA-------C-G---A--CGG-CCC---G
+CMS1033      UC-GC-CG----------GACCG-------U-G---A-CCGG-ACC---C
+CMS2555      CC-GCACG---------CGAUCG-------A-G---A--GGA-CGC---C
+CMS1817      AC-GAGCG----------GACGA-------C-G---G--AGG-GCC---C
+CMS0971      UC-G-A------------CACC--------A-G---A--GGG-ACC---C
+CMS0452      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS2820      CC-GCACGCC-----ACCCGCGA-------C-G---A--CGG-GCC---C
+CMS1128      A--GCG------------CA----------C-G---A--AGG-CCG---G
+CMS1035      CC-G-AC-----------CGCUCU-----CG-G---A--GGG-GAG---U
+CMS0002      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1984      CC-GCA------------CACGAC----ACAUG---A--ACG-CCC---C
+CMS0558      AC-GCGCGC--------GGAUC--------GAG---A--CGG-GGA---C
+CMS0727      CC-GCAC-----------CAUCCC-----GC-G---A--GGC-GGG---U
+CMS1558      UC--CUC-----------------------G-G---A--UGG-GGC---G
+CMS0935      A--G-UCG---------CGGCGA------GC-G---C--UGC-CGG---C
+CMS2595      UC-G-ACAG-------GGCAUGU-------C-G---A--CGG-CCC---G
+CMS1871      UC--CGC-----------GA----------G-G---A--GCA-CGG---C
+CMS1983      UC-G-G------------CA----------C-G---A--AGG-GCG---G
+CMS0045      CC-GCA-U---------CCACGA-------C-G---C--CGG-UCG---C
+CMS1897      CC-GCA-UA--------A---CA-------C-G---A--CGC-CCG---G
+CMS2767      A--GCUC-----------GACC--------C-G---A--GAG-GCC---G
+CMS1614      AC-GC-CG----------CACGA-------CCG---A--GCG-GCC---G
+CMS1748      U--GAACG----------CG----------G-A---A--GCG-CCC---C
+CMS2819      UC-G-GCGCA------CCGACGA-------C-G---A--CGG-GCC---C
+CMS1749      CC-GC-CG----------CAUGGA-----CG-A---A--GCG-CCC---C
+CMS0396      CC-GCUC-----------GA----------C-G---A--CGG-CCG---C
+CMS0695      C--GCA------------GACGGGA---ACC-G---A--GAG-CCG---G
+CMS0613      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0693      CC-GCA------------GUCGA-------C-G---A--UGC-CCG---G
+CMS1004      CC--CAC-----------GACGA-------A-G---C--CGA-UCC---G
+CMS2911      CC-GCAC-----------GGCCA------CC-G---A--CGC-CGC---C
+CMS0034      UC--CA------------AU----------C-A--GC--GGC-CCC---G
+CMS0241      CC-GCA-G----------CAUAC-------G-G---A--GAG-GCG---G
+CMS1499      CC-GCACG----------GA-GA-------G-G---A--GGG-GCG---G
+CMS2586      A--G-A------------GG----------C-G---A--GGG-GCC---G
+CMS0262      AC--CG-G----------GACG--------C-G---G--GGC-GGC---G
+CMS1645      A--G-G-GG--------GAACG--------C-A---G--CAG-GGC---C
+CMS2674      AC--CG-GA-------UCGACCC-------G-A---G--GGG-AGG---U
+CMS3040      CC-GC-C-----------CACCC------GA-G---G--GGU-GCG---G
+CMS2974      CC-GCGCG----------CGCGA-------C-G---A--CGG-CCG---C
+CMS1183      U--GCGCU----------GA----------G-G---C-UCGG-CGC---G
+CMS0139      AC-G-G-G---------ACA-GA-------CGG---A--GGG-CCC---G
+CMS0301      A--GCACUUC------AGGACGCA-----AC-G---G-CAGG-GGC---G
+CMS0821      AC--CACG----------CACGA-------C-G---A--CGG-CCG---G
+CMS0037      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1178      AC--CGCGU-------ACGACGA------CG-G---A--GGG-CCG---G
+CMS2804      A--GCGCUG-------AU---CGCC---UCC-G---G--UCG-GGC---C
+CMS2225      CC-G-AC-----------CACC--------C-G---A--CGC-CGC---C
+CMS2129      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0010      CC--CUCG---------GGAUCCG-----AC-G---A--AGG-CCC---G
+CMS0751      CC-G-GCG----------CACGAC-----CC-G---A--GGG-CCC---U
+CMS1479      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0609      C--GCAC-----------CACG--------C-G---A--CGA-CGG---C
+CMS0719      CC-GCGCGCU-----CCUGAUCCC----CUG-G------CGG-GCG---G
+CMS1634      A--GCACG----------CACGG-------C-G---A--CGG-CCG---C
+CMS2773      A--GCA------------CCCGA------GG-G---G--GGG-CCC---G
+CMS3111      CC-G-ACG----------CGUGAG-----UCGG--CG--AGG-CCC---A
+CMS2456      UC--CA-GGC------CUGAUCCG----GCC-G---A--UCC-GCC---C
+CMS0566      CC--CACG---------GCACGC-------A-G---A--AGG-CCC---C
+CMS2282      AC--C-CG----------AGCGA------GCAG---A--GGC-GGG---C
+CMS1500      CC-G-G-GC--------AGACGA-------G-G---A--GGG-GCG---G
+CMS2869      CC-GCACG----------AA----------C-A---C--GGC-CCC---G
+CMS0315      UC-GCGCU----------GAUCGG-----CC-G---C-UGCC-GUC---C
+CMS0140      CC-GCAC-----------GACC--------G-G---A--GGG-CCC---G
+CMS0013      CC-GCA-G----------CGCAAU-----CACG---A--GAG-CCC---G
+CMS2589      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1631      CC--CA-G---------GUACGA-------C-G---A--AGG-GCG---C
+CMS1354      U--G-ACG----------GACGA-------C-G---A--CGG-CCC---G
+CMS1653      UC-G-AC-----------CACGA-------C-G------GGC-GCC---G
+CMS3042      CC-G-A-G----------CACCA-------C-G---A--CGG-CCG---C
+CMS0772      AC--CAC-----------CACCAC-----GG-G---G--AGC-CCG---G
+CMS1258      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0071      AC--CGCG---------ACACCA-------C-G---A--UGC-CCG---G
+CMS2800      AC-GCAC-----------CACCG-------C-G---A--ACG-GCC---C
+CMS1503      CC-GCA-GU--------AUGCGA-------C-G---A--GGC-CCG---C
+CMS1774A     AC-GCCCG---------GCACCC------GC-G---A--GGG-GCC---G
+CMS0366      CC--C-CG----------CACGA-------C-G---A--GAG-CCC---A
+CMS0584      C--G-A------------------------G-G---A--GGG-GAC---G
+CMS2117      UC-GGGCG----------CAUCG-------C-G---A-G-GG-GCG---G
+CMS1580      CC-GCUCG----------GAC---------C-G---A--CGG-CCG---U
+CMS1539      U--GCCCG---------GCGCCU-------C-G---A--CGC-CCC---G
+CMS2213      CC-GCAC-----------GACCCGG---CUC-G---C--CGC-CCA---U
+CMS1504      UC-GCACGCGG----ACGCAUGA-------C-G---A--GGC-CCG---C
+CMS1158      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS2374      CC-GCACG----------GACCA-------C-G------GCC-CCG---G
+CMS3011      CC-GCAC-----------CACCA-------C-G-----------------
+CMS1396      CC-GCCC-----------AACCA-------C-G---A-C-GA-CGC---G
+CMS2592      C--GCAC-----------CACCA-------C-G---G--CAU-CCC---G
+CMS2072      AC-GCCCG---------GAACGAC-----GA-G---A--GGC-CCG---G
+CMS2764      U--GC-CG----------CAUGA-------C-G---A--CGG-CGG---C
+CMS1113      C--GCACG----------GAUCCG-----CG-G---A--CGG-CCG---G
+CMS2018      A--GCAC-----------CACCA------CC-G---G--GAG-GCC---G
+CMS2680      CC-GCAC-----------CACGC-------C-G---A--CGG-CCC---C
+CMS0180      A--GCG-GG-------CACGUGA-------G-G---A--GGG-CCG---G
+CMS2948      CC-GCAC-----------CGUCC------CC-G------CGG-CCG---C
+CMS1843      CC--C-CGG-------CCGAUCC-------G-G------GCC-CCG---U
+CMS0114      A--GC-CG---------CCUCG--------G-G---A--CCG-CCC---G
+CMS0171      UC--C-C-----------GACC--------C-G---A--CGC-GGG---C
+CMS1960      U--GCA-G----------CACGA-------C-G---A--AGG-GCG---C
+CMS1041      CC-GCUCGG--------UGACCCG----GCC-G------UCG-CUG---G
+CMS1845      CC-GCAC-----------CGCCC------UC-G---A--GGC-UGC---C
+CMS1215      AC-G-ACG----------UACGA-------A-A---G--CGG-CCG---G
+CMS2748      UC-G-AC-----------GA----------CGA---A--GGA-GCC---G
+CMS0096      U--G-A------------CACGA-------C-G---A--CGC-CCG---C
+CMS2613      C--GCAC-----------CGUGCG----CAC-G---A--GGG-CCG---C
+CMS1141      UC-G-UC-----------CU----------C-G---G--GGA-GCG---U
+CMS0001      A--GCA-G----------GA------------G------GGG-UCG---G
+CMS0210      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS3010      CC-GCACGAUCU--GAUCGACGC-------C-G---A--CGG-GCG---C
+CMS2159      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS2001      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1904      UC-GCG------------CCCGC-------C-G---C--GCG-GUG---G
+CMS0771      AC-GCAC-----------CAUCC-------C-G---U--CGG-GCG---G
+CMS0890      A--GCA-AC--------UGAUC--------G-G---A--GGC-GCG---G
+CMS2340      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1045      CC-G-ACG---------GCAUGA-------C-G--CG--CGG-ACG---G
+CMS1135      CC--CGCG----------CAUG--------C-G---A--GGA-GCC---G
+CMS1301      UC-GCA------------GG----------CCG---A--UGG-CCG---C
+CMS0644      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0240      U--G-ACGGCC---CGGACAUGA-------G-G---A--GAG-GCG---G
+CMS0258      C--GCAC-----------CACCCG-----CC-G---C--CCU-CCG---A
+CMS3009      AC-GCUCG----------CGUG--------A-G---C--GCG-CAG---G
+CMS2511      CC-G-GCA----------GACGA-------C-G---A--CGG-CCC---C
+CMS1692      A--GCGC-----------CCCGG-------G-G---G--CAG-CCG---C
+CMS0907      A--GCA------------GG----------C-G------GGU-CGG---G
+CMS1262      U--GCGC-----------CG----------C-A---U--GGG-AUG---C
+CMS1747      UC-GCA------------CACGG-------CGG---U--CGG-AUC---C
+CMS1986      AC--CA-GC-------GACAUCUC----CUC-G---A--GCC-GCU---C
+CMS1164      UC--CGCG----------CAUGA-------C-GGGGA--CGG-GCG---G
+CMS0600      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1903      UC--CAC-----------CGCGCG----GCG-G---G--CGC-GACGCCC
+CMS0270      C--GCAC-----------GAUGA-------G-A---A--GGG-CCC---C
+CMS2211      AC-GCA-G----------CAUGACC---CCG-A---C--GAG-CCC---G
+CMS2401      U--G-ACG---------ACGCCC-------C-G---G--CGG-GCG---G
+CMS1260      UC-GCGC-----------GACGC-------C-G---A-C------C---G
+CMS2834      UC--CU------------GAUC--------C-G--U---CGG-CGG---C
+CMS2226      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0725      CC-GCAC-----------CACGA-------C-G---A--CGG-CCC---G
+CMS2683      UC--C-CG----------AACG--------G-A---C--GGC-CCC---G
+CMS1208      CC-G-GCG----------CUCCCU-----CG-G---C--GGG-GUG---C
+CMS0264      AC-GC-CA----------CGCGA-------C-G---G--CGC-CGG---C
+CMS1324      CC-GCACGG--------ACACCC-------G-G---A--GCC-CCG---C
+CMS3024      UC--CGC-----------GA----------C-G---C--CGC-CCC---C
+CMS1644      U--G-UCG----------CACG--------C-A---G--CAG-GGC---C
+CMS2649      A--GCU------------CA----------G-G---A--CGU-GCC---C
+CMS1637      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1173      CC-G-GCG-----------CCUA-------G-G---G--UGA-GGG---C
+CMS0988      CC-G-A------------CACGCC----CGC-G---A--GGA-UCC---G
+CMS1727      AC-G-AC-----------GACGA-------C-G---A--CGG-CCG---G
+CMS0170      A--GC-CG----------GGCGGC-----GG-A---A--GGC-CCC---G
+CMS0246      C--G-ACG----------GA-GC------UC-G---A-GAGC-CGU---G
+CMS2714      A--GCACAG--------CCACCAC-----CG-G---A--CGC-CCG---U
+CMS1350      CC-GCUCG----------CUCCC-------C-G---G--ACG-CCG---C
+CMS3069      AC--CACA----------CGCCC-------A-G---C--GGG-GGC---G
+CMS0542      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1007      AC-GC-C-----------CACCAC-----UC-G---A--CGC-CUC---C
+CMS0070      CC--CACG----------GACGCG-----CA-G---A--UGC-CCG---G
+CMS0899      CC--CGC-----------CACGA-------G-G---C--------G---A
+CMS0526      CC-GCAC-----------CACC--------C-G---G--GAG-CCC---G
+CMS0280      A--GCAC-----------CACCU------CC-G---A--GAG-GGU---C
+CMS1380      CC-GCACG----------CCCGA-------C-G---G--CGG-CGU---G
+CMS1226      A--GCCC-----------CACC--------G-G---G--UCC-CGC---G
+CMS1815      C--GCA-G----------CACUU-------C-A---A--GGG-CGG---G
+CMS2255      CC-GCA------------CGCCA-------C-G---A--CGG-GCG---C
+CMS0155      CC-GCACGGCC---UGAAUGCGAGG---AAG-G---C--GGG-CGG---U
+CMS0136      U--G-ACGC--------GCACCG-------A-G---G--GGC-CCG---G
+CMS1495      UC-G-ACG----------GUCGA-------G-G------GGC-CCG---G
+CMS1996      CC-GCAC-----------CACGA-------C-G---A--GGC-CGC---U
+CMS0563      AC-G-A------------GACG--------C-G---G--CCC-GGG---C
+CMS1206      AC-G-AC-----------CUCC--------C-G---C--CCC-GCC---C
+CMS2536      CC--C-CGG--------ACAUGA-------C-G---A--CGC-GGA---C
+CMS1457      CC-GCA------------CACCA-------C-G---A--CGG-GCG---C
+CMS2757      A--GCAC-----------GACGA-------A-G---C--GGG-CGG---C
+CMS0598      UC-GCGCG---------AGGCGAG-----CG-G---A--GGG-CGG---G
+CMS1680      CC-GCUCGCGA---AGGACAUC--------U-G---A--GCA-CCC---C
+CMS1687      AC-GCU-G---------ACA----------C-G---A--CGG-CGG---C
+CMS1435      CC-GCAC-----------GACCA-------C-G---A--CGC-CCG---C
+CMS1907      U--G-ACG----------CACGA-------G-G---A--GGA-CGG---C
+CMS1296      AC-GCAC-----------CACCCG-----UC-G---C-AGGG-GCG---C
+CMS0497      AC-GCGCG----------CA----------C-G---A--CGG-GCG---G
+CMS1769      UC--CGCGGG-----GCGGACCG------UC-G---A--GAG-GCC---C
+CMS2571      CC-G-U-G----------GACG--------A-G------CGG-AUC---C
+CMS1376      AC-GC-C-----------GACCC-------C-G---G--------C---G
+CMS1420      UC-G-AC-----------CACCG-------U-G---A--GGG-CGG---C
+CMS0655      C--GCA-G---------CAGCGU-------C-G---A--CGC-CGU---C
+CMS0678      U--GC-CGG-------GGGACGA-------C-G---A--GAG-CCG---G
+CMS2568      CC-GCACGUC-----CCGCGCCC-------C-G---G-UCGG-CGC---G
+CMS1446      CC-GCGCG----------GG----------C-G---G--GGC-GGG---U
+CMS1872      UC-G-A------------AGUGAG-----CG-G---A--GCA-CGG---C
+CMS3044      U--G-G------------CACGA-------C-G---A--CGG-CCG---C
+CMS0608      CC-GCA------------CGCGA-------C-G---A--CGG-CCG---G
+CMS2509      CC--C-CG----------GACGCG-----CC-G---A--CGG-CCU---C
+CMS2914      CC-G-A------------GACGC-------ACG------CGC-GCG---C
+CMS1889      CC-GCAC-----------CCUCCG-----GA-G---A--GGC-UGG---C
+CMS1598      CC-GCACGC-------CGCACGAC-----GA-G---A--GGC-CCC---G
+CMS3096      AC-GCA-G----------CACGAG----AUC-G---A--UGG-CGG---U
+CMS2862      UC-GAACG----------CA----------CCG---C--GGG-GGG---A
+CMS1389      AC--C-CG----------GGCCU-------C-G--GG--CAG-GGA---G
+CMS1153      CC-GCA------------CGCGA-------C-A---G--CGC-GCC---G
+CMS2190      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS0679      AC--CACG----------CACCA------CC-G---A--CGA-GAG---C
+CMS2856      A--G-GCG----------CGUCU-------CCG---C-ACGG-CCG---U
+CMS0552      CC-GCAC-----------GAUC--------C-G---A--CGG-GCC---C
+CMS0688      A--GCGC-----------GACCC-------G-A---C--GCC-GCC---G
+CMS0932      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1901      A--GC-CGG--------GCGUGA-------CGG---A--GGG-GCC---G
+CMS1722      CC-GCGC-----------CUCC--------C-G---A--GCG-GCG---G
+CMS0174      A--GCG------------CGCGC-------C-G---A--CGG-CCG---U
+CMS2577      CC-GCACG---------ACA----------C-G---A--GGG-CCG---U
+CMS0572      CC-GCA-GG-------GUCACCC------GGGG---A--GGG-GCA---C
+CMS1593      CC--CG-G---------ACAUGA-------C-G---A--CGC-CCG---G
+CMS1619      UC-GCG-G----------CGUGA-------U-G--CA--CGG-GCC---G
+CMS2813      U--G-ACU---------GCGCGC-------C-A---U--CGU-UGU---U
+CMS0116      CC-GCAC-----------AGCGC------UC-A---G--GGC-GCC---G
+CMS0651      CC-GCAC-----------CA-GC-------C-G---A--CGC-CGC---G
+CMS0577      UC-G-ACU----------GA----------C-G---A--CGC-CCG---C
+CMS1214      CC-GCACG----------CA-GC-------A-G---A-GCGG-CCG---A
+CMS2799      CC-GCACG----------CACGC-------AAG---A--CGG-GAC---G
+CMS0467      U--G-A------------CUCGG-------U-G---A--UCG-AUC---G
+CMS0549      AC-GC-CGG-------CCCGUGAG----CGG-G------CGC-GGC---C
+CMS0423      U--GCG------------CUCG--------C-G---A--GGC--------
+CMS0855      CC--C-CG----------GUCGA-------G-G---G--GAG-GAG---G
+CMS0154      CC-GCU-G---------GGACCC------CC-G---A--GGC-CCG---C
+CMS1119      UC--C-C-----------GGUGC-------CGG------UGC-UCC---C
+CMS0500      CCGGCAC-----------CACC--------C-G---G--GGC-CGG---G
+CMS0738      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1923      AC-G-UC-----------CGUC--------C-G---A-CGGC-GGG---C
+CMS1285      CC-G-UCG---------GAGCCC-------C-G---C--GCC-CGC---C
+CMS2886      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1223      CC--CACU---------CCACCG-------CCG---A--CGG-CGC---G
+CMS2167      CC-G-ACGC-------GAGAUCGA-----CC-G---A--CGC-GCC---C
+CMS1643      A--G-G------------AACCU-------G-A---A--GGG-GGC---C
+CMS0987      AC-GCACG----------CGCAU-------A-G---A------------U
+CMS1086      UC-GC-CGA--------GGU----------C-G---G--------C---G
+CMS0975      UC--CG------------CAUCA-------C-G---G--CGA-GCG---C
+CMS0162      A--GCACU----------GA----------C-G---AGCCGG-GCG---G
+CMS0439      AC--C-CGGG------GAAACG--------C-G---A--ACG-GCC---C
+CMS2564      U--GCUC-----------CACC--------G-G---A--CGG-CCC---G
+CMS0654      A--GCA------------GGCG----------G---G--CGC-CCG---G
+CMS1291      CC-GCU------------CGCCC-------C-G---C--GCG-GCG---U
+CMS2973      CC-GCAC-----------CA----------C-G---A--CGG-CCC---G
+CMS0009      A--G-A------------AA----------C-G------GGC-AGG---C
+CMS1442      CC--CGCG----------CACG--------A-G---C--GCC-GCG---C
+CMS0920      CC-G-UCG---------CCGUC--------C-G---C--CCA-GGA---G
+CMS0445      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS1171      CC--CA-G----------CA-GA------CC-G---A--GGG-CCG---C
+CMS1400      UC-GC-CGUCU----GAU---GAUCCGCCUC-G---G--CGG-CCG---G
+CMS0585      C--G-GCGG--------UGAUCG-------A-G---G--AGG-GGA---C
+CMS2857      CC-G-A-GGG------CUGACCC------ACGG---C-CCGG-CCG---U
+CMS0505      UC-GC-CGG-------AU---CGCU---CGC-G---A--CGC-CCC---U
+CMS0326      CC-G-GCGGC------CUGACC--------C-G---C-A------C---G
+CMS1236      UC--C-CG----------GGCC--------G-G---C--GAG-GCG---G
+CMS1600      U--G-AC-----------CGCGCG-----GA-G--CA--UGG-CCG---G
+CMS1456      UC--C-C-----------CACGA-------C-G---A-C-GC-CCG---U
+CMS1721      AC--CGCG----------CUCC--------C-G---G--GCG-GCG---A
+CMS2737      C--G-ACG---------GGAUCGA-----GCGG---C--CCG-ACC---G
+CMS2082      UC--CACG----------CA-GA-------C-G---A-AAGG-CCC---C
+CMS2290      UC--CAC-----------CGCC--------C-G---G--CCG-GGG---C
+CMS2422      UC--CGCG----------CAUGA-------C-G---A--CGG-GCG---C
+CMS0450      CC-G-AC-----------CG------------G------CGG-GCC---C
+CMS2765      A--G-AC-----------GAUGA-------C-G---G--CGG-CGG---C
+CMS2466      CC-G-AC-----------CGUCG-------CCG---A--CGC-CCC---G
+CMS2624      UC--CAC-----------CACUC-------A-G------CGG--------
+CMS1169      AC-GC-C-----------CCUC--------C-C---U--CGC-GGG---U
+CMS0498      UCGGCAC-----------CACCG-------G-G--AG--AGC-CCG---G
+CMS2749      A--GC-CGU-------CCCACCA-------CCG---C--UGC-CGC---G
+CMS2759      CC-GCUC-----------GAUCC-------G-A---A--CGG-CCG---G
+CMS2635      AC-GC-CGC--------GCACGC------CG-G---A--GGG-GCG---G
+CMS0134      C--G-GCG----------CACCC-------G-G---C--CGG-UCG---A
+CMS3048      CC-GCG-GU--------GCACGA------CC-G---G--GCG-GCC---G
+CMS1491      A--GCUC-----------CACCG-------A-G---G--GGG-ACG---G
+CMS2576      U--GCA------------CA----------C-G---A--GGG-CCG---C
+CMS1230      U--G-GCG---------CGACG--------C-G---C--GGG-CGG--GC
+CMS0941      AC--C-C-----------CACCC-------C-G---C--CGC-UGC---G
+CMS1898      CC-G-GCG----------CA----------C-G---A--CGC-CCG---G
+CMS2425      A--GCG------------GGCGC-------C-G---A--CGC-ACC---C
+CMS1295      A--GCGCG----------CG----------C-A------GGG-GCG---C
+CMS1353      AC-G-AC-----------CGCC--------C-G---A--CGG-CCC---G
+CMS0181      AC-G-ACGG--------GGACGGC-----AG-G---A--GGG-ACG---G
+CMS0397      CC-GGACG---------CGACGA------CG-G------CCG-CCG---A
+CMS1443      AC--CA-GCG------UGGACCC-------C-G---A--GCG-CCG---C
+CMS1679      AC-ACA-G----------AA------------G---A--GCA-CCC---C
+CMS2171      A--GCGCG----------CACGC-------G-G---A--GGC-CGG---G
+CMS2625      AC-GCACG---------ACAUGCAGC-ACAG-G---A--AGG-GCC---C
+CMS1020      U--G-ACGU--------UGGUGA-------C-A---C-UCGG-GCC---G
+CMS2798      AC-GCGCUG--------ACACG--------ACG---A--CGG-GAC---G
+CMS1338      CC-GC-C-----------CGCG--------C-G------CGG-CGG---G
+CMS1297      UC-G-GCG---------GCGCGUC----UCCGG---C--CGG-CCG---U
+CMS2823      CC-GCA-GU--------AGGCGAG-----GC-G------CGG-CGA---C
+CMS1136      CC--CA------------CACGA-------C-G---A--GGA-GCC---G
+CMS2612      CC-G-GC-----------CGUGC------CCCG---G--UCC-GGG---G
+CMS0529      AC-GCACG---------ACA----------C-G---A--CGC-GGC---A
+CMS1993      CC-G-UC-----------GGCUA------CC-G---C--CCG-GCG---G
+CMS2662      CC--CA-GC--------GCAUGA------GACG---A--GCC-CGG---C
+CMS2170      CC-GCA------------CGCGA-------G-G---A--GGC-CGG---G
+CMS1880      AC--C-CG----------GGCGA-------C-G---A--GGU--------
+CMS1466      U--GCGCGGU------GACA---G----GCC-G------CGG-UCG---C
+CMS1425      A--GCGCG----------CGUC--------G-G--CC--CGU-GCC---G
+CMS1267      AC-G-ACG----------CAUGA-------G-A---C--CGG-------A
+CMS1702      CC-GCU------------GAUGC-------G-A--CA--GGG-GGU---G
+CMS1434      AC-GCGC-----------GA----------C-G---A--CGC-CCG---C
+CMS2313      CC-G-U------------GAUC--------G-G---A--UGG-GCG---G
+CMS1482      U--G-GCU----------GACGA-------G-G---A--GGG-CGU---C
+CMS1971      CC-GCUC-----------GUCCA-------C-G---A--CGG-CCC---C
+CMS2535      CC-GCG-GC-------AUCGCCA-------C-G---A--CGC-GGA---C
+CMS1111      AC--CG------------CACCC------GG-G---A--UGC-GCG---A
+CMS0596      C--GC-CGG--------ACACGCC-----AC-G---A-GGGG-GCG---G
+CMS0415      U--G-ACGC--------GGAUCG------CC-GAUCA--CGG-CCC---G
+CMS2676      C--G-AC-----------CAUGA-------C-G------GGA-CGG---G
+CMS0448      U--G-A-GG--------GAAUG--------A-G---A--CCG-GCC---C
+CMS1989      A--GC-CG----------CAUC--------C-G------CGG-GCG---G
+CMS0640      U--GAAC-----------GUCGA-------GGG---G--CGU-CCGA-UC
+CMS1185      UC-GCA-U----------CGCGACCG-AGCG-G---A--CGA-GCC---G
+CMS1279      CC-GC-CGC--------GCAUCC------GG-G---A--GGG---G---A
+CMS2203      AC-G-A-G----------GAUGA------CG-G---G--------C---G
+CMS1242      AC--CA-GCU-----AUACACCA-------C-G---A--CAU-CCC---C
+CMS1430      A--GCA------------AGUCA------CA-A---A--UAAGAAA---G
+CMS1939      CC-GCGCGU-------GACACGG-------C-G---G--CGG-CCG---G
+CMS0946      CC--CGCG----------UACCG-------C-C---C--GGC-CGC---A
+CMS1127      UC-GCCCG---------CGACGA-------C-G--GA--GGG-CCG---G
+CMS2311      AC--C-CG---------UGACCU------GA-G---U--CGG-CGG---G
+CMS1525      CC-GC-CG----------CUCC--------G-G---G--GCG-GGG---U
+CMS0940      A--GCAC-----------CGCCCG-----CU-G---A--CGG-GAC---C
+CMS0997      AC-GCGC-----------GACCA------CC-G---G-CCCG-GCC---G
+CMS0208      CC-GCGCGC--------UGACCGG----AUC-G---A--GGG-CCG---G
+CMS0606      A--GC-C-----------GACG--------G-G---A-UCCG-CGG---G
+CMS1900      CC-GCACGGA-----UCACAUCG-------CAG---A--GGG-GCC---G
+CMS2776      UC-G-GCG---------GCACCA-------A-C---A--CGG-ACG---C
+CMS2058      CC-GCGCG----------UA----------G-G---A-G------C---G
+CMS2828      A--GCU------------GAUC--------C-G---A--CGG-GCG---G
+CMS2431      A--G-A-GU--------GGG----------G-G---A-UUCG-CCU---C
+CMS1677      CC-GCUC-----------GGCCU-------C-G---A--CGC-CCG---U
+CMS0901      UC--CA-UC--------CCGCGG------CC-G---C-C-CC-GGU--AC
+CMS0835      UC--C-C-----------CGCCU-------C-G---A--CGC-CCC---C
+CMS0317      CC-GCAC-----------CACCCU-----GA-G---A--GCC-CCC---G
+CMS1507      A--G-GCG----------GAUGC------GC-G---G--AGG-CCG---A
+CMS0633      U--GCGCU----------GAUCA-------C-G---C--CGG-GCA---C
+CMS0576      AC-GCA-G---------AUACGA-------C-A---A--CGC-CCG---C
+CMS0701      CC-G-G------------CACCAU-----CC-G---C-G-CG-CCC---C
+CMS2566      UC-GC-CG----------CGCGA-------C-G---A-C------C---G
+CMS1176      UC--C-CG---------CCG----------C-G---G--CCG-UCG---C
+CMS1278      A--GCG------------GA----------G-G---A--GGG---G---G
+CMS0125      CC-GC-C-----------CG----------C-A---C--CGC-CCG---U
+CMS0184      CC-GCAC-----------------------C-G---C--GAU-CCG---C
+CMS0506      CC--CGCG----------CACGA-------C-G---A--CGC-CCC---U
+CMS0398      CC-GCCC-----------CGCGAG-----CA-G---G--UGG-CCG---G
+CMS2113      AC--CGC-----------CGCGC-------G-G---A--GGG-CCG---U
+CMS1016      UC--CGCG----------GCUGA------GC-G---C--CCA-UCC---G
+CMS0399      CC-GC-C-----------GA----------G-A---G--GGG-CGG---G
+CMS0132      UC-G-AC-----------CACUA-------C-G---A--GGU-CUG---G
+CMS1633      U--GC-CG----------GAUGCG-----GC-G---A--CGG-CCA---C
+CMS0473      CC-GCA------------CACGA-------C-G---A--AGG-GCC---C
+CMS0667      UC--CUC-----------CUCGC-------C-G------------C---G
+CMS0129      A--GCGCG---------GCU----------C-G---A--------C---C
+CMS1726      UC-GCACGUCCC--CCCGCGCGA-------C-G---A--CGG-CCG---G
+CMS1788      CC-GCCCGG--------GAACGA-------C-G---A--CGC-CCC---C
+CMS2719      CC-GC-CGC--------G--UGCG-----AU-G---A--GGG--------
+CMS1401      CC-GCACG----------CACGA-------C-G---A--GGG-CCG---C
+CMS0152      CC-GCGCG----------GACCU-------G-G---A-U-GA-CGG---C
+CMS0078      CC-GCACG----------CACGAC-----AG-G---A--CGG-GCC---G
+CMS1363      UC--CACU---------CGACCC-------G-A---A--GGG-GCC---G
+CMS0365      UC-GCCC-----------CUUG--------C-G---A--GAG-CCC---G
+CMS2413      A--GCAAGG-------CCAACGA-------C-G---G--CGG-GGC---C
+CMS1187      CC-GCA------------CAUGA-------CGG---A--UGC-CCG---C
+CMS1402      AC-G-ACG----------CACGA-------C-G---A--GGG-CCG---C
+#=GC SS_cons ::.:::::..........:::::.......<.<...<..<<<.<<<...<
+#=GC RF      cC.GCACG..........CACGA.......C.G...A..gGG.cCg...g
+
+CMS2771      -C-GA-C---------------------------GC-------G--U---
+CMS1432      -C-GAGC---------------------------AUC---U--G-CU---
+CMS1502      -G-CCCC---------------------------UCA---C--G-GG---
+CMS0684      UC-CCUC--------------------------GUCA--AC--G-AG---
+CMS1912      -C-CCG-U------------------------CGACG---A----CG---
+CMS2982      -G-ACCC--------------------------UUUA---C--G-GG---
+CMS1095      GC-UAUCUC----------------------AACUCG---A--G-GU---
+CMS1501      -CACCCC---------------------------GUG---A--G-GG---
+CMS2432      -G-GACC---------------------------GCA---U--G-GU---
+CMS1599      -C-GA-C---------------------------AUGA-UG--G--U---
+CMS1632      -A-UCCC--------------------------CGCG------G-GG---
+CMS0692      -C-G--GGACGAUGUGAGUUACCAAGCACACGUCAUC---A--C------
+CMS1820      -A-CCGG---------------------------AUG---A--C-CG---
+CMS2221      -G-GGACC-------------------------AUUC---G--G-UC---
+CMS1976      CC-GAGC---------------------------ACC------G-CU---
+CMS1431      -G-CUCGAG----------------------CAGAUG--CU--C-GA---
+CMS2004      -C-GACC---------------------------ACG---U--G-GU---
+CMS2441      -C-CACCU-------------------------CGCG---A--G-GU---
+CMS1186      -C-CCAC--------------------------CUCG------G-UG---
+CMS2468      -G-CA-C---------------------------UCU---C--G--U---
+CMS2636      -GUCGCC---------------------------GAG--GA--G-GC---
+CMS0674      -A-UCUCC-------------------------CGCG---G--G-AG---
+CMS0995      -C-CGGC---------------------------ACC--AC--G-CC---
+CMS1700      -G-CCGCG-------------------------A-UC--UC--G-CG---
+CMS2068      -G-CAUCCC-----------------------GCGAG---G--G-GU---
+CMS2772      -U-CCGC---------------------------CA-------G-CG---
+CMS2375      -U-CAGC---------------------------UCA--UC--G-CU---
+CMS2234      -G-CAUC--------------------------CACC---G--G-AU---
+CMS1819      -A-CCGG---------------------------UCA---U--C-CG---
+CMS3104      -G-CACC---------------------------GAG---A--G-GU---
+CMS2740      -A-CCGG---------------------------AUG--AU--C-CG---
+CMS1887      -G-GCCCCGC---------------------GAUGCG---G--G-UG---
+CMS2591      -G-CAUC--------------------------CUCG------G-AU---
+CMS1378      -A-CGGG---------------------------ACC---U--C-CC---
+CMS1283      -U-CGCGUGCGCCCU----------CCACCGACGGCG--CC--C-GU---
+CMS2469      -G-CA-C---------------------------GAG---A--G--U---
+CMS1540      -CACCUCC-------------------------GAU-------G-AG---
+CMS2739      -A-CCGG--------------------------AUCA---U--C-CG---
+CMS2235      -A-UC-C--------------------------GGU-------G--G---
+CMS0540      -U-CCCC---------------------------UC-------G-GG---
+CMS2217      -A-GGCC---------------------------GCC---U--G-GC---
+CMS1152      -C-CG-CGGC--------------------CCGA--G--GGCUG--C---
+CMS1592      -C-GACC---------------------------AUG---U--G-GU---
+CMS0784      -G-CACCC------------------------CCUCG--GG--G-AU---
+CMS2981      -G-ACCC---------------------------GUA--AA--G-GG---
+CMS2870      ---CAGCU------------------------CCGAG--GA--G-CU---
+CMS3000      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0785      -G-CAUCC------------------------CCGAG--GG--G-GU---
+CMS2222      -G-GGACC------------------------GAAUG------G-UC---
+CMS0597      -G-UGCC---------------------------GCG---A--G-GC---
+CMS0565      -G-CA-UGCU---------------------CUGGAG---G--A--U---
+CMS3056      -G-CGCG---------------------------GAA------C-GC---
+CMS0393      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0574      GC-UCUCCGACCUUC-----------CCCGUACGGUC---G--G-AG---
+CMS1779      -C-GC-G---------------------------AUG--AU--C--G---
+CMS1800      -G-GA-CACCG-------------------CGAUGCG---G--G--U---
+CMS2614      -G-GUCCCCAC------------------GAGAAGUG---G--G-GG---
+CMS1701      -G-CCGCG-------------------------A--GA-UC--G-CG---
+CMS1799      -G-GA-CCCG--------------------CAUCGCG--GU--G--U---
+CMS0541      -U-CCCC---------------------------GA-------G-GG---
+CMS2452      -C-AGGC---------------------------UCG---A--G-CC---
+CMS2512      -C-G--C---------------------------GUG---A--G------
+CMS0087      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0761      -G-C-GC---------------------------AUA---U--G-CU--U
+CMS1199      -C-GGGG---------------------------GAG---A--C-CC---
+CMS2807      -U-CCGC---------------------------ACG---C--G-CG---
+CMS0112      -U-CCCC---------------------------GAG---A--G-GG---
+CMS2122      -G-GCGG---------------------------ACA------C-CG---
+CMS2343      -U-CGCCCGACC----------------CACGCGGUC---C--G-GC---
+CMS1179      -A-CG-C--------------------------AUCG---C--G--C---
+CMS1778      -C-GCGA---------------------------UCA------U-CG---
+CMS0573      CC-UCUCCGACCGUA-----------CGGGGAAGGUC---G--G-AG---
+CMS2440      -CCCACCU-------------------------CGCG---A--G-GU---
+CMS0926      -G-GGCG---------------------------GGA---A--C-GU---
+CMS2747      -G-GACC---------------------------CCA---U--G-GU---
+CMS0176      -U-C--C---------------------------UGG---G--G------
+CMS1755      -C-GCGC---------------------------AUC------G-CG---
+CMS1818      -G-GAGC---------------------------GCA---U--G-CU---
+CMS2727      -U-CCGC---------------------------GCCA-GC--G-CG---
+CMS0528      -G-UC-C---------------------------GCA---U--G--G---
+CMS1497      -GGGAGC---------------------------AUC---U--G-CU---
+CMS2433      -G-GACC---------------------------AUG---C--G-GU---
+CMS2414      -G-GUCC---------------------------UGG---U--G-GA---
+CMS2069      -G-CACCCC-----------------------UCGCG---G--G-AU---
+CMS1033      -G-CCUC--------------------------CUCG---C--G-AG---
+CMS2555      -GGCCCG---------------------------GUG---A--C-GG---
+CMS1817      -G-GAGC---------------------------AUG---C--G-CU---
+CMS0971      -C-GC-C---------------------------GCA---U--G--G---
+CMS0452      -C-GGGC---------------------------GUG---A--G-CC---
+CMS2820      -G-GAUCCC-----------------------CCGCG------G-AU---
+CMS1128      -A-GGGG---------------------------AUC---A--C-CC---
+CMS1035      -CGUGCC---------------------------UCG---C--G-GC---
+CMS0002      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1984      -C-GUCC--------------------------UGA-------G-GA---
+CMS0558      -CCGGCC---------------------------AUG---A--G-GC---
+CMS0727      -C-GUCCC-------------------------UUCC--CG--G-GG---
+CMS1558      -U-CCCGC-------------------------UGCG---G--C-GG---
+CMS0935      -A-CGACGG-----------------------GGUC-------G-UC---
+CMS2595      -C-AUCCC-------------------------GGU-------G-GA---
+CMS1871      -C-GGGC--------------------------AUCG---C--G-CC---
+CMS1983      -A-UC-C---------------------------UCC---G--G--G---
+CMS0045      -C-GGGC---------------------------ACC---C--G-CC---
+CMS1897      -U-CC-C--------------------------GUCG---A--G--G---
+CMS2767      -G-CGGCACGCAUC-------------CUGUGGGAUG---C--G-CC---
+CMS1614      -G-AUCC---------------------------ACA--AG--G-GA---
+CMS1748      -C-UGCC---------------------------GAG---A--G-GC---
+CMS2819      -G-GAUC--------------------------CGCGG-GG--G-AU---
+CMS1749      -C-UGCC---------------------------UCU---C--G-GC---
+CMS0396      -C-GACC--------------------------CUCG------G-GU---
+CMS0695      -U-CCGGC-------------------------GACA--GU--C-UG---
+CMS0613      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0693      -U-CU-C--------------------------CUCG---U--G--A---
+CMS1004      -C-G--C--------------------------CCUG---A--G------
+CMS2911      -A-CGACC------------------------GCACC---G--G-UC---
+CMS0034      -U-UGAC---------------------------UCU---C--G-UC---
+CMS0241      -C-GACC--------------------------CACG------G-GU---
+CMS1499      -U-CG-GC-------------------------AUCA---A--C--C---
+CMS2586      -GG-U-G---------------------------UCG--AG--C--A---
+CMS0262      -G-GCUGG-------------------------CUCU---C--C-AG---
+CMS1645      -A-GGCC---------------------------GCA--UC--G-GC---
+CMS2674      -G-CGAC---------------------------GUG---A--G-UC---
+CMS3040      -G-CG-C--------------------------CACA------G--C---
+CMS2974      -C-CCC---------------------------UGCG---A----GG---
+CMS1183      -U-C--G---------------------------ACG--CU--C------
+CMS0139      -G-CAUC--------------------------CACG--UG--G-AU---
+CMS0301      -G-UCGG---------------------------GAA---A--C-CG---
+CMS0821      -AU-CCC--------------------------CGCG------G-GG---
+CMS0037      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1178      -A-CG-C---------------------------GCG--AU--G--C---
+CMS2804      -C-CGGC---------------------------ACG---C--G-CC---
+CMS2225      -G-CAUC--------------------------C-CC--CG--G-AU---
+CMS2129      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0010      -GCCACC---------------------------GAA---A--G-GU---
+CMS0751      -C-CCGC---------------------------GCG---A--G-CG---
+CMS1479      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0609      -C-GGUCC------------------------CCGCG---G--G-GC---
+CMS0719      -C----C---------------------------ACC------G------
+CMS1634      -G-GACC---------------------------ACG--AG--G-GU---
+CMS2773      -C-GGAG--------------------------CACG---U--C-UC---
+CMS3111      -G-U-CC---------------------------GUU------G-G----
+CMS2456      -G-CGCCC-------------------------CUCC---C--G-GC---
+CMS0566      -G-CAUCC-------------------------U-CCA-GA--GCAU---
+CMS2282      -G-UCCC--------------------------CAUC---G--G-GG---
+CMS1500      -U-CG-G---------------------------UUGA-UG--C--C---
+CMS2869      -CAGC--U------------------------CCUCG--GA-----G---
+CMS0315      -CGCUCC---------------------------GUC---A--G-GA---
+CMS0140      -G-CAUC--------------------------CACG--UG--G-AU---
+CMS0013      -U-CACCA-------------------------UCCG--CU--G-GU---
+CMS2589      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1631      -A-UCCC--------------------------CGCG------G-GG---
+CMS1354      -C-G--C---------------------------AC-------G------
+CMS1653      -CACCUC---------------------------GCG---A--G-AG---
+CMS3042      -GCCCC---------------------------CGAG--------GG---
+CMS0772      -G-UCGC---------------------------AU-------G-CG---
+CMS1258      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0071      -GCCACCU------------------------CCGUG---A--G-GU---
+CMS2800      -G-G--CC-------------------------CACG--AC--G------
+CMS1503      -C-GGAC---------------------------GCG--UC--G-UC---
+CMS1774A     A--CG-C---------------------------ACC---A--G--C---
+CMS0366      -C-CCCCGCCAUC--------------CACAUGGACC--AC--G-AG---
+CMS0584      -G-C--C--------------------------UGAC---C--G------
+CMS2117      -AUCGGCG-------------------------GAC-------G-CC---
+CMS1580      -C-GCGC---------------------------AUC---C--G-CG---
+CMS1539      -CACCUC---------------------------AUC---G--G-AG---
+CMS2213      AG-CGCCCCC--------------------CCUCGCG--GG--G-GC---
+CMS1504      -C-GGAC--------------------------GACG---C--G-UC---
+CMS1158      -C-GGGC---------------------------GUG---A--G-CC---
+CMS2374      -C-CAGC--------------------------GAUG---A--G-CU---
+CMS3011      ---CCCCCGCAC-----------------GGCCGGCA---C--G-GG---
+CMS1396      -CGCAUCC-------------------------GGCG------G-GU---
+CMS2592      -G-GC-G---------------------------ACA------C--G---
+CMS2072      G--CC-C---------------------------CCA---G--G--G---
+CMS2764      -G-GUCCC-------------------------CUCG---G--G-GG---
+CMS1113      -G-CGGG---------------------------GCG---A--C-CU---
+CMS2018      -G-GAGC---------------------------GCA--UC--G-CU---
+CMS2680      -G-GUCCUC----------------------CUCGCG---A--G-GA---
+CMS0180      -G-UG-C---------------------------GCA--GC--G--C---
+CMS2948      -C-CGGCGUC---------------------UCGUCG---C--G-CC---
+CMS1843      -U-CCCC---------------------------UCC---U--G-GG---
+CMS0114      -C-G--CCCG---------------------CCGACU---U--G------
+CMS0171      -G-GAUCCGAU-------------------CACGACC---G--G-AU---
+CMS1960      -C-CG-G--------------------------GUCA--GG--C--C---
+CMS1041      -G-CGGC--------------------------GGAA---A--G-CC---
+CMS1845      -C-GACCC-------------------------CUCC---C--G-GU---
+CMS1215      -U-CCCC---------------------------GA-------G-GG---
+CMS2748      -G-GACC---------------------------AUG---G--G-GU---
+CMS0096      -CCCCGCA-------------------------G-CAG-AU--G-CG---
+CMS2613      -C-GCGA--------------------------CGCG---U--U-CG---
+CMS1141      -C-GGCGG-------------------------GGCA--UC--C-GC--C
+CMS0001      -A-C--C---------------------------AUG---A--G------
+CMS0210      -C-GGGC---------------------------GUG---A--G-CC---
+CMS3010      -C-CGCGGU-----------------------CC---U-CC--C-GC---
+CMS2159      -C-GGGC---------------------------GUG---A--G-CC---
+CMS2001      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1904      -A-UCCGC-------------------------CGCG---C--C-GG---
+CMS0771      -G-CGCGG------------------------GUU-----C--C-GC---
+CMS0890      -G-CCCC---------------------------AC-------G-GG---
+CMS2340      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1045      -CGCGCCCGCCC-----------------CCCCCCCG---G--G-GC---
+CMS1135      -C-CGCCCGC--------------------UGCUGCG------G-AC---
+CMS1301      -A-UCGCC-------------------------CGAG---G--G-CG---
+CMS0644      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0240      -C-GACC--------------------------CGUG------G-GU---
+CMS0258      -C-CCGC---------------------------ACC---C--G-CG---
+CMS3009      -G-GAUCCGGCCGACGG-------UUGUCUGUGCGUG--GG--G-AU---
+CMS2511      -C-G--C---------------------------UCA---C--G------
+CMS1692      -C-G--C---------------------------CCA---A--G------
+CMS0907      -G-CGCC--------------------------GUCG---A--G-GC---
+CMS1262      -G-CCUGC-------------------------GACG------C-AG---
+CMS1747      CA-G--C---------------------------CAA------G------
+CMS1986      -G-CGUCC-------------------------AUCC---A--G-GC---
+CMS1164      -G-UGCC---------------------------GCA--CA--G-GC---
+CMS0600      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1903      -G-GGGC---------------------------UCA---G--G-CC---
+CMS0270      -G----C---------------------------UCC---G--G------
+CMS2211      UC-CGGCAGGUCCCUC---------CGCAGGAGGGAG--UU--G-GC---
+CMS2401      -G-UC-C--------------------------CACG---C--G--G---
+CMS1260      -A-C--G--------------------------CACG--GU--C------
+CMS2834      -C-GG-C--------------------------CGCG--AU--G--C---
+CMS2226      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0725      -G-GAUCCU-----------------------CCACA---G--G-AU---
+CMS2683      AC-CCUC--------------------------AUCG---C--G-AG---
+CMS1208      -G-U--C---------------------------CCA---C--G------
+CMS0264      -C-GGUCC-------------------------UACG---G--G-GC---
+CMS1324      -A-CGCG---------------------------AUC---G--C-GC---
+CMS3024      -G----G--------------------------CAC----A--C------
+CMS1644      -C-GGCC--------------------------GAUG---C--G-GC---
+CMS2649      -A-CG-G---------------------------GAG---A--C--C---
+CMS1637      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1173      -G-U--G---------------------------AC-------C------
+CMS0988      -C-CCGG--------------------------AAUG---C--C-CG---
+CMS1727      -G-C--G---------------------------GCG---A--C------
+CMS0170      -A-GG-C---------------------------AUC---C--G--C---
+CMS0246      -G-CACC---------------------------UCC---G--G-GU---
+CMS2714      -C-CCCGC-------------------------CUCG------C-GG---
+CMS1350      -U-CCUC--------------------------CUC-------G-AG---
+CMS3069      -U-CGAC---------------------------UCC---G--G-UC---
+CMS0542      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1007      -C-GCUCGCCCCG--------------CACAUCCG----CG--G-GGC-A
+CMS0070      -GUCACCU-------------------------CACG--GA--G-GU---
+CMS0899      -C-C--C---------------------------ACG------G------
+CMS0526      -G-CCGA--------------------------CACG--AU--U-CG---
+CMS0280      -G-GGCC--------------------------GUCA---U--G-GC---
+CMS1380      -G-GA-CUCAGGCUC----------CAGCGAGCCACG--GG--G--U---
+CMS1226      -U-GCGCC-------------------------GAU-------G-CG---
+CMS1815      -C----C---------------------------UC-------G------
+CMS2255      -U-CCUC--------------------------CUCC--GG--G-AG---
+CMS0155      -C-CGGC---------------------------GAG---A--G-CC---
+CMS0136      -C-AUCC---------------------------GCA---U--G-GA---
+CMS1495      -A-UCCG---------------------------AU-------C-GG---
+CMS1996      -C-UCCC---------------------------UUC---G--G-GG---
+CMS0563      -G-CCUCCC-----------------------CAUCG---G--G-AG---
+CMS1206      -G-U--C--------------------------CUCG---C--G------
+CMS2536      -G-GGCGG------------------------CUGAG---C--C-GU---
+CMS1457      -CGCAUC--------------------------UUCC---G--G-GA---
+CMS2757      -C-C--C--------------------------GGUG---A--G------
+CMS0598      -UUCC-G---------------------------GA-------C--G---
+CMS1680      -U-CGGC---------------------------ACC------G-CC---
+CMS1687      -C-G--G--------------------------CUCG---A--C------
+CMS1435      -U-CCCG--------------------------G-AU---C--C-GG---
+CMS1907      -A-GCCC---------------------------GC-------G-GG---
+CMS1296      -U-GAUCC-------------------------GGUC---G--G-GU---
+CMS0497      AUCCGGGACGC-------------------GAGAGCG---G--C-CC---
+CMS1769      -G-GCACGGGGCGCG-----------GGAACGCCACA---G--G-UG---
+CMS2571      -G-CGGG--------------------------CCCG--GU--C-CU---
+CMS1376      -A-GGCC--------------------------CACC--CC--G-GC---
+CMS1420      -U-G--C--------------------------UGCG------G------
+CMS0655      -C-GUCCC------------------------CAUCG--CG--G-GG---
+CMS0678      -G-CAGCC-------------------------CGUG---G--G-CG---
+CMS2568      -U-CCGCUC-----------------------ACACG--AA--G-CG---
+CMS1446      -G-CCGG--------------------------GACG---A--C-CG---
+CMS1872      -C-GGGC---------------------------GCG--AU--G-CC---
+CMS3044      -G-UCCC--------------------------CUCG------G-GG---
+CMS0608      -C-CC-C---------------------------GCG------G--G---
+CMS2509      -GGCUCC---------------------------CCGG-AG--G-GA---
+CMS2914      -C-GAUC---------------------------UCCU-GG--G-GU---
+CMS1889      -A-CCGC---------------------------GAC---C--G-CG---
+CMS1598      -A----CC-------------------------AUCA---U--G------
+CMS3096      -G-GGCU--------------------------CCUG---G--A-GC---
+CMS2862      -U-CGGCA-------------------------GUC-------G-CC---
+CMS1389      -U-CGUC--------------------------CAUC---G--G-GC---
+CMS1153      -CAGCCC---------------------------UC-------G-GG---
+CMS2190      -C-GGGC---------------------------GUG---A--G-CC---
+CMS0679      -C-GGGCCGCC-------------------CACG---GGCU--G-CC---
+CMS2856      -C-GU-C---------------------------GCG---G--G--A---
+CMS0552      -G-GCGC---------------------------ACC--AC--G-CG---
+CMS0688      -U-CCCC--------------------------CUCC--CC--G-GG---
+CMS0932      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1901      -C-AUCC--------------------------GGU-------G-GA---
+CMS1722      -C-CG-G--------------------------CUC-------C--C---
+CMS0174      -C-GC-C---------------------------UCC---G--G--G---
+CMS2577      -C-CGCG--------------------------CACG---U--C-GC---
+CMS0572      -G-CGAG---------------------------CUG--GU--C-UC---
+CMS1593      -C-CC-C---------------------------UCA---G--G--G---
+CMS1619      -U-CCUC--------------------------CUCC---G-GG-AG---
+CMS2813      -A-UA-CUUC---------------------GGGUCG--AU--G--U---
+CMS0116      -A-UCCC--------------------------CUCG------G-GG---
+CMS0651      -U-CCCU--------------------------C-CC--CG--A-GG---
+CMS0577      -C-CCGU--------------------------GUUG---A--A-CC---
+CMS1214      -U-CCCC---------------------------UC-------G-GG---
+CMS2799      -G-C--C---------------------------AUG---C--G------
+CMS0467      -A-UCACAU-----------------------ACUCGG-AG--G-UG---
+CMS0549      -U-GGUGUGUAGCGUGG-------AUCCCGCGCG-CC--GC--C-AC---
+CMS0423      ---G--CA-------------------------CGCA---U--G------
+CMS0855      -A-GCGCA-------------------------AUCG---G--GUCG---
+CMS0154      -G-AUCC---------------------------GAC---C--G-GA---
+CMS1119      -C-GAGGCG----------------------CACGCC---G--C-CU---
+CMS0500      -C-UCACUC-----------------------CGACG--GA--G-CG---
+CMS0738      -C-GGGC---------------------------GUC---A--G-CC---
+CMS1923      -G-GUCCC-------------------------CUCG---G--G-GG---
+CMS1285      -G-CCCG---------------------------ACC---C--C-GGUCA
+CMS2886      -C-GGGC---------------------------GUC---A--G-CC---
+CMS1223      -U-CCCC---------------------------AUC---A--G-GG---
+CMS2167      -U-CG-G---------------------------GAG---A--C--C---
+CMS1643      -G-GGCG---------------------------GCG---A--C-GC---
+CMS0987      -U-GAUGA-------------------------CAUG---U--C-AU---
+CMS1086      -A-CCUCCA-----------------------GGUCC--AC--G-AG---
+CMS0975      -U-C--CU-------------------------CGCC---G--G------
+CMS0162      -C-CG-CC------------------------ACAUC---A--G--C---
+CMS0439      -G-C--C--------------------------AGU-------G------
+CMS2564      -AU-CCCCU-----------------------CAGCA---G--G-GG---
+CMS0654      -C-C--GU------------------------CAUCC---A--C------
+CMS1291      -C-CGAC--------------------------C-CC--CG--G-UC---
+CMS2973      -U-CCCC---------------------------UCG--CA--G-GG---
+CMS0009      -G-UACG---------------------------GUA---A--C-GU---
+CMS1442      CC-CGUC--------------------------CGAG------G-AC---
+CMS0920      -G-GCGCC-------------------------CGCC---C--G-CG---
+CMS0445      -C-GGGC---------------------------GUG---A--G-CC---
+CMS1171      -A-C--C---------------------------ACC---U--G------
+CMS1400      -U-C--C---------------------------UCG---U--G------
+CMS0585      -G-G-CC--------------------------GGUC---A--G-G----
+CMS2857      -C-GU-C---------------------------CCG---C--G--A---
+CMS0505      -C-CCGC--------------------------CACG---C--G-CG---
+CMS0326      -A-CC-C---------------------------GCG---C--G--G---
+CMS1236      GC-GCCC---------------------------UCU---G--G-GG---
+CMS1600      -U-CCCG---------------------------CUC---A--C-GG---
+CMS1456      -C-GC-CCGCGG----------------CCACGACCG--CA--G--G---
+CMS1721      -C-CG-G---------------------------GAG------C--C---
+CMS2737      -G-C-CCGACC-------------------UCGC--CU-CA--G-G----
+CMS2082      -G-UC-C---------------------------GGG---U--G--G---
+CMS2290      -C-CGCG---------------------------ACC--AC--C-GC---
+CMS2422      -C-GGUCC------------------------CCGAG--GG--G-AG---
+CMS0450      -G-CGCG---------------------------UCG--AU--C-GC---
+CMS2765      -C-CC-C---------------------------GA-------G--G---
+CMS2466      -C-CGCCC-------------------------GUCC--CG--G-GC---
+CMS2624      ---UCCC---------------------------GUC---C--G-GG---
+CMS1169      -A-CCGG---------------------------AUC------C-CG---
+CMS0498      -C-AUCC---------------------------GCG---A--G-GG---
+CMS2749      -G-UCCCCUUCGCUCCC-------CUCGCCGGGAGCG--CC--G-GG---
+CMS2759      UC-GCUC--------------------------CAC-------G-AG---
+CMS2635      -GCCGCC---------------------------UCC--UC--G-GC---
+CMS0134      -C-G--C---------------------------AU-------G------
+CMS3048      -A-CC-C--------------------------AGCA---C--G--G---
+CMS1491      -U-CG-C---------------------------GCA---C--G--C---
+CMS2576      -C-CGCG---------------------------ACG--UG--C-GC---
+CMS1230      -C-CCUC---------------------------CCG---G--G-AG---
+CMS0941      -C-C--C---------------------------UCA--CC--G------
+CMS1898      -C-CC-C---------------------------UCG--AC--G--G---
+CMS2425      -G-CCCGGU----------------------CAGACG---A--C-GG---
+CMS1295      -U-GACCC-------------------------GACC---G--G-AU---
+CMS1353      -C-G--C---------------------------GU-------G------
+CMS0181      -G-UGCG---------------------------CUG------C-GC---
+CMS0397      -C-C--C---------------------------GA-------G------
+CMS1443      -G-CUCCCG----------------------UCCUCGG-AC--G-GG---
+CMS1679      -U-CGGC--------------------------GGU-------G-CC---
+CMS2171      -CGGCUC---------------------------GGG---G--G-AG---
+CMS2625      -G----C---------------------------UCC---G--G------
+CMS1020      -C-GGGC---------------------------GUC---A--G-CC---
+CMS2798      -G-C--C---------------------------GCA---U--G------
+CMS1338      -U-CUCC---------------------------CC-------G-GA---
+CMS1297      -C-GGGCGGUGA-----------------CGGGAGCG--GC--G-CC---
+CMS2823      -G-GCGG---------------------------CCC--CU--C-CG---
+CMS1136      -U-CGUCCGC--------------------AGCAGCG------G-GC---
+CMS2612      -C-CGUCACG--------------------CGUCUCG--UG--G-GC---
+CMS0529      -U-C--C---------------------------CCC---G--G------
+CMS1993      -C-GGGGG------------------------AG---A-UC--C-CC--A
+CMS2662      -C-CCGC--------------------------AUCG---C--G-CG--G
+CMS2170      -C-GCUC---------------------------CCC---C--G-AG--C
+CMS1880      ------C---------------------------ACC------G------
+CMS1466      -CGGGGCC------------------------GGGUC---G--G-CU---
+CMS1425      -G-CGGC--------------------------CGCG---C--G-CC---
+CMS1267      -U-CA-CAUG--------------------GUGUUCC---A--G--U---
+CMS1702      -G-CAUCC-------------------------CGCG---G--G-GC---
+CMS1434      -C-CCCG--------------------------G-AU---C--C-GG---
+CMS2313      AU-GA-CCG----------------------CGCUCA--UC--G--U---
+CMS1482      -CCC--G---------------------------GUA---C--C------
+CMS1971      -A-C--C--------------------------CUCC---C--G------
+CMS2535      AGACGGC---------------------------UCA------G-CC---
+CMS1111      -C-GCGCCGAG-------------------CACCUCC--UC--G-CG---
+CMS0596      -G-CGCC---------------------------UCG---C--G-GC---
+CMS0415      -G-GGGC---------------------------UCC---G--G-CU---
+CMS2676      -C----C---------------------------ACC---U--G------
+CMS0448      -G-GGCC--------------------------UUCG---A--G-GC---
+CMS1989      -U-CC-GCCG---------------------GGAGAC---C--C--G---
+CMS0640      -C-GCAC--------------------------CACG------G-UG---
+CMS1185      -U-CACC--------------------------CUCC--GG--G-GU---
+CMS1279      -U-GGGC--------------------------CGUG---G--G-UC---
+CMS2203      -C-UCCC--------------------------GAAG---A--G-GG---
+CMS1242      -G-GC-G---------------------------ACA------C--G---
+CMS1430      AC-CCGG---------------------------AUA---U--C-CG---
+CMS1939      -C-UC-CC-------------------------GAU-------G--G---
+CMS0946      -U-CCGC--------------------------U-CCC-CC--G-CG---
+CMS1127      -A-GGGGU-------------------------G--A---U--C-CC---
+CMS2311      -G-G--C--------------------------UUCA--CC--G------
+CMS1525      -CGGACGCGGCG-----------------CGCGAGCG--CA--C-GU---
+CMS0940      -G-G--G--------------------------CGCG---C--C------
+CMS0997      -U-UCCC--------------------------CUCG---C--G-GG---
+CMS0208      -GUCGAC---------------------------GC-------G-UC---
+CMS0606      -C-C--G---------------------------CCA--GC--C------
+CMS1900      -C-AUCC---------------------------ACC------G-GA---
+CMS2776      -C-GUGC---------------------------UCA---U--G-GA---
+CMS2058      -C-CC-CA-------------------------GUCC---G--G--G---
+CMS2828      -C----C---------------------------GUC------G------
+CMS2431      -G-ACGG---------------------------UU-------C-CG---
+CMS1677      -C-C--C---------------------------GCG---A--G------
+CMS0901      -G-GAUCC-------------------------U-CC--GC--G-AU---
+CMS0835      -G-G--C---------------------------ACG---C--G------
+CMS0317      -C-CG-C--------------------------CCUG---C--G--C---
+CMS1507      -C-CG-C---------------------------CCC---C--G--C---
+CMS0633      -GACC-C---------------------------UC-------G--G---
+CMS0576      -C-CGGU---------------------------UCA--AC--A-CG---
+CMS0701      -GUCAGC---------------------------CCC------G-CU---
+CMS2566      -U-GGCCG-------------------------CGCC---C--G-GC---
+CMS1176      -G-UCCC---------------------------CCC------G-GG---
+CMS1278      -U-GGACC-------------------------CACG------G-CC---
+CMS0125      -C-CGCC---------------------------UCG--CG--G-GC---
+CMS0184      AU-C--CG-------------------------CACC---C--G------
+CMS0506      -C-CCGC---------------------------GCG--UG--G-CG---
+CMS0398      -G-C--G--------------------------CGCA---C--C------
+CMS2113      -C----A---------------------------GCC--CU--U------
+CMS1016      -C-G--GCUGA-------------------GCGCGUG---U--C------
+CMS0399      -U-GGCC---------------------------GCG---U--G-GC---
+CMS0132      -U-UC-C---------------------------UCA--CC--G--G--C
+CMS1633      -G-GACC--------------------------CUCG---U--G-GU---
+CMS0473      -C-G--G---------------------------UCU---C--C------
+CMS0667      -G-UCGC---------------------------GCA---U--G-CG---
+CMS0129      -C-CG-CC-------------------------GGCG--AU--G--C---
+CMS1726      -G-C--G---------------------------UCG---C--C------
+CMS1788      -GGUCCC--------------------------UGAG--AC--G-GG---
+CMS2719      ---GAUG--------------------------U-CCC-CA--C-AU---
+CMS1401      -C-CG-G---------------------------ACA---U--C--C---
+CMS0152      CC-CCUCC------------------------GCCC---CG--G-AG---
+CMS0078      -A-CCCC---------------------------UC-------G-GG---
+CMS1363      -A-UCCCG-------------------------A-AC---C--G-GG---
+CMS0365      -C-CCUCGUGGUC--------------CAUGUGGAUG--GC--G-GG---
+CMS2413      -G-GUCC---------------------------ACC---A--G-GA---
+CMS1187      -C-CCAC--------------------------CGAG------G-UG---
+CMS1402      -C-CG-G---------------------------AUG---U--C--C---
+#=GC SS_cons .<.<<<<...........................___..._..>.>>...
+#=GC RF      .c.cccC...........................gCG...c..G.gg...
+
+CMS2771      C---G--U-CG--GGC--UC-U
+CMS1432      C---G--A-GCG-GGG--CC-G
+CMS1502      G---U--G-CGG-CGC--UC-U
+CMS0684      G---G-AC-CGC-CCG--UC-G
+CMS1912      G---G--G-CGG-GCG--GU-G
+CMS2982      U---C--G-GCC-CUC--UC-G
+CMS1095      A---G-CC-CGG-GCA--UC-G
+CMS1501      G--CG--C-GGC-GCU-CUC-G
+CMS2432      C---C--G-CGU-CCC-CUC-U
+CMS1599      C---G--G-GGC-CUC--UC-G
+CMS1632      A---U--G-CGC-CCU--UC-G
+CMS0692      C---G--G-AGG-UCU--UC-G
+CMS1820      G---U--C-GGC-CCC--UC-U
+CMS2221      C---C--G-CCG-CCC--UCGU
+CMS1976      C---GCGG-CGG-GCG--UC-G
+CMS1431      G---C--G-GGG-CCG--UC-G
+CMS2004      C---G--C-CCG-CCC--UC-U
+CMS2441      G---G--G-CGG-CGC--CC-C
+CMS1186      G---G--G-CGG-GCA--UC-C
+CMS2468      G---C--C-GAC-CCA--UC-U
+CMS2636      G--GC--C-CGC-CCC--UC-C
+CMS0674      A---U--G-CGC-CCU--UC-G
+CMS0995      G---G--G-CGC-CCG--UC-G
+CMS1700      G---C--G-AGC-CCG--UC-G
+CMS2068      G---C--C-GGG-CCG--UC-G
+CMS2772      G---A--U-CGG-CCC--UC-U
+CMS2375      G---G--C-CGG-GGC---C-G
+CMS2234      G---C--G-GGC-AUC-GUC-G
+CMS1819      G---U--C-GGC-CCC--UC-U
+CMS3104      G---C--C-GGG-CCC--UC-C
+CMS2740      G---U--C-GGG-CUC--UC-G
+CMS1887      C---U--G-CCG-GGG--CC-G
+CMS2591      G---C--G-GGC-CGG--GC-U
+CMS1378      A---U--C-GGC-GCC---C-G
+CMS1283      G---A--C-CCG-GCC--UC-G
+CMS2469      G---C--C-GAC-CCA--UC-U
+CMS1540      G--UG--C-GGG-GCG--UC-G
+CMS2739      G---U--C-GGG-CUC--UC-G
+CMS2235      A---U--G-CGG-GCA--UC-G
+CMS0540      G---A--G-CGG-CCU--UC-A
+CMS2217      C---U--C-GGC-ACC--CU-C
+CMS1152      G---G--C-GCG-CU--GUC-G
+CMS1592      C---G--G-GGC-CGU--UC-U
+CMS0784      G---C--G-GCG-CCG--UC-G
+CMS2981      U---C--G-GCC-CUC--UC-G
+CMS2870      G------C-GGG-GCC--GU-G
+CMS3000      C---G--U-GGC-UUG-AGU-G
+CMS0785      G---C--G-GCG-CCG--UC-G
+CMS2222      C---C--G-CCG-CCC--UCAU
+CMS0597      G---C--C-CGC-CCC-CUC-G
+CMS0565      G---C--G-GGG-CCU--UC-U
+CMS3056      G---U--C-GGG-CCC--UC-G
+CMS0393      C---G--U-GGC-UUG-AGU-G
+CMS0574      A---G-GG-CGG-CGG--UG-U
+CMS1779      C---G--G-GGC-CCU--UC-G
+CMS1800      C---C--G-GGC-CUC--UC-G
+CMS2614      C---C--G-GGG-CUC--UC-G
+CMS1701      G---C--G-AGC-CCG--UC-G
+CMS1799      C---C--G-GGC-CCC--UC-G
+CMS0541      G---A--G-CGG-CCU--UC-G
+CMS2452      U---G--C-GGG-CCG--UC-G
+CMS2512      C---G--G-GGG-CCG--UC-G
+CMS0087      C---G--U-GGC-UUG-AGU-G
+CMS0761      G---C--C-GGG-AGC--UCAG
+CMS1199      C---G--C-CCC-CUC--CU-G
+CMS2807      G---G--C-GCC-CGG-ACC-G
+CMS0112      G---G--C-GGC-GGG--CC-G
+CMS2122      C---C--G-CGC-CCG--AC-G
+CMS2343      G---G--C-GGG-GGC--UC-C
+CMS1179      G---U--C-CGG-CCC--UC-C
+CMS1778      C---G--G-GGC-CCU--UC-G
+CMS0573      A---G-CG-CGG-CGG--UG-U
+CMS2440      G--GG--C-GGC-GCC--CC-U
+CMS0926      C---C--G-GGC-CCC--UC-G
+CMS2747      C---C--C-GGC-UCC--UUCG
+CMS0176      G---A--G-CGG-CCC--UUGG
+CMS1755      C---G--G-GGC-CCG--UC-G
+CMS1818      C---C--G-GGC-CCU--CC-G
+CMS2727      G---G--U-CAG-GGG--GC-G
+CMS0528      A---C--C-GGG-CCC--UUCG
+CMS1497      C--CC--C-GGG-CCC--UC-G
+CMS2433      C---C--G-CGU-CCC-CUC-U
+CMS2414      C---C--G-GCC-CCG--CC-G
+CMS2069      G---C--C-GGG-CCG--UC-G
+CMS1033      G---C--G-GGU-CCG-CUC-A
+CMS2555      G--GC--G-GCG-UCC--UC-U
+CMS1817      C---C--G-GGC-CCU--CC-G
+CMS0971      C---G--G-GGU-CCC--UC-U
+CMS0452      C---G--U-GGC-UUG-AGU-G
+CMS2820      C---C--G-GGC-CCG--UC-G
+CMS1128      C---U--C-CGG-CCC--UCCG
+CMS1035      G--CG--G-CUC-CCC--UC-C
+CMS0002      C---G--U-GGC-UCG-AGU-G
+CMS1984      C---G--G-GGG-CGU--UCUU
+CMS0558      C--CG--G-UCC-CCG--UCGC
+CMS0727      C---G--A-CCC-GCC--UC-G
+CMS1558      G---A--C-GCC-CCA--UC-C
+CMS0935      G---U--G-CCG-GCA--GC-G
+CMS2595      U---G--C-GGG-CCG--UC-G
+CMS1871      C---G--G-CCG-UGC--UC-C
+CMS1983      A---U--C-CGC-CCU--UC-G
+CMS0045      C---G--G-CGG-CCG--GC-G
+CMS1897      G---G--C-CGG-GCG--UC-G
+CMS2767      G---C--C-GGC-CUC--UC-G
+CMS1614      U---C--C-GGC-CGC--UCCG
+CMS1748      A---G--G-GGG-CGC--UU-C
+CMS2819      C---C--G-GGC-CCG--UC-G
+CMS1749      A---G--G-GGG-CGC--UU-C
+CMS0396      C---G--G-CGG-CCG--UC-G
+CMS0695      G---A--C-CGG-CUU--UC-G
+CMS0613      C---G--U-GGC-UUG-AGU-G
+CMS0693      G---G--C-CGG-GCA--UC-G
+CMS1004      C---G--C-GGG-UCG--GC-U
+CMS2911      G---U--G-GCG-GCG--UC-G
+CMS0034      A---G--C-GGG-GCC--GU-G
+CMS0241      C---G--C-CGC-CUC--UC-C
+CMS1499      G---A--C-CGC-CCC--UC-C
+CMS2586      ---UC--C-GGC-CCC--UC-G
+CMS0262      C---C--C-GCC-GCC--UC-G
+CMS1645      C---G--G-GCC-CUG--CU-G
+CMS2674      G---C--A-CCU-CCC--CU-C
+CMS3040      G---C--C-CGC-ACC--CCGU
+CMS2974      G---G--A-CGGGCCG--UC-G
+CMS1183      G---A--U-GCG-UCGGCGC-C
+CMS0139      G---C--C-GGG-CCC--UCCG
+CMS0301      A---C--C-GCC-CCU-ACC-G
+CMS0821      ---GU--C-CGG-CCG--UC-G
+CMS0037      C---G--U-GGC-UUG-AGU-G
+CMS1178      G---U--C-CGG-CCC--UC-C
+CMS2804      G---G--G-GCC-CGA--UC-G
+CMS2225      G---C--G-GCG-GCG--UC-G
+CMS2129      C---G--U-GGC-UUG-AGU-G
+CMS0010      G--CC--C-GGG-CCU--UC-G
+CMS0751      G---G--A-GGG-CCC--UC-G
+CMS1479      C---G--U-GGC-UUG-AGU-G
+CMS0609      C---G--G-CCG-UCG--UC-G
+CMS0719      ----G--C-CGC-CUG---C-C
+CMS1634      C---C--G-UGG-CCG--UC-G
+CMS2773      C---G--C-GGG-CCC--UC-C
+CMS3111      A---C--U-GGG-CCU--UCUG
+CMS2456      G---C--G-GGC-GGA--UC-G
+CMS0566      G---C--G-GGG-CCU--UC-U
+CMS2282      A---C--G-CCC-GCC--UCCG
+CMS1500      G---A--C-CGC-CCC--UC-C
+CMS2869      C--UG--C-GGG-GCC--GU-G
+CMS0315      G---G--G-GAC-GGC-GUC-G
+CMS0140      G---C--C-GGG-CCC--UC-C
+CMS0013      G---A--C-GGG-CUC--UUCU
+CMS2589      C---G--U-GGC-UUG-AGU-G
+CMS1631      A---U--G-CGC-CCU--UC-G
+CMS1354      C---G--C-GGG-CCG--UC-G
+CMS1653      G---G--C-GGC-GCC---C-G
+CMS3042      G--AC--G-CGG-CCG--UC-G
+CMS0772      A---C--C-CGG-GCU--CC-C
+CMS1258      C---G--U-GGC-UUG-AGU-G
+CMS0071      G--AC--C-CGG-GCA--UCUG
+CMS2800      C---C--G-GGC-CGU--UC-G
+CMS1503      C---G--G-CGG-GCC--UC-G
+CMS1774A     G-----CC-GGC-CCC--UC-G
+CMS0366      G---G--C-GGG-CUC--UC-G
+CMS0584      G---C--C-GUC-CCC--UC-C
+CMS2117      G--GU--C-CGC-CC--UUC-G
+CMS1580      C---G--G-CGG-CCG--UC-G
+CMS1539      G--UG--C-GGG-GCG--UC-G
+CMS2213      G---C--G-CGG-GCG--GC-G
+CMS1504      C---G--G-CGG-GCC--UC-G
+CMS1158      C---G--U-GGC-UUG-AGU-G
+CMS2374      G---A--C-CGG-GGC---C-G
+CMS3011      G---A--------------C-G
+CMS1396      G--CG--C-GCG-UC--GUC-G
+CMS2592      C---C--C-GGG-AUG--UC-G
+CMS2072      G-----AC-CGG-GCC--UC-U
+CMS2764      C---C--G-CCG-CCG--UC-A
+CMS1113      G---C--C-CGG-CCG--UC-C
+CMS2018      C---C--C-GGC-CUC--CC-G
+CMS2680      C---C--G-GGG-CCG--UCCG
+CMS0180      A---C--C-CGU-CCC--UC-C
+CMS2948      G---G--G-CGG-CCG---C-G
+CMS1843      G---A--G-CGG-GGC---C-C
+CMS0114      C---G--C-GGG-CGG--UC-C
+CMS0171      C---C--G-CCC-GCG--UC-G
+CMS1960      G---G--G-CGC-CCU--UC-G
+CMS1041      G---C--C-CAG-CGA---C-G
+CMS1845      C---G--G-GUA-GCC--UC-G
+CMS1215      G---A--U-CGG-CCG--CUCU
+CMS2748      C---C--C-GGC-UCC--UUUG
+CMS0096      GUGAG--G-CGG-GCG--UC-G
+CMS2613      C---G--G-CGG-CCC--UC-G
+CMS1141      C---G--G-CGC-UCC--UCCG
+CMS0001      G---U--C-CGG-CCC---C--
+CMS0210      C---G--U-GGC-UUG-AGU-G
+CMS3010      G---G--G-CGC-CCG--UCCG
+CMS2159      C---G--U-GGC-UUG-AGU-G
+CMS2001      C---G--U-GGC-UUG-AGU-G
+CMS1904      A---U--C-CAC-CCC--GC-G
+CMS0771      G---C--C-CGC-CCG--UC-G
+CMS0890      G---C--C-CGC-GCC-CUC-C
+CMS2340      C---G--U-GGC-UUG-AGU-G
+CMS1045      G--CG--C-CGU-CCG--CC-G
+CMS1135      G---A--C-GGC-UCC--UC-G
+CMS1301      G---U--G-CGG-CCA--UCUG
+CMS0644      C---G--U-GGC-UUG-AGU-G
+CMS0240      C---G--C-CGC-CUC--UC-C
+CMS0258      G---G--C-CGG-AGG--GC-G
+CMS3009      C---C--U-C-G-UGC--GC-U
+CMS2511      C---G--G-GGG-CCG--UC-G
+CMS1692      C---G--G-CGG-CUG--CC-C
+CMS0907      G---C--C-CCG-CCC---U-G
+CMS1262      G---C--G-CAU-CCC--AU-G
+CMS1747      C---U-CG-GGU-CCG--ACUG
+CMS1986      G---C--G-GGC-GGC--UC-G
+CMS1164      G---C--C-CGC-CCG--UC-G
+CMS0600      C---G--U-GGC-UUG-AGU-G
+CMS1903      C---C--G-GUC-GCG--CC-C
+CMS0270      ----C--G-GGG-CCC--UU-C
+CMS2211      G---G-CC-GGG-CUC--GU-C
+CMS2401      A---C--C-CGC-CCG--CC-G
+CMS1260      G---U--C-G----AC-CUC-G
+CMS2834      C---G--G-CCG-CCG---C-G
+CMS2226      C---G--U-GGC-UUG-AGU-G
+CMS0725      C---C--C-GGG-CCG--UC-G
+CMS2683      G---G-CC-GGG-GCC--GU-C
+CMS1208      A---C--G-CAC-CCC--GC-C
+CMS0264      C---G--G-CCU-GCG--UC-G
+CMS1324      G---U--G-CGG-GGC--UC-C
+CMS3024      ----C--G-GGG-GCG--GC-G
+CMS1644      C---U--G-GCC-CUG--CU-G
+CMS2649      G---U--G-GGC-ACG--UC-C
+CMS1637      C---G--U-GGC-UUG-AGU-G
+CMS1173      A---C--G-CCC-UCA--CC-C
+CMS0988      G---G--C-GGC-UCC--UC-G
+CMS1727      G---C--C-CGG-CCG--UC-G
+CMS0170      C---U--C-GGG-GCC--UU-C
+CMS0246      G---C--C-ACG-GC---UC-G
+CMS2714      G---G--G-CGG-GCG--UC-C
+CMS1350      G---G--G-CGG-CGU--UC-A
+CMS3069      G---A--C-GCC-CCC--GC-U
+CMS0542      C---G--U-GGC-UUG-AGU-G
+CMS1007      C---G--G-GAG-GCG--UC-G
+CMS0070      G--GC--C-CGG-GCA--UCGU
+CMS0899      G---G--C-C--------GC-C
+CMS0526      G---C--C-GGG-CUC--UC-G
+CMS0280      C---C--G-GCC-CUU--UC-G
+CMS1380      C---C--C-GCG-UCG--CC-G
+CMS1226      C---G--C-GCG-GGA--CC-C
+CMS1815      ----G--C-CCG-CCC--UU-G
+CMS2255      G---G--G-CGC-CCG--UC-G
+CMS0155      G---G--G-CCG-CCC--GC-C
+CMS0136      U---G--C-AGG-GCC--CC-U
+CMS1495      A---U--C-CGG-GCC---CGC
+CMS1996      A---G--G-GCG-GCC--UCCG
+CMS0563      G---C--A-CCC-GGG--CC-G
+CMS1206      A---C--G-GGC-GGG--GC-G
+CMS2536      C---U--G-UCC-GCG--UC-G
+CMS1457      G--CG--G-CGC-CCG--UC-G
+CMS2757      G---G--A-CCG-CCC--GC-U
+CMS0598      G--CA--C-CCG-CCC--UC-C
+CMS1680      G---A--G-GGG-UGC--UC-U
+CMS1687      C---G--G-CCG-UCG--UC-G
+CMS1435      G---G--G-CGG-GCG--UC-G
+CMS1907      C---U--G-CCG-UCC--UC-C
+CMS1296      C---A--G-CGC-CCC-UGC-G
+CMS0497      G---A-CC-CGC-CCG--UC-G
+CMS1769      C---C--G-GGC-CUC--UCCG
+CMS2571      G---C--G-GAU-CCG---C-U
+CMS1376      C---U--C-G--------CC-G
+CMS1420      C---G--G-CCG-CCC--UC-A
+CMS0655      C---G--G-GCG-GCG--UC-G
+CMS0678      G---C--C-CGG-CUC--UC-G
+CMS2568      G---A--U-GCG-CUG-GCC-G
+CMS1446      G---U--G-CCC-GCC--CC-G
+CMS1872      C---G--G-CCG-UGC--UC-C
+CMS3044      G---C--G-CGG-CCG--UC-G
+CMS0608      G---A--C-CGG-CCG--UC-G
+CMS2509      G--AC--G-AGG-CCG--UC-G
+CMS2914      C---G--G-CGC-GCG---CAU
+CMS1889      G---U--G-CCG-GCC--UC-U
+CMS1598      ----U--C-GGG-GCC--UC-U
+CMS3096      C---C--G-CCG-CCA--UC-G
+CMS2862      G---G--U-CCC-CCC--GCCG
+CMS1389      G---G--C-UCC-CUG--UC-G
+CMS1153      C--CG--C-GGC-GCG--CU-G
+CMS2190      C---G--U-GGC-UUG-AGU-G
+CMS0679      C---G--G-CUC-UCG--UC-G
+CMS2856      C---G--A-CGG-CCG-GGCCG
+CMS0552      C---C--G-GGC-CCG--UC-G
+CMS0688      G---G--C-GGC-GGC--GU-C
+CMS0932      C---G--U-GGC-UUG-AGU-G
+CMS1901      U---G--C-GGC-CCC--UCUG
+CMS1722      G---G--U-CGC-CGC--CC-G
+CMS0174      C---G--G-CGG-CCG--UC-G
+CMS2577      G---G--G-CGG-CCC--UC-G
+CMS0572      G---C--G-UGC-CCC--UCUC
+CMS1593      G---A--C-CGG-GCG--UC-G
+CMS1619      G---G--C-GGC-CCG--UC-G
+CMS2813      A---U--A-ACG-ACG--AU-G
+CMS0116      G---U--C-GGC-GCC--CU-G
+CMS0651      G---G--C-GCG-GCG--UC-G
+CMS0577      G---G--G-CGG-GCG--UU-G
+CMS1214      G---A--C-CGG-CCG-CUU-U
+CMS2799      G---C--C-GUC-CCG--UCGU
+CMS0467      A---U--C-GAU-CGA--UC-A
+CMS0549      C---G--G-GCC-GCG---C-C
+CMS0423      C------------GCC--UC-G
+CMS0855      C---U--C-CUC-CUC--CC-C
+CMS0154      U---C--G-CGG-GCC--UC-G
+CMS1119      C---G--A-GGA-GCA---CGG
+CMS0500      A---G--C-CCG-GCC--UC-G
+CMS0738      C---G--U-GGC-UUG-AGU-G
+CMS1923      C---C--G-UCC-GCC-UUC-G
+CMS1285      G---C--G-GCG-GGC--GC-G
+CMS2886      C---G--U-GGC-UCG-AGU-G
+CMS1223      G---G--C-GCG-CCG--UUAG
+CMS2167      G---G--G-GGC-GCG--UC-G
+CMS1643      C---C--G-GCC-UCC--UU-C
+CMS0987      C---G--G-U--------UC-U
+CMS1086      G---U--C-G--------CC-G
+CMS0975      G---A--G-UGC-CCG--CC-G
+CMS0162      G---G--C-CGC-CCG-UUC-G
+CMS0439      G---C--G-GGC-CGU--UC-G
+CMS2564      ---GU--C-GGG-CCG--UU-C
+CMS0654      G---G--C-CGG-GCG--UC--
+CMS1291      G---G--G-CGC-CGC--GC-G
+CMS2973      G---G--C-G-G-CCG--UC-G
+CMS0009      G---U--A-CCU-GCC---C-G
+CMS1442      G---GGAG-CGC-GGC--GC-U
+CMS0920      C---C--C-UCC-CGG--GC-G
+CMS0445      C---G--U-GGC-UUG-AGU-G
+CMS1171      G---U--G-CGG-CCC--UC-G
+CMS1400      G---G--C-CGG-UCG--CC-G
+CMS0585      C---C--G-UCC-CCU--CC-U
+CMS2857      C---G--A-CGG-CCG-UGCGG
+CMS0505      G---G--A-GGG-GCG--UC-G
+CMS0326      G---U--C-G----UC-CGC-G
+CMS1236      C---G-GC-CGC-UUC--GC-C
+CMS1600      G---G--C-CGG-CCA--UC-U
+CMS1456      C---G--G-CGG-GC--AUC-G
+CMS1721      G---G--C-CGC-CGC--UC-G
+CMS2737      G---C--C-GGU-CGG--GCUG
+CMS2082      A---U--G-GGG-CC---UC-G
+CMS2290      G---G--G-UCC-CGG--CC-G
+CMS2422      C---G--G-CGC-CCG--UC-G
+CMS0450      G---C--G-GGC-CCG---C--
+CMS2765      G---G--A-CCG-CCG--CC-G
+CMS2466      G---G--C-GGG-GCG--UCUG
+CMS2624      A---U--------CCG---C-U
+CMS1169      G---U--A-CCC-GCG--AG-G
+CMS0498      U---G--C-CGG-GC----C-C
+CMS2749      G---C--C-GCG-GCA--GCAG
+CMS2759      C---G-CC-CGG-CCG--UU-C
+CMS2635      G--AC--C-CGC-CCC--UC-C
+CMS0134      C---G--U-CGA-CCG--GC-C
+CMS3048      G---U--C-GGC-CGC--CC-G
+CMS1491      G---G--C-CGU-CCC--CC-U
+CMS2576      G---G--A-CGG-CCC--UC-G
+CMS1230      G---G--G-CCG-CCC--GC-G
+CMS0941      G---G--C-GCG-GCG--GCCG
+CMS1898      G---A--C-CGG-GCG--UC-G
+CMS2425      G---C--G-GGU-GCG--UC-G
+CMS1295      C---A--G-CGC-CCC---U-G
+CMS1353      C---G--C-GGG-CCG--UC-G
+CMS0181      A---C--C-CGG-CCC--UC-C
+CMS0397      G---G--U-CGG-CGG---C-C
+CMS1443      G---C--G-CGG-CGC--UC-G
+CMS1679      G---A--G-GGG-UGC--UC--
+CMS2171      C---G--C-CCG-GCC--UC-C
+CMS2625      ----C--G-GGC-CCU--UC-C
+CMS1020      C---G--U-GGC-UUG-AGU-G
+CMS2798      G---C--C-GUC-CCG--UCUU
+CMS1338      G---A--C-CCG-CCG---C-G
+CMS1297      C---G--G-CGG-CCG--GUAG
+CMS2823      C---C--G-UCG-CCG---C-G
+CMS1136      G---G--C-GGC-UCC--UC-G
+CMS2612      G---G--U-CCC-GGA--CCUG
+CMS0529      G---G--U-GCC-GCG--UC-G
+CMS1993      C---G--U-CGC-CGG--GC-G
+CMS2662      G---G--G-CCG-GGC--UCUU
+CMS2170      C---G--C-CCG-GCC--UC-C
+CMS1880      -------------ACC--UC-G
+CMS1466      C--AG--G-CGG-CCG---C-G
+CMS1425      G---C--C-GGC-ACG--GC-U
+CMS1267      G---G--U-A---CCG--GC-C
+CMS1702      G---C--C-ACC-CCC--UU-C
+CMS1434      G---A--G-CGG-GCG--UC-G
+CMS2313      C---A--C-CGC-CCA--CC-C
+CMS1482      G--UG--G-ACG-CCC--UC-C
+CMS1971      G---U--G-GGG-CCG--UC-G
+CMS2535      G--CC-CG-UCC-GCG--UC-G
+CMS1111      C---G--C-CGC-GGA--UC-C
+CMS0596      A---C--C-CGC-CCC-CUC-G
+CMS0415      C---C--C-GGG-CCG--UC-G
+CMS2676      ----G--C-CCG-UCC---C-G
+CMS0448      C---C--G-GGC-CGG--AC-U
+CMS1989      G---G--C-CGC-CCG---C-G
+CMS0640      C---G--G-CGG-AUG--CCUC
+CMS1185      G---G--C-GGC-UCG--UC-U
+CMS1279      C---A--C-C---CCC--UC-C
+CMS2203      G---G--C-G--------UC-C
+CMS1242      C---C--C-GGG-AUG--UC-G
+CMS1430      G---G--C-UUU-UUA--UU-U
+CMS1939      G---G--C-CGG-CCG--UC-G
+CMS0946      G---G--U-GCG-GCC--GG-G
+CMS1127      C---U--C-CGG-CCU--UC-G
+CMS2311      C---C--C-CCG-CCG--ACGU
+CMS1525      C--GG--G-CCC-CGC--CC-C
+CMS0940      C---C--G-GUC-CCG--UC-G
+CMS0997      A---G--C-GGC-CGG-GCC-G
+CMS0208      G--GC--C-CGG-CCC--UC-G
+CMS0606      G---G--C-CCG-CGGCGUC-C
+CMS1900      U---G--C-GGC-CCC--UCCG
+CMS2776      C---G--G-CGA-CCG--CG-U
+CMS2058      G---G--U-G----AG-UUC-C
+CMS2828      ----G--C-CGC-UCG--UC-G
+CMS2431      U---C--G-GGG-CG---UC-C
+CMS1677      G---G--G-CGG-GCG--UC-G
+CMS0901      C---C--GGGCC-GG--GGC-G
+CMS0835      C---C--G-GGG-GCG--UC-G
+CMS0317      G---U--C-GGG-GGC--UC-U
+CMS1507      A---U--C-CGG-CCU--CC-G
+CMS0633      G--AC--G-CGC-CCG--GCCG
+CMS0576      G---G--G-CGG-GCG--UC-G
+CMS0701      G--GC--G-GGG-CG--CGC-G
+CMS2566      C---U--C-G----UG-AUC-G
+CMS1176      G---C--G-CGG-CGG--CC-G
+CMS1278      C---A--U-C---CCC--UC-C
+CMS0125      G---G--G-CGG-GCG--GU-G
+CMS0184      G---U-GG-CGG-AUC--GC-G
+CMS0506      G---G--A-GGG-GCG--UC-G
+CMS0398      G---C--C-CGG-CCA--CC-U
+CMS2113      ----G--G-CGG-CCU--UC-U
+CMS1016      C---G--C-GGC-UGG--GC-G
+CMS0399      C---G--C-CCG-CCC--CU-C
+CMS0132      A---G--C-CAGAACC--UCUA
+CMS1633      C---C--G-CGG-CCG--UC-G
+CMS0473      C---G--G-GGC-CCU--UC-G
+CMS0667      G---C--C-G---------C-G
+CMS0129      G---G--G-G--------UC-G
+CMS1726      G---C--C-CGG-CCG--UC-G
+CMS1788      A--GC--G-GGG-GCG--UC-G
+CMS2719      C---A--------CCC--UC-A
+CMS1401      G---G--G-CGG-CCC--UC-G
+CMS0152      G---G-GG-CCG-UC--AUC-C
+CMS0078      G---U--C-GGC-CCG--UC-C
+CMS1363      A---U--C-GGC-CCC--UU-C
+CMS0365      G---G--U-GGG-CUC--UC-G
+CMS2413      C---C--G-GCC-CCG--CC-G
+CMS1187      G---G--A-CGG-GCA--UCCG
+CMS1402      G---G--G-CGG-CCC--UC-G
+#=GC SS_cons >...>..>.>>>.>>>..>>.>
+#=GC RF      g...g..c.cGg.CCc..UC.G
+//

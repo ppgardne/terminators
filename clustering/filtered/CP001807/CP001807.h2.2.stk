@@ -1,0 +1,994 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS Rmar_0756 WT 1.13
+#=GS Rmar_0609 WT 1.18
+#=GS Rmar_2783 WT 0.66
+#=GS Rmar_1078 WT 1.18
+#=GS Rmar_1386 WT 1.09
+#=GS Rmar_1479 WT 0.91
+#=GS Rmar_1810 WT 0.69
+#=GS Rmar_2782 WT 0.66
+#=GS Rmar_1359 WT 0.89
+#=GS Rmar_0803 WT 1.55
+#=GS Rmar_1112 WT 0.81
+#=GS Rmar_2049 WT 0.99
+#=GS Rmar_0741 WT 1.20
+#=GS Rmar_1687 WT 1.10
+#=GS Rmar_0840 WT 1.10
+#=GS Rmar_2210 WT 0.85
+#=GS Rmar_1231 WT 0.83
+#=GS Rmar_0876 WT 0.84
+#=GS Rmar_2128 WT 0.74
+#=GS Rmar_0924 WT 0.73
+#=GS Rmar_2506 WT 0.92
+#=GS Rmar_1430 WT 1.47
+#=GS Rmar_0746 WT 1.01
+#=GS Rmar_1761 WT 1.22
+#=GS Rmar_2424 WT 0.95
+#=GS Rmar_0923 WT 0.73
+#=GS Rmar_2796 WT 0.87
+#=GS Rmar_2639 WT 0.84
+#=GS Rmar_0877 WT 0.99
+#=GS Rmar_2605 WT 0.74
+#=GS Rmar_1811 WT 0.69
+#=GS Rmar_1937 WT 0.76
+#=GS Rmar_0142 WT 1.30
+#=GS Rmar_1071 WT 1.31
+#=GS Rmar_1394 WT 0.83
+#=GS Rmar_0942 WT 1.00
+#=GS Rmar_1292 WT 0.96
+#=GS Rmar_1918 WT 0.87
+#=GS Rmar_0969 WT 0.84
+#=GS Rmar_1556 WT 0.82
+#=GS Rmar_1863 WT 0.97
+#=GS Rmar_2133 WT 0.96
+#=GS Rmar_1698 WT 1.05
+#=GS Rmar_1499 WT 1.13
+#=GS Rmar_1895 WT 1.09
+#=GS Rmar_0248 WT 0.97
+#=GS Rmar_1825 WT 0.80
+#=GS Rmar_1823 WT 1.15
+#=GS Rmar_1295 WT 0.88
+#=GS Rmar_0665 WT 1.21
+#=GS Rmar_2069 WT 0.93
+#=GS Rmar_0990 WT 0.78
+#=GS Rmar_0116 WT 1.08
+#=GS Rmar_2001 WT 1.02
+#=GS Rmar_1748 WT 1.32
+#=GS Rmar_0411 WT 0.67
+#=GS Rmar_1613 WT 0.90
+#=GS Rmar_1756 WT 1.15
+#=GS Rmar_2194 WT 0.89
+#=GS Rmar_0247 WT 0.88
+#=GS Rmar_1120 WT 0.85
+#=GS Rmar_0879 WT 1.01
+#=GS Rmar_2560 WT 1.02
+#=GS Rmar_2354 WT 1.22
+#=GS Rmar_2223 WT 1.17
+#=GS Rmar_1671 WT 1.04
+#=GS Rmar_1452 WT 1.35
+#=GS Rmar_0077 WT 0.82
+#=GS Rmar_0780 WT 1.19
+#=GS Rmar_1614 WT 0.90
+#=GS Rmar_0312 WT 1.19
+#=GS Rmar_2730 WT 0.77
+#=GS Rmar_0410 WT 0.67
+#=GS Rmar_0934 WT 1.06
+#=GS Rmar_2539 WT 0.93
+#=GS Rmar_2169 WT 0.82
+#=GS Rmar_1869 WT 1.21
+#=GS Rmar_0668 WT 1.25
+#=GS Rmar_0916 WT 0.93
+#=GS Rmar_2177 WT 0.89
+#=GS Rmar_1109 WT 1.07
+#=GS Rmar_1829 WT 1.15
+#=GS Rmar_0685 WT 1.18
+#=GS Rmar_0935 WT 1.09
+#=GS Rmar_1855 WT 1.10
+#=GS Rmar_0864 WT 1.17
+#=GS Rmar_0870 WT 1.09
+#=GS Rmar_1856 WT 0.96
+#=GS Rmar_0089 WT 1.08
+#=GS Rmar_1111 WT 0.81
+#=GS Rmar_1749 WT 1.08
+#=GS Rmar_1197 WT 0.75
+#=GS Rmar_1158 WT 1.26
+#=GS Rmar_1834 WT 0.97
+#=GS Rmar_0933 WT 1.55
+#=GS Rmar_1799 WT 1.18
+#=GS Rmar_2455 WT 1.05
+#=GS Rmar_2170 WT 0.76
+#=GS Rmar_0061 WT 1.24
+#=GS Rmar_1081 WT 1.04
+#=GS Rmar_2144 WT 1.21
+#=GS Rmar_0097 WT 0.80
+#=GS Rmar_1296 WT 0.84
+#=GS Rmar_1312 WT 1.25
+#=GS Rmar_2209 WT 1.07
+#=GS Rmar_0524 WT 1.01
+#=GS Rmar_1662 WT 1.02
+#=GS Rmar_0989 WT 0.65
+#=GS Rmar_2149 WT 1.02
+#=GS Rmar_1403 WT 0.84
+#=GS Rmar_2088 WT 1.33
+#=GS Rmar_0983 WT 0.79
+#=GS Rmar_2731 WT 0.69
+#=GS Rmar_0726 WT 0.75
+#=GS Rmar_0748 WT 0.84
+#=GS Rmar_1915 WT 0.97
+#=GS Rmar_2604 WT 0.74
+#=GS Rmar_1480 WT 0.91
+#=GS Rmar_1765 WT 1.17
+#=GS Rmar_1225 WT 1.12
+#=GS Rmar_1705 WT 0.91
+#=GS Rmar_1012 WT 0.82
+#=GS Rmar_0920 WT 0.82
+#=GS Rmar_0042 WT 1.08
+#=GS Rmar_2129 WT 0.65
+#=GS Rmar_1824 WT 0.79
+#=GS Rmar_2779 WT 0.80
+#=GS Rmar_0602 WT 1.19
+#=GS Rmar_0372 WT 0.98
+#=GS Rmar_1371 WT 0.95
+#=GS Rmar_1732 WT 1.09
+#=GS Rmar_0883 WT 1.14
+#=GS Rmar_0326 WT 1.26
+#=GS Rmar_0473 WT 0.99
+#=GS Rmar_1873 WT 1.13
+#=GS Rmar_1358 WT 1.14
+#=GS Rmar_0246 WT 0.88
+#=GS Rmar_1196 WT 0.75
+#=GS Rmar_0003 WT 1.29
+#=GS Rmar_0328 WT 0.97
+#=GS Rmar_1209 WT 0.90
+#=GS Rmar_0988 WT 1.00
+#=GS Rmar_0267 WT 1.09
+#=GS Rmar_0354 WT 0.96
+#=GS Rmar_0477 WT 1.38
+#=GS Rmar_1238 WT 0.98
+#=GS Rmar_0117 WT 0.85
+#=GS Rmar_1213 WT 1.07
+#=GS Rmar_0725 WT 0.75
+#=GS Rmar_2561 WT 1.12
+#=GS Rmar_1974 WT 1.00
+#=GS Rmar_0434 WT 1.12
+#=GS Rmar_2192 WT 1.06
+#=GS Rmar_1972 WT 0.91
+#=GS Rmar_1365 WT 0.97
+#=GS Rmar_2696 WT 0.89
+#=GS Rmar_1800 WT 1.25
+#=GS Rmar_0459 WT 0.77
+#=GS Rmar_0562 WT 0.98
+#=GS Rmar_0099 WT 0.97
+#=GS Rmar_1672 WT 0.95
+#=GS Rmar_0438 WT 0.93
+#=GS Rmar_0332 WT 1.15
+#=GS Rmar_1344 WT 1.08
+#=GS Rmar_1733 WT 0.77
+#=GS Rmar_2201 WT 1.02
+#=GS Rmar_1656 WT 1.28
+#=GS Rmar_0525 WT 1.00
+#=GS Rmar_2196 WT 1.00
+#=GS Rmar_1444 WT 1.09
+#=GS Rmar_0718 WT 0.89
+#=GS Rmar_0143 WT 1.13
+#=GS Rmar_2720 WT 0.97
+#=GS Rmar_0747 WT 0.84
+#=GS Rmar_2640 WT 0.84
+#=GS Rmar_1453 WT 1.04
+#=GS Rmar_1393 WT 0.86
+#=GS Rmar_1347 WT 1.26
+#=GS Rmar_2380 WT 1.05
+#=GS Rmar_0781 WT 1.05
+#=GS Rmar_0991 WT 0.96
+#=GS Rmar_2407 WT 1.06
+#=GS Rmar_0831 WT 0.92
+#=GS Rmar_2193 WT 0.69
+#=GS Rmar_1688 WT 1.21
+#=GS Rmar_2255 WT 0.96
+#=GS Rmar_2471 WT 1.15
+#=GS Rmar_1494 WT 0.99
+#=GS Rmar_1680 WT 0.82
+#=GS Rmar_2370 WT 1.01
+#=GS Rmar_2465 WT 1.11
+#=GS Rmar_2101 WT 0.83
+#=GS Rmar_2121 WT 1.01
+#=GS Rmar_1564 WT 1.01
+#=GS Rmar_0504 WT 0.92
+#=GS Rmar_1837 WT 1.05
+#=GS Rmar_0008 WT 0.78
+#=GS Rmar_2540 WT 0.93
+#=GS Rmar_2413 WT 0.90
+#=GS Rmar_2084 WT 0.98
+#=GS Rmar_0641 WT 0.95
+#=GS Rmar_0305 WT 1.08
+#=GS Rmar_0872 WT 0.93
+#=GS Rmar_0098 WT 0.79
+#=GS Rmar_2178 WT 0.96
+#=GS Rmar_1936 WT 0.76
+#=GS Rmar_0948 WT 1.03
+#=GS Rmar_0624 WT 0.89
+#=GS Rmar_2628 WT 1.06
+#=GS Rmar_0720 WT 0.79
+#=GS Rmar_2000 WT 1.21
+#=GS Rmar_2542 WT 1.19
+#=GS Rmar_1364 WT 0.77
+#=GS Rmar_1401 WT 0.87
+#=GS Rmar_0084 WT 1.27
+#=GS Rmar_1628 WT 1.15
+#=GS Rmar_2757 WT 1.29
+#=GS Rmar_1928 WT 1.14
+#=GS Rmar_1819 WT 0.77
+#=GS Rmar_1014 WT 1.02
+#=GS Rmar_0308 WT 1.27
+#=GS Rmar_0284 WT 1.09
+#=GS Rmar_0429 WT 1.46
+#=GS Rmar_0330 WT 0.91
+#=GS Rmar_2719 WT 0.86
+#=GS Rmar_0904 WT 1.32
+#=GS Rmar_0133 WT 1.01
+#=GS Rmar_1718 WT 0.82
+#=GS Rmar_2685 WT 1.18
+#=GS Rmar_0274 WT 1.33
+#=GS Rmar_1500 WT 1.35
+#=GS Rmar_1767 WT 0.93
+#=GS Rmar_0996 WT 0.99
+#=GS Rmar_0390 WT 1.30
+#=GS Rmar_2785 WT 1.10
+#=GS Rmar_2282 WT 1.26
+#=GS Rmar_1763 WT 1.25
+#=GS Rmar_1496 WT 0.91
+#=GS Rmar_2530 WT 0.90
+#=GS Rmar_2805 WT 0.85
+#=GS Rmar_0613 WT 1.08
+#=GS Rmar_2120 WT 0.93
+#=GS Rmar_1820 WT 0.93
+#=GS Rmar_2012 WT 1.01
+#=GS Rmar_0719 WT 0.89
+
+Rmar_0756    GCU-GAA-CCACAAC-----------CCGACGAAAGGCG-CCU-UU-CCC
+Rmar_0609    GCC-GGU-CA--U----------------GGCGGAAGGC-CUC-CG-GUG
+Rmar_2783    GCC-GAA-A-----------------------GGGAGGG-GGC-GC-CCA
+Rmar_1078    AGC-GAU-CGUAGCG-----------CGCGACAGGACGG-GGU-AC-CGC
+Rmar_1386    UUC-GAU-CU-------------------CUUAUUACGG-GAC-GC-CCG
+Rmar_1479    UUCUGAA--GCA-----------------AAAACGCGCG-GUC-CC-UCC
+Rmar_1810    GAUAGCA-CAGA--------------------AAAAAGC-CCC-AU-CCC
+Rmar_2782    GGCUGGA-UUG------------------AAAGGGAGGG-GGC-GC-CCA
+Rmar_1359    ACCUGGA-A-AA-----------------CAGAAAGGGC-GACGGA-CCG
+Rmar_0803    GGCACGU--UAC-------------------CGGGGGCC-AAU-GA-UAG
+Rmar_1112    UCC-AAA-A-A-------------------UGCGGGGGC-CGG-UU-CCG
+Rmar_2049    GUC-GAU-CC--CG-------------ACAAAAAAGGGC-GAC-C----A
+Rmar_0741    UCCUGAA-A-AA-----------------CACGGGGUGG-AGC-AG-UCU
+Rmar_1687    UCCUGAU-CGGAUACGCUG----AGCGACUUCAAGGUAA-GGG-CA-CGG
+Rmar_0840    UUUUGAA-UAA-A----------------CCAACCGUGG-GGG-CA-CGC
+Rmar_2210    UGU-GAA--GCU--------------------GGAAGCC-CGG-GU-CUG
+Rmar_1231    UCCUGAA--UGC--------------------CAAAGCC-CGG-CC-GGU
+Rmar_0876    UCCUGCA-A-AC-------------------AAAAAGGC-CGU-GG-CGC
+Rmar_2128    ACCUGCU-UCGCA---------------ACAAAAAGCGG-GGC-GA-CCG
+Rmar_0924    GGA-GAU--GGA--------------------AAAAGCC-GGG------U
+Rmar_2506    UGC-GAU-A-ACAGG------------CGGAAGAAAGGG-GCU-UC-GGG
+Rmar_1430    GCC-GAU--GCC--------------------CUGUGAU-GGG-C----G
+Rmar_0746    AACAGAA--GCA-----------------AAAAAAGCGG-GG--CG-CCC
+Rmar_1761    GCGACAA----C--------------------GCACCGC-CGG-GG-CGU
+Rmar_2424    GCG-CAU-A-GU--------------------CAGACGC-GGG-UU-CCU
+Rmar_0923    GAC-AAA-UGGA--------------------AAAAGCC-GGG-------
+Rmar_2796    GCC-GGUUCC-------------------AAAGAAGGCC-CGCACG-CCC
+Rmar_2639    GCCACGG-U-A-AU--------------AAGCAGGCGGA-GGG-GU-CCG
+Rmar_0877    UACAGAU--AAA--------------------AAAGGCC-GUG-GC---A
+Rmar_2605    GUGAGCA-CGAA--------------------AAAGGGG-CGG-C----C
+Rmar_1811    GCUACAG--AAA--------------------AAAAGCC-CC--AU-CCC
+Rmar_1937    CCC-GAG--UAA--------------------AAAAGCG-GCC-CC-CCG
+Rmar_0142    GGCUAAA-AAGA--------------------AAAAACC-CUU-CG-GCG
+Rmar_1071    GCGUUGU-UG-------------------CAGGAACCGG-GGC-CG-UGG
+Rmar_1394    GCGUGUA-A-AA-----------------UGAAAAGGGG-CG--GU---U
+Rmar_0942    ACC-GCA-CGGA-----------------CAGGAAAGGC-CGC-CG-GUC
+Rmar_1292    GGUAAAU--AAA-----------------UCGACAGGGC-GGC-AA-CCU
+Rmar_1918    GCA---A-CCCC--------------------GAAGCGG-GGC-UG-CCA
+Rmar_0969    UCUUCGG-AGAA--------------------AAGGCGU-GGU-GC-CCG
+Rmar_1556    GCCUGAG-CCG-UUUA----------CCGCUCAGGAGCC-CCC-AC-CGU
+Rmar_1863    UCCAGCA--GUAAAUGCCCGGAUGUGCUUCAGAGAAGCC-CGC-GU-UCA
+Rmar_2133    GCGAAAA-CCGCAU--------------UUACGAAGGGC-CCU-GC-CGG
+Rmar_1698    GCC-GAA-UAAC-------------------CGACGGGC-AUGAA--CUG
+Rmar_1499    ACC-GCA-C-AC-------------------AAAACGGC-GCC-CG-GUU
+Rmar_1895    GAC-GUA--GG------------------AUGAACAGGC-GA--CU-CGG
+Rmar_0248    GCUUUCC--GU-A---------------ACUUGAAGGCC-CGC-GC--UA
+Rmar_1825    GCC-GCU-AUAAAA-------------ACACCAAAGCCC-CGC---ACUU
+Rmar_1823    ACC-GAU-UCGA--------------------CAGGCGG-CA--UG-CCC
+Rmar_1295    GGCUGAA-ACGA--------------------AAAACGC-CG--GA-GUU
+Rmar_0665    GAAAGGA-UAU-AA--------------AGGCAAAAAGC-CGG-C----A
+Rmar_2069    UCC-GAA-AAA-------------------GAAAAAGGC-GAC-GC-GUC
+Rmar_0990    UCC-GCG-CAAA-----------------ACAGAAAGCC-CG--AA-CCG
+Rmar_0116    GCCUGAC-CCG-G----------------CAGCCGGCCG-GAU-GU-CCC
+Rmar_2001    UCCCGAU-C-GC-----------------ACCACCGGCC-CGU-AC-GGC
+Rmar_1748    UUG-UAA-CGG-UC-------------ACAUGGCGCGGU-CUG-UC-CAC
+Rmar_0411    GAC-GCU-CCGC-----------------UAAAAAACCC-CGC-CG-UCG
+Rmar_1613    CCCUGAU-AGCC--------------------GGCGCGG-CGU-CC-CGC
+Rmar_1756    CCAUGAG-C-AC-----------------AAAGCAACCC-CGG-GA---A
+Rmar_2194    UCCUGAA-CGC-AUACGAUC-CACACCACUGGAAAAGGC-CGG-UC-CCA
+Rmar_0247    UCC-GCG-CUA------------------AAAAGAAGGC-CGC-UC-CGG
+Rmar_1120    GCCCGAU-UUUC--------------------CAGAAGC-CG--CC-CGC
+Rmar_0879    GUC-GAU-CA-------------------UGAAAAAAGC-CUU-CG-CUG
+Rmar_2560    CCCUGCA-CAU--------------------AGCGAAGC-GGC-GG-CCC
+Rmar_2354    CAG-GAU--GGA--------------------CCAGCGG-CGU-GG-UGU
+Rmar_2223    UUC-AAA-AAA--------------------AUAAGCGG-GAC-GU-CGC
+Rmar_1671    GGCUGCG-CGAC--------------------ACCGGGU-GGU-GU-CCG
+Rmar_1452    ACCUGAG--GUA--------------------CGCCUGA-GGG-AU-GUG
+Rmar_0077    GCA-GUU--GCA--------------------GAAAGCG-GCC-UG-CCG
+Rmar_0780    GGU-GAA-CCUC-------------------CCGGCGUA-CCC-CG-GCC
+Rmar_1614    GGCUGAA-ACAA-------------------AAAAGCGG-CGU-CC-CGA
+Rmar_0312    GCCUGAA--GCAG----------------GCUGCCCCCG-GAG-AG-GUA
+Rmar_2730    GCCUGAA-CCAAGAGGGU-----UUCCGUCAGAAAAGGC-CGG-CU-CCA
+Rmar_0410    GCG-GUU-CUAA-------------------AAAAACCC-CGC-CG-UCG
+Rmar_0934    GCC-CAU-A-AA-------------------AAAACCCG-CCU-GC-UCA
+Rmar_2539    CCCUGAA-AAA------------------CAAAAGCGCC-CGG-UC-CGA
+Rmar_2169    AUCUGGU--GUAAA--------------AACAGAAAGGC-CGG-GC---C
+Rmar_1869    UCC-GCG-AAA-U---------------CCUUGCCCGGC-GGC-GC-CGC
+Rmar_0668    UGCUGCU-ACAU-------------------AGAAGCGA-AG--CU-UUC
+Rmar_0916    GACUGAG-CCGAAAAGACC---CACCUGAACGAAGCGGA-GGU-GC-CGG
+Rmar_2177    GGGAGGU-UAUC-------------------GGAAAGGC-CG--UC-CGA
+Rmar_1109    UCCUGAC-CGGAAA-------------AACCUGAGCCCU-GGU-GG-GCC
+Rmar_1829    GUCAGAU--GGAU---------------GGAUCCGGCGC-CAG-GG-CUU
+Rmar_0685    UAAACAA-UGAA-----------------AACGGGGCCA-GGG-AG---C
+Rmar_0935    CCAUGUU--UUC--------------------GAAAGCU-CCC-CC-GAC
+Rmar_1855    GCAUAAA--AA--------------------AGAUGCCC-CG--AC-CGU
+Rmar_0864    UCGUUAU-AAA-UAAA----------GGUUCACGAACCC-GGC-GU-CGG
+Rmar_0870    UACAAAU-CC--UGAAAA-----GCGAUGCCCAGAGCGC-CA--UC-CCG
+Rmar_1856    CCAUCAU-AUAA-----------------CAGCGGAUGC-CCC-GG-CCA
+Rmar_0089    UCC-GAA-UAACAC--------------CCACCGGGUGC-CCG-UC-CGG
+Rmar_1111    GCCUGAA-A-AA-----------------CGGCGGGGGC-CGG-CU-CCG
+Rmar_1749    GAU-GAA-CCGU-------------------GGCGGGGA-GGC-GG---A
+Rmar_1197    UUCUGAC-AGAA--------------------AAAGGGC-GGG-AC---C
+Rmar_1158    UGC-GCU-A-AAGCA-----------UGGCGGUGUGGGC-GGC-GG-CGG
+Rmar_1834    GGCAGAU-C-AU--------------------CCGGGCC-GGC-GC-CGC
+Rmar_0933    GGC-GAU-AAA-A----------------GGCAUCGCCA-GCG-GG-UUG
+Rmar_1799    UUCACAA-CGGCU----------------UCGGGGAGAA-CGGGAG-GGC
+Rmar_2455    UCCUGAA-A-G---------------------CAGGUGG-CGU-GU-CGG
+Rmar_2170    GCGCGAU--AAA--------------------AAAGGCC-GGG-CU---G
+Rmar_0061    GAAUGAA--GAA--------------------AGCCGCC-GGC-UG-CUG
+Rmar_1081    GGCUGCG-CGGCCCC------------GGUAGCAGGGUC-GGU-UU-CCC
+Rmar_2144    UCC-CGU-AAACAAUC----------GUUCCUGCAGGGG-CAU-GG---C
+Rmar_0097    CCC-GCG--AAA--------------------AAAGCCC-GG--CC-UUG
+Rmar_1296    UAAAGAA--GAA--------------------AAACGCC-GGAC------
+Rmar_1312    GCCUGAU-CU-------------------UUUGACACGC-GG--CU-UUA
+Rmar_2209    GCCUGAU-A-AA-------------------AAAGCCCG-GGU-CC-GUC
+Rmar_0524    GGUUUGA-CGA------------------ACAAAGGGGA-CG--GC-UCA
+Rmar_1662    GGU-GCA-C-ACGG--------------AAAUUCAGGGU-CGG-UU----
+Rmar_0989    GUU---U-CGGC--------------------AGGGCGG-GGC-UA-CCG
+Rmar_2149    UGC-GGU-UCG---------------------GCAGGCC-CGC-GU-CGA
+Rmar_1403    GCCUGAA-CUC-CCCGAU-----GACUAUCAGAAACGCC-CGU-GG-CGC
+Rmar_2088    UCCAGCG-AUA------------------AAAAACAAGC-CGC-CG-GCU
+Rmar_0983    UCCUGAA--AGCUAUCC-------CGCUGACAAAAGCCC-UGC-UC-CGC
+Rmar_2731    UCG-UA----AA--------------------AAAGGCC-GG--CU-CCC
+Rmar_0726    GCCUCAU-ACA------------------UCGAAAGGCC-CGC--C-AUG
+Rmar_0748    GCG-ACG-C-C--------------------CCGAAGCG-CGG-AG-CCC
+Rmar_1915    GCUUCGU----A--------------------AAAAGGC-UAU-GC---U
+Rmar_2604    GCAUAGA-CGAA--------------------AAAGGGG-CGG-C----G
+Rmar_1480    UCC-GGA-CG-------------------UGCACACGCG-GUC-CC-UCC
+Rmar_1765    GCUUGAC-CUU--------------------GCGGCCCG-UUC-GG-CGU
+Rmar_1225    CCUUGCG-CGUU--------------------UAAGUCC-CC--AC-CCG
+Rmar_1705    GGC---A-CCGC--------------------AGGGGAC-CGG-U----U
+Rmar_1012    UCC-GAG-CAGAA----------------CAGAAAAGCC-CG--AU-CGC
+Rmar_0920    GGC-GAU-CGAAA----------------CGUGAAAGGC-AGG-GC---C
+Rmar_0042    UUCUGAA-UCUAU----------------UUUGAACUCC-GAC-CG-UCU
+Rmar_2129    GGC-GAU-CGGCGA--------------AAAGAAAGCGG-GGC-GA-CCG
+Rmar_1824    GCC-GAA-AC--------------------UGAAAGCCC-CGCC------
+Rmar_2779    GCCAUCG-CCA-------------------GCAAAGGCC-CG--GU-CCG
+Rmar_0602    GCAACAA-UUGC--------------------CCGAGGC-GUU-CG-UUU
+Rmar_0372    GCCAGUU--GC-AA-------------AACGACAACGCC-GGG-CU---U
+Rmar_1371    UCCUGAA-CAA------------------AAAAAGGGGU-GGC-------
+Rmar_1732    UCCCGAG--UAU--------------------GGCGGGU-UGGA-G-CAG
+Rmar_0883    UGA-GAA-AAACACCGCCU----CGCUUUACCCGACGGC-GUG-AG-CGC
+Rmar_0326    ACC-GGU--AAA--------------------AAAAACA-GGC-CC-GGC
+Rmar_0473    UACAGAA-AAA-U---------------CGAAAAAAGCU-CCG-GC---C
+Rmar_1873    UUC-GCA-CUU-U----------------UCUGCCGGCG-GGC-GG---A
+Rmar_1358    UAAUGAA-AUGA-----------------AAAAGGGCGA-CG--GA-CCC
+Rmar_0246    GGCACAUCCC--------------------GCAGAAGGC-CGC-UC-CGA
+Rmar_1196    GCCCGAU-CCGAA---------------UAAAAAAGGGC-GGG-AC---G
+Rmar_0003    GCAUGAU--GA--------------------GCAUGAGC-AGG-UC---C
+Rmar_0328    GCUUGAG-C-GC--------------------GCCGGGG-CGG-GG-GCA
+Rmar_1209    GCCUGAG-CGA-UC-------------AGGCGGGAGGGC-GG--AC-GCC
+Rmar_0988    GACUGAA-CAA--------------------AAAACGGG-GCU-AC-CGG
+Rmar_0267    UCC-GGU-UGG--------------------GUUCCCCC-GCC-CC-GCA
+Rmar_0354    UGGUGAA--GUAGUC------------CGGCUGCAGGCC-GGG-GG-CCG
+Rmar_0477    GAC-GAG-C-AC--------------------AAAGCCG-CCG-UU-CGG
+Rmar_1238    GUGUAAG-C-GC-------------------CGAAGCCC-CGU-CC---U
+Rmar_0117    GCGUGAC--GAU--------------------AAACGCC-CG--GU-CUG
+Rmar_1213    UCAUGCU-CC-------------------CGAAAGGUCC-GGC-GU-UCC
+Rmar_0725    ACCUGAA-A-AA-----------------GCGAAAGGCC-CGC-U----G
+Rmar_2561    GCCUGCG-CAGC--------------------GGAGGGG-AGC-AG---A
+Rmar_1974    GCCUCCA-U-----------------------GCGGGGC-CGU-CG-GCU
+Rmar_0434    GCG-GCG--UG---------------------CGGGGCC-CCG-GC---A
+Rmar_2192    GCUUCCA--AACUA--------------UCUUUAACGGC-GUC-GC-UCC
+Rmar_1972    GCA-GCA-AUGC--------------------AGAGCCC-CGG-CG-C-U
+Rmar_1365    GCCUGAG-CCU-GUC-----------GUUCGGGUGGGGA-AGG-AG-GCA
+Rmar_2696    GCUUCGU-A-GCAAA------------ACCAGAAAGGGC-CGC-GU-CCG
+Rmar_1800    CUG-GAA-CUG-GAA-----------ACCUUCCUCCCGG-CGC------C
+Rmar_0459    GUC-GAA-ACAA--------------------AAAAGCG-CG--GU-CCG
+Rmar_0562    UGCUGCA--GCA-----------------GAACGGGCGG-CGU-UA-CGG
+Rmar_0099    GCG-GAU-UCG-GUA------------AGCCGCGGGGCC-GGG-GU-CAG
+Rmar_1672    GCCUGAA-AAG------------------AAAACCGGGC-GGC-GU-CCG
+Rmar_0438    GACUCGU-U-----------------------CAGGCCC-CUU-C----U
+Rmar_0332    CCUUGCA-CAGCAUAG---------CCAUCGGUGAGCCC-CUC-C----C
+Rmar_1344    UCCUGCG-CUGAAAA------------AAACAAAAGCGC-CGG-UC-CCA
+Rmar_1733    GUCUUAU-CU---------------------UAAAGGGC-GG--AC-CGC
+Rmar_2201    GCU-GAA-CCACAA-------------UCCCGUCCGGCC-GGG-UU-CGG
+Rmar_1656    UCG-GAA-CCG-GC--------------AACAUGGGCCA-GGC--C-AUC
+Rmar_0525    GCU-GCA-AAA-A----------------AGAAAGGGGA-CGG-CU-CGG
+Rmar_2196    GCC-GGU-CCA-------------------GAAAACGCU-GAGCCG-GCC
+Rmar_1444    GGAUAAG-A-A--------------------AAAACGGG-CGG-CC-GCG
+Rmar_0718    GGCAGCA-AUA------------------AAAAAGCGCC-GAC-CG-GCC
+Rmar_0143    UUCAGAA-CA-------------------UUUUCCCUUC-GGC-AC---G
+Rmar_2720    UCCUGGA-CUA-UAG------------CAUGAAAAAAGG-GGC-C----G
+Rmar_0747    UCCUGAG-CGA-UC-------------AUAACAAAGCGG-GGC-GC-CUG
+Rmar_2640    UCCCGAU-AGAA-------------------ACGGCGGA-GGG-GU-CCG
+Rmar_1453    UAC-GGC-CCAA--------------------AGGCGAC-GGU-------
+Rmar_1393    CCGUGAA-C-GC-------------------AAAAAGGG-GCG-GU---G
+Rmar_1347    GGGUCAU--AAA--------------------CGCAGCA-GGC-CC-GCC
+Rmar_2380    GGC-CAU--UGC-----------------CCGGAACGCC-CGG-GU---C
+Rmar_0781    GACUGAA-CGAA-------------------CCACCGGC-AGG-CC-CCU
+Rmar_0991    GUC-AAU--AAA--------------------AAAGCCC-GA--AC-CGU
+Rmar_2407    UCGUCAU--GGC-------------------CACGACGG-CCU-GC-UCU
+Rmar_0831    GGCAGCA--GGC--------------------AAAGGUC-CGG-GC---C
+Rmar_2193    GCCUGAA-CAUC-----------------AGAAAAGGCC-GG--CC-CCG
+Rmar_1688    ACAUGCA-C-GC-------------------CACGAGCA-GGC-GG-CGU
+Rmar_2255    GAUUCAU-A-AA-----------------CAGAAAGCGC-CCC-GA---C
+Rmar_2471    GGAUGGU-A-ACAG--------------GGUAGACGCCC-CGG-GA-GCC
+Rmar_1494    GAAUGAU-CC--CG--------------UGCAAAAGCGG-CGC-CC---C
+Rmar_1680    UACUGAG-C-ACCAUCCC------UUCGCCCGAAAGCCC-GGU-CG-CCU
+Rmar_2370    ACCUGGA-CGAC-----------------GCGAUACGGC-GGC-UU-CCG
+Rmar_2465    GCC-GGU--GGCUCC------------GUCCUCCAGCCC-GG--AC-CCA
+Rmar_2101    GCC-GCA--UGC-------------------AGGAAGCC-CGG-AC-GAG
+Rmar_2121    GGG-GAG--AAA--------------------AAGGCGC-CCC-GG-UUU
+Rmar_1564    ACUUGAA--AAC--------------------GGCGGGG-CG--GG-CUU
+Rmar_0504    AAG-GAU-AAA-A---------------AUUCGAAAGGG-GAU-CC-CGG
+Rmar_1837    GCUAUUA-C--------------------CCACAGGGCC-GGC--C-AUU
+Rmar_0008    GCAAGAC--GCC-------------------CACAAGCC-CG--AG-CCG
+Rmar_2540    GCUUGCG-CGG-G----------------ACGAAGCGCC-CGGCUC-CGA
+Rmar_2413    GGA-GAA-CCU-GA--------------AACGCAAACCC-GGC-GU-CUG
+Rmar_2084    GAAUUAU-CCG-GA--------------UCAGAAAAGCA-GGU-CC-CCA
+Rmar_0641    GGA-CAU-CGAC--------------------ACCAGGC-CG--CU-CCU
+Rmar_0305    GGCUGAA-AA-------------------CAGCAGCGGG-CUU-CU-CCU
+Rmar_0872    UGC-GAA-CCGAC----------------AGGAAGCGGA-CGG-GU-UUA
+Rmar_0098    GCAUCAA-AAA-AC-------------ACACGAAAGCCC-GGC-CU--UG
+Rmar_2178    GCU-GAA-AUA------------------CCGGAAAGGC-CG--CC-CGC
+Rmar_1936    ACC-GAU-CAC-------------------AAAAAAGCG-GCC-UU-CCA
+Rmar_0948    ACGUGCA-CGC-AU--------------AGUACAGAGCC-GG--GC-CGC
+Rmar_0624    GCCUGAA--AAC-------------------GAAAAGGG-CGG-AG-GCU
+Rmar_2628    UCC-UAA-CGC-CAACCGU---UGUCGUAAGUGAAGGGC-CGG-UG-GGA
+Rmar_0720    ACCUGAA-CAAA-----------------AAAGAAGCCC-GGC-C----A
+Rmar_2000    GGAUGAU--GGCAC-------------CUUUCGGGCUCC-GGC-CG-CGU
+Rmar_2542    GACUGAA-CGUCCCU------------GACCCCGAAGGC-GCUC------
+Rmar_1364    ACCAUGU--GGC--------------------AACGGCC-GGC------U
+Rmar_1401    UCGUGGA-AAA-UAUGGA------CUGACCCGGAGGCGG-GGC-GG-CCA
+Rmar_0084    GCCCCCA-CGAAA---------------ACAAAAAAACG-GGC-AC-CCU
+Rmar_1628    GCUUGCA--UGC-----------------GACAGGGGCA-CUU-CG---U
+Rmar_2757    GCCUGAA-UG-------------------UUUCACGUGA-AAC-AU-CCG
+Rmar_1928    UCC-UUU-CGGC-----------------AAAGAAGAAGGGCC-GC-UCU
+Rmar_1819    ACCU--U-CGGA--------------------AGCGGCC-GGC--C-AUU
+Rmar_1014    GCCUGAA-AAG------------------CAGCACGCCC-CGG-C----G
+Rmar_0308    GCCCGAA-AGAAAU--------------CCGGCGAGGCGACU--UC-CUC
+Rmar_0284    GGGUGCA--UGA--------------------AAUGGGC-GGG-GU-CGG
+Rmar_0429    ACAUGAA-CAUCU---------------CGCCAUUAACU-GU--UG-CGC
+Rmar_0330    UCU-CAC-CUGC-----------------AAAAAAGCCC-CG--CC-CGG
+Rmar_2719    UUUUCAA-C-GA--------------------AAAAGGG-GCC------G
+Rmar_0904    UCG-CAU--GCC--------------------UGAACGU-CUU-CG-GAA
+Rmar_0133    ACGUGCU--AGC--------------------UUCCCCC-GG--UC-UCC
+Rmar_1718    GUAUGAU-UCAA-------------------GAAAGCCC-UGC------U
+Rmar_2685    UGUUGAC-CAA-------------------UAAAAAAGG-GCC-AU-CCA
+Rmar_0274    GCGUGGG-UUG-G----------------UAAGGCGGGC-UGG-CA-UCC
+Rmar_1500    UCCUAAG-AGAA-------------------AGAUAU-------UC-CUG
+Rmar_1767    GACUUGA-CCUU--------------------GCGGCCC-GUU-CG-GCG
+Rmar_0996    CACUGAG-CGGC--------------------CGGGCCC-GUG-CU---A
+Rmar_0390    GUUUGAA-CCU-U---------------CCGGAAAAAU----U-UU-GCG
+Rmar_2785    UUCUGAG-CGA--------------------AGGGGUCC-CG--GU-CGC
+Rmar_2282    GCGUCAU-CCG-------------------GUACCGCCG-GUG-CU-UCC
+Rmar_1763    UCU-GAA-CUGCU----------------GAUCGCCCGU-CUU-CC-CUG
+Rmar_1496    GCCUGAU-CGG-GA-------------CCCCCGGGGCGG-CGG-UG-CCU
+Rmar_2530    ACAUCAC--CGC-------------------GCAAACCC-CGC-GU-UCU
+Rmar_2805    GCCUGAU---GC--------------------CGAAGGC-CG--UC-CGA
+Rmar_0613    AGC-GCC-CGGA--------------------AAACCGC-CCG--A-AUA
+Rmar_2120    AACUGAA-AUGC--------------------AAAAGGC-GCC-CC-GGC
+Rmar_1820    UCGAGCU--GGG--------------------CGAAG---CGU-AA-CCG
+Rmar_2012    UCCAUAA-CGGC-----------------AACGGCGGGU-CAG-GG-CGG
+Rmar_0719    GGCAGCA-CCUC--------------------AGGCGCC-GAU-CG-GCU
+#=GC SS_cons :::::::.::::..................::<<<<<<<.<<<.<<.<<_
+#=GC RF      GCCUGAa.Cgac..................aaaAagGGC.cGc.gc.Ccg
+
+Rmar_0756    --UUC---------------------------G-G-----A--A--GGGC
+Rmar_0609    --CUUCCCAUCGG-----------AUGGGAAGG-C-----C--G--GAGG
+Rmar_2783    --CAU---------------------------G-G-----G--C--GCCC
+Rmar_1078    --UCGAAGCGCCG-----------ACUUCGGGU-G-----G--U--GCCC
+Rmar_1386    --AUC---------------------------G-G-----G--C--GUCC
+Rmar_1479    --UCGUCGACC---------------GACGGGG-A-----G--G--GACC
+Rmar_1810    --GCG---------------------------G-G-----A--U--GGGG
+Rmar_2782    --UGU---------------------------G-G-----G--C--GCCC
+Rmar_1359    --GCUUGUA------------------CCGUGG-G-----U--C-CGUCG
+Rmar_0803    --CCUAGU---------------------UACU-A-----U--C--AUUG
+Rmar_1112    --CAUUG----------------------GACG-G-----A--G--CCGG
+Rmar_2049    ---CC--------------------------------------G--GUCG
+Rmar_0741    --CCG---------------------------G-A-----C--U--GCUC
+Rmar_1687    --CCUA-------------------------CC-G-----U--G--CCCU
+Rmar_0840    --GUUA-------------------------AC-G-----U--G--CCCC
+Rmar_2210    --CAUCG-----------------------ACG-G-----A--C--CCGG
+Rmar_1231    --UCCC-------------------------GC-C-----G--G--CCGG
+Rmar_0876    --AUU---------------------------U-G-----C--C--ACGG
+Rmar_2128    --GCCGU-----------------------CCG-G-----U--C--GCCC
+Rmar_0924    -UGCU-----------------------------------------CCCG
+Rmar_2506    --AAAC-------------------------GC-C-----G--G--AGCC
+Rmar_1430    --GAA--------------------------------------G--CCCA
+Rmar_0746    --AUUA------------------------CAG-G-----C--G---CCC
+Rmar_1761    -UGCCUUGC------------------GGCAGC-G-----C--U--CCGG
+Rmar_2424    -UUUC---------------------------G-G-----A--G--CCCG
+Rmar_0923    ---AG---------------------------C-A-----A-----CCCG
+Rmar_2796    --UCC---------------------------G-G-----C--G--GCGG
+Rmar_2639    --GCU--------------------------CG-G-----A--C--CCCU
+Rmar_0877    --AAU------------------------------G---CG--C--CACG
+Rmar_2605    --AGC--------------------------------------G--CCGC
+Rmar_1811    --GCG---------------------------G-G-----A--U---GGG
+Rmar_1937    --CGU---------------------------G-G-----A--A--GGCC
+Rmar_0142    --CAAAA----------------------CGUG-C-----C--G--AAGG
+Rmar_1071    --UCACCA--------------------GGGCC-A-----C--G--GCCC
+Rmar_1394    --CUC------------------------------A---CA--C---CGC
+Rmar_0942    --ACU--------------------------UG-C-----C--G--GCGG
+Rmar_1292    --GCA---------------------------G-G-----G--U--GCCG
+Rmar_1918    -CACC---------------------------G-G-----C--A--GCCC
+Rmar_0969    -UAAU---------------------------G-G-----G--C--AUCA
+Rmar_1556    --GCGUGCGCUAUA--------GCCCCUCACAC-G-----G--U--GGGG
+Rmar_1863    --CCGA-------------------------CG-A-----A--C--GCGG
+Rmar_2133    --AAAA-------------------------GC-G-----G--C--GGGG
+Rmar_1698    -CUCCG------------------------GCA-G--------UUUCAUG
+Rmar_1499    --GCGAGGCCGCC----------AACCAUCGAA-C-----C--G--GGCG
+Rmar_1895    --CUA---------------------------C-G-----G--G---UCG
+Rmar_0248    --CAG------------------------------A---GA--C--GCGG
+Rmar_1825    --CAC---------------------------A-G-----------GCGG
+Rmar_1823    --GCG---------------------------G-G-----C--A---UGC
+Rmar_1295    --UCA---------------------------G-G-----U--C---CGG
+Rmar_0665    ---AC--------------------------------------G--CCGG
+Rmar_2069    --GAAA------------------------UUG-C-----G--C--GUCG
+Rmar_0990    -ACAC---------------------------G-G-----U--U---CGG
+Rmar_0116    --CCG---------------------------G-G-----G--C--AUCC
+Rmar_2001    --AACG------------------------CGC-C-----G--U--GCGG
+Rmar_1748    --UCCA------------------------GGU-G-----G--G--CAGA
+Rmar_0411    --GUC---------------------------G-A-----C--G--GCGG
+Rmar_1613    ---UU---------------------------C-G-----G--G--ACGC
+Rmar_1756    --GAG------------------------------UG-GAU--C--CCGG
+Rmar_2194    --UCC---------------------------G-G-----G--G--CCGG
+Rmar_0247    --GAU---------------------------C-G-----G--A--GCGG
+Rmar_1120    --UUC---------------------------C-G-----G--G---CGG
+Rmar_0879    -AGCC---------------------------A-G-----C--G--AAGG
+Rmar_2560    --UCG---------------------------G-G-----U--C--GCCG
+Rmar_2354    --GACCUCUUCGC-----------GAGAGGCGC-A-----U--U--ACGC
+Rmar_2223    --GCA---------------------------U-G-----A--C--GUCC
+Rmar_1671    --GUCCGGCGCUCC---------GGCGCCGCCG-G-----A--C--GCCG
+Rmar_1452    --UAUGCAAG-----------------CGCAUA-G-----A--U--CCCU
+Rmar_0077    --AAA---------------------------G-G-----U--G--GGCC
+Rmar_0780    -UGUG---------------------------G-C-----C--G--GGGU
+Rmar_1614    ---AG---------------------------C-G-----G--G--ACGC
+Rmar_0312    -GGCCGAG---------------------GCUG-C-----C--U--CUCC
+Rmar_2730    --UCG---------------------------G-G-----A--G--CCGG
+Rmar_0410    --ACC---------------------------G-A-----C--G--GCGG
+Rmar_0934    --CGU---------------------------G-A-----G--C--AGGC
+Rmar_2539    --AAGC-------------------------UC-G-----G-AG--CCGG
+Rmar_2169    -UGCC----------------------------------AG--C--CCGG
+Rmar_1869    --AAGA-------------------------UC-G-----GCCU--GCCG
+Rmar_0668    --CGGUCUUU-----------------GCCGUG-A-----A--G---CUU
+Rmar_0916    -AGCCCGG--------------------UCUUC-G-----G--C--ACCU
+Rmar_2177    --CUUC-------------------------GC-G-----G--G---CGG
+Rmar_1109    --UUC---------------------------G-C-----C--C--GCCA
+Rmar_1829    --UCC---------------------------G-G-----A--C--CUGG
+Rmar_0685    ---CU----------------------------------GC--U--CCCU
+Rmar_0935    --CUU---------------------------U-C-----G--G--GGGA
+Rmar_1855    --CAG---------------------------U-G-----G--C---CGG
+Rmar_0864    --CUGGGGCGUUUACGC---ACCCUUGCCUGAU-G-----A--C--GCCG
+Rmar_0870    --AUC---------------------------G-G-----G--A---UGG
+Rmar_1856    --CUGA-------------------------CG-G-----U--C--GGGG
+Rmar_0089    --AAG--------------------------UC-G-----G--G--CGGG
+Rmar_1111    --UCCAA----------------------UGCG-G-----A--A--CCGG
+Rmar_1749    --UCG------------------------------C--GCC--C--GCCU
+Rmar_1197    -CGAU------------------------------U---CG--U--CCCG
+Rmar_1158    --CCAUG----------------------UGCC-G-----U--C--GCCG
+Rmar_1834    --ACG---------------------------C-G-----G--C--GCCG
+Rmar_0933    --ACAGGCGACGUUGAA--AGUCGUAUCAUGAG-A-----C--C--CGCU
+Rmar_1799    ---AU---------------------------C-C-----C--U-GCCGU
+Rmar_2455    --UCCUUCU------------------GAGCCC-G-----G--C--ACGC
+Rmar_2170    --GCA-----------------------------------G--G--CCCG
+Rmar_0061    -GGCGCUG---------------------CUCG-G-----C--G--GCUG
+Rmar_1081    --GUCC-------------------------GG-G-----A--G--GCCG
+Rmar_2144    --AUC----------------------------------GC--C--GUGC
+Rmar_0097    --CAC---------------------------A-A-----G--G---CCG
+Rmar_1296    ---CU---------------------------G-A-----A--A-CUCCG
+Rmar_1312    --CCU---------------------------G-G-----A--G---UUG
+Rmar_2209    --GAU---------------------------G-C-----A--G--ACCC
+Rmar_0524    -UGCC---------------------------G-A-----G--C---CGU
+Rmar_1662    ---CU----------------------------------GA--G--CCGG
+Rmar_0989    --GACAU-----------------------CCG-G-----U--A--GCCC
+Rmar_2149    ---UC---------------------------C-G-----G--C--GCGG
+Rmar_1403    ---AA---------------------------U-G-----C--U--ACGG
+Rmar_2088    --GCUGGGCGCU------------GCUCGGCGG-C-----U--G--GCGG
+Rmar_0983    --CAUUC-----------------------UUC-G-----G--G--GCAG
+Rmar_2731    --GAU---------------------------G-G-----A--G---CCG
+Rmar_0726    --ACA-----------------------------------------GCGG
+Rmar_0748    --CAC---------------------------G-G-----C--U--CCGC
+Rmar_1915    --UCG----------------------------------AG--C--AUAG
+Rmar_2604    --CUG--------------------------------------G--CCGC
+Rmar_1480    --CCGUCGGUC---------------GACGAGG-A-----G--G--GACC
+Rmar_1765    --UUUA-------------------------UU-G-----C--C--GAGC
+Rmar_1225    --UAUUG----------------------CAUG-G-----G--U---GGG
+Rmar_1705    --UCG--------------------------------------G--CCGG
+Rmar_1012    --AUG---------------------------C-G-----A--U---CGG
+Rmar_0920    --UCA----------------------------------GG--C--CCUG
+Rmar_0042    --GAGGG-----------------------GAG-A-----C--G--GUCG
+Rmar_2129    --GACGG-----------------------CCG-G-----U--C--GCCC
+Rmar_1824    --UGU---------------------------G-A-----A--G-UGCGG
+Rmar_2779    --AAA---------------------------G-G-----A--U---CGG
+Rmar_0602    -UCCC---------------------------G-A-----C--G--AACG
+Rmar_0372    --UUC----------------------------------GG--G--CCCG
+Rmar_1371    ---AU---------------------------A-A-----A-----GCCA
+Rmar_1732    --GCAACC---------------------UCCU-G-----C--A-ACCAA
+Rmar_0883    --UCC---------------------------U-G-----C--U--CGCG
+Rmar_0326    --UUUCC-----------------------CGC-C-----G--A--GCCU
+Rmar_0473    --CGG----------------------------------UG--C--CGGA
+Rmar_1873    --UCU------------------------------A---UU--U--GCCC
+Rmar_1358    --ACGGUAC------------------AAGCCG-G-----U--C---CGU
+Rmar_0246    --UCC---------------------------C-G-----G--A--GCGG
+Rmar_1196    --AAU------------------------------C--GGG--U--CCCG
+Rmar_0003    --UCG------------------------------CCUUCG--G--CCUG
+Rmar_0328    -GGAC---------------------------G-C-----C--U--CCGU
+Rmar_1209    --CCG---------------------------G-C-----G--U---CCG
+Rmar_0988    --AUGU-------------------------CC-G-----G--U--AGCC
+Rmar_0267    --CAU---------------------------G-C-----G--G--GGCG
+Rmar_0354    --CCUAUGCCU--------------AUCGGGCG-G-----C--C--CCCG
+Rmar_0477    --CCGCAUA------------------GAGACC-GU---AA--G--CGGC
+Rmar_1238    --GAG------------------------------A---GG--G--ACGG
+Rmar_0117    --CAC---------------------------A-G-----G--C---CGG
+Rmar_1213    --UGUG------------------------GUG-A-----G--C--GCCG
+Rmar_0725    -UCAU--------------------------------------G--GCGG
+Rmar_2561    --AAA----------------------------------CC--U--GCUC
+Rmar_1974    --ACG--------------------------GG-C-----C--G--GCGG
+Rmar_0434    --UCC------------------------------A--AUG--C--CGGG
+Rmar_2192    --UGC---------------------------G-G-----G--C--GACG
+Rmar_1972    --CAG-----------------------------G-----U--G--CCGG
+Rmar_1365    --CAGC-------------------------GG-C-----C--U--CCUU
+Rmar_2696    --GCU---------------------------G-G-----A--C--GCGG
+Rmar_1800    --AAA-----------------------------------------GCGC
+Rmar_0459    ---AU---------------------------G-G-----A--C---CGC
+Rmar_0562    --CAGAAGCGA--------------UCUUCGCU-G-----U--A--ACGC
+Rmar_0099    --ACU---------------------------U-G-----G--C--CCCG
+Rmar_1672    --GCGGCGCCGGAG---------CGCCGGACCG-G-----A--C--ACCA
+Rmar_0438    --UCG--------------------------------------G--AAGG
+Rmar_0332    --CCG--------------------------------------G--GAGG
+Rmar_1344    -GGGC---------------------------G-G-----G--A--CCGG
+Rmar_1733    ---UU---------------------------C-G-----G------CCG
+Rmar_2201    --UCCAG-----------------------GCC-G-----G--A--CCCG
+Rmar_1656    -GAAC-----------------------------------------GCCU
+Rmar_0525    ---CA---------------------------U-G-----A--G--CCGU
+Rmar_2196    --GACUAC--------------------ACGUG-C-----C--G--CUCG
+Rmar_1444    --CUCC-------------------------GG-C-----G--G--CCGC
+Rmar_0718    --GAA---------------------------G-C-----C--G--AUCG
+Rmar_0143    --UUU----------------------------------UG--C--GCCG
+Rmar_2720    --UAC--------------------------------------G--GCCC
+Rmar_0747    -UAAU---------------------------G-G-----G--C--GCCC
+Rmar_2640    -AGCC---------------------------G-G-----A--C--CCCU
+Rmar_1453    ---AC---------------------------G-A-----A-----GCCG
+Rmar_1393    -UGAG----------------------------------AA--C--CGCC
+Rmar_1347    --CCCUUGC-------------------GAGAG-C-----G--G--ACCU
+Rmar_2380    --GAU----------------------------------GA--C--CCGG
+Rmar_0781    --UCU---------------------------G-G-----G--A----UG
+Rmar_0991    ---GU---------------------------C-G-----G--U---UCG
+Rmar_2407    --CCG---------------------------G-A-----G--C--AGGC
+Rmar_0831    --CCA------------------------------G---CG--C--CCGG
+Rmar_2193    --GAU---------------------------G-G-----G--A---CCG
+Rmar_1688    -CGCCG-------------------------GC-G-----C--C--GCCU
+Rmar_2255    --GUG------------------------------A---AU--C--GGGG
+Rmar_2471    --GUA---------------------------G-C-----U--C--CCGG
+Rmar_1494    --UCG----------------------------------UA--G--GCGC
+Rmar_1680    ---CA---------------------------G-G-----U--G--GCCG
+Rmar_2370    --GAGAAG---------------------ACCG-G-----G--A--GCCG
+Rmar_2465    -CGAC--------------------------AG-G-----G--U---CCG
+Rmar_2101    --CUC---------------------------U-C-----G--U--CCGG
+Rmar_2121    --CUGG------------------------CUG-G-----C--C--GGGG
+Rmar_1564    --CCG---------------------------G-G-----C--U---CGC
+Rmar_0504    ---CG---------------------------C-G-----G--G--AUCC
+Rmar_1837    ---GC-----------------------------------------GCCG
+Rmar_0008    --AAC---------------------------G-G-----U--U---CGG
+Rmar_2540    --GCUU-------------------------UC-G-----G--A--CCGG
+Rmar_2413    -CUUC---------------------------A-G-----G--C--GCCG
+Rmar_2084    --GGC---------------------------G-G-----G--G--GCCU
+Rmar_0641    --UCC---------------------------G-G-----G--G---CGG
+Rmar_0305    --GCG---------------------------G-G-----G--G--AAGC
+Rmar_0872    -CGAC---------------------------A-G-----C--C--CCGU
+Rmar_0098    --UGC---------------------------A-------A--G--GCCG
+Rmar_2178    --GAAG-------------------------UC-G-----G--A---CGG
+Rmar_1936    --CGC---------------------------G-G-----G--G--GGCC
+Rmar_0948    --AAU---------------------------C-G-----A--C---CCG
+Rmar_0624    -UUAC---------------------------G-C-----G--U--CCGC
+Rmar_2628    --ACAC-------------------------UC-C-----U--G--CCGG
+Rmar_0720    --CAG--------------------------------------G--GCCG
+Rmar_2000    --ACU---------------------------C-C-----U--G--GCCG
+Rmar_2542    ---CG---------------------------G-A-----A--U-GAGCG
+Rmar_1364    -CGGU-----------------------------------------GCCG
+Rmar_1401    -GAAC---------------------------GAG-----C--C--GCCC
+Rmar_0084    --CUUG-------------------------CG-G-----G--U--GCCC
+Rmar_1628    --ACC----------------------------------UU--G--AAGU
+Rmar_2757    --GCGCGGGG----------------CUCCAUG-C-----G--U--GUUU
+Rmar_1928    --GGA---------------------------G-G-----G--C--GGCC
+Rmar_1819    UCUCU-----------------------------------------GCCG
+Rmar_1014    --GCU--------------------------------------A--CCGG
+Rmar_0308    --CAUG-------------------------CA-G-----G--A---AGC
+Rmar_0284    --GGCAAUACAUACCCGUAGGUCCGGCCGCCUC-G-----A--C--CCCG
+Rmar_0429    --UAA---------------------------U-G-----C--A---ACA
+Rmar_0330    -CGUU---------------------------C-G-----G--G---CGG
+Rmar_2719    --UAC-----------------------------------------GGCC
+Rmar_0904    --UCGAU-----------------------CUU-C-----C--G--AAGA
+Rmar_0133    --GAG---------------------------G-A-----G--G---CCG
+Rmar_1718    --UCG-----------------------------------------GCGG
+Rmar_2685    --UCG---------------------------G-G-----A--U--GGCC
+Rmar_0274    --GAUCGACCGCUGCCG---UAUCUUCUGGCUG-A-----U-CG--CCAG
+Rmar_1500    --UGU---------------------------A-G-----G--A------
+Rmar_1767    --UUUUC-----------------------UUG-C-----C--G--GACG
+Rmar_0996    --UCU------------------------------U---UG--G--CACG
+Rmar_0390    --UAG---------------------------G-C-----G--G--A---
+Rmar_2785    -CGAG---------------------------C-G-----G--C---CGG
+Rmar_2282    --GAU---------------------------G-G-----G--G----CC
+Rmar_1763    --AAGGG-----------------------CCA-G-----G--G--GAGG
+Rmar_1496    --UCG---------------------------G-G-----U--G--CCGC
+Rmar_2530    --UCC---------------------------G-G-----A--C--GCGG
+Rmar_2805    --AUGGU-----------------------UGC-G-----G--G---CGG
+Rmar_0613    -UCAC-----------------------------------------CGGG
+Rmar_2120    --CAGCCA--------------------GAAAC-C-----G--G--GGCG
+Rmar_1820    --UCC---------------------------G-G-----U--U--GCGU
+Rmar_2012    --CCUUCG---------------------GGUC-G-----C--C--CUGA
+Rmar_0719    --UCG---------------------------G-C-----C--G--GUCG
+#=GC SS_cons ..___...........................>.>.....>..>..>>>>
+#=GC RF      ..gcc...........................g.G.....g..c..gCgG
+
+Rmar_0756    GCCUU-U--
+Rmar_0609    CCUUC-C--
+Rmar_2783    CCUCC-CUU
+Rmar_1078    CGUCC-U--
+Rmar_1386    CGUAU-UUU
+Rmar_1479    GCGUG-U--
+Rmar_1810    CUUUU-UUU
+Rmar_2782    CCUCC-CUU
+Rmar_1359    CCCUU-UUU
+Rmar_0803    GCUCU-C--
+Rmar_1112    CCCCC-G--
+Rmar_2049    CCCUU-UUU
+Rmar_0741    CACCC-C--
+Rmar_1687    UACUU-UUU
+Rmar_0840    CACCC-UUU
+Rmar_2210    GCUUU-UUU
+Rmar_1231    GCUUU-UUU
+Rmar_0876    CCUUU-UUU
+Rmar_2128    CGCUU-U--
+Rmar_0924    GCUUU-UUC
+Rmar_2506    CCUUU-CUC
+Rmar_1430    UCACA-G--
+Rmar_0746    CGCUU-U--
+Rmar_1761    CGGUG-UUU
+Rmar_2424    CGUUU-UUU
+Rmar_0923    GCUUU-UUC
+Rmar_2796    GCCUU-CUU
+Rmar_2639    CCGCCGUUU
+Rmar_0877    GCCUU-UUU
+Rmar_2605    CCCUU-UUU
+Rmar_1811    GCUUU-UUU
+Rmar_1937    GCUUU-UUU
+Rmar_0142    G--------
+Rmar_1071    CGGCU-UUU
+Rmar_1394    CCCUU-UUU
+Rmar_0942    CCUUU-CUU
+Rmar_1292    CCCUG-UUU
+Rmar_1918    CGCUU-UUU
+Rmar_0969    CGCCU-UUU
+Rmar_1556    GCUUU-UUU
+Rmar_1863    GCUUU-UUC
+Rmar_2133    CCUUU-C--
+Rmar_1698    CCCGU-UUU
+Rmar_1499    CCGU-----
+Rmar_1895    CCUGU-UUU
+Rmar_0248    GCCUU-UUU
+Rmar_1825    GGCUU-U--
+Rmar_1823    CGUUU-GUC
+Rmar_1295    CGUUU-UUC
+Rmar_0665    CUUUU-U--
+Rmar_2069    CCUUU-UUC
+Rmar_0990    GCUUU-UUU
+Rmar_0116    GGCCU-UUU
+Rmar_2001    GCCGG-UUC
+Rmar_1748    CCGCU-UUU
+Rmar_0411    GGUUU-UUU
+Rmar_1613    CGCUU-UUU
+Rmar_1756    GGUUG-CUU
+Rmar_2194    CCUUU-U--
+Rmar_0247    CCUUC-U--
+Rmar_1120    CUUUU-UUU
+Rmar_0879    CUUUU-UUU
+Rmar_2560    CUUCG-C--
+Rmar_2354    CGCUU-UUU
+Rmar_2223    CGCUU-C--
+Rmar_1671    CCCGG-UUU
+Rmar_1452    CAGGC-GUU
+Rmar_0077    GCUUU-UUU
+Rmar_0780    ACGCU-UUU
+Rmar_1614    CGC------
+Rmar_0312    GGGGG-U--
+Rmar_2730    CCUUU-UUU
+Rmar_0410    GGUUU-UUU
+Rmar_0934    GGGU-----
+Rmar_2539    GCGCU-U--
+Rmar_2169    CCUUU-UUU
+Rmar_1869    CCGGG-C--
+Rmar_0668    CGCUU-UUU
+Rmar_0916    CCGCU-UUU
+Rmar_2177    CCUUU-C--
+Rmar_1109    GGGCU-UUU
+Rmar_1829    CGCCG-G--
+Rmar_0685    GGCCC-C--
+Rmar_0935    GCUUU-UUU
+Rmar_1855    GGCAU-C--
+Rmar_0864    GGGUU-U--
+Rmar_0870    CGCUU-UUU
+Rmar_1856    CAUCU-UUU
+Rmar_0089    CACCC-G--
+Rmar_1111    CCCCC-G--
+Rmar_1749    CCCCG-CUU
+Rmar_1197    CCCUU-UUU
+Rmar_1158    CCCAC-U--
+Rmar_1834    GCCCG-GUC
+Rmar_0933    GGC------
+Rmar_1799    UCUCC-CUU
+Rmar_2455    CACCU-U--
+Rmar_2170    GCCUU-U--
+Rmar_0061    GCGGC-U--
+Rmar_1081    ACCCU-GUU
+Rmar_2144    CCCUG-UUU
+Rmar_0097    GGCUU-U--
+Rmar_1296    GCGUU-UUU
+Rmar_1312    CGGGU-C--
+Rmar_2209    GGGCU-U--
+Rmar_0524    CCCCU-UUC
+Rmar_1662    CCCUU-UUU
+Rmar_0989    CGUUU-UUU
+Rmar_2149    GCCUG-UUU
+Rmar_1403    GCGUU-UUU
+Rmar_2088    C--------
+Rmar_0983    GGCUU-UUC
+Rmar_2731    GCCUU-UUC
+Rmar_0726    GCCUU-U--
+Rmar_0748    GCUUU-UUU
+Rmar_1915    CCUUU-UUU
+Rmar_2604    CCCUU-UUU
+Rmar_1480    GCGCG-UUU
+Rmar_1765    GGGCU-UUU
+Rmar_1225    GAUUU-UUU
+Rmar_1705    UCCCC-UUU
+Rmar_1012    GCUUU-UUU
+Rmar_0920    CCUUU-UUU
+Rmar_0042    GAGUU-UUU
+Rmar_2129    CGCUU-UUU
+Rmar_1824    GGC------
+Rmar_2779    GCCUU-UUU
+Rmar_0602    CCUUU-UUU
+Rmar_0372    GCGUU-UUU
+Rmar_1371    CCCUU-U--
+Rmar_1732    CCCGC-UUU
+Rmar_0883    CCGUU-UUU
+Rmar_0326    GUUUU-U--
+Rmar_0473    GCUUU-UUU
+Rmar_1873    GCCGG-UUU
+Rmar_1358    CGCCC-UUU
+Rmar_0246    CCUUC-UUU
+Rmar_1196    CCCUU-UUU
+Rmar_0003    CUCGU-G--
+Rmar_0328    CCCGG-C--
+Rmar_1209    CCCUU-UUU
+Rmar_0988    CCG------
+Rmar_0267    GGGGU-C--
+Rmar_0354    GCCCC-UUU
+Rmar_0477    GGCU-----
+Rmar_1238    GGUUU-U--
+Rmar_0117    GCGUU-UUU
+Rmar_1213    GACCU-UUC
+Rmar_0725    GCCUU-U--
+Rmar_2561    CCCUU-UUC
+Rmar_1974    CCCCG-U--
+Rmar_0434    GCCCU-GUU
+Rmar_2192    CCGUU-UUC
+Rmar_1972    GGCUU-UUU
+Rmar_1365    CCCCA-C--
+Rmar_2696    CCCUU-UUU
+Rmar_1800    CGGGA-UUU
+Rmar_0459    GCUUU-UUU
+Rmar_0562    CGUCU-UUU
+Rmar_0099    GUCCU-GUC
+Rmar_1672    CCCGG-U--
+Rmar_0438    GGCCU-UUU
+Rmar_0332    GGCUU-UUC
+Rmar_1344    CGCUU-U--
+Rmar_1733    CCCUU-U--
+Rmar_2201    GCCGG-U--
+Rmar_1656    GGCCC-U--
+Rmar_0525    CCCCU-U--
+Rmar_2196    GCGU-----
+Rmar_1444    CCG------
+Rmar_0718    GCGCC-U--
+Rmar_0143    AAGGG-UUU
+Rmar_2720    CUUUU-U--
+Rmar_0747    CGCUU-UUU
+Rmar_2640    CCGCC-U--
+Rmar_1453    UCGCC-UUU
+Rmar_1393    CCUUU-U--
+Rmar_1347    GCUGC-GUC
+Rmar_2380    GCGUU-C--
+Rmar_0781    CCGGU-U--
+Rmar_0991    GGCUU-U--
+Rmar_2407    CGUUC-UUU
+Rmar_0831    ACCUU-UUU
+Rmar_2193    GCCUU-UUC
+Rmar_1688    GCUCG-U--
+Rmar_2255    CGCUU-UUU
+Rmar_2471    GGCGC-UUC
+Rmar_1494    CGUUU-UUU
+Rmar_1680    GGCUU-UUC
+Rmar_2370    CCGGU-UUU
+Rmar_2465    GGUUU-UUU
+Rmar_2101    GCUUU-U--
+Rmar_2121    CGCCU-UUU
+Rmar_1564    CCCGU-UUU
+Rmar_0504    CCUUU-C--
+Rmar_1837    GCCCU-G--
+Rmar_0008    GCUUU-UUU
+Rmar_2540    GCGCU-UUU
+Rmar_2413    GGUUU-UUU
+Rmar_2084    GCUUU-UUU
+Rmar_0641    CUUUU-UUU
+Rmar_0305    CCGCU-UUU
+Rmar_0872    CCGCU-UUU
+Rmar_0098    GGCUU-UUU
+Rmar_2178    CCUUU-C--
+Rmar_1936    GCUUU-UUU
+Rmar_0948    GCUUU-UUU
+Rmar_0624    CCUU-----
+Rmar_2628    CCCUU-U--
+Rmar_0720    GGCUU-C--
+Rmar_2000    GAGCC-U--
+Rmar_2542    CCUUU-UUU
+Rmar_1364    GCCGU-UUU
+Rmar_1401    CGCCU-U--
+Rmar_0084    G--------
+Rmar_1628    GCCCU-U--
+Rmar_2757    CACGU-G--
+Rmar_1928    UUCUU-UUU
+Rmar_1819    GCCGU-UUU
+Rmar_1014    GGCGU-U--
+Rmar_0308    GCUUC-G--
+Rmar_0284    CCCGA-UUU
+Rmar_0429    G--------
+Rmar_0330    GGCUU-UUU
+Rmar_2719    CCUUU-UUU
+Rmar_0904    CGUUU-UUU
+Rmar_0133    GGGGU-UUU
+Rmar_1718    GGCUU-UUC
+Rmar_2685    C--------
+Rmar_0274    CCCGU-CUU
+Rmar_1500    -AUAU-U--
+Rmar_1767    GGCUU-UUU
+Rmar_0996    GGCUU-UUU
+Rmar_0390    ---------
+Rmar_2785    GACCC-C--
+Rmar_2282    GGUGC-U--
+Rmar_1763    CGGGC-UUU
+Rmar_1496    CGCCC-UUU
+Rmar_2530    GGUUU-UUU
+Rmar_2805    CCCUU-GUU
+Rmar_0613    CGG------
+Rmar_2120    CCUUU-UUC
+Rmar_1820    -CGUU-UUU
+Rmar_2012    CCCGU-CUU
+Rmar_0719    GCGCU-UUU
+#=GC SS_cons >>>>>.>::
+#=GC RF      CCcuU.uUU
+//

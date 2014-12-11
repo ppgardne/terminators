@@ -1,0 +1,902 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS CL3_10340 WT 0.96
+#=GS CL3_32900 WT 0.81
+#=GS CL3_14750 WT 1.04
+#=GS CL3_27090 WT 0.99
+#=GS CL3_17520 WT 0.86
+#=GS CL3_33290 WT 1.05
+#=GS CL3_17680 WT 0.85
+#=GS CL3_32910 WT 0.81
+#=GS CL3_08410 WT 1.03
+#=GS CL3_10520 WT 1.03
+#=GS CL3_30490 WT 1.01
+#=GS CL3_17770 WT 0.99
+#=GS CL3_28490 WT 0.99
+#=GS CL3_20790 WT 1.06
+#=GS CL3_27890 WT 0.71
+#=GS CL3_28590 WT 0.93
+#=GS CL3_13180 WT 0.96
+#=GS CL3_29680 WT 1.01
+#=GS CL3_27900 WT 0.71
+#=GS CL3_11700 WT 0.94
+#=GS CL3_30050 WT 1.04
+#=GS CL3_26250 WT 0.87
+#=GS CL3_11270 WT 1.44
+#=GS CL3_14180 WT 0.89
+#=GS CL3_03150 WT 1.14
+#=GS CL3_01860 WT 1.06
+#=GS CL3_10170 WT 0.82
+#=GS CL3_25330 WT 0.98
+#=GS CL3_20340 WT 0.98
+#=GS CL3_01090 WT 1.23
+#=GS CL3_31970 WT 0.96
+#=GS CL3_21420 WT 1.00
+#=GS CL3_16510 WT 0.92
+#=GS CL3_10250 WT 1.01
+#=GS CL3_17670 WT 0.85
+#=GS CL3_09620 WT 0.84
+#=GS CL3_14120 WT 0.90
+#=GS CL3_19170 WT 1.03
+#=GS CL3_29660 WT 1.01
+#=GS CL3_28780 WT 0.98
+#=GS CL3_32220 WT 0.95
+#=GS CL3_03830 WT 0.94
+#=GS CL3_26270 WT 0.99
+#=GS CL3_07490 WT 1.00
+#=GS CL3_14210 WT 1.03
+#=GS CL3_25820 WT 1.02
+#=GS CL3_26670 WT 0.88
+#=GS CL3_09080 WT 1.15
+#=GS CL3_28530 WT 0.98
+#=GS CL3_23210 WT 0.96
+#=GS CL3_17510 WT 0.86
+#=GS CL3_29890 WT 1.16
+#=GS CL3_07310 WT 0.95
+#=GS CL3_13700 WT 1.01
+#=GS CL3_20450 WT 0.85
+#=GS CL3_01520 WT 1.08
+#=GS CL3_06080 WT 0.97
+#=GS CL3_24400 WT 0.98
+#=GS CL3_23460 WT 0.98
+#=GS CL3_24040 WT 1.14
+#=GS CL3_34850 WT 0.95
+#=GS CL3_32870 WT 1.00
+#=GS CL3_10680 WT 1.10
+#=GS CL3_25150 WT 1.06
+#=GS CL3_14400 WT 0.92
+#=GS CL3_22440 WT 0.89
+#=GS CL3_03600 WT 1.03
+#=GS CL3_23790 WT 1.29
+#=GS CL3_13950 WT 0.94
+#=GS CL3_06870 WT 1.01
+#=GS CL3_04380 WT 1.18
+#=GS CL3_22180 WT 1.01
+#=GS CL3_09180 WT 1.07
+#=GS CL3_19690 WT 1.06
+#=GS CL3_26960 WT 0.92
+#=GS CL3_18750 WT 0.96
+#=GS CL3_05550 WT 1.11
+#=GS CL3_05820 WT 1.08
+#=GS CL3_23450 WT 1.04
+#=GS CL3_10990 WT 1.05
+#=GS CL3_24660 WT 1.01
+#=GS CL3_24800 WT 0.95
+#=GS CL3_02440 WT 0.88
+#=GS CL3_28130 WT 1.02
+#=GS CL3_17290 WT 1.04
+#=GS CL3_01600 WT 0.92
+#=GS CL3_27700 WT 1.03
+#=GS CL3_06860 WT 0.99
+#=GS CL3_08010 WT 0.70
+#=GS CL3_13010 WT 0.87
+#=GS CL3_27680 WT 0.70
+#=GS CL3_17660 WT 1.03
+#=GS CL3_18140 WT 0.94
+#=GS CL3_02080 WT 0.94
+#=GS CL3_18240 WT 1.17
+#=GS CL3_25590 WT 0.98
+#=GS CL3_34140 WT 1.00
+#=GS CL3_09450 WT 1.08
+#=GS CL3_34810 WT 0.89
+#=GS CL3_22600 WT 1.01
+#=GS CL3_16370 WT 1.00
+#=GS CL3_11130 WT 0.98
+#=GS CL3_12000 WT 1.14
+#=GS CL3_11170 WT 1.04
+#=GS CL3_16580 WT 0.87
+#=GS CL3_29820 WT 0.95
+#=GS CL3_12870 WT 1.08
+#=GS CL3_10580 WT 1.04
+#=GS CL3_01080 WT 1.03
+#=GS CL3_06460 WT 0.92
+#=GS CL3_00770 WT 1.01
+#=GS CL3_22490 WT 1.04
+#=GS CL3_17320 WT 1.10
+#=GS CL3_21100 WT 0.98
+#=GS CL3_18180 WT 1.04
+#=GS CL3_03480 WT 1.05
+#=GS CL3_12290 WT 0.88
+#=GS CL3_04260 WT 1.01
+#=GS CL3_15520 WT 1.00
+#=GS CL3_24300 WT 1.13
+#=GS CL3_24290 WT 1.05
+#=GS CL3_15610 WT 0.91
+#=GS CL3_02670 WT 1.01
+#=GS CL3_35310 WT 0.84
+#=GS CL3_11080 WT 0.90
+#=GS CL3_09440 WT 1.10
+#=GS CL3_21610 WT 0.99
+#=GS CL3_09880 WT 0.92
+#=GS CL3_00930 WT 0.92
+#=GS CL3_18550 WT 1.13
+#=GS CL3_03740 WT 0.80
+#=GS CL3_23970 WT 0.87
+#=GS CL3_17910 WT 1.03
+#=GS CL3_18260 WT 1.13
+#=GS CL3_05780 WT 0.97
+#=GS CL3_34110 WT 0.99
+#=GS CL3_22960 WT 1.01
+#=GS CL3_14900 WT 0.84
+#=GS CL3_19920 WT 0.80
+#=GS CL3_22750 WT 1.09
+#=GS CL3_30410 WT 1.05
+#=GS CL3_04340 WT 0.90
+#=GS CL3_00420 WT 0.87
+#=GS CL3_32650 WT 0.99
+#=GS CL3_10120 WT 0.97
+#=GS CL3_04090 WT 1.12
+#=GS CL3_02200 WT 1.29
+#=GS CL3_21590 WT 1.00
+#=GS CL3_12140 WT 0.94
+#=GS CL3_27980 WT 0.94
+#=GS CL3_18470 WT 1.29
+#=GS CL3_00450 WT 1.00
+#=GS CL3_08230 WT 1.06
+#=GS CL3_35300 WT 0.84
+#=GS CL3_13760 WT 1.04
+#=GS CL3_25360 WT 0.94
+#=GS CL3_26390 WT 0.89
+#=GS CL3_27490 WT 1.08
+#=GS CL3_11410 WT 1.02
+#=GS CL3_31560 WT 1.15
+#=GS CL3_05020 WT 1.09
+#=GS CL3_05950 WT 1.29
+#=GS CL3_05140 WT 0.92
+#=GS CL3_21680 WT 1.08
+#=GS CL3_31480 WT 1.03
+#=GS CL3_09350 WT 1.03
+#=GS CL3_32440 WT 1.29
+#=GS CL3_04680 WT 1.12
+#=GS CL3_01780 WT 0.92
+#=GS CL3_22970 WT 0.96
+#=GS CL3_33300 WT 1.10
+#=GS CL3_30860 WT 1.07
+#=GS CL3_08090 WT 0.89
+#=GS CL3_30820 WT 1.14
+#=GS CL3_00340 WT 1.04
+#=GS CL3_08210 WT 0.92
+#=GS CL3_19800 WT 1.13
+#=GS CL3_01230 WT 0.85
+#=GS CL3_11500 WT 0.97
+#=GS CL3_31460 WT 1.03
+#=GS CL3_28900 WT 0.98
+#=GS CL3_25070 WT 0.92
+#=GS CL3_11510 WT 1.08
+#=GS CL3_29000 WT 0.92
+#=GS CL3_25500 WT 1.09
+#=GS CL3_18570 WT 1.06
+#=GS CL3_28950 WT 1.01
+#=GS CL3_07610 WT 0.87
+#=GS CL3_01270 WT 1.16
+#=GS CL3_34270 WT 0.96
+#=GS CL3_15470 WT 0.95
+#=GS CL3_34460 WT 1.17
+#=GS CL3_13820 WT 0.98
+#=GS CL3_19560 WT 0.98
+#=GS CL3_25140 WT 0.84
+#=GS CL3_12310 WT 0.92
+#=GS CL3_32720 WT 1.07
+#=GS CL3_10870 WT 1.21
+#=GS CL3_34710 WT 0.92
+#=GS CL3_18170 WT 1.03
+#=GS CL3_03820 WT 1.03
+#=GS CL3_16410 WT 0.98
+#=GS CL3_12260 WT 1.05
+#=GS CL3_21660 WT 0.94
+#=GS CL3_02620 WT 1.23
+#=GS CL3_11460 WT 1.03
+#=GS CL3_28310 WT 1.13
+#=GS CL3_28960 WT 0.98
+#=GS CL3_22780 WT 1.08
+#=GS CL3_29340 WT 0.99
+#=GS CL3_29510 WT 1.03
+#=GS CL3_16120 WT 0.89
+#=GS CL3_16820 WT 0.92
+#=GS CL3_17740 WT 1.17
+#=GS CL3_31450 WT 0.93
+#=GS CL3_00300 WT 1.11
+#=GS CL3_15530 WT 0.90
+#=GS CL3_33340 WT 0.84
+#=GS CL3_05580 WT 1.29
+#=GS CL3_02930 WT 1.01
+#=GS CL3_00410 WT 1.14
+#=GS CL3_25630 WT 1.01
+
+CL3_10340    ACCA-UAAAAUC------------UGU--------GGCUGA--GACAG--
+CL3_32900    U--------------------------UU-------CAUCA--UAAAUAG
+CL3_14750    GGCA-AGAUAGAGG--------UACUA---------AAUAA--UGGAG--
+CL3_27090    A------AUAUA-------------GA---------AGAAA--GAGAGG-
+CL3_17520    U--------------------------CU--------------CCCAG--
+CL3_33290    AAGA-UGAGAU---------------GCU--------------GAGAU--
+CL3_17680    U------AAGC--------------AG-U--------------GGUAAG-
+CL3_32910    AUGA-AAAGA----------------A----------UAAA-UAGCAGAG
+CL3_08410    AAGA-UGAUAGAUGU-------UUAAC---------AGGCA--GAAAAA-
+CL3_10520    AUAA-AAAAAUAG----------AAGU------------UC--GAUUGA-
+CL3_30490    A------AAACG-------------GC---------GAAAA--UACAG--
+CL3_17770    AAAA-GAAAA-----------------CU-------GCAAA--GAGAUG-
+CL3_28490    A-------------------------------------------------
+CL3_20790    C--------------------------UCAC--UGGGGAAA--UAAAA--
+CL3_27890    C--------------------------GU-------GGAAA--UAAAA--
+CL3_28590    UCCA-GAAAAACAGC-------UCUGCCU-------UAGAA--UAAAAA-
+CL3_13180    AACA-GGAAAAAGCAUAGACAAUCACG---------GAAGU--GAAAA--
+CL3_29680    A------AAA-----------------CU--------------GACAGG-
+CL3_27900    UGGA-GAAGA----------------U-U------CAUAAA--UAAAA--
+CL3_11700    AAUA-UGAAA--------------------------AGAAA--UAAAA--
+CL3_30050    CAGA-UAAAACAG-----------AUA---------AGUGA--GAAAG--
+CL3_26250    U------AAGCUG-----------UCC--CU---CAGAUGA--GAUAA--
+CL3_11270    CCAA-UAAUGCA------------GCCGU--------------GU-----
+CL3_14180    U--------------------------GC-------GAAAA--UACACAU
+CL3_03150    U------AUA-----------------AC-------AUAAA--GAGACA-
+CL3_01860    AGGA-UAUUA-----------------UU-------AUAAA--UGAUA--
+CL3_10170    C--------------------------CC--------------GGCAG--
+CL3_25330    CAGA-AAAAGCUGCG------UAAAAA--C-----GGUUGA--UUCAGGG
+CL3_20340    CAGAGG------------------------------GAAAA--GG-----
+CL3_01090    U--------------------------UU-------GUUAA--UUCGU--
+CL3_31970    C--------------------------UU--------------UAUAC--
+CL3_21420    AGGU-GAAAA-----------------CG-------AUAGA--UGAAAA-
+CL3_16510    AGAA-AAAUAGA-------------UAUC-------GAGAA--CAUAGGA
+CL3_10250    AUUA-AAAAAGAG----------AUGU---------AUGGC--CAAAG--
+CL3_17670    UGUA-AGGGA-----------------GU-------GGGGC--GG-----
+CL3_09620    C--------------------------CU--------------GCCAUA-
+CL3_14120    U------AUA-----------------UC-------AAAAU--GGUUCA-
+CL3_19170    GGAA-AUACA--------------------------GAGUC--GGCAAG-
+CL3_29660    C------AUA-----------------UC--------------UUUAG--
+CL3_28780    CUGA-UAAGAGA-------------ACCU--------------GAAAUA-
+CL3_32220    GGGA-AGAAACAG----------AGCG---------AUAAA-CAGCAAA-
+CL3_03830    AAUA-GGAAGC--------------AG-------------A--GGAAAG-
+CL3_26270    GAGA-GGAAA-----------------CU-------GCACA--GAGAG--
+CL3_07490    GUCA-UAACA---------------------------------GGAACG-
+CL3_14210    CUUA-AAAUACU------------CUU---------AUAAC-CGGCAGA-
+CL3_25820    GAGA-UAAAAAC-------------UG-----------------UCCGG-
+CL3_26670    U--------------------------GC-------AGGGC--GGCAG--
+CL3_09080    UGCC-AGAAACU------------GUC--UGAUAGAGAAAC--CUCUG--
+CL3_28530    GCCA-GAACG--------------------------GCAAA--GCCAGGG
+CL3_23210    UAAA-GAAAA---------------------------------AUAAA--
+CL3_17510    A------------------------------------------GGGGCG-
+CL3_29890    A-------------------------------------------------
+CL3_07310    AGAA-GUAAUGU------------AGG---------AAUAA--CAGGGG-
+CL3_13700    U--------------------------CC-------GAAUA--AGCAGA-
+CL3_20450    UUUA-GAAAUC---------------GUC--------------UGAAU--
+CL3_01520    UACA-GGACCAU-------------GAUU--------------UAGAAA-
+CL3_06080    AGCAAUGACGG---------------U---------GAAUC--AGGAAA-
+CL3_24400    AAAA-AAAUA--------------------------CAGGA--AACAGA-
+CL3_23460    C--------------------------GC--------------CGCAGA-
+CL3_24040    CUGA-GAAAAACA-----------CGGCC---------------------
+CL3_34850    AGAA-AAAUACA------------GAG---------AGAAA--AGCAGA-
+CL3_32870    UUCA-GUAAA-----------------GU-------GUGAC--GGCACG-
+CL3_10680    U--------------------------CC--------------CACUA--
+CL3_25150    C--------------------------UU--------------GCGAUA-
+CL3_14400    U--------------------------UC-------UGGGC--GGGAGA-
+CL3_22440    U-------------------------------------------------
+CL3_03600    U--------------------------UU--------------UUCGGA-
+CL3_23790    U--------------------------CG--------------UUUAU--
+CL3_13950    GAAA-GAAAA--------------------------AUAGA--UGAAGA-
+CL3_06870    A--------------------------CU-------GGAAU--AGUAG--
+CL3_04380    U--------------------------UU--------------UU-----
+CL3_22180    UAAA-AAAAACA------------UAUUU--------------UG-----
+CL3_09180    U------AAUCAG----------UUUG---------GCUAA--GU-----
+CL3_19690    U--------------------------CC--------------GUUUAA-
+CL3_26960    UAGA-AGAAAG--------------AUUU--------------UUAAUAG
+CL3_18750    UGUA-UAACAGC-------------GCAU-------AUAUA--GGCUG--
+CL3_05550    UACU-GGAAAUAGC---------AUCA---------GCGAA--CAAAA--
+CL3_05820    AGAA-AGAUAA---------------A---------AGGCA--UACAGGG
+CL3_23450    GGGA-CAAUAAU-------------GG---------AAAAA--CG-----
+CL3_10990    AGCA-AAAGUU---------------U--G-----AAAGAA--UUCAGGA
+CL3_24660    U--------------------------UU---------------------
+CL3_24800    U--------------------------CU--------------GACAA--
+CL3_02440    U--------------------------CC--------------UG-----
+CL3_28130    UAGA-GG--------------------AU--------------GACAAU-
+CL3_17290    AAGAUAAAUAAG-------------AA---------GUUUC--AGCAG--
+CL3_01600    UACA-AGAACUA-------------AG---------AGACA--GGAAGG-
+CL3_27700    CCGA-UGAAA----------------C----------------AGAAU--
+CL3_06860    AGGA-AAAGA-----------------AU-------AGGAA--GUAAG--
+CL3_08010    UGCA-GAGAA--------------------------AUAAA--UGCAGAG
+CL3_13010    C--------------------------GC--------------CCCAC--
+CL3_27680    A------------------------------------------GGUAGC-
+CL3_17660    U--------------------------CU--------------CAUAAAU
+CL3_18140    UUGA-GAAUA-----------------UU-------GUAAA--UGAAGA-
+CL3_02080    CGAAGAGAAAUAGCAC----AGCGGAA---------GGUGC--AGCAGAA
+CL3_18240    G--------------------------CU-------GAGGA--UACAA--
+CL3_25590    UCCA-GUAAAU--------------AGCU--------------UGUAUG-
+CL3_34140    UAGA-AGAAUAA-------------GA---------G------GUGUGG-
+CL3_09450    U------ACA--------------------------GGUAA--UACAA--
+CL3_34810    UUGA-UAAAAGG-------------CUUU--------------GACAGAA
+CL3_22600    CGGA-AAAGA-----------------CU--------------GAAAA--
+CL3_16370    C------AUACA-------------GG---------CAAAU--UU-----
+CL3_11130    UCAA-AGAAU----------------A---------AGGGU--UUAAGA-
+CL3_12000    UGCACUGUAAG---------------G---------CCGGA--CUCAGAC
+CL3_11170    A--------------------------AU--------------CG-----
+CL3_16580    UGUAGGGGAAGA-------------GG---------GAAGU--GGGAGA-
+CL3_29820    C--------------------------CU--------------GUCAGUG
+CL3_12870    U--------------------------CC-------GAUAA--GA-----
+CL3_10580    GGCA-AUAUAAAG-----------CGC----------------AAAAUAU
+CL3_01080    U--------------------------CU-------GUUAA--AUAAAAA
+CL3_06460    CUGA-UAACAC--------------UU--AC---CAGAUGC--UUUACA-
+CL3_00770    AUUA-AGAAACCG----------UCUGCC-------GUAAC--UGAAG--
+CL3_22490    UGAA-GGAAA-----------------AC-------AGAAA--GGAAUAU
+CL3_17320    AUCA-GAAAAA---------------G---------GUUGA--GAGACAG
+CL3_21100    U--------------------------UC--------------UU-----
+CL3_18180    CACA-AUAAAAU-------------GU---------AUUGA--CGGAUG-
+CL3_03480    CAAA-GAAAAAA-------------GU---------GAUAA--AUUAU--
+CL3_12290    AGAA-AAAAA-----------------UU--------------UAAAA--
+CL3_04260    CUGA-AGCCA-----------------CC--------------UUCACA-
+CL3_15520    U--------------------------UC--------------UGCUUA-
+CL3_24300    A--------------------------UC-------GUUGA--UUUGC--
+CL3_24290    CACAUGGAAA-----------------AU---------------------
+CL3_15610    U--------------------------UC--------------AUCAGAA
+CL3_02670    CGAA-AGCUA-----------------UU--------------UCAAUA-
+CL3_35310    C------AUACA-------------GC---------GGGAA--GUCGGA-
+CL3_11080    U------AUA-----------------UC-------AGAGC--GG-----
+CL3_09440    U--------------------------CU-------CGAAC--CA-----
+CL3_21610    CGAA-UAAGUUUG-----------AAU---------AUUAG--CUAAAAC
+CL3_09880    UGAA-AGAAAAA-------------GC---------GC-----AGAAG--
+CL3_00930    AGCA-GAAUAG---------------G---------AAGAA--CAGAAG-
+CL3_18550    A------AAA-----------------UU-------GAAAA--GUAGGGG
+CL3_03740    CAGA-UAAAA---------------------------------UGCAG--
+CL3_23970    A-------------------------------------------------
+CL3_17910    UUAAUGGAAAC--------------AG---------AAAAU--CG-----
+CL3_18260    AGAA-AAUAACC------------GCU--U-----AAGAAA--UUUUCG-
+CL3_05780    UAAAUUAAUACC-------------AU-C--------------UUAAAA-
+CL3_34110    CACA-UAUUGCA-------------AC---------AAAGC--CGCAUG-
+CL3_22960    UGGAGAUAUAAU-------------AGUC-------GCAGA--AUGAG--
+CL3_14900    G--------------------------UU--------------GA-----
+CL3_19920    GAUA-AAAGACU-------------GCUU-------AUAAC--GACAGG-
+CL3_22750    A--------------------------CU-------AAUCA--GGCGGAG
+CL3_30410    GGAA-AGAAAAGGCAU-----UCGCUU--G-----CCAGGA--CAGAUA-
+CL3_04340    A------AAACA-------------GC---------GAAGU--AGAAGA-
+CL3_00420    G--------------------------CU-------GGUGA--AG-----
+CL3_32650    AGGACUGAAAAA-------------GA---------AGAGA--AACAGA-
+CL3_10120    U--------------------------UC--------------GAAUGAA
+CL3_04090    CAGA-UGUCAU--------------CG---------GAUAA--AGAGUAU
+CL3_02200    GUCA-UAAGGC--------------AGCU--------------UGAUG--
+CL3_21590    CAAAGAAAUAGA-------------GG---------GGAAA--UUCUGA-
+CL3_12140    AGCA-AUUAA-----------------CG-------AGUAA--UU-----
+CL3_27980    U--------------------------CU--------------GGAAG--
+CL3_18470    CAAA-AUUAACU-------------GCUU-------AAGGA--AGCGUG-
+CL3_00450    GGCAAAUAAA-----------------CC--------------GU-----
+CL3_08230    C--------------------------UU--------------UUAAGA-
+CL3_35300    AGCAUAGAAUAA-------------GG---------CAGAA--GGCAA--
+CL3_13760    ACCA-GUAAAC---------------ACC-------AUAAU--CGCAGG-
+CL3_25360    AACU-AAAUA-----------------UU--------------UACAGG-
+CL3_26390    CGGAAUGAUU-----------------AU--------------AAUAAA-
+CL3_27490    UGCA-UUACAC---------------ACC--------------GAAAG--
+CL3_11410    AUUA-AGAUAC---------------U--C----UAAUUGA--UUCAGA-
+CL3_31560    C--------------------------CU-------GCAAC--GGCUCC-
+CL3_05020    UGCA-AGAAACAAACU----AAAAUUU--------AACUUA--UCCAUUC
+CL3_05950    C--------------------------UU--------------CGCAGG-
+CL3_05140    CGAA-GAAAAAA-------------UACU-------GAUGA--UGCUUU-
+CL3_21680    UUGA-AGAUG--------------------------GUUAU--UAAAAU-
+CL3_31480    UGGA-AA--------------------UC--------------AUCAGA-
+CL3_09350    AAGA-UGAAAAA-------------GU------------UC--UUGACA-
+CL3_32440    U--------------------------CU--------------GGAAAAA
+CL3_04680    U--------------------------UG---------------------
+CL3_01780    C--------------------------CC-------GAAAC--UUUAG--
+CL3_22970    AUCA-UUUAUC---------------A----------------GAAAUAA
+CL3_33300    AUAA-AAAUAUUGU---------UUUG---------AUUUC--UGAAUAA
+CL3_30860    CCGA-AAAAA-----------------AC--------------GGGAUAU
+CL3_08090    CUGA-GAAGAGAG-----------ACC-U-------GGUGA--AA-----
+CL3_30820    AACA-AUAAU-----------------CC---------------------
+CL3_00340    AAAAUAGAAAGA-------------GA---------AAAUA--GAAAGA-
+CL3_08210    AAGA-UGAAAAAG----------GAAU---------CUUGA--UGAAAGU
+CL3_19800    U--------------------------CC--------------GGCUUG-
+CL3_01230    U------------------------------------------GA-----
+CL3_11500    U------AAA-----------------AU--------------GG-----
+CL3_31460    U------AGAGU-------------GUCU--------------GAGGGA-
+CL3_28900    UGGA-AAAUACA-------------GG---------GAAAC--AUAACAA
+CL3_25070    A--------------------------UC--------------GCAUGAC
+CL3_11510    U--------------------------UU--------------UCCAUAU
+CL3_29000    U--------------------------UC--------------UCAAUAU
+CL3_25500    U------AAAGG-------------GA----------------GAAAAGC
+CL3_18570    A------AGACU-------------GCCU-------GAACA--GAGAAG-
+CL3_28950    UGGA-GAAAAAG------------AAG---------GUAGU--GGUAGG-
+CL3_07610    UGGACGGAGGAUG-----------GGU---------GUAAA--GGGGGGA
+CL3_01270    A------AAAAA-------------GG---------GUAGA--GAAAAU-
+CL3_34270    AUCA-GAAAG--------------------------UAAGA--GACGAA-
+CL3_15470    U--------------------------CU-------GCAGU--GUGGG--
+CL3_34460    A-----------------------------------GAGCA--UACAGAC
+CL3_13820    C------ACG----------------C-------------A--GGCCGG-
+CL3_19560    CGGA-AGAGACAG-----------ACG---------GAAAU--GAAAAUA
+CL3_25140    CACAGUAAAACA-------------GA----------AUAACCGACAA--
+CL3_12310    GACA-AGAAAUU-------------AUCU--------------GAAAUAU
+CL3_32720    AUGAGAGAUAUU-------------GG--A-----CAAACA--UUCAUG-
+CL3_10870    AAGA-AUAAG-----------------CU-------GUCAA--GCGAAA-
+CL3_34710    UAAA-UGAAA--------------------------AUUGC--UGUAGU-
+CL3_18170    CUGA-UGAAU-----------------AC-------AGAAA--AAAAGA-
+CL3_03820    U--------------------------CC-------CAGAU--GGAAG--
+CL3_16410    CGCAUGGAAAG--------------AU------------UU--AAAAGA-
+CL3_12260    UGAA-GGAAAUC-------------GG---------AUAAA--AUAACU-
+CL3_21660    U-------------------------------------------------
+CL3_02620    C--------------------------UC--------------CGUAU--
+CL3_11460    G--------------------------CU---------------------
+CL3_28310    AGGA-AAAAG--------------------------AAUAA--UUUAU--
+CL3_28960    CAGA-GAUAGCG-------------GC----------------GGGAGAA
+CL3_22780    C--------------------------GC--------------UGCAAA-
+CL3_29340    GUCA-UGGAA-----------------CU--------------GCCGGAG
+CL3_29510    C--------------------------AG--------------GGGAGG-
+CL3_16120    UUUA-AGAGG-----------------CG--------------UACAG--
+CL3_16820    UGAAAAGAAA-----------------CU-------GUAAC--GGCAU--
+CL3_17740    AAUA-AAAAGCAG----------CAGU------------UC--GGCUUU-
+CL3_31450    GGGAGAAAUAG--------------GG---------AAAGA--GAGAGGG
+CL3_00300    CACA-AUAUA---------------------------------UAUAG--
+CL3_15530    ACUA-AAAAACA-------------GA---------GAGAA--AGAAUA-
+CL3_33340    U--------------------------CU--------------GACAG--
+CL3_05580    A--------------------------CU-------GUGAU--UUAAGAA
+CL3_02930    U--------------------------CU-------UUAAA--GUGAUG-
+CL3_00410    GGGAUAGAUG-----------------CC-------GGGGA-GGGAAAAA
+CL3_25630    UAAA-UAAUU-----------------CU--------------UGUAAUC
+#=GC SS_cons ::::.:::::.................::.......:::::..::::::.
+#=GC RF      uggA.aaAAA.................cU.......gaAAA..ggcAgA.
+
+CL3_10340    UACACGGCGGA---GGGA-AC-----------------------------
+CL3_32900    ACAGCGGGGGA---AGAG-UC-----------------------------
+CL3_14750    ACCUUACUGCC---UUUC-GU-----------------------------
+CL3_27090    CAGGCACUGCC---GGGCU-------------------------------
+CL3_17520    GGAACGGGUGU---AAGU-UUCCGGUGACUU-------------------
+CL3_33290    AAGGAAAAAGC---UGGC-AGA----------------------------
+CL3_17680    GGAAGAGAACG---AGAG-UUUUAUGUGACU-------------------
+CL3_32910    ACAGCGGGGGA---AGAG-AU-----------------------------
+CL3_08410    GACCAGGCCGC---CCU---------------------------------
+CL3_10520    UUAAAAGCCGU---CCUG-AUAAUAA------------------------
+CL3_30490    AAAGCUGUGCA---GGGA-GCUU---------------------------
+CL3_17770    CGGGAGGAAUG---UGAG-AGUUUUGUGACU-------------------
+CL3_28490    GAGGAAGAUUU---UCAG-UGACUU-------------------------
+CL3_20790    AGGAAGAGGGA---AAAC-AG-----------------------------
+CL3_27890    ACAGCCGUUGU---AGGA-UU-----------------------------
+CL3_28590    CCGGGCGCCGC---AGA-A-------------------------------
+CL3_13180    ACAGCGGGGAU--GCUUU-ACAGGGAACCA--------------------
+CL3_29680    AGCGGCCAAAU---GGG---------------------------------
+CL3_27900    ACAGCCGCUGU---AGGA-AC-----------------------------
+CL3_11700    AAGCAGCCC------CUG-UGUCCGGAGAGGAAG-------------UCC
+CL3_30050    AAGAGCCUG-----AGCA-GCUGGAUUGGCCUCCUGUCAGAAAGACAGGG
+CL3_26250    GCCAGCCUGCC---CGGA-UUUCUGCGCG---------------------
+CL3_11270    UUGGUGCUUCU---CUAA-GUCUAUUC-----------------------
+CL3_14180    CGUGCAGAAAC---GCAC-AG-----------------------------
+CL3_03150    GACCUCCUAAU---AUAU-UUAACA-------------------------
+CL3_01860    CAGAGGGAGAU---UAUU-UCUGAUAU-----------------------
+CL3_10170    AAAACGGCGCC---GGAA-AGCCUC-------------------------
+CL3_25330    ACGGGGACAUG---GUACU-------------------------------
+CL3_20340    AAAGUGCCCGC---AGCU-AU-----------------------------
+CL3_01090    CCCAGAUACAG---------------------------------------
+CL3_31970    CGGACAGGGGG---AUG---------------------------------
+CL3_21420    CGGCCGCCGGG---CAGA-AGAAUUGG-----------------------
+CL3_16510    CAGGCGCAUCU---UCUU-UU-----------------------------
+CL3_10250    GGGAGGGAGGA---AAUU-UUUUGUGACU---------------------
+CL3_17670    GGAAGAGAACG---AGAG-UUUUCUGUUCCA-------------------
+CL3_09620    AAAAGGGCCGC---CGG---------------------------------
+CL3_14120    AAAAGCCCGGA---AAA---------------------------------
+CL3_19170    AAAGCAUUUUA--GAAGU-UCG----------------------------
+CL3_29660    GAGCCGGCUUU---UAUU-UGGCAGU------------------------
+CL3_28780    AAAAAUACGUC---UUGC-UGAAGAGU-----------------------
+CL3_32220    AGAGCAGACGA---GGUU-UC-----------------------------
+CL3_03830    GAAAAACCUGA---AAGG-CAA----------------------------
+CL3_26270    GGCCGAAGGGC---AUCA-UGAA---------------------------
+CL3_07490    AAACGGCCUGC---GGGU-AUCUC--------------------------
+CL3_14210    UUAGCGGUUUG---UCUC-UCC----------------------------
+CL3_25820    CUGCCCGCCGU---CUG---------------------------------
+CL3_26670    CCAGGCGGC-----------------------------------------
+CL3_09080    CGUGGGAUGCC---AGG---------------------------------
+CL3_28530    GGCAGGGAAGA---UUUC-CU-----------------------------
+CL3_23210    AAGGCAGCCUG---CUUC-UCU----------------------------
+CL3_17510    GGAACGGGUGU---AAGU-UUCCGGUUCCAG-------------------
+CL3_29890    AAGACUUUCAG---CAUA-UA-----------------------------
+CL3_07310    AAGGCAUCUAU---------------------------------------
+CL3_13700    GAAGCAGGGCA--UUGGG-UC-----------------------------
+CL3_20450    AAAAGACCGGU--A-CAA-AAGCUGUCUCUG------------------U
+CL3_01520    AGCAGGCUCUG---AGGA-AUCCG--------------------------
+CL3_06080    ACGGGGCCGGC---AGCCA-------------------------------
+CL3_24400    AAAGCCAGAGG---GAGC-AUACAGAG-----------------------
+CL3_23460    AAAACGGGAGA---AACC-GG-----------------------------
+CL3_24040    GCAGUGUCUGA---ACGC-UG-----------------------------
+CL3_34850    AAACCACAGAAA-UAUUU-GUGCC--------------------------
+CL3_32870    CCUGCCAGUGA--UCUGC-CCU----------------------------
+CL3_10680    AAAACGCUGCG--UGAGC-AUU----------------------------
+CL3_25150    ACAGCCGCCCC---GACG-AUAC---------------------------
+CL3_14400    GGAAGGCGGCA---------------------------------------
+CL3_22440    CCUGCACAAAA---ACGCC-------------------------------
+CL3_03600    UGCCGGACCGU-------U-------------------------------
+CL3_23790    GGUAUAUUGAC---CGC---------------------------------
+CL3_13950    AAGCCGCCUGA---GCAG-AA-----------------------------
+CL3_06870    CGGAGAGGGGC---------------------------------------
+CL3_04380    CAUAUAACAGG---AAAC--------------------------------
+CL3_22180    AGGGUGUCGGU---------------------------------------
+CL3_09180    AAGGGUUGGGU---UUUA-AU-----------------------------
+CL3_19690    AAGCUAGCCCC--CCAC---------------------------------
+CL3_26960    GAGGCAGAUGA---G-----------------------------------
+CL3_18750    AAAAAAGAGCG---ACAG-UCAA---------------------------
+CL3_05550    GGCAGAGAUUU---UUGU-GACC---------------------------
+CL3_05820    AGCGUGCCCCU---GGAC-AGGG---------------------------
+CL3_23450    GGAGAAACCGG---------------------------------------
+CL3_10990    CAGCCAGCAGG---CC----------------------------------
+CL3_24660    CUGGCAGAGAA---UCCC-CU-----------------------------
+CL3_24800    AGGUCUGCGGC--UAGGA-AGC----------------------------
+CL3_02440    GCAGGCCGCCG---------------------------------------
+CL3_28130    CUGCCAGAC-----------------------------------------
+CL3_17290    AGAGCAUUCAG---ACGC-AUUU---------------------------
+CL3_01600    GAAGGGCAGCA---GUGU-UUU----------------------------
+CL3_27700    AAUGCGGGGAG---CAAG-GU-----------------------------
+CL3_06860    GAGAGAGCGCC---------------------------------------
+CL3_08010    AUAACGGCGGC---GGGC-GAA----------------------------
+CL3_13010    GGGCGGGUGGC---------------------------------------
+CL3_27680    AUGACGGCGGC---UG----------------------------------
+CL3_17660    UUCCCGGCGGG---------------------------------------
+CL3_18140    GGGGCUGUCGC---ACUA-AA-----------------------------
+CL3_02080    AAAGAGAAGGC--GUCUC-AGCGGCU------------------------
+CL3_18240    AUAUUGCACUG---AUCC-UGU----------------------------
+CL3_25590    AAGAAUGCCUU---------------------------------------
+CL3_34140    AAAACCCCCAU---GUUU-UUUUGUUUCCU--------------------
+CL3_09450    AGACCUCCGGC---GGA---------------------------------
+CL3_34810    ACGGCUGCAGC-------G-------------------------------
+CL3_22600    AGCAGAGAACC---GGCG-CG-----------------------------
+CL3_16370    AUAAUAAAGGU---GUUCC-------------------------------
+CL3_11130    AAAAGACAGGA---UAUU-UUGUUCC------------------------
+CL3_12000    AGUGCCGCAAA---GUCA-UCC----------------------------
+CL3_11170    GCGCUGCCGCA---GCGG-UU-----------------------------
+CL3_16580    AAAGGGAAAGU---UUUU-UUGUUCCGA----------------------
+CL3_29820    AGGAUGCCUUC---------------------------------------
+CL3_12870    AUGAUAGAAUA---CGAU-CGA----------------------------
+CL3_10580    UCUGCCCCUGC---CAGA-CCAAGA-------------------------
+CL3_01080    GUCCCAGACAC---A-----------------------------------
+CL3_06460    AAAGCUCCGGU---------------------------------------
+CL3_00770    AAGCCGGAGCU---------------------------------------
+CL3_22490    CUUCUGUCACA--CGAGG-AGGUCA-------------------------
+CL3_17320    GCCUUCUCGUU---AAAAC-------------------------------
+CL3_21100    UCACUGUCAGC---AGG-C-------------------------------
+CL3_18180    ACCGGACUGCU---GCA-U-------------------------------
+CL3_03480    AAAAGACGCCG---AAAA-AU-----------------------------
+CL3_12290    GAGGAGGCUGU---AGUG-AGA----------------------------
+CL3_04260    GUAAAUACCGC---UGCA-UCUCUGUC-----------------------
+CL3_15520    UCUGCCCAACA---GGA---------------------------------
+CL3_24300    GGGGCUGCUGA---CGGU-AU-----------------------------
+CL3_24290    CUGAUGGGUGG---------------------------------------
+CL3_15610    AAGGCUGCCGU--CGGAA-UU-----------------------------
+CL3_02670    UAAAAAAUAGU---------------------------------------
+CL3_35310    AAAAGAGAGCU--UCCGG-AGG----------------------------
+CL3_11080    CGCAGCCCGGA---AGGA-AU-----------------------------
+CL3_09440    UAAGACCUCCG---ACG-A-------------------------------
+CL3_21610    GAGAGGGGUCU---UAG---------------------------------
+CL3_09880    CAAGGGCCU-----------------------------------------
+CL3_00930    UUACCCCCUCU---GGUU-UU-----------------------------
+CL3_18550    ACAGUCAGAAA---CAG---------------------------------
+CL3_03740    CAGGA-GCUGU---------------------------------------
+CL3_23970    GAAAGCCUGGA---AGAA-UU-----------------------------
+CL3_17910    ACGGCUGCACC---UGU---------------------------------
+CL3_18260    GGAGCCAUGAC--CGGGA-AG-----------------------------
+CL3_05780    GGAGCAGCUCU---------------------------------------
+CL3_34110    CAGGCGCUGUC-------G-------------------------------
+CL3_22960    AUGCCGGCUUUG-CCUCC-UGGUGA-------------------------
+CL3_14900    ACAAAAAGG-----------------------------------------
+CL3_19920    CAGGCGGCUGG---GGGU-GAACGGU------------------------
+CL3_22750    UCAGGCCCGGA---AACCG-------------------------------
+CL3_30410    AAAGGCGGUAU---ACCC-UU-----------------------------
+CL3_04340    GCAGCAGCU-----------------------------------------
+CL3_00420    GGCCGGGUGGU---------------------------------------
+CL3_32650    CAGGAAAGGCU---GAUGC-------------------------------
+CL3_10120    GGCCGGCUGCUC-CUGG---------------------------------
+CL3_04090    AAUUCCUUUCC---AAGC-CGUG---------------------------
+CL3_02200    CCCCUGCAAUU---------------------------------------
+CL3_21590    AACGUUGGGGA---CGUGU-------------------------------
+CL3_12140    AAAACAGCUCC---AUAC--------------------------------
+CL3_27980    GGACAGCCU-----------------------------------------
+CL3_18470    GCCGCAAUUUU---------------------------------------
+CL3_00450    CCGCCGCCGUA---UGG---------------------------------
+CL3_08230    ACAGGGAGGAA---GCC---------------------------------
+CL3_35300    AAAAGAGAGCUG-GCCGG-GGAU---------------------------
+CL3_13760    GAUGGGGUGGC-------A-------------------------------
+CL3_25360    AAACCAGCC-----------------------------------------
+CL3_26390    AGAAAAAGG-----------------------------------------
+CL3_27490    UCCAGAGUGUA---------------------------------------
+CL3_11410    AAGACACUCUU---------------------------------------
+CL3_31560    CCUCCGGCACC---------------------------------------
+CL3_05020    AGCGGUCAUGU---------------------------------------
+CL3_05950    AGCAAAAGCGG---CGGG-AAA----------------------------
+CL3_05140    ACAGCCCCGGA-------G-------------------------------
+CL3_21680    GCAUAAGAGGG--CGUGUA-------------------------------
+CL3_31480    UUCAGAGCAGC---------------------------------------
+CL3_09350    AACGAAAAA-----CAGC-GUG----------------------------
+CL3_32440    AGCUGAACCAG---ACGC-UGUUUAUC-----------------------
+CL3_04680    AGCAUCUGUUU---------------------------------------
+CL3_01780    AAGAAGCCGCU---------------------------------------
+CL3_22970    CCGGCAGGGGC--CUCG---------------------------------
+CL3_33300    GUCGCCUCGGUUUGGUA---------------------------------
+CL3_30860    CCCCGGGCAGAA-UGGAA-CCU----------------------------
+CL3_08090    AAGGCUGCCGC---AAAA-CGGAAGUU-----------------------
+CL3_30820    AGGACGUUUCC---AGAC-AGCA---------------------------
+CL3_00340    GAGAAAAGG-----CGCUG-------------------------------
+CL3_08210    CUGGGGAUGGG---CAG---------------------------------
+CL3_19800    GGGGAUGCGAA--AUGGC-AG-----------------------------
+CL3_01230    AAGAGAGAGGC---------------------------------------
+CL3_11500    GCGGGGGAGCA---------------------------------------
+CL3_31460    AAACCGGGACCG-CCCUC-UGCUGUC------------------------
+CL3_28900    CAGGCGUCAGG---CAGC-CUU----------------------------
+CL3_25070    AAACCAGCCAC---------------------------------------
+CL3_11510    CUGUGAGCGGG--UAGUCU-------------------------------
+CL3_29000    AAAGCAGACAU---AAUC-CCACUGCAC----------------------
+CL3_25500    GACAGGCAGGC---GGCC-GCUG---------------------------
+CL3_18570    AAAAUGGCCCG---AAAA-GC-----------------------------
+CL3_28950    CAUGUCAGGAG---GAG---------------------------------
+CL3_07610    AAAGGAGCGGU---UUUU-UAUUCCAG-----------------------
+CL3_01270    AUCCCUGCCGG---CAAA-UCCUUUCGC----------------------
+CL3_34270    AUUAGGGUGGA---------------------------------------
+CL3_15470    AAGAUGCCG-----------------------------------------
+CL3_34460    CUGAUGCAG-----CGGC-CU-----------------------------
+CL3_13820    AGGGCGGGAGG---------------------------------------
+CL3_19560    UCAGGGCCGGA--------AG-----------------------------
+CL3_25140    CCAAGAGGGAU---UUUC-CG-----------------------------
+CL3_12310    AUCGCGGAAGA---A---A-------------------------------
+CL3_32720    CAGGACCUGCA---------------------------------------
+CL3_10870    AAGAAAAGGUG---AAUA-AGGCA--------------------------
+CL3_34710    CAGGGAAGGGG--ACAGU-GUG----------------------------
+CL3_18170    AACGCAA-------------------------------------------
+CL3_03820    AGGGCCGCCGU---UUUCU-------------------------------
+CL3_16410    AAAAGAAAU-----------------------------------------
+CL3_12260    UUUCCCCUG------GG---------------------------------
+CL3_21660    GAAGCGGAGGAG-UCCU---------------------------------
+CL3_02620    UCAUGUCAUGC---------------------------------------
+CL3_11460    AAAACAGUAUA---ACCGC-------------------------------
+CL3_28310    GAAAACAGUCA---UGU---------------------------------
+CL3_28960    ACAGGCAGCCG---------------------------------------
+CL3_22780    GCGGGGAUAAC---GGCUG-------------------------------
+CL3_29340    CAGACGCUGCC-------G-------------------------------
+CL3_29510    GCAGCUGAU-----ACCU-UC-----------------------------
+CL3_16120    AGAAAAGGGC-----GG---------------------------------
+CL3_16820    CGGGCCCCGGA---GCAUC-------------------------------
+CL3_17740    CGGGAUCCCCC---GGCG-CUUUCGCGC----------------------
+CL3_31450    AGAAGACUGAU---UGUU-CCG----------------------------
+CL3_00300    AAUACGCCGCA---AUGC-CU-----------------------------
+CL3_15530    AGCGCAGCGCC---GGAC-AGGCAUCU-----------------------
+CL3_33340    AGAGGGGCAGU---CAGC-UU-----------------------------
+CL3_05580    GAUCAAACGCU---GGC---------------------------------
+CL3_02930    CAGGAGGCGGU---AUAC-CCCAG--------------------------
+CL3_00410    GGAGCCGUUGCAAAAUAG-AUGAG--------------------------
+CL3_25630    AGAGGGACAAU---------------------------------------
+#=GC SS_cons <<<<<<<<<<<...<<<<.__.............................
+#=GC RF      aaagcggcggc...aggc.uu.............................
+
+CL3_10340    ----------AAAAGC--C-CC---UCCGCC--GUGUA
+CL3_32900    ----------CUAU---CU-CU---UCCCCC--GCUGU
+CL3_14750    ----------AAAAUU-GA-AA---GGCAGU--AAGGU
+CL3_27090    ----------GAUU---GG-CC---GGUGGU--GCCUG
+CL3_17520    CGCUGGAACCGGAA---AC-UU---ACACCC--GUUCC
+CL3_33290    --------AUCCCU---GU-CA---GCUUUU--UCCUU
+CL3_17680    UCGCUGGAACAGAAAA-CU-CU---CGUUCU--CUUCC
+CL3_32910    ----------AGGA---CU-CU---UCCCCC--GCUGU
+CL3_08410    ----------UUUU----G-GG---GCGGCC--UGGUC
+CL3_10520    ----CAUUUUAUAAUU-CA-GG---ACGGCU--UUUAA
+CL3_30490    -------GCGGGCUCA--U-CC---UGUACA--GCUUU
+CL3_17770    UUACCGGAACAAAAUC-CU-CA---CAUUCC--UCCCG
+CL3_28490    ------CGCUGGAA---CU-GA---AAAUCU--UCCUC
+CL3_20790    ---------CGCCUCU-GU-UU---UCCCUC--UUCCU
+CL3_27890    ----------UUGU---UC-CU---ACAGCG--GCUGU
+CL3_28590    ----------GUAUCU--U-CU---GCAGCG--CCCGG
+CL3_13180    UUCAGGUUUCAGCAGG-AG-AG---CUCCCC--GCUGU
+CL3_29680    ----------AUCUGA--C-UC---AUUUGG--CCGCU
+CL3_27900    ----------AAAA---UC-CU---ACAACG--GCUGU
+CL3_11700    UCCUCUCCCAGGCC---CG-GA-----GGGC--UGUUU
+CL3_30050    GGCUUUUCACAGAUUC-UG-C------CGGG--CUUUU
+CL3_26250    --CAAGGAGCAGAAUU-UC-CG---GGCAGG--CGGGC
+CL3_11270    ---GGGCGGUAGAU---UU-AG---AGAAAC--ACCAA
+CL3_14180    ---------AACAAUC-GU-GC---GUUUCU--GCACG
+CL3_03150    ------AUAGUUAA---AU-AU---GUCAGG--AGGUU
+CL3_01860    ----UAUAAAUUCAGG-GA-UA---AUCUCC--CUUUU
+CL3_10170    -----CUGCCUGCU---UU-CC---GGCGCC--GUUUU
+CL3_25330    ----------AUAAUG-GU-AU---CGUGUC--CCUGU
+CL3_20340    ----------CCAAAU-GG-CU---GCGGGC--ACUUU
+CL3_01090    ----------GAAA-----------CUGUGU--CUGGG
+CL3_31970    ----------ACGAAU--C-AU---CCCCCU--GUCCG
+CL3_21420    ---CAAAAAUGGAUUC-UC-UG---CCUGGC--GGCCG
+CL3_16510    ----------UGAAGG-GA-GA---GGAUGC--GCCUG
+CL3_10250    --UCGCUGGAACAAAA-AA-UU---UCCUCC--CUCCC
+CL3_17670    GCGAAGUCACAUAAAA-CU-CU---CGUUCU--CUUCC
+CL3_09620    ----------AAAU----C-CG---ACGGCC--CUUUU
+CL3_14120    ----------UCAAGG--U-UU---UCCGGG--CUUUU
+CL3_19170    --------CGGCAGCG-GC-UU--UUAAGAU--GCUUU
+CL3_29660    -----CAUUGUCCA---AA-UA---GGAGCC--GGCUC
+CL3_28780    ---UUUUCUCUAAU---GC-AA---GGCGUA--UUUUU
+CL3_32220    ---------GGGAAGG-AA-CU---UCGUCU--GCUCU
+CL3_03830    --------AAAGAAGG-CC-UU---UCAGGU--UUUUC
+CL3_26270    --------UCAUUUUC-UG-AU---GCCCUU--CGGCC
+CL3_07490    ------UUCGGGAA---AC-CU---GCAGGC--CGCUU
+CL3_14210    ---------GGCCAGG-GAAGA---UAAACC--GCUAA
+CL3_25820    ----------UGAU----C-AG---GCGGCG--GGCAG
+CL3_26670    ----------UCUUCU-----------GCCG--CCUGG
+CL3_09080    ----------CCAAUG--C-CU---GGCAUC--CCACG
+CL3_28530    ----------GAAAGG-GA-AG---UCUUCC--CUGUC
+CL3_23210    --------UCUGCUGG-GA-AG---CAGGCU--GCCUU
+CL3_17510    CGAAGUCACCGGAA---AC-UU---ACACCC--GUUCC
+CL3_29890    ----------AGCA---UA-UG---CUAAAA--GUCUU
+CL3_07310    ----------CGAAAG---------GUAGGU--GCUUU
+CL3_13700    ----------UCAUCU-CC-CA--UUGUCCU--GCUAC
+CL3_20450    GGCGUCAGUCUGUU---UU-G---UACCGGU--CUUUU
+CL3_01520    -------GAAAGGA---UCGCU---CAGAGC--CUGCU
+CL3_06080    ----------UAUUUG-GG-AA---GCCGGC--CCCGU
+CL3_24400    ----UCAUUCUGUACC-GU-UC---CCUCCG--GCUUU
+CL3_23460    ---------CAGCUCC-GG-UU---UCUCCC--GUUUU
+CL3_24040    ----------UCCUUC-GC-GC---UCUGAC--ACUGC
+CL3_34850    ------AUGCAGAUAC-AA-AU--UUUCUGU--GGUUU
+CL3_32870    ---------CUCUGCG-GC-AG--UUCACCG--GCAGG
+CL3_10680    --------GGUAGAGC-GC-UC---CGCAGC--GUUUU
+CL3_25150    --------AUUCCA---CG-UC---CGGGCG--GUUUU
+CL3_14400    ----------UGUGUA---------UGCUGC--CUGCU
+CL3_22440    ----------UGA----GC-GU---UUUUGU--GCAGG
+CL3_03600    ----------UUUU-----------GCGGAC--CGGCU
+CL3_23790    ----------GGA-----G-AG---GUCAAU--AUACC
+CL3_13950    ---------AGAAA---CU-GU---UCGGGC--GGUUU
+CL3_06870    ----------GAAA-----------GCCCUU--CUCUU
+CL3_04380    ----------UUC----GU-UC---CCUGUU--AUAUG
+CL3_22180    ----------GUCAAA---------ACCGGC--ACUCU
+CL3_09180    ---------GGCAACA-UG-AA---ACCCAA--CCUUU
+CL3_19690    ----------AUCU----G-UG--AGGGGCU--AACUU
+CL3_26960    ----------AGCAGU-----U---UCAUCU--GCCUC
+CL3_18750    --------UCAUCA---CU-GC---CGCUCU--UUUUU
+CL3_05550    -------UCCAGCGGA-AC-GG---AAAUCU--CUGCC
+CL3_05820    -------UGAGACU---GU-CC---GGGGAC--ACGCU
+CL3_23450    ----------AGCU---G-------CCGGUU--UCUCC
+CL3_10990    ----------GGGA------GG---UCUGCU--GGCUG
+CL3_24660    ----------CCCGGC-GG-GA---UACUCU--GCCGG
+CL3_24800    ---------CUAAA---UC-CA--AGCUGCA--GAUCU
+CL3_02440    ----------UUU------------CGGCGG--CCUGU
+CL3_28130    ----------AAA--------------GUCU--GGCAG
+CL3_17290    --------UCAGAAAU-GUGGU---UUGAAU--GCUCU
+CL3_01600    --------GAUGAAAG-GC-AG---UGCUGC--CUUUC
+CL3_27700    ----------AUAAAC-CUGUG---CUCCCC--GCGUU
+CL3_06860    ----------UGAGAG---------GGCGCU--UUUUC
+CL3_08010    ---------GAGAU---GU-CC--GGCCGCC--GUUUU
+CL3_13010    ----------AUCA---A-------GCCACC--CGGCC
+CL3_27680    ----------AACA------CA---GCCGCC--GUUUU
+CL3_17660    ----------CUUUGU---------UCUGCC--GGGAA
+CL3_18140    ----------UAAU---UA-GU---GCGGCA--GCACU
+CL3_02080    -----UUGCCGAAAGG-GA-GA--GGCCUUC--UCUUU
+CL3_18240    ---------UUUAA---GG-A-----AGUGC--GGUAU
+CL3_25590    ----------UUA------------AAGGCA--UUUUU
+CL3_34140    -AGAAAAGUCACAAAA-AA-AC---AUGGGG--GUUUU
+CL3_09450    ----------UUU-----U-UC---GUCGGA--GGUCU
+CL3_34810    ----------AACUAA---------GCUGCA--GCCUG
+CL3_22600    ----------CUCUGG-CG-CU---GGCUCU--CUGCU
+CL3_16370    ----------AGGACG-GA-GC---ACCUUU--AUUUU
+CL3_11130    ----AGAAAAGUCACA-AA-UA---UCCUGU--CUUUU
+CL3_12000    ---------GUUAUGG-AG-GC---UUUGCG--GCACU
+CL3_11170    ----------GUAU---UU-GC---UGCGGC--AGUGC
+CL3_16580    --UGAAAGUCACAA---AG-AA---ACUUCC--CCUUU
+CL3_29820    ----------UUCUGC-A-------GAAGGC--AUCCU
+CL3_12870    ---------UAGAA---GU-CG---UAUUCU--AUCUU
+CL3_10580    ------AAGAAAAAGU-AC-UG---GCAGAG--GCAGA
+CL3_01080    ----------GUUUCC-----U---GUAUCU--GGGAC
+CL3_06460    ----------UUCUGC---------ACCGGA--GCUUU
+CL3_00770    ----------AAAA---A-------AGCUCC--GGCUU
+CL3_22490    ------UGAAGGGA---CU-UU--CUGUGAC--AGAGG
+CL3_17320    ----------AGUAGG-UU-UU---AACGGG--ACGGC
+CL3_21100    ----------CUUU----C-CU---GCUGGC--AGUUU
+CL3_18180    ----------AAAG----U-GC---AGCGGU--CCGUU
+CL3_03480    ----------AGCAGG----------GGCGU--CUUUU
+CL3_12290    --------AAGGCAGG-UG-CU---GAAGCCGA-CCUC
+CL3_04260    ----CUAUAUGGCUGC-CG-CA---GCGGUA--UUUUC
+CL3_15520    ----------ACUU----U-CC---UGCAGG--GCAGG
+CL3_24300    ----------AAUAAA-GG-UG---UCAGCA--GCUCC
+CL3_24290    ----------AACC-----------CCUCCC--GUCAG
+CL3_15610    ----------UUCA---UU-CC---GCAGCA--GCCUU
+CL3_02670    ----------GUCAGC---------ACUAUU--UUUUU
+CL3_35310    --------AGAAAUCC-CC-GGC-CAGCUCU--CUUUU
+CL3_11080    ---------GGUUAUU-UG-CU---UCCGGG--CUGCU
+CL3_09440    ----------AAAAUC--C-GC---CGGAGG--UCUUU
+CL3_21610    ----------AGAAAU--C-UA---AGGCUC--UUUUC
+CL3_09880    ----------ACAG---AC-CA-----AGGC--CCUUG
+CL3_00930    ----------ACAC---GG-CC---GGAGGG--GAUUU
+CL3_18550    ----------GAAAGU--C-UG--AUUUCUG--GCUGU
+CL3_03740    ----------AAAACG---------GCAGCG-G-CCUG
+CL3_23970    ----------AGUAAU----------CCAGG--CUUUC
+CL3_17910    ----------GACUGA--A-UA---GGUGCA--GCUUU
+CL3_18260    ---------GUUAU---UC-CCG-UGUUCUG--GCUCC
+CL3_05780    ----------GGCGAC---------GGGGCU--GCUCC
+CL3_34110    ----------UUAU-----------GGCAGC--GCCUG
+CL3_22960    -----UUAUUUCAA---GG-AG---GAAGCC--UGCAU
+CL3_14900    ----------UCUA-------------CCUU--UUUGU
+CL3_19920    ----CUACAGGCAA---AA-CU---GCAGCC--GCCUG
+CL3_22750    ----------AGA----GG-UU---UCCGGG--UCUUU
+CL3_30410    ---------CUGCA---GG-GC---GUACCG--CCUUU
+CL3_04340    ----------UAAA-------------AGCU--GCUGC
+CL3_00420    ----------GACA---A-------GUCACC--CGGCC
+CL3_32650    ----------AUUUCG-CA-UC---AGC------CCUG
+CL3_10120    ----------UGUAUG--C-CA--GAGCGGC--CGGCC
+CL3_04090    --------CAUAAUAG-GC-UU---AGAAAG--GAGUU
+CL3_02200    ----------UUCACC---------GGUUGC--AGGGG
+CL3_21590    ----------GUGACG-CA-UG---UCCUCU--UCGUU
+CL3_12140    ----------CUCAUC-GU-AU---GGGGCU--GUUUU
+CL3_27980    ----------GAGA-------------AGGC--UGUCC
+CL3_18470    ----------CAGAGU---------AAAAUU--GUGGC
+CL3_00450    ----------GGAAAC--C-UA---UACGGC--GGUUU
+CL3_08230    ----------GUUUAC--U-GC---UUCCUC--CCUCU
+CL3_35300    -------UUCUCCU---CC-GG--AAGCUCU--CUUUU
+CL3_13760    ----------AUAU-----------GCUACC--CCAUC
+CL3_25360    ----------UCAAUC-GU-CA-----GGCU--GGUUU
+CL3_26390    ----------AGAA---AU-CA---GC------UGUCU
+CL3_27490    ----------UGAAAG---------CACACU--CUGGG
+CL3_11410    ----------GGCAGC---------AGGGGU--GUCUU
+CL3_31560    ----------UAAAAG---------AGUGCC--GGAAG
+CL3_05020    ----------UUCCGG---------GCAUGA--CCGCU
+CL3_05950    ---------GCGUUAG-CC-CG---CCG------UGCA
+CL3_05140    ----------ACCG-----------UCCGGG--GCUGU
+CL3_21680    ----------UCAU---AC-AU--UCCCUCU--UAUUU
+CL3_31480    ----------UUAAUU-G-------GCUGCU--CUAUU
+CL3_09350    --------AUAUAAUA-GC-UGA-GCA-------CGUU
+CL3_32440    ---AGAAGCACCAA---GC-G------GGUU--CAGCU
+CL3_04680    ----------UUAU---A-------AGACAG--AUGCU
+CL3_01780    ----------UGCU---C-------ACCAGC--UUUUU
+CL3_22970    ----------AUGA----C-GG---GCCCCU--GUCUU
+CL3_33300    ----------AGAA----U-AU--UACCGAG--GUGAU
+CL3_30860    --------AUGAAU---UU-CC--UUCUGUC--CAGGG
+CL3_08090    ---UGUGAAACCUUCC-UU-UU---GCAGCA--GCCUU
+CL3_30820    -------AAUUUUACC-GC-CU---GGAAAC--GUUCU
+CL3_00340    ----------UAAAGC-AG-CG---GA-------UUUC
+CL3_08210    ------------------C-UG---CCCGUC--CCCUU
+CL3_19800    ----------GACU---GC-CGG-UUUUGCA---CCCC
+CL3_01230    ----------UGUU---A-------GCCUCU--CUCUU
+CL3_11500    ----------GAUUUG---------AGCUCC--CCCGU
+CL3_31460    -----AGCCCGGCA---GA-GGGAAGGUCCC--GGUUU
+CL3_28900    --------AAAAGAGG-GC-U-----CCGGC--GCAGG
+CL3_25070    ----------CUUUCG---------GUGGCU--GCUUU
+CL3_11510    -----------------GA-CU--GCCCGCU--UAUUU
+CL3_29000    --UUUCGUGCUUCUGA-GAGUU---AUGUCU--GCUCU
+CL3_25500    --------CCGGCA---GGAAU---GCCUGC--CUGUC
+CL3_18570    ----------UGAACG--U-UC---CGGGCC--GUGUU
+CL3_28950    ----------UUGA----C-UC---CUC------CGUG
+CL3_07610    ---CGAAGUCAUAA---AA-AA---ACCGCU--CCUUU
+CL3_01270    ---UUCACAGGUAAGC----------CGGCA--GAAUU
+CL3_34270    ----------GCAA-----------UCCACC--CUAGU
+CL3_15470    ----------GUUUCG-----------CGGC--AUCUU
+CL3_34460    ----------UUUUGC-GC-C------CUGC--GUCUG
+CL3_13820    ----------GAAA-----------CUGCCC--GUCCU
+CL3_19560    ----------AAAAGAUA-------UCCGGC--CCGGG
+CL3_25140    ----------GCUACG-GG-AA---GUCCCU--CUUUU
+CL3_12310    ----------UCCA-------U---UCUUCC--GCAUU
+CL3_32720    ----------GAAA-----------UGCAGA--UUUUG
+CL3_10870    ------UAUAUAAA--------------------UCUU
+CL3_34710    --------GAUACA---AU-UG---CCGCUU--CCUUU
+CL3_18170    ----------UGCAGG-AU-CA---AAGAUU--GCGAU
+CL3_03820    ----------UACA---GACAG---ACGGCG--GCU--
+CL3_16410    ----------ACCGCU-G---------AUCU--UUUUU
+CL3_12260    ----------GCAUGG--C-UA-----CAGG--GGAUU
+CL3_21660    ----------AACA----A-GG--CUCUUUC--GCUUU
+CL3_02620    ----------GAAACC---------GUAUGA--CAUGU
+CL3_11460    -----------------CG-GU---UAUACU--GUUAU
+CL3_28310    ----------AUA-----A-CA---UGA----------
+CL3_28960    ----------GGAAAC---------CGG-----CCUGU
+CL3_22780    ----------UAAAAG-GG-CC---AUUAUC--CCUGU
+CL3_29340    ----------GACU-----------GGCACC--GGCUG
+CL3_29510    ----------GUGUGG-AG-G------AUCA--GCUGC
+CL3_16120    ----------AGAACG--C-CA---GGCUCU--UUUCU
+CL3_16820    ----------ACCUUG-AC-GC---UCCGGG--GCCCG
+CL3_17740    --AGAAUGCAUGAAAG-CG-CC---GGGGGA--UCCCG
+CL3_31450    --------AUGGAAGG-GA-CA---GUCAGU--CUUCU
+CL3_00300    ----------GCACAG-GC-AU---UGCGGC--GUAUU
+CL3_15530    ----UUUAAAGCCU---GU-CC---GGCGCU--GCGCU
+CL3_33340    ----------UUAU---GC-UG---ACUGCC--CCUCU
+CL3_05580    ----------AGGA----G-CC---AG-------GAUC
+CL3_02930    ------CCAUGGGA---GU-AU---GCCGCC--UCCUG
+CL3_00410    -------AAAUCAU---CU-AUGGAGCAAUG--GCUCC
+CL3_25630    ----------GAAA-----------AUUGUC--CCUUU
+#=GC SS_cons ..........______.>>.>>...>>>>>>..>>>>>
+#=GC RF      ..........agaAgg.gc.cu...gccgcc..gcuuu
+//

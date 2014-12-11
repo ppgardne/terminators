@@ -1,0 +1,866 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.2-1
+#=GF AU Infernal 1.0.2
+
+#=GS BC1002_3424 WT 0.91
+#=GS BC1002_4476 WT 1.09
+#=GS BC1002_4339 WT 0.85
+#=GS BC1002_3595 WT 0.98
+#=GS BC1002_4338 WT 0.85
+#=GS BC1002_4020 WT 1.00
+#=GS BC1002_4513 WT 0.90
+#=GS BC1002_5267 WT 0.66
+#=GS BC1002_4376 WT 0.96
+#=GS BC1002_4511 WT 0.98
+#=GS BC1002_5206 WT 0.97
+#=GS BC1002_4506 WT 0.74
+#=GS BC1002_3892 WT 1.02
+#=GS BC1002_5070 WT 0.95
+#=GS BC1002_3811 WT 1.06
+#=GS BC1002_4383 WT 0.96
+#=GS BC1002_5184 WT 1.06
+#=GS BC1002_4658 WT 0.98
+#=GS BC1002_4337 WT 1.04
+#=GS BC1002_4382 WT 0.93
+#=GS BC1002_4243 WT 1.01
+#=GS BC1002_3617 WT 0.87
+#=GS BC1002_3591 WT 1.21
+#=GS BC1002_3426 WT 0.89
+#=GS BC1002_4407 WT 0.87
+#=GS BC1002_4713 WT 1.10
+#=GS BC1002_4768 WT 0.97
+#=GS BC1002_4682 WT 1.03
+#=GS BC1002_5073 WT 0.92
+#=GS BC1002_5177 WT 1.36
+#=GS BC1002_4507 WT 0.74
+#=GS BC1002_4108 WT 1.03
+#=GS BC1002_3694 WT 1.11
+#=GS BC1002_3484 WT 0.91
+#=GS BC1002_3776 WT 1.14
+#=GS BC1002_3364 WT 1.02
+#=GS BC1002_4477 WT 1.06
+#=GS BC1002_3897 WT 1.11
+#=GS BC1002_4962 WT 1.14
+#=GS BC1002_4468 WT 1.01
+#=GS BC1002_3590 WT 0.91
+#=GS BC1002_3689 WT 0.89
+#=GS BC1002_4775 WT 0.97
+#=GS BC1002_3816 WT 0.98
+#=GS BC1002_5071 WT 1.03
+#=GS BC1002_5302 WT 1.11
+#=GS BC1002_4414 WT 1.14
+#=GS BC1002_4761 WT 1.06
+#=GS BC1002_4684 WT 1.26
+#=GS BC1002_5116 WT 1.12
+#=GS BC1002_4659 WT 1.03
+#=GS BC1002_4964 WT 0.89
+#=GS BC1002_4939 WT 0.97
+#=GS BC1002_4579 WT 0.89
+#=GS BC1002_3442 WT 1.01
+#=GS BC1002_5018 WT 0.97
+#=GS BC1002_4325 WT 1.00
+#=GS BC1002_4844 WT 1.09
+#=GS BC1002_3692 WT 0.86
+#=GS BC1002_3459 WT 0.86
+#=GS BC1002_4588 WT 0.95
+#=GS BC1002_3900 WT 0.97
+#=GS BC1002_4448 WT 0.75
+#=GS BC1002_3981 WT 1.27
+#=GS BC1002_4584 WT 1.06
+#=GS BC1002_3859 WT 0.90
+#=GS BC1002_5268 WT 0.66
+#=GS BC1002_5017 WT 0.97
+#=GS BC1002_4361 WT 1.09
+#=GS BC1002_3382 WT 0.82
+#=GS BC1002_4770 WT 0.95
+#=GS BC1002_3657 WT 0.97
+#=GS BC1002_3899 WT 0.97
+#=GS BC1002_5111 WT 0.97
+#=GS BC1002_3456 WT 1.01
+#=GS BC1002_5149 WT 1.06
+#=GS BC1002_5161 WT 0.88
+#=GS BC1002_4600 WT 0.87
+#=GS BC1002_5291 WT 1.12
+#=GS BC1002_3755 WT 1.17
+#=GS BC1002_4710 WT 1.00
+#=GS BC1002_4449 WT 0.75
+#=GS BC1002_4327 WT 1.26
+#=GS BC1002_4336 WT 1.04
+#=GS BC1002_5048 WT 1.00
+#=GS BC1002_3228 WT 1.08
+#=GS BC1002_3383 WT 0.94
+#=GS BC1002_4676 WT 1.07
+#=GS BC1002_3219 WT 1.01
+#=GS BC1002_3618 WT 0.87
+#=GS BC1002_3680 WT 0.95
+#=GS BC1002_4984 WT 1.15
+#=GS BC1002_5097 WT 0.98
+#=GS BC1002_4113 WT 1.12
+#=GS BC1002_5269 WT 0.91
+#=GS BC1002_5431 WT 1.01
+#=GS BC1002_4812 WT 1.02
+#=GS BC1002_3729 WT 1.02
+#=GS BC1002_3365 WT 1.02
+#=GS BC1002_5189 WT 1.09
+#=GS BC1002_5273 WT 1.02
+#=GS BC1002_4039 WT 0.89
+#=GS BC1002_4742 WT 0.88
+#=GS BC1002_4555 WT 1.10
+#=GS BC1002_3932 WT 1.08
+#=GS BC1002_3847 WT 1.05
+#=GS BC1002_4743 WT 0.88
+#=GS BC1002_5218 WT 0.94
+#=GS BC1002_5078 WT 0.86
+#=GS BC1002_4097 WT 1.01
+#=GS BC1002_3985 WT 0.91
+#=GS BC1002_4712 WT 1.01
+#=GS BC1002_4469 WT 1.08
+#=GS BC1002_3341 WT 0.90
+#=GS BC1002_3946 WT 1.19
+#=GS BC1002_4933 WT 1.06
+#=GS BC1002_4732 WT 0.96
+#=GS BC1002_5371 WT 1.03
+#=GS BC1002_4568 WT 0.86
+#=GS BC1002_4377 WT 0.95
+#=GS BC1002_5521 WT 0.89
+#=GS BC1002_4924 WT 1.04
+#=GS BC1002_5281 WT 1.15
+#=GS BC1002_3807 WT 0.98
+#=GS BC1002_5334 WT 1.06
+#=GS BC1002_3688 WT 1.01
+#=GS BC1002_5259 WT 1.01
+#=GS BC1002_5265 WT 1.09
+#=GS BC1002_3539 WT 0.91
+#=GS BC1002_5170 WT 0.89
+#=GS BC1002_3338 WT 0.89
+#=GS BC1002_3461 WT 0.97
+#=GS BC1002_4983 WT 1.06
+#=GS BC1002_4842 WT 1.03
+#=GS BC1002_4657 WT 1.02
+#=GS BC1002_4521 WT 0.98
+#=GS BC1002_4673 WT 0.96
+#=GS BC1002_4952 WT 0.96
+#=GS BC1002_3691 WT 0.91
+#=GS BC1002_5135 WT 1.13
+#=GS BC1002_4520 WT 1.00
+#=GS BC1002_5182 WT 0.99
+#=GS BC1002_4311 WT 0.81
+#=GS BC1002_5214 WT 0.89
+#=GS BC1002_3602 WT 0.90
+#=GS BC1002_4017 WT 1.06
+#=GS BC1002_4345 WT 1.08
+#=GS BC1002_5077 WT 0.95
+#=GS BC1002_4629 WT 0.81
+#=GS BC1002_5074 WT 0.92
+#=GS BC1002_3431 WT 1.03
+#=GS BC1002_5489 WT 1.06
+#=GS BC1002_5425 WT 1.07
+#=GS BC1002_4970 WT 1.08
+#=GS BC1002_4096 WT 1.09
+#=GS BC1002_3441 WT 0.95
+#=GS BC1002_4405 WT 1.07
+#=GS BC1002_4704 WT 1.07
+#=GS BC1002_3373 WT 1.00
+#=GS BC1002_4318 WT 1.10
+#=GS BC1002_3237 WT 1.12
+#=GS BC1002_5053 WT 1.03
+#=GS BC1002_4411 WT 1.00
+#=GS BC1002_4656 WT 0.89
+#=GS BC1002_5054 WT 1.02
+#=GS BC1002_3372 WT 1.04
+#=GS BC1002_3963 WT 1.00
+#=GS BC1002_3358 WT 1.13
+#=GS BC1002_4041 WT 0.97
+#=GS BC1002_4630 WT 0.99
+#=GS BC1002_4390 WT 1.18
+#=GS BC1002_3346 WT 1.10
+#=GS BC1002_3699 WT 1.01
+#=GS BC1002_4672 WT 1.07
+#=GS BC1002_5213 WT 0.97
+#=GS BC1002_3878 WT 1.02
+#=GS BC1002_4720 WT 0.96
+#=GS BC1002_5445 WT 0.90
+#=GS BC1002_3619 WT 1.10
+#=GS BC1002_4545 WT 1.06
+#=GS BC1002_5327 WT 1.22
+#=GS BC1002_4556 WT 1.14
+#=GS BC1002_4655 WT 0.94
+#=GS BC1002_3966 WT 0.92
+#=GS BC1002_4087 WT 0.97
+#=GS BC1002_4709 WT 0.82
+#=GS BC1002_4725 WT 1.16
+#=GS BC1002_4493 WT 1.06
+#=GS BC1002_4580 WT 0.90
+#=GS BC1002_3360 WT 1.12
+#=GS BC1002_4609 WT 1.17
+#=GS BC1002_3638 WT 0.93
+#=GS BC1002_5195 WT 1.02
+#=GS BC1002_5266 WT 0.97
+#=GS BC1002_4836 WT 1.01
+#=GS BC1002_4804 WT 0.99
+#=GS BC1002_5181 WT 0.95
+#=GS BC1002_4048 WT 0.91
+#=GS BC1002_5185 WT 0.92
+#=GS BC1002_4042 WT 1.05
+#=GS BC1002_3639 WT 1.01
+#=GS BC1002_4578 WT 1.03
+#=GS BC1002_3818 WT 1.14
+#=GS BC1002_3569 WT 1.11
+#=GS BC1002_5494 WT 1.20
+#=GS BC1002_5168 WT 0.94
+#=GS BC1002_3870 WT 1.08
+#=GS BC1002_3896 WT 1.14
+#=GS BC1002_4711 WT 1.06
+#=GS BC1002_4001 WT 1.04
+#=GS BC1002_4509 WT 0.97
+#=GS BC1002_3339 WT 0.97
+#=GS BC1002_3345 WT 0.97
+
+BC1002_3424  AGCU--GAUCG----------GUUGAGA---------------------A
+BC1002_4476  GCCG--CGUU-----------AUCAAAA----------------------
+BC1002_4339  CGCG--CAUCG----------UUUGA------------------------
+BC1002_3595  AUCU--ACACG---------AUCUGAUG---------------------C
+BC1002_4338  AGCG--AAUA-----------AAAGA------------------------
+BC1002_4020  GACG-UAAGCGACGC-GGCAUACCAACG----------------------
+BC1002_4513  CGCG-UAAAU-----------ACU--------------------------
+BC1002_5267  A-----AUUCC----------GAUGA------------------------
+BC1002_4376  GGCU--GAGA-----------AAUGA------------------------
+BC1002_4511  GCCG-ACA--A----------A--AA------------------------
+BC1002_5206  A-----AUAU-------------UGACCUU------------------UA
+BC1002_4506  U-----GAGCG----------CAUAA------------------------
+BC1002_3892  AUCG--AGGC-----------A-CAAAG----------------------
+BC1002_5070  G-----CAUC-----------AACGAAA----------------------
+BC1002_3811  G-----CCUCG----------A-UGA------------------------
+BC1002_4383  A-----AUGCUU-------GCA-UGAAA----------------------
+BC1002_5184  GGCG-GCCGC-----------A-UAAUC---------------------C
+BC1002_4658  AGCG--CA-------------AGU--------------------------
+BC1002_4337  AGCG--GUUUU----------AAGGAGCU--------------------C
+BC1002_4382  AUCG--AAACU---------GUCU--------------------------
+BC1002_4243  UGCG--CAGCG----------A-C--------------------------
+BC1002_3617  GGCG--CAACAA--------GCUCGAUUCUU---------------UUCG
+BC1002_3591  UCCG--CUGU-----------A-UGAGAUGGCA------------AAGCG
+BC1002_3426  GGCG--CGGUA----------AACGACA----------------------
+BC1002_4407  GCCU--CAUC-----------AAC--------------------------
+BC1002_4713  GACG--UAGC-----------AGUGAAAGC------------------AG
+BC1002_4768  AUCG--AUGCA----------AACGAGC----------------------
+BC1002_4682  G-----AUUCA----------A----------------------------
+BC1002_5073  G-----AAGCG----------CGUGACG---------------------A
+BC1002_5177  GGCG--UGAC-----------UCC--------------------------
+BC1002_4507  AGCG--AUGACC--------GCGUGAUG----------------------
+BC1002_4108  AGCG-GCCGU-----------C--AAGG----------------------
+BC1002_3694  A-----UUGCUU--------ACGUGA------------------------
+BC1002_3484  GGCG-CAAGC-----------A--AAAC----------------------
+BC1002_3776  A-----AAGC-----------AGCAA------------------------
+BC1002_3364  GGCU-GAAAU-----------GCG--------------------------
+BC1002_4477  GACG--AA--A----------A----------------------------
+BC1002_3897  GGCG--AUACG----------A-UGAAA---------------------U
+BC1002_4962  CUCG--CCUCG----------GCU--------------------------
+BC1002_4468  AUCG--AGUU--------------GAGGGG------------------UU
+BC1002_3590  GGCG--UAGCG----------CGCAAAA---------------------A
+BC1002_3689  AGCU-GAUUUU----------CACGAAGCACGCG----------GGCGAA
+BC1002_4775  GACG--GUGU-----------AGCGA------------------------
+BC1002_3816  GGCG--UUGCG----------CCU--------------------------
+BC1002_5071  AGCC--AAGCG----------GGUAAAA---------------------A
+BC1002_5302  GACG-GGUGUG---------AUGUGAACG--------------------U
+BC1002_4414  G-----AUCCU----------GUUAACACAG---------------GCGG
+BC1002_4761  UCCG-CAAUU-----------A--GA------------------------
+BC1002_4684  AUCG-UAU--A----------A--AACGGC-----------------UCU
+BC1002_5116  G-----CUAU-----------ACCCA------------------------
+BC1002_4659  AGCG--UUGCA---------A--GCACG----------------------
+BC1002_4964  AGCG--CACC-----------AAUGACA----------------------
+BC1002_4939  GGCU--GAUC-----------GGU--------------------------
+BC1002_4579  GGCG-GAAUCCA-------GCA-CGAAA----------------------
+BC1002_3442  ACCG--CAA------------A--AAAA----------------------
+BC1002_5018  GGCG-GUUGC-----------UGCCAUU----------------------
+BC1002_4325  AGCG--GUGC-----------UGU--------------------------
+BC1002_4844  AACU-GAGGU------------GUGA------------------------
+BC1002_3692  AUCC--AAUC-----------U-C--------------------------
+BC1002_3459  GGCU-GAAUC--------------GAUG----------------------
+BC1002_4588  AGCG--CAAC-----------UAG--------------------------
+BC1002_3900  AGCU--GCUCG----------GCUGACG---------------------G
+BC1002_4448  GUCG--AUGC-----------AAUAA------------------------
+BC1002_3981  GCCG--CU-------------AAUGACUCUAU--------------CUUG
+BC1002_4584  AGCG--CAUCG---------CGCUAAGGCG------------------CG
+BC1002_3859  UGCGGUAAAC-----------A--GA------------------------
+BC1002_5268  GUCG-UAAUC-----------A--GACA----------------------
+BC1002_5017  ACCG--AAGUAA-------CU-AUGAGC----------------------
+BC1002_4361  GGCG--AUGCUG--------CGUUGAGA----------------------
+BC1002_3382  GUCU-AGUGCA----------A--AA------------------------
+BC1002_4770  GCCG-GCUUCUCU------CUUCUGAAC---------------------G
+BC1002_3657  GACG--CUGCCG--------CAGUGAGA----------------------
+BC1002_3899  CGCG--GAUUGA-------GCA-C--------------------------
+BC1002_5111  GUCG-GCAGCUCA-----CCGUCUGAAC---------------------G
+BC1002_3456  AACG-GCAACGG--------C-UCGACCCAU----------------GAC
+BC1002_5149  G-----UAUCG----------CUGGACACC-----------------UUG
+BC1002_5161  UUCG--AAGC-----------U----------------------------
+BC1002_4600  GCCG-GAA-------------AACGAGGC--------------------A
+BC1002_5291  GCCG-GCAGCU----------A--GAUUUC------------------GC
+BC1002_3755  AUCU-GAUGC-----------A--GAUC----------------------
+BC1002_4710  AGCU-UUAAC-----------U-CAAUC----------------------
+BC1002_4449  GACG-UUUGUCC-------GGCUCGAUG----------------------
+BC1002_4327  GACG-UAAGC-----------C--AACGCG------------------GC
+BC1002_4336  GUCU--CUUCAAC-----ACAUGUGAGC---------------------A
+BC1002_5048  AGCG--AAGC-----------AUCGACAAAG----------------CGA
+BC1002_3228  AACG-GCUGA-----------AAUGAAAGGCU-------------GAACG
+BC1002_3383  G-----CAAC-----------A-CGACC---------------------C
+BC1002_4676  UUCG-GAUGUG---------AAGUGAGG----------------------
+BC1002_3219  GGCG--AAAUA----------A-CUACGGGU---------------CGAG
+BC1002_3618  CUCU-CAAAC--------------GAAU----------------------
+BC1002_3680  A-----AUUC-----------GGUGA------------------------
+BC1002_4984  CACG-UGAUCG----------A-U--------------------------
+BC1002_5097  UACG--CAGCA----------AGCAAGCAA-----------------AAG
+BC1002_4113  AGCG-GGAACUA-------AA---G---AUC----------------ACG
+BC1002_5269  GGCG--CAUCG----------AUCAACUCA------------------AG
+BC1002_5431  GUCG--AAGUA---------AGCC--------------------------
+BC1002_4812  A-----AAUC-----------AUC--------------------------
+BC1002_3729  AGCG--CUAU-----------U-CGA------------------------
+BC1002_3365  ACCG-CGU-------------AUCGAUG----------------------
+BC1002_5189  UGCG--AUGA-----------ACCAAAA----------------------
+BC1002_5273  A-----AAGC-----------AUUGAACCC-----------------ACA
+BC1002_4039  GCCU-GAAUC-----------U-UCAUC----------------------
+BC1002_4742  AGCG-GCAGCU----------AGCGA------------------------
+BC1002_4555  C-----CAAC-----------AACGA------------------------
+BC1002_3932  GUCG--GUGC-----------AUUGAAAGAUAGCUACGCCUGAUGCAUCU
+BC1002_3847  UUCG-AUAGCC----------GCUAAAUUGC---------------CGCU
+BC1002_4743  AACG-CAAAC-----------A-CAAAC----------------------
+BC1002_5218  AGCG-UACAC-----------ACCGACACCGCGCCUU----UCCGCAGAU
+BC1002_5078  AGCUGUAAUC-----------GGUAAAA---------------------G
+BC1002_4097  AUCGCAAGGC------------UUGAUGCA-----------------GUC
+BC1002_3985  A-----GAUC-----------AGUCACG----------------------
+BC1002_4712  GGCU-GGCGU------------GUGA------------------------
+BC1002_4469  GGCG-GCAGCA-----------ACCACUAAGCA------------GUCGC
+BC1002_3341  A-----AGGC-----------C-UGACG----------------------
+BC1002_3946  U-----CAAC-----------U--GAUU----------------------
+BC1002_4933  AGCGCCAAACGC-------GCA--GAAGA-------------------CU
+BC1002_4732  UUCG--CUUC-----------ACC--------------------------
+BC1002_5371  AGCG--AAGUA---------AGUU--------------------------
+BC1002_4568  AGCC--AAUC-----------AGC--------------------------
+BC1002_4377  GUCG--AAGCG----------A-CAAAA----------------------
+BC1002_5521  G-----AAGC-----------A-UGAAA----------------------
+BC1002_4924  AUCU--AAAC-----------G-U--------------------------
+BC1002_5281  AGCUGCCUGU-----------AGU--------------------------
+BC1002_3807  GGCU--AA--A----------A--GAAC----------------------
+BC1002_5334  A-----AUGCG------------GGA------------------------
+BC1002_3688  CGCU-UGAUCG----------CGUGACGCCGU--------------CCUG
+BC1002_5259  GCCG-GCAGC-----------C-UGAUCCGU---------------CGUU
+BC1002_5265  GGCG--CAUU--------------GACAUGCC--------------CGUG
+BC1002_3539  AGCU-GCA--A----------A-UGA------------------------
+BC1002_5170  AGCG--AUGC-----------A--GAAAU--------------------A
+BC1002_3338  G-----AAGC-----------AUCGAAC----------------------
+BC1002_3461  GCCG-GCAGCUU--------GUCCGA------------------------
+BC1002_4983  AGCU-GAU--G----------GUUGAUU----------------------
+BC1002_4842  A-----AAGCGCU------AGGGUGA------------------------
+BC1002_4657  A-----CUGCA----------A--AAAA----------------------
+BC1002_4521  AGCUGCCUGC-----------G-CGAAU----------------------
+BC1002_4673  UGCG-UCGGU-----------AACGACA----------------------
+BC1002_4952  CGCG--CGUC-----------A--GAGA----------------------
+BC1002_3691  GCCU--CAUC--------------GA------------------------
+BC1002_5135  AUCG--CUGC-----------C--GAUU----------------------
+BC1002_4520  CGCG-GCAAU-----------AGU--------------------------
+BC1002_5182  AACG--GAUCU----------GCUUA------------------------
+BC1002_4311  G-----CAGC-----------G-C--------------------------
+BC1002_5214  ACCG--AAGCA----------A-UCAAA----------------------
+BC1002_3602  G-----AUGCA----------AGC--------------------------
+BC1002_4017  AGCG--GAAC-----------G--AA------------------------
+BC1002_4345  GGCG-CGCGCA-----------CGGAAA---------------------A
+BC1002_5077  G-----AAGC-----------A-UGAAA----------------------
+BC1002_4629  GGCG-GCAUCC-----------GCCAAAACGU--------------UCGC
+BC1002_5074  GUCG-GAUGC-----------A--GAAUGCAG-------------ACGUA
+BC1002_3431  GACU--GAGCU------------GGA------------------------
+BC1002_5489  CGCG-GAUUC-----------AUUGAUCAA------------------UA
+BC1002_5425  U-----AAGC-----------AUU--------------------------
+BC1002_4970  AUCU-UCGGC-----------UCGGA------------------------
+BC1002_4096  AACG-CGUUU-----------AACGACGGU------------------CC
+BC1002_3441  AGCG--GAUC-----------G-CGAUAGGGUGUG--------CGGCAAC
+BC1002_4405  GUCG-GAGGC-----------GGGGAUUCA-----------------UUC
+BC1002_4704  ACCU--GAUC-----------AAC--------------------------
+BC1002_3373  U-----UAGCU----------GCUGAUUU--------------------G
+BC1002_4318  GGCG-GACGA-----------A-U---G----------------------
+BC1002_3237  CGCG-GCUUC-----------G-C--------------------------
+BC1002_5053  CUCG-CAAGC-----------ACUGACUC-------------------GC
+BC1002_4411  G-----AAAC-----------AGUGAAUU--------------------C
+BC1002_4656  GGCU-GAAGC-----------AGGCACG----------------------
+BC1002_5054  AGCG--CUUCGUCAG-GGCCCAUCGAAGA--------------------C
+BC1002_3372  GUCG--UUGC-----------AGC--------------------------
+BC1002_3963  AGCG-UGGGC-----------AAU--------------------------
+BC1002_3358  UGCG-GAUGA-----------CACGACGCG-----------------AGC
+BC1002_4041  AUCG-CCUGAG----------CGU--------------------------
+BC1002_4630  AGCG--CAUCCAC-----UACA-CGAUUCU-----------------UUG
+BC1002_4390  U-----GAGCC---------GACUGA------------------------
+BC1002_3346  U-----GAGCU----------A--GA------------------------
+BC1002_3699  GUCG-GAGGC-----------C-UGAACGACC--------------CCGG
+BC1002_4672  AUCG--AUUC-----------U--GAUGCCUGG------------UUGAG
+BC1002_5213  GUCG--CGGU-----------AAC--------------------------
+BC1002_3878  GCCU-GACGC-----------G-CGACG----------------------
+BC1002_4720  AGCG-GCUUC-----------A-UGACU---------------------C
+BC1002_5445  AGCG-GCGGC-----------C-UGAUG----------------------
+BC1002_3619  CGCG-GAUACG----------GCCGACU---------------------G
+BC1002_4545  A-----GAUC-----------CGCCAGC----------------------
+BC1002_5327  GCCG-GAUAA-AU------GGCGCGACG----------------------
+BC1002_4556  AGCG-GCGGC-----------AAU--------------------------
+BC1002_4655  GGCC--UAUC-----------UGUGA------------------------
+BC1002_3966  UUCG--CUUCG---------AA--GAAG----------------------
+BC1002_4087  UUCG--AAAC-----------G-UG-------------------------
+BC1002_4709  A-----AUGC-----------G-C--------------------------
+BC1002_4725  AGCG-GAAGU-----------CGUGAGGCCGC-------------UUUCG
+BC1002_4493  GGCU-GAUUCACA-----AGG---GAUGAUGUUGCU------GGCGGGAU
+BC1002_4580  AUCG-UAUGCACUCGCUGGCCAACGA------------------------
+BC1002_3360  G-----CUUC-----------A-C--------------------------
+BC1002_4609  U-----GUGCGG--------GGUUGAUC----------------------
+BC1002_3638  UUCG--AUUUA----------A-UG-------------------------
+BC1002_5195  AUCU-GAUGCC----------GAU--------------------------
+BC1002_5266  G-----AAUC-----------UGC--------------------------
+BC1002_4836  GGCG--AAGA-----------ACUGAGGCCGCG------------AUAGC
+BC1002_4804  GCCG-CAUUC-----------C-C--------------------------
+BC1002_5181  GUCG-AGUUC-------------UGA------------------------
+BC1002_4048  U-----CAGC-----------A-CAACG----------------------
+BC1002_5185  GUCGUGCGGC-----------AAUGAUGU--------------------G
+BC1002_4042  GGCU-GAAGCG----------CGCGACAG-------------------CU
+BC1002_3639  AGCG--CGUUG----------A-UGAUG----------------------
+BC1002_4578  UGCG--GUGCG-----------UCCACC----------------------
+BC1002_3818  A-----GAGC-----------A-UGAAGCG-----------------CAU
+BC1002_3569  G-----GGGCA---------AGGUGA------------------------
+BC1002_5494  C-----CAAC-----------U--AA------------------------
+BC1002_5168  AUCG--CUGU-----------G--AAAG----------------------
+BC1002_3870  GACG--CUU-G----------GCUGAUGAGU----------------AGG
+BC1002_3896  UGCG-GCCUU-----------GCU--------------------------
+BC1002_4711  CGCG-GCAACGC-------GCAUUGACU----------------------
+BC1002_4001  GUCG-CACGC-----------G-U--------------------------
+BC1002_4509  UUCG--GAACG---------AUCU--------------------------
+BC1002_3339  A-----CAGC-----------A--GAA-----------------------
+BC1002_3345  GGCG--AUCUG----------A-GGAUC---------------------G
+#=GC SS_cons ::::..:::::..........:::::::......................
+#=GC RF      ggCG..aAGCa..........agUGAag......................
+
+BC1002_3424  AAC-GGC-CCGG--CGCGCGAAC------------------GGUGACA-G
+BC1002_4476  ACC-AGC-CAGA--GG-----------------------------CGA-U
+BC1002_4339  AAG-UAC-UCAG--CCCGGCGC-------------------AUUCGUG-C
+BC1002_3595  ACG-GCG-GGGC--CGGACU-------------------------CCU-G
+BC1002_4338  AAG-UAC-UCAG--CCCGGCAC-------------------GAAUGCG-C
+BC1002_4020  GAA-AAC-GGCU--CGAUGA------------------------CGAU-C
+BC1002_4513  AAA-ACG-CUGC--CAGGCC-----------------------CGAAG-G
+BC1002_5267  AAA-AGG-CCGU--UGCCGCU---------------------UUGAAG-C
+BC1002_4376  AA--AAC-GGGA--UGUGGU-----------------------GAAAG-C
+BC1002_4511  AAC-GCG-GCGG--CGUGGAC---------------------AUCGAU-C
+BC1002_5206  AAG-CGC-GAUU--CGGCCUU---------------------GAAACA-G
+BC1002_4506  AAA-AGC-CCGC--UGGCGGU----------------------UCAAC-C
+BC1002_3892  GC--GGC-UGGA--GCCGCGCGCCGGGU-------CUCAUCCGGCGUG-U
+BC1002_5070  AAGCGGC-GCGC--CCUCC--------------------------UCU-G
+BC1002_3811  AAA-GCC-CCGC--AAGAUU-------------------------UCG-A
+BC1002_4383  AAG-GCC-GCGG--CAAUGU------------------------GAAU-C
+BC1002_5184  GGU-CUU-GACC--UUCCCA------------------------UCAU-G
+BC1002_4658  AAA-GCG-CGGA-UCAGCGC------------------------GGCGGC
+BC1002_4337  GCG-AUG-GCUU--GGGCA--------------------------AUG-G
+BC1002_4382  GAG-GCC-GCGG--CAAUGA------------------------UUCA-C
+BC1002_4243  AG--CCG-GGCG--CG--CCG---------------------AAUGAA-G
+BC1002_3617  AA--GGC-GGUG--GACCUGCGCGC--------------GACGUCGCGCC
+BC1002_3591  GCG-GGC-GUGA--CUG----------------------------AAU-U
+BC1002_3426  AAA-CGC-CAUC--CGA----------------------------UCG-A
+BC1002_4407  GA--CGC-CGGG--CCGCAC-----------------------GCAAG-C
+BC1002_4713  AAA-CGA-CAAU--GGCGCC-----------------------CGAAG-G
+BC1002_4768  AAG-GCG-UCCG--CGCGCACCGA---------------UUCACGUCG-A
+BC1002_4682  GA--AAG-UCCG--GGGAGA-----------------------AUUCU-C
+BC1002_5073  AAA-AAA-GCGG--C------------------------------CCG-G
+BC1002_5177  ACG-AAG-CCGG--UCUUCCCU-------------------CCACGGG-A
+BC1002_4507  AA--AGC-CCGC--UGCCGGU----------------------UGAAC-C
+BC1002_4108  AAG-AAG-UACU--CGGAGA------------------------UUUU-C
+BC1002_3694  GAC-AUG-CGCC--GGGACGAA--------------------GUUUUU-C
+BC1002_3484  AAA-GGG-CCGG--CGUGUCU----------------------CGAUG-A
+BC1002_3776  GCU-GGC-GUCG-ACGGCGGA----------------------AAGCUCC
+BC1002_3364  GAG-AGG-GCGC--GACAGCG----------------------AAAAG-C
+BC1002_4477  AAA-ACC-AGCC--AGGGGC------------------------AUCG-C
+BC1002_3897  AGG-CGU-UACU--CGA----------------------------CCU-U
+BC1002_4962  GA--CCU-GAAG--CGU----------------------------UCA-U
+BC1002_4468  GAG-UGG-ACGG--C------------------------------GGG-G
+BC1002_3590  AGG-CGG-CGGG--CGUGGCUGA------------------AAUUCAG-U
+BC1002_3689  AAA-AAU-GGCC--GGG----------------------------AAA-U
+BC1002_4775  GC--GCG-GGCG--CG-----------------------------AAGUU
+BC1002_3816  CAA-AGG-CCAU--CGGUCG-------------------------AAA-G
+BC1002_5071  AAG-CGG-CGCG--CCCUCC------------------------AGAG-G
+BC1002_5302  CA--CGC-UCCC--GGGUCA-------------------------UCG-A
+BC1002_4414  AAU-GGC-CCGC--GC-----------------------------UUG-C
+BC1002_4761  AA--AAC-GGCA--CCCUGCUCACGU-----------UUCUGAGCGCG-A
+BC1002_4684  -UA-GGU-GAUG--GG-----------------------------GAAGA
+BC1002_5116  AAA-GCA-UUCG--CG--CAGC-------------------GCGCGCUCG
+BC1002_4659  AA--GGG-CCGA--UGAAGC------------------------AUCG-C
+BC1002_4964  AAA-CGC-CACG--GAAA---------------------------UCG-C
+BC1002_4939  GUG-GCG-CGGC--GGCCGU-------------------------UCG-C
+BC1002_4579  AAA-GGC-GCGG--UACGUU------------------------CUAU-A
+BC1002_3442  AAC-GGA-GUGU--GAUGCA------------------------CUGG-A
+BC1002_5018  GCUAUGU-CCAG--CG-----------------------------CUUAG
+BC1002_4325  AUU-GGC-GCUU--C------------------------------AAU-U
+BC1002_4844  GA--AAG-CCCC--GGCUGCUGUU---------------AUGCGGUAGGU
+BC1002_3692  AGG-CGA-GCGC--CGG----------------------------UCC-A
+BC1002_3459  GGA-AGC-GCC--------C-------------------------UAC-G
+BC1002_4588  GGG-UUG-GCGACACG-----------------------------CCU-A
+BC1002_3900  CCC-GUU-GCCG--CGUCGAU----------------------CGAUU-C
+BC1002_4448  AAA-AAC-GCCG--CGGGCC-----------------------AACAG-C
+BC1002_3981  AAC-GUG-GCUC--GCUGGACG-------------------ACGAUUU-C
+BC1002_4584  AGU-GCC-GCGC--GCCAGCA---------------------CACAUG-A
+BC1002_3859  AAA-ACG-CCGC--U------------------------------GAA-A
+BC1002_5268  AA--AGG-CCGU--UGCCGCU---------------------UCAAAG-C
+BC1002_5017  AC--UGU-CCAG--CG-----------------------------CCUAA
+BC1002_4361  AGG-GUUGCCCG--C------------------------------GUA-A
+BC1002_3382  AAG-GAU-CGGA--UG-----------------------------CAU-G
+BC1002_4770  GAA-CCC-CAGC--AGCCGA-----------------------ACGCA-C
+BC1002_3657  ACC-GGG-CGGG--CGGCGCGCGUUAC----------UUCGCGUGACU-G
+BC1002_3899  GGC-GUU-GCCG--CGUCGAA----------------------UCGAU-C
+BC1002_5111  CCG-ACG-CCCG--CAGCGCG---------------------CUUACGCG
+BC1002_3456  GA--UGC-GGGC--GAUGCA-----------------------UCCAU-G
+BC1002_5149  ACG-UGC-GUCG--CUGUCGCGCCG-------------AACACGAAUA-G
+BC1002_5161  AA--AAA-GCCG--CGUC---------------------------GUU-C
+BC1002_4600  AAA-CGC-AGCG--CGGCGUG---------------------AGGUAG-C
+BC1002_5291  GCG-GCC-GCAU--GUGUGAUUG------------------AUCCAAU-C
+BC1002_3755  GGC-CGG-CCUU--CG-----------------------------AAU-U
+BC1002_4710  AAA-AGC-CUGG--CGGGCUGCACG--------------AACGGUGCG-G
+BC1002_4449  AAA-AAC-GCCG--CGGGGC-----------------------UGUUG-G
+BC1002_4327  AAA-CAU-GGCG--GAGGCCGGCU----------------CAAAACCU-G
+BC1002_4336  AGG-AUG-GCUU--GGGCC--------------------------CAU-U
+BC1002_5048  AUA-CGC-CGCC--GGUU---------------------------GAA-A
+BC1002_3228  AG---CG-GGGC--GGCUUGAA--------------------CUGGCA-C
+BC1002_3383  AAG-GAU-CGGA--UG-----------------------------CCA-U
+BC1002_4676  GAU-UUG-GCUA--CGUUGC------------------------UUCGGU
+BC1002_3219  ACG-GGC-CGG----------------------------------GCG-U
+BC1002_3618  AAA-GGC-GGUG--GACCGGCGCGA--------------CGUCGCGCGCA
+BC1002_3680  CUG-CGC-GGGC--GGCGUA-------------------------CAG-A
+BC1002_4984  CAG-GCG-GAUG--GCCGGC------------------------CGCA-G
+BC1002_5097  AAA-AGG-GCGC--CG-----------------------------GCA-A
+BC1002_4113  AAA-UUU-GGAA--CAUUCACG-------------------AUUAUUU-G
+BC1002_5269  GAA-AGA-CGGG---------------------------------CUUGG
+BC1002_5431  CAUCGGC-CGGG--C------------------------------UCG-C
+BC1002_4812  AAG-GAG-GAAG--AG-----------------------------CCA-C
+BC1002_3729  GGC-GGC-UCGC--GACGUUG----------------------CAGUG-G
+BC1002_3365  AAG-AGG-GCGC--GACGGCU----------------------UUUCG-C
+BC1002_5189  AAA-AGC-CCGA--C------------------------------CUG-A
+BC1002_5273  AAA-AAG-CCGC--U------------------------------UUU-A
+BC1002_4039  GUUGGGC-CGCG--CGAGUU------------------------UGAU-G
+BC1002_4742  UCG-AAC-GCGG--CGGCGACGC-----------------GCAAAGCG-U
+BC1002_4555  AAG-AGC-GGCG-GCACGCC-------------------------CAU-G
+BC1002_3932  GA--AGG-GGCU--GUUCGC------------------------UUCG-G
+BC1002_3847  AAG-CGC-UGCG--UGGGCU------------------------GCUG-G
+BC1002_4743  GCG-AAC-GCGG--CGGGACGCU------------------UUGCGCGUC
+BC1002_5218  GA--AGC-CCGC--UUAUGC-----------------------CGACG-C
+BC1002_5078  AAA-AGC-GCGG--UGGCCU-----------------------UGCUU-G
+BC1002_4097  AACGGGC-GAUC--GGCGGCGA--------------------CGCGCGCC
+BC1002_3985  CAA-ACG-GCGG--C------------------------------CCGCG
+BC1002_4712  CGC-UAU-GCGG--GGCUGA-------------------------UCGUC
+BC1002_4469  AAG-AGU-CCCG--CG-----------------------------AAC-C
+BC1002_3341  CU------CGUG--CGC----------------------------GAG-U
+BC1002_3946  CGC-GCC-GCGG--UGGAAA-----------------------GGACUCU
+BC1002_4933  AGC-GCC-GCUC--UU-----------------------------GAU-G
+BC1002_4732  GA--UGC-CGCU--CGGUCU------------------------UCUG-G
+BC1002_5371  GGC-GUG-GCGG--CGGGCA------------------------CCAG-G
+BC1002_4568  AUA-CGC-GCGA--CGGA---------------------------UAU-C
+BC1002_4377  AA--CGG-GAUG--UGG----------------------------CUUUC
+BC1002_5521  AAU-GGC-CCGG--CG-----------------------------CGAAA
+BC1002_4924  AGCCCGG-GCGCGUGGAUGCGGUCU-------------UCGACGAUCG-C
+BC1002_5281  AC--AGA-AAGG--UGCCGU-------------------------UCG-C
+BC1002_3807  AGA-GCG-CAAA--AGUCGUUGUCGCAUCGGCGCGUCAGGAUGCGGCG-A
+BC1002_5334  AAUUACC-CGGC-AAGCAUC------------------------UAAU-G
+BC1002_3688  AACGGAU-GCGC--GCCUGGUGCCG--------------AUAUCGGCG-C
+BC1002_5259  CC--CGC-GCGG--GUGCCG------------------------UCCU-G
+BC1002_5265  ACA-CGC-GCAC--GA-----------------------------UAA-C
+BC1002_3539  CAA-GGC-CGGU--CGACCA------------------------UUCA-G
+BC1002_5170  GAA-AAU-GGCU--CGC----------------------------AUA-U
+BC1002_3338  AA-------------------------------------------UCG-C
+BC1002_3461  AA------CGGG--CUCCGC------------------------GACG-C
+BC1002_4983  CGG-CGG-AUGG--CCGCU--------------------------GCG-G
+BC1002_4842  AA-------------------------------------------GCU-U
+BC1002_4657  GAA-ACC-GGCA--UGCAG--------------------------UCGCC
+BC1002_4521  AAA-AAG-GUCG--AGGCCC-----------------------UUUCG-G
+BC1002_4673  GG--AAC-UCGA--UGUUCU------------------------GAAA-A
+BC1002_4952  AAG-CGC-CGGGGACGCUGG-------------------------CAA-C
+BC1002_3691  CGA-GGG-CCG----------------------------------CAUAG
+BC1002_5135  GCU-GCC-GCUC-CCGAAAAGCCU----------------CACCUUUG-G
+BC1002_4520  CA--AAG-GCCG--AGUCCC-----------------------GAAAG-G
+BC1002_5182  CUG-CGG-GCGG--CG-----------------------------ACG-C
+BC1002_4311  ACA-GGU-GAG----------------------------------CCA-C
+BC1002_5214  AAAUAGC-GCGC--CGCGUGA----------------------GCAAUCA
+BC1002_3602  AAA-GGG-CCG----------------------------------CCG-A
+BC1002_4017  AC--AGA-GCCG--G------------------------------CAG-A
+BC1002_4345  GC--AAG-CCGG--GUUC---------------------------GUU-C
+BC1002_5077  AAA-GCG-CAGU--GGCCAA-------------------------GCA-A
+BC1002_4629  ACG-GGU-GAUA--CGCGUC------------------------CGCGCA
+BC1002_5074  AAA-AAA-GCGG--C------------------------------UCC-G
+BC1002_3431  GAGCAGC-CGUG--CGGGGCUGGC---------------GUCGACCAG-U
+BC1002_5489  GAA-UGC-GCCA--CGCCCAGUCACGCG--------UCGGUGUGGCAU-U
+BC1002_5425  GG---UA-GCUU--CGCUGC-----------------------GUUCG-C
+BC1002_4970  GAG-CGC-CACG--CUCGGCU----------------------CAUAU-G
+BC1002_4096  -CG-AAC-CCAC--GGCUC--------------------------ACG-A
+BC1002_3441  GA--CGG-AGUG--UGAUGUC----------------------CAGUG-C
+BC1002_4405  GAA-CGC-CGG----------------------------------UUG-G
+BC1002_4704  AG--AGG-GGCA--C------------------------------CCA-C
+BC1002_3373  GAA-AAG-CCCG--CGCUGC-----------------------GCAAG-C
+BC1002_4318  AC--CAC-UCGA--CGAUG--------------------------GCG-U
+BC1002_3237  AAA-GUG-GCGU--CA-----------------------------CGC-G
+BC1002_5053  GAC-AG--GCGG--UGAUGC------------------------AUCG-G
+BC1002_4411  CA------GCCG--CGGCGC-------------------------CAA-U
+BC1002_4656  GC--AGC-CGCG--CGCCGC-------------------------GAUCG
+BC1002_5054  AA---AA-GGCG--CGC--C-------------------------AAC-C
+BC1002_3372  CUA-UCG-GCGC--GAGC---------------------------GCG-A
+BC1002_3963  AGAAACC-GCCU--C------------------------------CCU-G
+BC1002_3358  GCC-GUG-UGCG--CAUCAC-----------------------GACUA-C
+BC1002_4041  AGC-UGU-CGCG--CGCUUC-----------------------AGCCG-A
+BC1002_4630  GCGCCGG-UCCG--C------------------------------ACG-C
+BC1002_4390  ACCCGCU-UCGU--CGAUCCGCA------------------AGUAGCG-C
+BC1002_3346  ACG-CUC-GCGC--GCGCCAU----------------------GCCUG-G
+BC1002_3699  AC--AGC-GCUG--G------------------------------CGA-G
+BC1002_4672  AAA-CGG-CAGC--GAUGAGUAU-----------------GUUUUUCG-U
+BC1002_5213  GUG-AGC-GGCG--GG-----------------------------UUC-G
+BC1002_3878  GCG-CGG-CCAG--CGCAGAUU--------------------CCCCCA-C
+BC1002_4720  AGA-CGC-UGCG-CGGCGGCGC--------------------CGCAUG-C
+BC1002_5445  AUC-GUG-UGUG--CGGC---------------------------GCA-A
+BC1002_3619  ACG-GGC-GCCU--UGGCCCUUGUC--------------GCAAGUCCA-G
+BC1002_4545  ACG-CUC-GCAG--CA-----------------------------GAA-A
+BC1002_5327  GGU-CUU-GGGC--CGGCGA-------------------------UAA-U
+BC1002_4556  AGA-AAA-GAGC--GGCGCACGCA----------------UGGGCGUG-C
+BC1002_4655  GCA-AGC-CGCG--CACCCG------------------------AUCG-C
+BC1002_3966  AAA-AGC-CGCG--CG-----------------------------UUG-A
+BC1002_4087  CAU-GUU-CUCG--CACCUCG----------------------GUAUG-C
+BC1002_4709  CAG-AGU-CGGA--U------------------------------CAG-G
+BC1002_4725  AAA-CC--UUAU--CGAGAUGUUA----------------AGAGAUCG-A
+BC1002_4493  GAGCCGU-GCCG--CCGGC--------------------------GUG-A
+BC1002_4580  AAA-AGC-GCGA--UACGUA-------------------------UAGAA
+BC1002_3360  CGG-GCG-ACGC--GGCAUC-------------------------GAG-U
+BC1002_4609  GAUAAAG-CGAU--AGCUGACGC------------------GAAAUCU-U
+BC1002_3638  CGU-GGC-GCGA--C------------------------------ACC-C
+BC1002_5195  GA--ACC-GGAA--CUCCGAAGCG----------------UCAGCGCG-G
+BC1002_5266  AA--CGG-GAUG--CGC----------------------------GCA-G
+BC1002_4836  ACG-CCA-UGCG--CGCGGC-------------------------ACGGU
+BC1002_4804  AC---GC-UGCG--CGGC---------------------------ACG-C
+BC1002_5181  GCGCGGC-GGGC--GGCGU--------------------------GCG-U
+BC1002_4048  AAG-CCG-GCGA--AGGGC--------------------------CAU-G
+BC1002_5185  AA--CGG-CGCG--CGG----------------------------GCA-A
+BC1002_4042  AC--GCU-CAGG--C------------------------------GAU-C
+BC1002_3639  GAU-GGC-GCGG--C------------------------------GGG-U
+BC1002_4578  GG-------------------------------------------CUG-G
+BC1002_3818  GA--UGC-GGCC--CGAUCG-----------------------UACCG-A
+BC1002_3569  AG--GCC-GCGA--GCGCGGGU-------------------GGGUGCG-G
+BC1002_5494  AAA-CAU-CUGU--CACUGCU---------------------CCUUUU-G
+BC1002_5168  GAA-AGG-CCGU--UCCUGUU----------------------AAGCG-C
+BC1002_3870  AC--CCG-CCGG--U------------------------------GCA-A
+BC1002_3896  GUU-UUG-CGGC--CUCGCC-------------------------GCA-U
+BC1002_4711  AC--ACU-GACG--GCUCG--------------------------UAU-G
+BC1002_4001  AAA-GGU-UCGC--UGGCGAG----------------------GCUCGGC
+BC1002_4509  AUG-UCG-CGGA--GGGCCG-------------------------CCA-A
+BC1002_3339  CGG-GGC-GAUG--CGGCUU------------------------GAUA-U
+BC1002_3345  AAU-GCU-CGCG--CUCGGCCA--------------------GGCAUG-G
+#=GC SS_cons ::<.<<<.<<<<..<<<<__........................____._
+#=GC RF      AAa.agc.Gcgg..cGccgc........................cgcg.c
+
+BC1002_3424  CGCGCCGG-GCCG--------------UUG-UUCCAU
+BC1002_4476  G-CCCCUG-GCUG----------------G--U----
+BC1002_4339  CGGGCUGA-GUACUUU---------CUUUU-AU----
+BC1002_3595  UCCGGCCC-CGCC--------------GUG--UCGUC
+BC1002_4338  CGGGCUGA-GUACUUU--------CAAACG-AU----
+BC1002_4020  AUCGGGCC-GUUUUCCGU-----UUAC----CGCUUU
+BC1002_4513  CCUGGCAG-CGUUU-------------UAG--U----
+BC1002_5267  GGCAACGG-CCUU--------------UUG--U----
+BC1002_4376  CACAUCCC-GUUUU-------------UUG--UCGCU
+BC1002_4511  CACACCGC-CGCGUUUG------UCAUCCG-CGCUUU
+BC1002_5206  GCCGAAUC-GCGC----------------G--UCAUA
+BC1002_4506  GGCAGCGG-GCUUUCAU-------CACGCG-GUCAUC
+BC1002_3892  CGGCUCCG-GCCUU------------UUUG--U----
+BC1002_5070  GAGGGCGC-GCC-----------------G-CU----
+BC1002_3811  UCUUGCGG-GGCUUUU--------GUUUUGGCU----
+BC1002_4383  AUUGCCGC-GGCCUCAGACA-GUUUCGAUG-GUCGUG
+BC1002_5184  GGAAGGUC---------------------G-AU----
+BC1002_4658  CCUGUUCG-CGGU----------------GACGCGAC
+BC1002_4337  GCCCAAGC-CAUCC-------------UUG-CUCACA
+BC1002_4382  AUUGCCGC-GGCCUUUU------UCAUGC-AAGCAUU
+BC1002_4243  --CGCGCC-CGG-A-------------AUGACGCUGC
+BC1002_3617  GGUCCACC-GCC-U-------------UU-AUUCGUU
+BC1002_3591  UCAGCCAC-GCCC----------------G-CC----
+BC1002_3426  ACUGGAUG-GCGUUUU--------UUCUUG-CCCGCC
+BC1002_4407  GCUGCCCG-GCGU----------------U-UU----
+BC1002_4713  CGCCAUUG-UCGUA------------UUUG-CG----
+BC1002_4768  CGCGCGGA-CGCC--------------UUG-UU----
+BC1002_4682  UCUCCGGA-CUU-U-------------UUG-CU----
+BC1002_5073  A--GCCGC-UUUUUUUAC-----GUCUGC-AUUCUGC
+BC1002_5177  AGGGCCGG-CUUC----------------G-UU----
+BC1002_4507  GCCAGCGG-GCUUUUU--------UAUGCG-CUCAUG
+BC1002_4108  UCCGGGUA-CUUCU-------------UU--UGCUUU
+BC1002_3694  UCCCGGCG-----UUU---------UCUUU-UUCAGG
+BC1002_3484  CACGCCGG-CCCUUCU--------GCCUU--UU----
+BC1002_3776  GUCGCGAC-GCCA-----------------AUU----
+BC1002_3364  CGUCGCGC-CCUCU-------------UC-A-UCGAU
+BC1002_4477  CUCUGGCU-GGUUU-------------UUG-AUAACG
+BC1002_3897  CCCGAGUA-ACGA----------------GACUCUGA
+BC1002_4962  AACGCUUC-AGGU--------------UUU-CCCAAG
+BC1002_4468  ---GCCGU-CCACU-------------UUG-UU----
+BC1002_3590  CACGCCCG-CCGCU-------------UUG--CCAUC
+BC1002_3689  UCCCGGCC-AUUUUUUA------UCCUGCGAUU----
+BC1002_4775  G-CGCGCC-CGCUU-------------GU-AUU----
+BC1002_3816  ACCGGUGG-CUUUU-------------UU-ACUCAUG
+BC1002_5071  AGGGCGCG-CCGCUUUU-------UCGUUGAUGCCUU
+BC1002_5302  GCCCGGGA-GCGU----------------G-GUCGAA
+BC1002_4414  A-GCGCAG-GCCGU-----------------UUCGCU
+BC1002_4761  AGGGUGCC-GUUUUG-----------GUUGACU----
+BC1002_4684  U-CCCAUC-ACCU----------------U-CGAGAU
+BC1002_5116  --CGCGAA-UGCUUU-----------CCU-ACGCCCU
+BC1002_4659  UUCACCGG-CCCU----------------U-UGCUUU
+BC1002_4964  UUUUCGUG-GCGU----------------U--U----
+BC1002_4939  GGCCGCCG-CGCC----------------G-AUCUUC
+BC1002_4579  CGUAUCGC-GCUU----------------U-UUCGUU
+BC1002_3442  CAUCACAC-UCCG--------------UCG-UU----
+BC1002_5018  G-CGCUGG-ACA---------------GUG-CUCAUA
+BC1002_4325  U--GAAGC-GCCCUUU--------UCUUUG-CCCGCU
+BC1002_4844  GGUCGGGG-CUUUUG-----------UUUG-CU----
+BC1002_3692  ACCGGCGC-UCGCUU----------UUCCG-UUCAG-
+BC1002_3459  G----GGC-GCUUU-------------UU--CU----
+BC1002_4588  A-CGUCGC---------------------GAUUCGAU
+BC1002_3900  GACGCGGC-AACGC------------CGUG-CUCAAU
+BC1002_4448  CCCGCGGC-GUUUU-------------UC-A-UCGAG
+BC1002_3981  CAGUGAGC---------------------U--UCAAC
+BC1002_4584  CGGCGCGC-GGCAAGAC-------CCCUCG-CGCGAC
+BC1002_3859  ---AGCGG-CGUUU-------------UC-A-UCAGG
+BC1002_5268  GGCAACGG-CCUUU------------UUC--AUCGGA
+BC1002_5017  G-CGCUGG-ACAU------------------AGCAAU
+BC1002_4361  ---GCGGGC----UUU--------UUUUCG--GCGUG
+BC1002_3382  G-CAUCCG-AUCCUU-----------G--G-GUCGUG
+BC1002_4770  GGCUGCUG-GGGUU-------------UUU-UCAUGG
+BC1002_3657  CGCGCCCG-CCCGGCAG-------GAUG--CAGCAGC
+BC1002_3899  GACGCGGC-AACG----------------G-GCCGUC
+BC1002_5111  CCUGCGGG-CGUUU-------------UC-ACGAACU
+BC1002_3456  CAUCGCCC-GUAUUU-----------UUUG-AU----
+BC1002_5149  ACGGCGGC-GCAC----------------G-AUCGGU
+BC1002_5161  GACGCGGC-UUUUU------------CUUU-UCCGUC
+BC1002_4600  GCCGCGCU-GCGUGU----------UUGCG--UCAAU
+BC1002_5291  ACGCAUGC-GGCU----------------G--GCGUU
+BC1002_3755  U-CGAAGG-CUGGCUUU-------UUUGCG-CUCUGC
+BC1002_4710  CCCACCAG-GCUUUUU---------UGUUG-UCCGGC
+BC1002_4449  CCCGCGGC-GUUUUUU---------UAUUGCAUCGAC
+BC1002_4327  CCUCCGCC-AUGU-----------------A-GAAAU
+BC1002_4336  GCCCAAGC-CAUC----------------G-CGAGCU
+BC1002_5048  GGCCGGCG-GCAUGCUU-------GAAUUGAUCCGAU
+BC1002_3228  AGCCGCCC-CG--UCA--------GCCUCG-CGCAAG
+BC1002_3383  G-CAUCCG-AUCCU------------UUUU-UGCACU
+BC1002_4676  AACGUAGC-----UUU---------UUUUG-UU----
+BC1002_3219  -----CCG-GCCC----------------G-CUCGGC
+BC1002_3618  GGUCCACC-GCCU----------------U-CG----
+BC1002_3680  CGCCGCUC-GCGCCGGAU----GCCAUGCG-ACCGCG
+BC1002_4984  CGGCCAUC-CGCC----------------GAAUCAAC
+BC1002_5097  --CGGCGC-CCUUUUUG-------CAU-U-CAGCGUU
+BC1002_4113  AAUGUUUC-AAAUU------------UGCGACUCAUU
+BC1002_5269  A---CCCG-UCUUUU-----------UUUG-UU----
+BC1002_5431  ---GCCCG-GCC------------------AUGCGCU
+BC1002_4812  G-CUCUUC-CUCUU-------------UU--UU----
+BC1002_3729  CGUCGCGA-GCCGCU-----------UUUG-CU----
+BC1002_3365  UGUCGCGC-CCUCUCCG-------CAUUU-CAG----
+BC1002_5189  G--GUCGG-GCUCCAAAGU---CGGCUGCG-CCCUCC
+BC1002_5273  A--AGCGG-CUUU----------------U-UU----
+BC1002_4039  CUCGCGCG-GCC-----------------G-------
+BC1002_4742  CCCGCCGC-GUUCGCGUUU--GUGUUUGCG-UUCGUG
+BC1002_4555  CGUGCGCC-GCUCUUUU-------CUAUUG-CC----
+BC1002_3932  CGACAGCC-CCUUA------------UUCU-UUCGGU
+BC1002_3847  UCCACGCG-GCGC----------------G--UCGUC
+BC1002_4743  GCCGCCGC-GUUC----------------G-AUCGCU
+BC1002_5218  AGAAGCGG-GCUUUUU---------UGUUG-CU----
+BC1002_5078  GCCACUGC-GCUUUUU---------UCAUG-CU----
+BC1002_4097  GGCCGAUC-GCCGUUGAUCUUCGUUUCAC--UUCUUC
+BC1002_3985  G--GCCGC-CGUUUUA---------GUUUG-CGCAUG
+BC1002_4712  CGCCCCGC---------------------GACUCGCC
+BC1002_4469  U-CGCGGG-ACUC-----------------CUUCCAG
+BC1002_3341  UGCGCACG-----UC----------AUCCG-UUCAAC
+BC1002_3946  UCCACCGC-GGCGACUA-------UAUCCG-CG----
+BC1002_4933  C-GAGAGC-GGCG----------------G--UAUUC
+BC1002_4732  ACUGAGCG-GCAU-U-----------UUU-AUU----
+BC1002_5371  UCCGCCGC-----UUU---------UUUU-AAGCGCU
+BC1002_4568  UCCGUCGC-GCGUUUUU------UUAUGCG--GCGGU
+BC1002_4377  ACCACAUC-CCGU----------------U--U----
+BC1002_5521  A-CGCCGG-GCCAAGCU-------GGGUC-CAUCAAC
+BC1002_4924  ACUCGCGC-CCG-----------------G-CGCAUA
+BC1002_5281  GGCACCUU-UUUUUA-----------UGCG-UGCGGC
+BC1002_3807  CGCUUUUG-CGCUU-------------UUG-CGCGUC
+BC1002_5334  UGCAGCCG-GGU-UU-----------UUU-AUU----
+BC1002_3688  GGGCGCGC-AUC-----------------GAAG----
+BC1002_5259  GCGCCCGC-GCGUU------------------GCGUG
+BC1002_5265  G-UCGUGU-GCAU----------------G--UCACA
+BC1002_3539  CUUGACCG-GCCU----------------U-UU----
+BC1002_5170  UGCGAGCC-AUUU--------------GC-AUUAGAC
+BC1002_3338  A------------A------------UUC--AGCACC
+BC1002_3461  GGAGCCCG----UUUU--------GUUUUG-CG----
+BC1002_4983  CCGGCCAU-CCGC--------------CUG-AUCGAU
+BC1002_4842  U------------UA-----------UUU-ACUCAAU
+BC1002_4657  CGCAUGCC-GGUCU-------------CUG-UUCGGC
+BC1002_4521  GACUCGGC-CUUU----------------GACUAUUG
+BC1002_4673  GGCAUCGA-GUUUUUUU-------CUUCU--GUCGCU
+BC1002_4952  AGCGCCCG-GCGC----------------G-CG----
+BC1002_3691  A----CGG-CCCC----------------G-UU----
+BC1002_5135  CACGGAGC-GGCG----------------G-UGAAUC
+BC1002_4520  GCCUCGAC-CUUUUU----------AUUCG-CGCAGG
+BC1002_5182  A-CGCCGC-CCGCC-------------GCG-CUCAGA
+BC1002_4311  G----CUC-ACCU----------------G--UCGUC
+BC1002_5214  AGCGGCGC-GCU-----------------G--UCAUU
+BC1002_3602  G----CGG-CCCUUU----------UGCC-AUUCGAG
+BC1002_4017  G--CCGGC-UCUUUC-----------UAU--UGCACU
+BC1002_4345  GAGCCCGG-CUUUU------------UUC--AUCUGG
+BC1002_5077  GGCCACCG-CGCU----------------U-UU----
+BC1002_4629  CGCGUAUC-ACCC----------------G-UUCGUC
+BC1002_5074  G--GCCGC-UUUUU------------UUCG--U----
+BC1002_3431  CGCGCACG-GCUCU------------UUC--AU----
+BC1002_5489  GGCGUGGC-G-------------------G-UUCUUU
+BC1002_5425  GGCGAAUC-UC--CG----------UUUC-AUACAUU
+BC1002_4970  UUGACGUG-GCGC----------------G-UG----
+BC1002_4096  GGCCGUGG-GUUUUC-----------U-----GCGUU
+BC1002_3441  AUCACACU-CCGUUUUU------UUUUGCG-GUCACU
+BC1002_4405  -----CCG-GCGU----------------GAAG----
+BC1002_4704  G--GUGCC-CCUUUU----------UCAC-A-UCAAC
+BC1002_3373  ACUGCGGG-CUUUUU-----------UACG-UGCGCG
+BC1002_4318  CGUAUCGA-GUGUCAUU-------UCUCCG-UUCAAC
+BC1002_3237  U-UGACGC-CGCUC-------------GCG-CUCGUC
+BC1002_5053  CUCACCGC-ACUGU------------CGC-ACGCGUC
+BC1002_4411  GCCGCGGC-AACU----------------G-UGCAAU
+BC1002_4656  GGUGCGCG-GCUU----------------G-CUCACA
+BC1002_5054  GGUGCGCC-UU--UCGU------UUCACUG-UUCAAG
+BC1002_3372  GCUUGCGC---------------------G-AUCAGG
+BC1002_3963  ---GAGGC-GGU-----------------G--GCGAG
+BC1002_3358  GAUGCGCA-----C------------CACG-CGCAAG
+BC1002_4041  GGCGCGCG---------------------G-ACCAAC
+BC1002_4630  ---ACGGG-CCG-----------------G-CUCAUA
+BC1002_4390  GUCGACGA-AGC-----------------GUUCCGCG
+BC1002_3346  CCGAGCGC-GAGCA------------UUCG-AUCCUC
+BC1002_3699  A--CCAGC-GCUUC------------G---AUGCAUA
+BC1002_4672  CAUCGCUG-CCGU----------------G-GUCGCC
+BC1002_5213  U-CCCGCC-GUUU----------------G-CGCGAC
+BC1002_3878  CGCGCGGG-CCGCGCC--------GCGUUU-AUCAUA
+BC1002_4720  CGCCCGCG-GCGUUCAU------UUCAUC-CAGCAAG
+BC1002_5445  GCCGCACG-CACGAGAU-------GAAUUG-AUCACC
+BC1002_3619  CGCAGGGC-GCCC----------------G--UCACG
+BC1002_4545  A-UGCUGC-GAGC----------------GCAUCAUA
+BC1002_5327  GCCGGCUC-A-------------------G--UCACC
+BC1002_4556  CGCCGCUC-UUUC----------------G-UU----
+BC1002_4655  GGCGCGCG-GCU-----------------G--CCGUG
+BC1002_3966  U-CGCGCG-GCUUUU----------UUGUG-GGCAUU
+BC1002_4087  GGCGCGCG-AACAU-------------GC-ACUCGAG
+BC1002_4709  ---AUCCG-ACCC----------------G--GCGUU
+BC1002_4725  UCCGAUAA-AGGUA------------UUCG--UAAGC
+BC1002_4493  CCGGCGGC-ACGCU------------UGC--AGAAGC
+BC1002_4580  CGUACCGC-GCCUUU----------UUUCG-UGCUGG
+BC1002_3360  UGCCGCGU-CGCCGUU--------UUUUUG-CGCGGC
+BC1002_4609  GACUAUCG-CUU-UACUG-----UCGCCCG-CUCAUC
+BC1002_3638  ---GCCGC-GCCAU-------------CC--AUCAUC
+BC1002_5195  CGGGUUCC-GGUUUUU--------UUCGUG-CGCAUG
+BC1002_5266  GGCGUAUC-CUGU----------------U--GCCUC
+BC1002_4836  CGCGCGCA-UGGCCCCCG----AUACAUUG-CGCGUG
+BC1002_4804  GCCGCGCA-GC--UGCUU----AUUUCAC--CGCGCC
+BC1002_5181  CGCCGCCC-GCA-----------------G--UAAGC
+BC1002_4048  CCCGCCGC-CGGCUUU--------UUCUUGGCGCUUG
+BC1002_5185  ACCGCGCG-CCG-UCCG-------GUUUCG-UUAUUU
+BC1002_4042  A--GCCUG-AGCUU---------------G-CGCCUG
+BC1002_3639  ---GUCGC-GCCAC-------------GC-AUUAAAU
+BC1002_4578  U------------UU----------UAUU-CAUCACU
+BC1002_3818  CCCGGGCC-GCA-A------------CCC-AUGCAUG
+BC1002_3569  CGGCUCGC-GGCUU-------------UUG-CC----
+BC1002_5494  CAUGACCG-AUGUUGUA------CAAUCCG-GUCCGU
+BC1002_5168  AGGAGCGG-CUUUUU----------UCAUG-CC----
+BC1002_3870  U--GCCGG-CGGU----------------G-GGCACG
+BC1002_3896  CGCGGCCG---------------------G-UU----
+BC1002_4711  CGGCCGUC-AGUUUU-----------UCU--GUAUUC
+BC1002_4001  GCUAGCGA-ACCU----------------G--CCACC
+BC1002_4509  GCCCUCCG-CGAUUUU---------UUUUG-CCCGUC
+BC1002_3339  GCCGCAUC-GCCC----------------U--UCCUC
+BC1002_3345  CGCGCGCG-AGCGUU-----------CUAG-CUCAAG
+#=GC SS_cons >>>>>>>>.>>>>:.............:::.::::::
+#=GC RF      ggCgccgC.gcuuU.............UcG.cUCauc
+//

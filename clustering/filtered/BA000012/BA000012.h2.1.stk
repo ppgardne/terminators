@@ -1,0 +1,3094 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS mll2974 WT 1.31
+#=GS msl0931 WT 1.03
+#=GS mll3139 WT 0.69
+#=GS mll0212 WT 1.01
+#=GS mll5706 WT 1.24
+#=GS mlr2201 WT 0.91
+#=GS mlr4601 WT 0.46
+#=GS mlr8418 WT 0.91
+#=GS mlr4841 WT 1.32
+#=GS mll8359 WT 0.67
+#=GS mlr6034 WT 1.23
+#=GS mll3745 WT 1.23
+#=GS mll3663 WT 0.55
+#=GS mlr4910 WT 1.13
+#=GS mll0865 WT 0.84
+#=GS mlr5604 WT 0.84
+#=GS mlr0604 WT 0.91
+#=GS mlr1615 WT 0.83
+#=GS mll1209 WT 1.14
+#=GS mll4602 WT 0.50
+#=GS mll1090 WT 1.15
+#=GS mlr2052 WT 0.91
+#=GS mll5050 WT 0.67
+#=GS mlr0499 WT 0.71
+#=GS mlr3649 WT 0.76
+#=GS mll8170 WT 0.75
+#=GS mll4256 WT 0.85
+#=GS mlr5361 WT 0.38
+#=GS mll0343 WT 1.05
+#=GS mlr4111 WT 0.85
+#=GS mll5388 WT 1.21
+#=GS mll7668 WT 0.96
+#=GS mll1546 WT 0.93
+#=GS mlr2516 WT 0.85
+#=GS mll6750 WT 1.19
+#=GS mlr1881 WT 0.74
+#=GS mlr4195 WT 0.89
+#=GS mll2306 WT 0.93
+#=GS mll1129 WT 1.12
+#=GS mll7394 WT 0.77
+#=GS mlr7225 WT 1.03
+#=GS mll3593 WT 1.18
+#=GS mll1552 WT 1.46
+#=GS mll5421 WT 1.10
+#=GS mll7301 WT 0.95
+#=GS mlr0323 WT 1.10
+#=GS mlr2244 WT 0.67
+#=GS mlr0339 WT 1.19
+#=GS mll0351 WT 0.98
+#=GS mlr6801 WT 1.44
+#=GS mlr0978 WT 1.16
+#=GS msr0848 WT 0.80
+#=GS mlr6414 WT 0.89
+#=GS mll6256 WT 1.14
+#=GS mll4996 WT 0.93
+#=GS mlr0039 WT 0.66
+#=GS mll7356 WT 1.06
+#=GS mlr4903 WT 1.35
+#=GS mll1329 WT 1.21
+#=GS mlr1701 WT 0.80
+#=GS mlr4763 WT 0.93
+#=GS mll0501 WT 0.71
+#=GS mll5210 WT 0.91
+#=GS mll1046 WT 1.03
+#=GS mlr0273 WT 0.98
+#=GS mlr2412 WT 1.09
+#=GS mlr7830 WT 1.15
+#=GS mll0663 WT 0.97
+#=GS mll2445 WT 0.95
+#=GS mll3832 WT 0.96
+#=GS mll4112 WT 0.85
+#=GS mlr5404 WT 0.84
+#=GS mlr3465 WT 0.77
+#=GS msl8074 WT 0.92
+#=GS mlr7857 WT 1.05
+#=GS msl2054 WT 0.91
+#=GS mlr3016 WT 0.97
+#=GS mll5199 WT 1.25
+#=GS msl0377 WT 0.92
+#=GS mlr5281 WT 1.12
+#=GS mlr3480 WT 1.66
+#=GS mll4029 WT 0.59
+#=GS mlr0376 WT 1.14
+#=GS mlr3662 WT 0.38
+#=GS mlr0549 WT 0.88
+#=GS mll2518 WT 1.21
+#=GS mll5167 WT 0.84
+#=GS mll7704 WT 0.83
+#=GS msr5593 WT 0.88
+#=GS mlr1753 WT 1.14
+#=GS mlr0585 WT 0.99
+#=GS mll3709 WT 0.90
+#=GS msl1769 WT 0.98
+#=GS mll7237 WT 0.90
+#=GS mlr5477 WT 1.31
+#=GS mll3661 WT 1.21
+#=GS mll1207 WT 1.04
+#=GS mlr5554 WT 1.07
+#=GS mlr2666 WT 1.36
+#=GS mlr5692 WT 0.88
+#=GS mlr2125 WT 1.01
+#=GS mll0650 WT 1.14
+#=GS mlr5184 WT 0.91
+#=GS mll7871 WT 0.70
+#=GS mll1882 WT 0.74
+#=GS mll4358 WT 0.72
+#=GS mlr2634 WT 1.16
+#=GS msl7844 WT 1.16
+#=GS mll2257 WT 0.95
+#=GS mll3467 WT 0.77
+#=GS msl3782 WT 0.85
+#=GS mll5094 WT 1.12
+#=GS msr5755 WT 1.09
+#=GS mll2661 WT 0.96
+#=GS mlr4771 WT 0.95
+#=GS mlr0864 WT 0.84
+#=GS mlr6790 WT 1.34
+#=GS msl2821 WT 0.72
+#=GS mlr1619 WT 1.26
+#=GS mlr3352 WT 0.59
+#=GS mlr3986 WT 0.77
+#=GS mlr1911 WT 1.18
+#=GS mlr6435 WT 1.06
+#=GS mll5423 WT 1.01
+#=GS mlr8405 WT 0.80
+#=GS mlr3708 WT 0.90
+#=GS mlr1694 WT 0.55
+#=GS mlr1763 WT 0.94
+#=GS mll4444 WT 1.24
+#=GS msr8535 WT 1.12
+#=GS mlr5723 WT 0.91
+#=GS msl4750 WT 1.22
+#=GS mlr4759 WT 0.87
+#=GS mll4853 WT 0.79
+#=GS mlr0263 WT 0.81
+#=GS mlr1884 WT 1.08
+#=GS mll8201 WT 0.84
+#=GS mlr7441 WT 1.21
+#=GS mll5186 WT 0.79
+#=GS mll7714 WT 1.23
+#=GS mll3224 WT 0.90
+#=GS mlr3121 WT 1.12
+#=GS mll5212 WT 1.31
+#=GS mll0665 WT 0.97
+#=GS mlr4366 WT 0.98
+#=GS mlr0409 WT 0.90
+#=GS mll0605 WT 0.58
+#=GS mlr0512 WT 0.93
+#=GS mll5095 WT 1.05
+#=GS mlr0092 WT 1.24
+#=GS mlr0338 WT 0.68
+#=GS mll0702 WT 1.22
+#=GS mlr2623 WT 1.25
+#=GS mll0513 WT 0.93
+#=GS mll5582 WT 0.49
+#=GS mlr1672 WT 0.86
+#=GS mll5251 WT 1.19
+#=GS mlr4254 WT 0.85
+#=GS mll3987 WT 1.00
+#=GS mlr1030 WT 0.89
+#=GS mll3168 WT 1.02
+#=GS mll2569 WT 0.96
+#=GS mlr4812 WT 0.82
+#=GS mlr2793 WT 1.19
+#=GS mll6512 WT 0.59
+#=GS mlr2667 WT 1.18
+#=GS msr7236 WT 0.98
+#=GS mlr0318 WT 0.99
+#=GS mll8244 WT 1.28
+#=GS mll5677 WT 1.03
+#=GS mlr7496 WT 0.97
+#=GS msl7831 WT 1.03
+#=GS mlr8211 WT 1.18
+#=GS mll1848 WT 1.30
+#=GS mlr7182 WT 1.32
+#=GS mll1617 WT 0.94
+#=GS mlr1231 WT 0.73
+#=GS mll6595 WT 0.93
+#=GS mlr2549 WT 1.08
+#=GS mll2018 WT 1.07
+#=GS mll7723 WT 0.97
+#=GS mll1853 WT 0.82
+#=GS mll1632 WT 1.14
+#=GS mll2167 WT 1.27
+#=GS mlr7636 WT 1.05
+#=GS mll0467 WT 0.66
+#=GS mll5057 WT 1.15
+#=GS mll5302 WT 1.02
+#=GS mlr0096 WT 1.06
+#=GS mll5372 WT 1.21
+#=GS mll5441 WT 1.01
+#=GS mll4118 WT 0.39
+#=GS mlr5029 WT 0.99
+#=GS mlr7869 WT 0.84
+#=GS mlr6157 WT 0.97
+#=GS mll5645 WT 1.05
+#=GS mlr5644 WT 0.73
+#=GS mll8493 WT 1.34
+#=GS mlr1435 WT 0.92
+#=GS mll3033 WT 0.84
+#=GS mll4828 WT 1.35
+#=GS mll5035 WT 1.08
+#=GS mlr5371 WT 1.23
+#=GS mll5031 WT 0.99
+#=GS mll0178 WT 0.98
+#=GS mll1531 WT 1.32
+#=GS mll5362 WT 0.50
+#=GS mlr5545 WT 1.28
+#=GS mll3631 WT 1.26
+#=GS mll0255 WT 1.33
+#=GS mlr2925 WT 0.62
+#=GS mlr7645 WT 0.95
+#=GS mll0849 WT 1.21
+#=GS mll1004 WT 1.23
+#=GS mlr3964 WT 0.71
+#=GS mll1163 WT 1.41
+#=GS mll2144 WT 0.51
+#=GS mlr1851 WT 0.82
+#=GS mlr5218 WT 1.01
+#=GS mlr0385 WT 1.13
+#=GS mlr4682 WT 1.23
+#=GS mll4821 WT 1.19
+#=GS mll1268 WT 0.86
+#=GS mll4927 WT 1.07
+#=GS msr8381 WT 0.86
+#=GS mll1002 WT 0.94
+#=GS mll4246 WT 0.98
+#=GS mlr5683 WT 1.00
+#=GS msr8478 WT 0.81
+#=GS mll3374 WT 1.23
+#=GS mll4988 WT 0.91
+#=GS mlr4072 WT 0.82
+#=GS mlr8347 WT 1.14
+#=GS mlr0922 WT 1.26
+#=GS mll5410 WT 0.91
+#=GS mlr5166 WT 0.84
+#=GS mll5605 WT 0.84
+#=GS mll1641 WT 1.07
+#=GS mlr4089 WT 0.95
+#=GS mll4149 WT 1.13
+#=GS mll6228 WT 1.40
+#=GS mlr0277 WT 0.91
+#=GS mlr8154 WT 0.70
+#=GS mlr1890 WT 1.07
+#=GS mlr7543 WT 1.35
+#=GS mlr5407 WT 1.36
+#=GS mll2459 WT 0.68
+#=GS mll2999 WT 0.91
+#=GS mll0732 WT 1.08
+#=GS mlr3988 WT 0.35
+#=GS mlr0270 WT 1.11
+#=GS mlr0220 WT 0.92
+#=GS mlr0699 WT 1.03
+#=GS mlr2142 WT 0.53
+#=GS mlr3004 WT 1.18
+#=GS mll0815 WT 1.11
+#=GS mll8212 WT 1.22
+#=GS mlr1579 WT 1.37
+#=GS mlr4455 WT 1.08
+#=GS mll4235 WT 1.24
+#=GS mlr4340 WT 1.47
+#=GS mll1918 WT 1.14
+#=GS mlr5356 WT 0.28
+#=GS mlr2124 WT 1.11
+#=GS mlr1976 WT 0.98
+#=GS mlr2839 WT 1.03
+#=GS mlr1518 WT 1.03
+#=GS mll1582 WT 1.13
+#=GS mll6639 WT 1.19
+#=GS mlr5805 WT 1.27
+#=GS mll2088 WT 0.97
+#=GS mlr3796 WT 1.03
+#=GS mll3759 WT 1.27
+#=GS mll1284 WT 0.98
+#=GS mlr5066 WT 0.91
+#=GS mlr0310 WT 1.19
+#=GS mll2232 WT 1.35
+#=GS mll0624 WT 1.11
+#=GS mlr1663 WT 0.95
+#=GS mll2746 WT 0.97
+#=GS mlr7133 WT 0.40
+#=GS mlr8397 WT 1.08
+#=GS mll1028 WT 0.96
+#=GS mlr7461 WT 0.86
+#=GS mll7303 WT 0.60
+#=GS msl6451 WT 1.29
+#=GS mlr4629 WT 1.05
+#=GS mll1690 WT 0.65
+#=GS mlr0325 WT 0.95
+#=GS mlr3815 WT 1.00
+#=GS mlr1172 WT 1.18
+#=GS mll0854 WT 0.40
+#=GS mlr3355 WT 0.75
+#=GS mll4093 WT 1.03
+#=GS mll4250 WT 1.11
+#=GS mlr5562 WT 0.97
+#=GS mlr6533 WT 1.07
+#=GS mll7842 WT 1.13
+#=GS mll3861 WT 0.95
+#=GS mll0608 WT 0.65
+#=GS mlr3307 WT 0.84
+#=GS mll4258 WT 1.16
+#=GS mll2885 WT 0.97
+#=GS mlr1585 WT 0.66
+#=GS mlr5042 WT 1.11
+#=GS mlr0629 WT 0.71
+#=GS mlr2819 WT 0.77
+#=GS msr3117 WT 1.13
+#=GS msl2738 WT 1.06
+#=GS mll3743 WT 0.70
+#=GS mlr4467 WT 1.11
+#=GS mll8388 WT 1.08
+#=GS msl1119 WT 1.20
+#=GS mlr3741 WT 0.70
+#=GS mll7332 WT 1.07
+#=GS mlr7721 WT 1.12
+#=GS mll3431 WT 1.25
+#=GS mlr7768 WT 1.19
+#=GS mlr1968 WT 1.23
+#=GS mll4060 WT 1.26
+#=GS mll5768 WT 0.90
+#=GS mll3069 WT 1.10
+#=GS mll1760 WT 1.04
+#=GS mlr1241 WT 1.83
+#=GS mll2645 WT 1.30
+#=GS mlr3583 WT 1.04
+#=GS mlr3157 WT 0.57
+#=GS mll6718 WT 1.09
+#=GS mll2972 WT 0.75
+#=GS mll5188 WT 1.23
+#=GS mlr2998 WT 1.28
+#=GS mll1451 WT 0.72
+#=GS mll6731 WT 1.14
+#=GS mlr6541 WT 1.30
+#=GS mll0037 WT 1.22
+#=GS mll3668 WT 1.40
+#=GS mlr2292 WT 1.07
+#=GS mll5120 WT 0.42
+#=GS mll3685 WT 0.58
+#=GS mlr6185 WT 1.01
+#=GS mlr3223 WT 0.35
+#=GS mlr8524 WT 1.05
+#=GS mll7019 WT 1.18
+#=GS mll5088 WT 1.13
+#=GS mlr3943 WT 0.74
+#=GS mlr3700 WT 1.07
+#=GS mlr6441 WT 1.00
+#=GS mlr5071 WT 1.40
+#=GS mll0455 WT 0.90
+#=GS mll7188 WT 1.15
+#=GS mlr4632 WT 1.18
+#=GS mlr4749 WT 0.53
+#=GS mlr7949 WT 1.10
+#=GS mll3952 WT 1.04
+#=GS mlr4536 WT 1.03
+#=GS mll6628 WT 0.89
+#=GS msr0042 WT 1.11
+#=GS mll3319 WT 1.13
+#=GS mlr7322 WT 1.34
+#=GS mll4780 WT 0.65
+#=GS mlr0587 WT 1.10
+#=GS mlr7415 WT 0.80
+#=GS mll7917 WT 0.65
+#=GS mll7273 WT 0.94
+#=GS mll4092 WT 1.08
+#=GS mlr4335 WT 0.85
+#=GS msr5561 WT 1.03
+#=GS mll3888 WT 0.91
+#=GS mlr6875 WT 0.93
+#=GS mlr5447 WT 0.66
+#=GS mll3531 WT 1.32
+#=GS mlr4398 WT 1.20
+#=GS mll0782 WT 1.23
+#=GS mll8431 WT 1.26
+#=GS mlr7932 WT 1.20
+#=GS mll1989 WT 1.21
+#=GS mlr1705 WT 0.83
+#=GS mll2521 WT 0.42
+#=GS mlr0045 WT 0.75
+#=GS mlr1649 WT 1.26
+#=GS mlr5381 WT 1.29
+#=GS mll4000 WT 1.25
+#=GS mll1405 WT 0.84
+#=GS mll0762 WT 1.21
+#=GS mlr0694 WT 1.18
+#=GS mll1454 WT 1.21
+#=GS mlr3013 WT 1.13
+#=GS mll6250 WT 1.19
+#=GS mlr1245 WT 1.12
+#=GS mlr3495 WT 1.06
+#=GS mlr6511 WT 0.72
+#=GS mll1258 WT 0.69
+#=GS mlr7916 WT 0.78
+#=GS mll1660 WT 1.18
+#=GS mll1103 WT 0.65
+#=GS mlr2759 WT 1.29
+#=GS mlr0555 WT 1.02
+#=GS mll0036 WT 1.08
+#=GS mlr3373 WT 1.03
+#=GS mll4244 WT 0.88
+#=GS mlr3167 WT 1.07
+#=GS mll0167 WT 1.01
+#=GS mll0489 WT 0.91
+#=GS mlr2400 WT 1.21
+#=GS mll8252 WT 0.88
+#=GS mlr8325 WT 1.01
+#=GS mlr5648 WT 0.71
+#=GS msr3935 WT 0.66
+#=GS mll2386 WT 1.15
+#=GS mll7738 WT 0.59
+#=GS mlr4661 WT 0.91
+#=GS mll1819 WT 1.18
+#=GS mlr3233 WT 1.06
+#=GS msl6994 WT 0.97
+#=GS mll2413 WT 1.14
+#=GS mll7908 WT 0.60
+#=GS mlr7298 WT 1.33
+#=GS mlr2394 WT 1.02
+#=GS mll1248 WT 1.06
+#=GS mlr4684 WT 1.19
+#=GS mll3306 WT 0.83
+#=GS mll3309 WT 0.95
+#=GS mll4559 WT 1.00
+#=GS mll1738 WT 0.94
+#=GS mll5357 WT 0.82
+#=GS mll0630 WT 0.71
+#=GS mll4270 WT 1.26
+#=GS mlr2341 WT 1.26
+#=GS mlr0173 WT 0.85
+#=GS mlr2699 WT 0.28
+#=GS mlr0020 WT 0.92
+#=GS mlr6523 WT 1.42
+#=GS mlr7299 WT 0.98
+#=GS mll4272 WT 1.07
+#=GS msr1249 WT 1.16
+#=GS mll7330 WT 0.99
+#=GS mll7669 WT 1.41
+#=GS mll2248 WT 1.13
+#=GS mlr1689 WT 1.23
+#=GS msr8665 WT 0.82
+#=GS mlr5070 WT 0.89
+#=GS msr8048 WT 1.02
+#=GS mlr7391 WT 0.91
+#=GS mlr7383 WT 0.64
+#=GS mlr6247 WT 1.47
+#=GS mlr2761 WT 0.57
+#=GS mll2414 WT 1.10
+#=GS mll7437 WT 1.13
+#=GS mll4981 WT 0.91
+#=GS mll0826 WT 0.83
+#=GS mll0667 WT 1.00
+#=GS mlr6594 WT 0.93
+#=GS mll7519 WT 1.19
+#=GS mlr6940 WT 0.82
+#=GS mlr7740 WT 1.21
+#=GS mlr3857 WT 0.49
+#=GS mlr2644 WT 1.47
+#=GS mll7082 WT 1.02
+#=GS mlr3468 WT 1.12
+#=GS mll8468 WT 0.98
+#=GS msr0389 WT 1.23
+#=GS mll3882 WT 1.04
+#=GS mll2736 WT 0.64
+#=GS mll3965 WT 0.72
+#=GS mlr0740 WT 1.12
+#=GS mlr1469 WT 0.65
+#=GS mll5661 WT 0.92
+#=GS mll8309 WT 0.68
+#=GS mll6811 WT 0.97
+#=GS msl7942 WT 1.06
+#=GS mlr0211 WT 1.01
+#=GS mlr5515 WT 0.95
+#=GS mlr2494 WT 1.08
+#=GS msl7604 WT 0.88
+#=GS mlr3017 WT 0.96
+#=GS mlr6539 WT 1.05
+#=GS mll4296 WT 1.09
+#=GS mll1436 WT 1.03
+#=GS msl1109 WT 1.27
+#=GS mll8452 WT 0.85
+#=GS mll1068 WT 1.02
+#=GS mlr4548 WT 0.61
+#=GS mlr7815 WT 1.37
+#=GS mlr2763 WT 0.75
+#=GS mlr2815 WT 0.74
+#=GS mll4921 WT 1.13
+#=GS mll2537 WT 1.33
+#=GS mll7124 WT 1.14
+#=GS mlr8476 WT 0.60
+#=GS mll1651 WT 1.37
+#=GS mlr2640 WT 1.27
+#=GS mlr2470 WT 0.42
+#=GS mll4419 WT 1.07
+#=GS mlr7818 WT 0.42
+#=GS mlr0488 WT 0.91
+#=GS msl8637 WT 0.86
+#=GS mll0773 WT 0.88
+#=GS mll5148 WT 1.18
+#=GS mll7351 WT 1.08
+#=GS mlr4779 WT 0.72
+#=GS mlr5654 WT 0.48
+#=GS mlr3050 WT 1.02
+#=GS mll5622 WT 1.24
+#=GS mlr4953 WT 1.30
+#=GS mll3637 WT 0.87
+#=GS mll1127 WT 0.91
+#=GS mlr2927 WT 0.62
+#=GS msr4796 WT 1.11
+#=GS mll1519 WT 1.19
+#=GS mll2689 WT 0.93
+#=GS mlr5563 WT 1.24
+#=GS mlr6444 WT 0.81
+#=GS mll8456 WT 0.83
+#=GS mlr8380 WT 0.61
+#=GS mll4252 WT 1.22
+#=GS mlr3881 WT 0.77
+#=GS mll2227 WT 1.12
+#=GS msr2379 WT 1.06
+#=GS mlr7288 WT 0.59
+#=GS mll7734 WT 0.66
+#=GS mlr1414 WT 1.05
+#=GS mlr0752 WT 1.21
+#=GS mlr3769 WT 1.41
+#=GS mlr3847 WT 0.90
+#=GS mll1692 WT 1.06
+#=GS mll3075 WT 1.05
+#=GS mlr4987 WT 0.97
+#=GS mll7433 WT 1.13
+#=GS mlr7927 WT 1.35
+#=GS msl3793 WT 0.82
+#=GS msl7784 WT 1.10
+#=GS mlr3148 WT 0.86
+#=GS mlr8149 WT 1.17
+#=GS mlr3120 WT 1.14
+#=GS mlr5044 WT 0.76
+#=GS mlr1283 WT 1.07
+#=GS mlr2439 WT 0.89
+#=GS mlr1710 WT 0.71
+#=GS mlr8387 WT 0.88
+#=GS mll0525 WT 0.81
+#=GS mll3129 WT 0.98
+#=GS mll4757 WT 0.67
+#=GS mlr4381 WT 0.81
+#=GS mlr6139 WT 1.33
+#=GS mlr3032 WT 0.76
+#=GS mlr4966 WT 1.25
+#=GS mlr1887 WT 1.35
+#=GS msr2608 WT 0.93
+#=GS mlr2969 WT 0.80
+#=GS mll7701 WT 0.98
+#=GS mlr8323 WT 1.38
+#=GS mll4820 WT 0.73
+#=GS mll2253 WT 1.25
+#=GS mlr7597 WT 1.08
+#=GS msr5976 WT 1.13
+#=GS mll4794 WT 0.99
+#=GS mll5315 WT 0.93
+#=GS mll1500 WT 1.03
+#=GS mll5052 WT 0.95
+#=GS mlr7627 WT 1.07
+#=GS mll3867 WT 1.13
+#=GS mlr7355 WT 1.11
+#=GS mll1470 WT 0.82
+#=GS msr0341 WT 0.79
+#=GS msr0731 WT 0.81
+#=GS msl3293 WT 1.02
+#=GS mll4103 WT 0.44
+#=GS mlr8474 WT 0.87
+#=GS mll2816 WT 0.62
+#=GS mlr6651 WT 1.33
+#=GS mlr4269 WT 1.22
+#=GS mlr8401 WT 1.07
+#=GS mll1643 WT 0.76
+#=GS mlr2659 WT 0.96
+#=GS mlr2676 WT 1.23
+#=GS mlr1595 WT 0.81
+#=GS mll1309 WT 1.29
+#=GS mll2625 WT 1.30
+#=GS mlr7711 WT 1.24
+#=GS mlr4407 WT 0.93
+#=GS msr2529 WT 1.18
+#=GS msr2457 WT 0.73
+#=GS mll1222 WT 1.33
+#=GS mll0743 WT 1.35
+#=GS mll1100 WT 0.88
+#=GS mlr7272 WT 0.94
+#=GS mlr0874 WT 0.88
+#=GS mll3429 WT 0.97
+#=GS mlr7964 WT 0.88
+#=GS msr2723 WT 1.23
+#=GS mll1508 WT 1.08
+#=GS msl4069 WT 1.18
+#=GS mll0487 WT 1.18
+#=GS mll1765 WT 0.94
+#=GS mll1012 WT 1.15
+#=GS mll3723 WT 0.97
+#=GS mll2531 WT 1.01
+#=GS mll4541 WT 0.52
+#=GS msl5155 WT 1.27
+#=GS mll2610 WT 1.23
+#=GS mll1775 WT 0.96
+#=GS mll0645 WT 0.93
+#=GS mlr3334 WT 1.04
+#=GS mll5113 WT 1.02
+#=GS mll4186 WT 1.14
+#=GS mll2263 WT 1.11
+#=GS mll3030 WT 1.21
+#=GS mlr5416 WT 0.94
+#=GS mlr1493 WT 1.29
+#=GS mlr5136 WT 1.05
+#=GS mll1830 WT 0.96
+#=GS mll6957 WT 1.14
+#=GS mlr1935 WT 1.00
+#=GS mll4275 WT 0.61
+#=GS mlr4354 WT 0.75
+#=GS mlr4962 WT 0.96
+#=GS mlr3285 WT 1.50
+#=GS mll1962 WT 0.92
+#=GS msl0779 WT 1.11
+#=GS mlr8326 WT 1.02
+#=GS mlr0356 WT 1.01
+#=GS mlr1849 WT 1.26
+#=GS msr8237 WT 0.88
+#=GS mll1986 WT 1.33
+#=GS msr3702 WT 1.15
+#=GS mlr7346 WT 0.88
+#=GS mll4586 WT 1.12
+#=GS mll5581 WT 1.19
+#=GS mll2850 WT 1.18
+#=GS mll5702 WT 1.10
+#=GS mll1683 WT 1.38
+#=GS mlr4538 WT 0.40
+#=GS mlr7826 WT 1.11
+#=GS mlr8413 WT 1.02
+#=GS mll7825 WT 1.11
+#=GS mlr8307 WT 0.38
+#=GS mll7580 WT 1.19
+#=GS mlr0565 WT 1.18
+#=GS msr2235 WT 1.06
+#=GS mlr1449 WT 1.25
+#=GS mll3503 WT 0.98
+#=GS mll2765 WT 0.72
+#=GS mll1463 WT 0.75
+#=GS mll5494 WT 1.15
+#=GS mll0914 WT 1.22
+#=GS mlr4377 WT 1.21
+#=GS mlr8530 WT 0.98
+#=GS mlr2630 WT 1.11
+#=GS mlr5623 WT 1.04
+#=GS mll7787 WT 1.32
+#=GS mll4985 WT 1.02
+#=GS mlr8415 WT 1.06
+#=GS mlr1708 WT 0.61
+#=GS mlr8284 WT 1.19
+#=GS mll3321 WT 1.34
+#=GS mll4088 WT 0.57
+#=GS mll4283 WT 0.72
+#=GS mll2704 WT 0.97
+#=GS mlr7819 WT 1.02
+#=GS mll4866 WT 1.22
+#=GS mll1462 WT 1.01
+#=GS mll2809 WT 1.15
+#=GS mlr2172 WT 1.06
+#=GS mlr3257 WT 1.10
+#=GS mll3989 WT 0.68
+#=GS mll1725 WT 1.19
+#=GS mll5675 WT 1.07
+#=GS mll7959 WT 0.95
+#=GS mlr3762 WT 1.21
+#=GS mlr7403 WT 0.73
+#=GS msl4017 WT 1.09
+#=GS mlr7614 WT 1.00
+#=GS mll1433 WT 1.26
+#=GS mll4059 WT 0.74
+#=GS mll3104 WT 0.72
+#=GS mll6987 WT 1.18
+#=GS mll1751 WT 0.83
+#=GS mlr2421 WT 0.93
+#=GS mlr2375 WT 1.32
+#=GS mlr3488 WT 1.34
+#=GS mlr0230 WT 1.06
+#=GS mll1929 WT 0.92
+#=GS msl6741 WT 1.33
+#=GS mlr1815 WT 0.87
+#=GS msr0960 WT 1.05
+#=GS msl3766 WT 0.70
+#=GS mll3384 WT 1.32
+#=GS mll4956 WT 1.14
+#=GS mll4832 WT 0.70
+#=GS mlr4954 WT 1.04
+#=GS mll2211 WT 1.13
+#=GS mll8311 WT 1.18
+#=GS msr3222 WT 1.25
+#=GS mlr0777 WT 1.06
+#=GS mll3850 WT 1.11
+#=GS mlr4594 WT 1.10
+#=GS mll0081 WT 1.02
+#=GS mlr0248 WT 0.83
+#=GS mll3311 WT 0.81
+#=GS mlr5227 WT 1.10
+#=GS mlr2596 WT 1.30
+#=GS msl6526 WT 1.11
+#=GS mll5655 WT 0.55
+#=GS mll1407 WT 1.09
+#=GS mlr3911 WT 0.77
+#=GS mll8093 WT 1.22
+#=GS mlr6196 WT 1.21
+#=GS mll1624 WT 1.05
+#=GS mlr6156 WT 0.99
+#=GS msr5037 WT 1.38
+#=GS mll5053 WT 1.35
+#=GS mll0505 WT 0.57
+#=GS msr5947 WT 1.25
+#=GS mll2664 WT 1.04
+#=GS mlr5544 WT 0.82
+#=GS mll0128 WT 1.09
+#=GS mlr2023 WT 1.06
+#=GS mlr8255 WT 0.39
+#=GS mll3944 WT 1.20
+#=GS msl0440 WT 1.13
+#=GS mlr4184 WT 1.29
+#=GS mll1569 WT 1.12
+#=GS mll6839 WT 0.86
+#=GS mlr0937 WT 0.77
+#=GS mlr0564 WT 0.68
+#=GS mlr2408 WT 1.09
+#=GS msl8272 WT 1.04
+#=GS mll4242 WT 0.68
+#=GS mll5399 WT 1.24
+#=GS mll4534 WT 0.40
+#=GS mll2599 WT 0.97
+#=GS mlr1499 WT 1.17
+#=GS mll7670 WT 1.05
+#=GS mlr7894 WT 1.24
+#=GS mlr7000 WT 0.98
+#=GS mll8419 WT 0.93
+#=GS mlr5526 WT 0.93
+#=GS mll7329 WT 1.13
+#=GS mll4282 WT 1.04
+#=GS mlr8162 WT 1.21
+#=GS mlr8761 WT 1.32
+#=GS mlr6417 WT 1.34
+#=GS mlr8084 WT 1.36
+#=GS mlr5413 WT 0.74
+#=GS mlr4097 WT 1.00
+#=GS mll1296 WT 1.08
+#=GS mlr5531 WT 1.29
+#=GS mll3596 WT 1.04
+#=GS mll7727 WT 1.03
+#=GS mlr4143 WT 0.38
+#=GS mlr0915 WT 1.23
+#=GS mll3670 WT 1.14
+#=GS mlr1450 WT 0.84
+#=GS mlr1573 WT 1.28
+#=GS mlr6791 WT 0.77
+#=GS mll4937 WT 0.95
+#=GS mlr7924 WT 1.18
+#=GS mlr2758 WT 0.40
+#=GS mll5202 WT 1.16
+#=GS mlr5608 WT 1.41
+#=GS mlr3170 WT 1.23
+#=GS mll3970 WT 0.93
+#=GS msl0470 WT 1.20
+#=GS mll1168 WT 1.11
+#=GS mll0592 WT 0.99
+#=GS mll3878 WT 0.86
+#=GS mlr5708 WT 0.59
+#=GS mll8440 WT 0.94
+#=GS mll0636 WT 1.13
+#=GS mll0485 WT 1.45
+
+mll2974      UUUAU-U-UG-G-----------------CGCAUUUU-----CGGACGGC
+msl0931      CGU--CU-U---CA---------------AGGCGGCC-----CGGUCGU-
+mll3139      CGC--C---G-CCACC----------ACCGAAAGCCC-----GGCUUGGC
+mll0212      UUAAU-A-AG-AAA---------------AUCCCGCG-----CCGAUCG-
+mll5706      UUU--CA-AG-C----------------UGUCGCGGC-----GGGGCU--
+mlr2201      UGGUG-A--G-------------------UAGGCAGU-----AGGAAAUA
+mlr4601      CUUAGCU-U---CU---------------UUCCUUCU-----CCCAC---
+mlr8418      UCGUU-A--G-CUA--------------AAAACCCGC-----GGGGAG--
+mlr4841      GGAAU-A--G-GCA---------------GUAGGCAG-----UAGGGGGA
+mll8359      CUA--CA-A--------------------AAAAGCCC-----GGCAGC--
+mlr6034      UCAAUCA-AG-AUGAGA--------CUCGGCGGGGGU-----GGUGUGAC
+mll3745      UCC--CA-C--------------------CCAGGCGG-----GCCAAGUC
+mll3663      GGUAACA-U---CA---------------UUCCUUCU-----CCCCGUU-
+mlr4910      GUC--C---G-------------------CGGCAUUG--------UA---
+mll0865      GUG--C---G-------------------AAGCUGAA-----CCCUU---
+mlr5604      CGGAG-A-C---AAA------------CGAAGAAGCC-----GCGCUGAA
+mlr0604      UGAAA-A--G-AG-GG-----------AGUAGGCAGU-----AGGAGUUA
+mlr1615      UCCAA-A-C--------------------AAAAGGGG-----CGGCA---
+mll1209      CUGAGC---G-CCAAG-----------GCUUGAAGUG-----CGUCG---
+mll4602      GCG--CU-U---CU---------------UUCCUUCU-----CCCCU---
+mll1090      GCGUUCA-A---CCCA-----------UCAAAGCCGG-----CGCGGCCC
+mlr2052      UGA--CA-AG-AAA---------------AACCCGCC-----ACCAG---
+mll5050      GGG--CA-CG-CCC--------------CUCACCCUC-----CCCCU---
+mlr0499      UCC--C---G-GCAAA-----------UGAAAAGGGC-----GCCUC---
+mlr3649      CUGAU-A--G-AA-GCCA-------AAAAAAGAGGCC-----GGGAA---
+mll8170      UCGAU-A--G-------------------AAGCGGCG-----CGGAAU--
+mll4256      UGGAG-U-UG-CUCGAA---------UGAAAACGCCG-----GCUCU---
+mlr5361      CGGAG-U--G-ACGGAC---------UUCUUCCUUCU-----CCCGC---
+mll0343      CCGUACU--G-AUAACA--------UUGAAAAGGCCC-----UUGAAGGA
+mlr4111      CGG--C---G-G--GUAA------ACGAGAGAGGGGC-----GGAGCACU
+mll5388      CGGAU-U--G--CC---------------AACCGAUU-----UGUCC---
+mll7668      CCCAG-A-C---CG---------------CCGGGCCG-----CGCAUCGA
+mll1546      CGGACC---G-UAACAAU-------UGUUAACAGGCA-----AGCAAG--
+mlr2516      GGCAG-U-AG-GGAA-------------UAGGCAGUA-----GGGGCGUA
+mll6750      AGC--CU-UG-GGG---------------AACGUCAG-----ACCCUGAU
+mlr1881      CGG--CA--G--CAAAC---------UGCCAAUCUCC-----CCCUC---
+mlr4195      GGC--CU--G--AG---------------AAGCAUGA-----UCCCGAAA
+mll2306      UGU--CU-AG-------------------AGCGGUUC-----ACCGUUUG
+mll1129      CAGUA-A-GG--C----------------AGUAGGGC-----AGUAGGGA
+mll7394      CGU--CA-U------------------------CCUC-----GGGCU---
+mlr7225      CUU--CU--G--C----------------CGGGUGGC-----CUGAC---
+mll3593      UGC--CA-AG-C----------------UUGCAGGUC-----GGCAA---
+mll1552      CUGACCU--G-UGC---------------UGAAGUUC-----AUGUG---
+mll5421      GUGAUC---G-AU----------------GAGGGGGU-----GGCCUGAC
+mll7301      CUUAACA--G-A-C---------------AUCGGGCG-----CGCUA---
+mlr0323      GCGAG-U-AG-CCAU-------------UAGCGAGUA-----GGGGUCCC
+mlr2244      CUC--CU-U----------------------ACCCUC-----CCCCU---
+mlr0339      UGCAAC---G-AAAA------------AGCCCUGGCG--------GA---
+mll0351      UGCAG-A--G-ACGA-------------AAAGGGCGG-----CUGAAGCA
+mlr6801      UGA--C---G-G--GUCA-------ACUGCCGGAGGG-----GUGAUC--
+mlr0978      GCGAG-A--G-CCC---------------GAUCGCCG-----GUCGCCC-
+msr0848      UCC--CU-UG-CA-AA-----------CAAAAACGCC-----GCCCA---
+mlr6414      CCC--C---G-CCAAG----------CGACGGGGCCC-----GGCAC---
+mll6256      GUAAU-A-CG-CCU---------------UGUGGGCG-----GCCAUA--
+mll4996      CCG--C---G-GACAU----------AGGGAGCGGCG-----CUGUCGCG
+mlr0039      CCGUG-A--G-GUA---------------AUGCAUGU-----CGCCCAAA
+mll7356      UUC--C---G--CG---------------CGGCGCCC-----UCGACCUA
+mlr4903      CGC--CA-U--------------------AAAUGUGA-----GGGUUUAU
+mll1329      UGA--C---G-UUU---------------GUGCUCCC-----GGCGCC--
+mlr1701      CCUAG-A--G-CCGG------------AUGAUUUCAG-----GUCUG---
+mlr4763      UCU--CU-A---CACAUC-------CUAGAUCAGUUC-----ACCGUUUC
+mll0501      CACAU-U-U---CGAA-----------UGAAAAGGGC-----GCCGC---
+mll5210      UACAA-A-A--------------------AGACCCGC-----CGGAGC--
+mll1046      CGCAUC---G-GCCAG-----------AGCAUUUUAC-----CGUUUCG-
+mlr0273      CUGAA-U-U--------------------CCGGGCCU-----UGGAU---
+mlr2412      GUGAG-A-AG-C----------------UCCCAUCCC-----CGGCC---
+mlr7830      CUGAA-A-A---UA---------------ACAAGGCC-----CGCAGCCA
+mll0663      CUGAUC---G-GCACGCA-------CUCGAAGAAGCC-----CCGGA---
+mll2445      UUGAU-A--G-ACA--------------GGCCUCGCC-----GCCGA---
+mll3832      CUGAAC---G-GCA--------------AAGGCCGCC-----CGGAA---
+mll4112      CGGUU-U-C---CG---------------AGAGGGGC-----GGAGCACC
+mlr5404      CAUAAC---G-AC----------------GAACGGCG-----GCCUGAUC
+mlr3465      GUCAACA-A---AAA-------------AAAGGGCGC-----GGCAACCC
+msl8074      UGC--C---G-GCC--------------GAAGCCCGU-----CGCCUCU-
+mlr7857      UCC--CU-GG-------------------AAAAGCGC--------GU---
+msl2054      GGCAU-U-UG-AAA---------------AACCCGCU-----ACCAA---
+mlr3016      CUCAUC---G-------------------AGGACGGC-----GGCCGA--
+mll5199      CGGUG-A--G-UAG---------------CGAAUAGG-----GCGUCUC-
+msl0377      UGAAU-A-A--------------------AAAGGGCC-----CCGUC---
+mlr5281      UUG--CA-C--------------------GGGUCGGA-----UCGAG---
+mlr3480      UGGAG-A-A---A-U------------GAAGAAUUGA-----GGAACGCA
+mll4029      CGGAUC---G-UCGAAA---------UCGGAACCCGG-----CGGGC---
+mlr0376      UCA--CA-A---UCA------------AAAAGGGCCC-----CGUCU---
+mlr3662      CGUAGCU-U--------------------CCUUCUCC-----CCGUG---
+mlr0549      CUGAU-A--G-ACGGA----------UCAAGACGGCG-----GGGAA---
+mll2518      UUCAA-U--G-AUGA------------GUUGACGCCA-----AGCUGAAG
+mll5167      UGAAA-A-AG--AG---------------AGACCCCG-----GGCGU---
+mll7704      CGU--C---G-UU----------------CGGAAAGC-----CAAGC---
+msr5593      UUU--C---G-G-A---------------CAAGGGCC-----GCCCA---
+mlr1753      UGU--CA-UG-------------------CCUGGCGA-----GCCUC---
+mlr0585      GUGAGC---G-GCGA------------AUGGACCUGG-----ACCGUG--
+mll3709      CCCAU-A-CG-UGCAA----------AAUCCGGAGGC-----CGGCG---
+msl1769      CAGAG-A-U--------------------AAGGGCUU-----UGGAU---
+mll7237      GCGAU-A-CG---A---------------AUGGCCGG-----AGGCAG--
+mlr5477      CCA--C---G--CG---------------UGAUGCCA-----GCUUCACG
+mll3661      UUC--C---G-UCGAA-----------GCGUGAUCCC-----GGAACCGU
+mll1207      CGGUA-A--G-GCAAACC-------UCGACCGGGCGU-----UUCUUC--
+mlr5554      UGC--C---G-GUAC-------------CAGGCGGUG-----GUCGA---
+mlr2666      CGG--CU-C--------------------UGGAGCAU-----GAUCCCGA
+mlr5692      UUG--CU-GG-ACC--------------AAAACCCCG-----GUCGU---
+mlr2125      CCC--C---G-UGAAC-----------UGAUCCGGCC-----GGC-----
+mll0650      UUUAU-U-C---CGAAAG------CGUUUUUCGGCCG-----GAUGUCCG
+mlr5184      CGGAA-A-U---AGC------------AAAGAGCCCG-----GCCCA---
+mll7871      CGG--CU--G-------------------AAGCGCGU-----CGCAUCGA
+mll1882      CCGAUCU-C---CC--------------CCAAUCUCC-----CCCAC---
+mll4358      UGU--CA-CG-AUCG-------------AGACUCGCC-----GGCGC---
+mlr2634      CGAAU-U--G-ACAAUACA----GACACGCGGGCCGG-----CGCUGCC-
+msl7844      CUAAU-U-C---UC--------------CAGAACGGG-----CGGUU---
+mll2257      UAGAACA--G-ACC--------------UGCCGGGCG-----UGCGUG--
+mll3467      UUU--CA-A--------------------AAAGGGCG-----CGGCAGCC
+msl3782      GGGUU-A--G-UUG--------------CAAAAGACC-----GGCCU---
+mll5094      CGGUU-U-C---UC---------------GGACGAAC-----GG------
+msr5755      UUU--CA-U----A---------------CCCGUCCC-----GGGUC---
+mll2661      UCAAA-A-C---AAA-------------AGAGCGCUG-----GCCUU---
+mlr4771      GGCAAC---G-G-A---------------GCCGGCCG-----GGCGC---
+mlr0864      UUG--CU-GG---A---------------AAGCCGAA-----CCCUC---
+mlr6790      CCG--C---G-GCC-----------------UGGCGA-----CCAAUAAC
+msl2821      UGAAG-A-U---AC--------------AAAAGGGCG-----CGGCA---
+mlr1619      UGU--C---G-GUU---------------GAGCAUGA-----UCUUU---
+mlr3352      GGC--CA--G-GCAC------------CAAUGCAUGU-----CGCCCGAA
+mlr3986      CCG--C---G-CA-AA-----------AAAAGGGCGC-----GGCAA---
+mlr1911      GGA--CA-GG-AA-AGC--------GCUCCUCUCCCU-----CGCUC---
+mlr6435      UCC--CA-AG-G-A---------------CGGGGUCC-----GGGACGGC
+mll5423      CGGAG-A-UG-C-ACU----------GAAAUCGUGCC-----GGCUUU--
+mlr8405      UCUAG-A--G-CCGG------------AUGAUUUCAG-----GUCGA---
+mlr3708      GCGAU-A--G-UCGAAACU-----UCGAUCCGGAGGC-----CGGUC---
+mlr1694      UCAAGC---G-CCU---------------UUCCUUCU-----CCCCU---
+mlr1763      CAGAA-A-C---AAA-------------AAAUAGCCC-----GCCCGGCG
+mll4444      UUG--CA-CG--CA---------------UGCUGAAC-----ACAAUUUG
+msr8535      CUG--C---G--CAGA-----------ACGGCCGGAG-----CGUUC---
+mlr5723      UGA--C---G-CCAA------------ACGGCUGGCG-----CGCCC---
+msl4750      UGAAGCA-A---UCCCC--------AAGGGAAAGCGC--------CA---
+mlr4759      CGC--CA--G-ACA---------------GAAACCCG-----CCGGAG--
+mll4853      UAGAGCA--G--UC-----------------CACCGU-----UUCAU---
+mlr0263      CGGAUC---G-ACAA------------GAAAAGGGCG-----GUCUU---
+mlr1884      CGG--CU-U---CG---------------ACAGCGCC-----GGAAACAC
+mll8201      GGCUU-A-UG-C-AC------------ACGAAAGGGC-----GGCAGC--
+mlr7441      GGGAG-U-UG---C---------------CUGAAGCC-----GCUAU---
+mll5186      UUG--C---G-UCAAAA--------AUGAAAGAGCCC-----GGCCC---
+mll7714      CCG--CA--G--C----------------GCCUGGGC-----GAGGCAUU
+mll3224      UUG--CU-U---C----------------CGCCGCCG-----CGCUA---
+mlr3121      UAC--CU-UG---C---------------GGCGCGGA-----ACCAUAU-
+mll5212      UUU--CU-C--------------------CCGUGUUU-----CCGUU---
+mll0665      GCC--C---G-GGACA-----------AAACCCGGUC-----GCGGA---
+mlr4366      UGC--CA-A---UCAAUG------UUCGAGAAACCCG-----GCGGA---
+mlr0409      CGGAG-A-C--------------------GUGGCCGG-----GGGAGA--
+mll0605      GGCAG-U-AG-GCA--------------GUAGGCAGU-----AGGGAAGG
+mlr0512      GGC--CA--G-GCAC------------GAAAAAAGCG-----GGGCA---
+mll5095      UGAAU-A-GG-GA-A-------------UAGGCAGUA-----GGGGUUAG
+mlr0092      UCCUU-U--G-------------------CGCGUCCA-------------
+mlr0338      CGGAUCA-U---CGACC--------AACAGAAAGCCC-----GGCGUGAG
+mll0702      UGAAA-U-UG-------------------GGGGAGGC-----GGCAU---
+mlr2623      CCUAUCA--G-------------------AACUUGGG-----UCCCUGCC
+mll0513      UCAUUCU-CG-G--GUC--------AAAGAAAAAGCG-----GGGUC---
+mll5582      UAG--CU-UG-UC----------------UAAAACCC-----GGCCGA--
+mlr1672      UGGAU-U--G-AA-CAG--------AUGAGGAAAGCC-----GGCCU---
+mll5251      UUC--CA-A--------------------CCUCCACC-----AGGCC---
+mlr4254      UGAAGC---G-AC----------------AAACGCCG-----GCCUG---
+mll3987      UUAUU-U-C---ACCGA---------GCUAAGGGCGC-----GGCUU---
+mlr1030      GGUAG-U-AG-CCAA-------------AGGCCGCCG-----AGCUC---
+mll3168      CGGAA-U-U---UG---------------ACGCGCGG-----CGCCCA--
+mll2569      CUUAUC---G-------------------AAGCGGCC-----GCGAGC--
+mlr4812      CGGAA-U-AG-AAACUCCU----CUCUCGAAAAAGCC-----CGGUU---
+mlr2793      UGGACCA-UG-GAA---------------UUGUGCCG-----UGCUCG--
+mll6512      UGA--CU-U---UCAA----------ACGAAAAGGGC-----GGCCU---
+mlr2667      UUC--CA--G--CCUA----------GGCGGAGCAUG-----AUCCCGAA
+msr7236      CCA--CA-UG-AAA--------------AUGGCCGGA-----GGCAUC--
+mlr0318      GCGAUC---G-GCG---------------GAAACGGG-------------
+mll8244      GGCAA-U-GG-CCG---------------CGUCGAGC-----UGCGA---
+mll5677      UAGAA-U-GG-GCGAA-----------CCCGGAUUGC-----GCGACGCC
+mlr7496      UUU--C---G-GGA---------------AGGCGGCC-----GCGGC---
+msl7831      UUG--CA-A---CA---------------AGGCCCGC-----AGCCG---
+mlr8211      CGAAGC---G-GCGG------------ACCGUACCUU-----GGCCC---
+mll1848      GGGAU-A-A--------------------GGACAUGC-----AUCAAG--
+mlr7182      CGC--C---G-GCA-----------------UCAAUC-----GCGUC---
+mll1617      CCG--CU-UG-GAC---------------AAAAGGGG-----CGGGC---
+mlr1231      GGCAUCA-GG-AU-GAACG-----AUGAGAAAAGCCG-----CGCCUU--
+mll6595      UUG--C---G-AGAAA----------UGAAAAGGGCC-----GGUGCAA-
+mlr2549      CUGAUCU-CG-ACAC-------------AUUGUCCCC-----UCGAACC-
+mll2018      GGCAUCA-U---CGC------------AGAAAAGCCU-----GGGUGCUU
+mll7723      UGCAUCA--G-------------------AGCGCCGC-----GCGUCCAG
+mll1853      CAGUA-A--G--CAAA----------UAGGCCAGGCG-----GCGUU---
+mll1632      UCUAU-A-A--------------------AUCGGGCG-----GCGUUG--
+mll2167      CGU--CU--G-AGG-----------------CUAUUU-----CG-AAAA-
+mlr7636      GUGAUC---G-ACAAU----------CAGAAAGGCCC-----CGGCA---
+mll0467      CAGAA-A-UG-CG-C-------------CAAGAACCC-----GCCCG---
+mll5057      UGAUU-A-UG-G-----------------GGAACCCG-----CGCUGGCA
+mll5302      CCGAGCU-AG-GCCCA-----------AGCGUCCCGU-----GCCAC---
+mlr0096      UUU--C---G-------------------AGAUGUCC-----CGGAU---
+mll5372      CGC--CU-UG-CCG---------------GCCUGAAG-----CGCGUCGC
+mll5441      CUGAACU-UG-CCG-----------------CGCGCC-----GUCCA---
+mll4118      CUG--CU-C---UU---------------UCCCUUCU-----CCCCC---
+mlr5029      UUUAU-U-CG-ACC---------------AUUCGAAA-----CCGGU---
+mlr7869      UGG--CU--G-------------------AAGCGCGU-----CGCAUAAA
+mlr6157      CCAAU-A-GG-U-GCCA---------AGCCGGGCGGC-----GGCUCUUU
+mll5645      UAGAU-A-GG-AAA---------------UAGGCAGU-----GGGGAUCA
+mlr5644      GGCAG-U-AG-GCA--------------GUAGGCAGU-----AGGCAGUA
+mll8493      GGA--CA-U---CC---------------AGGGCAGU-----UUGCCGUU
+mlr1435      CGCAUC---G-GCAAU----------GAGAAACCCCG-----CGCGGCAU
+mll3033      UCC--C---G-AGAC-------------AGAAGCGGC-----GCCGA---
+mll4828      UCU--CA-C---AAA-------------AAUACGCGG-----CGUAUGUG
+mll5035      GGAAG-U-CG-------------------CGGCGUGG-----GCGAGA--
+mlr5371      CCA--CA-C---CC--------------GCCUGAAGC-----GCGAAGUG
+mll5031      UGAAG-U-GG-UG-AACC------AGACCAUUCGAAA-----CCGGA---
+mll0178      UUGAG-A--G-ACAA-------------UGGCAGGCC-----GCGUC---
+mll1531      CUGAUC---G-GCCCCAC-------GGGCAAUUGCUC-----CUGCC---
+mll5362      GGC--CU-C---CA-----------------CCUUCU-----CCCCU---
+mlr5545      GGC--CA-AG-CCG---------------GACGACCG-----AAGCC---
+mll3631      UUC--C---G-C-U---------------GACCGUGA-----CGCGG---
+mll0255      CAAAA-A--G-ACGA-------------GAAACGGGU-----UCCGGCGA
+mlr2925      CCAAUCA-AG-AAA---------------ACGGGCCG-----CGCCA---
+mlr7645      CGU--CA-GG-UCGAACC-------GACGUCGACGGC-----GCCUU---
+mll0849      UUU--C---G-GGC---------------GGGGCUGA-----GGGAAC--
+mll1004      CGCUA-A-GG-AG-AGC---------CGGGCGGUCCU-----CGCUU---
+mlr3964      UCG--C---G-UAGAAUU-------CCGGCAAAGGGC-----GGCUU---
+mll1163      UUGUU-U--G-------------------ACCAUGAU-----CUUGUCCG
+mll2144      GUCAA-A-GG-GUAGAUG------AGUUCCCUUCUCC-----CCGUG---
+mlr1851      CGCAU-U-U---CGAAA---------GAGGCCAGGCG-----GCGUG---
+mlr5218      CCCUU-U-U---CAA------------AAAGCAGGCC-----GGACU---
+mlr0385      GGU--CU-AG-GAAA------------GGAAAAGGCU----CGUGCGGAA
+mlr4682      UCGAG-U--G-UGAC-------------CGAGCCUCG-----CCCUC---
+mll4821      UGUAACA-AGGGG---------------C--UUGCCG-----CGGAC---
+mll1268      CGG--CA-UG-A--UU-----------GGAAAGGCCG-----GGCAU---
+mll4927      CGG--CA-A--------------------CGGCCGCC-----CGAGUUC-
+msr8381      UGGAU-U--G--AG---------------GCAAGGCC-----CGCAU---
+mll1002      UCA--CA-UG-UCG-----------------GUGCGG-----CGCAA---
+mll4246      CCU--C---G-CCAA-------------CGGGGCCGG-----CGGAUCC-
+mlr5683      UACAGC---G--CC---------------GCGCGUCU--------UU---
+msr8478      UUCAG-A--G-ACC--------------AGAAAAGCC-----GGGCU---
+mll3374      CGG--C---G-------------------GCCCGAGA-----ACCAU---
+mll4988      CGG--CU--G-ACGAUA--------UCGGAAGGGCGG-----CGCUA---
+mlr4072      UUCAA-U--G-A-----------------GAAAAGGC-----CGGGC---
+mlr8347      GGC--CU--G-CCAA------------CUUCCGAUCC-----GCCGU---
+mlr0922      CGGUU-U-U---CU---------------CUGGACAA-----ACGAA---
+mll5410      CCGAUCU--G-UUG---------------AACGGAGC-----CGCAC---
+mlr5166      CGCAU-U-CG-UUCA------------AAAGACCCCG-----GGCGA---
+mll5605      CCAAU-U--G-AA-C-------------AAAGAAGCC-----GCGCUGAG
+mll1641      UCCAU-A--G--CC---------------AUGAGAGC-----GCCGUCGA
+mlr4089      UGG--C---G-UUA-----------------UCCGGC-----GAGUU---
+mll4149      CUG--C---G-CCC--------------CGUGGCGCG-----CCCCAGAC
+mll6228      CGA--C---G-CUCAA-----------CGCGCCAC--------GCGC---
+mlr0277      UGA--CA-A----------------------CCGCCG-----CGCAG---
+mlr8154      CCGAGC---G--CA---------------AGAGCCCG-----GCCGCA--
+mlr1890      UUGAU-U--G--UGU-------------AGCGAGGAC-----GGCGA---
+mlr7543      CGAUGC---G-CG-A-------------AGCGAGCGG-----CGGUUCUU
+mlr5407      UGUAU-U-C---CG--------------CUUUCCGAC-----CACUU---
+mll2459      CGCAG-A-A--------------------AAAAGCCC-----GGGGC---
+mll2999      GUC--CA--G-AUAAA-----------GCAGAAGCCG-----CGCAGGGC
+mll0732      GACAU-A--G-CAA---------------CGCCGGCC--------CA---
+mlr3988      CGGUU-U-U---CC--------------CGGGAAAAG-----CGCGU---
+mlr0270      CCGAA-A-U----------------------CCCUGA----UGCCGU---
+mlr0220      CGG--CA-A---CGAAU---------GUGAAAACGGC-----CCCAA---
+mlr0699      CUGAG-U-A---CA---------------AGGCCCGC-----GUCGG---
+mlr2142      CCGAA-A-U---AACAG---------CGUCCUUCUCC-----CCGUU---
+mlr3004      CAGAU-U-A---UUA-------------AGCCGGCGG-----GGCCA---
+mll0815      CUGACCU--G-AGA---------------UGGCCUCC-----GGCAU---
+mll8212      UCGAGCA--G-------------------ACCGUACC-----UUGACA--
+mlr1579      UCCAGC---G-AGA---------------CUCCCGUU-----GAACC---
+mlr4455      UGC--C---G-UCCA------------AAGCACCCUC-----GGGCC---
+mll4235      GGG--CA--G--UA---------------GGCAGUAG-----GGCAUCUC
+mlr4340      GGAAU-U--G-AG-GAAU------UGAGGAAAAAGGC-----ACUCAGCG
+mll1918      GUAAU-U--G--CG---------------UGGGCGCG-----GGAGA---
+mlr5356      UGGUUCU-U----------------------CCUUCU-----CCCAC---
+mlr2124      UAAAGC---G-GU----------------CUUCCCUC-----UCCCU---
+mlr1976      GGUAUCU-UG-AAAAAUCAGGGAAGGCGGAGGCCCGA-----GACAGGUG
+mlr2839      CUAAU-A--G-AUCGG----------AUUUCGGCCGG-----ACGAUUUG
+mlr1518      CGU--CA-U---CC---------------AGGCGGGC-----GCGCU---
+mll1582      CGG--C---G-------------------UUGGCCAG-----CCGUC---
+mll6639      CUCUU-U--G-UCGG------------ACGGGCGCGG-----CUCCAC--
+mlr5805      UGG--CU-AG--CG---------------AAGGUCGC-----AAUCAC--
+mll2088      CGU--CU-CG-------------------UCAUCCUA-----GGGUCUGC
+mlr3796      GUCAUCU--G-AUCCG-----------GAUUGCGGAA-----GGGCGGU-
+mll3759      CUGAA-A--G-------------------GUGGGCGC-----CGCGUUUC
+mll1284      CUA--C---G-CG-CC----------GAUCCACCUUC-----UCCCAC--
+mlr5066      CCGAUC---G-UGAAA----------AAAAACGGCGU-----CGCGU---
+mlr0310      UGGAA-U-C---CG-----------------GUCUUC-----GGAUC---
+mll2232      GGU--CU--G-------------------GAAGGUGG-----UUCAU---
+mll0624      GGG--CU--G--CAC-------------AGGGCGACG-----GCGUC---
+mlr1663      UGGAG-A-U---CA-------------------AGGC-----GCCGU---
+mll2746      CGG--CA-UG-ACCGGA--------UGAAGAUGGGCA-----GCCGUUUG
+mlr7133      CUCUUCU-U--------------------CCUUCUCC-----CCGUU---
+mlr8397      CUGAU-A--G-UUCUA----------ACGAAAGGCCG-----CUCGA---
+mll1028      GUC--C---G-UCA---------------GAGCCGCC-----GCGAACG-
+mlr7461      GGCAG-U-AG-GGA--------------AUAGGCAGU-----AGGCCGCC
+mll7303      GCG--C---G-CUC--------------UUCCCUUCU-----CCCAC---
+msl6451      CGA--C---G-AGCCCA--------AGUAAGACCGAGAUCGCCCGUC---
+mlr4629      UCG--C---G-GUC--------------GUCAGGCGU-----CGUGCU--
+mll1690      CGGUU-U-U---CC---------------CGGGAAAG-----CGCGU---
+mlr0325      UUGAGCA-UG-A--AUU--------CCAAGGAUCGGC-----GGCGU---
+mlr3815      GGGAA-U-A--------------------GGGCAGUA-----GGGGGACC
+mlr1172      UGA--CA--G--CU---------------GAUGCAUG-----UCGCCCAA
+mll0854      CUU--CU-U--------------------CCUUCUCC-----CCGUU---
+mlr3355      CGAAA-U-CG-G-A---------------AAGGGCGG-----UGCUG---
+mll4093      GGC--CU--G-------------------UUGCGGCA-----CAGAG---
+mll4250      UUGAGCA-GG-AUCA------------CUGACAAACG--------AA---
+mlr5562      UGA--CA--G-AAAAAA---------UCGAAGCGGGC-----GCGGCU--
+mlr6533      UCAAU-A-AG--CAUCU---------GAAGCGACCUC-----GGCGGAC-
+mll7842      CCC--CU--G-CCCUG----------AAAAAGGCCUC-----GUGAU---
+mll3861      CGCAA-U--G--CAU------------CCAGCGGCGG-----GCCGUCU-
+mll0608      UGC--C---G-------------------AAAGGGCC-----GGCUC---
+mlr3307      UGU--CA-UG-------------------AAAACGGC-----GGGAGA--
+mll4258      GCAAU-U-C---CCA------------AGGGAAAGCG--------CU---
+mll2885      UGCAU-A-C---C----------------AGACCCGG-----CGGCAC--
+mlr1585      GCG--C---G-------------------AAAAUCGA-------------
+mlr5042      CGGUU-U-UG-UCG---------------GGCAAACG--------AG---
+mlr0629      UUGAUCA-U---AA---------------AAAAGGCG-----CCUCU---
+mlr2819      CUAAA-A--G--CA---------------AAAGGGCG-----CGGAG---
+msr3117      UCCUU-U-U---CGAAGG------AUACCAAGGUGGCGCGAUGCGGA---
+msl2738      CAGUUCU-AG---C---------------AAGGCCGU-----UCCAGCCG
+mll3743      CCG--C---G-UACGA-----------AAAAGGCGGC-----GCCAGUA-
+mlr4467      CCAAU-U-C---CG---------------UCGGCAGC-----GGUCU---
+mll8388      GGGAGC---G--UA---------------AUCUCCCC-----CC-AC---
+msl1119      CUCUU-U--G-CCC---------------UUGUGGUC-----GAGCA---
+mlr3741      CGG--C---G-ACAAAA--------CAUCAAGGCGGC-----GCCAGGA-
+mll7332      CGA--CU-GG-AA-AA-----------GCGAGACCCG-----GCCGUU--
+mlr7721      GGCAU-U--G--CA---------------GCGCCGCG-----CGUUCU--
+mll3431      CGG--CA-U---UUCAAGG-----CGUUGAACGGCGG-----AGAGA---
+mlr7768      UAC--CA-GG-------------------CCGCCCGC-----AGCAU---
+mlr1968      CCC--CU--G-------------------UGACCAAG-----GCCAA---
+mll4060      CGAAU-A--G--CGA------------AUAGGGAGUA-----GCGAAUAG
+mll5768      CGC--CA-C---CCAA-----------UGGACCCGCC-----GGCAG---
+mll3069      UUGAA-A-U--------------------CACCGGGU-----GGCUUC--
+mll1760      UGAUA-U-CG-------------------AAAGCCGC-----CGGGU---
+mlr1241      UUGAUC---G-AAAAGAGA-----UAACGAUAUAAAG--------AA---
+mll2645      CCG--C---G-AU-U------------AAUCAGGACG-----AUGUUUGG
+mlr3583      CAC--C---G-CCC--------------AAGGGGCCG-----GCCAAUU-
+mlr3157      CGU--CA-AG-GAACG----------CUGAUGCAUGU-----CGCCCAAA
+mll6718      UGC--CU-C--------------------ACGGGGAC-----GGAGCA--
+mll2972      UUCAA-A-CG-------------------AAAACGCC-----GCCCCG--
+mll5188      UGAUGCA-UG-UU----------------GCCCAAAA-----CUGCG---
+mlr2998      GGG--C---G-------------------GUUCACCG-----UUUCA---
+mll1451      CGG--C---G-ACCU------------CAAAAAAGGC-----GGCUAA--
+mll6731      UUCAUCA-C---CCGCA--------CCCGGCUGGCGA-----UCGUC---
+mlr6541      UUG--C---G--CAUGA---------UCUGAGGAUGC-----AACAA---
+mll0037      UGAAACA-A----A---------------GGCGAUGC-----CGCCUGCC
+mll3668      CGG--C---G-CCG---------------AAAUCGUUGG-UCUCGGU---
+mlr2292      CUG--C---G-CAG---------------CGCCGCCG-----CCGAUGAC
+mll5120      CGCAG-A--G-CCC--------------UUUCCUUCC-----CCCCU---
+mll3685      GGCAG-U-AG-GCA--------------GUAGGCAGU-----AGGCAAGC
+mlr6185      CGG--CU-C---AA---------------GCCCUCGC-----GCCGCA--
+mlr3223      CGGUU-U-U---CC--------------CGGGAAAAG-----CGCGU---
+mlr8524      CUGAG-A--G--CCUGAC------GGUAUCCGUGCGC-----CGCCC---
+mll7019      CGA--CA-AG-C-AC------------AAGGGAUCGGA---CCGCCG---
+mll5088      CAGAU-A-U---U----------------GAGGCCGG-----GUGAUUGA
+mlr3943      CGAAAC---G--CA---------------AAGGGCCU-----CGCUC---
+mlr3700      GGGAA-A--G--CAAA----------CCAAAGGCCGC-----CCGAUGCG
+mlr6441      UGGAACU-C---AA--------------AGCGGCGUC-----AGGUCUCG
+mlr5071      UGGAG-A-U---CU--------------AGGCCCUUU-----GGACAGUU
+mll0455      CUU--C---G-ACAA-------------CCAAGCGGG-----GCCUU---
+mll7188      CUAAA-A-GG-ACC---------------CGGCGGUC-----CGGAC---
+mlr4632      CAGAA-A--G--CC---------------UAUCGGCG-----CGGCCAUC
+mlr4749      CGGUU-U-C---CC--------------CGGGAAAAG-----CGCAU---
+mlr7949      UAG--CA--G-ACC---------------GUGCCGGC-----GCGAUGAA
+mll3952      UUGAG-ACCG-GCA-----------------UGCUGG-----GGCAUC--
+mlr4536      CGGAGC---G-CG-CC-----------AAGUCAUCGA-----UCCAG---
+mll6628      CUC--C---G-UCCAAG---------CGACGAGGCCC-----GGCCC---
+msr0042      CCAAACA-GG--C----------------AAGGCCCG-----CAGCG---
+mll3319      CGC--C---G-GCAAAGUC-----CCUUCCUCCCGGU-----CUGGUG--
+mlr7322      UGGAGC---G-GUGAAGCAU---UUUGCAGCCAAGUG--------GA---
+mll4780      UAG--CU-U---UU---------------CCUUCUCC-----CCGUCA--
+mlr0587      GAGAACA-C---CGAAG---------GGAAACGCGCG-----GACGUCGC
+mlr7415      UUGAU-A-U---C----------------AAAAAGCC-----GCCCGGGC
+mll7917      UGAUG-U-GG-------------------AAAAGGCC-----GGCGC---
+mll7273      UCAAG-A--G-UUCA------------ACGGGCAGGA-----GCCGC---
+mll4092      GACAU-U-GG-GCCAAC---------GGAAAAGGCCG-----CCGCUUCU
+mlr4335      GGG--CU-U--------------------GGGCAGUA-----GGGAAU--
+msr5561      CGAAU-U--G-------------------ACCGGCGG-----GCUCUCU-
+mll3888      CGAAU-U--G-CCACACA-------UGCUGAAAAGGG-----GCCGU---
+mlr6875      UGA--CA--G-UAAC-------------GAAAGCCCG-----CGCCUCCC
+mlr5447      CGA--CA-U---CU--------------AAUGCAUGU-----CGCCCAAA
+mll3531      UCC--C---G-UC----------------UUGCCAUA-----GCGUC---
+mlr4398      UCG--CU-AG---A---------------GCAAUUCC-----AGGAAAAG
+mll0782      CGU--CU-A---UGA------------AGAUCUCCAA--------AC---
+mll8431      UAG--C---G-GCA--------------AGAGCCGGC-----UUUUCGGC
+mlr7932      CGG--C---G-------------------GAGUAGGA-----GAGCG---
+mll1989      GCGAGCA-U---AGGGAAU-----CCACCCCAUGCGC-----GCCUGC--
+mlr1705      UGC--C---G-GAC-----------------AUCUCC-----CCCAC---
+mll2521      CGUAGC---G-G-A---------------CGAAAAGC-----CAAUU---
+mlr0045      GCGAU-A-C---CG---------------AAAAGGCC-----GCCCCU--
+mlr1649      CGAAGC---G-AC----------------GGCCUUUC-----AUCGCA--
+mlr5381      CCCUU-A-C----------------------CCUCUC-----CCCCGUG-
+mll4000      CUGAAC---G-AA-GCAAU----GCGAUGCUGCCGGG-----ACCGA---
+mll1405      UUGAUCA--G-AGC---------------AAAACGGC-----GCCAC---
+mll0762      CCG--C---G--CG---------------CGUCCGGA-----CGGUUUC-
+mlr0694      CGG--C---G-GCC---------------UGCGAGCG-----AGGCUA--
+mll1454      UCG--C---G-GCA--------------AUAGGCCUG-----GUCCUUGU
+mlr3013      CUCAACA-U---CC--------------GCCAUCGGGC---AGGCCA---
+mll6250      CUG--C---G-CCA---------------GCGGGGAA-----GCGAG---
+mlr1245      UUG--CA-U---ACGA----------AUGUUUCCGGA-----UCG-----
+mlr3495      CUAAU-A-AG-GACAAACC-----GACCGUGCUCCCG-----CGGGAAUU
+mlr6511      CGG--CA-GG-ACAAA----------CAAAGAAGGGC-----GGCUC---
+mll1258      CUUAU-U--G--C----------------AAAAGCCU-----GGCUU---
+mlr7916      CUGAUC---G-CCAAA-----------UGAAAAGGCC-----GGCGA---
+mll1660      GUGAUCA-GG-CC-AAG---------CAGGAGGAAGG-----GGCAG---
+mll1103      UGAAACU--G-AA-C------------AUAAAAGGCC-----GGGCA---
+mlr2759      UGA--CU--G-ACU---------------AGAACGAA-----AUGAA---
+mlr0555      CGG--CU-CG-AGC---------------AUUGACGU-----CAUUU---
+mll0036      CCA--CA-UG--CC-----------------GAAGGC-----UCCGA---
+mlr3373      CAG--C---G-GCC---------------CGAAAACC--------AU---
+mll4244      UUUAU-A--G-CCGA-------------ACGAUGGCG-----GG------
+mlr3167      UGUAU-U-GG---A---------------CGCGCGGU-----GCCAG---
+mll0167      CGC--CA-U---CUUGA---------AGCGAGGCGGC-----CGGGGUA-
+mll0489      UCUAU-A--G-GUC---------------GCCGAGCG-----CGUACU--
+mlr2400      UGGUUCA-UG--CA---------------GUAGGCCC-----GUCAG---
+mll8252      CCG--C---G-------------------CCGUGCCG-----CCCGA---
+mlr8325      UCAAU-A--G-------------------AUCGCGCG-----UCCUU---
+mlr5648      CUCAG-U--G-AG-GCA---------AUCCCUUCUCC-----CUGUA---
+msr3935      UCG--CA--G-AUC---------------AAGAACCC-----GCCUU---
+mll2386      GGU--C---G-CG-AA-----------GGAAGGUCGG-----GGCUCG--
+mll7738      CGC--CU-UG-UCGAAA---------UCGGAACCCGG-----CGGGC---
+mlr4661      UUG--C---G-GUCAAA--------GCCGCCGAUCUC-----CUCCC---
+mll1819      CGUAU-A--G--CGGA-----------AGGCUUUCAG-----GCACUAUU
+mlr3233      GUGAGC---G-CA-AA----------CCGGACCGGCG-----GCCUC---
+msl6994      CUGAUCA-GGGGCA-----------------GAGGCG-----GCGUU---
+mll2413      CGU--CU-U---UC--------------AAAGAGCCA-----AG------
+mll7908      CGA--CA-CG---A---------------AAAAGCCG-----GGCCU---
+mlr7298      UCCAUC---G-------------------UAUCAUCC-----GCCAUCG-
+mlr2394      UGGUA-A-CG-GCU---------------GUGUCCGC-----GCCCG---
+mll1248      UUGAA-A--G--CGC------------UACUCCGCCG--------CC---
+mlr4684      UGCAU-A--G-AAAACGA-------UGCCCUAUCCCG-----CUGGG---
+mll3306      CGGUG-A-AG-GCA---------------AAGGCGGU-----GGGUC---
+mll3309      CGG--CA-A---A-U------------AAAAACGGCG-----GGAAU---
+mll4559      UGU--CU-C--------------------GCGGCGCC-----GGGUGAG-
+mll1738      GGGAACA--G--CAU-------------A----GCCG-----GGCAU---
+mll5357      CUG--CA-C---UGU------------UUUCCCUUCU-----CCCUU---
+mll0630      ---AU-A-U---AA---------------AAAAGGCG-----CCCUG---
+mll4270      UCAAU-U-C---CC--------------GGUCAGGAU-----GACGUCGG
+mlr2341      CGAAU-U-C---CG-----------------GGAGAC-----CUGAGAU-
+mlr0173      UCCAUC---G-------------------CAGCGCGG-----UGUCA---
+mlr2699      CGGUUCU-U----------------------CCUUCU-----CCCAC---
+mlr0020      CGG--C---G-UAGCC-----------GACAAAAAGC-----CAACG---
+mlr6523      UCA--C---G-AG-G------------AGAAAUUGAU-----CGCGCUUU
+mlr7299      GGC--C---G-AAAA------------GAAUCGGGCG-----CGCCG---
+mll4272      UGA--CU--G-CCG---------------GACCCCGG----ACCGCA---
+msr1249      CCAAA-U--G--CU---------------GAAGGCCU-----GCCGCGCC
+mll7330      CAG--C---G-AGCC------------GA--GGCCGC-----CGCUU---
+mll7669      CGCAG-A-CG-CUAAU-----------UCAAGUCACU-----UGACAA--
+mll2248      GACAU-A--G-UCG--------------AGCAGCGGG----AGGCCU---
+mlr1689      GCAAU-U-C---CC---------------UCGGGAAA-----GCGCC---
+msr8665      UUC--CA-A---AAA-------------AAGAGCGGC-----GGGCC---
+mlr5070      CGC--CU-U---UAAA----------CAAGAGUAUGU-----CCCGGAAA
+msr8048      GGA--C---G-UC----------------GAAGGCGG-----GCCCC---
+mlr7391      CGG--CU-U--------------------GAGGCCGG--------AA---
+mlr7383      GCGUA-A--G--CGA-------------AUUCAUCGU-----GCCAG---
+mlr6247      CGCAUCA-C--------------------AAUGAGCA-----CGUCCGGG
+mlr2761      CCAUUC---G--CA---------------AUGCAUGU-----CGCCCAAA
+mll2414      UGGUU-U-AG-GAAGGCUC-----GGGUUCCUCGCCC-----CCGCA---
+mll7437      GGGAACA-A---AAA------------AAGGCGGCGC--------UG---
+mll4981      UGG--CA--G--CC---------------CCCACCUC-----CCCCU---
+mll0826      CGAUU-A-AG-G-A---------------AAGGCGCU-----GGAGA---
+mll0667      GGGAG-A-UG-CU---------------UCCACGCCG-----UCCUAC--
+mlr6594      UUCAAC---G-GCGGA-----------GAAAAGGGCCA---G--UGCAG-
+mll7519      CGC--CU--G-AGC---------------ACCGUGUG-----CCCGG---
+mlr6940      CUAUCCA-A---CAA-------------AAAAGGCGC-----GGGCC---
+mlr7740      UUA--CA-GG-UG-AA----------AUCCAGCCCGG-----GCGAAC--
+mlr3857      UCA--C---G-------------------AAGAACCC-----GGCCC---
+mlr2644      CCCAA-A--G--AG---------------AUCAGGAC----AAU-GAUUU
+mll7082      CGGACCU--G-------------------CGUCAUGC-----GCCUC---
+mlr3468      CGC--C---G-C-U---------------UCCUUCCC-----CCGUCAC-
+mll8468      CUGAAC---G---------------------AUCGCG----GGCCUG---
+msr0389      CUAUGC---G-AAAA------------CGGUUGUAGC-----GGCAU---
+mll3882      GGG--C---G-GACA------------GCAGAUCCUC-----GGGAC---
+mll2736      CCG--CA--G-GCGA-------------AUUCAUCGU-----GCCAG---
+mll3965      CGCAGCA-UG-AAA-----------------AAGGGC-----GGCCG---
+mlr0740      UGG--C---G-GGG---------------UGAACGGC-----AGUCC---
+mlr1469      UUGAA-U-U---AA---------------AAAAGGCC-----GGGAA---
+mll5661      GGG--C---G---------------------AUCGGU-----GCCAA---
+mll8309      UUG--C---G-CCCAG----------CCUCCUUCUCC-----CCGUU---
+mll6811      CGG--CA-AG-UGC---------------GACGGGCG-----GCCAUA--
+msl7942      CGCAAC---G-AA-G-------------AAGGCCGGC-----GCCGCUUG
+mlr0211      CCG--CA-CG-UGAA-------------AAAUCCCGC-----GCCGUCUU
+mlr5515      CCG--CA-C--------------------CGGCCUGG-------------
+mlr2494      CCG--CA--G-GCAA-------------AUUGAAAGG-----UCCAC---
+msl7604      UUGAUC---G-ACCA-------------AAAGGCCCG-----GCUCU---
+mlr3017      UUCAAC---G-ACG---------------AGCCCGCU-----CGGGA---
+mlr6539      CCGAUC---G-------------------GCAUGGUU--------AA---
+mll4296      GCG--CU-UG-------------------GUCAUCCU-----CGGGC---
+mll1436      CUGAA-A-C--------------------GAAACCCC-----GCGCAGCG
+msl1109      CUAAU-A-U--------------------GCGUGGUG-----GCCCA---
+mll8452      UGC--C---G---------------------GCGCGC-----UGGAA---
+mll1068      CGG--CA-C--------------------UUUGACGU-------------
+mlr4548      CGGAGC---G-CA-ACA---------CAGUCCCCGCC-----GGCAA---
+mlr7815      CGG--C---G-GU----------------GCCGUUCA-----UCGUCU--
+mlr2763      CCAAAC---G-GCA---------------AAGGGCGC-----CGCAGC--
+mlr2815      CCGUG-A-CG---C---------------AAAAACCC-----GGCCG---
+mll4921      GGG--C---G-GCC---------------UCUGCUUC-----UCGUCCC-
+mll2537      GGG--CA-UG--CC---------------GAUAUUCA-----GGUGAUGC
+mll7124      UGCUG-A--G-CC-GA-----------GGGCCGAUCC--------GC---
+mlr8476      UGCAG-U--G--CACAA---------ACGGAAAGCCG-----GGCCU---
+mll1651      GCAAGCA--G-AG-CA-----------AUACGGCCUU-----CCAUCGAU
+mlr2640      UGA--C---G-CG-CUC---------ACAGCGCCGGG-----UCGUAUC-
+mlr2470      CGUAGC---G-G-A---------------CGAAAAGC-----CAAUU---
+mll4419      GUC--CA--G--CAAAU---------GGAUCGGCCGC--------AA---
+mlr7818      CGC--C---G-C-U---------------UUCCUUCU-----CCCCU---
+mlr0488      CUCAUCA-U---U----------------GCCGAGCG-----CGUUU---
+msl8637      UGC--C---G-CCC--------------UUGGUGCCG-----GCGAGAUG
+mll0773      UUG--CU--G-UCA---------------AAAAUGGC-----CGGCU---
+mll5148      CGC--CA-C----------------------GUCCAU-----UUCCU---
+mll7351      GGGAA-A--G-CCAAUCCU-----CUAACAGCCAGCU-----CCCGC---
+mlr4779      UGC--C---G-GUA---------------CCUUCUCC-----CCGUAU--
+mlr5654      CGC--CU-C--------------------UUCCUUCU-----CCCAC---
+mlr3050      CGCAAC---G-UUCGAA---------AUCACCUUCCC-----CGCUU---
+mll5622      CGCAA-A-U---AACA----------GCGAAGCGUCG--------UUU--
+mlr4953      GGC--CA-U---CUA-------------AUCCCGGGC-----GGUCA---
+mll3637      CCC--CU-CG-AAA---------------GAACGGCG-----CCACC---
+mll1127      UGC--C---G-ACA---------------GGAAAGGG-----GCCAU---
+mlr2927      CCAAU-U-C--------------------ACGGGCCG-----CGCCG---
+msr4796      CUGAUC---G-C-ACAU---------AGGUGGAUGCG-----GGCCUC--
+mll1519      UUCAG-A-A---UC--------------UCAGGCGGA-----CGCGCC--
+mll2689      GGUAU-A-GG--C----------------AAGGCCCG-----CGCCCA--
+mlr5563      UGA--CU-UG-C--UUA---------AUGCAGGCUGG-----CGACGCGC
+mlr6444      CCAAA-A--G-AGA---------------CCCGGCCG-----CGCCG---
+mll8456      GGAAACA-A---UC--------------GAAAAGGCC-----GCCUC---
+mlr8380      GGG--C---G-C-U-------------------CGCC-----GGCAA---
+mll4252      CUGAUC---G-C-ACA----------CCUGGCGAUUG-----GCGGA---
+mlr3881      CUGAGCU--G-------------------UGAUCCUC-----GGGCU---
+mll2227      UUGAUCA-A--------------------GGCAGCAC-----GGUUC---
+msr2379      UGC--C---G-C-CU------------CAAGGCCCGU-----UCCAGUCC
+mlr7288      UCG--C---G-CA-AA-----------CGAAAAGGGC-----GGCCU---
+mll7734      UUC--C---G-------------------AAAAUCGA-------------
+mlr1414      UUC--CA-GG-AA-A------------GCUAGAGCGG-----CGGGAGAU
+mlr0752      CGCAUCA-U---CC---------------AUGCGUUU-----UGCGC---
+mlr3769      CGAAA-A-A---CU---------------UUGCCUCA--------CA---
+mlr3847      CUCUG-A--G-AAAAC----------GAUGACCGGGC-----GGCGC---
+mll1692      UUU--C---G-AUC---------------CGGGGCGC-----UCGGC---
+mll3075      CCCAUCA-AG-G-----------------CCAUGGCC-----GGCAU---
+mlr4987      GGG--CU--G---------------------AGGGCG-----GCGUAAU-
+mll7433      UCCAA-A-A---CGA-------------AAACGGGGC-----CCUGA---
+mlr7927      UUGUUCU--G--CGCAAG-------UCGCAGCACGAU-----UGCCU---
+msl3793      UUC--CU-U----------------------GCCGGC-----GGCAA---
+msl7784      UCU--C---G-GUCAA-----------UGCCGGCGGC-----GGCUC---
+mlr3148      CUGAU-U-UG---C---------------GAACCGCC-----GGGCC---
+mlr8149      CCG--CU--G-ACCGAAAU-----GUGAUCCGGAAGG-----CAGAU---
+mlr3120      GGA--C---G-UUG---------------GCGUGUCC--------GA---
+mlr5044      CGC--CU-U----------------------ACCCUC-----CCCUU---
+mlr1283      CGGAA-A-GG-GUGAAGAUG--UAGCCCUCCACCUUC-----UCCGCU--
+mlr2439      GCAAGC---G-CUAAC----------ACUGGCGGCCG-----GGGUC---
+mlr1710      CGC--C---G-AUCC-------------A--CCUUCC-----CCCGC---
+mlr8387      UGAAGCU--G--C----------------GAUCUCCC-----CCCAC---
+mll0525      UUG--C---G-GCCAU-----------CUGUGAAGCC-----CGGCU---
+mll3129      CGC--C---G-CCAAAUAGG--UGAUGGCGAGGGCCG-----GGGAUCGA
+mll4757      CGG--CA-AG-AUAAA----------GCGGAAAGCCC-----GGCGU---
+mlr4381      CGCAUC---G-ACA---------------AAACGGCG-----GGCCA---
+mlr6139      CUG--CU-GG-ACGAGG--------GGUUCGAGCUCG--------AGA--
+mlr3032      CCGAACA-A---CAA-------------AAAAGCGGC-----GCCUU---
+mlr4966      GGCAG-U-U--------------------CAGCCGGC-----UCAACUU-
+mlr1887      CGGUU-U-UG-GG-GC----------AACGACAUG---------CCU---
+msr2608      UGA--CA--G-GGA-----------------GGCGCU-----GGGAGA--
+mlr2969      CGAAG-U-C---ACA-------------AAAAACGCC-----GCCUU---
+mll7701      CUAAGC---G-C-AC------------CCUUGCCUUC-----UCCCG---
+mlr8323      CGCAU-U-C---U----------------UCGUGCCG-----CCGACUAC
+mll4820      UUCAG-U-UG-GAAAC-----------GAAAAACUCC-----GGGUCU--
+mll2253      UUGUU-U-UG-AC----------------GCAAUUCCGA-ACGGAAAACC
+mlr7597      UCC--CU-GG-CC-A-------------AGCCGCCGC-----GCACU---
+msr5976      UGGAG-A-CG-ACA--------------A--UGCAAC-------------
+mll4794      UCGAG-A--G--CAA------------ACGCGGUCCG-----CGCCC---
+mll5315      UUAAUC---G-CA-AAAA-------ACAAAAAACCGG-----GCCGA---
+mll1500      UGG--C---G-CA-AG-----------AUCAGUUCAC-----CGUUUCA-
+mll5052      GCA--CA--G--CGG------------AUCGGGGUGG-----GGGUACUC
+mlr7627      UUC--CU--G--UA---------------CGGCCGGC-----GGAAUG--
+mll3867      UGC--C---G-GAC--------------AUCUCCCCC--------AC---
+mlr7355      CCG--C---G--CG---------------GAAACCGG--------GCCUG
+mll1470      UCG--CA-AG-CG-CA-----------UGAAAAGGCC-----GGGUU---
+msr0341      UUG--C---G-------------------AGAACCCC-----GGCCU---
+msr0731      UUG--CU--G-------------------CCGCGCCG-----GCCAA---
+msl3293      UCGAG-A-CG-ACA---------------AGGGGCGC-----GCCAUGAA
+mll4103      CGGAG-U-AG-CUCCA----------CUUUCCCUUCU-----CCCAC---
+mlr8474      UUUUG-U--G-------------------GAACGGCG-----CCGUU---
+mll2816      UGC--CA-UG-UCAGA-----------CUAAAAACCC-----GGCUU---
+mlr6651      GCGUUCA--G-------------------CUGCCGGG-----GCAAUUCC
+mlr4269      CGGAA-A-CG-GCGAAGG------AGGCAUCAGGAUG-----ACGAUUC-
+mlr8401      UGA--C---G-GCC-------------------CGGU-----UCCAC---
+mll1643      CGG--CA-U---UCAAC---------AAAAAAGCGGC-----GCCUU---
+mlr2659      CCCAA-A-C---AAA-------------AAAGCGCUG-----ACCCC---
+mlr2676      UUGAACU-C---ACCAC---------CCACGGCGCGA-----CGGCCCGC
+mlr1595      CUU--CU--G-------------------CUACGCCG-----CUCAA---
+mll1309      UUCAUCA-U---CGG------------CGGUGCGCGC-----UCCGG---
+mll2625      UUU--CU-C--------------------CGGGAAAA-----CCGUU---
+mlr7711      CUU--C---G-CUCA------------GCCGCGCGGC-----UUGGC---
+mlr4407      CCG--CU-U--------------------GACAUGCA-----ACCAA---
+msr2529      CUGAU-U-U---UGCGAA-------UGGCGCGCGCCG-----GGCGA---
+msr2457      UGA--C---G--AA---------------AAAAGCCC-----GGGUC---
+mll1222      UGG--C---G-AUGA-------------CGGCCGGUU-----UCCUUCGG
+mll0743      UCGAU-A-C--------------------GCCCCGAG-----GGUCCCG-
+mll1100      CGC--CU--G--CC---------------GCUCUCCU-----CC-AA---
+mlr7272      CCGAA-U--G-AAAAA-----------ACGGGCAGGG-----GCCGA---
+mlr0874      UUU--CA-GG-------------------CAGGGGCC-----GGACAU--
+mll3429      CUGAU-U-U---UC---------------AACGCCGC-----GCGUCCAG
+mlr7964      CGG--C---G-GUGA------------UCGAGGCCGC-----GGCUGCC-
+msr2723      GGCAAC---G-GAAAGCCAG---CCGCGUUGGCGCUU-----CGAAAU--
+mll1508      CUGACCU-C---CCAA----------GGCUGCCGGCC-----GGGUU---
+msl4069      UGCUU-U--G-------------------AAAGUGCCUG-AUGCCAU---
+mll0487      UUUAU-U-UG-UG-GA----------CACAAAGCGCA-----ACGAUUCA
+mll1765      UAC--CA-U---CC---------------AAUAGCCC-----GCUCCGGU
+mll1012      UCC--CU-GG-GCA--------------ACGGGACGC-----CGCAC---
+mll3723      CUG--C---G-------------------AAGGAGCG-----CCGCGC--
+mll2531      CCC--CA--G-ACAAA-----------CAAAAAGGCG-----GGACA---
+mll4541      UCG--CU--G-------------------AAAAGCCC-----GGCCU---
+msl5155      CUG--C---G-AGC---------------CAAGGGGC-----UGCCUUGA
+mll2610      GGGAU-A-GG-AA-AACG------ACAGUCGGCGCUG-----GGAUU---
+mll1775      CCG--CA-AG-GC------------------CAGGCC-----GGCAAGG-
+mll0645      UGC--C---G-GU----------------CGGGCGCC-----GCGUGA--
+mlr3334      UAGAG-A-CG-C-AC-------------AGUUUCCGG-----GGCCU---
+mll5113      UCG--CA-CG-------------------GGGUCCGG-----GCCUU---
+mll4186      CGCAUCA-AG--CA---------------UUGAGGUC-----GC-GA---
+mll2263      CCA--CU-C--------------------GCAAUGGC-----GGUCG---
+mll3030      UUUUA-A--G-AGAA-------------UUGCCGGGG-----AGCCC---
+mlr5416      UAUAG-A--G-------------------CGGGGCGG-----CGCAAU--
+mlr1493      UGCUUCA--G-------------------GAAAGCGA-----UCGUCCUG
+mlr5136      UUU--CA-AG-CCC--------------AGAUGGUCG-----CGCAA---
+mll1830      UUC--CU-CG-----------------------CCCC-----CACGG---
+mll6957      GCG--CA-GG-UCG---------------AAACCCGC-----AUUGCGUC
+mlr1935      UGA--C---G-ACAA-------------CAGGCCGCC-----GGCUCACG
+mll4275      UGGUGC---G-UUC--------------UUCCCUUCU-----CCCCC---
+mlr4354      UGAAGC---G-------------------AAAGGGCC-----GGGCCGC-
+mlr4962      GUGAG-A-GG-G--U------------UCCUCGCCCC-----CACGA---
+mlr3285      CAGAG-A-GG--UU---------------UCGAUGCC-----CAACCU--
+mll1962      CCG--C---G-CCCCA-----------AUUCCUCUCC-----CUCCGC--
+msl0779      CGA--CU-GG-UUCA------------AGGAGGCGGU-----GGCGA---
+mlr8326      CGUAACU-C---UU--------------CUCCUUCUC-----CCCCA---
+mlr0356      UGA--CA-U------------------------CGGC-----CGGAACC-
+mlr1849      UGAUGC---G--CA---------------GGGCCAUC-----GUCGA---
+msr8237      UGG--C---G-ACA--------------AAAGCGUCG-----CCCGA---
+mll1986      UUC--C---G-GC----------------CCACUUCA-----GACAA---
+msr3702      UCGAGC---G-AAC--------------ACUGGAAGC-----CGCACCC-
+mlr7346      CGGUUC---G-GUC---------------GCGGCUGC--------UU---
+mll4586      UGG--CU-A---ACAAC--------CGUUGGAUGGAC-----CGUGCU--
+mll5581      CUGACC---G-GUCCA-----------GAACAGGCAA-----GCCGGAAC
+mll2850      CUGAA-A--G-CUC--------------AGGAUGGCAA---AGUGGC---
+mll5702      CGG--CA-A--------------------GACCAACG-----CCAAG---
+mll1683      CGCUU-U-U--------------------UAGAGCGC--------GCUC-
+mlr4538      CGC--CU-U---U------------------CCUUCC-----CCCCU---
+mlr7826      CGG--CAAAG----A------------AAAAGCCGAC--------CUU--
+mlr8413      GGA--C---G-UU----------------UCCGGCGC-----GCCGCU--
+mll7825      GCGUA-A-GG-GUC---------------GUUCCUUC-----UUCCUCC-
+mlr8307      GGG--CA-U----------------------UUCUCC-----CCGUG---
+mll7580      UCA--CU-U---UA---------------UGUUUCGC-----CGGGC---
+mlr0565      CUC--CA-C---UGAA-----------UUCGACGGCG--------GC---
+msr2235      CGA--C---G-------------------ACUUCGGC-----UG------
+mlr1449      CGCAA-U-UG-------------------GGAAGAGC-----GCGAC---
+mll3503      CGAAAC---G-UCAA-------------GGCCGCCCG-----CCGAG---
+mll2765      CGCAA-A-C---AG---------------AAAGGGCG-----CUGCAU--
+mll1463      UGA--CA--G-------------------AAGCGGCG-------------
+mll5494      UGG--CA-U---UG---------------AGCGGGGC-----CGCCGC--
+mll0914      CGCAU-A--G-UUCCC----------AGGAAUGGCGG-----UGGAGC--
+mlr4377      CGUUG-A-UG-GAA--------------ACCAGCGGU-----CGCCA---
+mlr8530      UGA--C---G-------------------GUGGCCGG-----CUGAU---
+mlr2630      UGC--CU-C--------------------CUCCUGAC-----AG-CC---
+mlr5623      CGGAG-U-C---UCGAC--------CAUUAAAGCCGC-----GUGGCU--
+mll7787      UGGAU-U--G-AUC-------------------GGCU-----GCCAGCUC
+mll4985      CUCAA-A--G---------------------GAGCGC-----GCCAUGGC
+mlr8415      CGG--CA-UG--AA---------------AGCCUGGC-----UGCCU---
+mlr1708      CUG--C---G-ACC---------------UACCUUCU-----CCCCU---
+mlr8284      UUG--CA-UG-ACAG------------AUCAUUCCAC-----CGGGCUGU
+mll3321      CCU--C---G-------------------CCCGGCAC-----GCUGAGA-
+mll4088      CCC--C---G-------------------UUCUACUG-----CG------
+mll4283      CGGAA-U-U---CCCA-----------UAAAAAAGGC-----GGCUU---
+mll2704      UUU--C---G--AG---------------GGAGGGGC-----GCUUC---
+mlr7819      CGA--C---G--CC---------------GGGUGCCG-----GCGCAU--
+mll4866      UCGAACA-U---UGA-------------AUCAGGGUC-----GCCUU---
+mll1462      GGGAGCA-GG---A---------------GAGGGGCG-----ACCGG---
+mll2809      UGA--C---G-CG-AAC---------UGAAGCGGCGG-------------
+mlr2172      UUC--CA--G--CAAU----------AUUCCCUGCCG-----GGGUGGAA
+mlr3257      UCG--CA-AG-CCA-----------------CGCGCA-----GGCUU---
+mll3989      UCUAG-A--G--CG--------------UUUCACCGU-----UUCAU---
+mll1725      CGAAU-A--G-AC-UCC---------ACGAGGUGGCC-----GGAUC---
+mll5675      UGAAU-U--G---------------------CCGCGG-----CCGCAGAC
+mll7959      UGC--C---G-GGC--------------AUGCGGCGG-----GC------
+mlr3762      UGCUG-A-AG-------------------CCUCCUGA-----CAGUA---
+mlr7403      UGC--CU-CG-UAA---------------AUGCAUGU-----CGCCCAAA
+msl4017      CCG--CA-C---UAG-------------AACACCGGC----GCCCAU---
+mlr7614      UUA--CA--G-C-GC-------------CGCGCGCCU--------UU---
+mll1433      UGGUU-U-A--------------------AUCGACGG-----GCCAAG--
+mll4059      UGA--CU-UG-AUG---------------AAAAGCGG-----GGCCU---
+mll3104      UCU--CA-C----------------------CUGGCC-----GGCUC---
+mll6987      GUG--C---G-GGCGA----------ACCUGCCCGGC-----GCGGCGGA
+mll1751      GGC--C---G-GUC---------------GGAAGCCC-----GCCAC---
+mlr2421      CUGAACU-UG-------------------AAAGGCAG-----GCGCC---
+mlr2375      CGAAG-A-CG---C-----------------AGCGCC-----GCCGCCGC
+mlr3488      UUG--CA--G-------------------AAGGCGCU-----UUGACGCU
+mlr0230      CGUAGCU--G-UUCU------------CAGGGCCGCU-----GCCGCA--
+mll1929      UCG--C---G-------------------UAAUCUCC--------AGCG-
+msl6741      CGCAA-A-A---UG---------------AACUGAUCG--UCGGCAU---
+mlr1815      UCCUU-U--G--CAAA----------UGAAAAGCCCG-----CCGGAGAG
+msr0960      CUGAG-A-CG-GUCCC-----------AACCGCUCGCG--AGCGCGCCAC
+msl3766      UCAAGCA-UG---A-------------------CCCG-----GCCGC---
+mll3384      GACAU-A--G--CU---------------GCGGGGAG-----CGGGCA--
+mll4956      GGC--CA-AG-------------------GCGAAGUA-----GC------
+mll4832      CCCAGCA-CG-AUCAAAGC-----GUCCAAAGCGCGU-----CGCGUUGA
+mlr4954      CUGAGC---G-GAC---------------GAAGCAGC-------------
+mll2211      UUG--CA-C---ACAA----------GGCAGCCGGCU-----CCUCA---
+mll8311      UCCAGCA--G-UCGAA-----------GGGCUAAAUC-----GGCAA---
+msr3222      UUA--C---G--CG---------------ACAAUUAC--------GC---
+mlr0777      CCCAA-A--G--CAA-------------AGAGGCGGC-----AGCCC---
+mll3850      UAAAACU-CG---C---------------CGCCUGAC-----AAUGU---
+mlr4594      CGG--C---G-ACA--------------AGACCGUCG-----UCGACCA-
+mll0081      CGCAA-U-U---UGAA-----------UUUCGUGCGC-----CGCGCCUU
+mlr0248      UUCAACA-A---CAG-------------AAAAGGGGG-----CUUAC---
+mll3311      UUGAU-U-UG---C---------------CCCUCUCC-----CCGUU---
+mlr5227      CGA--CA--G-------------------CGGAUUUC--------GCC--
+mlr2596      UGUAG-U-U--------------------AGAUAGGG-----GGCGGCG-
+msl6526      UGGAA-A-U---CGUUGCAAC-CGGCCCUUCACCUGC-----GCAGU---
+mll5655      GCCAGCU-U---CC-----------------CCUUCU-----CCCCU---
+mll1407      UGA--CU--G-------------------AUCCUGGC-----CGCUGUGC
+mlr3911      GGU--CA-GG-AA-AAGCG-----AUCCCGACUGCCC-----GCCUGU--
+mll8093      CUGAUC---G-CCA---------------GGCUGUUG----CGGGGCCGG
+mlr6196      CCG--CA-AG-CCA--------------AACGAGCAG--------CCG--
+mll1624      GUGAUC---G-C-U-------------------AUCG-----CGCUC---
+mlr6156      GCG--C---G-AAAAC----------CGUCCCGCCGCG--CCGGCUU---
+msr5037      CCCAG-A-C---CUAAC---------CCCGGCGAAGC-----CUCAC---
+mll5053      GGCAG-A-UG-GCGA-------------A----UCGU-----CCUCC---
+mll0505      CCC--C---G-------------------UUCUACUG-----CG------
+msr5947      GCCAGCU-U----------------------GUCGUA-----UCGGG---
+mll2664      UUU--C---G-CG-CA-----------AGCAGGGGCG-----GUUUU---
+mlr5544      UCGAU-A-AG-C-CUC-----------GA--ACCGGC-----GGCAU---
+mll0128      CCG--C---G-GC----------------UUCAUCCUA---GGGCGCCA-
+mlr2023      UUCAG-A-AG-------------------UGCCCCGG-----CCGGA---
+mlr8255      CGC--CU-C---UU---------------UCCCUUCU-----CCCAC---
+mll3944      CCC--C---G-C-CU------------GAGCGAGGCCC--UUUGCGU---
+msl0440      UGU--C---G-GCA---------------ACAAGGUC--------AU---
+mlr4184      UUCUUC---G-UC----------------GUUUAGGU-----CGCUU---
+mll1569      UCG--CA-AG-UUG---------------CGAGAGCC-----GGCGGA--
+mll6839      CGC--C---G--CA---------------UCGCGCUG-------------
+mlr0937      UGA--C---G-----------------------GCCC-----GCCAA---
+mlr0564      GGG--CA--G-------------------UUCACCGU-----UUCAC---
+mlr2408      CUU--C---G-ACAA------------CCCAAGGCCG-----GGCUC---
+msl8272      CGC--CA--G-GCA---------------UCGAGCGU-----UUCCUC--
+mll4242      CGG--C---G-CUGAAACC-----AGCUUCUUUCUCC-----CCGUU---
+mll5399      CUGAGC---G-------------------UGCUUGAU-----AGAAG---
+mll4534      CGCUUCU-U----------------------CCUUCU-----CCCCU---
+mll2599      UCC--CA-AG-GGA--------------UACGGGGCG-----GCGCA---
+mlr1499      UUC--CA--G-GAA---------------AAGCGUGU-----GCGGUUUU
+mll7670      CGAAGCA--G--CGUAAGG-----GAUCACCGCCCCG-----CCGGUG--
+mlr7894      UGAUG-U-GG-------------------CGCCUGCG-----GCUGG---
+mlr7000      CUGAU-A-U---UGAACCU----CGUGAUGGCCGGCC-----CCGACAAG
+mll8419      UCU--CA--G-GCGAC----------CAAAAGCCCGU-----GGGAGC--
+mlr5526      UCG--CU-CG---C---------------GGCGGGCC-----GGCGG---
+mll7329      GGGAU-A--G-GCAGGA---------CGAUGCGUCGC-----GGCUAU--
+mll4282      CAC--CA--G-CGA---------------CGUCCCGG-----CGGAG---
+mlr8162      UUGAACA-C---UG---------------AUGGCACG-----AUGUGCGG
+mlr8761      UUUAGCU-UG-CA-AAU--------GACGAUACCCCG-----UGGCC---
+mlr6417      CCU--CA-UG-------------------CCAGUCGC-----CCUAUUUC
+mlr8084      UUGAG-U-GG-CUC---------------GUCCAUGC--------GACU-
+mlr5413      CGAAAC---G-------------------AAAGACGC-----CGCUCGGC
+mlr4097      GCGAUCA-GG-ACCAU-----------AGAGACGGCG-----GCGAA---
+mll1296      UGG--C---G--CG-----------------AGCGCC-----GGCAUCGG
+mlr5531      GAGAUC---G-G-G---------------UAGGGCCA-----GGACAGUA
+mll3596      CUGAUCA-C---UCCAA---------CAAGCGCGGCC-----GGAUU---
+mll7727      CGUAG-A--G--CGCGA---------UCCCGAAAACU-----GG------
+mlr4143      CGG--C---G-ACA-----------------CCUUCU-----CCCAC---
+mlr0915      GCG--C---G--CC---------------GAACCGCUU--AAGCAAUUCC
+mll3670      CGG--CA-CG-ACG---------------GCCCGCCC-----GUUGCCG-
+mlr1450      ---AA-A-A----------------------AAGGCG-----GCCGG---
+mlr1573      UGUAA-A--G-AA-C-------------ACGUCAACA-----GGCUGUC-
+mlr6791      CAG--CU--G-------------------GGAAGCCU-----GGUGU---
+mll4937      UGG--C---G-UGG---------------CUGUCGCC-----GGCCUU--
+mlr7924      AGC--CA--G-------------------GGGAUCAU-----GGUAG---
+mlr2758      GGC--CU-U---U----------------CCUUCUCC-----CCGCG---
+mll5202      UCG--CA-UG-------------------AGCCGGAG-----GGCAUGAC
+mlr5608      GUC--CU-U---CC--------------CCCAAAAGG-----GGAGAAGG
+mlr3170      GCG--C---G-UAC---------------CGCCCUCU-----UC------
+mll3970      CUGAA-A-U---CCA-------------AGAUGCCCG-----GCGCA---
+msl0470      CCCAG-A-UG--CC-------------------GCUC-----GACCUGU-
+mll1168      UAG--CU-UG-UCCCA-----------UAGGUCGGCG-----GGCCU---
+mll0592      UUGAU-U--G--AG---------------GAUGGGCC-----GGUCU---
+mll3878      CGAAU-A-U---AAG-------------CGAACCGCC-----CGGCU---
+mlr5708      UGGAGC---G-CU-U-------------CCCUUCUCC-----CCGUU---
+mll8440      CGG--CA--G--C-UU----------UCAGGCCGCUG-----AGCGCCGU
+mll0636      CGG--C---G-GCCAAC--------GAUGCUCCCGGA-----UUUUU---
+mll0485      UGG--CU-U---CAGACA-------GGGUUAGACAGG-----GUCUUAAA
+#=GC SS_cons :::::::..:..::...............<<<<<<<<.....<<<__...
+#=GC RF      cggAuCA..G..Ca...............aaggggcc.....ggcau...
+
+mll2974      GAACCG----------------------GAUACCACUUCGCCUG---AA-
+msl0931      -----------------------------------UUCCGACCG---GG-
+mll3139      C---------------------------------CUCCCGAGCC---GG-
+mll0212      ------------------------------------AAAGACGG---CG-
+mll5706      ------------------------------------CACGUCCC---GC-
+mlr2201      GUGAAUGGUGAA----------UAGCCAUUCGACACAUUUCCCU---AC-
+mlr4601      --------------------------------------AAGGGG---AG-
+mlr8418      ------------------------------------UGAUCCCC---GC-
+mlr4841      AAUUGAUCUGGAAGCA--GCGACUGCAAACGCCUUAUUCUCCUA---CU-
+mll8359      -------------------------------------GAU-GCC---GG-
+mlr6034      GCAGUGAGGGCG-----------UAGCCCGAACGGAGUUACACC---AC-
+mll3745      AU------------------------------GCUUGACU-GGC---CU-
+mll3663      -----------------------------------UCACG-GGG---AG-
+mlr4910      --------------------------------------CG-------CA-
+mll0865      --------------------------------------GA-GGG---UU-
+mlr5604      -----------------------------------CUCAG-CGC---GG-
+mlr0604      GGGAA------------------------UACAGACCCUUCCCU---AC-
+mlr1615      ---------------------------------------GCCCG---CC-
+mll1209      --------------------------------------CG-ACG---CA-
+mll4602      --------------------------------------UGUGGG---AG-
+mll1090      ----------------------------------AAGGUU-GCG---CC-
+mlr2052      --------------------------------------AUUGGU---AG-
+mll5050      --------------------------------------UGUGGG---GA-
+mlr0499      ---------------------------------------GCGGC---GC-
+mlr3649      --------------------------------------UU-CCC---GG-
+mll8170      -------------------------------------UUU-CCG---CG-
+mll4256      --------------------------------------CA-GGC---CG-
+mlr5361      --------------------------------------AAGGGG---AG-
+mll0343      UU-------------------------------UCCCCCUUCAA---GG-
+mlr4111      -----------------------------------UGGUGCUCC---GC-
+mll5388      --------------------------------------CUCACA---GA-
+mll7668      CUUA---------------------------GUGGUCGUU-GCG---CA-
+mll1546      ------------------------------------GAAUUGCU---UG-
+mlr2516      CGUCCAA--------------------GGCGCUUGAAAAG-CCC---UA-
+mll6750      ----------------------------------CACAAG-GGU---CU-
+mlr1881      --------------------------------------GU-GGG---GG-
+mlr4195      AGUGGGAA------------------CCGGUUUUCGGACG-AGA---UC-
+mll2306      A---------------------------------CGGAAACGGU---GA-
+mll1129      ACCGGAACCAG-------------UUUUCCCGUACUGCCGUACU---GC-
+mll7394      --------------------------------------UGACCC---GA-
+mlr7225      --------------------------------------UU-CGG---GC-
+mll3593      --------------------------------------UGGGCC---GA-
+mll1552      --------------------------------------AUGCAU---GA-
+mll5421      AGCUGCGA-------------------CCAGCAGCCUCAG-GCC---GC-
+mll7301      --------------------------------------CG-GCG---CG-
+mlr0323      UA------------------------------UUCGCUAUUCCC---UA-
+mlr2244      --------------------------------------UGUGGG---GA-
+mlr0339      --------------------------------------AA-------CG-
+mll0351      -----------------------------------UCGCUUCAG---CC-
+mlr6801      ------------------------------------UGUU-CGC---CC-
+mlr0978      -----------------------------------UCCCC-GAC---CG-
+msr0848      -------------------------------------UCG-GGC---GG-
+mlr6414      --------------------------------------GA-GUC---GG-
+mll6256      -------------------------------------GCGUGGC---CG-
+mll4996      ----------------------------------CAAAAGACAG---CG-
+mlr0039      AGUGACCU-------------------CGGUUUUGGGAAA-ACG---AC-
+mll7356      C--------------------------------CCACGGGUCGU---GG-
+mlr4903      CACGUUAC-------------------AUAACAUGAUGAA-CCC---UC-
+mll1329      ------------------------------------UUCGUGCC---GG-
+mlr1701      --------------------------------------UUCGAC---CU-
+mlr4763      A---------------------------------CGGAAACGGC---GA-
+mll0501      --------------------------------------GA-GGC---GC-
+mll5210      -------------------------------------GAU-CCG---GC-
+mll1046      -----------------------------------CGGAA-ACG---GU-
+mlr0273      -------------------------------------UUUUCCU---GG-
+mlr2412      --------------------------------------CGACCG---GG-
+mlr7830      ----------------------------------ACGGCU-GCG---GG-
+mll0663      --------------------------------------AA-CGG---GG-
+mll2445      --------------------------------------AA-GGC---GG-
+mll3832      --------------------------------------CAACCG---GG-
+mll4112      -----------------------------------AAGUGCUCC---GC-
+mlr5404      C---------------------------------GGAUCA-AGC---CG-
+mlr3465      ----------------------------------UUGGCU-GCC---GC-
+msl8074      ------------------------------------CCCG-GCG---AC-
+mlr7857      ---------------------------------------A-------GC-
+msl2054      -------------------------------------UCU-GGU---GG-
+mlr3016      -------------------------------------UUG-GCC---GC-
+mll5199      -----------------------------------ACUAUUCGC---CC-
+msl0377      -------------------------------------GAGACGG---GG-
+mlr5281      --------------------------------------CA-CGA---UC-
+mlr3480      GCGCCAGA-------------------UAUGGCCAAUUUU-UCU---UC-
+mll4029      --------------------------------------AA-CCG---CC-
+mlr0376      --------------------------------------CG-ACG---GG-
+mlr3662      --------------------------------------AAACGG---GG-
+mlr0549      --------------------------------------AUUCCC---CG-
+mll2518      CGCC---------------------------CGUCAUCCG-UCU---UG-
+mll5167      --------------------------------------GUCGCC---CG-
+mll7704      --------------------------------------AA-UUG---GC-
+msr5593      --------------------------------------UG-GGC---GG-
+mlr1753      --------------------------------------UUUGGC---UC-
+mlr0585      -------------------------------------ACU-GGU---CC-
+mll3709      --------------------------------------GA-CCG---GC-
+msl1769      -------------------------------------UAUUCCA---AG-
+mll7237      ------------------------------------CGAUGCCU---CC-
+mlr5477      ACCAAAAU-------------------CCCGAUUGGAAAG-AGC---UG-
+mll3661      -----------------------------------UCCCU-UUC---GG-
+mll1207      -------------------------------------AAG-GGA---AC-
+mlr5554      --------------------------------------AA-GAC---CG-
+mlr2666      AAAGUGGGAA--------------CCGGUUUUCGGAAAAG-AUC---AU-
+mlr5692      -------------------------------------UCGCGGC---UG-
+mlr2125      --------------------------------------AUCGCC---GG-
+mll0650      C---------------------------------AGGGAU-GUC---CG-
+mlr5184      --------------------------------------GG-GGC---CG-
+mll7871      AU------------------------------GGGUUUAU-GCG---AC-
+mll1882      --------------------------------------GA-GGG---GG-
+mll4358      --------------------------------------CACGCC---GG-
+mlr2634      ------------------------------------AAAUAGUG---CU-
+msl7844      --------------------------------------CG-CCG---CC-
+mll2257      -------------------------------------CCGCGCA---CG-
+mll3467      A--------------------------------AGGGUUG-CCG---CG-
+msl3782      --------------------------------------CAGGCC---GG-
+mll5094      --------------------------------------UG--CC---GU-
+msr5755      --------------------------------------GA-CCU---GG-
+mll2661      --------------------------------------GG-GGU---CA-
+mlr4771      --------------------------------------AU-GCC---UG-
+mlr0864      --------------------------------------AA-GGG---UU-
+mlr6790      AAC-----------------------------AACAAGAA-UGG---UC-
+msl2821      --------------------------------------CU-CCG---CG-
+mlr1619      --------------------------------------UGCGGA---UC-
+mlr3352      AGCGGCC--------------------CCGGUCUUGGGAGAACG---AC-
+mlr3986      --------------------------------------AA-GCC---GC-
+mlr1911      --------------------------------------UUGGCG---AG-
+mlr6435      U--------------------------------CUUGCCG-CCC---GG-
+mll5423      ------------------------------------CCAG-GCC---GG-
+mlr8405      --------------------------------------GUAGAC---CU-
+mlr3708      --------------------------------------CG-CCG---GC-
+mlr1694      --------------------------------------GG-GGG---AG-
+mlr1763      -----------------------------------AACCGGAGC---GG-
+mll4444      U---------------------------------AUCAAA-UGU---GU-
+msr8535      --------------------------------------GG-GCG---CU-
+mlr5723      --------------------------------------CA-GCG---CG-
+msl4750      ---------------------------------------U-------GC-
+mlr4759      ------------------------------------CGAUCCGG---CG-
+mll4853      ---------------------------------------G-GAA---AC-
+mlr0263      --------------------------------------CG-GGC---CG-
+mlr1884      UCGGUCCAGC---------------CUUGCUGGACCAGCU-UCC---GGC
+mll8201      -------------------------------------GAU-GCC---GC-
+mlr7441      --------------------------------------ACCAGC---GG-
+mll5186      -------------------------------------CUGGGCC---GG-
+mll7714      ----------------------------------UCGUCGUCUU---GC-
+mll3224      --------------------------------------CG-GCG---CG-
+mlr3121      -----------------------------------AGGAU-GGU---UC-
+mll5212      ---------------------------------------GCCGG---AA-
+mll0665      --------------------------------------AA-CGC---GG-
+mlr4366      --------------------------------------GA-CGC---CG-
+mlr0409      -------------------------------------GAU-CCU---CC-
+mll0605      GUCUGU-----------------------AUUCCCUAACU-CCU---AC-
+mlr0512      --------------------------------------UGACCC---CG-
+mll5095      GCAGUAGGGAAU-----------CUCAGCCAUUUCUCUAUUCCC---UA-
+mlr0092      --------------------------------------AG-------UG-
+mlr0338      ----------------------------------CGAUCACGCC---GG-
+mll0702      --------------------------------------GUUGCC---GU-
+mlr2623      CUCGCC-----------------------AGGCGGGGAAA-GGA---CC-
+mll0513      --------------------------------------AUGCCC---CG-
+mll5582      -------------------------------------UCGCGCC---GG-
+mlr1672      --------------------------------------UGAGCC---GG-
+mll5251      --------------------------------------CG-CCU---GG-
+mlr4254      --------------------------------------AG-AGC---CG-
+mll3987      --------------------------------------UU-GCC---GC-
+mlr1030      --------------------------------------CC-GCC---CG-
+mll3168      -------------------------------------ACUGGCA---CC-
+mll2569      -------------------------------------GAU-CGC---GG-
+mlr4812      --------------------------------------CGUCCG---GG-
+mlr2793      ------------------------------------CGCGAGCA---CG-
+mll6512      --------------------------------------UGAGCC---GC-
+mlr2667      AAGUGGAAA----------------CCGGUUUUCGGAUAA-GAU---CA-
+msr7236      -------------------------------------GCU-GCC---UC-
+mlr0318      --------------------------------------AU-------CC-
+mll8244      --------------------------------------AA-GCG---GC-
+mll5677      GC-------------------------------UGGGCAU-CGC---GC-
+mlr7496      --------------------------------------GA-CGU---GG-
+msl7831      --------------------------------------UUGGCU---GC-
+mlr8211      --------------------------------------AU-GUC---AA-
+mll1848      -------------------------------------CAG-AAC---GC-
+mlr7182      -------------------------------------UUGCCGU---GA-
+mll1617      --------------------------------------UG-CCG---CC-
+mlr1231      -------------------------------------GCA-GCG---CG-
+mll6595      ------------------------------------UCUGCACU---GG-
+mlr2549      -----------------------------------UUGUU-CGA---GG-
+mll2018      G---------------------------------GCGGCA-CCC---AG-
+mll7723      -----------------------------------AAGAA-CGC---GC-
+mll1853      --------------------------------------CA-CGC---CG-
+mll1632      ------------------------------------GGAACCGC---CG-
+mll2167      ------------------------------------AUAU--CG---AA-
+mlr7636      --------------------------------------AU-CCG---GG-
+mll0467      --------------------------------------CGAGGC---GG-
+mll5057      -----------------------------------CGGCUGGCG---CG-
+mll5302      -------------------------------------CCUUGGC---AC-
+mlr0096      --------------------------------------CGUCCG---GG-
+mll5372      CUGAACC--------------------CGUCCAGGCACUUCGCG---CU-
+mll5441      -------------------------------------UAGCGAC---GG-
+mll4118      --------------------------------------AGGGGG---AG-
+mlr5029      ---------------------------------------UCCGG---UU-
+mlr7869      CC------------------------------CAUUCGAU-GCG---AC-
+mlr6157      -----------------------------------UCAAGUGCC---GC-
+mll5645      GCAGU------------------------AGGACAAUACUGCCU---AC-
+mlr5644      UUGUC------------------------CUACUGCUGAUCCCC---AC-
+mll8493      UUA-----------------------------CGGAAACGGCGA---GC-
+mlr1435      C---------------------------------UCCGCU-GCG---CG-
+mll3033      --------------------------------------AA-GGC---GC-
+mll4828      UA-------------------------------UUGACAU-ACG---CC-
+mll5035      -------------------------------------AAU-CGU---UC-
+mlr5371      CCUGGA----------------------CGGGUUCAGGCGACGC---GC-
+mll5031      ---------------------------------------ACCGG---UU-
+mll0178      --------------------------------------AGGCGC---GG-
+mll1531      --------------------------------------UUGCGG---GA-
+mll5362      --------------------------------------UGCGGG---AG-
+mlr5545      --------------------------------------UU-UUU---CG-
+mll3631      --------------------------------------CGAGCG---UC-
+mll0255      C---------------------------------AGCGCG-GGA---AC-
+mlr2925      --------------------------------------AAAGCG---CG-
+mlr7645      --------------------------------------CG-GGC---GC-
+mll0849      ------------------------------------UCAG-CCC---AC-
+mll1004      --------------------------------------CG-GCG---GG-
+mlr3964      --------------------------------------CG-GCC---GC-
+mll1163      AAAACCG---------------------GCAUCCACUUUUCGGG---AU-
+mll2144      --------------------------------------AA-CGG---GG-
+mlr1851      --------------------------------------AA-CGC---CG-
+mlr5218      ---------------------------------------G-UCC---GG-
+mlr0385      -----------------------------------AUUCUUCAC--CAG-
+mlr4682      ---------------------------------------C-GGG---CG-
+mll4821      -------------------------------------GAACCUG---CG-
+mll1268      --------------------------------------UU-GCU---CG-
+mll4927      ------------------------------------CCAGCUCG---GG-
+msr8381      --------------------------------------AU-GCG---GG-
+mll1002      ---------------------------------------UCGCG---CC-
+mll4246      ------------------------------------UCCUCCCG---CC-
+mlr5683      --------------------------------------UU-------GG-
+msr8478      --------------------------------------UG-CCC---GG-
+mll3374      --------------------------------------CAUGGU---UU-
+mll4988      -------------------------------------GAUUACG---CC-
+mlr4072      --------------------------------------AA-CCG---GC-
+mlr8347      --------------------------------------CA-GGC---GG-
+mlr0922      --------------------------------------AA-CGU---UU-
+mll5410      -------------------------------------AAUCGCG---GC-
+mlr5166      --------------------------------------CACGCC---CG-
+mll5605      -----------------------------------UUCAG-CGC---GG-
+mll1641      -----------------------------------GGAGGCGGC---GC-
+mlr4089      --------------------------------------CG-CUC---GC-
+mll4149      U---------------------------------CAGGCG-GGG---CG-
+mll6228      --------------------------------------CGCGCA---AAA
+mlr0277      --------------------------------------UAAGCG---CG-
+mlr8154      -------------------------------------AUGCGGC---CG-
+mlr1890      -------------------------------------ACU-GCC---GU-
+mlr7543      U---------------------------------CUUGCG-CUG---UC-
+mlr5407      --------------------------------------AA-GUG---GU-
+mll2459      --------------------------------------GA-CCC---GG-
+mll2999      -----------------------------------AACCG-GCG---CG-
+mll0732      --------------------------------------UU-------GG-
+mlr3988      ---------------------------------------U-GCG---CU-
+mlr0270      --------------------------------------CU-GGCG-AUC-
+mlr0220      --------------------------------------UGCGGG---GC-
+mlr0699      -------------------------------------AAACGGC---GC-
+mlr2142      --------------------------------------CA-CGG---GG-
+mlr3004      --------------------------------------CAGGCC---CC-
+mll0815      --------------------------------------CG-GCC---GG-
+mll8212      ------------------------------------UGGGCCAA---GG-
+mlr1579      --------------------------------------GGGUUC---AA-
+mlr4455      -------------------------------------UCA-UCC---GA-
+mll4235      UUUC---------------------------UAAGCCUAU-UCC---CU-
+mlr4340      CC-------------------------------UGACGUA-AGU---GC-
+mll1918      --------------------------------------GA-UCC---CG-
+mlr5356      --------------------------------------AA-GGG---AG-
+mlr2124      -------------------------------------UGUCGGA---GAA
+mlr1976      GCCAGAUC------------------GGGACUGUCCAGCU-GUC---UC-
+mlr2839      UCG-----------------------------GUUGCAAGCCGU---CC-
+mlr1518      --------------------------------------UGGCGC---GU-
+mll1582      --------------------------------------CACCGG---CA-
+mll6639      -------------------------------------GAG-GGG---CC-
+mlr5805      ------------------------------------GAAUGAUU---GC-
+mll2088      GCCGCGUCGC--------------UUCGCUCCUUGCUCCG-CCC---UA-
+mlr3796      ------------------------------------CCAG-CCC---UU-
+mll3759      CG------------------------------GUUCGGAUUGUG---GC-
+mll1284      -------------------------------------AAGCGGA---GA-
+mlr5066      --------------------------------------GA-GCG---GC-
+mlr0310      --------------------------------------GU-UCC---GA-
+mll2232      ---------------------------------------ACGAG---UC-
+mll0624      --------------------------------------GG-CGC---CG-
+mlr1663      --------------------------------------AA-GGC---GC-
+mll2746      ----------------------------------ACAAAG-GGC---UG-
+mlr7133      --------------------------------------UA-CGG---GG-
+mlr8397      --------------------------------------AA-GGG---CG-
+mll1028      -----------------------------------ACCCU-CGC---GG-
+mlr7461      CGAAAC----------------------AGCCUUUUUCUUCCCU---AC-
+mll7303      --------------------------------------AAGGGG---AG-
+msl6451      --------------------------------------AGGCGG--CCU-
+mlr4629      ------------------------------------UGAA-ACG---GC-
+mll1690      ---------------------------------------G-GCG---CU-
+mlr0325      --------------------------------------GG-GCC---GCU
+mlr3815      GCG----------------------------GAACACUCA-CCC---UA-
+mlr1172      AAGUGGUUC----------------CCGGUUUUGGGAAAA-CGA---CG-
+mll0854      -------------------------------------UCA-CGG---GG-
+mlr3355      --------------------------------------AA-GCA---CC-
+mll4093      --------------------------------------GGCCUG---UG-
+mll4250      --------------------------------------AAC------CG-
+mlr5562      ------------------------------------UAUGUCGC---GC-
+mlr6533      ------------------------------------AGCU-GCC---GG-
+mll7842      --------------------------------------CGUCGC---GA-
+mll3861      ------------------------------------UUGACGGC---UC-
+mll0608      ---------------------------------------A-GCC---GG-
+mlr3307      -------------------------------------GAUUCCC---GC-
+mll4258      -------------------------------------ACG-------CG-
+mll2885      -------------------------------------ACA-CCG---CC-
+mlr1585      --------------------------------------AG-------UC-
+mlr5042      --------------------------------------AU-------CG-
+mlr0629      --------------------------------------CA-GGG---CG-
+mlr2819      --------------------------------------UG-CCG---CG-
+msr3117      --------------------------------------AU-CGC--CGC-
+msl2738      UA-------------------------------ACCGGCU-GGG---GC-
+mll3743      ------------------------------------UCCU-GGC---GC-
+mlr4467      --------------------------------------CG-ACC---GC-
+mll8388      --------------------------------------GU--GG---GG-
+msl1119      -------------------------------------UCG-CUC---GA-
+mlr3741      ------------------------------------UACU-GGC---GC-
+mll7332      ------------------------------------GAAU-GGC---CG-
+mlr7721      ------------------------------------UCUGGACG---CG-
+mll3431      --------------------------------------AA-UCU---CC-
+mlr7768      --------------------------------------CUUGCU---GC-
+mlr1968      -------------------------------------UCG-GGC---CU-
+mll4060      GGCAAGGUGAGCCA-------AGCGAGUUUCUUCCCUACU-CGC---UA-
+mll5768      --------------------------------------AG-GCC---GG-
+mll3069      -------------------------------------ACG-GCC---GC-
+mll1760      --------------------------------------GU-CCG---GC-
+mlr1241      --------------------------------------CU-------CU-
+mll2645      U---------------------------------UGAAAU-CAU---UG-
+mlr3583      -----------------------------------GCAUACGGC---CG-
+mlr3157      AGUGACC--------------------UCGGUUUUGGGAGAACG---AC-
+mll6718      -------------------------------------UCACUCU---GU-
+mll2972      -------------------------------------AAA-GGC---GG-
+mll5188      --------------------------------------CAGCGG---UU-
+mlr2998      --------------------------------------UGGAGA---CG-
+mll1451      -------------------------------------CCG-GCC---GC-
+mll6731      -------------------------------------UUGUCGA---UC-
+mlr6541      --------------------------------------AAGGUC---GC-
+mll0037      UCUC---------------------------GAUGGGCAGUGCG---GC-
+mll3668      --------------------------------------CACCGA--GAG-
+mlr2292      A--------------------------------UGCCCAU-CGG---CG-
+mll5120      --------------------------------------UGUGGG---GG-
+mll3685      ----------------------------------CCUAUUCCCU---AC-
+mlr6185      -------------------------------------ACUCGGC---GC-
+mlr3223      ---------------------------------------A-GCG---CU-
+mlr8524      --------------------------------------UG-GCG---GC-
+mll7019      --------------------------------------AAAGCG--CCC-
+mll5088      -----------------------------------CUUUU-CGC---CC-
+mlr3943      --------------------------------------AG-GCG---GG-
+mlr3700      -----------------------------------AUGUGUCGG---GC-
+mlr6441      UC------------------------------GUCCGACACCCU---GA-
+mlr5071      UCGAUUUGGGAGU--------UGAUUAUGAGCAAAAUUCG-UCC---AA-
+mll0455      --------------------------------------CG-GGU---CC-
+mll7188      --------------------------------------GUUCCG---GA-
+mlr4632      GCGGCGAG-------------------UGGCUGGCGGCCG-CCG---CG-
+mlr4749      ---------------------------------------G-GCG---CU-
+mlr7949      ----------------------------------CGACAU-CGC---GC-
+mll3952      -------------------------------------UAACGCC---CC-
+mlr4536      ---------------------------------------U-GGA---UC-
+mll6628      ---------------------------------------U-GCC---GG-
+msr0042      --------------------------------------GAACUG---CG-
+mll3319      ------------------------------------AACUCCAG---GC-
+mlr7322      --------------------------------------UA-------CA-
+mll4780      ------------------------------------CUAUACGG---GG-
+mlr0587      GGG-----------------------------AGAGCGAA-GUU---CG-
+mlr7415      -----------------------------------AACCU-GGC---GG-
+mll7917      --------------------------------------UUCGCC---GG-
+mll7273      --------------------------------------AUCGGC---CC-
+mll4092      U---------------------------------UCGAAGCCGG---CG-
+mlr4335      ------------------------------------AAGGCCCC---UA-
+msr5561      ------------------------------------CAAGGAGU---CC-
+mll3888      --------------------------------------UUCGGC---CC-
+mlr6875      A---------------------------------CCACAG-GCG---CG-
+mlr5447      AGUGGAUC-------------------CGGUUUUGGGAAA-ACG---AC-
+mll3531      --------------------------------------CUUCGC---UAU
+mlr4398      UGUGA------------------------GCGGUUUUCCG-UCC---GG-
+mll0782      ---------------------------------------U-------UU-
+mll8431      CCUCAC----------------------AAUAAAGUGUCGGGAA---GC-
+mlr7932      --------------------------------------UU-CUU---UC-
+mll1989      ------------------------------------AGCGAGGC---GC-
+mlr1705      --------------------------------------AAGGGG---GG-
+mll2521      ---------------------------------------GCUUG---GC-
+mlr0045      -------------------------------------GAA-GGC---GG-
+mlr1649      ------------------------------------CCAUCGAU---GG-
+mlr5381      -----------------------------------AAGAACGGG---GA-
+mll4000      --------------------------------------AA-GGU---UC-
+mll1405      --------------------------------------CAGGGC---GC-
+mll0762      -----------------------------------CUCCG-CUG---UC-
+mlr0694      -------------------------------------AUGUCCU---CG-
+mll1454      C---------------------------------AUAGAG-GGC---CU-
+mlr3013      --------------------------------------UG-GCC--UCC-
+mll6250      --------------------------------------ACCCGC---UU-
+mlr1245      --------------------------------------AACCGA---UC-
+mlr3495      -----------------------------------CACCUUCCG---CG-
+mlr6511      --------------------------------------AAGGCC---GC-
+mll1258      --------------------------------------CGAGCC---GG-
+mlr7916      --------------------------------------AGCGCC---GG-
+mll1660      --------------------------------------UUCGCC---CC-
+mll1103      --------------------------------------UUGCCC---GG-
+mlr2759      -------------------------------------CCGACAU---UU-
+mlr0555      --------------------------------------GGCAUG---GC-
+mll0036      --------------------------------------AA-GGA---GC-
+mlr3373      -------------------------------------GAU-------GG-
+mll4244      --------------------------------------UG--CC---CG-
+mlr3167      --------------------------------------UUGGGC---GC-
+mll0167      ------------------------------------AAAG-CCG---GC-
+mll0489      -------------------------------------CAA-ACG---CG-
+mlr2400      --------------------------------------AGAGGC---GU-
+mll8252      --------------------------------------AA-GGG---CA-
+mlr8325      --------------------------------------CG-GGA---CG-
+mlr5648      --------------------------------------AAACGG---GG-
+msr3935      --------------------------------------CGAGGC---GG-
+mll2386      -------------------------------------ACGAGCC---CC-
+mll7738      --------------------------------------AA-CCG---CC-
+mlr4661      --------------------------------------AG-GGG---GAG
+mll1819      -----------------------------------CAAAU-UGC---CU-
+mlr3233      ---------------------------------------UCGGC---CG-
+msl6994      --------------------------------------CUACGC---CG-
+mll2413      --------------------------------------UA--CU---UG-
+mll7908      --------------------------------------CGCGCC---CG-
+mlr7298      -----------------------------------GCGAU-GGC---GG-
+mlr2394      --------------------------------------GUGGGC---GC-
+mll1248      ---------------------------------------U-------CG-
+mlr4684      --------------------------------------AA-CGG---CG-
+mll3306      --------------------------------------AAUCCC---GC-
+mll3309      --------------------------------------CUCUCC---CG-
+mll4559      ------------------------------------ACCG-CCC---GG-
+mll1738      --------------------------------------AA-GCC---CG-
+mll5357      --------------------------------------GU-GGG---AG-
+mll0630      --------------------------------------AG-AGG---CG-
+mll4270      ----------------------------------UCGAAUCGUC---AU-
+mlr2341      ------------------------------------GGAU-CGG---GU-
+mlr0173      -------------------------------------UCG-GCA---CC-
+mlr2699      --------------------------------------AA-GGG---AG-
+mlr0020      --------------------------------------AU-UUG---GC-
+mlr6523      AGCG---------------------------GCUUAUCAG-GCG---AU-
+mlr7299      --------------------------------------UA-GCG---CG-
+mll4272      --------------------------------------UUGCGGU-UCC-
+msr1249      C--------------------------------CCAGCCC-GGC---AG-
+mll7330      --------------------------------------CA-GCG---GU-
+mll7669      ------------------------------------GAAA-UCA---AG-
+mll2248      --------------------------------------CA-GCCG-UCC-
+mlr1689      -------------------------------------ACG-CGC---UU-
+msr8665      --------------------------------------UGGCCC---GC-
+mlr5070      AAUGGGAA------------------CCGGUUUUCCGACA-AGG---AC-
+msr8048      ---------------------------------------A-GGU---CC-
+mlr7391      -------------------------------------ACU-------CC-
+mlr7383      ---------------------------------------U-GGC---AC-
+mlr6247      A--------------------------------UUCCCCA-ACG---UG-
+mlr2761      AGUGGUC--------------------CCGGUUUUGGGGGAACG---AC-
+mll2414      --------------------------------------AAGCGG---GG-
+mll7437      --------------------------------------AU-------GC-
+mll4981      --------------------------------------UGUGGG---GA-
+mll0826      --------------------------------------AA-UCC---GG-
+mll0667      ------------------------------------UGCU-GGA---CG-
+mlr6594      ------------------------------------AUUGCA--C-CGG-
+mll7519      --------------------------------------CU-GGG---CA-
+mlr6940      -------------------------------------GUGACCC---GC-
+mlr7740      -------------------------------------AAA-CGC---CC-
+mlr3857      -------------------------------------UCGCGCC---GG-
+mlr2644      C--------------------------------AACCAAAC-AU--CGU-
+mll7082      --------------------------------------CAGGGC---GC-
+mlr3468      ------------------------------------UGUA-CGG---GGA
+mll8468      ---------------------------------------G-GGCU-GCG-
+msr0389      ---------------------------------------GCGCC---GC-
+mll3882      --------------------------------------AAGCCC---GA-
+mll2736      ---------------------------------------U-GGC---AC-
+mll3965      --------------------------------------AA-GCC---GC-
+mlr0740      --------------------------------------CU-ACU---GC-
+mlr1469      --------------------------------------AA-CCC---GG-
+mll5661      --------------------------------------CCCGGC---AC-
+mll8309      --------------------------------------CA-CGG---GG-
+mll6811      -------------------------------------GUACGGC---CG-
+msl7942      GG-------------------------------AGGAGAA-GGC---GC-
+mlr0211      -----------------------------------UCGAUCGGC---GC-
+mlr5515      ---------------------------------------U-------CC-
+mlr2494      ---------------------------------------U-GGA---CC-
+msl7604      -------------------------------------UUGCAGC---CG-
+mlr3017      --------------------------------------AA-CCG---GG-
+mlr6539      --------------------------------------CG-------AA-
+mll4296      -------------------------------------AAGCCCG---AA-
+mll1436      GA-------------------------------GAUGCCG-CGC---GG-
+msl1109      -------------------------------------CCGCGGC---CA-
+mll8452      --------------------------------------AG-UCA---GC-
+mll1068      --------------------------------------AA-------AC-
+mlr4548      --------------------------------------AACGCC---GG-
+mlr7815      ------------------------------------AUCGCCGA---UG-
+mlr2763      -------------------------------------GAU-GCA---GC-
+mlr2815      --------------------------------------AA-GCC---GG-
+mll4921      ------------------------------------UCCG-CGA---GG-
+mll2537      ----------------------------------CGGCCUGACC---UG-
+mll7124      --------------------------------------CA-------GG-
+mlr8476      --------------------------------------CGCGCC---CG-
+mll1651      ----------------------------------GGUGCGAUGA---AA-
+mlr2640      ------------------------------------CCCGCCGA---CC-
+mlr2470      ---------------------------------------GCUUG---GC-
+mll4419      -------------------------------------AUG-------GC-
+mlr7818      --------------------------------------UGUGGG---AG-
+mlr0488      -------------------------------------GAGUACG---CG-
+msl8637      GAC-----------------------------CGAGACAA-CGU---CG-
+mll0773      --------------------------------------UU-CCG---GC-
+mll5148      --------------------------------------GUCGAA---AU-
+mll7351      --------------------------------------GU-GGG---GG-
+mlr4779      ------------------------------------AGUGACGG---GG-
+mlr5654      --------------------------------------AG-GGG---AG-
+mlr3050      --------------------------------------CG-GCG---GG-
+mll5622      -------------------------------------CCA-------CG-
+mlr4953      --------------------------------------CU-ACC---GCC
+mll3637      --------------------------------------UG-UGG---CG-
+mll1127      --------------------------------------CUUGGC---CC-
+mlr2927      --------------------------------------CAAGCG---CG-
+msr4796      -------------------------------------GCG-ACC---CG-
+mll1519      -------------------------------------AAGCGCG---CC-
+mll2689      ------------------------------------UCCG-GCG---GG-
+mlr5563      CGGACCUCG-----------------UCGGUGGCGUGCUGGUCG---CCA
+mlr6444      --------------------------------------CUGGCG---CG-
+mll8456      --------------------------------------CG-GGC---GG-
+mlr8380      --------------------------------------AA-ACC---GG-
+mll4252      --------------------------------------AA-CGA---CC-
+mlr3881      --------------------------------------UGUCCC---GA-
+mll2227      --------------------------------------GGUGCC---GU-
+msr2379      -----------------------------------CUACU-GGU---GC-
+mlr7288      --------------------------------------UGAGCC---GC-
+mll7734      --------------------------------------AG-------UC-
+mlr1414      ----------------------------------CUUCCUGCCG---CC-
+mlr0752      --------------------------------------GUAGCA---AA-
+mlr3769      --------------------------------------AA-------UG-
+mlr3847      --------------------------------------GA-GCC---GC-
+mll1692      --------------------------------------AA-CGG---GC-
+mll3075      --------------------------------------CGUGCC---GG-
+mlr4987      ------------------------------------CUAG-CGC---CG-
+mll7433      --------------------------------------AA-AGA---GC-
+mlr7927      --------------------------------------GGUGCA---AU-
+msl3793      ---------------------------------------UCGCC---GC-
+msl7784      --------------------------------------CAUGCU---GC-
+mlr3148      -------------------------------------UUGUCCC---GG-
+mlr8149      --------------------------------------AU-CUG---CC-
+mlr3120      --------------------------------------AA-------GG-
+mlr5044      -------------------------------------GAU-GGG---GA-
+mlr1283      ------------------------------------UGUG-GGA---GA-
+mlr2439      -------------------------------------CCG-CCC---CG-
+mlr1710      --------------------------------------AAGGGG---GG-
+mlr8387      --------------------------------------GU-GGG---GG-
+mll0525      --------------------------------------UGUCCG---GG-
+mll3129      ----------------------------------CAGCAU-CCC---CG-
+mll4757      --------------------------------------AAAGCC---GG-
+mlr4381      --------------------------------------GU-GCC---CG-
+mlr6139      ------------------------------------UGCG-------CG-
+mlr3032      ---------------------------------------UCGGC---GC-
+mlr4966      ------------------------------------CGCU-UGA---GC-
+mlr1887      --------------------------------------AGGGAA---AAG
+msr2608      -------------------------------------AAU-CCC---AG-
+mlr2969      -------------------------------------UCGGGGC---GG-
+mll7701      --------------------------------------CG-GGA---GA-
+mlr8323      CGCGUCAU------------------GCCGUGGAAGAACGGCGG---CG-
+mll4820      ------------------------------------UGCGGCCC---GG-
+mll2253      GUU----------------------------UCACACUUU-UCC--UGG-
+mlr7597      -------------------------------------UCG-UGC---GC-
+msr5976      --------------------------------------AG-------GU-
+mll4794      --------------------------------------GA-GCG---CG-
+mll5315      --------------------------------------AU-UGC---CC-
+mll1500      -----------------------------------CGGAA-ACG---GC-
+mll5052      GU-------------------------------AGGCGCU-CCC---CC-
+mlr7627      ------------------------------------CGUGGUCC---GC-
+mll3867      -------------------------------------AAG-------GG-
+mlr7355      CGGGG------------------------GUGUCAGGUAG-------CC-
+mll1470      --------------------------------------UU-CCC---GG-
+msr0341      --------------------------------------UU-GCC---GG-
+msr0731      --------------------------------------UG-GGC---CG-
+msl3293      GCAGAAUAC----------------GCUCUAUCUCAUCAUUGGC---GC-
+mll4103      --------------------------------------AGGGGG---AG-
+mlr8474      ---------------------------------------G-CGG---CG-
+mll2816      --------------------------------------CG-GCC---GG-
+mlr6651      U--------------------------------CCCAGUACUGU---CC-
+mlr4269      -----------------------------------GACCGACGU---CA-
+mlr8401      --------------------------------------UA-GGG---AC-
+mll1643      --------------------------------------CG-GGC---GC-
+mlr2659      --------------------------------------AA-GGC---CA-
+mlr2676      AA-------------------------------GAGUGAU-CCG---UC-
+mlr1595      ---------------------------------------G-GGG---CG-
+mll1309      --------------------------------------CA-AGA---GC-
+mll2625      -------------------------------------UCA-CGA---UU-
+mlr7711      --------------------------------------CGACAA---GU-
+mlr4407      --------------------------------------AU-GGU---UG-
+msr2529      --------------------------------------GA-GCC---CG-
+msr2457      ---------------------------------------GCCCC---GG-
+mll1222      AUGGGA----------------------UCGUUCUGACAGGGGA---AA-
+mll0743      ------------------------------------CAUGGACU---UU-
+mll1100      --------------------------------------GA--GG---GG-
+mlr7272      --------------------------------------UGCGGC---UC-
+mlr0874      -------------------------------------GUU-UCC---GG-
+mll3429      ----------------------------------GCUGGG-CGC---GC-
+mlr7964      -----------------------------------GAUCUUGCC---GC-
+msr2723      ------------------------------------UGAG-UUG---AA-
+mll1508      --------------------------------------GGACCC---GG-
+msl4069      --------------------------------------CU-GGCG-CGG-
+mll0487      -----------------------------------AAACG-CGU---UGA
+mll1765      ----------------------------------UCGCCG-GGC---GG-
+mll1012      -------------------------------------UGGCGCG---GC-
+mll3723      -------------------------------------CCG-CGG---CG-
+mll2531      --------------------------------------AA-UCC---CG-
+mll4541      --------------------------------------CGCGCC---GG-
+msl5155      ----------------------------------CCAGAUUACA---GC-
+mll2610      ---------------------------------------UCUCC---CA-
+mll1775      -----------------------------------CGCAA-GCC---GG-
+mll0645      -------------------------------------CAU-CGC---GG-
+mlr3334      --------------------------------------CGUGCC---CC-
+mll5113      --------------------------------------AUCGGC---CC-
+mll4186      -------------------------------------GAA--GC---GA-
+mll2263      ---------------------------------------GCACC---GC-
+mll3030      --------------------------------------AG-GCU---UC-
+mlr5416      -------------------------------------GAA-GCG---CC-
+mlr1493      CCCC---------------------------AGGCGAGAU-CGG---CC-
+mlr5136      ---------------------------------------G-GUG---CG-
+mll1830      --------------------------------------AA-GUG---GG-
+mll6957      UAU-----------------------------CAAAUUAG-AAU---GC-
+mlr1935      CCAAAUUGGCGGCGCCAUGCGUCCCUUAUUCCGGCGCCGGCACC---GG-
+mll4275      --------------------------------------UGUGGG---AG-
+mlr4354      ------------------------------------AAAG-CUC---GG-
+mlr4962      --------------------------------------AU-GUG---GG-
+mlr3285      -------------------------------------AUACUUG---GG-
+mll1962      ------------------------------------AAAGCGGG---GG-
+msl0779      --------------------------------------UGGGCU---GC-
+mlr8326      --------------------------------------AG-GGG---GA-
+mlr0356      ------------------------------------UGAA-CCG---GC-
+mlr1849      -------------------------------------CCA-GGC---GA-
+msr8237      --------------------------------------AA-GGG---CA-
+mll1986      --------------------------------------CUAGUC---UG-
+msr3702      -----------------------------------CUCAA-ACG---GU-
+mlr7346      -------------------------------------UCU-------GC-
+mll4586      -------------------------------------ACG-ACG---GU-
+mll5581      UGCGC------------------------UAGAAUUCAAU-GGC---UU-
+mll2850      --------------------------------------AA-CAC--CUG-
+mll5702      ---------------------------------------G-UGG---CG-
+mll1683      -----------------------------------AAAUG-------GC-
+mlr4538      --------------------------------------UGUGGG---GG-
+mlr7826      -------------------------------------GCG-------GU-
+mlr8413      ------------------------------------CGUGUGGU---GC-
+mll7825      ------------------------------------GGAG-GGA---GA-
+mlr8307      --------------------------------------AA-CGG---GG-
+mll7580      --------------------------------------UGCCCG---GC-
+mlr0565      -------------------------------------GAA-------CG-
+msr2235      --------------------------------------AU--CA---GC-
+mlr1449      --------------------------------------CG-CGA---GC-
+mll3503      --------------------------------------AUUCGA---CG-
+mll2765      ------------------------------------CGCUGCGG---CG-
+mll1463      --------------------------------------AU-------CG-
+mll5494      ------------------------------------UGCC-GCG---GC-
+mll0914      -------------------------------------GAU-CCA---CC-
+mlr4377      --------------------------------------AG-GCG---GC-
+mlr8530      --------------------------------------GG-CGA---CC-
+mlr2630      --------------------------------------UU--CU---GU-
+mlr5623      -------------------------------------CUGCCGC---GC-
+mll7787      GGUC--------------------------UUGACAGGUG-GGC---AG-
+mll4985      -----------------------------------GUGGACGGU---GC-
+mlr8415      --------------------------------------UU-GCU---GCU
+mlr1708      --------------------------------------UGCGGG---AG-
+mlr8284      G--------------------------------CUCGCUGUCCG---GU-
+mll3321      -----------------------------------CUUUGCAGC---GA-
+mll4088      ---------------------------------------U--CG---CA-
+mll4283      --------------------------------------CG-GCC---GC-
+mll2704      --------------------------------------GG-GGC---GC-
+mlr7819      -------------------------------------CCA-CGC---UGA
+mll4866      ---------------------------------------GCAGC---GG-
+mll1462      --------------------------------------AA-GGC---CA-
+mll2809      --------------------------------------UG-------CC-
+mlr2172      A---------------------------------CGUCCU-CCC---CG-
+mlr3257      --------------------------------------CA-GUC---UG-
+mll3989      ---------------------------------------G-GAA---AC-
+mll1725      --------------------------------------CAGUUC---GG-
+mll5675      -----------------------------------CCCGACCGG---CC-
+mll7959      --------------------------------------AA--GC---CC-
+mlr3762      --------------------------------------UG-CUG---UC-
+mlr7403      AGUGUGCA------------------GCGGUUUUGGGACG-UCG---AC-
+msl4017      --------------------------------------CUCGGG--AAC-
+mlr7614      --------------------------------------UG-------GG-
+mll1433      ------------------------------------GCAG-GGC---UU-
+mll4059      ---------------------------------------U-GCC---CC-
+mll3104      --------------------------------------CU-GCC---GG-
+mll6987      GC-------------------------------GAGCCGUCCGC---GU-
+mll1751      -------------------------------------UCG-GGC---GG-
+mlr2421      --------------------------------------CG-CGC---CU-
+mlr2375      AGCUGCAA-------------------AUUGCUACUGGCGAGGC---GG-
+mlr3488      -----------------------------------CUCUGGCAA---AG-
+mlr0230      -------------------------------------GAU-GGC---AGC
+mll1929      -----------------------------------CAAAG-------GG-
+msl6741      --------------------------------------AAAGCCC-AGA-
+mlr1815      G---------------------------------GGGAAACCGG---CG-
+msr0960      ACAA--------------------------CAGCGCCGUA-GCG--AGC-
+msl3766      --------------------------------------AG-GGC---CG-
+mll3384      -------------------------------------AAG-CCG---CU-
+mll4956      --------------------------------------AG--GC---UG-
+mll4832      AAC-----------------------------GGAUUCAU-GCG---AC-
+mlr4954      --------------------------------------CU-------GC-
+mll2211      --------------------------------------AUGAGG---GG-
+mll8311      --------------------------------------CGCGCC---GG-
+msr3222      -------------------------------------ACA-------GU-
+mlr0777      --------------------------------------AUCGCC---AC-
+mll3850      --------------------------------------CG-AUU---GU-
+mlr4594      ------------------------------------AGUGACGA---UG-
+mll0081      -----------------------------------GCCAGGGUG---GC-
+mlr0248      ---------------------------------------GCGAG---CC-
+mll3311      -------------------------------------CGGCCGG---GG-
+mlr5227      ------------------------------------GAUU-------GA-
+mlr2596      ------------------------------------CAAGCGCC---CC-
+msl6526      --------------------------------------GUAUGC---GC-
+mll5655      --------------------------------------GU-GGG---AG-
+mll1407      CGCGACGCCUCA-----------AUGACAGCGCUGGCGCUCGCG---GCC
+mlr3911      ------------------------------------UCAA-AGC---GG-
+mll8093      C---------------------------------ACAGCA-CCCG-ACA-
+mlr6196      -------------------------------------GCG-------CU-
+mll1624      ---------------------------------------G-GCG---CG-
+mlr6156      -------------------------------------GCA-GCCUCUGC-
+msr5037      ---------------------------------------C-GGG---GC-
+mll5053      --------------------------------------AA-AGG---GC-
+mll0505      ---------------------------------------U--CG---CA-
+msr5947      --------------------------------------UUGCGA---UA-
+mll2664      --------------------------------------CG-GGC---CG-
+mlr5544      ---------------------------------------UCGCC---GC-
+mll0128      -----------------------------------AUACGAGCC--GAG-
+mlr2023      --------------------------------------AG-CGG---CC-
+mlr8255      --------------------------------------AAGGGG---AG-
+mll3944      --------------------------------------UUCGCA--AGG-
+msl0440      -------------------------------------CAU-------GA-
+mlr4184      --------------------------------------CUCGCG---AC-
+mll1569      -------------------------------------CAA-GCC---GG-
+mll6839      --------------------------------------AA-------CA-
+mlr0937      ---------------------------------------A-AGC---GG-
+mlr0564      ---------------------------------------G-GAA---AC-
+mlr2408      --------------------------------------UUCGCC---CA-
+msl8272      -------------------------------------GAU-GAU---GC-
+mll4242      --------------------------------------UA-CGG---GG-
+mll5399      --------------------------------------AUUUCU---AU-
+mll4534      --------------------------------------UGUGGG---AG-
+mll2599      --------------------------------------UG-CGC---CG-
+mlr1499      CCC-----------------------------GGGAAAAG-CGC---GC-
+mll7670      ------------------------------------UUAUACGG---CG-
+mlr7894      --------------------------------------AUCAGC---CG-
+mlr7000      C---------------------------------CACAGGCCGG---GG-
+mll8419      -------------------------------------GAU-CCC---AC-
+mlr5526      --------------------------------------CUCGCC---GU-
+mll7329      -------------------------------------UCC-GCC---GC-
+mll4282      ---------------------------------------A-CCG---CC-
+mlr8162      G---------------------------------GUACCU-CGU---CG-
+mlr8761      --------------------------------------CUACCA---UGC
+mlr6417      UU------------------------------GGCGCACU-GGG---GCU
+mlr8084      -----------------------------------GUCAU-------GC-
+mlr5413      -----------------------------------UUCAGCGCG---GC-
+mlr4097      --------------------------------------UU-CGU---CGC
+mll1296      ACG----------------------------CUCCGACCUUGCU---GG-
+mlr5531      UGAUCGGA-------------------AAAAUCAGGAUUU-UCC---UG-
+mll3596      --------------------------------------UG-UCC---GG-
+mll7727      --------------------------------------AU--CC---GG-
+mlr4143      --------------------------------------AAGGGG---AG-
+mlr0915      AG------------------------------GAAAAGUG-UGC---AG-
+mll3670      ------------------------------------UCAU-GGC---GG-
+mlr1450      --------------------------------------UU-AGC---CG-
+mlr1573      ------------------------------------ACCG-GCC---UG-
+mlr6791      --------------------------------------CG-GCC---AG-
+mll4937      ------------------------------------CCCG-GUC---GG-
+mlr7924      -------------------------------------UCA-ACC---AU-
+mlr2758      --------------------------------------AA-CGG---GG-
+mll5202      GC------------------------------CAAAGUUGUGCU---CU-
+mlr5608      G--------------------------------AAGAGCGAUCC---CC-
+mlr3170      --------------------------------------GG--GA---AG-
+mll3970      -------------------------------------ACG-CGC---CG-
+msl0470      -----------------------------------CCACG-GUC---GA-
+mll1168      ---------------------------------------G-GCC---CG-
+mll0592      ---------------------------------------U-ACC---GG-
+mll3878      --------------------------------------UGCCCG---GG-
+mlr5708      -------------------------------------UCA-CGG---GG-
+mll8440      C---------------------------------CGGGAGUGCC---CG-
+mll0636      ---------------------------------------U-GGA---UC-
+mll0485      GCCUAUAGGUAAAAACCUGAAUUUCUCAGGAGAGGACUAA-GAC---CC-
+#=GC SS_cons ......................................__.>>>...>>.
+#=GC RF      ......................................ag.gcc...gg.
+
+mll2974      A--AUGCG
+msl0931      C--CGCCU
+mll3139      G--CUUUC
+mll0212      C--GGGAU
+mll5706      C--GCGAC
+mlr2201      U--GCCUA
+mlr4601      A--AGGAA
+mlr8418      G--GGUUU
+mlr4841      G--CCUAC
+mll8359      G--CUUUU
+mlr6034      C--CCCGC
+mll3745      G--CCUCG
+mll3663      A--AGGAA
+mlr4910      A--UGCCG
+mll0865      C--GGCUU
+mlr5604      C--UUCUU
+mlr0604      U--GCCUA
+mlr1615      C--CUUUU
+mll1209      C--UUCAU
+mll4602      A--AGGAA
+mll1090      G--GCUUU
+mlr2052      C--GGGUU
+mll5050      G--GGUGA
+mlr0499      C--CUUUU
+mlr3649      C--CUCUU
+mll8170      C--CGCUU
+mll4256      G--CGUUU
+mlr5361      A--AGGUG
+mll0343      G--CCUUU
+mlr4111      C--CCUCU
+mll5388      U--CGGUU
+mll7668      G--CCCGG
+mll1546      C--CUGUU
+mlr2516      C--UGCCU
+mll6750      G--ACGUU
+mlr1881      A--GAUUG
+mlr4195      A--UGCUU
+mll2306      A--CCGCU
+mll1129      C--CUACU
+mll7394      G--G----
+mlr7225      C--ACCCG
+mll3593      C--CUGCA
+mll1552      A--CUUCA
+mll5421      C--GCCUU
+mll7301      C--CCGAU
+mlr0323      C--UCGCU
+mlr2244      G--GGU--
+mlr0339      C--CAGGG
+mll0351      G--CCCUU
+mlr6801      C--UCCGG
+mlr0978      G--CGAUC
+msr0848      C--GUUUU
+mlr6414      G--CCCCG
+mll6256      C--UCACA
+mll4996      C--CGCUC
+mlr0039      A--UGCAU
+mll7356      G--CGCCG
+mlr4903      A--CAUUU
+mll1329      G--AGCAC
+mlr1701      G--AAAUC
+mlr4763      A--CUGAU
+mll0501      C--CUUUU
+mll5210      G--GGUUU
+mll1046      A--AAAUG
+mlr0273      G--CCCGG
+mlr2412      G--AUGGG
+mlr7830      C--CUUGU
+mll0663      C--UUUUU
+mll2445      C--GGGGC
+mll3832      C--GGCCU
+mll4112      C--CCUCU
+mlr5404      C--CGUUC
+mlr3465      G--CCCUU
+msl8074      G--GGUUU
+mlr7857      G--CUUUC
+msl2054      C--GGGUU
+mlr3016      C--GUCCU
+mll5199      U--ACUCG
+msl0377      C--CCUUU
+mlr5281      C--GAUCC
+mlr3480      A--AUUCU
+mll4029      G--GGUUU
+mlr0376      G--CCCUU
+mlr3662      A--GAAGG
+mlr0549      C--CGUCU
+mll2518      G--CGUCG
+mll5167      G--GGUCU
+mll7704      U--UUCCG
+msr5593      C--CCUUG
+mlr1753      G--CCAGG
+mlr0585      A--GGUUU
+mll3709      C--UCCGG
+msl1769      G--CCCUU
+mll7237      G--GCCAU
+mlr5477      G--CAUCG
+mll3661      G--AUCCU
+mll1207      G--CCCGG
+mlr5554      C--CGCCU
+mlr2666      G--CUCCA
+mlr5692      G--GGUUU
+mlr2125      C--CGGAU
+mll0650      G--CCGAU
+mlr5184      G--GCUCU
+mll7871      G--CGCUU
+mll1882      A--GAUUG
+mll4358      C--GAGUC
+mlr2634      G--GCCCG
+msl7844      C--GUUCC
+mll2257      C--CCGGC
+mll3467      C--CCUUU
+msl3782      U--CUUUU
+mll5094      U--CGUCC
+msr5755      G--ACGGG
+mll2661      G--CGCUU
+mlr4771      G--CCGGU
+mlr0864      C--AGCUU
+mlr6790      G--CCA--
+msl2821      C--CCUUU
+mlr1619      A--CGCUC
+mlr3352      A--UGCAU
+mlr3986      G--CCCUU
+mlr1911      G--GAGAG
+mlr6435      A--CCUCC
+mll5423      C--ACGAU
+mlr8405      G--AAAUC
+mlr3708      C--UCCGG
+mlr1694      A--AGGAA
+mlr1763      G--CUAUU
+mll4444      U--CAGCC
+msr8535      C--CGGCC
+mlr5723      C--CGGCC
+msl4750      G--CUUUU
+mlr4759      G--GUUUU
+mll4853      G--GUG--
+mlr0263      C--CCUUU
+mlr1884      C--GCUGU
+mll8201      C--CUUUU
+mlr7441      C--UUCAG
+mll5186      G--CUCUU
+mll7714      C--CAGGC
+mll3224      G--CGGUG
+mlr3121      C--GCGCC
+mll5212      G--CGCGG
+mll0665      C--CGGGU
+mlr4366      G--GUUUU
+mlr0409      G--GCCAC
+mll0605      U--GCCUA
+mlr0512      C--UUUUU
+mll5095      C--UGCCU
+mlr0092      G--ACGCG
+mlr0338      G--CUUUU
+mll0702      C--UCCCC
+mlr2623      C--AGGUU
+mll0513      C--UUUUU
+mll5582      G--UUUUU
+mlr1672      C--UUUCU
+mll5251      U--GGAGG
+mlr4254      G--CGUUU
+mll3987      G--CCCUU
+mlr1030      G--CGGCU
+mll3168      G--CGCGU
+mll2569      C--CGUUU
+mlr4812      C--UUUUU
+mlr2793      G--CACAA
+mll6512      C--CUUCU
+mlr2667      U--GCUCC
+msr7236      C--GGCCA
+mlr0318      C--UUUUU
+mll8244      U--UGACG
+mll5677      A--AUCCG
+mlr7496      C--CGUCU
+msl7831      G--GGCCU
+mlr8211      G--GUACG
+mll1848      A--UGUCC
+mlr7182      U--UGA--
+mll1617      C--CUUUU
+mlr1231      G--CUUUU
+mll6595      C--CCUUU
+mlr2549      G--GACAA
+mll2018      G--CUUUU
+mll7723      G--GCGCU
+mll1853      C--CUGGC
+mll1632      U--CCGAU
+mll2167      A--UAG--
+mlr7636      G--CCUUU
+mll0467      G--UUUUU
+mll5057      G--GUUCU
+mll5302      G--GGACG
+mlr0096      A--CAUCU
+mll5372      U--CAGGC
+mll5441      C--GCG--
+mll4118      A--AGGAA
+mlr5029      U--CGAAU
+mlr7869      G--CGCUU
+mlr6157      C--GCCCC
+mll5645      U--GCCUA
+mlr5644      U--GCCUA
+mll8493      U--GCCCU
+mlr1435      G--GGUUU
+mll3033      C--GCUUU
+mll4828      G--CGUAU
+mll5035      A--CGCCG
+mlr5371      U--UCAGG
+mll5031      U--CGAAU
+mll0178      C--CUGCC
+mll1531      G--CAAUU
+mll5362      A--AGG--
+mlr5545      G--UCGUC
+mll3631      G--CGGUC
+mll0255      C--CGUUC
+mlr2925      G--CCCGU
+mlr7645      C--GUUUG
+mll0849      A--GCCUC
+mll1004      G--ACCGC
+mlr3964      C--CUUUU
+mll1163      C--AUGGU
+mll2144      A--GAAGG
+mlr1851      C--CUGGC
+mlr5218      C--CUGCA
+mlr0385      C--CUUUU
+mlr4682      A--GGCCU
+mll4821      G--CAA--
+mll1268      G--CCUUU
+mll4927      C--GGCCG
+msr8381      C--CUUUU
+mll1002      G--CAC--
+mll4246      G--GCCCC
+mlr5683      A--CGCGC
+msr8478      C--UUUUC
+mll3374      U--CGGGC
+mll4988      G--CCCUC
+mlr4072      C--UUUUU
+mlr8347      A--UCGGA
+mlr0922      G--UCCAG
+mll5410      U--CCGUU
+mlr5166      G--GGUCU
+mll5605      C--UUCUU
+mll1641      U--CCCAU
+mlr4089      C--GGC--
+mll4149      C--GCCAC
+mll6228      G--UGGCU
+mlr0277      G--CGG--
+mlr8154      G--GCUCU
+mlr1890      C--CUCGU
+mlr7543      G--CUCCC
+mlr5407      U--GGAGA
+mll2459      G--CUUUU
+mll2999      G--CUUUU
+mll0732      C--CGGCG
+mlr3988      U--UCCCU
+mlr0270      A--GGG--
+mlr0220      C--GUUUU
+mlr0699      G--GGUCU
+mlr2142      A--GAAGG
+mlr3004      G--CCGAU
+mll0815      A--GGCCA
+mll8212      U--ACGGU
+mlr1579      C--GGCAG
+mlr4455      G--GGUGU
+mll4235      A--CUGCC
+mlr4340      C--UCUUC
+mll1918      C--GCCCA
+mlr5356      A--AGG--
+mlr2124      G--GGAAG
+mlr1976      G--GGCCU
+mlr2839      G--GCCGU
+mlr1518      C--CGCCU
+mll1582      G--GCCAA
+mll6639      G--CGCCC
+mlr5805      G--ACCUU
+mll2088      G--GAUGA
+mlr3796      C--CGCAA
+mll3759      G--CCUGU
+mll1284      A--GGUGG
+mlr5066      G--CCGUU
+mlr0310      A--GAC--
+mll2232      A--CCUUU
+mll0624      U--CGCCC
+mlr1663      C--U----
+mll2746      C--CCUUU
+mlr7133      A--GAAGG
+mlr8397      G--CCUUU
+mll1028      C--GGUUC
+mlr7461      U--GCCUA
+mll7303      A--AGGGG
+msl6451      C--GGUCU
+mlr4629      G--CUUGC
+mll1690      U--UCCCG
+mlr0325      C--GAUCC
+mlr3815      C--UGCCC
+mlr1172      U--GCAUC
+mll0854      A--GAAGG
+mlr3355      G--CCCUU
+mll4093      C--CGCAA
+mll4250      U--UUGUC
+mlr5562      C--CGUUU
+mlr6533      G--GUCGC
+mll7842      G--GCCUU
+mll3861      G--CCGCU
+mll0608      C--CCUUU
+mlr3307      C--GUUUU
+mll4258      C--UUUCC
+mll2885      G--GGUCU
+mlr1585      G--AUUUU
+mlr5042      U--UUGUC
+mlr0629      C--CUUUU
+mlr2819      C--CCUUU
+msr3117      C--ACCUU
+msl2738      G--GCCUU
+mll3743      C--GCCUU
+mlr4467      U--GUCGG
+mll8388      G--GAGAU
+msl1119      C--CACAA
+mlr3741      C--GCCUU
+mll7332      G--GCCUC
+mlr7721      C--GGCGC
+mll3431      G--CCGUU
+mlr7768      G--GGCGG
+mlr1968      U--GGUCG
+mll4060      C--UCACU
+mll5768      C--GGGUC
+mll3069      C--CGGUU
+mll1760      G--GCUUU
+mlr1241      U--UAUAU
+mll2645      U--CCUGA
+mlr3583      G--CCUCU
+mlr3157      A--UGCAU
+mll6718      C--CCCGU
+mll2972      C--GUUUU
+mll5188      U--UGGGC
+mlr2998      G--UGAGC
+mll1451      C--UUUUU
+mll6731      G--UCAUU
+mlr6541      A--UUUUC
+mll0037      A--UCGUU
+mll3668      C--GGUUU
+mlr2292      G--CGGCU
+mll5120      A--AGGAA
+mll3685      U--GCCUA
+mlr6185      G--GGGGU
+mlr3223      U--UCCCU
+mlr8524      G--CACGU
+mll7019      G--AUCCC
+mll5088      G--GCCUU
+mlr3943      G--UCUUU
+mlr3700      G--GCCUU
+mlr6441      C--GCCGC
+mlr5071      A--GGGCC
+mll0455      C--GCUUU
+mll7188      C--CGCCG
+mlr4632      C--UGAUG
+mlr4749      U--UCCCU
+mlr7949      C--GGUAC
+mll3952      G--GCA--
+mlr4536      G--AUGAC
+mll6628      G--CCUCG
+msr0042      G--GCCUU
+mll3319      C--GGGAG
+mlr7322      C--UUGGC
+mll4780      A--GAAGG
+mlr0587      C--GCGUU
+mlr7415      C--UUUUU
+mll7917      C--CUUUU
+mll7273      C--UGCCC
+mll4092      G--CCUUC
+mlr4335      C--UGCCU
+msr5561      G--CCGGU
+mll3888      C--UUUUC
+mlr6875      G--GCUUU
+mlr5447      A--UGCAU
+mll3531      U--GGCAA
+mlr4398      A--AUUGC
+mll0782      G--GAGAU
+mll8431      C--GGUUC
+mlr7932      C--UUCUU
+mll1989      G--CAUCG
+mlr1705      A--GAU--
+mll2521      U--UUUCG
+mlr0045      C--CUUUU
+mlr1649      A--AGGCC
+mlr5381      G--AGG--
+mll4000      C--GGCAG
+mll1405      C--GUUUU
+mll0762      C--GGACG
+mlr0694      C--UCGCG
+mll1454      G--GUCUA
+mlr3013      C--GGUGG
+mll6250      C--CCCGU
+mlr1245      C--GGAAA
+mlr3495      G--GAGCG
+mlr6511      C--CUUUU
+mll1258      G--CUUUU
+mlr7916      C--CUUUU
+mll1660      U--UUCUC
+mll1103      C--CUUUU
+mlr2759      C--GUUCU
+mlr0555      G--UCUUU
+mll0036      C--UUC--
+mlr3373      U--UCUCG
+mll4244      C--CAUCG
+mlr3167      C--GCGCG
+mll0167      C--GCCUU
+mll0489      C--UCGGC
+mlr2400      G--CCUAC
+mll8252      G--CGCGG
+mlr8325      C--GCGAC
+mlr5648      A--GAAGG
+msr3935      G--UUUUU
+mll2386      G--GCCCU
+mll7738      G--GGUUU
+mlr4661      G--AUCGG
+mll1819      GACAAAGC
+mlr3233      C--CGGUC
+msl6994      C--CUC--
+mll2413      G--CUCUU
+mll7908      G--CUUUU
+mlr7298      A--UGAUA
+mlr2394      G--GACAC
+mll1248      G--CGGAG
+mlr4684      G--GAUGG
+mll3306      C--GCCUU
+mll3309      C--CGUUU
+mll4559      C--GCCGC
+mll1738      G--A----
+mll5357      A--AGGAA
+mll0630      C--CUUUU
+mll4270      C--CUGAU
+mlr2341      C--UUC--
+mlr0173      G--CGCUG
+mlr2699      A--AGG--
+mlr0020      U--UUUUG
+mlr6523      C--GAUUA
+mlr7299      C--CCGAU
+mll4272      G--GGGUC
+msr1249      G--CCUUC
+mll7330      G--GCU--
+mll7669      U--AUCUU
+mll2248      C--GCAGC
+mlr1689      U--CCCGG
+msr8665      C--GCUUU
+mlr5070      A--UGCUC
+msr8048      G--CCUUC
+mlr7391      G--GCUUC
+mlr7383      G--AUGAA
+mlr6247      C--UCAUA
+mlr2761      A--UGCAU
+mll2414      G--AGAGG
+mll7437      G--CCGCC
+mll4981      G--GUCGG
+mll0826      C--GCCUU
+mll0667      G--CGUAG
+mlr6594      C--CCUUU
+mll7519      C--ACGCU
+mlr6940      G--CCUUU
+mlr7740      G--GGCUG
+mlr3857      G--UUUUU
+mlr2644      C--CUGAU
+mll7082      A--UGACG
+mlr3468      G--AAGGA
+mll8468      C--GAU--
+msr0389      U--GCAGC
+mll3882      G--GAUCA
+mll2736      G--AUGAA
+mll3965      C--CUU--
+mlr0740      C--GUACU
+mlr1469      C--CUUUU
+mll5661      C--GAU--
+mll8309      A--GAAAU
+mll6811      C--CGGUU
+msl7942      C--GGCCA
+mlr0211      G--GGAUU
+mlr5515      A--GGCCG
+mlr2494      U--UUCAA
+msl7604      G--GCCUU
+mlr3017      C--GGGUU
+mlr6539      C--UAUGU
+mll4296      G--AUGAC
+mll1436      G--GUUUC
+msl1109      C--GACGC
+mll8452      G--CGC--
+mll1068      G--UCAAU
+mlr4548      C--GGGCA
+mlr7815      A--ACGAU
+mlr2763      G--CCCUU
+mlr2815      G--UUUUU
+mll4921      A--GCAGA
+mll2537      A--AUCUC
+mll7124      A--UCGGU
+mlr8476      G--CUUUU
+mll1651      G--GCCGU
+mlr2640      C--GGCGC
+mlr2470      U--UUUCG
+mll4419      G--GCCAA
+mlr7818      A--AGGAA
+mlr0488      C--UCGGC
+msl8637      G--CGCCA
+mll0773      C--AUUUU
+mll5148      G--GAC--
+mll7351      C--UGGCU
+mlr4779      A--GAAGG
+mlr5654      A--AGGGG
+mlr3050      G--AAGGU
+mll5622      A--CGCUC
+mlr4953      C--CGGGC
+mll3637      C--CGUUU
+mll1127      C--UUUUU
+mlr2927      G--CCCGA
+msr4796      C--AUCCA
+mll1519      C--GCCUG
+mll2689      G--GCCUU
+mlr5563      A--GCCUG
+mlr6444      G--CCGGG
+mll8456      C--CUUUU
+mlr8380      C--G----
+mll4252      A--UCGCU
+mlr3881      G--GAUCU
+mll2227      G--CUGCC
+msr2379      G--GGCUU
+mlr7288      C--CUUUU
+mll7734      G--AUUUU
+mlr1414      G--CUCUA
+mlr0752      A--CGCCU
+mlr3769      A--GGCAU
+mlr3847      C--CGUUC
+mll1692      G--CCCCG
+mll3075      C--CAUGG
+mlr4987      C--CCU--
+mll7433      C--CCGUU
+mlr7927      C--GUGCU
+msl3793      C--GGU--
+msl7784      C--GCUCG
+mlr3148      C--GGUUU
+mlr8149      U--UCCGG
+mlr3120      A--CACGC
+mlr5044      G--GGU--
+mlr1283      A--GGUGG
+mlr2439      G--CCGCU
+mlr1710      A--AGG--
+mlr8387      G--AGAUU
+mll0525      C--UUUUC
+mll3129      G--ACCUC
+mll4757      G--CUUUU
+mlr4381      C--CGUUU
+mlr6139      A--GCUCG
+mlr3032      C--GCUUC
+mlr4966      C--GGCUG
+mlr1887      C--AUGUC
+msr2608      C--GCC--
+mlr2969      C--GUUUU
+mll7701      A--GGCCU
+mlr8323      G--CACGA
+mll4820      A--GUUUU
+mll2253      A--AUUGC
+mlr7597      G--GCGGU
+msr5976      U--GCA--
+mll4794      G--GCCGC
+mll5315      G--GUUUU
+mll1500      G--AACUG
+mll5052      A--CCCCG
+mlr7627      C--GGCCG
+mll3867      G--GGAGA
+mlr7355      G--GUUUC
+mll1470      C--CUUUU
+msr0341      G--GUUCC
+msr0731      G--CGUUG
+msl3293      G--CUCGU
+mll4103      A--AGGAA
+mlr8474      C--CGUUU
+mll2816      G--UUUUU
+mlr6651      C--GGCAG
+mlr4269      U--CCUGA
+mlr8401      C--G----
+mll1643      C--GUUUU
+mlr2659      G--CGCUC
+mlr2676      G--CGACG
+mlr1595      G--CGUAG
+mll1309      G--CGCAU
+mll2625      U--UCCCG
+mlr7711      C--GCUCG
+mlr4407      C--AUAUU
+msr2529      G--GGCGU
+msr2457      G--CUUUU
+mll1222      C--CGGCC
+mll0743      C--GGGGU
+mll1100      G--AGAUC
+mlr7272      C--UGCCC
+mlr0874      C--CCCUG
+mll3429      G--GCGUU
+mlr7964      G--GCCUC
+msr2723      G--CGCCA
+mll1508      C--CGGCA
+msl4069      C--GCUUU
+mll0487      C--GCUUU
+mll1765      G--CUAUU
+mll1012      G--UCCCG
+mll3723      C--UCCUU
+mll2531      C--CUUCC
+mll4541      G--CUUUU
+msl5155      C--UCUUG
+mll2610      G--CGCCU
+mll1775      C--CCG--
+mll0645      C--GCCCU
+mlr3334      G--GAAAC
+mll5113      G--GAUCC
+mll4186      C--CUAAA
+mll2263      C--AUAGU
+mll3030      C--CGGCC
+mlr5416      G--CCCCC
+mlr1493      G--CCUUC
+mlr5136      A--CCCUC
+mll1830      G--G----
+mll6957      G--GGUUU
+mlr1935      C--GGCUU
+mll4275      A--AGGUG
+mlr4354      C--CCUUU
+mlr4962      G--GAGAG
+mlr3285      C--AUCGC
+mll1962      A--GAGGU
+msl0779      C--GCCUC
+mlr8326      G--AAGGG
+mlr0356      C--G----
+mlr1849      U--GGCCC
+msr8237      G--CGCAU
+mll1986      A--AGAGU
+msr3702      U--UCCAG
+mlr7346      A--GCCUU
+mll4586      C--CAUCC
+mll5581      G--CCUGC
+mll2850      C--CGUCC
+mll5702      U--UGGUC
+mll1683      G--CUUUA
+mlr4538      A--AGG--
+mlr7826      C--GGCUU
+mlr8413      G--CCGGA
+mll7825      A--GGAAC
+mlr8307      A--GAA--
+mll7580      G--GGACU
+mlr0565      C--CGUCU
+msr2235      C--GAGGU
+mlr1449      U--CUUCC
+mll3503      G--GCGGC
+mll2765      C--CCUUU
+mll1463      C--CGCUA
+mll5494      C--CUGCU
+mll0914      G--CCAUU
+mlr4377      C--GCUGG
+mlr8530      G--GCUUC
+mlr2630      C--AGGAG
+mlr5623      G--GCUUU
+mll7787      C--C----
+mll4985      G--CUC--
+mlr8415      C--AGGCU
+mlr1708      A--AGGUG
+mlr8284      G--GAAUG
+mll3321      G--CCGGG
+mll4088      G--UAGAA
+mll4283      C--UUUUU
+mll2704      C--CCUUU
+mlr7819      G--CACCU
+mll4866      C--CCUGA
+mll1462      C--CCCUC
+mll2809      G--CCGUC
+mlr2172      G--CAGUG
+mlr3257      U--GCG--
+mll3989      G--GCGAA
+mll1725      C--CACCU
+mll5675      G--CGG--
+mll7959      G--CCGCG
+mlr3762      A--GGAGG
+mlr7403      A--UGCAU
+msl4017      C--GGUGU
+mlr7614      G--UGCGC
+mll1433      G--UCGAA
+mll4059      G--CUUUU
+mll3104      C--CAG--
+mll6987      C--GGGCA
+mll1751      G--CUUUC
+mlr2421      G--CCUUU
+mlr2375      C--GCU--
+mlr3488      C--GUAUU
+mlr0230      C--GGCCC
+mll1929      A--GAUUA
+msl6741      U--CGGUU
+mlr1815      G--GCUUU
+msr0960      G--AGCGG
+msl3766      G--G----
+mll3384      C--CCCAU
+mll4956      C--UUCGU
+mll4832      G--CGCUU
+mlr4954      U--ACUUC
+mll2211      C--CGGUU
+mll8311      U--UUCCU
+msr3222      A--AUUUU
+mlr0777      C--GCCUC
+mll3850      C--AGGCG
+mlr4594      U--CGGUC
+mll0081      G--CGCGA
+mlr0248      C--CUUUU
+mll3311      A--GAGGG
+mlr5227      A--AUCCG
+mlr2596      C--UAUCU
+msl6526      A--GGUGA
+mll5655      A--AGG--
+mll1407      C--AGGAU
+mlr3911      G--CAGUU
+mll8093      A--CAGCC
+mlr6196      G--CUCGA
+mll1624      A--U----
+mlr6156      G--GCGGG
+msr5037      U--UCGCC
+mll5053      G--A----
+mll0505      G--UAGAA
+msr5947      C--GAC--
+mll2664      C--CCCUU
+mlr5544      C--GGU--
+mll0128      G--AUGAG
+mlr2023      G--GGGUG
+mlr8255      A--AGGAA
+mll3944      C--CUCUU
+msl0440      C--CCUUU
+mlr4184      C--UCAAU
+mll1569      C--UUUUU
+mll6839      G--CGCCA
+mlr0937      G--C----
+mlr0564      G--GCGAA
+mlr2408      G--CCAUG
+msl8272      G--UUCGG
+mll4242      A--GAAAU
+mll5399      C--AAGCG
+mll4534      A--AGG--
+mll2599      C--CCUUU
+mlr1499      A-GCGCUU
+mll7670      G--GGCGC
+mlr7894      C--AGGCG
+mlr7000      C--CGGCC
+mll8419      G--GGUUU
+mlr5526      U--CCGCC
+mll7329      G--ACGCC
+mll4282      G--GGACG
+mlr8162      U--GCCAU
+mlr8761      G--GGUAC
+mlr6417      G--ACUGG
+mlr8084      A--UGGAC
+mlr5413      G--UCUUU
+mlr4097      C--GGUCU
+mll1296      C--GCU--
+mlr5531      G--CCCUG
+mll3596      C--CGCGU
+mll7727      U--UUUCG
+mlr4143      A--AGG--
+mlr0915      C--GGUUU
+mll3670      G--CGGGC
+mlr1450      C--CUU--
+mlr1573      UCAUGACG
+mlr6791      G-ACUUUC
+mll4937      C--GGCUU
+mlr7924      G--AUCCC
+mlr2758      A--GAAGG
+mll5202      C--CGGCC
+mlr5608      U--UUUGU
+mlr3170      A--GGGCG
+mll3970      G--GCAUU
+msl0470      G--C----
+mll1168      C--CGCCU
+mll0592      C--CCAUC
+mll3878      C--GGUUU
+mlr5708      A--GAAGG
+mll8440      G--CGGCU
+mll0636      C--GGGAG
+mll0485      U--GUCUA
+#=GC SS_cons >..>>>>>
+#=GC RF      c..cccuu
+//

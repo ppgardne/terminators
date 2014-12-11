@@ -1,0 +1,750 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS DET1407 WT 0.98
+#=GS DET0817 WT 0.73
+#=GS DET0710 WT 1.07
+#=GS DET0417 WT 1.23
+#=GS DET1079 WT 1.16
+#=GS DET0356 WT 1.20
+#=GS DET0003 WT 1.05
+#=GS DET1428 WT 0.69
+#=GS DET0841 WT 0.51
+#=GS DET0904 WT 0.30
+#=GS DET0343 WT 1.16
+#=GS DET0407 WT 0.61
+#=GS DET0711 WT 1.24
+#=GS DET0271 WT 0.30
+#=GS DET0070 WT 1.20
+#=GS DET0294 WT 0.30
+#=GS DET0589 WT 1.16
+#=GS DET0367 WT 0.55
+#=GS DET0848 WT 0.87
+#=GS DET0842 WT 0.61
+#=GS DET1013 WT 0.98
+#=GS DET0736 WT 1.13
+#=GS DET1582 WT 1.07
+#=GS DET1494 WT 1.36
+#=GS DET0506 WT 0.71
+#=GS DET1240 WT 0.76
+#=GS DET0816 WT 0.73
+#=GS DET0598 WT 0.96
+#=GS DET0346 WT 1.09
+#=GS DET0636 WT 1.43
+#=GS DET1429 WT 0.69
+#=GS DET1271 WT 0.99
+#=GS DET1632 WT 0.92
+#=GS DET1236 WT 1.36
+#=GS DET0351 WT 0.90
+#=GS DET1067 WT 1.02
+#=GS DET0976 WT 0.76
+#=GS DET1043 WT 1.83
+#=GS DET0088 WT 1.20
+#=GS DET0136 WT 1.08
+#=GS DET1558 WT 1.19
+#=GS DET1209 WT 1.39
+#=GS DET1170 WT 1.55
+#=GS DET0416 WT 1.44
+#=GS DET1544 WT 1.18
+#=GS DET0368 WT 0.55
+#=GS DET1014 WT 1.55
+#=GS DET0507 WT 0.71
+#=GS DET1498 WT 0.82
+#=GS DET1536 WT 0.95
+#=GS DET1054 WT 0.93
+#=GS DET1285 WT 0.79
+#=GS DET0875 WT 1.14
+#=GS DET0236 WT 0.71
+#=GS DET0765 WT 0.94
+#=GS DET0319 WT 1.14
+#=GS DET1543 WT 0.80
+#=GS DET1035 WT 1.07
+#=GS DET1307 WT 1.11
+#=GS DET1123 WT 1.11
+#=GS DET0975 WT 0.56
+#=GS DET0004 WT 0.88
+#=GS DET0222 WT 0.94
+#=GS DET1070 WT 1.46
+#=GS DET1521 WT 1.20
+#=GS DET0567 WT 1.55
+#=GS DET0750 WT 1.23
+#=GS DET0384 WT 0.60
+#=GS DET0160 WT 1.00
+#=GS DET1499 WT 0.91
+#=GS DET1053 WT 0.98
+#=GS DET1270 WT 0.93
+#=GS DET0604 WT 0.69
+#=GS DET1633 WT 0.92
+#=GS DET1415 WT 1.44
+#=GS DET0078 WT 0.96
+#=GS DET1144 WT 1.36
+#=GS DET0023 WT 1.55
+#=GS DET0146 WT 0.93
+#=GS DET1621 WT 1.18
+#=GS DET1288 WT 0.80
+#=GS DET1100 WT 1.61
+#=GS DET0349 WT 0.64
+#=GS DET1191 WT 1.34
+#=GS DET1359 WT 0.93
+#=GS DET0849 WT 1.04
+#=GS DET0396 WT 1.27
+#=GS DET0869 WT 0.97
+#=GS DET1579 WT 1.04
+#=GS DET0322 WT 1.54
+#=GS DET1548 WT 1.46
+#=GS DET0307 WT 1.24
+#=GS DET0597 WT 0.99
+#=GS DET1212 WT 0.69
+#=GS DET0181 WT 1.10
+#=GS DET0566 WT 0.70
+#=GS DET0406 WT 0.61
+#=GS DET0391 WT 0.82
+#=GS DET1066 WT 1.02
+#=GS DET1051 WT 0.92
+#=GS DET1244 WT 1.31
+#=GS DET0440 WT 1.01
+#=GS DET0739 WT 1.24
+#=GS DET0149 WT 0.56
+#=GS DET1267 WT 0.87
+#=GS DET0303 WT 0.85
+#=GS DET0357 WT 1.20
+#=GS DET0114 WT 0.85
+#=GS DET1360 WT 0.91
+#=GS DET1317 WT 0.83
+#=GS DET0363 WT 1.51
+#=GS DET1399 WT 0.78
+#=GS DET0579 WT 1.02
+#=GS DET0098 WT 1.13
+#=GS DET0182 WT 0.98
+#=GS DET1008 WT 0.83
+#=GS DET0825 WT 1.19
+#=GS DET0104 WT 0.99
+#=GS DET0297 WT 0.94
+#=GS DET0439 WT 0.74
+#=GS DET0046 WT 0.91
+#=GS DET0120 WT 1.39
+#=GS DET1027 WT 1.46
+#=GS DET1204 WT 0.61
+#=GS DET0795 WT 0.74
+#=GS DET1295 WT 0.74
+#=GS DET0304 WT 0.85
+#=GS DET1289 WT 0.91
+#=GS DET0766 WT 0.98
+#=GS DET0565 WT 0.70
+#=GS DET0383 WT 0.60
+#=GS DET1057 WT 1.19
+#=GS DET1294 WT 1.01
+#=GS DET1377 WT 0.90
+#=GS DET1085 WT 1.54
+#=GS DET0362 WT 1.23
+#=GS DET0175 WT 1.14
+#=GS DET1007 WT 0.99
+#=GS DET1534 WT 1.27
+#=GS DET1327 WT 0.91
+#=GS DET1203 WT 0.73
+#=GS DET0745 WT 1.48
+#=GS DET1336 WT 0.95
+#=GS DET1595 WT 1.04
+#=GS DET1340 WT 1.54
+#=GS DET0661 WT 0.43
+#=GS DET0762 WT 0.83
+#=GS DET1238 WT 0.95
+#=GS DET0022 WT 0.98
+#=GS DET0695 WT 0.43
+#=GS DET0796 WT 0.74
+#=GS DET0421 WT 1.06
+#=GS DET0296 WT 0.94
+#=GS DET0956 WT 1.13
+#=GS DET1305 WT 0.96
+#=GS DET1343 WT 0.86
+#=GS DET1537 WT 0.95
+#=GS DET0768 WT 1.27
+#=GS DET1217 WT 1.04
+#=GS DET1602 WT 1.39
+#=GS DET1588 WT 0.51
+#=GS DET1527 WT 1.13
+#=GS DET1052 WT 0.84
+#=GS DET1306 WT 0.96
+#=GS DET0118 WT 0.71
+#=GS DET0221 WT 0.94
+#=GS DET0990 WT 0.79
+#=GS DET1318 WT 0.83
+#=GS DET1587 WT 0.88
+#=GS DET1275 WT 1.35
+#=GS DET1629 WT 0.62
+#=GS DET1568 WT 0.82
+#=GS DET1465 WT 1.05
+#=GS DET0599 WT 1.22
+#=GS DET1379 WT 1.21
+#=GS DET0576 WT 1.14
+#=GS DET0402 WT 1.08
+#=GS DET0148 WT 0.65
+#=GS DET0949 WT 1.35
+#=GS DET0074 WT 0.86
+#=GS DET1280 WT 1.63
+#=GS DET0225 WT 0.79
+#=GS DET0450 WT 1.52
+#=GS DET0348 WT 0.64
+
+DET1407      ACCAAA------------AA--GAG----CC--C---C--C--C-G----
+DET0817      CAUAA-------------AA--AAG----CC--C---U--C--U-G----
+DET0710      AAGAA-------------AA--ACG----CC--C---C--U--U-C----
+DET0417      AAAAAC------------AC--AGA----CU--C---ACAC--U-U----
+DET1079      AACACU----------------GAG----CG--G---G--A-A-------
+DET0356      UUUUA-------------AG--AGG----UG--C---A--G--G-C----
+DET0003      AAAAA--------------U--AAG----GG--G---C--G--U-C----
+DET1428      AACAAG------------AA--GGG----CG--G---G--A--C-U----
+DET0841      AAUAA-------------AA--AAG----GG--G---C------------
+DET0904      UAGAA-------------AG--AGG----CC--G---G--G--U-A----
+DET0343      GUUAUUG---------CUGC--AGG----GC--U---G--C--G-G----
+DET0407      UACAA-----------------AAG----GG--G---G--C--A-G----
+DET0711      AAAGA-------------AA--AAC----GC--C---C--C--C-U----
+DET0271      UAGAA-------------AG--AGG----CC--G---G--G--U-A----
+DET0070      UCUAAGAG--------AGCC--UUG----CG--G---G--A---------
+DET0294      UAGAA-------------AG--AGG----CC--G---G--G--U-A----
+DET0589      ACUUU--------------G--ACG----GC--U---U--C--G-G----
+DET0367      AAAAA-------------AU--CAG----GG--G---G--G--C-U----
+DET0848      AAUUA-------------GA--AGG----CC--U---G--C--U-U----
+DET0842      AAUAA-------------AA--AAG----GG--G---C------------
+DET1013      AAUAG-------------AA--AGCUACCCG--G---C--U--C-CC---
+DET0736      AAUAAC------------AA--GAG----GG--G---G--A--G-U----
+DET1582      AAUGAG------------AU--AUG----CC--C---G--U--U-C----
+DET1494      AUUAUG------------GC--UGG----CC--G---G--G--G-U----
+DET0506      ACAAAAG---------CCAA--AGG----CC--G---G--A--A-C----
+DET1240      UAUAAAC----------UAA--AGG----CG--G---C--U--U-U----
+DET0816      UAUAA-------------AA--AAA----CC--C---U--C--U-G----
+DET0598      UAAAAUCA--------UA----AAG----GG--G---A--G--G-U----
+DET0346      AUUAA-------------AA--CAC----CU-CU---C--C--U-G----
+DET0636      UGAAA-------------GA--GAG----UG--G---C--A--G-G----
+DET1429      UAGAA-------------AA--GGG----CG--G---G--A--C-U----
+DET1271      UAAAA--------------A--GGG----CA--G---A--C--C-A----
+DET1632      AAGAAG-----------U-A--GUG----GC--U---G--C---------
+DET1236      GCUGACC---------UG----AGC----CCUUGC-CG--G--G-G----
+DET0351      UCUUA-------------AG--AAG----CC--C---U--C--U-C----
+DET1067      AAAAAG-----------AGC--AAG----CA--U---C-AC--A-G----
+DET0976      AAUACC------------GA--AGG----GG--G---C--U---------
+DET1043      AUUGG-------------CA--UAC----UC--C---G--G--G-U----
+DET0088      ACUAAC------------UU--UGG----CA--G---G--G--G-C----
+DET0136      UUUAU--------------A--AAC----CA--G---C--U--C-U----
+DET1558      UAUUC-----------------AAG----CG--G---G--G--G-A----
+DET1209      GCAAUC-----------C-G--GCG----GG--U---A--C--A-G----
+DET1170      AAUAAAUCAA---GCUGUUG--GGC----GG--U---G--C--A-G----
+DET0416      AUUAAA-----------U-C--AGA----CU--C---A--U--G-C----
+DET1544      ACUAA-------------AA--GUG----CC--C---G--G--A-C----
+DET0368      AAAAA-------------AU--CAG----GG--G---G--G--C-U----
+DET1014      UCUGA-------------GU--GUC----CC--A---C--C--C-C----
+DET0507      AAUAA-------------AA--AGG----CC--G---G--A--A-C----
+DET1498      AAUAA-------------AA--CAG----CC--U---C------------
+DET1536      UAGAA-----------------CGG----GG--G---A--G--G-C----
+DET1054      AAAAA-------------AG--AGC----CG--U---A--C--U-U----
+DET1285      ACUAA-------------AA--AGC----CC--G---G--U--G-CC---
+DET0875      GAUAUU----------------GGG----GA--A---G--C--C-A----
+DET0236      GAUACCC---------UGAA--AAG----GG-GG---G--C-G-------
+DET0765      AAUAAU------------AA--AGC----CC--C---C--G--G-U----
+DET0319      UAUAACUUUUUGGAGAGUCA--GAG----GG--U---A--C--A-U----
+DET1543      UCUAA-------------AA--CGG----GG-GGC-UG--G--G-U----
+DET1035      UUCAC-------------AA--GGG----AG--G---G--G-C-------
+DET1307      AAGAA-----------------AGC----GG--C---G--G--G-U----
+DET1123      AAUAAAUU-------GGCGC--AGG----GU--C---U--G--G-U----
+DET0975      UAUAAA----------------AAG----GG--G---G--C--U------
+DET0004      GAAAACA---------GCUA--AGG----GG--C---G--U--C------
+DET0222      GAAAA-------------AG--AGC----GG-AC---A--C--C-U----
+DET1070      GCUAU-------------GC--CUG----CG-AG---U--G--U-U----
+DET1521      UUUAAACU--------CGUA-UAAG----CG--G---G--A--G-G----
+DET0567      CCUAUC------------UA--AGG----UC--A---A--C--C-C----
+DET0750      AUUAUU----------------AAC----CG--C---U--G--C-U----
+DET0384      UAAAAC------------AA--AAA----GC--C---G--G--U------
+DET0160      AACAACCG--------CCAA--CGG----CG--G---G--G--U-A----
+DET1499      ACAAA-------------AA--CAG----CC--U---C------------
+DET1053      AAUAAACCUGU-AUGCCAAG--AGC----CG--U---A--C--U-U----
+DET1270      UUUAAGUU--------GCAAUCAGG----GC-AG---A--C--C-A----
+DET0604      CUUGA-------------AA--AGA----GG--G---G--C---------
+DET1633      AAAAAGA----------G-A--GUG----GC--U---G--C---------
+DET1415      UUUAA-------------CA--CCG---CCC--G---A--A--GUU----
+DET0078      AAUGUU------------GA--AAG----GG--G---A--G--U-U----
+DET1144      AAUAUUUU--------GGUC--UUG----CC--G---C------------
+DET0023      UAUUA-------------UA-UGGC----AG--G---G--U--G-A----
+DET0146      GAUAA-------------------G----CG--U---A--C--C------
+DET1621      GCUAA-------------ACUCAGA----CC--G---G--U--A-UAG--
+DET1288      UCUAA-------------------G----GG--G---G--C--U------
+DET1100      UCAAAU-----------C----AGG----CG--U---U--C--A-U----
+DET0349      ACUAA-------------AA--AGG----GA--G---A--C--U-U----
+DET1191      GCUGAU-----------U-C--GGA----GC--C---G--C--U-U----
+DET1359      AAAAACAG-------AUU-A--AGG----GC--G---G--U-C-------
+DET0849      UAUAA-------------AG--AAG----GC--C---U--G--C-U----
+DET0396      AUUGAU------------AC--AGC----CA-CC---C--C--G-G----
+DET0869      UAUAAU------------AA--AAC----CC--C---G--G-U-------
+DET1579      AAUAA-------------AA--AUC----AG-AC---A--G--C-U----
+DET0322      UUUCA-------------AU--CCA----CG--C---A--C--C-C----
+DET1548      AAAAAG------------A-----G----GG--C---C--C--C-G----
+DET0307      AUUAAUC---------AGUA--GGG----GC--U---A--G--G-G----
+DET0597      AACAA-------------AG--AAG----GG--G---A--G--G-U----
+DET1212      UUUUC--------------A--AGG----GG--G---G--C---------
+DET0181      ACUACG-----------GAA--AGG----CA--GG-GG--G--C-U----
+DET0566      AACAA-------------AA--AGC----CC--C---U--C---------
+DET0406      UACAA-------------AACCAGG----GG--G---G--C--A-G----
+DET0391      AAUAAUC----------AAA--AAG----CC--A---C--C-C-------
+DET1066      GCAAA--------------C--AAG----CA--U---C-UC--A-G----
+DET1051      AAUAAA------------AA--AGC----CG--C--U-CAC--A-G----
+DET1244      GUUAC-----------------GGG----GC--UG-UA--C--U-U----
+DET0440      ACCAAA-----------UAA--AAG----CC--C---U--G--A-U----
+DET0739      UACUA-------------AU--AAC----GA--C--CC--G--C-U----
+DET0149      ACAAA-----------------AAG----GG--G---G--C--U------
+DET1267      UAUUAGGC--------UUGA--AGC----CC--U---C--C--U------
+DET0303      UAUAUUC---------GUAA--GGG----GA--G---A--A--A-C----
+DET0357      AAUAA-------------AG--AGG----UG--C---A--A--G-C----
+DET0114      UAAAACA----------UAA--AGC----CG--C---U--C--U-G----
+DET1360      AUUAAU------------AA--AGG----UC--U---G--C-C-------
+DET1317      UAUAAAU---------UAUG--AAG----CC--C---G--C--U-U----
+DET0363      GUUAUCC---------GC----AGG----CA--C---G--A--A-A----
+DET1399      UUUAAA-----------UAA--AGG----CC--G--GG--A--A-U----
+DET0579      UAUAG--------------AUUAGC----CC--U---G--C--U-CA---
+DET0098      GUUAC-------------AC--GGG----GG--G---C--G--G-U----
+DET0182      AAAAAG------------AA--AGG----CA--GA-AG--G--C-C----
+DET1008      UCUAAGG----------GAG--UGG----CC--G---G--C--A-CA---
+DET0825      AUUUA-------------------G----CG--G---C--G--G-G----
+DET0104      GAUAA-------------AA--GGG----CA--G---A--C--C-U----
+DET0297      ACUAGC------------UA--AAG----GC--C---G--G-C-------
+DET0439      AUUAAA------------AA--AGC----CC--U---G--A-C-------
+DET0046      UUGAAC------------AA--AGG----CC--U---U--C---------
+DET0120      GAUAAC----------------CGG----CG--U---U--U--A-AA---
+DET1027      UUUAA-----------------GUC----CA--G---C--G--U-U----
+DET1204      GUUAA-------------AA--AAG----GG--G---C--U---------
+DET0795      AAUAAAA---------CUAA--AGG----CC--G---G--GAA-------
+DET1295      AAUAA-------------AA--AGC----CC--U---G--C--U-U----
+DET0304      AAUAA-------------AA--GGG----GA--G---A--A--A-C----
+DET1289      UUUAA-----------------AAG----GG--G---G--G--C-U----
+DET0766      AAAAUC------------AA--AAG----CC--C---C--C--G-G----
+DET0565      UACAAU-----------AAA--AGC----CC--C---U--C---------
+DET0383      AAUAA-------------AA--AAA----GC--C---G--G--U------
+DET1057      AAGAU-------------GG--GGG----CA--G---G--C-C-------
+DET1294      UCUAA-------------AA-GAAG----AC--C---A--G--C-C----
+DET1377      UCUAAAGACC---UGCUU----AAG----CC--C---U--C--U-U----
+DET1085      UGUAAC-----------CAG--CCG----UC--C---G--C--A-G----
+DET0362      AAUAAC------------AA--AAC----CA--C--CC--C--U-U----
+DET0175      UGUAUCU---------GGAA--GGG----GA--G---G--G--G-G----
+DET1007      AAUAA-------------AA--AGG----CC--G---G--C--A-CACCG
+DET1534      UUGAACU----------GGA--AGC----GG--G---G--GAC-------
+DET1327      GAUAAU------------AA--AAG----GA--G---C--G--G-U----
+DET1203      GAUAAA-----------UAA--AAA----GG--G---G--C--U------
+DET0745      UAUAAC-----------CCG--AAG----CC--G--UU--C-G-------
+DET1336      UCAAAG------------AA-CAGG----GC--G---G--C--U-G----
+DET1595      UUUAA-------------AU--GAG----GA--C---U--A--U-UGA--
+DET1340      UUUAUCAGCC----UGUUUG--CCC----CC--U---G-CG--U-A----
+DET0661      UAUAAA-----------CAA--AAG----CC--C---C--C--G-U----
+DET0762      AAUAA-------------AA--AAG----CC--C---U--C--U-U----
+DET1238      ACUAA-------------AA--GGG----GC--G---G--C-U-------
+DET0022      AAAAA-------------AA-UAGG----CA--G---G--G-CG-A----
+DET0695      UAUAAA-----------CAA--AAG----CC--C---C--C--G-U----
+DET0796      AAUAAC------------AA--AGG----CC--G---G--G-U-------
+DET0421      UUUAAUC---------ACAA--AUG----CC--CUCUG--C--C-GGG--
+DET0296      AAUAA-------------UA--AAG----GC--C---G--G-U-------
+DET0956      AAAAA-----------------GGG----GG--G---C--A--G-U----
+DET1305      UAUAAA------------AG--AGG----CG--G---C--A--G-U----
+DET1343      UAUAA-------------AA-UAAG----CC--C---C--G--C-U----
+DET1537      UAUUAGG---------CG-----GG----GG--G---A--G--G-C----
+DET0768      ACUGA------------------GC----CA--G---A--C-U-------
+DET1217      AAUAAGAAAC---UUACUGA--AAG----CG--G---C--U---------
+DET1602      AUUAAC------------------C----CC--U---U--U-UA-U----
+DET1588      UAUAAC-----------AAA--AAG----GG--G---C--G-G-------
+DET1527      AGUGU-----------------GGG----GG--G---C--U--G-G----
+DET1052      GAAAACA----------CAA--AGC----CG--CC-UC--C--A-G----
+DET1306      ACCUA-------------AG--AGG---GCG--G---C--A--G-U----
+DET0118      AAUAA-------------AA--CGG----GG--G---G--C---------
+DET0221      UAUAAG------------AA--AGC----GG-GC---A--C--C-C----
+DET0990      AAAAAC------------AA--AGG----GC--G---G--G--G-U----
+DET1318      AACAAG------------UA--AAG----CC--C---G--C--C-U----
+DET1587      AAUAUU------------AA--AGG----GG--C---G------------
+DET1275      UCCAAG------------------G----GU--C---A--G--C-A----
+DET1629      AAUAA-------------AA--AAG----GG--G---G--C--U-U----
+DET1568      UUUAAUCUC------UUUUA-GAGG----GC--G---G--C---------
+DET1465      UUUAAUAG--------CCAA--ACG----GC--G---G------------
+DET0599      AAUAAA------------GC--AAG----GC--U---A--C-CG-C----
+DET1379      GUCAA-------------AA--AUG----GG--C---G--G-GG-C----
+DET0576      UCAAC-----------------------------------C--C-U----
+DET0402      AUUAC--------------A--AAC----AG--G---C--C--U-U----
+DET0148      AAAAAC-----------U-A--AAG----GG--G---G--C--U------
+DET0949      UCAAA-----------------UUG----CC--C---U--C--A-A----
+DET0074      UAUAA-------------AA--AA----------------G-A-------
+DET1280      UUUAAGG----------AAC--CCC----UG-UCU-UG--G--C-C----
+DET0225      AAAAACC----------A----AGG----GG--G--AG--G--C-U----
+DET0450      AAUAAA------------AG-UGCG----GC--U---A--G--U-C----
+DET0348      AAUAUA------------AA--AGG----GA--G---A--C--U-U----
+#=GC SS_cons ::::::............<<..<<<....<<..<...<..<..<.<....
+#=GC RF      aAUAAc............AA..AgG....Cc..g...g..c..u.u....
+
+DET1407      ----GAAA---------------------C-G---G--G--G-GG--CUC
+DET0817      ----UCUC---------------------C-A---G--A--G-GG--UUU
+DET0710      ----GUAAC-------------------AG-A---G--G--G-GG--CGU
+DET0417      ----GUAAGAAAC----------CCUUGCA-A---GCAU--G-AG--UCU
+DET1079      ----AUGA------------------------CGAC--C--C-CG--CUC
+DET0356      ----UGGUUU----------------UUGG-C---U--U--G-CA--CCU
+DET0003      ----UUAA---------------------G-A---C--G--C-CC--CUU
+DET1428      ----UUAA---------------------A-G---U--C--C-CG--CCC
+DET0841      ----UUUU-----------------------------CG--C-CC--CUU
+DET0904      ----A-AA---------------------U-A---C--C--C-GG--UCU
+DET0343      ----UCAUU------------------GAC-C---G--C--A-GC--CCU
+DET0407      ----AUAU---------------------C-U---G--C--C-CC--CCU
+DET0711      ----CUGUUA-----------------CGA-A---G--G--G-GC--GUU
+DET0271      ----A-AA---------------------U-A---C--C--C-GG--UCU
+DET0070      ----GCAA---------------------------U--C--C-CG--CAG
+DET0294      ----A-AA---------------------U-A---C--C--C-GG--UCU
+DET0589      ----AAAU--------------------UC-C---G--A--A-GC--CGU
+DET0367      ----AUU----------------------A-G---C--C--C-CC--CUG
+DET0848      ----UUA----------------------G-A---G--C--A-GG--CCU
+DET0842      ----GAAA-----------------------------AG--C-CC--CUU
+DET1013      ---CCCAA--------------------AG-G---A--G--C-CG--GUU
+DET0736      ----UUUC---------------------A-C---U--C--C-CC--CUC
+DET1582      ----CUCAGA-----------------CAG-A---A--C--G-GG--CAU
+DET1494      ----UUUUA-------------------UA-U---C--C--C-GG--UCA
+DET0506      ----UUCAA-------------------GG-U---U--C--C-GG--CCU
+DET1240      ----UAAA---------------------A-G---A--G--C-CG--CCU
+DET0816      ----GAGA---------------------C-A---G--A--G-GG--CUU
+DET0598      ----GAAA---------------------A-C---C--U--C-CC--CUU
+DET0346      ----CCCAAC----------------AAAC-A---G--G--AUAG--GUG
+DET0636      ----UUGAACUC------------CCUCCC-C---U--G--C-CA--CUC
+DET1429      ----UUAA---------------------A-G---U--C--C-CG--CCC
+DET1271      ----UUUA---------------------U-G---G--U--C-UG--CCC
+DET1632      ----UUAA--------------------------GG--C--A-GC--CAC
+DET1236      ----AUAA--------------------UC-U---C--C-ACCGG--GCU
+DET0351      ---CCUGAA------------------AAG-A---G--A--G-GG--CUU
+DET1067      ---ACUUAUU-----------------AUC-U---G-AG--A-UG--CUU
+DET0976      ----UUUA---------------------------A--G--C-CC--CCU
+DET1043      ----UGAUUA----------------UAUA-U---C--C--G-GA--GUA
+DET0088      ----UUACAG----------------UAAG-C---C--C--C-UG--CCA
+DET0136      ----AUC----------------------A-G---G--G--C-UG--GUU
+DET1558      ----GUAGU-------------------UU-C---C--C--C-CG--CUU
+DET1209      ----UUUCG-------------------GC-U---G--U--A-CC--CGC
+DET1170      ----CUUAU------------------UAC-U---G--C--A-CU--GCC
+DET0416      ----UUGCAAGGGUU------UCUUACAAG-U---G--U--G-AG--UCU
+DET1544      ----CUGAA------------------AAG-U---U--C--G-GG--CAC
+DET0368      ----A-AU---------------------A-G---C--C--C-CC--CUG
+DET1014      ----UUUG---------------------G-G---G--G--U-GG--GAU
+DET0507      ---CUUGA--------------------AG-U---U--C--C-GG--CCU
+DET1498      ----CGAA-----------------------------AG--A-GG--CUG
+DET1536      ----UUAA---------------------G-C---C--U--C-CC--CCC
+DET1054      ----UCAA---------------------A-A---G--U--A-CG--GCU
+DET1285      --CUUUAAA------------------GCG-U---G--C--C-GG--GCU
+DET0875      ----UUA----------------------U-G---G--C--U-UC--CCC
+DET0236      ----GCAA--------------------------UG--C--CUCC--CUU
+DET0765      ----UUUUC-------------------GG-C---C--G--G-GG--GCU
+DET0319      ----CUAA--------------------GA-U---G--U--A-CC--CUC
+DET1543      ----UUAA--------------------AA-C---C--C-GCUCC--CCG
+DET1035      ----AAAA------------------------A-AC--C--C-CU--CCC
+DET1307      ----CUAU--------------------AG-C---C--C--G-CC--GCU
+DET1123      ----AAAUGGGUUACA----AUAGCCUAUA-C---C--A--G-AC--CCU
+DET0975      ----UAAA-----------------------A---G--C--C-CC--CUU
+DET0004      ----UUAA-----------------------G---A--C--G-CC--CCU
+DET0222      ----CUCA--------------------GG-G---G--U--GCCC--GCU
+DET1070      ----CUUCG-------------------GA-A---U--A--CCCG--CAG
+DET1521      ----GCAAA-------------------AC-C---U--C--C-CG--CUU
+DET0567      ----CUCCCCCGGCCCGGUGCCGCGGUUCG-G---G--U--U-GA--CCU
+DET0750      ----CUCA---------------------G-G---C--A--G-CG--GUU
+DET0384      ----UUAA-----------------------A---C--C--G-GC--UUU
+DET0160      ----GAAA---------------------U-A---C--C--C-CG--CCG
+DET1499      ----UUUC-----------------------------GG--A-GG--CUG
+DET1053      ----UUGA---------------------A-A---G--U--A-CG--GCU
+DET1270      ----UAAA---------------------U-G---G--U--CUGC--CCU
+DET0604      ----GUAA--------------------------CG--C--C-CC--UCU
+DET1633      ----CUUA--------------------------AG--C--A-GC--CAC
+DET1415      ----UUAU---------------------ACC---U--U--C-GG--CGG
+DET0078      ----GUUA---------------------A-A---C--U--C-CC--CUU
+DET1144      ----UUGC-----------------------------GG--C-GG--UAA
+DET0023      ----ACGU---------------------U-C---G--C--C-CU--GCC
+DET0146      ----UGAA-----------------------G---G--U--A-CG-AC--
+DET1621      --AGGCAAGA----------------CCUA-U---G--C--C-GG--UCU
+DET1288      ----UUAA-----------------------A---G--C--C-CC--C--
+DET1100      ----CUCCAGUGGAA-------AUUAGAGG-U---G--G--A-CG--CCU
+DET0349      ----UUAA---------------------A-A---G--U--C-UC--CCU
+DET1191      ----UUUA--------------------AA-A---G--C--G-GC--UCC
+DET1359      ----UAAA------------------------CUAA--C--C-GC--CCU
+DET0849      ----CUAA--------------------AA-G---C--A--G-GC--CUU
+DET0396      ----ACA----------------------C-C---G--G--GCUG--GCU
+DET0869      ----CACA--------------------------GC--C--G-GG--GUU
+DET1579      ----GUUAUA-----------------AAG-G---C--U--GUCU--GAU
+DET0322      ----GCAU---------------------G-G---G--U--G-CGAUUGG
+DET1548      ----UAAAAG----------------AUUC-G---G--G--G-CC--CAA
+DET0307      ----UUGAGAA--------------AUCAC-C---C--U--AUGC--CCC
+DET0597      ----UUUC---------------------A-C---C--U--C-CC--CUU
+DET1212      ----GAAA---------------------------G--C--C-CC--UCU
+DET0181      ----GUAU---------------------G-G---C--CUUC-UG--CCU
+DET0566      ----GUUA---------------------------G--A--G-GG--GCU
+DET0406      ----AUAU---------------------C-U---G--C--C-CC--CUU
+DET0391      ----CUAA------------------------AAAG--G--U-GG--CUU
+DET1066      ----AUAAUA----------------AGUC-U---G-UG--A-UG--CUU
+DET1051      ----CUUA--------------------AC-U---GGA--GG-CG--GCU
+DET1244      ----GGAU---------------------A-G---G--U-CA-GC--CCC
+DET0440      ----UUAA---------------------G-U---C--A--G-GG--CUU
+DET0739      ----UCGGCACAAAAA----GAAUCCCGGA-G---U--G-AG-UC--GUU
+DET0149      ----AAAA-----------------------A---G--C--C-CC--CUU
+DET1267      ----UAAA-----------------------A---G--G--A-GG--GCU
+DET0303      ----CGCC--------------------GG-U---U--U--C-UC--CCC
+DET0357      ----CAAAAA----------------CCAG-C---C--U--G-CA--CCU
+DET0114      ----UCCAG------------------AAC-A---G--A--G-CG--GCU
+DET1360      ----CUAA--------------------------AG--C--A-GA--CCU
+DET1317      ----UUAA---------------------A-G---G--C--G-GG--CUU
+DET0363      ----GUAGU------------------ACU-U---C--C--G-UG--CCU
+DET1399      ----UUG----------------------A-U---U--CUGC-GG--CCU
+DET0579      --GGCUGUCCA--------------GCCAG-A---G--C--A-GG--GCU
+DET0098      ----CUGU---------------------A-C---C--G--C-CC--CCC
+DET0182      ----AUAC--------------------AG-C---C--C-CC-UG--CCU
+DET1008      --GUUUGAAGGGAAAUU--AAGCCCCGGUG-U---G--C--C-GG--CCU
+DET0825      ----GAAA---------------------C-C---C--G--C-CG--C--
+DET0104      ----AAGA---------------------A-G---G--U--C-UG--CCC
+DET0297      ----UUUG--------------------------AC--C--G-GC--CUU
+DET0439      ----UUAA--------------------------AU--C--A-GG--GCU
+DET0046      ------AC---------------------------G--G--A-GG--CCU
+DET0120      ---GGUUUUU-----------------CUU-U---A--A--A-CG--CCC
+DET1027      ----CCAGU------------------UCA-A---C--G--C-UG--GAC
+DET1204      ----UUAA---------------------------A--G--C-CC--CUU
+DET0795      ----UUAA--------------------------AC--C--C-GG--CCU
+DET1295      ----UUAA---------------------A-A---G--C--A-GG--GCU
+DET0304      ----CGGC--------------------GG-U---U--U--C-UC--CCC
+DET1289      ----UUAA---------------------A-G---C--C--C-CC--UUA
+DET0766      ----CCGAAA-----------------AAC-C---G--G--G-GG--CUU
+DET0565      ----UAAC---------------------------G--A--G-GG--GCU
+DET0383      ----UUAA-----------------------A---C--C--G-GC--UUU
+DET1057      ----CUAA------------------------A-AG--C--C-UG--CCC
+DET1294      ----UCA----------------------G-G---C--U--G-GU--CUU
+DET1377      ----CAGAC-------------------GA-A---G--A--G-GG--CUU
+DET1085      ----GGAUCACC-------------CUCUC-U---G--C--G-GG--CGG
+DET0362      ----A-AA---------------------A-A---G--G-AG-UG--AUU
+DET0175      ----UUAA---------------------C-C---C--C--C-UC--CCC
+DET1007      GGGCUUAAUUUCCCU-------UCAAACUG-U---G--C--C-GG--CCA
+DET1534      ----UUGU--------------------------UC--C--C-CC--GCU
+DET1327      ---ACUAAA-------------------AG-C---C--G--C-UC--CUU
+DET1203      ----UUAA-----------------------A---G--C--C-CC--UUU
+DET0745      ----GAAA------------------------UCAG--A-CC-GG--CAU
+DET1336      ----GCAA--------------------AC-A---G--C--C-GC--CUU
+DET1595      --CCAUAAAU-----------------CAA-G---C--A--G-UC--CUC
+DET1340      ----CAUA--------------------AU-A---C-UC--A-GG--GGG
+DET0661      ----CUUU--------------------AG-C---G--G--G-GG--UUU
+DET0762      ----UUAA---------------------A-A---G--A--G-GG--CUU
+DET1238      ----GUGA--------------------------UG--C--C-GC--CCU
+DET0022      ----ACGU---------------------U-C--AC--C--C-UG--CCA
+DET0695      ----CUUU--------------------AG-C---G--G--G-GG--UUU
+DET0796      ----UUAA------------------------U-UC--C--C-GG--CCU
+DET0421      -CGGUUUUCAGAUGCA----AAUAACUCCC-G---G--C-CG-GG--CAU
+DET0296      ----CAAA--------------------------GC--C--G-GC--CUU
+DET0956      ----UUUUU-------------------UA-C---U--G--C-CC--CAC
+DET1305      ----ACGU---------------------A-C---U--G--C-CG-CCCU
+DET1343      ----UUU----------------------G-G---C--G--G-GG--CUU
+DET1537      ----UUAA---------------------G-C---C--U--C-CC--CC-
+DET0768      ----UCAC--------------------------CG--U--C-UG--GC-
+DET1217      ----GCAA---------------------------G--G--C-CG--CUU
+DET1602      ----AUGU---------------------A-U--AG--A--A-GG--G--
+DET1588      ----UUUU--------------------------AC--G--C-CC--CUU
+DET1527      ----GUU----------------------C-C---A--G--C-CC--CCC
+DET1052      ----UUAA--------------------GC-U---G-UG-AG-CG--GCU
+DET1306      ----ACGU---------------------A-C---U--G--C-CG--CCU
+DET0118      ----UAAA--------------------------AG--C--C-CC--CUU
+DET0221      ----CUGA---------------------GAG---G--U--GUCC--GCU
+DET0990      ----UUAA---------------------A-U---C--C--C-GC--CCU
+DET1318      ----UUAA---------------------A-A---G--C--G-GG--CUU
+DET1587      ----UAAA----------------------------ACC--G-CC--CCU
+DET1275      ----GUAAUU-----------------UCU-G---U--U--G-GC--C--
+DET1629      ----U-AA---------------------A-A---G--C--C-CC--CUU
+DET1568      ----CAAA--------------------------AG--C--C-GC--CCU
+DET1465      ----UAAA----------------------------CCC--C-GC--CGU
+DET0599      ----UUAAG------------------UUG-CU-GG--U--A-GC--CUU
+DET1379      ----UCAA--------------------AG-CU-AC--C--G-CC--CAU
+DET0576      ----CUAAA-------------------CA-G---G--------------
+DET0402      ----AUGC---------------------A-A---G--G--C-CU--GUU
+DET0148      ----UUUU-----------------------A---G--C--C-CC--CUU
+DET0949      ----GUAAC-------------------UU-U---G--G--G-GG--CAA
+DET0074      ----UUGA------------------------G-CC------------UU
+DET1280      ----AUGC---------------------G-G---C--C-GGGCA--GGG
+DET0225      ----UUAA---------------------A-A---C--CGUC-CC--CCU
+DET0450      ----UUAUGGGUAUUG-----UACCCUCAG-G---C-UU--A-GC--UGC
+DET0348      ----UUAA---------------------A-A---G--U--C-UC--CCU
+#=GC SS_cons ....____.....................>.>...>..>..>.>>..>>>
+#=GC RF      ....uUAA.....................a.a...g..c..c.gG..CcU
+
+DET1407      UU------------CUAUU
+DET0817      UU------------UUAUA
+DET0710      UU------------UUCUU
+DET0417      GA------------UUUAA
+DET1079      -------------UUUUUA
+DET0356      CU------------UUAUU
+DET0003      A-G---------CUGUUUU
+DET1428      UU------------UUCUA
+DET0841      UU------------UUAUU
+DET0904      CU------------UUGUU
+DET0343      GU------------UUCUU
+DET0407      -------------GGUUUU
+DET0711      UU------------UCUUU
+DET0271      CU------------UUGUU
+DET0070      GG-----------------
+DET0294      CU------------UUGUU
+DET0589      U-U----------UUUAUU
+DET0367      AU------------UUUUU
+DET0848      UC------------UUUAU
+DET0842      UU------------UUAUU
+DET1013      UU------------UUAUU
+DET0736      UU-----------UGCUUU
+DET1582      AU------------UUUUA
+DET1494      GCC----------UUUAUU
+DET0506      UU------------UUAUU
+DET1240      UU------------UUAUU
+DET0816      UU------------UUAUG
+DET0598      --C----------UUUGUU
+DET0346      UU------------UUUUU
+DET0636      UC-------------UAGA
+DET1429      UU-----------CUUGUU
+DET1271      U-G----------AUUGCA
+DET1632      U-C---------UCUUUUU
+DET1236      -------------GAUUUU
+DET0351      CU------------UCUUU
+DET1067      GU------------UUGCU
+DET0976      UU------------UUAUA
+DET1043      UG-----------GUUACA
+DET0088      AA-----------------
+DET0136      U-U----------UUUAUU
+DET1558      --A----------UUUAAU
+DET1209      U------------CUCUUU
+DET1170      CA------------GCAUA
+DET0416      G-U----------GUUUUU
+DET1544      UG------------GUAUU
+DET0368      AU------------UUUUU
+DET1014      AU------------UUGUU
+DET0507      UUG----------GCUUUU
+DET1498      UU------------UUUGU
+DET1536      --G----------CCUAAU
+DET1054      CUUGGCAUACAGGUUUAUU
+DET1285      UU-------------UUUU
+DET0875      --U----------UUCAUU
+DET0236      UUCA-------GGUGUGUU
+DET0765      UU-------------UGAU
+DET0319      UGCA--------ACUUAUA
+DET1543      UU------------UUUAU
+DET1035      UU------------UAGUU
+DET1307      --A----------AUUUUU
+DET1123      GU------------UUUUU
+DET0975      --C----------GGUAUU
+DET0004      UA------------UUUUU
+DET0222      UU-----------CUUAUA
+DET1070      GU------------UUUUU
+DET1521      UA------------UUUGU
+DET0567      UA------------UUAAU
+DET0750      --UUUC----CAUUUUAUU
+DET0384      UU------------UUAUU
+DET0160      UUU---------GCUUUUA
+DET1499      UU------------UUAUU
+DET1053      CU------------UUUUU
+DET1270      UU------------UUAGU
+DET0604      UU------------UUAUU
+DET1633      U-A----------CUUCUU
+DET1415      UG------------UUUUU
+DET0078      UU------------UUCUU
+DET1144      GAC----------CUUAAU
+DET0023      UA------------UUUUU
+DET0146      ---------------UAUU
+DET1621      UU------------GCGUU
+DET1288      -------------CUUUUA
+DET1100      ---------------UUUA
+DET0349      UU-------------UAUA
+DET1191      G-G----------CUUUUU
+DET1359      U------------UUUGUU
+DET0849      CU-------------AAUU
+DET0396      GUC----------CUUAAA
+DET0869      UU------------UCUCU
+DET1579      UUG----------GUUUUU
+DET0322      AU------------UUCCU
+DET1548      AU------------GUAUU
+DET0307      UG------------UUUUA
+DET0597      UAU---------GAUUUUA
+DET1212      U------------UUUAUU
+DET0181      UU-----------CUUUUU
+DET0566      UU-------------UAUU
+DET0406      UU------------GUAUU
+DET0391      UU------------UUGUU
+DET1066      G-C---------UCUUUUU
+DET1051      UU------------GUGUU
+DET1244      -------------GUUAAU
+DET0440      UU------------UUAAU
+DET0739      AU------------UUAUU
+DET0149      ---------------UAGU
+DET1267      UU------------UUUAU
+DET0303      UU------------UUAUU
+DET0357      CU-------------UAAA
+DET0114      UU------------UUUAU
+DET1360      UU-----------AUUAUA
+DET1317      UA-----------CUUGUU
+DET0363      -------------UUUGUU
+DET1399      UU-----------------
+DET0579      U-UGG-----GUUCUUUUU
+DET0098      UUAAA------CUUCUGUU
+DET0182      UUC----------CGUAGU
+DET1008      UU------------UUAUU
+DET0825      --A----------AUUACA
+DET0104      UU------------UUUUU
+DET0297      UA------------UUAUU
+DET0439      UU-------------UAUU
+DET0046      UU-----------------
+DET0120      --AA--------UCUCUUU
+DET1027      -------------GUUUUU
+DET1204      UU-------------UAUU
+DET0795      UU-----------GUUAUU
+DET1295      UU------------GUUUA
+DET0304      UUACG------AAUAUAUU
+DET1289      --G----------AUUAUA
+DET0766      UA------------UUAUU
+DET0565      UU------------UUGUU
+DET0383      UU------------GUUUU
+DET1057      CUU----------GCCGUU
+DET1294      UU------------UCUUU
+DET1377      --UU-------UUCUUUUU
+DET1085      UU------------UCAUU
+DET0362      UA------------CUAAU
+DET0175      UUU----------GGUAUU
+DET1007      CU------------CCCUU
+DET1534      UU------------UUAUU
+DET1327      UU-------------UGUU
+DET1203      UUU----------AACAUU
+DET0745      CG------------GUUAU
+DET1336      UU------------GCUUA
+DET1595      AU------------UUUUU
+DET1340      CA------------UUUUU
+DET0661      UU-----------CAUAUU
+DET0762      UC------------GUUUA
+DET1238      UU------------UCUAU
+DET0022      UA-------------UAAU
+DET0695      UU-----------CAUAUU
+DET0796      UUAG--------UUUUAUU
+DET0421      UA------------UUUUU
+DET0296      UA-----------GCUAGU
+DET0956      --A---------AUUUAAU
+DET1305      CU------------UAGGU
+DET1343      UA------------GUUUU
+DET1537      -------------GUUCUA
+DET0768      -------------CUUUUU
+DET1217      UC------------UUCUA
+DET1602      --A----------UUUGUU
+DET1588      UA------------AUAUU
+DET1527      --AAA------AAAUUGUU
+DET1052      UU-----------UUUAUU
+DET1306      CU------------UUUAU
+DET0118      UU------------GUAUU
+DET0221      CU-------------UUUU
+DET0990      UC------------UUUAU
+DET1318      CA------------UAAUU
+DET1587      UU------------UUGUU
+DET1275      -------------GGUUUU
+DET1629      UA-------------UGUU
+DET1568      UA------------UUAUU
+DET1465      UU------------CUUUU
+DET0599      GC------------UUAUU
+DET1379      UU------------GUAUU
+DET0576      -------------CUUAUU
+DET0402      U-U----------AUUUUU
+DET0148      U-U----------UGUAUU
+DET0949      --A---------CGCUUUU
+DET0074      UU------------UCGUU
+DET1280      GU-----------------
+DET0225      -------------AUUUUU
+DET0450      CU------------GAAUU
+DET0348      UU------------UUAGU
+#=GC SS_cons >>............:::::
+#=GC RF      UU............UUaUU
+//

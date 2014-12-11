@@ -1,0 +1,1977 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS DR_2251 WT 1.17
+#=GS DR_1020 WT 0.76
+#=GS DR_0911 WT 0.85
+#=GS DR_1343 WT 1.36
+#=GS DR_1936 WT 0.83
+#=GS DR_0746 WT 1.01
+#=GS DR_1627 WT 0.91
+#=GS DR_2610 WT 1.01
+#=GS DR_1940 WT 0.84
+#=GS DR_1822 WT 1.04
+#=GS DR_0575 WT 0.92
+#=GS DR_1963 WT 1.07
+#=GS DR_1962 WT 0.96
+#=GS DR_1721 WT 0.81
+#=GS DR_2446 WT 0.92
+#=GS DR_0118 WT 1.43
+#=GS DR_1892 WT 0.96
+#=GS DR_1857 WT 1.20
+#=GS DR_2229 WT 0.78
+#=GS DR_1611 WT 0.95
+#=GS DR_0958 WT 0.75
+#=GS DR_1551 WT 1.11
+#=GS DR_1411 WT 1.37
+#=GS DR_1055 WT 1.19
+#=GS DR_1973 WT 1.12
+#=GS DR_2510 WT 0.92
+#=GS DR_0094 WT 1.19
+#=GS DR_1548 WT 1.11
+#=GS DR_0070 WT 1.05
+#=GS DR_2179 WT 0.99
+#=GS DR_1710 WT 0.87
+#=GS DR_1709 WT 1.05
+#=GS DR_2388 WT 1.12
+#=GS DR_0459 WT 0.95
+#=GS DR_0479 WT 0.86
+#=GS DR_0843 WT 0.79
+#=GS DR_2569 WT 0.99
+#=GS DR_0006 WT 1.14
+#=GS DR_0860 WT 1.09
+#=GS DR_1311 WT 1.22
+#=GS DR_2395 WT 1.18
+#=GS DR_0988 WT 1.25
+#=GS DR_0812 WT 1.26
+#=GS DR_1723 WT 1.02
+#=GS DR_1063 WT 1.02
+#=GS DR_1114 WT 0.99
+#=GS DR_1212 WT 1.21
+#=GS DR_1491 WT 1.02
+#=GS DR_1706 WT 1.12
+#=GS DR_1970 WT 1.06
+#=GS DR_1305 WT 0.97
+#=GS DR_1549 WT 1.20
+#=GS DR_1699 WT 0.93
+#=GS DR_2448 WT 0.81
+#=GS DR_0887 WT 0.94
+#=GS DR_1691 WT 0.81
+#=GS DR_0478 WT 0.89
+#=GS DR_0886 WT 0.94
+#=GS DR_1161 WT 1.37
+#=GS DR_2370 WT 0.81
+#=GS DR_0551 WT 1.04
+#=GS DR_1299 WT 1.14
+#=GS DR_1277 WT 0.87
+#=GS DR_1536 WT 0.83
+#=GS DR_0727 WT 0.92
+#=GS DR_2195 WT 0.87
+#=GS DR_1988 WT 1.01
+#=GS DR_1122 WT 0.96
+#=GS DR_1537 WT 0.83
+#=GS DR_1151 WT 0.77
+#=GS DR_2096 WT 1.11
+#=GS DR_0165 WT 0.96
+#=GS DR_0920 WT 0.87
+#=GS DR_0485 WT 0.89
+#=GS DR_2265 WT 1.01
+#=GS DR_1306 WT 1.00
+#=GS DR_2389 WT 1.15
+#=GS DR_1290 WT 0.88
+#=GS DR_2495 WT 0.83
+#=GS DR_0985 WT 0.87
+#=GS DR_1180 WT 0.90
+#=GS DR_0791 WT 0.95
+#=GS DR_2552 WT 0.99
+#=GS DR_0556 WT 1.09
+#=GS DR_0498 WT 1.22
+#=GS DR_1492 WT 0.94
+#=GS DR_2472 WT 1.33
+#=GS DR_1791 WT 1.19
+#=GS DR_1981 WT 1.01
+#=GS DR_2130 WT 1.14
+#=GS DR_0256 WT 0.71
+#=GS DR_0747 WT 0.97
+#=GS DR_0390 WT 0.80
+#=GS DR_0969 WT 1.29
+#=GS DR_1423 WT 1.05
+#=GS DR_1286 WT 1.03
+#=GS DR_1404 WT 1.03
+#=GS DR_2049 WT 1.18
+#=GS DR_2041 WT 1.14
+#=GS DR_1175 WT 1.02
+#=GS DR_1856 WT 1.08
+#=GS DR_1276 WT 0.97
+#=GS DR_2146 WT 0.87
+#=GS DR_1477 WT 1.05
+#=GS DR_2203 WT 0.92
+#=GS DR_0813 WT 0.87
+#=GS DR_2498 WT 1.05
+#=GS DR_2490 WT 1.16
+#=GS DR_0194 WT 0.96
+#=GS DR_1662 WT 0.88
+#=GS DR_2230 WT 0.78
+#=GS DR_0955 WT 0.96
+#=GS DR_1571 WT 1.01
+#=GS DR_1984 WT 0.91
+#=GS DR_2444 WT 0.92
+#=GS DR_0910 WT 0.89
+#=GS DR_0641 WT 0.73
+#=GS DR_1661 WT 0.88
+#=GS DR_1897 WT 1.00
+#=GS DR_0155 WT 0.94
+#=GS DR_2004 WT 0.81
+#=GS DR_1433 WT 0.96
+#=GS DR_1387 WT 1.01
+#=GS DR_0693 WT 1.11
+#=GS DR_1211 WT 1.06
+#=GS DR_1743 WT 1.05
+#=GS DR_1941 WT 0.73
+#=GS DR_2383 WT 1.18
+#=GS DR_1983 WT 1.04
+#=GS DR_1770 WT 0.91
+#=GS DR_1755 WT 0.85
+#=GS DR_1610 WT 0.95
+#=GS DR_2541 WT 1.03
+#=GS DR_0237 WT 1.00
+#=GS DR_1742 WT 0.80
+#=GS DR_0392 WT 0.88
+#=GS DR_2118 WT 0.83
+#=GS DR_0114 WT 1.07
+#=GS DR_1481 WT 1.16
+#=GS DR_2449 WT 0.81
+#=GS DR_0005 WT 1.11
+#=GS DR_2627 WT 1.01
+#=GS DR_1509 WT 1.20
+#=GS DR_0728 WT 0.92
+#=GS DR_2077 WT 1.15
+#=GS DR_2573 WT 1.10
+#=GS DR_1176 WT 1.02
+#=GS DR_1123 WT 0.90
+#=GS DR_0084 WT 0.92
+#=GS DR_2008 WT 1.00
+#=GS DR_0930 WT 1.08
+#=GS DR_1754 WT 0.87
+#=GS DR_2494 WT 0.83
+#=GS DR_1320 WT 1.34
+#=GS DR_1369 WT 1.21
+#=GS DR_0640 WT 0.77
+#=GS DR_2343 WT 1.21
+#=GS DR_2556 WT 1.06
+#=GS DR_1607 WT 1.11
+#=GS DR_2565 WT 0.63
+#=GS DR_0117 WT 1.45
+#=GS DR_2101 WT 1.07
+#=GS DR_1733 WT 0.90
+#=GS DR_0583 WT 0.90
+#=GS DR_2266 WT 1.06
+#=GS DR_0957 WT 0.75
+#=GS DR_2188 WT 0.88
+#=GS DR_2164 WT 0.87
+#=GS DR_0323 WT 0.96
+#=GS DR_2361 WT 0.89
+#=GS DR_2620 WT 1.01
+#=GS DR_1808 WT 0.93
+#=GS DR_2447 WT 0.99
+#=GS DR_0383 WT 0.88
+#=GS DR_2263 WT 1.14
+#=GS DR_1250 WT 0.93
+#=GS DR_1197 WT 0.99
+#=GS DR_1785 WT 1.02
+#=GS DR_0550 WT 1.04
+#=GS DR_1370 WT 0.95
+#=GS DR_1968 WT 0.96
+#=GS DR_0565 WT 0.92
+#=GS DR_0757 WT 0.90
+#=GS DR_2065 WT 1.12
+#=GS DR_0038 WT 1.28
+#=GS DR_0372 WT 1.06
+#=GS DR_1359 WT 0.93
+#=GS DR_2346 WT 1.11
+#=GS DR_1061 WT 0.98
+#=GS DR_0123 WT 1.26
+#=GS DR_2497 WT 1.09
+#=GS DR_1769 WT 1.01
+#=GS DR_1269 WT 0.98
+#=GS DR_2322 WT 0.96
+#=GS DR_1150 WT 0.77
+#=GS DR_1261 WT 0.87
+#=GS DR_0326 WT 0.86
+#=GS DR_0330 WT 0.95
+#=GS DR_2577 WT 0.95
+#=GS DR_0505 WT 1.23
+#=GS DR_1980 WT 0.95
+#=GS DR_1544 WT 0.84
+#=GS DR_0708 WT 1.09
+#=GS DR_1378 WT 0.90
+#=GS DR_0569 WT 1.06
+#=GS DR_1483 WT 1.02
+#=GS DR_0717 WT 1.07
+#=GS DR_1845 WT 0.82
+#=GS DR_0391 WT 0.88
+#=GS DR_1715 WT 1.12
+#=GS DR_0486 WT 0.86
+#=GS DR_1386 WT 1.04
+#=GS DR_2377 WT 1.10
+#=GS DR_0659 WT 1.01
+#=GS DR_0399 WT 0.93
+#=GS DR_1850 WT 0.93
+#=GS DR_1732 WT 1.15
+#=GS DR_1584 WT 1.05
+#=GS DR_2321 WT 1.15
+#=GS DR_0291 WT 0.87
+#=GS DR_1994 WT 0.96
+#=GS DR_1034 WT 0.99
+#=GS DR_1214 WT 1.17
+#=GS DR_0607 WT 0.96
+#=GS DR_1982 WT 0.97
+#=GS DR_1218 WT 1.20
+#=GS DR_0341 WT 0.95
+#=GS DR_2371 WT 0.81
+#=GS DR_0898 WT 1.04
+#=GS DR_1298 WT 1.07
+#=GS DR_1891 WT 0.94
+#=GS DR_0349 WT 0.93
+#=GS DR_0085 WT 0.95
+#=GS DR_2394 WT 1.01
+#=GS DR_1969 WT 1.06
+#=GS DR_0138 WT 1.19
+#=GS DR_1181 WT 1.01
+#=GS DR_0842 WT 0.79
+#=GS DR_0826 WT 0.92
+#=GS DR_1591 WT 0.91
+#=GS DR_0327 WT 1.09
+#=GS DR_0325 WT 0.95
+#=GS DR_0140 WT 0.99
+#=GS DR_0567 WT 1.04
+#=GS DR_1736 WT 0.92
+#=GS DR_0404 WT 1.15
+#=GS DR_0740 WT 1.19
+#=GS DR_0906 WT 1.07
+#=GS DR_1809 WT 0.85
+#=GS DR_1840 WT 0.81
+#=GS DR_0201 WT 1.05
+#=GS DR_0292 WT 0.89
+#=GS DR_2310 WT 0.84
+#=GS DR_1383 WT 0.97
+#=GS DR_0613 WT 1.04
+#=GS DR_2050 WT 0.99
+#=GS DR_2423 WT 0.80
+#=GS DR_2300 WT 0.80
+#=GS DR_0685 WT 1.05
+#=GS DR_1318 WT 1.00
+#=GS DR_2317 WT 0.88
+#=GS DR_1844 WT 0.82
+#=GS DR_2637 WT 1.11
+#=GS DR_2196 WT 0.97
+#=GS DR_0035 WT 0.80
+#=GS DR_2226 WT 0.93
+#=GS DR_2560 WT 0.96
+#=GS DR_1623 WT 0.90
+#=GS DR_0335 WT 1.01
+#=GS DR_0788 WT 1.01
+#=GS DR_1196 WT 0.98
+#=GS DR_1473 WT 0.93
+#=GS DR_2390 WT 1.02
+#=GS DR_0243 WT 1.50
+#=GS DR_0945 WT 0.95
+#=GS DR_1590 WT 0.91
+#=GS DR_1335 WT 1.22
+#=GS DR_1825 WT 1.09
+#=GS DR_1654 WT 0.97
+#=GS DR_0554 WT 0.99
+#=GS DR_0429 WT 0.76
+#=GS DR_1606 WT 1.17
+#=GS DR_1567 WT 0.77
+#=GS DR_0262 WT 0.81
+#=GS DR_1245 WT 0.84
+#=GS DR_2052 WT 0.92
+#=GS DR_0792 WT 1.08
+#=GS DR_0166 WT 1.07
+#=GS DR_0834 WT 1.01
+#=GS DR_1249 WT 0.96
+#=GS DR_0421 WT 1.06
+#=GS DR_0119 WT 1.00
+#=GS DR_1338 WT 0.88
+#=GS DR_2257 WT 1.06
+#=GS DR_2078 WT 1.14
+#=GS DR_0794 WT 0.83
+#=GS DR_0907 WT 0.90
+#=GS DR_0473 WT 0.95
+#=GS DR_0631 WT 1.10
+#=GS DR_1974 WT 0.98
+#=GS DR_1014 WT 1.01
+#=GS DR_0594 WT 1.05
+#=GS DR_1315 WT 1.15
+#=GS DR_2256 WT 1.06
+#=GS DR_1339 WT 1.07
+#=GS DR_2582 WT 1.26
+#=GS DR_0751 WT 1.05
+#=GS DR_0460 WT 1.00
+#=GS DR_1248 WT 1.00
+#=GS DR_1832 WT 1.03
+#=GS DR_2341 WT 1.04
+#=GS DR_2344 WT 0.92
+#=GS DR_1839 WT 0.89
+#=GS DR_0644 WT 0.96
+#=GS DR_0193 WT 1.04
+#=GS DR_1478 WT 0.96
+#=GS DR_1942 WT 1.14
+#=GS DR_1285 WT 1.09
+#=GS DR_2149 WT 0.97
+#=GS DR_1879 WT 1.01
+#=GS DR_2580 WT 0.94
+#=GS DR_0218 WT 1.01
+#=GS DR_0691 WT 1.02
+#=GS DR_2071 WT 0.98
+#=GS DR_0289 WT 0.94
+#=GS DR_0646 WT 1.36
+#=GS DR_0837 WT 1.20
+#=GS DR_0446 WT 1.37
+#=GS DR_0043 WT 0.88
+#=GS DR_1601 WT 0.92
+#=GS DR_0787 WT 0.95
+#=GS DR_0743 WT 0.70
+#=GS DR_2286 WT 1.07
+#=GS DR_1998 WT 1.16
+#=GS DR_1488 WT 1.18
+#=GS DR_1872 WT 1.14
+#=GS DR_1234 WT 1.36
+#=GS DR_2208 WT 1.11
+#=GS DR_0742 WT 0.80
+#=GS DR_1340 WT 1.15
+#=GS DR_1445 WT 1.22
+#=GS DR_1428 WT 1.05
+#=GS DR_2508 WT 0.74
+#=GS DR_0528 WT 0.63
+#=GS DR_0472 WT 0.95
+#=GS DR_2635 WT 1.00
+#=GS DR_2527 WT 0.91
+#=GS DR_1538 WT 0.96
+#=GS DR_0161 WT 1.20
+#=GS DR_1348 WT 1.03
+#=GS DR_1436 WT 1.31
+#=GS DR_2057 WT 0.87
+#=GS DR_2364 WT 1.29
+#=GS DR_1117 WT 1.09
+#=GS DR_1432 WT 1.00
+#=GS DR_2453 WT 1.07
+#=GS DR_2367 WT 1.20
+#=GS DR_1482 WT 0.83
+#=GS DR_1948 WT 0.95
+#=GS DR_0762 WT 0.70
+#=GS DR_1294 WT 0.74
+#=GS DR_0563 WT 0.71
+#=GS DR_1213 WT 1.14
+#=GS DR_2292 WT 1.13
+#=GS DR_0488 WT 1.14
+#=GS DR_1202 WT 0.81
+#=GS DR_0139 WT 0.96
+#=GS DR_1413 WT 1.13
+#=GS DR_0672 WT 1.09
+#=GS DR_0075 WT 1.00
+#=GS DR_0606 WT 1.22
+#=GS DR_0799 WT 0.84
+#=GS DR_1616 WT 1.18
+#=GS DR_0362 WT 0.98
+#=GS DR_1835 WT 0.96
+#=GS DR_2369 WT 1.03
+#=GS DR_1838 WT 1.34
+#=GS DR_0342 WT 0.77
+#=GS DR_2611 WT 1.19
+#=GS DR_1008 WT 1.13
+#=GS DR_1600 WT 1.12
+#=GS DR_1452 WT 1.23
+#=GS DR_0878 WT 0.90
+#=GS DR_2070 WT 1.02
+#=GS DR_1720 WT 0.85
+#=GS DR_1187 WT 1.02
+#=GS DR_1188 WT 0.96
+#=GS DR_0095 WT 1.07
+#=GS DR_2609 WT 0.92
+#=GS DR_2511 WT 0.86
+#=GS DR_1064 WT 0.96
+#=GS DR_1019 WT 0.76
+
+DR_2251      AAG--A--AC--GCCG-G--A--GA------U-----AAG-GGAUAA---
+DR_1020      AGC--A--GC--AGGC-G--G--AC-----AC-----U-CUUCG------
+DR_0911      AAA--G--AC--CCCC-A--C--UC----GGA-----AAC----------
+DR_1343      GGU--G--AU--GGUU-G--A-UGG-----UU-----GAC-GGGUUUG--
+DR_1936      GGA--G--AG--GGCG-G-AG-AGC-----A------AAG-GGACAAA--
+DR_0746      UAG--G--CG--GGGA-G--C--UG----AAC-----A-CA---------
+DR_1627      AAA--A--CC--AGCC-U--C--CC------C-----GAC-GC-------
+DR_2610      AAA--A--CC--UCCC-C--G--GC------C-----A-GUGA-------
+DR_1940      AAA--G--GG--GCCG-G--A--GA-----A------AUC-A--------
+DR_1822      AAA--A--GA--AUCC-C--C--GC------C-----GA-UGGA------
+DR_0575      AGA--G--GG--UGGA-G--A--GU------C-----GGG-GGAGUUG--
+DR_1963      AAA--A--CG--CCGC-C--U--GC-----AC-------C-GGGAUU---
+DR_1962      AAU--G--CC--GCCU-G-CC-UGG----GAA-----AUC----------
+DR_1721      AAC--A--AG--CCCC-C--G--CC------C-----A-GUUUC------
+DR_2446      AGA--G--GG--UGAA-G--A--GU-----G------AAG-GGUCACC--
+DR_0118      UCU--A--AG--GGUC-U-GA--GA-----GU-------CUAAGAACGG-
+DR_1892      CAA--A--GU--UCCG-G--U---------AC-----AAC----------
+DR_1857      GAG--G--GC--CGGA-C--A--CU-----GC-----AAC----------
+DR_2229      AGA--A--GC--AGCG-G--G-AGC------U-----GA-U---------
+DR_1611      GAG--C--AG--GCCA-G--C--CCA--UCGC-----AAC----------
+DR_0958      AGA--G--AG--GGGC-G--G--CC-----CC-----GCGUA--------
+DR_1551      AAA--U--GG--CGAG-C--C-UGA-----GU-----AU-UA--------
+DR_1411      GAU--A--CG--GUUU-C--A--AA-----UU-----GAGUCCCGGAUAU
+DR_1055      AAA--C--CG--GGAG-A--G--CC-----GU-----GG-CAUACA----
+DR_1973      AAA--C--CC--CGCC-U--G--UG-----AC-------CCUAGACUUC-
+DR_2510      GAA--A--AG--CGCC-C--G--CC-----A------A-CUCAU------
+DR_0094      AAA--U--AG--UUUG-G------------AU-------C----------
+DR_1548      AGA--G--CG--GGAGCG-UA-GGC-----GC-----A-CU---------
+DR_0070      AAA--A--GC--AGGC-C--G--CC-----CC-----G-GUGAA------
+DR_2179      AAG--A--GG--GGCG-C--G-UCC-----GU-----AACU---------
+DR_1710      AGG--C--AG--CCCG-G--G--CC-----AU-------CCGUACA----
+DR_1709      AAG--G--CA--GCCC-G--G--GC------C-----AU-UUCCUGU---
+DR_2388      AAG--C--UC--CGCC-G--G-UUG-----GC-------CUUUUG-----
+DR_0459      GAG--A--GC--AGAG-G-CG--CC----AGC-----AU-U---------
+DR_0479      GGA--G--AG--GGUG-G--A--GA-----GC-----GA-UUA-------
+DR_0843      AGG--C--GG--GCGG-G--G--GA-----AC-----U-C----------
+DR_2569      CGA--G--GG--GGCA-G--A--GAA---ACC-----GACU---------
+DR_0006      CAG--A--AG--CUGA-C--C--UC-----GC-----GC-CCAGAGAA--
+DR_0860      AAC--A--AC--GGCC-C--G--CG----AACU--UGAAGU---------
+DR_1311      UGG--A--GC--AGUG-A-CC-CGC------C-----A-CUC--------
+DR_2395      AAA--U--CU--GGCC-C-UC-AGC-----UC-----A-GU---------
+DR_0988      CAA--G--GG--GCCU-G--G--AG-----G------AAG-A--------
+DR_0812      CCC--A--GC--GGCA-G--C--CG-----GC-----A-G-AACAA----
+DR_1723      AGC--C--CC--CGCCGA--C-GCU----CCU-----GAGU---------
+DR_1063      AAA--C--CG--CCGC-C--G--GG------C-----AGCUU--------
+DR_1114      CGG--G--AG--GGGA-G--C-AGUA---GACGC-GAAACU---------
+DR_1212      AGA--G--CC--GCCG-G--C-AUC------C-------CCGAUU-----
+DR_1491      AGC--G--GG--GGAA-G--A-UGA-----AU-----UUGC---------
+DR_1706      AGA--A--GA--UACU-C--A-GGC----UUU-------C----------
+DR_1970      AAG--C--GG--AGGAAG-UC--CC----GGU-----GA-U---------
+DR_1305      AAG--G--CC--GCCC-C-GA--CU------C-----G-CUA--------
+DR_1549      AGC--G--GG--AGUG-U-GA-GG------CC-----A-GUG--------
+DR_1699      GAA--U--GC--CCCG-C--C---------GU-----UGCU---------
+DR_2448      AGC--A--GG--CCAG-C--C--GGA---CUC-------CU---------
+DR_0887      AGG--G--AC--CGCU-U--C-UUC-----UC-----AC-CAU-------
+DR_1691      UCG--G--AU--UGAA-U--C--CAA---AAC-----AA-U---------
+DR_0478      AGA--G--GG--UGGA-G--A--GU----UA------AUC----------
+DR_0886      AGG--G--AC--CGCU-U--C-UUC------C-----AA-UGG-------
+DR_1161      AAA--G--GU--CCGG-G--C-ACA----GGUGAAAAA-CC---------
+DR_2370      AGA--A--CU--CCCC-G-AC---CA---AG------A-CC---------
+DR_0551      UGA--A--GC--GGCG-C--C--CC-----CU-----GACUCC-------
+DR_1299      AAG--A--AG--CGGG-A--C--GC------C-----AG-CAUCU-----
+DR_1277      AAA--G--GC--CCCU-C--C--CC-----AC-----GACUUG-------
+DR_1536      AAA--G--GC--CGCG-U--C--CC-----GU-------G-AAUU-----
+DR_0727      GAA--G--UG--GGCG-G--A-AAG-----UC-----A-GU---------
+DR_2195      AGA--A--GG--GGCG-U--C--GG-----AC-----UUGUU--------
+DR_1988      AGA--U--GG--ACCC-G--C--GCC---UG------ACCC---------
+DR_1122      AGA--G--GG--GCCG-C--A--CACG-ACAC-----AGGU---------
+DR_1537      AAA--G--GC--CGCG-U--C-CCG-----GU-----G-G-AAU------
+DR_1151      AAA--G--GG--CGCA-G--A-AGC----UUC-------G----------
+DR_2096      GCA--G--GG--GCCG-C--C-GGGC---AAA-----AAGU---------
+DR_0165      AAA--A--GA--AGCC-G-GG--GC----CAC-----AG-C---------
+DR_0920      GGG--C--AG--ACCG-G------C----AAU-----AA-----------
+DR_0485      AGA--G--GG--UGGA-G-AG-UCG-----A------GGGUCCGU-----
+DR_2265      GGG--C--GG--GCAC-C--C-GGG----AGC-----UUC----------
+DR_1306      CAG--G--CC--GCCC-C-AC--UC------U-----A-GC---------
+DR_2389      GAA--A--AG--CUCC-G--C--CG-----A------GCG-GCCACAAA-
+DR_1290      AAG--G--GG--CGCA-G-AG--GG----AA------A-C----------
+DR_2495      AAA--A--GC--GGCG-U--G-UGG----GUU-----GC-C---------
+DR_0985      AAG--C--GG-AGGCU-G--G--GA-----G------AU-UC--------
+DR_1180      AAC--G--CC--UCCG-C--G--CC-----GU-----AAC----------
+DR_0791      CAA--A--GG--CCGG-A--G---C----UUU-----GA-U---------
+DR_2552      AGG--G--GG--UGGA-G--U--GC-----CC-----GGG-ACACCGU--
+DR_0556      AGG--A--AA--CAGG-U--G-AGG-----GA-----A-CU---------
+DR_0498      AGA--A--GG--GCUG-A--A-CUUU---U-------GACC---------
+DR_1492      AAUUCG--GG--GGAA-G--A-UGA----UGC----AAA-U---------
+DR_2472      GCG--C--AC--CCCG-A--A---C----UUU-------C----------
+DR_1791      UGG--C--GG--CGGG-G-GG--GC----UGU-----GAG----------
+DR_1981      AAC--A--CC--GCCC-G--G---A----CGCG---AAUGU---------
+DR_2130      AGG--G--GC--GCCU-U--U--CU-----UC-----G-CUA--------
+DR_0256      AAA--A--GC--CCCU-G--C---C----AGC-------GC---------
+DR_0747      GAA--A--GG--CGGG-G--A--GC------C-----GUGUGU-------
+DR_0390      AGA-GG--AG--GCUG-G--A--GC----AAU-------G----------
+DR_0969      AGA-CA--AG--GCAG-A--A-GCC----CG------A-GC---------
+DR_1423      AAA--G--UG--CGGA-G--A--GG-----GA-----AGCUCUGA-----
+DR_1286      GAA--G--GG--CGCC-A--C--GCUG-AAUC-----AACC---------
+DR_1404      ACA--G--GC--CCGG-CCCC--GC-----GC-----UGCUCU-------
+DR_2049      AAG--G-UCU--GAAG-U-CU--GC------C-----A-CUGGUUUCCUG
+DR_2041      AAC--G--GG--CCGG-A--G-UGG-----UC-----G-CUGAGUGUUUG
+DR_1175      AGA--C--GG--AGCC-C--G--CU------C-----AA-UG--------
+DR_1856      AGA--A--GG--GCCG-G--A--CA-----CC-----U-GUUG-------
+DR_1276      AAG--G--CC--CCUC-C--C-CGC-----AC-----AAGU---------
+DR_2146      AGA--G--GG--CGCC-U--C--GG----CAA-----AAG----------
+DR_1477      AAG-UG--GG--AGAG-G--C----------C-----A-GUU--------
+DR_2203      AAA--G--GG--CGGG-G------------A------AA-U---------
+DR_0813      --------GG--CCCC-C--G--GC-----GC-----A-G-A--------
+DR_2498      AAG--A--AA--AUCG-G--C--CA-----GC-----A-CUCUAA-----
+DR_2490      AGC--A--GA--GGCC-G--G--GA-----A------GA-UGAU------
+DR_0194      AGA--A--CG--CCGA-G--G---C----UAC-----A-C----------
+DR_1662      AGA--C--CG--CCCG-G-AG-ACC-----GC-------C-AAAG-----
+DR_2230      AAA--A--GC--AGCG-G-AG--GC-----AU-------C----------
+DR_0955      AAA-CA--GG--AGCUA---C-AGC----CCC-------G----------
+DR_1571      UGG--G--CG--CGGG-G--C--CG-----UC-----A-C----------
+DR_1984      AAA--A--AC--CGCC-U--C---------AC-----GGG----------
+DR_2444      AGG--G--GG--AGGG-G--A--CCA---AAC-----G-CU---------
+DR_0910      AAA--A--GC--CCCC-A--C-CCG----UUU-------C----------
+DR_0641      AAA--G--GG--GCCG-G--A-AGG----UUU-----AC-C---------
+DR_1661      AAA--C--CG--CCCG-G-AG--CC-----GC-----UGCUUU-------
+DR_1897      AAC--A--GC--CUCC-C--C---------GU-----AUC-AC-------
+DR_0155      GAU--G--GU--UGAU-G--G--GA-----A------AAGUC--------
+DR_2004      UCG--G--AU--UGAA-U--C--GC------C-----AAG----------
+DR_1433      GAA--G--GA--GCCC-U--G--GC-----GC-------G----------
+DR_1387      AAA--A--AG-AAGCG-C--C-UCG-----GC-----A-GUG--------
+DR_0693      AGU--G--GG--GGAG-G--C-GGC-----GC-----AC-CGUUG-----
+DR_1211      AAG--C--CG--CCGG-C--A-CCU------C-------CUGAA------
+DR_1743      --------CC--CCUU-A--C--CC----CA------AAG----------
+DR_1941      AAA--G--GG--GCCG-G--A--GAU---U-U----GAU-U---------
+DR_2383      UAU--G--GG--CCAU-A--A--GCA--GAGA-----AAG----------
+DR_1983      CAA--A--GA--ACCG-C--C--UC----CCC-------GU---------
+DR_1770      AGG--A--AG--CGGG-C--C--GC-----CC-----AGG-GUUC-----
+DR_1755      AAA--G--GG--GCCG-C-CU--CC----UGC-------GU---------
+DR_1610      GAG--C--AG--GCCA-A--C--CCG--UUGC-----GA-U---------
+DR_2541      AGG--G--GG--UGAA-G--G--GG------C-----G-CUUUUUG----
+DR_0237      AGA--A--GC--UCUG-G--C---------UC-----A-G----------
+DR_1742      GAG--G--GG--UGGG-A--G--GG----GAC-------G----------
+DR_0392      ACC-CG--UC--CCGG-C--A-AGA----UCC-------GU---------
+DR_2118      GGA--G--AG--GGCG-G-AG-UGC----UG------AU-U---------
+DR_0114      GGG--A--AG--GACU-C--G--CC-----GU-----GAC-A--------
+DR_1481      AUG--G--GG--GGCC-G-UC-UCC----GGU-----AAG----------
+DR_2449      AGC--A-CGG--CCAG-C-AC--GG----AG------GAGU---------
+DR_0005      AAG--C--UG--ACCC-C--GAUGC------C-------CUUCU------
+DR_2627      AAG--C--GC--CGCU-U--C--CC----AGU-------CU---------
+DR_1509      GGA--A--GC--CGGC-C--U---------G------AAG-A--------
+DR_0728      AAA--G--CG--GGCG-G--A--GA-----G------A-CUG--------
+DR_2077      AAG--G--GG--CCAC-U--U--CC------C-----GG-CG--------
+DR_2573      AGA--A--CG--GCGC-C--C--CC-----UC-----GAC-GGAAAGG--
+DR_1176      AGA--C--GG--AGCC-C-AC--UU------C-----AU-U---------
+DR_1123      AGG--G--AG--AGGG-G--C-CGC-----AC-----AACCUGUGU----
+DR_0084      GAA--A--AG--CCGC-C------A----AGA-----AAC----------
+DR_2008      ACA-UG--GG--GCCG-G-GC-CGC-----A------GCGUAG-------
+DR_0930      AGC--G--GC--ACCG-G--G-AAG-----AC-----AU-U---------
+DR_1754      AAC--A--UC--CCCA-CGUC--CG-----UC-----AAC----------
+DR_2494      AAA--A--GC--GGCG-U-AG-CGG----GGC-----AAC----------
+DR_1320      --------GA--GCCU-G-UC-G-C-----CU-------CUGUC------
+DR_1369      AAA--C--GG--CCAG-G--C--CG-----UC-------GUCCGGGG---
+DR_0640      AAA--A--GG--GCCG-G--A-GGG----GGU-----AA-A---------
+DR_2343      AAA--A--CC--CCCC-G--G--AC----GGU-----GAG----------
+DR_2556      AAA--C--GG--CGCC-A--A--GG-----UC-----AACUC--------
+DR_1607      CAG--G--CC--GCCG-U-UC--CA-----GU-----A-GUU--------
+DR_2565      --------CC--CCCG-C--C--GG----GA------AA-----------
+DR_0117      UAA--U--GG--UUGA-U--G--GA-----AA-----AAGCCC-------
+DR_2101      CCG--G--CG--GUCA-G--C-UUC----UGC-------G----------
+DR_1733      AGA--A--GG--CCCU-G--C--UC-----GC-----AAGU---------
+DR_0583      GGG--G--AG--GGAG-C--C---------AC-----AACC---------
+DR_2266      AAG--C--GG--GCAC-C--C-AGG----GA------AGCU---------
+DR_0957      GGA--G--AG--GGGC-G--G--CCAAUACGC-----G-G----------
+DR_2188      AAA--A--AG--GGGC-C--G--CC------C-----G-CU---------
+DR_2164      GGA--G--GG--CAAA-G--A--GC------C-------GUC--------
+DR_0323      AAA-GA--GG--AGUC-G--C---------UC-----AA-----------
+DR_2361      --------CG--CCCU-G--C-UCC-----CC-----G-GU---------
+DR_2620      AGG--A--AG-AGGGA-G--G--CU----UGC-------G----------
+DR_1808      AAA--G--AG--GCAG-C--C-CCC-----AC-------CCC--------
+DR_2447      AAG--A--GC--AGAG-G--G-CGG------U-----GACCCUUC-----
+DR_0383      AAG--C--GG--GGCC-G--G-AGA----AUC-----AAC----------
+DR_2263      AAG--C--AG--AGGG-C--C---------AU-----GACC---------
+DR_1250      AAA--A--AG--GCCG-C--C--CC-----UCA---AACCUCUCG-----
+DR_1197      --------GU--CGGC-C--C--CA-----UC-----AAGCUU-------
+DR_1785      GGACUG--GG--AGAC-G-UG--GG-----GC-----G-CUG--------
+DR_0550      UGA--A--GC--GGCG-C--C--CC-----G------AGG-AGU------
+DR_1370      CAA--G--CA-CGCCA-G--G--CC-----GC-------CUGUCCCCC--
+DR_1968      AAA--A--GC--AGGA-C--C--GG-----AC-----AAC-AGU------
+DR_0565      AGU--G--GG--GCGG-G--G---------G------A-G----------
+DR_0757      AAA--G--GG--GGCC-G-GA--GC----A-U-----G-GC---------
+DR_2065      GGA--A--GG--GCCU-U-UC--CG-----CC-----A-GUUU-------
+DR_0038      GCC--U--UC--CGCU-G--C-UCA----CUU-------CC---------
+DR_0372      UGC--G--GG--GGCG-U--G--GGG--UUG------AUG----------
+DR_1359      GGA--G--GG--AGGC-G--A--GG-----AC-----UUG-A--------
+DR_2346      --------UG--GCCC-G--G--CC-----CC-----GGCUUGU------
+DR_1061      AAA--G--GG--GGCG-G--G--CC-----GU-----G-G-AAAC-----
+DR_0123      AAA--G--UU--AUCC-A--C--AG-----GU-------CUACGU-----
+DR_2497      AGA--A--CC--GGCC-A--G---C----CUUU--AGA-GU---------
+DR_1769      AAG--C--GG--GCCG-C--C-UGG----UGA-----A-CC---------
+DR_1269      AAG--A--GG--GGGA-G--G--GC----CAU-----GC-C---------
+DR_2322      GAA--G--GU--GCGG-G-AG--GCU---GAC-----A-C----------
+DR_1150      AAA--G--GG--CGCA-G--A-GGC------C-------G-A--------
+DR_1261      GAG--C--GG--CGAG-G--G---------GA-----AU-U---------
+DR_0326      --------GC--CCCU-G--A--CC-----GC-----AACU---------
+DR_0330      AAA--C--CG--GCCC-C-GC-UCC----UGU-----UCG----------
+DR_2577      CAA--C--GG--CCCC-C--G---C----UUC-------G----------
+DR_0505      AAA--C--GG--GGCA-G--A-G-G-----CU-----G-GCGAAGUUG--
+DR_1980      AAA--C--AC--CGCC-C--G--GA-----AC-----AU-UCG-------
+DR_1544      AAA--A--GG--GGCG-G--G-GCC----GCU-----G-CU---------
+DR_0708      AAC--C--CG--CUUU-UCUG--GC----UUC-----U-CU---------
+DR_1378      CAA--A--GG--CCCA-G------------GC-----AAGU---------
+DR_0569      ACG--G--UG--CGGG-C--U-UCC-----AC-------GUGA-------
+DR_1483      GGC-AC--GC--CGCC-C--C--AC----AAU-----GA-U---------
+DR_0717      AAA--A--AG--AGUU-U--G---C------U-----UA-U---------
+DR_1845      AGA--G--CG--CGGCAG-AC-AGG-----GU-----G-CU---------
+DR_0391      ACC--G--CC--CCGG-C--A-GGA-----AC-----G-G----------
+DR_1715      AAA--A--AG-ACCCU-U--C--CA-----GC-----AA-UC--------
+DR_0486      GGA--G--AG--GGUG-G--A--GA-----AC-----G-G-AGAGACGG-
+DR_1386      AAA--A--GA--GCGC-C-CC--GG-----UC-----A-CU---------
+DR_2377      AAA--C--AG--UGGC-U-UC--CG------C-------G----------
+DR_0659      CGA--G--GC--UGCU-C--U-GGC----GA------AA-----------
+DR_0399      CGA--A--GC--CCCC-U--U--CC----AGU-----GA-U---------
+DR_1850      AGA--CAUGG--CGCU-G--G--GA-----GC-----GA-UUGA------
+DR_1732      AAA--A--GG--CCCU-G--C--UC----UAC-----UUGC---------
+DR_1584      AAA--C--CC--CUAU-C--C--CC------------AA-U---------
+DR_2321      AGA--G--GU--GCGG-G--G--GC-----GU-------GUC--------
+DR_0291      AAA--A--GC--CCCA-C--C--CG-----CC-----AGCUUCG------
+DR_1994      --------CU--CCCC-U--C--GC------U-----GACC---------
+DR_1034      AGG--G--GC--AGAG-G--G----------U-----GAG-G--------
+DR_1214      ACU--C--GC--UCGC-G--C--CU-----UC----AAACU---------
+DR_0607      AAA--A--GA--GCCG-G--G--GC----C-------AAGU---------
+DR_1982      GAA--U--GG--AGCG-C-UG--CG----UG------A-C----------
+DR_1218      AGU--G--CC--UGCU-G-AA-CUG-----GC-------G-AAAU-----
+DR_0341      AAA--A--GU--CCCC-C--G---------CC-----A-CUCG-------
+DR_2371      AGA--A--CU--CCCC-G--C--CG-----GU-------CU---------
+DR_0898      UCC--G--AU--UGAA-U--C--CA-----GU-----U-GUU--------
+DR_1298      GAA--G--CG--AGAC-G-C--AGC----GAA-----GA-U---------
+DR_1891      AAG--G--GG--GCCG-U--C---C----GACA---AGAG----------
+DR_0349      AAACAA--CU--CCCU-C--A--CC-----GU-----GA-U---------
+DR_0085      AGC--C--GC--GCCC-U-GC--CC----AGU-----U-CU---------
+DR_2394      AAA--A--AU--CUGG-C-CC--CU-----GC-----A-CUGAG------
+DR_1969      AAG--C--GG--AGGAGG-CC--CC----AUC-----AC-C---------
+DR_0138      AGG--A--GU--CGAG-A------------CC-----G-GUU--------
+DR_1181      AAA--C--GC--CUCC-G--C-ACC----UGU-----UAC----------
+DR_0842      AAG--C--GG--GCGG-A--G--GA----UG------A-GU---------
+DR_0826      AGG--G--GG--AGGC-G--G-CCC----AA------GA-U---------
+DR_1591      AGG--C--GC--CCCU-G--G--UC-----AC-------CU---------
+DR_0327      GAG--G--GG--CGCA-G-GC---C----AGU-----UGGC---------
+DR_0325      GAG--G--GC--AGAG-G--G--CC----AGC-----GAC----------
+DR_0140      --------GU--UGCC-C--C--CA-----CC-----AAGCUU-------
+DR_0567      AAC--A--AC--CGCC-G-G--GGC----A-U-----GGG----------
+DR_1736      GAG--G--GG--GCCG-G--G--GC----GG------AA-----------
+DR_0404      GAA--U--UG--CUC---------------AC-----A-CU---------
+DR_0740      CAU--G--UG--CGGC-C--C--UC-----UC-------CUACUA-----
+DR_0906      GAA--G--GC--CCGC-U--U--CC----CAU-------CC---------
+DR_1809      AAA--G--GG--GCAG-C--C-UCC----GG------GGGU---------
+DR_1840      AAA--A--AG--CCCG-G-AC--CC-----UU-------CCAAAUG----
+DR_0201      AGC--A--GC--GGGCGG--A--GAG---GAC----GAAC----------
+DR_0292      AAA--A--GC--CCCA-C--C--CG-----A------G-CCGAAG-----
+DR_2310      --------GG--GCGU-C--U--GC----UGC-------G----------
+DR_1383      AAA--G--CU-CCCCG-C-UC-C-G-----GC----UAAGUGU-------
+DR_0613      AGA--AUCGG--ACGG-C--G--GG-----GC-------CUU--------
+DR_2050      AAA--A--GG--GGCA-C--C---------G------UU-U---------
+DR_2423      AAA--A--AG--CCCC-G--G---C-----GC-----A-C-A--------
+DR_2300      AAA--A--AG--GCUG-G--G--GC----GUU-------G----------
+DR_0685      GAG--G--CG--GCGCCC-UC--CU-----GC-------CUGCG------
+DR_1318      AAA--G--GG--ACGG-G--C-CUC----UAC-----G-G----------
+DR_2317      --------GG--GCAC-U--G--GC-----A------AA-U---------
+DR_1844      AGA--G--CG--CGGC-G-AC-GGG----AGC-----A-C----------
+DR_2637      GGG--C--AG--CCGU-C--C--GC------C-------GUCCGCCUUUG
+DR_2196      AAA--A--GG--CGCGCC--G--GAG---AAC-----AAG----------
+DR_0035      UGG--G--GG--UGAG-GUUG--GG-----G------G-CUGGUUUGGG-
+DR_2226      AGA--A--GG--GGGC-G--A--CU----UGC-------G----------
+DR_2560      AAA--A--AG--CCCC-U--C---CC---AG--------CC---------
+DR_1623      AAA--A-UCC--CCCG-C-C----------AC-------GU---------
+DR_0335      AAG--G--AG--CCCA-G--G--CG-----AC-----AG-CA--------
+DR_0788      AAA--G--CC--CCCA-G--G----------C-----ACCUU--------
+DR_1196      GAA--U--GG--CCGG-A-AC--GU-----GU-----A-C----------
+DR_1473      AGA--G--CC--CCCCCC--G--CC------C-----AG-C---------
+DR_2390      AAA--A--GG--AGCG-G-AA--GG------C-------GUC--------
+DR_0243      --------AC--CCCC-G-C--C-------GC-------CUGGGCCGCA-
+DR_0945      AAA--A--GA--AGCA-G--A-GGCC---CGC-------G----------
+DR_1590      GAG--C--GC--CCCU-G-AG--UC----GA------G-GU---------
+DR_1335      GGG--A--AG--GGGG-A-UG--GG----U-U-----UU-U---------
+DR_1825      GGG--C--AC--CGGC-U--G--GG----GG------AU-U---------
+DR_1654      GAA--G--GG--CCUU-C--C---------CC-----AC-C---------
+DR_0554      AAA--A--CC--CGG--A--A--AA-----AC-------G----------
+DR_0429      --------CC--CCCG-C--U---------GC-------CC---------
+DR_1606      ACA--G--GC--CGCC-G-UC--CA-----UC-----AACUA--------
+DR_1567      AGA--A--AU--CCCC-G--G---C-----G------A-GUU--------
+DR_0262      AAA--G--AG--CCCC-C--G--CC------C-----AUGUUG-------
+DR_1245      AGA--A--GG--GGCG-G--G--CC----UGC-------G----------
+DR_2052      AGA--G--UG--GGGC-G--C--CC-----CC-----GAGUCA-------
+DR_0792      ACA--A--AA--ACCG-G--A--GC----AUC-----AA-A---------
+DR_0166      AAA--G--GG--CGGA-G--C-GGC----GG------AGG----------
+DR_0834      AGA-CA--GG--CGCC-A-GG--GC----GA------AA-----------
+DR_1249      AAG--G--CA--GCCC-C-GC--GA-----CC-----GAG-AG-------
+DR_0421      --------UU--CCGC-C--C---------GC-----AUC----------
+DR_0119      CCU--G--CC--GCCU-G--G--AC----C-U-------GC---------
+DR_1338      --------GG--GCAU-G--G--GC----GG------AA-----------
+DR_2257      AAG--C--UA--CCCG-C--U--UU-----CC-------GUU--------
+DR_2078      GAG--G--GC--CACU-U--C--CU----U-C-----GCC----------
+DR_0794      AGA-GA--GG--GCCG-G--G--GC----CA------GGGC---------
+DR_0907      AAA--G--CC--CCCG-U--C--------AGU-----GA-U---------
+DR_0473      AAAGCA--GC--CCCG---GC--AG----CCC-------GU---------
+DR_0631      AGC--A--AG--CCGG-G--G---C----CAC-----AG-C---------
+DR_1974      GAA--U--GG--UCAG-U--G--GC-----GC-----AA-----------
+DR_1014      AGA--G--GG--ACCG-G-UC---AG---AGA-----AA-U---------
+DR_0594      GAG--G--CG--GCCA-C-UC-ACA-----GC-------GUUU-------
+DR_1315      AGU--G--GG--GCAUCU--U--CC----AG------ACCC---------
+DR_2256      AAG--C--CG--CCCG-C--U--CC----UA------AAC----------
+DR_1339      UGG--U--CU--UCCC-U--G--GC-----GU-----AAGUGG-------
+DR_2582      GAG--G-CUU--CGCC-A-CC--UG----AGU-------CU---------
+DR_0751      AGA--A--GG--CCCA-C-CC-UGC-----AC-----A-C----------
+DR_0460      --------GA--CCCU-C-UC--CC----CUU-------GU---------
+DR_1248      AAA--A--GG--CUGG-G--A---GC---CCC-------GU---------
+DR_1832      ACA--G--CC--CCGC-U--C--GGA---CGC-------CU---------
+DR_2341      AAA--A-CUC--CCCU-G--U--CU-----UC-----AC-C---------
+DR_2344      --------CC--CCCU-G--G--AC----CUC-----AC-C---------
+DR_1839      CAA--G--AA--CCCG-G-CC--CC-----UC-------CUCAUU-----
+DR_0644      AGA--A--CC--GCCU-C--C---------AC-----AC-C---------
+DR_0193      AAA--A--AA--GGCC-G--A-AGC-----GU-------GU---------
+DR_1478      AAA--A--GG--GGAG-A--G--GC-----GC-----AACU---------
+DR_1942      GCG--G--GG--CGCG-G--G--GG----U-U-----GAC----------
+DR_1285      AAA-GG--GG--CGCC-A--C--GC-----G------GU-UGAU------
+DR_2149      GAA--A--CC--GCCC-C-AC--CU------C-----G-GUAUCG-----
+DR_1879      GAG--A--AC--GCUU-U--C--CC-----AC-------GU---------
+DR_2580      AAG--G--GG--AGAA-G--G--GA----AGA-----A-GU---------
+DR_0218      AGA--A--AG--ACCG-G--G---------GA-----GGGUG--------
+DR_0691      --------UC--CCAC-U--A--CC------U-----G-C----------
+DR_2071      --------GG--CCCG-G-UG-UCC----UUU-------GA---------
+DR_0289      GAG--G--GU--UGAU-G-G--UGA-----AC-----G-GUUGAUGGAGA
+DR_0646      --------AC--CGCU-C--A--GC-----UC-------C-GCGA-----
+DR_0837      AGG--U--UC--UGGA-G--G--CG-----GC-----AACUUUCG-----
+DR_0446      CCA--C--CA--CGCC-C-CC-UCG----AAC-------GC---------
+DR_0043      AAA--A--UC--CCCC-G--C---------AC-------GU---------
+DR_1601      AAA--A--AGCACGUC-C--G--GG-----G------A-G-A--------
+DR_0787      AAA--G--CC--CCCA-G--G---------AC-----AAG-G--------
+DR_0743      AAA--A--AG--CCCC-U--U-CCCA---GG-------UGU---------
+DR_2286      UCA--G--CG--GGCGUG-AA-AGC-----UC-----GGGCCUGAC----
+DR_1998      UGA--A--AG--AGUC-G--C--CCC---GGU-------GU---------
+DR_1488      AAC--G--UG--CACG-U-U----C----AAU-------CU---------
+DR_1872      GAG--G--AG--GGCU-G--A-G-GG---A-A-----GGCC---------
+DR_1234      --------AG--CCUC-U--G--CC------U-----AUGCC--------
+DR_2208      AGC--G--GG--CGCU-U--G-UGA-----GG-----AAGUCU-------
+DR_0742      AAA--A--GG-CCCCC-U--U--CC-----AC-----ACCU---------
+DR_1340      AAA--G--CC--GCAG-G-CG-UGA----GUU-----G-G----------
+DR_1445      AGG--A--CG--GGGG-C--A--GU----CAU-----G-GU---------
+DR_1428      AGC--C--UG-CGGGG-G--A--GG-----AU-----GAG-GGCAGCGA-
+DR_2508      AAA--A--AG--CCUC-C--C---------UC-------CCC--------
+DR_0528      --------CC--CCCG-C------------CC-----AUC----------
+DR_0472      AAA--A--GC--CCCG-G-UC--AG-----AC-----GGG----------
+DR_2635      AAG--A--CC--UGCC-U--G--UC-----AC-------GCGAU------
+DR_2527      AGA--A--GG--CCAG-C-------------C-----A-GUG--------
+DR_1538      AAA--A--CG--CGCC-C--C-AGC------C-------GC---------
+DR_0161      UGA--G--AC--CCGU-C------------CU-----GAGU---------
+DR_1348      GAA--G-AGC--GGCA-G-CC--GC----C-C-----A-C----------
+DR_1436      --------CC--AUGU-C--G--GA----CGU-------GU---------
+DR_2057      --------GC--CCAU-C--C---------CC-----U-GU---------
+DR_2364      GGC--G--AG--GCGC-A--G--CCG---CUC-----GACU---------
+DR_1117      CUG--A--GG--AGCG-C--C--CC----GAC-----AU-U---------
+DR_1432      AAA--A--GG--CGCG-G------------G------GAGUG--------
+DR_2453      AAA--A--AG--CUCC-C------C----UGU-----GAC----------
+DR_2367      GCG--G--CG--UGCU-G--G--GC-----CU-------GUGAC------
+DR_1482      AGA--G--AG--GCGG-G--G--GC----UGC-------G----------
+DR_1948      GGA--G--AG--GCGU-G--U--CC----UGC-------G----------
+DR_0762      AAA-CA--GG--CCCC-U--U--CC----CGC-----U-GU---------
+DR_1294      AGA--A--GG--CCCC-C------------AC-----U-GC---------
+DR_0563      --------CC--CCCU-G--C---C-----UC-----A-GU---------
+DR_1213      AAC--U--CG--CUCG-C--G--CC-----CC-----A-GUUU-------
+DR_2292      GGC--G--CG--GCAU-C-UC--CC-----GC-----AGG-A--------
+DR_0488      CCC--U--GG--CCUG-C--G--CC-----GC-----U-CUGCA------
+DR_1202      --------AG--CCCG-G--G--CC-----UC-------CUA--------
+DR_0139      AGC--A--GG--GCGG-G-UG--GC----UUC-------G----------
+DR_1413      AAA--A--GC--UGAG-G--C----------C-------CU---------
+DR_0672      AAA--C--CG--CGUC-G-UG--GC----CCC-------GC---------
+DR_0075      AAG--C--CC--CGCC-C-UG----------C-----UCCU---------
+DR_0606      UCG--A--GU-AAGGC-U--C-CGA----GUC-----AGGU---------
+DR_0799      AAA--A--GG--CCCU-C-UU--GC----CGC-----U-G----------
+DR_1616      AAG-AA--GG--GACG-G-CC-C-G-----CC-------CU---------
+DR_0362      AAA--G--GG--CGCG-U--G--GC------C-----G-GUGGAAAA---
+DR_1835      GAA--C--AG--GCCG-G--G--GC------C-----A-C----------
+DR_2369      AGG--G--UG--CCCA-G--A--GC----AA------A-G----------
+DR_1838      --------GC--GGGU-G-UC-GGC----AGC-----GG-C---------
+DR_0342      AAA--A--AU--CCCC-C--G--UC----CG------A-GU---------
+DR_2611      --------UG--CGGC-U--C---C------C-----AGCUUCAAU----
+DR_1008      AAA--G--CC--GGAG-G--C-C-------GC-------GUUCG------
+DR_1600      AAA--G--CG--UCCG-G--G---------UC-----U-CU---------
+DR_1452      GGC--G--CG--GCGU-C-AG-GAG-----G------AACUGA-------
+DR_0878      AAA--A--GG--GGCC-U-GA--GC----AAU-------C----------
+DR_2070      UAA--G--AG--CCGC-U--C---C----UUC-------G----------
+DR_1720      ACA--A--GC--CCCC-G--C--CUG---GGA-----AACU---------
+DR_1187      AAG--G--CG--CCGC-A--A--AG-----UC-----AA-UU--------
+DR_1188      AGA--G--GC--GCCG-C--A-AAG-----UC-----AA-UU--------
+DR_0095      AAA--A--AU--AGUU-U--G---------AU-----GA-U---------
+DR_2609      AAA--C--CU--CCCC-G--G--CUC---GUC-----A-CU---------
+DR_2511      AAA--A--GC--GCCC-G--C--CAA---UAU-----GAGU---------
+DR_1064      AAA--A--CC--GCCG-C--C-AGG-----AA-----AGCU---------
+DR_1019      AGC--A--GC--AGGC-G--G--AC-----GC-------CCCGAA-----
+#=GC SS_cons <<<..<..<<..<<<<.<..<..<<.....__....._.__.........
+#=GC RF      AaA..g..gg..ccCg.g..c..gC.....gC.....A.GU.........
+
+DR_2251      --------UUCCUAUC--U----C-CG-GCG-U--U--------C-----
+DR_1020      ----------GGGCGU--C----C-GC-CUG-C--U--------G-----
+DR_0911      --------------GG--G----U-GG-GGG-C--U--------U-----
+DR_1343      ------UGCCCGCUCC-AU----C-AA-CCA-U--C--------A-----
+DR_1936      -------UCCCUUCGC-UU---UC-CA-CCC-U--C--------U-----
+DR_0746      --------------CG--G----C-UC-CCC-G--C--------C-----
+DR_1627      ------------AUGG--G----A-GG-CUG-G--U--------U-----
+DR_2610      -----------CGAGC--C----G-GG-GAG-G--U--------U-----
+DR_1940      ------------AAUC--U----C-CG-GCC-C--C--------U-----
+DR_1822      -----------CAGGC--G----G-GG-GUU-U--C--------U-----
+DR_0575      -------UUCCUCCGC--U----U-UC-CAC-C--C--------U-----
+DR_1963      --------UCCCAGGC--A----G-GC-GGC-A--U--------U-----
+DR_1962      --------------CC-GGU--GC-AG-GCG-G--C--------G-----
+DR_1721      -----------CCAGG--C----G-GG-GGC-U--U--------G-----
+DR_2446      -------GCCCUCUGC--U----C-UU-UAC-C--C--------U-----
+DR_0118      -----CCUUAGACCUC--U----A-GA-CCC-U--U--------A-----
+DR_1892      ------------------A----C-CG-GAA-C--C--------U-----
+DR_1857      -------------AGG--U----G-UC-CGG-C--C--------C-----
+DR_2229      --------------GC-CU----C-CG-CUG-C--U--------U-----
+DR_1611      --------------GG--G----U-UG-GCC-U--G--------C-----
+DR_0958      ------------UUGG--C----C-GC-CCC-U--C--------U-----
+DR_1551      ------------AGUC-AG----G-CC-CGC-C--A--------U-----
+DR_1411      G--UCCGGGCGCUAUU--U----G-AA-ACC-G--U--------A-----
+DR_1055      --------GCCUGCGG--C----U-CU-CCC-G--G--------U-----
+DR_1973      ------AGGGUACCCG--C----A-GG-UGG-G--G--------U-----
+DR_2510      -----------AUUGG--C----G-GG-CGC-U--U--------U-----
+DR_0094      -------------A---------U-CA-AAC-U--A--------U-----
+DR_1548      -------------GGC-CUC--ACACU-CCC-G--C--------U-----
+DR_0070      ----------GGAAGG--C----G-GC-CUG-C--U--------U-----
+DR_2179      -------------UGG-AC----G-UG-CCC-C--U--------C-----
+DR_1710      --------GGAAAUGG--C----C-CG-GGC-U--G--------C-----
+DR_1709      -------ACGGAUGGC--C----C-GG-GCU-G--C--------C-----
+DR_2388      ----------UGGCCG-CU----C-GG-CGG-A--G--------C-----
+DR_0459      --------------GG--C----C-CU-CUG-C--U--------C-----
+DR_0479      ------------ACUC--U----C-CA-CCC-U--C--------U-----
+DR_0843      -------------AUC--C----U-CC-GCC-C--G--------C-----
+DR_2569      --------------UC--U----C-UG-UCC-C--C--------U-----
+DR_0006      -------GGGCAUCGG--G----G-UC-AGC-U--U--------C-----
+DR_0860      --------------CG--U----G-GG-CCG-U--U--------G-----
+DR_1311      -------------GGC-AG----U-CA-CCG-C--U--------C-----
+DR_2395      --------------GC-AG----G-GG-CCA-G--A--------U-----
+DR_0988      ------------AUCU--C----C-AG-GCC-C--C--------U-----
+DR_0812      --------GACCCCCG--G----C-UG-CCG-C--U--------G-----
+DR_1723      --------------GG-AG----UGGG-CGG-G--G--------G-----
+DR_1063      -------------UCC--U----G-GC-GGC-G--G--------U-----
+DR_1114      --------------GC-UG----U-UC-CCC-U--C--------C-----
+DR_1212      ---------CAGGAGG-UG----C-CG-GCG-G--C--------U-----
+DR_1491      -------------AUC-AU----C-UU-CCC-C--C--------GA----
+DR_1706      --------------GC-UU----G-GG-UAU-C--U--------U-----
+DR_1970      --------------GG--G---GCCUC-CUC-C--G--------C-----
+DR_1305      -------------GAG--U----G-GG-GCG-G--C--------C-----
+DR_1549      ------------CG-C-CU----A-CG-CUC-C--C--------G-----
+DR_1699      ------------------G----G-CG-GGG-U--U--------U-----
+DR_2448      --------------CC--G---UG-CU-GGC-C-GU--------G-----
+DR_0887      ------------UGGA-AG----A-AG-CGG-U--C--------C-----
+DR_1691      --------------UG--G----A-UU-CAA-U--C--------C-----
+DR_0478      --------------GC--U----C-UC-CAC-C--C--------U-----
+DR_0886      -----------UGAGA-AG----A-AG-CGG-U--C--------C-----
+DR_1161      --------------UG-CG----U-CC-GGA-C--U--------U-----
+DR_2370      --------------G---G----C-GG-GGA-G--U--------U-----
+DR_0551      ------------UCGG--G----G-CG-CCG-C--U--------U-----
+DR_1299      ---------UCGCUGC--G----U-CU-CGC-U--U--------C-----
+DR_1277      -----------UGCGG--G----G-AG-GGG-C--C--------U-----
+DR_1536      ---------CCACCGG--G----A-CG-CGG-C--C--------U-----
+DR_0727      --------------CU-CU----C-CG-CCC-G--C--------U-----
+DR_2195      ------------CUCC--G----G-CG-CGC-C--U--------U-----
+DR_1988      --------------GC--G----C-GG-GUU-C--A--------U-----
+DR_1122      --------------UG--U----G-CG-GCC-C--C--------U-----
+DR_1537      -----------UCACG-GG----A-CG-CGG-C--C--------U-----
+DR_1151      --------------GC-CU----C-UG-CGC-C--C--------U-----
+DR_2096      --------------CC-AG----G-CG-GCC-C--C--------U-----
+DR_0165      --------------GU--C----C-GG-CUU-C--U--------U-----
+DR_0920      --------------G--------C-UG-GUC-U--G--------C-----
+DR_0485      ---------CUCUCCG-UU----C-UC-CAC-C--C--------U-----
+DR_2265      --------------CC-UG----G-GU-GCC-C--G--------C-----
+DR_1306      --------------GA--GU--CG-GG-GCG-G--C--------C-----
+DR_2389      ------AGGCCAACCG--G----C-GG-AGC-U--U--------U-----
+DR_1290      --------------CC--C----C-UG-CGC-C--U--------C-----
+DR_2495      --------------CC-GC---UA-CG-CCG-C--U--------U-----
+DR_0985      -------------AUC--C----C-GG-CCC-C--G--------C-----
+DR_1180      -------------AGG--U----G-CG-GAG-G--C--------G-----
+DR_0791      --------------G---C----U-CC-GGU-U--U--------U-----
+DR_2552      -------UCCCGCCGC--G----C-UC-CAC-C--C--------C-----
+DR_0556      -------------UCC-CC----G-CC-UGU-U--U--------C-----
+DR_0498      --------------GG-GU----U-CA-GCU-U--U--------U-----
+DR_1492      --------------UC-AU----C-UU-CCC-C--C--------G-----
+DR_2472      --------------G---U----U-CG-GGG-U--G--------C-----
+DR_1791      --------------GC--U----C-CC-CGC-C--G--------C-----
+DR_1981      --------------U---C----C-GG-GCG-G--U--------G-----
+DR_2130      ------------AAAG--A---AA-AG-GCG-C--C--------C-----
+DR_0256      --------------G---G----C-GG-GGG-C--U--------U-----
+DR_0747      -----------UCAGC--U----C-CC-CGC-C--UA------CU-----
+DR_0390      --------------GC--U----C-CG-GCC-U--C--------U-----
+DR_0969      --------------GG-UU----U-CU-GCC-U--U--------U-----
+DR_1423      ---------GCCUUCC--U----C-UC-CGC-A--C--------U-----
+DR_1286      --------------GC--G----U-GG-CGC-C--C--------C-----
+DR_1404      ------------CAGC--GUCUCG-CC-GGG-C--C--------U-----
+DR_2049      AU-ACGGAAACCGGGC--A----G-CU-UCA-G--C--------C-----
+DR_2041      -----UCAGCCGGCCC-GC----U-CC-GGC-C--C--------G-----
+DR_1175      -------------AAG--U----G-GG-CUC-C--G--------U-----
+DR_1856      -----------CAGUG--U----C-CG-GCC-C--U--------C-----
+DR_1276      -------------CGU-GG----G-GA-GGG-G--C--------C-----
+DR_2146      --------------CC--G----G-AG-CGC-C--C--------U-----
+DR_1477      ------------GC----G----C-CU-CUC-C--C--------C-----
+DR_2203      -----------------------C-UC-CGU-C--C--------U-----
+DR_0813      -------------AGC--U----G-GG-GGC-U-----------------
+DR_2498      ----------AGGCUG--G----C-CG-GUU-C--U--------C-----
+DR_2490      ----------UUGCUC--C----C-GG-CCU-C--U--------G-----
+DR_0194      --------------G---C----U-UC-GGC-C--U--------U-----
+DR_1662      ----------CAGCGG-CU----C-CG-GGC-G--G--------U-----
+DR_2230      -------------AGC--U---CC-CG-CUG-C--U--------U-----
+DR_0955      --------------GC-UG-----CGG-CUC-C--U--------U-----
+DR_1571      -------------AUG--G----C-CC-CGC-G--C--------C-----
+DR_1984      ------------------G----A-GG-CGG-U--U--------C-----
+DR_2444      --------------GG--U----U-CU-CUC-U--C--------C-----
+DR_0910      --------------CG-AG----U-GG-GGG-U--C--------U-----
+DR_0641      --------------CC-CU----C-CG-GCC-C--U--------U-----
+DR_1661      -----------GGCGG--UC--UC-CG-GGC-G--G--------U-----
+DR_1897      ------------UG----G----G-GA-AGG-C--U--------G-----
+DR_0155      ------------CCUC--U---CC-AU-CAA-C--C--------A-----
+DR_2004      --------------GU--G----A-UU-CAA-U--C--------C-----
+DR_1433      -------------AGC--U----G-GG-GCU-U--U--------U-----
+DR_1387      ------------ACCG-GG----G-CG-CUC-U--U--------U-----
+DR_0693      ----------AGGGGC-CG----C-CU-CCC-U--U--------A-----
+DR_1211      ----------UCGGGG-AU----G-CC-GGC-G--G--------C-----
+DR_1743      --------------GG--G----C-AA-GGG-G-----------------
+DR_1941      --------------UC--U----C-CG-GCC-C--C--------U-----
+DR_2383      --------------GC--U----U-GU-GGC-C--C--------A-----
+DR_1983      --------------GA--G----G-CG-GUU-U--U--------U-----
+DR_1770      ---------ACCAGGC--G----G-CC-CGC-U--U--------C-----
+DR_1755      --------------GG--A---AG-CG-GCC-C--U--------U-----
+DR_1610      --------------GG--G----C-UG-GCC-U--G--------C-----
+DR_2541      ---------CACGUCC--U----C-UU-CAC-C--C--------C-----
+DR_0237      ------------------G----C-CG-GGG-U--U--------U-----
+DR_1742      --------------CC--C----C-CU-CAC-C--C--------C-----
+DR_0392      --------------UC-CU----G-CC-GGG-G--C--------G-----
+DR_2118      --------------GC-CU----C-CG-CCC-U--C--------U-----
+DR_0114      ------------AGGG--C----G-GG-UCU-U--U--------C-----
+DR_1481      --------------GG-GG----C-GG-UCC-U--C--------C-----
+DR_2449      --------------CC--G----G-CU-GGC-C--U--------G-----
+DR_0005      ----------CUGGGC-GC----G-AG-GUC-A--G--------C-----
+DR_2627      --------------GG--G----G-GG-CGG-U--U--------C-----
+DR_1509      ------------GA----A----G-GC-CGG-U--U--------U-----
+DR_0728      ------------ACUU--U----C-CG-CCC-A--C--------U-----
+DR_2077      ------------AAGG--A----A-GU-GGC-C--C-------UC-----
+DR_2573      -------UCAGCGAGG--G----G-GC-GCC-A--U--------U-----
+DR_1176      --------------GA--G---CG-GG-CUC-C--G--------U-----
+DR_1123      ---------CGUGUGC-GG----C-CC-CUC-U--C--------C-----
+DR_0084      --------------U--------G-GC-GGC-U--U--------U-----
+DR_2008      -----------GUUGC-CG---CC-UG-GCC-U--C--------U-----
+DR_0930      --------------CU-CC----C-UG-GUG-C--C--------G-----
+DR_1754      --------------CG--G----G-UG-GGG-A--U--------U-----
+DR_2494      --------------CC-AC----A-CG-CCG-C--U--------U-----
+DR_1320      -----------GGGG--CG----C-GG-GCU-C-----------------
+DR_1369      -------GGACAGGCG--G----C-CU-GGCGU--G--------C-----
+DR_0640      --------------CC-UU----C-CG-GCC-C--C--------U-----
+DR_2343      --------------GU--C----C-AG-GGG-G--CAAA--CAAC-----
+DR_2556      -------------ACC--U----U-GG-CGC-C--U--------U-----
+DR_1607      ------------GAUG--G----A-CG-GCG-G--C--------C-----
+DR_2565      --------------CU--G----G-CG-GGG-G-----------------
+DR_0117      -----------UGCUC--U----A-UC-AAC-C--A--------U-----
+DR_2101      --------------GA-GG----C-UG-GCC-G--C--------C-----
+DR_1733      -------------AGA--G----C-AG-GGC-C--U--------U-----
+DR_0583      ------------------G----G-UU-CCC-U--C--------C-----
+DR_2266      --------------CC-CG----G-GU-GCC-C--G--------C-----
+DR_0957      --------------GG--C----C-GC-CCC-U--C--------U-----
+DR_2188      -------------GGG--UA--UG-GC-CCC-U--U--------U-----
+DR_2164      ------------AAGC--U----C-UC-UGC-C--C--------U-----
+DR_0323      ------------------G----C-GG-CUC-U--U--------U-----
+DR_2361      --------------GG-AG----C-GG-GGC-G-----------------
+DR_2620      --------------GG--C----C-UC-CCC-U--U--------C-----
+DR_1808      -------------CGG-AG----G-CU-GCC-C--C--------U-----
+DR_2447      ---------ACUCUUC-AC----C-CU-CUG-C--C--------C-----
+DR_0383      --------------UC-UU----C-GG-CCC-C--G--------C-----
+DR_2263      ------------------G----G-CC-UUC-U--G--------C-----
+DR_1250      ---------GUCGCGG--G----G-CU-GCC-U--U--------UC----
+DR_1197      ------------GAUG--G----G-GC-CGA-C-----------------
+DR_1785      -------------GCC--CA--CC-GU-CUC-C--C--------U-----
+DR_0550      -----------CAGGG--G----G-CG-CCG-C--U--------U-----
+DR_1370      ------CGGACGACGG--C----C-UG-GCC-G--U--------U-----
+DR_1968      -----------GUGCC--G----G-UC-CUG-C--U--------U-----
+DR_0565      -------------A----C----U-CC-GCU-C--C--------U-----
+DR_0757      --------------GC--U---GC-GG-CCC-U--U--------U-----
+DR_2065      -----------CACCG--G---AA-AG-GCC-C--U--------U-----
+DR_0038      --------------UG-GG----C-AG-CGG-G--A--------G-----
+DR_0372      --------------CC--U----G-CG-CCC-C--C--------G-----
+DR_1359      -------------ACC--U----C-GC-CUU-C--C-------AU-----
+DR_2346      -----------UAGGG--U----C-AG-GCC-A-----------------
+DR_1061      ---------UUCCAGG--C----C-CG-CCC-C--U--------U-----
+DR_0123      ----------UUCACU--G----U-GG-AUA-A--C--------U-----
+DR_2497      --------------G---C----U-GG-CCG-A--U--------U-----
+DR_1769      --------------CU-GG----G-CG-GCC-C--G--------C-----
+DR_1269      --------------GC--C----U-UC-CCC-C--U--------C-----
+DR_2322      --------------GC--C----C-CC-GCA-C--C--------U-----
+DR_1150      -------------AGC-UU----C-UG-CGC-C--C--------U-----
+DR_1261      -------------C----C----C-UU-CGC-C--G--------C-----
+DR_0326      --------------GG--U----C-GGCGGG-C-----------------
+DR_0330      --------------GG-AG----G-GG-GCC-G--G--------UGAGAG
+DR_2577      --------------G---C----G-GG-GGU-U--U--------U-----
+DR_0505      ------UGCCGCAGC--CU----C-UG-CCC-U--G--------C-----
+DR_1980      ------------CGUC--C----G-GG-CGG-U--G--------U-----
+DR_1544      --------------GG-CU----C-CG-CCC-C--C--------U-----
+DR_0708      --------------GC--C----A-GG-AGC-G--G--------G-----
+DR_1378      -------------A---------C-UG-GGC-C--U--------U-----
+DR_0569      -----------CUGGG-AA----G-CC-UGC-A--C--------C-----
+DR_1483      --------------GU--G----G-GG-CGG-C--G--------G-----
+DR_0717      --------------G---C----G-AG-CUC-U--U--------U-----
+DR_1845      --------------CC-CG----UCGC-CGC-G--C--------U-----
+DR_0391      -------------AUC-UU----G-CC-GGG-A--C--------G-----
+DR_1715      ------------ACCG--G----A-AG-GGC-U--U--------U-----
+DR_0486      -----ACCCUCGACUC--U----C-CA-CCC-U--C--------U-----
+DR_1386      -------------GCC--G---AG-GC-GCU-U--C--------U-----
+DR_2377      --------------CG--G----G-GC-CAC-U--G--------U-----
+DR_0659      --------------GC-UA----G-GG-CGG-C--U--------U-----
+DR_0399      --------------GG--G----A-GG-GGG-U--U--------U-----
+DR_1850      -----------AUCUC--C----C-GG-CGC-C--G--------U-----
+DR_1732      --------------GA--G----C-AG-GGC-C--U--------U-----
+DR_1584      --------------GG--G----G-AC-AGG-G--G--------C-----
+DR_2321      -------------AGC--C---UC-CC-GCA-C--C--------U-----
+DR_0291      -----------GCUCG--G----G-UG-GGG-C--U--------U-----
+DR_1994      -------------GGC--G----G-GG-GGA-G-----------------
+DR_1034      ------------AA----C----C-UU-CUG-C--C--------C-----
+DR_1214      -------------GGG--G----C-GC-GAG-C--G--------A-----
+DR_0607      --------------GC--C----U-CG-GCU-U--U--------U-----
+DR_1982      --------------CG--U---GG-CG-CUC-C--G-------GU-----
+DR_1218      ----------GAGCCA-CU----C-GG-CAG-G--C--------C-----
+DR_0341      ------------GA----C----G-GG-GGA-U--U--------U-----
+DR_2371      --------------UG--G---UC-GG-GGA-G--U--------U-----
+DR_0898      -------------UUG--G----A-UU-CAA-U--C--------C-----
+DR_1298      --------------GC-U-G--GC-GU-CCC-G--C--------U-----
+DR_1891      --------------G---G----G-CG-GCC-C--C--------C-----
+DR_0349      --------------GG--U----G-GG-GGA-G--C--------U-----
+DR_0085      --------------GG--G----G-GG-GCG-C--G--------G-----
+DR_2394      -----------CUGAG--G----G-CC-AGA-U--U--------U-----
+DR_1969      --------------GG--G---ACUUC-CUC-C--G--------C-----
+DR_0138      ------------UC---------C-CU-CGA-C--U--------C-----
+DR_1181      --------------GG-CG----C-GG-AGG-C--G--------U-----
+DR_0842      --------------UC--C----C-CC-GCC-C--G--------C-----
+DR_0826      --------------GG-CU----C-GC-CUC-C--C--------C-----
+DR_1591      -------------CGA--C---UC-AG-GGG-C--G--------C-----
+DR_0327      --------------G---G----C-UG-CGC-C--C--------C-----
+DR_0325      --------------GG--C----U-CU-UUG-C--C--------C-----
+DR_0140      ------------GAUG--G----G-GG-UAA-C-----------------
+DR_0567      --------------GC-U-C--UC-GG-CGG-U--C--------G-----
+DR_1736      --------------GC--U---GC-CG-GCU-C--C--------C-----
+DR_0404      --------------------------G-AGC-G--A--------U-----
+DR_0740      ---------AGGAAGA--G----G-GC-CGC-A--C--------G-----
+DR_0906      --------------GG--A----G-GC-GGG-C--U--------U-----
+DR_1809      --------------GG-GG----G-CU-GCC-U--C--------U-----
+DR_1840      ---------AGGAGGG--G----C-CG-GGU-U--C--------U-----
+DR_0201      --------------UC--U----CGGC-CCG-C--C--------G-----
+DR_0292      ----------CUGGCG--G----G-UG-GGG-C--U--------U-----
+DR_2310      --------------GC--G----G-GC-GCC-C-----------------
+DR_1383      ------------GCC--GG---GG-CG-GGA-G--C--------U-----
+DR_0613      ------------CGCU--C----G-CC-GUC-C--U--------U-----
+DR_2050      ------------------G----G-UG-CCC-C--U--------U-----
+DR_2423      -------------GG---C----U-GG-GGC-U--U--------U-----
+DR_2300      --------------GC--U----C-CA-GCU-U--U--------U-----
+DR_0685      ----------GGCGGG--G---CGUGC-GCC-G--C--------C-----
+DR_1318      --------------GG-UG----C-CC-GCC-C--U--------U-----
+DR_2317      --------------GC--U----G-GU-GCC-U-----------------
+DR_1844      --------------CC-UGU--CU-GC-CGC-G--C--------U-----
+DR_2637      ----CUGACCGCCUGC--G----G-AU-GGC-U--G--------C-----
+DR_2196      --------------UC--C----GACG-CCC-C--U--------U-----
+DR_0035      ------CUGGUGGACC--C----C-CU-CAC-C--C--------C-----
+DR_2226      --------------GG--U----C-GC-CCU-C--U--------U-----
+DR_2560      --------------G---G----A-GG-GGU-U--U--------U-----
+DR_1623      ----------------------AG-CG-GGG-G--U--------U-----
+DR_0335      ------------AUUG--C----C-UG-GGC-U--U--------C-----
+DR_0788      -------------G----U---CC-UG-GGG-G--C--------U-----
+DR_1196      --------------GC--G----U-CC-GGC-C--A--------U-----
+DR_1473      --------------GG--U----GCGG-GGG-G--C--------U-----
+DR_2390      ------------AACC-CU----C-CG-CUU-C--C--------UG----
+DR_0243      ------GCUCAGCG-----G--GC-GG-GGG-U-----------------
+DR_0945      --------------GC-UU----C-UG-CUU-C--UAUCCCAGUU-----
+DR_1590      --------------GA--C----C-AG-GGG-C--G--------C-----
+DR_1335      --------------CC--U---CU-CC-UCC-C--U--------U-----
+DR_1825      --------------CC--U----G-GC-CGG-U--G--------C-----
+DR_1654      ------------------G----G-GA-GGC-U--C--------U-----
+DR_0554      --------------------------C-CGG-A--U--------U-----
+DR_0429      ------------------G----G-CG-GGG-G-----------------
+DR_1606      -------------CUG--GA--AC-GG-CGG-C--C--------U-----
+DR_1567      -------------GG---C----C-GG-GGA-C--U--------U-----
+DR_0262      ------------CUGG--C----G-GG-GGU-U--U--------U-----
+DR_1245      --------------GG--U----C-CG-UCU-C--U--------U-----
+DR_2052      -----------UCCGG--G----C-GC-CCC-G--C--------U-----
+DR_0792      --------------GC--U----C-CG-GCC-U--U--------U-----
+DR_0166      --------------GC-UG----C-UC-UGC-U--U--------U-----
+DR_0834      --------------GC--U---GC-GG-CGC-C--U--------U-----
+DR_1249      ------------GUUU--G---AG-GG-GCG-G--C--------C-----
+DR_0421      -------------A----G----G-GC-GGA-G-----------------
+DR_0119      --------------GU--U----C-GG-GCG-G--C--------A-----
+DR_1338      --------------GC--U----C-AU-GCC-U-----------------
+DR_2257      ------------UAGG--A----G-CG-GGC-G--G--------C-----
+DR_2078      --------------GG--G----A-AG-UGG-C--C--------C-----
+DR_0794      --------------GC--U----C-CG-GCC-U--U--------U-----
+DR_0907      ------------------G----G-CG-GGG-G--C--------U-----
+DR_0473      --------------CU--GA--C--CG-GGG-C--U--------U-----
+DR_0631      --------------G---U----C-CC-GGU-U--U--------U-----
+DR_1974      --------------GC--U----G-CU-GGC-C--U--------U-----
+DR_1014      --------------U---G----C-CG-GUC-C--C--------U-----
+DR_0594      ------------CCUG-GG----G-UG-GCC-G--U--------C-----
+DR_1315      --------------GG--A----AUGU-GCC-U--C--------G-----
+DR_2256      --------------GG--AA--AG-CG-GGU-A--G--------C-----
+DR_1339      ------------GGGC--U----G-GG-GAA-G--G--------C-----
+DR_2582      --------------CA--GU--GU-GU-CGA-A--C--------C-----
+DR_0751      --------------GC-GGC--GG-UG-GGC-C--U--------U-----
+DR_0460      --------------GG--G---AG-AG-GGC-C-----------------
+DR_1248      --------------C---U----C-CC-GGC-U--U--------U-----
+DR_1832      --------------CC--G----G-GU-GGG-G--U--------U-----
+DR_2341      -------------CGG--A----C-AG-GGG-A--C--------U-----
+DR_2344      --------------GU--C----C-GG-GGG-G-----------------
+DR_1839      ---------UGGAAGG--G---UC-CG-GGC-U--U--------U-----
+DR_0644      ------------------G----G-GG-GCG-G--U--------U-----
+DR_0193      -------------AGC-CU----C-GG-CGU-U--C--------U-----
+DR_1478      -------------GGC--C----U-CU-CCCAC--U--------U-----
+DR_1942      --------------CC--U----C-CG-UGU-U--C--------C-----
+DR_1285      -----------UCAGC--G----U-GG-CGC-C--C--------U-----
+DR_2149      ---------GUAUGAG--G----G-GG-GCG-G--C--------U-----
+DR_1879      --------------GG--G----G-AG-GCG-U--U--------C-----
+DR_2580      --------------UC--C----U-UU-CUC-C--C--------C-----
+DR_0218      -------------G----C----C-CG-GUC-U--U--------U-----
+DR_0691      -------------AGG--U----G-GU-GGG-A-----------------
+DR_2071      --------------GG-AU---GC-UG-GGC-C-----------------
+DR_0289      AGCAGCUUUUCCUAUCAA----CC-AU-CAA-C--C--------C-----
+DR_0646      ---------GGUCGGC--U----G-GG-CGG-U-----------------
+DR_0837      ---------GAGGAUG--C----C-UC-CAG-A--A--------C-----
+DR_0446      --------------CG-AGG--CG-GG-CGU-G--U--------U-----
+DR_0043      -------------G----G----C-GG-GGG-G--C--------U-----
+DR_1601      ------------GACC--C----G-GA-CGC-U--U--------U-----
+DR_0787      ------------UG----C----C-UG-GGG-G--C--------U-----
+DR_0743      --------------GG-AA----G-GG-GGC-C--U--------U-----
+DR_2286      --------CGGCUCGC-CU---UCGCG-CCC-G--C--------U-----
+DR_1998      --------------GG--G----C-GG-CUU-U--U--------U-----
+DR_1488      --------------G-------UA-CG-UCC-A--C--------G-----
+DR_1872      --------------C--CU----C-AA-UGC-U--C--------C-----
+DR_1234      ------------CCGG--C----G-GA-GGC-U-----------------
+DR_2208      -----------CAGUC-UC----A-GG-CGC-C--C--------G-----
+DR_0742      -------------GGG--A----A-GG-GGC-U--U--------U-----
+DR_1340      --------------UC-UC---CC-CU-GCG-G--C--------U-----
+DR_1445      --------------GC--U----G-CC-CCU-GAUU--------C-----
+DR_1428      ------CCCGCUAUCC--U----C-CC-CCC-A--U--------G-----
+DR_2508      -------------A----G----G-GG-GGC-U--U--------U-----
+DR_0528      -----------------------G-CG-GGG-G-----------------
+DR_0472      --------------CU--G----C-CG-GGG-C--UG------CU-----
+DR_2635      -----------UGUGA--U----G-GG-UAG-G--UC-----AGC-----
+DR_2527      -------------C---------G-CU-GGC-U--U--------U-----
+DR_1538      -------------AGC-GG----G-GG-CGC-A--U--------U-----
+DR_0161      -----------------------G-GC-GGG-U--C--------U-----
+DR_1348      --------------GC--G----C-UG-CCG-C--C--------U-----
+DR_1436      --------------UC--C----G-GC-AUG-G-----------------
+DR_2057      ------------------G----G-AU-GGG-U-----------------
+DR_2364      --------------GG--C----U-GU-GCC-U--C--------G-----
+DR_1117      --------------GG--G----G-UG-UUC-C--U--------C-----
+DR_1432      ------------GG---------C-CG-CGC-U--U--------U-----
+DR_2453      --------------G--------G-GG-AGU-U--U--------C-----
+DR_2367      -----------GCUGC--C----C-AG-CAC-G--C--------C-----
+DR_1482      --------------GC--U----C-CU-GCC-U--C--------U-----
+DR_1948      --------------GG--A----U-GC-GCC-U--U--------U-----
+DR_0762      --------------GG--A----G-GG-GGC-C--U--------U-----
+DR_1294      -----------------------G-GG-GGC-U--U--------U-----
+DR_0563      --------------G---G----C-GG-GGG-G-----------------
+DR_1213      -----------GAAGG--C----G-CG-AGC-G--A--------G-----
+DR_2292      -------------UGG--GA-AAG-AU-GCC-G--C--------G-----
+DR_0488      ----------UGACGG--C---GG-CG-GGU-C--G--------G-----
+DR_1202      ------------CAGG--U----C-CG-GGU-C-----------------
+DR_0139      --------------GC--C----C-UC-GCC-C--U--------G-----
+DR_1413      -------------G----G----C-CC-CGG-C--U--------U-----
+DR_0672      --------------GC--C----C-GG-UGC-G--G--------U-----
+DR_0075      -------------U----C---CG-GG-UGG-G--G--------C-----
+DR_0606      --------------UC-UG----A-GC-CUG-U--U--------C-----
+DR_0799      --------------GC--G----G-GG-GGC-U--U--------U-----
+DR_1616      -------------GC--GGU-GUC-CG-UCC-C--U--------C-----
+DR_0362      --------CUUCCAGC--C----A-CG-UGC-C--CC------GU-----
+DR_1835      -------------AGC--U----C-CG-GCU-U--U--------U-----
+DR_2369      --------------GU--U----C-UG-GGC-G--C--------U-----
+DR_1838      --------------GC-CG---CC-AC-CCG-C-----------------
+DR_0342      --------------GG--C----G-GG-GGA-C--U--------U-----
+DR_2611      ---------GGUGCG---G----G-GC-CGC-A-----------------
+DR_1008      ----------AAAC---AG----C-CU-CCG-G--U--------U-----
+DR_1600      -------------C----C----C-CG-GAC-GUGC--------U-----
+DR_1452      -----------CCUCU-GC----G-GC-GCU-C--C--------G-----
+DR_0878      --------------GC--U---GA-GG-CCC-U--U--------U-----
+DR_2070      --------------G---G----G-GC-GGU-U--U--------U-----
+DR_1720      --------------GG--G----C-GG-GGG-C--U--------U-----
+DR_1187      ------------GACU--U----U-GC-GGC-G--C--------C-----
+DR_1188      ------------GACU-UU----G-CG-GCG-C--C--------U-----
+DR_0095      -------------C----C----A-AA-CUA-U--U--------U-----
+DR_2609      --------------GG--C----C-GG-GGA-G--G--------U-----
+DR_2511      --------------UG--G----C-GG-GCG-C--U--------U-----
+DR_1064      -------------GCC-CG----G-CG-GCG-G--U--------U-----
+DR_1019      ----------GAGUGU--C----C-GC-CUG-C--U--------G-----
+#=GC SS_cons ..............>>..>....>.>>.>>>.>..>........>.....
+#=GC RF      ..............Gc..g....c.cG.ggc.c..c........U.....
+
+DR_2251      ------UUAUU---CU--------UAUU--------GA-C-----C-UGG
+DR_1020      ------CUUUG----U-------CUUUU--------GC-UU---AC--AG
+DR_0911      ------UUUUUG--GU-----------U--------GC--U---GC-CGG
+DR_1343      ------CCUCU----U-------GACCA------------U----C--CA
+DR_1936      ------CCCCU----U-------UUUAU------------U----C--GG
+DR_0746      ------UUU---------------CUGU--------UC--U----C--UG
+DR_1627      ------UUUCA---CUG------UUUGU--------UU-UU---AC--UG
+DR_2610      ------UU-------------------U------------U----C-GUG
+DR_1940      ------UUU---------------CUAG------------U----C-CAG
+DR_1822      ------UUUGC----U-------UUUAG------------U----C--AG
+DR_0575      ------CU--------C------CCCGU------------U----C--UG
+DR_1963      ------UU--------G------UUGAA--------GA-AU----C--AG
+DR_1962      ------UUUUA----UU------GCUCG--------GC--U----C--AG
+DR_1721      ------UU---------------ACUGC------------U----C--UA
+DR_2446      ------CU--------C-----CCCUUU--------UC--U----C--UU
+DR_0118      ------GACUC----U--------UCGA------------U----C--UU
+DR_1892      ------CU----------------CCAU--------UC--U----C--AG
+DR_1857      ------UU----------------CUCG------------U----C-UGG
+DR_2229      ------UU-------------------G------------UU--G---UA
+DR_1611      ------UCUUU----UCU----GUCCUG--------UC--U----C-AAG
+DR_0958      ------CCUUU----UCU----CUCUUU--------GC-CU---G---CG
+DR_1551      ------UUU---------------CUAU------------U----C--AA
+DR_1411      ------UC-------------------A--------GC--U----C--AA
+DR_1055      ------UUUUG----U-----------G--------GA-CU----C--AG
+DR_1973      ------UU-------------------U--------GA-C-----C--CU
+DR_2510      ------UCUUU----U-------GCUGU--------CA-GU----C--AG
+DR_0094      ------UU-------------------U------------U----CAAAG
+DR_1548      ------CUUUU----UGU----GGCUUA--------GA-A-----C--GG
+DR_0070      ------UCGUG----U-----------U--------GC-GUA--U---UU
+DR_2179      ------UUUCG----U--------UUUA--------CC--U---G---GA
+DR_1710      ------CUUUU----U-------GCCGU--------GC-UU----C--AG
+DR_1709      ------UU-------------------U------------UA--A---AG
+DR_2388      ------UU-------------------U------------U----C--UG
+DR_0459      ------UCUGU----U--------UUUG--------AC-C-----C--UG
+DR_0479      ------CCCGU----U-----------U--------GC--U----C-UUA
+DR_0843      ------UUUUU----U-----------G--------GC--U----C-UGG
+DR_2569      ------CGCUU----U-----------U--------AA--U---G---GG
+DR_0006      ------UGUUC----U-------GUACU--------GC-UU---UC--UG
+DR_0860      ------UUCGU---AU-----------G--------AC--U----C-AUA
+DR_1311      ------CAGUU----U----------UU------------U----C-AUG
+DR_2395      ------UUU------------------U------------UG--G---UG
+DR_0988      ------UGCUU----UGG----AUUUUU--------GA-C-----C--CU
+DR_0812      ------GG-------------------G--------GU-UU---GC--GG
+DR_1723      ------CU----------------UUGG------------U----C--UG
+DR_1063      ------UUUCU----U--------AUUC--------GC-G-----C--AG
+DR_1114      ------CGCUU----U-----------U------------U---GC--CG
+DR_1212      ------UC---------------AUUGU------------UA--U---CG
+DR_1491      -----AUUUGC----U-----------U--------UC-UU----C-CAG
+DR_1706      ------UUUUU----U-------CUUGU--------UC-C-----C--UG
+DR_1970      ------UUCUU----UG------AUGGG--------GU-G-----C-UCU
+DR_1305      ------UGCCG----UG------CUGUG--------GC--U----C--AG
+DR_1549      ------CUCUU----U-------UGCGG------------U----C--UU
+DR_1699      ------UUU-------AA----GCUCUG--------GC-GU----C-CAG
+DR_2448      ------CUUUU----UG-----UAUCCA--------UC-GU----C--AG
+DR_0887      ------CUU-------C-----GCCUGG--------CC-CU----C--UA
+DR_1691      ------GA---------------GCGGA--------GC-G--------AG
+DR_0478      ------CUCCG---CUUU---ACUUAUG--------GC-CU----C--GG
+DR_0886      ------CU--------G------ACUUG------------U---G---UG
+DR_1161      ------UCUCG----U-----------U--------UC-A-----C--AA
+DR_2370      ------CUUUU----U-----------U--------CA--U---GC--UG
+DR_0551      ------CA--------A-----AGCAGA--------GC-A-----C--GA
+DR_1299      ------UCCUU----U-------UCAAG------------U----C--UG
+DR_1277      ------UCUUU---GUAC----UU----CGGAGAGUGC--U----C--AG
+DR_1536      ------UU-------------------U--------GA-A-----C--GG
+DR_0727      ------UUUUC----U-------ACUUU--------GC-CU---UC--AU
+DR_2195      ------UUCUU----UGG---CCGAUGG--------GU-UU---AC--UG
+DR_1988      ------CUGCU---AU-----------G--------AA-AU---GC--CG
+DR_1122      ------CUCCC----U--------UCUU--------GC--U---G---UG
+DR_1537      ------UU----------------UCAU--------GC--U----C--UG
+DR_1151      ------UUUUU---GU-------UCCUU------------U---AC--AG
+DR_2096      ------GCUCC----U-----------G--------GC--UC--AC--CA
+DR_0165      ------UUUUG----U-----------U--------GC-C--------CG
+DR_0920      ------CUUUU----U--------CGGU--------GC-C-----C--CG
+DR_0485      ------CUCCU----U--------UUUC--------GC--U----C--GG
+DR_2265      ------UUUCG---GU-------GUUCA--------GC-C-----C--AG
+DR_1306      ------UUUUU----U-------AUGCU------------U----C--AG
+DR_2389      ------UCU------------------A--------GC--U----C-GGU
+DR_1290      ------UUCUU----U-----------G--------GC--U---U---UA
+DR_2495      ------UUU------------------U--------GC--U---GC--UG
+DR_0985      ------UUUUUC--GUG------CCUGU--------CC-GU----C-CCG
+DR_1180      ------UUUUU----UC------UCCGU--------UU--U---A---AG
+DR_0791      ------UGUUU----UGG----GAUGGG--------GA-C-----CGCAG
+DR_2552      ------UUCGC----U-------GCCCU--------UC--U----C-UUU
+DR_0556      ------UUCUU----UG-----GUCUCG--------GC-CUG-CGC--CG
+DR_0498      ------UU---------------CCCCU--------GC-C-----C--AG
+DR_1492      ------CUUUU----U-------GCCUU------------U----C--UU
+DR_2472      ------GC----------------UGGG--------GA--U---GC--AG
+DR_1791      ------CU-------------------G--------AU-A-----CGGAG
+DR_1981      ------UU-------------------U--------GC--U---GC--GG
+DR_2130      ------CUU------------------U------------U---AC--AU
+DR_0256      ------CUUCU---AU-------AUGGU------------U---GCAAAG
+DR_0747      ------UC--------A------UUUCU--------GC--U----C--AG
+DR_0390      ------UUGCU----U--------UUGG--------AC--UA--A---AG
+DR_0969      ------CCUUA----U--------CUGU------------U---U---UU
+DR_1423      ------UUUUC----U-----------G------------U----C--CG
+DR_1286      ------UUU-------C-----CAUUGA--------GC-CU----C--AU
+DR_1404      ------GU-------------------G--------GC-GUU--G---GG
+DR_2049      ------UUUUU---CU-----------G--------CC-AU---G---UG
+DR_2041      ------UU----------------CUAU--------AC--U----C--GG
+DR_1175      ------CUC------------------A--------AC--U---G---UU
+DR_1856      ------UUUCG----U--------CGGU--------GU-CUU--A---UU
+DR_1276      ------UUUCA----U--------CUCG--------GC--U----C--AG
+DR_2146      ------UUUCU---CU-----------G--------GU-CUA--A---AG
+DR_1477      ------UUUUC----U-----------U--------GA-AU---CC-CCG
+DR_2203      ------CUGCU----U-------GUGUU--------GC-G-----C--UG
+DR_0813      --------UUU----U-----------A------------U----C--GA
+DR_2498      ------UUUUC----UU------CCUAU------------U----C--CG
+DR_2490      ------CC-------------------U------------U----C--CU
+DR_0194      ------UUUUU----U-----------G--------GC-CU---GC--UU
+DR_1662      ------UUUUG----UG------CCUUU------------U---AC--UG
+DR_2230      ------CU-------------------G------------U---G---AA
+DR_0955      ------UU---------------GCUUG--------GU-GU---CC-CAG
+DR_1571      ------CA-------------------A------------U----C--CG
+DR_1984      ------UU-------------------U--------GU-G-----C--AG
+DR_2444      ------UUUUU----UAU---GAGCCAG------------U----C--GG
+DR_0910      ------UUC--------------UAUGG--------GC--U---AC--AG
+DR_0641      ------UU-------------------U--------UC--U----C--AG
+DR_1661      ------CU-------------------G--------CC--U---CC-AAG
+DR_1897      ------UU-------------------G------------U---U---AG
+DR_0155      ------UC-------------------A--------GC-G-----C--AG
+DR_2004      ------GA---------------GCGAA--------GC-G--------AG
+DR_1433      ------UU----------------CUAU--------CC-A-----C-CAG
+DR_1387      ------UU-------------------G--------GA--U----C--CG
+DR_0693      ------CC-------------------G------------U---U---UG
+DR_1211      ------UCUUU----UG-----GGUGGG------------U---GC-UCG
+DR_1743      --------AGU----U-----------G--------AC-GU---U---GG
+DR_1941      ------UUUUC----U-----------U--------AC--UG--A---AA
+DR_2383      ------UAUUU---AU--------UGGA------------U---G---UA
+DR_1983      ------UG----------------UUGG--------GC-G-----C--UG
+DR_1770      ------UUUUG---CU--------CUGU--------CU--U----C--AG
+DR_1755      ------UUU------------------U--------GA-C-----C--CU
+DR_1610      ------UCUCU---A-AA----AGUGCU--------GC--U----C--AG
+DR_2541      ------CU-------------------C--------CC-CU----C--AA
+DR_0237      ------UUUUUG--GU-----------G--------GU-GUG-GG---GG
+DR_1742      ------UU-------------------U--------GC--U----C--CG
+DR_0392      ------GUUUU----U---------UAU--------GC--U----C--AG
+DR_2118      ------CCCUU----U-------GCUUC------------U----C-GUU
+DR_0114      ------CC----------------UUCU--------GC-C-----C--AU
+DR_1481      ------AU---------------GCUGU------------U----C--CG
+DR_2449      ------CUUGG----U-------UUGGG------------U----C--AG
+DR_0005      ------UUCUG----U-----------G--------GC-CU---G---AA
+DR_2627      ------UUCUU----UG-----CAUAAG--------GU--U----C-GAG
+DR_1509      ------UCUUAG--GU--------CAUG------------U----C--AU
+DR_0728      ------UC---------------GCUCU--------GC--U---G---UG
+DR_2077      ------UU-------------------U------------U----C--AG
+DR_2573      ------UUUGA---AU-----------C--------UC-C-----C-AAG
+DR_1176      ------CUUUU----U-----------U--------UC--U----C--UA
+DR_1123      ------CCUUU----U--------AUUG--------GC-C-----C--CU
+DR_0084      ------UCUGG----U-----------G--------GU-C-----C--UG
+DR_2008      ------GGUUG----UG------GUGGG------------U----C--CG
+DR_0930      ------CUUGU---GU-----------U--------GC--UG--A---AA
+DR_1754      ------UUUCG----UG------ACCCG------------U---G---AG
+DR_2494      ------UUUUA----U-----------U--------GU-CUU--U---UA
+DR_1320      --------AUU----U-----------U------------U---G---UG
+DR_1369      ------UU-------------------G--------UC-GU---G---AG
+DR_0640      ------UUCUC---GU--------UCCA--------GC-CU----C-GUU
+DR_2343      ------CU---------------GCGCG--------GU--U---U---AG
+DR_2556      ------UUUUC---CUG------CCUUA--------GA-G-----C--AG
+DR_1607      ------UGUUU---C---------UUGG--------GA-GUU--GC--AG
+DR_2565      --------UUU----U-------GCUUU--------GC-CU---G-----
+DR_0117      ------CUUCC---A---------UCCA--------CC-AU----C--AA
+DR_2101      ------GGUCU----U-------UUUGG--------CC--U---UC--AG
+DR_1733      ------UUUUU----U-----------G--------GU-G-----CGAAG
+DR_0583      ------CCUUU----U--------UGAG--------GC-G-----C-CCU
+DR_2266      ------CCUGC----U-------GACUG--------GA-C-----C-GUG
+DR_0957      ------CUAUU----U--------CGUU--------GC--U---GC--UG
+DR_2188      ------UUUCG----U-----------U--------GU--UC--CC-UAG
+DR_2164      ------UCCCU----U-----------U------------U---UC--CU
+DR_0323      ------UUUUA----U-----------G--------GC-C-----C--GU
+DR_2361      --------UUU----U--------CUUU------------UG--G---GG
+DR_2620      ------CUUUU---GU--------UUUU--------UC-UUG--U---CG
+DR_1808      ------UUCCU----UAU---UUCCUUA--------UC--U----C-AAG
+DR_2447      ------UUC--------------GCGUU--------AC-UU----C--UG
+DR_0383      ------CUUUU----U-------GUUUU--------GC-UU---U---UA
+DR_2263      ------UUUUG----U-----------U------------UG--G---AG
+DR_1250      ----ACUUUUU----UCU----GGCGAU------------U---U---AG
+DR_1197      --------UGU----UG------GUUUU------------U---GC-CGU
+DR_1785      ------UUUUUA--GU--------CCGG--------CC-UU----C--AG
+DR_0550      ------CA-------------------A--------GU--U----C-AAG
+DR_1370      ------UUUAU----U-------UCUCG--------UC-GU----C-CAG
+DR_1968      ------UUUCG----UGU---UGCCGGC--------GC-C-----C--AG
+DR_0565      ------UUCUU----U-----------G------------U---G---UA
+DR_0757      ------UUCUU----UGC---UGCCUGU------------U---U---CG
+DR_2065      ------CCUUU----U--------UUCG--------UC--U----C--UU
+DR_0038      ------GUUUU----UU-----GACGGU--------UC-GU----C--GG
+DR_0372      ------CUUUG----U-------UUUGG--------GC-C-----G-GAG
+DR_1359      ------UCUUU----UC-----AGCCCA--------UC-UU---GC--CG
+DR_2346      --------U------------------G------------U----C--CG
+DR_1061      ------UUUCC---CU--------CCCU------------UA--G---AG
+DR_0123      ------UUU-------GA----AGCGGA--------UU-UU----C-AAG
+DR_2497      ------UUCUU----U--------UUGG--------GA-CU----C--AG
+DR_1769      ------UUCCU---GU--------UUUA------------U---U---UG
+DR_1269      ------UUUUGG--UU-----------U--------UC--U----C--UG
+DR_2322      ------CUUUU----UAU----UCCCGU--------GU-CU----C--UG
+DR_1150      ------UUUCU----U-------GUAAU------------U----C-UUA
+DR_1261      ------UUUUU----U-----------G------------UG--A---UG
+DR_0326      --------CUU----U-----------U------------U---G---CG
+DR_0330      GCAAGCUU-------------------U--------AC-UU----C-UUG
+DR_2577      ------UGUUG----U--------UCUG--------UA-GU---U---AG
+DR_0505      ------UUUUG----UU-----GU-CUU--------UU-GU----C-GAG
+DR_1980      ------UUCUU----UC-----GGCUAU------------U----C-CAG
+DR_1544      ------UUUUG----U--------UGUC--------UC--U----C--AG
+DR_0708      ------UUUUG----UC------GUGAG------------U----C--AU
+DR_1378      ------UUUUG----UU-----GGCUCG------------UA--A---AG
+DR_0569      ------GUCGC----U--------CUUU------------U----C--UG
+DR_1483      ------CUUUU----UG-----CUGUCG--------GC--U----C-AUA
+DR_0717      ------UU----------------CCAA--------AC-G-----G--AG
+DR_1845      ------CU-------------------G--------GU--U----C--UG
+DR_0391      ------GG-------------------U--------GC--U----C-AAA
+DR_1715      ------UU---------------GAUGG------------UG--G---AG
+DR_0486      ------UC---------------CCUGU------------U----C-GCG
+DR_1386      ------UUUUU----UG------GCCGU--------CC-G-----C-CCG
+DR_2377      ------UUUUG----U-----------C--------UC--U----C--AG
+DR_0659      ------UUUCU----U-------AUGUU--------GA-C-----C--CU
+DR_0399      ------UU-------------------C--------GC-GU---GC--UG
+DR_1850      ------UCUUU----U-----------G------------U----C-CCA
+DR_1732      ------CU--------GG----CAACGG--------GC--U---U---UA
+DR_1584      ------UUC------------------G--------AC-G-----C-UGG
+DR_2321      ------UC-------------------A--------AC--U---U---UG
+DR_0291      ------UU---------------CUUGG------------UA-GG---AG
+DR_1994      --------UUU----U-----------G--------UU-UU---AC--UG
+DR_1034      ------UUUUUA--CU-----------G------------U----C--UG
+DR_1214      ------GUUGG----U-----------U------------U---GC--CG
+DR_0607      ------UU-------------------U--------GC-GUU--U---UA
+DR_1982      ------UUCUU----U-----------G------------U----C--UG
+DR_1218      ------CUUUU----UGU----GCUCGU--------GC-C-----C--GA
+DR_0341      ------UUCGU----U-----------G--------GC-CUU--U---AG
+DR_2371      ------CUCUU----U-----------G------------U---G---AA
+DR_0898      ------GACUU---GUA------AAGCU--------GC-G-----C--AG
+DR_1298      ------UC-------------------U------------U----C--GG
+DR_1891      ------UUUUC----U--------UUAU--------CC-C-----C-UCA
+DR_0349      ------UUUUU----U-----------G--------GC-UUA--G---AG
+DR_0085      ------UUUUU----U-----------U--------UC-A-----C-CUG
+DR_2394      ------UUCGG----U-----------G--------AC-GU----C-ACG
+DR_1969      ------UU-------------------C--------AC-AU----C-GUU
+DR_0138      ------CU-------------------C--------GA-C-----C--AA
+DR_1181      ------UC---------------GCGUU------------U----C-AAG
+DR_0842      ------CU-------------------G-----------------C-UCG
+DR_0826      ------UCU------------------U------------U---GC-AAA
+DR_1591      ------UCUCC----U-----------U--------GC-CUG--G---AG
+DR_0327      ------UCUCC----U-----------G--------AC--UC--GC-CUU
+DR_0325      ------CCCUU----UC-----UUUUGU--------GC-CU---G---GG
+DR_0140      --------UGU----U--------UGCG--------GU-CU----C-CUG
+DR_0567      ------UUCGU----U--------UGAA--------GU--U---CC-UAA
+DR_1736      ------UUUUU----UGUUGGCGCUUUG--------GC-UU---G---AG
+DR_0404      ------UC-------------------A--------AC-C-----C-GAG
+DR_0740      ------CU-------------------G------------U---A---GG
+DR_0906      ------UUUCG----U-----------G--------UU-CU----C--CG
+DR_1809      ------UU-------------------U--------AA-A-----C--AU
+DR_1840      ------UGCUGC--GU-----------G--------UC--U----C--AG
+DR_0201      ------CUCUU----U-----------G--------CC-GU----C-AAU
+DR_0292      ------UU--------GC---UAGCUGG--------GC--U----C-AGG
+DR_2310      --------CUU----U-----------U------------U----C--AG
+DR_1383      ------CUUCU----U-----------U------------U---U---CG
+DR_0613      ------UUUUGG-CCUU------CCUUG--------AC--U---U---UG
+DR_2050      ------CUUUU----U-------AUUUU------------U---CC-AGG
+DR_2423      ------UU-------------------C--------GC--U---G---AG
+DR_2300      ------UU-------------------G------------UG--G---AG
+DR_0685      ------UCUUU----UG------CACUU--------CC-UU---U---UG
+DR_1318      ------UU--------C------GUCGG------------U----C--AG
+DR_2317      --------UUU----U-----------U--------GU--U----C--UG
+DR_1844      ------CUU------------------U------------U---G-----
+DR_2637      ------CUCUU----U-------AAAGA------------U---GC--UG
+DR_2196      ------CUCUU----U-----------G--------GCCCU----C--AG
+DR_0035      ------UU-------------------U--------GC--U---U---CG
+DR_2226      ------UCCUU----U-------GCCGA--------CC--UG--AC--CG
+DR_2560      ------CUAUU----UGG----CCGGUG--------GC--U----C--AG
+DR_1623      ------UUCGU----UG-----GGUCAG--------GC--U----C--AG
+DR_0335      ------CUUCU----UG-----CUUGUG--------UC--UU--UC--CG
+DR_0788      ------UU--------G------CUUGG--------GU--U---G---AG
+DR_1196      ------UUUGC----U-----------G--------UC--U---U---UG
+DR_1473      ------UUUUU----U--------UAGG--------GC-G--------AG
+DR_2390      ----CUCCUGU----UC------ACUGC--------CC--U----C--AG
+DR_0243      --------UUA----U--------UCGG--------CC-C-----C--AA
+DR_0945      ------UUCUU----U-----------U------------U----C--AA
+DR_1590      ------CUUUU---GU-----------U--------GC--U----C-AGU
+DR_1335      ------UCCUU----UC-----AAUGGU--------UC-GU---GC--AG
+DR_1825      ------UUUUU----U-------CUGUG--------GC--U----C--UA
+DR_1654      ------UUUUU----U-----------G--------GC-AU----C--CG
+DR_0554      ------UUU------------------G------------U---CC--AU
+DR_0429      --------UUU----U-------UCU--------------U---G---UU
+DR_1606      ------GCU------------------U------------U---U-----
+DR_1567      ------UUUUG----U-----------A------------UG--G---AG
+DR_0262      ------CUUUG---GU--------CGAG------------U----C--CU
+DR_1245      ------UUUUG----UG------UUGUU--------GC-CUA--GC--AG
+DR_2052      ------UUUUU----UGCU-CGCUCCGG--------CC-C-----C-CCG
+DR_0792      ------GCUCA----UUG---AGACUGG--------AU--U----C--AG
+DR_0166      ------UUUGG----U-------GGGGG------------U---A---AG
+DR_0834      ------UUUCU----UG------UCAUU--------CC-CU----C--CA
+DR_1249      ------UUUUU----U-----------G--------CU--U---AC-UUG
+DR_0421      --------UUU----UU------AUACG------------U---AC--UG
+DR_0119      ------GUUUU---UU-----------U--------GA-A-----C--CG
+DR_1338      --------UUUA--C--------AU--U--------GU--U----C-GAG
+DR_2257      ------UU-------------------U--------GA-AU----C--UG
+DR_2078      ------CUUGC----U-------GUUUC--------UC--U----C-CUG
+DR_0794      ------UUUCUG-CCUG-----CCCUUU--------UC-C-----C--GG
+DR_0907      ------UUCGU----UUG---UGGCCUU--------GC-C-----C-CUA
+DR_0473      ------UUUCU---GU-------UCACU------------U----C--AU
+DR_0631      ------UUC------------------A--------UC-G-----C-CAG
+DR_1974      ------UUUUA----UG-----UCCCGG------------U----C--AG
+DR_1014      ------CUUCU----UCA---UUCCCUU--------GC-UU---A---GA
+DR_0594      ------CCU------------------U--------GC-C-----C--UA
+DR_1315      ------CUCUU----U-----------U--------GC--UG--U---UG
+DR_2256      ------UUUUU----U-----------A--------UU------GC--AG
+DR_1339      ------UGUUU---AUU-----UACCAU--------GC-CUU--CC-AAU
+DR_2582      ------UCUUU----U-----------G--------GC--UG--A---AA
+DR_0751      ------UU---------------GCUGU------------U---G---AU
+DR_0460      --------U------------------U--------GC-GUA--GC-AAG
+DR_1248      ------UUUGC----UG-----CCUUUU------------UG-GAC-UUG
+DR_1832      ------GU-------------------U--------GC-G-----G-UAG
+DR_2341      ------CGCCU----UCG----GGCCGG--------UU-GU----CGAUG
+DR_2344      --------UUU----UG------UUUUG--------GC-GU----C--AG
+DR_1839      ------UUUGA----U-------GCCUU--------GU--UA--GC-CGG
+DR_0644      ------UUUCU----UU-----GCCUGU--------GC-C-----C--AG
+DR_0193      ------UCUUGG--AU-------GUGAU--------GU-UU----C-AAU
+DR_1478      ------UUUCA----U--------CCCU------------U----C-GCU
+DR_1942      ------GCUUU----U-------UUUGA--------GC-GU---UC--AA
+DR_1285      ------UC-------------------G------------U---U---CG
+DR_2149      ------UUCCU----U-----------G------------UG--G---AG
+DR_1879      ------CUUGU----UG------CUGUU--------GU--U---G---AG
+DR_2580      ------UUU-------G------CCUUU------------U----C-CAU
+DR_0218      ------CUUGG----U-----------U------------UG-GA---AA
+DR_0691      --------UUU----U--------UGUU--------GU-G-----C--AG
+DR_2071      --------UUU----U--------CUGU--------GU--UC--AC--GG
+DR_0289      ------UCU---------------CCCA------------U----C--AA
+DR_0646      --------U--------------CACAU------------U----C--UG
+DR_0837      ------CUUUU---GU-----------C--------GC--U---A---CG
+DR_0446      ------GG----------------CGUG--------GC--UG--AC--CG
+DR_0043      ------UUUCC----UG------GUGGG------------U----C-GUG
+DR_1601      ------UUUGU----U-----------U------------U----C--UG
+DR_0787      ------UU--------C------UCCCU--------GC--U----C-CGG
+DR_0743      ------UUUUG----UG-----CUCUGG--------AC--U---G---GG
+DR_2286      ------GGUUU----U-----------U--------GC-GUU--CC-AGG
+DR_1998      ------UU---------------AUGGU--------CC--U----C--UG
+DR_1488      ------UU-------------------G--------AC-CU----C-CCG
+DR_1872      ------UCUCG---CU-----------U--------GC--U---U---AG
+DR_1234      --------UUA----C-------ACUUG--------CC-G-----C-AUG
+DR_2208      ------CUU--------------GCUGA------------U----C--AG
+DR_0742      ------UU---------------CCUGG--------GC--UG--U---UU
+DR_1340      ------UU---------------GCUUC------------U----C-AAG
+DR_1445      ------UUU------------------A--------GC-G-----C-ACG
+DR_1428      ------CUUUU---GUG------GUUCG--------UC-GU----C--AU
+DR_2508      ------UUUCG----U-----------U--------AU--U----C--UG
+DR_0528      --------UUU----U-----------U--------GC--U---C-----
+DR_0472      ------UUUUA----U--------UCUG--------AA-C-----C-UAG
+DR_2635      ------UUUUU----U-----------A------------U----C--CA
+DR_2527      ------UUUUG---CU-----------U--------AC--UA-GG---AG
+DR_1538      ------UUU---------------CUGU--------UA--U----C--AA
+DR_0161      ------UU----------------CCUG------------U---A---GG
+DR_1348      ------UUUCA----U-------GUUUG--------GC-G-----C--AU
+DR_1436      --------UUU----U--------UUAU------------U---U---AG
+DR_2057      --------UUU----U-----------A------------UU--U---GG
+DR_2364      ------CC---------------CCCCA--------CC-C-----C--GA
+DR_1117      ------AUCUC----U-----------U------------U----C-AUU
+DR_1432      ------UUUGC----U-------GUUUU--------GA-AU---G---GG
+DR_2453      ------UUU------------------U--------GC-C-----CGCAG
+DR_2367      ------GCC--------------CAUGA--------CC-CU----C--AG
+DR_1482      ------UUUUG----U-----------C--------GC-U--------UG
+DR_1948      ------UUCUU----UU------GCGGG------------UGGGU---AG
+DR_0762      ------UU---------------GCUGU------------UU--A---AG
+DR_1294      ------UUUCG----U-----------G--------UU--U----C--AG
+DR_0563      --------UUU----U-----------U--------GA--U---G---AG
+DR_1213      ------UGA------------------G------------U----C--AG
+DR_2292      ------CC----------------CCUU------------U---C-----
+DR_0488      ------GGCUU----U-----------U------------U----C--GG
+DR_1202      --------UUC----U-----------G------------U----C-GAG
+DR_0139      ------UUUUG----CC------GCCAG--------CC--U---G---AG
+DR_1413      ------UCCUU----UU-----GCUUAU--------GC-C-----C-UGA
+DR_0672      ------UU-------------------U------------U----C-AUG
+DR_0075      ------UUUUC----U-----------A------------U----C--CU
+DR_0606      ------GUUUC---CU-------GUUUU--------UC-UU----C--CU
+DR_0799      ------UUCUC----U-----------G--------GU--UG--AC--AG
+DR_1616      ------UUU-------GCG--GCCCGCG--------GC-UU----C--AG
+DR_0362      ------UUUCU----U-----------U--------GU--U---G---UG
+DR_1835      ------UCUUUGCCC--------UCCCG--------UC-A-----C--UG
+DR_2369      ------UCCUU----U-----------U--------GC--UG--GC--UA
+DR_1838      --------UCC---AU-------UCUCU--------GC-UUC--GC--AG
+DR_0342      ------UUU-------GGA-GAGCCUGA--------AC--U----C--AG
+DR_2611      --------UCU----U-----------U--------UU--U----C-AAG
+DR_1008      ------CCUUU---UU-----------G--------GC-C-----C-CAG
+DR_1600      ------UUUUU----U-----------G--------CC-C-----C--UU
+DR_1452      ------CCU------------------U------------U----C--AG
+DR_0878      ------CCCUA----U-----------U--------GC-U--------UU
+DR_2070      ------UUUGG----U-----------G--------CC-GU---G---AA
+DR_1720      ------GUUAU----U--------UAUU--------GC-C-----C--UG
+DR_1187      ------UCUCU----UGUG-CGGGUUUA--------UU--U----C--UG
+DR_1188      ------UCCCU----UGU----GCCCUU--------AC-UU----C--AG
+DR_0095      ------UU--------C-----AAAGUG--------GU-AU----C--AG
+DR_2609      ------UUUUU----C-------GUGGU--------GC--U----C--AG
+DR_2511      ------UUCUU----U-----------U--------GC--U----C--CG
+DR_1064      ------UUC------------------U------------U---G---AG
+DR_1019      ------CUUUG---GU-----------U--------GC--U---U---AG
+#=GC SS_cons ......>>:::....:........::::........::..:....:..::
+#=GC RF      ......uUUUU....U........cugu........GC..U....C..aG
+
+DR_2251      CA
+DR_1020      CA
+DR_0911      CG
+DR_1343      CA
+DR_1936      CU
+DR_0746      CU
+DR_1627      CU
+DR_2610      GA
+DR_1940      UG
+DR_1822      UU
+DR_0575      GU
+DR_1963      CG
+DR_1962      CG
+DR_1721      UU
+DR_2446      UA
+DR_0118      UU
+DR_1892      GG
+DR_1857      CU
+DR_2229      CU
+DR_1611      CA
+DR_0958      UU
+DR_1551      AG
+DR_1411      UU
+DR_1055      UG
+DR_1973      --
+DR_2510      UG
+DR_0094      UG
+DR_1548      CG
+DR_0070      CU
+DR_2179      CG
+DR_1710      --
+DR_1709      GU
+DR_2388      GA
+DR_0459      UA
+DR_0479      UU
+DR_0843      CU
+DR_2569      UU
+DR_0006      CG
+DR_0860      CG
+DR_1311      CA
+DR_2395      CG
+DR_0988      CU
+DR_0812      CU
+DR_1723      CA
+DR_1063      CA
+DR_1114      UU
+DR_1212      CU
+DR_1491      CU
+DR_1706      UG
+DR_1970      CA
+DR_1305      CU
+DR_1549      UA
+DR_1699      CA
+DR_2448      CG
+DR_0887      AG
+DR_1691      UG
+DR_0478      CG
+DR_0886      CU
+DR_1161      AA
+DR_2370      CU
+DR_0551      CU
+DR_1299      CU
+DR_1277      CG
+DR_1536      AA
+DR_0727      UU
+DR_2195      CA
+DR_1988      CA
+DR_1122      CU
+DR_1537      CG
+DR_1151      CA
+DR_2096      CG
+DR_0165      CA
+DR_0920      CA
+DR_0485      CG
+DR_2265      AG
+DR_1306      CG
+DR_2389      CU
+DR_1290      CA
+DR_2495      CU
+DR_0985      CG
+DR_1180      GU
+DR_0791      CU
+DR_2552      CA
+DR_0556      CG
+DR_0498      UU
+DR_1492      CG
+DR_2472      GA
+DR_1791      CU
+DR_1981      GG
+DR_2130      CA
+DR_0256      CA
+DR_0747      CU
+DR_0390      CA
+DR_0969      GA
+DR_1423      CU
+DR_1286      CA
+DR_1404      CG
+DR_2049      AG
+DR_2041      UU
+DR_1175      UU
+DR_1856      CG
+DR_1276      UG
+DR_2146      CA
+DR_1477      GA
+DR_2203      UU
+DR_0813      CU
+DR_2498      GG
+DR_2490      UG
+DR_0194      CU
+DR_1662      UA
+DR_2230      UA
+DR_0955      AU
+DR_1571      UG
+DR_1984      CG
+DR_2444      CU
+DR_0910      CU
+DR_0641      CU
+DR_1661      CU
+DR_1897      CU
+DR_0155      CG
+DR_2004      UA
+DR_1433      CA
+DR_1387      UU
+DR_0693      CU
+DR_1211      CU
+DR_1743      CA
+DR_1941      UU
+DR_2383      AG
+DR_1983      AA
+DR_1770      CG
+DR_1755      CA
+DR_1610      AG
+DR_2541      --
+DR_0237      CG
+DR_1742      CA
+DR_0392      CG
+DR_2118      CU
+DR_0114      CU
+DR_1481      GG
+DR_2449      CG
+DR_0005      UU
+DR_2627      UU
+DR_1509      AG
+DR_0728      GU
+DR_2077      UU
+DR_2573      AA
+DR_1176      GA
+DR_1123      CU
+DR_0084      UG
+DR_2008      CU
+DR_0930      CU
+DR_1754      GG
+DR_2494      CA
+DR_1320      GG
+DR_1369      GU
+DR_0640      CU
+DR_2343      CG
+DR_2556      UU
+DR_1607      AA
+DR_2565      --
+DR_0117      CA
+DR_2101      --
+DR_1733      UG
+DR_0583      CU
+DR_2266      CU
+DR_0957      UU
+DR_2188      AG
+DR_2164      CU
+DR_0323      CG
+DR_2361      UU
+DR_2620      CU
+DR_1808      CG
+DR_2447      CU
+DR_0383      CG
+DR_2263      AG
+DR_1250      CG
+DR_1197      CU
+DR_1785      CG
+DR_0550      UU
+DR_1370      CU
+DR_1968      CG
+DR_0565      CG
+DR_0757      CU
+DR_2065      CU
+DR_0038      UG
+DR_0372      CG
+DR_1359      CU
+DR_2346      UU
+DR_1061      CA
+DR_0123      CA
+DR_2497      CG
+DR_1769      CG
+DR_1269      CG
+DR_2322      GU
+DR_1150      CU
+DR_1261      CU
+DR_0326      UU
+DR_0330      CU
+DR_2577      UU
+DR_0505      GG
+DR_1980      CU
+DR_1544      GG
+DR_0708      AU
+DR_1378      CA
+DR_0569      CU
+DR_1483      CG
+DR_0717      UG
+DR_1845      UU
+DR_0391      CU
+DR_1715      GA
+DR_0486      GU
+DR_1386      CU
+DR_2377      GU
+DR_0659      CG
+DR_0399      CU
+DR_1850      CU
+DR_1732      CU
+DR_1584      CG
+DR_2321      UA
+DR_0291      UG
+DR_1994      CU
+DR_1034      GA
+DR_1214      CU
+DR_0607      UA
+DR_1982      CU
+DR_1218      CU
+DR_0341      CU
+DR_2371      UU
+DR_0898      CA
+DR_1298      UU
+DR_1891      CA
+DR_0349      CA
+DR_0085      CU
+DR_2394      UU
+DR_1969      UU
+DR_0138      CU
+DR_1181      UU
+DR_0842      CU
+DR_0826      CU
+DR_1591      CU
+DR_0327      CA
+DR_0325      UU
+DR_0140      GG
+DR_0567      CA
+DR_1736      CU
+DR_0404      CG
+DR_0740      GA
+DR_0906      CG
+DR_1809      CA
+DR_1840      CG
+DR_0201      CU
+DR_0292      CG
+DR_2310      AG
+DR_1383      UA
+DR_0613      CU
+DR_2050      CA
+DR_2423      GA
+DR_2300      GG
+DR_0685      UU
+DR_1318      CA
+DR_2317      CU
+DR_1844      --
+DR_2637      GA
+DR_2196      CU
+DR_0035      CA
+DR_2226      GG
+DR_2560      CG
+DR_1623      CG
+DR_0335      CU
+DR_0788      GA
+DR_1196      CG
+DR_1473      CG
+DR_2390      UU
+DR_0243      GU
+DR_0945      UU
+DR_1590      CG
+DR_1335      UU
+DR_1825      CU
+DR_1654      --
+DR_0554      UU
+DR_0429      UG
+DR_1606      --
+DR_1567      AU
+DR_0262      UU
+DR_1245      CU
+DR_2052      CU
+DR_0792      CG
+DR_0166      UG
+DR_0834      CU
+DR_1249      CU
+DR_0421      CG
+DR_0119      CG
+DR_1338      AG
+DR_2257      AU
+DR_2078      CU
+DR_0794      CU
+DR_0907      CA
+DR_0473      CG
+DR_0631      GA
+DR_1974      CG
+DR_1014      CG
+DR_0594      UG
+DR_1315      --
+DR_2256      GA
+DR_1339      CU
+DR_2582      CU
+DR_0751      CG
+DR_0460      GG
+DR_1248      CU
+DR_1832      AG
+DR_2341      CG
+DR_2344      UU
+DR_1839      UU
+DR_0644      GG
+DR_0193      CG
+DR_1478      UA
+DR_1942      CU
+DR_1285      UG
+DR_2149      --
+DR_1879      UU
+DR_2580      UG
+DR_0218      UG
+DR_0691      CU
+DR_2071      CA
+DR_0289      CG
+DR_0646      GA
+DR_0837      CU
+DR_0446      CG
+DR_0043      UA
+DR_1601      UA
+DR_0787      CU
+DR_0743      CU
+DR_2286      CG
+DR_1998      AA
+DR_1488      CG
+DR_1872      AU
+DR_1234      CU
+DR_2208      CU
+DR_0742      CG
+DR_1340      GA
+DR_1445      CU
+DR_1428      CU
+DR_2508      UG
+DR_0528      --
+DR_0472      CU
+DR_2635      CA
+DR_2527      CA
+DR_1538      GU
+DR_0161      CG
+DR_1348      AA
+DR_1436      UG
+DR_2057      CG
+DR_2364      CG
+DR_1117      CU
+DR_1432      UG
+DR_2453      UU
+DR_2367      CG
+DR_1482      CU
+DR_1948      CG
+DR_0762      GU
+DR_1294      GG
+DR_0563      CA
+DR_1213      AG
+DR_2292      --
+DR_0488      CU
+DR_1202      CU
+DR_0139      CG
+DR_1413      CU
+DR_0672      UG
+DR_0075      CG
+DR_0606      CA
+DR_0799      --
+DR_1616      CG
+DR_0362      AA
+DR_1835      CG
+DR_2369      UU
+DR_1838      CU
+DR_0342      CG
+DR_2611      UU
+DR_1008      CG
+DR_1600      AA
+DR_1452      UU
+DR_0878      CU
+DR_2070      CA
+DR_1720      AA
+DR_1187      CU
+DR_1188      CA
+DR_0095      AG
+DR_2609      UA
+DR_2511      UU
+DR_1064      CU
+DR_1019      --
+#=GC SS_cons ::
+#=GC RF      Cu
+//

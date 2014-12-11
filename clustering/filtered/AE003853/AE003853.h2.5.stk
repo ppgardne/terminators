@@ -1,0 +1,528 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU CMfinder 0.2.1
+
+#=GS VC_A0307 WT 0.17
+#=GS VC_A0328 WT 0.10
+#=GS VC_A0469 WT 0.19
+#=GS VC_A0496 WT 0.10
+#=GS VC_A0341 WT 0.10
+#=GS VC_A0450 WT 0.10
+#=GS VC_A0440 WT 1.05
+#=GS VC_A0475 WT 1.33
+#=GS VC_A0317 WT 0.29
+#=GS VC_A0485 WT 0.06
+#=GS VC_A0432 WT 1.01
+#=GS VC_A0436 WT 0.10
+#=GS VC_A0443 WT 0.10
+#=GS VC_A0330 WT 0.29
+#=GS VC_A0494 WT 0.10
+#=GS VC_A0505 WT 0.06
+#=GS VC_A0397 WT 2.67
+#=GS VC_A0300 WT 0.10
+#=GS VC_A0465 WT 0.10
+#=GS VC_A0303 WT 0.10
+#=GS VC_A0405 WT 0.06
+#=GS VC_A0350 WT 0.21
+#=GS VC_A0396 WT 0.99
+#=GS VC_A0501 WT 0.17
+#=GS VC_A0442 WT 0.19
+#=GS VC_A0441 WT 2.67
+#=GS VC_A0376 WT 0.10
+#=GS VC_A0662 WT 6.84
+#=GS VC_A0380 WT 1.14
+#=GS VC_A0382 WT 0.98
+#=GS VC_A0409 WT 0.21
+#=GS VC_A0661 WT 6.84
+#=GS VC_A0490 WT 0.13
+#=GS VC_A0379 WT 0.10
+#=GS VC_A0395 WT 1.05
+#=GS VC_A0402 WT 0.13
+#=GS VC_A0413 WT 0.21
+#=GS VC_A0406 WT 0.21
+#=GS VC_A0011 WT 6.96
+#=GS VC_A0420 WT 0.06
+#=GS VC_A0463 WT 0.13
+#=GS VC_A0415 WT 0.06
+#=GS VC_A0470 WT 0.97
+#=GS VC_A0373 WT 0.97
+#=GS VC_A0299 WT 1.65
+#=GS VC_A0340 WT 0.10
+#=GS VC_A0483 WT 0.19
+#=GS VC_A0455 WT 1.02
+#=GS VC_A0322 WT 0.93
+#=GS VC_A0473 WT 0.06
+#=GS VC_A0431 WT 0.13
+#=GS VC_A0345 WT 0.06
+#=GS VC_A0438 WT 0.17
+#=GS VC_A0313 WT 0.06
+#=GS VC_A0394 WT 0.17
+#=GS VC_A0392 WT 1.33
+#=GS VC_A0403 WT 0.13
+#=GS VC_A0484 WT 0.06
+#=GS VC_A0388 WT 0.10
+#=GS VC_A0464 WT 0.17
+#=GS VC_A0458 WT 2.72
+#=GS VC_A0294 WT 5.73
+#=GS VC_A0308 WT 0.97
+#=GS VC_A0498 WT 0.19
+#=GS VC_A0479 WT 0.06
+#=GS VC_A0428 WT 0.29
+#=GS VC_A0495 WT 2.17
+#=GS VC_A0401 WT 0.51
+#=GS VC_A0344 WT 0.29
+#=GS VC_A0447 WT 0.10
+#=GS VC_A0576 WT 9.20
+#=GS VC_A0400 WT 0.06
+#=GS VC_A0408 WT 0.06
+#=GS VC_A0309 WT 0.19
+#=GS VC_A0478 WT 1.00
+#=GS VC_A0425 WT 0.98
+#=GS VC_A0342 WT 0.10
+#=GS VC_A0460 WT 0.06
+#=GS VC_A0476 WT 0.51
+#=GS VC_A0433 WT 0.87
+#=GS VC_A0361 WT 5.73
+#=GS VC_A0316 WT 0.13
+#=GS VC_A0489 WT 1.06
+#=GS VC_A0310 WT 0.06
+#=GS VC_A0417 WT 0.13
+#=GS VC_A0830 WT 6.96
+
+#=GS VC_A0307 DE 16.. 65	93.737221
+#=GS VC_A0328 DE 16.. 65	94.556122
+#=GS VC_A0469 DE 16.. 65	95.065155
+#=GS VC_A0496 DE 16.. 65	94.556122
+#=GS VC_A0341 DE 16.. 65	94.556122
+#=GS VC_A0450 DE 16.. 65	94.556122
+#=GS VC_A0440 DE 16.. 65	93.808701
+#=GS VC_A0475 DE 22.. 68	62.722046
+#=GS VC_A0317 DE 24.. 73	92.585152
+#=GS VC_A0485 DE 16.. 65	97.180527
+#=GS VC_A0432 DE 30.. 78	85.252106
+#=GS VC_A0436 DE 16.. 65	94.556122
+#=GS VC_A0443 DE 24.. 73	96.564545
+#=GS VC_A0330 DE 16.. 65	91.284973
+#=GS VC_A0494 DE 16.. 65	96.564545
+#=GS VC_A0505 DE 16.. 65	97.180527
+#=GS VC_A0397 DE 16.. 65	83.876892
+#=GS VC_A0300 DE 16.. 65	94.556122
+#=GS VC_A0465 DE 16.. 65	94.556122
+#=GS VC_A0303 DE 16.. 65	94.556122
+#=GS VC_A0405 DE 27.. 76	97.180527
+#=GS VC_A0350 DE 24.. 73	94.903870
+#=GS VC_A0396 DE 16.. 65	92.076546
+#=GS VC_A0501 DE 16.. 65	93.737221
+#=GS VC_A0442 DE 16.. 65	95.065155
+#=GS VC_A0441 DE 16.. 58	52.868481
+#=GS VC_A0376 DE 24.. 73	94.556122
+#=GS VC_A0662 DE 40.. 80	15.914354
+#=GS VC_A0380 DE 16.. 65	91.329742
+#=GS VC_A0382 DE 16.. 65	91.343521
+#=GS VC_A0409 DE 28.. 77	94.903870
+#=GS VC_A0661 DE 30.. 67	15.591717
+#=GS VC_A0490 DE 22.. 71	95.519852
+#=GS VC_A0379 DE 24.. 73	94.556122
+#=GS VC_A0395 DE 16.. 65	91.693336
+#=GS VC_A0402 DE 16.. 65	95.519852
+#=GS VC_A0413 DE 16.. 65	94.903870
+#=GS VC_A0406 DE 24.. 73	94.903870
+#=GS VC_A0011 DE 26.. 61	22.145737
+#=GS VC_A0420 DE 31.. 80	97.180527
+#=GS VC_A0463 DE 16.. 65	95.519852
+#=GS VC_A0415 DE 16.. 65	97.180527
+#=GS VC_A0470 DE 31.. 80	89.053993
+#=GS VC_A0373 DE 16.. 65	93.404480
+#=GS VC_A0299 DE 24.. 73	90.098701
+#=GS VC_A0340 DE 24.. 73	96.564545
+#=GS VC_A0483 DE 26.. 75	95.065155
+#=GS VC_A0455 DE 16.. 65	91.152954
+#=GS VC_A0322 DE 26.. 75	91.112816
+#=GS VC_A0473 DE 50.. 99	97.180527
+#=GS VC_A0431 DE 31.. 80	95.519852
+#=GS VC_A0345 DE 32.. 81	97.180527
+#=GS VC_A0438 DE 49.. 98	93.737221
+#=GS VC_A0313 DE 16.. 65	97.180527
+#=GS VC_A0394 DE 49.. 98	93.737221
+#=GS VC_A0392 DE 16.. 62	62.722046
+#=GS VC_A0403 DE 48.. 97	95.519852
+#=GS VC_A0484 DE 16.. 65	97.180527
+#=GS VC_A0388 DE 38.. 87	96.564545
+#=GS VC_A0464 DE 40.. 89	93.737221
+#=GS VC_A0458 DE 16.. 65	84.786446
+#=GS VC_A0294 DE 42.. 88	33.741570
+#=GS VC_A0308 DE 29.. 78	90.306229
+#=GS VC_A0498 DE 16.. 65	95.065155
+#=GS VC_A0479 DE 16.. 65	97.180527
+#=GS VC_A0428 DE 69.. 88	28.992332
+#=GS VC_A0495 DE 29.. 77	78.263908
+#=GS VC_A0401 DE 27.. 75	83.591431
+#=GS VC_A0344 DE 69.. 88	28.992332
+#=GS VC_A0447 DE 32.. 81	96.564545
+#=GS VC_A0576 DE 60.. 88	5.181482
+#=GS VC_A0400 DE 16.. 65	97.180527
+#=GS VC_A0408 DE 28.. 77	97.180527
+#=GS VC_A0309 DE 27.. 76	95.065155
+#=GS VC_A0478 DE 24.. 73	91.702667
+#=GS VC_A0425 DE 26.. 75	89.682846
+#=GS VC_A0342 DE 16.. 65	96.564545
+#=GS VC_A0460 DE 28.. 77	97.180527
+#=GS VC_A0476 DE 27.. 75	83.591431
+#=GS VC_A0433 DE 16.. 65	94.449188
+#=GS VC_A0361 DE 23.. 68	31.700825
+#=GS VC_A0316 DE 16.. 65	95.519852
+#=GS VC_A0489 DE 35.. 83	83.041199
+#=GS VC_A0310 DE 34.. 83	97.180527
+#=GS VC_A0417 DE 16.. 65	95.519852
+#=GS VC_A0830 DE 42.. 64	0.090069
+
+VC_A0307         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0307 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0328         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0328 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0469         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0469 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0496         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0496 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0341         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0341 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0450         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0450 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0440         CUUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0440 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0475         CAUAA--CAAACGCUUCAAGAG-GGACAGCCAACGC-GUG-GCAUUUU--
+#=GR VC_A0475 SS .....................<.<-<.....<<-<<.....>>->>....
+VC_A0317         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUUCA
+#=GR VC_A0317 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0485         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0485 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0432         UAUAA--CAAACGCCUCAA-AG-GGACUGCCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0432 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0436         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0436 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0443         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0443 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0330         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GAG-GCGUUUCCA
+#=GR VC_A0330 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0494         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0494 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0505         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0505 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0397         UUUGA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0397 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0300         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0300 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0465         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0465 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0303         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0303 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0405         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0405 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0350         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0350 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0396         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0396 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0501         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0501 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0442         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0442 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0441         CAUAA--CAAACGCUUCAAGA-GGGACAGCCAACGC-GUG-GCAUUUU--
+#=GR VC_A0441 SS ...............................<<-<<.....>>->>....
+VC_A0376         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0376 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0662         UAUGAGACAA-------AAAAG-CGAGUG--AAGGC-ACA-GCGUU--CA
+#=GR VC_A0662 SS .....................<.<<<<<<..<<-<<.....>>->>..>>
+VC_A0380         CAUAA--CAAACGCCUCAAGAG-GGACCGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0380 SS .....................<.<<<<-<..<<<<<.....>>>>>..>-
+VC_A0382         CCUAA--CAAACGCCUCAAGCG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0382 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0409         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0409 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0661         UUGAA--CAA-------AA-AG-CGAGUG--AACGCU--GUGCCUU--CA
+#=GR VC_A0661 SS .....................<.<<<<<<..<<-<<.....>>->>..>>
+VC_A0490         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0490 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0379         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0379 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0395         UUUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0395 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0402         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0402 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0413         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0413 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0406         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0406 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0011         CCUGA--CAAACGC---AAAAG-AGCCAG--CAAAC---G--------CU
+#=GR VC_A0011 SS .....................<.<<<<<<...................>>
+VC_A0420         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0420 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0463         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0463 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0415         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0415 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0470         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-ACG-GCGUUUCCA
+#=GR VC_A0470 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0373         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0373 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0299         UCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-AUG-GCGUUUCCA
+#=GR VC_A0299 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0340         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0340 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0483         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0483 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0455         CAUAA--CAAACGCCUCAAUAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0455 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0322         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0322 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0473         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0473 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0431         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0431 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0345         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0345 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0438         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0438 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0313         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0313 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0394         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0394 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0392         CAUAA--CAAACGCUUCAAGAG-GGACAGCCAACGC-GUG-GCAUUUU--
+#=GR VC_A0392 SS .....................<.<-<.....<<-<<.....>>->>....
+VC_A0403         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0403 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0484         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0484 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0388         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0388 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0464         GCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0464 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0458         CCUAA--CAAACGCUUCAAGCG-GGACUGUCAACGC-GUA-GCGUUUCCA
+#=GR VC_A0458 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0294         CAUAA--CAAAUUGUUCAAGAG-GGAUUCGCAACGC-GUG-GCAUUUU--
+#=GR VC_A0294 SS .....................<.<-<.....<<-<<.....>>->>....
+VC_A0308         UAUAA--CAAACGGCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0308 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0498         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0498 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0479         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0479 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0428         CCUAA--CAAACGCCUCAAGA------------------G----------
+#=GR VC_A0428 SS ..................................................
+VC_A0495         ACUAA--CAAACGCCUCAA-AG-GGACUAUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0495 SS .....................<.<<<<<-..<<<<<.....>>>>>..->
+VC_A0401         UAUAA--CAAACGCCUCAA-AG-GGACUGCCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0401 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0344         CCUAA--CAAACGCCUCAAGA------------------G----------
+#=GR VC_A0344 SS ..................................................
+VC_A0447         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0447 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0576         GAUAA--CAA----------AA-AGCCAG--CUUAC---G--------CU
+#=GR VC_A0576 SS .....................<.<<<<<<...................>>
+VC_A0400         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0400 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0408         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0408 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0309         UAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0309 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0478         CACAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0478 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0425         CCUAA--CAAACGCCUCAAGCG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0425 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0342         CCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0342 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0460         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0460 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0476         UAUAA--CAAACGCCUCAA-AG-GGACUGCCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0476 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0433         UCUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0433 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0361         CAUAA--CAAACUGUUUAAGAG-UGAUUCGCAACGC-AUG-GCAUUUUGA
+#=GR VC_A0361 SS .....................<.....<<..<<-<<.....>>->>..>>
+VC_A0316         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0316 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0489         GCUAA--CAAACGCCUCAAGA-GGGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0489 SS .......................<<<<<<..<<<<<.....>>>>>..>>
+VC_A0310         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GUG-GCGUUUCCA
+#=GR VC_A0310 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0417         CAUAA--CAAACGCCUCAAGAG-GGACUGUCAACGC-GCG-GCGUUUCCA
+#=GR VC_A0417 SS .....................<.<<<<<<..<<<<<.....>>>>>..>>
+VC_A0830         -----------------AA-AG-GGUCAG--CAAAC---G--------CU
+#=GR VC_A0830 SS .....................<.<<<<<<...................>>
+#=GC SS_cons     :::::..::::::::::::::<.<<<<<<--<<<<<.___.>>>>>-->>
+#=GC RF          CAUAA..CAAACGCCUCAAGAG.GGACUGUCAACGC.GUG.GCGUUUCCA
+
+VC_A0307         GUCCC
+#=GR VC_A0307 SS >>>>>
+VC_A0328         GUCCC
+#=GR VC_A0328 SS >>>>>
+VC_A0469         GUCCC
+#=GR VC_A0469 SS >>>>>
+VC_A0496         GUCCC
+#=GR VC_A0496 SS >>>>>
+VC_A0341         GUCCC
+#=GR VC_A0341 SS >>>>>
+VC_A0450         GUCCC
+#=GR VC_A0450 SS >>>>>
+VC_A0440         GUCCC
+#=GR VC_A0440 SS >>>>>
+VC_A0475         -UACC
+#=GR VC_A0475 SS .>->>
+VC_A0317         GUCCC
+#=GR VC_A0317 SS >>>>>
+VC_A0485         GUCCC
+#=GR VC_A0485 SS >>>>>
+VC_A0432         GUCCC
+#=GR VC_A0432 SS >>>>>
+VC_A0436         GUCCC
+#=GR VC_A0436 SS >>>>>
+VC_A0443         GUCCC
+#=GR VC_A0443 SS >>>>>
+VC_A0330         GUCCC
+#=GR VC_A0330 SS >>>>>
+VC_A0494         GUCCC
+#=GR VC_A0494 SS >>>>>
+VC_A0505         GUCCC
+#=GR VC_A0505 SS >>>>>
+VC_A0397         GUCCC
+#=GR VC_A0397 SS >>>>>
+VC_A0300         GUCCC
+#=GR VC_A0300 SS >>>>>
+VC_A0465         GUCCC
+#=GR VC_A0465 SS >>>>>
+VC_A0303         GUCCC
+#=GR VC_A0303 SS >>>>>
+VC_A0405         GUCCC
+#=GR VC_A0405 SS >>>>>
+VC_A0350         GUCCC
+#=GR VC_A0350 SS >>>>>
+VC_A0396         GUCCC
+#=GR VC_A0396 SS >>>>>
+VC_A0501         GUCCC
+#=GR VC_A0501 SS >>>>>
+VC_A0442         GUCCC
+#=GR VC_A0442 SS >>>>>
+VC_A0441         -----
+#=GR VC_A0441 SS .....
+VC_A0376         GUCCC
+#=GR VC_A0376 SS >>>>>
+VC_A0662         CUCGC
+#=GR VC_A0662 SS >>>>>
+VC_A0380         GUCCC
+#=GR VC_A0380 SS >>>>>
+VC_A0382         GUCCC
+#=GR VC_A0382 SS >>>>>
+VC_A0409         GUCCC
+#=GR VC_A0409 SS >>>>>
+VC_A0661         CUCGC
+#=GR VC_A0661 SS >>>>>
+VC_A0490         GUCCC
+#=GR VC_A0490 SS >>>>>
+VC_A0379         GUCCC
+#=GR VC_A0379 SS >>>>>
+VC_A0395         GUCCC
+#=GR VC_A0395 SS >>>>>
+VC_A0402         GUCCC
+#=GR VC_A0402 SS >>>>>
+VC_A0413         GUCCC
+#=GR VC_A0413 SS >>>>>
+VC_A0406         GUCCC
+#=GR VC_A0406 SS >>>>>
+VC_A0011         GGCUC
+#=GR VC_A0011 SS >>>>>
+VC_A0420         GUCCC
+#=GR VC_A0420 SS >>>>>
+VC_A0463         GUCCC
+#=GR VC_A0463 SS >>>>>
+VC_A0415         GUCCC
+#=GR VC_A0415 SS >>>>>
+VC_A0470         GUCCC
+#=GR VC_A0470 SS >>>>>
+VC_A0373         GUCCC
+#=GR VC_A0373 SS >>>>>
+VC_A0299         GUCCC
+#=GR VC_A0299 SS >>>>>
+VC_A0340         GUCCC
+#=GR VC_A0340 SS >>>>>
+VC_A0483         GUCCC
+#=GR VC_A0483 SS >>>>>
+VC_A0455         GUCCC
+#=GR VC_A0455 SS >>>>>
+VC_A0322         GUCCC
+#=GR VC_A0322 SS >>>>>
+VC_A0473         GUCCC
+#=GR VC_A0473 SS >>>>>
+VC_A0431         GUCCC
+#=GR VC_A0431 SS >>>>>
+VC_A0345         GUCCC
+#=GR VC_A0345 SS >>>>>
+VC_A0438         GUCCC
+#=GR VC_A0438 SS >>>>>
+VC_A0313         GUCCC
+#=GR VC_A0313 SS >>>>>
+VC_A0394         GUCCC
+#=GR VC_A0394 SS >>>>>
+VC_A0392         -UACC
+#=GR VC_A0392 SS .>->>
+VC_A0403         GUCCC
+#=GR VC_A0403 SS >>>>>
+VC_A0484         GUCCC
+#=GR VC_A0484 SS >>>>>
+VC_A0388         GUCCC
+#=GR VC_A0388 SS >>>>>
+VC_A0464         GUCCC
+#=GR VC_A0464 SS >>>>>
+VC_A0458         GUCCC
+#=GR VC_A0458 SS >>>>>
+VC_A0294         -UACU
+#=GR VC_A0294 SS .>->>
+VC_A0308         GUCCC
+#=GR VC_A0308 SS >>>>>
+VC_A0498         GUCCC
+#=GR VC_A0498 SS >>>>>
+VC_A0479         GUCCC
+#=GR VC_A0479 SS >>>>>
+VC_A0428         -----
+#=GR VC_A0428 SS .....
+VC_A0495         GUCCC
+#=GR VC_A0495 SS >>>>>
+VC_A0401         GUCCC
+#=GR VC_A0401 SS >>>>>
+VC_A0344         -----
+#=GR VC_A0344 SS .....
+VC_A0447         GUCCC
+#=GR VC_A0447 SS >>>>>
+VC_A0576         GGCUU
+#=GR VC_A0576 SS >>>>>
+VC_A0400         GUCCC
+#=GR VC_A0400 SS >>>>>
+VC_A0408         GUCCC
+#=GR VC_A0408 SS >>>>>
+VC_A0309         GUCCC
+#=GR VC_A0309 SS >>>>>
+VC_A0478         GUCCC
+#=GR VC_A0478 SS >>>>>
+VC_A0425         GUCCC
+#=GR VC_A0425 SS >>>>>
+VC_A0342         GUCCC
+#=GR VC_A0342 SS >>>>>
+VC_A0460         GUCCC
+#=GR VC_A0460 SS >>>>>
+VC_A0476         GUCCC
+#=GR VC_A0476 SS >>>>>
+VC_A0433         GUCCC
+#=GR VC_A0433 SS >>>>>
+VC_A0361         ----C
+#=GR VC_A0361 SS ....>
+VC_A0316         GUCCC
+#=GR VC_A0316 SS >>>>>
+VC_A0489         GUCC-
+#=GR VC_A0489 SS >>>>.
+VC_A0310         GUCCC
+#=GR VC_A0310 SS >>>>>
+VC_A0417         GUCCC
+#=GR VC_A0417 SS >>>>>
+VC_A0830         GACCC
+#=GR VC_A0830 SS >>>>>
+#=GC SS_cons     >>>>>
+#=GC RF          GUCCC
+//

@@ -1,0 +1,575 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS BRA0219 WT 0.93
+#=GS BRA1150 WT 1.09
+#=GS BRA0195 WT 0.94
+#=GS BRA0333 WT 1.47
+#=GS BRA0340 WT 1.11
+#=GS BRA0935 WT 1.07
+#=GS BRA0700 WT 0.89
+#=GS BRA0636 WT 1.23
+#=GS BRA0033 WT 1.11
+#=GS BRA0752 WT 1.14
+#=GS BRA0658 WT 0.99
+#=GS BRA0970 WT 1.18
+#=GS BRA0689 WT 1.09
+#=GS BRA0712 WT 1.33
+#=GS BRA0887 WT 0.72
+#=GS BRA1148 WT 1.18
+#=GS BRA0702 WT 1.23
+#=GS BRA0100 WT 1.00
+#=GS BRA1027 WT 1.18
+#=GS BRA0512 WT 0.83
+#=GS BRA0497 WT 0.74
+#=GS BRA0609 WT 0.81
+#=GS BRA0417 WT 0.78
+#=GS BRA0870 WT 0.62
+#=GS BRA0582 WT 1.07
+#=GS BRA0850 WT 1.08
+#=GS BRA0453 WT 0.87
+#=GS BRA0775 WT 1.07
+#=GS BRA0706 WT 0.78
+#=GS BRA0635 WT 0.88
+#=GS BRA0788 WT 1.05
+#=GS BRA1171 WT 0.91
+#=GS BRA1039 WT 1.02
+#=GS BRA1151 WT 1.21
+#=GS BRA1028 WT 1.23
+#=GS BRA0423 WT 0.78
+#=GS BRA0904 WT 0.77
+#=GS BRA0908 WT 0.90
+#=GS BRA1103 WT 0.75
+#=GS BRA0707 WT 0.93
+#=GS BRA0052 WT 0.86
+#=GS BRA0513 WT 0.83
+#=GS BRA0006 WT 1.01
+#=GS BRA0329 WT 1.15
+#=GS BRA0673 WT 0.72
+#=GS BRA0878 WT 0.93
+#=GS BRA0336 WT 0.91
+#=GS BRA0051 WT 0.98
+#=GS BRA0787 WT 0.93
+#=GS BRA1032 WT 1.21
+#=GS BRA0941 WT 0.85
+#=GS BRA0454 WT 0.87
+#=GS BRA0793 WT 0.84
+#=GS BRA1158 WT 1.23
+#=GS BRA0799 WT 0.78
+#=GS BRA0790 WT 0.95
+#=GS BRA0101 WT 1.00
+#=GS BRA0871 WT 0.62
+#=GS BRA1061 WT 0.83
+#=GS BRA0810 WT 1.20
+#=GS BRA0619 WT 0.94
+#=GS BRA0071 WT 0.78
+#=GS BRA0886 WT 0.63
+#=GS BRA0661 WT 0.63
+#=GS BRA0926 WT 0.95
+#=GS BRA0682 WT 0.88
+#=GS BRA0487 WT 0.90
+#=GS BRA0189 WT 0.62
+#=GS BRA0150 WT 1.15
+#=GS BRA0922 WT 0.96
+#=GS BRA0888 WT 0.74
+#=GS BRA0804 WT 1.20
+#=GS BRA0725 WT 1.23
+#=GS BRA0472 WT 1.24
+#=GS BRA0614 WT 0.86
+#=GS BRA0890 WT 0.92
+#=GS BRA0119 WT 0.89
+#=GS BRA0341 WT 1.07
+#=GS BRA0742 WT 1.17
+#=GS BRA0173 WT 1.01
+#=GS BRA0024 WT 1.05
+#=GS BRA0055 WT 0.86
+#=GS BRA0610 WT 0.84
+#=GS BRA0370 WT 0.99
+#=GS BRA0859 WT 1.17
+#=GS BRA0044 WT 0.96
+#=GS BRA0937 WT 1.08
+#=GS BRA0530 WT 0.62
+#=GS BRA0175 WT 1.10
+#=GS BRA1012 WT 1.22
+#=GS BRA0927 WT 0.93
+#=GS BRA0509 WT 1.38
+#=GS BRA0655 WT 1.35
+#=GS BRA0724 WT 1.09
+#=GS BRA0153 WT 1.07
+#=GS BRA1076 WT 1.28
+#=GS BRA0352 WT 0.93
+#=GS BRA0323 WT 0.92
+#=GS BRA0763 WT 0.78
+#=GS BRA0814 WT 1.22
+#=GS BRA0920 WT 0.86
+#=GS BRA0879 WT 0.71
+#=GS BRA0409 WT 1.15
+#=GS BRA0616 WT 0.98
+#=GS BRA0183 WT 0.93
+#=GS BRA0938 WT 1.02
+#=GS BRA0401 WT 0.86
+#=GS BRA0174 WT 1.19
+#=GS BRA1019 WT 0.92
+#=GS BRA0239 WT 0.89
+#=GS BRA0789 WT 0.98
+#=GS BRA0034 WT 1.13
+#=GS BRA0633 WT 1.21
+#=GS BRA0223 WT 1.18
+#=GS BRA0567 WT 0.77
+#=GS BRA0238 WT 1.33
+#=GS BRA0800 WT 1.18
+#=GS BRA0013 WT 1.23
+#=GS BRA0496 WT 0.74
+#=GS BRA0260 WT 1.05
+#=GS BRA0964 WT 1.00
+#=GS BRA0575 WT 0.78
+#=GS BRA0924 WT 0.97
+#=GS BRA0018 WT 0.91
+#=GS BRA0240 WT 0.89
+#=GS BRA0527 WT 1.46
+#=GS BRA0613 WT 0.86
+#=GS BRA0905 WT 0.77
+#=GS BRA0721 WT 0.77
+#=GS BRA1084 WT 1.15
+#=GS BRA1048 WT 0.98
+#=GS BRA0781 WT 1.08
+#=GS BRA0176 WT 1.14
+#=GS BRA0056 WT 1.07
+#=GS BRA0631 WT 1.03
+#=GS BRA0289 WT 1.22
+#=GS BRA0486 WT 0.71
+#=GS BRA0179 WT 1.38
+#=GS BRA0693 WT 0.91
+#=GS BRA0632 WT 1.08
+#=GS BRA0182 WT 0.75
+#=GS BRA0737 WT 1.00
+#=GS BRA0521 WT 0.99
+#=GS BRA0861 WT 1.08
+#=GS BRA0629 WT 1.32
+#=GS BRA0072 WT 0.86
+#=GS BRA0932 WT 1.18
+#=GS BRA0914 WT 0.95
+#=GS BRA0902 WT 0.84
+#=GS BRA1119 WT 1.09
+#=GS BRA0221 WT 1.15
+#=GS BRA0822 WT 1.00
+#=GS BRA0481 WT 1.20
+#=GS BRA0191 WT 0.81
+#=GS BRA0355 WT 0.97
+#=GS BRA0662 WT 0.85
+#=GS BRA0764 WT 0.74
+#=GS BRA0017 WT 0.92
+#=GS BRA0858 WT 1.00
+#=GS BRA0326 WT 1.18
+#=GS BRA0031 WT 1.15
+#=GS BRA0298 WT 0.98
+#=GS BRA0547 WT 0.91
+#=GS BRA0400 WT 1.21
+#=GS BRA0791 WT 0.83
+#=GS BRA0875 WT 0.74
+#=GS BRA0601 WT 1.24
+#=GS BRA0193 WT 1.22
+#=GS BRA0960 WT 1.13
+#=GS BRA1026 WT 1.22
+#=GS BRA0847 WT 1.38
+#=GS BRA0885 WT 0.92
+#=GS BRA0704 WT 0.99
+#=GS BRA1041 WT 1.09
+#=GS BRA0361 WT 0.90
+#=GS BRA0681 WT 0.86
+#=GS BRA0587 WT 0.95
+#=GS BRA0083 WT 1.03
+#=GS BRA0077 WT 1.09
+#=GS BRA0422 WT 1.04
+#=GS BRA0249 WT 1.23
+#=GS BRA0324 WT 1.04
+#=GS BRA1140 WT 1.10
+#=GS BRA0120 WT 0.89
+#=GS BRA0579 WT 1.13
+#=GS BRA0991 WT 1.09
+#=GS BRA0889 WT 0.74
+#=GS BRA1186 WT 1.24
+
+BRA0219      ACACAA-------GGAG-G-CCG---------G-AA-CGCCAGAC-----
+BRA1150      ACAGAU------UGAAG-G-------------------GAAA--------
+BRA0195      UAAAUG--------CCU-G-CGC---------C-G--CAAA---------
+BRA0333      ACAAAA-------GAGA-C-CGG---------A-AA-UGCU-UCCA----
+BRA0340      GGAAAGU-----GUCAU-C-CUG---------A-GG-A--A-G-------
+BRA0935      UCA----------GAGC-G-GUU---------CCG--GUUAAA-------
+BRA0700      GAAUGG------GCAAC-G-CCG---------GUGU-UGUUA--------
+BRA0636      AAAACA------AAACC-C-GGA---------U-GG-CGAGC--------
+BRA0033      UUGUC--------UAGA-U-CGG---------UUCC-AGUU---------
+BRA0752      UAAAUU-------AGCG-G-CGG---------U-UC-UUCAAAAA-----
+BRA0658      UCAUG--------CCAA-A-ACC---------C-GA-UAAGCCUCA----
+BRA0970      GGAAC-----------A-U-GUU---------U-GC-AAAU---------
+BRA0689      AGAAA--------GAGC-G-UUU---------U-CG-AUAAC--------
+BRA0712      GGAUAG------G--AU-U-CCA---------U-UU-UUCA-GU------
+BRA0887      GCAA---------AAGC-G-CCG---------G-----GCAA--------
+BRA1148      ACGAG--------AGCA-U-UUC---------CAGC-AAAACCGUUUCA-
+BRA0702      UGAAG--------AGGU-U-CCA---------G-GC-ACAUCAA------
+BRA0100      UGAUCU------UUAGA-G-GGU---------U-CC-UGUU-UU------
+BRA1027      UGAUU--------UGCC-C-AGC---------C-----GAAA--------
+BRA0512      UGAAAUG----CAAAAC-G-GCC---------C-G---GAAA--------
+BRA0497      UGA----------AAUG-G-CCG---------GGGG-AAUUC--------
+BRA0609      UCA----------AAAA-G-CCG---------U-CU-CUUGC--------
+BRA0417      UAAUAG-------CGCC-G-AUC---------U-GACACAAA--------
+BRA0870      AAAAAC------AGAAA-A-GCG---------G-CC-AAUU---------
+BRA0582      UCAUCC------UGAGGAG-GUG---------C-----GAA---------
+BRA0850      UGAAAA-------GGCC-G-GGC---------G-----GUGC--------
+BRA0453      UGAAAGAC---CGGAGC-G-GCC---------C-GG-UUCAA--------
+BRA0775      CGAAC--------GAAG-C-ACC---------U-GC-AUCAA--------
+BRA0706      AAAAA--------GCCC-G-CGC---------G-GAUUGCU---------
+BRA0635      CAAAC--------AAAA-C-CCG---------G-AU-GGCUCG-------
+BRA0788      UGGAA--------CAUU-U-CCG---------G-UA-AAAGCGUGAAA--
+BRA1171      ACAA---------AGGC-G-GCUU-------CG-GA-UUUA---------
+BRA1039      UCAAUAUUGUCUUGGAU-U-GGG---------C-GC-UUCG---------
+BRA1151      AGAGCA-------UGUC-U-CCC---------G-AA-AGUG-GAAA----
+BRA1028      UGAUG--------GCUU-A-GGG---------C-GU-AUUUCGAUCUGAU
+BRA0423      UGAAG--------AAGG-G-CCG---------C-UC-CACUCCA------
+BRA0904      ACAAAA-------CCCU-U-CCG---------CAGA-AUAU-U-------
+BRA0908      UCAAAA-------UAAA-A-CCC---------C-G--UGAAA--------
+BRA1103      UAAAAGA-----CAAAA-G-CCG---------G-CU-UCCACAAA-----
+BRA0707      UAAAA--------AGCC-C-GCG---------C-GG-AGCAA--------
+BRA0052      AGAACA------AAAAG-G-CGG---------C-AC-UUAAA--------
+BRA0513      UAAAGU------AAAAC-G-GCC---------C-G---UUUC--------
+BRA0006      AGAAAC-------GCCG-C-GCA---------G-GC-CAAAC--------
+BRA0329      CCAACU--------CAC-U-UCG---------C-GA-UUUGCUCCGGCAU
+BRA0673      AUAUCG------AAAGC-G-CCG---------G-----GUUC--------
+BRA0878      ACAAA--------AGAG-G-CCG---------G-----GAAA--------
+BRA0336      UCAAAU-------GGGC-G-CGG---------C-AA-UUAU---------
+BRA0051      UGGACG-------CGCA-U-CCC---------G-AA-AACC-GUUUC---
+BRA0787      UGA----------ACCG-G-GCG---------G-CU-UUAAA--------
+BRA1032      CGAUC----------CG-C-AUG---------C-UU-AUUA---------
+BRA0941      AGA----------GCGG-U-UCC---------G-GC-AAUUCUGC-----
+BRA0454      UGAAAG-------GAGC-A-GCC---------C-GU-UGAAC--------
+BRA0793      CCAUC--------AAGC-G-CGG---------C-GU-AUCUC--------
+BRA1158      AAAACG------GAAUC-G-CUG-----------GA-ACCGC--------
+BRA0799      CAAAA--------CGCC-G-AUC---------U-GA-UCCA---------
+BRA0790      GGAAAUG-----AAAAA-G-CUC---------C-GC-AUCG---------
+BRA0101      GCAUAG------UUAGA-G-GGU---------U-CC-AUUAAAA------
+BRA0871      ACAAAG-------GAAA-A-GCG---------G-CC-AAUU---------
+BRA1061      ACAGGC-------GAAA-G-CGG---------C-GC-AUCA---------
+BRA0810      UAAACGGC--CAAGCGU-U-CCC---------U-GA-AUUU---------
+BRA0619      AAAAAG-------CCCC-U-GCG---------C-----AAUA--------
+BRA0071      CAAUAU------CGCCA-G-CGC---------G-GU-UAUUC--------
+BRA0886      CAAAA--------AAGC-G-CCG---------G-----UUGC--------
+BRA0661      CCAAGA------U--GC-G-CCG---------G-GU-GUUGC--------
+BRA0926      GCAACC------UGGCC-G-CCG---------CUGU-UCCC---------
+BRA0682      CAAUCG------GCGAA-G-CCG---------G-AU-C--A---------
+BRA0487      ACAAAA-------GAAA-G-CCC---------G-GA-ACCCACA------
+BRA0189      UCAAA--------AAAA-G-CCG---------G-GU-UGAUC--------
+BRA0150      GCAAG--------UUCCGG-CCU---------U-UA-AGUUAACCA----
+BRA0922      CCAGA--------GCGG-U-UCC---------G-GU-UGAAAUGG-----
+BRA0888      AAAAAG-------AAAC-G-CCG---------C-UC-UUCG---------
+BRA0804      UGACCC------C-GAA-G-GCG---------A-AC-UGAG-G-------
+BRA0725      UAAGCG------GGGAA-A-UCA---------G-UC-CUCU---------
+BRA0472      UAAAA--------GCGG-C-CGA---------C-UU-UCAA-G-------
+BRA0614      UCAUCG-------CCAA-A-CCC---------G-GU-AGCAA--------
+BRA0890      GGAAA--------GCCU-G-UCA---------U-GCAAGCU---------
+BRA0119      UCAACAU-----GGUCG-C-GCG---------G-AA-ACCU---------
+BRA0341      GCAGCG------GGCGG-C-UCC---------G-GG-GCUU-UG------
+BRA0742      UAAAA--------UGGC-G-UUG---------G-CC-UGCC---------
+BRA0173      AGAAAC-------GCAU-C-GAA---------A-----UUUC--------
+BRA0024      GCAGCG-------GAGC-G-GUC---------C-CC-UUUU---------
+BRA0055      GCAUG--------GAAA-G-CCC---------G-CC-AAAU---------
+BRA0610      AAAAAU-------AAAA-A-GCC---------GCCU-CGCAA--------
+BRA0370      UCA----------AAAG-C-UCA---------C----U--UC--------
+BRA0859      UUA----------CGGC-U-CCG---------U-CC-ACCG-UU------
+BRA0044      AUAAA--------GCGG-U-UCC---------G-GU-CAAAACGG-----
+BRA0937      UGAUUUUG--CGUUCCG-G-GCG---------UCUC-GGAA---------
+BRA0530      GCAAG--------AAAA-G-CCG---------G-GU-CUCGC--------
+BRA0175      UGAGA--------ACCG-G-AUU---------C-GC-AGCCA--------
+BRA1012      UGAAUG-------GCUG-U-GCG---------C-UC-CAUAAAAUUAA--
+BRA0927      AAAAA--------AGCC-G-CCG---------CAGG-GGAA---------
+BRA0509      UCAUG--------CAGG-C-GGG---------U-CU-UCAGC--------
+BRA0655      ACAAUG------CCGCC-A-ACC---------C----UUUCC--------
+BRA0724      ACAACG---------CG-C-CCG---------G-AU-AGACCC-------
+BRA0153      UGAUCCA-----AAAGU-C-GCCG------UUU-GC-AACCC--------
+BRA1076      UGGAU--------GCUC-A-AUG---------G-ACCAGCA---------
+BRA0352      UGAAGAC----GGACAG-G-GCG---------G-CC-CCAA-U-------
+BRA0323      AAAAG--------GGGCGC-GCG---------G-CG-UGAU---------
+BRA0763      AAAUGG------AAAAG-G-GCG---------C-GA-UGAU---------
+BRA0814      CAAACGU-----UUAGA-G-CGCGU-----UUC-GA-UCUGAUUGAA---
+BRA0920      AGAUA--------UAAG-G-CCC---------G-A--UAAUA--------
+BRA0879      UGAAAA----------A-G-GCC---------G-G---UUUC--------
+BRA0409      CCAAAG------CGGAC-G-GCG---------U-CU-CAUGC--------
+BRA0616      UAACCGC----UUGAAA-C-GCC---------G-CA-UUCGCUU------
+BRA0183      GCAUGUC-----CCCAA-A-AGC---------G-G--A--A---------
+BRA0938      ACAAA----------AU-U-GCG---------G-GC-UGAG-G-------
+BRA0401      GCAUCG------CACAA-A-GCU---------G-CC-UCUUC--------
+BRA0174      UCAAG--------CUGC-G-CAA---------C-CU-AUUUCG-------
+BRA1019      UGAAG--------CCCU-G-CCG---------GAGC-AACU---------
+BRA0239      UAA----------AAAG-G-CCC---------U-CCCAUUGC--------
+BRA0789      GGAGAG-------CAUU-U-CCG---------GCAA-AGCC-GUUUC---
+BRA0034      UAAUUG------CAUCU-G-GCG---------GCUC-AUACA--------
+BRA0633      UAAAUUC----UGGUCU-G-UUG---------C-GC-AUUU---------
+BRA0223      GCGGG--------GAAA-U-CAG---------U-C--CACU---------
+BRA0567      ACAAGG-------AAAA-G-GGC---------G-CC-CAAA---------
+BRA0238      GUA----------UUUU-U-CUU---------G-----UCGA--------
+BRA0800      GCAUCC------CGAAA-A-CUG---------U-----GAA---------
+BRA0013      CCAGGC-------GCCC-A-CGG---------C-GU-UUCG-GUC-----
+BRA0496      ACAAA---------AUG-G-CCG---------GAGG-AAUUC--------
+BRA0260      ACAGGG-------GAGC-G-CGC---------U-UC-ACUGCC-------
+BRA0964      UCA----------AAGC-G-GCGA-------UU-CC-CGAACCG------
+BRA0575      UAAAGA------CAAGG-G-GCG---------C----UUCA---------
+BRA0924      UAAUCCUGU-ACCGGGU-C-GCC---------C-UU-UUCUC--------
+BRA0018      GGAUC--------GGGC-G-GCU---------G-UC-UUUUA--------
+BRA0240      CCAAAGC-----AAAAG-G-CCC---------U-CC-GCAA-U-------
+BRA0527      UGAUCUGCG-CUC--GU-G-CCG---------C-CA-GACGAA-------
+BRA0613      AGAACG-------CCAA-A-CCC---------G-GC-AUUGC--------
+BRA0905      CCAUAU------CCCCU-U-CCG---------CAGA-GGAA-U-------
+BRA0721      GCAAAG-------AAAA-G-GCG---------G-CC-GGAAA--------
+BRA1084      AGAAA--------AAGC-C-ACC---------G-AU-CCCGC--------
+BRA1048      UCA----------GGGC-G-CUG---------G-AC-UGAAC--------
+BRA0781      UGAAA--------GGCA-A-AAC---------A-GC-CGAAAU-------
+BRA0176      UAA------------CGCG-CAU---------C-UU-UGAAC--------
+BRA0056      AAAAAUA-----UGAAG-C-CCG---------C-CA-U--U---------
+BRA0631      AAAACAG-----CAACG-C-GCC---------G-GUCUUCU---------
+BRA0289      GCA----------UUAG-A-GCGUG----UUUC-GA-UCUGAUUGAA---
+BRA0486      UGAAAC------AGAAA-G-CCC---------G-GA-ACAU-GUG-----
+BRA0179      UCGUC--------AAGU-G-GUA---------A-AU-CGUU---------
+BRA0693      GGA----------AACG-U-CCG---------G-GG-GAACC--------
+BRA0632      UAAAAUU----GGCAUC-G-GGC---------G-CC-CGCAAAACUUCCU
+BRA0182      UGAUAGA-----AUAAA-G-CCG---------G-GC-A--UC--------
+BRA0737      UAAAA--------GCUC-C-CCG---------G-GC-CGAAA--------
+BRA0521      ACAAUU------GAAAA-C-CGC---------G-CC-UGACC--------
+BRA0861      UCGAAG-------GCAA-A-AAC---------G-G--CGAU---------
+BRA0629      UGGAA--------AACU-U---G---------C-GU-AAAA-U-------
+BRA0072      AAAAA--------GCCA-G-CGCA------GUG-GA-AUAA---------
+BRA0932      UCAUC--------GCCG-CAUGC---------C-GU-GGAAA--------
+BRA0914      UGAAAUU----AAAAAU-G-CCC---------G-CC-GUCGA--------
+BRA0902      GGAUUGA-----GCAAG-G-GCC---------G-GG-GUUU---------
+BRA1119      UGAAUG------AAGCG-G-UUCCCGCGUGUCU-GU-UAAA---------
+BRA0221      UCAG---------CUCC-G-CUG---------U-CC-CGUAAUCU-----
+BRA0822      CAAAA---------CCC-G-AUG---------A-GC-CAAC---------
+BRA0481      UAAAAGUG--CUUGCGG-C-UUC---------U-GG-UUCGCCCGUG---
+BRA0191      ACA----------AAAA-G-CCG---------U-GC-CAAAA--------
+BRA0355      UAAUAU-------UGGU-C-GCC---------G-GU-UCAU---------
+BRA0662      AGA----------GUGG-U-UCC---------A-GC-GACU-UCGU----
+BRA0764      UGA----------AAAAAG-GCG---------C-GA-UCAU---------
+BRA0017      GAAAAU-------GGGC-G-GCG---------GCCU-UAAA---------
+BRA0858      AAAACG------CACAU-C-CCGU-------CA-GC-AGAAA--------
+BRA0326      GCA----------GCCC-C-GUC---------U-GC-CCAUCU-------
+BRA0031      AGAUAG-------AGCG-G-CCC---------A-GC-CUUCC--------
+BRA0298      UCA----------GGGA-G-CAGG------UCU-GA-UGAACCGAACCCU
+BRA0547      AGAUAU------GGGGCCG-CGG---------C-----GCU---------
+BRA0400      UCGUCA------CCGAG-G-UUG---------G-GC-AGUC---------
+BRA0791      ACAACG------AAAAA-G-CCC---------C-GCACGAU---------
+BRA0875      UAAGA--------AAAC-G-GCG---------C-U--U--UC--------
+BRA0601      ACAGGG------CGCGA-A--UC---------C-GA-AGAC---------
+BRA0193      AGGAG--------GAUU-G-ACC---------C-GG-UUUU-U-------
+BRA0960      AGAAAG------UCCGC-G-CCG---------G-AA-GACG---------
+BRA1026      AGAAA-----------U-G-CCC---------AA-C-CUUUC--------
+BRA0847      UAAAUG-------CAGA-C-ACG---------CCCU-AGAA-GAUUCUUG
+BRA0885      UGAAACA-----GAGAG-G-CGC---------U-CC-AUAAC--------
+BRA0704      UGAGA--------GCAA-G-GCC---------C-GA-UGCGCCCGG----
+BRA1041      UGAGC----------AA-G-GGG---------C-CG-AAAA---------
+BRA0361      UAAAACACC-CAU--AA-G-CCC---------G-CG-UAAU---------
+BRA0681      AGAUC--------AAAA-C-GCC---------G-CC-UUUUCC-------
+BRA0587      UAA----------AGCC-G-CUC---------C-GCUUGUU---------
+BRA0083      GCAAGGA-----AAAGG-G-GCC---------G-----UUG---------
+BRA0077      AAAAC--------AGAA-A-CGG---------C-CC-AAACC--------
+BRA0422      AAAUAA-------GAAG-G-GCC---------G-CC-CGAC-UGGA----
+BRA0249      UGAUCC------GGGAG-C-CUC---------G-CC-UUCG---------
+BRA0324      UUAACUA-----CGGCC-G-CGU---------C-AU-GGUUC--------
+BRA1140      GCA----------UCAA-U-AUC---------G-------AA--------
+BRA0120      ACGGC--------GUCG-C-GCG---------G-AA-GGUU---------
+BRA0579      UUAAA--------GCGU-G-UCG---------U-AUGAUAAA--------
+BRA0991      GGAAA--------AUCA-G-UCC---------------ACU---------
+BRA0889      UAA----------AAAC-G-CCG---------C-UC-CGAA---------
+BRA1186      ACAAUC------CGCCG-C-CUG---------C-GC-GAAACGCA-----
+#=GC SS_cons ::::::.......<<<<.<.<<<.........<.<<._____........
+#=GC RF      ucAAag.......gaac.G.cCg.........g.gc.ugaaC........
+
+BRA0219      ---------AUCGUU-C--CGGC-CUCC-------------
+BRA1150      ----------------U--AAAC-CUUC-------UGUUCU
+BRA0195      -------------GC-G--GCGC-GGG--------------
+BRA0333      ---------UGCAUU-U--CCGG-UCUC-------------
+BRA0340      ------------GUC-U--CGGG-AUGA-------UAUUAA
+BRA0935      ------------A-CGG--AACC-GCUCUA--ACGAUUUGU
+BRA0700      ------------AGCAC--CGGC-GUUGC----GAUAUUGA
+BRA0636      --------------C-A--UCCG-GGUU---------UUGU
+BRA0033      -------------GGAG--CCGA-UCUA------UCUCUCU
+BRA0752      ----------GAAGA-A--CCGC-CGCU-------CCUUAU
+BRA0658      ---------CUCAUC-G--GGUU-UUGG---------UUAA
+BRA0970      --------------C-A--AACA-UA-----------CUGC
+BRA0689      ------------AAG-A--AAAC-GCUC-------UUUUCA
+BRA0712      -----------UGAA-A--UGGA-AU-----------AUUA
+BRA0887      ----------------C--CGGC-GCUU---------UUUU
+BRA1148      ------UACUUUUGCUG--GAGA-UGCU------CUAUUGC
+BRA0702      ----------UGUGU-C--UGGA-ACCAA-----UUAUUCU
+BRA0100      ----------AAUGG-A--ACCC-UCUA------ACUAUGC
+BRA1027      ----------------G--GUUG-GGCA---------UUUC
+BRA0512      --------------C-G--GGCC-GUUU-------UACUUU
+BRA0497      --------------CUC--CGGC-CAUU---------UUGU
+BRA0609      ------------GAG-G--CGGC-UUUU-------UAUUUU
+BRA0417      --------------C-A--GAUC-GGCG-------CUUUUU
+BRA0870      -------------GG-C--CGCU-UUUC-------CUUUGU
+BRA0582      ----------------G--CACCGUCUC-------------
+BRA0850      ----------------C--GCCC-GGCC---------AUUA
+BRA0453      --------------C-G--GGCU-GCUC-------CUUUCA
+BRA0775      ------------UGC-A--GGUG-CUUC-------GGUUUC
+BRA0706      --------------C-C--GCGC-GGGC-------UUUUUA
+BRA0635      -----------CCAU-C--CGGG-UUUU------GUUUUGG
+BRA0788      -------CGGCUUUG-C--CGGA-AAUG-------CUCUCC
+BRA1171      -------------UC-C--AGCC-GCCU-------UUUUCA
+BRA1039      -------------GC-G--CCCA-UUCU-------UUUUGA
+BRA1151      --------CCGGUUU-C--GGGA-GACA-------------
+BRA1028      UG-AAUCAGAUCGGC-G--CUCU-AAGC-------CGUUGU
+BRA0423      ----------GUCGG-G--CGGC-CCUU------CUUAUUU
+BRA0904      -----------CCUCUG--CGGA-AGGG-------------
+BRA0908      -------------GC-G--GGGU-UUUA---------UUUA
+BRA1103      ----------CGAAG-C--CGGC-UUUC---------UUGC
+BRA0707      ------------UCC-G--CGCG-GGCU-------UUUUGA
+BRA0052      -------------GC-G--CCGC-CUUU-------UCUUAU
+BRA0513      --------------C-G--GGCC-GUUUU-----GCAUUUC
+BRA0006      --------------C-U--UGCG-CGGC-------UUUUCU
+BRA0329      A--GCCGGAGGCUUC-G--CGGA-GUG--------------
+BRA0673      ----------------C--CGGC-GCUU-------UCUUCG
+BRA0878      ----------------C--CGGC-CUUU---------UUCA
+BRA0336      -------------UC-G--CCGC-GCCC-------------
+BRA0051      -------ACACUUUU-C--GGGA-UGCG---------CUCU
+BRA0787      -------------AG-C--CGCC-CGGA---------UUCA
+BRA1032      -------------GG-G--CAUG-UG-----------UUUA
+BRA0941      ---------UGAAAC-C--GGAA-CCGC---------UUUC
+BRA0454      --------------C-G--GGCC-GCUCC----GGUCUUUC
+BRA0793      -------------AC-G--CCGC-GCUU------UUUUUGU
+BRA1158      -------------UCU---AAGU-GAUU------GUUUUGU
+BRA0799      ------------GUC-A--GAUC-GGCG---------CUCU
+BRA0790      ------------UGC-G--GGGC-UUUU------UCGUUGU
+BRA0101      -----------CAGG-A--ACCC-UCUA------AAGAUCA
+BRA0871      -------------GG-C--CGCU-UUUC-------UGUUUU
+BRA1061      ------------UGC-G--CCGC-UUUU-------UCAUUU
+BRA0810      --------------C-A--GGGA-ACGC---------UUGC
+BRA0619      ----------------G--CGCA-GGGG-------------
+BRA0071      ------------CAC-U--GCGC-UGGC-------UUUUUU
+BRA0886      ----------------C--CGGC-GCUU---------UUGC
+BRA0661      ------------CAC-C--CGGC-GC--A-----GUUUUGC
+BRA0926      --------------CUG--CGGC-GGCU-------UUUUUC
+BRA0682      ------------GAU-C--CGGC-UUCG-------UUUUGU
+BRA0487      ----------UGUUC-C--GGGC-UUUC-------UGUUUC
+BRA0189      -------------GC-C--CGGC-UUUU---------UUGU
+BRA0150      ---------ACGGUA-A--AGGCGGGAAA----CUCCAUGA
+BRA0922      ---------AGCCAC-C--GGAA-CCGCUCUAACUCUUUGU
+BRA0888      -------------GA-G--CGGC-GUUU-------UUAUCC
+BRA0804      ------------UGU-U--CGCC-UUC----------AUUA
+BRA0725      ------------GGA-C--UGGU-UUCC-------------
+BRA0472      ------------UGC-G--UCGG-UCGCA----AGUCAUCU
+BRA0614      ------------UGC-C--GGGU-UUGG-------CGUUCU
+BRA0890      -------------GC-A--UGGC-GGGC-------UUUUCU
+BRA0119      --------------U-C--CGCG-CGAC-------------
+BRA0341      -----------UCUC-C--GGAG-CCGC-------UAUUCC
+BRA0742      -------------GG-U--CAGC-GCCA------UUUUUGU
+BRA0173      ----------------U--UUCG-AUGC-------------
+BRA0024      -------------GU-G--GACC-GCUC-------CCCUGU
+BRA0055      -------------GG-C--GGGC-UUCA-------UAUUUU
+BRA0610      ------------GAGAC--GGCU-UUUU------GAAUUCA
+BRA0370      -------------G--G--UGGG-CUUU-------UUUUGU
+BRA0859      -----------CCGG-G--CGGA-GCCGG-----UUCUUCA
+BRA0044      ---------AAUCGU-C--GGAA-UCGUCC--UAACUAUUU
+BRA0937      -------------GAUG--CGCC-CGGA------ACAUUUC
+BRA0530      -------------GC-C--CGGC-UUUU-------CGCUGU
+BRA0175      ------------UGC-G--AAUC-CGGA------AUUUUGU
+BRA1012      -------GAGGGAGG-G--CGCA-CAGC------GAGUUGA
+BRA0927      --------------CAG--CGGC-GGCC------AGGUUGC
+BRA0509      --------------G-G--CUCG-CUUG---------AUUA
+BRA0655      -------------G--G--GGUU-GGCG------ACAUUGC
+BRA0724      ------------UGA-C--CGGG-CG---------------
+BRA0153      -------------GC-A-UGGCG-ACUU------GUGAUUC
+BRA1076      -------------GU-U--CAUU-GAGC---------AUCG
+BRA0352      -----------GGAG-C--CGCC-CUCU-------UUAUUU
+BRA0323      -------------UG-C--CGCG-GCCC---------UUCA
+BRA0763      --------------C-G--CGCC-UUUU---------UUCA
+BRA0814      --------UCAGAUC-G--GCGC-UCUA------AUUCUUU
+BRA0920      -------------GU-C--GGGC-UUUA---------UUCC
+BRA0879      --------------C-C--GGCC-U---------CUUUUGU
+BRA0409      -------------AG-A--CGCU-GUCCCG--GCUCCUUCU
+BRA0616      ----------GGAUG-C--GGCG-UUUC---------UUUC
+BRA0183      -------------GC-C--GGUU-UUGG-------GGAUUA
+BRA0938      -----------AGGC-C--CGCA-AU-----------UUGA
+BRA0401      ------------GGG-C--AGCU-UUGU-------------
+BRA0174      -----------UCGG-G--UUGC-GCAG----------UGA
+BRA1019      -------------GCAC--CGGC-GGGG-------UUUUAU
+BRA0239      -------------GG-A--GGGC-CUUU-------UGCUUU
+BRA0789      -------ACGCUUUUAC--CGGA-AAUG---------UUCC
+BRA0034      --------------GCC--CGCC-GGAU-------------
+BRA0633      -------------GC-G--CAAC-AGAC-------CUUUUC
+BRA0223      -------------GG-A--CUGA-UUUC-------UGAUCC
+BRA0567      --------------G-C--GCCC-UUUU-------UAUUAU
+BRA0238      ----------------C--AAGA-AAAA---------UUUA
+BRA0800      ----------------A--CGGU-UUUU-------------
+BRA0013      ----------AUAAC-G--CCGU-GGGC-------CGAUCU
+BRA0496      --------------CCC--CGGC-CAU----------UUCA
+BRA0260      -----------AUGG-G--GGGC-GCUC-------UCCUGC
+BRA0964      -----------GGGG-A-GCGCC-GCUU-------UUCUUU
+BRA0575      -------------G--G--CGCC-CCUU---------UUUC
+BRA0924      -------------AC-G--GGCG-ACCCA----CACUUUCA
+BRA0018      ------------AGG-C--CGCC-GCCC------AUUUUCA
+BRA0240      ------------GGG-A--GGGC-CUUU---------UUAC
+BRA0527      -----------AAUG-G--CGGC-AC---------------
+BRA0613      ------------UAC-C--GGGU-UUGG-------CGAUGA
+BRA0905      -----------AUUCUG--CGGA-AGGG-------UUUUGU
+BRA0721      --------------G-C--CGCC-UUUU-------------
+BRA1084      -------------AU-C--GGUG-GCUU-------UCUGCU
+BRA1048      -------------AA-C--CAGC-GCCU---------AUCA
+BRA0781      ------------UGC-U--GUUU-UGCC---------UUCA
+BRA0176      -------------GG-G--AUGC-CG-----------UUCA
+BRA0056      -------------UG-G--CGGG-CUUU-------CCAUGC
+BRA0631      --------------U-C--GGCG-CGUU-------UAUUUC
+BRA0289      --------UCAGAUC-G-GCGCU-CUAAU-----CCUUUGU
+BRA0486      ----------GGUUC-C--GGGC-UUUC-------UUUUGU
+BRA0179      --------------U-U--UACC-ACUU---------CUGC
+BRA0693      -------------UC-C--CGGA-CGUU---------UUUC
+BRA0632      U---GAAGUCCGGGG-C--GUCC-GGUG-------CUCUCU
+BRA0182      -------------GC-C--CGGC-UUUA---------UUGC
+BRA0737      --------------C-C--CGGG-GGGCAU---CGCUUUCA
+BRA0521      -------------GG-C--GCGG-UUUUUG---CGUUUUGA
+BRA0861      -------------GU-C--GUUC-UUGC-------------
+BRA0629      -----------ACAC-G--CAUA-AGUUG-----CCAAUCU
+BRA0072      --------------C-C--GCGC-UGGCG-----AUAUUGG
+BRA0932      ------------AAC-G--GCGG-CGGC---------CUCA
+BRA0914      --------------G-C--GGGC-AUUU-------UCAUGA
+BRA0902      -------------UC-C--GGCC-UUUG-------UUUUAU
+BRA1119      -------------AC-A-GGAAC-CGCU-------CUAUGC
+BRA0221      ----------GCCGG-A--AAGC-GGAG-------CCUUGC
+BRA0822      --------------C-U--CAUC-GGG----------UUUU
+BRA0481      --------CCGGAUC-A--GAAG-UCGU---------CUUC
+BRA0191      ------------UGC-G--CGGC-UUUUU----CAUAUUUC
+BRA0355      --------------C-C--GGCG-ACUA-------CUUUUU
+BRA0662      ---------UUCAAC-U--GGAA-CCGC---------UUUA
+BRA0764      --------------C-G--CGCCCUUUUC----CAUUUUGU
+BRA0017      -------------AGAC--AGCC-GCCC-------------
+BRA0858      -------------GC-UUUCGGG-AUGC------GCAUUCC
+BRA0326      -----------UUGC-G--GGCG-GGGC-------AUUUCU
+BRA0031      --------------U-U--GAAC-CGCU-------------
+BRA0298      G---AAGAUCAUUUC-G--CUGC-UCCU---------CUCC
+BRA0547      -------------G--G--CCGC-GCCC---------AUAC
+BRA0400      ------------UGC-C--CAGC-CUCC---------CUGA
+BRA0791      -------------GC-G--GAGC-UUUU-------UCAUUU
+BRA0875      -------------GG-G--CGCC-GUUU---------UUGU
+BRA0601      --------------C-G--GAAU-UCGC-------CUCUCC
+BRA0193      ------------UUC-G--GGUC-AAUCA-----AACUUGA
+BRA0960      ------------UUU-C--CGGC-GCGC-------CUUUUA
+BRA1026      ------------GG-CU--GGGC-AA-----------AUCA
+BRA0847      UGUCUUGAUUGUUAUUG--CGUG-UCUG-------------
+BRA0885      -------------GG-G--GCGC-CUCU---------UUCA
+BRA0704      ---------CUCAUC-G--GGCC-UUGA---------UUGA
+BRA1041      --------------G-G--CCCC-UU-----------UUCU
+BRA0361      -------------UG-C--GGGC-UU-----------UUUU
+BRA0681      ------------GGG-C--GGCG-UUUU-------CGUUUC
+BRA0587      --------------C-G--GGAC-GGCU-------UUUUUA
+BRA0083      ----------------C--GGCC-CCUU---------UUGC
+BRA0077      -------------GG-G--CCGU-UUCC---------CUGC
+BRA0422      ---------GUGGAG-C--GGCC-CUUC---------UUCA
+BRA0249      -------------GG-C--GGGG-CUCC------AUUCUGU
+BRA0324      -------------AU-G--ACGC-GGCU---------UUGC
+BRA1140      ----------------U--GAUA-UUGA-------UGUUUU
+BRA0120      --------------U-C--CGCG-CGACC-----AUGUUGA
+BRA0579      -------------AU-G--CGGC-ACGC---------UUCA
+BRA0991      -------------------GGAC-UGAU---------UUCC
+BRA0889      -------------GA-G--CGGC-GUUU-------CUUUUU
+BRA1186      ---------CCAUGC-G--CAGG-CAGC-------------
+#=GC SS_cons .............>>.>..>>>>.>>>>.......::::::
+#=GC RF      .............gc.c..cGgC.guuc.......UuUUgu
+//

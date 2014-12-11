@@ -1,0 +1,846 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2.1-1
+#=GF AU Infernal 1.0.2
+
+#=GS Synpcc7942_0893 WT 0.85
+#=GS Synpcc7942_1389 WT 0.85
+#=GS Synpcc7942_0049 WT 1.01
+#=GS Synpcc7942_0712 WT 1.03
+#=GS Synpcc7942_1464 WT 1.07
+#=GS Synpcc7942_0328 WT 0.90
+#=GS Synpcc7942_0047 WT 1.16
+#=GS Synpcc7942_2444 WT 1.12
+#=GS Synpcc7942_1661 WT 1.09
+#=GS Synpcc7942_1261 WT 1.15
+#=GS Synpcc7942_2445 WT 0.96
+#=GS Synpcc7942_2048 WT 0.82
+#=GS Synpcc7942_0424 WT 0.84
+#=GS Synpcc7942_1656 WT 1.00
+#=GS Synpcc7942_2548 WT 0.94
+#=GS Synpcc7942_2163 WT 1.11
+#=GS Synpcc7942_0425 WT 0.84
+#=GS Synpcc7942_1757 WT 0.80
+#=GS Synpcc7942_2265 WT 1.21
+#=GS Synpcc7942_0617 WT 1.01
+#=GS Synpcc7942_1888 WT 0.93
+#=GS Synpcc7942_0883 WT 1.09
+#=GS Synpcc7942_1662 WT 1.15
+#=GS Synpcc7942_2313 WT 0.95
+#=GS Synpcc7942_2030 WT 0.98
+#=GS Synpcc7942_0456 WT 1.07
+#=GS Synpcc7942_1479 WT 1.04
+#=GS Synpcc7942_0538 WT 0.83
+#=GS Synpcc7942_0004 WT 0.80
+#=GS Synpcc7942_2248 WT 0.76
+#=GS Synpcc7942_1421 WT 0.96
+#=GS Synpcc7942_0505 WT 1.18
+#=GS Synpcc7942_2156 WT 0.99
+#=GS Synpcc7942_0048 WT 1.05
+#=GS Synpcc7942_1190 WT 1.02
+#=GS Synpcc7942_2561 WT 0.83
+#=GS Synpcc7942_0473 WT 0.90
+#=GS Synpcc7942_1830 WT 1.00
+#=GS Synpcc7942_2312 WT 1.15
+#=GS Synpcc7942_1522 WT 1.02
+#=GS Synpcc7942_0903 WT 0.77
+#=GS Synpcc7942_0649 WT 0.89
+#=GS Synpcc7942_1696 WT 1.06
+#=GS Synpcc7942_2064 WT 0.95
+#=GS Synpcc7942_1463 WT 1.04
+#=GS Synpcc7942_1409 WT 1.03
+#=GS Synpcc7942_1812 WT 1.03
+#=GS Synpcc7942_1858 WT 1.03
+#=GS Synpcc7942_0385 WT 0.93
+#=GS Synpcc7942_1607 WT 0.75
+#=GS Synpcc7942_1439 WT 1.02
+#=GS Synpcc7942_1708 WT 1.16
+#=GS Synpcc7942_1076 WT 0.90
+#=GS Synpcc7942_0679 WT 1.01
+#=GS Synpcc7942_1068 WT 0.89
+#=GS Synpcc7942_2450 WT 1.16
+#=GS Synpcc7942_2332 WT 0.84
+#=GS Synpcc7942_0971 WT 0.82
+#=GS Synpcc7942_1823 WT 0.90
+#=GS Synpcc7942_2180 WT 0.97
+#=GS Synpcc7942_0189 WT 0.80
+#=GS Synpcc7942_0089 WT 1.05
+#=GS Synpcc7942_1809 WT 0.93
+#=GS Synpcc7942_0942 WT 0.94
+#=GS Synpcc7942_1610 WT 0.97
+#=GS Synpcc7942_1220 WT 1.01
+#=GS Synpcc7942_1123 WT 1.03
+#=GS Synpcc7942_2352 WT 0.86
+#=GS Synpcc7942_2449 WT 1.00
+#=GS Synpcc7942_0631 WT 1.22
+#=GS Synpcc7942_1364 WT 1.21
+#=GS Synpcc7942_0442 WT 0.99
+#=GS Synpcc7942_0598 WT 0.99
+#=GS Synpcc7942_1089 WT 0.90
+#=GS Synpcc7942_1475 WT 1.01
+#=GS Synpcc7942_0031 WT 1.09
+#=GS Synpcc7942_0645 WT 1.17
+#=GS Synpcc7942_0727 WT 0.98
+#=GS Synpcc7942_1131 WT 1.12
+#=GS Synpcc7942_0156 WT 0.92
+#=GS Synpcc7942_2345 WT 0.92
+#=GS Synpcc7942_2408 WT 1.05
+#=GS Synpcc7942_1313 WT 0.92
+#=GS Synpcc7942_2175 WT 1.05
+#=GS Synpcc7942_0343 WT 1.12
+#=GS Synpcc7942_1637 WT 1.16
+#=GS Synpcc7942_0191 WT 0.82
+#=GS Synpcc7942_2104 WT 0.93
+#=GS Synpcc7942_0419 WT 1.01
+#=GS Synpcc7942_0096 WT 1.17
+#=GS Synpcc7942_2513 WT 1.05
+#=GS Synpcc7942_0731 WT 1.06
+#=GS Synpcc7942_0012 WT 1.06
+#=GS Synpcc7942_1705 WT 0.91
+#=GS Synpcc7942_0974 WT 1.02
+#=GS Synpcc7942_1290 WT 0.90
+#=GS Synpcc7942_0468 WT 1.02
+#=GS Synpcc7942_0065 WT 1.02
+#=GS Synpcc7942_1695 WT 1.05
+#=GS Synpcc7942_1609 WT 1.01
+#=GS Synpcc7942_0953 WT 1.00
+#=GS Synpcc7942_0139 WT 1.10
+#=GS Synpcc7942_1088 WT 1.00
+#=GS Synpcc7942_1137 WT 0.97
+#=GS Synpcc7942_1889 WT 1.09
+#=GS Synpcc7942_2354 WT 1.25
+#=GS Synpcc7942_1427 WT 1.10
+#=GS Synpcc7942_1443 WT 1.12
+#=GS Synpcc7942_2612 WT 1.11
+#=GS Synpcc7942_0943 WT 1.09
+#=GS Synpcc7942_1557 WT 1.11
+#=GS Synpcc7942_2407 WT 1.06
+#=GS Synpcc7942_2446 WT 1.18
+#=GS Synpcc7942_0535 WT 0.86
+#=GS Synpcc7942_2344 WT 0.99
+#=GS Synpcc7942_0808 WT 0.98
+#=GS Synpcc7942_1322 WT 1.03
+#=GS Synpcc7942_1907 WT 1.06
+#=GS Synpcc7942_1849 WT 1.03
+#=GS Synpcc7942_0827 WT 0.84
+#=GS Synpcc7942_1871 WT 1.09
+#=GS Synpcc7942_1552 WT 0.88
+#=GS Synpcc7942_1487 WT 1.03
+#=GS Synpcc7942_1944 WT 0.88
+#=GS Synpcc7942_2072 WT 1.00
+#=GS Synpcc7942_0313 WT 0.90
+#=GS Synpcc7942_1606 WT 0.75
+#=GS Synpcc7942_2158 WT 1.02
+#=GS Synpcc7942_1401 WT 1.15
+#=GS Synpcc7942_0648 WT 0.97
+#=GS Synpcc7942_0479 WT 0.84
+#=GS Synpcc7942_2029 WT 1.12
+#=GS Synpcc7942_1820 WT 0.94
+#=GS Synpcc7942_1136 WT 0.75
+#=GS Synpcc7942_1999 WT 0.90
+#=GS Synpcc7942_1832 WT 0.86
+#=GS Synpcc7942_1152 WT 1.17
+#=GS Synpcc7942_1554 WT 1.02
+#=GS Synpcc7942_1434 WT 1.19
+#=GS Synpcc7942_0169 WT 1.02
+#=GS Synpcc7942_0332 WT 1.07
+#=GS Synpcc7942_0009 WT 0.94
+#=GS Synpcc7942_1977 WT 0.96
+#=GS Synpcc7942_1095 WT 1.15
+#=GS Synpcc7942_2315 WT 0.96
+#=GS Synpcc7942_0320 WT 1.07
+#=GS Synpcc7942_0656 WT 0.88
+#=GS Synpcc7942_0866 WT 1.09
+#=GS Synpcc7942_0285 WT 0.93
+#=GS Synpcc7942_0314 WT 1.00
+#=GS Synpcc7942_1053 WT 0.94
+#=GS Synpcc7942_1621 WT 1.05
+#=GS Synpcc7942_1831 WT 1.03
+#=GS Synpcc7942_1674 WT 1.11
+#=GS Synpcc7942_1991 WT 1.01
+#=GS Synpcc7942_2084 WT 1.04
+#=GS Synpcc7942_2468 WT 1.01
+#=GS Synpcc7942_1840 WT 0.75
+#=GS Synpcc7942_1132 WT 1.12
+#=GS Synpcc7942_0422 WT 1.11
+#=GS Synpcc7942_0433 WT 1.18
+#=GS Synpcc7942_1632 WT 0.93
+#=GS Synpcc7942_0050 WT 1.00
+#=GS Synpcc7942_2047 WT 1.02
+#=GS Synpcc7942_2235 WT 1.22
+#=GS Synpcc7942_2342 WT 1.04
+#=GS Synpcc7942_1293 WT 0.80
+#=GS Synpcc7942_2415 WT 0.77
+#=GS Synpcc7942_0192 WT 0.82
+#=GS Synpcc7942_1542 WT 1.11
+#=GS Synpcc7942_1410 WT 0.91
+#=GS Synpcc7942_1249 WT 1.01
+#=GS Synpcc7942_1239 WT 1.11
+#=GS Synpcc7942_0325 WT 1.06
+#=GS Synpcc7942_0337 WT 0.89
+#=GS Synpcc7942_0978 WT 0.98
+#=GS Synpcc7942_0639 WT 1.03
+#=GS Synpcc7942_2274 WT 1.07
+#=GS Synpcc7942_0529 WT 1.07
+#=GS Synpcc7942_1525 WT 1.02
+#=GS Synpcc7942_0266 WT 1.10
+#=GS Synpcc7942_1134 WT 1.10
+#=GS Synpcc7942_0260 WT 0.99
+#=GS Synpcc7942_0976 WT 1.22
+#=GS Synpcc7942_1819 WT 0.94
+#=GS Synpcc7942_0446 WT 0.99
+#=GS Synpcc7942_1415 WT 0.98
+#=GS Synpcc7942_1997 WT 1.07
+#=GS Synpcc7942_2137 WT 1.16
+#=GS Synpcc7942_0294 WT 0.90
+#=GS Synpcc7942_1742 WT 0.97
+#=GS Synpcc7942_2171 WT 1.05
+#=GS Synpcc7942_1545 WT 1.09
+#=GS Synpcc7942_1174 WT 0.89
+#=GS Synpcc7942_0884 WT 1.03
+#=GS Synpcc7942_1373 WT 0.76
+#=GS Synpcc7942_1002 WT 0.96
+#=GS Synpcc7942_1127 WT 1.01
+#=GS Synpcc7942_0336 WT 1.03
+#=GS Synpcc7942_2531 WT 0.95
+#=GS Synpcc7942_1059 WT 0.98
+#=GS Synpcc7942_1176 WT 0.94
+#=GS Synpcc7942_1657 WT 1.03
+#=GS Synpcc7942_1587 WT 1.11
+#=GS Synpcc7942_2353 WT 1.07
+#=GS Synpcc7942_0452 WT 0.92
+#=GS Synpcc7942_1397 WT 1.08
+#=GS Synpcc7942_2190 WT 0.97
+
+Synpcc7942_0893 AAUUGA----------G--UA-----GGUGA-------------------
+Synpcc7942_1389 AAUCAA--------AAUUGA---G---UAGGU------------------
+Synpcc7942_0049 AAUAUCG-------AAUUUAU--C-UAAUCA-------------------
+Synpcc7942_0712 AAUUCCUU----AGAAUGCU---G-CAGUGAUG-----------------
+Synpcc7942_1464 AAUCAA----------CUGU------UUA---------------------
+Synpcc7942_0328 AAUCGCCU----CU--CCUCA--G-AUUCUG-------------------
+Synpcc7942_0047 ---UGC----------U--UU--C-AAGUUU-------------------
+Synpcc7942_2444 AAA-----------AGCUCUA-----AAUAAUGAGC--------------
+Synpcc7942_1661 GAUCUA--------AUCGACU--G-AACCUU-------------------
+Synpcc7942_1261 AAUUACCA-----GAGCUAA---C-AGCUCU-------------------
+Synpcc7942_2445 GAUUCCG-------AUU--UA--G-UUGUUG-------------------
+Synpcc7942_2048 AAU-----------AAC--AA-----AGC---------------------
+Synpcc7942_0424 AAUUGCCG-----GAAUUACA--G-CAGUCUGAAUA--------------
+Synpcc7942_1656 UAACUCUC-----U-----AA-----AUCCA-------------------
+Synpcc7942_2548 GAUCGCAG----CCAGC--UA--G-CAUUUGACCUUGUUGC---------
+Synpcc7942_2163 GAUCGC-------------UA--C-UACUGA-------------------
+Synpcc7942_0425 AAUCAAU------A--UCCAA--G-CAUCAA-------------------
+Synpcc7942_1757 GAUCCC----------C---U--G-AG---A-------------------
+Synpcc7942_2265 GAUCGCU-------AAU--CA--G-AACCCUGCUGUUCUAAGC-------
+Synpcc7942_0617 GAUCGCCU-----CACU--C-----AGGUAGC------------------
+Synpcc7942_1888 CAUUUCUCC--AAGAAC--CU--G-AAUAUA-------------------
+Synpcc7942_0883 CAUCAC----------UGGAA-----------------------------
+Synpcc7942_1662 GAAUUCC------CAUU--CA-----GUAAA-------------------
+Synpcc7942_2313 ---CGC----------U--C---G-CGAUCG-------------------
+Synpcc7942_2030 CACUCCC------UAACCAUU----------AGCGU--------------
+Synpcc7942_0456 CAACACAC-----AAGCUUUA----------CG-----------------
+Synpcc7942_1479 AAUCAC----------U--CA-----------------------------
+Synpcc7942_0538 GAUCACUA-----AAAC--UU--G-AAUUGA-------------------
+Synpcc7942_0004 GAUUACAG----AUAUCCACA---------G-------------------
+Synpcc7942_2248 GAUCGCGU----CCAAGGCUA----------AAGCAACAGUCA-------
+Synpcc7942_1421 AAUUCCG------CAUG--UA----AGGUUG-------------------
+Synpcc7942_0505 AAUUCCU------GAUC--C---C-AAAUGG-------------------
+Synpcc7942_2156 CACUGC----------GUCUU--G-AGAGUU-------------------
+Synpcc7942_0048 CAACUCUU-----UAAC--A---G-AGUAUUUA-----------------
+Synpcc7942_1190 ---UGCU------G--UCCUA-----GGUCACUUC---------------
+Synpcc7942_2561 AAUCGCGCU---CAAACCGUU--G-AUUUAAA------------------
+Synpcc7942_0473 AAUUGCC------UAGC--AA---------A-------------------
+Synpcc7942_1830 AACGUC----------UUCUU--C-AUGU---------------------
+Synpcc7942_2312 GAUCGCUUCUGUAAAAC--CA--C-AAAAAA-------------------
+Synpcc7942_1522 GAUGACGAC---UAAGUCGUA-----AGUGAU------------------
+Synpcc7942_0903 GACCGCU------AAAU--U---GUCGGUCA-------------------
+Synpcc7942_0649 CAUUACCU-----CAGU------G-AAUUAA-------------------
+Synpcc7942_1696 AACCGCU------CAGC--CA--G-AGGCAAC------------------
+Synpcc7942_2064 CAAGGCAC-----CAAC------G-AAUCAA-------------------
+Synpcc7942_1463 UACGGCAC-----UAGU--UA-----GUUA-AUCC---------------
+Synpcc7942_1409 AAUCUAA------AAAC--AA---------U-------------------
+Synpcc7942_1812 GAUCGCU-------AAU--UU-----AUUCA-------------------
+Synpcc7942_1858 AAUCACUGUC-CUA--C--UU--G-AGCUUG-------------------
+Synpcc7942_0385 AAUUGCUGCCUCUGAUG--CA--C-AAUCAA-------------------
+Synpcc7942_1607 GAUUUC--------AAG--CA--C-AACUCAAACCACACA----------
+Synpcc7942_1439 GAUCGCUC-----UAAC--AA---------U-------------------
+Synpcc7942_1708 GAUUCC--------AGC--CU--G-U-----CUUCUAGCGAAG-------
+Synpcc7942_1076 AAUUGCG-------AUUGAUU-----AUUAG-------------------
+Synpcc7942_0679 CACUGA--------AAUUUAA-----AUUGA-------------------
+Synpcc7942_1068 AAUUACUC-----GACGCACU--G-CGUUGG-------------------
+Synpcc7942_2450 ---UGCCC-----UAGUUGUU--G-CACGCG-------------------
+Synpcc7942_2332 UAAUGCU------CAUUCACU--GACAGUAA-------------------
+Synpcc7942_0971 AAUUGC--------AGCUCUA--G-CGCUGUA------------------
+Synpcc7942_1823 GAUCGC--------AGCGUU---G-AU-----------------------
+Synpcc7942_2180 GACCGC----------C--CA-----GAUCG-------------------
+Synpcc7942_0189 CACCGCUCU--AUAAGUUGUU------GUUGAA-----------------
+Synpcc7942_0089 ---UUC--------AGC--A---G-AGGUUG-------------------
+Synpcc7942_1809 GAC-------------UGGAA--G-CGAUAA-------------------
+Synpcc7942_0942 GAUU----------AGGGCCU--C-AACUGA-------------------
+Synpcc7942_1610 GAAUGC----------C--UA---------A-------------------
+Synpcc7942_1220 AAUUCCAG----CGAAC--UA--G-AACAAA-------------------
+Synpcc7942_1123 GAACGC----------UGAUU--G-AGUUU--------------------
+Synpcc7942_2352 GAC-----------AAU--CU-----------------------------
+Synpcc7942_2449 AACCGCUA-----GAUUUCAA--G-AGUCCUGAUAGGCUCUUC-------
+Synpcc7942_0631 AAAGUC--------AGCGUCA-----AGUAGUUC----------------
+Synpcc7942_1364 AAUCCCCG----CAAAUACUA--G-CGAUCGAUCGCCAAUCCCCAUCCUC
+Synpcc7942_0442 AACUGCGCU--GUCAAU--CA--G-CG-----------------------
+Synpcc7942_0598 GAACGC----------UUCAU-----------------------------
+Synpcc7942_1089 AAUCACCCCC-UCUAAU--UU----------GAGCG--------------
+Synpcc7942_1475 AAUCGCU------C-----AA--C-AGGUAA-------------------
+Synpcc7942_0031 AAU-----------AGC--UA---------U-------------------
+Synpcc7942_0645 CAUCAAU------A--CGGUU--G-CUGUCAGA-----------------
+Synpcc7942_0727 AACCAC----------CGUAA-----------------------------
+Synpcc7942_1131 CAUCUA--------AAU--AU--G-UAUUUU-------------------
+Synpcc7942_0156 GAUCGCUC-----GAACCCUAGGG-CGAUUU-------------------
+Synpcc7942_2345 ---CGCUG-----UAAU------G-AAUUGA-------------------
+Synpcc7942_2408 CAAUUC----------CCACA-----------------------------
+Synpcc7942_1313 GAUCGC-------------AA---------A-------------------
+Synpcc7942_2175 GAUCACU---------U--CA-----------------------------
+Synpcc7942_0343 GAA-------------U--U---G-AGAUUG-------------------
+Synpcc7942_1637 GAAAGA----------UUUUU-----GCUCA-------------------
+Synpcc7942_0191 GAUCGCA------CAGC--UA-----UCAAA-------------------
+Synpcc7942_2104 AAUCAAGCU---UCAAUUCUU--G-AUCACU-------------------
+Synpcc7942_0419 AAACAC----------CGAUA--C-AGAAAA-------------------
+Synpcc7942_0096 AAUCUCC-------AACGCUU----------C------------------
+Synpcc7942_2513 CAUUGC--------------------GGCGA-------------------
+Synpcc7942_0731 ---CACU------U--UUUUU--G-AGGCUA-------------------
+Synpcc7942_0012 CAUCAA--------AGUUCU---G-GAUUCGCG-----------------
+Synpcc7942_1705 AAUCAC----------C--AU---------A-------------------
+Synpcc7942_0974 GAUUCAAU-----GAGCGACA-----------------------------
+Synpcc7942_1290 AAUCCCCCA---UCAAUCGAA---------A-------------------
+Synpcc7942_0468 GAUCGCG------A--C--UA---------U-------------------
+Synpcc7942_0065 GAACUC--------AAC--AA---------A-------------------
+Synpcc7942_1695 CACUGA--------AAGGCUA--A-AGGUCU-------------------
+Synpcc7942_1609 CAUUUC----------UGCU---G-AAAAAA-------------------
+Synpcc7942_0953 GAUCGCCG----GCAAUUUAA----------AAAGC--------------
+Synpcc7942_0139 ---CGCU------AAGCUCUA--G-AGCU--GCUUUUUAGG---------
+Synpcc7942_1088 GAUCUA---------ACGAUU--G-UUCUCAA------------------
+Synpcc7942_1137 GACUGA--------AAGUCAA-----------------------------
+Synpcc7942_1889 GAUGGCU------A-AGUAAU--G-CUGGAU-------------------
+Synpcc7942_2354 ---UGCUCG---GC-----C---G-CUAACG-------------------
+Synpcc7942_1427 AAAGCCUGA--UUU----GU-----------CUUG---------------
+Synpcc7942_1443 GAUCGCGCC--UCA--CUUUA----------CCUCUCU------------
+Synpcc7942_2612 AAUUUC----------UUCUA----------CGCAACCU-----------
+Synpcc7942_0943 GAUCGCUG-----G--CGAAU-----------------------------
+Synpcc7942_1557 GAUCGC----------GGAUU--G-CUGUCU-------------------
+Synpcc7942_2407 GAA-----------AAUGACA-----AAAAA-------------------
+Synpcc7942_2446 GAUCGCAC----CAAAGUCUA----------ACCCUCUAUCUU-------
+Synpcc7942_0535 GAUCCA----------GGCUU--G-UGGUUC-------------------
+Synpcc7942_2344 UAUGGC--------AAC--CA-----------------------------
+Synpcc7942_0808 ----------------UUUUU--G-AG-----------------------
+Synpcc7942_1322 GACUGCUUC--UGU--CUUCA----------CAAGAGG------------
+Synpcc7942_1907 GAUUCC--------ACC--AA-----------------------------
+Synpcc7942_1849 ---UCC--------AGUCCU---C-CUGUCUGUC----------------
+Synpcc7942_0827 AAU-----------AUC--CU--C-UAGUCA-------------------
+Synpcc7942_1871 GAUAGA--------AGUUCUA-----------------------------
+Synpcc7942_1552 AAA-----------AAGUAAU--G-AGCUGA-------------------
+Synpcc7942_1487 ---UGC----------U--UA--C-AAGACUG------------------
+Synpcc7942_1944 GACGAC--------AAG--CU---------A-------------------
+Synpcc7942_2072 AAUCUCUA-----UAGCUCUU-----AGUAG-------------------
+Synpcc7942_0313 UAUCACUCC---CUAACUCAU----AACUCU-------------------
+Synpcc7942_1606 CACCUCUU----GGAUU--CU-----AGAAA-------------------
+Synpcc7942_2158 GAUCGC--------AGGGAU---G-AAGCCGGAUU---------------
+Synpcc7942_1401 AAUUCCGA----UUAGC--AA-----------------------------
+Synpcc7942_0648 GAAUGCU-------AAU--AA----------A------------------
+Synpcc7942_0479 CAACUC----------UGGCA--G-CACCAA-------------------
+Synpcc7942_2029 GAA-----------AAU--CA-----------------------------
+Synpcc7942_1820 GAUCGCCG-----GAACCCU---G-AAGAAAUAAUC--------------
+Synpcc7942_1136 GAU-------------U--UA-----AGACU-------------------
+Synpcc7942_1999 AAUUGACUGU-CUAAGU--UA----------AAUCU--------------
+Synpcc7942_1832 CAUCGC----------UGUCU---------G-------------------
+Synpcc7942_1152 GAUCAA----------UCCC---C-CGAACG-------------------
+Synpcc7942_1554 AACCUC--------AGU--CA--G-CAGCAUUA-----------------
+Synpcc7942_1434 GAUUGC----------C--AA--C-UGGUUUUCCUCCU------------
+Synpcc7942_0169 GACUCAGUCU-GUGAGC--C---G-AAUUCA-------------------
+Synpcc7942_0332 AACCCCUUCG-CGUAAGCUUA--G-------CUAU---------------
+Synpcc7942_0009 AAAUUC----------C--UA---------G-------------------
+Synpcc7942_1977 AAC-----------AAGACUA--C-AAAUCG-------------------
+Synpcc7942_1095 GAUCGCGG----UGAU-------C-AAGAAA-------------------
+Synpcc7942_2315 GAAAGCU------GAAUCCUA-----GGUUUGGCU---------------
+Synpcc7942_0320 GAUGCCCA-----GAAC--AA------CAAA-------------------
+Synpcc7942_0656 AAUUCC--------AACUGCA-----GGACAUUAGCCU------------
+Synpcc7942_0866 GAUCGC--------AGC--A---G-AGCCAG-------------------
+Synpcc7942_0285 GAUUAA--------AAGGGUU-----GAUUU-------------------
+Synpcc7942_0314 AAUCGC--------ACU--UU-----------------------------
+Synpcc7942_1053 CAAUGCCC----UCAGC--UA--G-UUUUUAGCUGCUG------------
+Synpcc7942_1621 GAUCGCGGC---UUAGUUUU---G-UUG---UGAUU--------------
+Synpcc7942_1831 AAAUAA--------AGC--AA-----AUCAG-------------------
+Synpcc7942_1674 AAUGGCCUC---GGAUU--CA--G-CGGUUUGGCUGC-------------
+Synpcc7942_1991 AAACUA--------AAC--UA--G-AUGCAAUC-----------------
+Synpcc7942_2084 GACUGUG------U----CU---G-AA-----------------------
+Synpcc7942_2468 AAUCACC------UAGG--CA-----GUU--UGGGA--------------
+Synpcc7942_1840 AAUCGA----------UGACU--C-AACUCA-------------------
+Synpcc7942_1132 UAUGGC----------G-AUA-----------------------------
+Synpcc7942_0422 AAA-----------AAU--CA--C-AACUGA-------------------
+Synpcc7942_0433 CAUUGAU------CAAGGACU---------G-------------------
+Synpcc7942_1632 UACUACGG-----UAGCCUCU---------G-------------------
+Synpcc7942_0050 AACUUCU------C--CUGUA-----------------------------
+Synpcc7942_2047 GAUCGC----------UGAU---G-AGGUCAGUGAAUCAAGCUA------
+Synpcc7942_2235 GACUUCUCC---GG--GGAUA-----------------------------
+Synpcc7942_2342 CACCUCGU-----U--CCUUA--C-AAGAUG-------------------
+Synpcc7942_1293 GAUCGCU------A--U--CA---------G-------------------
+Synpcc7942_2415 GAAGCCU------AAAU--UU--GCCAGUCAC------------------
+Synpcc7942_0192 CAUCAC--------AACUCAU--C-AAGCAA-------------------
+Synpcc7942_1542 GAAGCCU------AAGUUGAA--C-UGCAAG-------------------
+Synpcc7942_1410 GAUCGUC------CAUUCUCU--C-AACAGA-------------------
+Synpcc7942_1249 GAA-----------AGCGUCA--G-AAAUCAAGUGAC-------------
+Synpcc7942_1239 AAAGCCAU----CAAAGCCUA-----AGUCGUCCU---------------
+Synpcc7942_0325 CAA-----------AAUUAUU--G-CAAUCGAA-----------------
+Synpcc7942_0337 AAA----------------CA--G-AG---G-------------------
+Synpcc7942_0978 GAUCGCGCU---CUAGU------------CUGAGC---------------
+Synpcc7942_0639 GAUGGC--------AAU--U------------------------------
+Synpcc7942_2274 GAUCAC--------AGC--AA-----A----ACCUUG-------------
+Synpcc7942_0529 CAACGC----------UUGCA--G-AGCAGA-------------------
+Synpcc7942_1525 CAUCCC----------CUCUA-----GAUU-GAC----------------
+Synpcc7942_0266 CACCGCUCU---ACAAU--CA--C-AGCCUG-------------------
+Synpcc7942_1134 GAUCGC--------AAGUAUU----------UGGAC--------------
+Synpcc7942_0260 GAU-------------UCACU-----------------------------
+Synpcc7942_0976 GACCUC--------AGC--CA--U-CAGUCAGUCCUGAG-----------
+Synpcc7942_1819 GAACCCU------AAAC--AA---------A-------------------
+Synpcc7942_0446 GAUCGCCUCAUUCAAGUU-UU--A-AAGUCA-------------------
+Synpcc7942_1415 CACCCC--------AUCCUUU----------CC-----------------
+Synpcc7942_1997 AAC-----------AACUUAA--G-AUGAUGA------------------
+Synpcc7942_2137 AAU-----------AAC--UA--G-AGCCUAGGGCAAUUCGA--------
+Synpcc7942_0294 ---CGC--------AAGUGUA---------G-------------------
+Synpcc7942_1742 AAACCCUC----UUAAU--UU--C-UAGUCAA------------------
+Synpcc7942_2171 GAAUGAUU-----CAUCCCCA---------G-------------------
+Synpcc7942_1545 GAUUGAUG-----G--UCCAA--G-UAGCCU-------------------
+Synpcc7942_1174 GAAUCCUG-----CAGG--A---G-CAGU---------------------
+Synpcc7942_0884 AACCCC----------C--UA---------A-------------------
+Synpcc7942_1373 GAUCCC----------U--AA-----AGUC--------------------
+Synpcc7942_1002 AAU-------------UUAUA--C-AAGUUU-------------------
+Synpcc7942_1127 AACCGUUG-----CAAUGUUA--G-AUAUCG-------------------
+Synpcc7942_0336 CAC-------------UGGUU-----------------------------
+Synpcc7942_2531 CAACUCGAA---CGAGU--UA--G-AAAUAU-------------------
+Synpcc7942_1059 GAUCGCG------AAUCU-----C-CAAUCUAUC----------------
+Synpcc7942_1176 AACCCC--------AAU--AA--G-CA---G-------------------
+Synpcc7942_1657 AAUCCCCA-----GAAU--UA--G-CA---A-------------------
+Synpcc7942_1587 GAU-----------AGU--CU-----GGCUGG------------------
+Synpcc7942_2353 CACCUAUC-----CAAC--AA---------A-------------------
+Synpcc7942_0452 ---UCCGUU---GUAGU--UU--G-UGUUGA-------------------
+Synpcc7942_1397 UAAGUCU------GAGU--UA--G-CGAAAAAA-----------------
+Synpcc7942_2190 GAUUGC----------U--C---G-CGAUC--------------------
+#=GC SS_cons    :::::::.......:::::::..:.::::::...................
+#=GC RF         gAUCgCu.......AAuucuA..G.AagUca...................
+
+Synpcc7942_0893 -----------------AAGGGUCUGG-GA--------------------
+Synpcc7942_1389 ---------------GAAAGGGUCUGG-GA--------------------
+Synpcc7942_0049 ----------------AUAGACCUUUU-CAAGGU---------------A
+Synpcc7942_0712 --------------AGAGGGACGAGUU-GC--------------------
+Synpcc7942_1464 ---------------GUUAGGGAUGGG-CG--------------------
+Synpcc7942_0328 -----------------GCUGUGAGCG-UUUGGG--------------CA
+Synpcc7942_0047 ----------------UUAGGAAUUUG-GG--------------------
+Synpcc7942_2444 -----------CUUGACGAGAAAGCUC-GG--------------------
+Synpcc7942_1661 -----------------GGCAUCCCCA-GAC-------------------
+Synpcc7942_1261 -----------------UGCACCCAGC-AGAUUCAU-----------AAG
+Synpcc7942_2445 -----------------AGGCUAGUAG-GUUGAGA-------------AA
+Synpcc7942_2048 -----------------AAAGCCCCUG-AC--------------------
+Synpcc7942_0424 -----------AUCAAAAAGCGCCUC------------------------
+Synpcc7942_1656 -----------------UCCCCACAUU-GUUA------------------
+Synpcc7942_2548 ------UCGAGGUUAGACCGAUCGUUG-GU--------------------
+Synpcc7942_2163 -----------------GUUGUUAGGA-UUC-------------------
+Synpcc7942_0425 ----------------AAAGCGCCCC------------------------
+Synpcc7942_1757 -----------------GCGAUCGC-------------------------
+Synpcc7942_2265 ---CGUUUGAUCAACCCUGGCGCAU-G-GU--------------------
+Synpcc7942_0617 ---------------UGGCGGUGG--------------------------
+Synpcc7942_1888 -----------------ACGCUUGC-------------------------
+Synpcc7942_0883 -----------------ACAAGAAGCG-GGAA------------------
+Synpcc7942_1662 -----------------CAUCCCCAG------------------------
+Synpcc7942_2313 -----------------CUCCUCAGAG-----------------------
+Synpcc7942_2030 ----------UGCCGAAGCUGUUGCUU-U---------------------
+Synpcc7942_0456 --------------CGAUCGGGGAGGU-GG--------------------
+Synpcc7942_1479 -----------------ACCGCAGUCA-GCC-------------------
+Synpcc7942_0538 ----------------UUCCCCUUUCG-UA--------------------
+Synpcc7942_0004 -----------------GCGAUCGCAG-CUCUACUC-----------CUU
+Synpcc7942_2248 ---AAACCGUAUUAAAAAGGGGAGAAA-UC--------------------
+Synpcc7942_1421 -----------------AGGGCUGUUG-AG--------------------
+Synpcc7942_0505 -----------------CGGCCGGAGC-GGUAGAACG---------GGUA
+Synpcc7942_2156 -----------------GAGGCUGUUG-CC--------------------
+Synpcc7942_0048 --------------ACAGUUUUUAGGA-AUUCGGG------------AUA
+Synpcc7942_1190 -----------CAGGGGGCGAUCGCCG-CUC-------------------
+Synpcc7942_2561 ---------------CCACCCCUGAUG-AA--------------------
+Synpcc7942_0473 ----------------AAACCGCCAUG-GC--------------------
+Synpcc7942_1830 -----------------CAGCGCCUUG-AG--------------------
+Synpcc7942_2312 ----------------CUCCCCAGAG------------------------
+Synpcc7942_1522 --------------CGCGGGAUGGUUU-UG--------------------
+Synpcc7942_0903 ----------------ACCUCCGGGGG-CG--------------------
+Synpcc7942_0649 ----------------CAAGCUGCUCG-AG--------------------
+Synpcc7942_1696 --------------CUUUGAGCCCUGU-UUC-------------------
+Synpcc7942_2064 -----------------GAGGCUUUGC-AG--------------------
+Synpcc7942_1463 -----------UUGGGAGAGGGUGGGG-UC--------------------
+Synpcc7942_1409 ----------------AGCCACCCGAU-UC--------------------
+Synpcc7942_1812 ----------------A---UUAUUUC-UU--------------------
+Synpcc7942_1858 ----------------AGAGCCCGGAG-AU--------------------
+Synpcc7942_0385 ----------------AACGGCUCC-------------------------
+Synpcc7942_1607 -------CCAUGAUGAAAGUCCUGUCA-GC--------------------
+Synpcc7942_1439 ----------------GACAAGGGUUG-AA--------------------
+Synpcc7942_1708 ----CCGUCGUGAAAGU-UCCUCUCUC-GA--------------------
+Synpcc7942_1076 -----------------UCCCCUGUGG-UC--------------------
+Synpcc7942_0679 ----------------AUCACUUA-AU-CU--------------------
+Synpcc7942_1068 -----------------CCGGAUCUGG-GU--------------------
+Synpcc7942_2450 ----------------AUCGCUACCUG-CAUGACCUCUCC--UUCUCGAG
+Synpcc7942_2332 -----------------AAGGGGGUCU-GC--------------------
+Synpcc7942_0971 ---------------ACAAACCCGCUG-GC--------------------
+Synpcc7942_1823 -----------------CCCG---------G-------------------
+Synpcc7942_2180 -----------------GCGGGGUC-A-GG--------------------
+Synpcc7942_0189 --------------UGAACGCUCUCUA-GU--------------------
+Synpcc7942_0089 ---------------CGACUUUGCGGG-CU--------------------
+Synpcc7942_1809 -----------------GCGAUCGCC---UUGACUCAA------AACCGA
+Synpcc7942_0942 -----------------CCGCUGCUG------------------------
+Synpcc7942_1610 -----------------GAAGCCCUCU-UCA-------------------
+Synpcc7942_1220 -----------------GGGGAUCGGA-CA--------------------
+Synpcc7942_1123 -----------------CGCCUAGGUG-GU--------------------
+Synpcc7942_2352 -----------------GCGCCUGACA-G---------------------
+Synpcc7942_2449 ---UUCUGCAUCAAAAAUCCCUCGCCA-GA--------------------
+Synpcc7942_0631 ------------GAGUAGCUUGAAGGC-AGG-------------------
+Synpcc7942_1364 AGGAUUUAAGCCAAUGGCUUAUCGCA------------------------
+Synpcc7942_0442 ---------------AAAUCGUCCGCU-UC--------------------
+Synpcc7942_0598 ----------------CAGCGAUCGCU-UCCG------------------
+Synpcc7942_1089 -----------AAGUAAAAGCCUGUAA-UCCA------------------
+Synpcc7942_1475 -----------------GGUCUGCUGU-GC--------------------
+Synpcc7942_0031 -----------------CCUACUGCCA-UUCAUCC------------UCA
+Synpcc7942_0645 -------------GGGAUUGCUCUUGG-CC--------------------
+Synpcc7942_0727 -----------------GCCCCCAAAA-GCCUUG---------------C
+Synpcc7942_1131 ---------------UGAUUGGCUUCA-AUAAUUG-------------AU
+Synpcc7942_0156 -----------------GCCCUCAACC-UC--------------------
+Synpcc7942_2345 ----------------AAGGGUCCUGG-AU--------------------
+Synpcc7942_2408 -----------------GCCCCUCAGG-UUGCUU---------------A
+Synpcc7942_1313 ----------------AGCCCUCCU----CG-------------------
+Synpcc7942_2175 -----------------CCUCCUCUCU-ACAGCA--------------AC
+Synpcc7942_0343 ----------------CGAGCGGAC-G-CUGACCC-------------CA
+Synpcc7942_1637 ----------------ACGGCCUCC-------------------------
+Synpcc7942_0191 -----------------AAGGGCUUCA-UG--------------------
+Synpcc7942_2104 ----------------GGAGGAGAGAG-GU--------------------
+Synpcc7942_0419 ----------------AAGGGGUAGG------------------------
+Synpcc7942_0096 ---------------GAUCGCUCCUGA-UUACUUGAGU------UGAUCA
+Synpcc7942_2513 -----------------UCGCCUCUG---UAGAAUG-----------AGA
+Synpcc7942_0731 ---------------UGACUGGCC--------------------------
+Synpcc7942_0012 -------------UGAGAGCCUACUG------------------------
+Synpcc7942_1705 ----------------GAAGCCACCGG-CA--------------------
+Synpcc7942_0974 -----------------GCGGCCG--------------------------
+Synpcc7942_1290 ----------------ACCGCUGGCUC-CU--------------------
+Synpcc7942_0468 ----------------GGCGACAGGG------------------------
+Synpcc7942_0065 ----------------GAGUGAGUAGG-AA--------------------
+Synpcc7942_1695 ----------------GAGCCCUGUU------------------------
+Synpcc7942_1609 ----------------GAAGCCCUCUU-CA--------------------
+Synpcc7942_0953 ----------UGCAGGAAAUCUGCGAU-CGCG------------------
+Synpcc7942_0139 ------CAGUCUUCAGGAGACCCACCG-AA--------------------
+Synpcc7942_1088 ---------------CAGCCUCUACU------------------------
+Synpcc7942_1137 -----------------AAAGCUCUUG-UCAGGU--------------UC
+Synpcc7942_1889 -----------------UCGCUGGGCU-GACUAGG-------------UA
+Synpcc7942_2354 ----------------AACUGCUGAU---ACU------------------
+Synpcc7942_1427 -----------AUAGCUGCUCCUGCC------------------------
+Synpcc7942_1443 ---------GGAGUGCUGCGGAAUCUC-GA--------------------
+Synpcc7942_2612 -------UCGCCUUUUUGUCCUGAUUC-UU--------------------
+Synpcc7942_0943 -----------------GAGUCUGGCG-GAAC------------------
+Synpcc7942_1557 ----------------AGGUUUCUGGG-CUG-------------------
+Synpcc7942_2407 -----------------CCCCUCAGG---CCAU----------------U
+Synpcc7942_2446 ----CUGCGAAUCUGCAGCCCCAGCC------------------------
+Synpcc7942_0535 ----------------AGGGGGCG--------------------------
+Synpcc7942_2344 -----------------CCGCUGGAUU-UCUC------------------
+Synpcc7942_0808 -----------------GCGAUCGCUU-AACCUUUU-----------CAG
+Synpcc7942_1322 ---------UUCCUGAAACGGCUACA------------------------
+Synpcc7942_1907 -----------------AGCAGGGUCG-CU--------------------
+Synpcc7942_1849 -------------UUAAGCAGCUUAGG-CG--------------------
+Synpcc7942_0827 -----------------GCGAUCGCC---U--------------------
+Synpcc7942_1871 -----------------GCGAGCAGUU-CAGCAUUU----------GACU
+Synpcc7942_1552 ----------------AGCGAUCGCAU-UA--------------------
+Synpcc7942_1487 ---------------CAACAGCUCCUG-CC--------------------
+Synpcc7942_1944 -----------------GCGAUCGCAU-CAACCCUCCCA-----GCCGGA
+Synpcc7942_2072 -----------------ACUCUUACCC-UAGG------------------
+Synpcc7942_0313 ----------------CAAGCCUUUC------------------------
+Synpcc7942_1606 ----------------AAGUCCUGUCA-GC--------------------
+Synpcc7942_2158 ------------GAAUCGACAGGGCAG-GC--------------------
+Synpcc7942_1401 -----------------GGUUAGUUG------------------------
+Synpcc7942_0648 ---------------AAAGCUGCCCAA-GA--------------------
+Synpcc7942_0479 -----------------AAGG-----------------------------
+Synpcc7942_2029 -----------------CGAGCGCUCG-GCAAGGUG----------GCUU
+Synpcc7942_1820 -----------UGCAUGACGGUCAAGU-CC--------------------
+Synpcc7942_1136 -----------------GCGAUCGCUC-GG--------------------
+Synpcc7942_1999 ----------GUGUGUGAAGAGUCUGG-GC--------------------
+Synpcc7942_1832 -----------------GGGGGCU--------------------------
+Synpcc7942_1152 -----------------UGGCAGGAUU-CC--------------------
+Synpcc7942_1554 -------------CGCAGCGGUUCCAG-CC--------------------
+Synpcc7942_1434 ---------CACUGGGAAUCCCUGCAA-AUCCA----------------A
+Synpcc7942_0169 -----------------GUGUUGGGGG-UU--------------------
+Synpcc7942_0332 ------------CCUUCGGGGCGGUCU-CA--------------------
+Synpcc7942_0009 -----------------GAGGCAAGG---A--------------------
+Synpcc7942_1977 -----------------ACGGGGGUUG-GG--------------------
+Synpcc7942_1095 -----------------UCGCUCCCCC-AG--------------------
+Synpcc7942_2315 -----------GACUUUGGUGGGGUUG-CG--------------------
+Synpcc7942_0320 ----------------AGAGCCCAGUG-GUUUCCUGUCAGCAUUAACUGA
+Synpcc7942_0656 --------CAAAGUCUGAAAAGCCCUU-GC--------------------
+Synpcc7942_0866 -----------------ACGAGUGGCG-AUCGUUAU-----------AAU
+Synpcc7942_0285 -----------------GGGCUGAGGG-GC--------------------
+Synpcc7942_0314 -----------------GAUCUGAAAU-CA--------------------
+Synpcc7942_1053 ---------CAUUGUUCAAGCCCAGGU-CU--------------------
+Synpcc7942_1621 ----------GUGAUCUGCUCGUGCCG-UU--------------------
+Synpcc7942_1831 -----------------CCUACAUGAG-CG--------------------
+Synpcc7942_1674 ----------GGCGUCUCCCCCUGAUU-GC--------------------
+Synpcc7942_1991 -------------CCGAAAGGCUCAA------------------------
+Synpcc7942_2084 -----------------GUCCCUGGGU-GA--------------------
+Synpcc7942_2468 ----------AUGAAUCGCCGGGCC-------------------------
+Synpcc7942_1840 -----------------GCGAUCGCUU-CUG-------------------
+Synpcc7942_1132 -----------------AUUGGCUUCA-AUUUCUU-------------GA
+Synpcc7942_0422 -----------------GGGGGAGGAU-GGA-------------------
+Synpcc7942_0433 -----------------GGGCGAUCG------------------------
+Synpcc7942_1632 -----------------CCUCUCUUC------------------------
+Synpcc7942_0050 -----------------AGGCUUUU-------------------------
+Synpcc7942_2047 ---AAAAUUUCUGAGGGCAAGGGGC-------------------------
+Synpcc7942_2235 -----------------GCCGCAAUCA-GGCGGC---------------G
+Synpcc7942_2342 -----------------CAGCGAGUCC-UC--------------------
+Synpcc7942_1293 -----------------CCUCUCUC-------------------------
+Synpcc7942_2415 ---------------AGCCUCGGGGUG-CG--------------------
+Synpcc7942_0192 -----------------AAGGGCCUCA-UG--------------------
+Synpcc7942_1542 ----------------AGAGGGAUUCU-GCUAG----------------G
+Synpcc7942_1410 ----------------GCAGCCACCCG-AUC-------------------
+Synpcc7942_1249 ----------ACUUAGAACCGGGUUGA-GU--------------------
+Synpcc7942_1239 -----------GUUCACGCCUGCGAUC-GC--------------------
+Synpcc7942_0325 --------------CCGACUCUCGGU---CUGACU------------CUU
+Synpcc7942_0337 -----------------CCGCGCUUGA-GU--------------------
+Synpcc7942_0978 -----------GUUGUGAGUGGAUGCU-UC--------------------
+Synpcc7942_0639 -----------------GGAGCGAUCU-CU--------------------
+Synpcc7942_2274 ----------GCAUCUAUCUGCUUGAG-GUGA------------------
+Synpcc7942_0529 ---------------UUAAGGCCGAAG-CG--------------------
+Synpcc7942_1525 -------------UUGUAAGGGAGCUA-GUCGCCGA----------UUAU
+Synpcc7942_0266 -----------------CCUGCGAUCG-AA--------------------
+Synpcc7942_1134 -----------UCUGGAAAUUGAGGGU-GGG-------------------
+Synpcc7942_0260 -----------------AAGGUCUAUC-CA--------------------
+Synpcc7942_0976 -------CAACAAAAAAGCUGCUCUC------------------------
+Synpcc7942_1819 -----------------ACGGCCAAGC-CC--------------------
+Synpcc7942_0446 -----------------AAGGGGAGUC-CA--------------------
+Synpcc7942_1415 --------------CAAGACAGCGCU------------------------
+Synpcc7942_1997 --------------GUAGGGGCUUGCU-GA--------------------
+Synpcc7942_2137 ----ACAUAUCCCAACAACUCCAAGAG-GUACUUA------------UGC
+Synpcc7942_0294 -----------------UCGCUGGU-------------------------
+Synpcc7942_1742 --------------GAUAGCCUCCC-------------------------
+Synpcc7942_2171 -----------------AGGGGCAGCGAGC--------------------
+Synpcc7942_1545 ----------------UGACCUCG--------------------------
+Synpcc7942_1174 -----------------AAGAGGUCUG-AG--------------------
+Synpcc7942_0884 -----------------GGAGUCGGUG-GU--------------------
+Synpcc7942_1373 -----------------AGGGGAGA-------------------------
+Synpcc7942_1002 ----------------GAGGGAAGUC------------------------
+Synpcc7942_1127 -----------------ACCCGUAGUU-CAUGACG-------------UC
+Synpcc7942_0336 -----------------GGCGCUGCCU-AA--------------------
+Synpcc7942_2531 -----------------AGGGGCAGAG-CC--------------------
+Synpcc7942_1059 -------------CGCCACCGGAGCCU-CU--------------------
+Synpcc7942_1176 -----------------CCGGUUG--------------------------
+Synpcc7942_1657 ----------------AAGCGCCCCUU-GA--------------------
+Synpcc7942_1587 ---------------GUGAUCGCUCUG-GACA------------------
+Synpcc7942_2353 ----------------AACUGCUGACC-UGAA------------------
+Synpcc7942_0452 ---------------AAAGCGUAGCGA-UC--------------------
+Synpcc7942_1397 -------------UAGCGCCCUGGUAG-AG--------------------
+Synpcc7942_2190 -----------------GCCUUCUGGA-GGGUU-----------------
+#=GC SS_cons    ................:<<<<<<<<<<.<<....................
+#=GC RF         ................aacggccgccg.gc....................
+
+Synpcc7942_0893 ---GUAA--UCU-CAGACCCUUUCC---------CUUUCAAG
+Synpcc7942_1389 ---GUAA--UCU-CAGACCCUUUC------------CCUUUU
+Synpcc7942_0049 AAGCCUG--UGA-AAAGAUCUAUU------------GAUUAG
+Synpcc7942_0712 ---GAUC--GCA-ACUCGUCCCUC-----------U------
+Synpcc7942_1464 ---AU----CGC-CCAUCCCUA--------------ACCAAC
+Synpcc7942_0328 AAACCUA--GAC-GCUCACAGCUU------------UUUGGG
+Synpcc7942_0047 ---AAUA-UCCC-GAAUUCCUAAAA--------ACUGUUAAA
+Synpcc7942_2444 ---GUUC--CCG-AGCUUUCUC--------------GUUUGG
+Synpcc7942_1661 -UUUUGA--UCU-GGGGAUGUU--------------UACUGA
+Synpcc7942_1261 GAUGUUG--CUG-CUGGGUGUA--------------AUCAGG
+Synpcc7942_2445 CUUCUCG--AUU-UGCUAGCCUUU-----------CCUCUGU
+Synpcc7942_2048 ---UUCG--GUU-GGGGGCUUUGU------------CGUUGA
+Synpcc7942_0424 ---------GAAUGGGGCGCUUUUU--------GAUGCUUGG
+Synpcc7942_1656 -AUUGCU--GCG-GUGUGGGGAUU------------UUUAGG
+Synpcc7942_2548 ---GCCU--GCC-G-CGAUCGGUUU---------UGUGUUGG
+Synpcc7942_2163 -GUUACA--AGU-CUUAACAAC-------------AAGCGGA
+Synpcc7942_0425 ---------AUUCGAGGCGCUUUU-----------U------
+Synpcc7942_1757 ---UUCA-ACCC-AGCGAUCGC--------------UCUUGU
+Synpcc7942_2265 ---UU----GCC-AAAGCGCCA--------------GAUAGC
+Synpcc7942_0617 ---CU---U------CCACCGC--------------UGCUAC
+Synpcc7942_1888 ---------UUA-AGCAAGCGUUAU---------UGUAUUGC
+Synpcc7942_0883 -GGAACU--CCC-GCUUCUUGUUU------------UUUAGC
+Synpcc7942_1662 ---AUCA-AAAGUCUGGGGAUG--------------CCAAGG
+Synpcc7942_2313 ---UUCG----C-UCUGGGGAGUU------------UUUUGU
+Synpcc7942_2030 ---CUUU-G-AG-AGCAGCAGCUUU--------GUUUUUUGC
+Synpcc7942_0456 ---CAAU-GCCA-UCUCCCCGAUU----------CUGUAUAU
+Synpcc7942_1479 --GAUUG--GUU-UGCUGCGGUUCUG------UUUUUCUAGA
+Synpcc7942_0538 ---AGCU--UGC-GGAAGGGGAUU----------UUUCUUAU
+Synpcc7942_0004 GAGUGCA--GGC-UGCGAUCGC--------------GGAUGU
+Synpcc7942_2248 ---AUCA-UGAU-UUCUCCCCUUUU---------UUGUCUGA
+Synpcc7942_1421 ---UCGU--UUC-AAUAGCCCUUU----------CAUCUUGA
+Synpcc7942_0505 UAGCUCG-AUCG-CUUCGGUCGUUG---------UUUUUCAG
+Synpcc7942_2156 ---GCUA--GGC-AGCAGCCUUUC----------CCUUUCGA
+Synpcc7942_0048 UUCCCAA--AUU-CCUAAAAACUU------------GAAAGC
+Synpcc7942_1190 --ACUGG--AGC-GGCGAUCGC--------------CACUGA
+Synpcc7942_2561 ---GU----UUC-AUCAGGGGUUU----------UUUCUGAU
+Synpcc7942_0473 ---AGAA-CGCU-GUGGCGGUU--------------UUUGGU
+Synpcc7942_1830 ---UUUU-CCUC-AGGGCGCUUUUG--------UGUGCUUGA
+Synpcc7942_2312 ---------CGAACUCUGAGGAGC------------GAUCGC
+Synpcc7942_1522 ---AAGU--CAG-GGCCAUCCCCU-----------UGCUAGC
+Synpcc7942_0903 ---AU----CGC-UCUCGGAGGUU------------UUUUGU
+Synpcc7942_0649 ---AUAG-UCUU-GGGCAGCUUUU----------UUAUUAGC
+Synpcc7942_1696 --GAUGA--GAA-CAGGGCUCAGA----------CCUUUAGC
+Synpcc7942_2064 ---AAUU--CUG-CAAAGCCUUUU----------UCAAUAGC
+Synpcc7942_1463 ---CGCA-AGAU-CUCACCCUCUC----------UGUUUUGA
+Synpcc7942_1409 ---AA----GGA-UCGGGUGGCUGC---------UCUGUUGA
+Synpcc7942_1812 ---CU---GAAG-AAGUA------------------UCUAAU
+Synpcc7942_1858 ---UAGA--AUC-UCUGGGCUU--------------UUUAGA
+Synpcc7942_0385 ---------UGC-AGGAGCCGUUU----------UUUAUUGA
+Synpcc7942_1607 ---AA----GCU-GACAGGACUUU-----------UUCUAGA
+Synpcc7942_1439 --GGCAA-CUUC-AGCCCUUGUUCU---------AUCUCUAC
+Synpcc7942_1708 ---GUUU--UUG-GGAGAGGA-CUU--------UCAGUUUGG
+Synpcc7942_1076 ---CUUU--GGC-UGCAGGGGAUU----------UUGGUCGA
+Synpcc7942_0679 ---CU----AGA---UGAGUGA--------------UCCAGU
+Synpcc7942_1068 ---GACU-UACU-CAGAUCCGUUU----------UUAUUGGC
+Synpcc7942_2450 AGAUGGA--UGU-AGGUAGCGAUC-----------CUUCAGC
+Synpcc7942_2332 ---AA----GCA-GACCCCUUUUU------------UGUGGU
+Synpcc7942_0971 ---UCCG--GCU-GGCGGGUUUUU------------GCUGGC
+Synpcc7942_1823 --CCAAA-----------CGGGUU------------UUUAGG
+Synpcc7942_2180 ---CAGU-CCCU-CGACCCCGCUU----------UUGGCCGU
+Synpcc7942_0189 ---CAGU--CCU-AGGGAGCGUUG----------UUUUUAGG
+Synpcc7942_0089 ---GAAA--GUC-UUGCAGAGUUU------------UUCGGC
+Synpcc7942_1809 CUGAUUA--ACCCGGCGAUCGCUG-----------ACUCAGG
+Synpcc7942_0942 ---GACUUCGGAAAGGCAGCGGUU----------UUUCUUGG
+Synpcc7942_1610 -AAGACU--GAA-GAGGGCUUCUU----------UUUUCAGC
+Synpcc7942_1220 ---UUAU--UGUCCUGAUCCCCUUCA------CUUUGUCUGC
+Synpcc7942_1123 ---CAAC--GCC-ACUUAGGCGUU----------UU------
+Synpcc7942_2352 ---UU-----CU-GUCAGGCGUUUU---------CUUGUUGC
+Synpcc7942_2449 ---GUUU--CCUGUGGGAGGGAUU------------UUUAGU
+Synpcc7942_0631 --ACUCU--CUG-UCUUCAAGCCG------------UUUUAC
+Synpcc7942_1364 ---UUCU--UCAUUGCGGUAAGUC------------CCUGAG
+Synpcc7942_0442 ---CAAA-GGAG-GCGGACGAUUU-----------GUUUUGG
+Synpcc7942_0598 -UCAUCC--GAG-GCGAUCGCUUUU--------ACGUGUUGA
+Synpcc7942_1089 -CGAUCG-GGAU-UACAGGCUUUC------------UGUUGA
+Synpcc7942_1475 --UCUGG--GCG-CGGCAGACCUU------------AGCUAU
+Synpcc7942_0031 UCAAACU-GAGU-GCUAGUAGGUU----------CAUCUAGA
+Synpcc7942_0645 ---CAAG-CGGC-UGGGGGCAAUC------------CUUUGG
+Synpcc7942_0727 AGCGACU-AGCU-UUUGGGGGCUU-----------UUCUUAC
+Synpcc7942_1131 UCAAGAA--AUU-GAAGCCAAU--------------UAUCGC
+Synpcc7942_0156 --AGUCU--GGG-GUUGGGGGC-------------UUGCUGC
+Synpcc7942_2345 ---CGCU-GAUU-CAGGACCCUUU----------UUGCUGGA
+Synpcc7942_2408 ACGCAAU--GGC-CUGAGGGGUUU----------UUUGUCAU
+Synpcc7942_1313 -CUAUCU--GCA-AAGGAGGGC--------------UUCAAA
+Synpcc7942_2175 GCGCGCU--GUA-GAGAGGAGUUU----------UUUAUGGA
+Synpcc7942_0343 GGGAUCU--AGC-CGUCCGCUUUU----------UUGCAGGC
+Synpcc7942_1637 --------CCAA-AGGAGGUCGUUG---------CCGUUAGG
+Synpcc7942_0191 ---AUGU-GCAU-GAGGCCCUUUU------------GCUUGA
+Synpcc7942_2104 ---UUCC--GCU-UCUCUCCUUUU----------UUGAUUGG
+Synpcc7942_0419 ---------UUGUCCUACCCCUUC------------CAUCGU
+Synpcc7942_0096 AGGCUCA--GAU-CAAGAGCGA-------------UCGCUAC
+Synpcc7942_2513 GGUUUCU--GCAGGGGAGGCGAUC------------GAUGGG
+Synpcc7942_0731 ---UUGA--------GGCCUGUUUUG-------GUUUUUUGU
+Synpcc7942_0012 ---------UUUUCAGUGGGCUUU----------UUUGCUGA
+Synpcc7942_1705 ---AAUU--UGC-GGGUGGCUUUG------------UCUUGU
+Synpcc7942_0974 ---GA----------CGGCUGCAG------------UUCAGU
+Synpcc7942_1290 ---CAAU-CAUG-GGCCAGCGGUU------------GAUUAU
+Synpcc7942_0468 --------AUUACUCCUAUCGCUU----------CUACUAAC
+Synpcc7942_0065 ---GUGA--UUU-CUACUCACUUU------------UGCUAU
+Synpcc7942_1695 ---CUCA--UCGAAACAGGGCU--------------CAAAGG
+Synpcc7942_1609 ---GUCU-UUGA-AGAGGGCUU--------------CUUAGG
+Synpcc7942_0953 GGCAUCA-ACGG-UUGCAAAUUUCU--------GCAUCUAGA
+Synpcc7942_0139 --CCAGU--UUU-GGUGGGUCUUU-----------UGCUUGG
+Synpcc7942_1088 ---------GCAGAGUAGGGGCUU----------UUUACUGG
+Synpcc7942_1137 ACACUGC--GAC-GAGAGCUUUUU----------UUUGUUAC
+Synpcc7942_1889 AGAAUAA-GUCA-GCUCAGUGA--------------GCCGAC
+Synpcc7942_2354 GGAAUCU-UUCAGGUCAGCAGUUU----------UU------
+Synpcc7942_1427 ---------UUUGGGCAGGGGCUU----------UUUUCUGU
+Synpcc7942_1443 ---CUUG--UCG-GGGUUCCGC-------------UUUUUAG
+Synpcc7942_2612 --UGACC--AAG-GAUCAGGACUUA--------ACUUUUGGU
+Synpcc7942_0943 UCGAUCG--CCU-GCUGGGUUC--------------GUUUGC
+Synpcc7942_1557 --UCACU--AGC-GCAGAAACUGC------------AGCGAU
+Synpcc7942_2407 GCGUUAA--GCAACCUGAGGGG-------------CUGUGGG
+Synpcc7942_2446 --------CUUUUGGCUGGGGC--------------AAAAGA
+Synpcc7942_0535 ---AU----------CGCCCCCUU----------UUUUCUGG
+Synpcc7942_2344 -AAGCCA--GAG-AUCCAGCGG--------------CUAGAU
+Synpcc7942_0808 UUAAAGA--UUG-GGCGAUCGCGU------------UGCUGC
+Synpcc7942_1322 ---------UCACUGUGGCCGUUU----------UUUGUGGC
+Synpcc7942_1907 ---AU---CAGU-UACCCUGCUUUAC------UAUUUUCUGA
+Synpcc7942_1849 ---CGAU--CGC-CUAGGCUGUUU------------UUUUGA
+Synpcc7942_0827 ---GAGU-UAAGUGGCGAUCGCUC------------AUUAAU
+Synpcc7942_1871 AAAAUCA--UGU-ACUGCUCGC--------------UUUAGA
+Synpcc7942_1552 ---AUCC-------GCGAUCGU--------------GCUAAG
+Synpcc7942_1487 ---UCUG--GGU-GGGGGCUGUUG----------UUGUUUGG
+Synpcc7942_1944 AGGAAAA--CGG-UGCGAUCGCUU----------UUUUUAGA
+Synpcc7942_2072 CUAAACA-CUGG-GGUAAGUGUUUAC------CUCAUUCAGC
+Synpcc7942_0313 ---------GAAUGAAAGGCUUUU------------UUUAGU
+Synpcc7942_1606 ---UU----GCU-GACAGGACUUU------------------
+Synpcc7942_2158 ---AAAC--GCU-UGCCCUGUUUU------------CGUUGA
+Synpcc7942_1401 ---------UCAUGAGUUAGCCUC------------UCUUAU
+Synpcc7942_0648 ---CU---AUCU-CGAGCAGCU--------------UGUUAA
+Synpcc7942_0479 ---AAAA-----------CCUUUU------------GUUAGU
+Synpcc7942_2029 UCUGUCU-UGCU-UAGCGCUCA--------------CGCUGG
+Synpcc7942_1820 --AGUGA--GGG-CUUGGCCGUUU-----------UGUUUAG
+Synpcc7942_1136 ---AUAU--CUGGGGCGAUCGCUU----------UUUUUCGG
+Synpcc7942_1999 ---AAGC--GCU-CAGGCUUUUUU------------GUUGGC
+Synpcc7942_1832 ---AACC--------AGCCCCCUU----------UUUGUAGC
+Synpcc7942_1152 ---UAAG--GGA-GUCCUGUCA--------------CGCUGU
+Synpcc7942_1554 ---AGCC--GGU-UGGGACCGCUU------------GUUUAU
+Synpcc7942_1434 CUGGACG--A----GCAGGGAUUU------------UUUAAU
+Synpcc7942_0169 ---GAUU--GGC-CUCCAACACUU------------UCUUGU
+Synpcc7942_0332 --UGGGU--UGA-G-CCGCCCCCU-----------CUUCUGU
+Synpcc7942_0009 ---GUGA--UCGCCCUUGCCUUUUA--------CGUUUUAAA
+Synpcc7942_1977 ---AUCA--UCU-AGCCCCCGUUU-----------CUAUUGA
+Synpcc7942_1095 --UGCCA--CUA-GAGGAGCGAUC------------GCUCAA
+Synpcc7942_2315 ---AU----CGC-AGCCCCGCCUCC--------UGUUUUUGU
+Synpcc7942_0320 CCUCAAA--ACA-ACUGAACUCUC----------UUGCUAAC
+Synpcc7942_0656 ---CUCG--GCA-GGGGCUUUUUCG--------UAUCUCUGG
+Synpcc7942_0866 GGCCCCU--GUU-GCCGUUUGU--------------UAACGC
+Synpcc7942_0285 ---GAUC--GCU-CCUUAGCCUUU----------UUGAUAGG
+Synpcc7942_0314 --GAGCA-AUGA-UUUCGAUUC--------------GUUUAG
+Synpcc7942_1053 ---CUCAGGGGA-GCUGGGCUUCC----------CUUUUUAA
+Synpcc7942_1621 --CCUGA-AGAC-UGUGCGAGC--------------AGUAGC
+Synpcc7942_1831 ---AU----CGC-UCAUGUGGGUA------------UGAAGA
+Synpcc7942_1674 ---UGGU--GCG-AUCGGGGGGAC----------GUUGUUGA
+Synpcc7942_1991 ---------UGACUUGGGCCUUUUUG-------UGUUUUAGG
+Synpcc7942_2084 ---CGCG-AUCG-CUCAGGGAC--------------UAUUGA
+Synpcc7942_2468 ---------GCA-AGGUCCGGCUU----------UUUUAUGC
+Synpcc7942_1840 -GACUAA--AGG-GGCGAUCGCUUGUU-----CUCUUUUUGG
+Synpcc7942_1132 AUCAAUU--AUU-GAAGCCAAU--------------CAAAAA
+Synpcc7942_0422 --CAAGG--CCA-CCUUCCCUU--------------CUCAGU
+Synpcc7942_0433 --------CUUAGCGAUCGCCCUC------------GGCAGG
+Synpcc7942_1632 ---CAGC--AAAUGGGGAGAGG--------------CCUUGA
+Synpcc7942_0050 ---------AGA-UAAAAGUCU--------------UCUAGG
+Synpcc7942_2047 ---------UGA-UGCCCCUUAUCU---------CAUGUUGA
+Synpcc7942_2235 CGUGUAG--UCU-GAUUGCGGC--------------CGCUGG
+Synpcc7942_2342 ---AUUU--GGG-GGCUCGUUUUUU---------UGCGUUGC
+Synpcc7942_1293 ---CAGU-AACG-AGGGAGAGU--------------CCUUGC
+Synpcc7942_2415 ---AU----CGC-GCCCCAAGGUUG--------AGUCUUAGC
+Synpcc7942_0192 ---CACA-UCAU-GAAGCCCUUUU-----------UGAUAGC
+Synpcc7942_1542 AGUCACU--GCA--AAUCCCUC--------------UCAAAA
+Synpcc7942_1410 --CUUGA--AUC-GGGUGGCUAUUG---------UUUUUAGA
+Synpcc7942_1249 ---CUAU-GACU-GAGCCCGGUUUU--------CGUUUAUGG
+Synpcc7942_1239 ---------GCG-AUCGCAGGC--------------ACUCAC
+Synpcc7942_0325 AUAGUGA--GUGUGCCGAGAGUUU----------UUUUAUGG
+Synpcc7942_0337 ---GA----AUU-CGGGCGCGGUU------------UCUUGG
+Synpcc7942_0978 ---GA---GGAA-GCGUCCACUUU------------UUUUGU
+Synpcc7942_0639 --------UGGG-GGUCGCUCCUCUGUUCAUCCUGUUUUUGA
+Synpcc7942_2274 -GUCUCA--GCU-UCAAGCAGAUUU---------GUUAUUGG
+Synpcc7942_0529 ---AU----CGCCCUCGGCUUU--------------GACAAA
+Synpcc7942_1525 UGUCGGA--ACU-GGCUCCUUUUUU--------UGGGUCUGG
+Synpcc7942_0266 --------ACUU-GGUUGCGGG--------------AUUUGG
+Synpcc7942_1134 --UAAUA--CCA-CUCUCAAUCUC------------UGAUAU
+Synpcc7942_0260 --AAGUU-CUGG-AUAGACCUUUU------------UUCUGU
+Synpcc7942_0976 --------GCUAGGAGAGCAGC--------------UUAGAG
+Synpcc7942_1819 --UCACU--GGA-CUUGACCGUCA------------UGCAGA
+Synpcc7942_0446 --------AUGG-GCUCCCUUUUA------------UUUUGG
+Synpcc7942_1415 --------AGCAUGGCGCUGUCUUU---------CUUUUUGC
+Synpcc7942_1997 ---AGUA--UCG-GCAGGCCUCUAU--------GAUUUCGGC
+Synpcc7942_2137 UAACGGU--ACU--CUUGGAGUUU----------UU------
+Synpcc7942_0294 ---------UUA-CACCAGCGGUU------------ACAAGU
+Synpcc7942_1742 --------AUAA-CGGGAGGCUUU----------UUUGUGGC
+Synpcc7942_2171 ---UUCA--GCCAGCUGCCUUUUUU---------UGUGUGGG
+Synpcc7942_1545 ---AUGA--------UGGGGUCUG------------GGCUGA
+Synpcc7942_1174 ---UUCG--CUC-GGGCCUCUUAU----------UUUUUUGG
+Synpcc7942_0884 ---GAGU-CAUC-ACCGACUCUGU----------CUUUUUGA
+Synpcc7942_1373 ---------GAA-AUCUCCCCUUU----------UUCAAUGC
+Synpcc7942_1002 ---------UUCGGGCUUCCCUUUU---------UCGUUUAC
+Synpcc7942_1127 UAGCUCA--UGC-ACUGCGGGUUG------------UUCUAU
+Synpcc7942_0336 ---UUGA--CUG-GGCGGCGCCGC----------UUUUUGGA
+Synpcc7942_2531 --GAUCG--GGU-UCUGCCUCUUU------------UUUUGC
+Synpcc7942_1059 --------AGGG-GACUCCGGUUU------------UUUUGU
+Synpcc7942_1176 ---AACU--------CAACCGGAC----------UUCACUGU
+Synpcc7942_1657 ---GCGA--UCA-AGAGGCGCUUC-----------AGUCAGC
+Synpcc7942_1587 CGAGUCA-AUCU-AGGGCGAUCGC------------GGUUAA
+Synpcc7942_2353 -AGAUUC--CAGUAUCAGCAGUUC------------GUUAGC
+Synpcc7942_0452 --GCUCA-AGAU-CCCUACGCUUU----------UUGCUGGA
+Synpcc7942_1397 ---------CUC-UACCAGGGCAU------------UGCUGC
+Synpcc7942_2190 UGCAUGA--CCU-CUGGAGGGCUU----------UUUGUUGU
+#=GC SS_cons    ...____..>>>.>>>>>>>>>::...........:::::::
+#=GC RF         ...auca..gcc.ggcggccguUU...........UUuUuGc
+//

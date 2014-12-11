@@ -1,0 +1,982 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS Ppha_2693 WT 1.07
+#=GS Ppha_2596 WT 1.22
+#=GS Ppha_2617 WT 1.21
+#=GS Ppha_1478 WT 1.25
+#=GS Ppha_2672 WT 0.68
+#=GS Ppha_0031 WT 0.94
+#=GS Ppha_1767 WT 0.71
+#=GS Ppha_2463 WT 1.12
+#=GS Ppha_2212 WT 0.91
+#=GS Ppha_0101 WT 1.14
+#=GS Ppha_0664 WT 0.94
+#=GS Ppha_1029 WT 0.58
+#=GS Ppha_1520 WT 0.69
+#=GS Ppha_1902 WT 0.71
+#=GS Ppha_2776 WT 1.16
+#=GS Ppha_2570 WT 1.07
+#=GS Ppha_1521 WT 0.69
+#=GS Ppha_1613 WT 0.97
+#=GS Ppha_1393 WT 0.70
+#=GS Ppha_2213 WT 1.14
+#=GS Ppha_1911 WT 1.16
+#=GS Ppha_0070 WT 1.16
+#=GS Ppha_1754 WT 1.12
+#=GS Ppha_0938 WT 1.22
+#=GS Ppha_2753 WT 0.95
+#=GS Ppha_1083 WT 1.13
+#=GS Ppha_2398 WT 0.74
+#=GS Ppha_1677 WT 0.83
+#=GS Ppha_1577 WT 1.03
+#=GS Ppha_2714 WT 1.02
+#=GS Ppha_0698 WT 0.87
+#=GS Ppha_0467 WT 0.75
+#=GS Ppha_1377 WT 1.17
+#=GS Ppha_1957 WT 1.14
+#=GS Ppha_1142 WT 1.04
+#=GS Ppha_1091 WT 1.03
+#=GS Ppha_2522 WT 1.09
+#=GS Ppha_1654 WT 1.03
+#=GS Ppha_1292 WT 0.96
+#=GS Ppha_1831 WT 1.20
+#=GS Ppha_0039 WT 1.14
+#=GS Ppha_0684 WT 0.85
+#=GS Ppha_2156 WT 0.98
+#=GS Ppha_2747 WT 1.18
+#=GS Ppha_0005 WT 0.91
+#=GS Ppha_1583 WT 0.99
+#=GS Ppha_1058 WT 0.70
+#=GS Ppha_1161 WT 0.91
+#=GS Ppha_0078 WT 1.05
+#=GS Ppha_1517 WT 0.87
+#=GS Ppha_1697 WT 0.69
+#=GS Ppha_2680 WT 1.15
+#=GS Ppha_0452 WT 0.72
+#=GS Ppha_2207 WT 0.62
+#=GS Ppha_2794 WT 1.08
+#=GS Ppha_0055 WT 1.38
+#=GS Ppha_2580 WT 1.06
+#=GS Ppha_1155 WT 1.39
+#=GS Ppha_0188 WT 1.45
+#=GS Ppha_0629 WT 0.74
+#=GS Ppha_2009 WT 0.81
+#=GS Ppha_2426 WT 0.60
+#=GS Ppha_1584 WT 0.99
+#=GS Ppha_0374 WT 1.09
+#=GS Ppha_0871 WT 0.62
+#=GS Ppha_1790 WT 1.07
+#=GS Ppha_0338 WT 0.83
+#=GS Ppha_1394 WT 1.12
+#=GS Ppha_2678 WT 0.62
+#=GS Ppha_0910 WT 0.90
+#=GS Ppha_1107 WT 1.06
+#=GS Ppha_1059 WT 0.70
+#=GS Ppha_2059 WT 0.99
+#=GS Ppha_2848 WT 1.38
+#=GS Ppha_0047 WT 0.84
+#=GS Ppha_0204 WT 1.27
+#=GS Ppha_0081 WT 0.70
+#=GS Ppha_1639 WT 1.21
+#=GS Ppha_1028 WT 0.72
+#=GS Ppha_1088 WT 0.55
+#=GS Ppha_2425 WT 0.70
+#=GS Ppha_2168 WT 1.00
+#=GS Ppha_0050 WT 0.59
+#=GS Ppha_0432 WT 1.34
+#=GS Ppha_2095 WT 0.82
+#=GS Ppha_2158 WT 1.08
+#=GS Ppha_2585 WT 1.10
+#=GS Ppha_1643 WT 1.05
+#=GS Ppha_0761 WT 1.25
+#=GS Ppha_1515 WT 0.95
+#=GS Ppha_2226 WT 1.18
+#=GS Ppha_0012 WT 0.87
+#=GS Ppha_2572 WT 1.19
+#=GS Ppha_1431 WT 0.91
+#=GS Ppha_0644 WT 0.97
+#=GS Ppha_1167 WT 0.55
+#=GS Ppha_2579 WT 0.99
+#=GS Ppha_1795 WT 1.01
+#=GS Ppha_1830 WT 1.07
+#=GS Ppha_0775 WT 0.81
+#=GS Ppha_1696 WT 0.69
+#=GS Ppha_1362 WT 0.58
+#=GS Ppha_0087 WT 0.85
+#=GS Ppha_1390 WT 1.18
+#=GS Ppha_2667 WT 1.26
+#=GS Ppha_0834 WT 0.87
+#=GS Ppha_0032 WT 0.97
+#=GS Ppha_2100 WT 1.20
+#=GS Ppha_0034 WT 1.25
+#=GS Ppha_1160 WT 0.91
+#=GS Ppha_1655 WT 1.03
+#=GS Ppha_0100 WT 0.98
+#=GS Ppha_1089 WT 0.55
+#=GS Ppha_2704 WT 1.01
+#=GS Ppha_2197 WT 1.32
+#=GS Ppha_1541 WT 0.85
+#=GS Ppha_0092 WT 1.07
+#=GS Ppha_1090 WT 1.23
+#=GS Ppha_1638 WT 1.23
+#=GS Ppha_1779 WT 1.06
+#=GS Ppha_0352 WT 1.30
+#=GS Ppha_0818 WT 1.15
+#=GS Ppha_2564 WT 0.95
+#=GS Ppha_0036 WT 1.25
+#=GS Ppha_2352 WT 0.77
+#=GS Ppha_0858 WT 0.50
+#=GS Ppha_1309 WT 0.60
+#=GS Ppha_0435 WT 1.11
+#=GS Ppha_2399 WT 0.74
+#=GS Ppha_0645 WT 0.96
+#=GS Ppha_1361 WT 0.58
+#=GS Ppha_0577 WT 1.18
+#=GS Ppha_1953 WT 1.25
+#=GS Ppha_2677 WT 0.62
+#=GS Ppha_2062 WT 0.99
+#=GS Ppha_1150 WT 0.84
+#=GS Ppha_0042 WT 1.28
+#=GS Ppha_2884 WT 1.27
+#=GS Ppha_0099 WT 0.98
+#=GS Ppha_0660 WT 1.16
+#=GS Ppha_1355 WT 0.96
+#=GS Ppha_1540 WT 1.38
+#=GS Ppha_0226 WT 1.26
+#=GS Ppha_2468 WT 0.77
+#=GS Ppha_0685 WT 0.85
+#=GS Ppha_2057 WT 1.30
+#=GS Ppha_1816 WT 1.26
+#=GS Ppha_1628 WT 0.76
+#=GS Ppha_2759 WT 0.99
+#=GS Ppha_1860 WT 1.02
+#=GS Ppha_1481 WT 1.36
+#=GS Ppha_0510 WT 0.70
+#=GS Ppha_2692 WT 1.16
+#=GS Ppha_0520 WT 0.87
+#=GS Ppha_2697 WT 1.16
+#=GS Ppha_1482 WT 0.72
+#=GS Ppha_0663 WT 0.94
+#=GS Ppha_1617 WT 1.25
+#=GS Ppha_0851 WT 1.30
+#=GS Ppha_1859 WT 1.13
+#=GS Ppha_2782 WT 1.12
+#=GS Ppha_2073 WT 1.11
+#=GS Ppha_2581 WT 0.94
+#=GS Ppha_1607 WT 1.11
+#=GS Ppha_0339 WT 0.62
+#=GS Ppha_0717 WT 0.89
+#=GS Ppha_2618 WT 1.15
+#=GS Ppha_1149 WT 0.84
+#=GS Ppha_0722 WT 0.99
+#=GS Ppha_0955 WT 1.27
+#=GS Ppha_2469 WT 1.12
+#=GS Ppha_1510 WT 0.87
+#=GS Ppha_2665 WT 1.18
+#=GS Ppha_1685 WT 1.07
+#=GS Ppha_0035 WT 1.05
+#=GS Ppha_1551 WT 0.96
+#=GS Ppha_0371 WT 1.01
+#=GS Ppha_1228 WT 0.87
+#=GS Ppha_2120 WT 1.34
+#=GS Ppha_1105 WT 1.16
+#=GS Ppha_2882 WT 0.95
+#=GS Ppha_0233 WT 1.04
+#=GS Ppha_0942 WT 1.01
+#=GS Ppha_2418 WT 0.70
+#=GS Ppha_0464 WT 1.39
+#=GS Ppha_1728 WT 1.18
+#=GS Ppha_2087 WT 1.00
+#=GS Ppha_1302 WT 1.13
+#=GS Ppha_1430 WT 0.91
+#=GS Ppha_2206 WT 0.95
+#=GS Ppha_2689 WT 0.97
+#=GS Ppha_2088 WT 1.18
+#=GS Ppha_0924 WT 1.29
+#=GS Ppha_1034 WT 0.70
+#=GS Ppha_2800 WT 1.03
+#=GS Ppha_0326 WT 1.44
+#=GS Ppha_2404 WT 0.97
+#=GS Ppha_2274 WT 1.27
+#=GS Ppha_2791 WT 1.11
+#=GS Ppha_0085 WT 0.91
+#=GS Ppha_0051 WT 0.59
+#=GS Ppha_1958 WT 1.34
+#=GS Ppha_1539 WT 0.97
+#=GS Ppha_1572 WT 1.28
+#=GS Ppha_0983 WT 1.25
+#=GS Ppha_2358 WT 1.11
+#=GS Ppha_2798 WT 0.95
+#=GS Ppha_1494 WT 1.14
+#=GS Ppha_0004 WT 0.91
+#=GS Ppha_1103 WT 0.84
+#=GS Ppha_2565 WT 0.95
+#=GS Ppha_0824 WT 1.26
+#=GS Ppha_2690 WT 0.89
+#=GS Ppha_1782 WT 1.20
+#=GS Ppha_2913 WT 0.91
+#=GS Ppha_2204 WT 1.12
+#=GS Ppha_1683 WT 0.77
+#=GS Ppha_0498 WT 1.04
+#=GS Ppha_0458 WT 0.67
+#=GS Ppha_2288 WT 1.18
+#=GS Ppha_0798 WT 1.39
+#=GS Ppha_0943 WT 1.16
+#=GS Ppha_0028 WT 0.68
+#=GS Ppha_0207 WT 1.12
+#=GS Ppha_0571 WT 1.25
+#=GS Ppha_0857 WT 0.50
+#=GS Ppha_0457 WT 0.58
+#=GS Ppha_1378 WT 1.17
+#=GS Ppha_0778 WT 1.34
+#=GS Ppha_1863 WT 1.15
+#=GS Ppha_0666 WT 1.14
+#=GS Ppha_1351 WT 1.06
+#=GS Ppha_1282 WT 1.11
+#=GS Ppha_0589 WT 1.16
+#=GS Ppha_2797 WT 0.95
+#=GS Ppha_0225 WT 0.98
+#=GS Ppha_0776 WT 0.92
+#=GS Ppha_0815 WT 1.13
+#=GS Ppha_0695 WT 0.75
+#=GS Ppha_1458 WT 1.06
+#=GS Ppha_0699 WT 0.87
+#=GS Ppha_2671 WT 0.73
+
+Ppha_2693    UUGAUUUCG-----------------UUAUCA------UUGCC-------
+Ppha_2596    AUGCUUCAGUUGGC-------AGCCUCGUUC--------CCCG-------
+Ppha_2617    UUUAUUCUC----------------UUGCCC--------GGGA-------
+Ppha_1478    CUGAAA----------------------AUAA------AGAGA-------
+Ppha_2672    AAGAAUA--------------------AC--AA---AUGAAAA-------
+Ppha_0031    GUGCUC-----------------------UC--------AAAA-------
+Ppha_1767    UUGAA------------------------CA--------AGAA-------
+Ppha_2463    CGGAACUCAC--------------CAUCCUC--------AACA-------
+Ppha_2212    AAGAAAC---------------------AAC--------AGAA-------
+Ppha_0101    UUGAACCAGAUAU---------UUUUUUUACU-----UUUUAA-------
+Ppha_0664    AUAAAC----------------------AAC--------AGAA-------
+Ppha_1029    AUGAACUGG-----------------UGUACA-----UUGAAA-------
+Ppha_1520    CUGAAAAAGAAA-----------AAACAGUCA------ACAAA-------
+Ppha_1902    AUGAAA-----------------------AC--------AAAA-------
+Ppha_2776    CUGAC------------------------ACUC----UGUACG-------
+Ppha_2570    GUGAUUAC-------------------GAAC--------AGAC-------
+Ppha_1521    AUGAAC-----------------------ACA------ACAAA-------
+Ppha_1613    AUAAAA-----------------------AAA------GCAGA-------
+Ppha_1393    GUGAAAGGUGU-------------CUGUUACA------AAAAA-------
+Ppha_2213    UUGAA------------------------AC--------AACA-------
+Ppha_1911    AUGCUC-----------------------AC--------CUGU-------
+Ppha_0070    GUUAAC----------------------AAC--------UACG-------
+Ppha_1754    GUGCA------------------------A-A------GAGGG-------
+Ppha_0938    UGGCAC-----------------------UC--------CACG-------
+Ppha_2753    UUGCACCAAAAAAGUAAGUUGUCUUUUUUUCA------AAAAA-------
+Ppha_1083    CUGAGU-----------------------AAA------ACGGU-------
+Ppha_2398    UACAA------------------------UC--------AAAA-------
+Ppha_1677    CUGAAAUGCCUCUC-------UUUUCAGC---G---AUAAAAA-------
+Ppha_1577    GUGAA------------------------GAUGU-UGAUGAAA-------
+Ppha_2714    UUUAAC-----------------------UC-----------C-------
+Ppha_0698    UAUAA------------------------GC--------UUUU-------
+Ppha_0467    CUGCA------------------------ACA------AAAAA-------
+Ppha_1377    GUACAAGC------------------CCGAC--------GCCC-------
+Ppha_1957    CUGAU------------------------UCAU---UGUGGUU-------
+Ppha_1142    GACAACU--------------------AUAAA------AAAAA-------
+Ppha_1091    GUGAUU-----------------------UAA------AAAAA-------
+Ppha_2522    AACAA------------------------ACAC---CUGCACA-------
+Ppha_1654    GACAU------------------------CCU-----CUUCUG-------
+Ppha_1292    AUCAAUAAGU---------------AACA-CAA---AGUCAAU-------
+Ppha_1831    CGGAUCU--------------------UGUC--------GAUAA------
+Ppha_0039    UUGAGU-----------------------AC-----------A-------
+Ppha_0684    UUUAU------------------------AA--------AAAA-------
+Ppha_2156    AAGAUCU--------------------CGUCU-----UGAACA-------
+Ppha_2747    CAGCAUAG-------------------UUGC--------AAUU-------
+Ppha_0005    UUGCAAUCUUUG----------AUGUUUUUAU------GGAAA-------
+Ppha_1583    GUAAACAGCCG------------UUCUUCCCA-----AUAACC-------
+Ppha_1058    CUAAA------------------------AC--------AAAA-------
+Ppha_1161    GUGAC------------------------UCAU---ACGCAAG-------
+Ppha_0078    GCCAA------------------------CCAU---UUGAAAA-------
+Ppha_1517    CCGAA------------------------AC--------AAAA-------
+Ppha_1697    UUUAA------------------------UCAC----UUAAAA-------
+Ppha_2680    UUGAAAAGAGUC-----------AUUACUAAA------GCCAA-------
+Ppha_0452    CUGCACGUU-----------------GUAAC--------AAAA-------
+Ppha_2207    UUGAUA----------------------CCC--------CGUA-------
+Ppha_2794    GUUAACAA------------------AUUUC--------AGAG-------
+Ppha_0055    GUAAUCUUGCCC-----------CUCUUGCC--------CGAA-------
+Ppha_2580    CUAAA------------------------CCA------GAAGC-------
+Ppha_1155    AAGAUUU---------------------UAC--------AAAG-------
+Ppha_0188    AUAAGCG--------------------GUUA--------ACAA-------
+Ppha_0629    ACCAA------------------------AC--------GAAA-------
+Ppha_2009    UAGAU------------------------UC--------AGAA-------
+Ppha_2426    GGUAACG--------------------GCAC-----------G-------
+Ppha_1584    GGCAAUC---------------------GAAAG----GUAACC-------
+Ppha_0374    UUCAG------------------------ACA------ACAAA-------
+Ppha_0871    CUGACAU---------------------ACC--------UGUA-------
+Ppha_1790    UUUCA------------------------UCU------UUGGA-------
+Ppha_0338    AUGCA------------------------AC--------AAAA-------
+Ppha_1394    GCUAUUU--------------------UUAC--------CAAA-------
+Ppha_2678    AUGAA------------------------GCA-----AAAAAA-------
+Ppha_0910    CUGAAAAAC-----------------CUCUCU-----UGAAAA-------
+Ppha_1107    CUGCAC-----------------------UCCG----UUGAAA-------
+Ppha_1059    GGGAAA-----------------------AC--------AAAA-------
+Ppha_2059    UUGCACGUUU---------------GUUAUC--------UGAA-------
+Ppha_2848    GAGCU------------------------GCA------AUCAC-------
+Ppha_0047    AUGAAUG---------------------AUC--------AACA-------
+Ppha_0204    AGGAA------------------------ACA------AGGCG-------
+Ppha_0081    GGGAA------------------------A-A------GCGAA-------
+Ppha_1639    AAGAUU----------------------CUC--------CUGA-------
+Ppha_1028    CCCAA------------------------UAU------UGAAA-------
+Ppha_1088    AUGAAUUGC-----------------AAGGCA-----AAAAAA-------
+Ppha_2425    AUCAC------------------------ACA------GCGUA-------
+Ppha_2168    CUGAACCA------------------GAUUCU------GAAGA-------
+Ppha_0050    GUAAA------------------------UAA------GAAAA-------
+Ppha_0432    ACGAUCU---------------------GAA--------GGGG-------
+Ppha_2095    CUGAUC----------------------AAC--------AAAA-------
+Ppha_2158    AUGAACA--------------------GAAC--------AAUG-------
+Ppha_2585    GUAAU------------------------AA--------AAAU-------
+Ppha_1643    ACGAAACUGGU------------UCCUUACCA-----UGCAAA-------
+Ppha_0761    CUGAUCUU-------------------UUUC-----------G-------
+Ppha_1515    CUAAA------------------------AAA------ACAAA-------
+Ppha_2226    GCGAAAU---------------------GUA-----------A-------
+Ppha_0012    UUGACA-----------------------GAA------GUAAA-------
+Ppha_2572    AUGCUCU--------------------UUGC--------CCAG-------
+Ppha_1431    AUUAA------------------------ACAG---AAAAAGG-------
+Ppha_0644    AUCAUC-----------------------AAA------GAGUA-------
+Ppha_1167    GGGAUAC---------------------GGCA-----UUUGUA-------
+Ppha_2579    ACCAUC-----------------------UC--------AAAC-------
+Ppha_1795    UUUAAU----------------------UCC--------CAAA-------
+Ppha_1830    GUGCA------------------------ACU------GGAAAUC-----
+Ppha_0775    UAGAAAAGUUGG-----------GACUACUCA------AAAGA-------
+Ppha_1696    UUGAAUU--------------------GAGAU------UAAAA-------
+Ppha_1362    UUCAGU-----------------------UCA-----GUAAAA-------
+Ppha_0087    UUCAUA-----------------------GCA-----GACGAA-------
+Ppha_1390    GAGCA------------------------AC--------ACAA-------
+Ppha_2667    AGCAAU-----------------------GC-----------C-------
+Ppha_0834    CUCCAUAC-------------------UCU--A----UAAAAA-------
+Ppha_0032    CUGAA------------------------AA--------AAAC-------
+Ppha_2100    UUUAAAGCCAU-------------UUUUCCCU-----UGAGCC-------
+Ppha_0034    GUGCAA-----------------------AAA------AAAGA-------
+Ppha_1160    GUGCA------------------------AAC------AAGAG-------
+Ppha_1655    GUGAUUG---------------------AGCG------UACUG-------
+Ppha_0100    CGUAA------------------------GCA------GCGGC-------
+Ppha_1089    GUGAUC----------------------UACA------AAAAA-------
+Ppha_2704    AUGCU------------------------UAU------GACGU-------
+Ppha_2197    UUUCA------------------------AC--------GGUU-------
+Ppha_1541    GCCAUA-----------------------AC-------------------
+Ppha_0092    GUAAUCUU-------------------UAUCG------GCCAA-------
+Ppha_1090    AUAAU------------------------UC--------ACUG-------
+Ppha_1638    CUGAU------------------------GA--------AAAG-------
+Ppha_1779    GUGAU------------------------CA--------AUUG-------
+Ppha_0352    AUGAAACCUA--------------ACCCUACAU---UCAACCC-------
+Ppha_0818    UUGCUC----------------------GUAA------GCCUG-------
+Ppha_2564    GUAAUUGC------------------AGAUCA-----GAGGCA-------
+Ppha_0036    ACGAA------------------------UA--------ACAG-------
+Ppha_2352    GAGAG------------------------UAA------AAAAA-------
+Ppha_0858    CGGAUA-----------------------UC--------UGUA-------
+Ppha_1309    GGUAUC-----------------------ACAUU--UGUCGUA-------
+Ppha_0435    GGCAAAGUU-----------------AGGUCAG---GAAAAUA-------
+Ppha_2399    UAGAACG---------------------CAC--------AAAA-------
+Ppha_0645    GUGCA------------------------AC--------CAUA-------
+Ppha_1361    UUGAUUU---------------------CUCA-----AAAAAA-------
+Ppha_0577    GCCAU------------------------AC--------CGAU-------
+Ppha_1953    GCCCU------------------------GC--------AGGG-------
+Ppha_2677    UUGAAAAGA----------------AGUAACA------AAAAA-------
+Ppha_2062    GUUCUUUU------------------UUCUCA------AGGAA-------
+Ppha_1150    AAGAAC-----------------------GCC------AUAAA-------
+Ppha_0042    CUGAU------------------------GCC-----UGAACA-------
+Ppha_2884    CAGAA------------------------GA--------UAUC-------
+Ppha_0099    GUGAGUG---------------------GGCAU---GUUUGGC-------
+Ppha_0660    AUGAA------------------------GC-----------G-------
+Ppha_1355    CUCAAAGUAAUCG---------UACCGGACC-U---UUUUAUC-------
+Ppha_1540    GACAA------------------------AA--------CCGG-------
+Ppha_0226    AUUAUU-----------------------UCA-----CGUAAC-------
+Ppha_2468    GUUAUU----------------------UUCU-----GAGAAA-------
+Ppha_0685    CUGAAAAGG----------------CGCAUCAU----AAAAAA-------
+Ppha_2057    GCGAAAG--------------------CUUAU------UUAUC-------
+Ppha_1816    UGGAA------------------------AC---------GUU-------
+Ppha_1628    UUAAAC-----------------------CC--------CGUA-------
+Ppha_2759    AAGAAC-----------------------UCUUU-UUUUUGAA-------
+Ppha_1860    GUUAUCUGUUUU----------UGUUCUGUC--------UAAA-------
+Ppha_1481    GCGAGU-----------------------AA--------ACGA-------
+Ppha_0510    AUGCAAU---------------------UCC--------CGUA-------
+Ppha_2692    AAGAGUU--------------------UCAC--------CAAA-------
+Ppha_0520    GUCCC------------------------UC--------UGUA-------
+Ppha_2697    AUGAAU----------------------GACGG----CUCAUC-------
+Ppha_1482    CUGAU------------------------AAC------AAAAA-------
+Ppha_0663    CUUAAC----------------------CGCA-----UGAAAA-------
+Ppha_1617    CUUAA------------------------AAA------AAAACCUCAGCA
+Ppha_0851    UUUAUU-----------------------AA-----------G-------
+Ppha_1859    CUGAACA---------------------UUCUGU--UCUCAUC-------
+Ppha_2782    AUGAU------------------------GC-----------C-------
+Ppha_2073    GCUAA------------------------AAAGA--GAGACGC-------
+Ppha_2581    CAGAACGCU----------------UCUUUCA-----AGAAAA-------
+Ppha_1607    AAGAGU----------------------GGCU-----UUAACA-------
+Ppha_0339    CUGAUA-----------------------GC--------AAAA-------
+Ppha_0717    ACGAUUUC-------------------GGACA-----UAAAAA-------
+Ppha_2618    GCGAAAA---------------------AU--A----AAAUCC-------
+Ppha_1149    AUAAA------------------------ACC-----GAUAAA-------
+Ppha_0722    UUUAU------------------------UC-----------C-------
+Ppha_0955    CCGAA------------------------UCA------AUGGU-------
+Ppha_2469    CCCAA------------------------AC--------AGAA-------
+Ppha_1510    CCGAA------------------------A-U------UAAAA-------
+Ppha_2665    CCGAAAGA-------------------GUGA--------CCGU-------
+Ppha_1685    UUGAG------------------------GCA------AGAAG-------
+Ppha_0035    CUGAAUG---------------------CUCU------UGAAA-------
+Ppha_1551    AUGCA------------------------AC-----------A-------
+Ppha_0371    CUGAUU-----------------------UA--------UAAACCC----
+Ppha_1228    GAGAAU-----------------------GA--------UAAA-------
+Ppha_2120    CUCAA------------------------ACAG----AUACAA-------
+Ppha_1105    AUUAACU---------------------GACAGU-AUUGACAA-------
+Ppha_2882    CUGAAAAGA-----------------UCAACA------GUCAA-------
+Ppha_0233    GUAAACCGU----------------UUACACA-----GAUGGA-------
+Ppha_0942    AUUAA------------------------CC-------------------
+Ppha_2418    GGGAA------------------------A-A------UAAAA-------
+Ppha_0464    GCCAGUC---------------------GGAU-----GGUAUU-------
+Ppha_1728    CUGAG------------------------AAU------GAACG-------
+Ppha_2087    UCCAAU-----------------------GC--------AAAA-------
+Ppha_1302    CUGAA------------------------AAA------AUGAG-------
+Ppha_1430    UAUAA------------------------ACA-----AGAAGG-------
+Ppha_2206    CCCAA------------------------CCA------AAAAA-------
+Ppha_2689    AAGAAC-----------------------UCCG----CACAGG-------
+Ppha_2088    CAGAAAAG-------------------AGAA-----------A-------
+Ppha_0924    UUGCUUUCUGU-------------UUUUUUC-----------A-------
+Ppha_1034    AUGAA------------------------CCC------GCGUA-------
+Ppha_2800    GUGCACAACG--------------CAACCUC--------CAAA-------
+Ppha_0326    UUUAA------------------------GAU------UUUAU-------
+Ppha_2404    AAGAA------------------------UC-------------------
+Ppha_2274    CAGAACCUU----------------AUAGUCAA----CUGGAU-------
+Ppha_2791    GCGAA------------------------AA--------AUGC-------
+Ppha_0085    CCCAAU----------------------GGCA------AAGAA-------
+Ppha_0051    CAGCA------------------------AA--------AAAA-------
+Ppha_1958    UUGAA------------------------GCU------AAAAG-------
+Ppha_1539    CAGAUC-----------------------AAA-----UAAAACGU-----
+Ppha_1572    CUGAA------------------------ACA------GCACU-------
+Ppha_0983    CCGCUCUG-------------------UGUC-----------A-------
+Ppha_2358    AUAAAAG--------------------UUCC--------AGGG-------
+Ppha_2798    AUCAAUUCCA---------------AUUUAC--------AGAA-------
+Ppha_1494    GAGAU------------------------GC-----------U-------
+Ppha_0004    UUAAA------------------------UA--------AAAA-------
+Ppha_1103    AUGAU------------------------CC-------------------
+Ppha_2565    CAUAA------------------------AAA------AAGCA-------
+Ppha_0824    UGGAA------------------------CC--------CGUU-------
+Ppha_2690    ACGAA------------------------GAU-----UGAAAA-------
+Ppha_1782    CUGAAAGAUUAAGAG-----UUGUACAUU---GCUUUGGAGUA-------
+Ppha_2913    ACGAAU-----------------------UC--------AAGA-------
+Ppha_2204    CGGAAA----------------------CAC--------AGAA-------
+Ppha_1683    UUUAUUU---------------------UCA--------GAAA-------
+Ppha_0498    GUCAC------------------------UC--------AAGA-------
+Ppha_0458    GUGAACUCCUGCGA------AGGAGCCUUUCA-----GGGAAA-------
+Ppha_2288    AUACAUGU-------------------UUUC--------AGGC-------
+Ppha_0798    GUGAAACCACAACA-------AUUCGUUCUC---------GCC-------
+Ppha_0943    UUCAA------------------------AA--------AGUC-------
+Ppha_0028    GGGAA------------------------UCA------GAAAA-------
+Ppha_0207    UCGAUA-----------------------AC-----------A-------
+Ppha_0571    GGGAUUA--------------------GGUAA------UGGGA-------
+Ppha_0857    CGCCA------------------------UCA-----UUUGUA-------
+Ppha_0457    AUAAA------------------------AC--------GAAA-------
+Ppha_1378    UUCAG------------------------UC--------ACCC-------
+Ppha_0778    CUUAAA----------------------GACAA---UGGAUAG-------
+Ppha_1863    GUCAAU-----------------------GCU------UUAGA-------
+Ppha_0666    AUGCA------------------------ACAUG-ACGUCAAA-------
+Ppha_1351    AUCAA------------------------UA-------------------
+Ppha_1282    GUAAAA----------------------GGC--------AGAA-------
+Ppha_0589    CUGAUCGCU----------------GAUGUCA------GAAGA-------
+Ppha_2797    AGCAG------------------------AA-----------A-------
+Ppha_0225    AGGAA------------------------AC--------AACA-------
+Ppha_0776    ACGAACAC------------------AGAACA------AAAAA-------
+Ppha_0815    AUCAA------------------------UCA-----GGAGUU-------
+Ppha_0695    CUGAAAUCA----------------AGAGAAA-----UGAAAA-------
+Ppha_1458    AUAAACC--------------------UGCCA------GCAGA-------
+Ppha_0699    UUCAA------------------------GC--------UUUU-------
+Ppha_2671    GUUCA------------------------AAU------GAAAA-------
+#=GC SS_cons ::::::.......................:::......::<<<.......
+#=GC RF      gUGAAc.......................aCA......gAAaA.......
+
+Ppha_2693    ----GGAGAGCCG------------------------------UUGAC--
+Ppha_2596    ----AGACUGGUUUA---------------------------CUUCAGU-
+Ppha_2617    ----ACACUGCUUG----------------------------AAUAAG--
+Ppha_1478    ----UAACAAGCUGUAAACCAUGCGG-----UUAACGCAACGGGUGCA--
+Ppha_2672    ----AAGCCGGCA------------------------------UCAGU--
+Ppha_0031    ----AACGCAGGGCGCUC--------------------UUUUUCUGUG--
+Ppha_1767    ----AGGGCUCGC------------------------------UUCGG--
+Ppha_2463    ----CCUGCAGCAGUUCUAC-----------------CAUGCAUCAUU--
+Ppha_2212    ----AAGCCCUGA------------------------------AUAAA--
+Ppha_0101    ----UCAGUAAUCA-----------------------------UUCCG--
+Ppha_0664    ----AGCGCAG--------------------------------CUUAG--
+Ppha_1029    ----AAAGCGGAU------------------------------GAAAA--
+Ppha_1520    ----AAACCUGCCA-----------------------------UCGUA--
+Ppha_1902    ----AAGCCUCGU------------------------------UUCAGU-
+Ppha_2776    ----GCACUGCAU------------------------------CCCCG--
+Ppha_2570    ----GGAGUGCUU------------------------------UACCG--
+Ppha_1521    ----AAACCUGCU------------------------------ACGAU--
+Ppha_1613    ----AAGCUGGUA------------------------------UCAAG--
+Ppha_1393    ----AAGGCAGGAAC--------------------------CACAAUU--
+Ppha_2213    ----GAAAAGCCCGGU------------------------UUAUUCAG--
+Ppha_1911    ----UCCCCUGAUGGCG-----------------------CUCUUGCAC-
+Ppha_0070    ----GCAGCAUCAG-----------------------------CUUUGG-
+Ppha_1754    ----AAAGCGU--------------------------------CCAUU--
+Ppha_0938    ----GAACGGU--------------------------------CUCUU--
+Ppha_2753    ----GCACCUUAUACG------------------------UUGCCGUA--
+Ppha_1083    ----UCCCCUGUCC----------------------------UUUAAAAA
+Ppha_2398    ----GCCUCUGCU------------------------------UCGAGAA
+Ppha_1677    ----AAAGCGUGC------------------------------UUCGG--
+Ppha_1577    ----GGCGGUCAUU----------------------------GUCGAGGC
+Ppha_2714    ----GCCCUGUG-------------------------------UUCUG--
+Ppha_0698    ----CAGCUACCGA----------------------------GUUGUC--
+Ppha_0467    ----AGCCCGGU-------------------------------UCACU--
+Ppha_1377    ----GUGCAGGCCGGG------------------------AAACAAUG--
+Ppha_1957    ----GUGCUAUCUUUUA-----------------------GCUUCAAA--
+Ppha_1142    ----GCAGGGCUCGA--------------------------GAUAACUU-
+Ppha_1091    ----GGCGCUCU-------------------------------UAACU--
+Ppha_2522    ----GGAACCAAAAGCGCC------------------GCUUCGCUAUGC-
+Ppha_1654    ----GCGCCUGCAA----------------------------AGCACACU
+Ppha_1292    ----GCCUCUUCGCGAAAGA----------------UCUCCUUUCGAA--
+Ppha_1831    --UAAAGGAGG--------------------------------CUCAG--
+Ppha_0039    ----UCCCCGAGG------------------------------UUCUU--
+Ppha_0684    ----GCCUCAGA-------------------------------GUGCUG-
+Ppha_2156    ----AAGGGAUUCC----------------------------UGUGUG--
+Ppha_2747    ----GCCGUUUACCAUGC---------------------UUGUUCGAUG-
+Ppha_0005    ----GGAGCAUUA------------------------------UCGCAG-
+Ppha_1583    ----UCACCUUGCCC---------------------------CACAAGU-
+Ppha_1058    ----AAACCGGC-------------------------------UUUUG--
+Ppha_1161    ----GAAGCCGCA------------------------------UCGCU--
+Ppha_0078    ----GGAGAGUUUG-----------------------------UCACA--
+Ppha_1517    ----AAAGGAGGCUU--------------------------UCUCAAAA-
+Ppha_1697    ----AGGCCACUC------------------------------UUAAG--
+Ppha_2680    ----GCUCCGUU-------------------------------UCGAUAU
+Ppha_0452    ----AAGCCUUCUCUU-------------------------CAUCAGG--
+Ppha_2207    ----GGGGCAUG-------------------------------GCAUG--
+Ppha_2794    ----AGGCUGCCA------------------------------UCAAA--
+Ppha_0055    ----ACAGCCAUCA-----------------------------GUGUU--
+Ppha_2580    ----CAGCCCCUCC-----------------------------UCGCG--
+Ppha_1155    ----UUGUCGUACUGAAUCGGG-------------AGAUACCAUUCAG--
+Ppha_0188    ----AUGGUGAGUAG--------------------------ACCAGAGGA
+Ppha_0629    ----AAGGCGG--------------------------------CAAUU--
+Ppha_2009    ----ACACCCUGUUU--------------------------GACUCAA--
+Ppha_2426    ----GGGGCACG-------------------------------GCAUG--
+Ppha_1584    ----UCACCUUGCGA---------------------------CUUGUGG-
+Ppha_0374    ----GGACGCA--------------------------------CUAUC--
+Ppha_0871    ----GGGGCACG-------------------------------GCAUG--
+Ppha_1790    ----GAGGC----------------------------------UCCCA--
+Ppha_0338    ----AAAGCGACC------------------------------UUGCGG-
+Ppha_1394    ----ACCCUGACAGG--------------------------ACGCAAGUU
+Ppha_2678    ----AAGGGAGAC------------------------------UCGGCG-
+Ppha_0910    ----CCACCCCGUCA---------------------------UCUGCU--
+Ppha_1107    ----AGAGAGCCCU----------------------------GCAGAG--
+Ppha_1059    ----AAACCGGU-------------------------------CAAAA--
+Ppha_2059    ----AAGCCGCAG------------------------------GCAAC--
+Ppha_2848    ----UCCUUUUCAUUGCUU-------------------AAGAUGCCCU--
+Ppha_0047    ----UCAGCGCUC------------------------------UCAAA--
+Ppha_0204    ----GUAACAGCUUU--------------------------UUUAUCU--
+Ppha_0081    ----AAGGCAGG-------------------------------GAGUA--
+Ppha_1639    ----ACAACGCAUGAA-------------------------UUCCAUG--
+Ppha_1028    ----AAAGCGGAU------------------------------UUUCA--
+Ppha_1088    ----AAGCUACCC------------------------------GCGAG--
+Ppha_2425    ----GGGGCACG-------------------------------GCAUG--
+Ppha_2168    ----GGACUGCGAGUAAGAGAA------------CACCGCAGGGUAAAC-
+Ppha_0050    ----AAGGCGCCU------------------------------GCGAA--
+Ppha_0432    ----UCAAUGUCCAUUGG--------------------GGUGACCGAAAC
+Ppha_2095    ----AAGGCAACCCC--------------------------AUGAAAG--
+Ppha_2158    ----GAGCUGCUGUCUCAUG----------------ACUCACGUUAUG--
+Ppha_2585    ----AGCCCUGCA------------------------------GCAAU--
+Ppha_1643    ----GCUGCUUUUCC---------------------------UCCCCG--
+Ppha_0761    ----CAACCUGG---------------------------------CUG--
+Ppha_1515    ----GCCGCCUG-------------------------------AUGAA--
+Ppha_2226    ----UCGGCUACAUACCAUGGAUCAC----CUAUUCACCCGUCUCGCG--
+Ppha_0012    ----AGCCCGGC-------------------------------UGGAA--
+Ppha_2572    ----GCAGUGAAAAG--------------------------GUUAAAGC-
+Ppha_1431    ----GAACUGAACU----------------------------UUUUAU--
+Ppha_0644    ----GGGGCAACCU----------------------------CUUGUG--
+Ppha_1167    ----AGGGCACG-------------------------------GCAUG--
+Ppha_2579    ----UCCCCGG--------------------------------CAACC--
+Ppha_1795    ----GACCUUUCUGCCU----------------------UAUUUUGCG--
+Ppha_1830    --UGGCGCCUCCGGAA-------------------------CGUUGCU--
+Ppha_0775    ----ACACCCCGUCAGA----------------------GAAGAUCUG--
+Ppha_1696    ----AGGCCACCUC-----------------------------UUAAG--
+Ppha_1362    ----AAGGCGC--------------------------------UCAUG--
+Ppha_0087    ----AGGGCAGUUCCGGU---------------------AAAUUUGGG--
+Ppha_1390    ----UACCGGGCAGCU-------------------------CAACAAAC-
+Ppha_2667    ----GCCUGAGCAU----------------------------GUUGCC--
+Ppha_0834    ----AAGCCAGCC------------------------------UUCGG--
+Ppha_0032    ----GCAGGGCACAGA-------------------------AAAAGAG--
+Ppha_2100    ----AGACAGAAU------------------------------GCAAG--
+Ppha_0034    ----GGGAUCGCAGU--------------------------UUUUGCG--
+Ppha_1160    ----GAAGCCGCA------------------------------GCGAU--
+Ppha_1655    ----GCGCCUGCAGA--------------------------GUGUGCUU-
+Ppha_0100    ----AGGCUGCCU------------------------------GAAAAC-
+Ppha_1089    ----AAGCUACCC------------------------------UCGCG--
+Ppha_2704    ----AAAGCGCCC------------------------------GCGAG--
+Ppha_2197    ----GAGUGAUACA-----------------------------GUCCG--
+Ppha_1541    -------GCAGCC------------------------------UUCGG--
+Ppha_0092    ----GGCGCAA--------------------------------GAAAG--
+Ppha_1090    ----UCAACACACUCACG---------------------GAACCUGAUA-
+Ppha_1638    ----CCCGGACAC------------------------------CUCUU--
+Ppha_1779    ----ACAGUGGCGU-----------------------------UUACU--
+Ppha_0352    ----GGACUACGCAA---------------------------AAAGCG--
+Ppha_0818    ----GCCCCCGU-------------------------------GAACU--
+Ppha_2564    ----GGAGUUCAUG----------------------------AAUAAG--
+Ppha_0036    ----AAACAGGCCCUCU----------------------CAGAUAACA--
+Ppha_2352    ----AAGCCUCG-------------------------------UUGUU--
+Ppha_0858    ----GGGGCACG-------------------------------CCAUG--
+Ppha_1309    ----AGGGCACG-------------------------------GCAUG--
+Ppha_0435    ----GGAGUUAUGGGACUUAUGGGACUUAUAUAAGCCCUGUUGGUACU--
+Ppha_2399    ----GCCCCUGCUUU--------------------------UCUCGAA--
+Ppha_0645    ----GGGGCAACC------------------------------ACAAGA-
+Ppha_1361    ----AAGGCGC--------------------------------CCAUG--
+Ppha_0577    ----AACCCUU--------------------------------UUUAC--
+Ppha_1953    ----GCGGCAUUUUGU------------------------UCAUAAAG--
+Ppha_2677    ----AAGGGAGACC----------------------------GCCGAG--
+Ppha_2062    ----AAGCCGCAUC-----------------------------UUUCG--
+Ppha_1150    ----GAAGCGGAGAACG-----------------------GGAAAACA--
+Ppha_0042    ----GCAGUUGCAUUCUG--------------------CCAGUCAGAA--
+Ppha_2884    ----CCGGUUGCGGCUGC---------------------UCUUUUCAGA-
+Ppha_0099    ----AGGCUGCCCG----------------------------UUUUCA--
+Ppha_0660    ----UGCCCUGUAGCA------------------------GAAUUGGA--
+Ppha_1355    ----AGGGCACCGCA---------------------------CCCACG--
+Ppha_1540    ----AGAGGGUGA------------------------------UCAAUC-
+Ppha_0226    ----ACAGGAUCU------------------------------CCGAC--
+Ppha_2468    ----GCACCGUAUGC--------------------------AUUUGCA--
+Ppha_0685    ----GCCCCAGAG------------------------------CAGCA--
+Ppha_2057    ----CCGGCAUGGCAUCUGCU---------------GACGUUUUCACU--
+Ppha_1816    ----ACAGGAUUUUAUUG---------------------UAUAUUCAA--
+Ppha_1628    ----GGGGCGGG-------------------------------GUCAU--
+Ppha_2759    ----AAAGCACCUUAUACC-------------------UUUGGUACAA--
+Ppha_1860    ----GCCCAUUGCAGAGGUU-----------------UAACCUUCCCG--
+Ppha_1481    ----GGCUUAUGAUCU------------------------UGAGUCAU--
+Ppha_0510    ----GGGGCGGG-------------------------------GUCUC--
+Ppha_2692    ----GCAUUGCUU------------------------------UUUCGG-
+Ppha_0520    ----AGGGCGGG-------------------------------GUUCC--
+Ppha_2697    ----CCCCCAUCCAU---------------------------CUUUUG--
+Ppha_1482    ----AAGCCUGC-------------------------------GCAGU--
+Ppha_0663    ----AAGGAUGCACC---------------------------CUCAAC--
+Ppha_1617    UUCUGAAAUUUCC------------------------------CUUCG--
+Ppha_0851    ----GCGGGAUGUGAAAU---------------------UUUUUUGCA--
+Ppha_1859    ----GUCCCGGAGG----------------------------UUUGAU--
+Ppha_2782    ----UCUGCCGU-------------------------------GCAGU--
+Ppha_2073    ----UCACCGAAAAC---------------------------CUUGCUG-
+Ppha_2581    ----AAGCACGGC------------------------------UCGCC--
+Ppha_1607    ----AGAGGGGCAAGAGCG------------------AAUUACCUGCGA-
+Ppha_0339    ----AAGCGACC-------------------------------CCGCA--
+Ppha_0717    ----ACCCCGCAA------------------------------CAGAA--
+Ppha_2618    ----UGCCCGAAUUGA------------------------CAUAUACGG-
+Ppha_1149    ----GAAGCGGAUGU--------------------------UUUCCCGU-
+Ppha_0722    ----UGGCUGG--------------------------------CAAAC--
+Ppha_0955    ----GGUGAUGGUU-----------------------------UUUUG--
+Ppha_2469    ----AAAGCGCCCCAUGC---------------------AAAUGCAUA--
+Ppha_1510    ----AAGUCAGUA------------------------------UCGAAG-
+Ppha_2665    ----GCAGUUUUA------------------------------CCGAU--
+Ppha_1685    ----GGAGCCUGGGCACAUUGC------------UGCGAACGUUCGUU--
+Ppha_0035    ----GGGAUCGCC------------------------------GCAAAAA
+Ppha_1551    ----GGGGCGCCACA--------------------------CAUCAUC--
+Ppha_0371    -UGCAGGCUGCCC------------------------------GCAAG--
+Ppha_1228    ----AGCCCGGAU------------------------------GUAUG--
+Ppha_2120    ----UUGGCCAAC------------------------------AAGCU--
+Ppha_1105    ----GGGGGCGGC------------------------------UCAUGAA
+Ppha_2882    ----UAGCCUG--------------------------------CAUGU--
+Ppha_0233    ----GCCGCAGCA------------------------------UCGAAU-
+Ppha_0942    -----ACCCUCUGGUUC-----------------------AUAUCGCG--
+Ppha_2418    ----AAGGCACCGC----------------------------AUUGCA--
+Ppha_0464    ----GCGGAGCGCAGC-------------------------GCCUGAG--
+Ppha_1728    ----UGCCGGGCUUGUGA--------------------UCUCUUCACU--
+Ppha_2087    ----GGGCUGCCU------------------------------CUUCA--
+Ppha_1302    ----CCGGCUGGU------------------------------GAAAA--
+Ppha_1430    ----GAACUGAAA------------------------------UAAAAA-
+Ppha_2206    ----GCCGUUUCACGCU----------------------AUUGUUGGU--
+Ppha_2689    ----GAAUCCGUC------------------------------ACAAA--
+Ppha_2088    ----AGGGCUACCU----------------------------GAAGAG--
+Ppha_0924    ----GGCGGGGAA------------------------------UUUUU--
+Ppha_1034    ----GGGGCGCG-------------------------------GUUCC--
+Ppha_2800    ----AGGGAAGCU------------------------------UCACG--
+Ppha_0326    ----AGGUCAUAU------------------------------GAGUC--
+Ppha_2404    -------CCCGCC------------------------------GCAAGC-
+Ppha_2274    ----GCUGCGCG-------------------------------UAAAG--
+Ppha_2791    ----UUGCCGCCA------------------------------UAGCGG-
+Ppha_0085    ----AAGCCCGACAGCA-----------------------UGUGCACGC-
+Ppha_0051    ----AAGGCGCCU------------------------------UCGCA--
+Ppha_1958    ----AUAGCACAACCACAAUGA------------AUCAGCUUAUCAGG--
+Ppha_1539    -UCCGGAGGGGGAAA--------------------------GAUUGAUC-
+Ppha_1572    ----UGCUCUCCCUCUCC--------------------CGGCUGAACG--
+Ppha_0983    ----GCCCCUUUUCCGGU--------------------UUUAGCCUUG--
+Ppha_2358    ----AGUCUUCAUU-----------------------------CUGAA--
+Ppha_2798    ----AGCCUUCCCC----------------------------GUUCAU--
+Ppha_1494    ----GCUCUAUCUC-----------------------------CUUCG--
+Ppha_0004    ----GGAGCAUCAUC---------------------------UGCGAU--
+Ppha_1103    --------CACUC------------------------------UAAAA--
+Ppha_2565    ----GGAGUUCCUU----------------------------AUUCAU--
+Ppha_0824    ----UAACCCAUUU-----------------------------UUCUG--
+Ppha_2690    ----GCCCUGCGC------------------------------AUCAU--
+Ppha_1782    ----AAGUCAGUG------------------------------GUGAGC-
+Ppha_2913    ----AAGCUUA--------------------------------AAUAA--
+Ppha_2204    ----GAGCUGAGC------------------------------CUAAAA-
+Ppha_1683    ----GCACCUUGUGCCA-----------------------GUUUUGCA--
+Ppha_0498    ----GCGGCAGC-------------------------------ACGCA--
+Ppha_0458    ----AAAGCGCAU------------------------------CACCA--
+Ppha_2288    ----AAGCUUUUUCG---------------------------UUACAG--
+Ppha_0798    ----AUCGCACUUA-----------------------------UUCUG--
+Ppha_0943    ----CGGCUGCAGGG--------------------------UUCUGAG--
+Ppha_0028    ----GAGCC----------------------------------AAAC---
+Ppha_0207    ----GCACGGGCU------------------------------GAAUGU-
+Ppha_0571    ----AGAGGUUU-------------------------------UCAUUA-
+Ppha_0857    ----AGGGCACG-------------------------------CCAUG--
+Ppha_0457    ----AAAGCGCAUG-----------------------------GUGAU--
+Ppha_1378    ----GUGCAAGCCAUU------------------------GUUUCCCG--
+Ppha_0778    ----UAAUCAGCCAUC-------------------------UACUGAU--
+Ppha_1863    ----CCCCGUUUUU----------------------------CGCAAGG-
+Ppha_0666    ----AAGCAGUGCAGAU----------------------UUAUUCCUG--
+Ppha_1351    -----CUGCGGCUU----------------------------GUUAAU--
+Ppha_1282    ----AGCGUUGAU------------------------------GUUAA--
+Ppha_0589    ----GGGCGGGG---------------------------------GUA--
+Ppha_2797    ----AGCCUUCCAU-----------------------------GAACG--
+Ppha_0225    ----AGGGGAUGCCAA-------------------------AAACAUG--
+Ppha_0776    ----ACACCCCGCAGAU-----------------------CUUCUCUG--
+Ppha_0815    ----GUCCCGUAUGU---------------------------UGACCG--
+Ppha_0695    ----ACGACGGU-------------------------------UCCAU--
+Ppha_1458    ----GAUCCUUUUCUGA-----------------------AAACAAAG--
+Ppha_0699    ----CAGCUACCGA-----------------------------CAACU--
+Ppha_2671    ----AAGCCGGCA------------------------------CUGAU--
+#=GC SS_cons ....<<<<<<<<__............................._____..
+#=GC RF      ....gcgcCggcuu.............................uuaag..
+
+Ppha_2693    ---GG-CUCU-C-C--GGCA
+Ppha_2596    -AAGC-CAGU-C-U--CGGG
+Ppha_2617    ---GG-UAGU-G-U--UCCC
+Ppha_1478    ---GC-UUGU-U-A--UCUU
+Ppha_2672    ---GC-CGGC-U-U--UUUU
+Ppha_0031    --CCC-UGCG-U-U--UUUU
+Ppha_1767    ---CG-GGCC-U-U--UUUU
+Ppha_2463    ---GC-UGCG-G-G--UGUU
+Ppha_2212    ---CC-GGGC-U-U--UUCU
+Ppha_0101    ---AU-UACU-G-A--UUAA
+Ppha_0664    ---AC-UGCG-C-U--UUCU
+Ppha_1029    ---UC-CGCU-U-U--UUUC
+Ppha_1520    ---GC-AGGU-U-U--UUUG
+Ppha_1902    -GACG-AGGC-U-U--UUUU
+Ppha_2776    --AUG-CAGU-G-C--CGUA
+Ppha_2570    ---GG-CAUU-C-C--GUCU
+Ppha_1521    --GGC-AGGU-U-U--UUUG
+Ppha_1613    ---GC-CAGC-U-U--UCUG
+Ppha_1393    ---CC-UGCC-U-U--UUUU
+Ppha_2213    ---GG-CUUU-U-C--UGUU
+Ppha_1911    -CUUC-AGGG-G-A--ACAG
+Ppha_0070    -CUGG-UGCU-G-C--CGUU
+Ppha_1754    ---GA-UGUU-U-U--CCCU
+Ppha_0938    ---GA-CCGU-U-C--CGUG
+Ppha_2753    ---UA-GGGU-G-C--UUUU
+Ppha_1083    AAAAC-AGGG-G-A--ACCA
+Ppha_2398    -AAGC-AGGG-G-C--UUUU
+Ppha_1677    ---UU-CGCU-U-U--UUUU
+Ppha_1577    -AAUG-ACCG-C-C--UUUU
+Ppha_2714    ---CA-CGAG-G-C--G---
+Ppha_0698    ---GG-UAGC-U-G--AAAA
+Ppha_0467    ---AC-CGGG-C-U--UUUU
+Ppha_1377    ---GC-UUGC-A-C--GGGU
+Ppha_1957    --AGA-UAGC-A-C--GACA
+Ppha_1142    -UUAG-CCCU-G-C--UUUU
+Ppha_1091    ---GG-AGCG-C-U--UUUU
+Ppha_2522    -UUUA-GGUU-C-C--UGUG
+Ppha_1654    -CUGC-AGGC-G-C--CAGU
+Ppha_1292    ---GA-AGAG-G-C--AUUA
+Ppha_1831    ---GC-UUCC-U-UAUUAUU
+Ppha_0039    --CCU-UGGG-G-A--U---
+Ppha_0684    --CUC-UGGG-G-C--UUUU
+Ppha_2156    ---AA-UCCC-U-U--UGUU
+Ppha_2747    --GUA-AACG-G-C--AAUU
+Ppha_0005    -AUGA-UGCU-C-C--UUUU
+Ppha_1583    -CGCA-AGGU-G-A--GGUU
+Ppha_1058    ---AC-CGGU-U-U--UUUU
+Ppha_1161    ---GC-GGCU-U-C--CUCU
+Ppha_0078    ---AA-UUCU-C-C--UUAU
+Ppha_1517    -GGCC-UCCU-U-U--UUUU
+Ppha_1697    --AGG-UGGC-C-U--UUUU
+Ppha_2680    -GAGA-CGGA-G-C--UUUG
+Ppha_0452    ---GA-AGGC-U-U--UUUU
+Ppha_2207    --CCA-UGCC-C-U--UACG
+Ppha_2794    --AGG-CAGC-U-U--CUCU
+Ppha_0055    ---AC-GGCU-G-U--UUCG
+Ppha_2580    ---AG-GGGU-U-G--GCUU
+Ppha_1155    ---CA-CGAC-A-A--CUUC
+Ppha_0188    -AUCU-CACC-U-U--UUGU
+Ppha_0629    ---GC-CGCC-U-U--UUUC
+Ppha_2009    ---CA-GGGU-G-U--UUUU
+Ppha_2426    --CCG-UGCC-C-C--U---
+Ppha_1584    -GGCA-AGGU-G-A--GGUU
+Ppha_0374    ---AU-GCGU-C-C--UUUG
+Ppha_0871    --CCG-UGCC-C-C--UGCA
+Ppha_1790    -------GCC-U-C--UCCA
+Ppha_0338    --GGU-CGCU-U-U--UUUG
+Ppha_1394    -UUGU-CAGG-G-U--UUCU
+Ppha_2678    --GUC-UCCC-U-U--UUUU
+Ppha_0910    --GCG-GGGU-G-G--UUUU
+Ppha_1107    ---GG-CUUU-C-U--UUUC
+Ppha_1059    ---GC-CGGU-U-U--UUUU
+Ppha_2059    ---UG-CGGC-U-U--UUUU
+Ppha_2848    ---GA-AAAG-G-A--GUGC
+Ppha_0047    ---GG-CGCU-G-A--UGUU
+Ppha_0204    ---GCUUGUU-A-C--CGCU
+Ppha_0081    ---CC-UGCC-U-U--UUUG
+Ppha_1639    ---UG-CGUU-G-U--UCAG
+Ppha_1028    ---UC-CGCU-U-U--UUUC
+Ppha_1088    ---GG-UAGC-U-U--UUUU
+Ppha_2425    --CCG-UGCC-C-C--CGUG
+Ppha_2168    --UCG-CAGC-C-C--UCUU
+Ppha_0050    ---GG-CGCC-U-U--UUUU
+Ppha_0432    GGUGA-CAUU-G-A--CCCU
+Ppha_2095    ---GU-UGCC-U-U--UUUU
+Ppha_2158    --AGG-CAGC-U-U----UU
+Ppha_2585    ---GU-GGGG-C-U--AUUC
+Ppha_1643    --AAA-AGCA-G-C--UUUU
+Ppha_0761    ---CC-AGGU-U-G--C---
+Ppha_1515    ---AA-GGCG-G-C--UUUG
+Ppha_2226    ---GU-AGCC-G-A--U---
+Ppha_0012    ---GC-CGGG-U-U--UUUA
+Ppha_2572    --UUU-CACU-G-C--CUUU
+Ppha_1431    ---UU-CAGU-U-C--CCUU
+Ppha_0644    ---GU-UGCC-C-C--UAUG
+Ppha_1167    --CCG-UGCC-C-C--UACG
+Ppha_2579    ---AC-CGGG-G-A--GUUG
+Ppha_1795    ---GA-AAGG-U-C--UUUU
+Ppha_1830    ---GG-AGGC-G-C--UUUU
+Ppha_0775    ---CG-GGGU-G-U--UUUU
+Ppha_1696    ---AG-UGGC-C-U--UUUU
+Ppha_1362    ---GG-CGCC-U-U--UUUU
+Ppha_0087    ---AC-UGCC-C-U--UUUU
+Ppha_1390    -CAGC-CCGG-U-A--UUGU
+Ppha_2667    ---GC-UCAG-G-C--G---
+Ppha_0834    ---GU-UGGC-U-U--UUUU
+Ppha_0032    ---CG-CCCU-G-C--GUUU
+Ppha_2100    ---UU-CGGU-C-U--GGCU
+Ppha_0034    ---GC-GAUC-C-C--UUUC
+Ppha_1160    ---GC-GGCU-U-C--CUUG
+Ppha_1655    --UGC-AGGC-G-C--CAGA
+Ppha_0100    --GGG-CAGC-C-U--GCCA
+Ppha_1089    ---GG-UAGC-U-U--UUUU
+Ppha_2704    ---GG-CGCU-U-U--UUUU
+Ppha_2197    ---UA-UCGC-U-C--AACC
+Ppha_1541    ---GC-UGC-----------
+Ppha_0092    ---GC-UGUG-C-C--AUUU
+Ppha_1090    --AUG-UGUU-G-A--CAGU
+Ppha_1638    ---UG-UUCG-G-G--CUUU
+Ppha_1779    ---GU-CACU-G-U--CAAU
+Ppha_0352    ---CG-UAG--C-C--GGUU
+Ppha_0818    ---GC-GGGG-G-C----UU
+Ppha_2564    ----G-AACU-C-C--UGCU
+Ppha_0036    ---AC-CUGU-U-U--CUGU
+Ppha_2352    --GCG-AGGC-U-U--UUUU
+Ppha_0858    --GCG-UGCC-C-U--UACA
+Ppha_1309    --CCG-UGCC-C-U--UACC
+Ppha_0435    ---AU-AACU-C-C--UAUA
+Ppha_2399    ---GC-AGAG-G-C--UUUU
+Ppha_0645    --GGU-UGCC-C-C--UACU
+Ppha_1361    ---AG-CGCC-U-U--UUUU
+Ppha_0577    ----A-AGGG-U-U--UCUU
+Ppha_1953    ---AA-UGCCUG-C--CCCC
+Ppha_2677    ---UC-UCCC-U-U--UUUU
+Ppha_2062    ---UG-CGGC-U-U--UUCC
+Ppha_1150    ---UC-CGCU-U-C--UUUA
+Ppha_0042    --UAC-AACU-G-C--UGCU
+Ppha_2884    -CUGC-AACC-G-G--GUUU
+Ppha_0099    ---GG-CAGC-C-U--GCCG
+Ppha_0660    ---GC-AGGG-C-G--C---
+Ppha_1355    --GGG-UGCC-C-U--GAAU
+Ppha_1540    --UUU-CCCC-C-U--CCGG
+Ppha_0226    ---GC-UCCU-G-U--GUUA
+Ppha_2468    ---UG-GGGC-G-C--UUUU
+Ppha_0685    --CUC-UGAG-G-C--UUUU
+Ppha_2057    ---CA-UGCC-G-G--GAAC
+Ppha_1816    ---GG-UCCU-G-U--AAC-
+Ppha_1628    ---CC-CGCC-C-C--AAUC
+Ppha_2759    ---GG-UGCU-U-U--UUUG
+Ppha_1860    ---CA-GUGG-G-C--UUUU
+Ppha_1481    ---CA-UAGG-C-C--UUGA
+Ppha_0510    ---CC-CGCC-C-U--UACG
+Ppha_2692    --AGG-CAAU-G-C--UUUU
+Ppha_0520    ---CC-CGCC-C-C--UCUU
+Ppha_2697    ---GG-UGGG-G-G--GAUU
+Ppha_1482    ---GC-AGGC-U-U--UUUC
+Ppha_0663    ---GC-AUCC-U-U--UUCU
+Ppha_1617    ---GA-AAUC-U-C--GUUC
+Ppha_0851    ---UA-UUCC-G-C--C---
+Ppha_1859    ---UC-CGGG-AGC--GAUG
+Ppha_2782    ---GC-GGCA-G-G--G---
+Ppha_2073    --AUU-CGGU-G-A--GCGU
+Ppha_2581    --CCC-GUGC-U-U--UUUU
+Ppha_1607    -CGGC-CCCU-C-U--UGUU
+Ppha_0339    --AGG-UCGC-U-U--UUUU
+Ppha_0717    ---CG-CGGG-G-U--UUUU
+Ppha_2618    --AUC-CGGG-C-A--GGAU
+Ppha_1149    -UCUC-CGCU-U-C--UUUA
+Ppha_0722    ---GC-CGGU-C-A--G---
+Ppha_0955    ---CC-AUCA-C-C--ACAA
+Ppha_2469    --CGG-UGCU-U-U--CUCA
+Ppha_1510    -UUAC-UGGC-U-U--UUUU
+Ppha_2665    ---AA-AUCU-G-C--ACGU
+Ppha_1685    ---CG-GGCU-C-C--CUUG
+Ppha_0035    -CUGC-GAUC-C-C--UCUU
+Ppha_1551    ----G-CGCC-C-C--U---
+Ppha_0371    ---GG-CGGC-C-U--UUUU
+Ppha_1228    ----C-CGGG-U-U--UUUA
+Ppha_2120    --UUU-GGCC-A-A--UUAC
+Ppha_1105    -GUAC-GCCC-C-C--UUGC
+Ppha_2882    ---GC-AGGC-U-A--UUUU
+Ppha_0233    --UGC-UGCG-A-C--UUUA
+Ppha_0942    ---AG-AGGG-U--------
+Ppha_2418    ----G-UGCC-U-U--UUUU
+Ppha_0464    ---UG-CUCC-G-C--AAUU
+Ppha_1728    ---GC-CCGG-C-A--UUUU
+Ppha_2087    ---GG-UAGC-C-C--UUUU
+Ppha_1302    ---UC-AGCC-G-G----UA
+Ppha_1430    --GUU-CAGU-U-C----CC
+Ppha_2206    ---GA-GACG-G-C--UUUU
+Ppha_2689    ---AU-GGGU-U-C--CCUU
+Ppha_2088    ---GC-AGCC-C-U--U---
+Ppha_0924    ---UC-CCCG-C-U--U---
+Ppha_1034    ---CG-CGCC-C-C--CACG
+Ppha_2800    ---GC-UUCC-C-U--UUUU
+Ppha_0326    --UCA-UGAC-C-U--AUAG
+Ppha_2404    --AGC-GGG-----------
+Ppha_2274    --CUG-CGCA-G-C--GCCG
+Ppha_2791    -AUGG-UGGC-A-A--GCGA
+Ppha_0085    -UGCC-GGGC-U-U--UUUU
+Ppha_0051    ---GG-CGCC-U-U--UUUU
+Ppha_1958    ---UG-UGCU--------UC
+Ppha_1539    --ACC-CUCU-C-C-GGUUU
+Ppha_1572    ---GG-AGAG-C-G--GGUA
+Ppha_0983    --AAG-AGGG-G-C--U---
+Ppha_2358    ---UG-AGGA-C-U--UCUC
+Ppha_2798    ---GG-AAGG-C-U--UUUC
+Ppha_1494    ---GG-UAGG-G-C--G---
+Ppha_0004    ---AA-UGCU-C-C--UUUC
+Ppha_1103    ---AG-UG------------
+Ppha_2565    ----G-AACU-C-C--UGCC
+Ppha_0824    --AAU-GGAU-U-A--AACG
+Ppha_2690    ---CG-CGGG-G-C--UUUU
+Ppha_1782    --AAC-UGAC-U-U--UACU
+Ppha_2913    ----C-AAGC-U-U--UUUG
+Ppha_2204    --AAA-CAGC-U-C--UUCG
+Ppha_1683    ---UG-AGGU-G-C--UUUU
+Ppha_0498    ---GC-AGCC-G-A--UCCC
+Ppha_0458    ---UG-CGCU-U-U--UUUC
+Ppha_2288    ---AA-AGGC-U-U--GCCU
+Ppha_0798    ---GG-UGCG-A-U--GGC-
+Ppha_0943    ---UG-CAGC-C-G--GGCA
+Ppha_0028    -------GGC-U-U--UUUU
+Ppha_0207    -CUGC-CCGU-G-C--U---
+Ppha_0571    --CGA-AUCU-U-U--UUCU
+Ppha_0857    --GCG-UGCC-C-C--UACA
+Ppha_0457    ----G-CGCU-U-U--UUUC
+Ppha_1378    ---GC-CUGC-A-C--GGGC
+Ppha_0778    --UAC-UGAU-U-A--CUGA
+Ppha_1863    -AUGA-ACGG-G-G--UUUU
+Ppha_0666    ---UA-CUGC-U-U--UUUU
+Ppha_1351    ---GU-CGCA-G--------
+Ppha_1282    ---UU-GGCG-U-U--UCCU
+Ppha_0589    ---CC-CCGC-C-C--UUAC
+Ppha_2797    --GGG-AAGG-C-U--U---
+Ppha_0225    ---CAUUCCC-C-U--UGUU
+Ppha_0776    --ACG-GGGU-G-U--UCUU
+Ppha_0815    ---UG-CGGG-A-C--AGUG
+Ppha_0695    ---AC-CGUC-G-U--UUUU
+Ppha_1458    --GAG-AGGA-U-C--UCUG
+Ppha_0699    --CGG-UAGC-U-G--AAAA
+Ppha_2671    ---GC-CGGC-U-U--UUUU
+#=GC SS_cons ...>>.>>>>.>.>..>>>:
+#=GC RF      ...gc.cGgc.g.c..UuUU
+//

@@ -1,0 +1,948 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU CMfinder 0.2.1
+
+#=GS Daud_1400 WT 0.92
+#=GS Daud_2102 WT 0.53
+#=GS Daud_2154 WT 0.33
+#=GS Daud_2136 WT 1.12
+#=GS Daud_0063 WT 1.03
+#=GS Daud_0093 WT 1.10
+#=GS Daud_1885 WT 0.99
+#=GS Daud_2223 WT 0.71
+#=GS Daud_1045 WT 1.27
+#=GS Daud_0384 WT 1.16
+#=GS Daud_2007 WT 0.87
+#=GS Daud_1006 WT 0.98
+#=GS Daud_1498 WT 1.21
+#=GS Daud_1135 WT 1.25
+#=GS Daud_0760 WT 1.42
+#=GS Daud_1399 WT 0.92
+#=GS Daud_1477 WT 0.96
+#=GS Daud_1076 WT 1.08
+#=GS Daud_1204 WT 0.95
+#=GS Daud_1529 WT 0.82
+#=GS Daud_2084 WT 1.23
+#=GS Daud_0207 WT 0.89
+#=GS Daud_1229 WT 1.22
+#=GS Daud_2091 WT 0.98
+#=GS Daud_1781 WT 1.11
+#=GS Daud_0450 WT 1.19
+#=GS Daud_1578 WT 0.17
+#=GS Daud_1262 WT 1.08
+#=GS Daud_2108 WT 0.86
+#=GS Daud_0308 WT 0.93
+#=GS Daud_2191 WT 1.32
+#=GS Daud_0779 WT 0.83
+#=GS Daud_2044 WT 0.97
+#=GS Daud_0054 WT 0.94
+#=GS Daud_1888 WT 0.76
+#=GS Daud_1295 WT 1.01
+#=GS Daud_0896 WT 1.00
+#=GS Daud_2132 WT 0.87
+#=GS Daud_2142 WT 1.29
+#=GS Daud_0152 WT 1.35
+#=GS Daud_0783 WT 1.29
+#=GS Daud_2222 WT 0.71
+#=GS Daud_2056 WT 0.90
+#=GS Daud_2121 WT 1.14
+#=GS Daud_1044 WT 0.17
+#=GS Daud_0898 WT 0.70
+#=GS Daud_1497 WT 1.16
+#=GS Daud_1556 WT 1.01
+#=GS Daud_0849 WT 0.60
+#=GS Daud_1896 WT 1.14
+#=GS Daud_1144 WT 1.02
+#=GS Daud_0546 WT 1.24
+#=GS Daud_0386 WT 1.19
+#=GS Daud_2147 WT 0.41
+#=GS Daud_1981 WT 1.13
+#=GS Daud_0354 WT 0.65
+#=GS Daud_1975 WT 1.15
+#=GS Daud_0847 WT 0.77
+#=GS Daud_1063 WT 1.28
+#=GS Daud_0557 WT 1.22
+#=GS Daud_0452 WT 0.33
+#=GS Daud_2050 WT 0.60
+#=GS Daud_0046 WT 1.22
+#=GS Daud_2217 WT 1.02
+#=GS Daud_1271 WT 1.05
+#=GS Daud_0039 WT 1.11
+#=GS Daud_0040 WT 1.11
+#=GS Daud_0493 WT 1.31
+#=GS Daud_1576 WT 1.12
+#=GS Daud_1131 WT 1.16
+#=GS Daud_0815 WT 1.28
+#=GS Daud_0637 WT 1.24
+#=GS Daud_1887 WT 1.00
+#=GS Daud_1446 WT 1.35
+#=GS Daud_2085 WT 1.27
+#=GS Daud_1949 WT 1.10
+#=GS Daud_2043 WT 1.11
+#=GS Daud_2066 WT 1.05
+#=GS Daud_0957 WT 1.16
+#=GS Daud_0349 WT 1.21
+#=GS Daud_0295 WT 0.96
+#=GS Daud_2001 WT 0.89
+#=GS Daud_0462 WT 0.41
+#=GS Daud_1941 WT 1.27
+#=GS Daud_1107 WT 1.01
+#=GS Daud_1785 WT 0.48
+#=GS Daud_1392 WT 1.23
+#=GS Daud_2190 WT 1.08
+#=GS Daud_1933 WT 1.30
+#=GS Daud_0053 WT 0.94
+#=GS Daud_0548 WT 1.06
+#=GS Daud_0076 WT 1.18
+#=GS Daud_0061 WT 1.28
+#=GS Daud_1111 WT 1.33
+#=GS Daud_1537 WT 1.09
+#=GS Daud_0871 WT 0.42
+#=GS Daud_1629 WT 0.33
+#=GS Daud_2126 WT 1.03
+#=GS Daud_0378 WT 1.32
+#=GS Daud_0305 WT 1.03
+#=GS Daud_1528 WT 1.06
+#=GS Daud_0875 WT 0.87
+#=GS Daud_1068 WT 0.76
+#=GS Daud_0846 WT 0.77
+#=GS Daud_1570 WT 1.19
+#=GS Daud_0649 WT 0.89
+#=GS Daud_1754 WT 0.75
+#=GS Daud_1058 WT 1.19
+#=GS Daud_1841 WT 0.38
+#=GS Daud_1567 WT 1.10
+#=GS Daud_1322 WT 0.82
+#=GS Daud_0016 WT 1.19
+#=GS Daud_1525 WT 1.00
+#=GS Daud_0776 WT 1.19
+#=GS Daud_0471 WT 0.60
+#=GS Daud_0219 WT 1.16
+#=GS Daud_1478 WT 1.03
+#=GS Daud_0129 WT 1.09
+#=GS Daud_0178 WT 1.23
+#=GS Daud_0255 WT 0.50
+#=GS Daud_0331 WT 0.98
+#=GS Daud_2098 WT 0.53
+#=GS Daud_0083 WT 1.00
+#=GS Daud_2156 WT 1.47
+#=GS Daud_1666 WT 0.42
+#=GS Daud_1577 WT 1.14
+#=GS Daud_2009 WT 0.99
+#=GS Daud_1669 WT 0.42
+#=GS Daud_0627 WT 0.99
+#=GS Daud_2199 WT 1.11
+#=GS Daud_1955 WT 1.33
+#=GS Daud_1771 WT 1.06
+#=GS Daud_1936 WT 1.28
+#=GS Daud_1122 WT 1.00
+#=GS Daud_0876 WT 1.13
+#=GS Daud_1473 WT 0.55
+#=GS Daud_0282 WT 1.19
+#=GS Daud_0465 WT 0.76
+#=GS Daud_1539 WT 1.34
+#=GS Daud_0789 WT 1.21
+#=GS Daud_0290 WT 1.00
+#=GS Daud_1707 WT 1.19
+#=GS Daud_1572 WT 1.26
+#=GS Daud_1837 WT 1.25
+#=GS Daud_0921 WT 1.24
+#=GS Daud_1270 WT 1.05
+#=GS Daud_0559 WT 1.02
+#=GS Daud_2027 WT 1.10
+#=GS Daud_1163 WT 0.99
+#=GS Daud_1667 WT 1.14
+#=GS Daud_0073 WT 1.05
+#=GS Daud_1106 WT 0.95
+#=GS Daud_1034 WT 1.40
+#=GS Daud_1051 WT 1.28
+#=GS Daud_1178 WT 0.86
+#=GS Daud_0897 WT 0.70
+
+#=GS Daud_1400 DE 21.. 62	20.747265
+#=GS Daud_2102 DE 66..100	31.838688
+#=GS Daud_2154 DE 13.. 47	34.800674
+#=GS Daud_2136 DE 46.. 84	25.341305
+#=GS Daud_0063 DE 50.. 95	18.779226
+#=GS Daud_0093 DE 54.. 91	21.284470
+#=GS Daud_1885 DE 26.. 74	18.348358
+#=GS Daud_2223 DE 2.. 30	13.984407
+#=GS Daud_1045 DE 58..100	12.422182
+#=GS Daud_0384 DE 42.. 81	23.156454
+#=GS Daud_2007 DE 39.. 79	29.518604
+#=GS Daud_1006 DE 45.. 84	29.265820
+#=GS Daud_1498 DE 40.. 83	10.158254
+#=GS Daud_1135 DE 29.. 76	13.218667
+#=GS Daud_0760 DE 45.. 81	0.751216
+#=GS Daud_1399 DE 39.. 79	20.926476
+#=GS Daud_1477 DE 46.. 82	23.389133
+#=GS Daud_1076 DE 32.. 84	13.676147
+#=GS Daud_1204 DE 47.. 84	21.422823
+#=GS Daud_1529 DE 52.. 94	21.543415
+#=GS Daud_2084 DE 22.. 63	5.676034
+#=GS Daud_0207 DE 31.. 73	10.989156
+#=GS Daud_1229 DE 45.. 85	20.896481
+#=GS Daud_2091 DE 49.. 81	18.201841
+#=GS Daud_1781 DE 77..100	1.611864
+#=GS Daud_0450 DE 54.. 94	12.799623
+#=GS Daud_1578 DE 17.. 53	29.093403
+#=GS Daud_1262 DE 40.. 78	19.779207
+#=GS Daud_2108 DE 46.. 86	26.916260
+#=GS Daud_0308 DE 42.. 80	26.918364
+#=GS Daud_2191 DE 17.. 54	0.047302
+#=GS Daud_0779 DE 26.. 79	21.711437
+#=GS Daud_2044 DE 45.. 83	17.929571
+#=GS Daud_0054 DE 26.. 64	24.718971
+#=GS Daud_1888 DE 32.. 70	20.630594
+#=GS Daud_1295 DE 25.. 64	21.906250
+#=GS Daud_0896 DE 44.. 84	18.067616
+#=GS Daud_2132 DE 2.. 38	11.452507
+#=GS Daud_2142 DE 45.. 94	7.082764
+#=GS Daud_0152 DE 41.. 79	3.306407
+#=GS Daud_0783 DE 44.. 88	12.427877
+#=GS Daud_2222 DE 3.. 31	13.957619
+#=GS Daud_2056 DE 51.. 85	23.088261
+#=GS Daud_2121 DE 47.. 90	22.671406
+#=GS Daud_1044 DE 23.. 43	14.254187
+#=GS Daud_0898 DE 1.. 29	13.299672
+#=GS Daud_1497 DE 32.. 80	12.288219
+#=GS Daud_1556 DE 31.. 73	19.929607
+#=GS Daud_0849 DE 53.. 86	24.832304
+#=GS Daud_1896 DE 29.. 77	20.266138
+#=GS Daud_1144 DE 41.. 83	25.139524
+#=GS Daud_0546 DE 30.. 68	19.149971
+#=GS Daud_0386 DE 63.. 98	0.301020
+#=GS Daud_2147 DE 66.. 99	30.415283
+#=GS Daud_1981 DE 13.. 42	2.341794
+#=GS Daud_0354 DE 39.. 72	26.760811
+#=GS Daud_1975 DE 13.. 52	4.072878
+#=GS Daud_0847 DE 24.. 62	26.517069
+#=GS Daud_1063 DE 43..100	3.763115
+#=GS Daud_0557 DE 10.. 50	15.909891
+#=GS Daud_0452 DE 15.. 49	34.599560
+#=GS Daud_2050 DE 20.. 54	30.749197
+#=GS Daud_0046 DE 42.. 81	17.831347
+#=GS Daud_2217 DE 53.. 94	17.705906
+#=GS Daud_1271 DE 19.. 59	12.340875
+#=GS Daud_0039 DE 18.. 55	11.284563
+#=GS Daud_0040 DE 35.. 76	9.208821
+#=GS Daud_0493 DE 59.. 97	3.047698
+#=GS Daud_1576 DE 40.. 87	19.626293
+#=GS Daud_1131 DE 34.. 77	4.219016
+#=GS Daud_0815 DE 40.. 80	13.849449
+#=GS Daud_0637 DE 10.. 50	26.485806
+#=GS Daud_1887 DE 29.. 73	17.163403
+#=GS Daud_1446 DE 38.. 79	15.419812
+#=GS Daud_2085 DE 38.. 75	5.649851
+#=GS Daud_1949 DE 37.. 75	30.771166
+#=GS Daud_2043 DE 16.. 60	15.462803
+#=GS Daud_2066 DE 20.. 73	11.188726
+#=GS Daud_0957 DE 15.. 44	15.951544
+#=GS Daud_0349 DE 5.. 39	6.044867
+#=GS Daud_0295 DE 9.. 50	24.340481
+#=GS Daud_2001 DE 75..100	1.346025
+#=GS Daud_0462 DE 22.. 56	34.957249
+#=GS Daud_1941 DE 25.. 68	13.299330
+#=GS Daud_1107 DE 17.. 62	18.716908
+#=GS Daud_1785 DE 61.. 94	36.693611
+#=GS Daud_1392 DE 28.. 75	2.679591
+#=GS Daud_2190 DE 36.. 75	19.112879
+#=GS Daud_1933 DE 24.. 67	7.414865
+#=GS Daud_0053 DE 26.. 65	25.213879
+#=GS Daud_0548 DE 22.. 67	22.277897
+#=GS Daud_0076 DE 48.. 87	12.011070
+#=GS Daud_0061 DE 57.. 98	3.569110
+#=GS Daud_1111 DE 33.. 75	13.343670
+#=GS Daud_1537 DE 47.. 77	4.191047
+#=GS Daud_0871 DE 21.. 55	29.994606
+#=GS Daud_1629 DE 22.. 56	37.206791
+#=GS Daud_2126 DE 31.. 68	21.086105
+#=GS Daud_0378 DE 24.. 73	0.146036
+#=GS Daud_0305 DE 67.. 91	3.834355
+#=GS Daud_1528 DE 63..100	14.425713
+#=GS Daud_0875 DE 29.. 62	14.143667
+#=GS Daud_1068 DE 14.. 47	24.826849
+#=GS Daud_0846 DE 30.. 68	25.684824
+#=GS Daud_1570 DE 16.. 53	12.928196
+#=GS Daud_0649 DE 57.. 91	25.106611
+#=GS Daud_1754 DE 58.. 87	10.813826
+#=GS Daud_1058 DE 28.. 70	0.808157
+#=GS Daud_1841 DE 21.. 55	34.779903
+#=GS Daud_1567 DE 52.. 92	17.522655
+#=GS Daud_1322 DE 45.. 79	21.239401
+#=GS Daud_0016 DE 18.. 65	10.304062
+#=GS Daud_1525 DE 31.. 59	0.324413
+#=GS Daud_0776 DE 61.. 83	4.466178
+#=GS Daud_0471 DE 14.. 48	26.397951
+#=GS Daud_0219 DE 19.. 59	12.249003
+#=GS Daud_1478 DE 27.. 67	13.913820
+#=GS Daud_0129 DE 39.. 84	8.184535
+#=GS Daud_0178 DE 42.. 77	6.106859
+#=GS Daud_0255 DE 59.. 93	33.152603
+#=GS Daud_0331 DE 21.. 82	0.081061
+#=GS Daud_2098 DE 58.. 92	32.764198
+#=GS Daud_0083 DE 57.. 98	15.494083
+#=GS Daud_2156 DE 41.. 78	12.960938
+#=GS Daud_1666 DE 42.. 77	21.524782
+#=GS Daud_1577 DE 51.. 98	15.247093
+#=GS Daud_2009 DE 42.. 82	27.015593
+#=GS Daud_1669 DE 55.. 89	19.241501
+#=GS Daud_0627 DE 49.. 86	26.894596
+#=GS Daud_2199 DE 47.. 92	15.787766
+#=GS Daud_1955 DE 37.. 74	3.478317
+#=GS Daud_1771 DE 40.. 74	6.598501
+#=GS Daud_1936 DE 1.. 39	8.852077
+#=GS Daud_1122 DE 32.. 77	27.214745
+#=GS Daud_0876 DE 2.. 42	2.484772
+#=GS Daud_1473 DE 15.. 48	34.059669
+#=GS Daud_0282 DE 4.. 33	1.881306
+#=GS Daud_0465 DE 77.. 98	1.495306
+#=GS Daud_1539 DE 36.. 74	3.283953
+#=GS Daud_0789 DE 18.. 54	5.229255
+#=GS Daud_0290 DE 16.. 48	1.640915
+#=GS Daud_1707 DE 21.. 57	7.862701
+#=GS Daud_1572 DE 39.. 75	2.585474
+#=GS Daud_1837 DE 2.. 39	2.469977
+#=GS Daud_0921 DE 56.. 99	2.074636
+#=GS Daud_1270 DE 26.. 70	16.353441
+#=GS Daud_0559 DE 10.. 53	3.309071
+#=GS Daud_2027 DE 13.. 51	10.620952
+#=GS Daud_1163 DE 62.. 99	22.671783
+#=GS Daud_1667 DE 22.. 62	15.624483
+#=GS Daud_0073 DE 8.. 45	12.616078
+#=GS Daud_1106 DE 43.. 87	15.023661
+#=GS Daud_1034 DE 14.. 57	8.041694
+#=GS Daud_1051 DE 1.. 37	6.179448
+#=GS Daud_1178 DE 30.. 71	27.394279
+#=GS Daud_0897 DE 60.. 99	25.533005
+
+Daud_1400         CAACGGC-GAAGCCGCAGUAAAAG-----------------------UAC
+#=GR Daud_1400 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_2102         UGACCGA-AAAAGGGGCC------------------------------UG
+#=GR Daud_2102 SS .....<<.<<<<<<<<<<...............................>
+Daud_2154         UCGACUA-AAAAGGGGCC------------------------------AG
+#=GR Daud_2154 SS .....-<.<<<<<<<<<<...............................>
+Daud_2136         GAAAAAA-GACCGAGGUGACUCA-------------------------UC
+#=GR Daud_2136 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0063         UCAAAAA-UGCCCGGCACUUAACUCCUC-------------------GAG
+#=GR Daud_0063 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0093         AGCGUAA-CCGUGGGGGCGUGC--------------------------CG
+#=GR Daud_0093 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1885         AGAGGGG-AAACGCGGGCGAAAUCCUGGAUU----------------UCG
+#=GR Daud_1885 SS .....<<.<<-<<<<<<<<.............................>>
+Daud_2223         ------G-GAACCCAGGCUUAUA------------------------UAG
+#=GR Daud_2223 SS ......<.<<<<<<<<<<<.............................>>
+Daud_1045         AAAAUAG-CGGACCGGGGGAUCUUUG---------------------UCC
+#=GR Daud_1045 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0384         UCAACGA-GACACCUUCCGGGCA------------------------ACG
+#=GR Daud_0384 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2007         CUUUGAA-AAACCCCGUCUCUCCA-----------------------AAG
+#=GR Daud_2007 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1006         UUCAAAA-GAGCGGCGCUCUUCA------------------------CGA
+#=GR Daud_1006 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1498         AGAAAGU-UUGUCGAGGUAUUUCCGA---------------------AUA
+#=GR Daud_1498 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1135         UCCGCCG-AAUGUGCGUGACACCACCCGGU-----------------GUC
+#=GR Daud_1135 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_0760         CCGGUCU-----GCGGGUUCCUCU-----------------------UAA
+#=GR Daud_0760 SS .....-......<<<<<<<.............................>>
+Daud_1399         AAAACUC-GAAGCCGCAGUACUUU-----------------------UAC
+#=GR Daud_1399 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_1477         CGGUUG--AAAAGCGCCCCUU---------------------------CG
+#=GR Daud_1477 SS .....<..<<<<<<<<<<-.............................->
+Daud_1076         CGCUUAG-AAGGGCCCGCUUUCGGAAUAAGUCCGGA-----------AAG
+#=GR Daud_1076 SS .....<<.-<<<<<<<<<<.............................>>
+Daud_1204         UGAGGGC-AGGGGCGCCCGCGG--------------------------CG
+#=GR Daud_1204 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1529         CACACGC-CGGCGUCCCCGGUCUAAA---------------------CCG
+#=GR Daud_1529 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2084         CGAAGUA-----CCGGUGUCCAUCGCGCA------------------UAC
+#=GR Daud_2084 SS .....-......<<<<<<<.............................>>
+Daud_0207         CGAAGG--GGUGGGGGCCUGAUUAAG---------------------GGG
+#=GR Daud_0207 SS .....<..<<<<<<<<<<<.............................>>
+Daud_1229         AACACGA-AGCAGGAGGGUUCCAA-----------------------GGC
+#=GR Daud_1229 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2091         UCCGUCA-AAACGGAGCC------------------------------CG
+#=GR Daud_2091 SS .....-<.-<<<<<.<<<...............................>
+Daud_1781         ---------GGAGCCAUCCGCGA-------------------------GG
+#=GR Daud_1781 SS .........<<<<<<<<<<.............................>>
+Daud_0450         AAAAAAA-GAGGUGGGUCCUUAAA-----------------------GAG
+#=GR Daud_0450 SS .....-<.<<<<<<<<-<-.............................->
+Daud_1578         CUAGCAA-AAAAGGUGUC------------------------------AG
+#=GR Daud_1578 SS .....-<.<<<<<<<<<<...............................>
+Daud_1262         CUGCCGC-GGCACCCGGGGUUUC-------------------------CC
+#=GR Daud_1262 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2108         UCGUUAA-AAGCCCCCGGUGUAAA-----------------------CAC
+#=GR Daud_2108 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0308         GUAACGA-AAGCCCCCGCGGAA--------------------------CG
+#=GR Daud_0308 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2191         CUAACGG-----CAGCUGUGUUAUA----------------------AUU
+#=GR Daud_2191 SS .....<......<<<<<<-.............................->
+Daud_0779         AUCGUGA-AAGAGGGGCCCGCCUAAGAAGAUUAGGU-----------UGG
+#=GR Daud_0779 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_2044         UCGAAAC-CCCACUCGCCGGUGG-------------------------CG
+#=GR Daud_2044 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0054         CAUAAAA-AAAGCUGCUUUUUGA-------------------------AA
+#=GR Daud_0054 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_1888         ACUAAAG-GCGCCCCGCCGUUU--------------------------CG
+#=GR Daud_1888 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_1295         ACAAGUC-AGACCCCGCCAGUAU------------------------UUG
+#=GR Daud_1295 SS .....-<.-<<<<<<<<<<.............................>>
+Daud_0896         AGCGGC--AAUCCCACCCUGGAAA-----------------------UCG
+#=GR Daud_0896 SS .....-..<<<<<<<<<<-.............................->
+Daud_2132         -----C--AAACCCCGGGACUUCU-----------------------AAC
+#=GR Daud_2132 SS .....-..<<<<<<<<<<-.............................->
+Daud_2142         GGGUCUU-GGCAGGUUUUAGUCUCCUCCAGACG--------------CUA
+#=GR Daud_2142 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_0152         CAUUCCC-----GCCCCUGACAUAUA---------------------UCA
+#=GR Daud_0152 SS .....-......<<<<<<<.............................>>
+Daud_0783         GAGUAGG-GUAACGCCAUAGUAAUUUG--------------------CUA
+#=GR Daud_0783 SS .....<<.<<-<<<<<<<<.............................>>
+Daud_2222         ------G-GAACCCAGGCUAUAU------------------------AAG
+#=GR Daud_2222 SS ......<.<<<<<<<<<<<.............................>>
+Daud_2056         GAAGGCA-AAAGGGGGAC------------------------------AA
+#=GR Daud_2056 SS .....-<.<<<<<<<<<-...............................-
+Daud_2121         GCAGUCC-GACCCCGGCCCCCUAAAAG--------------------CGG
+#=GR Daud_2121 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1044         ------A-AAAAGG--UC------------------------------AG
+#=GR Daud_1044 SS ......<.<<<<<<..<<...............................>
+Daud_0898         ------A-AACCCUUCUCUAUAG------------------------UUG
+#=GR Daud_0898 SS ......<.<<<<<<<<<<-.............................->
+Daud_1497         CAGUUU--GUUCCCCUCCUUUAGGGUGGCCUG---------------GAG
+#=GR Daud_1497 SS .....-..<<<<<<<<<<<.............................>>
+Daud_1556         AAAGCUC-AUAACCCGACGGUGUAAA---------------------CCG
+#=GR Daud_1556 SS .....--.<-<<<<<<-<<.............................>>
+Daud_0849         ACACCGA-AAAAGGUGCC------------------------------UG
+#=GR Daud_0849 SS .....<<.<<<<<<<<-<...............................>
+Daud_1896         CCAGCAC-AAACGGGAUCAGGCCCCACGCGC----------------CUG
+#=GR Daud_1896 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1144         CGCACAA-AUCCGGCCCCGGCCCGA----------------------CCG
+#=GR Daud_1144 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_0546         CAGGCAA-ACUUCGCAGCCCGCU-------------------------GG
+#=GR Daud_0546 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0386         UACUCUG-----CCGCCGGGAAA-------------------------CC
+#=GR Daud_0386 SS .....-......<<<<<<<.............................>>
+Daud_2147         AAAGGUA-AAAAGGGGCC------------------------------UG
+#=GR Daud_2147 SS .....-<.<<<<<<<<<<...............................>
+Daud_1981         GGAUGUA-----GAAUUC------------------------------AG
+#=GR Daud_1981 SS .....-......<<<<<<...............................>
+Daud_0354         GACUGAA-AAAGGGGGUC------------------------------AG
+#=GR Daud_0354 SS .....-<.<<<<<<<<<<...............................>
+Daud_1975         CCAAGUA-GAAAGUCACUAGAUA-------------------------AG
+#=GR Daud_1975 SS .....<-.<<<<<<<-<<-.............................->
+Daud_0847         GGCCUGA-AAGGCACCCCUUGAA-------------------------AG
+#=GR Daud_0847 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1063         GGCAAAA-CACCUUGGCCGGCUCCUUUUUUUCACAGGGGGA------UGG
+#=GR Daud_1063 SS .....-<.<<<<<<<<<<-.............................->
+Daud_0557         UCGGACA-GUAGGGGCCCUUCCCAGG---------------------AAG
+#=GR Daud_0557 SS .....<<...<<<<<<<<<.............................>>
+Daud_0452         GCCUAGA-AAAAGGUGUC------------------------------AG
+#=GR Daud_0452 SS .....<<.<<<<<<<<<<...............................>
+Daud_2050         ACCCCCA-AAAAGGGGCC------------------------------AG
+#=GR Daud_2050 SS .....<<.<<<<<<<<<<...............................>
+Daud_0046         AGACCCC-UGCCGUCGCCGUCAA------------------------CCG
+#=GR Daud_0046 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2217         CCUUAUC-AAGACCCUCCGGAGG------------------------CCG
+#=GR Daud_2217 SS .....--.<<<<<<<<<<<.............................>>
+Daud_1271         GAAACG------GGGGACGGCCGAAAGA-------------------CCG
+#=GR Daud_1271 SS .....<......<<<<<<<.............................>>
+Daud_0039         UGAGUGA-----GAGGCCGCUUCUU----------------------GUG
+#=GR Daud_0039 SS .....<......<<<<<<<.............................>>
+Daud_0040         UAUGGU--GUGGGAGGCCACAAGAA----------------------GCG
+#=GR Daud_0040 SS .....<..<<<<<<<<<<-.............................->
+Daud_0493         AGAGCGG-CAAGGAAUUCCUCCGGG----------------------AAG
+#=GR Daud_0493 SS .....<<.<<<<<...<<-.............................->
+Daud_1576         CACGCGC-AGGCCGGGCCUGACUGUGUAGUC----------------AAG
+#=GR Daud_1576 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1131         GAUUUGA-GGCGGCCAUUGCCUUUAGC--------------------GCA
+#=GR Daud_1131 SS .....<-.<<<<<<<<<<<.............................>>
+Daud_0815         CUUUCCA-AUGGCCGGGUAUGCGC-----------------------AUA
+#=GR Daud_0815 SS .....<<.<-<<<<<<<<<.............................>>
+Daud_0637         AGGACAA-AUAAGCUUUUGGUUCA-----------------------UCA
+#=GR Daud_0637 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1887         AAUCAGA-GCGGCGCCCCGCCGAAACG--------------------GCG
+#=GR Daud_1887 SS .....-<.<-<<<<<<<<<.............................>>
+Daud_1446         CGUUCUC-AAAGGGUCUUCCCGCG-----------------------GGA
+#=GR Daud_1446 SS .....<-.<<<<<<<<<<<.............................>>
+Daud_2085         GAUUGGU-GAGGCCGCCCCUUCC-------------------------GG
+#=GR Daud_2085 SS .....<....<<<<<<<<<.............................>>
+Daud_1949         ACAGGAA-AAGCCGGCCCGUAC--------------------------CG
+#=GR Daud_1949 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2043         AUUGAAA-AACCCCACCCGCCGCCACCG-------------------GCG
+#=GR Daud_2043 SS .....-<.<<<<<<<<-<<.............................>>
+Daud_2066         GAGCAUA-AUCCCCCCUUUUGCGGCGUACACAUCCG-----------GAG
+#=GR Daud_2066 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0957         CAGUAAC-----GGUGCC------------------------------AG
+#=GR Daud_0957 SS .....<......<<<<<<...............................>
+Daud_0349         UGUAAUG-----CCGGGCUGAUC-------------------------UG
+#=GR Daud_0349 SS .....<......<<<<<<-.............................->
+Daud_0295         CCCACUG-AAUAGCGGCCGGUUU-------------------------CG
+#=GR Daud_0295 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_2001         ---------CCGGGGACCCGUUUA-----------------------GGG
+#=GR Daud_2001 SS .........<<<<<<<<<<.............................>>
+Daud_0462         AAAGGUA-AAAAGGGGCC------------------------------UG
+#=GR Daud_0462 SS .....-<.<<<<<<<<<<...............................>
+Daud_1941         ACCCGGG-CCGCCGUCCCCACGAUGU---------------------UGG
+#=GR Daud_1941 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1107         GUAACGC-AGGUGUGCCCGGUAUUCCGU-------------------UCG
+#=GR Daud_1107 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1785         AAGCUGA-AAAAGGGGUC------------------------------AG
+#=GR Daud_1785 SS .....<<.<<<<<<<<<<...............................>
+Daud_1392         CAGGGUA-----CGGGGGAAAGAGCCGGAGCCUCU------------UUC
+#=GR Daud_1392 SS .....-......<<<<<<<.............................>>
+Daud_2190         CCAAAGC-UUAACCCGGGGACCC------------------------ACC
+#=GR Daud_2190 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1933         GGAAUUC-----CGGCCCCGGGAGAAUAUCC----------------CGG
+#=GR Daud_1933 SS .....<......<<<<<<<.............................>>
+Daud_0053         AUAUUGA-AAAGCUGCUUUUCAA-------------------------AA
+#=GR Daud_0053 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_0548         AGACCCA-AACCGCUGCCAGUUCCAGUUG------------------CUG
+#=GR Daud_0548 SS .....-<.<<--<<<<<<<.............................>>
+Daud_0076         AGGUUUA-AGGAAGGGUUGAGUC------------------------AAG
+#=GR Daud_0076 SS .....<<.<<<<<<<<<<-.............................->
+Daud_0061         UCCCCUG-UCGCGGCUGGGUUGAGG----------------------CCU
+#=GR Daud_0061 SS .....<<.<-<<<<<<<<<.............................>>
+Daud_1111         UUCGUUA-UCAACUCCCGGAACACU----------------------UCC
+#=GR Daud_1111 SS .....<-.<<<<<<<<<<<.............................>>
+Daud_1537         GCUUUGA-----GGCGGUU-----------------------------CA
+#=GR Daud_1537 SS .....<......<<<<<<-.............................->
+Daud_0871         GAGGCCA-AAAAGGUGUC------------------------------AG
+#=GR Daud_0871 SS .....-<.<<<<<<<<<<...............................>
+Daud_1629         CCCACAA-AAAAGGGGCC------------------------------AG
+#=GR Daud_1629 SS .....-<.<<<<<<<<<<...............................>
+Daud_2126         AAAUUC--GAAGGAGCCCCGAA--------------------------CG
+#=GR Daud_2126 SS .....<..<<<<<<<<<<-.............................->
+Daud_0378         UGACUUC-GUUAUCACGCUUAACCGCCCUGGCG--------------CAG
+#=GR Daud_0378 SS .....<<.<<-<<<<<<<<.............................>>
+Daud_0305         GUCCAAA-UGGCC-----------------------------------A-
+#=GR Daud_0305 SS .....<<.<<<<<.....................................
+Daud_1528         GACCGG--GGACGCCGGCGUGU--------------------------GG
+#=GR Daud_1528 SS .....-..<<<<<<<<<<-.............................->
+Daud_0875         GUCGCGA-ACCAGGUGUC------------------------------AG
+#=GR Daud_0875 SS .....--.<--<<<<<<<...............................>
+Daud_1068         ACCCUGA-ACAAGGGGAC------------------------------AG
+#=GR Daud_1068 SS .....<<.<-<<<<<<<<...............................>
+Daud_0846         GAACCGA-AAGGCACCCCUUUCA-------------------------AG
+#=GR Daud_0846 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1570         GGUAGCG-AAGGUGGGGCUUAA--------------------------CA
+#=GR Daud_1570 SS .....-<.<<<<<<<<<--.............................--
+Daud_0649         GGUUGAG-AAAAGGGGAC------------------------------UG
+#=GR Daud_0649 SS .....-<.<<<<<<<<<<...............................>
+Daud_1754         GGCGGCU-----GGGGAC------------------------------AG
+#=GR Daud_1754 SS .....<......<<<<<<...............................>
+Daud_1058         CAGGCAACGGGCCUUUCGGCAAAC-----------------------GCC
+#=GR Daud_1058 SS .....-<.<<<-<<<<<<<.............................>>
+Daud_1841         CCCCCCA-AAAAGGGGCC------------------------------AG
+#=GR Daud_1841 SS .....-<.<<<<<<<<<<...............................>
+Daud_1567         AAAACCA-GAACCACGUUCGGGAA-----------------------CGG
+#=GR Daud_1567 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_1322         CACAGGA-CGGCCGCCCCG-----------------------------GG
+#=GR Daud_1322 SS .....<<.<<<<<<<<<<-.............................->
+Daud_0016         UGAUUUA-GCAGGCAGGCUUGAGCCCGUCUC----------------AGG
+#=GR Daud_0016 SS .....-<.<-<<<<<<<<<.............................>>
+Daud_1525         ACUCAG--------CCCC------------------------------CG
+#=GR Daud_1525 SS .....<........<<<<...............................>
+Daud_0776         ------G-UUCACGGGGC------------------------------AG
+#=GR Daud_0776 SS ......<.<<<<<<<<-<...............................>
+Daud_0471         CGCCUGA-AAAAGGUGUC------------------------------AG
+#=GR Daud_0471 SS .....-<.<<<<<<<<<<...............................>
+Daud_0219         AGCCAUU-AUCCCCUUACCACCC------------------------GGG
+#=GR Daud_0219 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1478         AAAGAG--GUCGGCCGCCCGUAC------------------------CGG
+#=GR Daud_1478 SS .....<..<<-<<<<<<<<.............................>>
+Daud_0129         GCGGAAA-----GGCACUGCUGGCCUGUAUCUU--------------GCA
+#=GR Daud_0129 SS .....-......<<<<<<<.............................>>
+Daud_0178         AACCGGC-----CUCGGUGCACU------------------------ACA
+#=GR Daud_0178 SS .....<......<<<<<<<.............................>>
+Daud_0255         UUAGGUA-AAAAGGGGUC------------------------------AG
+#=GR Daud_0255 SS .....-<.<<<<<<<<<<...............................>
+Daud_0331         GCACAUA-AUCCCUCCUCGGCACGCAUAUUCCUUGAGAGAAUGCGUCUUG
+#=GR Daud_0331 SS .....<<...<<<<<<<<<.............................>>
+Daud_2098         GCCUUAA-AAAAGGGGCC------------------------------UG
+#=GR Daud_2098 SS .....-<.<<<<<<<<<<...............................>
+Daud_0083         ACCAAC--GUAGGCCCCCGGUUCAU----------------------CCG
+#=GR Daud_0083 SS .....<..<<<<<<<-<<<.............................>>
+Daud_2156         GGCCGG--AAUAGCAGAGCGAA--------------------------GC
+#=GR Daud_2156 SS .....<..-<<<<<<<<<<.............................>>
+Daud_1666         CCCGCACUGAAAGGGGAC------------------------------AG
+#=GR Daud_1666 SS .....-<.-<<<<<<<<<...............................>
+Daud_1577         AUCAAAC-AGGCCGGACCUUGACUACACAGU----------------CAG
+#=GR Daud_1577 SS .....-<.<<<<<<<-<<<.............................>>
+Daud_2009         CCCUACACAAAACGGACCGCAAC------------------------ACG
+#=GR Daud_2009 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1669         CCCGCACUGAAAGGGGAC------------------------------AG
+#=GR Daud_1669 SS .....-<.-<<<<<<<<<...............................>
+Daud_0627         AAACAUA-GAAACGGCUCGCGC--------------------------AG
+#=GR Daud_0627 SS .....-<.<<<<<<<<<<-.............................->
+Daud_2199         GUGGUGA-GAGAGGCUGCCCCGCGACUGC------------------GGG
+#=GR Daud_2199 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1955         UUCCUAU-----UCCCCCGGAGCCC----------------------UUG
+#=GR Daud_1955 SS .....<......<<<<<<<.............................>>
+Daud_1771         AACGGGU-----GCCGGUGGCG--------------------------AG
+#=GR Daud_1771 SS .....<......<<<<<<-.............................->
+Daud_1936         GCCGGCC-CGGCGGCCGGUGACU-------------------------UC
+#=GR Daud_1936 SS .....-<.<<<<<<<<<<-.............................->
+Daud_1122         AACAAGA-AAAGCCACCCGGCCCAUGGUC------------------AGG
+#=GR Daud_1122 SS .....<<.<<<<<<<<<<-.............................->
+Daud_0876         UCAGAG--UUCUGAAUUCUGACUC-----------------------CUG
+#=GR Daud_0876 SS .....<..<-<-<<<<<<-.............................->
+Daud_1473         CCCUAAA-AAAAGGGGCC------------------------------AG
+#=GR Daud_1473 SS .....<<.<<<<<<<<<<...............................>
+Daud_0282         AAUUUAA-G----UCGGCGUAAC-------------------------CG
+#=GR Daud_0282 SS .....-<......<<<<<<.............................>>
+Daud_0465         ----------GGCCCGCCGUUGA-------------------------AG
+#=GR Daud_0465 SS ..........<<<<<<<<-.............................->
+Daud_1539         CCGGAAA-UAAAUUUUUUGGAG--------------------------GG
+#=GR Daud_1539 SS .....-<.<<<<<<<-<<-.............................->
+Daud_0789         UAACGGU-GUGCGGGGGUGGUGA-------------------------CA
+#=GR Daud_0789 SS .....-....<<<<<<<<<.............................>>
+Daud_0290         GCUGACC-----GCCCAUGGA---------------------------AG
+#=GR Daud_0290 SS .....<......<<<<<<-.............................->
+Daud_1707         CCCCCGC-----CCGGCCGGUGGA-----------------------GGG
+#=GR Daud_1707 SS .....<......<<<<<<-.............................->
+Daud_1572         GGCGAAC-----CCCGUUGGAUAA-----------------------ACA
+#=GR Daud_1572 SS .....-......<<<<<<<.............................>>
+Daud_1837         UCCCCCU-----GGCGCUCGCUGAC----------------------GCG
+#=GR Daud_1837 SS .....-......<<<<<<-.............................->
+Daud_0921         CGGCAAC-AAAUGCCGUUGAUAUUCCUU-------------------GUA
+#=GR Daud_0921 SS .....-<.<<<<<<<.<<<.............................>>
+Daud_1270         UAAAAUA-GGCUGGGGACGGUCUUUCGG-------------------CCG
+#=GR Daud_1270 SS .....-<.<<<-<<<<<<<.............................>>
+Daud_0559         CACUUUC-CUGACCGUCCGGCGGAC----------------------UCG
+#=GR Daud_0559 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_2027         ACUACUA-----GGCCACGAUGAGGC---------------------CGG
+#=GR Daud_2027 SS .....<......<<<<<<-.............................->
+Daud_1163         CCUCAAA-AAAAGGGCGCGUUG--------------------------UG
+#=GR Daud_1163 SS .....<<.<<<<<<<<<<<.............................>>
+Daud_1667         CCCGCAC-ACCGGGGAGGGGACUC-----------------------CCC
+#=GR Daud_1667 SS .....--.<-<<<<<<<<<.............................>>
+Daud_0073         AAUGGAACAAUAAUGGCCGAA---------------------------AG
+#=GR Daud_0073 SS .....<<.<<-<<<<<<<-.............................->
+Daud_1106         AAACGCC-AAGCGUGCCCGAACGGAAUA-------------------CCG
+#=GR Daud_1106 SS .....-<.<-<-<<<<<<<.............................>>
+Daud_1034         GGAUUGA-AAAAC-----GGUCCGGUGUUUUGGGUUC----------AU-
+#=GR Daud_1034 SS .....<<.<<<<<.....<.............................>.
+Daud_1051         AUCACGG-UAUCCAGGGCUGA---------------------------CG
+#=GR Daud_1051 SS .....-<.<<<<<<<<<<-.............................->
+Daud_1178         UUCUGAA-AAGCCCCGGCGAUUAA-----------------------CCG
+#=GR Daud_1178 SS .....-<.<<<<<<<<<<<.............................>>
+Daud_0897         AACAAGA-AACCCUUCUCAACUA------------------------UAG
+#=GR Daud_0897 SS .....<<.<<<<<<<<<<-.............................->
+#=GC SS_cons      :::::<<.<<<<<<<<<<<____........................_>>
+#=GC RF           aaaacgA.AAAaggggcCguuca........................ccG
+
+Daud_1400         UGCGGC--UUCG--AGUUUU
+#=GR Daud_1400 SS >>>>>>..>>>>...-....
+Daud_2102         GCCCCU--UUUU--UCCCUU
+#=GR Daud_2102 SS >>>>>>..>>>>...>....
+Daud_2154         GCCCCU--UUUU--ACUUUC
+#=GR Daud_2154 SS >>>>>>..>>>>...-....
+Daud_2136         ACCUCG--GUCU---UUUUC
+#=GR Daud_2136 SS >>>>>>..>>>>...>....
+Daud_0063         UGCCGG--GUGU--AUUUUG
+#=GR Daud_0063 SS >>>>>>..>>>>...>....
+Daud_0093         CCCCCA--CGGU---UUCUC
+#=GR Daud_0093 SS >>>>>>..>>>>...>....
+Daud_1885         CCCGCG-ACUUC---CCUUU
+#=GR Daud_1885 SS >>>>>>..->>>...>....
+Daud_2223         CCUGGG--UUCC--------
+#=GR Daud_2223 SS >>>>>>..>>>>........
+Daud_1045         UCCGGU--CCGC---UGAGA
+#=GR Daud_1045 SS >>>>>>..>>>>...>....
+Daud_0384         GGAGGU--GUCU---CGUUG
+#=GR Daud_0384 SS >>>>>>..>>>>...>....
+Daud_2007         GCGGGG--UUUU---UCUUG
+#=GR Daud_2007 SS >>>>>>..>>>>...>....
+Daud_1006         GCGCCG--CUCU---UUUUG
+#=GR Daud_1006 SS >>>>>>..>>>>...>....
+Daud_1498         CCUCGA--CAAA--CCCCUU
+#=GR Daud_1498 SS >>>>>>..>>>>...>....
+Daud_1135         GCGCGC--AUUC--GCGUUU
+#=GR Daud_1135 SS >>>>>>..>>>>...-....
+Daud_0760         CCCGCA--GUG---GCGCGU
+#=GR Daud_0760 SS >>>>>..........-....
+Daud_1399         UGCGGC--UUCG---CCGUU
+#=GR Daud_1399 SS >>>>>>..>>>>...-....
+Daud_1477         GGCGCU--UUUU--ACUGUU
+#=GR Daud_1477 SS >>>>>>..>>>....>....
+Daud_1076         CGGGCC--CUCU---UCUGC
+#=GR Daud_1076 SS >>>>>>..>>->...>....
+Daud_1204         GGCGCC--CCUG---CCAUA
+#=GR Daud_1204 SS >>>>>>..>>>>...>....
+Daud_1529         GGGGCG--CCGG---CUUUG
+#=GR Daud_1529 SS >>>>>>..>>>>...>....
+Daud_2084         ACCGGC--AAA---CCGGUG
+#=GR Daud_2084 SS >>>>>..........-....
+Daud_0207         GUCCCC--ACCU--UUUGUG
+#=GR Daud_0207 SS >>>>>>..>>>....>....
+Daud_1229         CCUCCU--GCUU---UUCUG
+#=GR Daud_1229 SS >>>>>>..>>>>...>....
+Daud_2091         GC-CCG--UUCU---UUUUU
+#=GR Daud_2091 SS >>.>>>..>>->...-....
+Daud_1781         AUGGCU--CC----------
+#=GR Daud_1781 SS >>>>>>..>>..........
+Daud_0450         UCCCAC--CUCU---CCACC
+#=GR Daud_0450 SS ->>>>>..>>>>...-....
+Daud_1578         ACACCU--UUUUCCACCUUU
+#=GR Daud_1578 SS >>>>>>..>>>>...-....
+Daud_1262         CCGGGU--GCCG---CUUUG
+#=GR Daud_1262 SS >>>>>>..>>>>...>....
+Daud_2108         CGGGGG--CUUU---UUGUU
+#=GR Daud_2108 SS >>>>>>..>>>>...>....
+Daud_0308         CGGGGG--CUUU--UCAAUG
+#=GR Daud_0308 SS >>>>>>..>>>>...>....
+Daud_2191         AGCUGG--CAA---GCUGUU
+#=GR Daud_2191 SS >>>>>..........>....
+Daud_0779         GCCCUU--CUUU--AAUUUU
+#=GR Daud_0779 SS >>>>>>..>>>>...-....
+Daud_2044         GCGGGU--GGGG---UUUUU
+#=GR Daud_2044 SS >>>>>>..>>>>...>....
+Daud_0054         AGCAGC--UUUU---CAAUA
+#=GR Daud_0054 SS >>>>>>..>>>>...-....
+Daud_1888         GCGGGG--CGCC--GCUCUG
+#=GR Daud_1888 SS >>>>>>..>>>>...-....
+Daud_1295         GCGGGG--UCAG---CGUUU
+#=GR Daud_1295 SS >>>>>>..>>->...-....
+Daud_0896         GGUGGG--AUUU--UUUGUU
+#=GR Daud_0896 SS >>>>>>..>>>....-....
+Daud_2132         CCGGGG--UUUU-AAUCUUU
+#=GR Daud_2132 SS >>>>>>..>>>....-....
+Daud_2142         AAACCU--GCUA---CCCUA
+#=GR Daud_2142 SS >>>>>>..>>>>...-....
+Daud_0152         GGGGCU--CUU---GCCGGC
+#=GR Daud_0152 SS >>>>>..........-....
+Daud_0783         UGGCGU--CAUC--CCUCUC
+#=GR Daud_0783 SS >>>>>>..->>>...>....
+Daud_2222         CCUGGG--UUCC--------
+#=GR Daud_2222 SS >>>>>>..>>>>........
+Daud_2056         UCCCCC--UUUU--GUAAUA
+#=GR Daud_2056 SS >>>>>>..>>>>...-....
+Daud_2121         GCCGGG--GUCG---GCUUU
+#=GR Daud_2121 SS >>>>>>..>>>>...>....
+Daud_1044         ACACCU--UUUU--------
+#=GR Daud_1044 SS >..>>>..>>>>........
+Daud_0898         AGAAGG--GUUU--------
+#=GR Daud_0898 SS >>>>>>..>>>>........
+Daud_1497         GAGGGG--AACU--UUUUUG
+#=GR Daud_1497 SS >>>>>>..>>>....-....
+Daud_1556         CCGGGU--UUUC---UUUUU
+#=GR Daud_1556 SS ->>>>>..>->-...-....
+Daud_0849         ACACCU--UUUU---CGGGA
+#=GR Daud_0849 SS ->>>>>..>>>>...>....
+Daud_1896         GUCCCG-CUUUG---UGUUU
+#=GR Daud_1896 SS >>>>>>..>>>>...>....
+Daud_1144         GGGCCG--GAUU--ACGUGG
+#=GR Daud_1144 SS >>>>>>..>>>>...-....
+Daud_0546         CUGCGA--AGUU---UAUUU
+#=GR Daud_0546 SS >>>>>>..>>>>...>....
+Daud_0386         GGCGGG--CCG--GGCAAGG
+#=GR Daud_0386 SS >>>>>..........-....
+Daud_2147         GCCCCU--UUUU---CGAGG
+#=GR Daud_2147 SS >>>>>>..>>>>...-....
+Daud_1981         AAUUCA--GUA---UCCAGU
+#=GR Daud_1981 SS >>>>>..........-....
+Daud_0354         ACCCCU--UUUU---CGGGG
+#=GR Daud_0354 SS >>>>>>..>>>>...-....
+Daud_1975         GCGACU--UUUG--GGGGUU
+#=GR Daud_1975 SS >->>>>..>>>-...>....
+Daud_0847         GGGUGC--CUUU---CGGUU
+#=GR Daud_0847 SS >>>>>>..>>>>...>....
+Daud_1063         GUCAAG--GUGU---AGCUU
+#=GR Daud_1063 SS >>>>>>..>>>>...-....
+Daud_0557         GGCCCC--U--U---GCUGA
+#=GR Daud_0557 SS >>>>>>..>..>...>....
+Daud_0452         ACACCU--UUUU--ACCUUU
+#=GR Daud_0452 SS >>>>>>..>>>>...>....
+Daud_2050         GCCCCU--UUUU--GGGGGU
+#=GR Daud_2050 SS >>>>>>..>>>>...>....
+Daud_0046         GCGACG--GCAG---GGUGC
+#=GR Daud_0046 SS >>>>>>..>>>>...>....
+Daud_2217         GAGGGU--CUUC-CGCCCUC
+#=GR Daud_2217 SS >>>>>>..>>>-...-....
+Daud_1271         UCCCCA--GCCU--AUUUUA
+#=GR Daud_1271 SS >>>>>..........>....
+Daud_0039         GCCUCC--CAC---ACCAUA
+#=GR Daud_0039 SS >>>>>..........>....
+Daud_0040         GCCUCU--CACU--CACUUU
+#=GR Daud_0040 SS >>>>>>..>>>....>....
+Daud_0493         A---CC--UUGC---CGUUA
+#=GR Daud_0493 SS >...>>..>>>>...>....
+Daud_1576         GUCCGG--CCUG---UUUGA
+#=GR Daud_1576 SS >>>>>>..>>>>...>....
+Daud_1131         GUGGCU--GCCG---CUUUA
+#=GR Daud_1131 SS >>>>>>..>>>-...>....
+Daud_0815         CCCGGU--UUUU---GUUUU
+#=GR Daud_0815 SS >>>>>>..>->>...>....
+Daud_0637         AAAGCU--UAUU---UUUUU
+#=GR Daud_0637 SS >>>>>>..>>>>...>....
+Daud_1887         GGGCGC--CUUU--AGUAUC
+#=GR Daud_1887 SS >>>>>>..>->>...-....
+Daud_1446         GGACCC--UUUC--UGCAUU
+#=GR Daud_1446 SS >>>>>>..>>>-...>....
+Daud_2085         GGCGGC--C----GGCGAAU
+#=GR Daud_2085 SS >>>>>>..>......>....
+Daud_1949         GGCCGG--CUUU--CUCCUC
+#=GR Daud_1949 SS >>>>>>..>>>>...>....
+Daud_2043         AGUGGG--GUUU---CGAGG
+#=GR Daud_2043 SS ->>>>>..>>>>...-....
+Daud_2066         AGGGGG--GAUU--UGUCUG
+#=GR Daud_2066 SS >>>>>>..>>>>...>....
+Daud_0957         GCACCU--AAC---UUAUUA
+#=GR Daud_0957 SS >>>>>..........>....
+Daud_0349         CCCGGC--CAC---GGCCUC
+#=GR Daud_0349 SS >>>>>..........>....
+Daud_0295         GCCGCU--AUUCAAACCUUG
+#=GR Daud_0295 SS >>>>>>..>>>>...-....
+Daud_2001         GUCCCC--GG----------
+#=GR Daud_2001 SS >>>>>>..>>..........
+Daud_0462         GCCCCU--UUUU--ACCUUU
+#=GR Daud_0462 SS >>>>>>..>>>>...-....
+Daud_1941         GGACGG--CGGC--ACCAGU
+#=GR Daud_1941 SS >>>>>>..>>>>...>....
+Daud_1107         GGCACG--CUUG--GCGUUU
+#=GR Daud_1107 SS >>>>>>..>>>>...>....
+Daud_1785         ACCCCU--UUUU---CCUUU
+#=GR Daud_1785 SS >>>>>>..>>>>...>....
+Daud_1392         CCCCGC--UGC---CCGUUU
+#=GR Daud_1392 SS >>>>>..........-....
+Daud_2190         CCGGGU--UAAG---CGUGU
+#=GR Daud_2190 SS >>>>>>..>>>>...>....
+Daud_1933         GGCCGU--CCA---AACUUA
+#=GR Daud_1933 SS >>>>>..........>....
+Daud_0053         AGCAGC--UUUU--UUUAUG
+#=GR Daud_0053 SS >>>>>>..>>>>...>....
+Daud_0548         GCAGCA--UUUU---UCUUU
+#=GR Daud_0548 SS >>>>>-..->>>...-....
+Daud_0076         GCCCUU--CCUU---AGAUU
+#=GR Daud_0076 SS >>>>>>..>>>>...>....
+Daud_0061         CAGCCG--CUGC---AGUUG
+#=GR Daud_0061 SS >>>>>>..>->>...>....
+Daud_1111         GGGAGU--UGAC--AGUUUU
+#=GR Daud_1111 SS >>>>>>..>>>-...>....
+Daud_1537         CCGCCG--GAA---ACCUUA
+#=GR Daud_1537 SS >>>>>..........>....
+Daud_0871         ACACCU--UUUU--GACUUC
+#=GR Daud_0871 SS >>>>>>..>>>>...-....
+Daud_1629         GCCCCU--UUUU--ACUUUC
+#=GR Daud_1629 SS >>>>>>..>>>>...-....
+Daud_2126         GGCUCC--UUUU--UGUUUG
+#=GR Daud_2126 SS >>>>>>..>>>....>....
+Daud_0378         CGUGAU--UAUG---GUCAC
+#=GR Daud_0378 SS >>>>>>..->>>...>....
+Daud_0305         ----GG--CUAU--CUUAUU
+#=GR Daud_0305 SS ....>>..>>>>...>....
+Daud_1528         CCGGCG--UUUU--GGCUUG
+#=GR Daud_1528 SS >>>>>>..>>>....-....
+Daud_0875         ACACCU--UUUC---AUUGG
+#=GR Daud_0875 SS >>>>>>..-->-...-....
+Daud_1068         UUCCCU--UUUU---CCAGU
+#=GR Daud_1068 SS >>>>>>..>->>...>....
+Daud_0846         GGGUGC--CUUU---CAGGC
+#=GR Daud_0846 SS >>>>>>..>>>>...>....
+Daud_1570         CCCCGC--CUUC---CUAUA
+#=GR Daud_1570 SS >>>>>>..>>>>...-....
+Daud_0649         UCCCCU--UUUC--UCGAUC
+#=GR Daud_0649 SS >>>>>>..>>>>...-....
+Daud_1754         UCCCCU--UUG---GGCCUU
+#=GR Daud_1754 SS >>>>>..........>....
+Daud_1058         GGAAGA--CCCU--UCAAGC
+#=GR Daud_1058 SS >>>>>-..>>>>...-....
+Daud_1841         GCCCCU--UUUU--ACCUUC
+#=GR Daud_1841 SS >>>>>>..>>>>...-....
+Daud_1567         GCGUGG--UUUU---UCUGG
+#=GR Daud_1567 SS >>>>>>..>>>>...-....
+Daud_1322         GGGCGG--CCGU---CUUUU
+#=GR Daud_1322 SS >>>>>>..>>>>...>....
+Daud_0016         CCUGCU--UUUU---CGGUC
+#=GR Daud_0016 SS >>>>>>..>->>...-....
+Daud_1525         GGGAAA--CAAU-GGCUUUU
+#=GR Daud_1525 SS >>>............>....
+Daud_0776         GCCCGU--GAAC--------
+#=GR Daud_0776 SS ->>>>>..>>>>........
+Daud_0471         GCACCU--UUUU--GGGGUG
+#=GR Daud_0471 SS >>>>>>..>>>>...-....
+Daud_0219         UAAGGG--GAUA--AAUAUG
+#=GR Daud_0219 SS >>>>>>..>>>>...>....
+Daud_1478         GCGGCC-UUAUU--AUUUUG
+#=GR Daud_1478 SS >>>>>>..->>....>....
+Daud_0129         GUGCCU--CAA---ACUUUG
+#=GR Daud_0129 SS >>>>>..........-....
+Daud_0178         CCGAGG--UCA---UCAAUA
+#=GR Daud_0178 SS >>>>>..........>....
+Daud_0255         GCCCCU--UUUU--ACUUUU
+#=GR Daud_0255 SS >>>>>>..>>>>...-....
+Daud_0331         AGGGGG--G--U---AUUUU
+#=GR Daud_0331 SS >>>>>>..>..>...>....
+Daud_2098         GCCCCU--UUUU--UCUCUU
+#=GR Daud_2098 SS >>>>>>..>>>>...-....
+Daud_0083         GAGGCU--UACU--UGGUUU
+#=GR Daud_0083 SS >->>>>..>>>....>....
+Daud_2156         UCUGCU--AUCU--GCUUGA
+#=GR Daud_2156 SS >>>>>>..>>-....>....
+Daud_1666         UCCCCU--UUGG--GCCUUA
+#=GR Daud_1666 SS >>>>>>..>>->...-....
+Daud_1577         GCCCGG--CCUG---CGCGU
+#=GR Daud_1577 SS >->>>>..>>>>...-....
+Daud_2009         GUCCGU--UUUU---GUAUA
+#=GR Daud_2009 SS >>>>>>..>>>>...>....
+Daud_1669         UCCCCU--UUGG---ACUUA
+#=GR Daud_1669 SS >>>>>>..>>->...-....
+Daud_0627         AGCCGU--UUUU---CAUUU
+#=GR Daud_0627 SS >>>>>>..>>>>...-....
+Daud_2199         CGGCCU--CUUU---CCCUG
+#=GR Daud_2199 SS >>>>>>..>>>>...>....
+Daud_1955         GGGGAA--GCC---UUGUUG
+#=GR Daud_1955 SS >>>>>..........>....
+Daud_1771         CCGGCC--CAC--CGCCUUG
+#=GR Daud_1771 SS >>>>>..........>....
+Daud_1936         CGGCCG--CUGG---CCGGC
+#=GR Daud_1936 SS >>>>>>..>>>>...-....
+Daud_1122         GGUGGC--UUUU---CUGUU
+#=GR Daud_1122 SS >>>>>>..>>>>...>....
+Daud_0876         AAUUCC--GUAU--UCUGUC
+#=GR Daud_0876 SS >>>>>-..>->....>....
+Daud_1473         GCCCCU--UUUU---UUAGG
+#=GR Daud_1473 SS >>>>>>..>>>>...>....
+Daud_0282         CCGA-------U---CCAUC
+#=GR Daud_0282 SS >>>>.......>...-....
+Daud_0465         GCGGGC--C-----------
+#=GR Daud_0465 SS >>>>>>..>...........
+Daud_1539         AUAAGU--UUAU--GCCUGC
+#=GR Daud_1539 SS >->>>>..>>>>...-....
+Daud_0789         CCCCCG--C-----GGCGCC
+#=GR Daud_0789 SS >>>>>>..>......-....
+Daud_0290         UGGGCU--UUU---UGUUUU
+#=GR Daud_0290 SS >>>>>..........>....
+Daud_1707         GCCGGC--AAA---CCCGGG
+#=GR Daud_1707 SS >>>>>..........>....
+Daud_1572         GCGGGA--CAA---GCUCCC
+#=GR Daud_1572 SS >>>>>..........-....
+Daud_1837         GCGCCC--GAC---CCGCUA
+#=GR Daud_1837 SS >>>>>..........-....
+Daud_0921         A-GGCG--UUUG---CAUUU
+#=GR Daud_0921 SS >.>>>>..>>>>...-....
+Daud_1270         UCCCCC--GUUU---CAGUC
+#=GR Daud_1270 SS >>>>>-..>>>>...-....
+Daud_0559         GAUGGUUUCAGG---GCUUA
+#=GR Daud_0559 SS >>>>>>..>>>>...>....
+Daud_2027         UGGCCG--CAA---GGUUUC
+#=GR Daud_2027 SS >>>>>..........>....
+Daud_1163         CGUCCU--UUUU---UGUGC
+#=GR Daud_1163 SS >>>>>>..>>>>...>....
+Daud_1667         CUCCCC--GUUC---CAAUC
+#=GR Daud_1667 SS >>>>>>..>->-...-....
+Daud_0073         GCCAUU--UUUU---UUUGC
+#=GR Daud_0073 SS >>>>>>..->>>...>....
+Daud_1106         GGCACA--CCUG---CGUUA
+#=GR Daud_1106 SS >>>>>-..>->>...-....
+Daud_1034         ----GU--UUUU---CGUUU
+#=GR Daud_1034 SS ....>>..>>>>...>....
+Daud_1051         CUCUGG--AUAU---AAUUC
+#=GR Daud_1051 SS >>>>>>..>>>>...-....
+Daud_1178         CCGGGG--CUUU--UCGGUU
+#=GR Daud_1178 SS >>>>>>..>>>>...-....
+Daud_0897         AGAAGG--GUUU---CUAUU
+#=GR Daud_0897 SS >>>>>>..>>>>...>....
+#=GC SS_cons      >>>>>>..>>>>...>::::
+#=GC RF           gccccu..UUUU...cuUUu
+//

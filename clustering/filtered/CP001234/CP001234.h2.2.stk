@@ -1,0 +1,854 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS VCM66_A0614 WT 1.61
+#=GS VCM66_A0946 WT 1.19
+#=GS VCM66_A0164 WT 1.45
+#=GS VCM66_A0983 WT 1.49
+#=GS VCM66_A0134 WT 1.72
+#=GS VCM66_A0945 WT 1.16
+#=GS VCM66_A0935 WT 1.84
+#=GS VCM66_A0761 WT 1.02
+#=GS VCM66_A0344 WT 0.04
+#=GS VCM66_A0203 WT 1.82
+#=GS VCM66_A0999 WT 0.74
+#=GS VCM66_A0194 WT 1.56
+#=GS VCM66_A0703 WT 0.96
+#=GS VCM66_A0025 WT 1.40
+#=GS VCM66_A0431 WT 0.05
+#=GS VCM66_A0208 WT 1.21
+#=GS VCM66_A0862 WT 0.99
+#=GS VCM66_A0613 WT 1.61
+#=GS VCM66_A1000 WT 0.74
+#=GS VCM66_A0270 WT 1.37
+#=GS VCM66_A0760 WT 1.02
+#=GS VCM66_A0055 WT 0.82
+#=GS VCM66_A0978 WT 1.27
+#=GS VCM66_A0148 WT 1.21
+#=GS VCM66_A0732 WT 1.36
+#=GS VCM66_A0881 WT 1.43
+#=GS VCM66_A0041 WT 1.43
+#=GS VCM66_A0323 WT 0.02
+#=GS VCM66_A1070 WT 1.16
+#=GS VCM66_A0944 WT 1.16
+#=GS VCM66_A0702 WT 0.96
+#=GS VCM66_A0573 WT 1.13
+#=GS VCM66_A0376 WT 0.05
+#=GS VCM66_A0523 WT 1.67
+#=GS VCM66_A0456 WT 0.05
+#=GS VCM66_A0006 WT 1.44
+#=GS VCM66_A0700 WT 1.83
+#=GS VCM66_A0767 WT 1.21
+#=GS VCM66_A0410 WT 0.05
+#=GS VCM66_A0056 WT 0.82
+#=GS VCM66_A0861 WT 0.99
+#=GS VCM66_A0912 WT 1.40
+#=GS VCM66_A0086 WT 1.53
+#=GS VCM66_A0534 WT 1.30
+#=GS VCM66_A0623 WT 1.25
+#=GS VCM66_A1017 WT 1.66
+#=GS VCM66_A0917 WT 1.57
+#=GS VCM66_A0447 WT 0.19
+#=GS VCM66_A0026 WT 1.59
+#=GS VCM66_A1041 WT 1.43
+#=GS VCM66_A0509 WT 1.49
+#=GS VCM66_A0733 WT 1.36
+#=GS VCM66_A0388 WT 0.04
+#=GS VCM66_A0275 WT 1.15
+#=GS VCM66_A0306 WT 0.09
+#=GS VCM66_A0237 WT 1.49
+#=GS VCM66_A0276 WT 1.48
+#=GS VCM66_A0859 WT 1.50
+#=GS VCM66_A0403 WT 0.18
+#=GS VCM66_A0437 WT 0.52
+#=GS VCM66_A0356 WT 0.09
+#=GS VCM66_A0139 WT 1.54
+#=GS VCM66_A0986 WT 1.44
+#=GS VCM66_A0279 WT 1.67
+#=GS VCM66_A0993 WT 1.02
+#=GS VCM66_A0201 WT 1.13
+#=GS VCM66_A0266 WT 1.84
+#=GS VCM66_A0302 WT 0.05
+#=GS VCM66_A0646 WT 1.37
+#=GS VCM66_A0296 WT 0.08
+#=GS VCM66_A0330 WT 0.26
+#=GS VCM66_A0289 WT 1.15
+#=GS VCM66_A0824 WT 2.43
+#=GS VCM66_A0979 WT 1.27
+#=GS VCM66_A0193 WT 1.13
+#=GS VCM66_A0159 WT 1.50
+#=GS VCM66_A0232 WT 1.49
+#=GS VCM66_A0249 WT 1.91
+#=GS VCM66_A0675 WT 0.94
+#=GS VCM66_A0381 WT 0.08
+#=GS VCM66_A0764 WT 1.32
+#=GS VCM66_A0198 WT 0.35
+#=GS VCM66_A0533 WT 1.30
+#=GS VCM66_A0209 WT 1.59
+#=GS VCM66_A0487 WT 1.24
+#=GS VCM66_A0340 WT 0.10
+#=GS VCM66_A0908 WT 1.53
+#=GS VCM66_A0453 WT 0.35
+#=GS VCM66_A0610 WT 1.45
+#=GS VCM66_A0710 WT 1.25
+#=GS VCM66_A0173 WT 2.04
+#=GS VCM66_A0406 WT 2.08
+#=GS VCM66_A0819 WT 1.65
+#=GS VCM66_A0883 WT 1.30
+#=GS VCM66_A0077 WT 1.08
+#=GS VCM66_A0880 WT 0.99
+#=GS VCM66_A0506 WT 1.56
+#=GS VCM66_A0389 WT 0.20
+#=GS VCM66_A0620 WT 1.10
+#=GS VCM66_A0627 WT 1.89
+#=GS VCM66_A0307 WT 0.24
+#=GS VCM66_A0305 WT 0.11
+#=GS VCM66_A0888 WT 1.44
+#=GS VCM66_A0024 WT 1.40
+#=GS VCM66_A0508 WT 1.43
+#=GS VCM66_A0292 WT 0.22
+#=GS VCM66_A0402 WT 0.02
+#=GS VCM66_A0948 WT 0.45
+#=GS VCM66_A1018 WT 1.66
+#=GS VCM66_A0464 WT 0.11
+#=GS VCM66_A0486 WT 1.24
+#=GS VCM66_A0197 WT 0.74
+#=GS VCM66_A0290 WT 1.65
+#=GS VCM66_A0781 WT 1.59
+#=GS VCM66_A0425 WT 0.10
+#=GS VCM66_A0793 WT 1.44
+#=GS VCM66_A0956 WT 0.74
+#=GS VCM66_A0461 WT 0.05
+#=GS VCM66_A0884 WT 1.30
+#=GS VCM66_A0959 WT 1.61
+#=GS VCM66_A0619 WT 1.10
+#=GS VCM66_A0182 WT 1.96
+#=GS VCM66_A1069 WT 1.08
+#=GS VCM66_A0065 WT 1.39
+#=GS VCM66_A0624 WT 1.25
+#=GS VCM66_A0949 WT 0.45
+#=GS VCM66_A0423 WT 0.19
+#=GS VCM66_A0942 WT 1.19
+#=GS VCM66_A0432 WT 0.43
+#=GS VCM66_A0629 WT 1.94
+#=GS VCM66_A0333 WT 0.12
+#=GS VCM66_A0957 WT 0.74
+#=GS VCM66_A0532 WT 1.72
+#=GS VCM66_A0445 WT 0.20
+#=GS VCM66_A0938 WT 1.52
+#=GS VCM66_A0658 WT 1.33
+#=GS VCM66_A0361 WT 0.20
+#=GS VCM66_A0394 WT 0.07
+#=GS VCM66_A0415 WT 0.22
+#=GS VCM66_A0780 WT 1.02
+#=GS VCM66_A0488 WT 1.53
+#=GS VCM66_A0291 WT 0.07
+#=GS VCM66_A0615 WT 1.56
+#=GS VCM66_A0499 WT 1.43
+#=GS VCM66_A0603 WT 1.25
+#=GS VCM66_A0822 WT 1.56
+#=GS VCM66_A0365 WT 0.20
+#=GS VCM66_A0674 WT 0.94
+#=GS VCM66_A0435 WT 0.35
+#=GS VCM66_A0007 WT 1.60
+#=GS VCM66_A0301 WT 0.27
+#=GS VCM66_A0390 WT 0.10
+#=GS VCM66_A0295 WT 0.10
+#=GS VCM66_A0510 WT 1.49
+#=GS VCM66_A0855 WT 1.48
+#=GS VCM66_A0826 WT 1.35
+#=GS VCM66_A0322 WT 0.28
+#=GS VCM66_A0903 WT 1.45
+#=GS VCM66_A0370 WT 0.14
+#=GS VCM66_A0765 WT 1.32
+#=GS VCM66_A0043 WT 1.06
+#=GS VCM66_A0379 WT 0.04
+#=GS VCM66_A0528 WT 1.06
+#=GS VCM66_A0424 WT 0.04
+#=GS VCM66_A0401 WT 0.26
+#=GS VCM66_A0418 WT 1.15
+#=GS VCM66_A0455 WT 0.28
+#=GS VCM66_A0372 WT 0.26
+#=GS VCM66_A0022 WT 1.59
+#=GS VCM66_A0350 WT 0.10
+#=GS VCM66_A0645 WT 1.84
+#=GS VCM66_A0994 WT 1.10
+#=GS VCM66_A0557 WT 1.73
+#=GS VCM66_A0535 WT 0.80
+#=GS VCM66_A0970 WT 1.69
+#=GS VCM66_A0369 WT 0.28
+#=GS VCM66_A0336 WT 0.71
+#=GS VCM66_A0900 WT 1.43
+#=GS VCM66_A0458 WT 0.04
+#=GS VCM66_A0441 WT 0.02
+#=GS VCM66_A0602 WT 1.25
+#=GS VCM66_A0794 WT 1.13
+#=GS VCM66_A0851 WT 1.02
+#=GS VCM66_A0010 WT 0.99
+#=GS VCM66_A0420 WT 0.04
+#=GS VCM66_A0639 WT 1.38
+#=GS VCM66_A0850 WT 1.64
+#=GS VCM66_A0319 WT 0.29
+#=GS VCM66_A0407 WT 0.17
+#=GS VCM66_A0446 WT 0.04
+#=GS VCM66_A0440 WT 0.76
+#=GS VCM66_A0438 WT 0.41
+#=GS VCM66_A0650 WT 1.25
+#=GS VCM66_A0142 WT 1.79
+#=GS VCM66_A0246 WT 1.84
+#=GS VCM66_A0355 WT 0.16
+#=GS VCM66_A0345 WT 0.43
+#=GS VCM66_A0118 WT 1.78
+#=GS VCM66_A0233 WT 1.49
+#=GS VCM66_A0574 WT 1.20
+#=GS VCM66_A1035 WT 2.20
+#=GS VCM66_A0378 WT 1.33
+#=GS VCM66_A0393 WT 0.05
+#=GS VCM66_A0346 WT 0.04
+#=GS VCM66_A0321 WT 0.04
+#=GS VCM66_A0554 WT 2.04
+#=GS VCM66_A0451 WT 0.20
+#=GS VCM66_A0347 WT 0.16
+#=GS VCM66_A0011 WT 0.80
+#=GS VCM66_A0789 WT 1.44
+
+VCM66_A0614  AC--UCU------UCG--------C---AU--------------------
+VCM66_A0946  AG--GCA------UAC--------C-------------------------
+VCM66_A0164  AU--UC-------UAA----------------------------------
+VCM66_A0983  AA--GC-------UAA-------U--------------------------
+VCM66_A0134  AG-----------UCA-------G--------------------------
+VCM66_A0945  AG--GG--------AA-------U--------------------------
+VCM66_A0935  AC--GUAA----AUAAGCC-UCCU------CUCUCU--------------
+VCM66_A0761  AU-----------UAA------------CUG-------------------
+VCM66_A0344  AG---C-------UAACA---AAC-G-CCU--------------------
+VCM66_A0203  AG--ACGCCUUAUUGA--------C---CU--------------------
+VCM66_A0999  AU--GCA-----CUAA------------GU--------------------
+VCM66_A0194  AG------------AA-------A--------------------------
+VCM66_A0703  A------------UAA--------C-------------------------
+VCM66_A0025  AU--ACA-------AA-------A--------------------------
+VCM66_A0431  AG--CUA------UAACA---AAC-G-CCU--------------------
+VCM66_A0208  A------------UAA----------------------------------
+VCM66_A0862  AA--UCGA----AUAA----------------------------------
+VCM66_A0613  AG--AUA------UGC--------C--GCU--------------------
+VCM66_A1000  AU-----------UAA------------GU--------------------
+VCM66_A0270  AG--GCA------UAA----------------------------------
+VCM66_A0760  AC--UC-------UCA--------C--UCU--------------------
+VCM66_A0055  AG-----------UAA--------C---CUCGUUAUUUUGGUUACCGUUC
+VCM66_A0978  AA--GCA------UAA----------------------------------
+VCM66_A0148  AU-UGUU------UCA-------A--------------------------
+VCM66_A0732  AU--GCGC----AUAA-------GC-------------------------
+VCM66_A0881  -C--GCU------UAA-------G--------------------------
+VCM66_A0041  AG--GCG------UAA--------CA-AAUU-------------------
+VCM66_A0323  AU--ACAG----CUAACA---AAC-G-CCU--------------------
+VCM66_A1070  AG--UC--------AA------------CU--------------------
+VCM66_A0944  AG-UACGC----AUAAAAA--AUA------CUUUUCCAAGC---------
+VCM66_A0702  AG-UUC-------UCC------------CU--------------------
+VCM66_A0573  AG--CUA------UACC-----AAC--CCU--------------------
+VCM66_A0376  AA--ACAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0523  A------------UAAAA----UC--------------------------
+VCM66_A0456  AA--ACA------UAACA---AAC-G-CCU--------------------
+VCM66_A0006  AA--UCG-----UUAU--------C-------------------------
+VCM66_A0700  AG--GCA-------AAAA----AGC---CU--------------------
+VCM66_A0767  A------------UAA----------------------------------
+VCM66_A0410  AA--ACA------UAACA---AAC-G-CCU--------------------
+VCM66_A0056  A------------UAA----------------------------------
+VCM66_A0861  AG---CG------UGAC-----AG---CAU--------------------
+VCM66_A0912  AG--GC-------UAAA-----AU--------------------------
+VCM66_A0086  AU--GUGA---CGUAA----------------------------------
+VCM66_A0534  AG-----------UAG------------AU--------------------
+VCM66_A0623  A------------UGACG----GAC-------------------------
+VCM66_A1017  A------------UAA--------C--C----------------------
+VCM66_A0917  AU-CGUA------UGA----------------------------------
+VCM66_A0447  AC--ACAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0026  AG--ACG------UAA--------C--GAUU-------------------
+VCM66_A1041  AG--ACG-------AAC------C---CCU--------------------
+VCM66_A0509  -G--GCAC----AUAA------------UU--------------------
+VCM66_A0733  AG-----------UGA--------C--U--GU------------------
+VCM66_A0388  AG-CGCACAAACCUAACA---AAC-G-CCU--------------------
+VCM66_A0275  AU--CCGU----UUAA--------C-------------------------
+VCM66_A0306  AA--AUAC----CUAACA---AAC-G-CCU--------------------
+VCM66_A0237  AA--GCUC----CUGA----------------------------------
+VCM66_A0276  AG--AC-------UAAA------C--------------------------
+VCM66_A0859  -G-----------UAA------------CU--------------------
+VCM66_A0403  AA--AUAC----CUAACA---AAC-G-CCU--------------------
+VCM66_A0437  AA--ACA------UAACA----AACG-CU---------------------
+VCM66_A0356  AA--AUAC----CUAACA---AAC-G-CCU--------------------
+VCM66_A0139  A-------------AA----------------------------------
+VCM66_A0986  A------------UAAU------U--------------------------
+VCM66_A0279  AG-----------UAA--------C--GCU--------------------
+VCM66_A0993  AG--UCG------UAA----------------------------------
+VCM66_A0201  A------------UAG-------CC-------------------------
+VCM66_A0266  AU--UC-------UCA------------CU--------------------
+VCM66_A0302  A------------UAACA---AAC-G-CCU--------------------
+VCM66_A0646  AA--GCU------UAA----------------------------------
+VCM66_A0296  AU-UGCC------UAACA---AAC-G-CCU--------------------
+VCM66_A0330  AA--GCACCGCUAUAACA---AAC-G-CCU--------------------
+VCM66_A0289  AU-----------UAA----------------------------------
+VCM66_A0824  -G--CCAC----CUAC------------CU--------------------
+VCM66_A0979  AG--UCU------UAGG-----UA--------------------------
+VCM66_A0193  AU-----------UAA--------C-------------------------
+VCM66_A0159  A-------------AA-------GC---CU--------------------
+VCM66_A0232  AC--UCAU----CUCA------------AU--------------------
+VCM66_A0249  AU-UGCU------UCA-------GC-------------------------
+VCM66_A0675  AU--UU-------UAA------------AU--------------------
+VCM66_A0381  AU-UGCC------UAACA---AAC-G-CCU--------------------
+VCM66_A0764  AG--UCUC---CAUCA----------------------------------
+VCM66_A0198  AU-----------UAA----------------------------------
+VCM66_A0533  AC--GC-------UAA------------AU--------------------
+VCM66_A0209  AG--CC-------UAAGUU-CUUU--------------------------
+VCM66_A0487  -C--GCGC----AUAA--------C-------------------------
+VCM66_A0340  AG--UCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0908  AG--AC--------AA--------C-------------------------
+VCM66_A0453  AU-----------UAA----------------------------------
+VCM66_A0610  AG--GCAAA-AGAUAA------------CU--------------------
+VCM66_A0710  A------------UAA--------C-------------------------
+VCM66_A0173  AG--ACG------UCA-------U--------------------------
+VCM66_A0406  AG--GU-------UAA----------------------------------
+VCM66_A0819  AG--CCA-----CUCC----------------------------------
+VCM66_A0883  AG--CCA-------AAA-----UG--------------------------
+VCM66_A0077  A------------UGA------------GU--------------------
+VCM66_A0880  A-------------AA-------GC-------------------------
+VCM66_A0506  AG---CG------UAA------------AU--------------------
+VCM66_A0389  AG--GCGG----CUAACA---AAC-G-CCU--------------------
+VCM66_A0620  AG-CAUA------UGAG------A------C-------------------
+VCM66_A0627  AA--CCGG----CUAAC-----GC----GU--------------------
+VCM66_A0307  AU-UGCGC---CAUAACA---AAC-G-CCU--------------------
+VCM66_A0305  AA--CCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0888  A------------UAAA-----AA--------------------------
+VCM66_A0024  AG-AGCG-----AUAA----------------------------------
+VCM66_A0508  AU-----------UAA-------G----AU--------------------
+VCM66_A0292  AG-CGCC-----AUAACA---AAC-G-CCU--------------------
+VCM66_A0402  A------------UAACA---AAC-G-CCU--------------------
+VCM66_A0948  AU--GUG------UAA----------------------------------
+VCM66_A1018  AG------------AA----------------------------------
+VCM66_A0464  AA--CCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0486  AG--GCG------UAAAUCACAGG------CCUUU---------------
+VCM66_A0197  A------------UAA----------------------------------
+VCM66_A0290  AG------------AA----------------------------------
+VCM66_A0781  AG---CA-----AUAA----------------------------------
+VCM66_A0425  AG--UCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0793  -C--GC-------UAAC-----UC--------------------------
+VCM66_A0956  AU--CCGCA-CUGUAA-------AC---CU--------------------
+VCM66_A0461  AC--GCAG----CUAACA---AAC-G-CCU--------------------
+VCM66_A0884  AA--GUG-----AUAA----------------------------------
+VCM66_A0959  A------------UAUC------G--------------------------
+VCM66_A0619  AC--GU-------UGA-------AC-------------------------
+VCM66_A0182  AG-CACU------UAC--------C-------------------------
+VCM66_A1069  AG--CCCC----CUAAAA----CG--------------------------
+VCM66_A0065  A------------UGA--------C---AU--------------------
+VCM66_A0624  AG--UUGC----UUAU-------ACG-ACU--------------------
+VCM66_A0949  AU-----------UAA----------------------------------
+VCM66_A0423  AA--ACAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0942  AG-----------UAC--------C-------------------------
+VCM66_A0432  -G--GCUU----AUAACA---AAC-G-CCU--------------------
+VCM66_A0629  AU-----------UAA------------AU--------------------
+VCM66_A0333  AC-CGCAA---CAUAACA---AAC-G-CCU--------------------
+VCM66_A0957  A------------UAA----------------------------------
+VCM66_A0532  AG-CUCAA----CUAAUA---CUU--------------------------
+VCM66_A0445  AU--UCAU----AUAACA---AAC-G-CCU--------------------
+VCM66_A0938  AGCAACA-------A-----------------------------------
+VCM66_A0658  AG--GCG------UAA--------C--U--GU------------------
+VCM66_A0361  AU-GGC-------UAACA---AAC-G-CCU--------------------
+VCM66_A0394  AC--GUAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0415  AU--GCAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0780  -G--UC-------UAA----------------------------------
+VCM66_A0488  AG--GC-------UCG--------C-------------------------
+VCM66_A0291  AC--GUAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0615  AA--AC-------UGA----------------------------------
+VCM66_A0499  AA--CCA-------AAA------GC-------------------------
+VCM66_A0603  AC-GGCA------UAG------------UU--------------------
+VCM66_A0822  AG--GUU------UAAG------G----AU--------------------
+VCM66_A0365  AA--ACGG----CUAACA---AAC-G-CCU--------------------
+VCM66_A0674  AG--UCU------UAA------------UU--------------------
+VCM66_A0435  AGUGGCUC----AUAACAA--ACG---CCU--------------------
+VCM66_A0007  AU--GC-------UGA--------C-----C-------------------
+VCM66_A0301  AA--UU-------UAACA---AAC-G-CCU--------------------
+VCM66_A0390  AC--GCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0295  AC--GCGC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0510  AG--UU--------AA----------------------------------
+VCM66_A0855  AG-AACA------UCA----------------------------------
+VCM66_A0826  AG-UUC-------UAAC-----GC---CCUAU------------------
+VCM66_A0322  AC--UUU------UAACA---AAC-G-CCU--------------------
+VCM66_A0903  A------------UAA----------------------------------
+VCM66_A0370  AU--ACAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0765  AG------------AAA-----AA--------------------------
+VCM66_A0043  AG--CC--------AA--------C-------------------------
+VCM66_A0379  AG-AGC-------UAACA---AAC-G-CCU--------------------
+VCM66_A0528  A-------------AA-------CC-------------------------
+VCM66_A0424  AG-AGC-------UAACA---AAC-G-CCU--------------------
+VCM66_A0401  AC--GUAC----AUAACA----AACG-CU---------------------
+VCM66_A0418  AC--UUGC----CUAACA----AA--------------------------
+VCM66_A0455  AA--AC-------UAACAA--ACG---CCU--------------------
+VCM66_A0372  AC--GUAC----AUAACA----AACG-CU---------------------
+VCM66_A0022  AC--GUG-------AAAC----CA--------------------------
+VCM66_A0350  AG--UUACA--CAUAACA---AAC-G-CCU--------------------
+VCM66_A0645  AA--GUAC---AGUAA----------------------------------
+VCM66_A0994  AA--GCG-------AA--------C-------------------------
+VCM66_A0557  A------------UAA--------C--U--G-------------------
+VCM66_A0535  A------------UAA--------C-------------------------
+VCM66_A0970  AG------------CA----------------------------------
+VCM66_A0369  AA--GCAA---AAUAACAA--ACG---CCU--------------------
+VCM66_A0336  AG--CU-------UAACA----AACG-CU---------------------
+VCM66_A0900  AG--AC--------AAC------C---GCUC-------------------
+VCM66_A0458  AC--GCAU----AUAACA---AAC-G-CCU--------------------
+VCM66_A0441  A------------UAACA---AAC-G-CCU--------------------
+VCM66_A0602  AC--ACA-------GA-------A--------------------------
+VCM66_A0794  AA--GU-------UAA--------C---AU--------------------
+VCM66_A0851  AG-----------UAA----------------------------------
+VCM66_A0010  AG--GCA-------AA-------GC---AU--------------------
+VCM66_A0420  AU--GCA------UAACA---AAC-G-CCU--------------------
+VCM66_A0639  AUGGGCA------UAA----------------------------------
+VCM66_A0850  AU--GUG-------AA------------CU--------------------
+VCM66_A0319  -U--GUGC----CUAACA---AAC-G-CCU--------------------
+VCM66_A0407  AU--GCC------UAACA---AAC-G-CCU--------------------
+VCM66_A0446  AU--GCA------UAACA---AAC-G-CCU--------------------
+VCM66_A0440  AGCGGCA-------CAACA-AACG---CCU--------------------
+VCM66_A0438  AC--GCAU----AUAACAA--ACG---CCU--------------------
+VCM66_A0650  AU-UGC-------UCA-------U----AU--------------------
+VCM66_A0142  -G--GCG-------AAC------G--------------------------
+VCM66_A0246  AU--GCU-----GUAAC-----AC--------------------------
+VCM66_A0355  -G--CCAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0345  -G--GCUU----AUAACA----AACG-GCU--------------------
+VCM66_A0118  AU-----------UAAUA----GG----UU--------------------
+VCM66_A0233  A------------UAA--------CAGAAU--------------------
+VCM66_A0574  AC--GUG-------AAU------A--------------------------
+VCM66_A1035  AC--UCA-------AA--------C--AAU--------------------
+VCM66_A0378  AA--CC-------UAA--------C--AAUCU------------------
+VCM66_A0393  AC--GCAG----CUAACA---AAC-G-CCU--------------------
+VCM66_A0346  AC--GCAU----AUAACA---AAC-G-CCU--------------------
+VCM66_A0321  AC--GCAU----AUAACA---AAC-G-CCU--------------------
+VCM66_A0554  AG-CGCGCC--AAUGAA-----AA--------------------------
+VCM66_A0451  AA--ACGG----CUAACA---AAC-G-CCU--------------------
+VCM66_A0347  -G--CCAC----AUAACA---AAC-G-CCU--------------------
+VCM66_A0011  AU-----------UGA--------C---CUG-------------------
+VCM66_A0789  A------------UGAA------A----AUGG------------------
+#=GC SS_cons ::..:::......:::........:...::....................
+#=GC RF      AG..gCa......UAA........C...cU....................
+
+VCM66_A0614  ----------------A---------GUGGGAUAU--AUCUC-UCU----
+VCM66_A0946  ------------AA-ACCUA----CUUGAAGAGAG--GCAGAGUUUUU--
+VCM66_A0164  -----------------------------AAGGGG--CGUGGUGAAA---
+VCM66_A0983  ------------AA---------------AAACGC--CCCGA-UAU----
+VCM66_A0134  ---------------------------CGAAUAAG--CGAGGGACA----
+VCM66_A0945  ----------------U---------UUGAGAAGG--GGCGC-AA-----
+VCM66_A0935  ----UUACCCAUAGUA------------UGAACAC--AAC---AAU----
+VCM66_A0761  ---------GAAAAUA------------AAGAAGG--CGACC-AAU----
+VCM66_A0344  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0203  ----------------A----------CAUCAAGC--CAAGCCUUU----
+VCM66_A0999  ---------------A------------AACAAAG--AGAGA-UUU----
+VCM66_A0194  ----------------GUU------UGUAAAAAGG--GAGUC-AUU----
+VCM66_A0703  ----------------------------AAUAAUG--CCCGGGUUAA---
+VCM66_A0025  ----------------C----------UAAACGAG--GCC---UCA----
+VCM66_A0431  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0208  ------------AA---------------ACACCG--CCC---AUA----
+VCM66_A0862  ----------------------------AAAAAUG--ACACC-CCAUUA-
+VCM66_A0613  ----------UCAA--GUUG----CAAGGGGAUAU--AUCUC-AGA----
+VCM66_A1000  ---------------A------------AACAAAG--AGAGA-UAA----
+VCM66_A0270  ------------AAAA-----------U-----GG--CGUCC-AAG----
+VCM66_A0760  ----------UUAAUA------------AAGAAGG--CGACC-AUU----
+VCM66_A0055  GUGGUAUGAGAGAAAA-------------AAAGAG--CCAGC-AAA----
+VCM66_A0978  -----------------------------AGGGGG--AAUCGUGUUA---
+VCM66_A0148  ------------AA--UA--------GAAAGGCCG--CCUGU-AUA----
+VCM66_A0732  -----------------------------AAACGC--CCAUC-AAUC---
+VCM66_A0881  ---------------------------CAAAAGAG---GAGC-UCAAU--
+VCM66_A0041  ---------GGGAUUA------------AAAACCC--CGAGCCACGAUCA
+VCM66_A0323  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A1070  ----------CAAAUA-------------ACAAAG--CCCGC-UGA----
+VCM66_A0944  CGAUAAUUUGGGAAAA------------GAGAAGG--GGCGC-UU-----
+VCM66_A0702  -----------GAAAA------------AAUAAUG--CCCGGUUUAA---
+VCM66_A0573  -----------GAAAAG----------C-AAUCAG--CCCUC-AAAU---
+VCM66_A0376  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0523  ----------------GACG---CCGUUAAGAAGC---CAGC-AUAA---
+VCM66_A0456  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0006  ----------------U----------UAAAAAGC--CGAGC-GAA----
+VCM66_A0700  -----------A----AUGA----UUCCAGA---C--CCACC-GCA----
+VCM66_A0767  ---------------AU----------CAACAAGG--AGAGCCUAUU---
+VCM66_A0410  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0056  ---------------AU----------UGAAAGAG--CCAGC-AUU----
+VCM66_A0861  ---------------A------------AAAAAUG--ACACC-CCAUAA-
+VCM66_A0912  ----------------UCG-----CCCCAAUAAGG---CAGUUCCA----
+VCM66_A0086  ------------AAAA--------------AUCGC--CCCAC-ACAU---
+VCM66_A0534  -----------CAA-A------------AAAAGUG--ACAGAGGAUCCUU
+VCM66_A0623  ----------------AU--------UCAAAAGGG--CGUG--AAA----
+VCM66_A1017  ------------A---A----------CAGCCCUG--AUGAA-UCU----
+VCM66_A0917  -----------------------------AAAAGC--CAAGAGUCAGU--
+VCM66_A0447  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0026  ---------CUCAACAGA-------UAAGAGAGGC--UCUGC-AUA----
+VCM66_A1041  -----------CAU-ACGGUUGAGCGAUGAAAAAG--GGAAC-UUAA---
+VCM66_A0509  ------------AAAA-----------GGAAGCCG--AAUGA-UUU----
+VCM66_A0733  ---------UGCUAUA------------CAAACGC--CCAUC-AUGA---
+VCM66_A0388  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0275  ------------------------------AAAGG--CGAGCCAGAG---
+VCM66_A0306  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0237  ---------------------------------GC--CGCG---CA----
+VCM66_A0276  ----------GCAAUAUGC------AUGAGAAAGC--UGCCCUUCA----
+VCM66_A0859  -----------CAA-ACCACG--CCGAUAAAAAAG--CACC--UCA----
+VCM66_A0403  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0437  ----------UCAAGA------------GGGACAGCCAACGC-GUG----
+VCM66_A0356  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0139  ------------AAGA------------AAAACAG--GUUGU-ACGA---
+VCM66_A0986  ---------------------------CAAAUAGC--CGAU--GCA----
+VCM66_A0279  -----------UAUUA------------GCAAAGG--AAGG--GAA----
+VCM66_A0993  ---------------A------------AAAACCG--CCUCUAGAAAU--
+VCM66_A0201  -----------------------------AAAGAG--CCACU-GCA----
+VCM66_A0266  ---------------A------------CAAACUG--GGAU--UUU----
+VCM66_A0302  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0646  ---------------A------------AGUAACG--CCACC-UCA----
+VCM66_A0296  -----------CAAGA------------GGGACUGUCAACGC-GAG----
+VCM66_A0330  -----------CAAGA------------GGGACUGUCAACGC-AUG----
+VCM66_A0289  -----------------------------GAAAGG--GGAGC-AUUU---
+VCM66_A0824  ----------------------------GCAACGC--CCUCA-GCAAA--
+VCM66_A0979  -----------CGAGA------------AAGGGGG--AAUCGCUUAA---
+VCM66_A0193  ---------------------------GAAAAGAG--CCGCU-UUG----
+VCM66_A0159  ------------AAUACGG-----UAUUGAAAAAGUGCAGCCUGCAU---
+VCM66_A0232  -----------CAA-----------------UCCG--AGCGC-GUAG---
+VCM66_A0249  ----------------A----------CAAGGCUG--UGACC-CCAU---
+VCM66_A0675  -----------GGAGA------------GAAAAGG--CGAGC-UAA----
+VCM66_A0381  -----------CAAGA------------GGGACUGUCAACGC-GAG----
+VCM66_A0764  ----------------U----------UCAAAAGG--CAUUCUUCG----
+VCM66_A0198  ------------------------------AACCG--CCUUC-UAA----
+VCM66_A0533  ----------------A----------UAAAAGUG--ACAGAAGAUCUCA
+VCM66_A0209  ----------------C---------UC---ACAC--CGCCCUUUA----
+VCM66_A0487  ----------------------------AGAAAGG--CGAGU-AUG----
+VCM66_A0340  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0908  ------------------------------AAGGC--CGCUC-UAGAAU-
+VCM66_A0453  ------------------------------AACCG--CCUUC-UAA----
+VCM66_A0610  -------------------------------AAGG--AGCGCCAAA----
+VCM66_A0710  ----------------------------AAUAGGG--CAAGU-UUU----
+VCM66_A0173  -----------------------------CAUCGA--GCCGC-UUU----
+VCM66_A0406  -----------------------------UGACAG--AUACG-AUUUU--
+VCM66_A0819  ---------------A------------UCAGGAG--CAUAC-ACA----
+VCM66_A0883  ---------------------------C-AAAAAC--CUCCC-AAC----
+VCM66_A0077  -----------------------------ACAAAG--CCCCG-UCA----
+VCM66_A0880  ----------------------------AAAAGAG---GAGCCGAUU---
+VCM66_A0506  ----------------AGA-----GUUU-AAAAAG--UCGGC-AUU----
+VCM66_A0389  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0620  ----------AAAAAA------------GCGAGUG--AAGGC-ACA----
+VCM66_A0627  ------------AA--ACCUG--AUUCAAGGCGCG--GAUGA-CUC----
+VCM66_A0307  -----------CAAGA------------GGGACCGUCAACGC-GUG----
+VCM66_A0305  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0888  ----------------UG--------CAAUAAGGG-----GC-AAAC---
+VCM66_A0024  ---------------A------------AAACGAG--GCCU--UUG----
+VCM66_A0508  ------------AAUA------------AAGAAAA--AGCGCUUUA----
+VCM66_A0292  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0402  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0948  ----------------------------AAAACUG--CCUUC-UAA----
+VCM66_A1018  ------------AA-A-----------CAGCCCUG---ACGA-ACAG---
+VCM66_A0464  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0486  -----CUUUGCGAA----------------AAAGG--CGAGU-CAU----
+VCM66_A0197  ----------------------------AAAUCCG--CCUUC-UUA----
+VCM66_A0290  ------------AAAA--------------GGGAG--CA-----UA----
+VCM66_A0781  --------------AA------------AAGAGGC--AGA----AA----
+VCM66_A0425  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0793  ------------A---U----------C---UCAG--CCCGC-UGU----
+VCM66_A0956  ------------AA-A------------AAAUCAG--CCCCA-AUA----
+VCM66_A0461  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0884  -----------------------------AAAAAC--CUCCC-GUU----
+VCM66_A0959  ----------CCAAAAAA-------GUGAAAAGCC--ACAGA-CCGC---
+VCM66_A0619  -----------AAAAA------------GCGAGUG--AACGC-UGU----
+VCM66_A0182  -----------AAACAA---------UU-AAGCAG--AGC-C-ACU----
+VCM66_A1069  ---------------------------C-ACAAAG--CCCGCAUCA----
+VCM66_A0065  -----------AAAAA------------AGGUCUG-----GC-UAA----
+VCM66_A0624  -----------CAAAAA----------GAAAAGGG--CGUG--AUU----
+VCM66_A0949  ------------------------------AACUG--CCUUC-UUA----
+VCM66_A0423  -----------CAAGA------------GGGACUGUCAACGC-GCG----
+VCM66_A0942  ------------------------------GAGAG--CGAG---CG----
+VCM66_A0432  -----------CAAGA------------GGGACUGUCAACGC-ACG----
+VCM66_A0629  -----------------------------GAACUC---UCCC-UAAGA--
+VCM66_A0333  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0957  -----------------------------AAUCAG--CCCCA-UUA----
+VCM66_A0532  ----------------CU--------UU-AAAGGG-----GC-GUA----
+VCM66_A0445  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0938  ----------AGAAUA------------AAAAACU--CGCUCAACU----
+VCM66_A0658  --------UCG-AA--UCAGG--UCAUCAAGAACC--CCCGC-AUU----
+VCM66_A0361  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0394  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0415  -----------CAAUA------------GGGACUGUCAACGC-GUG----
+VCM66_A0780  -------------------------------GAGG---CAGA-UUU----
+VCM66_A0488  ---------------AC----------GAAAAAGC--CGUUC-AAGA---
+VCM66_A0291  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0615  -------------------------------AAUG--GCCAC-AUAA---
+VCM66_A0499  -------------------------------AAGC--CCCCAAAUU----
+VCM66_A0603  -----------CAAUA-----------GAAAAGAG--AUGGC-AUG----
+VCM66_A0822  ------------AA--AG--------CGAAAAGCG--CACUC-UC-----
+VCM66_A0365  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0674  -----------GAA----------------AAAGG--CGAGC-UUA----
+VCM66_A0435  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0007  ----------ACAA---------------AAAGCG--CCUC-AGUGU---
+VCM66_A0301  -----------CAAGA------------GGGACUGUCAACGC-GCG----
+VCM66_A0390  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0295  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0510  ---------------------------GGAGGCCG--AACGU-AAA----
+VCM66_A0855  ----------------CG--------ACAGAAAGG--CG--C-GUU----
+VCM66_A0826  --------UUCGAA--------------AAUAAAG--CCGCG-AAA----
+VCM66_A0322  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0903  ------------------------------GGGCG--AC----GUA----
+VCM66_A0370  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0765  ---------------------------C-AAAAGG--CAUUCCGAA----
+VCM66_A0043  ------------AAAA---------------AAGC--CGCUCGAUU----
+VCM66_A0379  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0528  -------------------------------AAGG--CACUC-AUU----
+VCM66_A0424  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0401  ----------UCAAGA------------GGGACAGCCAACGC-GUG----
+VCM66_A0418  ----------------CGCUU--CAAGCGGGACUGUCAACGC-GUA----
+VCM66_A0455  -----------CAA-A------------GGGACUAUCAACGC-GUG----
+VCM66_A0372  ----------UCAAGA------------GGGACAGCCAACGC-GUG----
+VCM66_A0022  ---------------------------C---AAAG--GGAGCCAUG----
+VCM66_A0350  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0645  -----------GAAUA---------------ACGC--CACC--CUG----
+VCM66_A0994  -----------GAAAAU---------AAAAAACCG--CCUUUCUAUUU--
+VCM66_A0557  ---------GAUAAAA------------GAAAUGG--CC---CGCA----
+VCM66_A0535  -----------------------------AAAAAG--CCAGC-UUA----
+VCM66_A0970  ---------------A------------AAAAGGC--CUCG-CACAG---
+VCM66_A0369  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0336  ----------UCAAGA------------GGGACAGCCAACGC-GUG----
+VCM66_A0900  ---------AUCAAUAC---------CAAGAAAAG---GCGC-UAA----
+VCM66_A0458  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0441  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0602  ----------------AG--------UCAAAAGAG--AUGGC-ACA----
+VCM66_A0794  -------------------------------UCAG--CCCGCGACA----
+VCM66_A0851  ----------------------------AUAGAGG--CCAGA-UUUU---
+VCM66_A0010  ----------------AGC-----GAUGAAAAGAG--CCAGC-GUU----
+VCM66_A0420  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0639  ---------------A------------AAAUCCG---GUAC-AAAU---
+VCM66_A0850  ------------AAAA------------AGGCCAG--AU----AAA----
+VCM66_A0319  -----------CAAGA------------GGGACUGUCAACGC-GUA----
+VCM66_A0407  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0446  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0440  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0438  -----------CAA-A------------GGGACUGCCAACGC-GCG----
+VCM66_A0650  ----------AAAAUA-----------GAAUAAAG--CCAGU-UUG----
+VCM66_A0142  ----------------C---------GAAAGACUG--CUCG--GGA----
+VCM66_A0246  ----------------CA--------UC--AAGAG--UGAUC-UCU----
+VCM66_A0355  -----------CAAGA------------GGGACUGUCAACGC-GCG----
+VCM66_A0345  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0118  ------------------------------GCCAG--AGCGAGUUU----
+VCM66_A0233  ------------------------------AUCCG--AGCGC-ACUA---
+VCM66_A0574  ----------------U----------G-AAUCAG--CCCUCAAUU----
+VCM66_A1035  ----------------UAU-----GCAU--AAAGG--GGGG--AUU----
+VCM66_A0378  --------GUUCAAGA------------GGGAUUCGCAACGC-GUG----
+VCM66_A0393  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0346  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0321  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0554  ----------CCAAAA-----------------AG--GCAGC-UUA----
+VCM66_A0451  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0347  -----------CAAGA------------GGGACUGUCAACGC-GUG----
+VCM66_A0011  ----------ACAA-AC---------GCAAAAGAG--CCAGC-AAA----
+VCM66_A0789  ---------GUGAAAAA----------GGAAAGGG--UCAGC-AAA----
+#=GC SS_cons ...........:::.:............<<<<<<<..<<<<<.___....
+#=GC RF      ...........cAA.A............AAAAagG..CccGC.auA....
+
+VCM66_A0614  -------G-AGAU--AUAUCCC
+VCM66_A0946  -----ACU-CUGC--CUCUCUU
+VCM66_A0164  ------AC-CACG--CCCCUU-
+VCM66_A0983  -------U-CGGG--GCGUUU-
+VCM66_A0134  -------C-CUCG--CUUAUUC
+VCM66_A0945  -------G-CGCC--CCUUCUC
+VCM66_A0935  -------A-AGUU--GUGUUCA
+VCM66_A0761  -------G-GUCG--CCUUCUU
+VCM66_A0344  -------G-CGUUUCCAGUCCC
+VCM66_A0203  ------CG-CUUG--GCUUGAU
+VCM66_A0999  ------AU-CUCU--CUUUGUU
+VCM66_A0194  ------UG-ACUC--CCUUUUU
+VCM66_A0703  ------AC-CGGG--CAUUAUU
+VCM66_A0025  -------A-AGGC--CUCGUUU
+VCM66_A0431  -------G-CGUUUCCAGUCCC
+VCM66_A0208  -------A-AGGG--CGGUGU-
+VCM66_A0862  ----UGGG-GUGU--CAUUUUU
+VCM66_A0613  -------G-AGAU--AUAUCCC
+VCM66_A1000  ------AU-CUCU--CUUUGUU
+VCM66_A0270  ------AG-GACG--CC-----
+VCM66_A0760  -------G-GUCG--CCUUCUU
+VCM66_A0055  ------UG-CUGG--CUCUUU-
+VCM66_A0978  -----AGC-GAUU--CCCCCU-
+VCM66_A0148  -------A-CGGG--CGGCCUU
+VCM66_A0732  -----AUG-AUGG--GCGUUU-
+VCM66_A0881  -----CGG-CUC---CUCUUUU
+VCM66_A0041  --UCGCGG-CUCG--GGGUCUU
+VCM66_A0323  -------G-CGUUUCCAGUCCC
+VCM66_A1070  ------UG-CGGG--CUUUGU-
+VCM66_A0944  -------G-CGCC--CCUUCUC
+VCM66_A0702  ------CC-CGGG--CAUUAUU
+VCM66_A0573  ------UG-AGGG--CUGAUU-
+VCM66_A0376  -------G-CGUUUCCAGUCCC
+VCM66_A0523  ------UG-CUG---GCUUCUU
+VCM66_A0456  -------G-CGUUUCCAGUCCC
+VCM66_A0006  ------AG-CUCG--GCUUUUU
+VCM66_A0700  ------AG-GUGG--GUUUUCU
+VCM66_A0767  ------UG-CUCU--CCUUGUU
+VCM66_A0410  -------G-CGUUUCCAGUCCC
+VCM66_A0056  ------UG-CUGG--CUCUUUU
+VCM66_A0861  ----UGGG-GUGU--CAUUUUU
+VCM66_A0912  ------CA-CUG---CCUUAUU
+VCM66_A0086  -----UUG-UGGG--GCGAU--
+VCM66_A0534  GAGAUCUU-CUGU--CACUUUU
+VCM66_A0623  --------UCACG--CCCUUUU
+VCM66_A1017  ------GU-UCGU--CAGGGCU
+VCM66_A0917  ----AAUU-CUUG--GCUUUU-
+VCM66_A0447  -------G-CGUUUCCAGUCCC
+VCM66_A0026  ------GG-CAGA--GCCUCUU
+VCM66_A1041  ------CG-UUCC--CUUUUUC
+VCM66_A0509  -------A-CGUU--CGGCCUC
+VCM66_A0733  -----UUG-AUGG--GCGUUUG
+VCM66_A0388  -------G-CGUUUCCAGUCCC
+VCM66_A0275  ------UG-CUCG--CCUUU--
+VCM66_A0306  -------G-CGUUUUCAGUCCC
+VCM66_A0237  --------ACGCG--GC-----
+VCM66_A0276  -------G-GGCG--GCUUUUU
+VCM66_A0859  --------GGGUG--CUUUUUU
+VCM66_A0403  -------G-CGUUUCCAGUCCC
+VCM66_A0437  -------G-CAUUUU---UACC
+VCM66_A0356  -------G-CGUUUUCAGUCCC
+VCM66_A0139  ------GA-CAAC--CUGUUUU
+VCM66_A0986  --------GAUCG--GCUAUUU
+VCM66_A0279  --------ACCUU--CCUUUGU
+VCM66_A0993  -----AGA-AAGG--CGGUUUU
+VCM66_A0201  -------U-GUGG--CUCUUU-
+VCM66_A0266  --------GAUCU--CAGUUUG
+VCM66_A0302  -------G-CGUUUCCAGUCCC
+VCM66_A0646  ------GG-GUGG--CGUUAUU
+VCM66_A0296  -------G-CGUUUCCAGUCCC
+VCM66_A0330  -------G-CGUUUCCAGUCCC
+VCM66_A0289  -----AUG-CUCC--CUUUUU-
+VCM66_A0824  ----GUCU-GAGG--GCGUUGU
+VCM66_A0979  -----CAC-GAUU--CCCCCUU
+VCM66_A0193  -------A-GCGG--CUCUUUU
+VCM66_A0159  ------AG-GCUG-CCUUUUUU
+VCM66_A0232  ------UG-CGCU--CGGA---
+VCM66_A0249  -----AAG-GUCA--CAGCCUU
+VCM66_A0675  -------G-CUCG--CCUUUUU
+VCM66_A0381  -------G-CGUUUCCAGUCCC
+VCM66_A0764  -------G-AAUG--CCUUUUG
+VCM66_A0198  -------G-AAGG--CGGAU--
+VCM66_A0533  AGGAUCCU-CUGU--CACUUUU
+VCM66_A0209  ------UG-GGCG--GUGU---
+VCM66_A0487  -------A-CUCG--CCUUUUU
+VCM66_A0340  -------G-CGUUUCCAGUCCC
+VCM66_A0908  ----GACG-AGCG--GCCUU--
+VCM66_A0453  -------G-AAGG--CGGAU--
+VCM66_A0610  -------G-CGCU--CCUU---
+VCM66_A0710  -------A-CUUG--CCCUAUU
+VCM66_A0173  -------G-CGGC--UCGAUG-
+VCM66_A0406  -----AAC-GUAU--CUGUCA-
+VCM66_A0819  -------G-UAUG--CUCCUGA
+VCM66_A0883  -------G-GGAG--GUUUUU-
+VCM66_A0077  -------C-GGGG--CUUUGU-
+VCM66_A0880  -----GAG-CUC---CUCUUUU
+VCM66_A0506  ------UG-CCGA--CUUUUU-
+VCM66_A0389  -------G-CGUUUCCAGUCCC
+VCM66_A0620  -------G-CGUU--CACUCGC
+VCM66_A0627  -------U-CAUC--CGCCCCU
+VCM66_A0307  -------G-CGUUUCCAGUCCC
+VCM66_A0305  -------G-CGUUUCCAGUCCC
+VCM66_A0888  ------CG-C-----CCCUUAU
+VCM66_A0024  ---------AGGC--CUCGUUU
+VCM66_A0508  ------GG-CGCU--UUUUCUU
+VCM66_A0292  -------G-CGUUUCCAGUCCC
+VCM66_A0402  -------G-CGUUUCCAGUCCC
+VCM66_A0948  -------G-AAGG--CAGUUUU
+VCM66_A1018  -----AUU-CAU---CAGGGCU
+VCM66_A0464  -------G-CGUUUCCAGUCCC
+VCM66_A0486  -------A-CUCG--CCUUU--
+VCM66_A0197  -------G-AAGG--CGGUUUU
+VCM66_A0290  -------A-A-UG--CUCCC--
+VCM66_A0781  -------A-AUCU--GCCUCUU
+VCM66_A0425  -------G-CGUUUCCAGUCCC
+VCM66_A0793  ------CG-CGGG--CUGA---
+VCM66_A0956  ------AU-GGGG--CUGAUUU
+VCM66_A0461  -------G-CGUUUCCAGUCCC
+VCM66_A0884  -------G-GGAG--GUUUUU-
+VCM66_A0959  ------AU-CUGU--GGCUUUU
+VCM66_A0619  -------G-CCUU--CACUCGC
+VCM66_A0182  -------G-AGCU--CUGCUU-
+VCM66_A1069  -------G-CGGG--CUUUGU-
+VCM66_A0065  -------G-C-----CAGACCU
+VCM66_A0624  --------UCACG--CCCUUUU
+VCM66_A0949  -------G-AAGG--CAGUU--
+VCM66_A0423  -------G-CGUUUCCAGUCCC
+VCM66_A0942  --------UCUCG--CUCUC--
+VCM66_A0432  -------G-CGUUUCCAGUCCC
+VCM66_A0629  ----UCUG-GGA---GAGUUC-
+VCM66_A0333  -------G-CGUUUCCAGUCCC
+VCM66_A0957  ------UU-GGGG--CUGAUU-
+VCM66_A0532  ------GG-C-----CCCUUU-
+VCM66_A0445  -------G-CGUUUCCAGUCCC
+VCM66_A0938  ------UG-AGCG--AGUUUUU
+VCM66_A0658  -------G-CGGG--GGUUCUU
+VCM66_A0361  -------G-CGUUUCCAGUCCC
+VCM66_A0394  -------G-CGUUUCCAGUCCC
+VCM66_A0415  -------G-CGUUUCCAGUCCC
+VCM66_A0780  ------UU-CUG---CCUC---
+VCM66_A0488  -----UUG-AACG--GUUUUUU
+VCM66_A0291  -------G-CGUUUCCAGUCCC
+VCM66_A0615  ------CG-UGGC--CAUU---
+VCM66_A0499  ------CU-GGGG--GCUU---
+VCM66_A0603  ------UG-CCAU--CUCUUUU
+VCM66_A0822  -------G-AGUG--CGCUUUU
+VCM66_A0365  -------G-CGUUUCCAGUCCC
+VCM66_A0674  -------G-CUCG--CCUUU--
+VCM66_A0435  -------G-CGUUUCCAGUCCC
+VCM66_A0007  -----GA--GAGG--CGCUUU-
+VCM66_A0301  -------G-CGUUUCCAGUCCC
+VCM66_A0390  -------G-CGUUUCCAGUCCC
+VCM66_A0295  -------G-CGUUUCCAGUCCC
+VCM66_A0510  -------U-CAUU--CGGCUUC
+VCM66_A0855  -------G-A-CG--CCUUUCU
+VCM66_A0826  ------UC-GCGG--CUUUAUU
+VCM66_A0322  -------G-CGUUUCCAGUCCC
+VCM66_A0903  -------A-A-GU--CGCCC--
+VCM66_A0370  -------G-CGUUUCCAGUCCC
+VCM66_A0765  -------G-AAUG--CCUUUU-
+VCM66_A0043  -------G-AGCG--GCUU---
+VCM66_A0379  -------G-CGUUUCCAGUCCC
+VCM66_A0528  -------G-AGUG--CCUU---
+VCM66_A0424  -------G-CGUUUCCAGUCCC
+VCM66_A0401  -------G-CAUUUU---UACC
+VCM66_A0418  -------G-CGUUUCCAGUCCC
+VCM66_A0455  -------G-CGUUUCCAGUCCC
+VCM66_A0372  -------G-CAUUUU---UACC
+VCM66_A0022  -------G-CUCC--CUUU---
+VCM66_A0350  -------G-CGUUUCCAGUCCC
+VCM66_A0645  --------AGGUG--GCGU---
+VCM66_A0994  -----CUA-GAGG--CGGUUUU
+VCM66_A0557  -----------GG--CCAUUUC
+VCM66_A0535  ------CG-CUGG--CUUUUU-
+VCM66_A0970  -----UA--CGAG--GCCUUUU
+VCM66_A0369  -------G-CGUUUCCAGUCCC
+VCM66_A0336  -------G-UAUUUG---UAUU
+VCM66_A0900  ------CG-CGC---CUUUUUU
+VCM66_A0458  -------G-CGUUUCCAGUCCC
+VCM66_A0441  -------G-CGUUUCCAGUCCC
+VCM66_A0602  ------UG-CCAU--CUCUUUU
+VCM66_A0794  -------G-CGGG--CUGA---
+VCM66_A0851  ------AU-CUGG--CCUUUUU
+VCM66_A0010  ------UG-CUGG--CUCUUUU
+VCM66_A0420  -------G-CGUUUCCAGUCCC
+VCM66_A0639  ------AG-CAC---CGGAUUU
+VCM66_A0850  -----------AU--CUGGCCU
+VCM66_A0319  -------G-CGUUUCCAGUCCC
+VCM66_A0407  -------G-CGUUUCCAGUCCC
+VCM66_A0446  -------G-CGUUUCCAGUCCC
+VCM66_A0440  -------G-CGUUUCCAGUCCC
+VCM66_A0438  -------G-CGUUUCCAGUCCC
+VCM66_A0650  ------UA-CUGG--CUUUAUU
+VCM66_A0142  --------GCGGG--CAGUCUU
+VCM66_A0246  -------G-AUCA--CUCUU--
+VCM66_A0355  -------G-CGUUUCCAGUCCC
+VCM66_A0345  -------G-CGUUUCCAGUCCC
+VCM66_A0118  ------UU-CGCU--CUGGC--
+VCM66_A0233  ------CG-CGCU--CGGAU--
+VCM66_A0574  ------UG-AGGG--CUGAUU-
+VCM66_A1035  --------UCCCC--CCUUU--
+VCM66_A0378  -------G-CAUUUU---UACU
+VCM66_A0393  -------G-CGUUUCCAGUCCC
+VCM66_A0346  -------G-CGUUUCCAGUCCC
+VCM66_A0321  -------G-CGUUUCCAGUCCC
+VCM66_A0554  -------G-CUGC--CU-----
+VCM66_A0451  -------G-CGUUUCCAGUCCA
+VCM66_A0347  -------G-CGUUUCCAGUCCC
+VCM66_A0011  ------CG-CUGG--CUCUUUU
+VCM66_A0789  ------CG-CUGA--CCCUUUC
+#=GC SS_cons .......>.>>>>..>>>>>>>
+#=GC RF      .......G.CggG..CcuUUUU
+//

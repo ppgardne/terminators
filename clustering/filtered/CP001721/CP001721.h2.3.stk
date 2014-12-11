@@ -1,0 +1,994 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h2-1
+#=GF AU Infernal 1.0.2
+
+#=GS Apar_0412 WT 0.80
+#=GS Apar_0936 WT 1.18
+#=GS Apar_0918 WT 1.11
+#=GS Apar_1311 WT 0.90
+#=GS Apar_0082 WT 0.59
+#=GS Apar_0962 WT 0.81
+#=GS Apar_0018 WT 0.89
+#=GS Apar_0842 WT 0.99
+#=GS Apar_0214 WT 1.05
+#=GS Apar_0604 WT 0.83
+#=GS Apar_0865 WT 0.84
+#=GS Apar_1123 WT 0.88
+#=GS Apar_0843 WT 1.02
+#=GS Apar_0097 WT 1.16
+#=GS Apar_0466 WT 1.07
+#=GS Apar_0740 WT 0.92
+#=GS Apar_1312 WT 0.90
+#=GS Apar_1138 WT 1.16
+#=GS Apar_0351 WT 1.21
+#=GS Apar_0885 WT 1.01
+#=GS Apar_0045 WT 0.99
+#=GS Apar_0238 WT 0.99
+#=GS Apar_1122 WT 0.88
+#=GS Apar_0235 WT 1.09
+#=GS Apar_0823 WT 1.06
+#=GS Apar_0261 WT 0.76
+#=GS Apar_0878 WT 0.81
+#=GS Apar_1328 WT 1.02
+#=GS Apar_0706 WT 1.07
+#=GS Apar_0375 WT 0.74
+#=GS Apar_0596 WT 1.11
+#=GS Apar_0313 WT 0.88
+#=GS Apar_0265 WT 0.85
+#=GS Apar_0696 WT 1.09
+#=GS Apar_0907 WT 0.83
+#=GS Apar_1040 WT 1.03
+#=GS Apar_0007 WT 1.14
+#=GS Apar_0955 WT 0.59
+#=GS Apar_0184 WT 1.08
+#=GS Apar_1010 WT 0.94
+#=GS Apar_0266 WT 0.81
+#=GS Apar_1198 WT 1.13
+#=GS Apar_0374 WT 0.74
+#=GS Apar_1197 WT 1.10
+#=GS Apar_0489 WT 1.22
+#=GS Apar_0609 WT 1.27
+#=GS Apar_0428 WT 0.95
+#=GS Apar_0337 WT 0.93
+#=GS Apar_0547 WT 0.68
+#=GS Apar_0846 WT 1.00
+#=GS Apar_1256 WT 1.00
+#=GS Apar_0648 WT 0.84
+#=GS Apar_1103 WT 0.81
+#=GS Apar_0359 WT 1.17
+#=GS Apar_0890 WT 0.90
+#=GS Apar_0607 WT 1.16
+#=GS Apar_0877 WT 0.81
+#=GS Apar_0011 WT 0.84
+#=GS Apar_1314 WT 1.03
+#=GS Apar_0133 WT 0.97
+#=GS Apar_0546 WT 0.68
+#=GS Apar_0414 WT 0.79
+#=GS Apar_0854 WT 1.13
+#=GS Apar_1228 WT 0.67
+#=GS Apar_0847 WT 1.00
+#=GS Apar_1096 WT 1.17
+#=GS Apar_0431 WT 1.12
+#=GS Apar_0178 WT 1.38
+#=GS Apar_0971 WT 0.90
+#=GS Apar_0060 WT 0.98
+#=GS Apar_1150 WT 0.82
+#=GS Apar_0070 WT 1.27
+#=GS Apar_1141 WT 0.80
+#=GS Apar_1173 WT 1.04
+#=GS Apar_0394 WT 1.02
+#=GS Apar_1015 WT 0.84
+#=GS Apar_1070 WT 0.67
+#=GS Apar_0262 WT 0.76
+#=GS Apar_0372 WT 1.06
+#=GS Apar_0521 WT 1.21
+#=GS Apar_0739 WT 0.82
+#=GS Apar_0649 WT 0.84
+#=GS Apar_1159 WT 1.02
+#=GS Apar_0077 WT 0.59
+#=GS Apar_0954 WT 0.82
+#=GS Apar_1365 WT 1.08
+#=GS Apar_0284 WT 0.99
+#=GS Apar_0213 WT 1.05
+#=GS Apar_0234 WT 1.09
+#=GS Apar_1196 WT 1.08
+#=GS Apar_1002 WT 0.93
+#=GS Apar_1275 WT 1.05
+#=GS Apar_1355 WT 0.89
+#=GS Apar_0293 WT 1.08
+#=GS Apar_0100 WT 1.20
+#=GS Apar_0289 WT 1.06
+#=GS Apar_1338 WT 1.03
+#=GS Apar_0578 WT 1.16
+#=GS Apar_0279 WT 0.98
+#=GS Apar_1287 WT 1.08
+#=GS Apar_0439 WT 1.35
+#=GS Apar_0411 WT 0.92
+#=GS Apar_1169 WT 1.22
+#=GS Apar_0378 WT 0.98
+#=GS Apar_0905 WT 0.90
+#=GS Apar_1022 WT 0.98
+#=GS Apar_0236 WT 1.06
+#=GS Apar_0743 WT 1.12
+#=GS Apar_0512 WT 1.14
+#=GS Apar_0068 WT 0.59
+#=GS Apar_1001 WT 1.16
+#=GS Apar_0463 WT 1.08
+#=GS Apar_0888 WT 0.77
+#=GS Apar_0186 WT 0.67
+#=GS Apar_0029 WT 0.94
+#=GS Apar_0742 WT 1.02
+#=GS Apar_1102 WT 0.99
+#=GS Apar_0951 WT 1.20
+#=GS Apar_0802 WT 0.92
+#=GS Apar_0386 WT 1.05
+#=GS Apar_0538 WT 1.02
+#=GS Apar_0974 WT 1.06
+#=GS Apar_1163 WT 1.01
+#=GS Apar_0714 WT 1.03
+#=GS Apar_0381 WT 0.99
+#=GS Apar_0956 WT 1.02
+#=GS Apar_0900 WT 1.06
+#=GS Apar_0803 WT 0.85
+#=GS Apar_1071 WT 0.67
+#=GS Apar_0866 WT 0.84
+#=GS Apar_1078 WT 1.14
+#=GS Apar_1187 WT 1.02
+#=GS Apar_0834 WT 1.23
+#=GS Apar_0315 WT 0.99
+#=GS Apar_0695 WT 0.99
+#=GS Apar_0311 WT 0.92
+#=GS Apar_0659 WT 1.04
+#=GS Apar_0237 WT 1.21
+#=GS Apar_1361 WT 1.03
+#=GS Apar_0016 WT 0.97
+#=GS Apar_0887 WT 0.82
+#=GS Apar_1054 WT 1.22
+#=GS Apar_0332 WT 1.01
+#=GS Apar_1234 WT 1.14
+#=GS Apar_0765 WT 1.06
+#=GS Apar_0597 WT 1.01
+#=GS Apar_0326 WT 1.47
+#=GS Apar_0960 WT 1.12
+#=GS Apar_0529 WT 1.07
+#=GS Apar_0152 WT 1.18
+#=GS Apar_0577 WT 1.03
+#=GS Apar_0902 WT 1.03
+#=GS Apar_0188 WT 0.88
+#=GS Apar_0886 WT 0.98
+#=GS Apar_0899 WT 0.67
+#=GS Apar_1041 WT 1.03
+#=GS Apar_1062 WT 0.91
+#=GS Apar_0067 WT 0.67
+#=GS Apar_0570 WT 1.07
+#=GS Apar_0190 WT 1.07
+#=GS Apar_1074 WT 1.07
+#=GS Apar_0897 WT 0.88
+#=GS Apar_0537 WT 1.04
+#=GS Apar_0160 WT 1.08
+#=GS Apar_1046 WT 0.99
+#=GS Apar_0978 WT 1.03
+#=GS Apar_1171 WT 0.92
+#=GS Apar_1178 WT 0.99
+#=GS Apar_0863 WT 0.97
+#=GS Apar_0855 WT 0.91
+#=GS Apar_1124 WT 0.89
+#=GS Apar_0766 WT 1.12
+#=GS Apar_0921 WT 0.97
+#=GS Apar_0151 WT 1.07
+#=GS Apar_0655 WT 1.27
+#=GS Apar_0698 WT 0.89
+#=GS Apar_0079 WT 0.97
+#=GS Apar_1064 WT 0.94
+#=GS Apar_0241 WT 1.23
+#=GS Apar_1349 WT 1.16
+#=GS Apar_0600 WT 1.01
+#=GS Apar_1132 WT 1.08
+#=GS Apar_0889 WT 0.90
+#=GS Apar_1329 WT 1.35
+#=GS Apar_0616 WT 0.77
+#=GS Apar_0449 WT 1.01
+#=GS Apar_0975 WT 0.94
+#=GS Apar_1125 WT 0.81
+#=GS Apar_0896 WT 1.19
+#=GS Apar_1284 WT 1.17
+#=GS Apar_1249 WT 1.08
+#=GS Apar_1023 WT 1.01
+#=GS Apar_0645 WT 1.02
+#=GS Apar_1108 WT 0.82
+#=GS Apar_0278 WT 0.98
+#=GS Apar_1320 WT 1.00
+#=GS Apar_0390 WT 0.96
+#=GS Apar_1258 WT 1.05
+#=GS Apar_0644 WT 1.06
+#=GS Apar_0841 WT 1.27
+#=GS Apar_0891 WT 1.08
+#=GS Apar_0494 WT 0.99
+#=GS Apar_0295 WT 1.12
+#=GS Apar_0244 WT 1.33
+#=GS Apar_0413 WT 0.79
+#=GS Apar_0764 WT 1.06
+#=GS Apar_0136 WT 1.22
+#=GS Apar_1356 WT 0.89
+#=GS Apar_0755 WT 0.97
+#=GS Apar_0935 WT 1.14
+#=GS Apar_0970 WT 1.11
+#=GS Apar_1109 WT 0.82
+#=GS Apar_0429 WT 1.21
+#=GS Apar_1206 WT 1.02
+#=GS Apar_0670 WT 1.10
+#=GS Apar_0501 WT 1.15
+#=GS Apar_0330 WT 1.03
+#=GS Apar_0114 WT 0.92
+#=GS Apar_1174 WT 1.32
+#=GS Apar_0892 WT 0.99
+#=GS Apar_0588 WT 1.08
+#=GS Apar_1318 WT 1.03
+#=GS Apar_1241 WT 1.08
+#=GS Apar_0757 WT 1.13
+#=GS Apar_0806 WT 0.99
+#=GS Apar_0426 WT 1.07
+#=GS Apar_0595 WT 0.94
+#=GS Apar_0567 WT 1.07
+#=GS Apar_0966 WT 1.06
+#=GS Apar_0380 WT 0.86
+#=GS Apar_0982 WT 1.01
+#=GS Apar_1045 WT 0.99
+#=GS Apar_0323 WT 0.88
+#=GS Apar_1188 WT 0.97
+#=GS Apar_1337 WT 1.08
+#=GS Apar_0544 WT 1.02
+#=GS Apar_1106 WT 0.86
+#=GS Apar_1093 WT 1.08
+#=GS Apar_0679 WT 0.92
+#=GS Apar_0340 WT 1.17
+#=GS Apar_0457 WT 1.03
+#=GS Apar_0613 WT 0.97
+#=GS Apar_1326 WT 1.17
+#=GS Apar_0109 WT 0.85
+#=GS Apar_1254 WT 1.19
+
+Apar_0412    UUAACAAU--U-U-A-------------AAU-------------------
+Apar_0936    UUUUG--U--UGU----UCUUAG---------------------------
+Apar_0918    UUCAAUAUAAU-U----UUUG-----------------------------
+Apar_1311    AUCAACUCACCAA-A-GAGUA-------AAAA------------------
+Apar_0082    --CAGCACAAUAU-ACCGC---------AAGGCG----------------
+Apar_0962    UUUUG--UACUAU-A--AGAAGU-----AAAG------------------
+Apar_0018    CUCAA--UAAUAU-AGAGCACAUA---UAAA-------------------
+Apar_0842    GUAAUCUU----U----UCUCAU-----AAUCUA----------------
+Apar_0214    UUUUGCCCAAUACCA-----UAU---------------------------
+Apar_0604    GUAAUGCU--U-UGA---UUGGU---------------------------
+Apar_0865    UUAAA--CAGC------GCUAUC---------------------------
+Apar_1123    GUAAG--CA-U-U----GUUUUC-----CAUG------------------
+Apar_0843    UUAUACAUGACAC---------------AAA-------------------
+Apar_0097    GUUAC--UAGUAAGA-----------------------------------
+Apar_0466    GUACG--UACU-A----GUACUC-----AAAGUCGC--------------
+Apar_0740    GCUAG--U--UAU-A-UAUUUAU---------------------------
+Apar_1312    CUUAGAUU--U-U----GCUGAU-----AAU-------------------
+Apar_1138    CUUACCGU--UAU-A-AGUAAGU-----AAA-------------------
+Apar_0351    GUAAGCUAAUCUU-A--GGAAAU----A----CAAG--------------
+Apar_0885    AUUUGGUC--CAU----GU---------AACG------------------
+Apar_0045    UUAAA--CAAC-A----ACUUUU-----AAUUU-----------------
+Apar_0238    GUAUUCCU--UAU----GUUA-------AAG-------------------
+Apar_1122    UCUACACAAACAU----GCCUAA---------------------------
+Apar_0235    GUAGG--UAACAU-AUCGCCAAC-----AAUA------------------
+Apar_0823    UUAAG--UAGU-CGAUAGCACGA-----AAC-------------------
+Apar_0261    --UACCAUACU-UGA-UGGUU-------AAC-------------------
+Apar_0878    UUGAGAGU--U-U-A--GUUC-------UAGA------------------
+Apar_1328    GUAAGGCAACU-U-A--CUUU-------CACGGAG---------------
+Apar_0706    GUAAGACU--UUUUA-CUUUAAU-----UAUU------------------
+Apar_0375    CCUGAAAUGCUAU-A-------------AAC-------------------
+Apar_0596    UCUAAGAAAGCAAGA-----------------------------------
+Apar_0313    UUAUG--UACUAA----GUUUUUC---UUAGUUCGU--------------
+Apar_0265    GCGAGAAAAACGU----CUUGUC----CAAGAA-----------------
+Apar_0696    CUAGACAUAAUGC-A--AC---------AAAC------------------
+Apar_0907    GUGACGCU--UAUGA-----------------------------------
+Apar_1040    --AACCGCAUCUC-A-GUUUU-------AACGU-----------------
+Apar_0007    AUAAGCAU--UUC-A--GCUAUAC--GUAAU-U-----------------
+Apar_0955    UUUUCCUCCAUAC-A-------------AAA-------------------
+Apar_0184    GCAUG--UACUAA----UCUG-------AACCUUCGGG------------
+Apar_1010    UCUUC--UAAUUU----GUCUAC-----AACA------------------
+Apar_0266    GCAAUCUU--U------GUACCU-----AAAUG-----------------
+Apar_1198    GUAAG--UACUUCGA-CGUUUUA----GAAACG-----------------
+Apar_0374    UUUGAAUUGAU-U----GCUUAC-----AAA-------------------
+Apar_1197    AUAAACAU--C-A----GCACAA-----AAA-------------------
+Apar_0489    UUAAGCGUAGU-C----GCAUCU-----AAAUAUGUGCGCGCUGAAUAGA
+Apar_0609    GUAAU--C--UAA-A-UGCGUUU-----UAAUUUGUU-------------
+Apar_0428    GUUUGCUU--UUU-A--UGUUUU-----UACUU-----------------
+Apar_0337    GUUUUCAU--UAC-A------AU-----AAAC------------------
+Apar_0547    ----G--U---AA-------------------------------------
+Apar_0846    AUUUG--UCUU-UGA-GAGUG-------AACU------------------
+Apar_1256    GUAAU--UA-UAU-AGGUGCGAU---------------------------
+Apar_0648    UUGAGCAUAUC-U-A-------------AAAAG-----------------
+Apar_1103    AUAUG--UACUUU----CUAC-------AAGA------------------
+Apar_0359    GCAGG--UAUU-U----UCUAUU---------------------------
+Apar_0890    UCUAG--UACU-U----GCGAACA---CUACCA-----------------
+Apar_0607    UUAAG--UAUUAA-A--GUUUGU---------------------------
+Apar_0877    ACAACCAU--UAC----CCCAAA----UAAG-AUAAC-------------
+Apar_0011    GUUUGAGU--CAA-A--GCAUUA---------------------------
+Apar_1314    AUAAACGUAAU-A-------------------------------------
+Apar_0133    UUUAGCUUCAC-U-A-----------------------------------
+Apar_0546    GCGAG--CGAUAU-A-----------------------------------
+Apar_0414    CUAAG--UAACAA-A---UAU-------AAA-------------------
+Apar_0854    GUAAAAUU--U-U-A-------------UAAGUUG---------------
+Apar_1228    GUACG--U--U-U-A-----------------------------------
+Apar_0847    UCUAAAAC---AU-A-------------AAAA------------------
+Apar_1096    UUAACGUUCGCAA----GUAGGUUUGGUAACU------------------
+Apar_0431    AUAUG--UA-UAU----UUUAAA-----AAA-U-----------------
+Apar_0178    GUUGCAGC--UAC-A-------------AAGAACUGAC------------
+Apar_0971    AUAAAGUUACU-U-A--UUUCUU-----AAGUUG----------------
+Apar_0060    GUUAUCACAUCAA-AACUGCAAC-----AAA-------------------
+Apar_1150    GCUAU--U--U-U-------------------------------------
+Apar_0070    GUUUCGUU--UAC-A-CUUUG-------UACCAG----------------
+Apar_1141    UUAAG--UAGUUC----UU---------AAUACGU---------------
+Apar_1173    UUAGAAGUACC-U-A--GCAUGU---------------------------
+Apar_0394    GCAAA--U--CAA----GCUAAC-----AAG-------------------
+Apar_1015    ACUAG--U--CAC---------------AAC-------------------
+Apar_1070    UCCUGCUU--UUU----GCAGAU-----AAAA------------------
+Apar_0262    AUAAGAGUACU-U-A-UGC-------------------------------
+Apar_0372    AUAACCGU--U-C-A-UGUUU-----------------------------
+Apar_0521    UUUGA--UGAUUU-A--GC---------AAGA------------------
+Apar_0739    GGAAGCUUA--AA-A-AGUUG-------AAAU------------------
+Apar_0649    GUAAG--CACUAA-A--GCACCUCU-GUAAAUAA----------------
+Apar_1159    GUAAGGUU--UUU-------------------------------------
+Apar_0077    CCGAC--UCGUAU-A-GUGCUAC-----AAA-------------------
+Apar_0954    GUUAAUAUA-U-UGA-------------UACUC-----------------
+Apar_1365    AUAAG--C--UUU----ACUGAU---------------------------
+Apar_0284    ACAAGUUU--CAC-A-AAUCU-------AAG-C-----------------
+Apar_0213    --UAG--U--UAA-A-AGGAAUU---------------------------
+Apar_0234    UCUCGCCU--U-C----GUUUUA-----AAGA------------------
+Apar_1196    AUAAUCGCCGC-C----GCAU-------AACAGU----------------
+Apar_1002    AUUAGCUU--UAU----UCAAAC-----AAACU-----------------
+Apar_1275    GUAAACA-GAU-C----CUUUUU---------------------------
+Apar_1355    GUAAUCUCCUCUU-AAAACU------------AAA---------------
+Apar_0293    UCCUGUUUGAU-A----GUUUGU-----AACGC-----------------
+Apar_0100    GCAACGGUAACAUCA-----------------------------------
+Apar_0289    GCAAAAAUA-U-U----GUUG-------AACUACAGAG------------
+Apar_1338    UCAAAAUUGAUUC-A-AUUUC-----------------------------
+Apar_0578    GUUAAAAA---AU----GCUAAU-----UAA-------------------
+Apar_0279    UCACCCAUAUU-U----GGAG-----------------------------
+Apar_1287    ACAAAUGCAGCAA-A-----------------------------------
+Apar_0439    GCUAGAAUCAC-U-A-------------AAU-------------------
+Apar_0411    UCAAA--U--CAA---------------AAGU------------------
+Apar_1169    UUAGCUCCGAUAC------AG-------AAG-------------------
+Apar_0378    GCUCG--UAAUACCA--GC---------AACG------------------
+Apar_0905    ACAAAAAAGCUUU-A-------------UAGA------------------
+Apar_1022    GCAAGAAUCUUAU-A-----------------------------------
+Apar_0236    GCCAG--UAUUAA----GUCGGU---------------------------
+Apar_0743    GCACA--UAACAC----GCAUCA-----AAU-------------------
+Apar_0512    GUUAG--UAAUAC-A-UGUCCAC---------------------------
+Apar_0068    ACAACUGUGACAC-A-------------AAA-------------------
+Apar_1001    CUGACAACAUC-U----GUUCUC-----UACAC-----------------
+Apar_0463    GCUACGAUA-UAC-AGAAUUU-----------------------------
+Apar_0888    AUAAG--U--CAA-AGCGCUUUU-----AACAGCGUA-------------
+Apar_0186    GCUAA--CAGUAA-A-CGUAG-----------------------------
+Apar_0029    AUAAC--C--UAU-A--GC---------AACAGCA---------------
+Apar_0742    GCUUGCUUAAU-U-A--GCGAGA-----AACCCCUCUGGU----------
+Apar_1102    GCAUACCU--CAU----GU---------AACU------------------
+Apar_0951    --AAAGAUAGU-U----UCUCUG---------------------------
+Apar_0802    UUAUC--UACUUUUA--AUUUAU---------------------------
+Apar_0386    GUAGA--CGAUAU-A-------------UAAAGA----------------
+Apar_0538    UUAGG--CACUUU-A-CUCAGAUA--UG----AC----------------
+Apar_0974    AUAACACUACU-U-A--UCGUAU---------------------------
+Apar_1163    UCAAGCUC--UAA----GCAUACGGCUU-AAUCCAA--------------
+Apar_0714    GUGAGCUC--UAA-A-------------AAAG------------------
+Apar_0381    GCUACAACA-UAU----GUGUUC---------------------------
+Apar_0956    GUAUC--U--UAAAACGGCUUAC-----AAACA-----------------
+Apar_0900    AUAAA--U--UAU-A--UUUCUU-----UAGAG-----------------
+Apar_0803    --AAGAAU--U-C-A-GGU---------AAGA------------------
+Apar_1071    UCAACAGUGCUUU----GCUUUU-----AACA------------------
+Apar_0866    UUAAGCGC---AA-A-------------UAA-------------------
+Apar_1078    UUUAA--UGUUAU-A-AAUUCGU----GAAAG------------------
+Apar_1187    GCAGU--C--UAU-A-ACUGUAU---------------------------
+Apar_0834    ACAGGAUU--UAU----GGAC-------UAC-------------------
+Apar_0315    UUUAC--UGAUAC-A-----------------------------------
+Apar_0695    UUAAA--UAUCAA---------------AAUG------------------
+Apar_0311    GUUAA--CGGCAU----GUCUUA---------------------------
+Apar_0659    GUAAC--UAUC-U-A--GCGAGA-----AAUA------------------
+Apar_0237    UUAAA--UG-CAU-A--GCUAUG---------------------------
+Apar_1361    AUACGCGUCUCAU-A-UGCUCAU-----AAUAC-----------------
+Apar_0016    UUUAC--AGAU-U----GCUA-----------------------------
+Apar_0887    GUAAAGACCUCAUGA-GGCUUAGC--UUAACA------------------
+Apar_1054    GUUGGAACG-UAC-A-UAUUGCU-----CAUGC-----------------
+Apar_0332    UCAGCAAUAAU-A----GUGAUG---------------------------
+Apar_1234    GCAAAGAC---AC-A--GCUACA-----AAA-------------------
+Apar_0765    UUCAUAUU--UAU-A-GAUAUUU---------------------------
+Apar_0597    UCCAAAGCAAUAA-A-UGC---------AACA------------------
+Apar_0326    GUAGCCCU--CUU----UCUUCC---------------------------
+Apar_0960    GCAAACUUGCUAU-A-------------AACU------------------
+Apar_0529    GUUAUCUAACUAU----GUUGUUUU-GUCAUG------------------
+Apar_0152    GCAGGCCUCGU-U----GCCUAC-----AAAAAGU---------------
+Apar_0577    AUAGGCUUACU-CGA-UACAGAA-----AAGAA-----------------
+Apar_0902    AUUAG--UGCU-UGA-UGCUA-------AAAA------------------
+Apar_0188    GUAAG--UAAUAC-A-AGCUGCAC---GAACUUCUCG-------------
+Apar_0886    AUUUG--U--UAU-A-UGUGCAC-----AAA-------------------
+Apar_0899    GCAAC--UCUU-C----GCUA-------AAAGUCA---------------
+Apar_1041    GUUUG--UA-UAAAA-GAGUUGC-----AAAAA-----------------
+Apar_1062    GUAGGAAU--UACUA-----------------------------------
+Apar_0067    GUAAA--UAAUAA-ACUACAGGU-----AAAUGCAU--------------
+Apar_0570    GUAGAGCC--UAU----GCAA-----------------------------
+Apar_0190    GCAAUCU-ACUAUGA--AU--AA-----AAAAUU----------------
+Apar_1074    GUAAU--CCACUC----CCCUUU-----UAUAGG----------------
+Apar_0897    AUAAG--UAAU-A----GCUUAU-----UAGUG-----------------
+Apar_0537    UUAAACGUGUCUU-A-------------AAUAU-----------------
+Apar_0160    UCUAAGCU--C-UGA-CCUUG-----------------------------
+Apar_1046    UCUUUCAUACU-U-A--AGUGAC-----AACA------------------
+Apar_0978    AUUAGCGC--U-U----GUUU-----------------------------
+Apar_1171    GUCCA--UCCUAA-AUAGCUUAC---------------------------
+Apar_1178    GUAACCAC--UUUUA-UAGUUAC-----UAUU------------------
+Apar_0863    AUUAG--U--UUU-A-CCUUA-------AACG------------------
+Apar_0855    GUAACACUCAUAC----AUUG-------UAUGGC----------------
+Apar_1124    UUAUG--UACUAA----GC-------------------------------
+Apar_0766    UCAUUGCUAAU-U-A--GUUUUU-----AAUAC-----------------
+Apar_0921    GCUAUCUUCCU-A----UUUG-------AAGC------------------
+Apar_0151    GUAAG--UAGUUC----GGUAAU---------------------------
+Apar_0655    ACAUGGAUCUC-A-A-----------------------------------
+Apar_0698    AUCAACUUCAUAU----GCUCUU---------------------------
+Apar_0079    GUAAGCUUA-UAA----UCUGAG-----UAUCAC----------------
+Apar_1064    GUAAG--U---AA----GU-------------------------------
+Apar_0241    AUAAG--UAGU-A----UUUAUA-----UACA------------------
+Apar_1349    UUAAG--AAAUAUCA-GUC---------AAAUUC----------------
+Apar_0600    UCAUA--UAAUAC---------------AAA-------------------
+Apar_1132    --CAGAGUAAC-U----UCUGUC-----AAAGUGA---------------
+Apar_0889    GUAAA--AAAU-U----GCACUG-----UAAUA-----------------
+Apar_1329    UUAAGAGCAUU-U-A-------------AAAG------------------
+Apar_0616    UUAAU--U--UAA-A-GCCAUAA---------------------------
+Apar_0449    UCAAA--UAAU-C-A--GCAUGA---------------------------
+Apar_0975    ACAAGACAAUCAA-A--GUUC-------AAAC------------------
+Apar_1125    UCUAGACUAGC-C----AU-------------------------------
+Apar_0896    GUAAAGAC--U-C----UGUGAU---------------------------
+Apar_1284    CUCAGCUC--UAC----GGUUUU---------------------------
+Apar_1249    CUAAGGCCGCU-C----GUUCAC-----AAAAUGUU--------------
+Apar_1023    --AAGGAU--U-C-A-----------------------------------
+Apar_0645    UCUAA--UG-CAU-A-UCUUUAU-----AAAA------------------
+Apar_1108    AUUUGAACAUC-C-A-AACACGU-----AAUA------------------
+Apar_0278    UCAAG--UAUU-U----AUAUAA-----AAAUUUA---------------
+Apar_1320    GCUGGCUUAUCAU----UG---------AACU------------------
+Apar_0390    ACAAG--CACUUU-A-------------AACUAG----------------
+Apar_1258    AUAACUGUUGUAU-A-GAUUUUC---------------------------
+Apar_0644    UUUAC--U--UAU-A-AUCUG-------AAGAAU----------------
+Apar_0841    ACAAC--U--CAC-A-CGC---------UAGU------------------
+Apar_0891    GUUACAUU--UAU-A-------------UAUAG-----------------
+Apar_0494    CUUAGACCAUUAC-A--UUUG-------AACU------------------
+Apar_0295    --UAGAACAUC-U----CCUGUA----GAAA-------------------
+Apar_0244    UCAAA--CGGUAA-A--GU---------AAGGGU----------------
+Apar_0413    UUUUGAUUG-C-A----GUUU-----------------------------
+Apar_0764    UUUAG--UAGU-CUA--UCUA-------AAUA------------------
+Apar_0136    GCAACAGAAAC-C----GCUU-------UAGG------------------
+Apar_1356    GCAAU--CAGUAC-A-GGUUUUU---------------------------
+Apar_0755    AUAAGCAUAAU-U----GCUUACA--UCAAACUC----------------
+Apar_0935    CUUAGCAUCUCAU-A-UAUUG-----------------------------
+Apar_0970    UUAAG--CAAU-U-ACAGCUAUA-----AAAAG-----------------
+Apar_1109    AUAUGCGUGGU-A-------------------------------------
+Apar_0429    AUCAGCUCAAUAA-A-----------------------------------
+Apar_1206    CUUGGGUUA-U-U-------------------------------------
+Apar_0670    AUAUG--CCAU-U----GUCU-------AAUC------------------
+Apar_0501    GUAAUCUUG-UAC-A-ACCUCAUU---GAACCUUC---------------
+Apar_0330    AUUUG--U--UUC-A-----------------------------------
+Apar_0114    --AAGACCAGCAC-A-------------AAGUG-----------------
+Apar_1174    GUAACCAUCGC-CGAGUAGUGUU-----UACU------------------
+Apar_0892    UCAUACUU--UAU-A-AGGUGAU-----AAAU------------------
+Apar_0588    GUAAUAUC--UUUGA--GC-------------------------------
+Apar_1318    UUAUG--UAACAU-A-------------AAGGUUUUUGG-----------
+Apar_1241    AUAAG--U--UAC----UGUAUU---------------------------
+Apar_0757    GUUAC--UGGCAC-AGCGUAUGU-----AAAU------------------
+Apar_0806    GCAUA--UA-CAU----AUUUUU---------------------------
+Apar_0426    GCCAACACGCUAU----AUUGCU-----AAGC------------------
+Apar_0595    GCAAGCUC--U-C----CUUCCU----CAAAC------------------
+Apar_0567    CUAAGCGU--U-CCAUGCCUU-----------------------------
+Apar_0966    UUUGGAUU--UAC----GU---------AAG-------------------
+Apar_0380    UUCUGGCUA-UAU-A-GUCUUUA-----AAGAAC----------------
+Apar_0982    GUAAAUCUAAUUA-A-CGGGU-------AAAA------------------
+Apar_1045    GCAAACUUAGUAA---------------AAUAUCCAC-------------
+Apar_0323    UUGCGCAUGAUUU-------------------------------------
+Apar_1188    GCUAGACUGGCAC-A-------------AAAUUUU---------------
+Apar_1337    UUAAGACCGGU-U-A--GAUAAU-----AAAA------------------
+Apar_0544    GCUAAACUAACAA----UUUAAU-----AAAAGCUA--------------
+Apar_1106    AUUUGAAUAAU-U-A-----------------------------------
+Apar_1093    GCAAAAA-AGUAA-A-------------AACG------------------
+Apar_0679    --AACAUU--CAU-A--GUUCAU---------------------------
+Apar_0340    UUAACCCAGUUAU-A-----------------------------------
+Apar_0457    UUUAGCUU--U-AGA-UAUUGGU----GAAGUUC----------------
+Apar_0613    AUUAGCGU--UUU-A--UCUG-------AACU------------------
+Apar_1326    UCAAAAUU--U-U-A-UGC---------AAC-------------------
+Apar_0109    ACAACAUUG-CAU-A-------------AAGAA-----------------
+Apar_1254    GCAUGAAU---AC-------------------------------------
+#=GC SS_cons :::::::::::::.:..::::::.....::::..................
+#=GC RF      gUAAgcuUAaUAU.A..GcUuaU.....AAaa..................
+
+Apar_0412    ------------UAC--AAGGGCC-UGU--------------UA-CA---
+Apar_0936    ------------ACA--AGAGUUA-GUCC------------AUUUCU---
+Apar_0918    ------------AGG--ACCCGCA-CUUA-------------AA-AU---
+Apar_1311    -----------UAA---UCCCGUC-AGGCC----------AAGUUGU---
+Apar_0082    ----------CACAA--AGGCGAG-AAGAC----------CAAUUGA---
+Apar_0962    ------------AAA--AGGCGAC-AUAG---------------UAA---
+Apar_0018    ------------AGA--AACGACC-AUCAUG--------CAGAUUGU--G
+Apar_0842    ---------AGUUAA--ACGGCCA-UCUAC-----------GCCUGU---
+Apar_0214    ------------AUC--GGCUUAA-UUCAUAUAC--GUGUAA-GUAC--A
+Apar_0604    ------------GAG--AGACGAG-AAGAG-----------AGAUCU--C
+Apar_0865    ------------AAG--CUCUUGU-UGU--------------AAUAC---
+Apar_1123    -----------UAUA--AAAAGCC-CGCA----------------GA---
+Apar_0843    ------------AAC--GGCCAUC-UAC--------------AG-GC---
+Apar_0097    ------------UGA--CCAACUC-UCCGU-----------GAAUAAACG
+Apar_0466    --------ACGAAUA--UGGGUCG-CGCUCU---------AUAAUGG---
+Apar_0740    ------------AAA--AAGGAGC-UCAC---------------UGA--A
+Apar_1312    ------------AA---UCCCGUC-AGGAAC---------AACUUGG---
+Apar_1138    ------------AUU--CAGUCUU-AUGU-------------CAUG----
+Apar_0351    -------AUAAGUUA--GGGUUCC-ACAUUUC-------GAACA-AA---
+Apar_0885    -----------CAAA--ACGCCUU-GUCA------------UCUUAG---
+Apar_0045    -----------AGAA--AUCCGAC-AGCAU----------CUAAUAG---
+Apar_0238    ------------AAC--AACUGUC-AGUAG-----------CAAUAAG-C
+Apar_1122    ------------AUA--AAAAGCC-CGCA---------------UCU---
+Apar_0235    -----------AAAC--CUCCCAU-UUCCUA--------UUAU--CU--A
+Apar_0823    ------------AAU--ACCGGAG-GGGAGA---------CACCUGC---
+Apar_0261    ------------AAA--CUCCCCA-ACAAA-----------CAA-GU---
+Apar_0878    -----------UAAA--AAGUGCU-CAC--------------AGUAA---
+Apar_1328    ---------CUUUGG--CCGAGCC-AGGA---------------UGU---
+Apar_0706    ------------UUG--AGCCGGU-UG---------------AA-GA---
+Apar_0375    ------------AAA--ACCUCUG-UAUCU----------CAUUUGG---
+Apar_0596    ------------C----AGCCCCU-C----------------GA-AA---
+Apar_0313    -------UGACUGUA--AAGGCUC-AGCU--------------UUUU---
+Apar_0265    -----------AAAC--AGCCGCC-CUCA-------------GAUAA---
+Apar_0696    ------------UUA--AGAGGGC-GGCU---------------UCG---
+Apar_0907    ------------AUA--UGCUGAG-AAGAU-----------CAAUGG---
+Apar_1040    -----------UAUA--UGCACCC-AAGU------------ACA-AA---
+Apar_0007    ----------UGAAG--AGCUCAA-GGGU---------------UAA--U
+Apar_0955    ------------CAA--AGGCGAG-AAGAU----------CAAUUGG---
+Apar_0184    ------UUACUUCAA--UCGGGUC-CAGC------------CUUUCG---
+Apar_1010    -----------AAAA--AAGAGUC-UGC--------------ACUAA---
+Apar_0266    -----------AAAC--AGCCGCC-UUCU-------------UAUCU---
+Apar_1198    ----------UUUAU--CCCUCUU-CUUAG-----------GUAUCC---
+Apar_0374    ------------AAA--ACCUCUG-UAUCC-----------AAAUGA---
+Apar_1197    ------------ACG--AACCCCU-ACUC---------------UGC---
+Apar_0489    CAGUGCUUACACGGC--GUGACCC-UGCUCAUGGAUCCUGAGGUUCC--A
+Apar_0609    -------UUGGCGCC--ACGGUUU-GUGUUUC------GUUUGAUAG--A
+Apar_0428    ----------UUGAA--CCCUGUU-CUGA-------------UUUAU---
+Apar_0337    -----------AUAA--ACCCCAG-CUGU---------------UAA--A
+Apar_0547    ------------AAA--AGAGGAG-C----------------AAUAA---
+Apar_0846    -----------UAUG--CGCACUU-CAGAAA---------ACAAU-----
+Apar_1256    ------------AGA--UACGGCU-UUGAUGUA-----CAGAUUUGUC-A
+Apar_0648    ----------CAAAA--ACCCUCG-UAUU------------CAA-GA--U
+Apar_1103    -----------AAAC--AGCCGCC-U----------------AA-GC---
+Apar_0359    ------------UGG--CCAGGUG-GACA-------------GC-GC---
+Apar_0890    ----------UCAAA--AGGAGAC-C----------------UU-CG---
+Apar_0607    ------------UGU--ACUGGCU-UAUCUU---------GAAA-GA---
+Apar_0877    ------GUAUGAAAA--AAGUGCU-CAC--------------AUUAC---
+Apar_0011    ------------AAA--UAGCGAG-AAGAU----------CAGCUGG---
+Apar_1314    ------------AAG--UGGCAUC-GUCA---------------UAA---
+Apar_0133    ------------AAA--GCCUGGU-AGC--------------AAUGA---
+Apar_0546    ------------AAA--AGAGGAG-C----------------UU-AU---
+Apar_0414    ------------AAA--GCCAUUC-UUC--------------AA-AA---
+Apar_0854    --------CGGCG----GAGCUCA-UAGA---------------UAA--U
+Apar_1228    ------------AGC--UGGCGAG-AAGU---------------UCG--G
+Apar_0847    ------------AAG--CGCACUU-CAGC-------------AUUGUU-U
+Apar_1096    ------------UGC--AAGCUCU-UUGAUG---------CAACUGU---
+Apar_0431    ----------AAAAU--UAGGGCG-AGAA-------------AUUCU---
+Apar_0178    ------GGAUAAGAA--UCCUGGC-GAGAGAA-------GCGAU-UU---
+Apar_0971    ---------AUUUGA--UCCCUCG-UACC-------------AAUCU---
+Apar_0060    ------------AAA--GAGGGGC-CGC--------------AA-AU---
+Apar_1150    ------------GAA--CCCCGUU-AUCG---------------UUA---
+Apar_0070    ---------CACAGC--UCGGUAU-CUGC-------------GUUCC--U
+Apar_1141    --------AUCAUAA--AGGGGCC-UG---------------GA-AA---
+Apar_1173    ------------UUA--AUCCGGU-AUCU------------GCUUGC---
+Apar_0394    ------------AAA--GACGUGA-GAGU------------U---AA--A
+Apar_1015    ------------AAA--AGCCGAC-AG---------------UU-CAU-A
+Apar_1070    ------------AUA--AGGCGAG-AAGAU-----------CGAUGG---
+Apar_0262    ------------AAA--CUCCCCA-ACAA------------ACUUGU---
+Apar_0372    ------------AUG--GCGAGAA-GAUCUUUG-----AAGCAA-AA---
+Apar_0521    -----------CAGA--UUUGCAU-AGGUGC---------GGUAUAG--U
+Apar_0739    -----------AAAA--AGGAGCU-CG---------------UUUCA---
+Apar_0649    ----------AGAAA--ACCCUCG-UAUCA-----------UCUUGA---
+Apar_1159    ------------CUC--CCGUGCC-UC-----------------UUU---
+Apar_0077    ------------AUA--AGGCGAG-AAGAC----------CGAUUGA---
+Apar_0954    -----------UAAA--CUGCGUU-AACU-------------AUUU----
+Apar_1365    ------------UUG--AUGAGGA-AGG--------------UUUAC---
+Apar_0284    ----------GUAAA--AUCCCAA-CACC---------------UAA--A
+Apar_0213    ------------AUC--AGCUUAA-UUCAUGUACU-UACACGUAUAU---
+Apar_0234    -----------UUAC--CUCCCAU-UUCUUA--------GAUAAUAG---
+Apar_1196    ----------ACAAA--ACGAACC-CUUAC----------UGCA-GA--G
+Apar_1002    ----------AAAAA--AGACCCG-UAGC------------UGUUGA---
+Apar_1275    ------------GGA--GCCCCAA-UGCA------------GCCUCU---
+Apar_1355    ---------ACAAAG--AAGGGGU-AGA--------------AAUC----
+Apar_0293    -----------GAAGGUUGGGCCC-UGACU----------CACUUAAG-C
+Apar_0100    ------------ACU--GGUGCUG-UGUC-------------AA-AA---
+Apar_0289    ------GUAUUUAGG--ACUCCAC-GGG--------------UUUCU--C
+Apar_1338    ------------UGA--AAUGGUC-UUCAAA---------AAAUUGU---
+Apar_0578    ------------AAA--CUCGCUU-AAUCCAU------AUCAAAUAG---
+Apar_0279    ------------AGA--AACCCCU-C----------------CU-AC--U
+Apar_1287    ------------AAG--GGCGGCC-U----------------UUUAA---
+Apar_0439    ------------ACC--GCACGUGCAGCAUU---------UU---CAGCA
+Apar_0411    ------------AGA--AACGCCG-GUG--------------CAUCG---
+Apar_1169    ------------A----GGACUUC-AGCU-------------GU-UA---
+Apar_0378    -----------UAAA--AGCCCUG-UCAUG----------CAUAUAC---
+Apar_0905    ------------AAA--UCCCCCG-UGCAG-----------AAAUC----
+Apar_1022    ------------AAA--GAUGUGC-UUCU------------UAA-A----
+Apar_0236    ------------AUG--ACGAGAA-GAAC-------------UUUGAA-A
+Apar_0743    ------------AAG--AAGGAAG-CUGGUA---------UAAAUAU---
+Apar_0512    ------------AAU--AUGUGCG-UGUUAU---------AC-CUAU---
+Apar_0068    ------------AUA--GGGCGAG-AAG--------------AUUGA---
+Apar_1001    -----------AAAA--AGACCCG-CAGCU-----------CAA-CA---
+Apar_0463    ------------UUA--CGGCCAG-AAGC-------------UUUGG---
+Apar_0888    -------UAUAUAAA--AGGAGCU-UCGA------------GAA-AU---
+Apar_0186    ------------AAC--GGGCGAG-AAGA---------------UCG--G
+Apar_0029    --------AAUCAGA--AUGGGUG-UCCACUU------AAAAAA-GA---
+Apar_0742    ----UCUUACAAAAA--CACCUCC-UGGC-------------CAUGU---
+Apar_1102    ------------AAG--AACAGCC-GCCC------------GCU-UA---
+Apar_0951    ------------ACC--GAGGUAG-UGCCC-----------CAA-CA---
+Apar_0802    ------------UAA--AACGGAC-UC---------------CUUG----
+Apar_0386    ----------CUAAA--AACUGCC-UUCC-------------AC-CG---
+Apar_0538    ----------AAAGC--CCCGGCU-UCUA------------UGUUGC--A
+Apar_0974    ------------UUU--GAGCA--------------------AAUAA---
+Apar_1163    --------CUUGCAA--ACCCUCC-UGCG------------CAUUCAC-G
+Apar_0714    ------------A------GCGCU-UGGC------------UAUUAA---
+Apar_0381    ------------AAG--CGCGGUG-AG-----------------UUU---
+Apar_0956    ----------AAAAA--GGCGAGA-AGACC-----------AAUUGA---
+Apar_0900    ----------AUAAU--GAGUUGA-UGCU-------------AUUAU--U
+Apar_0803    -----------AAAA--ACGGACU-C----------------CA-AG---
+Apar_1071    ------------AAA--AGGCGAG-AAGA------------CCAUCG--A
+Apar_0866    ------------AAG--CUCUUGU-UGUG---------------UAU---
+Apar_1078    ------------AAG--GACGGAU-GUUU------------CUCUGU--G
+Apar_1187    ------------UAG--CCCGGCA-UCUGC-----------UGUUGU---
+Apar_0834    ------------UGG--CGUCACC-AAGU-------------AUUUU---
+Apar_0315    ------------AAA--AAGCAGG-CAUA---------------UGA---
+Apar_0695    -----------UUAA--AUGAGCA-UUU--------------AUUUU---
+Apar_0311    ------------AAA--ACCCUGU-UAUG---------------UAA---
+Apar_0659    ------------AAA--GCCUGCU-GUAAUG---------CCAA-AA---
+Apar_0237    ------------UGA--CGGUUGG-UAA--------------AA-GU---
+Apar_1361    -----------AAAG--AAGGGGC-U----------------CUUAC---
+Apar_0016    ------------AUC--UGGCGAG-AAAAACUUGC-AGUUGCAA-GG---
+Apar_0887    ------------AAA--AGGAGCU-CCGA-------------UUUCU---
+Apar_1054    -----------UAAC--CGGCUCC-UU---------------GA-GA---
+Apar_0332    ------------AAG--UACGCCC-GGCC---------------UAG---
+Apar_1234    ------------GAC--ACCCUGU-GGGU-------------UAUGA---
+Apar_0765    ------------GAU--AGGGGAU-CGA--------------GCUAU---
+Apar_0597    -----------AUUC--GCCCUCA-UCU--------------AGUGG---
+Apar_0326    ------------UAC--CCUGAGC-AGAC------------CCC-CA---
+Apar_0960    -----------UUAA--GCGGCAU-CUAA------------GGUUCU---
+Apar_0529    ------------AUA--CCGUGCA-AGU--------------AUUGA--A
+Apar_0152    ---------CGCAAG--GAGGCUC-GUCCAG---------GUUUUGC--U
+Apar_0577    ----------CUUGA--UUCAGCC-GCA--------------GAUGA---
+Apar_0902    ------------AUA--AUGAGGC-GCU--------------UA-AC---
+Apar_0188    ------CGUAAUAAA--UCCCUGC-UUCA-------------CUUGU---
+Apar_0886    ------------AAA--CGCCUUG-CCAC------------UAA-GA---
+Apar_0899    --------AACUAUC--UGGCGAG-AAAA---------------UCG--A
+Apar_1041    ----------AAAUA--UGCACCC-AAG--------------UUUGU---
+Apar_1062    ------------AAA--AGGACGU-GCC----------------UAU---
+Apar_0067    -------ACUAUAAA--GGGCGAG-AAGA---------------UCA--A
+Apar_0570    ------------A----GGGGUCU-UGG--------------AGUCA---
+Apar_0190    ----------AAA----AGCCAGC-AGAA-------------UUUAC--A
+Apar_1074    ---------ACGAGA--AGGGCGU-AGAUG----------CUCGUGG--C
+Apar_0897    -----------UCAA--AUGGAGC-UGC--------------UAUUU---
+Apar_0537    -----------CAGC--CCCGGUU-CCUAU----------GCAA-CA---
+Apar_0160    ------------GGA--CGAGAAG-AUCC-------------UUUGC---
+Apar_1046    -----------AAAG--GUCCUUC-UCGU-------------CA-GC---
+Apar_0978    ------------ACU--UGGCCUC-CCCGUC--------AGAUAUGA---
+Apar_1171    ------------UGA--AGAGGUC-AGAC-------------UUUGG---
+Apar_1178    ------------UUG--CCCGGCG-UGC--------------UUUU----
+Apar_0863    ------------UAA--AAAGGUC-GCC----------------UC----
+Apar_0855    ----------CAAGA--AGGCCGG-UUC--------------UUUAG---
+Apar_1124    ------------AAA--CGAGCAG-AAGAGU---------GCUUUGA--C
+Apar_0766    ----------UAGAG--GAGGCGU-GUCCAAGG-----UGAGGUUUU---
+Apar_0921    ------------AUC--UGCCGAG-AAAC-------------CC-GG---
+Apar_0151    ------------GUA--CACCCGCUUGCC-------------AA-CG---
+Apar_0655    ------------UGA--CCCGCUC-AC---------------AGUUU---
+Apar_0698    ------------UGA--AGCCGCC-U------------------UC----
+Apar_0079    ---------UUGAA---GCCAGCC-AUCG-------------UAUUA---
+Apar_1064    ------------AUG--ACGGGUG-UCCA-------------CAUGU---
+Apar_0241    ------------UUG--GGUCUGC-GUGGAGA-------CAAGCUCU---
+Apar_1349    ----------UCUUA--AGGACCC-UCAG------------GAA-AA---
+Apar_0600    ------------UUC--AAGGGCA-UCUA------------CAUUGG---
+Apar_1132    --------AUGUAAA--GAGGUCC-UGGC------------UUUUUU---
+Apar_0889    -----------AAAA--AGGAGAC-C----------------CG-AA---
+Apar_1329    -----------CGCA--AUCAAUG-CGUGAU--------AAAACUAU---
+Apar_0616    ------------AAA--AGGAGGU-C----------------GA-AA---
+Apar_0449    ------------AAA--CCCCUCU-UCUGC-----------ACA-GG---
+Apar_0975    -----------GAAA--ACCCCUC-UGCUCCA-------UAUACUGG---
+Apar_1125    ------------CAA--AGCCGAC-AU-----------------UGU---
+Apar_0896    ------------AAU--AUAGAAC-G-------------------AA---
+Apar_1284    ------------UAG--GGCGCUC-GUGG------------AAA-G---C
+Apar_1249    --------CUCAUGG--AGGCCUG-UCG--------------UCUU----
+Apar_1023    ------------A----UUCUCCC-CGCA------------GUUUAG---
+Apar_0645    ------------AAC--UCCCG--------------------CAUAA--A
+Apar_1108    -----------GAAA--AGGCGCU-UACC---------------UAG---
+Apar_0278    ---------GCGAGA--AACCCUU-U----------------GA-GU--A
+Apar_1320    ------------AAG--CGGCGGU-ACGU------------CUAUCG---
+Apar_0390    ----------CGUAG--AAGAGCC-UC---------------GU-CA---
+Apar_1258    ------------AUA--GCCCGAU-UUCA---------------UGU--A
+Apar_0644    ---------UUUAUC--AACUCCC-GC---------------UUUAU---
+Apar_0841    -----------AACC--CGCCUUG-CAGU---------------UCU---
+Apar_0891    -----------CAAU--AAACCCC-AGUUC----------GCAAUGA---
+Apar_0494    -----------GAUA--AGCGUCC-AGC----------------UUU---
+Apar_0295    ------------AAC--ACCUACC-CGCA-------------AAUAU---
+Apar_0244    ---------AAUAUU--CAAAGGC-U----------------CUUUAA-A
+Apar_0413    ------------AAA--GCCAUUC-UUCU---------------UUU---
+Apar_0764    ------------UUU--AGGGGAU-CG---------------AAUAG--C
+Apar_0136    ------------AGC--AACACAU-CC---------------AA-CC---
+Apar_1356    ------------AAG--AAGGGGU-AGA--------------GA-UU---
+Apar_0755    ---------ACUUUA--GGCUGGC-AAGA------------U--UGUA-U
+Apar_0935    ------------GGG--CCCGAGC-GUUU-------------UAUCU--A
+Apar_0970    ----------GGGCG--AGCCGCU-GACAC-----------CCA-GA---
+Apar_1109    ------------AAA--AGGCGUC-UACC---------------UAG---
+Apar_0429    ------------AGU--GCUUGAA-GUCA-------------GAUUU---
+Apar_1206    ------------AAA--CAGUAAA-U----------------AA-GU---
+Apar_0670    ------------AGA--UCCAGGG-UGCU------------UCAUCA---
+Apar_0501    ---------UUCCAG--CACCACC-UCAA-------------AA-CC---
+Apar_0330    ------------GUC--AGGCGGU-CUUU---------------UAU---
+Apar_0114    -----------CAGA--AUCGGGG-UGG--------------CUUCG---
+Apar_1174    ------------CCC--AUCAGUC-A----------------UUUGU---
+Apar_0892    ------------AA---ACCCCAA-CUC--------------AUUGC---
+Apar_0588    ------------UUG--AUGUGCC-AGAAGCC-------UCAAUUGG---
+Apar_1318    ----AGUGCGUAUUA--AGAAGGC-CAU--------------CGUGU---
+Apar_1241    ------------GAU--AAGGCCC-AAG--------------AAUAA--A
+Apar_0757    -----------ACGA--AGGAGAG-GGGCU-----------CAA-AA---
+Apar_0806    ------------AGU--AUCCGUC-C----------------CAUGA--A
+Apar_0426    ------------AGA--ACGGGGU-GGUU-------------UUUAA---
+Apar_0595    -----------AA----ACCCCUC-UCGC---------------UGC--A
+Apar_0567    ------------AAA--UGCUUGU-UGCA------------AUUUGU---
+Apar_0966    ------------AGU--UCCCGUU-UCUU------------AUUUGU---
+Apar_0380    ---------GUUAAA--ACCCCGC-AG---------------UUUAG---
+Apar_0982    -----------GGUA--UGGGGUC-GCUC-------------UUUGG---
+Apar_1045    -------AUGUAAAA--AUCCUUC-UCG--------------GCUGA---
+Apar_0323    ------------AAA--GCCCCGC-CA------------------GU---
+Apar_1188    ---------UUGAUC--GCCCCGU-GUC----------------UGU--C
+Apar_1337    ------------A----AGAGCUC-C------------------UGA---
+Apar_0544    --------ACACGAA--AACAGCA-AAUCA-----------AAA-AA---
+Apar_1106    ------------AAA--ACGGCCC-AG---------------GU-AA---
+Apar_1093    -----------UAUG--ACGGUGC-AUC--------------AA-GG---
+Apar_0679    ------------UUA--AGGGGCC-C----------------UUUG----
+Apar_0340    ------------ACU--AAGAGCU-UUAG-------------AGUGU--A
+Apar_0457    ----------GCA----UCGGGGU-UGC--------------UGUAA---
+Apar_0613    ------------AAG--ACCGGUC-UU---------------AA-AA---
+Apar_1326    ------------UGA--GCGCGUA-UGGCG-----------AGA-AA---
+Apar_0109    ----------ACAA---AGCCGCG-C----------------UUUC----
+Apar_1254    ------------ACG--CCCUGUU-GGUUUA---------GAAAUAU---
+#=GC SS_cons ............:<<..<<<<<<<.<<<_............._____...
+#=GC RF      ............AAA..agccgcc.agca.............aaUga...
+
+Apar_0412    UACAGGCCCUUUUU
+Apar_0936    -GACUAACUCUUGU
+Apar_0918    UAGGUGCGGGUUCU
+Apar_1311    UCCUGACGGGA-UU
+Apar_0082    UCUUCUCGCCUUUU
+Apar_0962    -UAUGUCGCCUUUU
+Apar_0018    UGAUGGUCGUUUUU
+Apar_0842    -AGAUGGCCGUUUU
+Apar_0214    UGAAUUAAGCUGAU
+Apar_0604    UCUUCUCGUCUCUU
+Apar_0865    -ACAACAAGAGCUU
+Apar_1123    UGCGGGCUUUUUAU
+Apar_0843    -GUAGAUGGCCGUU
+Apar_0097    UGGGGAGUUGGUUU
+Apar_0466    -GUGCGACCCAUUU
+Apar_0740    ACGAGCUCCUUUUU
+Apar_1312    -CCUGACGGGA-UU
+Apar_1138    -CAUAAGACUAUUU
+Apar_0351    -UGUGGAACCCUUU
+Apar_0885    UGGCAAGGCGUUUU
+Apar_0045    UGCUGUCGGAUUUU
+Apar_0238    UGCUGGCAGUUGUU
+Apar_1122    -GCGGGCUUUUUAU
+Apar_0235    AGAAAUGGGAGGU-
+Apar_0823    UCUCCUCCGGUGUU
+Apar_0261    UUGUUGGGGAGUUU
+Apar_0878    UGUGAGCACUUUUU
+Apar_1328    -CCUGGCUCGGCUU
+Apar_0706    --CAACCGGCUCUU
+Apar_0375    -AUACAGAGGUUUU
+Apar_0596    ---GAGGGGCU--U
+Apar_0313    GGCUGAGCCUUUUU
+Apar_0265    -GAAGGCGGCUGUU
+Apar_0696    -GUCGCCCUCUUUU
+Apar_0907    UCUUCUCGGCAUUU
+Apar_1040    -CUUGGGUGCAUAU
+Apar_0007    UCCCUUGAGCUCUU
+Apar_0955    UCUUCUCGCCUUUU
+Apar_0184    -CUGGGCCCGAUUU
+Apar_1010    -GCAGGCUCUUUUU
+Apar_0266    -GAGGGCGGCUGUU
+Apar_1198    UAGGAAGAGGGAUU
+Apar_0374    GAUACAGAGGUUUU
+Apar_1197    -AGUAAGGGUUCGU
+Apar_0489    UGCGGGGUCACGCU
+Apar_0609    ACACAGACCGUGGC
+Apar_0428    UCAGAGCAGGGUUU
+Apar_0337    GCAGCUGGGGUUUU
+Apar_0547    ---GCUCCUCUUUU
+Apar_0846    GCUGAAGUGCGCUU
+Apar_1256    UCGAGGCCGUAUCU
+Apar_0648    GAUACGAGGGUUUU
+Apar_1103    ---GGGCGGCUGU-
+Apar_0359    -GUCUGCCUGGCC-
+Apar_0890    ---GGUCUCCUUUU
+Apar_0607    GAUAAGCCAGUACU
+Apar_0877    UGUGAGCACUUUUU
+Apar_0011    UCUUCUCGCUUUUU
+Apar_1314    -GGCGGUGCCACUU
+Apar_0133    -GUUGCCAGGCUUU
+Apar_0546    U--GCUCCUCUUUU
+Apar_0414    -GAAGAAUGGCUUU
+Apar_0854    UCUGUGGGCUC--U
+Apar_1228    UUUUCUCGCCAGUU
+Apar_0847    UCUGAAGUGCGCAU
+Apar_1096    UCAAAGAGCUUGUU
+Apar_0431    -UCUCGUCCUAAUU
+Apar_0178    UCUCGCCAGGUUUU
+Apar_0971    GGUACGAGGGAUUU
+Apar_0060    -GCGGUCCCUCUUU
+Apar_1150    -GAUAGCGGGGUUU
+Apar_0070    GCAGGUAUCGAGCU
+Apar_1141    --CAGGCCCCUUUU
+Apar_1173    AGGUACCGGAUUUU
+Apar_0394    CCUUUCACGUCUUU
+Apar_1015    U-CUGUCGGCUUUU
+Apar_1070    UCUUCUCGCCUUUU
+Apar_0262    UUGUUGGGGAGUUU
+Apar_0372    GAUCUUCUCGCCAU
+Apar_0521    ACCUAUGCAAACUU
+Apar_0739    G-UGAGCUCCUUUU
+Apar_0649    -AUACGAGGGUUUU
+Apar_1159    U-GAGGUACGGGUU
+Apar_0077    UCUUCUCGCCUUUU
+Apar_0954    GGUUAGCGCAGUUU
+Apar_1365    GCCUUCCUCUUUUU
+Apar_0284    GGUGCUGGGAUUUU
+Apar_0213    -GAAUUAAGCCGAU
+Apar_0234    -GAAAUGGGAGGUU
+Apar_1196    UAGGGGUUCGUUUU
+Apar_1002    GCUGCGGGUCUUUU
+Apar_1275    -GCAUUGGGGCUCU
+Apar_1355    -UCUACCCCUUCUU
+Apar_0293    GUCAGGGCCCACUU
+Apar_0100    GAUACAGCACCAG-
+Apar_0289    GCCCGUGGAGUUUU
+Apar_1338    -GGAGACCAUUUCU
+Apar_0578    -AAUAAGCGAGUUU
+Apar_0279    C--AAAGGGUUUCU
+Apar_1287    ---AGGUCGCCUUU
+Apar_0439    AGCUCACGUGCGGU
+Apar_0411    -CAUCGGCGUUUUU
+Apar_1169    -GCUGGAGUCC--U
+Apar_0378    AUGACAGGGAUUUU
+Apar_0905    -GUACGGGGGAUUU
+Apar_1022    AGAGGUACAUCUUU
+Apar_0236    GUUCUUCUCGUCUU
+Apar_0743    -CAGCUUCCUUCUU
+Apar_0512    AAUACGCACAUAUU
+Apar_0068    UCUUCUCGCCCUUU
+Apar_1001    GCUACGGGUCUUUU
+Apar_0463    GUUUCUGGCCGUAU
+Apar_0888    -CGGAGCUCCUUUU
+Apar_0186    UCUUCUCGCCCGUU
+Apar_0029    -GGACACCCAUGUU
+Apar_0742    GCUGGGAGGUGUUU
+Apar_1102    -GGCGGCUGUUUUC
+Apar_0951    GGUGCUGCCUCGGC
+Apar_0802    --GAGUCCGUUUUU
+Apar_0386    -GGAGGCAGUUUUU
+Apar_0538    UAGGAACCGGGGCU
+Apar_0974    U-----UGUUCAUU
+Apar_1163    UGCGGGAGGGUUUU
+Apar_0714    -CCAAGCGC----U
+Apar_0381    --CUCGCCGCGCUU
+Apar_0956    -UCUUCUCGCCUUU
+Apar_0900    UGCAUCAACUCAUU
+Apar_0803    ---GAGUCCGUUUU
+Apar_1071    UCUUCUCGCCUUAU
+Apar_0866    UACAACAAGAGCUU
+Apar_1078    GAGCAUUCGUCCUU
+Apar_1187    -AGGUGCCGGGUUU
+Apar_0834    GCUUGGUGACGCAU
+Apar_0315    UAUGCCUGCUUUUU
+Apar_0695    -GGAUGCUCAUUUU
+Apar_0311    UAUAGCAGGGUUUU
+Apar_0659    UUGCAGCAGGCUUU
+Apar_0237    UUUACCAACCGUCU
+Apar_1361    U--GGCCCCUUCUU
+Apar_0016    GCUUCUCGCCAGUU
+Apar_0887    -CGAAGCUCCUUUU
+Apar_1054    --AAGGAGCCGGUU
+Apar_0332    -GUUGGGCGUACUU
+Apar_1234    GCUCGCAGGGUGUU
+Apar_0765    -UCGAUCCCCUAA-
+Apar_0597    UAGAUGAGGGCGUU
+Apar_0326    -UCUGCUCAGGGUU
+Apar_0960    -UGGAUGCCGCUUC
+Apar_0529    UACCUGCACGGUAU
+Apar_0152    UGGCGAGCCUCUCU
+Apar_0577    -UGCGGCUGAAUUU
+Apar_0902    -AGUGUCUCAUUAU
+Apar_0188    UGGAGCGGGGAUUU
+Apar_0886    -UGACAAGGCGUUU
+Apar_0899    UUUUCUCGCCAGGU
+Apar_1041    ACUUGGGUGCAUAU
+Apar_1062    -GGCGCGUCCUUUU
+Apar_0067    UCUUCUCGCCCUAU
+Apar_0570    UCUGAGACCCC--U
+Apar_0190    CUCUGUUGGCU--U
+Apar_1074    AUUUACGUCCUUUU
+Apar_0897    -GCAGCUCCAUUUU
+Apar_0537    UAGAAGCCGGGGCU
+Apar_0160    -GGUCUUCUCGUCU
+Apar_1046    -CGAGAAGGAUUUU
+Apar_0978    CGGAGGGGCCAAGU
+Apar_1171    -UCUGGCCUCUUUU
+Apar_1178    UGCGCGCCGGGUUU
+Apar_0863    -GGCGACCUUUUUU
+Apar_0855    -GGGCCGGCCUUCU
+Apar_1124    CCUUCUGCUCGUUU
+Apar_0766    -GGCAUGCCUCCUU
+Apar_0921    GUUUCUCGGCAUUU
+Apar_0151    -GCAGCGGGUGUUU
+Apar_0655    --GUGGGCGGGUUC
+Apar_0698    ---GGGCGGCUUUU
+Apar_0079    -GGUGGCUGGC-UU
+Apar_1064    UGGGCACCCGUCUU
+Apar_0241    -CAUGCAGACCCUU
+Apar_1349    -UGAGGGUUCUUAU
+Apar_0600    CAGGUGCCCUUGUU
+Apar_1132    GCUGGGACCUCUUU
+Apar_0889    ---GGUCUCCUUUU
+Apar_1329    UGUGCGUUGAUUGC
+Apar_0616    ---GACCUCCUUUU
+Apar_0449    UAGAAGAGGGUUUU
+Apar_0975    AACAGAGGGAUUUU
+Apar_1125    --AUGUCGGCUUUU
+Apar_0896    ---CGUUCUAUAUU
+Apar_1284    CCGCGGGCGCCCUU
+Apar_1249    UCGGCAGGUCUCUU
+Apar_1023    -GUGGGGAGAA--U
+Apar_0645    G-----CGGGAGUU
+Apar_1108    -GUAGACGCCUUUU
+Apar_0278    G--GAGGGGUUUCU
+Apar_1320    GCGUGCCGCCUUUU
+Apar_0390    --GGGGCUCUUCUU
+Apar_1258    UGAAGUCGGGCUAU
+Apar_0644    --GCGGGAGUUUUU
+Apar_0841    -CUGCGGGGCGGGC
+Apar_0891    -GUUGGGGUUUAUU
+Apar_0494    -GCUGGGCGCUUUU
+Apar_0295    -GCAGGUAGGCGUU
+Apar_0244    U--AGUCUUUGAUU
+Apar_0413    -GAAGAAUGGCUUU
+Apar_0764    U-CGAUCCCCUAUC
+Apar_0136    --GGGUGUGUUGCU
+Apar_1356    -UCUACCCCUUCUU
+Apar_0755    GCUUGUCAGCCUUU
+Apar_0935    UAACGCUCGGGUUU
+Apar_0970    -GUCAGCGGCUCGU
+Apar_1109    -GUAAGCGCCUUUU
+Apar_0429    -GGCUUCAAGCACU
+Apar_1206    U--AUUUACUGUUU
+Apar_0670    -G-GCCUUGGAUCU
+Apar_0501    -UGGGGUGGUGUUU
+Apar_0330    -AAGGCCGUCUGUU
+Apar_0114    GCUGCCCCGUUUUU
+Apar_1174    U--UGACUGAUGGU
+Apar_0892    -GAACUGGGGU-UU
+Apar_0588    UACUGGCACAUCUC
+Apar_1318    -AUGGUCUUCUUUU
+Apar_1241    ACUUGGGUCUUUUU
+Apar_0757    -UCCUUCUCCUUUU
+Apar_0806    G--GGGCGGAUUUU
+Apar_0426    -ACCACCCUGUUUU
+Apar_0595    ACGAGAGGGGU--U
+Apar_0567    UGCAAUUAGCAAUU
+Apar_0966    AAGAGGCGGGAGCU
+Apar_0380    --CUGCGGGGUUUU
+Apar_0982    -AGUGGCCCCAGUU
+Apar_1045    -CGAGAAGGACCUU
+Apar_0323    --UAGCGGGGCUUU
+Apar_1188    UGGCGCGGGGCGUU
+Apar_1337    A--GGAGCUCC--U
+Apar_0544    GGUUUACUGUUUUU
+Apar_1106    A-CUGAGCCGUUUU
+Apar_1093    -GGUGCACCGUUUU
+Apar_0679    ---AGGUCCCUUUU
+Apar_0340    UUAGUGUUCUUAGU
+Apar_0457    -GUGACCCCGA--U
+Apar_0613    --AAGGCCGGUUUU
+Apar_1326    -CCCUAUGCGCUUU
+Apar_0109    ---ACGCGGCU-UU
+Apar_1254    -ACCAACAGGGCGU
+#=GC SS_cons _>>>>>>>>>>>>:
+#=GC RF      UgcuggcggcuUUU
+//

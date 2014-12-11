@@ -1,0 +1,962 @@
+# STOCKHOLM 1.0
+#=GF ID top.fa.motif.h1-1
+#=GF AU Infernal 1.0.2
+
+#=GS CHAB381_1191 WT 0.55
+#=GS CHAB381_0599 WT 0.38
+#=GS CHAB381_1442 WT 0.78
+#=GS CHAB381_0625 WT 0.77
+#=GS CHAB381_1124 WT 1.25
+#=GS CHAB381_0249 WT 1.26
+#=GS CHAB381_0624 WT 0.77
+#=GS CHAB381_0129 WT 1.08
+#=GS CHAB381_0063 WT 1.06
+#=GS CHAB381_0408 WT 1.17
+#=GS CHAB381_1559 WT 0.54
+#=GS CHAB381_1658 WT 0.99
+#=GS CHAB381_0767 WT 0.91
+#=GS CHAB381_0569 WT 0.83
+#=GS CHAB381_1648 WT 1.19
+#=GS CHAB381_0774 WT 0.74
+#=GS CHAB381_0429 WT 0.64
+#=GS CHAB381_1582 WT 1.09
+#=GS CHAB381_0793 WT 1.39
+#=GS CHAB381_1400 WT 1.00
+#=GS CHAB381_1703 WT 1.34
+#=GS CHAB381_0538 WT 0.91
+#=GS CHAB381_0966 WT 0.88
+#=GS CHAB381_0401 WT 0.91
+#=GS CHAB381_1438 WT 0.30
+#=GS CHAB381_1441 WT 0.78
+#=GS CHAB381_1556 WT 1.00
+#=GS CHAB381_1565 WT 1.00
+#=GS CHAB381_1433 WT 0.30
+#=GS CHAB381_0591 WT 1.20
+#=GS CHAB381_1348 WT 1.43
+#=GS CHAB381_1104 WT 1.11
+#=GS CHAB381_0247 WT 0.99
+#=GS CHAB381_1742 WT 0.95
+#=GS CHAB381_0545 WT 1.07
+#=GS CHAB381_1739 WT 1.52
+#=GS CHAB381_0612 WT 1.19
+#=GS CHAB381_1241 WT 0.93
+#=GS CHAB381_1420 WT 1.43
+#=GS CHAB381_0858 WT 0.77
+#=GS CHAB381_1341 WT 1.17
+#=GS CHAB381_0714 WT 0.64
+#=GS CHAB381_1687 WT 0.91
+#=GS CHAB381_0610 WT 1.08
+#=GS CHAB381_1339 WT 0.89
+#=GS CHAB381_1006 WT 0.74
+#=GS CHAB381_0986 WT 1.19
+#=GS CHAB381_0361 WT 1.16
+#=GS CHAB381_1156 WT 1.19
+#=GS CHAB381_0556 WT 1.16
+#=GS CHAB381_1495 WT 1.08
+#=GS CHAB381_1647 WT 0.74
+#=GS CHAB381_0481 WT 1.17
+#=GS CHAB381_0693 WT 1.11
+#=GS CHAB381_1757 WT 0.94
+#=GS CHAB381_0715 WT 0.64
+#=GS CHAB381_0032 WT 0.84
+#=GS CHAB381_1500 WT 0.96
+#=GS CHAB381_0670 WT 0.77
+#=GS CHAB381_1368 WT 1.00
+#=GS CHAB381_1216 WT 1.03
+#=GS CHAB381_1657 WT 0.91
+#=GS CHAB381_1691 WT 0.94
+#=GS CHAB381_1155 WT 0.99
+#=GS CHAB381_1554 WT 0.83
+#=GS CHAB381_0332 WT 1.34
+#=GS CHAB381_0110 WT 0.67
+#=GS CHAB381_0255 WT 1.19
+#=GS CHAB381_1235 WT 1.09
+#=GS CHAB381_0498 WT 0.87
+#=GS CHAB381_1562 WT 0.54
+#=GS CHAB381_1194 WT 0.38
+#=GS CHAB381_0809 WT 0.93
+#=GS CHAB381_0965 WT 0.88
+#=GS CHAB381_1338 WT 0.89
+#=GS CHAB381_1069 WT 1.06
+#=GS CHAB381_1791 WT 0.69
+#=GS CHAB381_1199 WT 0.30
+#=GS CHAB381_0430 WT 0.64
+#=GS CHAB381_0785 WT 0.75
+#=GS CHAB381_0311 WT 0.98
+#=GS CHAB381_0039 WT 1.37
+#=GS CHAB381_0555 WT 0.83
+#=GS CHAB381_1792 WT 0.78
+#=GS CHAB381_0750 WT 1.11
+#=GS CHAB381_0257 WT 1.19
+#=GS CHAB381_0363 WT 1.25
+#=GS CHAB381_0449 WT 1.07
+#=GS CHAB381_1346 WT 1.18
+#=GS CHAB381_1568 WT 1.02
+#=GS CHAB381_1729 WT 0.94
+#=GS CHAB381_0992 WT 1.28
+#=GS CHAB381_0588 WT 0.46
+#=GS CHAB381_1726 WT 1.25
+#=GS CHAB381_0524 WT 1.62
+#=GS CHAB381_0775 WT 0.74
+#=GS CHAB381_1514 WT 0.98
+#=GS CHAB381_1056 WT 1.37
+#=GS CHAB381_1362 WT 1.11
+#=GS CHAB381_0745 WT 1.53
+#=GS CHAB381_0928 WT 1.18
+#=GS CHAB381_1243 WT 0.87
+#=GS CHAB381_1692 WT 0.75
+#=GS CHAB381_0167 WT 1.31
+#=GS CHAB381_0549 WT 1.12
+#=GS CHAB381_0803 WT 1.24
+#=GS CHAB381_0438 WT 0.84
+#=GS CHAB381_1131 WT 1.08
+#=GS CHAB381_1598 WT 0.98
+#=GS CHAB381_0739 WT 0.88
+#=GS CHAB381_1126 WT 0.69
+#=GS CHAB381_0572 WT 0.75
+#=GS CHAB381_1223 WT 0.69
+#=GS CHAB381_0568 WT 0.83
+#=GS CHAB381_0508 WT 0.99
+#=GS CHAB381_1758 WT 1.11
+#=GS CHAB381_1370 WT 0.88
+#=GS CHAB381_0004 WT 1.17
+#=GS CHAB381_1704 WT 1.15
+#=GS CHAB381_0294 WT 0.78
+#=GS CHAB381_0491 WT 0.94
+#=GS CHAB381_0217 WT 1.04
+#=GS CHAB381_0863 WT 1.48
+#=GS CHAB381_0594 WT 0.63
+#=GS CHAB381_1162 WT 1.02
+#=GS CHAB381_0724 WT 1.17
+#=GS CHAB381_0822 WT 0.79
+#=GS CHAB381_1153 WT 1.00
+#=GS CHAB381_0103 WT 1.08
+#=GS CHAB381_0113 WT 1.12
+#=GS CHAB381_1086 WT 1.08
+#=GS CHAB381_1579 WT 0.98
+#=GS CHAB381_1455 WT 0.79
+#=GS CHAB381_0211 WT 1.04
+#=GS CHAB381_0605 WT 0.55
+#=GS CHAB381_1183 WT 0.90
+#=GS CHAB381_0638 WT 1.06
+#=GS CHAB381_1335 WT 0.98
+#=GS CHAB381_1625 WT 1.25
+#=GS CHAB381_1512 WT 0.75
+#=GS CHAB381_0561 WT 1.14
+#=GS CHAB381_0061 WT 1.03
+#=GS CHAB381_1143 WT 1.19
+#=GS CHAB381_0115 WT 0.84
+#=GS CHAB381_0810 WT 1.11
+#=GS CHAB381_0238 WT 0.88
+#=GS CHAB381_1173 WT 1.11
+#=GS CHAB381_0278 WT 1.08
+#=GS CHAB381_1377 WT 0.69
+#=GS CHAB381_0849 WT 1.00
+#=GS CHAB381_1142 WT 1.04
+#=GS CHAB381_1686 WT 0.91
+#=GS CHAB381_0116 WT 0.99
+#=GS CHAB381_0480 WT 0.81
+#=GS CHAB381_1139 WT 1.48
+#=GS CHAB381_1222 WT 0.79
+#=GS CHAB381_0723 WT 1.01
+#=GS CHAB381_1451 WT 1.14
+#=GS CHAB381_1708 WT 0.87
+#=GS CHAB381_0768 WT 0.99
+#=GS CHAB381_1601 WT 1.06
+#=GS CHAB381_0912 WT 1.22
+#=GS CHAB381_0109 WT 0.67
+#=GS CHAB381_0733 WT 1.06
+#=GS CHAB381_0673 WT 0.98
+#=GS CHAB381_0323 WT 0.71
+#=GS CHAB381_0751 WT 0.98
+#=GS CHAB381_1236 WT 0.99
+#=GS CHAB381_0597 WT 1.13
+#=GS CHAB381_0151 WT 1.03
+#=GS CHAB381_1182 WT 0.99
+#=GS CHAB381_0525 WT 1.16
+#=GS CHAB381_1030 WT 1.06
+#=GS CHAB381_0983 WT 0.91
+#=GS CHAB381_1599 WT 1.04
+#=GS CHAB381_0520 WT 1.39
+#=GS CHAB381_1635 WT 0.97
+#=GS CHAB381_1320 WT 1.07
+#=GS CHAB381_0870 WT 0.94
+#=GS CHAB381_0765 WT 0.98
+#=GS CHAB381_0558 WT 1.25
+#=GS CHAB381_0938 WT 0.97
+#=GS CHAB381_0977 WT 1.22
+#=GS CHAB381_1292 WT 1.38
+#=GS CHAB381_1487 WT 0.93
+#=GS CHAB381_0154 WT 1.06
+#=GS CHAB381_1783 WT 0.96
+#=GS CHAB381_1148 WT 0.94
+#=GS CHAB381_1047 WT 1.02
+#=GS CHAB381_0223 WT 1.06
+#=GS CHAB381_1710 WT 1.07
+#=GS CHAB381_0937 WT 1.17
+#=GS CHAB381_1634 WT 1.06
+#=GS CHAB381_1711 WT 0.96
+#=GS CHAB381_0975 WT 0.98
+#=GS CHAB381_1102 WT 1.06
+#=GS CHAB381_0494 WT 1.14
+#=GS CHAB381_1504 WT 1.04
+#=GS CHAB381_0906 WT 1.00
+#=GS CHAB381_1461 WT 1.02
+#=GS CHAB381_1543 WT 1.06
+#=GS CHAB381_1759 WT 1.02
+#=GS CHAB381_1366 WT 0.94
+#=GS CHAB381_1245 WT 1.30
+#=GS CHAB381_1345 WT 1.12
+#=GS CHAB381_1002 WT 1.08
+#=GS CHAB381_1122 WT 1.02
+#=GS CHAB381_1167 WT 1.11
+#=GS CHAB381_0717 WT 0.94
+#=GS CHAB381_0143 WT 1.17
+#=GS CHAB381_0516 WT 1.19
+#=GS CHAB381_1709 WT 1.04
+#=GS CHAB381_1772 WT 1.16
+#=GS CHAB381_1256 WT 1.03
+#=GS CHAB381_0033 WT 0.91
+#=GS CHAB381_1555 WT 0.90
+#=GS CHAB381_0973 WT 1.07
+#=GS CHAB381_0839 WT 1.04
+#=GS CHAB381_0783 WT 1.02
+#=GS CHAB381_1464 WT 1.18
+#=GS CHAB381_1201 WT 0.63
+#=GS CHAB381_1119 WT 1.07
+#=GS CHAB381_1527 WT 1.16
+#=GS CHAB381_0643 WT 0.98
+#=GS CHAB381_1785 WT 0.96
+#=GS CHAB381_1620 WT 0.71
+#=GS CHAB381_0132 WT 0.87
+#=GS CHAB381_1169 WT 1.76
+#=GS CHAB381_1004 WT 1.00
+#=GS CHAB381_1539 WT 1.12
+#=GS CHAB381_0522 WT 1.07
+#=GS CHAB381_0436 WT 1.38
+#=GS CHAB381_1421 WT 1.12
+#=GS CHAB381_1066 WT 1.08
+#=GS CHAB381_1276 WT 1.14
+#=GS CHAB381_0102 WT 1.28
+#=GS CHAB381_0425 WT 1.05
+
+CHAB381_1191 AAAU-U-C--------------GU----------AU--C-G-U-------
+CHAB381_0599 AAUU-U-U--------------GU----------AU--C-G-U-------
+CHAB381_1442 AAGUUG-U--------------UU----------GA--U-A-AAAGU---
+CHAB381_0625 AUUUUU-A--------------AA----------UU--A-G-GCAAU---
+CHAB381_1124 AAGCUG-A--------------AA----------UU--U-U-AGAUA---
+CHAB381_0249 UUAU-UAA--------------GC----------CC--C-U-U-------
+CHAB381_0624 AAGUUU-A--------------AA----------UU--A-G-GCAAA---
+CHAB381_0129 AAACGA-A--------------AU----------UC--C-C-GUC-----
+CHAB381_0063 UAGAAA-AG------------GGA----------CG--A-U-UAGAA---
+CHAB381_0408 CAAAAU-U--------------CC----------UA--C-G-GAC-----
+CHAB381_1559 UUUU-A-G--------------GC----------UC--A-C-UC------
+CHAB381_1658 UUUC-A-G--------------GC----------UG--A-G-A---U---
+CHAB381_0767 AAAUUC-A--------------GC----------AA--A-U-UUCGUA--
+CHAB381_0569 AAAA-A-G--------------GC----------GU--G-G-C-------
+CHAB381_1648 AUUUGC-A--------------GU----------CU--UCG-G---AAAU
+CHAB381_0774 UAAUUU-A--------------UU----------GU--U-G-UGA-----
+CHAB381_0429 AAACUU-G--------------GA----------AU--U-U-UAAA----
+CHAB381_1582 AUUUUG-A--------------AG----------CA--G-G-GGC-----
+CHAB381_0793 AUAUUU-C--------------UU----------UU--A-A-UCUGC---
+CHAB381_1400 UUAUAA-G--------------GCG-------UA----G-G-AAUUUCAG
+CHAB381_1703 AAAAGC-G--------------AU----------AG--A-A-ACC-AUGU
+CHAB381_0538 AUUUUA-U--------------AC----------CCCGA-A-UUUCUUUA
+CHAB381_0966 AUUAAU-U--------------CC----------GU--A-G-UGAUU---
+CHAB381_0401 AAAUUA-A--------------AC----------AA--A-G-UAUGU---
+CHAB381_1438 AAAUUU-A--------------AA----------UU--C-A-AACUA---
+CHAB381_1441 AUGUUG-U--------------UU----------GA--U-A-AAAGU---
+CHAB381_1556 UAUAAA-AU-----------UUGC----------GC--G-G-UGA-----
+CHAB381_1565 CAGUGU-A--------------GC----------CC--C-CGU-------
+CHAB381_1433 AAAUUU-A--------------AA----------UU--C-A-AACUA---
+CHAB381_0591 AUAA-A-U--------------UC----------AG--C-A-UU------
+CHAB381_1348 AUCUGA-U--------------UA----------CC--G-G-UCAUAA--
+CHAB381_1104 UAAAAU-U--------------GU----------CC--U-U-UUAUU---
+CHAB381_0247 AAAUUA-G--------------CA----------AA--A-A-UUUUA---
+CHAB381_1742 AUAA-A-G--------------GC----------GA--U-G-U-------
+CHAB381_0545 UUUCAC-C--------------G-----------------C-CAUU----
+CHAB381_1739 UUUC-G-U--------------GC----------UU--U-U-UCUAUCUU
+CHAB381_0612 AUUUUG-A--------------GA----------AA--A-A-UGAUU---
+CHAB381_1241 AAAUUU-U--------------AA----------GA--G-G-CG--C---
+CHAB381_1420 AAUUUC-G--------------UU----------GU--G-C-CG--AAGU
+CHAB381_0858 AUAAUA-A--------------GC----------GG--G-A-A-------
+CHAB381_1341 AUAAUU-U--------------UC----------GG--C-G-A-------
+CHAB381_0714 GUAUUU-A--------------UA----------GU--G-A-AAUUU---
+CHAB381_1687 AAAAAC-G--------------GU----------GA--A-A-UUUUA---
+CHAB381_0610 AUGUUA-A--------------G-----------------G-CGUGA---
+CHAB381_1339 UUUAAA-A--------------UU----------UC--G-G-UGG-C---
+CHAB381_1006 UUAU-A-A--------------UU----------UU--C-G-GGCAA---
+CHAB381_0986 AUUCGC-A--------------AG----------AG--C-G-G---AAC-
+CHAB381_0361 AAUUUA-A--------------GG----------UG--C-G-A-------
+CHAB381_1156 AUUAAG-A--------------UU----------AA--G-C-CGAUA---
+CHAB381_0556 GUUUUA-A--------------AA----------UG--C-U-CA------
+CHAB381_1495 AAACUUCG--------------GC----------GA--A-A-UUUCA---
+CHAB381_1647 UUUUAA-A--------------UU----------UU--A-G-GGCAU---
+CHAB381_0481 AUUAUU-U--------------GU---------GAC--C-C-GAUUU---
+CHAB381_0693 AUUU-U-G--------------GU----------CG--U-G-GCA-----
+CHAB381_1757 AAAUUU-C--------------GG----------UG--A-A-AUUUAAAA
+CHAB381_0715 AAAUUU-A--------------UA----------GU--G-A-AAUUU---
+CHAB381_0032 AUUUUA-A--------------AC----------AG--G-A-AUU-----
+CHAB381_1500 AUUAUU-U--------------AA----------AA--G-G-CGCGAAAU
+CHAB381_0670 AUUUUA-A--------------GC----------CG--A-A-AUUUC---
+CHAB381_1368 AAUUUA-A--------------AG----------AC--A-A-AAUUU---
+CHAB381_1216 AAAAUA-A--------------AU----------UU--C-A-AGGCA---
+CHAB381_1657 AAAUUU-A--------------UG----------GU--A-G-AGA-----
+CHAB381_1691 AAAAAA-G--------------UU----------AG--A-A-UUUUU---
+CHAB381_1155 AAGCUAG---------------AU----------UA--A-G-CCGAUA--
+CHAB381_1554 UUUU-U-A--------------GC----------CG--C-G-A---A---
+CHAB381_0332 AAUAGA-G--------------AU----------GG--A-G-AGA-----
+CHAB381_0110 AAAUUU-A--------------GG----------AU--A-A-C-------
+CHAB381_0255 UUUAUCAA--------------AG----------CC--C-G-U-------
+CHAB381_1235 UUUUUU-A--------------G-----------------A-GGC-----
+CHAB381_0498 AAAUAA-A--------------UU----------UU--A-G-GGUCU---
+CHAB381_1562 CUUU-A-G--------------GC----------UC--A-C-UC------
+CHAB381_1194 CAUU-U-C--------------GU----------AU--C-G-U-------
+CHAB381_0809 CUAU-A-A--------------GA----------UG--U-G-UGC-----
+CHAB381_0965 UAAAAU-U--------------CC----------GU--A-G-CGAUU---
+CHAB381_1338 UAAUAA-A--------------UU----------UC--G-G-UGGUU---
+CHAB381_1069 AUUUAU-G--------------A-----------------G-UGAGU---
+CHAB381_1791 AUUCAA-A--------------AU----------UU--U-G-GGC-----
+CHAB381_1199 AAAUUU-A--------------AA----------UU--C-A-AACUA---
+CHAB381_0430 AAUUUU-G--------------GA----------AU--U-U-UAAA----
+CHAB381_0785 AUUAAA-A--------------GC----------CG--A-A-UAUUU---
+CHAB381_0311 UAAAAU-U--------------UC----------AA--A-G-GCUUAAA-
+CHAB381_0039 AAUAAC-U--------------AA----------CU--A-A-CAA-----
+CHAB381_0555 AUUUAC-A--------------GC----------CG--C-G-A---U---
+CHAB381_1792 AUAUAA-A--------------AU----------UU--U-G-GGC-----
+CHAB381_0750 UUAA-A-A--------------AU----------GG--U-G-C-------
+CHAB381_0257 AAUUUU-A--------------AC----------AA-AG-G-GCUUU---
+CHAB381_0363 AAUUUA-U--------------UU----------UG-UC-C-GG------
+CHAB381_0449 UUAA-G-G--------------UC----------AA--A-U-UUUGA---
+CHAB381_1346 AAAAUG-A--------------AA----------GC--C-G-GA--U---
+CHAB381_1568 UGUUAA-A--------------G-----------------C-CCA-A---
+CHAB381_1729 AAAAAA-A--------------GU----------GG--A-A-U-------
+CHAB381_0992 AUACGG-C--------------AA----------AA--A-G-CGCUU---
+CHAB381_0588 AAUU-U-C--------------GU----------AU--C-G-U-------
+CHAB381_1726 AAAU-A-U--------------AU----------GG--C-G-AUUUU---
+CHAB381_0524 GUAU-U-C--------------AA----------GC--C-A-AGACC---
+CHAB381_0775 AAAUUU-A--------------UU----------GU--U-G-UGA-----
+CHAB381_1514 UUUUAA-G--------------G-----------------G-CGUAA---
+CHAB381_1056 AAUAUU-U--------------AU----------CG--A-G-G---AUAA
+CHAB381_1362 UAAAAU-U--------------UU----------CU--C-U-UUA-----
+CHAB381_0745 UCACGC-A--------------AU----------UA--AUC-GUAGC---
+CHAB381_0928 CUUAAU-U--------------UU----------AG--G-G-CA------
+CHAB381_1243 AAUUUU-G--------------CC----------GG--A-A-UUUGC---
+CHAB381_1692 UUUUAA-A--------------AU----------UU--A-G-UGCU----
+CHAB381_0167 AUGUUG-A--------------------------------A-GUAGA---
+CHAB381_0549 UUAAAA-AGGC-------GCUUUU----------GU--A-A-GCCGA---
+CHAB381_0803 UAAA-A-G--------------UC----------UA--U-U-UGAU----
+CHAB381_0438 UUGC-A-G--------------GU----------UU--A-G-CCACU---
+CHAB381_1131 GUAA-G-A--------------UU----------UU--C-G-UUA-A---
+CHAB381_1598 UUUAUU-C--------------UC----------AC--A-A-AAAUA---
+CHAB381_0739 AUUUAA-A--------------GC----------CA--C-G-AUUUU---
+CHAB381_1126 AUUUAA-C--------------AG----------UU--U-G-CGCUA---
+CHAB381_0572 AUAAAA-A--------------GG----------CG--A-A-U---U---
+CHAB381_1223 AAUAAA-U--------------UU----------UG--C-G-GA--U---
+CHAB381_0568 UAGU-A-G--------------GC----------GU--G-G-C-------
+CHAB381_0508 AAUCUU-A--------------AA----------UA--A-G-CCGUC---
+CHAB381_1758 AAAUGA-A--------------GU----------AU--A-U-GA------
+CHAB381_1370 UUUC-A-G--------------GC----------GU--A-G-A-------
+CHAB381_0004 AUUUGG-A--------------GC----------GG--G-A-GAAUC---
+CHAB381_1704 UUUUUA-U--------------AA----------GG--C-A-UA------
+CHAB381_0294 AAGAGU-G--------------GA----------AU--U-U-UAAUG---
+CHAB381_0491 AAUUAU-G--------------UA----------AU--U-G-CAA-----
+CHAB381_0217 ACAU-A-G--------------CC----------GU--G-A-AAUUU---
+CHAB381_0863 AUGUGA-U--------------G-U--------UCU--C-C-GAC-----
+CHAB381_0594 AAAUUU-G--------------U-----------------G-AAU-U---
+CHAB381_1162 UAGUUU-U--------------AG----------AG--C-G-U-------
+CHAB381_0724 AAAA-A-A--------------GC----------GC--A-C-A---A---
+CHAB381_0822 UUAUAA-A--------------AU----------UU--C-A-GCUCU---
+CHAB381_1153 AUUCUAAA--------------AA----------GC--C-G-AG--U---
+CHAB381_0103 AUAUUGAA--------------GG----------UU--U-G-AGAGUGGC
+CHAB381_0113 AAAAAU-A--------------GG----------AC--G-U-UAA-----
+CHAB381_1086 AUUUUU-A--------------AG----------AG--C-U-GA------
+CHAB381_1579 AAAA-A-A--------------GA----------CU--A-G-UUAAA---
+CHAB381_1455 AUUUUG-A--------------AU----------UU--U-A-GCU-----
+CHAB381_0211 GAAAUU-U--------------AC----------AA--A-A-UC------
+CHAB381_0605 GACU-U-U--------------GU----------AU--C-G-C-------
+CHAB381_1183 UAAAAA-A--------------GCAA-----AUUUU--A-A-AAUUC---
+CHAB381_0638 AUUU-A-G--------------AC----------CG--C-U-AA------
+CHAB381_1335 AUAAAA-U--------------UU----------UA--A-G-GCGCUC--
+CHAB381_1625 CUUU-U-U--------------UU----------AG--A-A-AUUUA---
+CHAB381_1512 UUACAA-A--------------G-----------------G-UGCUU---
+CHAB381_0561 AUAC-A-A--------------UU----------UC--C-G-CA--A---
+CHAB381_0061 AUUUAA-G--------------CA----------UU--U-A-UAGUUUUA
+CHAB381_1143 UAUCUU-A--------------UU----------AU--C-C-GCUUC---
+CHAB381_0115 UAGAUA-ACAAGUAAAUCCGUUUU----------UU--A-G-GCACU---
+CHAB381_0810 AAAAGA-A--------------AA----------UU--U-U-AAU-----
+CHAB381_0238 UUGA-A-G--------------GC----------GA--U-G-AAAUU---
+CHAB381_1173 UUAAAA-A--------------GU----------GU--U-U-AAACUUGC
+CHAB381_0278 AAAAGU-AAC---------CAGGC----------UU--U-G-UGAUU---
+CHAB381_1377 AAUCAA-U--------------UU----------AG--U-G-GAAUU---
+CHAB381_0849 UUUC-A-A--------------GC----------GU--G-A-AAUUU---
+CHAB381_1142 UUUUAA-A--------------GG----------CG--C-U-G---U---
+CHAB381_1686 UUGUAC-G--------------GU----------GA--A-A-UUUUG---
+CHAB381_0116 AAAAUA-A--------------UU----------UU--A-G-GCACA---
+CHAB381_0480 UAGUGA-A--------------AU----------UU--U-A-GCU-----
+CHAB381_1139 AUAUGU-U--------------G-----------------G-UAGCA---
+CHAB381_1222 AUAAAA-U--------------UU----------UG--C-G-GA--A---
+CHAB381_0723 ACUUGA-A--------------GC----------GC--A-C-G---U---
+CHAB381_1451 UUCCGA-A--------------UU----------UC--A-G-AAUUU---
+CHAB381_1708 AUAU-U-G--------------GC----------GU--A-G-C-------
+CHAB381_0768 AUAAAA-A--------------UU----------UU--A-U-U---A---
+CHAB381_1601 GUUCAG-A--------------A-----------------A-GCCCU---
+CHAB381_0912 AUGCGA-U--------------AU----------AA--A-A-AA------
+CHAB381_0109 AAAUUU-A--------------GG----------AU--A-A-C---U---
+CHAB381_0733 AUUU-A-G--------------CC----------AU--A-G-U-------
+CHAB381_0673 UUAAAA-U--------------UU----------CU--U-G-CGUCA---
+CHAB381_0323 AUAUAU-G--------------GC----------GG--A-A-UU------
+CHAB381_0751 UAUAAA-A--------------GA----------CU--A-G-AU--U---
+CHAB381_1236 AAGC-U-U--------------UU----------UA--G-G-UAAUU---
+CHAB381_0597 AAUUUG-U--------------GA----------AU--U-U-A-------
+CHAB381_0151 AUAAUA-G--------------UU----------UU--U-A-UAUUU---
+CHAB381_1182 AAUCCG-U--------------UU----------UC--C-G-UAAAAAAC
+CHAB381_0525 AAAUCA-A--------------GC----------CA--A-G-A---A---
+CHAB381_1030 AAAUUU-G--------------CC----------AU--A-C-CU--AAUU
+CHAB381_0983 UUUUAA-A--------------AU----------UC--A-A-GCUGAUGA
+CHAB381_1599 AUUUAA-A--------------AAUUAUUCUUUG-G--C-G-GGGC----
+CHAB381_0520 UUGAUA-U--------------GC----------UU--A-C-CUUGC---
+CHAB381_1635 AAAUAA-G--------------GA----------AU--U-A-A-------
+CHAB381_1320 AUUCAA-AU-----------CUGG----------GU--A-U-CGUU----
+CHAB381_0870 GAAAAA-U--------------CU----------AA--A-A-UUUUA---
+CHAB381_0765 AAAC------------------------------------A-GCUU----
+CHAB381_0558 AGGUUG-C--------------AC----------UU--U-U-AGGUAAA-
+CHAB381_0938 AAAUAA-A--------------GU----------CU--U-A-U---UCGU
+CHAB381_0977 UAAAAA-G--------------AG----------UG--A-A-AUU-----
+CHAB381_1292 UUUCGU-A--------------U-----------------U-CGGCUUUU
+CHAB381_1487 AAAUUU-A--------------A-----------------G-CCC-----
+CHAB381_0154 AAAAUA-U--------------AA----------AU--U-A-AUAUU---
+CHAB381_1783 UUGC-U-A--------------AA----------GG--C-G-AAAUU---
+CHAB381_1148 AAAUUU-U--------------GU----------GG--A-A-UU------
+CHAB381_1047 UAUAAG-G--------------GC----------UA--A-A-UUUUGCCU
+CHAB381_0223 AUUU-A-G--------------C-----------------C-G-------
+CHAB381_1710 AAAA-A-U--------------GU----------GC--G-A-AAUUU---
+CHAB381_0937 AUUAUG-G--------------C-----------------G-GA------
+CHAB381_1634 CUUAAA-A--------------UU----------CC--U-A-UG------
+CHAB381_1711 AUUUGG-A--------------UG----------UG--C-G-AAAUU---
+CHAB381_0975 AUAAAA-A--------------G-G--------ACU--A-A-AAAAU---
+CHAB381_1102 AAGC-A-A--------------AA----------AG--C-G-UAG-----
+CHAB381_0494 AAAC-U-U--------------UU----------CU--C-G-UGCGU---
+CHAB381_1504 AUUUAA-A--------------AU----------UU--A-A-AACCG---
+CHAB381_0906 AUUUUA-AC------------UGU----------GC--U-G-GUGCU---
+CHAB381_1461 AAGU-G-A--------------GC----------GC--C-G-A---U---
+CHAB381_1543 CUUUAA-A--------------UU----------AU--U-A-AAAUU---
+CHAB381_1759 AAUU-A-A--------------G-----------------C-CCCAU---
+CHAB381_1366 UUUUGG-A--------------A-----------------G-C-------
+CHAB381_1245 UGGU-U-G--------------CG----------CA--C-G-AUUUA---
+CHAB381_1345 AAGAAU-A--------------AG----------GC--G-C-UGA-----
+CHAB381_1002 UAACCA-U--------------UU----------GA--U-A-AA------
+CHAB381_1122 UUAUUA-C--------------GC----------AA--A-A-U-------
+CHAB381_1167 AUGUCA-G--------------CC----------UU--U-U-GAUUU---
+CHAB381_0717 UUUUGA-G--------------GC----------GU--G-G-C---UGAA
+CHAB381_0143 AAAUAAGA--------------GC----------GU--U-A-GG------
+CHAB381_0516 UUUAUAAA--------------AU----------UU--U-G-U---U---
+CHAB381_1709 AAAU-A-GAUU--------UAUCG----------UA--A-A-AAUU----
+CHAB381_1772 UAAA-A-A--------------UU----------UC--C-G-CCACUU--
+CHAB381_1256 AUUUAA-A--------------AU----------UU--A-A-GGGCAA--
+CHAB381_0033 UUUUUA-A--------------A-----------------A-UUUCU---
+CHAB381_1555 AUAAAA-G--------------GC----------AC--A-A-A-------
+CHAB381_0973 GAUUUA-C--------------UU----------AA--A-A-UU-UUAAC
+CHAB381_0839 CCAU------------------------------------G-CGUUU---
+CHAB381_0783 UAGUUU-A--------------AG----------GG--C-U-UA------
+CHAB381_1464 AAAAAA-G--------------G-----------------C-GGUUA---
+CHAB381_1201 AAAUUU-G--------------U-----------------G-AAU-U---
+CHAB381_1119 AUAUAA-A--------------GG----------CG--U-G-AA------
+CHAB381_1527 AACA-A-A--------------CU----------AU--C-C-AGU-A---
+CHAB381_0643 AUUUGC-C--------------UC----------AA--A-A-AA------
+CHAB381_1785 AUUUUU-U-------------GU-----------------G-CG--A---
+CHAB381_1620 AUAAAA-G--------------GC----------GG--A-A-AUU-----
+CHAB381_0132 AAACUC-G--------------GC----------GA--A-G-UAAUCUGA
+CHAB381_1169 ACGU-C-G--------------CU----------CA--U-A-GGUUCAAU
+CHAB381_1004 AAUUAG-A--------------GU----------G-----A-AAUUU---
+CHAB381_1539 UUUUGC-C--------------AA----------AA--C-A-GAA-----
+CHAB381_0522 UUAAAG-A--------------UU----------AA--A-A-UU--AAA-
+CHAB381_0436 UUUA------------------------------------C-CGGUC---
+CHAB381_1421 UUUUAA-ACU---------UCUGC----------GA--G-C-U-------
+CHAB381_1066 AAAUGA-A--------------AU----------UU--C-GCGC------
+CHAB381_1276 UUAUAA-U--------------UA----------AA--A-C-UUUUU---
+CHAB381_0102 AUGACA-A--------------AA----------AU--U-C-UAA-----
+CHAB381_0425 AAAUUC-C--------------GU----------AU--A-A-AG------
+#=GC SS_cons ::::<<.<..............<<..........<<..<.<.<<<<_...
+#=GC RF      AUaUuA.a..............gu..........uu..a.g.uauuu...
+
+CHAB381_1191 -------------------GUAUA---A-----ACG--AU----A-C---
+CHAB381_0599 -------------------AGAUA---A-----ACG--AU----A-C---
+CHAB381_1442 -------------------AGUUG---ACUU--UUA--UC----A-A---
+CHAB381_0625 -------------------AAAUU---UUUG--CCU--AA----U-U---
+CHAB381_1124 -------------------AAAUC----AUC--UAA--AA----U-U---
+CHAB381_0249 -------------------AAA-A---------AAG--GG----G-C---
+CHAB381_0624 -------------------AAUUU---AUUG--CCU--AA----U-U---
+CHAB381_0129 -------------------AUUU------GA--CGG--GA----A-U---
+CHAB381_0063 -------------------AAA-A---AUCU--AGU--CG----U-C---
+CHAB381_0408 -------------------ACA-C---U-GU--UCG--UA----G-G---
+CHAB381_1559 -------------------ACUU-------G--AGU--GA----G-C---
+CHAB381_1658 -------------------ACA-----A-----UCU--CA----G-C---
+CHAB381_0767 -----------------GAAAAUA----CGA--AAU--UU----G-CA--
+CHAB381_0569 -------------------AAGU----------GCC--AC----G-C---
+CHAB381_1648 CCGAUU----UCACAUUCGAUUUC---G-----CCA--AG----A-C---
+CHAB381_0774 -------------------UUUUC-----UC--ACA--AC----A-A---
+CHAB381_0429 -------------------AUUU-----UUU--AAA--AU----U-C---
+CHAB381_1582 -------------------UACG------GC--UCU--UG----C-U---
+CHAB381_0793 -------------------AUUU----GCAG--AUU--AA----A-A---
+CHAB381_1400 UUC----------UUAGGAAUUUG---AAAU--UCC----G--CG-C---
+CHAB381_1703 ---------------CUUUAG--AC-CA-GG--CUU--CU----A-U---
+CHAB381_0538 AA------------UUUUAGAAUA---AGAA--AUUUUGG----G-U---
+CHAB381_0966 -------------------AAA------AUC--GCU--AC----G-G---
+CHAB381_0401 -------------------AAAUC--AGCAU--ACU--UU----G-U---
+CHAB381_1438 -------------------UCA------AAU--UUG--AG----U-U---
+CHAB381_1441 ------------------C-AA-C--UACUU--UUA--UC----A-A---
+CHAB381_1556 -------------------UUUU------UC--ACC--GC----G-C---
+CHAB381_1565 -------------------UUUUC---------AGG--GG----G-C---
+CHAB381_1433 -------------------UCA------AAU--UUG--AG----U-U---
+CHAB381_0591 -------------------AAAU-------A--AUG--CU----G-A---
+CHAB381_1348 ------------------AUAAUC----AUG--ACC--GG----U-A---
+CHAB381_1104 -------------------UUAU-----UUA--AAA--GG----A-C---
+CHAB381_0247 -------------------UCA-C--ACAAA--AUU--UU----U-G---
+CHAB381_1742 -------------------UUUU----G-----ACA--UC----G-C---
+CHAB381_0545 -------------------AUUUA---AAAU--GG-----------C---
+CHAB381_1739 ----------------AUAAAAU----GUGG--AAA--GA----G-C---
+CHAB381_0612 -------------------UUU-A---AAUC--GUU--UU----U-C---
+CHAB381_1241 -------------------GAU-G---C--C--GCC--UC----U-U---
+CHAB381_1420 UGUAA------UUUACGGCUA------A--C--GGC--AC----A-A---
+CHAB381_0858 -------------------UUU-----------UUC--CC----G-C---
+CHAB381_1341 -------------------AUUU----U-----UCG--CC----G-A---
+CHAB381_0714 -------------------UUA-A----AAU--UUC--AC----U-A---
+CHAB381_1687 --------------------AAUC--ACAAA--AUU--UC----A-C---
+CHAB381_0610 -------------------AUUU-----CAC--GC-----------C---
+CHAB381_1339 -------------------AUUUA---A-CC--ACC--GA----A-A---
+CHAB381_1006 -------------------AAAGU---UCGC--CCG--AA----A-A---
+CHAB381_0986 ----------------AAGUUUU----A-----CCG--CU----C-U---
+CHAB381_0361 -------------------UUUU----------CCG--CA----C-C---
+CHAB381_1156 -------------------UUA-A---UAUC--GGC--UU----A-A---
+CHAB381_0556 -------------------UUAUG---G--U--GAG--UA----U-U---
+CHAB381_1495 -------------------CAAU-----GGA--AUU--UC----G-C---
+CHAB381_1647 -------------------AAUU----UUGC--CCU--AA----A-A---
+CHAB381_0481 -------------------AUA-A----AGU--CGG--GU----A-C---
+CHAB381_0693 -------------------GCUU----U-UG--CCG--CG----A-C---
+CHAB381_1757 AUUU--------CAAACGAUUUUA---AAAA--UUU--CG----C-C---
+CHAB381_0715 -------------------UAA-A----AAU--UUC--AC----U-A---
+CHAB381_0032 -------------------UUA-A-----AA--UUC--CU----G-U---
+CHAB381_1500 UU------------UAAAAAUUU----UUGC--ACC--UU----U-U---
+CHAB381_0670 -------------------AUU------AAA--UUU--CG----G-CU--
+CHAB381_1368 -------------------UAA------AAU--UUU--GU----C-U---
+CHAB381_1216 -------------------UCUU-----GCC--UUG--AA----A-U---
+CHAB381_1657 -------------------UUUU------UC--UCU--AC----C-A---
+CHAB381_1691 -------------------AAG-C---UAAA--AUU--CU----A-A---
+CHAB381_1155 ------------------UUAAU----AUCG--GCU--UA----A-U---
+CHAB381_1554 -------------------AAA-A---A-----UCG--CG----G-C---
+CHAB381_0332 -------------------CGCUA-----UC--UCU--CC----A-U---
+CHAB381_0110 -------------------GUUUA---A-----GUU--AU----C-C---
+CHAB381_0255 -------------------AAAU----G-----GCG--GG----C-U---
+CHAB381_1235 -------------------U--UC---G-GC--CU-----------C---
+CHAB381_0498 -------------------UCU------GGC--CCU--AA----A-A---
+CHAB381_1562 -------------------ACUU-------G--AGU--GA----G-C---
+CHAB381_1194 -------------------AGAUA---A-----ACG--AU----A-C---
+CHAB381_0809 -------------------UUUU----U-GC--GCA--CA----U-C---
+CHAB381_0965 -------------------UUA------AUC--ACU--AC----G-G---
+CHAB381_1338 -------------------AAAU-----GCC--ACC--GA----A-A---
+CHAB381_1069 -------------------UUUU-----CUC--AC-----------U---
+CHAB381_1791 -------------------AAU-C---A-GC--CCA--AA----A-U---
+CHAB381_1199 -------------------UCA------AAU--UUG--AG----U-U---
+CHAB381_0430 -------------------AAAU-----UUU--AAA--AU----U-C---
+CHAB381_0785 -------------------UAA-A--CUGAU--AUU--CG----G-C---
+CHAB381_0311 ----------------GUUUAAUC----AAG--CCU--UU----G-A---
+CHAB381_0039 -------------------GCUU------UU--GUU--AG----U-U---
+CHAB381_0555 -------------------UAAUUC-AU-----UCG--CG----G-U---
+CHAB381_1792 -------------------UGAU----U-GC--CCA--AA----A-U---
+CHAB381_0750 -------------------UUUU----------GCA--CC----A-U---
+CHAB381_0257 -------------------UUUU-----AAG--CCC--UU----GAU---
+CHAB381_0363 -------------------CUUU-------C--CGG--CA----A-A---
+CHAB381_0449 -------------------AUUU----UCAA--AAU--UU----G-A---
+CHAB381_1346 -------------------AUA-A--AU--U--UCG--GC----U-U---
+CHAB381_1568 -------------------UAAUA-----AG--GG-----------C---
+CHAB381_1729 -------------------UUU-A---------AUU--CC----A-C---
+CHAB381_0992 -------------------UUAUA---UUGC--GCU--UU----U-U---
+CHAB381_0588 -------------------AGAUAA-AC-----GCG--AU----A-C---
+CHAB381_1726 -------------------AAAGAC-AAAAA--CCG--CC----A-U---
+CHAB381_0524 -------------------AAA-C----UUC--UUG--GC----U-U---
+CHAB381_0775 -------------------GAA-A---A-UC--ACA--AC----A-A---
+CHAB381_1514 -------------------AAUU-----UAC--GC-----------C---
+CHAB381_1056 CAAUGUU--AACGACUUUGUAA-----A-----CCU--CG----A-U---
+CHAB381_1362 -------------------AAUU----U-UA--AAG--AG----A-A---
+CHAB381_0745 -------------------UUCU----GCUA--UGU--UA----A-U---
+CHAB381_0928 -------------------ACUU-------U--GCC--CU----A-A---
+CHAB381_1243 -------------------UAAUU--GCCAA--UUU--CC----G-G---
+CHAB381_1692 -------------------UUUU-----AGC--ACU--AA----A-U---
+CHAB381_0167 -------------------AAAUA----CUA--CU------------CCA
+CHAB381_0549 -------------------AAUU----UCGG--CUU--AC----A-A---
+CHAB381_0803 -------------------UUAUA---AAUC--AAA--UA----G-A---
+CHAB381_0438 -------------------GUUU----UGUG--GCU--AA----A-C---
+CHAB381_1131 -------------------AAA-----U-UA--ACG--AA----A-A---
+CHAB381_1598 -------------------UUUUA----AUU--UUU--GU----G-A---
+CHAB381_0739 -------------------GAUU----UUUA--UCG--UG----G-C---
+CHAB381_1126 -------------------AAUUC----AGC--GCA--AA----C-U---
+CHAB381_0572 -------------------UAA-A---U-----GUU--CG----C-C---
+CHAB381_1223 -------------------UUAU----U--U--CCG--CA----A-A---
+CHAB381_0568 -------------------ACUU----------GCC--AC----G-C---
+CHAB381_0508 -------------------AAAU----UA-G--GCU--UA----U-U---
+CHAB381_1758 -------------------GAU-A---U--U--UAU--AU----A-C---
+CHAB381_1370 -------------------UUUU----U-----UCU--AC----G-C---
+CHAB381_0004 -------------------GUUU----UAUU--CUU--UC----G-CUUA
+CHAB381_1704 -------------------AAUU-------U--AUG--CC----U-U---
+CHAB381_0294 -------------------AAAU----UUUU--AAA--AU----U-C---
+CHAB381_0491 -------------------AAUU------UU--GCA--AU----U-A---
+CHAB381_0217 -------------------UUA-A----AAU--CUC--AC----G-G---
+CHAB381_0863 -------------------GAAGG---U-GU--CGG--AGU--U--C---
+CHAB381_0594 -------------------UAAUA---A-AU--UC-----------AGU-
+CHAB381_1162 -------------------GGA-A---------ACG--CU----C-U---
+CHAB381_0724 -------------------AAA-A--AA-----CGU--GC----G-C---
+CHAB381_0822 -------------------UUA-C----GGG--CUG--AA----A-U---
+CHAB381_1153 -------------------UGUU-------C--UUG--GC----U-U---
+CHAB381_0103 A-------------AAUAAAAU-U--GUCGC--UCA--AA----C-C---
+CHAB381_0113 -------------------AUUU------UU--AAU--GU----C-C---
+CHAB381_1086 -------------------AAAU----U--U--CAG--CU----C-U---
+CHAB381_1579 -------------------UAA-A----UUA--ACU--AG----C-C---
+CHAB381_1455 -------------------UUA-C-----GG--CUA--AA----A-U---
+CHAB381_0211 -------------------AAUU----U--G--AUU--UU----G-U---
+CHAB381_0605 -------------------GUAUA---A-----ACG--AU----A-C---
+CHAB381_1183 -------------------UAA-A----AAU--UUU--AAGUUCG-C---
+CHAB381_0638 -------------------AUUUC---A--U--CGG--CG----G-U---
+CHAB381_1335 ------------------AAAAU----UGCG--CCU--UA----A-A---
+CHAB381_1625 -------------------AUA-CG-CAAAA--UUU--CU----A-A---
+CHAB381_1512 -------------------UAUU-----AGC--AC-----------C---
+CHAB381_0561 -------------------AUAUA------U--GCG--GA----A-ACU-
+CHAB381_0061 ---------------UUUU--AUA--AAAUU--AUG--AA----U-G---
+CHAB381_1143 -------------------UUUUG---AAAG--UGG--AU----A-A---
+CHAB381_0115 -------------------UUUUU---UGUG--CCU--AA----A-A---
+CHAB381_0810 -------------------GCA-A---A-AU--UGA--AA----U-U---
+CHAB381_0238 -------------------UUAUA----ACU--UCU--UC----G-C---
+CHAB381_1173 A-------------AUUUUGCAU-----UUU--UAA--AC----A-C---
+CHAB381_0278 -------------------UUAU-----AGC--ACA--AA----G-C---
+CHAB381_1377 -------------------UUA-A---AAUU--CCA--CU----A-A---
+CHAB381_0849 -------------------UUAU-----GAU--UUC--AC----G-C---
+CHAB381_1142 -------------------AUU-U---G-----CAG--CG----C-C---
+CHAB381_1686 -------------------UGAUU---UAAA--AUU--UC----A-C---
+CHAB381_0116 -------------------AAA-A--AAGUG--CCU--AA----A-AAAC
+CHAB381_0480 -------------------UUA-C-----GG--UUA--AA----A-U---
+CHAB381_1139 -------------------AGA------GCU--GC-----------C---
+CHAB381_1222 -------------------AUA-A---A--U--CCG--CA----A-A---
+CHAB381_0723 -------------------UUUUU---U-----UGU--GC----G-C---
+CHAB381_1451 -------------------GCA------AAU--UCU--GA----A-A---
+CHAB381_1708 -------------------U--UC---G-----GCU--GC----G-C---
+CHAB381_0768 -------------------AAA-A---G-----GGU--AA----A-A---
+CHAB381_1601 -------------------UUUU-----GGG--CU-----------U---
+CHAB381_0912 -------------------GAGUA------U--UUU--UU----A-U---
+CHAB381_0109 -------------------UAA-A---C-----GUU--AU----C-C---
+CHAB381_0733 -------------------UUA-A---------ACU--AU----G-G---
+CHAB381_0673 -------------------AAA-AG-ACGGC--GCG--AG----A-A---
+CHAB381_0323 -------------------UUA-A------A--AUU--CC----G-C---
+CHAB381_0751 -------------------UCAU-------A--UCU--AG----U-C---
+CHAB381_1236 -------------------UAA-A----AUU--ACC--UA----A-A---
+CHAB381_0597 -------------------AAUUA---A-----UAA--AU----U-C---
+CHAB381_0151 -------------------AUAU-----AAU--AUA--AA----A-A---
+CHAB381_1182 A--------------GCUGAAAU-----UUU--ACG--GA----A-A---
+CHAB381_0525 -------------------GUUUG---G-----UCU--UG----G-C---
+CHAB381_1030 U-------------UAAAAUUUUA---A--A--AGU--AU----G-G---
+CHAB381_0983 A-------------AUUUAUUUUC---UUUG--CUU--GA----A-U---
+CHAB381_1599 -------------------UUU-----GGCU--CCG--C-C--UU-U---
+CHAB381_0520 -------------------UUU------UAA--GGU--AA----G-C---
+CHAB381_1635 -------------------AUUU----U-----UUA--AU----U-C---
+CHAB381_1320 -------------------AUA-C---AAGC--GAU--AC----C-C---
+CHAB381_0870 -------------------UGUG----AAAA--AUU--UU----A-G---
+CHAB381_0765 -------------------UAAUA---AAAG--CU---------------
+CHAB381_0558 -----------------ACGAUU----GGCC--UAA--AA----GGU---
+CHAB381_0938 AAA---------AUUUGCAUUAU----------UUA--AG----A-C---
+CHAB381_0977 -------------------GCUUA-----AA--UUU--CA----C-U---
+CHAB381_1292 UAUACGCGCUAGAAUGUGUAAAUC----GCC--GA-----------A---
+CHAB381_1487 -------------------GAUUC-----GG--GC-----------U---
+CHAB381_0154 -------------------UUAU-----AUA--UUA--AU----U-U---
+CHAB381_1783 -------------------UUA-A---AAUU--UCG--CC----U-U---
+CHAB381_1148 -------------------UUU-A---A--A--AUU--UC----A-C---
+CHAB381_1047 UU------------UAUUGAUA-C---AAAA--AUU--UA----G-C---
+CHAB381_0223 -------------------AUAUA---U-----CG-----------G---
+CHAB381_1710 -------------------UGA------AAU--UUC--GC----A-C---
+CHAB381_0937 -------------------GUUU----U--U--CC-----------G---
+CHAB381_1634 -------------------AAAUC---U--C--AUA--GG----A-A---
+CHAB381_1711 -------------------UCA-A---AAUU--UCG--CA----C-A---
+CHAB381_0975 -------------------GGAGC---UUUU--UUU--AGA--G--C---
+CHAB381_1102 -------------------AAA-------CU--ACG--CU----U-U---
+CHAB381_0494 -------------------UUUUU---UUGC--ACG--AG----A-A---
+CHAB381_1504 -------------------UUAUC----GGUAUUUU--AG----A-U---
+CHAB381_0906 -------------------AAUU----UUCA--UCG--GC----A-U---
+CHAB381_1461 -------------------UGUU----------UCG--GC----G-C---
+CHAB381_1543 -------------------UUA-A----AUU--UUA--AU----A-A---
+CHAB381_1759 -------------------AAAU----UCGG--GG-----------C---
+CHAB381_1366 -------------------UAA-A---------GC-----------U---
+CHAB381_1245 -------------------UAAGC----AAA--UCG--UG----C-G---
+CHAB381_1345 -------------------AUUUA--AA-AC--UGC--GC----C-U---
+CHAB381_1002 -------------------AAAU-------U--UUA--UC----A-A---
+CHAB381_1122 -------------------AUUUA--AA-----AUU--UU----G-C---
+CHAB381_1167 -------------------GGA-A----AGU--UAA--AA----G-G---
+CHAB381_0717 UGGAAA----UUAUUAUGCUAA-A---------GCC--AC----G-C---
+CHAB381_0143 -------------------AAA-A---U--C--CCA--AC----G-C---
+CHAB381_0516 -------------------AGA-A--UG-----ACA--AA----A-U---
+CHAB381_1709 -------------------UUAUA---AAAU--UUU--UA----C-G---
+CHAB381_1772 ------------------U--A-AAACGGAG--GCG--GA----A-A---
+CHAB381_1256 ------------------U--UUUU-UGGCC--CUU--AA----A-U---
+CHAB381_0033 -------------------GUUUA---UGAA--GU-----------U---
+CHAB381_1555 -------------------UAAU----------UUU--GU----G-C---
+CHAB381_0973 G-------------UUGAUAAUUC----A-A--AUU--UU----A-A---
+CHAB381_0839 -------------------GAAUA----UAC--GC---------------
+CHAB381_0783 -------------------UUUU----U--U--AAG--CC----C-U---
+CHAB381_1464 -------------------GGAUA--AAAAC--CG-----------C---
+CHAB381_1201 -------------------UAAUA---A-AU--UC-----------AGU-
+CHAB381_1119 -------------------GCUU-------U--UCA--CG----C-C---
+CHAB381_1527 -------------------AUAU------AU--UGG--AU----A-G---
+CHAB381_0643 -------------------AUAUA---G--U--UUU--UU----G-A---
+CHAB381_1785 -------------------UUUUA---A--C--GC-----------A---
+CHAB381_1620 -------------------UUA-A-----AA--UUU--CC----G-C---
+CHAB381_0132 AAAU--------UUAAUUUUAAUU---GAUU--GCU--UC----G-CAAU
+CHAB381_1169 GCC---------ACGAAGCAAA-A----AGC--UUA--UG----A-G---
+CHAB381_1004 -------------------AUA------AAU--UUU--CC----A-C---
+CHAB381_1539 -------------------CAAU----U-UU--UUG--UU----U-U---
+CHAB381_0522 -----------------CUACUUA---A--A--AUU--UU----A-A---
+CHAB381_0436 -------------------AGUUC---AACC--GG---------------
+CHAB381_1421 -------------------UAA-C---------GGC--UC----G-C---
+CHAB381_1066 -------------------GUU--------G--UCG--AA----A-U---
+CHAB381_1276 ------------------G-AAUU--UUAAA--GGU--UU----C-A---
+CHAB381_0102 -------------------UUA-C---U-UU--GGG--AU----U-U---
+CHAB381_0425 -------------------CACUC---A--C--UUU--AU----A-C---
+#=GC SS_cons ..................._____..._>>>..>>>..>>....>.>...
+#=GC RF      ...................auAUA...aaau..acu..aa....a.c...
+
+CHAB381_1191 ---------------------G---A--CCU
+CHAB381_0599 ---------------------G---A--CCU
+CHAB381_1442 ---------------------A---CAACAU
+CHAB381_0625 ---------------------U---AAACUU
+CHAB381_1124 ---------------------U---CACGCU
+CHAB381_0249 ---------------------U---A-CUCA
+CHAB381_0624 ---------------------U---AAAAAU
+CHAB381_0129 ---------------------U---UCAACU
+CHAB381_0063 ---------------------U---UUUUUU
+CHAB381_0408 ---------------------A---AUUUUA
+CHAB381_1559 ---------------------C---U-UUUU
+CHAB381_1658 ---------------------C---U-UUUU
+CHAB381_0767 -------------------AAU---GAAUUU
+CHAB381_0569 ---------------------C---U-ACUA
+CHAB381_1648 ---------------------U---GCAUAA
+CHAB381_0774 ---------------------U---AAAUUU
+CHAB381_0429 ---------------------C---AAAAUU
+CHAB381_1582 ---------------------U---UAAUUU
+CHAB381_0793 ---------------------G---AAAACA
+CHAB381_1400 ---------------------U---UUUAUU
+CHAB381_1703 ---------------------C---GCAUAA
+CHAB381_0538 ---------------------A---UAAUCA
+CHAB381_0966 ---------------------A---AUUUUA
+CHAB381_0401 ---------------------U---UAAUUU
+CHAB381_1438 ---------------------U---AAAUUU
+CHAB381_1441 ---------------------A---CAACUU
+CHAB381_1556 ---------------------U---UUUUUA
+CHAB381_1565 ---------------------U---UUUUUA
+CHAB381_1433 ---------------------U---AAAUUU
+CHAB381_0591 ---------------------G---U-GAGU
+CHAB381_1348 ---------------------A---UCCAAA
+CHAB381_1104 ---------------------A---AUUUAU
+CHAB381_0247 ---------------------C---UACCUA
+CHAB381_1742 ---------------------CCAGU-AGUU
+CHAB381_0545 ---------------------G---GUUUUU
+CHAB381_1739 ---------------------A---C--GAU
+CHAB381_0612 ---------------------U---CACGCC
+CHAB381_1241 ---------------------A---AAUUAA
+CHAB381_1420 ---------------------C---GAUUUA
+CHAB381_0858 ---------------------U---UACUUU
+CHAB381_1341 ---------------------A---AAUUCA
+CHAB381_0714 ---------------------U---AAAUUU
+CHAB381_1687 ---------------------C---GUACAA
+CHAB381_0610 ---------------------U---UAAGUG
+CHAB381_1339 ---------------------U---UUAUUA
+CHAB381_1006 ---------------------U---U--UUA
+CHAB381_0986 ---------------------U---GCAUAU
+CHAB381_0361 ---------------------U---UAUAAA
+CHAB381_1156 ---------------------U---CUAGCU
+CHAB381_0556 ---------------------U---UAAAAC
+CHAB381_1495 ---------------------C---AAAAAU
+CHAB381_1647 ---------------------U--AUUUUUU
+CHAB381_0481 ---------------------G---AAUUAU
+CHAB381_0693 ---------------------C---U-UUUU
+CHAB381_1757 ---------------------G---AAGUUU
+CHAB381_0715 ---------------------U---AAAUAC
+CHAB381_0032 ---------------------U---UAUUAA
+CHAB381_1500 ---------------------A---AAAUUU
+CHAB381_0670 -------------------GUU---UAUUUU
+CHAB381_1368 ---------------------U---UAAAAA
+CHAB381_1216 ---------------------U---UAAUGA
+CHAB381_1657 ---------------------U---AAAAAU
+CHAB381_1691 ---------------------C---UUUUUA
+CHAB381_1155 ----------------------C-UUAAUAA
+CHAB381_1554 ---------------------U---U-UUUU
+CHAB381_0332 ---------------------C---UCCUUA
+CHAB381_0110 ---------------------U---AAAUUU
+CHAB381_0255 ---------------------U---GAAUAA
+CHAB381_1235 ---------------------U---AAAUUU
+CHAB381_0498 ---------------------U---UUAUAU
+CHAB381_1562 ---------------------C---U-UUUU
+CHAB381_1194 ---------------------G---A--CCU
+CHAB381_0809 ---------------------U---U--UUU
+CHAB381_0965 ---------------------A---AUUAAU
+CHAB381_1338 ---------------------U---UUUAAA
+CHAB381_1069 ---------------------C---AUUUUU
+CHAB381_1791 ---------------------U---UUAUAU
+CHAB381_1199 ---------------------U---AAAUUU
+CHAB381_0430 ---------------------C---AAGUUU
+CHAB381_0785 ---------------------U---UUUUGC
+CHAB381_0311 ---------------------A---AUUUCA
+CHAB381_0039 ---------------------A---GUUUUA
+CHAB381_0555 ---------------------U---GUUUAU
+CHAB381_1792 ---------------------U---UUGAAU
+CHAB381_0750 ---------------------U---U-AAAU
+CHAB381_0257 ---------------------U---AAGGUU
+CHAB381_0363 ---------------------A---UACUUC
+CHAB381_0449 ---------------------C---C--GAA
+CHAB381_1346 ---------------------U---CAUAAA
+CHAB381_1568 ---------------------U---UUUUUU
+CHAB381_1729 ---------------------U---UUGAAA
+CHAB381_0992 ---------------------G---CUUUAC
+CHAB381_0588 ---------------------G---A--CCU
+CHAB381_1726 ---------------------A---U-AUUU
+CHAB381_0524 ---------------------G---A-----
+CHAB381_0775 ---------------------U---AAAUUA
+CHAB381_1514 ---------------------C---UUUUUU
+CHAB381_1056 ---------------------A---AAUCCA
+CHAB381_1362 ---------------------A---AUAGUA
+CHAB381_0745 ---------------------U---GCUGUA
+CHAB381_0928 ---------------------A---AUUUUA
+CHAB381_1243 ---------------------C---UAUUUU
+CHAB381_1692 ---------------------U---UUGAUU
+CHAB381_0167 A---------------ACAAUU---CAACAU
+CHAB381_0549 ---------------------U---UUUCUU
+CHAB381_0803 ---------------------C---U--GAU
+CHAB381_0438 ---------------------U---U--UUU
+CHAB381_1131 ---------------------U---C-CGCU
+CHAB381_1598 ---------------------G---AAUUUU
+CHAB381_0739 ---------------------U---UUUUUA
+CHAB381_1126 ---------------------U---UUUUAU
+CHAB381_0572 ---------------------U---UUUAAA
+CHAB381_1223 ---------------------A---UUUUAU
+CHAB381_0568 ---------------------C---U-UUUU
+CHAB381_0508 ---------------------U---AAGCAA
+CHAB381_1758 ---------------------U---UCAUUU
+CHAB381_1370 ---------------------C--CU-CGUU
+CHAB381_0004 AAA-----------UCGCAAUU---CCAUUU
+CHAB381_1704 ---------------------A---UACGUU
+CHAB381_0294 ---------------------C---ACACAA
+CHAB381_0491 ---------------------C---AUAAAU
+CHAB381_0217 ---------------------C---U--AUG
+CHAB381_0863 ---------------------A---UCUCGU
+CHAB381_0594 -------------------AUC---AAACAA
+CHAB381_1162 ---------------------A---AAUUUU
+CHAB381_0724 ---------------------U---U--CAA
+CHAB381_0822 ---------------------U---UUGCGA
+CHAB381_1153 ---------------------U---UAUUUU
+CHAB381_0103 ---------------------U---UAGAUU
+CHAB381_0113 ---------------------U---AUAAAA
+CHAB381_1086 ---------------------U---AACUGU
+CHAB381_1579 ---------------------U---U-AACA
+CHAB381_1455 ---------------------U---CAGUUA
+CHAB381_0211 ---------------------A---AAAUCU
+CHAB381_0605 ---------------------G---A--CCU
+CHAB381_1183 ---------------------U---UUUAUA
+CHAB381_0638 ---------------------C---U-UUUU
+CHAB381_1335 ---------------------A---UUUAUU
+CHAB381_1625 ---------------------A---A--UUU
+CHAB381_1512 ---------------------U---UUUAUU
+CHAB381_0561 ------------------ACCU---U--UUU
+CHAB381_0061 ---------------------C---UUAUUU
+CHAB381_1143 ---------------------U---AACGAU
+CHAB381_0115 ---------------------U---UAUUUU
+CHAB381_0810 ---------------------U---UCUUUU
+CHAB381_0238 ---------------------C---U--GAU
+CHAB381_1173 ---------------------U---UUAAUU
+CHAB381_0278 ---------------------U---AUAAAA
+CHAB381_1377 ---------------------A---UUUUAU
+CHAB381_0849 ---------------------U---U-UUUU
+CHAB381_1142 ---------------------U---UUUUUU
+CHAB381_1686 ---------------------C---GUUUUU
+CHAB381_0116 -----------------GGAUU---UACUUG
+CHAB381_0480 ---------------------U---UCACUU
+CHAB381_1139 ---------------------G---UUGAGU
+CHAB381_1222 ---------------------A---UUUAUU
+CHAB381_0723 ---------------------U---UUUUUU
+CHAB381_1451 ---------------------U---UUAUUA
+CHAB381_1708 ---------------------C---U-UUUU
+CHAB381_0768 ---------------------U---UUGGAA
+CHAB381_1601 ---------------------U---CUUUCA
+CHAB381_0912 ---------------------A---UCUAAU
+CHAB381_0109 ---------------------U---AAAUUU
+CHAB381_0733 ---------------------C---U-UUUU
+CHAB381_0673 ---------------------A---UUUUUU
+CHAB381_0323 ---------------------C---UUUUUU
+CHAB381_0751 ---------------------U---UUAAAA
+CHAB381_1236 ---------------------A---A-UUUU
+CHAB381_0597 ---------------------A--GCAUCAA
+CHAB381_0151 ---------------------C---UAUUCU
+CHAB381_1182 ---------------------A--CCGUCUU
+CHAB381_0525 ---------------------U---UGAAUA
+CHAB381_1030 ---------------------C---AAGAUG
+CHAB381_0983 ---------------------U---UUAUUU
+CHAB381_1599 ---------------------U---UUAUUU
+CHAB381_0520 ---------------------A---UAAAGA
+CHAB381_1635 ---------------------C---UUAUAA
+CHAB381_1320 ---------------------U---UUUUUU
+CHAB381_0870 ---------------------A---UUUUUU
+CHAB381_0765 ----------------------------UUA
+CHAB381_0558 ---------------------G---CAAUAA
+CHAB381_0938 ---------------------U---UUAUUA
+CHAB381_0977 ---------------------C---UUAACA
+CHAB381_1292 ---------------------U---ACUUUU
+CHAB381_1487 ---------------------U---AAAUAA
+CHAB381_0154 ---------------------A---UAUUUU
+CHAB381_1783 ---------------------U---U--UAU
+CHAB381_1148 ---------------------A---AAAUAA
+CHAB381_1047 ---------------------C---CUCAAA
+CHAB381_0223 ---------------------C---U--CAU
+CHAB381_1710 ---------------------A---U--CCA
+CHAB381_0937 ---------------------C---CAACUC
+CHAB381_1634 ---------------------U---UUCUCU
+CHAB381_1711 ---------------------U---UUUUAU
+CHAB381_0975 ---------------------U---UUUUUU
+CHAB381_1102 ---------------------U---U--UUA
+CHAB381_0494 ---------------------A---U--UUU
+CHAB381_1504 ---------------------U---UUGAAC
+CHAB381_0906 ---------------------U---UAUUUU
+CHAB381_1461 ---------------------U---G--GUA
+CHAB381_1543 ---------------------U---UUUUUA
+CHAB381_1759 ---------------------U---U--UUA
+CHAB381_1366 ---------------------U---UCGGAA
+CHAB381_1245 ---------------------C---A--UUU
+CHAB381_1345 ---------------------U---AUAAUA
+CHAB381_1002 ---------------------A---UGUAAA
+CHAB381_1122 ---------------------G---UAAUAA
+CHAB381_1167 ---------------------C---UGCGUU
+CHAB381_0717 ---------------------CU-AUCGGUA
+CHAB381_0143 ---------------------U--AUUGGUU
+CHAB381_0516 ---------------------U---UAAUGU
+CHAB381_1709 ---------------------C---U--UAU
+CHAB381_1772 ---------------------U---U--GAA
+CHAB381_1256 ---------------------U---UUUGUU
+CHAB381_0033 ---------------------U---UAAUUA
+CHAB381_1555 ---------------------C---UUAAUA
+CHAB381_0973 ---------------------G---UAUGAU
+CHAB381_0839 ---------------------------UCUU
+CHAB381_0783 ---------------------U---UAUUUG
+CHAB381_1464 ---------------------C---UUAAUA
+CHAB381_1201 -------------------AUC---AAACAA
+CHAB381_1119 ---------------------U---UUCUUC
+CHAB381_1527 ---------------------U---U--UUU
+CHAB381_0643 ---------------------G---GCUUUU
+CHAB381_1785 ---------------------A---AAUUUA
+CHAB381_1620 ---------------------U---UUCUUA
+CHAB381_0132 AAUUUAAUUUCUCGCAAUUACC---GAAUUU
+CHAB381_1169 ---------------------C---G--CGA
+CHAB381_1004 ---------------------U---CUAAAA
+CHAB381_1539 ---------------------G---GCUUUU
+CHAB381_0522 ---------------------U---CUCUUU
+CHAB381_0436 ---------------------------GCAU
+CHAB381_1421 ---------------------U---UUUUAA
+CHAB381_1066 ---------------------U---UUGCCA
+CHAB381_1276 ---------------------A---UUCUAU
+CHAB381_0102 ---------------------U---UGUUCG
+CHAB381_0425 ---------------------G---GAAUAU
+#=GC SS_cons .....................>...>>::::
+#=GC RF      .....................u...UauUUU
+//
